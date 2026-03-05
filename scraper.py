@@ -6,10 +6,9 @@ import time
 import random
 from bs4 import BeautifulSoup
 
-# 大幅拉长超时时间，给国外网站更多时间响应
-socket.setdefaulttimeout(30)
+# 超时时间设短一点，15秒不回话就“分手”，不耽误下一个
+socket.setdefaulttimeout(15)
 
-# 确保这 13 个信源一个不少
 SOURCES = {
     "Nature Careers": "https://www.nature.com/naturecareers/articles.rss",
     "Science Careers": "https://www.science.org/rss/careers.xml",
@@ -27,65 +26,53 @@ SOURCES = {
 }
 
 def run_scraper():
-    structured_data = {}
+    # 1. 先尝试读取现有的数据，实现增量更新
+    try:
+        with open('news.json', 'r', encoding='utf-8') as f:
+            structured_data = json.load(f)
+    except:
+        structured_data = {}
+
     ua_list = [
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-        'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1'
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
     ]
 
     for name, url in SOURCES.items():
-        print(f"正在尝试抓取: {name}")
+        print(f">>> 尝试同步: {name}")
         headers = {'User-Agent': random.choice(ua_list)}
         
         try:
             articles = []
-            # 1. NSFC 特殊解析
+            # 特殊处理 NSFC
             if "nsfc.gov.cn" in url:
-                resp = requests.get(url, headers=headers, timeout=20)
+                resp = requests.get(url, headers=headers, timeout=15)
                 resp.encoding = 'utf-8'
                 soup = BeautifulSoup(resp.text, 'html.parser')
                 links = soup.select(".main-list li a") or soup.select(".list-txt li a")
                 for a in links[:5]:
-                    articles.append({
-                        "title": a.text.strip(),
-                        "link": "https://www.nsfc.gov.cn" + a['href'] if a['href'].startswith('/') else a['href'],
-                        "date": "官方发布",
-                        "summary": "国家自然科学基金委动态。"
-                    })
-            # 2. 其他 RSS 解析
+                    articles.append({"title": a.text.strip(), "link": "https://www.nsfc.gov.cn" + a['href'], "date": "官方发布", "summary": "项目通知。"})
             else:
-                resp = requests.get(url, headers=headers, timeout=25)
-                # 核心：即使返回状态码不是200，也尝试解析已获取的内容
+                # 处理 RSS
+                resp = requests.get(url, headers=headers, timeout=20)
                 feed = feedparser.parse(resp.content)
                 for entry in feed.entries[:5]:
                     dt = entry.get("published_parsed", entry.get("updated_parsed", None))
                     date_str = time.strftime("%Y-%m-%d %H:%M", dt) if dt else "近期"
-                    raw_summary = entry.get("summary", entry.get("description", "点击查看原文"))
-                    # 简单去除 HTML 标签
+                    raw_summary = entry.get("summary", entry.get("description", "查看原文"))
                     clean_summary = BeautifulSoup(raw_summary, "html.parser").get_text()[:120] + "..."
-                    
-                    articles.append({
-                        "title": entry.title,
-                        "link": entry.link,
-                        "date": date_str,
-                        "summary": clean_summary
-                    })
+                    articles.append({"title": entry.title, "link": entry.link, "date": date_str, "summary": clean_summary})
 
             if articles:
                 structured_data[name] = articles
-                print(f"✅ {name} 抓取成功，目前累计板块: {len(structured_data)}")
-            else:
-                print(f"⚠️ {name} 抓取结果为空")
+                # 【核心】：抓完一个存一个，不留遗憾
+                with open('news.json', 'w', encoding='utf-8') as f:
+                    json.dump(structured_data, f, ensure_ascii=False, indent=2)
+                print(f"✅ {name} 成功，目前总计: {len(structured_data)} 个板块")
 
         except Exception as e:
-            # 即使某个报错了，也要记录错误原因，并继续下一个，不要崩溃
-            print(f"❌ {name} 遇到严重错误: {e}")
+            print(f"❌ {name} 失败: {e}，跳过看下一个")
             continue
-
-    # 3. 最终存盘
-    with open('news.json', 'w', encoding='utf-8') as f:
-        json.dump(structured_data, f, ensure_ascii=False, indent=2)
-    print(f"任务结束，共保存 {len(structured_data)} 个信源。")
 
 if __name__ == "__main__":
     run_scraper()
