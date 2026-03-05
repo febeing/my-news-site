@@ -1,4 +1,36 @@
 {
+  "SCMP (南华早报)": [
+    {
+      "title": "Mayweather to fight Pacquiao in long-awaited Las Vegas rematch in September",
+      "link": "https://www.scmp.com/sport/boxing/article/3344390/mayweather-fight-pacquiao-long-awaited-las-vegas-rematch-september?utm_source=rss_feed",
+      "date": "2026-02-24 00:45",
+      "summary": "Floyd Mayweather and Manny Pacquiao will meet in a long-awaited rematch of the highest-grossing clash in boxing history this September at the Sphere i..."
+    },
+    {
+      "title": "Manny Pacquiao returns to Las Vegas ring for 10-round exhibition fight against Provodnikov",
+      "link": "https://www.scmp.com/sport/boxing/article/3343867/manny-pacquiao-returns-las-vegas-ring-10-round-exhibition-fight-against-provodnikov?utm_source=rss_feed",
+      "date": "2026-02-18 03:40",
+      "summary": "Manny Pacquiao isn’t done with boxing yet and will return to the ring on April 18 to face former junior welterweight world champion Ruslan Provodnikov..."
+    },
+    {
+      "title": "Anthony Joshua returns to gym following car crash that killed two of his close friends",
+      "link": "https://www.scmp.com/sport/boxing/article/3340154/anthony-joshua-returns-gym-following-car-crash-killed-two-his-close-friends?utm_source=rss_feed",
+      "date": "2026-01-16 11:00",
+      "summary": "Anthony Joshua has returned to the gym as he continues his recovery from a car crash which killed two of his close friends.\nThe former world heavyweig..."
+    },
+    {
+      "title": "Muhammad Ali’s legacy lives on with new US postage stamp, nearly a decade after his death",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3339636/muhammad-alis-legacy-lives-new-us-postage-stamp-nearly-decade-after-his-death?utm_source=rss_feed",
+      "date": "2026-01-12 16:00",
+      "summary": "Muhammad Ali once joked that he should be a postage stamp because “that’s the only way I’ll ever get licked”.\nNow, the three-time heavyweight champion..."
+    },
+    {
+      "title": "Tyson Fury announces return from retirement, ready to ‘punch men in the face, get paid for it’",
+      "link": "https://www.scmp.com/sport/boxing/article/3338685/tyson-fury-announces-return-retirement-ready-punch-men-face-get-paid-it?utm_source=rss_feed",
+      "date": "2026-01-04 12:59",
+      "summary": "Tyson Fury has said he will return to boxing in 2026 nearly a year after he announced his latest retirement from the ring.\nAfter a second points loss ..."
+    }
+  ],
   "Retraction Watch": [
     {
       "title": "Controversial comet theory struck by two new retractions",
@@ -29,38 +61,6 @@
       "link": "https://retractionwatch.com/2026/02/27/researcher-honestly-shocked-to-discover-name-on-paper-editor-claims-misunderstanding/",
       "date": "2026-02-27 20:00",
       "summary": "While reviewing her Google Scholar profile to prepare a list of her publications, psychologist Maryam Farhang came across a paper she didn’t recognize..."
-    }
-  ],
-  "The Guardian Education": [
-    {
-      "title": "‘Apartheid newsroom’: minority ethnic journalists still locked out of top jobs, report finds",
-      "link": "https://www.theguardian.com/media/2026/mar/04/journalism-minority-newsroom-jobs-report",
-      "date": "2026-03-04 13:32",
-      "summary": "<p>Exclusive: Survey suggests journalists from minority ethnic backgrounds feel excluded from influential posts and seen as ‘diversity hires’</p><p>Br..."
-    },
-    {
-      "title": "Schools in England sidelining dressing-up for World Book Day, MPs hear",
-      "link": "https://www.theguardian.com/education/2026/mar/03/schools-england-dressing-up-world-book-day-mps-",
-      "date": "2026-03-03 18:11",
-      "summary": "<p>Literacy experts say move comes over cost concerns and fears costumes can detract from reading for pleasure</p><p>Schools in England are moving awa..."
-    },
-    {
-      "title": "Telegraph censured for story of fictional family’s struggle to pay school fees",
-      "link": "https://www.theguardian.com/media/2026/mar/03/telegraph-censured-fabricated-story-banker-struggle-pay-school-fees",
-      "date": "2026-03-03 15:56",
-      "summary": "<p>Watchdog upholds complaint it breached code with article about impact of VAT on banker who did not exist</p><p>The Telegraph has been reprimanded b..."
-    },
-    {
-      "title": "Schools are using AI counselors to track students’ mental health. Is it safe?",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/mar/03/schools-student-ai-counselor",
-      "date": "2026-03-03 13:00",
-      "summary": "<p>As hundreds of schools implement an automated monitoring tool, educators say that students can find talking to a chatbot ‘more natural’ than confid..."
-    },
-    {
-      "title": "Welsh ‘revolution’ required to hit target of 1m speakers by 2050, says report",
-      "link": "https://www.theguardian.com/uk-news/2026/mar/03/welsh-language-revolution-required-hit-target-million-speakers-2050",
-      "date": "2026-03-03 06:00",
-      "summary": "<p>Welsh language commissioner calls for ‘transformative’ intervention, amid Reform UK threats to undo new powers</p><p>A “revolution is required” to ..."
     }
   ],
   "Science News": [
@@ -95,68 +95,36 @@
       "summary": "Many programs may be pushed into the next fiscal year, and some could face funding gaps..."
     }
   ],
-  "The Crimson": [
+  "The Guardian Education": [
     {
-      "title": "Harvard, Custodial Union Reach Tentative Agreement on Four-Year Contract After Five Months of Negotiations",
-      "link": "http://www.thecrimson.com/article/2026/3/5/32bj-tentative-agreement-with-harvard/",
-      "date": "近期发布",
-      "summary": "Harvard’s custodial union reached a tentative agreement with the University on a four-year contract Tuesday evening, ending nearly five months of frau..."
+      "title": "‘Apartheid newsroom’: minority ethnic journalists still locked out of top jobs, report finds",
+      "link": "https://www.theguardian.com/media/2026/mar/04/journalism-minority-newsroom-jobs-report",
+      "date": "2026-03-04 13:32",
+      "summary": "<p>Exclusive: Survey suggests journalists from minority ethnic backgrounds feel excluded from influential posts and seen as ‘diversity hires’</p><p>Br..."
     },
     {
-      "title": "FAS Slashes Non-Tenure-Track Faculty Budgets By 25% Amid Financial Strain",
-      "link": "http://www.thecrimson.com/article/2026/3/3/non-tenure-track-budget-cuts/",
-      "date": "近期发布",
-      "summary": "The Faculty of Arts and Sciences will reduce spending on non-tenure-track faculty by 25 percent across all three of its academic divisions, according ..."
+      "title": "Schools in England sidelining dressing-up for World Book Day, MPs hear",
+      "link": "https://www.theguardian.com/education/2026/mar/03/schools-england-dressing-up-world-book-day-mps-",
+      "date": "2026-03-03 18:11",
+      "summary": "<p>Literacy experts say move comes over cost concerns and fears costumes can detract from reading for pleasure</p><p>Schools in England are moving awa..."
     },
     {
-      "title": "HKS Offers Military Applicants Four-Year Deferral, Expedited Review at Other Schools After Pentagon Directive",
-      "link": "http://www.thecrimson.com/article/2026/3/5/hks-contingency-pentagon-order/",
-      "date": "近期发布",
-      "summary": "The Harvard Kennedy School will allow accepted active-duty military students to defer enrollment for up to four years or pursue expedited admissions r..."
+      "title": "Telegraph censured for story of fictional family’s struggle to pay school fees",
+      "link": "https://www.theguardian.com/media/2026/mar/03/telegraph-censured-fabricated-story-banker-struggle-pay-school-fees",
+      "date": "2026-03-03 15:56",
+      "summary": "<p>Watchdog upholds complaint it breached code with article about impact of VAT on banker who did not exist</p><p>The Telegraph has been reprimanded b..."
     },
     {
-      "title": "HMS Professor, Israeli Theatre Director Reflect on Cross-Conflict Friendship  at HKS Panel",
-      "link": "http://www.thecrimson.com/article/2026/3/4/friendship-across-conflict-lines/",
-      "date": "近期发布",
-      "summary": "A Palestinian-American Harvard physician and an Israeli-American theater director said at a Harvard Kennedy School event Tuesday that their friendship..."
+      "title": "Schools are using AI counselors to track students’ mental health. Is it safe?",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/mar/03/schools-student-ai-counselor",
+      "date": "2026-03-03 13:00",
+      "summary": "<p>As hundreds of schools implement an automated monitoring tool, educators say that students can find talking to a chatbot ‘more natural’ than confid..."
     },
     {
-      "title": "Harvard, HAW-UAW Reach Deal on Intellectual Property but Clash on Time Caps, Immigration",
-      "link": "http://www.thecrimson.com/article/2026/3/4/haw-intellectual-property-protections/",
-      "date": "近期发布",
-      "summary": "Harvard reached a tentative agreement on Tuesday to enshrine intellectual property protections for non-tenure-track faculty in its first union contrac..."
-    }
-  ],
-  "VnExpress": [
-    {
-      "title": "Vietnamese 8th grader scores near perfect to win bronze at world AI Olympiad for high school students",
-      "link": "https://e.vnexpress.net/news/news/education/vietnamese-8th-grader-scores-near-perfect-to-win-bronze-at-world-ai-olympiad-for-high-school-students-5046748.html",
-      "date": "2026-03-05 03:10",
-      "summary": "<a href=\"https://e.vnexpress.net/news/news/education/vietnamese-8th-grader-scores-near-perfect-to-win-bronze-at-world-ai-olympiad-for-high-school-stud..."
-    },
-    {
-      "title": "Foreigners using fake police uniforms to scam victims in Japan arrested in Hanoi",
-      "link": "https://e.vnexpress.net/news/news/crime/foreigners-using-fake-police-uniforms-to-scam-victims-in-japan-arrested-in-hanoi-5046593.html",
-      "date": "2026-03-05 02:11",
-      "summary": "<a href=\"https://e.vnexpress.net/news/news/crime/foreigners-using-fake-police-uniforms-to-scam-victims-in-japan-arrested-in-hanoi-5046593.html\"><img s..."
-    },
-    {
-      "title": "Tons of debris dumped at Vietnamese beach that draws 2 million tourists a year",
-      "link": "https://e.vnexpress.net/news/news/environment/tons-of-debris-dumped-at-vietnamese-beach-that-draws-2-million-tourists-a-year-5046660.html",
-      "date": "2026-03-05 01:15",
-      "summary": "<a href=\"https://e.vnexpress.net/news/news/environment/tons-of-debris-dumped-at-vietnamese-beach-that-draws-2-million-tourists-a-year-5046660.html\"><i..."
-    },
-    {
-      "title": "160 Vietnamese sailors on 8 ships trapped in the Persian Gulf as Hormuz shuts down",
-      "link": "https://e.vnexpress.net/news/news/160-vietnamese-sailors-on-8-ships-trapped-in-the-persian-gulf-as-hormuz-shuts-down-5046671.html",
-      "date": "2026-03-04 23:26",
-      "summary": "<a href=\"https://e.vnexpress.net/news/news/160-vietnamese-sailors-on-8-ships-trapped-in-the-persian-gulf-as-hormuz-shuts-down-5046671.html\"><img src=\"..."
-    },
-    {
-      "title": "Ho Chi Minh City banh mi shop sends 54 to hospital in latest mass poisoning",
-      "link": "https://e.vnexpress.net/news/news/ho-chi-minh-city-banh-mi-shop-sends-54-to-hospital-in-latest-mass-poisoning-5046734.html",
-      "date": "2026-03-04 23:14",
-      "summary": "<a href=\"https://e.vnexpress.net/news/news/ho-chi-minh-city-banh-mi-shop-sends-54-to-hospital-in-latest-mass-poisoning-5046734.html\"><img src=\"https:/..."
+      "title": "Welsh ‘revolution’ required to hit target of 1m speakers by 2050, says report",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/03/welsh-language-revolution-required-hit-target-million-speakers-2050",
+      "date": "2026-03-03 06:00",
+      "summary": "<p>Welsh language commissioner calls for ‘transformative’ intervention, amid Reform UK threats to undo new powers</p><p>A “revolution is required” to ..."
     }
   ],
   "New Scientist": [
@@ -191,69 +159,36 @@
       "summary": "Microplastics have been found accumulating everywhere from our water to our body tissues, but many of the claims have come under fresh scrutiny. Chels..."
     }
   ],
-  "Higher Ed Dive": [
+  "VnExpress": [
     {
-      "title": "USC, Southwest Minnesota State elevate interim leaders to permanent spots",
-      "link": "https://www.highereddive.com/news/usc-southwest-minnesota-state-elevate-interim-leaders-to-permanent-spots/813674/",
-      "date": "2026-03-04 10:00",
-      "summary": "<p>From West Virginia to California, February brought a wave of colleges appointing new presidents.</p>..."
+      "title": "Vietnamese 8th grader scores near perfect to win bronze at world AI Olympiad for high school students",
+      "link": "https://e.vnexpress.net/news/news/education/vietnamese-8th-grader-scores-near-perfect-to-win-bronze-at-world-ai-olympiad-for-high-school-students-5046748.html",
+      "date": "2026-03-05 03:10",
+      "summary": "<a href=\"https://e.vnexpress.net/news/news/education/vietnamese-8th-grader-scores-near-perfect-to-win-bronze-at-world-ai-olympiad-for-high-school-stud..."
     },
     {
-      "title": "Education Department urged to broaden ‘professional’ student definition",
-      "link": "https://www.highereddive.com/news/education-department-loan-caps-professional-definition-public-comments/813628/",
-      "date": "2026-03-03 16:38",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/WpquLSPqokFjdAdd42PpZThTQp39JNmRhTq-2gGakWA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2..."
+      "title": "Foreigners using fake police uniforms to scam victims in Japan arrested in Hanoi",
+      "link": "https://e.vnexpress.net/news/news/crime/foreigners-using-fake-police-uniforms-to-scam-victims-in-japan-arrested-in-hanoi-5046593.html",
+      "date": "2026-03-05 02:11",
+      "summary": "<a href=\"https://e.vnexpress.net/news/news/crime/foreigners-using-fake-police-uniforms-to-scam-victims-in-japan-arrested-in-hanoi-5046593.html\"><img s..."
     },
     {
-      "title": "How 3 college administrators are tackling higher education disruption",
-      "link": "https://www.highereddive.com/news/how-3-college-administrators-are-tackling-higher-education-disruption/813556/",
-      "date": "2026-03-03 10:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/uFvrjn56f0n5Sc19HVAPaH6tAEavqGjOQBJKXHt7qnw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2..."
+      "title": "Tons of debris dumped at Vietnamese beach that draws 2 million tourists a year",
+      "link": "https://e.vnexpress.net/news/news/environment/tons-of-debris-dumped-at-vietnamese-beach-that-draws-2-million-tourists-a-year-5046660.html",
+      "date": "2026-03-05 01:15",
+      "summary": "<a href=\"https://e.vnexpress.net/news/news/environment/tons-of-debris-dumped-at-vietnamese-beach-that-draws-2-million-tourists-a-year-5046660.html\"><i..."
     },
     {
-      "title": "Indiana bill would eliminate ‘low earning’ degrees",
-      "link": "https://www.highereddive.com/news/indiana-bill-would-eliminate-low-earning-degrees/813517/",
-      "date": "2026-03-02 17:47",
-      "summary": "<p>The proposal now heads to Republican Gov. Mike Braun&rsquo;s desk and&nbsp;would take effect July 1 if he signs off on it.</p>..."
+      "title": "160 Vietnamese sailors on 8 ships trapped in the Persian Gulf as Hormuz shuts down",
+      "link": "https://e.vnexpress.net/news/news/160-vietnamese-sailors-on-8-ships-trapped-in-the-persian-gulf-as-hormuz-shuts-down-5046671.html",
+      "date": "2026-03-04 23:26",
+      "summary": "<a href=\"https://e.vnexpress.net/news/news/160-vietnamese-sailors-on-8-ships-trapped-in-the-persian-gulf-as-hormuz-shuts-down-5046671.html\"><img src=\"..."
     },
     {
-      "title": "Week in Review: The University of California braces for another federal fight",
-      "link": "https://www.highereddive.com/news/doj-lawsuit-ucla-dei-education-department-agreements/813397/",
-      "date": "2026-03-02 10:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/TvuNXguwWSqs_qjiln3Hsfz8dTmLUwXLP4fLgzdVVfc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2..."
+      "title": "Ho Chi Minh City banh mi shop sends 54 to hospital in latest mass poisoning",
+      "link": "https://e.vnexpress.net/news/news/ho-chi-minh-city-banh-mi-shop-sends-54-to-hospital-in-latest-mass-poisoning-5046734.html",
+      "date": "2026-03-04 23:14",
+      "summary": "<a href=\"https://e.vnexpress.net/news/news/ho-chi-minh-city-banh-mi-shop-sends-54-to-hospital-in-latest-mass-poisoning-5046734.html\"><img src=\"https:/..."
     }
-  ],
-  "The College Fix": [
-    {
-      "title": "Video: UCSF staffer allegedly threatens to ‘hunt’ down and ‘kill’ conservative activist",
-      "link": "https://www.thecollegefix.com/video-ucsf-staffer-allegedly-threatens-to-hunt-down-and-kill-conservative-activist/",
-      "date": "2026-03-04 05:04",
-      "summary": "A woman who is believed to be a UC San Francisco employee allegedly threatened to \"hunt\" down and \"kill\" conservative activist Beth Bourne who was pro..."
-    },
-    {
-      "title": "Georgia U. is seeking ‘Abrahamic studies’ scholar to teach ‘feminist,’ ‘queer perspectives’",
-      "link": "https://www.thecollegefix.com/georgia-u-is-seeking-abrahamic-studies-scholar-to-teach-feminist-queer-perspectives/",
-      "date": "2026-03-04 05:04",
-      "summary": "One of Georgia's public universities is seeking a scholar for \"Abrahamic studies\" who can teach from \"feminist and queer perspectives.\"..."
-    },
-    {
-      "title": "Colorado queer studies professor resigns after told to remain ‘neutral’ in class",
-      "link": "https://www.thecollegefix.com/colorado-queer-studies-professor-resigns-after-told-to-remain-neutral-in-class/",
-      "date": "2026-03-04 05:03",
-      "summary": "'Education is never neutral,' scholar wrote in announcing resignation...."
-    },
-    {
-      "title": "What do people on Capitol Hill think of the SOTU? We asked.",
-      "link": "https://www.thecollegefix.com/what-do-people-on-capitol-hill-think-of-the-sotu-we-asked/",
-      "date": "2026-03-04 05:00",
-      "summary": "The College Fix's Pride Haggerty visited Capitol Hill to ask people what they thought of Trump State of the Union Address...."
-    },
-    {
-      "title": "Judge overturns Columbia’s discipline of students who occupied building",
-      "link": "https://www.thecollegefix.com/judge-overturns-columbias-discipline-of-students-who-occupied-building/",
-      "date": "2026-03-03 21:20",
-      "summary": "The New York Supreme Court ruled Friday against Columbia University’s decision to discipline student activists who occupied a building on campus, as t..."
-    }
-  ],
-  "NSFC (自然科学基金委)": []
+  ]
 }
