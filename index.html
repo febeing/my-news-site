@@ -3,52 +3,86 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>全球学术动态聚合</title>
+    <title>学术情报聚合站</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* 定义高亮样式：亮黄色背景 + 红色文字 + 加粗 */
+        .highlight {
+            background-color: #fef08a;
+            color: #b91c1c;
+            font-weight: bold;
+            padding: 0 2px;
+            border-radius: 2px;
+        }
+    </style>
 </head>
-<body class="bg-slate-50 min-h-screen">
-    <div class="max-w-6xl mx-auto px-4 py-10">
-        <header class="text-center mb-16">
-            <h1 class="text-4xl font-extrabold text-slate-900 mb-4 tracking-tight">全球高校与科研资讯聚合</h1>
-            <p id="update-time" class="text-slate-500 font-mono text-sm"></p>
+<body class="bg-slate-50 min-h-screen font-sans">
+    <div class="max-w-7xl mx-auto px-4 py-10">
+        <header class="text-center mb-12">
+            <h1 class="text-4xl font-black text-slate-900 mb-4 tracking-tight">全球高校与科研资讯聚合</h1>
+            <p id="update-time" class="text-slate-400 font-mono text-sm uppercase tracking-widest"></p>
         </header>
 
-        <div id="board" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            <div class="col-span-full text-center py-20 text-slate-400">正在拼命加载各路信源...</div>
+        <div id="board" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <div class="col-span-full text-center py-20 text-slate-400 animate-pulse">
+                正在深度扫描全球学术动态...
+            </div>
         </div>
     </div>
 
     <script>
-        fetch('news.json?t=' + new Date().getTime()).then(res => res.json()).then(data => {
-            const board = document.getElementById('board');
-            board.innerHTML = ''; // 清空加载提示
-            
-            document.getElementById('update-time').innerText = 'LAST UPDATED: ' + new Date().toLocaleString();
+        // 需要高亮的关键词列表
+        const keywords = ["科学家", "教授", "大学", "高校", "博士", "硕士", "硕博", "研究员", "院士", "撤稿", "科研", "论文", "成果"];
 
-            // 遍历每个信源板块
-            for (const [sourceName, articles] of Object.entries(data)) {
-                const section = document.createElement('div');
-                section.className = "bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden flex flex-col";
-                
-                section.innerHTML = `
-                    <div class="bg-slate-900 px-4 py-2 text-white font-bold text-sm tracking-widest uppercase">
-                        ${sourceName}
-                    </div>
-                    <div class="p-4 flex-1 space-y-6">
-                        ${articles.map(art => `
-                            <div class="group border-b border-slate-100 last:border-0 pb-4 last:pb-0">
-                                <span class="text-[10px] font-bold text-blue-500 uppercase">${art.date}</span>
-                                <h3 class="text-md font-bold text-slate-800 group-hover:text-blue-600 transition-colors mb-2">
-                                    <a href="${art.link}" target="_blank">${art.title}</a>
-                                </h3>
-                                <p class="text-sm text-slate-600 leading-relaxed">${art.summary}</p>
-                            </div>
-                        `).join('')}
-                    </div>
-                `;
-                board.appendChild(section);
-            }
-        });
+        // 高亮函数：将文本中的关键词替换为带样式的标签
+        function highlightText(text) {
+            if (!text) return "";
+            let highlighted = text;
+            keywords.forEach(word => {
+                const reg = new RegExp(word, 'g');
+                highlighted = highlighted.replace(reg, `<span class="highlight">${word}</span>`);
+            });
+            return highlighted;
+        }
+
+        fetch('news.json?t=' + new Date().getTime())
+            .then(res => res.json())
+            .then(data => {
+                const board = document.getElementById('board');
+                board.innerHTML = ''; 
+                document.getElementById('update-time').innerText = 'Last Sync: ' + new Date().toLocaleString();
+
+                for (const [sourceName, articles] of Object.entries(data)) {
+                    const section = document.createElement('div');
+                    section.className = "bg-white rounded-xl shadow-sm border border-slate-200 flex flex-col hover:border-blue-300 transition-all";
+                    
+                    section.innerHTML = `
+                        <div class="bg-slate-800 px-4 py-3 text-white font-bold text-xs tracking-widest uppercase flex justify-between items-center">
+                            <span>${sourceName}</span>
+                            <span class="opacity-50 text-[10px]">${articles.length} POSTS</span>
+                        </div>
+                        <div class="p-4 flex-1 space-y-6 overflow-y-auto max-h-[600px]">
+                            ${articles.map(art => `
+                                <div class="group border-b border-slate-100 last:border-0 pb-4 last:pb-0">
+                                    <div class="flex justify-between items-center mb-2">
+                                        <span class="text-[10px] font-bold text-blue-500 uppercase tracking-tighter">${art.date}</span>
+                                    </div>
+                                    <h3 class="text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors mb-2 leading-snug">
+                                        <a href="${art.link}" target="_blank">${art.title}</a>
+                                    </h3>
+                                    <p class="text-xs text-slate-600 leading-relaxed text-justify">
+                                        ${highlightText(art.summary)}
+                                    </p>
+                                </div>
+                            `).join('')}
+                        </div>
+                    `;
+                    board.appendChild(section);
+                }
+            })
+            .catch(err => {
+                document.getElementById('board').innerHTML = `<div class="col-span-full text-center text-red-400">数据加载失败，请检查 Action 运行状态</div>`;
+            });
     </script>
 </body>
 </html>
