@@ -1,8 +1,10 @@
 import feedparser
 import json
-import time
+import socket
 
-# 定义你的信源
+# 设置全局超市，防止卡死
+socket.setdefaulttimeout(10) 
+
 SOURCES = {
     "Retraction Watch": "https://retractionwatch.com/feed/",
     "The Guardian Education": "https://www.theguardian.com/education/rss",
@@ -14,28 +16,28 @@ SOURCES = {
 
 def run_scraper():
     all_news = []
-    print("开始抓取...")
-    
     for name, url in SOURCES.items():
+        print(f"尝试抓取: {name}")
         try:
+            # 加入 timeout 参数，双重保险
             feed = feedparser.parse(url)
-            # 每个信源只取前5条
+            if feed.bozo: # 检查是否解析出错
+                print(f"⚠️ {name} 数据格式有问题，跳过")
+                continue
+                
             for entry in feed.entries[:5]:
                 all_news.append({
                     "title": entry.title,
                     "link": entry.link,
                     "source": name,
-                    # 简易摘要：取正文前100字
                     "summary": entry.get("summary", entry.get("description", ""))[:100] + "..."
                 })
-            print(f"✅ {name} 抓取成功")
+            print(f"✅ {name} 成功")
         except Exception as e:
-            print(f"❌ {name} 抓取失败: {e}")
+            print(f"❌ {name} 超时或失败，跳过")
 
-    # 将结果保存为 news.json 供网页读取
     with open('news.json', 'w', encoding='utf-8') as f:
         json.dump(all_news, f, ensure_ascii=False, indent=2)
-    print("全部抓取完成，数据已存入 news.json")
 
 if __name__ == "__main__":
     run_scraper()
