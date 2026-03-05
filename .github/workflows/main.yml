@@ -1,26 +1,31 @@
 name: Hourly Update
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch: 
+    - cron: '0 * * * *'  # 每小时运行一次
+  workflow_dispatch:      # 允许手动触发
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+          
       - name: Install dependencies
         run: pip install feedparser requests beautifulsoup4
+        
       - name: Run Scraper
         run: python scraper.py
-      - name: Commit and Push
+        
+      - name: Commit and Push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add news.json
-          git commit -m "AI 翻译更新" || exit 0
+          # 如果文件没变化，git commit 会报错，这里加个 || exit 0 防止流程显示失败
+          git commit -m "自动更新新闻数据" || exit 0
           git push
