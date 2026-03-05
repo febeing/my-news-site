@@ -6,7 +6,7 @@ import time
 import random
 from bs4 import BeautifulSoup
 
-# 超时时间设短一点，15秒不回话就“分手”，不耽误下一个
+# 超时缩短，快速跳过不响应的
 socket.setdefaulttimeout(15)
 
 SOURCES = {
@@ -26,25 +26,21 @@ SOURCES = {
 }
 
 def run_scraper():
-    # 1. 先尝试读取现有的数据，实现增量更新
-    try:
-        with open('news.json', 'r', encoding='utf-8') as f:
-            structured_data = json.load(f)
-    except:
-        structured_data = {}
-
+    # 核心修正：初始化一个空的字典来装载所有成功的信源
+    all_results = {}
+    
     ua_list = [
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
         'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
     ]
 
     for name, url in SOURCES.items():
-        print(f">>> 尝试同步: {name}")
+        print(f">>> 正在处理: {name}")
         headers = {'User-Agent': random.choice(ua_list)}
         
         try:
             articles = []
-            # 特殊处理 NSFC
+            # 1. NSFC 特殊处理
             if "nsfc.gov.cn" in url:
                 resp = requests.get(url, headers=headers, timeout=15)
                 resp.encoding = 'utf-8'
@@ -52,9 +48,9 @@ def run_scraper():
                 links = soup.select(".main-list li a") or soup.select(".list-txt li a")
                 for a in links[:5]:
                     articles.append({"title": a.text.strip(), "link": "https://www.nsfc.gov.cn" + a['href'], "date": "官方发布", "summary": "项目通知。"})
+            # 2. RSS 处理
             else:
-                # 处理 RSS
-                resp = requests.get(url, headers=headers, timeout=20)
+                resp = requests.get(url, headers=headers, timeout=15)
                 feed = feedparser.parse(resp.content)
                 for entry in feed.entries[:5]:
                     dt = entry.get("published_parsed", entry.get("updated_parsed", None))
@@ -63,16 +59,25 @@ def run_scraper():
                     clean_summary = BeautifulSoup(raw_summary, "html.parser").get_text()[:120] + "..."
                     articles.append({"title": entry.title, "link": entry.link, "date": date_str, "summary": clean_summary})
 
+            # 如果抓到了内容，就存进总字典
             if articles:
-                structured_data[name] = articles
-                # 【核心】：抓完一个存一个，不留遗憾
-                with open('news.json', 'w', encoding='utf-8') as f:
-                    json.dump(structured_data, f, ensure_ascii=False, indent=2)
-                print(f"✅ {name} 成功，目前总计: {len(structured_data)} 个板块")
+                all_results[name] = articles
+                print(f"✅ {name} 成功！当前累计有效板块数: {len(all_results)}")
+            else:
+                print(f"⚠️ {name} 没抓到内容")
 
         except Exception as e:
-            print(f"❌ {name} 失败: {e}，跳过看下一个")
+            print(f"❌ {name} 失败: {e}")
             continue
+
+    # 3. 循环结束后，一次性写入文件
+    print(f"--- 抓取结束，准备保存 ---")
+    print(f"最终成功板块列表: {list(all_results.keys())}")
+    
+    with open('news.json', 'w', encoding='utf-8') as f:
+        json.dump(all_results, f, ensure_ascii=False, indent=2)
+    
+    print(f"文件写入完成，共计 {len(all_results)} 个板块。")
 
 if __name__ == "__main__":
     run_scraper()
