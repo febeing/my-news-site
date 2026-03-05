@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学术动态聚合</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 py-10">
+    <div class="max-w-3xl mx-auto px-4">
+        <h1 class="text-3xl font-bold text-center mb-8 text-blue-900">大学与科研新闻聚合</h1>
+        <div id="content" class="space-y-4">正在努力加载最新新闻...</div>
+    </div>
+    <script>
+        fetch('news.json').then(res => res.json()).then(data => {
+            document.getElementById('content').innerHTML = data.map(n => `
+                <div class="bg-white p-6 rounded shadow-sm">
+                    <h2 class="text-xl font-bold mb-2">${n.title}</h2>
+                    <p class="text-gray-600 mb-4">${n.summary}</p>
+                    <div class="text-sm text-blue-500 font-medium">来源：${n.source}</div>
+                    <a href="${n.link}" target="_blank" class="text-xs text-gray-400 underline italic">查看原文</a>
+                </div>
+            `).join('');
+        }).catch(() => { 
+            document.getElementById('content').innerHTML = '<div class="text-center p-10 bg-white rounded">数据正在生成中...<br>请在配置完机器人后等待几分钟。</div>'; 
+        });
+    </script>
+</body>
+</html>
