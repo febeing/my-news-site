@@ -1,19 +1,91 @@
-// 使用相对路径，增加错误提示
-fetch('news.json?v=' + Date.now())
-    .then(res => {
-        if (!res.ok) throw new Error('找不到数据文件 news.json');
-        return res.json();
-    })
-    .then(data => {
-        // ... 原有的渲染逻辑 ...
-        console.log("数据加载成功:", data);
-    })
-    .catch(err => {
-        console.error(err);
-        document.getElementById('board').innerHTML = `
-            <div class="col-span-full text-center py-20 text-red-500">
-                <p class="font-bold text-xl">⚠️ 无法加载新闻数据</p>
-                <p class="text-sm mt-2">原因：${err.message}</p>
-                <p class="text-xs text-gray-400 mt-4">请检查仓库中是否存在 news.json 且内容不为空</p>
-            </div>`;
-    });
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>全球学术情报站</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .highlight { background-color: #fef08a; color: #b91c1c; font-weight: bold; padding: 0 2px; border-radius: 2px; }
+        .source-card { height: 100%; display: flex; flex-direction: column; }
+    </style>
+</head>
+<body class="bg-slate-50 min-h-screen">
+    <div class="max-w-7xl mx-auto px-4 py-10">
+        <header class="text-center mb-12">
+            <h1 class="text-4xl font-black text-slate-900 mb-4 tracking-tight">全球高校与科研资讯聚合</h1>
+            <p id="update-time" class="text-slate-400 font-mono text-sm uppercase tracking-widest">正在检查数据状态...</p>
+        </header>
+
+        <div id="board" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <div class="col-span-full text-center py-20 text-slate-400 animate-pulse text-lg">
+                正在加载最新科研情报...
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const keywords = ["科学家", "教授", "大学", "高校", "博士", "院士", "撤稿", "科研", "成果", "Scientist", "Professor", "University", "College", "PhD", "Doctor", "Research", "Retraction"];
+
+        function highlightText(text) {
+            if (!text) return "";
+            let highlighted = text;
+            keywords.forEach(word => {
+                const reg = new RegExp(word, 'gi'); // 'gi' 表示全局匹配且不区分大小写
+                highlighted = highlighted.replace(reg, matched => `<span class="highlight">${matched}</span>`);
+            });
+            return highlighted;
+        }
+
+        // 使用 Date.now() 强制跳过缓存
+        fetch('news.json?v=' + Date.now())
+            .then(res => {
+                if (!res.ok) throw new Error('无法连接到数据文件');
+                return res.json();
+            })
+            .then(data => {
+                const board = document.getElementById('board');
+                board.innerHTML = ''; 
+                document.getElementById('update-time').innerText = 'Last Updated: ' + new Date().toLocaleString();
+
+                if (Object.keys(data).length === 0) {
+                    board.innerHTML = '<div class="col-span-full text-center py-20">数据为空，请检查爬虫状态。</div>';
+                    return;
+                }
+
+                for (const [sourceName, articles] of Object.entries(data)) {
+                    const section = document.createElement('div');
+                    section.className = "bg-white rounded-xl shadow-sm border border-slate-200 flex flex-col hover:border-blue-400 transition-all";
+                    
+                    section.innerHTML = `
+                        <div class="bg-slate-800 px-4 py-3 text-white font-bold text-xs tracking-widest uppercase">
+                            ${sourceName}
+                        </div>
+                        <div class="p-4 flex-1 space-y-4 overflow-y-auto max-h-[500px]">
+                            ${articles.map(art => `
+                                <div class="border-b border-slate-100 last:border-0 pb-4 last:pb-0">
+                                    <div class="text-[10px] font-bold text-blue-500 mb-1">${art.date}</div>
+                                    <h3 class="text-sm font-bold text-slate-900 hover:text-blue-600 mb-2 leading-snug">
+                                        <a href="${art.link}" target="_blank">${highlightText(art.title)}</a>
+                                    </h3>
+                                    <p class="text-[11px] text-slate-500 leading-relaxed">
+                                        ${highlightText(art.summary)}
+                                    </p>
+                                </div>
+                            `).join('')}
+                        </div>
+                    `;
+                    board.appendChild(section);
+                }
+            })
+            .catch(err => {
+                console.error(err);
+                document.getElementById('board').innerHTML = `
+                    <div class="col-span-full text-center py-20 text-red-500">
+                        <p class="text-xl font-bold">无法显示新闻</p>
+                        <p class="text-sm mt-2">错误原因：${err.message}</p>
+                    </div>`;
+            });
+    </script>
+</body>
+</html>
