@@ -4,39 +4,41 @@ import socket
 import os
 import requests
 import time
+from bs4 import BeautifulSoup
 
 # 设置全局超时
 socket.setdefaulttimeout(30)
 
-# 1. 这里就是你以后增加新信源的地方
+# 全量信源字典
 SOURCES = {
+    "Nature Careers": "https://www.nature.com/naturecareers/articles.rss",
+    "Science Careers": "https://www.science.org/rss/careers.xml",
+    "SCMP (南华早报)": "https://www.scmp.com/rss/318217/feed",
+    "Reuters AI (路透社)": "https://www.reuters.com/arc/outboundfeeds/v1/topic/technology/artificial-intelligence/?size=10",
+    "联合早报 (实时)": "https://www.zaobao.com.sg/realtime/rss",
     "Retraction Watch": "https://retractionwatch.com/feed/",
-    "The Guardian Education": "https://www.theguardian.com/education/rss",
     "Science News": "https://www.science.org/rss/news_current.xml",
     "Scientific American": "https://www.scientificamerican.com/latest/rss",
     "Inside Higher Ed": "https://www.insidehighered.com/feed",
-    "The Crimson": "https://www.thecrimson.com/feeds/section/news/",
-    "VnExpress": "https://e.vnexpress.net/rss/news.rss",
+    "NSFC (自然科学基金委)": "https://www.nsfc.gov.cn/p1/3381/2822/tzsm1.html",
+    "The Guardian Education": "https://www.theguardian.com/education/rss",
     "New Scientist": "https://www.newscientist.com/section/news/feed/",
-    "Higher Ed Dive": "https://www.highereddive.com/feeds/news/",
-    "The Chronicle of Higher Ed": "https://www.chronicle.com/section/news.rss",
-    "The College Fix": "https://www.thecollegefix.com/feed/",
-    "Campus Reform": "https://www.campusreform.org/rss",
-    "Academic Jobs": "https://www.academicjobs.com/higher-education-news/rss.xml",
-    "NSFC (自然科学基金委)": "https://www.nsfc.gov.cn/p1/3381/2822/tzsm1.html", # 网页版
+    "VnExpress": "https://e.vnexpress.net/rss/news.rss"
 }
 
 def get_ai_summary(title, text):
     api_key = os.getenv("GEMINI_API_KEY")
-    default_text = (text[:150] + "...") if text else "点击查看详情。"
+    # 基础截取保底
+    default_text = (text[:150] + "...") if text else "点击链接查看原文详情。"
     if not api_key: return default_text
     
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
     clean_text = text[:600].replace('"', "'") if text else ""
-    prompt = f"你是一个高等教育资深编辑。请将新闻总结成80字以内中文。标题: {title} 内容: {clean_text}"
+    prompt = f"你是一位科研资深编辑。请将新闻标题和内容翻译并总结成80字以内通顺中文。标题: {title} 内容: {clean_text}"
     
     try:
-        time.sleep(4) # 严格控制频率
+        # 频率控制：每分钟约 12-15 次请求
+        time.sleep(4.5) 
         response = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=20)
         res_json = response.json()
         if 'candidates' in res_json:
@@ -47,49 +49,58 @@ def get_ai_summary(title, text):
 
 def run_scraper():
     structured_data = {}
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+    # 模拟浏览器身份
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+    }
 
     for name, url in SOURCES.items():
-        print(f"正在处理: {name}")
+        print(f"正在同步: {name}")
         try:
-            # 针对 NSFC 这种非 RSS 的网页做特殊处理
+            # 1. 处理非 RSS 网页 (NSFC)
             if "nsfc.gov.cn" in url:
                 resp = requests.get(url, headers=headers, timeout=20)
                 resp.encoding = 'utf-8'
-                from bs4 import BeautifulSoup
                 soup = BeautifulSoup(resp.text, 'html.parser')
-                items = soup.select(".main-list li")[:5]
+                links = soup.select(".main-list li a") or soup.select(".list-txt li a")
                 articles = []
-                for item in items:
-                    a = item.find('a')
+                for a in links[:5]:
                     articles.append({
                         "title": a.text.strip(),
-                        "link": "https://www.nsfc.gov.cn" + a['href'],
+                        "link": "https://www.nsfc.gov.cn" + a['href'] if a['href'].startswith('/') else a['href'],
                         "date": "官方发布",
-                        "summary": "中国自然科学基金委最新通知公告。"
+                        "summary": "中国自然科学基金委最新动态、通知及成果公示。"
                     })
-                structured_data[name] = articles
+                if articles: structured_data[name] = articles
                 continue
 
-            # 普通 RSS 处理
+            # 2. 处理标准 RSS (Nature, Science, Reuters, etc.)
             resp = requests.get(url, headers=headers, timeout=20)
             feed = feedparser.parse(resp.content)
+            
             articles = []
             for entry in feed.entries[:5]:
                 dt = entry.get("published_parsed", entry.get("updated_parsed", None))
-                date_str = time.strftime("%Y-%m-%d %H:%M", dt) if dt else "近期发布"
+                date_str = time.strftime("%Y-%m-%d %H:%M", dt) if dt else "最近发布"
+                
+                # 尽量获取完整描述
                 raw_content = entry.get("summary", entry.get("description", ""))
                 summary = get_ai_summary(entry.title, raw_content)
+                
                 articles.append({
                     "title": entry.title,
                     "link": entry.link,
                     "date": date_str,
                     "summary": summary
                 })
+            
             if articles:
                 structured_data[name] = articles
+                print(f"✅ {name} 同步成功")
+                
         except Exception as e:
-            print(f"跳过 {name}: {e}")
+            print(f"❌ {name} 失败: {e}")
 
     with open('news.json', 'w', encoding='utf-8') as f:
         json.dump(structured_data, f, ensure_ascii=False, indent=2)
