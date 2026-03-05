@@ -33,7 +33,11 @@
     <script>
         // 需要高亮的关键词列表
         const keywords = ["科学家", "教授", "大学", "高校", "博士", "硕士", "硕博", "研究员", "院士", "撤稿", "科研", "论文", "成果"];
-
+        // 增加英文对应词，让英文摘要也能变色
+const keywords = [
+    "科学家", "教授", "大学", "高校", "博士", "硕士", "院士", "撤稿", "科研", "成果",
+    "Scientist", "Professor", "University", "College", "PhD", "Doctor", "Research", "Retraction", "Nature", "Science"
+];
         // 高亮函数：将文本中的关键词替换为带样式的标签
         function highlightText(text) {
             if (!text) return "";
