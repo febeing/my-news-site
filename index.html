@@ -49,7 +49,7 @@ const keywords = [
             return highlighted;
         }
 
-        fetch('news.json?t=' + new Date().getTime())
+        fetch('news.json?v=' + Date.now())
             .then(res => res.json())
             .then(data => {
                 const board = document.getElementById('board');
