@@ -1,38 +1,52 @@
-import feedparser
-import json
-import socket
-import requests
-import time
-import random
-from bs4 import BeautifulSoup
+import   进口   进口实现feedparser feedparser
+import   进口   进口json json
+import   进口   进口套接字 socket
+import   进口   进口的请求 requests
+import   进口   导入的时间 time
+import   进口   进口随机 random
+from从 BeautifulSoup 导入 BeautifulSoup bs4    从import BeautifulSoup
 
 socket.setdefaulttimeout(20)
 
 SOURCES = {
-    "Retraction Watch": "https://retractionwatch.com/feed/",
-    "Science News": "https://www.science.org/rss/news_current.xml",
-    "Scientific American": "https://www.scientificamerican.com/latest/rss",
+    # --- 顶级名校 & 研究机构 ---
+    "MIT News": "https://news.mit.edu/rss/topic/research",
+    "Harvard Gazette": "https://news.google.com/rss/search?q=Harvard+University+source:Harvard+Gazette&hl=en-US",
+    "Stanford News": "https://news.google.com/rss/search?q=Stanford+University+News&hl=en-US",
+    
+    # --- 学术动态 & 撤稿观察 ---
     "Nature Careers": "https://www.nature.com/naturecareers/articles.rss",
+    "Science News": "https://www.science.org/rss/news_current.xml",
+    "Retraction Watch": "https://retractionwatch.com/feed/",
+    "Scientific American": "https://www.scientificamerican.com/latest/rss",
+    
+    # --- 科技 & AI 前沿 ---
+    "Reuters AI": "https://news.google.com/rss/search?q=Reuters+Artificial+Intelligence&hl=en-US",
+    "MIT Tech Review": "https://news.google.com/rss/search?q=MIT+Technology+Review&hl=en-US",
+    "Phys.org (物理/科技)": "https://phys.org/rss-feed/",
+    
+    # --- 高等教育政策 ---
     "Inside Higher Ed": "https://www.insidehighered.com/feed",
     "The Chronicle of Higher Ed": "https://www.chronicle.com/section/news.rss",
-    "Reuters AI": "https://news.google.com/rss/search?q=Reuters+Artificial+Intelligence&hl=en-US&gl=US&ceid=US:en",
-    "MIT Tech Review": "https://news.google.com/rss/search?q=MIT+Technology+Review&hl=en-US",
-    "The Guardian Edu": "https://www.theguardian.com/education/rss",
+    "The Guardian Education": "https://www.theguardian.com/education/rss",
+    
+    # --- 综合 & 实时 ---
     "SCMP Hong Kong": "https://www.scmp.com/rss/2/feed",
-    "联合早报 (中国)": "https://www.zaobao.com.sg/realtime/china/rss",
-    "New Scientist": "https://www.newscientist.com/section/news/feed/",
-    "VnExpress Global": "https://e.vnexpress.net/rss/news.rss"
+    "联合早报 (实时)": "https://www.zaobao.com.sg/realtime/china/rss",
+    "New Scientist": "https://www.newscientist.com/section/news/feed/"
 }
 
 def run_scraper():
-    all_results = {}
-    ua_list = [
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
+    all_results = {}"VnExpress Global": "https://e.vnexpress.net/rss   All_results = {}
+ews.rss"
+    ua_list = ["New Scientist": "https://www.newscientist.com/section   Ua_list = [
+ews/feed/",
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'," Lianhe Zaobao (China) : " https://www.zaobao.com.sg/realtime/china/rss" ,“Mozilla/5.0（Windows NT 10.0；Win64；x64）AppleWebKit/537.36（KHTML，如 Gecko）Chrome/122.0.0.0 Safari/537.36”
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'Mozilla/5.0（Macintosh；Intel Mac OS X 10_15_7）AppleWebKit/537.36（KHTML，如 Gecko）Chrome/121.0.0.0 Safari/537.36
     ]
 
-    for name, url in SOURCES.items():
-        print(f">>> 正在同步: {name}")
+    for name, url in SOURCES.items():对于名称、网址在来源项中：
+        print(f">>> 正在同步: {name}")print(f'>>> Synchronizing: {name}')
         # 随机休眠防封
         time.sleep(random.uniform(1.0, 2.5))
         headers = {'User-Agent': random.choice(ua_list), 'Accept-Language': 'en-US,en;q=0.9'}
