@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "Seeds of something different",
+      "link": "https://news.mit.edu/2026/seeds-something-different-kate-brown-book-0306",
+      "date": "2026-03-06 05:00",
+      "summary": "Kate Brown’s book, “Tiny Gardens Everywhere,” examines the hidden history of urban farming, its extensive use, and the politics of..."
+    },
+    {
+      "title": "X-raying rocks reveals their carbon-storing capacity",
+      "link": "https://news.mit.edu/2026/x-raying-rocks-reveals-their-carbon-storing-capacity-0306",
+      "date": "2026-03-06 05:00",
+      "summary": "New research by MIT geophysicists could assist efforts to remove carbon from the atmosphere and store it underground...."
+    },
+    {
       "title": "New insights into a hidden process that protects cells from harmful mutations",
       "link": "https://news.mit.edu/2026/new-insights-hidden-process-protects-cells-harmful-mutations-0305",
       "date": "2026-03-05 22:15",
@@ -17,18 +29,6 @@
       "link": "https://news.mit.edu/2026/new-catalog-doubles-gravitational-wave-detections-made-ligo-virgo-kagra-0305",
       "date": "2026-03-05 13:00",
       "summary": "The latest crop of space-time wobbles includes a variety of heavy, fast-spinning, and lopsided colliding black holes...."
-    },
-    {
-      "title": "Nitrous oxide, a product of fertilizer use, may harm some soil bacteria",
-      "link": "https://news.mit.edu/2026/nitrous-oxide-product-fertilizer-use-may-harm-some-soil-bacteria-0304",
-      "date": "2026-03-04 14:00",
-      "summary": "While some N2O is produced naturally at the plant root, agricultural practices can increase its levels, to the detriment of some m..."
-    },
-    {
-      "title": "How some skills become second nature",
-      "link": "https://news.mit.edu/2026/how-some-skills-become-second-nature-0304",
-      "date": "2026-03-04 05:00",
-      "summary": "Patterns of gaze and attention can reveal how some people unconsciously figure out how to master a task, new research shows...."
     }
   ],
   "Harvard Gazette": [
@@ -39,16 +39,16 @@
       "summary": "How academia can help America heal  Harvard Gazette..."
     },
     {
-      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
-      "date": "2025-09-25 07:00",
-      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
-    },
-    {
       "title": "Harvard reports operating deficit amid federal funding cuts - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2ZjQmV2UTFaS0pGVnpKNTBuZF83dkdOcV9NTVdvYXBmVWFYNDdHWlFHYkFna1A2SWFmS0UxRmRKWFhFTVowcWxrbEFJYVJTWmNDOUxuRVIzQ3Nuekwzb0JQWUFpSmNETlNReGtkSHJnNnZ4RGRCYlhPN2lBbWZibUc0bVRjd050N2dqdFAtNnh2RnlQQzEzYWtJU3VucXdVZ3AzOWtqQkdjeW8?oc=5",
       "date": "2025-10-16 07:00",
       "summary": "Harvard reports operating deficit amid federal funding cuts  Harvard Gazette..."
+    },
+    {
+      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
+      "date": "2025-09-25 07:00",
+      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
     },
     {
       "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
@@ -57,10 +57,10 @@
       "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     },
     {
-      "title": "What if AI could help students learn, not just do assignments for them? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZERnQ0tJMkp3bEVHQXFHeDVRVFdNLUlucVQzakN2bmJ2VUFTSGJvVE9KNTJPSUxuNnFocjc5a2o0Q0JnTlJiMDFPdUVROVJJODhoek9scUJJTTNmVGd0RHN1NXJCbkZrXzVZM1c2YVhrZlFpWl9ZQ3NrS2dOUTVLd21nUWdIMERMTVVxWGxnZ2hGalBHNW5vSzgwQ1hNbEprWlRQTXN4REdKOS1JN3RPYUZoamN4T0tI?oc=5",
-      "date": "2025-10-21 07:00",
-      "summary": "What if AI could help students learn, not just do assignments for them?  Harvard Gazette..."
+      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
+      "date": "2025-10-28 07:00",
+      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -211,16 +211,16 @@
       "summary": "Netflix acquires Ben Affleck's AI film-tech firm  Reuters..."
     },
     {
-      "title": "Pentagon informed Anthropic it is a supply chain risk - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0wyVmJCaTRXWk5YS2Q4S0RVV01YcnhBVXJ6T0JxWFNzenlITlgtTGZXeUEweU1ld2RhdkNaRWhuNldabXlKdmRzWEl4OG13SzRYY2M0UUlEcFVCSGctTC00WEQxeHlXeWlya2NmQVF3NVNJemNvUkNTSG0xbWI5TURTaWRfb1czcUw1LUQwT0hoZVMwRXpFWV8zM2F5M3psS183UnA0dHNyTzBLRmJsSUZR?oc=5",
-      "date": "2026-03-05 20:13",
-      "summary": "Pentagon informed Anthropic it is a supply chain risk  Reuters..."
+      "title": "Broadcom rises as $100 billion AI forecast signals gains in Nvidia-dominated market - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0VhMElGUVl0cUJ0Qk5wMWZlX1U5d2JNTWhfeU45bExxRlZna09mbWdCN1dMTUlibDF4cnRQa0hzZjMtMTZQaGhjUHRfTllhZE51MHM3bmhaT0JYblZoNHoxc3JyY1dkM0RtM2kxbExxSnBRMFVDTlJ0X2lZWUFRSWhucFBjVE1KQldqa1Z1d1B4Z2xYTjFYemdLejh0c1RGN0w1UVZqZWNFVWNmS2Z2dA?oc=5",
+      "date": "2026-03-05 10:26",
+      "summary": "Broadcom rises as $100 billion AI forecast signals gains in Nvidia-dominated market  Reuters..."
     },
     {
-      "title": "Marvell projects strong fiscal 2028 revenue on AI-driven data center boom, shares jump - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQXhhUVBUYVpvc1ctOGNaTE5XcFhRTVpUT3Fna1ZfMk1QM2o1TnltUGJvMzl6dFdaOU9GVExKMnN1dVRYNnowOUtFQ2hvU1NpaFFlRUEzVWd6QmtRR2EteWtXb29pQ0FWVEhDZkozdnFxQ3VSZEk2dE9hbUdGRGxnSzlMbG5rS2JHUGl3a3VjVWs3SkFPaG5yU2t4OVBxRWg4SU9tcA?oc=5",
-      "date": "2026-03-05 21:08",
-      "summary": "Marvell projects strong fiscal 2028 revenue on AI-driven data center boom, shares jump  Reuters..."
+      "title": "xAI loses bid to halt California AI data disclosure law - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVmswVGM5dlFxd1V5RlkyclYxNW1RRUJ1WUpzeU82YVpad3JnWmdUa1phLWQ0anZPMTZpaERib1k1LV9tdkVFNnI2RFFMMGcwamVWVkxYWW1wS3ZQa3h3djh3YVZjS2pLTTRibmpEdjFwNUZzRFhCQzBmUVpCZkdCdk5vb053bnhuS2lOU1JJeVhFOGRBRU4xNzVZbFo3M0MxSFVhdmpsT2Y?oc=5",
+      "date": "2026-03-05 21:42",
+      "summary": "xAI loses bid to halt California AI data disclosure law  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -237,12 +237,6 @@
       "summary": "Online harassment is entering its AI era  MIT Technology Review..."
     },
     {
-      "title": "The Crime issue - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGZXpMZTJ5SGpvdFB1N1FISEpRakVqUEZGYUE1dXNySVg5a0gyeDNoUU9vSmNsVU9reEZwVVFOWVFvUHU0dFJrQ0I2UVRucjVrVGlwY051aDJZcjdJYXB0dFp3UHdJS3ZNY3NN?oc=5",
-      "date": "2026-02-25 11:02",
-      "summary": "The Crime issue  MIT Technology Review..."
-    },
-    {
       "title": "I checked out one of the biggest anti-AI protests yet - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3lzbnBJVnFiV2pEZ2FuWW1pSFZqYms4UlNncS1HamdiazU4d05oODNra0tNU25vamtjZ2xSZU5UZC1YTHdCS1QybGk5ZUVpSGpPcEk5TmlLcTVNei1UT2YzdmdWSThhNUFiNUJSdEh3SHp0Nkt3eUIwZDJPallQalA0LWdQMGw3ekVWaDhhYkpCVlNOMWVaaHBEUzlkeWNRZTFCWDB30gGrAUFVX3lxTE1KMktfOHQweDZsZjJINE54a01FWHpCeWVmTlhXa21sZElyNklnTC02SlNleWsyZnR2bjlwMmNlTHNXZGJfNHVCcWNBMDJmYzZOdFQwbUN1RE5TeDBldTJTZGFQUlQzNXI3Yk9QanJkQjJZT3FPVXl1dm9VZUc0dzRPdmRtazRYS25WUTFSUkVxYXVNX3l1T2NQNTBHT01LZHBOeFY2NXlsR05lVQ?oc=5",
       "date": "2026-03-02 12:55",
@@ -253,6 +247,12 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWVRVUWNEdTFScG1OZUlhNDZOWkVJaFF3cGRaRHJtZzlGTmNqMHZqR2VXaVVkWS1uaWo0UmJVeUtjSnp3S0lDWFU0TDdBcWxDeDRYTWZJSC16SmNYdl8wSkw4aDRiRDRlYWxWVjY5b21tOWtWX3M1T1hQU2k3YUpnOUZKd0JJd25nODc5a9IBkgFBVV95cUxQLTNMSFR2UmRrVnh0VTQ5MVFTdGY5X3drMXhOUWZCX04xWDZBcXhlTzNoeEx5dVNBVkJOZnVCX0RCU0dXR0VvbzRoZUtDR3BhNG90Z0thNzhJTEZkb3FidmRaak0tSEs5Z21QVlI3aUgwMG5ZMElHd3BSTjlTRUl4XzFzYUpoWXdkaWNyVGVQNWF1QQ?oc=5",
       "date": "2026-03-04 14:00",
       "summary": "Bridging the operational AI gap  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: protesting AI, and what’s floating in space - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUUyS3RIWm44MnZJYlIzTDhTTDJUOHJ4cXJxMmEtcmRHSG5ySzhieEZIYmFxb1dRclA3aEdHbGtjOGVvbTRWV3ZCNU9VbDFZdkM1ME5qOWpiRVNoS2xyal8xT2x2VG1DVWZmTWJ6N0V4Zzlwa3h2Y19pSkg5WjRsSzFFZk90VU1Jdm44UEw2SE9ENHZpMjM3RnUzYXpiU2dETXRqVnJEcHZGTFXSAbABQVVfeXFMTkt4QlZQOUw3cjk0VGt4TkxCSXEtaXpiQjdjX2VxNmg2cnM4dXRrdS1EczZ2bzRGZjFWb0x2alM1eGdNUFpJU2FoMENjNDZLNUJOWHZlU0Ywbk5nQlZPeE1aM0FHUzFfNFQ2NXVPMW9IbnFtaDVhaS1JbnVnNUJkMUZOajBkckRSeVhSM1VxdURQeW1aRnpKY3NSX1djS3kwSFhHLWx5WHU4VWhrUlNzSWQ?oc=5",
+      "date": "2026-03-02 13:20",
+      "summary": "The Download: protesting AI, and what’s floating in space  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong grants HK$6.15 million to family of firefighter killed in Tai Po blaze",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3345669/hong-kong-grants-hk615m-family-firefighter-killed-deadly-tai-po-blaze?utm_source=rss_feed",
+      "date": "2026-03-06 04:54",
+      "summary": "The family of deceased firefighter Ho Wai-ho, who died while battling Hong Kong’s deadliest blaze in seven decades, will receive H..."
+    },
+    {
       "title": "Jimmy Lai will not appeal 20-year sentence after national security trial: source",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3345656/jimmy-lai-opts-against-appeal-20-year-sentence-after-national-security-trial?utm_source=rss_feed",
       "date": "2026-03-06 03:41",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3345624/more-dim-sum-more-films-hong-kong-residents-cash-war-triggers-gold-rush?utm_source=rss_feed",
       "date": "2026-03-06 00:30",
       "summary": "Rising gold prices amid the Middle East war have boosted trade in the precious metal in Hong Kong, with residents lining up to sel..."
-    },
-    {
-      "title": "Lean harder into Hong Kong-mainland China market ties, ‘two sessions’ delegates urge",
-      "link": "https://www.scmp.com/business/china-business/article/3345601/lean-harder-hong-kong-mainland-china-market-ties-two-sessions-delegates-urge?utm_source=rss_feed",
-      "date": "2026-03-05 23:30",
-      "summary": "Hong Kong can reinforce its role as an international financial centre by deepening integration with mainland capital markets and e..."
     }
   ],
   "New Scientist": [
