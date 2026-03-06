@@ -1,98 +1,34 @@
 {
-  "Reuters AI": [
-    {
-      "title": "China's new five-year plan calls for AI throughout its economy, tech breakthroughs - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT0xhZFBNRnhPeGVjNWlhSzFobDMtOVoyQWZ6WXJvUk41UUpITFk5am9GczMtX1dGdDQzMlV4RWdmZjVPY3NtMWN1WnB2eUpoRXItcmhYM0pUWktZN2h6bDJTY3A5OWQ3ZUVDQ2FkNHVKVWZPTGZORUt2cWExWmpNVGhqMUtnYXBnaVVjTm9NTkhWcFVTeXpTTVhULUJwU0ZZLWdQakRJYU9WWTc1VGNYajF3?oc=5",
-      "date": "2026-03-05 01:38",
-      "summary": "China's new five-year plan calls for AI throughout its economy, tech breakthroughs  Reuters..."
-    },
-    {
-      "title": "OpenAI tops $25 billion in annualized revenue, The Information reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSll6UGprMldZQ3l0YTJyaW1IMElHSmN5YlE2b0pqUlR1SVJxaDV5QkVmQVpVM3lkV3NuNlVNb1hPY2M3WEdDZWVoWmk2YXhFNnZMZGJkTkgzQmdONUNUS3pMX3JibVhveGs5b054S1BsTEtidG1pU080RUxLTXUzaUl3UzdYdUpmSjFQTWotYVltTGF3dUpqUlNUUk1ZQTRLOEUycVZ0SnluQkFfb3g4SDB3blZYUlYxTUxR?oc=5",
-      "date": "2026-03-05 03:38",
-      "summary": "OpenAI tops $25 billion in annualized revenue, The Information reports  Reuters..."
-    },
-    {
-      "title": "Netflix acquires Ben Affleck's AI film-tech firm - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmVRMU5ramt5Q0o4eFYyTElMbFNoeTAwLWg5bUpRdlc4eC0xeTFpTHJiMmFQV2Z2TUtZNDVkSmJRLUpNZktWWUVlVVBrUDZZX3RBYkMtbUtsTDFkNFhCRzlHaXVFX0dacjJZVGZjYlNDUVVaRXBxTUtfcEJNeG5EZUl4a3FzRTBFZlpGREdjT0xZaTBVVnA0NnlaZC1nOTRaTjNQc3Bpbmh6QQ?oc=5",
-      "date": "2026-03-05 16:02",
-      "summary": "Netflix acquires Ben Affleck's AI film-tech firm  Reuters..."
-    },
-    {
-      "title": "US mulls new rules for AI chip exports, including requiring US investments by foreign firms - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHlIa3ZDZ0wxc19tUmxrb1l4aml2UEI2S3MtV1RrMWxJV3FsS2ZuMk9oQk9Ed1YyTGZBWlRIU0lFQkxkbmNFbFpOblk0LUo0X2JReEdDdkEyVzFYc0VqOWtfUmhIb2JYbjc4VmtxY1NoTU1jRk5RRUE1Q1NkSGhUZVVmdW9qVzBnYnNOZzVoV21rbFpheFVPMVRLenVVRzVILWU5ZWNGTnhZMGk5anRNTDdnbHRTV1FDOW9j?oc=5",
-      "date": "2026-03-05 21:12",
-      "summary": "US mulls new rules for AI chip exports, including requiring US investments by foreign firms  Reuters..."
-    },
-    {
-      "title": "Online travel stocks rise after report that OpenAI to scale back direct checkouts - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRW1nbHlyTEVHV0txZUVpa1Z0NFloRXlMbjlwQ2liWEZpenNpNlRscmlrb1BybjBWdlZkWlYtZVAzXzllWk91VzB5ZzZxMEtNeE9BaDBhS1EwbmtqYmhOc0VMaVk3YzhSV1VjSWZLWDdQMV9LQVZJYnlKZF83b2FtaUhVZzVTMHl5MHBORkZ3REg4TFpHNG12dGVYekJqdHN6ODhQcnVmUDNhWWJCSmlPalZ6SWpBNGw4RjJqLS02aG8?oc=5",
-      "date": "2026-03-05 16:48",
-      "summary": "Online travel stocks rise after report that OpenAI to scale back direct checkouts  Reuters..."
-    }
-  ],
-  "SCMP (南华早报)": [
-    {
-      "title": "Mayweather to fight Pacquiao in long-awaited Las Vegas rematch in September",
-      "link": "https://www.scmp.com/sport/boxing/article/3344390/mayweather-fight-pacquiao-long-awaited-las-vegas-rematch-september?utm_source=rss_feed",
-      "date": "2026-02-24 00:45",
-      "summary": "Floyd Mayweather and Manny Pacquiao will meet in a long-awaited rematch of the highest-grossing clash in boxing history this Septe..."
-    },
-    {
-      "title": "Manny Pacquiao returns to Las Vegas ring for 10-round exhibition fight against Provodnikov",
-      "link": "https://www.scmp.com/sport/boxing/article/3343867/manny-pacquiao-returns-las-vegas-ring-10-round-exhibition-fight-against-provodnikov?utm_source=rss_feed",
-      "date": "2026-02-18 03:40",
-      "summary": "Manny Pacquiao isn’t done with boxing yet and will return to the ring on April 18 to face former junior welterweight world champio..."
-    },
-    {
-      "title": "Anthony Joshua returns to gym following car crash that killed two of his close friends",
-      "link": "https://www.scmp.com/sport/boxing/article/3340154/anthony-joshua-returns-gym-following-car-crash-killed-two-his-close-friends?utm_source=rss_feed",
-      "date": "2026-01-16 11:00",
-      "summary": "Anthony Joshua has returned to the gym as he continues his recovery from a car crash which killed two of his close friends.\nThe fo..."
-    },
-    {
-      "title": "Muhammad Ali’s legacy lives on with new US postage stamp, nearly a decade after his death",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3339636/muhammad-alis-legacy-lives-new-us-postage-stamp-nearly-decade-after-his-death?utm_source=rss_feed",
-      "date": "2026-01-12 16:00",
-      "summary": "Muhammad Ali once joked that he should be a postage stamp because “that’s the only way I’ll ever get licked”.\nNow, the three-time ..."
-    },
-    {
-      "title": "Tyson Fury announces return from retirement, ready to ‘punch men in the face, get paid for it’",
-      "link": "https://www.scmp.com/sport/boxing/article/3338685/tyson-fury-announces-return-retirement-ready-punch-men-face-get-paid-it?utm_source=rss_feed",
-      "date": "2026-01-04 12:59",
-      "summary": "Tyson Fury has said he will return to boxing in 2026 nearly a year after he announced his latest retirement from the ring.\nAfter a..."
-    }
-  ],
   "Retraction Watch": [
     {
       "title": "Publisher demands $500 from impersonated author to retract paper",
       "link": "https://retractionwatch.com/2026/03/05/publisher-demands-500-from-impersonated-author-to-retract-paper/",
       "date": "2026-03-05 21:38",
-      "summary": "Last year, we wrote about a Walsh Medical Media journal that refused to withdraw an author’s paper unless he paid a fee — even tho..."
+      "summary": "Last year, we wrote about a Walsh Medical Media journal that refused to withdraw an author’s paper unless he paid a fee — even though he did..."
     },
     {
       "title": "Controversial comet theory struck by two new retractions",
       "link": "https://retractionwatch.com/2026/03/04/controversial-comet-theory-struck-by-two-new-retractions/",
       "date": "2026-03-04 20:35",
-      "summary": "PLOS One has retracted two papers from the Comet Research Group, a controversial cadre of researchers who, according to their webp..."
+      "summary": "PLOS One has retracted two papers from the Comet Research Group, a controversial cadre of researchers who, according to their webpage, seek ..."
     },
     {
       "title": "A medical journal says the case reports it has published for 25 years are, in fact, fiction",
       "link": "https://retractionwatch.com/2026/03/03/canadian-pediatric-society-journal-correction-case-reports-fictional-paediatrics-child-health/",
       "date": "2026-03-03 21:45",
-      "summary": "A Canadian journal has issued corrections on 138 case reports it published over the last 25 years to add a disclaimer: The cases d..."
+      "summary": "A Canadian journal has issued corrections on 138 case reports it published over the last 25 years to add a disclaimer: The cases described a..."
     },
     {
       "title": "Preprint server removes study attributing increased infant mortality to vaccines",
       "link": "https://retractionwatch.com/2026/03/02/preprint-server-removes-study-attributing-increased-infant-mortality-to-vaccines/",
       "date": "2026-03-02 18:36",
-      "summary": "A preprint server has withdrawn a study that suggested children vaccinated in the second month of life are more likely to die soon..."
+      "summary": "A preprint server has withdrawn a study that suggested children vaccinated in the second month of life are more likely to die soon after whe..."
     },
     {
       "title": "Weekend reads: Institute to stop paying fees for some OA journals; sleuths’ tips for spotting fraud; Bayer sues J&J over ‘false and misleading claims’",
       "link": "https://retractionwatch.com/2026/02/28/weekend-reads-china-institute-stop-paying-fees-oa-journals-sleuth-tips-fraud-bayer-sues-jj-false-and-misleading-claims/",
       "date": "2026-02-28 11:00",
-      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
+      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In case you ..."
     }
   ],
   "Science News": [
@@ -100,7 +36,7 @@
       "title": "Can a wealthy family change the course of a deadly brain disease?",
       "link": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
       "date": "2026-03-05 02:00",
-      "summary": "Inspired by the loss of their mother, they have poured millions into studying a key protein behind frontotemporal dementia. But al..."
+      "summary": "Inspired by the loss of their mother, they have poured millions into studying a key protein behind frontotemporal dementia. But all has not ..."
     },
     {
       "title": "New HIV cure approach forces hidden virus into tripping immune sensor",
@@ -127,36 +63,132 @@
       "summary": "The treatments appeared to help prevent a wide range of substance use disorders and reduce serious harms from existing ones..."
     }
   ],
-  "The Guardian Education": [
+  "Reuters AI": [
+    {
+      "title": "China's new five-year plan calls for AI throughout its economy, tech breakthroughs - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT0xhZFBNRnhPeGVjNWlhSzFobDMtOVoyQWZ6WXJvUk41UUpITFk5am9GczMtX1dGdDQzMlV4RWdmZjVPY3NtMWN1WnB2eUpoRXItcmhYM0pUWktZN2h6bDJTY3A5OWQ3ZUVDQ2FkNHVKVWZPTGZORUt2cWExWmpNVGhqMUtnYXBnaVVjTm9NTkhWcFVTeXpTTVhULUJwU0ZZLWdQakRJYU9WWTc1VGNYajF3?oc=5",
+      "date": "2026-03-05 01:38",
+      "summary": "China's new five-year plan calls for AI throughout its economy, tech breakthroughs  Reuters..."
+    },
+    {
+      "title": "OpenAI tops $25 billion in annualized revenue, The Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSll6UGprMldZQ3l0YTJyaW1IMElHSmN5YlE2b0pqUlR1SVJxaDV5QkVmQVpVM3lkV3NuNlVNb1hPY2M3WEdDZWVoWmk2YXhFNnZMZGJkTkgzQmdONUNUS3pMX3JibVhveGs5b054S1BsTEtidG1pU080RUxLTXUzaUl3UzdYdUpmSjFQTWotYVltTGF3dUpqUlNUUk1ZQTRLOEUycVZ0SnluQkFfb3g4SDB3blZYUlYxTUxR?oc=5",
+      "date": "2026-03-05 03:38",
+      "summary": "OpenAI tops $25 billion in annualized revenue, The Information reports  Reuters..."
+    },
+    {
+      "title": "US mulls new rules for AI chip exports, including requiring US investments by foreign firms - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHlIa3ZDZ0wxc19tUmxrb1l4aml2UEI2S3MtV1RrMWxJV3FsS2ZuMk9oQk9Ed1YyTGZBWlRIU0lFQkxkbmNFbFpOblk0LUo0X2JReEdDdkEyVzFYc0VqOWtfUmhIb2JYbjc4VmtxY1NoTU1jRk5RRUE1Q1NkSGhUZVVmdW9qVzBnYnNOZzVoV21rbFpheFVPMVRLenVVRzVILWU5ZWNGTnhZMGk5anRNTDdnbHRTV1FDOW9j?oc=5",
+      "date": "2026-03-05 21:12",
+      "summary": "US mulls new rules for AI chip exports, including requiring US investments by foreign firms  Reuters..."
+    },
+    {
+      "title": "Broadcom rises as $100 billion AI forecast signals gains in Nvidia-dominated market - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0VhMElGUVl0cUJ0Qk5wMWZlX1U5d2JNTWhfeU45bExxRlZna09mbWdCN1dMTUlibDF4cnRQa0hzZjMtMTZQaGhjUHRfTllhZE51MHM3bmhaT0JYblZoNHoxc3JyY1dkM0RtM2kxbExxSnBRMFVDTlJ0X2lZWUFRSWhucFBjVE1KQldqa1Z1d1B4Z2xYTjFYemdLejh0c1RGN0w1UVZqZWNFVWNmS2Z2dA?oc=5",
+      "date": "2026-03-05 10:26",
+      "summary": "Broadcom rises as $100 billion AI forecast signals gains in Nvidia-dominated market  Reuters..."
+    },
+    {
+      "title": "xAI loses bid to halt California AI data disclosure law - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVmswVGM5dlFxd1V5RlkyclYxNW1RRUJ1WUpzeU82YVpad3JnWmdUa1phLWQ0anZPMTZpaERib1k1LV9tdkVFNnI2RFFMMGcwamVWVkxYWW1wS3ZQa3h3djh3YVZjS2pLTTRibmpEdjFwNUZzRFhCQzBmUVpCZkdCdk5vb053bnhuS2lOU1JJeVhFOGRBRU4xNzVZbFo3M0MxSFVhdmpsT2Y?oc=5",
+      "date": "2026-03-05 21:42",
+      "summary": "xAI loses bid to halt California AI data disclosure law  Reuters..."
+    }
+  ],
+  "MIT Tech Review": [
+    {
+      "title": "This startup claims it can stop lightning and prevent catastrophic wildfires - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUUZ6NnQtaS1Rd0tJMm1rZWE3bllXLWxrcjFXUUNXWVVyVXIxMkpseFdvdDROUk5EbkMtTUR4QnJnaUhsUnA0bzJTQU1Vb0hBRk8wZEpVUmNTUjZZQTN0bGxUOFVybGN6T3c4NVVtVWpKaWZfeU1mV0JFcnppZFM3Zk01Z0M3YlVsRHJvOWY4aTdnWTMwTkR1SmE2SlJGcnJkd0NOX2lXMGJiY2JhQUpVVEN1d1ZfcEYtbHRLeGo0VTljYXA2aDdaa9IBzgFBVV95cUxQb3duZjYxX29GN3d5Y3g0QmpUdTF4eDYwQXhDMDV3UDVHMEtQWGNjX2l2NnFVMWxqQ3R6N2VtYXdoS2J1dzdOY25ZakdodTBfWFpwOHRWWk85RmN4UC0zWjBWVnNiTmtZODZ4MlRLMDdNR2Z4cFk1blNsYzZsRkozWE93QjhQdU9oc1JwVFJkbldVX3IzT0gzQk9sSTdLLWRmZmVrSlh4ODdyRmhEaFJkcUhTYjNTc1hIWGlld0pvZVJJYl81bTAtdFFSSjNPUQ?oc=5",
+      "date": "2026-03-03 10:00",
+      "summary": "This startup claims it can stop lightning and prevent catastrophic wildfires  MIT Technology Review..."
+    },
+    {
+      "title": "Online harassment is entering its AI era - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQy1WS3J1eExFWm44UlJWSmVickxad3Y0NnZzSzJEWkc5S1ZvVC1LMzJaN0RBYUhjRk1ReklEei1XMUtfNXpaRWhKcHFXMWo1NVhwblU0ZHJkMHpzUXNDQWtLdE1DaWNBeWJpU0JwdnF1YTh5NmVEVm5jYmd2Um1INjJvUXllQU9kcmZUTmFZQWdEZXMyZjVxTdIBngFBVV95cUxQRDhEckhTSTFUYm9ranBmZXR3TlB5Yl91cHlZeGdFUVpEN1dyeFVxVFFCQlhGQnBxQl9LQUhlV1VpRm1sRnNJRDY5YVRFamQ2YkVDRGRiTkpieTFKUkNncEZPUDJYS1Rud0xheGFJSlgtTENXMVVDbUp4TXRMRHZMS1ZadTZzcUl1N2EydzItSmNfR05mX0E5cjRWSVQ5QQ?oc=5",
+      "date": "2026-03-05 10:00",
+      "summary": "Online harassment is entering its AI era  MIT Technology Review..."
+    },
+    {
+      "title": "The Crime issue - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGZXpMZTJ5SGpvdFB1N1FISEpRakVqUEZGYUE1dXNySVg5a0gyeDNoUU9vSmNsVU9reEZwVVFOWVFvUHU0dFJrQ0I2UVRucjVrVGlwY051aDJZcjdJYXB0dFp3UHdJS3ZNY3NN?oc=5",
+      "date": "2026-02-25 11:02",
+      "summary": "The Crime issue  MIT Technology Review..."
+    },
+    {
+      "title": "I checked out one of the biggest anti-AI protests yet - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3lzbnBJVnFiV2pEZ2FuWW1pSFZqYms4UlNncS1HamdiazU4d05oODNra0tNU25vamtjZ2xSZU5UZC1YTHdCS1QybGk5ZUVpSGpPcEk5TmlLcTVNei1UT2YzdmdWSThhNUFiNUJSdEh3SHp0Nkt3eUIwZDJPallQalA0LWdQMGw3ekVWaDhhYkpCVlNOMWVaaHBEUzlkeWNRZTFCWDB30gGrAUFVX3lxTE1KMktfOHQweDZsZjJINE54a01FWHpCeWVmTlhXa21sZElyNklnTC02SlNleWsyZnR2bjlwMmNlTHNXZGJfNHVCcWNBMDJmYzZOdFQwbUN1RE5TeDBldTJTZGFQUlQzNXI3Yk9QanJkQjJZT3FPVXl1dm9VZUc0dzRPdmRtazRYS25WUTFSUkVxYXVNX3l1T2NQNTBHT01LZHBOeFY2NXlsR05lVQ?oc=5",
+      "date": "2026-03-02 12:55",
+      "summary": "I checked out one of the biggest anti-AI protests yet  MIT Technology Review..."
+    },
+    {
+      "title": "Bridging the operational AI gap - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWVRVUWNEdTFScG1OZUlhNDZOWkVJaFF3cGRaRHJtZzlGTmNqMHZqR2VXaVVkWS1uaWo0UmJVeUtjSnp3S0lDWFU0TDdBcWxDeDRYTWZJSC16SmNYdl8wSkw4aDRiRDRlYWxWVjY5b21tOWtWX3M1T1hQU2k3YUpnOUZKd0JJd25nODc5a9IBkgFBVV95cUxQLTNMSFR2UmRrVnh0VTQ5MVFTdGY5X3drMXhOUWZCX04xWDZBcXhlTzNoeEx5dVNBVkJOZnVCX0RCU0dXR0VvbzRoZUtDR3BhNG90Z0thNzhJTEZkb3FidmRaak0tSEs5Z21QVlI3aUgwMG5ZMElHd3BSTjlTRUl4XzFzYUpoWXdkaWNyVGVQNWF1QQ?oc=5",
+      "date": "2026-03-04 14:00",
+      "summary": "Bridging the operational AI gap  MIT Technology Review..."
+    }
+  ],
+  "The Guardian Edu": [
     {
       "title": "RFK Jr urges medical schools to increase nutrition education training",
       "link": "https://www.theguardian.com/us-news/2026/mar/05/rfk-medical-school-nutrition",
       "date": "2026-03-05 19:41",
-      "summary": "As part of his Maha agenda, health secretary wants schools to incorporate 40 hours of instructionSign up to the Breaking News US n..."
+      "summary": "As part of his Maha agenda, health secretary wants schools to incorporate 40 hours of instructionSign up to the Breaking News US newsletter ..."
     },
     {
       "title": "Extra stress or a bit of fun? Teachers and parents discuss World Book Day",
       "link": "https://www.theguardian.com/books/2026/mar/05/stress-fun-teachers-parents-world-book-day",
       "date": "2026-03-05 18:16",
-      "summary": "As children dress up in UK and Ireland on Thursday, not everyone is on the same page over event’s pros and consThursday is World B..."
+      "summary": "As children dress up in UK and Ireland on Thursday, not everyone is on the same page over event’s pros and consThursday is World Book Day in..."
     },
     {
       "title": "Thursday briefing: ​Were a generation of students mis-sold the idea of a university degree?",
       "link": "https://www.theguardian.com/world/2026/mar/05/thursday-briefing-were-a-generation-of-students-mis-sold-the-idea-of-a-university-degree",
       "date": "2026-03-05 06:45",
-      "summary": "In today’s newsletter: Rising debts, frozen thresholds and spiralling interest have left ​millions of graduates questioning whethe..."
+      "summary": "In today’s newsletter: Rising debts, frozen thresholds and spiralling interest have left ​millions of graduates questioning whether England’..."
     },
     {
       "title": "‘Apartheid newsroom’: minority ethnic journalists still locked out of top jobs, report finds",
       "link": "https://www.theguardian.com/media/2026/mar/04/journalism-minority-newsroom-jobs-report",
       "date": "2026-03-04 13:32",
-      "summary": "Exclusive: Survey suggests journalists from minority ethnic backgrounds feel excluded from influential posts and seen as ‘diversit..."
+      "summary": "Exclusive: Survey suggests journalists from minority ethnic backgrounds feel excluded from influential posts and seen as ‘diversity hires’Br..."
     },
     {
       "title": "Schools in England sidelining dressing-up for World Book Day, MPs hear",
       "link": "https://www.theguardian.com/education/2026/mar/03/schools-england-dressing-up-world-book-day-mps-",
       "date": "2026-03-03 18:11",
-      "summary": "Literacy experts say move comes over cost concerns and fears costumes can detract from reading for pleasureSchools in England are ..."
+      "summary": "Literacy experts say move comes over cost concerns and fears costumes can detract from reading for pleasureSchools in England are moving awa..."
+    }
+  ],
+  "SCMP Hong Kong": [
+    {
+      "title": "Chinese vice-premier stresses shared duty in Hong Kong’s executive-led governance",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3345644/chinese-vice-premier-stresses-shared-duty-hong-kongs-executive-led-governance?utm_source=rss_feed",
+      "date": "2026-03-06 02:21",
+      "summary": "Chinese Vice-Premier Ding Xuexiang has acknowledged it is no “easy task” to truly implement Hong Kong’s executive-led governance system, str..."
+    },
+    {
+      "title": "‘More dim sum, more often’: Hongkongers cash in as war triggers gold rush",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3345624/more-dim-sum-more-films-hong-kong-residents-cash-war-triggers-gold-rush?utm_source=rss_feed",
+      "date": "2026-03-06 00:30",
+      "summary": "Rising gold prices amid the Middle East war have boosted trade in the precious metal in Hong Kong, with residents lining up to sell valuable..."
+    },
+    {
+      "title": "Lean harder into Hong Kong-mainland China market ties, ‘two sessions’ delegates urge",
+      "link": "https://www.scmp.com/business/china-business/article/3345601/lean-harder-hong-kong-mainland-china-market-ties-two-sessions-delegates-urge?utm_source=rss_feed",
+      "date": "2026-03-05 23:30",
+      "summary": "Hong Kong can reinforce its role as an international financial centre by deepening integration with mainland capital markets and expanding c..."
+    },
+    {
+      "title": "Insilico Medicine advances Middle East push with UAE AI drug discovery deal",
+      "link": "https://www.scmp.com/business/china-business/article/3345614/insilico-medicine-advances-middle-east-push-uae-ai-drug-discovery-deal?utm_source=rss_feed",
+      "date": "2026-03-05 22:30",
+      "summary": "Hong Kong-listed Insilico Medicine has signed a cooperation agreement with the United Arab Emirates’ drug regulator to advance the use of it..."
+    },
+    {
+      "title": "Hong Kong strengthens its role as an international education hub and gateway to the GBA, expanding cross-border learning and research",
+      "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/hk-international-education-hub/article/3345532/hong-kong-strengthens-its-role-international-education-hub-and-gateway-gba-expanding-cross-border?utm_source=rss_feed",
+      "date": "2026-03-05 16:00",
+      "summary": "[The content of this article has been produced by our advertising partner.]\nHong Kong takes decisive initiative amid a shifting global highe..."
     }
   ],
   "New Scientist": [
@@ -164,63 +196,63 @@
       "title": "Möbius strip-like molecule has an entirely new and bizarre shape",
       "link": "https://www.newscientist.com/article/2518188-mobius-strip-like-molecule-has-an-entirely-new-and-bizarre-shape/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-05 19:00",
-      "summary": "A ring of 13 carbon atoms and two chlorine atoms has a remarkable molecular structure that means you would have to go around the l..."
+      "summary": "A ring of 13 carbon atoms and two chlorine atoms has a remarkable molecular structure that means you would have to go around the loop four t..."
     },
     {
       "title": "How worried should you be about microplastics?",
       "link": "https://www.newscientist.com/article/2514970-how-worried-should-you-be-about-microplastics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-04 10:29",
-      "summary": "Microplastics have been found accumulating everywhere from our water to our body tissues, but many of the claims have come under f..."
+      "summary": "Microplastics have been found accumulating everywhere from our water to our body tissues, but many of the claims have come under fresh scrut..."
     },
     {
       "title": "Just one dose of psilocybin relieves symptoms of OCD for months",
       "link": "https://www.newscientist.com/article/2518102-just-one-dose-of-psilocybin-relieves-symptoms-of-ocd-for-months/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-05 16:00",
-      "summary": "Taking psilocybin – the psychedelic component of magic mushrooms – eased symptoms of obsessive compulsive disorder among people wh..."
+      "summary": "Taking psilocybin – the psychedelic component of magic mushrooms – eased symptoms of obsessive compulsive disorder among people who did not ..."
     },
     {
       "title": "Two marsupials believed extinct for 6000 years found alive",
       "link": "https://www.newscientist.com/article/2518082-two-marsupials-believed-extinct-for-6000-years-found-alive/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-05 13:00",
-      "summary": "Indigenous people in Papua, Indonesia, have helped scientists track down two animals that were thought to have gone extinct thousa..."
+      "summary": "Indigenous people in Papua, Indonesia, have helped scientists track down two animals that were thought to have gone extinct thousands of yea..."
     },
     {
       "title": "Alzheimer’s may start with inflammation in the skin, lungs or gut",
       "link": "https://www.newscientist.com/article/2517735-alzheimers-may-start-with-inflammation-in-the-skin-lungs-or-gut/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-05 12:00",
-      "summary": "The Alzheimer’s field is being turned on its head as mounting evidence points to the disease beginning outside the brain many year..."
+      "summary": "The Alzheimer’s field is being turned on its head as mounting evidence points to the disease beginning outside the brain many years before s..."
     }
   ],
-  "VnExpress": [
+  "VnExpress Global": [
+    {
+      "title": "Vietnamese crew rescue 21 sailors in Gulf of Oman amid Middle East conflict",
+      "link": "https://e.vnexpress.net/news/news/vietnamese-crew-rescue-21-sailors-in-gulf-of-oman-amid-middle-east-conflict-5047231.html",
+      "date": "2026-03-06 02:08",
+      "summary": "A Vietnamese tanker crew rescued 21 sailors from a burning vessel in the Gulf of Oman after responding to a distress signal, according to th..."
+    },
     {
       "title": "The sea is higher than we thought and millions more are at risk, study finds",
       "link": "https://e.vnexpress.net/news/news/environment/the-sea-is-higher-than-we-thought-and-millions-more-are-at-risk-study-finds-5046868.html",
       "date": "2026-03-06 00:40",
-      "summary": "Climate change's rising seas may threaten tens of millions more people than scientists and government planners originally thought ..."
+      "summary": "Climate change's rising seas may threaten tens of millions more people than scientists and government planners originally thought because of..."
     },
     {
       "title": "HCMC tightens controls on events along downtown Nguyen Hue, Le Loi streets",
       "link": "https://e.vnexpress.net/news/news/traffic/hcmc-tightens-controls-on-events-along-downtown-nguyen-hue-le-loi-streets-5047017.html",
       "date": "2026-03-06 00:38",
-      "summary": "Ho Chi Minh City authorities have tightened oversight of large-scale events on Nguyen Hue Walking Street and nearby Le Loi Street ..."
+      "summary": "Ho Chi Minh City authorities have tightened oversight of large-scale events on Nguyen Hue Walking Street and nearby Le Loi Street after comp..."
     },
     {
       "title": "Singapore races to bring stranded citizens home from Middle East",
       "link": "https://e.vnexpress.net/news/news/traffic/singapore-races-to-bring-stranded-citizens-home-from-middle-east-5047118.html",
       "date": "2026-03-05 13:44",
-      "summary": "Singapore has announced to send more repatriation flights to bring stranded citizens home from the Middle East after the first one..."
+      "summary": "Singapore has announced to send more repatriation flights to bring stranded citizens home from the Middle East after the first ones landed a..."
     },
     {
       "title": "Hanoi moves to end train services through its world-famous railway coffee street",
       "link": "https://e.vnexpress.net/news/news/traffic/hanoi-moves-to-end-train-services-through-its-world-famous-railway-coffee-street-5047027.html",
       "date": "2026-03-05 13:00",
-      "summary": "Hanoi is moving to end passenger train services through its world-famous railway coffee street, where tourists sit in cafes just i..."
-    },
-    {
-      "title": "Passengers hide over 12 kg of suspected gold in underwear at Hanoi airport",
-      "link": "https://e.vnexpress.net/news/news/passengers-hide-over-12-kg-of-suspected-gold-in-underwear-at-hanoi-airport-5047077.html",
-      "date": "2026-03-05 12:00",
-      "summary": "Customs officers at Hanoi's Noi Bai International Airport found 31 pieces of suspected gold bars hidden in the bras and underwear ..."
+      "summary": "Hanoi is moving to end passenger train services through its world-famous railway coffee street, where tourists sit in cafes just inches from..."
     }
   ]
 }
