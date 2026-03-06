@@ -1,34 +1,98 @@
 {
-  "Retraction Watch": [
+  "MIT News": [
     {
-      "title": "Publisher demands $500 from impersonated author to retract paper",
-      "link": "https://retractionwatch.com/2026/03/05/publisher-demands-500-from-impersonated-author-to-retract-paper/",
-      "date": "2026-03-05 21:38",
-      "summary": "Last year, we wrote about a Walsh Medical Media journal that refused to withdraw an author’s paper unless he paid a fee — even though he did..."
+      "title": "New insights into a hidden process that protects cells from harmful mutations",
+      "link": "https://news.mit.edu/2026/new-insights-hidden-process-protects-cells-harmful-mutations-0305",
+      "date": "2026-03-05 22:15",
+      "summary": "Research reveals how cells may activate a compensation system that can reduce the effects of harmful genetic mutations. This could inform ge..."
     },
     {
-      "title": "Controversial comet theory struck by two new retractions",
-      "link": "https://retractionwatch.com/2026/03/04/controversial-comet-theory-struck-by-two-new-retractions/",
-      "date": "2026-03-04 20:35",
-      "summary": "PLOS One has retracted two papers from the Comet Research Group, a controversial cadre of researchers who, according to their webpage, seek ..."
+      "title": "Recreating the forms and sounds of historical musical instruments",
+      "link": "https://news.mit.edu/2026/recreating-forms-sounds-historic-musical-instruments-0305",
+      "date": "2026-03-05 22:00",
+      "summary": "Through an interdisciplinary collaboration between MIT and the Museum of Fine Arts, Boston, researchers are creating playable physical and s..."
     },
     {
-      "title": "A medical journal says the case reports it has published for 25 years are, in fact, fiction",
-      "link": "https://retractionwatch.com/2026/03/03/canadian-pediatric-society-journal-correction-case-reports-fictional-paediatrics-child-health/",
-      "date": "2026-03-03 21:45",
-      "summary": "A Canadian journal has issued corrections on 138 case reports it published over the last 25 years to add a disclaimer: The cases described a..."
+      "title": "New catalog more than doubles the number of gravitational-wave detections made by LIGO, Virgo, and KAGRA observatories",
+      "link": "https://news.mit.edu/2026/new-catalog-doubles-gravitational-wave-detections-made-ligo-virgo-kagra-0305",
+      "date": "2026-03-05 13:00",
+      "summary": "The latest crop of space-time wobbles includes a variety of heavy, fast-spinning, and lopsided colliding black holes...."
     },
     {
-      "title": "Preprint server removes study attributing increased infant mortality to vaccines",
-      "link": "https://retractionwatch.com/2026/03/02/preprint-server-removes-study-attributing-increased-infant-mortality-to-vaccines/",
-      "date": "2026-03-02 18:36",
-      "summary": "A preprint server has withdrawn a study that suggested children vaccinated in the second month of life are more likely to die soon after whe..."
+      "title": "Nitrous oxide, a product of fertilizer use, may harm some soil bacteria",
+      "link": "https://news.mit.edu/2026/nitrous-oxide-product-fertilizer-use-may-harm-some-soil-bacteria-0304",
+      "date": "2026-03-04 14:00",
+      "summary": "While some N2O is produced naturally at the plant root, agricultural practices can increase its levels, to the detriment of some microbes th..."
     },
     {
-      "title": "Weekend reads: Institute to stop paying fees for some OA journals; sleuths’ tips for spotting fraud; Bayer sues J&J over ‘false and misleading claims’",
-      "link": "https://retractionwatch.com/2026/02/28/weekend-reads-china-institute-stop-paying-fees-oa-journals-sleuth-tips-fraud-bayer-sues-jj-false-and-misleading-claims/",
-      "date": "2026-02-28 11:00",
-      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In case you ..."
+      "title": "How some skills become second nature",
+      "link": "https://news.mit.edu/2026/how-some-skills-become-second-nature-0304",
+      "date": "2026-03-04 05:00",
+      "summary": "Patterns of gaze and attention can reveal how some people unconsciously figure out how to master a task, new research shows...."
+    }
+  ],
+  "Harvard Gazette": [
+    {
+      "title": "How academia can help America heal - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
+      "date": "2026-02-13 08:00",
+      "summary": "How academia can help America heal  Harvard Gazette..."
+    },
+    {
+      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
+      "date": "2025-09-25 07:00",
+      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
+    },
+    {
+      "title": "Harvard reports operating deficit amid federal funding cuts - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2ZjQmV2UTFaS0pGVnpKNTBuZF83dkdOcV9NTVdvYXBmVWFYNDdHWlFHYkFna1A2SWFmS0UxRmRKWFhFTVowcWxrbEFJYVJTWmNDOUxuRVIzQ3Nuekwzb0JQWUFpSmNETlNReGtkSHJnNnZ4RGRCYlhPN2lBbWZibUc0bVRjd050N2dqdFAtNnh2RnlQQzEzYWtJU3VucXdVZ3AzOWtqQkdjeW8?oc=5",
+      "date": "2025-10-16 07:00",
+      "summary": "Harvard reports operating deficit amid federal funding cuts  Harvard Gazette..."
+    },
+    {
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
+      "date": "2025-10-23 07:00",
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
+    },
+    {
+      "title": "What if AI could help students learn, not just do assignments for them? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZERnQ0tJMkp3bEVHQXFHeDVRVFdNLUlucVQzakN2bmJ2VUFTSGJvVE9KNTJPSUxuNnFocjc5a2o0Q0JnTlJiMDFPdUVROVJJODhoek9scUJJTTNmVGd0RHN1NXJCbkZrXzVZM1c2YVhrZlFpWl9ZQ3NrS2dOUTVLd21nUWdIMERMTVVxWGxnZ2hGalBHNW5vSzgwQ1hNbEprWlRQTXN4REdKOS1JN3RPYUZoamN4T0tI?oc=5",
+      "date": "2025-10-21 07:00",
+      "summary": "What if AI could help students learn, not just do assignments for them?  Harvard Gazette..."
+    }
+  ],
+  "Stanford News": [
+    {
+      "title": "Stanford Board of Trustees elects two new members - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTNyS0Z1cWpKd2xwd2RIRUpHa2NoXzdDWEQ5OVFHUExnMkZ3d1dpem40VE0xelpMaWtHSXV0SmNTS21oajdLTEEzUVRPWmdwOVVtMFdhZlhTanRXYnBwWTlKbnZReTBBcTlTeVlvYUg4aVNCVi1mYndnakw3MXAtSWlDSQ?oc=5",
+      "date": "2026-03-03 14:00",
+      "summary": "Stanford Board of Trustees elects two new members  Stanford University..."
+    },
+    {
+      "title": "No. 15 Wake Forest Welcomes Stanford to Open ACC Play - Wake Forest University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRU80S0IyN0JKOE5sTndmbnE5TS1ndF9pcUhyUFJxZmw3WENjZVRzRFViUVBFTUE0M1F6ZmNwRGZIdGhKN2FCTnNVb0s4Y3hUTVNmbmRfVlhiWmFKdnB1YldqWFFjcjVCR2FCRVV4U0Jic1diWHRVWTZTcUVNa1RkSk11TFlpUUg4UU02U1VXV252V05ncF9YWW9yTQ?oc=5",
+      "date": "2026-03-05 22:10",
+      "summary": "No. 15 Wake Forest Welcomes Stanford to Open ACC Play  Wake Forest University Athletics..."
+    },
+    {
+      "title": "What your phone knows could help scientists understand your health - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2tVODEwaUgwOGJNRmN6TDk4VkoxbmtNSDF0TFh0cmNja0VNWVVwZUR3UklwLTJaa18yTnl6TllnMDd6b3F6Y1hndEVpTDFOeDg4czEzSnRNVzBKWm9iVk1hUXVBZThsN1JxempkN3otTzItaVJQbE1aNkROZnBKeEMzdlQyUzJuUVJHZEJIVXVtcXY0Q1dOampnVE9VdGw2Umc?oc=5",
+      "date": "2026-03-05 19:34",
+      "summary": "What your phone knows could help scientists understand your health  Stanford University..."
+    },
+    {
+      "title": "Go behind the science with Rodolfo Dirzo - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnFZVUxhbW1uRTBUejJRdHVaUzlyRlJSYnN2QWNHYnhQcHRrRkZhYV9hdmdUa3ByRVEtNGd4cHBmdFNrTzB0U0t2Rk1VSXFpMXpkNzNpaHZPZUlLVlM1U2dDR1ZWRnpJbGFaOEtkM3FlUVc5Wnc0NEVOTGMzQWVzWFlyNHpVQS1OQmx3YQ?oc=5",
+      "date": "2026-03-06 00:44",
+      "summary": "Go behind the science with Rodolfo Dirzo  Stanford University..."
+    },
+    {
+      "title": "Daniel E. Ho Receives Roland Prize for Public Service in Law and Policy - Stanford Law School",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYlRMeV9fQlQwVzJuRGVYQXllUFl2aWpDaWtvcWRJUmpYQWw2ckNjX1hPdzQ3SkJOQS1OZGhKSXg5V2cwamNsUEF3QmpvbE9aVUZmMDFkOU1CVXhEVEd2UFVfeVlvaGNidnExSF9GVWtjcGs1WXE4SnIwbHpaUWZSRFZHcUJUdzdya0oxNGlMOGppMlFBbExnNjFrN2pfdFNybEFXTg?oc=5",
+      "date": "2026-03-04 23:59",
+      "summary": "Daniel E. Ho Receives Roland Prize for Public Service in Law and Policy  Stanford Law School..."
     }
   ],
   "Science News": [
@@ -63,7 +127,45 @@
       "summary": "The treatments appeared to help prevent a wide range of substance use disorders and reduce serious harms from existing ones..."
     }
   ],
+  "Retraction Watch": [
+    {
+      "title": "Publisher demands $500 from impersonated author to retract paper",
+      "link": "https://retractionwatch.com/2026/03/05/publisher-demands-500-from-impersonated-author-to-retract-paper/",
+      "date": "2026-03-05 21:38",
+      "summary": "Last year, we wrote about a Walsh Medical Media journal that refused to withdraw an author’s paper unless he paid a fee — even though he did..."
+    },
+    {
+      "title": "Controversial comet theory struck by two new retractions",
+      "link": "https://retractionwatch.com/2026/03/04/controversial-comet-theory-struck-by-two-new-retractions/",
+      "date": "2026-03-04 20:35",
+      "summary": "PLOS One has retracted two papers from the Comet Research Group, a controversial cadre of researchers who, according to their webpage, seek ..."
+    },
+    {
+      "title": "A medical journal says the case reports it has published for 25 years are, in fact, fiction",
+      "link": "https://retractionwatch.com/2026/03/03/canadian-pediatric-society-journal-correction-case-reports-fictional-paediatrics-child-health/",
+      "date": "2026-03-03 21:45",
+      "summary": "A Canadian journal has issued corrections on 138 case reports it published over the last 25 years to add a disclaimer: The cases described a..."
+    },
+    {
+      "title": "Preprint server removes study attributing increased infant mortality to vaccines",
+      "link": "https://retractionwatch.com/2026/03/02/preprint-server-removes-study-attributing-increased-infant-mortality-to-vaccines/",
+      "date": "2026-03-02 18:36",
+      "summary": "A preprint server has withdrawn a study that suggested children vaccinated in the second month of life are more likely to die soon after whe..."
+    },
+    {
+      "title": "Weekend reads: Institute to stop paying fees for some OA journals; sleuths’ tips for spotting fraud; Bayer sues J&J over ‘false and misleading claims’",
+      "link": "https://retractionwatch.com/2026/02/28/weekend-reads-china-institute-stop-paying-fees-oa-journals-sleuth-tips-fraud-bayer-sues-jj-false-and-misleading-claims/",
+      "date": "2026-02-28 11:00",
+      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In case you ..."
+    }
+  ],
   "Reuters AI": [
+    {
+      "title": "US mulls new rules for AI chip exports, including requiring US investments by foreign firms - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHlIa3ZDZ0wxc19tUmxrb1l4aml2UEI2S3MtV1RrMWxJV3FsS2ZuMk9oQk9Ed1YyTGZBWlRIU0lFQkxkbmNFbFpOblk0LUo0X2JReEdDdkEyVzFYc0VqOWtfUmhIb2JYbjc4VmtxY1NoTU1jRk5RRUE1Q1NkSGhUZVVmdW9qVzBnYnNOZzVoV21rbFpheFVPMVRLenVVRzVILWU5ZWNGTnhZMGk5anRNTDdnbHRTV1FDOW9j?oc=5",
+      "date": "2026-03-05 21:12",
+      "summary": "US mulls new rules for AI chip exports, including requiring US investments by foreign firms  Reuters..."
+    },
     {
       "title": "China's new five-year plan calls for AI throughout its economy, tech breakthroughs - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT0xhZFBNRnhPeGVjNWlhSzFobDMtOVoyQWZ6WXJvUk41UUpITFk5am9GczMtX1dGdDQzMlV4RWdmZjVPY3NtMWN1WnB2eUpoRXItcmhYM0pUWktZN2h6bDJTY3A5OWQ3ZUVDQ2FkNHVKVWZPTGZORUt2cWExWmpNVGhqMUtnYXBnaVVjTm9NTkhWcFVTeXpTTVhULUJwU0ZZLWdQakRJYU9WWTc1VGNYajF3?oc=5",
@@ -71,16 +173,10 @@
       "summary": "China's new five-year plan calls for AI throughout its economy, tech breakthroughs  Reuters..."
     },
     {
-      "title": "OpenAI tops $25 billion in annualized revenue, The Information reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSll6UGprMldZQ3l0YTJyaW1IMElHSmN5YlE2b0pqUlR1SVJxaDV5QkVmQVpVM3lkV3NuNlVNb1hPY2M3WEdDZWVoWmk2YXhFNnZMZGJkTkgzQmdONUNUS3pMX3JibVhveGs5b054S1BsTEtidG1pU080RUxLTXUzaUl3UzdYdUpmSjFQTWotYVltTGF3dUpqUlNUUk1ZQTRLOEUycVZ0SnluQkFfb3g4SDB3blZYUlYxTUxR?oc=5",
-      "date": "2026-03-05 03:38",
-      "summary": "OpenAI tops $25 billion in annualized revenue, The Information reports  Reuters..."
-    },
-    {
-      "title": "US mulls new rules for AI chip exports, including requiring US investments by foreign firms - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHlIa3ZDZ0wxc19tUmxrb1l4aml2UEI2S3MtV1RrMWxJV3FsS2ZuMk9oQk9Ed1YyTGZBWlRIU0lFQkxkbmNFbFpOblk0LUo0X2JReEdDdkEyVzFYc0VqOWtfUmhIb2JYbjc4VmtxY1NoTU1jRk5RRUE1Q1NkSGhUZVVmdW9qVzBnYnNOZzVoV21rbFpheFVPMVRLenVVRzVILWU5ZWNGTnhZMGk5anRNTDdnbHRTV1FDOW9j?oc=5",
-      "date": "2026-03-05 21:12",
-      "summary": "US mulls new rules for AI chip exports, including requiring US investments by foreign firms  Reuters..."
+      "title": "Netflix acquires Ben Affleck's AI film-tech firm - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmVRMU5ramt5Q0o4eFYyTElMbFNoeTAwLWg5bUpRdlc4eC0xeTFpTHJiMmFQV2Z2TUtZNDVkSmJRLUpNZktWWUVlVVBrUDZZX3RBYkMtbUtsTDFkNFhCRzlHaXVFX0dacjJZVGZjYlNDUVVaRXBxTUtfcEJNeG5EZUl4a3FzRTBFZlpGREdjT0xZaTBVVnA0NnlaZC1nOTRaTjNQc3Bpbmh6QQ?oc=5",
+      "date": "2026-03-05 16:02",
+      "summary": "Netflix acquires Ben Affleck's AI film-tech firm  Reuters..."
     },
     {
       "title": "Broadcom rises as $100 billion AI forecast signals gains in Nvidia-dominated market - Reuters",
@@ -127,7 +223,39 @@
       "summary": "Bridging the operational AI gap  MIT Technology Review..."
     }
   ],
-  "The Guardian Edu": [
+  "Phys.org (物理/科技)": [
+    {
+      "title": "Upconversion materials: A new frontier in solar water-splitting",
+      "link": "https://phys.org/news/2026-03-upconversion-materials-frontier-solar.html",
+      "date": "2026-03-06 02:40",
+      "summary": "Solar water splitting is one of the most direct ways to produce green hydrogen using sunlight. However, most photocatalysts and photoelectro..."
+    },
+    {
+      "title": "Elephants avoid humans far more than baboons, waterbucks or antelopes",
+      "link": "https://phys.org/news/2026-03-elephants-humans-baboons-waterbucks-antelopes.html",
+      "date": "2026-03-06 01:20",
+      "summary": "Wild animal species respond very differently to human development, and as a result, they use ecological corridors in agricultural and urban ..."
+    },
+    {
+      "title": "Soybeans recruit beneficial soil microbes to defend against a major pest",
+      "link": "https://phys.org/news/2026-03-soybeans-beneficial-soil-microbes-defend.html",
+      "date": "2026-03-06 00:40",
+      "summary": "Soybean cyst nematode (SCN) is among the most damaging pests affecting soybean crops around the world, with current management strategies re..."
+    },
+    {
+      "title": "Toxic evolution: How wasps and frogs mimic pain molecules to deter predators",
+      "link": "https://phys.org/news/2026-03-toxic-evolution-wasps-frogs-mimic.html",
+      "date": "2026-03-06 00:40",
+      "summary": "Certain species of wasps and frogs share a pain and inflammation peptide similar to one found in vertebrates to help defend against predator..."
+    },
+    {
+      "title": "Engineers improve infrared devices using century-old materials",
+      "link": "https://phys.org/news/2026-03-infrared-devices-century-materials.html",
+      "date": "2026-03-06 00:20",
+      "summary": "After decades of intense research, surprises in the realm of semiconductors—materials used in microchips to control electrical currents—are ..."
+    }
+  ],
+  "The Guardian Education": [
     {
       "title": "RFK Jr urges medical schools to increase nutrition education training",
       "link": "https://www.theguardian.com/us-news/2026/mar/05/rfk-medical-school-nutrition",
@@ -221,38 +349,6 @@
       "link": "https://www.newscientist.com/article/2517735-alzheimers-may-start-with-inflammation-in-the-skin-lungs-or-gut/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-05 12:00",
       "summary": "The Alzheimer’s field is being turned on its head as mounting evidence points to the disease beginning outside the brain many years before s..."
-    }
-  ],
-  "VnExpress Global": [
-    {
-      "title": "Vietnamese crew rescue 21 sailors in Gulf of Oman amid Middle East conflict",
-      "link": "https://e.vnexpress.net/news/news/vietnamese-crew-rescue-21-sailors-in-gulf-of-oman-amid-middle-east-conflict-5047231.html",
-      "date": "2026-03-06 02:08",
-      "summary": "A Vietnamese tanker crew rescued 21 sailors from a burning vessel in the Gulf of Oman after responding to a distress signal, according to th..."
-    },
-    {
-      "title": "The sea is higher than we thought and millions more are at risk, study finds",
-      "link": "https://e.vnexpress.net/news/news/environment/the-sea-is-higher-than-we-thought-and-millions-more-are-at-risk-study-finds-5046868.html",
-      "date": "2026-03-06 00:40",
-      "summary": "Climate change's rising seas may threaten tens of millions more people than scientists and government planners originally thought because of..."
-    },
-    {
-      "title": "HCMC tightens controls on events along downtown Nguyen Hue, Le Loi streets",
-      "link": "https://e.vnexpress.net/news/news/traffic/hcmc-tightens-controls-on-events-along-downtown-nguyen-hue-le-loi-streets-5047017.html",
-      "date": "2026-03-06 00:38",
-      "summary": "Ho Chi Minh City authorities have tightened oversight of large-scale events on Nguyen Hue Walking Street and nearby Le Loi Street after comp..."
-    },
-    {
-      "title": "Singapore races to bring stranded citizens home from Middle East",
-      "link": "https://e.vnexpress.net/news/news/traffic/singapore-races-to-bring-stranded-citizens-home-from-middle-east-5047118.html",
-      "date": "2026-03-05 13:44",
-      "summary": "Singapore has announced to send more repatriation flights to bring stranded citizens home from the Middle East after the first ones landed a..."
-    },
-    {
-      "title": "Hanoi moves to end train services through its world-famous railway coffee street",
-      "link": "https://e.vnexpress.net/news/news/traffic/hanoi-moves-to-end-train-services-through-its-world-famous-railway-coffee-street-5047027.html",
-      "date": "2026-03-05 13:00",
-      "summary": "Hanoi is moving to end passenger train services through its world-famous railway coffee street, where tourists sit in cafes just inches from..."
     }
   ]
 }
