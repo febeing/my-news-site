@@ -1,11 +1,12 @@
-import   进口   进口实现feedparser feedparser
-import   进口   进口json json
-import   进口   进口套接字 socket
-import   进口   进口的请求 requests
-import   进口   导入的时间 time
-import   进口   进口随机 random
-from从 BeautifulSoup 导入 BeautifulSoup bs4    从import BeautifulSoup
+import feedparser
+import json
+import socket
+import requests
+import time
+import random
+from bs4 import BeautifulSoup
 
+# 超时设置，防止个别网站卡死整个流程
 socket.setdefaulttimeout(20)
 
 SOURCES = {
@@ -37,49 +38,65 @@ SOURCES = {
 }
 
 def run_scraper():
-    all_results = {}"VnExpress Global": "https://e.vnexpress.net/rss   All_results = {}
-ews.rss"
-    ua_list = ["New Scientist": "https://www.newscientist.com/section   Ua_list = [
-ews/feed/",
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'," Lianhe Zaobao (China) : " https://www.zaobao.com.sg/realtime/china/rss" ,“Mozilla/5.0（Windows NT 10.0；Win64；x64）AppleWebKit/537.36（KHTML，如 Gecko）Chrome/122.0.0.0 Safari/537.36”
-        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'Mozilla/5.0（Macintosh；Intel Mac OS X 10_15_7）AppleWebKit/537.36（KHTML，如 Gecko）Chrome/121.0.0.0 Safari/537.36
+    all_results = {}
+    # 扩展浏览器指纹库
+    ua_list = [
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0'
     ]
 
-    for name, url in SOURCES.items():对于名称、网址在来源项中：
-        print(f">>> 正在同步: {name}")print(f'>>> Synchronizing: {name}')
-        # 随机休眠防封
-        time.sleep(random.uniform(1.0, 2.5))
-        headers = {'User-Agent': random.choice(ua_list), 'Accept-Language': 'en-US,en;q=0.9'}
+    for name, url in SOURCES.items():
+        print(f">>> 正在同步信源: {name}")
+        # 随机休眠 1-2 秒，模拟真人阅读翻页，降低被封概率
+        time.sleep(random.uniform(1.0, 2.0))
+        
+        headers = {
+            'User-Agent': random.choice(ua_list),
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+        }
         
         try:
+            # 统一使用 requests 抓取，处理编码和反爬
             resp = requests.get(url, headers=headers, timeout=20)
             if resp.status_code == 200:
                 feed = feedparser.parse(resp.content)
                 articles = []
-                for entry in feed.entries[:5]:
+                
+                for entry in feed.entries[:5]: # 每个信源取最新的 5 条
                     dt = entry.get("published_parsed", entry.get("updated_parsed", None))
-                    date_str = time.strftime("%Y-%m-%d %H:%M", dt) if dt else "近期"
+                    date_str = time.strftime("%Y-%m-%d %H:%M", dt) if dt else "近期发布"
                     
-                    raw_summary = entry.get("summary", entry.get("description", "点击查看详情"))
-                    clean_summary = BeautifulSoup(raw_summary, "html.parser").get_text()[:140] + "..."
+                    # 清理摘要中的 HTML 标签
+                    raw_summary = entry.get("summary", entry.get("description", "点击标题查看详情"))
+                    soup = BeautifulSoup(raw_summary, "html.parser")
+                    clean_summary = soup.get_text()[:140] + "..."
                     
                     articles.append({
                         "title": entry.get("title", "无题"),
-                        "link": entry.get("link", ""),
+                        "link": entry.get("link", "#"),
                         "date": date_str,
                         "summary": clean_summary
                     })
                 
                 if articles:
                     all_results[name] = articles
-                    print(f"✅ {name} 成功！当前累计: {len(all_results)}")
+                    print(f"✅ {name} 成功！当前累计有效板块: {len(all_results)}")
+                else:
+                    print(f"⚠️ {name} 抓取结果为空")
+            else:
+                print(f"❌ {name} 访问失败 (状态码: {resp.status_code})")
+                
         except Exception as e:
-            print(f"❌ {name} 失败: {e}")
+            print(f"❌ {name} 发生错误: {e}")
             continue
 
+    # 将最终合并后的数据写入 JSON
+    print(f"--- 抓取结束，准备保存数据 ---")
     with open('news.json', 'w', encoding='utf-8') as f:
         json.dump(all_results, f, ensure_ascii=False, indent=2)
-    print(f"写入完成，共计 {len(all_results)} 个信源。")
+    print(f"🎉 成功！最终获得 {len(all_results)} 个信源的最新情报。")
 
 if __name__ == "__main__":
     run_scraper()
