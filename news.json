@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
-      "date": "2026-02-20 21:52",
-      "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
-    },
-    {
       "title": "How academia can help America heal - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2ZjQmV2UTFaS0pGVnpKNTBuZF83dkdOcV9NTVdvYXBmVWFYNDdHWlFHYkFna1A2SWFmS0UxRmRKWFhFTVowcWxrbEFJYVJTWmNDOUxuRVIzQ3Nuekwzb0JQWUFpSmNETlNReGtkSHJnNnZ4RGRCYlhPN2lBbWZibUc0bVRjd050N2dqdFAtNnh2RnlQQzEzYWtJU3VucXdVZ3AzOWtqQkdjeW8?oc=5",
       "date": "2025-10-16 07:00",
       "summary": "Harvard reports operating deficit amid federal funding cuts  Harvard Gazette..."
+    },
+    {
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
+      "date": "2025-10-23 07:00",
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -211,16 +211,16 @@
       "summary": "Netflix acquires Ben Affleck's AI film-tech firm  Reuters..."
     },
     {
-      "title": "Pentagon designates Anthropic a supply chain risk - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0wyVmJCaTRXWk5YS2Q4S0RVV01YcnhBVXJ6T0JxWFNzenlITlgtTGZXeUEweU1ld2RhdkNaRWhuNldabXlKdmRzWEl4OG13SzRYY2M0UUlEcFVCSGctTC00WEQxeHlXeWlya2NmQVF3NVNJemNvUkNTSG0xbWI5TURTaWRfb1czcUw1LUQwT0hoZVMwRXpFWV8zM2F5M3psS183UnA0dHNyTzBLRmJsSUZR?oc=5",
-      "date": "2026-03-05 20:13",
-      "summary": "Pentagon designates Anthropic a supply chain risk  Reuters..."
-    },
-    {
       "title": "Codelco, Microsoft sign AI deal for mining operations - Reuters",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWJHT2M3dEEyQ3JmTTN2RmhiQlZBMUJpS1hBWFh1MEo5bllqX1dCNFU2T1NiOHRWNnA5bzhxdUJGc1NNV0dSc245UFkwTTM4Sk1Qem5lajFHM0dIc3RuSGpIS2ktQUVnTjJrdGFVcUU2SWswUWdBY3ZlY011Ti1jcGtMMnFxTjZ5Mmp0dy13MHpHNVlfVXNkYk5VeFJzVWQ3?oc=5",
       "date": "2026-03-05 14:26",
       "summary": "Codelco, Microsoft sign AI deal for mining operations  Reuters..."
+    },
+    {
+      "title": "Broadcom rises as $100 billion AI forecast signals gains in Nvidia-dominated market - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0VhMElGUVl0cUJ0Qk5wMWZlX1U5d2JNTWhfeU45bExxRlZna09mbWdCN1dMTUlibDF4cnRQa0hzZjMtMTZQaGhjUHRfTllhZE51MHM3bmhaT0JYblZoNHoxc3JyY1dkM0RtM2kxbExxSnBRMFVDTlJ0X2lZWUFRSWhucFBjVE1KQldqa1Z1d1B4Z2xYTjFYemdLejh0c1RGN0w1UVZqZWNFVWNmS2Z2dA?oc=5",
+      "date": "2026-03-05 10:26",
+      "summary": "Broadcom rises as $100 billion AI forecast signals gains in Nvidia-dominated market  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -229,12 +229,6 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUUZ6NnQtaS1Rd0tJMm1rZWE3bllXLWxrcjFXUUNXWVVyVXIxMkpseFdvdDROUk5EbkMtTUR4QnJnaUhsUnA0bzJTQU1Vb0hBRk8wZEpVUmNTUjZZQTN0bGxUOFVybGN6T3c4NVVtVWpKaWZfeU1mV0JFcnppZFM3Zk01Z0M3YlVsRHJvOWY4aTdnWTMwTkR1SmE2SlJGcnJkd0NOX2lXMGJiY2JhQUpVVEN1d1ZfcEYtbHRLeGo0VTljYXA2aDdaa9IBzgFBVV95cUxQb3duZjYxX29GN3d5Y3g0QmpUdTF4eDYwQXhDMDV3UDVHMEtQWGNjX2l2NnFVMWxqQ3R6N2VtYXdoS2J1dzdOY25ZakdodTBfWFpwOHRWWk85RmN4UC0zWjBWVnNiTmtZODZ4MlRLMDdNR2Z4cFk1blNsYzZsRkozWE93QjhQdU9oc1JwVFJkbldVX3IzT0gzQk9sSTdLLWRmZmVrSlh4ODdyRmhEaFJkcUhTYjNTc1hIWGlld0pvZVJJYl81bTAtdFFSSjNPUQ?oc=5",
       "date": "2026-03-03 10:00",
       "summary": "This startup claims it can stop lightning and prevent catastrophic wildfires  MIT Technology Review..."
-    },
-    {
-      "title": "The Crime issue - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGZXpMZTJ5SGpvdFB1N1FISEpRakVqUEZGYUE1dXNySVg5a0gyeDNoUU9vSmNsVU9reEZwVVFOWVFvUHU0dFJrQ0I2UVRucjVrVGlwY051aDJZcjdJYXB0dFp3UHdJS3ZNY3NN?oc=5",
-      "date": "2026-02-25 11:02",
-      "summary": "The Crime issue  MIT Technology Review..."
     },
     {
       "title": "I checked out one of the biggest anti-AI protests yet - MIT Technology Review",
@@ -253,9 +247,27 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQy1WS3J1eExFWm44UlJWSmVickxad3Y0NnZzSzJEWkc5S1ZvVC1LMzJaN0RBYUhjRk1ReklEei1XMUtfNXpaRWhKcHFXMWo1NVhwblU0ZHJkMHpzUXNDQWtLdE1DaWNBeWJpU0JwdnF1YTh5NmVEVm5jYmd2Um1INjJvUXllQU9kcmZUTmFZQWdEZXMyZjVxTdIBngFBVV95cUxQRDhEckhTSTFUYm9ranBmZXR3TlB5Yl91cHlZeGdFUVpEN1dyeFVxVFFCQlhGQnBxQl9LQUhlV1VpRm1sRnNJRDY5YVRFamQ2YkVDRGRiTkpieTFKUkNncEZPUDJYS1Rud0xheGFJSlgtTENXMVVDbUp4TXRMRHZMS1ZadTZzcUl1N2EydzItSmNfR05mX0E5cjRWSVQ5QQ?oc=5",
       "date": "2026-03-05 10:00",
       "summary": "Online harassment is entering its AI era  MIT Technology Review..."
+    },
+    {
+      "title": "Finding value with AI and Industry 5.0 transformation - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkZOS2FUeHJRckxxOGlQOEtqQTBqelF2NVdlQ2M5YXNWeEtraWozcEZXdk9lOXRPYjFtRGNlSjFJcjE1OUhyQXFyQkt5UDBFX2FYQll6dnVKOTVhd0dVaUlWOG14QllqRkRpZVFQZlJGRmhGMGxERUQzRTdVM25fTHkxRXU0TWdxdlhDQWhXaGx0NjkwdURTUjgwdzhzU1lsb3oyd3NuZGJkd9IBrwFBVV95cUxPWGN0TzE3dnNwWTVtOEJkd0FGeHFRZHN5cjZVMW1Gd1dVd0dUeGtGZ2xBUERXd2RSS3g1VXZ4M2JVdXVZSmYydUtzNTF2d2NST0gwT0hHRGtfYW9zRmZJcFIwVHk4Y3ROVEhrdzlVUFBGalRVanJRNUswVlhVWmFQYUxmZWQ2WjlkRVlVRVhUQVNEd0QyNVFxLVZJWUFGc2EtbWZuWVRYZHF4YnNBaHhB?oc=5",
+      "date": "2026-02-26 15:00",
+      "summary": "Finding value with AI and Industry 5.0 transformation  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Carbon emissions now more than double the planetary boundary, analysis finds",
+      "link": "https://phys.org/news/2026-03-carbon-emissions-planetary-boundary-analysis.html",
+      "date": "2026-03-06 14:20",
+      "summary": "Earth is not infinite. Pollution beyond certain levels threatens the climate and ecosystems. To prevent this, scientists have prop..."
+    },
+    {
+      "title": "Data reveal a significant acceleration of global warming since 2015",
+      "link": "https://phys.org/news/2026-03-reveal-significant-global.html",
+      "date": "2026-03-06 14:00",
+      "summary": "Global warming has accelerated since 2015, according to a new study by the Potsdam Institute for Climate Impact Research (PIK). Af..."
+    },
     {
       "title": "A superradiant clock phase emerges when Rydberg atoms meet quantum light, simulations suggest",
       "link": "https://phys.org/news/2026-03-superradiant-clock-phase-emerges-rydberg.html",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-03-artificial-platform-diseases.html",
       "date": "2026-03-06 12:00",
       "summary": "The world's first lab-based tick feeding system for bush ticks, developed by researchers at the University of Melbourne, has trans..."
-    },
-    {
-      "title": "The 'Great Texas Freeze' killed thousands of purple martins: Biologists worry recovery could take decades",
-      "link": "https://phys.org/news/2026-03-great-texas-thousands-purple-martins.html",
-      "date": "2026-03-06 10:00",
-      "summary": "Thousands of birds, including beloved purple martins, died in \"The Great Texas Freeze\" of 2021. A study published in Nature Ecolog..."
-    },
-    {
-      "title": "Fluorescent imaging reveals how a global parasite develops, opening new paths for drug treatment",
-      "link": "https://phys.org/news/2026-03-fluorescent-imaging-reveals-global-parasite.html",
-      "date": "2026-03-06 09:22",
-      "summary": "It infects nearly one-third of the global population, yet its microscopic size makes the parasite difficult for scientists to stud..."
     }
   ],
   "The Guardian Edu": [
@@ -353,6 +353,12 @@
   ],
   "New Scientist": [
     {
+      "title": "Earth is now heating up twice as fast as in previous decades",
+      "link": "https://www.newscientist.com/article/2518362-earth-is-now-heating-up-twice-as-fast-as-in-previous-decades/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-06 14:00",
+      "summary": "Since 2014, the planet has been warming by about 0.36°C per decade, according to an analysis of five temperature datasets, raising..."
+    },
+    {
       "title": "Alzheimer’s may start with inflammation in the skin, lungs or gut",
       "link": "https://www.newscientist.com/article/2517735-alzheimers-may-start-with-inflammation-in-the-skin-lungs-or-gut/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-05 12:00",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2518102-just-one-dose-of-psilocybin-relieves-symptoms-of-ocd-for-months/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-05 16:00",
       "summary": "Taking psilocybin – the psychedelic component of magic mushrooms – eased symptoms of obsessive compulsive disorder among people wh..."
-    },
-    {
-      "title": "Two marsupials believed extinct for 6000 years found alive",
-      "link": "https://www.newscientist.com/article/2518082-two-marsupials-believed-extinct-for-6000-years-found-alive/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-05 13:00",
-      "summary": "Indigenous people in Papua, Indonesia, have helped scientists track down two animals that were thought to have gone extinct thousa..."
     }
   ]
 }
