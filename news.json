@@ -33,22 +33,10 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
-      "date": "2026-02-20 21:52",
-      "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
-    },
-    {
       "title": "How academia can help America heal - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
       "summary": "How academia can help America heal  Harvard Gazette..."
-    },
-    {
-      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
-      "date": "2025-09-25 07:00",
-      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
     },
     {
       "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
@@ -61,6 +49,18 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2ZjQmV2UTFaS0pGVnpKNTBuZF83dkdOcV9NTVdvYXBmVWFYNDdHWlFHYkFna1A2SWFmS0UxRmRKWFhFTVowcWxrbEFJYVJTWmNDOUxuRVIzQ3Nuekwzb0JQWUFpSmNETlNReGtkSHJnNnZ4RGRCYlhPN2lBbWZibUc0bVRjd050N2dqdFAtNnh2RnlQQzEzYWtJU3VucXdVZ3AzOWtqQkdjeW8?oc=5",
       "date": "2025-10-16 07:00",
       "summary": "Harvard reports operating deficit amid federal funding cuts  Harvard Gazette..."
+    },
+    {
+      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
+      "date": "2025-09-25 07:00",
+      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
+    },
+    {
+      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
+      "date": "2025-09-30 07:00",
+      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -353,6 +353,18 @@
   ],
   "New Scientist": [
     {
+      "title": "How an intern helped build the AI that shook the world",
+      "link": "https://www.newscientist.com/article/2518451-how-an-intern-helped-build-the-ai-that-shook-the-world/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-07 06:00",
+      "summary": "Chris Maddison was just an intern when he started working on the Go-playing AI that would eventually become AlphaGo. A decade late..."
+    },
+    {
+      "title": "The moment that kicked off the AI revolution",
+      "link": "https://www.newscientist.com/article/2518450-the-moment-that-kicked-off-the-ai-revolution/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-07 06:00",
+      "summary": "It's been 10 years since Go champion Lee Sedol lost to DeepMind's AlphaGo. Has the technology lived up to its potential?..."
+    },
+    {
       "title": "NASA changed an asteroid's orbit around the sun for the first time",
       "link": "https://www.newscientist.com/article/2518205-nasa-changed-an-asteroids-orbit-around-the-sun-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-06 19:00",
@@ -369,18 +381,6 @@
       "link": "https://www.newscientist.com/article/2518443-inflammation-might-cause-alzheimers-heres-how-to-reduce-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-06 17:09",
       "summary": "Persistent inflammation in the gut, lungs and skin might lead to Alzheimer's disease, but lifestyle choices - from getting vaccina..."
-    },
-    {
-      "title": "Shift in the Gulf Stream could signal ocean current collapse",
-      "link": "https://www.newscientist.com/article/2518268-shift-in-the-gulf-stream-could-signal-ocean-current-collapse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-06 15:51",
-      "summary": "Models show that as the Atlantic Meridional Overturning Circulation gets weaker, the Gulf Stream will drift northwards. There are ..."
-    },
-    {
-      "title": "Earth is now heating up twice as fast as in previous decades",
-      "link": "https://www.newscientist.com/article/2518362-earth-is-now-heating-up-twice-as-fast-as-in-previous-decades/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-06 14:00",
-      "summary": "Since 2014, the planet has been warming by about 0.36°C per decade, according to an analysis of five temperature datasets, raising..."
     }
   ]
 }
