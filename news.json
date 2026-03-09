@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Improving AI models’ ability to explain their predictions",
+      "link": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+      "date": "2026-03-09 04:00",
+      "summary": "A new approach could help users know whether to trust a model’s predictions in safety-critical applications like health care and a..."
+    },
+    {
       "title": "Seeds of something different",
       "link": "https://news.mit.edu/2026/seeds-something-different-kate-brown-book-0306",
       "date": "2026-03-06 05:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/recreating-forms-sounds-historic-musical-instruments-0305",
       "date": "2026-03-05 22:00",
       "summary": "Through an interdisciplinary collaboration between MIT and the Museum of Fine Arts, Boston, researchers are creating playable phys..."
-    },
-    {
-      "title": "New catalog more than doubles the number of gravitational-wave detections made by LIGO, Virgo, and KAGRA observatories",
-      "link": "https://news.mit.edu/2026/new-catalog-doubles-gravitational-wave-detections-made-ligo-virgo-kagra-0305",
-      "date": "2026-03-05 13:00",
-      "summary": "The latest crop of space-time wobbles includes a variety of heavy, fast-spinning, and lopsided colliding black holes...."
     }
   ],
   "Harvard Gazette": [
@@ -71,16 +71,16 @@
       "summary": "Blue Devils Drop Heartbreaker as No. 2 Stanford Rallies for 11-10 Victory  goduke.com..."
     },
     {
-      "title": "Pack Closes Regular Season by Hosting Stanford - NC State University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHAxSk5ubHhqV1hjY3JuMjI2bjFVN1dmeVNuMEppY21TZk9RSERHVDd1SHd6NFJnT1RYVENGSklBMG9hNnEzMVdXcjBCWEhxa2ZLWUFZRFU2VzZCN1VRcjQwSThNaWJ6bkkwWUNZbHkzUWUxNXVQckxsWUh1cEVzTXBoN0FUYWhXa0Vpemh0bXdEN05oS1ZpRDAzaw?oc=5",
-      "date": "2026-03-06 19:26",
-      "summary": "Pack Closes Regular Season by Hosting Stanford  NC State University Athletics..."
-    },
-    {
       "title": "Engineers improve infrared devices using century-old materials - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3RFeUJfYkJObFZYTy1JY3ZsQjJFa0RyT0lXNF93MGt5TnV1UGJ4RnVKRFlNeTdsektaQXlhMmdybkh1eGIyVTQtN0tDUE0yQ3htZVA3elladUxfdl9wV0RFU1E0aVNKT0NweUd3WmZQblJnU1Z5RkxmRVFRX05zVjdNb2xkUzdsejk3SnZUVF8?oc=5",
       "date": "2026-03-05 19:14",
       "summary": "Engineers improve infrared devices using century-old materials  Stanford University..."
+    },
+    {
+      "title": "Daniel E. Ho Receives Roland Prize for Public Service in Law and Policy - Stanford Law School",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYlRMeV9fQlQwVzJuRGVYQXllUFl2aWpDaWtvcWRJUmpYQWw2ckNjX1hPdzQ3SkJOQS1OZGhKSXg5V2cwamNsUEF3QmpvbE9aVUZmMDFkOU1CVXhEVEd2UFVfeVlvaGNidnExSF9GVWtjcGs1WXE4SnIwbHpaUWZSRFZHcUJUdzdya0oxNGlMOGppMlFBbExnNjFrN2pfdFNybEFXTg?oc=5",
+      "date": "2026-03-04 23:59",
+      "summary": "Daniel E. Ho Receives Roland Prize for Public Service in Law and Policy  Stanford Law School..."
     },
     {
       "title": "Without acknowledgment: Stanford’s indigenous community speaks out against institutional erasure - The Stanford Daily",
@@ -89,10 +89,10 @@
       "summary": "Without acknowledgment: Stanford’s indigenous community speaks out against institutional erasure  The Stanford Daily..."
     },
     {
-      "title": "Daniel E. Ho Receives Roland Prize for Public Service in Law and Policy - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYlRMeV9fQlQwVzJuRGVYQXllUFl2aWpDaWtvcWRJUmpYQWw2ckNjX1hPdzQ3SkJOQS1OZGhKSXg5V2cwamNsUEF3QmpvbE9aVUZmMDFkOU1CVXhEVEd2UFVfeVlvaGNidnExSF9GVWtjcGs1WXE4SnIwbHpaUWZSRFZHcUJUdzdya0oxNGlMOGppMlFBbExnNjFrN2pfdFNybEFXTg?oc=5",
-      "date": "2026-03-04 23:59",
-      "summary": "Daniel E. Ho Receives Roland Prize for Public Service in Law and Policy  Stanford Law School..."
+      "title": "What your phone knows could help scientists understand your health - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2tVODEwaUgwOGJNRmN6TDk4VkoxbmtNSDF0TFh0cmNja0VNWVVwZUR3UklwLTJaa18yTnl6TllnMDd6b3F6Y1hndEVpTDFOeDg4czEzSnRNVzBKWm9iVk1hUXVBZThsN1JxempkN3otTzItaVJQbE1aNkROZnBKeEMzdlQyUzJuUVJHZEJIVXVtcXY0Q1dOampnVE9VdGw2Umc?oc=5",
+      "date": "2026-03-04 08:00",
+      "summary": "What your phone knows could help scientists understand your health  Stanford University..."
     }
   ],
   "Nature Careers": [
@@ -237,25 +237,37 @@
       "summary": "Is the Pentagon allowed to surveil Americans with AI?  MIT Technology Review..."
     },
     {
+      "title": "Finding value with AI and Industry 5.0 transformation - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkZOS2FUeHJRckxxOGlQOEtqQTBqelF2NVdlQ2M5YXNWeEtraWozcEZXdk9lOXRPYjFtRGNlSjFJcjE1OUhyQXFyQkt5UDBFX2FYQll6dnVKOTVhd0dVaUlWOG14QllqRkRpZVFQZlJGRmhGMGxERUQzRTdVM25fTHkxRXU0TWdxdlhDQWhXaGx0NjkwdURTUjgwdzhzU1lsb3oyd3NuZGJkd9IBrwFBVV95cUxPWGN0TzE3dnNwWTVtOEJkd0FGeHFRZHN5cjZVMW1Gd1dVd0dUeGtGZ2xBUERXd2RSS3g1VXZ4M2JVdXVZSmYydUtzNTF2d2NST0gwT0hHRGtfYW9zRmZJcFIwVHk4Y3ROVEhrdzlVUFBGalRVanJRNUswVlhVWmFQYUxmZWQ2WjlkRVlVRVhUQVNEd0QyNVFxLVZJWUFGc2EtbWZuWVRYZHF4YnNBaHhB?oc=5",
+      "date": "2026-02-26 15:00",
+      "summary": "Finding value with AI and Industry 5.0 transformation  MIT Technology Review..."
+    },
+    {
+      "title": "This startup claims it can stop lightning and prevent catastrophic wildfires - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUUZ6NnQtaS1Rd0tJMm1rZWE3bllXLWxrcjFXUUNXWVVyVXIxMkpseFdvdDROUk5EbkMtTUR4QnJnaUhsUnA0bzJTQU1Vb0hBRk8wZEpVUmNTUjZZQTN0bGxUOFVybGN6T3c4NVVtVWpKaWZfeU1mV0JFcnppZFM3Zk01Z0M3YlVsRHJvOWY4aTdnWTMwTkR1SmE2SlJGcnJkd0NOX2lXMGJiY2JhQUpVVEN1d1ZfcEYtbHRLeGo0VTljYXA2aDdaa9IBzgFBVV95cUxQb3duZjYxX29GN3d5Y3g0QmpUdTF4eDYwQXhDMDV3UDVHMEtQWGNjX2l2NnFVMWxqQ3R6N2VtYXdoS2J1dzdOY25ZakdodTBfWFpwOHRWWk85RmN4UC0zWjBWVnNiTmtZODZ4MlRLMDdNR2Z4cFk1blNsYzZsRkozWE93QjhQdU9oc1JwVFJkbldVX3IzT0gzQk9sSTdLLWRmZmVrSlh4ODdyRmhEaFJkcUhTYjNTc1hIWGlld0pvZVJJYl81bTAtdFFSSjNPUQ?oc=5",
+      "date": "2026-03-03 10:00",
+      "summary": "This startup claims it can stop lightning and prevent catastrophic wildfires  MIT Technology Review..."
+    },
+    {
       "title": "I checked out one of the biggest anti-AI protests yet - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3lzbnBJVnFiV2pEZ2FuWW1pSFZqYms4UlNncS1HamdiazU4d05oODNra0tNU25vamtjZ2xSZU5UZC1YTHdCS1QybGk5ZUVpSGpPcEk5TmlLcTVNei1UT2YzdmdWSThhNUFiNUJSdEh3SHp0Nkt3eUIwZDJPallQalA0LWdQMGw3ekVWaDhhYkpCVlNOMWVaaHBEUzlkeWNRZTFCWDB30gGrAUFVX3lxTE1KMktfOHQweDZsZjJINE54a01FWHpCeWVmTlhXa21sZElyNklnTC02SlNleWsyZnR2bjlwMmNlTHNXZGJfNHVCcWNBMDJmYzZOdFQwbUN1RE5TeDBldTJTZGFQUlQzNXI3Yk9QanJkQjJZT3FPVXl1dm9VZUc0dzRPdmRtazRYS25WUTFSUkVxYXVNX3l1T2NQNTBHT01LZHBOeFY2NXlsR05lVQ?oc=5",
       "date": "2026-03-02 12:55",
       "summary": "I checked out one of the biggest anti-AI protests yet  MIT Technology Review..."
-    },
-    {
-      "title": "Microsoft has a new plan to prove what’s real and what’s AI online - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWG5kdWJIVC1JcDk5UGtySkotQnFkRmItdWNQeHBmaGw2dGdOYUN4QzZ4ZEl0enMtNTdjWl9GRHUwQ3hJOFdqUFEteUhzWUxLXzBnUlhDd3JLYTB3TW1MRkl4YTRPZWRETzlSc2tnWENTUS13Q3AwMmJ3a2EtR3J1eUJ2aFJPRExHYl81UFQ3VUc1dHI3U3JyMlZscUp5VWtIX2o3U08wbWNGVGNHM1c0VWNodWJ0aHhT0gG-AUFVX3lxTE44MlBWSVBIV2FXX2l3QzVGcmNIZTREZzB1SnVWT3VKWXVESnB6Wjd1U3FVNk5FRjJvYS1pR0tkY252Z2YwZWt4MHRqT2xGc2NScmRicW9Tcl9MLXp3S3BTMG5EdW5ORWg0UFZndFBDQk55Tjg2cnUtX2dYbGFSb1dlMEpyb2d1Wk9Ld3hmcnFHMnBLQk9TSTZhQVNNcktxRXk1LTVmRGZCSnMwMWFhVzBjQmtyVUlSaFlMaVU1WGc?oc=5",
-      "date": "2026-02-19 08:00",
-      "summary": "Microsoft has a new plan to prove what’s real and what’s AI online  MIT Technology Review..."
-    },
-    {
-      "title": "The human work behind humanoid robots is being hidden - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa2hOU2syTjdVX041d1BEUkRkdFRyWjJkODdSUEZ2ZWJBTnNQd01iNlhRSjZfN2R5c1lMUkJoV1dqLTdWd3hnRURPcXFjTmk4MTNiejRWT2ZkT200V3NxZUdXbEk1X3VVX3JHVHpHMlVrRWp5UFo3cE9ZU0VQcm84ckUwNUhJNjN1bEFucTFtaVhKVjBSdXlvYklrMlVWQmY3MlhOR2RDTlBpd9IBrwFBVV95cUxQODFuZUpCVllMNkVFc0Z6ald0b0pQSm9YcmlHODRIRzZOVWdkUXR5dE03bzJUcDdFenJ6V2l0Ny1xeEtiajhBa0ExOUEtYlU2SGM4aFRpMVRkOUkzQXBCTk5LaGQ3bEJFSndzYWxZcWlOM0hYSmJEVjJuOS1BQmJhNFVPdUVuTWFWQjFNSnJrVEdCZWtfWk5qQmxkOHFwQkV4bGVNWVp0RkJOb0o3Rmhn?oc=5",
-      "date": "2026-02-23 08:00",
-      "summary": "The human work behind humanoid robots is being hidden  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "'Peculiar' crocodile ancestor started life on four legs before learning to walk on two",
+      "link": "https://phys.org/news/2026-03-peculiar-crocodile-ancestor-life-legs.html",
+      "date": "2026-03-09 04:10",
+      "summary": "A \"peculiar\" ancient relative of the crocodile which experts believe began life on four legs before, in adulthood, it learned how ..."
+    },
+    {
+      "title": "AI disclosure labels may do more harm than good, study warns",
+      "link": "https://phys.org/news/2026-03-ai-disclosure-good.html",
+      "date": "2026-03-09 04:00",
+      "summary": "The growing use of AI-generated scientific and science-related content, especially on social media, raises important concerns: the..."
+    },
     {
       "title": "Superconductivity controlled by a built-in light-confining cavity",
       "link": "https://phys.org/news/2026-02-superconductivity-built-confining-cavity.html",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-03-fossil-reveals-weird-tooth-cushions.html",
       "date": "2026-03-08 20:30",
       "summary": "Roughly 425 million years ago, in the warm seas over what is now southern China, there lived a meter-long bony fish with jaws full..."
-    },
-    {
-      "title": "'Mesoscale' swimmers could pave way for drug delivery robots inside the body",
-      "link": "https://phys.org/news/2026-03-mesoscale-swimmers-pave-drug-delivery.html",
-      "date": "2026-03-08 20:00",
-      "summary": "In physics, the mesoscale lies between the microscopic and the macroscopic. It is not just the domain of tiny living creatures lik..."
-    },
-    {
-      "title": "How a protein pair ensures that faulty mRNA is destroyed",
-      "link": "https://phys.org/news/2026-03-protein-pair-faulty-mrna-destroyed.html",
-      "date": "2026-03-08 19:00",
-      "summary": "Nonsense-mediated mRNA decay (NMD) is one of the most important processes in our cells to ensure that no faulty or incomplete prot..."
     }
   ],
   "The Guardian Edu": [
@@ -353,6 +353,12 @@
   ],
   "New Scientist": [
     {
+      "title": "Ancient 'weirdo' reptile graduated from 4 legs to 2 in adolescence",
+      "link": "https://www.newscientist.com/article/2518365-ancient-weirdo-reptile-graduated-from-4-legs-to-2-in-adolescence/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-09 04:00",
+      "summary": "Sonselasuchus cedrus, discovered in fossils from Arizona, was a crocodile relative from the Triassic period that grew into an ostr..."
+    },
+    {
       "title": "We must close the 'shocking' knowledge gap in women's health",
       "link": "https://www.newscientist.com/article/mg26935853-000-we-must-close-the-shocking-knowledge-gap-in-womens-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-04 14:30",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2518205-nasa-changed-an-asteroids-orbit-around-the-sun-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-06 19:00",
       "summary": "NASA’s DART mission slammed into the small asteroid Dimorphos in 2022, and the impact slowed its orbit around the larger Didymos –..."
-    },
-    {
-      "title": "Chemistry clues could detect aliens unlike any life on Earth",
-      "link": "https://www.newscientist.com/article/2518409-chemistry-clues-could-detect-aliens-unlike-any-life-on-earth/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-06 18:00",
-      "summary": "Looking for molecular evidence of life on other worlds is tricky, but a test based on the reactivity of carbon compounds could be ..."
     }
   ]
 }
