@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Neurons receive precisely tailored teaching signals as we learn",
+      "link": "https://news.mit.edu/2026/neurons-receive-precisely-tailored-teaching-signals-as-we-learn-0309",
+      "date": "2026-03-09 16:50",
+      "summary": "New work suggests the brain can deliver neuron-specific feedback during learning — resembling the error signals that drive machine..."
+    },
+    {
       "title": "Improving AI models’ ability to explain their predictions",
       "link": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
       "date": "2026-03-09 04:00",
@@ -23,21 +29,9 @@
       "link": "https://news.mit.edu/2026/new-insights-hidden-process-protects-cells-harmful-mutations-0305",
       "date": "2026-03-05 22:15",
       "summary": "Research reveals how cells may activate a compensation system that can reduce the effects of harmful genetic mutations. This could..."
-    },
-    {
-      "title": "Recreating the forms and sounds of historical musical instruments",
-      "link": "https://news.mit.edu/2026/recreating-forms-sounds-historic-musical-instruments-0305",
-      "date": "2026-03-05 22:00",
-      "summary": "Through an interdisciplinary collaboration between MIT and the Museum of Fine Arts, Boston, researchers are creating playable phys..."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "How academia can help America heal - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
-      "date": "2026-02-13 08:00",
-      "summary": "How academia can help America heal  Harvard Gazette..."
-    },
     {
       "title": "A potential quantum leap - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
@@ -51,16 +45,22 @@
       "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
     },
     {
-      "title": "What if AI could help students learn, not just do assignments for them? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZERnQ0tJMkp3bEVHQXFHeDVRVFdNLUlucVQzakN2bmJ2VUFTSGJvVE9KNTJPSUxuNnFocjc5a2o0Q0JnTlJiMDFPdUVROVJJODhoek9scUJJTTNmVGd0RHN1NXJCbkZrXzVZM1c2YVhrZlFpWl9ZQ3NrS2dOUTVLd21nUWdIMERMTVVxWGxnZ2hGalBHNW5vSzgwQ1hNbEprWlRQTXN4REdKOS1JN3RPYUZoamN4T0tI?oc=5",
-      "date": "2025-10-21 07:00",
-      "summary": "What if AI could help students learn, not just do assignments for them?  Harvard Gazette..."
+      "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
+      "date": "2026-02-20 21:52",
+      "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
     },
     {
       "title": "Crossing line between good and bad anxiety - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
       "date": "2025-09-30 07:00",
       "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
+    },
+    {
+      "title": "Harvard reports operating deficit amid federal funding cuts - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2ZjQmV2UTFaS0pGVnpKNTBuZF83dkdOcV9NTVdvYXBmVWFYNDdHWlFHYkFna1A2SWFmS0UxRmRKWFhFTVowcWxrbEFJYVJTWmNDOUxuRVIzQ3Nuekwzb0JQWUFpSmNETlNReGtkSHJnNnZ4RGRCYlhPN2lBbWZibUc0bVRjd050N2dqdFAtNnh2RnlQQzEzYWtJU3VucXdVZ3AzOWtqQkdjeW8?oc=5",
+      "date": "2025-10-16 07:00",
+      "summary": "Harvard reports operating deficit amid federal funding cuts  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -193,10 +193,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "US draws up strict AI guidelines amid Anthropic clash, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSVhEc0FodDNnOUhkcldIOGxUYmhTVURXRjU1a1pwbEVPLWxHWThreUtTQTlUTU02X0txaFZmQkJDTEZiMklaRTM0RldpMUxYTWVpeWlvOEc5cVAwYUZQalQxTzhKQ3hReGxIZlVuMWN4cUxMWGEwLWhxcnh5Nm1ZRXFwZ2IxWU9uS2RiYWgwbE1yMmItNHduc3NrQ01UZGR0SHJTYUhLbVpDS0NRWG94Y3JBcFoxaDV6VlNFOE5pR2xpbElKZmc?oc=5",
-      "date": "2026-03-07 00:44",
-      "summary": "US draws up strict AI guidelines amid Anthropic clash, FT reports  Reuters..."
+      "title": "China's largest provincial economy vows to reshape industry with AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb3BISG5wOWk4dVZMcTVza0xqdmcxcDFQWWJNWVJXODkwOUxCbVFVX0ozemtrZmNGYXo4RUdUeXNZOU51LVEwbkxEUlNheHNLNTMwTnFLazBtVzZTS2VaX0pPdEFfRm5ZTXl3eTlJdUxrTXpXdDhwbVo1OHFTbGdEdTB3Mmo1d09nNkR6cjVtTFdSTl81aFNSOGFwQ1hFWHRJOEEtMUZKYUs1Wk5vZ2ZveHVwZHBUTFdRRlE?oc=5",
+      "date": "2026-03-06 14:52",
+      "summary": "China's largest provincial economy vows to reshape industry with AI  Reuters..."
     },
     {
       "title": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round - Reuters",
@@ -211,16 +211,16 @@
       "summary": "OpenAI hardware leader resigns after deal with Pentagon  Reuters..."
     },
     {
-      "title": "Fed's Schmid says hiring is on pause amid AI, aging - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWHlYejFEdUFUN2NHLWEtak1qMExXcklLRFRCb280SFpCSU5VYlgyd3dOWk1PZ3ppWWl2Zk5QMDNQUDN2NkhPbkJScksxMENoaGZZR3ZyUzk4YjQxUFk1M1pXcnRMRU9aWUlXNk9LNHdTcDF0NHVIUmRWRHAxREgtTUt6SGZmX1R4amNaVUpEcHJDR3J4ekE?oc=5",
-      "date": "2026-03-06 17:32",
-      "summary": "Fed's Schmid says hiring is on pause amid AI, aging  Reuters..."
+      "title": "Oracle and OpenAI drop Texas data center expansion plan, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbU5ORE8zNV9kUEstSm95enlabmNpcFBHR0EwSWZiMFl2a1BNSjJITkVNZFNSeFByQVFvUXFlYlhtRXJPbjA4Rm5wWnBPRnc2WU9jQnpVZkRKdDA3TXFqVTNKNllzaDE4WGsyREVVdlBNVVl4Qkktb0FJLXZxMWVid21ScHBmb1NRcHA1c1c4ODdzcUdqNmV5MzNpekp1MzBVcmxiLUpMeFFTLXhZblV6VVdKYy1uTHJ4Y3Zha0pR?oc=5",
+      "date": "2026-03-06 20:18",
+      "summary": "Oracle and OpenAI drop Texas data center expansion plan, Bloomberg News reports  Reuters..."
     },
     {
-      "title": "China's Shenzhen backs OpenClaw AI with subsidies, despite Beijing's security concerns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2ZJdTVTS0VvNk9EWWdXcVRsb2ZYVklhdGxGbF82aFNaQUhyXzhGRkYyWWZhV2ROM1hjelRRY3JTcFgzeElpaWF3LW05Skt5ZXBLS2FLSDVRdGtPUVdhSlRTbFQ0dzJ1SnJBNVExYlRPNmFudUU3Nld5WDNzbUI1YndfNVI3WTBzVTQ5c2QzNUVmZHlpUS13QnV4VW8xbmpkdkNFZmNocWZ0REQyLTBPMkpqdklNWXhOaVB0ZllGOWNMS2V2NTAwUg?oc=5",
-      "date": "2026-03-09 12:22",
-      "summary": "China's Shenzhen backs OpenClaw AI with subsidies, despite Beijing's security concerns  Reuters..."
+      "title": "Pentagon taps former DOGE official to lead its AI efforts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnUwMWtlLWk3dzJnRnBVM0xmZklZWlMwelZQXzFjVmNpMGNpa0k3WDlWR3I5R21DNGNJcGxHTWdnaHlFZUZkaHhKOXBiWE9hWWhEUFdmWVVucnhfY3RQazU2RzdhNEpmTjhFdjgwendxbTZqWTdGTmNPT2dBeFI1clN0cW81OTg2X3drblVMeWFzZGRBalBoQV96Rjd3Wlg1?oc=5",
+      "date": "2026-03-07 12:54",
+      "summary": "Pentagon taps former DOGE official to lead its AI efforts  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -249,42 +249,42 @@
       "summary": "The Crime issue  MIT Technology Review..."
     },
     {
-      "title": "Is the Pentagon allowed to surveil Americans with AI? - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkZuLTVKYVdVem5oOUwxUlJIR2k4TVNXbjdXS3UzV3M1NXhXRG5aNjNfZ09kdi1mNGxpcTY2SkF3MUROdUlkc2ZOU0E2OGlPdUNmSnFTN1Q4NUFzRnJ1OVNnMWR4ZXZlUmJyR0ViY0xHZERUMThzZjlOeGxRYzItOWRnejQweERnSWFSNWhtUThCdjNSem85eFpKeEoxNG8xdE80cTdrcGLSAa4BQVVfeXFMT1NyMURJNzdTcVRmcTRaWXhsX1dMbWk2Sm5IRzF0ODVObjdkSGJXYldNUE5NaXFRa2ZWbkEtRG1HZVB3dWF0Nk8zQ011Y0NyMVBBeFFxWDBES3cwYXQxU1pXcW9xV2g4cU13Mkl4TDFCZEd4d3lOLW9Idy1GbWFYRXZWS19MaHFZejVUdUswY0xZQVVqOUNneUZkTjBZbHVwVXhfWk1tWEZhbkFhTkh3?oc=5",
-      "date": "2026-03-06 19:21",
-      "summary": "Is the Pentagon allowed to surveil Americans with AI?  MIT Technology Review..."
+      "title": "Online harassment is entering its AI era - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQy1WS3J1eExFWm44UlJWSmVickxad3Y0NnZzSzJEWkc5S1ZvVC1LMzJaN0RBYUhjRk1ReklEei1XMUtfNXpaRWhKcHFXMWo1NVhwblU0ZHJkMHpzUXNDQWtLdE1DaWNBeWJpU0JwdnF1YTh5NmVEVm5jYmd2Um1INjJvUXllQU9kcmZUTmFZQWdEZXMyZjVxTdIBngFBVV95cUxQRDhEckhTSTFUYm9ranBmZXR3TlB5Yl91cHlZeGdFUVpEN1dyeFVxVFFCQlhGQnBxQl9LQUhlV1VpRm1sRnNJRDY5YVRFamQ2YkVDRGRiTkpieTFKUkNncEZPUDJYS1Rud0xheGFJSlgtTENXMVVDbUp4TXRMRHZMS1ZadTZzcUl1N2EydzItSmNfR05mX0E5cjRWSVQ5QQ?oc=5",
+      "date": "2026-03-05 10:00",
+      "summary": "Online harassment is entering its AI era  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Recent pandemic viruses jumped to humans without prior adaptation, study finds",
-      "link": "https://phys.org/news/2026-03-pandemic-viruses-humans-prior.html",
-      "date": "2026-03-09 15:40",
-      "summary": "A new University of California San Diego study published in Cell challenges a long-standing assumption about how animal viruses be..."
+      "title": "How changes on the Y chromosome may make species reproductively incompatible",
+      "link": "https://phys.org/news/2026-03-chromosome-species-reproductively-incompatible.html",
+      "date": "2026-03-09 17:00",
+      "summary": "When closely related species mate, their offspring sometimes survive but cannot reproduce. This pattern often affects males first,..."
     },
     {
-      "title": "2D topological Kondo insulator observed in a moiré superlattice",
-      "link": "https://phys.org/news/2026-03-2d-topological-kondo-insulator-moir.html",
-      "date": "2026-03-09 15:20",
-      "summary": "When mobile charge carriers, also known as itinerant electrons, interact with the strong exchange magnetic fields associated with ..."
+      "title": "Why nanotechnology breakthroughs often stagnate before reaching the market",
+      "link": "https://phys.org/news/2026-03-nanotechnology-breakthroughs-stagnate.html",
+      "date": "2026-03-09 16:50",
+      "summary": "New research suggests that the most formidable barrier to commercializing nanotechnology is not the science itself, but rather the..."
     },
     {
-      "title": "Most Saharan dust is generated by 'hidden thunderstorms' high above the desert",
-      "link": "https://phys.org/news/2026-03-saharan-generated-hidden-thunderstorms-high.html",
-      "date": "2026-03-09 15:10",
-      "summary": "When Saharan dust reaches the UK and Europe, as a huge country-sized cloud did over the past few days, it can transform the sky. T..."
+      "title": "Ancient hydrothermal carbon fuels microbes and crabs off Taiwan, study reveals",
+      "link": "https://phys.org/news/2026-03-ancient-hydrothermal-carbon-fuels-microbes.html",
+      "date": "2026-03-09 16:40",
+      "summary": "How is carbon metabolized and processed in different ecosystems? In a study published in the journal Communications Earth & Enviro..."
     },
     {
-      "title": "Why simulating an entire cell cycle took years, multiple GPUs and six days per run",
-      "link": "https://phys.org/news/2026-03-simulating-entire-cell-years-multiple.html",
-      "date": "2026-03-09 15:00",
-      "summary": "By simulating the life cycle of a minimal bacterial cell—from DNA replication to protein translation to metabolism and cell divisi..."
+      "title": "A brighter future may not suit everyone: Polar cod face difficulties due to warming",
+      "link": "https://phys.org/news/2026-03-brighter-future-polar-cod-difficulties.html",
+      "date": "2026-03-09 16:20",
+      "summary": "Under the Arctic sea ice, fish and plankton live in complete darkness, even in midsummer. Ice floes stop the sun's rays, especiall..."
     },
     {
-      "title": "Study finds teens spend nearly a third of the school day on smartphones: Frequent checking linked to poorer attention",
-      "link": "https://phys.org/news/2026-03-teens-school-day-smartphones-frequent.html",
-      "date": "2026-03-09 15:00",
-      "summary": "A new study from researchers at University of North Carolina at Chapel Hill finds that middle and high school students spend nearl..."
+      "title": "Silicone wristbands can help scientists track people's exposure to pollutants like 'forever chemicals'",
+      "link": "https://phys.org/news/2026-03-silicone-wristbands-scientists-track-people.html",
+      "date": "2026-03-09 16:20",
+      "summary": "Every morning, people fasten their watch, slip on a bracelet and head out the door without thinking much about what they might enc..."
     }
   ],
   "The Guardian Edu": [
@@ -353,6 +353,18 @@
   ],
   "New Scientist": [
     {
+      "title": "A daily multivitamin may slightly slow rates of ageing",
+      "link": "https://www.newscientist.com/article/2518607-a-daily-multivitamin-may-slightly-slow-rates-of-ageing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-09 16:00",
+      "summary": "Taking a multivitamin every day might slightly slow the rate of ageing, but the extent to which this is relevant to our health is ..."
+    },
+    {
+      "title": "'Singing' dogs may show the evolutionary roots of musicality",
+      "link": "https://www.newscientist.com/article/2518339-singing-dogs-may-show-the-evolutionary-roots-of-musicality/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-09 14:00",
+      "summary": "Some Samoyeds adjust the pitch of their howls depending on the music being played, showing a form of vocal ability they might have..."
+    },
+    {
       "title": "How an intern helped build the AI that shook the world",
       "link": "https://www.newscientist.com/article/2518451-how-an-intern-helped-build-the-ai-that-shook-the-world/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-07 06:00",
@@ -369,18 +381,6 @@
       "link": "https://www.newscientist.com/article/2518324-seti-may-have-missed-alien-signals-because-of-space-weather/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-09 11:26",
       "summary": "SETI has spent decades listening for a sharp, well-defined radio signal that could indicate it was sent by distant intelligent lif..."
-    },
-    {
-      "title": "The moment that kicked off the AI revolution",
-      "link": "https://www.newscientist.com/article/2518450-the-moment-that-kicked-off-the-ai-revolution/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-07 06:00",
-      "summary": "It's been 10 years since Go champion Lee Sedol lost to DeepMind's AlphaGo. Has the technology lived up to its potential?..."
-    },
-    {
-      "title": "Shift in the Gulf Stream could signal ocean current collapse",
-      "link": "https://www.newscientist.com/article/2518268-shift-in-the-gulf-stream-could-signal-ocean-current-collapse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-06 15:51",
-      "summary": "Models show that as the Atlantic Meridional Overturning Circulation gets weaker, the Gulf Stream will drift northwards. There are ..."
     }
   ]
 }
