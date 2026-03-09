@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "NASA administrator talks to <cite>Science</cite> about studying the Moon, Mars—and Earth",
+      "link": "https://www.science.org/content/article/nasa-administrator-talks-science-about-studying-moon-mars-and-earth",
+      "date": "2026-03-09 03:58",
+      "summary": "Jared Isaacman says agency may accelerate lunar science program and could tackle a new Mars mission in 2028..."
+    },
+    {
       "title": "U.S. agency will devote $144 million to studies that slow aging, extend quality of life",
       "link": "https://www.science.org/content/article/u-s-agency-will-devote-144-million-studies-slow-aging-extend-quality-life",
       "date": "2026-03-09 01:48",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/new-hiv-cure-approach-forces-hidden-virus-tripping-immune-sensor",
       "date": "2026-03-05 01:25",
       "summary": "Strategy gains momentum after promising results in cell studies and infected people..."
-    },
-    {
-      "title": "NIH reneges on recognizing union for early-career researchers",
-      "link": "https://www.science.org/content/article/nih-reneges-recognizing-union-early-career-researchers",
-      "date": "2026-03-05 12:40",
-      "summary": "The biomedical research agency says trainees in its labs are not “employees”..."
     }
   ],
   "Retraction Watch": [
@@ -193,12 +193,6 @@
   ],
   "Reuters AI": [
     {
-      "title": "Pentagon taps former DOGE official to lead its AI efforts - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnUwMWtlLWk3dzJnRnBVM0xmZklZWlMwelZQXzFjVmNpMGNpa0k3WDlWR3I5R21DNGNJcGxHTWdnaHlFZUZkaHhKOXBiWE9hWWhEUFdmWVVucnhfY3RQazU2RzdhNEpmTjhFdjgwendxbTZqWTdGTmNPT2dBeFI1clN0cW81OTg2X3drblVMeWFzZGRBalBoQV96Rjd3Wlg1?oc=5",
-      "date": "2026-03-07 12:54",
-      "summary": "Pentagon taps former DOGE official to lead its AI efforts  Reuters..."
-    },
-    {
       "title": "Anthropic sues to block Pentagon blacklisting over AI use restrictions - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0lmZjhHS1IwNS02c2ltRkEwaHh2TWNfTFplQlhxN0FUWlZwVTdLNGU5MWxvMGpYXzRjNFRIdDBiMjdSRW1JeWZqZVpiQlVqWkRibjMzMGR2Qk9rUmh2NXhDNnVyM09VcmZISEpRcWNtNDMtRzlxa3I0SzFCdGdUcHFhUDJpY3E5NFNGNVhOZmhjOXpsTGVsOE1LbWJKLWRSOGc5VVJZV1JHMjRITkE?oc=5",
       "date": "2026-03-09 15:04",
@@ -221,6 +215,12 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTJ2em9NVjIwZkxQOWl0dVVHMGZNZEtqT3lxN0hOOHo4VEUxbU1kZHp4eUNKWGVua2tEZ05idnZWbk5Fc2V6ZjlTMHFtM0R2RnlKem9DbldNZWRnOWwza3k0TFRnXzcxamlnYzJkWkxLSUtnc1ZIUkpwM01hUWlYNHp3b2x6bmJSR3dwMHlCTTZoWExwUGVhN212cGZXY2M?oc=5",
       "date": "2026-03-08 12:28",
       "summary": "OpenAI hardware leader resigns after deal with Pentagon  Reuters..."
+    },
+    {
+      "title": "Pentagon taps former DOGE official to lead its AI efforts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnUwMWtlLWk3dzJnRnBVM0xmZklZWlMwelZQXzFjVmNpMGNpa0k3WDlWR3I5R21DNGNJcGxHTWdnaHlFZUZkaHhKOXBiWE9hWWhEUFdmWVVucnhfY3RQazU2RzdhNEpmTjhFdjgwendxbTZqWTdGTmNPT2dBeFI1clN0cW81OTg2X3drblVMeWFzZGRBalBoQV96Rjd3Wlg1?oc=5",
+      "date": "2026-03-07 12:54",
+      "summary": "Pentagon taps former DOGE official to lead its AI efforts  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,48 +243,48 @@
       "summary": "The usability imperative for securing digital asset devices  MIT Technology Review..."
     },
     {
+      "title": "The Crime issue - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGZXpMZTJ5SGpvdFB1N1FISEpRakVqUEZGYUE1dXNySVg5a0gyeDNoUU9vSmNsVU9reEZwVVFOWVFvUHU0dFJrQ0I2UVRucjVrVGlwY051aDJZcjdJYXB0dFp3UHdJS3ZNY3NN?oc=5",
+      "date": "2026-02-25 11:02",
+      "summary": "The Crime issue  MIT Technology Review..."
+    },
+    {
       "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzJZel9FQ1VlX0dCcHhBZ3BMcjU3S2xDZzY3cWlNNERPWXF3alNQbl81dTJEamFXcjR4czctMUVnT3R1V24zR3A5b3ZmRmVjVE5JZEpOaVZsOU9kLVdURGtOd250Y3R0NVBPdFNtYmdQQUttUzFuUnctVExqZVpvbnhJTW13X0FJeU9lRzRNX3ZxNC01UmlUcFBXX3Njal9NbWo1ZDlEcDlpOEhvSmY3elFCeTYzMGs2Qmp0ZGRZQTjSAcYBQVVfeXFMTXlQTnFER0REMTBDY3Znd1ExUC14XzNXMVJzZU1TalBoNno2ZWFpOS1oNVU4ZlY1M2hSZHhxWmZiZGFxSUhEdFRwWDdIbUNId1NYT3BHT1FKTU90TEt2LWppNnUxM2FSek94Q2NyTGZKaUxhMkpYdS1jU1NZeWZqSG5PSjhnMDVXNWlYcGtQbFlqSGJfWmJoeUFXWkpXcWlTTUlzRTByU04zeHhVUlY5WU93a0lEM3d6X25qVnJlODA0UUNxRFJB?oc=5",
       "date": "2026-03-09 13:57",
       "summary": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs  MIT Technology Review..."
-    },
-    {
-      "title": "Online harassment is entering its AI era - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQy1WS3J1eExFWm44UlJWSmVickxad3Y0NnZzSzJEWkc5S1ZvVC1LMzJaN0RBYUhjRk1ReklEei1XMUtfNXpaRWhKcHFXMWo1NVhwblU0ZHJkMHpzUXNDQWtLdE1DaWNBeWJpU0JwdnF1YTh5NmVEVm5jYmd2Um1INjJvUXllQU9kcmZUTmFZQWdEZXMyZjVxTdIBngFBVV95cUxQRDhEckhTSTFUYm9ranBmZXR3TlB5Yl91cHlZeGdFUVpEN1dyeFVxVFFCQlhGQnBxQl9LQUhlV1VpRm1sRnNJRDY5YVRFamQ2YkVDRGRiTkpieTFKUkNncEZPUDJYS1Rud0xheGFJSlgtTENXMVVDbUp4TXRMRHZMS1ZadTZzcUl1N2EydzItSmNfR05mX0E5cjRWSVQ5QQ?oc=5",
-      "date": "2026-03-05 10:00",
-      "summary": "Online harassment is entering its AI era  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Terraforming Mars isn't a climate problem—it's an industrial nightmare",
-      "link": "https://phys.org/news/2026-03-terraforming-mars-isnt-climate-problem.html",
-      "date": "2026-03-09 20:30",
-      "summary": "Even when the idea of terraforming Mars was originally put forward, the idea was daunting. Changing the environment of an entire p..."
+      "title": "Nanosecond light-by-light switching achieved in liquid crystal droplet",
+      "link": "https://phys.org/news/2026-03-nanosecond-liquid-crystal-droplet.html",
+      "date": "2026-03-09 21:30",
+      "summary": "Controlling light with light is a long-sought goal for computing and communication technologies. Achieving this capability would a..."
     },
     {
-      "title": "Scientists trace crop viruses back to the last Ice Age",
-      "link": "https://phys.org/news/2026-03-scientists-crop-viruses-ice-age.html",
-      "date": "2026-03-09 20:20",
-      "summary": "Long before humans cultivated crops or sailed between continents, a group of plant viruses was already evolving among wild plants ..."
+      "title": "CRISPR-based technique unlocks healing power of mitochondria for heart failure therapy",
+      "link": "https://phys.org/news/2026-03-crispr-based-technique-power-mitochondria.html",
+      "date": "2026-03-09 21:20",
+      "summary": "After a heart attack, the heart struggles to recoup and maintain energy. One-third of patients develop heart failure as a result—a..."
     },
     {
-      "title": "Mapping 3D-super-enhancers with machine learning to pinpoint regulators of cell identity",
-      "link": "https://phys.org/news/2026-03-3d-super-machine-cell-identity.html",
-      "date": "2026-03-09 20:00",
-      "summary": "Scientists usually study the molecular machinery that controls gene expression from the perspective of a linear, two-dimensional g..."
+      "title": "How farming perennial plants can help us in times of climate change, food insecurity and social division",
+      "link": "https://phys.org/news/2026-03-farming-perennial-climate-food-insecurity.html",
+      "date": "2026-03-09 21:10",
+      "summary": "Climate change is threatening modern life in ways we are still finding, from food security to the economy to everyday living. It h..."
     },
     {
-      "title": "Key protein SYFO2 enables 'self-fertilization' of leguminous plants",
-      "link": "https://phys.org/news/2026-03-key-protein-syfo2-enables-fertilization.html",
-      "date": "2026-03-09 19:40",
-      "summary": "Most plants allow fungal microorganisms to enter their root cells and provide them with carbohydrates in exchange for a better sup..."
+      "title": "Unlocking the hidden pocket on a billion‑dollar drug target",
+      "link": "https://phys.org/news/2026-03-hidden-pocket-billiondollar-drug.html",
+      "date": "2026-03-09 21:00",
+      "summary": "For years, a protein inside our cells has quietly powered billions of dollars' worth of cancer drugs. Now a team of researchers ha..."
     },
     {
-      "title": "Ultrafast light pulses make molecules rotate on quantum materials",
-      "link": "https://phys.org/news/2026-03-ultrafast-pulses-molecules-rotate-quantum.html",
-      "date": "2026-03-09 19:20",
-      "summary": "Researchers from Germany, Japan and India, led by scientists from DESY and the Universities of Kiel and Hamburg, have found a way ..."
+      "title": "Robotic microfluidic platform brings AI to lipid nanoparticle design",
+      "link": "https://phys.org/news/2026-03-robotic-microfluidic-platform-ai-lipid.html",
+      "date": "2026-03-09 21:00",
+      "summary": "AI has designed candidate drugs for antibiotic-resistant infections and genetic diseases. But efforts to incorporate AI into the d..."
     }
   ],
   "The Guardian Edu": [
