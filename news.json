@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "How academia can help America heal - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
-      "date": "2026-02-13 08:00",
-      "summary": "How academia can help America heal  Harvard Gazette..."
-    },
-    {
       "title": "A potential quantum leap - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
       "date": "2025-11-12 08:00",
@@ -49,6 +43,12 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZERnQ0tJMkp3bEVHQXFHeDVRVFdNLUlucVQzakN2bmJ2VUFTSGJvVE9KNTJPSUxuNnFocjc5a2o0Q0JnTlJiMDFPdUVROVJJODhoek9scUJJTTNmVGd0RHN1NXJCbkZrXzVZM1c2YVhrZlFpWl9ZQ3NrS2dOUTVLd21nUWdIMERMTVVxWGxnZ2hGalBHNW5vSzgwQ1hNbEprWlRQTXN4REdKOS1JN3RPYUZoamN4T0tI?oc=5",
       "date": "2025-10-21 07:00",
       "summary": "What if AI could help students learn, not just do assignments for them?  Harvard Gazette..."
+    },
+    {
+      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
+      "date": "2025-09-30 07:00",
+      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
     },
     {
       "title": "Harvard reports operating deficit amid federal funding cuts - Harvard Gazette",
@@ -71,10 +71,16 @@
       "summary": "Blue Devils Drop Heartbreaker as No. 2 Stanford Rallies for 11-10 Victory  goduke.com..."
     },
     {
-      "title": "Engineers improve infrared devices using century-old materials - Stanford University",
+      "title": "Stanford Tops Pitt, 9-2, in Series Finale - pittsburghpanthers.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbjhzck5BWlV3OGNKSUdpaXlRNng1bHBIdGszZ1dwM3QwRjVOS1ViUEVoVW5Db3RWOEp5RkF5R19zMGFycGpxLTl1bVpxM3hleGZ6SDJfOWpqYmF4RWd5LUNVUzV4OFJqM2lxZWNIZmZ6T185MTVXMWEwNWgxMFQ5V1JvRDJQcWNqRTVRWTFkeG1GRXNqYnZLMQ?oc=5",
+      "date": "2026-03-08 23:44",
+      "summary": "Stanford Tops Pitt, 9-2, in Series Finale  pittsburghpanthers.com..."
+    },
+    {
+      "title": "Engineers improve infrared devices using century-old materials - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3RFeUJfYkJObFZYTy1JY3ZsQjJFa0RyT0lXNF93MGt5TnV1UGJ4RnVKRFlNeTdsektaQXlhMmdybkh1eGIyVTQtN0tDUE0yQ3htZVA3elladUxfdl9wV0RFU1E0aVNKT0NweUd3WmZQblJnU1Z5RkxmRVFRX05zVjdNb2xkUzdsejk3SnZUVF8?oc=5",
       "date": "2026-03-05 19:14",
-      "summary": "Engineers improve infrared devices using century-old materials  Stanford University..."
+      "summary": "Engineers improve infrared devices using century-old materials  Stanford Report..."
     },
     {
       "title": "Daniel E. Ho Receives Roland Prize for Public Service in Law and Policy - Stanford Law School",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOelZ4WTRHTkMtZ29NQnRydmRpMmVfVkRYZnFMSFpDSkd3OWJhRzZiQ3VCaTFyOXVOOFQ5cGJ1MURoa05KNFFUUEVCZnJFZ1prX3JpeGxvX3RxdS1YVVpoY2hiREp2dzEtTFRqT2ttQ2hKS0djNk5lUEkwTlFTSzVyZU10UFRMUDQyOWRwb0pQb0Z0S1duNlljZEFDNW5hemQtMC1SMTdmM2F6dFo1eF9ka2tDWGVsVF92dGREQl9SMUZ3NnFFNTFDcHNXOVY?oc=5",
       "date": "2026-03-08 21:52",
       "summary": "Without acknowledgment: Stanford’s indigenous community speaks out against institutional erasure  The Stanford Daily..."
-    },
-    {
-      "title": "What your phone knows could help scientists understand your health - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2tVODEwaUgwOGJNRmN6TDk4VkoxbmtNSDF0TFh0cmNja0VNWVVwZUR3UklwLTJaa18yTnl6TllnMDd6b3F6Y1hndEVpTDFOeDg4czEzSnRNVzBKWm9iVk1hUXVBZThsN1JxempkN3otTzItaVJQbE1aNkROZnBKeEMzdlQyUzJuUVJHZEJIVXVtcXY0Q1dOampnVE9VdGw2Umc?oc=5",
-      "date": "2026-03-04 08:00",
-      "summary": "What your phone knows could help scientists understand your health  Stanford University..."
     }
   ],
   "Nature Careers": [
@@ -211,16 +211,16 @@
       "summary": "Oracle and OpenAI drop Texas data center expansion plan, Bloomberg News reports  Reuters..."
     },
     {
+      "title": "US mulls new rules for AI chip exports, including requiring US investments by foreign firms - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHlIa3ZDZ0wxc19tUmxrb1l4aml2UEI2S3MtV1RrMWxJV3FsS2ZuMk9oQk9Ed1YyTGZBWlRIU0lFQkxkbmNFbFpOblk0LUo0X2JReEdDdkEyVzFYc0VqOWtfUmhIb2JYbjc4VmtxY1NoTU1jRk5RRUE1Q1NkSGhUZVVmdW9qVzBnYnNOZzVoV21rbFpheFVPMVRLenVVRzVILWU5ZWNGTnhZMGk5anRNTDdnbHRTV1FDOW9j?oc=5",
+      "date": "2026-03-05 21:12",
+      "summary": "US mulls new rules for AI chip exports, including requiring US investments by foreign firms  Reuters..."
+    },
+    {
       "title": "Publishers sue 'shadow' library allegedly powering AI chatbots - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdHU3UzltWGpVcVJNZ0oycVRndEd2aGV3REg2bWpmSkZEVk93d1FZZTZVS1NNd0l5VWlYTkUzM3lTdWNsdGJOT0ExT0FUTldwVE01V3dEbS1hVzdic01ZTXVjTWZQUHFXamJRa2ViX1E1NFpHTDN4bUNsVHpWNm5Qb201UVpONVdpRTc4T3EzV0toNW1PdElwZ0xXczVuRGhLQmxKZ094WGZEQlZRNTJHVXVTTQ?oc=5",
       "date": "2026-03-06 16:19",
       "summary": "Publishers sue 'shadow' library allegedly powering AI chatbots  Reuters..."
-    },
-    {
-      "title": "xAI loses bid to halt California AI data disclosure law - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVmswVGM5dlFxd1V5RlkyclYxNW1RRUJ1WUpzeU82YVpad3JnWmdUa1phLWQ0anZPMTZpaERib1k1LV9tdkVFNnI2RFFMMGcwamVWVkxYWW1wS3ZQa3h3djh3YVZjS2pLTTRibmpEdjFwNUZzRFhCQzBmUVpCZkdCdk5vb053bnhuS2lOU1JJeVhFOGRBRU4xNzVZbFo3M0MxSFVhdmpsT2Y?oc=5",
-      "date": "2026-03-05 21:42",
-      "summary": "xAI loses bid to halt California AI data disclosure law  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -321,6 +321,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Former Apple Daily executive editor appeals 10-year sentence in Hong Kong",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3345937/former-apple-daily-executive-editor-appeals-10-year-sentence-hong-kong?utm_source=rss_feed",
+      "date": "2026-03-09 05:51",
+      "summary": "The former executive editor-in-chief of Hong Kong’s defunct Apple Daily newspaper, founded by Jimmy Lai Chee-ying, has lodged an a..."
+    },
+    {
+      "title": "Surcharges considered as Hong Kong fuel prices set to rise amid Iran war",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3345934/surcharges-eyed-hong-kong-fuel-prices-set-rise-amid-iran-war?utm_source=rss_feed",
+      "date": "2026-03-09 05:39",
+      "summary": "Hong Kong’s transport sector is considering a temporary fuel surcharge for deliveries as pump prices are expected to climb further..."
+    },
+    {
+      "title": "Hong Kong police arrest man over alleged indecent assault and fight",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3345930/hong-kong-police-arrest-man-over-alleged-indecent-assault-and-fight?utm_source=rss_feed",
+      "date": "2026-03-09 05:08",
+      "summary": "A man has been arrested in Hong Kong for allegedly indecently assaulting a woman in a stairwell before fighting with her husband.\n..."
+    },
+    {
       "title": "Hong Kong developers test home-market recovery by raising prices, trimming discounts",
       "link": "https://www.scmp.com/business/markets/article/3345774/hong-kong-developers-test-home-market-recovery-raising-prices-trimming-discounts?utm_source=rss_feed",
       "date": "2026-03-09 01:30",
@@ -331,24 +349,6 @@
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3345732/beijings-message-clear-hong-kong-must-shape-and-speed?utm_source=rss_feed",
       "date": "2026-03-09 01:30",
       "summary": "The annual “two sessions” in Beijing are under way, and this year the annual ritual of reading tea leaves in this city has been ma..."
-    },
-    {
-      "title": "Agility and adaptability are in Hong Kong’s DNA, former leader CY Leung says",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3345901/agility-and-adaptability-are-hong-kongs-dna-former-leader-cy-leung-says?utm_source=rss_feed",
-      "date": "2026-03-09 01:00",
-      "summary": "Escalating geopolitical tensions will not derail Hong Kong’s goal set out in the country’s 15th five-year plan and its efforts to ..."
-    },
-    {
-      "title": "Fears over Exchange Fund discipline overblown: Hong Kong’s dollar peg architect",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3345886/fears-over-exchange-fund-discipline-overblown-hong-kongs-dollar-peg-architect?utm_source=rss_feed",
-      "date": "2026-03-09 00:00",
-      "summary": "Hong Kong has adequate safeguards to prevent any misuse of the Exchange Fund, according to the economist known as the “father of t..."
-    },
-    {
-      "title": "Hongkonger forks out HK$11,000 to flee Dubai after 8 failed attempts",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3345899/hongkonger-forks-out-hk11000-flee-dubai-after-8-failed-attempts?utm_source=rss_feed",
-      "date": "2026-03-08 13:36",
-      "summary": "Hongkonger Shirley Sung finally returned home on Sunday after being stranded in Dubai for a week and making eight failed attempts ..."
     }
   ],
   "New Scientist": [
