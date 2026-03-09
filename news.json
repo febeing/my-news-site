@@ -65,6 +65,18 @@
   ],
   "Stanford News": [
     {
+      "title": "Awards recognize collaboration and public service - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWwtd1JJR2RZM0taUVh6TVlPc3JNTXNMdUdsaW1uaWpqYkhhcmJfVzhmZ1BUcS1BWnNzcWV5cVBJWHJnb3g4YThCVE1QMXdjQ09jcDQzdnpCWnM4a3ZMdHQ0S1NQOTBrY3pxeXdfbG9qTDJHVlRKRVdyek9OS3FsMnBHR3VWNzBkdXpJ?oc=5",
+      "date": "2026-03-09 23:00",
+      "summary": "Awards recognize collaboration and public service  Stanford University..."
+    },
+    {
+      "title": "Meet Our Researchers: James Goldgeier - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LMUxyM0NxUGJRdk1hNGFIZUZiTHZNVk5POFg2OEgwd0trM2g1VXdUT3UzajNNX2ZHVVAxdXNzTmJhWlk4RFNvVy1jV05YQ2NnWnFac1JVTzk0eGV0M3BJMUFlUlg2STF3MGllODgxMFAtWlgzRmQ1c29JMVg?oc=5",
+      "date": "2026-03-09 12:00",
+      "summary": "Meet Our Researchers: James Goldgeier  Stanford University..."
+    },
+    {
       "title": "Stanford Computational Antitrust Project Announces New Member: UAE Competition Department - Stanford Law School",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdjItaWxnT1NKTGR5dFNnNF9XS1BSdEtOdVFjanRnUkwtVlBrLUNEeXJld2dxcHNaUFlNSUFjTUJEVlRXR253TzVGbmNKUDVKZjR3eEZBMm1BMF9ZLWVVQndSTUFKc29iWmp1VmpwV2RhVktZa1RrYzUzY0QwRDNmY0ZRZjhQMnNvUTZ3MXVEU1IteVhzY2plaVFQUk5HZWVLN1dzbQ?oc=5",
       "date": "2026-03-09 08:00",
@@ -81,18 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3RFeUJfYkJObFZYTy1JY3ZsQjJFa0RyT0lXNF93MGt5TnV1UGJ4RnVKRFlNeTdsektaQXlhMmdybkh1eGIyVTQtN0tDUE0yQ3htZVA3elladUxfdl9wV0RFU1E0aVNKT0NweUd3WmZQblJnU1Z5RkxmRVFRX05zVjdNb2xkUzdsejk3SnZUVF8?oc=5",
       "date": "2026-03-05 19:14",
       "summary": "Engineers improve infrared devices using century-old materials  Stanford University..."
-    },
-    {
-      "title": "Blue Devils Drop Heartbreaker as No. 2 Stanford Rallies for 11-10 Victory - goduke.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd0tFV3JEMkU3aWllMWgzSEZrUVFEUjF4RUtpR2R4M1BmbHpCTFh1cDAzNUlLVXRvMFhwLVJwbURuMXU1RVFfQ0xQOTRCdkY5VndiSlV3WjZhMGVnZE1ucFlJMV9jUTNQc0ktLXVTbXlTV0RGeXg4RDJLVUhDRDNDOTdseVMxQThvOE5PZ2hEd1VJajBrOXBpeW1aUWhLQkwxVWxTZldDU2FvU3Bhc19sRTdnbHlrTmQxMnI2c2Vn?oc=5",
-      "date": "2026-03-08 23:36",
-      "summary": "Blue Devils Drop Heartbreaker as No. 2 Stanford Rallies for 11-10 Victory  goduke.com..."
-    },
-    {
-      "title": "AI project aims to advance research into the past - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZzFkZHlpSmt6ckVnRXF6d2ZsQmFYbGNOenNlcy1MaWtHWUl5elU3QWtxUGJ3S1ZuV0xBYnpDbHY0TElKbnR0clRuQ0xhbjIwXzI0blZmdzFLY1gyc1NELWF1V29acWtJUnJ0MkxpSDdVYnZoWEtxQ3kweU5Pa2xUNlBRYUJFbTNPXzBVQmFiV2p2bjA5b0wxaW9Xc3AwSEZUV2pFOUlIS1dvaExUeXd4ZnhjTG8weXhLM3c?oc=5",
-      "date": "2026-03-06 08:00",
-      "summary": "AI project aims to advance research into the past  Stanford University..."
     }
   ],
   "Nature Careers": [
@@ -199,21 +199,21 @@
       "summary": "Anthropic sues to block Pentagon blacklisting over AI use restrictions  Reuters..."
     },
     {
-      "title": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUM5UVE2X1o0YjduU2Zja2dkQzhIaDZIQ0MxUDVTM3ZGaF93a2RuTW11Q2lwWE1Ta3FQTF91djdjRmFXRkdGenlPclJQeFZzalBQamoxdVJ2VFd0VXI0QnJtd2tuRV9GbWthdnNqekpJaTN1VVJuMnBmU0lVenBoTlFZajMxSm9qanVnWkJLUHlwQjVOZDB3cDFacGF0bWRVZ21tZnMxTXAtS0E?oc=5",
-      "date": "2026-03-09 08:15",
-      "summary": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round  Reuters..."
-    },
-    {
       "title": "Microsoft taps Anthropic for Copilot Cowork in push for AI agents - Reuters",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0x1SjlzVm5GbnNYZTNMblFLN2ppQ1gtZ0xMdFd6eUhVMmhSWHJlV1BadnFyTjdXZUtqcF8yZ1V0ZjZLM1dtSExEN2g3OERiMG1hNEgtel9WNEtobmdtel9aMXpWdWNHR3FtM2k1d25VenMza3dtWWxzMEk1UERyYkc1SDBWNG1wQ3RSSzNLbVpsUEpqeHptZ1dMaGNicTRR?oc=5",
       "date": "2026-03-09 13:01",
       "summary": "Microsoft taps Anthropic for Copilot Cowork in push for AI agents  Reuters..."
     },
     {
+      "title": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUM5UVE2X1o0YjduU2Zja2dkQzhIaDZIQ0MxUDVTM3ZGaF93a2RuTW11Q2lwWE1Ta3FQTF91djdjRmFXRkdGenlPclJQeFZzalBQamoxdVJ2VFd0VXI0QnJtd2tuRV9GbWthdnNqekpJaTN1VVJuMnBmU0lVenBoTlFZajMxSm9qanVnWkJLUHlwQjVOZDB3cDFacGF0bWRVZ21tZnMxTXAtS0E?oc=5",
+      "date": "2026-03-09 08:15",
+      "summary": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round  Reuters..."
+    },
+    {
       "title": "OpenAI hardware leader resigns after deal with Pentagon - Reuters",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTJ2em9NVjIwZkxQOWl0dVVHMGZNZEtqT3lxN0hOOHo4VEUxbU1kZHp4eUNKWGVua2tEZ05idnZWbk5Fc2V6ZjlTMHFtM0R2RnlKem9DbldNZWRnOWwza3k0TFRnXzcxamlnYzJkWkxLSUtnc1ZIUkpwM01hUWlYNHp3b2x6bmJSR3dwMHlCTTZoWExwUGVhN212cGZXY2M?oc=5",
-      "date": "2026-03-08 12:28",
+      "date": "2026-03-07 20:37",
       "summary": "OpenAI hardware leader resigns after deal with Pentagon  Reuters..."
     },
     {
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
+      "title": "Evaluating landing sites for China's manned moon mission",
+      "link": "https://phys.org/news/2026-03-sites-china-moon-mission.html",
+      "date": "2026-03-09 23:20",
+      "summary": "Observations of the Rimae Bode region on the moon reveal five distinct types of terrain and identify several potential landing sit..."
+    },
+    {
+      "title": "Raccoons solve puzzles for the fun of it, new study finds",
+      "link": "https://phys.org/news/2026-03-raccoons-puzzles-fun.html",
+      "date": "2026-03-09 23:00",
+      "summary": "They raid compost bins, outsmart latches and sometimes look gleeful doing it. A new study in Animal Behaviour suggests raccoons ma..."
+    },
+    {
+      "title": "How do we know what asteroids are made out of?",
+      "link": "https://phys.org/news/2026-03-asteroids.html",
+      "date": "2026-03-09 22:50",
+      "summary": "Asteroids are some of the oldest objects in the solar system: leftovers from the chaotic time when planets were assembling from du..."
+    },
+    {
+      "title": "Gene edit makes probiotic safer for immunocompromised patients",
+      "link": "https://phys.org/news/2026-03-gene-probiotic-safer-immunocompromised-patients.html",
+      "date": "2026-03-09 22:40",
+      "summary": "An international team of researchers has modified a probiotic yeast to make it safer for use by immunocompromised people, older ad..."
+    },
+    {
       "title": "How AI could unlock deep‑sea secrets of marine life",
       "link": "https://phys.org/news/2026-03-ai-deepsea-secrets-marine-life.html",
       "date": "2026-03-09 22:20",
       "summary": "Somewhere in the North Atlantic, more than a kilometer beneath its surface, a cold-water coral reef stretches across an unnamed se..."
-    },
-    {
-      "title": "Physical activity is linked to the health of the planet, according to a trio of recent studies",
-      "link": "https://phys.org/news/2026-03-physical-linked-health-planet-trio.html",
-      "date": "2026-03-09 22:20",
-      "summary": "Global levels of physical activity have not improved over the past two decades, despite widespread policy development and adoption..."
-    },
-    {
-      "title": "In search of a room-temperature superconductor, scientists present a research agenda",
-      "link": "https://phys.org/news/2026-03-room-temperature-superconductor-scientists-agenda.html",
-      "date": "2026-03-09 22:00",
-      "summary": "The search for materials that can conduct electricity at room temperature without losing energy is one of the greatest and most co..."
-    },
-    {
-      "title": "AI tool streamlines drug synthesis, dramatically reducing lab work and costs",
-      "link": "https://phys.org/news/2026-03-ai-tool-drug-synthesis-lab.html",
-      "date": "2026-03-09 21:40",
-      "summary": "Drug discovery is like molecular Tetris. Chemists snap atoms together, adjusting the pieces until everything fits, and suddenly, a..."
-    },
-    {
-      "title": "Nanosecond light-by-light switching achieved in liquid crystal droplet",
-      "link": "https://phys.org/news/2026-03-nanosecond-liquid-crystal-droplet.html",
-      "date": "2026-03-09 21:30",
-      "summary": "Controlling light with light is a long-sought goal for computing and communication technologies. Achieving this capability would a..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong Legco to explore mainland-style oversight system for bills enforcement",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3345994/hong-kong-legco-explore-mainland-style-oversight-system-bills-enforcement?utm_source=rss_feed",
+      "date": "2026-03-09 23:00",
+      "summary": "Hong Kong’s legislature will consider establishing a dedicated mechanism to scrutinise the implementation of approved bills and fu..."
+    },
+    {
       "title": "Hong Kong urged to extend stock trading hours to keep up with rivals",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3346018/hong-kong-urged-extend-stock-trading-hours-keep-rivals?utm_source=rss_feed",
       "date": "2026-03-09 15:53",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3346007/hong-kong-wetland-records-40-times-more-petroleum-after-oil-spill-greenpeace?utm_source=rss_feed",
       "date": "2026-03-09 12:30",
       "summary": "A protected Hong Kong wetland on southern Lantau Island has recorded a high concentration of petroleum following an oil spill in S..."
-    },
-    {
-      "title": "Immigration Department worker who repeatedly assaulted wife, son spared jail",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3346006/immigration-department-worker-who-repeatedly-assaulted-wife-son-spared-jail?utm_source=rss_feed",
-      "date": "2026-03-09 12:06",
-      "summary": "A Hong Kong Immigration Department senior assistant who repeatedly grabbed his wife and young son by their throats during disputes..."
     }
   ],
   "New Scientist": [
