@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Understanding how “marine snow” acts as a carbon sink",
+      "link": "https://news.mit.edu/2026/understanding-how-marine-snow-acts-as-carbon-sink-0309",
+      "date": "2026-03-09 19:00",
+      "summary": "A new study finds hitchhiking bacteria dissolve essential ballast in ubiquitous “snow” particles, which could counteract the ocean..."
+    },
+    {
       "title": "Neurons receive precisely tailored teaching signals as we learn",
       "link": "https://news.mit.edu/2026/neurons-receive-precisely-tailored-teaching-signals-as-we-learn-0309",
       "date": "2026-03-09 16:50",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/x-raying-rocks-reveals-their-carbon-storing-capacity-0306",
       "date": "2026-03-06 05:00",
       "summary": "New research by MIT geophysicists could assist efforts to remove carbon from the atmosphere and store it underground...."
-    },
-    {
-      "title": "New insights into a hidden process that protects cells from harmful mutations",
-      "link": "https://news.mit.edu/2026/new-insights-hidden-process-protects-cells-harmful-mutations-0305",
-      "date": "2026-03-05 22:15",
-      "summary": "Research reveals how cells may activate a compensation system that can reduce the effects of harmful genetic mutations. This could..."
     }
   ],
   "Harvard Gazette": [
@@ -193,28 +193,28 @@
   ],
   "Reuters AI": [
     {
-      "title": "Pentagon taps former DOGE official to lead its AI efforts - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnUwMWtlLWk3dzJnRnBVM0xmZklZWlMwelZQXzFjVmNpMGNpa0k3WDlWR3I5R21DNGNJcGxHTWdnaHlFZUZkaHhKOXBiWE9hWWhEUFdmWVVucnhfY3RQazU2RzdhNEpmTjhFdjgwendxbTZqWTdGTmNPT2dBeFI1clN0cW81OTg2X3drblVMeWFzZGRBalBoQV96Rjd3Wlg1?oc=5",
-      "date": "2026-03-07 12:54",
-      "summary": "Pentagon taps former DOGE official to lead its AI efforts  Reuters..."
+      "title": "China's largest provincial economy vows to reshape industry with AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb3BISG5wOWk4dVZMcTVza0xqdmcxcDFQWWJNWVJXODkwOUxCbVFVX0ozemtrZmNGYXo4RUdUeXNZOU51LVEwbkxEUlNheHNLNTMwTnFLazBtVzZTS2VaX0pPdEFfRm5ZTXl3eTlJdUxrTXpXdDhwbVo1OHFTbGdEdTB3Mmo1d09nNkR6cjVtTFdSTl81aFNSOGFwQ1hFWHRJOEEtMUZKYUs1Wk5vZ2ZveHVwZHBUTFdRRlE?oc=5",
+      "date": "2026-03-06 14:52",
+      "summary": "China's largest provincial economy vows to reshape industry with AI  Reuters..."
     },
     {
-      "title": "Anthropic sues to block Pentagon blacklisting over AI use restrictions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0lmZjhHS1IwNS02c2ltRkEwaHh2TWNfTFplQlhxN0FUWlZwVTdLNGU5MWxvMGpYXzRjNFRIdDBiMjdSRW1JeWZqZVpiQlVqWkRibjMzMGR2Qk9rUmh2NXhDNnVyM09VcmZISEpRcWNtNDMtRzlxa3I0SzFCdGdUcHFhUDJpY3E5NFNGNVhOZmhjOXpsTGVsOE1LbWJKLWRSOGc5VVJZV1JHMjRITkE?oc=5",
-      "date": "2026-03-09 15:04",
-      "summary": "Anthropic sues to block Pentagon blacklisting over AI use restrictions  Reuters..."
-    },
-    {
-      "title": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUM5UVE2X1o0YjduU2Zja2dkQzhIaDZIQ0MxUDVTM3ZGaF93a2RuTW11Q2lwWE1Ta3FQTF91djdjRmFXRkdGenlPclJQeFZzalBQamoxdVJ2VFd0VXI0QnJtd2tuRV9GbWthdnNqekpJaTN1VVJuMnBmU0lVenBoTlFZajMxSm9qanVnWkJLUHlwQjVOZDB3cDFacGF0bWRVZ21tZnMxTXAtS0E?oc=5",
-      "date": "2026-03-09 08:15",
-      "summary": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round  Reuters..."
+      "title": "Anthropic's legal claims against Trump's blanket government ban on AI startup - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlItRWlTRWlXM256c0VRZzNrTXhSVndWdW8xMEV2ZE9pTVFieENZNkhzS0hkcFNqZzRfN2ktVEoxZ1FTelFkblFrX2x4Tzl3bW4tZDJraExPcTlVUUtiVHJ2VG9JUXl2TE5yM1FqeHBSQnhxVWtxc2FfUDJXYnRiMklGZ0JYTDN2bUw5NjdzMWJoUGw1UXp2NjV5NUs0Y05DN0ZEVXlFXzloel9fQWpYYTZCeUE0aHpPai1PNXJaY29LRDQ?oc=5",
+      "date": "2026-03-09 19:01",
+      "summary": "Anthropic's legal claims against Trump's blanket government ban on AI startup  Reuters..."
     },
     {
       "title": "Microsoft taps Anthropic for Copilot Cowork in push for AI agents - Reuters",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0x1SjlzVm5GbnNYZTNMblFLN2ppQ1gtZ0xMdFd6eUhVMmhSWHJlV1BadnFyTjdXZUtqcF8yZ1V0ZjZLM1dtSExEN2g3OERiMG1hNEgtel9WNEtobmdtel9aMXpWdWNHR3FtM2k1d25VenMza3dtWWxzMEk1UERyYkc1SDBWNG1wQ3RSSzNLbVpsUEpqeHptZ1dMaGNicTRR?oc=5",
       "date": "2026-03-09 13:01",
       "summary": "Microsoft taps Anthropic for Copilot Cowork in push for AI agents  Reuters..."
+    },
+    {
+      "title": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUM5UVE2X1o0YjduU2Zja2dkQzhIaDZIQ0MxUDVTM3ZGaF93a2RuTW11Q2lwWE1Ta3FQTF91djdjRmFXRkdGenlPclJQeFZzalBQamoxdVJ2VFd0VXI0QnJtd2tuRV9GbWthdnNqekpJaTN1VVJuMnBmU0lVenBoTlFZajMxSm9qanVnWkJLUHlwQjVOZDB3cDFacGF0bWRVZ21tZnMxTXAtS0E?oc=5",
+      "date": "2026-03-09 08:15",
+      "summary": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round  Reuters..."
     },
     {
       "title": "OpenAI hardware leader resigns after deal with Pentagon - Reuters",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
+      "title": "Key protein SYFO2 enables 'self-fertilization' of leguminous plants",
+      "link": "https://phys.org/news/2026-03-key-protein-syfo2-enables-fertilization.html",
+      "date": "2026-03-09 19:40",
+      "summary": "Most plants allow fungal microorganisms to enter their root cells and provide them with carbohydrates in exchange for a better sup..."
+    },
+    {
+      "title": "Ultrafast light pulses make molecules rotate on quantum materials",
+      "link": "https://phys.org/news/2026-03-ultrafast-pulses-molecules-rotate-quantum.html",
+      "date": "2026-03-09 19:20",
+      "summary": "Researchers from Germany, Japan and India, led by scientists from DESY and the Universities of Kiel and Hamburg, have found a way ..."
+    },
+    {
+      "title": "Baltic herring fishing rules may need an update after new genetic mapping",
+      "link": "https://phys.org/news/2026-03-baltic-herring-fishing-genetic.html",
+      "date": "2026-03-09 19:00",
+      "summary": "Herring from different parts of the Baltic Sea belong to distinct populations genetically adapted to local differences in salinity..."
+    },
+    {
+      "title": "Microbes hitchhiking on marine snow could limit how deep carbon sinks",
+      "link": "https://phys.org/news/2026-03-microbes-hitchhiking-marine-limit-deep.html",
+      "date": "2026-03-09 19:00",
+      "summary": "In some parts of the deep ocean, it can look like it's snowing. This \"marine snow\" is the dust and detritus that organisms slough ..."
+    },
+    {
       "title": "Ocean carbon removal looks promising, but nutrient cycling could curb long-term gains",
       "link": "https://phys.org/news/2026-03-ocean-carbon-nutrient-curb-term.html",
       "date": "2026-03-09 18:40",
       "summary": "There is growing interest in the scientific community and private sector in biological approaches to marine carbon dioxide removal..."
-    },
-    {
-      "title": "Nearby red dwarf star hosts at least four planets—with one in the habitable zone",
-      "link": "https://phys.org/news/2026-03-nearby-red-dwarf-star-hosts.html",
-      "date": "2026-03-09 18:20",
-      "summary": "In 2020, a study confirmed that two planets orbited the nearby red dwarf, GJ 887. Now, astronomers have confirmed the existence of..."
-    },
-    {
-      "title": "Antarctic sea ice rebounds in 2026, nearing average after four years",
-      "link": "https://phys.org/news/2026-03-antarctic-sea-ice-rebounds-nearing.html",
-      "date": "2026-03-09 18:10",
-      "summary": "Antarctic sea ice coverage has likely rebounded this year, coming closer to its annual summer average after four years of extreme ..."
-    },
-    {
-      "title": "Students with lower self-control tend to procrastinate with short-form video, study finds",
-      "link": "https://phys.org/news/2026-03-students-tend-procrastinate-short-video.html",
-      "date": "2026-03-09 18:00",
-      "summary": "Who among us hasn't put off doing something we know we need to do while scrolling through just a few more TikToks, Instagram reels..."
-    },
-    {
-      "title": "From carp to crocodilians: Why deliberately introduced freshwater giants may bring hidden risks",
-      "link": "https://phys.org/news/2026-03-carp-crocodilians-deliberately-freshwater-giants.html",
-      "date": "2026-03-09 18:00",
-      "summary": "More than 40% of extant large freshwater animals (megafauna), including carp, salmonids, crocodilians, turtles, beavers, and hippo..."
     }
   ],
   "The Guardian Edu": [
