@@ -33,16 +33,16 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "How academia can help America heal - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
-      "date": "2026-02-13 08:00",
-      "summary": "How academia can help America heal  Harvard Gazette..."
-    },
-    {
       "title": "A potential quantum leap - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
       "date": "2025-11-12 08:00",
       "summary": "A potential quantum leap  Harvard Gazette..."
+    },
+    {
+      "title": "How academia can help America heal - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
+      "date": "2026-02-13 08:00",
+      "summary": "How academia can help America heal  Harvard Gazette..."
     },
     {
       "title": "Harvard reports operating deficit amid federal funding cuts - Harvard Gazette",
@@ -89,10 +89,10 @@
       "summary": "Blue Devils Drop Heartbreaker as No. 2 Stanford Rallies for 11-10 Victory  goduke.com..."
     },
     {
-      "title": "The Other Side of the Creek: The Atomic Age at Stanford - InMenlo",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWU5KX254dmFQS2JIWmFNT3F5RGV0LUZmUGUzMHctaHc4U1ZJY2dCVHBlbV9tQlFLUkZwSUFmelFkSzlJTFZQSEhVRXdVUUE3VHVIenRjM2dFTjJSWWVkeWl6aEs1ekhrSU83Y21TNl9Xek9TR2haQ1hWNFBKcFRrZ0NlcU1hekJxZERBWXQ4Yw?oc=5",
-      "date": "2026-03-09 20:11",
-      "summary": "The Other Side of the Creek: The Atomic Age at Stanford  InMenlo..."
+      "title": "AI project aims to advance research into the past - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZzFkZHlpSmt6ckVnRXF6d2ZsQmFYbGNOenNlcy1MaWtHWUl5elU3QWtxUGJ3S1ZuV0xBYnpDbHY0TElKbnR0clRuQ0xhbjIwXzI0blZmdzFLY1gyc1NELWF1V29acWtJUnJ0MkxpSDdVYnZoWEtxQ3kweU5Pa2xUNlBRYUJFbTNPXzBVQmFiV2p2bjA5b0wxaW9Xc3AwSEZUV2pFOUlIS1dvaExUeXd4ZnhjTG8weXhLM3c?oc=5",
+      "date": "2026-03-06 08:00",
+      "summary": "AI project aims to advance research into the past  Stanford University..."
     }
   ],
   "Nature Careers": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
+      "title": "How AI could unlock deep‑sea secrets of marine life",
+      "link": "https://phys.org/news/2026-03-ai-deepsea-secrets-marine-life.html",
+      "date": "2026-03-09 22:20",
+      "summary": "Somewhere in the North Atlantic, more than a kilometer beneath its surface, a cold-water coral reef stretches across an unnamed se..."
+    },
+    {
+      "title": "Physical activity is linked to the health of the planet, according to a trio of recent studies",
+      "link": "https://phys.org/news/2026-03-physical-linked-health-planet-trio.html",
+      "date": "2026-03-09 22:20",
+      "summary": "Global levels of physical activity have not improved over the past two decades, despite widespread policy development and adoption..."
+    },
+    {
+      "title": "In search of a room-temperature superconductor, scientists present a research agenda",
+      "link": "https://phys.org/news/2026-03-room-temperature-superconductor-scientists-agenda.html",
+      "date": "2026-03-09 22:00",
+      "summary": "The search for materials that can conduct electricity at room temperature without losing energy is one of the greatest and most co..."
+    },
+    {
+      "title": "AI tool streamlines drug synthesis, dramatically reducing lab work and costs",
+      "link": "https://phys.org/news/2026-03-ai-tool-drug-synthesis-lab.html",
+      "date": "2026-03-09 21:40",
+      "summary": "Drug discovery is like molecular Tetris. Chemists snap atoms together, adjusting the pieces until everything fits, and suddenly, a..."
+    },
+    {
       "title": "Nanosecond light-by-light switching achieved in liquid crystal droplet",
       "link": "https://phys.org/news/2026-03-nanosecond-liquid-crystal-droplet.html",
       "date": "2026-03-09 21:30",
       "summary": "Controlling light with light is a long-sought goal for computing and communication technologies. Achieving this capability would a..."
-    },
-    {
-      "title": "CRISPR-based technique unlocks healing power of mitochondria for heart failure therapy",
-      "link": "https://phys.org/news/2026-03-crispr-based-technique-power-mitochondria.html",
-      "date": "2026-03-09 21:20",
-      "summary": "After a heart attack, the heart struggles to recoup and maintain energy. One-third of patients develop heart failure as a result—a..."
-    },
-    {
-      "title": "How farming perennial plants can help us in times of climate change, food insecurity and social division",
-      "link": "https://phys.org/news/2026-03-farming-perennial-climate-food-insecurity.html",
-      "date": "2026-03-09 21:10",
-      "summary": "Climate change is threatening modern life in ways we are still finding, from food security to the economy to everyday living. It h..."
-    },
-    {
-      "title": "Unlocking the hidden pocket on a billion‑dollar drug target",
-      "link": "https://phys.org/news/2026-03-hidden-pocket-billiondollar-drug.html",
-      "date": "2026-03-09 21:00",
-      "summary": "For years, a protein inside our cells has quietly powered billions of dollars' worth of cancer drugs. Now a team of researchers ha..."
-    },
-    {
-      "title": "Robotic microfluidic platform brings AI to lipid nanoparticle design",
-      "link": "https://phys.org/news/2026-03-robotic-microfluidic-platform-ai-lipid.html",
-      "date": "2026-03-09 21:00",
-      "summary": "AI has designed candidate drugs for antibiotic-resistant infections and genetic diseases. But efforts to incorporate AI into the d..."
     }
   ],
   "The Guardian Edu": [
