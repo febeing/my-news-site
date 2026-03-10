@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
-      "date": "2025-09-30 07:00",
-      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
-    },
-    {
       "title": "How academia can help America heal - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
@@ -51,16 +45,22 @@
       "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     },
     {
-      "title": "Harvard reports operating deficit amid federal funding cuts - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2ZjQmV2UTFaS0pGVnpKNTBuZF83dkdOcV9NTVdvYXBmVWFYNDdHWlFHYkFna1A2SWFmS0UxRmRKWFhFTVowcWxrbEFJYVJTWmNDOUxuRVIzQ3Nuekwzb0JQWUFpSmNETlNReGtkSHJnNnZ4RGRCYlhPN2lBbWZibUc0bVRjd050N2dqdFAtNnh2RnlQQzEzYWtJU3VucXdVZ3AzOWtqQkdjeW8?oc=5",
-      "date": "2025-10-16 07:00",
-      "summary": "Harvard reports operating deficit amid federal funding cuts  Harvard Gazette..."
-    },
-    {
       "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
       "date": "2025-09-25 07:00",
       "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
+    },
+    {
+      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
+      "date": "2025-10-28 07:00",
+      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
+    },
+    {
+      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
+      "date": "2025-09-30 07:00",
+      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -199,16 +199,16 @@
       "summary": "Anthropic sues to block Pentagon blacklisting over AI use restrictions  Reuters..."
     },
     {
-      "title": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUM5UVE2X1o0YjduU2Zja2dkQzhIaDZIQ0MxUDVTM3ZGaF93a2RuTW11Q2lwWE1Ta3FQTF91djdjRmFXRkdGenlPclJQeFZzalBQamoxdVJ2VFd0VXI0QnJtd2tuRV9GbWthdnNqekpJaTN1VVJuMnBmU0lVenBoTlFZajMxSm9qanVnWkJLUHlwQjVOZDB3cDFacGF0bWRVZ21tZnMxTXAtS0E?oc=5",
-      "date": "2026-03-09 08:15",
-      "summary": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round  Reuters..."
-    },
-    {
       "title": "Chinese tech hubs promote OpenClaw AI agent, despite security warnings - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2ZJdTVTS0VvNk9EWWdXcVRsb2ZYVklhdGxGbF82aFNaQUhyXzhGRkYyWWZhV2ROM1hjelRRY3JTcFgzeElpaWF3LW05Skt5ZXBLS2FLSDVRdGtPUVdhSlRTbFQ0dzJ1SnJBNVExYlRPNmFudUU3Nld5WDNzbUI1YndfNVI3WTBzVTQ5c2QzNUVmZHlpUS13QnV4VW8xbmpkdkNFZmNocWZ0REQyLTBPMkpqdklNWXhOaVB0ZllGOWNMS2V2NTAwUg?oc=5",
       "date": "2026-03-09 12:22",
       "summary": "Chinese tech hubs promote OpenClaw AI agent, despite security warnings  Reuters..."
+    },
+    {
+      "title": "German start-up plans 30-megawatt AI data centre in boost to sovereign control - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ3FrOVl0S2NCS0lfZV8wX1Z0M1JVVzJiWDJ3YWdYZndGeHFUZ0lETWFCMDZDRWFBdmd0SXJBUDhMZXBscnZyVEo5WjdiUXNRMU5NZzA3RS0yUXh0QnJDSnA4c1dKOTlZcHlGMHh4MC01ZWx2NG03VUxvaWlKVk5UREhLSFRmRHFDdGF5alQyWFk2NXZEOFhVeDktb2tkcGRRX1VOQkF5UnFyeERkb2lLdS05djdQd0xadDdaZjVVZUxqZDNMMm9NTENPOVpwMzFIeWJnag?oc=5",
+      "date": "2026-03-10 06:02",
+      "summary": "German start-up plans 30-megawatt AI data centre in boost to sovereign control  Reuters..."
     },
     {
       "title": "Microsoft taps Anthropic for Copilot Cowork in push for AI agents - Reuters",
@@ -217,10 +217,10 @@
       "summary": "Microsoft taps Anthropic for Copilot Cowork in push for AI agents  Reuters..."
     },
     {
-      "title": "OpenAI hardware leader resigns after deal with Pentagon - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTJ2em9NVjIwZkxQOWl0dVVHMGZNZEtqT3lxN0hOOHo4VEUxbU1kZHp4eUNKWGVua2tEZ05idnZWbk5Fc2V6ZjlTMHFtM0R2RnlKem9DbldNZWRnOWwza3k0TFRnXzcxamlnYzJkWkxLSUtnc1ZIUkpwM01hUWlYNHp3b2x6bmJSR3dwMHlCTTZoWExwUGVhN212cGZXY2M?oc=5",
-      "date": "2026-03-08 12:28",
-      "summary": "OpenAI hardware leader resigns after deal with Pentagon  Reuters..."
+      "title": "Ex-Meta AI chief Yann LeCun's AMI raises $1.03 billion for alternative AI approach - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUFjdVdaX0o2RkZ5VXdYbERvZmlVQy1Oc3lMeW9yb3JRUUJYNjk5d21oVVllVkZpNTducDVGMko2YnNlclNEMmY4ZGxLVlBkdmVWaUdSOXB0UllhbU9mTVkwWXVBWnF6eWxMRDJWRmdOYkVoUFoxc0ZNOWRoSzlldlZDSEhHb3RvQkZ2SnVOajFVU3VPQzFKNUxGaGcwU2lweWVyREt1Um9LSFVXSGhrY1k4S3RndW0yeFlrYQ?oc=5",
+      "date": "2026-03-10 05:01",
+      "summary": "Ex-Meta AI chief Yann LeCun's AMI raises $1.03 billion for alternative AI approach  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Cathay extends flight suspension to Dubai, Riyadh until March 31 amid war",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3346081/cathay-extends-flight-suspension-dubai-riyadh-until-march-31-amid-war?utm_source=rss_feed",
+      "date": "2026-03-10 07:28",
+      "summary": "Hong Kong flag carrier Cathay Pacific Airways has further suspended all flights to and from Dubai until the end of March amid the ..."
+    },
+    {
+      "title": "CityU professor convicted of offering HK$1,000 bribe to avoid tenancy payout",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3346075/cityu-professor-convicted-offering-hk1000-bribe-avoid-tenancy-payout?utm_source=rss_feed",
+      "date": "2026-03-10 07:04",
+      "summary": "A Hong Kong court has convicted a professor of offering a HK$1,000 (US$128) bribe to a property agent in an attempt to avoid payin..."
+    },
+    {
       "title": "Chinese embassy warns nationals in UK of scammers posing as Hong Kong ICAC staff",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3346063/chinese-embassy-warns-nationals-uk-scammers-posing-hong-kong-icac-staff?utm_source=rss_feed",
       "date": "2026-03-10 05:42",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3346054/hong-kong-airlines-raise-fuel-surcharges-35-amid-oil-price-surge?utm_source=rss_feed",
       "date": "2026-03-10 04:35",
       "summary": "Hong Kong Airlines will raise its fuel surcharges by up to 35.2 per cent from Thursday amid soaring oil prices driven by escalatin..."
-    },
-    {
-      "title": "E-payments to attract more riders, cut fare disputes: Hong Kong taxi industry",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3346042/e-payments-attract-more-riders-cut-fare-disputes-hong-kong-taxi-industry?utm_source=rss_feed",
-      "date": "2026-03-10 03:46",
-      "summary": "Mandatory e-payment in Hong Kong taxis could attract more residents and visitors to use the service, as about 90 per cent of drive..."
-    },
-    {
-      "title": "Why China’s economic reset is a credibility test for Hong Kong",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3345773/why-chinas-economic-reset-credibility-test-hong-kong?utm_source=rss_feed",
-      "date": "2026-03-10 01:30",
-      "summary": "China’s annual parliamentary “two sessions” have been framed as a show of resilience in a turbulent world. That framing is not wro..."
     }
   ],
   "New Scientist": [
