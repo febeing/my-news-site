@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "A potential quantum leap - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
-      "date": "2025-11-12 08:00",
-      "summary": "A potential quantum leap  Harvard Gazette..."
-    },
-    {
       "title": "Crossing line between good and bad anxiety - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
       "date": "2025-09-30 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2ZjQmV2UTFaS0pGVnpKNTBuZF83dkdOcV9NTVdvYXBmVWFYNDdHWlFHYkFna1A2SWFmS0UxRmRKWFhFTVowcWxrbEFJYVJTWmNDOUxuRVIzQ3Nuekwzb0JQWUFpSmNETlNReGtkSHJnNnZ4RGRCYlhPN2lBbWZibUc0bVRjd050N2dqdFAtNnh2RnlQQzEzYWtJU3VucXdVZ3AzOWtqQkdjeW8?oc=5",
       "date": "2025-10-16 07:00",
       "summary": "Harvard reports operating deficit amid federal funding cuts  Harvard Gazette..."
+    },
+    {
+      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
+      "date": "2025-09-25 07:00",
+      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -83,16 +83,16 @@
       "summary": "Pack Falls to Stanford, 85-84, on Senior Day - NC State University Athletics  NC State University Athletics..."
     },
     {
-      "title": "Stanford Computational Antitrust Project Announces New Member: UAE Competition Department - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdjItaWxnT1NKTGR5dFNnNF9XS1BSdEtOdVFjanRnUkwtVlBrLUNEeXJld2dxcHNaUFlNSUFjTUJEVlRXR253TzVGbmNKUDVKZjR3eEZBMm1BMF9ZLWVVQndSTUFKc29iWmp1VmpwV2RhVktZa1RrYzUzY0QwRDNmY0ZRZjhQMnNvUTZ3MXVEU1IteVhzY2plaVFQUk5HZWVLN1dzbQ?oc=5",
-      "date": "2026-03-09 08:00",
-      "summary": "Stanford Computational Antitrust Project Announces New Member: UAE Competition Department  Stanford Law School..."
-    },
-    {
       "title": "Engineers improve infrared devices using century-old materials - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3RFeUJfYkJObFZYTy1JY3ZsQjJFa0RyT0lXNF93MGt5TnV1UGJ4RnVKRFlNeTdsektaQXlhMmdybkh1eGIyVTQtN0tDUE0yQ3htZVA3elladUxfdl9wV0RFU1E0aVNKT0NweUd3WmZQblJnU1Z5RkxmRVFRX05zVjdNb2xkUzdsejk3SnZUVF8?oc=5",
       "date": "2026-03-05 19:14",
       "summary": "Engineers improve infrared devices using century-old materials  Stanford University..."
+    },
+    {
+      "title": "What’s driving Stanford’s culture of political apathy? - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rYzdPdjJKZDM5RjUtYUJQcjM0Y2ZsV1ExMnhlNXo0NGkxZFByaXhYbnNWNFl6WGhtUjBTRmc3UlBITjRBanU4OG5BcGZJX24yLWtzTFNrc00wUk9QUWRHMkE3OEhldHpDVVhTYVJha1Q?oc=5",
+      "date": "2026-03-10 05:03",
+      "summary": "What’s driving Stanford’s culture of political apathy?  The Stanford Daily..."
     }
   ],
   "Nature Careers": [
@@ -199,6 +199,12 @@
       "summary": "Anthropic sues to block Pentagon blacklisting over AI use restrictions  Reuters..."
     },
     {
+      "title": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUM5UVE2X1o0YjduU2Zja2dkQzhIaDZIQ0MxUDVTM3ZGaF93a2RuTW11Q2lwWE1Ta3FQTF91djdjRmFXRkdGenlPclJQeFZzalBQamoxdVJ2VFd0VXI0QnJtd2tuRV9GbWthdnNqekpJaTN1VVJuMnBmU0lVenBoTlFZajMxSm9qanVnWkJLUHlwQjVOZDB3cDFacGF0bWRVZ21tZnMxTXAtS0E?oc=5",
+      "date": "2026-03-09 08:15",
+      "summary": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round  Reuters..."
+    },
+    {
       "title": "Chinese tech hubs promote OpenClaw AI agent, despite security warnings - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2ZJdTVTS0VvNk9EWWdXcVRsb2ZYVklhdGxGbF82aFNaQUhyXzhGRkYyWWZhV2ROM1hjelRRY3JTcFgzeElpaWF3LW05Skt5ZXBLS2FLSDVRdGtPUVdhSlRTbFQ0dzJ1SnJBNVExYlRPNmFudUU3Nld5WDNzbUI1YndfNVI3WTBzVTQ5c2QzNUVmZHlpUS13QnV4VW8xbmpkdkNFZmNocWZ0REQyLTBPMkpqdklNWXhOaVB0ZllGOWNMS2V2NTAwUg?oc=5",
       "date": "2026-03-09 12:22",
@@ -215,26 +221,20 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTJ2em9NVjIwZkxQOWl0dVVHMGZNZEtqT3lxN0hOOHo4VEUxbU1kZHp4eUNKWGVua2tEZ05idnZWbk5Fc2V6ZjlTMHFtM0R2RnlKem9DbldNZWRnOWwza3k0TFRnXzcxamlnYzJkWkxLSUtnc1ZIUkpwM01hUWlYNHp3b2x6bmJSR3dwMHlCTTZoWExwUGVhN212cGZXY2M?oc=5",
       "date": "2026-03-08 12:28",
       "summary": "OpenAI hardware leader resigns after deal with Pentagon  Reuters..."
-    },
-    {
-      "title": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUM5UVE2X1o0YjduU2Zja2dkQzhIaDZIQ0MxUDVTM3ZGaF93a2RuTW11Q2lwWE1Ta3FQTF91djdjRmFXRkdGenlPclJQeFZzalBQamoxdVJ2VFd0VXI0QnJtd2tuRV9GbWthdnNqekpJaTN1VVJuMnBmU0lVenBoTlFZajMxSm9qanVnWkJLUHlwQjVOZDB3cDFacGF0bWRVZ21tZnMxTXAtS0E?oc=5",
-      "date": "2026-03-09 08:15",
-      "summary": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjJNYVhxNlVqbGNtbkRDaVNrSVp3Q2xlVVpHaVZDN1FsM3djLWROTmdoRXlJbXRVZk1RaE1DQ3BDc1Z1cjBjQXpSb1VIMFRyRVN2ZnNpVndjQ2FwdElyeGdCRWNtNlkydWdNOUxxdzh2MnpLWE9JU3dGQ1VYbmxEUEFFTVhkWnpFUmc3ODdIVFFPYkU1aU55T2c2NXNadzB4T2Fz0gGoAUFVX3lxTFA0c0hLSjJxMU5lckM3bFJWLVRPSWhiX2EwcG1YVjFjOWpFbFVtaW5rbG5mbHFCLVdWcWpJRFlpSHFMTTlmUi1YOTVzYm5nYmJVblZxZUsweWZIbVBWcWhvcHpJYnFuV3FlbWtBbVR0NG1LaWxaREdFQVMyQmJneEY4M0lsQUp5RTRLTFFfY3JaRlV3UTI1UGYtNUFrR2I0d1Z4YWZqcjJSTw?oc=5",
-      "date": "2026-03-09 15:11",
-      "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
-    },
     {
       "title": "MIT Technology Review Named Finalist for 2026 National Magazine Award in Reporting - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDBLM1VVRVhISE5tb3hiWUFLcWZ0OE1pMU5zSlRfSjJqUTlJTTZsbm80Y1lDZk9ZRW9JekFqVVZSMFZza05Tck1EbklTX3Y0bW90ZklHYTBLcVlka01xUTRVeGlndnA2MGZINUR6TWhqaC1waGdHZnI3aEdlY2VyOTJvRlQxbjdSWVBjR2ZZREh3eWY5ejhhcm5jTmNpZm5nMDlkVlM4MDY2XzV2N2E2bjhpdWY4WHdIQUhwME9US1Z0YkZ1X3R5TkdvcnZkQjVNcU82OA?oc=5",
       "date": "2026-03-09 19:52",
       "summary": "MIT Technology Review Named Finalist for 2026 National Magazine Award in Reporting  PR Newswire..."
+    },
+    {
+      "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjJNYVhxNlVqbGNtbkRDaVNrSVp3Q2xlVVpHaVZDN1FsM3djLWROTmdoRXlJbXRVZk1RaE1DQ3BDc1Z1cjBjQXpSb1VIMFRyRVN2ZnNpVndjQ2FwdElyeGdCRWNtNlkydWdNOUxxdzh2MnpLWE9JU3dGQ1VYbmxEUEFFTVhkWnpFUmc3ODdIVFFPYkU1aU55T2c2NXNadzB4T2Fz0gGoAUFVX3lxTFA0c0hLSjJxMU5lckM3bFJWLVRPSWhiX2EwcG1YVjFjOWpFbFVtaW5rbG5mbHFCLVdWcWpJRFlpSHFMTTlmUi1YOTVzYm5nYmJVblZxZUsweWZIbVBWcWhvcHpJYnFuV3FlbWtBbVR0NG1LaWxaREdFQVMyQmJneEY4M0lsQUp5RTRLTFFfY3JaRlV3UTI1UGYtNUFrR2I0d1Z4YWZqcjJSTw?oc=5",
+      "date": "2026-03-09 15:11",
+      "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
     },
     {
       "title": "The usability imperative for securing digital asset devices - MIT Technology Review",
