@@ -193,22 +193,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "Meta acquires AI agent social network Moltbook - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0NkclFHZE5GMFU2XzlMWmlPdlZHeV8yMFdNRDdQNDFtVnJVSXBUZjFTN2JYTlpiUHdITm9BaXJLMGsxSGVnVWxTa1RuY08tRlA0bG4zbzU3ZFRfamJ2OVFudHhDNTdwWGZHVzdOQl9jeGRXLTVhRE5BTUhRWVJzbVFva2trSk9SNDM2SlZvdk00VTdldHc?oc=5",
-      "date": "2026-03-10 14:43",
-      "summary": "Meta acquires AI agent social network Moltbook  Reuters..."
-    },
-    {
-      "title": "Microsoft taps Anthropic for Copilot Cowork in push for AI agents - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0x1SjlzVm5GbnNYZTNMblFLN2ppQ1gtZ0xMdFd6eUhVMmhSWHJlV1BadnFyTjdXZUtqcF8yZ1V0ZjZLM1dtSExEN2g3OERiMG1hNEgtel9WNEtobmdtel9aMXpWdWNHR3FtM2k1d25VenMza3dtWWxzMEk1UERyYkc1SDBWNG1wQ3RSSzNLbVpsUEpqeHptZ1dMaGNicTRR?oc=5",
-      "date": "2026-03-09 13:01",
-      "summary": "Microsoft taps Anthropic for Copilot Cowork in push for AI agents  Reuters..."
-    },
-    {
-      "title": "Anthropic sues to block Pentagon blacklisting over AI use restrictions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0lmZjhHS1IwNS02c2ltRkEwaHh2TWNfTFplQlhxN0FUWlZwVTdLNGU5MWxvMGpYXzRjNFRIdDBiMjdSRW1JeWZqZVpiQlVqWkRibjMzMGR2Qk9rUmh2NXhDNnVyM09VcmZISEpRcWNtNDMtRzlxa3I0SzFCdGdUcHFhUDJpY3E5NFNGNVhOZmhjOXpsTGVsOE1LbWJKLWRSOGc5VVJZV1JHMjRITkE?oc=5",
-      "date": "2026-03-09 15:04",
-      "summary": "Anthropic sues to block Pentagon blacklisting over AI use restrictions  Reuters..."
+      "title": "Ex-Meta AI chief Yann LeCun's AMI raises $1.03 billion for alternative AI approach - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUFjdVdaX0o2RkZ5VXdYbERvZmlVQy1Oc3lMeW9yb3JRUUJYNjk5d21oVVllVkZpNTducDVGMko2YnNlclNEMmY4ZGxLVlBkdmVWaUdSOXB0UllhbU9mTVkwWXVBWnF6eWxMRDJWRmdOYkVoUFoxc0ZNOWRoSzlldlZDSEhHb3RvQkZ2SnVOajFVU3VPQzFKNUxGaGcwU2lweWVyREt1Um9LSFVXSGhrY1k4S3RndW0yeFlrYQ?oc=5",
+      "date": "2026-03-10 05:01",
+      "summary": "Ex-Meta AI chief Yann LeCun's AMI raises $1.03 billion for alternative AI approach  Reuters..."
     },
     {
       "title": "Chinese tech hubs promote OpenClaw AI agent despite security warnings - Reuters",
@@ -217,10 +205,22 @@
       "summary": "Chinese tech hubs promote OpenClaw AI agent despite security warnings  Reuters..."
     },
     {
+      "title": "Anthropic sues to block Pentagon blacklisting over AI use restrictions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0lmZjhHS1IwNS02c2ltRkEwaHh2TWNfTFplQlhxN0FUWlZwVTdLNGU5MWxvMGpYXzRjNFRIdDBiMjdSRW1JeWZqZVpiQlVqWkRibjMzMGR2Qk9rUmh2NXhDNnVyM09VcmZISEpRcWNtNDMtRzlxa3I0SzFCdGdUcHFhUDJpY3E5NFNGNVhOZmhjOXpsTGVsOE1LbWJKLWRSOGc5VVJZV1JHMjRITkE?oc=5",
+      "date": "2026-03-09 15:04",
+      "summary": "Anthropic sues to block Pentagon blacklisting over AI use restrictions  Reuters..."
+    },
+    {
       "title": "AT&T outlines $250 billion US investment plan to boost infrastructure in AI age - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUlkQXhxMEE5NmZQUUZ0cHNRbWVmZnlVTnF0YlFEOXpKM1Q1UWU5a3dYXzFPRUlTMmE1S0lEVER4LVg5b1hfazU3S2VBWU9XbFdkWWM3dXhSdVY5azE5R2dMSjZrdDlURFhqbHdXV1ZyOVkxUl9SaGVXUHpXQ0ZBQUhrWXp4YVgxaDcyUXcyOGdBZHlDTVBnQzc0Tk9lT1Y4bGdiVTRkbk9wcXRFZ05aU3QwbFJCT0FjSHFIX2JR?oc=5",
       "date": "2026-03-10 10:09",
       "summary": "AT&T outlines $250 billion US investment plan to boost infrastructure in AI age  Reuters..."
+    },
+    {
+      "title": "Meta acquires AI agent social network Moltbook - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0NkclFHZE5GMFU2XzlMWmlPdlZHeV8yMFdNRDdQNDFtVnJVSXBUZjFTN2JYTlpiUHdITm9BaXJLMGsxSGVnVWxTa1RuY08tRlA0bG4zbzU3ZFRfamJ2OVFudHhDNTdwWGZHVzdOQl9jeGRXLTVhRE5BTUhRWVJzbVFva2trSk9SNDM2SlZvdk00VTdldHc?oc=5",
+      "date": "2026-03-10 14:43",
+      "summary": "Meta acquires AI agent social network Moltbook  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,48 +243,48 @@
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
     },
     {
-      "title": "MIT Technology Review Named Finalist for 2026 National Magazine Award in Reporting - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDBLM1VVRVhISE5tb3hiWUFLcWZ0OE1pMU5zSlRfSjJqUTlJTTZsbm80Y1lDZk9ZRW9JekFqVVZSMFZza05Tck1EbklTX3Y0bW90ZklHYTBLcVlka01xUTRVeGlndnA2MGZINUR6TWhqaC1waGdHZnI3aEdlY2VyOTJvRlQxbjdSWVBjR2ZZREh3eWY5ejhhcm5jTmNpZm5nMDlkVlM4MDY2XzV2N2E2bjhpdWY4WHdIQUhwME9US1Z0YkZ1X3R5TkdvcnZkQjVNcU82OA?oc=5",
-      "date": "2026-03-09 19:52",
-      "summary": "MIT Technology Review Named Finalist for 2026 National Magazine Award in Reporting  PR Newswire..."
-    },
-    {
       "title": "The Crime issue - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGZXpMZTJ5SGpvdFB1N1FISEpRakVqUEZGYUE1dXNySVg5a0gyeDNoUU9vSmNsVU9reEZwVVFOWVFvUHU0dFJrQ0I2UVRucjVrVGlwY051aDJZcjdJYXB0dFp3UHdJS3ZNY3NN?oc=5",
       "date": "2026-02-25 11:02",
       "summary": "The Crime issue  MIT Technology Review..."
+    },
+    {
+      "title": "MIT Technology Review Named Finalist for 2026 National Magazine Award in Reporting - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDBLM1VVRVhISE5tb3hiWUFLcWZ0OE1pMU5zSlRfSjJqUTlJTTZsbm80Y1lDZk9ZRW9JekFqVVZSMFZza05Tck1EbklTX3Y0bW90ZklHYTBLcVlka01xUTRVeGlndnA2MGZINUR6TWhqaC1waGdHZnI3aEdlY2VyOTJvRlQxbjdSWVBjR2ZZREh3eWY5ejhhcm5jTmNpZm5nMDlkVlM4MDY2XzV2N2E2bjhpdWY4WHdIQUhwME9US1Z0YkZ1X3R5TkdvcnZkQjVNcU82OA?oc=5",
+      "date": "2026-03-09 19:52",
+      "summary": "MIT Technology Review Named Finalist for 2026 National Magazine Award in Reporting  PR Newswire..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Bacteria have a secret engineering trick to keep themselves in shape",
-      "link": "https://phys.org/news/2026-03-bacteria-secret.html",
-      "date": "2026-03-10 18:40",
-      "summary": "Blow up a long balloon and two things happen: it gets longer and it gets wider. Now imagine a living cell that inflates itself und..."
+      "title": "Telomere breaks provide new insights into chaotic chromosome mutations",
+      "link": "https://phys.org/news/2026-03-telomere-insights-chaotic-chromosome-mutations.html",
+      "date": "2026-03-10 19:20",
+      "summary": "Researchers at Cardiff University have uncovered how a particularly severe form of DNA damage arises—shedding new light on mutatio..."
     },
     {
-      "title": "Japanese scientists discover how falling cats almost always make perfect landings",
-      "link": "https://phys.org/news/2026-03-japanese-scientists-falling-cats.html",
-      "date": "2026-03-10 18:24",
-      "summary": "When cats fall, they usually land on their feet. This uncanny ability to right themselves before hitting the ground has long puzzl..."
+      "title": "One gene makes the difference: Breeding winter-hardy faba beans",
+      "link": "https://phys.org/news/2026-03-gene-difference-winter-hardy-faba.html",
+      "date": "2026-03-10 19:20",
+      "summary": "An international research team involving the IPK Leibniz Institute has discovered a small yet significant genetic difference in fa..."
     },
     {
-      "title": "A new protein timeline explains plasma membrane repair",
-      "link": "https://phys.org/news/2026-03-protein-timeline-plasma-membrane.html",
-      "date": "2026-03-10 18:20",
-      "summary": "In the evolutionary history of life, the ability of a cell to separate its inner world from the external environment was an import..."
+      "title": "From chatbots to assembly lines: The impact of AI on workplace safety",
+      "link": "https://phys.org/news/2026-03-chatbots-lines-impact-ai-workplace.html",
+      "date": "2026-03-10 19:10",
+      "summary": "The use of artificial intelligence (AI) tools, spearheaded by generative AI, is expanding into various spheres of society, includi..."
     },
     {
-      "title": "Student serves up fresh solutions to the pancake problem",
-      "link": "https://phys.org/news/2026-03-student-fresh-solutions-pancake-problem.html",
-      "date": "2026-03-10 18:20",
-      "summary": "David Cutler is in the spotlight for his work on a tasty-sounding mathematics problem. In January, the New York Times featured a r..."
+      "title": "AI-enabled quantum refinement cracks the code of difficult-to-map proteins",
+      "link": "https://phys.org/news/2026-03-ai-enabled-quantum-refinement-code.html",
+      "date": "2026-03-10 19:00",
+      "summary": "Using a tool to solve a protein's structure, for most researchers in the world of structural biology and computational chemistry, ..."
     },
     {
-      "title": "Why lethal mutations persist: Fruit fly study points to newly transferred jumping genes, not small DNA errors",
-      "link": "https://phys.org/news/2026-03-lethal-mutations-persist-fruit-fly.html",
-      "date": "2026-03-10 18:00",
-      "summary": "Most lethal mutations in wild fruit flies are driven by newly transferred jumping genes, not small DNA errors, according to a new ..."
+      "title": "New exoplanet survey method finds high rates of closely orbiting planets",
+      "link": "https://phys.org/news/2026-03-exoplanet-survey-method-high-orbiting.html",
+      "date": "2026-03-10 19:00",
+      "summary": "Up until now, exoplanet surveys have mostly focused on nearby, bright stars that are sun-like or are red dwarfs, which are known t..."
     }
   ],
   "The Guardian Edu": [
