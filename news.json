@@ -45,6 +45,12 @@
       "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
     },
     {
+      "title": "What if AI could help students learn, not just do assignments for them? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZERnQ0tJMkp3bEVHQXFHeDVRVFdNLUlucVQzakN2bmJ2VUFTSGJvVE9KNTJPSUxuNnFocjc5a2o0Q0JnTlJiMDFPdUVROVJJODhoek9scUJJTTNmVGd0RHN1NXJCbkZrXzVZM1c2YVhrZlFpWl9ZQ3NrS2dOUTVLd21nUWdIMERMTVVxWGxnZ2hGalBHNW5vSzgwQ1hNbEprWlRQTXN4REdKOS1JN3RPYUZoamN4T0tI?oc=5",
+      "date": "2025-10-21 07:00",
+      "summary": "What if AI could help students learn, not just do assignments for them?  Harvard Gazette..."
+    },
+    {
       "title": "Crossing line between good and bad anxiety - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
       "date": "2025-09-30 07:00",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
       "summary": "How academia can help America heal  Harvard Gazette..."
-    },
-    {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
-      "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -121,13 +121,19 @@
       "summary": "Nature, Published online: 10 March 2026; doi:10.1038/d41586-026-00778-4Prevent pandemics through One Health commitments..."
     },
     {
-      "title": "How ‘Pele’s hair’ sprouts from erupting lava",
-      "link": "https://www.nature.com/articles/d41586-026-00766-8",
+      "title": "The ethical risks of open-access agreements being used for authorship leverage",
+      "link": "https://www.nature.com/articles/d41586-026-00776-6",
       "date": "2026-03-10 00:00",
-      "summary": "Nature, Published online: 10 March 2026; doi:10.1038/d41586-026-00766-8Experiments with simulated magma show it can be pulled into..."
+      "summary": "Nature, Published online: 10 March 2026; doi:10.1038/d41586-026-00776-6The ethical risks of open-access agreements being used for ..."
     }
   ],
   "Science News": [
+    {
+      "title": "White House plan to break up iconic U.S. climate lab moves forward",
+      "link": "https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward",
+      "date": "2026-03-10 04:00",
+      "summary": "Bidders have lined up to take over pieces of the National Center for Atmospheric Research..."
+    },
     {
       "title": "Ancient Peruvians transported live parrots across the Andes",
       "link": "https://www.science.org/content/article/ancient-peruvians-transported-live-parrots-across-andes",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/nasa-administrator-talks-science-about-studying-moon-mars-and-earth",
       "date": "2026-03-09 03:58",
       "summary": "Jared Isaacman says agency may accelerate lunar science program and could tackle a new Mars mission in 2028..."
-    },
-    {
-      "title": "U.S. agency will devote $144 million to studies that slow aging, extend quality of life",
-      "link": "https://www.science.org/content/article/u-s-agency-will-devote-144-million-studies-slow-aging-extend-quality-life",
-      "date": "2026-03-09 01:50",
-      "summary": "ARPA-H will “build the train tracks” for first large clinical studies of aging interventions..."
     }
   ],
   "Retraction Watch": [
@@ -205,12 +205,6 @@
       "summary": "Anthropic sues to block Pentagon blacklisting over AI use restrictions  Reuters..."
     },
     {
-      "title": "Amazon launches healthcare AI assistant on its website, app - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeUZQelQ3T2VxQW5mdy11Tks3cGRYbV9SWmcyRHJoV1haV3NLWmdRNnFudmQxamYxR2pXdEEta0htbDd3dFZBWnBnUVlsaW9PbXhKaHhBbm9NZFRiNXVndHA5THY5c2IydnQxNjVtU0tKUmJIYm1OR2lxSzNQQ0RFaDJOZWx2NWtGYk5Ld2tEV18ybldzN1FhekFlVDhPZzMwOUtfTWhEX2UydFBp?oc=5",
-      "date": "2026-03-10 17:03",
-      "summary": "Amazon launches healthcare AI assistant on its website, app  Reuters..."
-    },
-    {
       "title": "AT&T outlines $250 billion US investment plan to boost infrastructure in AI age - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUlkQXhxMEE5NmZQUUZ0cHNRbWVmZnlVTnF0YlFEOXpKM1Q1UWU5a3dYXzFPRUlTMmE1S0lEVER4LVg5b1hfazU3S2VBWU9XbFdkWWM3dXhSdVY5azE5R2dMSjZrdDlURFhqbHdXV1ZyOVkxUl9SaGVXUHpXQ0ZBQUhrWXp4YVgxaDcyUXcyOGdBZHlDTVBnQzc0Tk9lT1Y4bGdiVTRkbk9wcXRFZ05aU3QwbFJCT0FjSHFIX2JR?oc=5",
       "date": "2026-03-10 10:09",
@@ -221,6 +215,12 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2ZJdTVTS0VvNk9EWWdXcVRsb2ZYVklhdGxGbF82aFNaQUhyXzhGRkYyWWZhV2ROM1hjelRRY3JTcFgzeElpaWF3LW05Skt5ZXBLS2FLSDVRdGtPUVdhSlRTbFQ0dzJ1SnJBNVExYlRPNmFudUU3Nld5WDNzbUI1YndfNVI3WTBzVTQ5c2QzNUVmZHlpUS13QnV4VW8xbmpkdkNFZmNocWZ0REQyLTBPMkpqdklNWXhOaVB0ZllGOWNMS2V2NTAwUg?oc=5",
       "date": "2026-03-09 12:22",
       "summary": "Chinese tech hubs promote OpenClaw AI agent despite security warnings  Reuters..."
+    },
+    {
+      "title": "Amazon launches healthcare AI assistant on its website, app - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeUZQelQ3T2VxQW5mdy11Tks3cGRYbV9SWmcyRHJoV1haV3NLWmdRNnFudmQxamYxR2pXdEEta0htbDd3dFZBWnBnUVlsaW9PbXhKaHhBbm9NZFRiNXVndHA5THY5c2IydnQxNjVtU0tKUmJIYm1OR2lxSzNQQ0RFaDJOZWx2NWtGYk5Ld2tEV18ybldzN1FhekFlVDhPZzMwOUtfTWhEX2UydFBp?oc=5",
+      "date": "2026-03-10 17:03",
+      "summary": "Amazon launches healthcare AI assistant on its website, app  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Opening the path to high-efficiency hydrogen production without expensive precious metals",
-      "link": "https://phys.org/news/2026-03-path-high-efficiency-hydrogen-production.html",
-      "date": "2026-03-10 21:20",
-      "summary": "A research team has successfully designed and developed a proprietary non-precious metal oxygen evolution reaction (OER) catalyst ..."
+      "title": "Live in the city or the country? How your location—and your thoughts on death—shape your travel choices",
+      "link": "https://phys.org/news/2026-03-city-country-thoughts-death-choices.html",
+      "date": "2026-03-10 22:20",
+      "summary": "When the first case of COVID-19 in the U.S. emerged in January 2020, many Americans began to confront the reality of death. Six ye..."
     },
     {
-      "title": "Texas's controversial migrant busing program tied to 2024 voting shifts",
-      "link": "https://phys.org/news/2026-03-texas-controversial-migrant-busing-voting.html",
-      "date": "2026-03-10 21:20",
-      "summary": "Texas busing programs that transported newly arrived immigrants to Democratic-led cities boosted President Donald Trump's vote sha..."
+      "title": "Antarctica undergoes 'Greenlandification' as ice melt accelerates",
+      "link": "https://phys.org/news/2026-03-antarctica-greenlandification-ice.html",
+      "date": "2026-03-10 22:20",
+      "summary": "An article published recently in Nature Geoscience warns that Antarctica's ice masses have begun to experience a process scientist..."
     },
     {
-      "title": "Unexpected magnetic response in gold and silver atomic contacts contradicts previous theoretical predictions",
-      "link": "https://phys.org/news/2026-03-unexpected-magnetic-response-gold-silver.html",
-      "date": "2026-03-10 21:10",
-      "summary": "Researchers from the Department of Physics and the University Institute of Materials at the University of Alicante (UA) and the Lo..."
+      "title": "Chemical shifts help track molecules breaking apart in real time",
+      "link": "https://phys.org/news/2026-03-chemical-shifts-track-molecules-real.html",
+      "date": "2026-03-10 22:00",
+      "summary": "When molecules fall apart, their electric charge doesn't stay put—it rearranges as bonds stretch and break. An international team ..."
     },
     {
-      "title": "Virtual reality games can increase a player's desire to help others, research shows",
-      "link": "https://phys.org/news/2026-03-virtual-reality-games-player-desire.html",
-      "date": "2026-03-10 21:10",
-      "summary": "Playing a virtual reality game can increase a person's sense of altruism and influence levels of empathy, according to a new study..."
+      "title": "Tapping into the inner workings of long-distance animal calls",
+      "link": "https://phys.org/news/2026-03-distance-animal.html",
+      "date": "2026-03-10 22:00",
+      "summary": "From whale songs to lion roars, animals have evolved to stretch their voices across distances so that friends—and sometimes foes—c..."
     },
     {
-      "title": "Gnaw-y by nature: Researchers discover neural circuit that rewards gnawing behavior in rodents",
-      "link": "https://phys.org/news/2026-03-gnaw-nature-neural-circuit-rewards.html",
-      "date": "2026-03-10 21:00",
-      "summary": "Researchers at the University of Michigan have discovered that the constant gnawing of rodents isn't just a reflex or a consequenc..."
+      "title": "Mining the dark transcriptome: Synthesizing the first potential drug molecules from long noncoding RNA",
+      "link": "https://phys.org/news/2026-03-dark-transcriptome-potential-drug-molecules.html",
+      "date": "2026-03-10 21:50",
+      "summary": "A team from University of Toronto Engineering is the first to synthesize long noncoding RNA (lncRNA) outside the cell—a new approa..."
     }
   ],
   "The Guardian Edu": [
@@ -292,7 +292,7 @@
       "title": "‘I wish I could push ChatGPT off a cliff’: professors scramble to save critical thinking in an age of AI",
       "link": "https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning",
       "date": "2026-03-10 13:00",
-      "summary": "As AI has upended the way students learn, academics worry about the future of the humanities - and society at largeLea Pao, a prof..."
+      "summary": "As AI has upended the way students learn, academics worry about the future of the humanities – and society at largeLea Pao, a prof..."
     },
     {
       "title": "‘Charismatic and extremely confident’: how to recognise – and handle – a psychopath",
