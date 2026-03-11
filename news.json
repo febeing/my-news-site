@@ -51,16 +51,16 @@
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
     },
     {
-      "title": "How academia can help America heal - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
-      "date": "2026-02-13 08:00",
-      "summary": "How academia can help America heal  Harvard Gazette..."
-    },
-    {
       "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
       "date": "2025-10-23 07:00",
       "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
+    },
+    {
+      "title": "How academia can help America heal - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
+      "date": "2026-02-13 08:00",
+      "summary": "How academia can help America heal  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Former Mount Sinai postdoc falsified images in grant updates, ORI says",
+      "link": "https://retractionwatch.com/2026/03/11/ori-mount-sinai-postdoc-chen-yeh-ke-falsified-images-grant-updates/",
+      "date": "2026-03-11 20:02",
+      "summary": "The U.S. Office of Research Integrity has sanctioned a former postdoctoral fellow at the Icahn School of Medicine at Mount Sinai i..."
+    },
+    {
       "title": "Stolen economics study retracted following Retraction Watch coverage",
       "link": "https://retractionwatch.com/2026/03/09/stolen-economics-study-retracted-following-retraction-watch-coverage/",
       "date": "2026-03-09 20:02",
@@ -183,12 +189,6 @@
       "link": "https://retractionwatch.com/2026/03/05/publisher-demands-500-from-impersonated-author-to-retract-paper/",
       "date": "2026-03-05 21:38",
       "summary": "Last year, we wrote about a Walsh Medical Media journal that refused to withdraw an author’s paper unless he paid a fee — even tho..."
-    },
-    {
-      "title": "Controversial comet theory struck by two new retractions",
-      "link": "https://retractionwatch.com/2026/03/04/controversial-comet-theory-struck-by-two-new-retractions/",
-      "date": "2026-03-04 20:35",
-      "summary": "PLOS One has retracted two papers from the Comet Research Group, a controversial cadre of researchers who, according to their webp..."
     }
   ],
   "Reuters AI": [
@@ -217,10 +217,10 @@
       "summary": "China pins hopes on society-wide AI push to add jobs, rejuvenate economy  Reuters..."
     },
     {
-      "title": "Meta acquires AI agent social network Moltbook - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0NkclFHZE5GMFU2XzlMWmlPdlZHeV8yMFdNRDdQNDFtVnJVSXBUZjFTN2JYTlpiUHdITm9BaXJLMGsxSGVnVWxTa1RuY08tRlA0bG4zbzU3ZFRfamJ2OVFudHhDNTdwWGZHVzdOQl9jeGRXLTVhRE5BTUhRWVJzbVFva2trSk9SNDM2SlZvdk00VTdldHc?oc=5",
-      "date": "2026-03-10 14:43",
-      "summary": "Meta acquires AI agent social network Moltbook  Reuters..."
+      "title": "Nvidia to invest $2 billion in neocloud Nebius amid AI data center push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY2xWNmYtSzRYRU5rVnZUakR6enV3ZHNROTFaSFQ5QjVKR0JTNDZ5bjVTV2RTRzE0TEtBOHY4SW15ZHFKeDROWGpQbFV4Z3czMlhhTEsyZkszbE13bTRHdVdVR2o4SVEwU004WGtKVThkRHEyN3poU1EyN2ZXYmhTUUxIYmpadXF0aXRlRDJseXVfVmMzc2c?oc=5",
+      "date": "2026-03-11 12:08",
+      "summary": "Nvidia to invest $2 billion in neocloud Nebius amid AI data center push  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Friendly fungi hijack plant regulator to promote symbiosis",
-      "link": "https://phys.org/news/2026-03-friendly-fungi-hijack-symbiosis.html",
-      "date": "2026-03-11 19:40",
-      "summary": "Plants are constantly on guard. Their roots are equipped with molecular alarm systems that detect invading microbes and trigger im..."
+      "title": "Centuries of net-negative emissions are required to secure a safe climate future, two studies suggest",
+      "link": "https://phys.org/news/2026-03-centuries-net-negative-emissions-required.html",
+      "date": "2026-03-11 20:30",
+      "summary": "Two new studies conclude that stabilizing long-term climate risks will require sustained net-negative carbon dioxide (CO₂) emissio..."
     },
     {
-      "title": "King penguins are the rare species benefiting from a warming world. But that could change",
-      "link": "https://phys.org/news/2026-03-king-penguins-rare-species-benefiting.html",
-      "date": "2026-03-11 19:39",
-      "summary": "The warming world has disrupted the timing for plant and animal reproduction, and it's usually bad news for species that depend on..."
+      "title": "Titanium complexes cleanly edit the core skeleton of highly stable organic compounds",
+      "link": "https://phys.org/news/2026-03-titanium-complexes-core-skeleton-highly.html",
+      "date": "2026-03-11 20:20",
+      "summary": "Multi-titanium hydrides can selectively snip the strong structural bonds of stable organic molecules called pyridines, RIKEN resea..."
     },
     {
-      "title": "New method reveals hidden stereochemical forms of oxidation in antibody drugs",
-      "link": "https://phys.org/news/2026-03-method-reveals-hidden-stereochemical-oxidation.html",
-      "date": "2026-03-11 19:36",
-      "summary": "Monoclonal antibodies are among the most widely used biologic medicines, with applications ranging from cancer treatment to autoim..."
+      "title": "Study explores why consumers stick with the familiar or try something new",
+      "link": "https://phys.org/news/2026-03-explores-consumers-familiar.html",
+      "date": "2026-03-11 20:20",
+      "summary": "Why do people often stick with familiar brands and choices, even when better options might exist? A new study co-authored by an Il..."
     },
     {
-      "title": "Twisted bilayer photonic crystals dynamically tune light's handedness",
-      "link": "https://phys.org/news/2026-03-bilayer-photonic-crystals-dynamically-tune.html",
-      "date": "2026-03-11 19:30",
-      "summary": "Researchers at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) have created a chip-scale device that..."
+      "title": "How climate-friendly is insect protein really?",
+      "link": "https://phys.org/news/2026-03-climate-friendly-insect-protein.html",
+      "date": "2026-03-11 20:10",
+      "summary": "The larvae of the black soldier fly (Hermetia illucens) are considered a promising source of sustainable protein, as they contain ..."
     },
     {
-      "title": "Bromacker deposit is 4 million years older than previously thought, new dating reveals",
-      "link": "https://phys.org/news/2026-03-bromacker-deposit-million-years-older.html",
-      "date": "2026-03-11 19:20",
-      "summary": "Analysis of a volcanic ash tuff layer, only a few millimeters thick and discovered during excavations in 2024, revealed that the f..."
+      "title": "Compact vacuum ultraviolet laser may improve nanotechnology and power nuclear clocks",
+      "link": "https://phys.org/news/2026-03-compact-vacuum-ultraviolet-laser-nanotechnology.html",
+      "date": "2026-03-11 20:00",
+      "summary": "Physicists at the University of Colorado Boulder have demonstrated a new kind of vacuum ultraviolet laser that is 100 to 1,000 tim..."
     }
   ],
   "The Guardian Edu": [
@@ -353,6 +353,18 @@
   ],
   "New Scientist": [
     {
+      "title": "A miniature magnet rivals behemoths in strength for the first time",
+      "link": "https://www.newscientist.com/article/2518964-a-miniature-magnet-rivals-behemoths-in-strength-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-11 18:00",
+      "summary": "Strong magnets tend to be large and power-hungry, but a new design has produced a powerful magnet that fits in the palm of your ha..."
+    },
+    {
+      "title": "King penguins are thriving in a warmer climate, but it may not last",
+      "link": "https://www.newscientist.com/article/2519046-king-penguins-are-thriving-in-a-warmer-climate-but-it-may-not-last/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-11 18:00",
+      "summary": "Longer summers are allowing more king penguin chicks to bulk up and survive the winter, but the penguins' main fishing area is shi..."
+    },
+    {
       "title": "Why the world's militaries are scrambling to create their own Starlink",
       "link": "https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-11 14:00",
@@ -369,18 +381,6 @@
       "link": "https://www.newscientist.com/article/2518930-start-up-is-building-the-first-data-centre-to-use-human-brain-cells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-10 16:55",
       "summary": "Cortical Labs is building two data centres that will house its neuron-filled chips. The technology is still in the very early stag..."
-    },
-    {
-      "title": "Orcas may be to blame for some mass dolphin strandings",
-      "link": "https://www.newscientist.com/article/2518849-orcas-may-be-to-blame-for-some-mass-dolphin-strandings/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-11 00:01",
-      "summary": "Two mass strandings involving hundreds of dolphins in Argentina probably happened because the pods were being hunted by orcas, hig..."
-    },
-    {
-      "title": "Mathematics is undergoing the biggest change in its history",
-      "link": "https://www.newscientist.com/article/2518526-mathematics-is-undergoing-the-biggest-change-in-its-history/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-10 12:00",
-      "summary": "The speed at which artificial intelligence is gaining in mathematical ability has taken many by surprise. It is rewriting what it ..."
     }
   ]
 }
