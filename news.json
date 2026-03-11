@@ -45,12 +45,6 @@
       "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
     },
     {
-      "title": "What if AI could help students learn, not just do assignments for them? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZERnQ0tJMkp3bEVHQXFHeDVRVFdNLUlucVQzakN2bmJ2VUFTSGJvVE9KNTJPSUxuNnFocjc5a2o0Q0JnTlJiMDFPdUVROVJJODhoek9scUJJTTNmVGd0RHN1NXJCbkZrXzVZM1c2YVhrZlFpWl9ZQ3NrS2dOUTVLd21nUWdIMERMTVVxWGxnZ2hGalBHNW5vSzgwQ1hNbEprWlRQTXN4REdKOS1JN3RPYUZoamN4T0tI?oc=5",
-      "date": "2025-10-21 07:00",
-      "summary": "What if AI could help students learn, not just do assignments for them?  Harvard Gazette..."
-    },
-    {
       "title": "Crossing line between good and bad anxiety - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
       "date": "2025-09-30 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
       "summary": "How academia can help America heal  Harvard Gazette..."
+    },
+    {
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
+      "date": "2025-10-23 07:00",
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -193,34 +193,34 @@
   ],
   "Reuters AI": [
     {
+      "title": "Canal+ taps Google's AI for video production, content recommendation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXlVLTFzZVdRT0pZZG9janBuc29GUENDZXZpSkg1UEcwWGRjNkg2dzZaT2FLaTI3OUtHV3FpckVxUVoxMkY1Mk5pRGpqY180N1dQODcwX1ZVa3I0ejdPanBSalhzak9DZDNQb1hsclZqMTU4OWpzazZCSTg2X25SdmJvbXdXdWNZMUNUQnR5Sk1GQkdWUVBJb1RpWmZEY2RURlhKYUlKTk5zbEVsaHBjSEF2alRwMUQxQmdORQ?oc=5",
+      "date": "2026-03-11 07:06",
+      "summary": "Canal+ taps Google's AI for video production, content recommendation  Reuters..."
+    },
+    {
       "title": "Meta acquires AI agent social network Moltbook - Reuters",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0NkclFHZE5GMFU2XzlMWmlPdlZHeV8yMFdNRDdQNDFtVnJVSXBUZjFTN2JYTlpiUHdITm9BaXJLMGsxSGVnVWxTa1RuY08tRlA0bG4zbzU3ZFRfamJ2OVFudHhDNTdwWGZHVzdOQl9jeGRXLTVhRE5BTUhRWVJzbVFva2trSk9SNDM2SlZvdk00VTdldHc?oc=5",
       "date": "2026-03-10 14:43",
       "summary": "Meta acquires AI agent social network Moltbook  Reuters..."
     },
     {
+      "title": "Oracle rallies as strong revenue forecast eases concerns over massive AI bets - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQnJZakszUHJaanJhdEc3bjhvTDhGdG41Qnh6THNfcFBsU2o0QlBRQlhwaGF6c296emljWl9QVU9jMXppUG5MNThDVDNIWmt4T3hNNXBKcUozbVR3YjQwS2xoMmRjR2ZoYnlHT05wcXdLaHA2MEg5aDZrQk1kV2VnckFQZU41M2p0ZDZCNGVRb1kzc241YTQ2STFKWjl6NXI2cmZwbHQtdnBjVE9mbHpaMGxLenNqNkhPS3Y0?oc=5",
+      "date": "2026-03-11 10:08",
+      "summary": "Oracle rallies as strong revenue forecast eases concerns over massive AI bets  Reuters..."
+    },
+    {
+      "title": "China warns state-owned firms and government agencies against OpenClaw AI, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblliUGpDbm9fVzQ4YWJ5bDhvbUIxM2FFS0dMZVhnS1NoaHh4eG1Fdmt2TGVjTnlXaDdDZVlmZGpxR2szQVNfRFJqOUE3b3U0WGZ1eFJxdkhrVFNTVU5fVGJVanRiMWpiUTkydnZuMWlXakVSeV9GaU9EQnJtQ1AtbUlaUlhncWdnN0lkNkRUMXVtUnBvcTh1bzJhRHdiRUcxX1JlU0V2LVJlNEtSYmlHemk2U0RYWGhfSmZvRWNMajc?oc=5",
+      "date": "2026-03-11 04:05",
+      "summary": "China warns state-owned firms and government agencies against OpenClaw AI, sources say  Reuters..."
+    },
+    {
       "title": "China pins hopes on society-wide AI push to add jobs, rejuvenate economy - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3h0cGRPMEp4Um5LVmZhRV9FcFRSSExXaDFjMGtrSDRFOFQ3V21QMHNYT2VNX1llWGEyTUNBa2R0c1hDbW83TkN1Z0N4QU83aHUwa3Y5eGc5QlNlQ2x6M3NBcklVUFpEM0lrRFNhdS1GbjNPd1RQNkk2YS1HNHA5X3g4VE1Sai1NeWJubUtYbTNUSjdxbUlaNXZrbzFFWjlsMFRfRm9FaFVFTEN4Y21PVFdNWnBEU1lrdXNhbEU2WTBJUQ?oc=5",
       "date": "2026-03-10 10:16",
       "summary": "China pins hopes on society-wide AI push to add jobs, rejuvenate economy  Reuters..."
-    },
-    {
-      "title": "South Korea Presidential aide says AI cooperation with UAE could accelerate after conflict - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeEJZdGhEbU5hd3ZVYWZmcVBqOXNEcDN4cGVsMF9qMWM1OFBJSDBQQUtZSEVyNlhIaER6SDJKbDFrQkQzbGUwdFFVYmxKQ2JtVW9uSWdtNjU5SDdGVXVfRjJORTktb0llYTRzaExZZ29DNEFrdE1kanZ5UFljSmh5RE9oQnNkRE1SZ0NVVXJyZHNfTTI4ZUhnYVc0UlJ1Q3lGUFllOG12Q0E3eGRfdXk1M1lXVFp0UnJCakxrZ0o1c1BkdFg5dktJVVRB?oc=5",
-      "date": "2026-03-11 07:51",
-      "summary": "South Korea Presidential aide says AI cooperation with UAE could accelerate after conflict  Reuters..."
-    },
-    {
-      "title": "Oracle sees AI boom through at least 2027, sending shares up 8% - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTnFQaE82TkR5ODJWU1JrSU1HUXdHWWVCMHR4ZjhUMHY3YnFVYV9ialhfdElQbUhsOEdrWmVXRWxaX3FIWkhlejlNR0E1cTNIVWVmdnhvdTBYX0czOGhTem52dnpkX1dqLXpKVDQyZ0owRVhXTjl5R25mYldHX1Nqam0yVkNrWXFYX0pCN2poRVc?oc=5",
-      "date": "2026-03-10 20:09",
-      "summary": "Oracle sees AI boom through at least 2027, sending shares up 8%  Reuters..."
-    },
-    {
-      "title": "AT&T outlines $250 billion US investment plan to boost infrastructure in AI age - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUlkQXhxMEE5NmZQUUZ0cHNRbWVmZnlVTnF0YlFEOXpKM1Q1UWU5a3dYXzFPRUlTMmE1S0lEVER4LVg5b1hfazU3S2VBWU9XbFdkWWM3dXhSdVY5azE5R2dMSjZrdDlURFhqbHdXV1ZyOVkxUl9SaGVXUHpXQ0ZBQUhrWXp4YVgxaDcyUXcyOGdBZHlDTVBnQzc0Tk9lT1Y4bGdiVTRkbk9wcXRFZ05aU3QwbFJCT0FjSHFIX2JR?oc=5",
-      "date": "2026-03-10 10:09",
-      "summary": "AT&T outlines $250 billion US investment plan to boost infrastructure in AI age  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "DNA barcoding reveals which gene-therapy nanoparticles reach targets in vivo",
+      "link": "https://phys.org/news/2026-03-dna-barcoding-reveals-gene-therapy.html",
+      "date": "2026-03-11 10:00",
+      "summary": "Drug delivery researchers have vastly improved the potential of genetic therapies by overcoming the challenge of consistently gett..."
+    },
+    {
+      "title": "Watching quantum behavior in action: MagnetoARPES reveals time-reversal symmetry breaking in a kagome superconductor",
+      "link": "https://phys.org/news/2026-03-quantum-behavior-action-magnetoarpes-reveals.html",
+      "date": "2026-03-11 10:00",
+      "summary": "Electron movement and structures described in quantum physics allow researchers to better understand how and why materials like su..."
+    },
+    {
       "title": "New research shows path to affordable water in fast-growing cities",
       "link": "https://phys.org/news/2026-03-path-fast-cities.html",
       "date": "2026-03-11 09:02",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-03-vegans-complex-skills-omnivorous-society.html",
       "date": "2026-03-11 02:10",
       "summary": "Going vegan is a life-changing decision. Successfully committing to eating only ethically sourced, non-exploitative products—no da..."
-    },
-    {
-      "title": "Study reveals how Ethiopia's hyenas combat climate change, save money for waste management and prevent disease",
-      "link": "https://phys.org/news/2026-03-reveals-ethiopia-hyenas-combat-climate.html",
-      "date": "2026-03-11 01:30",
-      "summary": "Urban scavengers like spotted hyenas are preventing more than 1,000 metric tons of carbon emissions annually in Ethiopia's second-..."
-    },
-    {
-      "title": "Convergence in the canopy: Why the Gracixalus weii treefrog sounds like a songbird",
-      "link": "https://phys.org/news/2026-03-convergence-canopy-gracixalus-weii-treefrog.html",
-      "date": "2026-03-11 00:50",
-      "summary": "The genus Gracixalus belongs to the family of Old World Tree Frogs and is geographically dispersed from Myanmar and western Thaila..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "CATL profit jump fuels Hong Kong battery stocks amid global energy storage boom",
+      "link": "https://www.scmp.com/business/article/3346229/catl-profit-jump-fuels-hong-kong-battery-stocks-amid-global-energy-storage-boom?utm_source=rss_feed",
+      "date": "2026-03-11 10:00",
+      "summary": "Betting on rising global demand for energy storage, shares of Chinese lithium battery makers continued to rally on Wednesday, led ..."
+    },
+    {
       "title": "Suspected wartime grenade found in Hong Kong residential area",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3346214/suspected-wartime-grenade-found-hong-kong-residential-area?utm_source=rss_feed",
       "date": "2026-03-11 08:35",
@@ -343,15 +349,15 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3346177/cathay-posts-95-rise-profit-hk1082-billion-warns-geopolitical-risks?utm_source=rss_feed",
       "date": "2026-03-11 04:45",
       "summary": "Cathay Pacific Airways’ net profit climbed by 9.5 per cent to HK$10.82 billion (US$1.39 billion) in 2025, driven by increased capa..."
-    },
-    {
-      "title": "Hong Kong customs seizes more fuel-smuggling trucks as Iran war lifts prices",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3346170/hong-kong-customs-seizes-more-fuel-smuggling-trucks-iran-war-lifts-prices?utm_source=rss_feed",
-      "date": "2026-03-11 03:28",
-      "summary": "Hong Kong customs officers have intercepted more cross-border trucks suspected of smuggling petrol into the city as fuel prices su..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Start-up is building the first data centre to use human brain cells",
+      "link": "https://www.newscientist.com/article/2518930-start-up-is-building-the-first-data-centre-to-use-human-brain-cells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-10 16:55",
+      "summary": "Cortical Labs is building two data centres that will house its neuron-filled chips. The technology is still in the very early stag..."
+    },
     {
       "title": "Orcas may be to blame for some mass dolphin strandings",
       "link": "https://www.newscientist.com/article/2518849-orcas-may-be-to-blame-for-some-mass-dolphin-strandings/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -369,12 +375,6 @@
       "link": "https://www.newscientist.com/article/2518761-sharing-genetic-risk-scores-can-unwittingly-reveal-secrets/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-10 17:00",
       "summary": "Statistics that quantify a person’s predisposition to diseases such as diabetes and cancer can be reverse-engineered to reveal the..."
-    },
-    {
-      "title": "Startup is building the first data centre to use human brain cells",
-      "link": "https://www.newscientist.com/article/2518930-startup-is-building-the-first-data-centre-to-use-human-brain-cells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-10 16:55",
-      "summary": "Cortical Labs is building two data centres that will house its neuron-filled chips. The technology is still in the very early stag..."
     },
     {
       "title": "Mystery 'whippet' space explosion is the brightest of its kind",
