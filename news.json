@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "3 Questions: On the future of AI and the mathematical and physical sciences",
+      "link": "https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311",
+      "date": "2026-03-11 22:30",
+      "summary": "Professor Jesse Thaler describes a vision for a two-way bridge between artificial intelligence and the mathematical and physical s..."
+    },
+    {
       "title": "New photonic device efficiently beams light into free space",
       "link": "https://news.mit.edu/2026/new-photonic-device-efficiently-beams-light-free-space-0311",
       "date": "2026-03-11 16:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/neurons-receive-precisely-tailored-teaching-signals-as-we-learn-0309",
       "date": "2026-03-09 16:50",
       "summary": "New work suggests the brain can deliver neuron-specific feedback during learning — resembling the error signals that drive machine..."
-    },
-    {
-      "title": "Improving AI models’ ability to explain their predictions",
-      "link": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
-      "date": "2026-03-09 04:00",
-      "summary": "A new approach could help users know whether to trust a model’s predictions in safety-critical applications like health care and a..."
     }
   ],
   "Harvard Gazette": [
@@ -37,12 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
       "date": "2025-09-25 07:00",
       "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
-    },
-    {
-      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
-      "date": "2025-09-30 07:00",
-      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
     },
     {
       "title": "Harvard University Housing establishes new rents for 2026–2027 - Harvard Gazette",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
       "summary": "How academia can help America heal  Harvard Gazette..."
+    },
+    {
+      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
+      "date": "2025-10-28 07:00",
+      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -77,10 +77,10 @@
       "summary": "Immune ‘peacekeepers’ teach the body which foods are safe to eat  Stanford University..."
     },
     {
-      "title": "College leaders reflect on the future of higher education - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWJQZGxiUW0zUWNVR2F2QTdTUkc2aklFdkExS2FyZ1dvQ3ZRZWh5S2dmZnI0RU9mYUs3RXlLV1hFMnBoMDZqejliR1MwY1ZGUlkwS05IZ2VHeERhMFZrUXFoR1ZzVFRHOWdzTVBaWXFYUlBJNGtoOXlTTVprOVFrd2Y1SFk4SXNoRG05UU0tQ2o?oc=5",
-      "date": "2026-03-10 23:03",
-      "summary": "College leaders reflect on the future of higher education  Stanford University..."
+      "title": "Awards recognize collaboration and public service - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWwtd1JJR2RZM0taUVh6TVlPc3JNTXNMdUdsaW1uaWpqYkhhcmJfVzhmZ1BUcS1BWnNzcWV5cVBJWHJnb3g4YThCVE1QMXdjQ09jcDQzdnpCWnM4a3ZMdHQ0S1NQOTBrY3pxeXdfbG9qTDJHVlRKRVdyek9OS3FsMnBHR3VWNzBkdXpJ?oc=5",
+      "date": "2026-03-09 23:51",
+      "summary": "Awards recognize collaboration and public service  Stanford University..."
     },
     {
       "title": "Centralized support makes more time for faculty research - Stanford University",
@@ -89,10 +89,10 @@
       "summary": "Centralized support makes more time for faculty research  Stanford University..."
     },
     {
-      "title": "Awards recognize collaboration and public service - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWwtd1JJR2RZM0taUVh6TVlPc3JNTXNMdUdsaW1uaWpqYkhhcmJfVzhmZ1BUcS1BWnNzcWV5cVBJWHJnb3g4YThCVE1QMXdjQ09jcDQzdnpCWnM4a3ZMdHQ0S1NQOTBrY3pxeXdfbG9qTDJHVlRKRVdyek9OS3FsMnBHR3VWNzBkdXpJ?oc=5",
-      "date": "2026-03-09 23:51",
-      "summary": "Awards recognize collaboration and public service  Stanford University..."
+      "title": "College leaders reflect on the future of higher education - Stanford Institute for Economic Policy Research (SIEPR)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTmhSWkFjZTd5eUtoRlhDQlhjY3hqRV9na0d4Mmo0LTNjeU1vZFZkaUJYbkU3VkJtOC1FQVFfYURLS0R5anoyeHgyYVA0blVwTXI1WjZVUGcxZmpyMkFTVGJJUTlpcXJ6Nkh1ejFXTjdDVFJEb2VoLXZHY2xaYWJfamd0eUp4M0E?oc=5",
+      "date": "2026-03-10 07:00",
+      "summary": "College leaders reflect on the future of higher education  Stanford Institute for Economic Policy Research (SIEPR)..."
     }
   ],
   "Nature Careers": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Study finds nanocube cation exchange can begin on one face, not six",
-      "link": "https://phys.org/news/2026-03-nanocube-cation-exchange.html",
-      "date": "2026-03-11 22:20",
-      "summary": "In a paper published today in Nature Synthesis, a team from the lab of University of Chicago Pritzker School of Molecular Engineer..."
+      "title": "Earth's ice is melting: Where and how fast?",
+      "link": "https://phys.org/news/2026-03-earth-ice-fast.html",
+      "date": "2026-03-11 23:20",
+      "summary": "Melting glaciers and ice sheets are raising sea levels while the Arctic is poised to log one of its worst winters on record...."
     },
     {
-      "title": "Fiber setup compresses mid-infrared pulses to 187 femtoseconds using just 80 watts",
-      "link": "https://phys.org/news/2026-03-fiber-setup-compresses-mid-infrared.html",
-      "date": "2026-03-11 22:10",
-      "summary": "Ultrashort mid-infrared (mid-IR) laser pulses are essential for applications such as molecular spectroscopy, nonlinear microscopy,..."
+      "title": "Plants pause, play and fast-forward their growth depending on types of climate stress",
+      "link": "https://phys.org/news/2026-03-play-fast-growth-climate-stress.html",
+      "date": "2026-03-11 23:20",
+      "summary": "Plants pause their growth during stress, then press play when conditions improve, helping them recover and live on to produce food..."
     },
     {
-      "title": "Microplastic biofilms carry genes that could alter nutrient cycling in estuaries",
-      "link": "https://phys.org/news/2026-03-microplastic-biofilms-genes-nutrient-estuaries.html",
-      "date": "2026-03-11 22:00",
-      "summary": "A study led by William & Mary's Batten School of Coastal & Marine Sciences & VIMS and published in FEMS Microbiology Ecology revea..."
+      "title": "AI weather models show promise for hurricane forecasts, but new study finds key physical limitations",
+      "link": "https://phys.org/news/2026-03-ai-weather-hurricane-key-physical.html",
+      "date": "2026-03-11 23:10",
+      "summary": "Artificial intelligence is rapidly transforming weather prediction, enabling forecasts that once required hours of supercomputing ..."
     },
     {
-      "title": "Female aggression, not just mate choice, may speed mosquitofish speciation",
-      "link": "https://phys.org/news/2026-03-female-aggression-choice-mosquitofish-speciation.html",
-      "date": "2026-03-11 22:00",
-      "summary": "A new study reveals that behavioral isolation between populations of Bahamas mosquitofish is driven primarily by the actions of fe..."
+      "title": "Goal-setting apps can backfire if goals are too easy—or too hard",
+      "link": "https://phys.org/news/2026-03-goal-apps-backfire-goals-easy.html",
+      "date": "2026-03-11 23:00",
+      "summary": "It might date back to the ancient Greeks, but the concept of \"everything in moderation\" still holds true for today's users of goal..."
     },
     {
-      "title": "Florida's most at-risk bat moves into safer artificial roosts",
-      "link": "https://phys.org/news/2026-03-florida-safer-artificial-roosts.html",
-      "date": "2026-03-11 21:50",
-      "summary": "Finding bats in the attic or under roof tiles is no homeowner's idea of fun. But Florida's endangered bonneted bats have few natur..."
+      "title": "Researchers use AI to develop RNA-based synthetic NAND switch in living cells",
+      "link": "https://phys.org/news/2026-03-ai-rna-based-synthetic-nand.html",
+      "date": "2026-03-11 23:00",
+      "summary": "An interdisciplinary research team from two working groups at the Center for Synthetic Biology at TU Darmstadt has developed the f..."
     }
   ],
   "The Guardian Edu": [
