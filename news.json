@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "A better method for planning complex visual tasks",
+      "link": "https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311",
+      "date": "2026-03-11 04:00",
+      "summary": "A new hybrid system could help robots navigate in changing environments or increase the efficiency of multirobot assembly teams...."
+    },
+    {
       "title": "Understanding how “marine snow” acts as a carbon sink",
       "link": "https://news.mit.edu/2026/understanding-how-marine-snow-acts-as-carbon-sink-0309",
       "date": "2026-03-09 19:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/seeds-something-different-kate-brown-book-0306",
       "date": "2026-03-06 05:00",
       "summary": "Kate Brown’s book, “Tiny Gardens Everywhere,” examines the hidden history of urban farming, its extensive use, and the politics of..."
-    },
-    {
-      "title": "X-raying rocks reveals their carbon-storing capacity",
-      "link": "https://news.mit.edu/2026/x-raying-rocks-reveals-their-carbon-storing-capacity-0306",
-      "date": "2026-03-06 05:00",
-      "summary": "New research by MIT geophysicists could assist efforts to remove carbon from the atmosphere and store it underground...."
     }
   ],
   "Harvard Gazette": [
@@ -51,16 +51,16 @@
       "summary": "What if AI could help students learn, not just do assignments for them?  Harvard Gazette..."
     },
     {
-      "title": "How academia can help America heal - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
-      "date": "2026-02-13 08:00",
-      "summary": "How academia can help America heal  Harvard Gazette..."
-    },
-    {
       "title": "Crossing line between good and bad anxiety - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
       "date": "2025-09-30 07:00",
       "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
+    },
+    {
+      "title": "How academia can help America heal - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
+      "date": "2026-02-13 08:00",
+      "summary": "How academia can help America heal  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -83,16 +83,16 @@
       "summary": "Sridhar Seshadri, president of the Stanford Medicine Cancer Center, passes away at 66  Stanford Medicine..."
     },
     {
+      "title": "Allen Weiner on International Law, Use of Force, and UN Regulations - Stanford Law School",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUY0Z05ZMl81ZmlEZWUwelVPbzlHNEl4b2ZsbVV2ellyd0pDYnhCYWVNTmxNbTVENHpwS0poY0pIT3ZSelg1QjZKUC1YZUlMSlN6alI3R3RWeG92TklJUWF5cXpIQXFHR3MxUzA2Z2tuMW1WQXdlQzRFOGswd3FxTzRKUm9lNTM3X2FZRWNHc2U0VzNZTzhRcjk1VGpjVnpxWTdHMkNGUnNONWFaRUVpdzh4YUJ0ZXc?oc=5",
+      "date": "2026-03-10 21:19",
+      "summary": "Allen Weiner on International Law, Use of Force, and UN Regulations  Stanford Law School..."
+    },
+    {
       "title": "Stanford scholars train AI to better augment human creativity - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUVdtb2pGT2dFeWloeFVER2Y5Y2tzaFBLaS1SaHJCcTRyX0llRVg4dGFadThDemMxOHl2LVFweGhGU2RCZDY0blRpaWN0OVhScENXT1pCa1htQUJwZ3h6Qzc3OG43cDlNa2d0eFkyazh5VU9tNTRWRmtxeGZfUzIwTFloanh0SkVEQ29mcEwtS09DVlhSTjJJaA?oc=5",
       "date": "2026-03-10 23:08",
       "summary": "Stanford scholars train AI to better augment human creativity  Stanford University..."
-    },
-    {
-      "title": "Stanford Daily First Amendment suit against Trump admin moves toward final ruling - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHpkN1BCUGJnR0NVUkhEYTlqX3pCcEFJUVl4WjFrOEZFSnpBcFR0SThoYkZEc2hkY21vZi1ERVZ5NkE0X1A3bTMySmRrc1ZzQmhRalNvY0VBNnY3OHhfZjJuVEc0Ymoya25uNjRNczZzQTJONS1ycVlFbUZqSjc1RUV6bXZPYS1jWkVpU09PeTNhcWZhWHJMWkduQV9oVXExN2fSAacBQVVfeXFMTVVaQnpROHN1dmpNNTNodlRNbkxrQnMwUk5aNUtUQkt0eFF3Tm9qamJmaE1FSjVhYW90WHZLLUxhbkRJd09RazZsRldtUUlvZUFFTS1rZWZ4VEhqRml4UUdpcGRLOTMwbmlZMkZReEdMcmFaelFBYkZVZUM1SzJDRlRnSk1GVkI4RXhDVU54SlplTXBrVHQ5TkYtVHFyWDBXNXo3UjlCeU0?oc=5",
-      "date": "2026-03-10 23:04",
-      "summary": "Stanford Daily First Amendment suit against Trump admin moves toward final ruling  The Mercury News..."
     }
   ],
   "Nature Careers": [
@@ -199,12 +199,6 @@
       "summary": "Meta acquires AI agent social network Moltbook  Reuters..."
     },
     {
-      "title": "ChatGPT, other AI chatbots approved for official use in US Senate, NYT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTRfa2UtSFBzQjBlNWVpMGNuU2RrS3FBZFZCZDdVMGl6M2NtZ1R1ejVTbVFkN3Q5dWYwVGktb3BObmV1cGc5U2Y1amJkNGJMNEJ4b3VJdjJLcFBWem9WLVVTUllMTlM1bGdSS3o2azNrNHVIamNQaG1PX05jYU5TZlhQTDJKNjU1ZlJidU0zdU5JSW9oOWVrVFc4WWlKSHk2Wk5Dd2MwZXEyX29panp5dFdKVXVsRFU?oc=5",
-      "date": "2026-03-10 22:43",
-      "summary": "ChatGPT, other AI chatbots approved for official use in US Senate, NYT reports  Reuters..."
-    },
-    {
       "title": "Anthropic sues to block Pentagon blacklisting over AI use restrictions - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0lmZjhHS1IwNS02c2ltRkEwaHh2TWNfTFplQlhxN0FUWlZwVTdLNGU5MWxvMGpYXzRjNFRIdDBiMjdSRW1JeWZqZVpiQlVqWkRibjMzMGR2Qk9rUmh2NXhDNnVyM09VcmZISEpRcWNtNDMtRzlxa3I0SzFCdGdUcHFhUDJpY3E5NFNGNVhOZmhjOXpsTGVsOE1LbWJKLWRSOGc5VVJZV1JHMjRITkE?oc=5",
       "date": "2026-03-09 15:04",
@@ -217,10 +211,16 @@
       "summary": "Applied Materials forges partnerships with Micron and SK Hynix for AI memory chips  Reuters..."
     },
     {
-      "title": "Chinese tech hubs promote OpenClaw AI agent despite security warnings - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2ZJdTVTS0VvNk9EWWdXcVRsb2ZYVklhdGxGbF82aFNaQUhyXzhGRkYyWWZhV2ROM1hjelRRY3JTcFgzeElpaWF3LW05Skt5ZXBLS2FLSDVRdGtPUVdhSlRTbFQ0dzJ1SnJBNVExYlRPNmFudUU3Nld5WDNzbUI1YndfNVI3WTBzVTQ5c2QzNUVmZHlpUS13QnV4VW8xbmpkdkNFZmNocWZ0REQyLTBPMkpqdklNWXhOaVB0ZllGOWNMS2V2NTAwUg?oc=5",
-      "date": "2026-03-09 12:22",
-      "summary": "Chinese tech hubs promote OpenClaw AI agent despite security warnings  Reuters..."
+      "title": "AT&T outlines $250 billion US investment plan to boost infrastructure in AI age - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUlkQXhxMEE5NmZQUUZ0cHNRbWVmZnlVTnF0YlFEOXpKM1Q1UWU5a3dYXzFPRUlTMmE1S0lEVER4LVg5b1hfazU3S2VBWU9XbFdkWWM3dXhSdVY5azE5R2dMSjZrdDlURFhqbHdXV1ZyOVkxUl9SaGVXUHpXQ0ZBQUhrWXp4YVgxaDcyUXcyOGdBZHlDTVBnQzc0Tk9lT1Y4bGdiVTRkbk9wcXRFZ05aU3QwbFJCT0FjSHFIX2JR?oc=5",
+      "date": "2026-03-10 10:09",
+      "summary": "AT&T outlines $250 billion US investment plan to boost infrastructure in AI age  Reuters..."
+    },
+    {
+      "title": "China pins hopes on society-wide AI push to add jobs, rejuvenate economy - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3h0cGRPMEp4Um5LVmZhRV9FcFRSSExXaDFjMGtrSDRFOFQ3V21QMHNYT2VNX1llWGEyTUNBa2R0c1hDbW83TkN1Z0N4QU83aHUwa3Y5eGc5QlNlQ2x6M3NBcklVUFpEM0lrRFNhdS1GbjNPd1RQNkk2YS1HNHA5X3g4VE1Sai1NeWJubUtYbTNUSjdxbUlaNXZrbzFFWjlsMFRfRm9FaFVFTEN4Y21PVFdNWnBEU1lrdXNhbEU2WTBJUQ?oc=5",
+      "date": "2026-03-10 10:16",
+      "summary": "China pins hopes on society-wide AI push to add jobs, rejuvenate economy  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -231,16 +231,16 @@
       "summary": "Prioritizing energy intelligence for sustainable growth  MIT Technology Review..."
     },
     {
-      "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWldQeHpYcFVnNGJrV2QwbVpXZUhza2Z4UmpLOFo0SjJ1bUNkWTd2VkdyOVRPSDNnY1YzckpaMzQ5VmM0eEtscUtwd2pUejFMVG9kTGY1TmJoZmI2QTJsQ1FDTVBrY00tZUhoVGtZeFRhd1MwN2lGTk5hWk5DNEFJYkFpUWtWd0xzSE5NYTJXYldXaXhzdkhGV2RHamRUOXJhakd3NGZzWVRWUzTSAbABQVVfeXFMTTh2UURxX205R2JiVGxFM3k2am1CM2pDWXlLUm5aWVNVWklEcnl3LW5DZW9adkMwN0lzOHlNSFl5UEtHLWJBaFlKVDhXdlhZWnE0Um1UTWY2Q2d1bHhWbTJDVWgxeFZGaVZyU0ZiaU5WY0ZYWTNCVFBqa1I1X0FTUzRZWVUtaVVmQ3Q3RzBJbGxaWHNoN0NOZFMwaHF4R085d1lxbEQtMi1lMG9ISGNWXzc?oc=5",
-      "date": "2026-03-10 13:47",
-      "summary": "How Pokémon Go is giving delivery robots an inch-perfect view of the world  MIT Technology Review..."
-    },
-    {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjJNYVhxNlVqbGNtbkRDaVNrSVp3Q2xlVVpHaVZDN1FsM3djLWROTmdoRXlJbXRVZk1RaE1DQ3BDc1Z1cjBjQXpSb1VIMFRyRVN2ZnNpVndjQ2FwdElyeGdCRWNtNlkydWdNOUxxdzh2MnpLWE9JU3dGQ1VYbmxEUEFFTVhkWnpFUmc3ODdIVFFPYkU1aU55T2c2NXNadzB4T2Fz0gGoAUFVX3lxTFA0c0hLSjJxMU5lckM3bFJWLVRPSWhiX2EwcG1YVjFjOWpFbFVtaW5rbG5mbHFCLVdWcWpJRFlpSHFMTTlmUi1YOTVzYm5nYmJVblZxZUsweWZIbVBWcWhvcHpJYnFuV3FlbWtBbVR0NG1LaWxaREdFQVMyQmJneEY4M0lsQUp5RTRLTFFfY3JaRlV3UTI1UGYtNUFrR2I0d1Z4YWZqcjJSTw?oc=5",
       "date": "2026-03-09 15:11",
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
+    },
+    {
+      "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWldQeHpYcFVnNGJrV2QwbVpXZUhza2Z4UmpLOFo0SjJ1bUNkWTd2VkdyOVRPSDNnY1YzckpaMzQ5VmM0eEtscUtwd2pUejFMVG9kTGY1TmJoZmI2QTJsQ1FDTVBrY00tZUhoVGtZeFRhd1MwN2lGTk5hWk5DNEFJYkFpUWtWd0xzSE5NYTJXYldXaXhzdkhGV2RHamRUOXJhakd3NGZzWVRWUzTSAbABQVVfeXFMTTh2UURxX205R2JiVGxFM3k2am1CM2pDWXlLUm5aWVNVWklEcnl3LW5DZW9adkMwN0lzOHlNSFl5UEtHLWJBaFlKVDhXdlhZWnE0Um1UTWY2Q2d1bHhWbTJDVWgxeFZGaVZyU0ZiaU5WY0ZYWTNCVFBqa1I1X0FTUzRZWVUtaVVmQ3Q3RzBJbGxaWHNoN0NOZFMwaHF4R085d1lxbEQtMi1lMG9ISGNWXzc?oc=5",
+      "date": "2026-03-10 13:47",
+      "summary": "How Pokémon Go is giving delivery robots an inch-perfect view of the world  MIT Technology Review..."
     },
     {
       "title": "The Crime issue - MIT Technology Review",
@@ -256,6 +256,12 @@
     }
   ],
   "Phys.org": [
+    {
+      "title": "Vegans develop complex skills to navigate an omnivorous society, new research shows",
+      "link": "https://phys.org/news/2026-03-vegans-complex-skills-omnivorous-society.html",
+      "date": "2026-03-11 02:10",
+      "summary": "Going vegan is a life-changing decision. Successfully committing to eating only ethically sourced, non-exploitative products—no da..."
+    },
     {
       "title": "Study reveals how Ethiopia's hyenas combat climate change, save money for waste management and prevent disease",
       "link": "https://phys.org/news/2026-03-reveals-ethiopia-hyenas-combat-climate.html",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-03-ultrasound-hedgehogs.html",
       "date": "2026-03-11 00:10",
       "summary": "Researchers at the University of Oxford have suggested that ultrasound-repellers could help reduce hedgehog deaths caused by cars...."
-    },
-    {
-      "title": "Ultrafast computing: Light-driven logic tops 10 terahertz in WS₂",
-      "link": "https://phys.org/news/2026-03-ultrafast-driven-logic-tops-terahertz.html",
-      "date": "2026-03-10 23:40",
-      "summary": "The future for our computers will literally be at the speed of light. Extremely short light pulses can perform ultrafast logical o..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong customs seizes more fuel-smuggling trucks as Iran war lifts prices",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3346170/hong-kong-customs-seizes-more-fuel-smuggling-trucks-iran-war-lifts-prices?utm_source=rss_feed",
+      "date": "2026-03-11 03:28",
+      "summary": "Hong Kong customs officers have intercepted more cross-border trucks suspected of smuggling petrol into the city as fuel prices su..."
+    },
+    {
+      "title": "Hong Kong stocks extend rebound as proposed release from oil reserve soothes fears",
+      "link": "https://www.scmp.com/business/markets/article/3346160/hong-kong-stocks-extend-rebound-proposed-release-oil-reserve-soothes-fears?utm_source=rss_feed",
+      "date": "2026-03-11 02:10",
+      "summary": "Hong Kong stocks rose on Wednesday as fears over surging oil prices eased and Chinese tech names rebounded after a deep rout.\nThe ..."
+    },
+    {
       "title": "Hong Kong tycoon urges prudent approach to development amid global uncertainty",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3346140/hong-kong-tycoon-urges-prudent-approach-development-amid-global-uncertainty?utm_source=rss_feed",
       "date": "2026-03-11 01:30",
@@ -337,27 +349,9 @@
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3346137/district-councillors-oppose-ferry-fare-rises-outlying-island-routes?utm_source=rss_feed",
       "date": "2026-03-10 14:07",
       "summary": "District councillors representing Hong Kong’s outlying islands have opposed a plan to raise selected ferry fares by up to 12.8 per..."
-    },
-    {
-      "title": "Sour note for fans after Taiwanese rock band Mayday switches Hong Kong date",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3346132/sour-note-fans-after-taiwanese-rock-band-mayday-switches-hong-kong-date?utm_source=rss_feed",
-      "date": "2026-03-10 13:15",
-      "summary": "Hong Kong’s consumer watchdog has received dozens of complaints after Taiwanese rock band Mayday cancelled one of its coming conce..."
-    },
-    {
-      "title": "Tai Po fire: Hong Kong Red Cross raises HK$530 million for affected residents",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3346133/tai-po-fire-hong-kong-red-cross-raises-hk530-million-affected-residents?utm_source=rss_feed",
-      "date": "2026-03-10 13:10",
-      "summary": "The Hong Kong Red Cross has raised HK$530 million (US$67.8 million) to provide emergency and long-term support to residents affect..."
     }
   ],
   "New Scientist": [
-    {
-      "title": "Orcas may be to blame for some mass dolphin strandings",
-      "link": "https://www.newscientist.com/article/2518849-orcas-may-be-to-blame-for-some-mass-dolphin-strandings/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-11 00:01",
-      "summary": "Two mass strandings involving hundreds of dolphins in Argentina probably happened because the pods were being hunted by orcas, hig..."
-    },
     {
       "title": "Mathematics is undergoing the biggest change in its history",
       "link": "https://www.newscientist.com/article/2518526-mathematics-is-undergoing-the-biggest-change-in-its-history/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -381,6 +375,12 @@
       "link": "https://www.newscientist.com/article/2518683-mystery-whippet-space-explosion-is-the-brightest-of-its-kind/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-10 14:00",
       "summary": "A rapidly brightening burst of light called AT 2024wpp, or \"the Whippet\", is baffling astronomers. One explanation is that it is t..."
+    },
+    {
+      "title": "Human populations evolved in similar ways after we began farming",
+      "link": "https://www.newscientist.com/article/2518181-human-populations-evolved-in-similar-ways-after-we-began-farming/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-10 11:00",
+      "summary": "An analysis of ancient and modern DNA suggests the extent of convergent evolution in different peoples around the world is even gr..."
     }
   ]
 }
