@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "New photonic device efficiently beams light into free space",
+      "link": "https://news.mit.edu/2026/new-photonic-device-efficiently-beams-light-free-space-0311",
+      "date": "2026-03-11 16:00",
+      "summary": "Light-emitting structures that curl off the chip surface could enable advanced displays, high-speed optical communications, and la..."
+    },
+    {
       "title": "A better method for planning complex visual tasks",
       "link": "https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311",
       "date": "2026-03-11 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
       "date": "2026-03-09 04:00",
       "summary": "A new approach could help users know whether to trust a model’s predictions in safety-critical applications like health care and a..."
-    },
-    {
-      "title": "Seeds of something different",
-      "link": "https://news.mit.edu/2026/seeds-something-different-kate-brown-book-0306",
-      "date": "2026-03-06 05:00",
-      "summary": "Kate Brown’s book, “Tiny Gardens Everywhere,” examines the hidden history of urban farming, its extensive use, and the politics of..."
     }
   ],
   "Harvard Gazette": [
@@ -109,6 +109,12 @@
       "summary": "Nature, Published online: 11 March 2026; doi:10.1038/d41586-026-00770-yFunding for national laboratories and important research pr..."
     },
     {
+      "title": "What is the science behind ‘science-backed’ supplements?",
+      "link": "https://www.nature.com/articles/d41586-026-00707-5",
+      "date": "2026-03-11 00:00",
+      "summary": "Nature, Published online: 11 March 2026; doi:10.1038/d41586-026-00707-5The task of decoding the research underlying the nutritiona..."
+    },
+    {
       "title": "First bot, singular",
       "link": "https://www.nature.com/articles/d41586-026-00610-z",
       "date": "2026-03-11 00:00",
@@ -119,44 +125,38 @@
       "link": "https://www.nature.com/articles/d41586-026-00757-9",
       "date": "2026-03-11 00:00",
       "summary": "Nature, Published online: 11 March 2026; doi:10.1038/d41586-026-00757-9Paul Howarth, president of the Institute of Physics, says ‘..."
-    },
-    {
-      "title": "National statistics are in crisis around the world — and the impacts will be severe",
-      "link": "https://www.nature.com/articles/d41586-026-00699-2",
-      "date": "2026-03-11 00:00",
-      "summary": "Nature, Published online: 11 March 2026; doi:10.1038/d41586-026-00699-2Some researchers are sounding the alarm over the official d..."
     }
   ],
   "Science News": [
     {
-      "title": "And the winner of <cite>Science</cite>’s 2026 ‘Dance Your Ph.D.’ contest is …",
-      "link": "https://www.science.org/content/article/and-winner-science-s-2026-dance-your-ph-d-contest",
-      "date": "2026-03-11 08:00",
-      "summary": "A physicist and professional dancer takes home the grand prize, and Science awards its first trophy for an AI-assisted dance conce..."
+      "title": "‘Tour de force’ mouse study shows a gut microbe can promote memory loss",
+      "link": "https://www.science.org/content/article/tour-de-force-mouse-study-shows-gut-microbe-can-promote-memory-loss",
+      "date": "2026-03-11 12:00",
+      "summary": "Research suggests the microbiome may contribute to cognitive decline—but its relevance in humans is unclear..."
     },
     {
-      "title": "How bumble bees survive days underwater without drowning",
-      "link": "https://www.science.org/content/article/how-bumblebees-survive-days-underwater-without-drowning",
-      "date": "2026-03-10 08:01",
-      "summary": "Insects can stay alive for up to a week in flooded nests, thanks to several tricks..."
+      "title": "A genetic trick helps this all-female fish species escape evolutionary doom",
+      "link": "https://www.science.org/content/article/genetic-trick-helps-all-female-fish-species-escape-evolutionary-doom",
+      "date": "2026-03-11 12:00",
+      "summary": "The Amazon molly, which reproduces asexually, has survived—and thrived—at least 10 times longer than predicted by evolutionary the..."
     },
     {
-      "title": "White House plan to break up iconic U.S. climate lab moves forward",
-      "link": "https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward",
-      "date": "2026-03-10 04:00",
-      "summary": "Bidders have lined up to take over pieces of the National Center for Atmospheric Research..."
+      "title": "Universe’s brightest stellar explosions may be powered by highly magnetic neutron stars",
+      "link": "https://www.science.org/content/article/universe-s-brightest-stellar-explosions-may-be-powered-highly-magnetic-neutron-stars",
+      "date": "2026-03-11 12:00",
+      "summary": "Peculiar bumps in light from supercharged supernovae point to a stellar remnant surrounded by a wobbling disk of matter..."
     },
     {
-      "title": "Ancient Peruvians transported live parrots across the Andes",
-      "link": "https://www.science.org/content/article/ancient-peruvians-transported-live-parrots-across-andes",
-      "date": "2026-03-10 12:00",
-      "summary": "Pre-Inca elites wore headdresses made of feathers from Amazonian macaws..."
+      "title": "Why the Energy Department’s science labs will spearhead the federal push into AI",
+      "link": "https://www.science.org/content/article/why-energy-department-s-science-labs-will-spearhead-federal-push-ai",
+      "date": "2026-03-11 11:25",
+      "summary": "DOE’s national labs’ huge facilities, data flows, and computing resources are a natural fit for the Genesis Mission..."
     },
     {
-      "title": "Why do rodents gnaw? Because it feels good",
-      "link": "https://www.science.org/content/article/why-do-rodents-gnaw-because-it-feels-good",
-      "date": "2026-03-10 11:00",
-      "summary": "Newly mapped brain circuitry in mice links tooth grinding to pleasure pathways..."
+      "title": "Viagra compound may hold promise for treating fatal genetic disease",
+      "link": "https://www.science.org/content/article/viagra-compound-may-hold-promise-treating-fatal-genetic-disease",
+      "date": "2026-03-11 11:00",
+      "summary": "Animal studies and preliminary human data support the safety of sildenafil in Leigh syndrome, but the jury’s out on whether it’s e..."
     }
   ],
   "Retraction Watch": [
@@ -199,22 +199,22 @@
       "summary": "China warns state-owned firms and government agencies against OpenClaw AI, sources say  Reuters..."
     },
     {
-      "title": "Canal+ taps Google and OpenAI for AI-driven video production, content recommendation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXlVLTFzZVdRT0pZZG9janBuc29GUENDZXZpSkg1UEcwWGRjNkg2dzZaT2FLaTI3OUtHV3FpckVxUVoxMkY1Mk5pRGpqY180N1dQODcwX1ZVa3I0ejdPanBSalhzak9DZDNQb1hsclZqMTU4OWpzazZCSTg2X25SdmJvbXdXdWNZMUNUQnR5Sk1GQkdWUVBJb1RpWmZEY2RURlhKYUlKTk5zbEVsaHBjSEF2alRwMUQxQmdORQ?oc=5",
-      "date": "2026-03-11 07:06",
-      "summary": "Canal+ taps Google and OpenAI for AI-driven video production, content recommendation  Reuters..."
+      "title": "Meta acquires AI agent social network Moltbook - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0NkclFHZE5GMFU2XzlMWmlPdlZHeV8yMFdNRDdQNDFtVnJVSXBUZjFTN2JYTlpiUHdITm9BaXJLMGsxSGVnVWxTa1RuY08tRlA0bG4zbzU3ZFRfamJ2OVFudHhDNTdwWGZHVzdOQl9jeGRXLTVhRE5BTUhRWVJzbVFva2trSk9SNDM2SlZvdk00VTdldHc?oc=5",
+      "date": "2026-03-10 14:43",
+      "summary": "Meta acquires AI agent social network Moltbook  Reuters..."
+    },
+    {
+      "title": "Meta unveils plans for batch of in-house AI chips - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclpONnFTNEtfX3RGeUFPZkJwNG5USkFtd3lBa3NjT3JSRXZoZEFtMkRCSDFwZTFmTGJlZ1BGTE1mTUtuSndtWU4tNllUZVRpNWdwYjVWVV9yS3F5NktwY0F3V2d2VG9EMGlPMFZ5bXFLbzNXRDRYc0lVU3BRMFNLRXJHOW1DdWQyUlV0TkFJX2FzdGVlellvX2pCd0huZw?oc=5",
+      "date": "2026-03-11 14:01",
+      "summary": "Meta unveils plans for batch of in-house AI chips  Reuters..."
     },
     {
       "title": "China pins hopes on society-wide AI push to add jobs, rejuvenate economy - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3h0cGRPMEp4Um5LVmZhRV9FcFRSSExXaDFjMGtrSDRFOFQ3V21QMHNYT2VNX1llWGEyTUNBa2R0c1hDbW83TkN1Z0N4QU83aHUwa3Y5eGc5QlNlQ2x6M3NBcklVUFpEM0lrRFNhdS1GbjNPd1RQNkk2YS1HNHA5X3g4VE1Sai1NeWJubUtYbTNUSjdxbUlaNXZrbzFFWjlsMFRfRm9FaFVFTEN4Y21PVFdNWnBEU1lrdXNhbEU2WTBJUQ?oc=5",
       "date": "2026-03-10 10:16",
       "summary": "China pins hopes on society-wide AI push to add jobs, rejuvenate economy  Reuters..."
-    },
-    {
-      "title": "Meta acquires AI agent social network Moltbook - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0NkclFHZE5GMFU2XzlMWmlPdlZHeV8yMFdNRDdQNDFtVnJVSXBUZjFTN2JYTlpiUHdITm9BaXJLMGsxSGVnVWxTa1RuY08tRlA0bG4zbzU3ZFRfamJ2OVFudHhDNTdwWGZHVzdOQl9jeGRXLTVhRE5BTUhRWVJzbVFva2trSk9SNDM2SlZvdk00VTdldHc?oc=5",
-      "date": "2026-03-10 14:43",
-      "summary": "Meta acquires AI agent social network Moltbook  Reuters..."
     },
     {
       "title": "Amazon wins order blocking access for Perplexity's AI shopping 'agent' - Reuters",
@@ -225,16 +225,16 @@
   ],
   "MIT Tech Review": [
     {
-      "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWldQeHpYcFVnNGJrV2QwbVpXZUhza2Z4UmpLOFo0SjJ1bUNkWTd2VkdyOVRPSDNnY1YzckpaMzQ5VmM0eEtscUtwd2pUejFMVG9kTGY1TmJoZmI2QTJsQ1FDTVBrY00tZUhoVGtZeFRhd1MwN2lGTk5hWk5DNEFJYkFpUWtWd0xzSE5NYTJXYldXaXhzdkhGV2RHamRUOXJhakd3NGZzWVRWUzTSAbABQVVfeXFMTTh2UURxX205R2JiVGxFM3k2am1CM2pDWXlLUm5aWVNVWklEcnl3LW5DZW9adkMwN0lzOHlNSFl5UEtHLWJBaFlKVDhXdlhZWnE0Um1UTWY2Q2d1bHhWbTJDVWgxeFZGaVZyU0ZiaU5WY0ZYWTNCVFBqa1I1X0FTUzRZWVUtaVVmQ3Q3RzBJbGxaWHNoN0NOZFMwaHF4R085d1lxbEQtMi1lMG9ISGNWXzc?oc=5",
-      "date": "2026-03-10 13:47",
-      "summary": "How Pokémon Go is giving delivery robots an inch-perfect view of the world  MIT Technology Review..."
-    },
-    {
       "title": "Hustlers are cashing in on China’s OpenClaw AI craze - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemY5MklSUzlJT2dLbGF0cU9CQndMRFc5cFV3Vmk4WUl0b1BLb1JwYlZYN2ZpSkxuNlNuVXUtbTdHbGp6bjU4dThvUTcxMnA2aHlrX2ViN09oZUl4S0Q5dkJZSWdoQk1mSEdWbU9nOXM1Zk9HSTNLbzh0bmZYeExOZ09SQdIBiAFBVV95cUxQTFh5VmI3akZQXy1OZFJLSE04V1ZxYnUwX0dIREdJWnMxVTg5SnFZNEtCLXAxT0FkQkZxV245LTE0UHJsYXlWMW1rUHVXSmotY05hUEhKQmlaaUlSWHBGNU1QZlk2RkhnY3MxekhoaTZNVDVPU2EtRnhQRmRPVWwtUmg5RXJXZ2hE?oc=5",
       "date": "2026-03-11 12:46",
       "summary": "Hustlers are cashing in on China’s OpenClaw AI craze  MIT Technology Review..."
+    },
+    {
+      "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWldQeHpYcFVnNGJrV2QwbVpXZUhza2Z4UmpLOFo0SjJ1bUNkWTd2VkdyOVRPSDNnY1YzckpaMzQ5VmM0eEtscUtwd2pUejFMVG9kTGY1TmJoZmI2QTJsQ1FDTVBrY00tZUhoVGtZeFRhd1MwN2lGTk5hWk5DNEFJYkFpUWtWd0xzSE5NYTJXYldXaXhzdkhGV2RHamRUOXJhakd3NGZzWVRWUzTSAbABQVVfeXFMTTh2UURxX205R2JiVGxFM3k2am1CM2pDWXlLUm5aWVNVWklEcnl3LW5DZW9adkMwN0lzOHlNSFl5UEtHLWJBaFlKVDhXdlhZWnE0Um1UTWY2Q2d1bHhWbTJDVWgxeFZGaVZyU0ZiaU5WY0ZYWTNCVFBqa1I1X0FTUzRZWVUtaVVmQ3Q3RzBJbGxaWHNoN0NOZFMwaHF4R085d1lxbEQtMi1lMG9ISGNWXzc?oc=5",
+      "date": "2026-03-10 13:47",
+      "summary": "How Pokémon Go is giving delivery robots an inch-perfect view of the world  MIT Technology Review..."
     },
     {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
+      "title": "Acoustic driving enables controlled condensation of light and matter on chip",
+      "link": "https://phys.org/news/2026-03-acoustic-enables-condensation-chip.html",
+      "date": "2026-03-11 16:40",
+      "summary": "An international research team led by Alexander Kuznetsov at the Paul Drude Institute for Solid State Electronics (PDI) in Berlin ..."
+    },
+    {
+      "title": "Flying 2,000 km to find a mate—meet Australia's most determined seabirds",
+      "link": "https://phys.org/news/2026-03-flying-km-australia-seabirds.html",
+      "date": "2026-03-11 16:20",
+      "summary": "New genetic testing from the University of the Sunshine Coast has uncovered the extraordinary lengths a group of Queensland seabir..."
+    },
+    {
+      "title": "Astronomers capture birth of a magnetar, confirming link to some of universe's brightest exploding stars",
+      "link": "https://phys.org/news/2026-03-astronomers-capture-birth-magnetar-link.html",
+      "date": "2026-03-11 16:00",
+      "summary": "Astronomers have for the first time seen the birth of a magnetar—a highly magnetized, spinning neutron star—and confirmed that it'..."
+    },
+    {
+      "title": "'Stealth' DNA circles safely insert gene-sized payloads into the genome",
+      "link": "https://phys.org/news/2026-03-stealth-dna-circles-safely-insert.html",
+      "date": "2026-03-11 16:00",
+      "summary": "Genome editing-based therapies typically aim to treat disease by correcting underlying genetic mutations in patient's cells. Howev..."
+    },
+    {
       "title": "Nocturnal ants use lunar compass and sophisticated calculations to travel at night",
       "link": "https://phys.org/news/2026-03-nocturnal-ants-lunar-compass-sophisticated.html",
       "date": "2026-03-11 15:42",
       "summary": "It's well known that many animals, including migratory birds, butterflies, and even fish, use the sun for navigational purposes. N..."
-    },
-    {
-      "title": "Indigenous rangers find rarely seen animals in first camera survey of Truwana",
-      "link": "https://phys.org/news/2026-03-indigenous-rangers-rarely-animals-camera.html",
-      "date": "2026-03-11 15:40",
-      "summary": "The first camera survey ever conducted on Truwana/Cape Barren Island off Tasmania has recorded two rarely seen animals—white-foote..."
-    },
-    {
-      "title": "Typhoons: The hidden lifeline in a drying world",
-      "link": "https://phys.org/news/2026-03-typhoons-hidden-lifeline-drying-world.html",
-      "date": "2026-03-11 15:40",
-      "summary": "A research team led by Professor Jonghun Kam from POSTECH (Pohang University of Science and Technology) has revealed that typhoons..."
-    },
-    {
-      "title": "Climate policies: The swing voters that determine their fate",
-      "link": "https://phys.org/news/2026-03-climate-policies-voters-fate.html",
-      "date": "2026-03-11 15:20",
-      "summary": "The climate measures currently in place are unlikely to meet Paris Climate Agreement targets. Whether further political measures c..."
-    },
-    {
-      "title": "Solid but fluid: New materials reconfigure their entire crystal structure in response to humidity",
-      "link": "https://phys.org/news/2026-03-solid-fluid-materials-reconfigure-entire.html",
-      "date": "2026-03-11 15:00",
-      "summary": "Most solid materials we rely on, from steel, to plastics and ceramics, are designed to have specific properties. Whether a materia..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Jockey Club serves as Official Community Partner of “M” Mark golf tournament for the first time",
+      "link": "https://www.scmp.com/presented/news/hong-kong/topics/hkjc-m-mark-golf-event-community-partner/article/3346033/jockey-club-serves-official-community-partner-m-mark-golf-tournament-first-time?utm_source=rss_feed",
+      "date": "2026-03-11 16:00",
+      "summary": "[The content of this article has been produced by our advertising partner.]\nThe Hong Kong Jockey Club extends its warmest congratu..."
+    },
+    {
       "title": "Taiwan’s Mayday invites fans angered by axed Hong Kong show to free rehearsal",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3346268/taiwans-mayday-invites-fans-angered-axed-hong-kong-show-free-rehearsal?utm_source=rss_feed",
       "date": "2026-03-11 14:52",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3346255/hong-kong-expand-scheme-cutting-stroke-patient-transfer-time-80-minutes?utm_source=rss_feed",
       "date": "2026-03-11 13:01",
       "summary": "Hong Kong authorities plan to expand a pilot programme to cut the transfer time by 80 minutes for patients suffering from serious ..."
-    },
-    {
-      "title": "Only 1 Hong Kong landlord seeks subdivided flat approval as new law takes effect",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3346249/only-1-hong-kong-landlord-seeks-subdivided-flat-approval-new-law-kicks?utm_source=rss_feed",
-      "date": "2026-03-11 12:22",
-      "summary": "Only one landlord in Hong Kong has sought certification approval for subdivided flats since a new law on minimum housing standards..."
     }
   ],
   "New Scientist": [
