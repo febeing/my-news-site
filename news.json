@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
-      "date": "2025-09-25 07:00",
-      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
-    },
-    {
       "title": "How academia can help America heal - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
@@ -55,6 +49,12 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
       "date": "2025-10-23 07:00",
       "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
+    },
+    {
+      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
+      "date": "2025-09-25 07:00",
+      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
     },
     {
       "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
@@ -225,6 +225,12 @@
   ],
   "MIT Tech Review": [
     {
+      "title": "Brutal times for the US battery industry - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yd25OVlo1OXlpQy1nQjZYa1kwTFpZZEZOaENRWTNuTEU1V3pDU2VKUnVTNnZpVmEtSkd2VmdEbkZlUGdPRDJxMGNETlU5aFl0cHF1azFGaUY4d0xpLUxybVlGOExwR0pKUHd2Mi1BZ1hOM2E3Z0x3VFpBZlLSAYIBQVVfeXFMTjluSkVQSWxiVl9pa2luaF9OcFRiM3YteTlVd0tKcG5pdEVVSjdDYXgtSlc0TmtGRGREbjFvc2hKZDl5d2RGbXFJT3VTc1B1WVoxd3pUUWxCb094LU42emc1M2ZLMnBnQU4zMVZvYmpBWEEtenRhUVJGLXhDbEJGNW9kZw?oc=5",
+      "date": "2026-03-12 10:00",
+      "summary": "Brutal times for the US battery industry  MIT Technology Review..."
+    },
+    {
       "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWldQeHpYcFVnNGJrV2QwbVpXZUhza2Z4UmpLOFo0SjJ1bUNkWTd2VkdyOVRPSDNnY1YzckpaMzQ5VmM0eEtscUtwd2pUejFMVG9kTGY1TmJoZmI2QTJsQ1FDTVBrY00tZUhoVGtZeFRhd1MwN2lGTk5hWk5DNEFJYkFpUWtWd0xzSE5NYTJXYldXaXhzdkhGV2RHamRUOXJhakd3NGZzWVRWUzTSAbABQVVfeXFMTTh2UURxX205R2JiVGxFM3k2am1CM2pDWXlLUm5aWVNVWklEcnl3LW5DZW9adkMwN0lzOHlNSFl5UEtHLWJBaFlKVDhXdlhZWnE0Um1UTWY2Q2d1bHhWbTJDVWgxeFZGaVZyU0ZiaU5WY0ZYWTNCVFBqa1I1X0FTUzRZWVUtaVVmQ3Q3RzBJbGxaWHNoN0NOZFMwaHF4R085d1lxbEQtMi1lMG9ISGNWXzc?oc=5",
       "date": "2026-03-10 13:47",
@@ -247,15 +253,27 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLXFwY0ZHRzlLWURiZVZaenFGdUdBYmxsUVFBdElfcVlBcVpQeFp1VExmclVZSG9LM3ZqTWdob2g2ZXkwYkFJY2FhenZIeXNxd0NRU0dfaTk4eGVHSjdyeTFlVkVWeFRPTTRLVVBYOUNFSDA0eG1Sa1E4U3JOU2hUZkVVclNpTlIxcEhzTWx2bDdrbVJ0Rm00ZkU4UkdnZTdCcVVnOWM5dGQ4cE940gGyAUFVX3lxTE5VQ284M3FmeXFmVGxkNmpRVDhYQmhCbDdqZVNPTjVMUWszaTRjbnAwMDYtUzBzcGMzQmpGY2lpd21SYlhKSzRRSlhBczRiNng1c0ZTTzktT2FLR1pUNHJfNFdmb2s2Z1pLR2NIcnA2WVBrOXVJUXBGclAzQjFrMFR5NlBROFJMSGdTRmJpUGVocVlBQnRnZlU3azROcl84UjBfV0N0T2E3YjhiVkpYOE11Z1E?oc=5",
       "date": "2026-03-10 13:00",
       "summary": "Prioritizing energy intelligence for sustainable growth  MIT Technology Review..."
-    },
-    {
-      "title": "The Crime issue - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGZXpMZTJ5SGpvdFB1N1FISEpRakVqUEZGYUE1dXNySVg5a0gyeDNoUU9vSmNsVU9reEZwVVFOWVFvUHU0dFJrQ0I2UVRucjVrVGlwY051aDJZcjdJYXB0dFp3UHdJS3ZNY3NN?oc=5",
-      "date": "2026-02-25 11:02",
-      "summary": "The Crime issue  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Fortified salad packs a healthy punch to meet a growing vitamin B12 need",
+      "link": "https://phys.org/news/2026-03-fortified-salad-healthy-vitamin-b12.html",
+      "date": "2026-03-12 10:00",
+      "summary": "A pioneering research-industry partnership has used advances in indoor farming technology to grow pea shoots fortified with vitami..."
+    },
+    {
+      "title": "Failed experiment leads to surprise drug development breakthrough",
+      "link": "https://phys.org/news/2026-03-drug-breakthrough.html",
+      "date": "2026-03-12 10:00",
+      "summary": "Scientists at the University of Cambridge have developed a new way to alter complex drug molecules using light rather than toxic c..."
+    },
+    {
+      "title": "Caught but not eaten: Smaller insects more likely to escape catfish mouths",
+      "link": "https://phys.org/news/2026-03-caught-eaten-smaller-insects-catfish.html",
+      "date": "2026-03-12 10:00",
+      "summary": "A Kobe University study shows that small aquatic beetles survive catfish attacks by resisting ingestion inside the catfish's mouth..."
+    },
     {
       "title": "Old NASA science satellite plunges back to Earth",
       "link": "https://phys.org/news/2026-03-nasa-science-satellite-plunges-earth.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-03-sun-stellar-twins-galaxy-center.html",
       "date": "2026-03-12 09:00",
       "summary": "Researchers have uncovered evidence for our sun joining a mass migration of similar \"twins\" leaving the core regions of our galaxy..."
-    },
-    {
-      "title": "Meet Crocodylus lucivenator, a 12- to 15-foot predator that hunted iconic Lucy's species",
-      "link": "https://phys.org/news/2026-03-crocodylus-lucivenator-foot-predator-iconic.html",
-      "date": "2026-03-12 05:10",
-      "summary": "More than 3 million years ago, when our ancient ancestors embodied by the iconic Lucy were roaming the African landscape, they wou..."
-    },
-    {
-      "title": "Your cat is likely to live longer if you don't let them roam—new study",
-      "link": "https://phys.org/news/2026-03-cat-longer-dont-roam.html",
-      "date": "2026-03-12 01:50",
-      "summary": "We all know cats represent a major threat to native animals and birds. Australia's 5.3 million domestic cats kill a total of 546 m..."
-    },
-    {
-      "title": "What's it like to be a bat? Scientists develop new solution to the puzzle of animal minds",
-      "link": "https://phys.org/news/2026-03-scientists-solution-puzzle-animal-minds.html",
-      "date": "2026-03-12 01:10",
-      "summary": "In 1974, philosopher Thomas Nagel posed a deceptively simple question: \"What is it like to be a bat?\" His point wasn't really abou..."
     }
   ],
   "The Guardian Edu": [
@@ -321,10 +321,16 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Chinese developer Sunshine 100 to oppose Hong Kong winding-up petition over US$205m debt",
+      "link": "https://www.scmp.com/business/article/3346360/chinese-developer-sunshine-100-oppose-hong-kong-winding-petition-over-us205m-debt?utm_source=rss_feed",
+      "date": "2026-03-12 10:00",
+      "summary": "Sunshine 100 China Holdings, a mainland Chinese developer facing debts amid China’s property sector downturn, said on Thursday tha..."
+    },
+    {
       "title": "Hong Kong’s MTR Corp net profit falls 6.9% amid weaker mainland China revenue",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3346363/hong-kongs-mtr-corp-net-profit-falls-69-amid-weaker-mainland-china-revenue?utm_source=rss_feed",
       "date": "2026-03-12 09:27",
-      "summary": "Hong Kong rail giant MTR Corporation’s net profit dropped 6.9 per cent to HK$14.68 billion (US$1.88 billion) last year, from HK$15..."
+      "summary": "The net profit of Hong Kong’s MTR Corporation dropped by 6.9 per cent to HK$14.68 billion (US$1.88 billion) last year, from HK$15...."
     },
     {
       "title": "Hong Kong poised to grant first stablecoin licences to HSBC, Standard Chartered: sources",
@@ -339,24 +345,30 @@
       "summary": "Hong Kong’s consumer watchdog has received more than 160 complaints after Taiwanese rock band Mayday cancelled one of its coming c..."
     },
     {
-      "title": "Cathay Pacific to nearly double fuel surcharge on Wednesday as costs surge",
+      "title": "Cathay Pacific, HK Express to double fuel surcharges on Wednesday as costs surge",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3346338/cathay-pacific-nearly-double-fuel-surcharge-wednesday-costs-surge?utm_source=rss_feed",
       "date": "2026-03-12 07:49",
-      "summary": "Cathay Pacific Airways will nearly double its fuel surcharges starting from Wednesday, following a similar move by another Hong Ko..."
-    },
-    {
-      "title": "Group warns plain packs hinder Hongkongers’ efforts to detect smuggled cigarettes",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3346327/group-warns-plain-packs-hinder-hongkongers-efforts-detect-smuggled-cigarettes?utm_source=rss_feed",
-      "date": "2026-03-12 06:53",
-      "summary": "Nearly 90 per cent of Hong Kong smokers cannot distinguish smuggled cigarettes from duty-paid ones under the government’s proposed..."
+      "summary": "Cathay Pacific Airways and its budget carrier HK Express will nearly double their fuel surcharges starting from Wednesday, followi..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Undisclosed ads on TikTok skirt ban on profiling minors",
+      "link": "https://www.newscientist.com/article/2519141-undisclosed-ads-on-tiktok-skirt-ban-on-profiling-minors/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-12 10:15",
+      "summary": "Teenagers are being bombarded with highly targeted commercial content on TikTok, despite an EU law that prohibits profiling minors..."
+    },
     {
       "title": "A miniature magnet rivals behemoths in strength for the first time",
       "link": "https://www.newscientist.com/article/2518964-a-miniature-magnet-rivals-behemoths-in-strength-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-11 18:00",
       "summary": "Strong magnets tend to be large and power-hungry, but a new design has produced a powerful magnet that fits in the palm of your ha..."
+    },
+    {
+      "title": "Mathematics is undergoing the biggest change in its history",
+      "link": "https://www.newscientist.com/article/2518526-mathematics-is-undergoing-the-biggest-change-in-its-history/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-10 12:00",
+      "summary": "The speed at which artificial intelligence is gaining in mathematical ability has taken many by surprise. It is rewriting what it ..."
     },
     {
       "title": "King penguins are thriving in a warmer climate, but it may not last",
@@ -369,18 +381,6 @@
       "link": "https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-11 14:00",
       "summary": "The reliable internet connections provided by Starlink offer a huge advantage on the battlefield. But as access is dependent on th..."
-    },
-    {
-      "title": "Parkinson's disease may reduce enjoyment of pleasant smells",
-      "link": "https://www.newscientist.com/article/2518748-parkinsons-disease-may-reduce-enjoyment-of-pleasant-smells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-11 12:00",
-      "summary": "The \"world smells different\" for people with Parkinson's disease, a discovery that could help doctors spot the condition sooner..."
-    },
-    {
-      "title": "Start-up is building the first data centre to use human brain cells",
-      "link": "https://www.newscientist.com/article/2518930-start-up-is-building-the-first-data-centre-to-use-human-brain-cells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-10 16:55",
-      "summary": "Cortical Labs is building two data centres that will house its neuron-filled chips. The technology is still in the very early stag..."
     }
   ]
 }
