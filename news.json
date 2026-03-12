@@ -193,28 +193,28 @@
   ],
   "Reuters AI": [
     {
-      "title": "Atlassian to cut roughly 10% jobs in pivot to AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0NVQXh2dG9kb3h4MGMweHFCdkVhQlBiSWtHVXpDczhkV2RlZHpyYnhHSGhkQlJZT3dDVTQwUHlPZEE1SVFEUGh4bXZaY2l5WHVXZFMxUVJvSldFc2ZYMzhBaURCTzVBXzFRYkhaWWtCY2NxZDZsOVlJRlE0blZoTVBIUERhLU0xV1YxRnFUVHA0dDEwUEE?oc=5",
-      "date": "2026-03-11 21:26",
-      "summary": "Atlassian to cut roughly 10% jobs in pivot to AI  Reuters..."
-    },
-    {
       "title": "Meta unveils plans for batch of in-house AI chips - Reuters",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclpONnFTNEtfX3RGeUFPZkJwNG5USkFtd3lBa3NjT3JSRXZoZEFtMkRCSDFwZTFmTGJlZ1BGTE1mTUtuSndtWU4tNllUZVRpNWdwYjVWVV9yS3F5NktwY0F3V2d2VG9EMGlPMFZ5bXFLbzNXRDRYc0lVU3BRMFNLRXJHOW1DdWQyUlV0TkFJX2FzdGVlellvX2pCd0huZw?oc=5",
       "date": "2026-03-11 14:01",
       "summary": "Meta unveils plans for batch of in-house AI chips  Reuters..."
     },
     {
-      "title": "How the Anthropic-Pentagon dispute over AI safeguards escalated - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRzNqRG15QkR6TEtXajlQZ1ZBZUl6T1lIamI0UGhNU21GN0JYNWVLNEF4QlVPUHRSamdwaXVYMXRXeHF0Um5jejJmcmpjMnd4dXh0b2xTUGRlbHZ4Nm5LRTFvbzJWZWVQUmhjZUNFNXBXNnR6VE03dkJGZmE4alRXT3I0Rm8zUkZUaXZCeGdLREltX2s3MERoUlY0TUdtOUo5aWtV?oc=5",
-      "date": "2026-03-11 20:35",
-      "summary": "How the Anthropic-Pentagon dispute over AI safeguards escalated  Reuters..."
-    },
-    {
       "title": "Canal+ taps Google and OpenAI for AI-driven video production, content recommendation - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXlVLTFzZVdRT0pZZG9janBuc29GUENDZXZpSkg1UEcwWGRjNkg2dzZaT2FLaTI3OUtHV3FpckVxUVoxMkY1Mk5pRGpqY180N1dQODcwX1ZVa3I0ejdPanBSalhzak9DZDNQb1hsclZqMTU4OWpzazZCSTg2X25SdmJvbXdXdWNZMUNUQnR5Sk1GQkdWUVBJb1RpWmZEY2RURlhKYUlKTk5zbEVsaHBjSEF2alRwMUQxQmdORQ?oc=5",
       "date": "2026-03-11 07:06",
       "summary": "Canal+ taps Google and OpenAI for AI-driven video production, content recommendation  Reuters..."
+    },
+    {
+      "title": "Atlassian to cut roughly 10% jobs in pivot to AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0NVQXh2dG9kb3h4MGMweHFCdkVhQlBiSWtHVXpDczhkV2RlZHpyYnhHSGhkQlJZT3dDVTQwUHlPZEE1SVFEUGh4bXZaY2l5WHVXZFMxUVJvSldFc2ZYMzhBaURCTzVBXzFRYkhaWWtCY2NxZDZsOVlJRlE0blZoTVBIUERhLU0xV1YxRnFUVHA0dDEwUEE?oc=5",
+      "date": "2026-03-11 21:26",
+      "summary": "Atlassian to cut roughly 10% jobs in pivot to AI  Reuters..."
+    },
+    {
+      "title": "How the Anthropic-Pentagon dispute over AI safeguards escalated - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRzNqRG15QkR6TEtXajlQZ1ZBZUl6T1lIamI0UGhNU21GN0JYNWVLNEF4QlVPUHRSamdwaXVYMXRXeHF0Um5jejJmcmpjMnd4dXh0b2xTUGRlbHZ4Nm5LRTFvbzJWZWVQUmhjZUNFNXBXNnR6VE03dkJGZmE4alRXT3I0Rm8zUkZUaXZCeGdLREltX2s3MERoUlY0TUdtOUo5aWtV?oc=5",
+      "date": "2026-03-11 20:35",
+      "summary": "How the Anthropic-Pentagon dispute over AI safeguards escalated  Reuters..."
     },
     {
       "title": "Meta acquires AI agent social network Moltbook - Reuters",
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Old NASA science satellite plunges back to Earth",
+      "link": "https://phys.org/news/2026-03-nasa-science-satellite-plunges-earth.html",
+      "date": "2026-03-12 09:08",
+      "summary": "An old NASA science satellite plunged uncontrolled from orbit and reentered over the Pacific on Wednesday...."
+    },
+    {
+      "title": "We are not alone: Our sun escaped together with stellar 'twins' from galaxy center",
+      "link": "https://phys.org/news/2026-03-sun-stellar-twins-galaxy-center.html",
+      "date": "2026-03-12 09:00",
+      "summary": "Researchers have uncovered evidence for our sun joining a mass migration of similar \"twins\" leaving the core regions of our galaxy..."
+    },
+    {
       "title": "Meet Crocodylus lucivenator, a 12- to 15-foot predator that hunted iconic Lucy's species",
       "link": "https://phys.org/news/2026-03-crocodylus-lucivenator-foot-predator-iconic.html",
       "date": "2026-03-12 05:10",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-03-scientists-solution-puzzle-animal-minds.html",
       "date": "2026-03-12 01:10",
       "summary": "In 1974, philosopher Thomas Nagel posed a deceptively simple question: \"What is it like to be a bat?\" His point wasn't really abou..."
-    },
-    {
-      "title": "The Rubin Observatory's LSST will detect imminent impactors before they crash into Earth",
-      "link": "https://phys.org/news/2026-03-rubin-observatory-lsst-imminent-impactors.html",
-      "date": "2026-03-12 00:30",
-      "summary": "The Vera Rubin Observatory (VRO) has barely begun observations and is already wowing us. Images like its Cosmic Treasure Chest hav..."
-    },
-    {
-      "title": "Island warbler study finds immune genes shape gut bacteria in the wild",
-      "link": "https://phys.org/news/2026-03-island-warbler-immune-genes-gut.html",
-      "date": "2026-03-12 00:00",
-      "summary": "Scientists at the University of East Anglia (U.K.) have uncovered a hidden link between gut health and the immune system—all thank..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong’s MTR Corp net profit falls 6.9% amid weaker mainland China revenue",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3346363/hong-kongs-mtr-corp-net-profit-falls-69-amid-weaker-mainland-china-revenue?utm_source=rss_feed",
+      "date": "2026-03-12 09:27",
+      "summary": "Hong Kong rail giant MTR Corporation’s net profit dropped 6.9 per cent to HK$14.68 billion (US$1.88 billion) last year, from HK$15..."
+    },
+    {
+      "title": "Hong Kong poised to grant first stablecoin licences to HSBC, Standard Chartered: sources",
+      "link": "https://www.scmp.com/business/cryptocurrency/article/3346311/hong-kong-poised-grant-first-stablecoin-licences-hsbc-standard-chartered-sources?utm_source=rss_feed",
+      "date": "2026-03-12 09:00",
+      "summary": "HSBC and a joint venture led by Standard Chartered are expected to be among the first companies to obtain Hong Kong’s stablecoin l..."
+    },
+    {
       "title": "Over 160 complaints filed after Mayday shifts Hong Kong show: Consumer Council",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3346341/over-160-complaints-filed-after-mayday-shifts-hong-kong-show-consumer-council?utm_source=rss_feed",
       "date": "2026-03-12 08:05",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3346327/group-warns-plain-packs-hinder-hongkongers-efforts-detect-smuggled-cigarettes?utm_source=rss_feed",
       "date": "2026-03-12 06:53",
       "summary": "Nearly 90 per cent of Hong Kong smokers cannot distinguish smuggled cigarettes from duty-paid ones under the government’s proposed..."
-    },
-    {
-      "title": "Man arrested after Hong Kong bridge crash injures 10, disrupts airport-bound traffic",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3346283/multi-car-crash-major-bridge-injures-10-shuts-hong-kong-airport-bound-lanes?utm_source=rss_feed",
-      "date": "2026-03-12 01:39",
-      "summary": "A man has been arrested after a collision involving more than 10 cars on a major bridge that injured 10 people and resulted in the..."
-    },
-    {
-      "title": "Graham A. Harris, a giant of the Hong Kong Bar",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3346149/graham-harris-giant-hong-kong-bar?utm_source=rss_feed",
-      "date": "2026-03-12 01:30",
-      "summary": "The Hong Kong Bar Association was founded in 1949. To properly recognise barristers who have made a lasting and very significant c..."
     }
   ],
   "New Scientist": [
