@@ -7,12 +7,6 @@
       "summary": "MIT astronomers are developing a new way to detect, monitor, and mitigate the threats posed by smaller asteroids to our critical s..."
     },
     {
-      "title": "3 Questions: On the future of AI and the mathematical and physical sciences",
-      "link": "https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311",
-      "date": "2026-03-11 22:30",
-      "summary": "Professor Jesse Thaler describes a vision for a two-way bridge between artificial intelligence and the mathematical and physical s..."
-    },
-    {
       "title": "New photonic device efficiently beams light into free space",
       "link": "https://news.mit.edu/2026/new-photonic-device-efficiently-beams-light-free-space-0311",
       "date": "2026-03-11 16:00",
@@ -29,6 +23,12 @@
       "link": "https://news.mit.edu/2026/understanding-how-marine-snow-acts-as-carbon-sink-0309",
       "date": "2026-03-09 19:00",
       "summary": "A new study finds hitchhiking bacteria dissolve essential ballast in ubiquitous “snow” particles, which could counteract the ocean..."
+    },
+    {
+      "title": "Neurons receive precisely tailored teaching signals as we learn",
+      "link": "https://news.mit.edu/2026/neurons-receive-precisely-tailored-teaching-signals-as-we-learn-0309",
+      "date": "2026-03-09 16:50",
+      "summary": "New work suggests the brain can deliver neuron-specific feedback during learning — resembling the error signals that drive machine..."
     }
   ],
   "Harvard Gazette": [
@@ -39,16 +39,16 @@
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
     },
     {
-      "title": "How academia can help America heal - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
-      "date": "2026-02-13 08:00",
-      "summary": "How academia can help America heal  Harvard Gazette..."
-    },
-    {
       "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
       "date": "2025-10-23 07:00",
       "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
+    },
+    {
+      "title": "How academia can help America heal - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
+      "date": "2026-02-13 08:00",
+      "summary": "How academia can help America heal  Harvard Gazette..."
     },
     {
       "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "Why can some people eat food that others are allergic to? - Stanford Report",
+      "title": "Why can some people eat food that others are allergic to? - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlozaXdjNl9WWjd6eXZHOVE2bi00VmY1RUQ2Nnh1MlJDWEtRYVVJNEZWYm9LcHYyb3hHbS0yLTQyeGV4LTF1LUtheS0yTmVhdFVoYWR5Z1lVMHVvNXpGNGdqM18wTDhaRHNSTUQyOS1HWU1pZkRQNE0wTDRMSHNPREdEcW1wQ3UtWVAycl9uME0tYm9TT1FMTC13?oc=5",
       "date": "2026-03-11 19:09",
-      "summary": "Why can some people eat food that others are allergic to?  Stanford Report..."
+      "summary": "Why can some people eat food that others are allergic to?  Stanford University..."
     },
     {
       "title": "Pack winning streak snapped at Stanford - University of Nevada Athletics",
@@ -77,25 +77,37 @@
       "summary": "Pack winning streak snapped at Stanford  University of Nevada Athletics..."
     },
     {
-      "title": "Iris Cantor, philanthropist behind Stanford’s Rodin collection, dies at 95 - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fYW5keVE3MGh6UURkNm1wVHNJeVc1WGdGOUNkbHk5aFoxVjhXeWpnd0wyMXU1VnJnYktkUURSaHlLVHlpTFdTdnlyREstbXVuZ1dubkQ2Ul9tMmptYXgtR2VoaG02eFhXbG9OOUh6dw?oc=5",
-      "date": "2026-03-11 18:49",
-      "summary": "Iris Cantor, philanthropist behind Stanford’s Rodin collection, dies at 95  Stanford Report..."
-    },
-    {
-      "title": "College leaders reflect on the future of higher education - Stanford Report",
+      "title": "College leaders reflect on the future of higher education - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWJQZGxiUW0zUWNVR2F2QTdTUkc2aklFdkExS2FyZ1dvQ3ZRZWh5S2dmZnI0RU9mYUs3RXlLV1hFMnBoMDZqejliR1MwY1ZGUlkwS05IZ2VHeERhMFZrUXFoR1ZzVFRHOWdzTVBaWXFYUlBJNGtoOXlTTVprOVFrd2Y1SFk4SXNoRG05UU0tQ2o?oc=5",
       "date": "2026-03-10 23:03",
-      "summary": "College leaders reflect on the future of higher education  Stanford Report..."
+      "summary": "College leaders reflect on the future of higher education  Stanford University..."
     },
     {
-      "title": "Awards recognize collaboration and public service - Stanford Report",
+      "title": "Iris Cantor, philanthropist behind Stanford’s Rodin collection, dies at 95 - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fYW5keVE3MGh6UURkNm1wVHNJeVc1WGdGOUNkbHk5aFoxVjhXeWpnd0wyMXU1VnJnYktkUURSaHlLVHlpTFdTdnlyREstbXVuZ1dubkQ2Ul9tMmptYXgtR2VoaG02eFhXbG9OOUh6dw?oc=5",
+      "date": "2026-03-11 18:49",
+      "summary": "Iris Cantor, philanthropist behind Stanford’s Rodin collection, dies at 95  Stanford University..."
+    },
+    {
+      "title": "Awards recognize collaboration and public service - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWwtd1JJR2RZM0taUVh6TVlPc3JNTXNMdUdsaW1uaWpqYkhhcmJfVzhmZ1BUcS1BWnNzcWV5cVBJWHJnb3g4YThCVE1QMXdjQ09jcDQzdnpCWnM4a3ZMdHQ0S1NQOTBrY3pxeXdfbG9qTDJHVlRKRVdyek9OS3FsMnBHR3VWNzBkdXpJ?oc=5",
       "date": "2026-03-09 23:51",
-      "summary": "Awards recognize collaboration and public service  Stanford Report..."
+      "summary": "Awards recognize collaboration and public service  Stanford University..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Reckoning with my ‘ghost years’: why a high publication rate doesn’t always reflect success",
+      "link": "https://www.nature.com/articles/d41586-025-04062-9",
+      "date": "2026-03-12 00:00",
+      "summary": "Nature, Published online: 12 March 2026; doi:10.1038/d41586-025-04062-9I have a five-year gap in my publication record. Last year,..."
+    },
+    {
+      "title": "How bioRxiv changed the way biologists share ideas – in numbers",
+      "link": "https://www.nature.com/articles/d41586-026-00709-3",
+      "date": "2026-03-12 00:00",
+      "summary": "Nature, Published online: 12 March 2026; doi:10.1038/d41586-026-00709-3Four million articles are now downloaded from bioRxiv every..."
+    },
     {
       "title": "Author Correction: Gut stem cell necroptosis by genome instability triggers bowel inflammation",
       "link": "https://www.nature.com/articles/s41586-026-10302-3",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-00798-0",
       "date": "2026-03-11 00:00",
       "summary": "Nature, Published online: 11 March 2026; doi:10.1038/d41586-026-00798-0A study reveals how the asexual Amazon molly defies evoluti..."
-    },
-    {
-      "title": "The dynamic basis of G-protein recognition and activation by a GPCR",
-      "link": "https://www.nature.com/articles/s41586-026-10228-w",
-      "date": "2026-03-11 00:00",
-      "summary": "Nature, Published online: 11 March 2026; doi:10.1038/s41586-026-10228-wConventional and time-resolved cryo-electron microscopy rev..."
-    },
-    {
-      "title": "A large-scale coherent 4D imaging sensor",
-      "link": "https://www.nature.com/articles/s41586-026-10183-6",
-      "date": "2026-03-11 00:00",
-      "summary": "Nature, Published online: 11 March 2026; doi:10.1038/s41586-026-10183-6A 4D imaging architecture using a large-scale, coherent LiD..."
     }
   ],
   "Science News": [
@@ -199,16 +199,16 @@
       "summary": "Meta unveils plans for batch of in-house AI chips  Reuters..."
     },
     {
-      "title": "Canal+ taps Google and OpenAI for AI-driven video production, content recommendation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXlVLTFzZVdRT0pZZG9janBuc29GUENDZXZpSkg1UEcwWGRjNkg2dzZaT2FLaTI3OUtHV3FpckVxUVoxMkY1Mk5pRGpqY180N1dQODcwX1ZVa3I0ejdPanBSalhzak9DZDNQb1hsclZqMTU4OWpzazZCSTg2X25SdmJvbXdXdWNZMUNUQnR5Sk1GQkdWUVBJb1RpWmZEY2RURlhKYUlKTk5zbEVsaHBjSEF2alRwMUQxQmdORQ?oc=5",
-      "date": "2026-03-11 07:06",
-      "summary": "Canal+ taps Google and OpenAI for AI-driven video production, content recommendation  Reuters..."
+      "title": "Nvidia to invest $2 billion in neocloud Nebius amid AI data center push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY2xWNmYtSzRYRU5rVnZUakR6enV3ZHNROTFaSFQ5QjVKR0JTNDZ5bjVTV2RTRzE0TEtBOHY4SW15ZHFKeDROWGpQbFV4Z3czMlhhTEsyZkszbE13bTRHdVdVR2o4SVEwU004WGtKVThkRHEyN3poU1EyN2ZXYmhTUUxIYmpadXF0aXRlRDJseXVfVmMzc2c?oc=5",
+      "date": "2026-03-11 12:08",
+      "summary": "Nvidia to invest $2 billion in neocloud Nebius amid AI data center push  Reuters..."
     },
     {
-      "title": "US insurers and hospitals turn to new AI for age-old battle over charges vs payments - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXQ4YkZPbVNES0k1MGl3TDU2ci1XVWRtd2ZvYkpFcldiV1ZSbnRkbXNJUjluckhYODVxZkVCUnp6VmNUbWtGQlZMdzVsMzllM2k0ZGNPQjU5d1czX09NRlNIX0Vid3NTWEJ4MnBhRUZzSkxFLVVDQk9NRW0zZUpPclpPczc3ZzNBb0dNd25HNURkU1VodV9IUUNPM2RSX0lfNnZTcGhFOXNrYWZZSk1xVDhacXo3bl9CZ2duRXRLRkpTSjNT?oc=5",
-      "date": "2026-03-12 10:08",
-      "summary": "US insurers and hospitals turn to new AI for age-old battle over charges vs payments  Reuters..."
+      "title": "Atlassian to cut roughly 10% jobs in pivot to AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0NVQXh2dG9kb3h4MGMweHFCdkVhQlBiSWtHVXpDczhkV2RlZHpyYnhHSGhkQlJZT3dDVTQwUHlPZEE1SVFEUGh4bXZaY2l5WHVXZFMxUVJvSldFc2ZYMzhBaURCTzVBXzFRYkhaWWtCY2NxZDZsOVlJRlE0blZoTVBIUERhLU0xV1YxRnFUVHA0dDEwUEE?oc=5",
+      "date": "2026-03-11 21:26",
+      "summary": "Atlassian to cut roughly 10% jobs in pivot to AI  Reuters..."
     },
     {
       "title": "Software companies fight back against fears that AI will kill them - Reuters",
@@ -217,10 +217,10 @@
       "summary": "Software companies fight back against fears that AI will kill them  Reuters..."
     },
     {
-      "title": "Atlassian to cut roughly 10% jobs in pivot to AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0NVQXh2dG9kb3h4MGMweHFCdkVhQlBiSWtHVXpDczhkV2RlZHpyYnhHSGhkQlJZT3dDVTQwUHlPZEE1SVFEUGh4bXZaY2l5WHVXZFMxUVJvSldFc2ZYMzhBaURCTzVBXzFRYkhaWWtCY2NxZDZsOVlJRlE0blZoTVBIUERhLU0xV1YxRnFUVHA0dDEwUEE?oc=5",
-      "date": "2026-03-11 21:26",
-      "summary": "Atlassian to cut roughly 10% jobs in pivot to AI  Reuters..."
+      "title": "US insurers and hospitals turn to new AI for age-old battle over charges vs payments - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXQ4YkZPbVNES0k1MGl3TDU2ci1XVWRtd2ZvYkpFcldiV1ZSbnRkbXNJUjluckhYODVxZkVCUnp6VmNUbWtGQlZMdzVsMzllM2k0ZGNPQjU5d1czX09NRlNIX0Vid3NTWEJ4MnBhRUZzSkxFLVVDQk9NRW0zZUpPclpPczc3ZzNBb0dNd25HNURkU1VodV9IUUNPM2RSX0lfNnZTcGhFOXNrYWZZSk1xVDhacXo3bl9CZ2duRXRLRkpTSjNT?oc=5",
+      "date": "2026-03-12 10:08",
+      "summary": "US insurers and hospitals turn to new AI for age-old battle over charges vs payments  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
+      "title": "Wetlands in Brazil's Cerrado are carbon-storage powerhouses",
+      "link": "https://phys.org/news/2026-03-wetlands-brazil-cerrado-carbon-storage.html",
+      "date": "2026-03-12 14:00",
+      "summary": "The Amazon rainforest is famous for storing massive amounts of carbon in its trees and soils, helping regulate the global climate...."
+    },
+    {
+      "title": "Gut microbes: The secret to squirrel hibernation",
+      "link": "https://phys.org/news/2026-03-gut-microbes-secret-squirrel-hibernation.html",
+      "date": "2026-03-12 13:40",
+      "summary": "When winter sets in and food becomes scarce, some mammals hibernate, entering a state of deep rest that slashes their energy needs..."
+    },
+    {
+      "title": "Researcher uncovers Zoroastrian 'ripples' in Jewish documents from ancient Egypt",
+      "link": "https://phys.org/news/2026-03-uncovers-zoroastrian-ripples-jewish-documents.html",
+      "date": "2026-03-12 13:20",
+      "summary": "In a study published in the journal Iran, researcher Gad Barnea has uncovered new evidence suggesting that Zoroastrian religious p..."
+    },
+    {
+      "title": "Selfish sperm hijack Overdrive gene to kill healthy rivals",
+      "link": "https://phys.org/news/2026-03-selfish-sperm-hijack-overdrive-gene.html",
+      "date": "2026-03-12 13:00",
+      "summary": "A new University of Utah-led study has discovered the mechanism behind a decades-old evolutionary mystery—how \"selfish chromosomes..."
+    },
+    {
       "title": "Study maps four flood model types and urges hybrid approaches to improve forecasts",
       "link": "https://phys.org/news/2026-03-urges-hybrid-approaches.html",
       "date": "2026-03-12 11:00",
       "summary": "Before rain begins to fall, scientists and engineers can predict where a storm might cause flooding thanks to advanced modeling an..."
-    },
-    {
-      "title": "Fortified salad packs a healthy punch to meet a growing vitamin B12 need",
-      "link": "https://phys.org/news/2026-03-fortified-salad-healthy-vitamin-b12.html",
-      "date": "2026-03-12 10:00",
-      "summary": "A pioneering research-industry partnership has used advances in indoor farming technology to grow pea shoots fortified with vitami..."
-    },
-    {
-      "title": "Failed experiment leads to surprise drug development breakthrough",
-      "link": "https://phys.org/news/2026-03-drug-breakthrough.html",
-      "date": "2026-03-12 10:00",
-      "summary": "Scientists at the University of Cambridge have developed a new way to alter complex drug molecules using light rather than toxic c..."
-    },
-    {
-      "title": "Caught but not eaten: Smaller insects more likely to escape catfish mouths",
-      "link": "https://phys.org/news/2026-03-caught-eaten-smaller-insects-catfish.html",
-      "date": "2026-03-12 10:00",
-      "summary": "A Kobe University study shows that small aquatic beetles survive catfish attacks by resisting ingestion inside the catfish's mouth..."
-    },
-    {
-      "title": "Old NASA science satellite plunges back to Earth",
-      "link": "https://phys.org/news/2026-03-nasa-science-satellite-plunges-earth.html",
-      "date": "2026-03-12 09:08",
-      "summary": "An old NASA science satellite plunged uncontrolled from orbit and reentered over the Pacific on Wednesday...."
     }
   ],
   "The Guardian Edu": [
@@ -321,34 +321,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Hong Kong’s John Lee pledges to align with China’s new 5-year plan",
+      "title": "Man injured after lithium battery catches fire on Hong Kong bus",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3346407/man-injured-after-lithium-battery-catches-fire-hong-kong-bus?utm_source=rss_feed",
+      "date": "2026-03-12 13:43",
+      "summary": "A man was injured on Thursday evening after a lithium battery he was carrying caught fire on a Hong Kong bus in Tsuen Wan, filling..."
+    },
+    {
+      "title": "Robot ‘arrested’ after elderly woman startled and sent to hospital in Macau",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3346405/robot-arrested-after-elderly-woman-startled-and-sent-hospital-macau?utm_source=rss_feed",
+      "date": "2026-03-12 13:09",
+      "summary": "An elderly woman was taken to hospital in Macau after being “frightened” by a humanoid robot that abruptly appeared behind her bef..."
+    },
+    {
+      "title": "Hong Kong’s John Lee pledges to align with nation’s new 5-year plan",
       "link": "https://www.scmp.com/news/hong-kong/politics/article/3346399/hong-kongs-john-lee-pledges-align-chinas-new-5-year-plan?utm_source=rss_feed",
       "date": "2026-03-12 12:13",
-      "summary": "Hong Kong’s leader has pledged to align with national strategies outlined in China’s latest five-year plan and transform the city’..."
+      "summary": "Hong Kong’s leader has pledged to align with national strategies outlined in the country’s latest five-year plan and transform the..."
     },
     {
       "title": "More Hong Kong drivers head to mainland China to refuel as oil prices rise",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3346395/more-hong-kong-drivers-head-mainland-china-refuel-amid-surging-oil-prices?utm_source=rss_feed",
       "date": "2026-03-12 11:44",
-      "summary": "Hong Kong drivers are increasingly heading to mainland China to replenish their tanks, while city authorities continue to crack do..."
+      "summary": "Hong Kong drivers are increasingly heading to mainland China to replenish their tanks as global oil prices surge, while the city’s..."
     },
     {
       "title": "Hong Kong’s Wealth for Good Summit to highlight AI, robotics, biotech opportunities",
       "link": "https://www.scmp.com/business/article/3346393/hong-kongs-wealth-good-summit-highlight-ai-robotics-biotech-opportunities?utm_source=rss_feed",
       "date": "2026-03-12 11:33",
       "summary": "As innovations arise from the artificial intelligence, robotics and biotechnology sectors, holders of family capital from around t..."
-    },
-    {
-      "title": "Former Hong Kong lawmaker Regina Ip swaps policy for photo cards at ComplexCon",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3346389/former-hong-kong-lawmaker-regina-ip-swaps-policy-photo-cards-complexcon?utm_source=rss_feed",
-      "date": "2026-03-12 11:13",
-      "summary": "Former Hong Kong lawmaker Regina Ip Lau Suk-yee will hold a fan meet-and-greet at this year’s ComplexCon in the city, underscoring..."
-    },
-    {
-      "title": "Impact report for border crossing revamp approved despite concerns over temple",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3346387/impact-report-border-crossing-revamp-approved-despite-concerns-temple?utm_source=rss_feed",
-      "date": "2026-03-12 11:04",
-      "summary": "Heritage advisers have approved an impact report for the redevelopment of Hong Kong’s Sha Tau Kok border checkpoint despite concer..."
     }
   ],
   "New Scientist": [
