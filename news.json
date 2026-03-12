@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "3 Questions: Fortifying our planetary defenses",
+      "link": "https://news.mit.edu/2026/3-questions-fortifying-our-planetary-defenses-0312",
+      "date": "2026-03-12 04:00",
+      "summary": "MIT astronomers are developing a new way to detect, monitor, and mitigate the threats posed by smaller asteroids to our critical s..."
+    },
+    {
       "title": "3 Questions: On the future of AI and the mathematical and physical sciences",
       "link": "https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311",
       "date": "2026-03-11 22:30",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/understanding-how-marine-snow-acts-as-carbon-sink-0309",
       "date": "2026-03-09 19:00",
       "summary": "A new study finds hitchhiking bacteria dissolve essential ballast in ubiquitous “snow” particles, which could counteract the ocean..."
-    },
-    {
-      "title": "Neurons receive precisely tailored teaching signals as we learn",
-      "link": "https://news.mit.edu/2026/neurons-receive-precisely-tailored-teaching-signals-as-we-learn-0309",
-      "date": "2026-03-09 16:50",
-      "summary": "New work suggests the brain can deliver neuron-specific feedback during learning — resembling the error signals that drive machine..."
     }
   ],
   "Harvard Gazette": [
@@ -45,16 +45,16 @@
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
     },
     {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
-      "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
-    },
-    {
       "title": "How academia can help America heal - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
       "summary": "How academia can help America heal  Harvard Gazette..."
+    },
+    {
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
+      "date": "2025-10-23 07:00",
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     },
     {
       "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
@@ -193,34 +193,34 @@
   ],
   "Reuters AI": [
     {
-      "title": "Atlassian to cut roughly 10% jobs in pivot to AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0NVQXh2dG9kb3h4MGMweHFCdkVhQlBiSWtHVXpDczhkV2RlZHpyYnhHSGhkQlJZT3dDVTQwUHlPZEE1SVFEUGh4bXZaY2l5WHVXZFMxUVJvSldFc2ZYMzhBaURCTzVBXzFRYkhaWWtCY2NxZDZsOVlJRlE0blZoTVBIUERhLU0xV1YxRnFUVHA0dDEwUEE?oc=5",
-      "date": "2026-03-11 21:26",
-      "summary": "Atlassian to cut roughly 10% jobs in pivot to AI  Reuters..."
-    },
-    {
-      "title": "China warns state-owned firms and government agencies against OpenClaw AI, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblliUGpDbm9fVzQ4YWJ5bDhvbUIxM2FFS0dMZVhnS1NoaHh4eG1Fdmt2TGVjTnlXaDdDZVlmZGpxR2szQVNfRFJqOUE3b3U0WGZ1eFJxdkhrVFNTVU5fVGJVanRiMWpiUTkydnZuMWlXakVSeV9GaU9EQnJtQ1AtbUlaUlhncWdnN0lkNkRUMXVtUnBvcTh1bzJhRHdiRUcxX1JlU0V2LVJlNEtSYmlHemk2U0RYWGhfSmZvRWNMajc?oc=5",
-      "date": "2026-03-11 04:05",
-      "summary": "China warns state-owned firms and government agencies against OpenClaw AI, sources say  Reuters..."
-    },
-    {
       "title": "Meta unveils plans for batch of in-house AI chips - Reuters",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclpONnFTNEtfX3RGeUFPZkJwNG5USkFtd3lBa3NjT3JSRXZoZEFtMkRCSDFwZTFmTGJlZ1BGTE1mTUtuSndtWU4tNllUZVRpNWdwYjVWVV9yS3F5NktwY0F3V2d2VG9EMGlPMFZ5bXFLbzNXRDRYc0lVU3BRMFNLRXJHOW1DdWQyUlV0TkFJX2FzdGVlellvX2pCd0huZw?oc=5",
       "date": "2026-03-11 14:01",
       "summary": "Meta unveils plans for batch of in-house AI chips  Reuters..."
     },
     {
-      "title": "Anthropic's case against the government: what the AI company says happened - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSXk4OWE4clhUZXVpeHRSMDlpcFhySmRGMFFHaERZVlBaSTFOcjZId284N3M1RWhlY3JTTUdRZExKRk92NlJ0UU1ZbHRHdTFET08xaXBVTEN2em9mLXI2bThGaldzVUIwdVhCV0x6NVo0MkZCMmMzaVp3QWFSbi12Rl9kZUdlN3ZBTTFhWWVIenJON3FuMkJXOWpDOC1JRWg0MlpEZmtnNHNmNFFVQnBoR08xdHlhd25L?oc=5",
-      "date": "2026-03-09 20:27",
-      "summary": "Anthropic's case against the government: what the AI company says happened  Reuters..."
+      "title": "Canal+ taps Google and OpenAI for AI-driven video production, content recommendation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXlVLTFzZVdRT0pZZG9janBuc29GUENDZXZpSkg1UEcwWGRjNkg2dzZaT2FLaTI3OUtHV3FpckVxUVoxMkY1Mk5pRGpqY180N1dQODcwX1ZVa3I0ejdPanBSalhzak9DZDNQb1hsclZqMTU4OWpzazZCSTg2X25SdmJvbXdXdWNZMUNUQnR5Sk1GQkdWUVBJb1RpWmZEY2RURlhKYUlKTk5zbEVsaHBjSEF2alRwMUQxQmdORQ?oc=5",
+      "date": "2026-03-11 07:06",
+      "summary": "Canal+ taps Google and OpenAI for AI-driven video production, content recommendation  Reuters..."
     },
     {
-      "title": "Amazon wins order blocking access for Perplexity's AI shopping 'agent' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcU96WE5yZHFQd3RoZy1uc204bnlRcVZ1bVdhdUJPcXVwSzNKMUZhMzBiWW9tMXF2NEJMQ1pRRkNVcFJjY2VHT2VNcEFhUEo4NjJqajMzTE9DUTNyelJTWkF2WU9WbHNUbFBiaXNOLVZwNUo3YUQ0ZzhDbVUzQkpURVdBUDhnR3NxdE0tZXhhRmRibG0wSE5YUmoxT3N5VUtlQUFLaVdiZkNWcW5VZklSOFhlQUlKX0U?oc=5",
-      "date": "2026-03-10 20:42",
-      "summary": "Amazon wins order blocking access for Perplexity's AI shopping 'agent'  Reuters..."
+      "title": "Atlassian to cut roughly 10% jobs in pivot to AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0NVQXh2dG9kb3h4MGMweHFCdkVhQlBiSWtHVXpDczhkV2RlZHpyYnhHSGhkQlJZT3dDVTQwUHlPZEE1SVFEUGh4bXZaY2l5WHVXZFMxUVJvSldFc2ZYMzhBaURCTzVBXzFRYkhaWWtCY2NxZDZsOVlJRlE0blZoTVBIUERhLU0xV1YxRnFUVHA0dDEwUEE?oc=5",
+      "date": "2026-03-11 21:26",
+      "summary": "Atlassian to cut roughly 10% jobs in pivot to AI  Reuters..."
+    },
+    {
+      "title": "Synopsys rolls out new software tools for designing AI chips - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWndsMVRRTjNKeVJWTC1wb1VKdHF6dE5zZEV3dHlWUVFCV1BqQ0xEcGpRZ1NZNVZ4bTItcEtmRHhudktDR290VGxiYk82cXp3ZDJvNEN3TDh5MllTTTB5Um9YaVV0Z0VIRUNHY1oxa3J0bkxLcU9MSTQ1WE9lMklsNnJrZDBmMHlWdE1XZWtxTFRMeE1mWnAzZ0RKQ05rNW5vaU1z?oc=5",
+      "date": "2026-03-11 16:02",
+      "summary": "Synopsys rolls out new software tools for designing AI chips  Reuters..."
+    },
+    {
+      "title": "China warns state-owned firms and government agencies against OpenClaw AI, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblliUGpDbm9fVzQ4YWJ5bDhvbUIxM2FFS0dMZVhnS1NoaHh4eG1Fdmt2TGVjTnlXaDdDZVlmZGpxR2szQVNfRFJqOUE3b3U0WGZ1eFJxdkhrVFNTVU5fVGJVanRiMWpiUTkydnZuMWlXakVSeV9GaU9EQnJtQ1AtbUlaUlhncWdnN0lkNkRUMXVtUnBvcTh1bzJhRHdiRUcxX1JlU0V2LVJlNEtSYmlHemk2U0RYWGhfSmZvRWNMajc?oc=5",
+      "date": "2026-03-11 04:05",
+      "summary": "China warns state-owned firms and government agencies against OpenClaw AI, sources say  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -321,10 +321,10 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Multi-car crash on major bridge injures 10, shuts Hong Kong airport-bound lanes",
+      "title": "Man arrested after Hong Kong bridge crash injures 10, disrupts airport-bound traffic",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3346283/multi-car-crash-major-bridge-injures-10-shuts-hong-kong-airport-bound-lanes?utm_source=rss_feed",
       "date": "2026-03-12 01:39",
-      "summary": "More than 10 cars collided on a major bridge on Thursday morning, injuring 10 people and closing all lanes leading to the Hong Kon..."
+      "summary": "A man has been arrested after a collision involving more than 10 cars on a major bridge injured 10 people and resulted in the clos..."
     },
     {
       "title": "Graham A. Harris, a giant of the Hong Kong Bar",
