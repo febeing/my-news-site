@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Can AI help predict which heart-failure patients will worsen within a year?",
+      "link": "https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312",
+      "date": "2026-03-12 21:30",
+      "summary": "Scientists at MIT, Mass General Brigham, and Harvard Medical School developed a deep-learning model to forecast a patient’s heart ..."
+    },
+    {
       "title": "3 Questions: Fortifying our planetary defenses",
       "link": "https://news.mit.edu/2026/3-questions-fortifying-our-planetary-defenses-0312",
       "date": "2026-03-12 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311",
       "date": "2026-03-11 04:00",
       "summary": "A new hybrid system could help robots navigate in changing environments or increase the efficiency of multirobot assembly teams...."
-    },
-    {
-      "title": "Understanding how “marine snow” acts as a carbon sink",
-      "link": "https://news.mit.edu/2026/understanding-how-marine-snow-acts-as-carbon-sink-0309",
-      "date": "2026-03-09 19:00",
-      "summary": "A new study finds hitchhiking bacteria dissolve essential ballast in ubiquitous “snow” particles, which could counteract the ocean..."
     }
   ],
   "Harvard Gazette": [
@@ -65,16 +65,16 @@
   ],
   "Stanford News": [
     {
+      "title": "Watching a lifetime in motion reveals the architecture of aging - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYnJWemdNYTRUUEdjSHVTcUg2NHpLZ1h3UkR2cW40RzNpRlRROElic0REcjJ0NHM3ZTVqYVlza00yVzVXZkxoRXZNUlpPR0dwU2xpUmExOWtaRk9xVkg1MktxV3M1N0JKc3JUaGd5QjhhR19JNnlWV0lZcFZYUHRFbVREc08wenVMTHd4R0IzYw?oc=5",
+      "date": "2026-03-12 20:40",
+      "summary": "Watching a lifetime in motion reveals the architecture of aging  Stanford University..."
+    },
+    {
       "title": "Why can some people eat food that others are allergic to? - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlozaXdjNl9WWjd6eXZHOVE2bi00VmY1RUQ2Nnh1MlJDWEtRYVVJNEZWYm9LcHYyb3hHbS0yLTQyeGV4LTF1LUtheS0yTmVhdFVoYWR5Z1lVMHVvNXpGNGdqM18wTDhaRHNSTUQyOS1HWU1pZkRQNE0wTDRMSHNPREdEcW1wQ3UtWVAycl9uME0tYm9TT1FMTC13?oc=5",
       "date": "2026-03-11 19:09",
       "summary": "Why can some people eat food that others are allergic to?  Stanford University..."
-    },
-    {
-      "title": "Pack winning streak snapped at Stanford - University of Nevada Athletics",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcldyWU1wSzBlTWVmQVdkY3R6anpCOTUzamkxZmFqSXFaYndqbFdMOTQxZHZQR2F6RUtkMzNtVy02YU1uNnNoQ2paXzdQNmgtUUhSZmRib0tPNjMzZHROVnhSOGo1NkRXT0JGdzduS1VCTGRqczM2OUdhcUNFSnpVUzBadmFabm9TOUZHUDU0LTNrUWRTbmNrLVRtSQ?oc=5",
-      "date": "2026-03-12 06:07",
-      "summary": "Pack winning streak snapped at Stanford  University of Nevada Athletics..."
     },
     {
       "title": "Pitt Kicks Off Conference Play at Stanford - pittsburghpanthers.com",
@@ -83,10 +83,10 @@
       "summary": "Pitt Kicks Off Conference Play at Stanford  pittsburghpanthers.com..."
     },
     {
-      "title": "Beach Dawgs Take on Ranked Opponents at Stanford Invitational - University of Washington Athletics",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXNXWUxRcWN2QjVLRzNBWXk5Q3ZyUi1kN0dyOEw5empIUDVQUlN1bVNFQlRhZ25NYmh1WDFWeGYxQUdmdGFhVXpPaExCLW9fWXhNcWNGLUI0THBOTnAwTmhUeHdwUWtnZ3JyYU5FcVJrWWNEV3diTWlNRVEyYmVUV0xzVHR0MG1oakF5WVZyQ1kzWWtBQTltU0M3MmpUcnc?oc=5",
-      "date": "2026-03-12 17:26",
-      "summary": "Beach Dawgs Take on Ranked Opponents at Stanford Invitational  University of Washington Athletics..."
+      "title": "Pack winning streak snapped at Stanford - University of Nevada Athletics",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcldyWU1wSzBlTWVmQVdkY3R6anpCOTUzamkxZmFqSXFaYndqbFdMOTQxZHZQR2F6RUtkMzNtVy02YU1uNnNoQ2paXzdQNmgtUUhSZmRib0tPNjMzZHROVnhSOGo1NkRXT0JGdzduS1VCTGRqczM2OUdhcUNFSnpVUzBadmFabm9TOUZHUDU0LTNrUWRTbmNrLVRtSQ?oc=5",
+      "date": "2026-03-12 06:07",
+      "summary": "Pack winning streak snapped at Stanford  University of Nevada Athletics..."
     },
     {
       "title": "College leaders reflect on the future of higher education - Stanford University",
@@ -231,16 +231,16 @@
       "summary": "Pragmatic by design: Engineering AI for the real world  MIT Technology Review..."
     },
     {
-      "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWldQeHpYcFVnNGJrV2QwbVpXZUhza2Z4UmpLOFo0SjJ1bUNkWTd2VkdyOVRPSDNnY1YzckpaMzQ5VmM0eEtscUtwd2pUejFMVG9kTGY1TmJoZmI2QTJsQ1FDTVBrY00tZUhoVGtZeFRhd1MwN2lGTk5hWk5DNEFJYkFpUWtWd0xzSE5NYTJXYldXaXhzdkhGV2RHamRUOXJhakd3NGZzWVRWUzTSAbABQVVfeXFMTTh2UURxX205R2JiVGxFM3k2am1CM2pDWXlLUm5aWVNVWklEcnl3LW5DZW9adkMwN0lzOHlNSFl5UEtHLWJBaFlKVDhXdlhZWnE0Um1UTWY2Q2d1bHhWbTJDVWgxeFZGaVZyU0ZiaU5WY0ZYWTNCVFBqa1I1X0FTUzRZWVUtaVVmQ3Q3RzBJbGxaWHNoN0NOZFMwaHF4R085d1lxbEQtMi1lMG9ISGNWXzc?oc=5",
-      "date": "2026-03-10 13:47",
-      "summary": "How Pokémon Go is giving delivery robots an inch-perfect view of the world  MIT Technology Review..."
-    },
-    {
       "title": "Brutal times for the US battery industry - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yd25OVlo1OXlpQy1nQjZYa1kwTFpZZEZOaENRWTNuTEU1V3pDU2VKUnVTNnZpVmEtSkd2VmdEbkZlUGdPRDJxMGNETlU5aFl0cHF1azFGaUY4d0xpLUxybVlGOExwR0pKUHd2Mi1BZ1hOM2E3Z0x3VFpBZlLSAYIBQVVfeXFMTjluSkVQSWxiVl9pa2luaF9OcFRiM3YteTlVd0tKcG5pdEVVSjdDYXgtSlc0TmtGRGREbjFvc2hKZDl5d2RGbXFJT3VTc1B1WVoxd3pUUWxCb094LU42emc1M2ZLMnBnQU4zMVZvYmpBWEEtenRhUVJGLXhDbEJGNW9kZw?oc=5",
       "date": "2026-03-12 10:00",
       "summary": "Brutal times for the US battery industry  MIT Technology Review..."
+    },
+    {
+      "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWldQeHpYcFVnNGJrV2QwbVpXZUhza2Z4UmpLOFo0SjJ1bUNkWTd2VkdyOVRPSDNnY1YzckpaMzQ5VmM0eEtscUtwd2pUejFMVG9kTGY1TmJoZmI2QTJsQ1FDTVBrY00tZUhoVGtZeFRhd1MwN2lGTk5hWk5DNEFJYkFpUWtWd0xzSE5NYTJXYldXaXhzdkhGV2RHamRUOXJhakd3NGZzWVRWUzTSAbABQVVfeXFMTTh2UURxX205R2JiVGxFM3k2am1CM2pDWXlLUm5aWVNVWklEcnl3LW5DZW9adkMwN0lzOHlNSFl5UEtHLWJBaFlKVDhXdlhZWnE0Um1UTWY2Q2d1bHhWbTJDVWgxeFZGaVZyU0ZiaU5WY0ZYWTNCVFBqa1I1X0FTUzRZWVUtaVVmQ3Q3RzBJbGxaWHNoN0NOZFMwaHF4R085d1lxbEQtMi1lMG9ISGNWXzc?oc=5",
+      "date": "2026-03-10 13:47",
+      "summary": "How Pokémon Go is giving delivery robots an inch-perfect view of the world  MIT Technology Review..."
     },
     {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Galactic islands of tranquility:  'Little red dots' may have brewed life's building blocks",
-      "link": "https://phys.org/news/2026-03-galactic-islands-tranquility-red-dots.html",
-      "date": "2026-03-12 20:20",
-      "summary": "Astronomers have found that both the core of our Milky Way and the earliest proto-galaxies in the universe share a surprising trai..."
+      "title": "Local droplet etching yields more symmetric quantum dots for integrated photonics",
+      "link": "https://phys.org/news/2026-03-local-droplet-etching-yields-symmetric.html",
+      "date": "2026-03-12 21:30",
+      "summary": "Light-based quantum technologies, such as quantum communication and photonic quantum computing, require reliable sources of indivi..."
     },
     {
-      "title": "New study of global reef growth over past 12,000 years offers insights into impact of rising ocean temperatures",
-      "link": "https://phys.org/news/2026-03-global-reef-growth-years-insights.html",
-      "date": "2026-03-12 20:20",
-      "summary": "Coral reefs over the past 12,000 years grew best when the ocean temperature was 77 degrees Fahrenheit (25 degrees Celsius), accord..."
+      "title": "Fantastic fungi found with ability to freeze water",
+      "link": "https://phys.org/news/2026-03-fantastic-fungi-ability.html",
+      "date": "2026-03-12 21:20",
+      "summary": "Can fungi influence the weather? Turns out, they just might. An international group of researchers that includes Virginia Tech's X..."
     },
     {
-      "title": "Turning penicillin into a lethal force against bacteria again",
-      "link": "https://phys.org/news/2026-03-penicillin-lethal-bacteria.html",
-      "date": "2026-03-12 20:10",
-      "summary": "When many disease-causing bacteria encounter penicillin, they are not always destroyed right away, shifting into a temporary survi..."
+      "title": "Phone or affection: Study explores effect of phubbing on relationships",
+      "link": "https://phys.org/news/2026-03-affection-explores-effect-phubbing-relationships.html",
+      "date": "2026-03-12 21:10",
+      "summary": "Is your phone use hurting your relationship? A study from researchers at the University of Connecticut and Columbia University pub..."
     },
     {
-      "title": "How semiconductor electrodes can achieve green hydrogen production",
-      "link": "https://phys.org/news/2026-03-semiconductor-electrodes-green-hydrogen-production.html",
-      "date": "2026-03-12 20:10",
-      "summary": "Researchers at the University of Jyväskylä (Finland) have led an international collaboration to study how semiconductor materials ..."
+      "title": "Seals and sea lions provide clues to evolution of vocalization",
+      "link": "https://phys.org/news/2026-03-sea-lions-clues-evolution-vocalization.html",
+      "date": "2026-03-12 21:10",
+      "summary": "Neuroscientists have uncovered new insights into a key evolutionary question: Why can humans talk when most animals can't? The jou..."
     },
     {
-      "title": "The bizarre sex life of mayflies: Micro-CT scans reveal ins and outs of swarm Kamasutra",
-      "link": "https://phys.org/news/2026-03-bizarre-sex-life-mayflies-micro.html",
-      "date": "2026-03-12 20:00",
-      "summary": "A new study on mayflies of the genus Ecdyonurus illustrates just how multifaceted and surprising reproductive behavior in nature c..."
+      "title": "AI accelerates elucidation of nuclear forces with explosive neutron star data",
+      "link": "https://phys.org/news/2026-03-ai-elucidation-nuclear-explosive-neutron.html",
+      "date": "2026-03-12 21:00",
+      "summary": "A research team is using astrophysical explosions to understand the mysterious forces at work in some of the smallest building blo..."
     }
   ],
   "The Guardian Edu": [
