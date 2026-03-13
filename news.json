@@ -65,16 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "Why can some people eat food that others are allergic to? - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlozaXdjNl9WWjd6eXZHOVE2bi00VmY1RUQ2Nnh1MlJDWEtRYVVJNEZWYm9LcHYyb3hHbS0yLTQyeGV4LTF1LUtheS0yTmVhdFVoYWR5Z1lVMHVvNXpGNGdqM18wTDhaRHNSTUQyOS1HWU1pZkRQNE0wTDRMSHNPREdEcW1wQ3UtWVAycl9uME0tYm9TT1FMTC13?oc=5",
-      "date": "2026-03-11 19:09",
-      "summary": "Why can some people eat food that others are allergic to?  Stanford University..."
-    },
-    {
       "title": "Watching a lifetime in motion reveals the architecture of aging - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYnJWemdNYTRUUEdjSHVTcUg2NHpLZ1h3UkR2cW40RzNpRlRROElic0REcjJ0NHM3ZTVqYVlza00yVzVXZkxoRXZNUlpPR0dwU2xpUmExOWtaRk9xVkg1MktxV3M1N0JKc3JUaGd5QjhhR19JNnlWV0lZcFZYUHRFbVREc08wenVMTHd4R0IzYw?oc=5",
       "date": "2026-03-12 20:40",
       "summary": "Watching a lifetime in motion reveals the architecture of aging  Stanford University..."
+    },
+    {
+      "title": "Why can some people eat food that others are allergic to? - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlozaXdjNl9WWjd6eXZHOVE2bi00VmY1RUQ2Nnh1MlJDWEtRYVVJNEZWYm9LcHYyb3hHbS0yLTQyeGV4LTF1LUtheS0yTmVhdFVoYWR5Z1lVMHVvNXpGNGdqM18wTDhaRHNSTUQyOS1HWU1pZkRQNE0wTDRMSHNPREdEcW1wQ3UtWVAycl9uME0tYm9TT1FMTC13?oc=5",
+      "date": "2026-03-11 19:09",
+      "summary": "Why can some people eat food that others are allergic to?  Stanford University..."
     },
     {
       "title": "College leaders reflect on the future of higher education - Stanford University",
@@ -193,6 +193,12 @@
   ],
   "Reuters AI": [
     {
+      "title": "Software companies fight back against fears that AI will kill them - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3UzejNBaHdLZDJxd0xmaGNKYVdpLU5rNi1VMFpnRW5LZjVvWGtGaWItbVVYZjhpaEdaNTQxMVctbzc2UlY1NFhwTnZLS0J1SkN3bWpGVVh6bmM3ZmpFMVBnQ1VpNmplb1Zpa0h6cjJyZ2ZISjVBZnVRMkpJRjBOc2ZHOVQ0cEtOVGRTOFk4NGpWUjBNSE4yaG5WMG9Wc0M5N0Z4d2QySUxfcDloYl9lUQ?oc=5",
+      "date": "2026-03-12 10:03",
+      "summary": "Software companies fight back against fears that AI will kill them  Reuters..."
+    },
+    {
       "title": "Meta unveils plans for batch of in-house AI chips - Reuters",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclpONnFTNEtfX3RGeUFPZkJwNG5USkFtd3lBa3NjT3JSRXZoZEFtMkRCSDFwZTFmTGJlZ1BGTE1mTUtuSndtWU4tNllUZVRpNWdwYjVWVV9yS3F5NktwY0F3V2d2VG9EMGlPMFZ5bXFLbzNXRDRYc0lVU3BRMFNLRXJHOW1DdWQyUlV0TkFJX2FzdGVlellvX2pCd0huZw?oc=5",
       "date": "2026-03-11 14:01",
@@ -205,22 +211,16 @@
       "summary": "Meta pushes AI model 'Avocado' rollout to May or later, NYT reports  Reuters..."
     },
     {
+      "title": "Ukraine opens battlefield data access to allies' AI models - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTnRpdE1mRmFzZG5NTnI4MXhBd2JpMTU5OEtndUlnbWVmVkxDUUVWX1lSaU1BVHotZWRfNVNrZTBaX0xnZFJjaF80MjFsaVFsNjNXVXYtU1F0X0RINzJSc0N0MnU5alhzOW00NnpjZEFzRVBIQ3l2azhWemp5ZW1nT2NRSlNINWgwZ01LbUZINWVEQkVCN1hvX2hOLXhfOUxzZnMwNDdLQ0Nzb25rNktKbGVKUTlmc3pN?oc=5",
+      "date": "2026-03-12 14:41",
+      "summary": "Ukraine opens battlefield data access to allies' AI models  Reuters..."
+    },
+    {
       "title": "Adobe's longtime CEO to exit role amid AI disruption, shares fall - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVFRaUEl2cFRnODBwSHI5dzlRWEFabXNXRG1OcGJkLU94T1F5bjdVOFlnLXpueFRTY2ZMM0lZSWtEVW9aZGVVTG5wMVB1LXAyNlAzM3Z0YmtLS241dHZPdHlEV2hwQWJmNDV3aU5WSXR2RlVTSFRqLTFLaGE0TFFwejJHOS02d1VidDhvTVdRODhUbWhQc2lVWk9rMmd4UTJyRDlJWnV3dk5WOFBubWNOQWZueWNpc0NaZFE?oc=5",
       "date": "2026-03-12 20:20",
       "summary": "Adobe's longtime CEO to exit role amid AI disruption, shares fall  Reuters..."
-    },
-    {
-      "title": "Chinese banks boost loans to tech sector as Beijing ramps up AI push - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaWpGaHV5cHAtUnF3NkJqWGZaZzNyS2NEempXdXRDWW11X0gxRFFvWEd2clZSa3lSd0x4YVEwa3JMaU9MTnpvam91OTVtdnZsTGxheHFENlQ4MWlFVkJLbW52SDVjWUJNRFNOb3podzJsQTZnbl9KT284UGNvREFvZ2E4Rl9kN1ZzaldaZWtTc2xHbmx2NXdGT2pNUm9TLVhjSzRrWXg5M2I2akl0Umc0SENsTkN1QQ?oc=5",
-      "date": "2026-03-12 23:04",
-      "summary": "Chinese banks boost loans to tech sector as Beijing ramps up AI push  Reuters..."
-    },
-    {
-      "title": "China's ByteDance gets access to top Nvidia AI chips, WSJ reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUXZISVhtSktGbXZlQkUtbFA2RVFZNlY5VkpKSldTY3A1STdJd0VPWEdLUU1sdDEwSzhmMnc5RlJhaDhnTGpKTEVwQXNEVjhQSUdOSUNKZGxDOURsX2dsRVhLOWQtMFRZX3hNUm5jZUE3bGJ0eWJaSmEzSmY1eVBucmVCQXhGazlFUUJ6YjRXU01RUk5fN1hpYlAtcWc2SlNHY3RCUFQ0M0lrY045TS1zQTRsXzNJZw?oc=5",
-      "date": "2026-03-13 03:13",
-      "summary": "China's ByteDance gets access to top Nvidia AI chips, WSJ reports  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,12 @@
   ],
   "Phys.org": [
     {
+      "title": "US weather to go nuts with blizzard, polar vortex, heat dome, atmospheric river all at once",
+      "link": "https://phys.org/news/2026-03-weather-nuts-blizzard-polar-vortex.html",
+      "date": "2026-03-13 09:10",
+      "summary": "Nearly every part of the United States is getting walloped by wild weather or just about to be...."
+    },
+    {
       "title": "A race against time to save Alpine ice cores that record medieval mining, fires, and volcanoes",
       "link": "https://phys.org/news/2026-03-alpine-ice-cores-medieval-volcanoes.html",
       "date": "2026-03-13 05:00",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-03-tolerant-wetland-crops-nature-recovery.html",
       "date": "2026-03-13 00:20",
       "summary": "Research led by the University of Cambridge and the RSPB shows that farming wetland-adapted crops on wetter peat—known as paludicu..."
-    },
-    {
-      "title": "Global observations reveal rapid reorganization of ocean nutrients",
-      "link": "https://phys.org/news/2026-03-global-reveal-rapid-ocean-nutrients.html",
-      "date": "2026-03-12 23:40",
-      "summary": "From coral reefs and kelp forests to the open ocean and deep-sea zones, nutrients that support phytoplankton growth and marine pro..."
     }
   ],
   "The Guardian Edu": [
@@ -353,12 +353,6 @@
   ],
   "New Scientist": [
     {
-      "title": "The race to solve the biggest problem in quantum computing",
-      "link": "https://www.newscientist.com/article/2518974-the-race-to-solve-the-biggest-problem-in-quantum-computing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-13 07:00",
-      "summary": "The errors that quantum computers make are holding the technology back. But recent progress in quantum error correction has excite..."
-    },
-    {
       "title": "We don’t know if AI-powered toys are safe, but they’re here anyway",
       "link": "https://www.newscientist.com/article/2518741-we-dont-know-if-ai-powered-toys-are-safe-but-theyre-here-anyway/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-13 00:01",
@@ -381,6 +375,12 @@
       "link": "https://www.newscientist.com/article/2519172-chemistry-may-not-be-the-killer-app-for-quantum-computers-after-all/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-12 17:00",
       "summary": "Two popular quantum computing algorithms for problems in chemistry may have very limited use even as quantum hardware improves..."
+    },
+    {
+      "title": "Why drug overdose deaths have suddenly plummeted in the US",
+      "link": "https://www.newscientist.com/article/2519030-why-drug-overdose-deaths-have-suddenly-plummeted-in-the-us/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-12 16:00",
+      "summary": "Fentanyl-related overdose deaths fell by nearly 30 per cent in the space of a year in the US, which could represent a significant ..."
     }
   ]
 }
