@@ -39,16 +39,16 @@
       "summary": "What if AI could help students learn, not just do assignments for them?  Harvard Gazette..."
     },
     {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
-      "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
-    },
-    {
       "title": "Harvard University Housing establishes new rents for 2026–2027 - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
       "date": "2026-01-23 08:00",
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
+    },
+    {
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
+      "date": "2025-10-23 07:00",
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     },
     {
       "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
@@ -77,16 +77,16 @@
       "summary": "Why can some people eat food that others are allergic to?  Stanford University..."
     },
     {
+      "title": "College leaders reflect on the future of higher education - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWJQZGxiUW0zUWNVR2F2QTdTUkc2aklFdkExS2FyZ1dvQ3ZRZWh5S2dmZnI0RU9mYUs3RXlLV1hFMnBoMDZqejliR1MwY1ZGUlkwS05IZ2VHeERhMFZrUXFoR1ZzVFRHOWdzTVBaWXFYUlBJNGtoOXlTTVprOVFrd2Y1SFk4SXNoRG05UU0tQ2o?oc=5",
+      "date": "2026-03-10 23:03",
+      "summary": "College leaders reflect on the future of higher education  Stanford University..."
+    },
+    {
       "title": "Beach Dawgs Take on Ranked Opponents at Stanford Invitational - University of Washington Athletics",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXy1heXZzUFJsQlU5eWxGanpNU3lsOVg2cDJFVVAxS0FXQlZwN3BrWXM2S0pZQldiQ0l4dzdpbkFUTWVmUUx2TjA0TDZXZEZ2T1JBWl85czZGVVRESEo1ZTA3R3lVWHV6U05UdTlLM21GSUFUT19fczdPVGh3Sk96WHlrTUVhZU96V09vQzczb0stWEdaZUNwQUZqS1hsMGc?oc=5",
       "date": "2026-03-12 20:26",
       "summary": "Beach Dawgs Take on Ranked Opponents at Stanford Invitational  University of Washington Athletics..."
-    },
-    {
-      "title": "Pitt Kicks Off Conference Play at Stanford - pittsburghpanthers.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ2pTc085WFJ5amZxOWNta1RuQklMMzlnNm90dUFKUHZCQnVad255NXJyaVZCV3ZXUHdNWGNyaU5GSUJ5TU9BUm1BQy0zdENsTkRra0ZKT1lfMEhjZXpjMjd6ZmFLYzBPYXhIUnJqcDlkbEhWZGdVbnlYOXREaXpmMkJlY1VTai1FV0kxWVNWRTlDT29XTE8wd1NsWFByZw?oc=5",
-      "date": "2026-03-12 19:01",
-      "summary": "Pitt Kicks Off Conference Play at Stanford  pittsburghpanthers.com..."
     },
     {
       "title": "Pack winning streak snapped at Stanford - University of Nevada Athletics",
@@ -193,16 +193,22 @@
   ],
   "Reuters AI": [
     {
+      "title": "US insurers and hospitals turn to new AI for age-old battle over charges vs payments - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXQ4YkZPbVNES0k1MGl3TDU2ci1XVWRtd2ZvYkpFcldiV1ZSbnRkbXNJUjluckhYODVxZkVCUnp6VmNUbWtGQlZMdzVsMzllM2k0ZGNPQjU5d1czX09NRlNIX0Vid3NTWEJ4MnBhRUZzSkxFLVVDQk9NRW0zZUpPclpPczc3ZzNBb0dNd25HNURkU1VodV9IUUNPM2RSX0lfNnZTcGhFOXNrYWZZSk1xVDhacXo3bl9CZ2duRXRLRkpTSjNT?oc=5",
+      "date": "2026-03-12 10:08",
+      "summary": "US insurers and hospitals turn to new AI for age-old battle over charges vs payments  Reuters..."
+    },
+    {
       "title": "Software companies fight back against fears that AI will kill them - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3UzejNBaHdLZDJxd0xmaGNKYVdpLU5rNi1VMFpnRW5LZjVvWGtGaWItbVVYZjhpaEdaNTQxMVctbzc2UlY1NFhwTnZLS0J1SkN3bWpGVVh6bmM3ZmpFMVBnQ1VpNmplb1Zpa0h6cjJyZ2ZISjVBZnVRMkpJRjBOc2ZHOVQ0cEtOVGRTOFk4NGpWUjBNSE4yaG5WMG9Wc0M5N0Z4d2QySUxfcDloYl9lUQ?oc=5",
       "date": "2026-03-12 10:03",
       "summary": "Software companies fight back against fears that AI will kill them  Reuters..."
     },
     {
-      "title": "Meta unveils plans for batch of in-house AI chips - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclpONnFTNEtfX3RGeUFPZkJwNG5USkFtd3lBa3NjT3JSRXZoZEFtMkRCSDFwZTFmTGJlZ1BGTE1mTUtuSndtWU4tNllUZVRpNWdwYjVWVV9yS3F5NktwY0F3V2d2VG9EMGlPMFZ5bXFLbzNXRDRYc0lVU3BRMFNLRXJHOW1DdWQyUlV0TkFJX2FzdGVlellvX2pCd0huZw?oc=5",
-      "date": "2026-03-11 14:01",
-      "summary": "Meta unveils plans for batch of in-house AI chips  Reuters..."
+      "title": "Meta delays rollout of new AI model code-named 'Avocado,' NYT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTG9tYkItUE5yT0NNLWMwcTg2bXkzRjNoalJSTzFVTEVuTGlKeXR3SGViZV9nNzljZlNSa3VzUW1rRUgxd080Rk1zXzJ4eEh4N0JsU2p4a3A0OGhnTzNVNlJTZ3VTYmJIVkJaNHlqNjhLMXctLXY0Uk1HektvZzNPZkxlRDRtT3ZYM0dlaDN2QkNYbGlNeEE?oc=5",
+      "date": "2026-03-12 23:56",
+      "summary": "Meta delays rollout of new AI model code-named 'Avocado,' NYT reports  Reuters..."
     },
     {
       "title": "Atlassian to cut roughly 10% jobs in pivot to AI - Reuters",
@@ -211,24 +217,18 @@
       "summary": "Atlassian to cut roughly 10% jobs in pivot to AI  Reuters..."
     },
     {
-      "title": "US insurers and hospitals turn to new AI for age-old battle over charges vs payments - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXQ4YkZPbVNES0k1MGl3TDU2ci1XVWRtd2ZvYkpFcldiV1ZSbnRkbXNJUjluckhYODVxZkVCUnp6VmNUbWtGQlZMdzVsMzllM2k0ZGNPQjU5d1czX09NRlNIX0Vid3NTWEJ4MnBhRUZzSkxFLVVDQk9NRW0zZUpPclpPczc3ZzNBb0dNd25HNURkU1VodV9IUUNPM2RSX0lfNnZTcGhFOXNrYWZZSk1xVDhacXo3bl9CZ2duRXRLRkpTSjNT?oc=5",
-      "date": "2026-03-12 10:08",
-      "summary": "US insurers and hospitals turn to new AI for age-old battle over charges vs payments  Reuters..."
-    },
-    {
-      "title": "Ukraine opens battlefield data access to allies' AI models - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTnRpdE1mRmFzZG5NTnI4MXhBd2JpMTU5OEtndUlnbWVmVkxDUUVWX1lSaU1BVHotZWRfNVNrZTBaX0xnZFJjaF80MjFsaVFsNjNXVXYtU1F0X0RINzJSc0N0MnU5alhzOW00NnpjZEFzRVBIQ3l2azhWemp5ZW1nT2NRSlNINWgwZ01LbUZINWVEQkVCN1hvX2hOLXhfOUxzZnMwNDdLQ0Nzb25rNktKbGVKUTlmc3pN?oc=5",
-      "date": "2026-03-12 14:41",
-      "summary": "Ukraine opens battlefield data access to allies' AI models  Reuters..."
+      "title": "Adobe's longtime CEO to exit role amid AI disruption, shares fall - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVFRaUEl2cFRnODBwSHI5dzlRWEFabXNXRG1OcGJkLU94T1F5bjdVOFlnLXpueFRTY2ZMM0lZSWtEVW9aZGVVTG5wMVB1LXAyNlAzM3Z0YmtLS241dHZPdHlEV2hwQWJmNDV3aU5WSXR2RlVTSFRqLTFLaGE0TFFwejJHOS02d1VidDhvTVdRODhUbWhQc2lVWk9rMmd4UTJyRDlJWnV3dk5WOFBubWNOQWZueWNpc0NaZFE?oc=5",
+      "date": "2026-03-12 20:20",
+      "summary": "Adobe's longtime CEO to exit role amid AI disruption, shares fall  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "Defense official reveals how AI chatbots could be used for targeting decisions - MIT Technology Review",
+      "title": "A defense official reveals how AI chatbots could be used for targeting decisions - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2ZVNFAwWHZjUXRRMzRLdm9hTUtFdlk3U0NZSFJ5amtWbzdkc3RNR1o3dEZWeEtBdWFKVE1aazlTdUFuSjZvVjFRaW5McEtGTlhTcWhTcFV2M2gtTUZUSTFZRnJKS2w5OGttaDZLaWxBbmlzX0o0SFd1ZTFDT21DUnJJUGllRWk4T0N0WlRZQnZUeVlXUExhVGd0c1BZMmRwbDBQMC1kSXVFRU5nYjRtZUdHMkfSAboBQVVfeXFMTzM2SkhOZXJZYTZTSzNDVklKYjkwNHFzZHMtSDgxUG5yVm1qLTgyNlRUb3N2cWxKUjdxb0dvbUNTR05kek5KMm1la19LWS1XZ0t5R0dabVJqaGtkUjQ0N0lVenM3UnpEd2REd2JaTlNlUlZ5QkRfLXVOZUw0Q1JGWmlERDlwOUx0LVNNbTk0NE1vZmxvLUxJY2V5WnQ0ZF9ndjRid0RwLVZoWm5GMmUyWTVsakV3MjQxMWhB?oc=5",
       "date": "2026-03-12 22:23",
-      "summary": "Defense official reveals how AI chatbots could be used for targeting decisions  MIT Technology Review..."
+      "summary": "A defense official reveals how AI chatbots could be used for targeting decisions  MIT Technology Review..."
     },
     {
       "title": "Pragmatic by design: Engineering AI for the real world - MIT Technology Review",
@@ -237,16 +237,16 @@
       "summary": "Pragmatic by design: Engineering AI for the real world  MIT Technology Review..."
     },
     {
-      "title": "Brutal times for the US battery industry - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yd25OVlo1OXlpQy1nQjZYa1kwTFpZZEZOaENRWTNuTEU1V3pDU2VKUnVTNnZpVmEtSkd2VmdEbkZlUGdPRDJxMGNETlU5aFl0cHF1azFGaUY4d0xpLUxybVlGOExwR0pKUHd2Mi1BZ1hOM2E3Z0x3VFpBZlLSAYIBQVVfeXFMTjluSkVQSWxiVl9pa2luaF9OcFRiM3YteTlVd0tKcG5pdEVVSjdDYXgtSlc0TmtGRGREbjFvc2hKZDl5d2RGbXFJT3VTc1B1WVoxd3pUUWxCb094LU42emc1M2ZLMnBnQU4zMVZvYmpBWEEtenRhUVJGLXhDbEJGNW9kZw?oc=5",
-      "date": "2026-03-12 10:00",
-      "summary": "Brutal times for the US battery industry  MIT Technology Review..."
-    },
-    {
       "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWldQeHpYcFVnNGJrV2QwbVpXZUhza2Z4UmpLOFo0SjJ1bUNkWTd2VkdyOVRPSDNnY1YzckpaMzQ5VmM0eEtscUtwd2pUejFMVG9kTGY1TmJoZmI2QTJsQ1FDTVBrY00tZUhoVGtZeFRhd1MwN2lGTk5hWk5DNEFJYkFpUWtWd0xzSE5NYTJXYldXaXhzdkhGV2RHamRUOXJhakd3NGZzWVRWUzTSAbABQVVfeXFMTTh2UURxX205R2JiVGxFM3k2am1CM2pDWXlLUm5aWVNVWklEcnl3LW5DZW9adkMwN0lzOHlNSFl5UEtHLWJBaFlKVDhXdlhZWnE0Um1UTWY2Q2d1bHhWbTJDVWgxeFZGaVZyU0ZiaU5WY0ZYWTNCVFBqa1I1X0FTUzRZWVUtaVVmQ3Q3RzBJbGxaWHNoN0NOZFMwaHF4R085d1lxbEQtMi1lMG9ISGNWXzc?oc=5",
       "date": "2026-03-10 13:47",
       "summary": "How Pokémon Go is giving delivery robots an inch-perfect view of the world  MIT Technology Review..."
+    },
+    {
+      "title": "Brutal times for the US battery industry - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yd25OVlo1OXlpQy1nQjZYa1kwTFpZZEZOaENRWTNuTEU1V3pDU2VKUnVTNnZpVmEtSkd2VmdEbkZlUGdPRDJxMGNETlU5aFl0cHF1azFGaUY4d0xpLUxybVlGOExwR0pKUHd2Mi1BZ1hOM2E3Z0x3VFpBZlLSAYIBQVVfeXFMTjluSkVQSWxiVl9pa2luaF9OcFRiM3YteTlVd0tKcG5pdEVVSjdDYXgtSlc0TmtGRGREbjFvc2hKZDl5d2RGbXFJT3VTc1B1WVoxd3pUUWxCb094LU42emc1M2ZLMnBnQU4zMVZvYmpBWEEtenRhUVJGLXhDbEJGNW9kZw?oc=5",
+      "date": "2026-03-12 10:00",
+      "summary": "Brutal times for the US battery industry  MIT Technology Review..."
     },
     {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
@@ -257,37 +257,43 @@
   ],
   "Phys.org": [
     {
+      "title": "Social media influencers increase the toxicity and power of misinformation, research shows",
+      "link": "https://phys.org/news/2026-03-social-media-toxicity-power-misinformation.html",
+      "date": "2026-03-13 01:20",
+      "summary": "Social media influencers (SMIs) can perpetuate the flow of misinformation online because of the unique relationship they have with..."
+    },
+    {
+      "title": "Flood tolerant wetland crops could also support nature recovery, finds new research",
+      "link": "https://phys.org/news/2026-03-tolerant-wetland-crops-nature-recovery.html",
+      "date": "2026-03-13 00:20",
+      "summary": "Research led by the University of Cambridge and the RSPB shows that farming wetland-adapted crops on wetter peat—known as paludicu..."
+    },
+    {
+      "title": "Global observations reveal rapid reorganization of ocean nutrients",
+      "link": "https://phys.org/news/2026-03-global-reveal-rapid-ocean-nutrients.html",
+      "date": "2026-03-12 23:40",
+      "summary": "From coral reefs and kelp forests to the open ocean and deep-sea zones, nutrients that support phytoplankton growth and marine pro..."
+    },
+    {
+      "title": "Three new rock monitor lizard species discovered in northern Queensland",
+      "link": "https://phys.org/news/2026-03-lizard-species-northern-queensland.html",
+      "date": "2026-03-12 23:40",
+      "summary": "Three striking new species of rock-dwelling monitor lizards have been formally described from the savannas of northeastern Queensl..."
+    },
+    {
       "title": "Seeing global trade through the lens of physics",
       "link": "https://phys.org/news/2026-03-global-lens-physics.html",
       "date": "2026-03-12 23:20",
       "summary": "New research from the Complexity Science Hub (CSH) shows why widely used algorithms for measuring economic complexity produce trus..."
-    },
-    {
-      "title": "Specialist resource centers linked to stronger sense of belonging, attainment for autistic pupils",
-      "link": "https://phys.org/news/2026-03-specialist-resource-centers-linked-stronger.html",
-      "date": "2026-03-12 23:00",
-      "summary": "Specialist resource centers (a form of \"Inclusion Base\") within mainstream secondary schools may be linked to stronger academic pr..."
-    },
-    {
-      "title": "Cell death's 'beautiful' rings have implications for biological resilience and immunity",
-      "link": "https://phys.org/news/2026-03-cell-death-beautiful-implications-biological.html",
-      "date": "2026-03-12 23:00",
-      "summary": "Researchers at the University of Michigan have revealed that cells use a previously unknown feat of molecular craftsmanship to hel..."
-    },
-    {
-      "title": "How much do nontargeted analyses really see? A model maps chemical blind spots",
-      "link": "https://phys.org/news/2026-03-nontargeted-analyses-chemical.html",
-      "date": "2026-03-12 22:40",
-      "summary": "In a study published in Analytical Chemistry, researchers from the University of Amsterdam's Van 't Hoff Institute for Molecular S..."
-    },
-    {
-      "title": "Cracking the code: How a 'prediction machine' is resurrecting the Singapore Stone",
-      "link": "https://phys.org/news/2026-03-code-machine-resurrecting-singapore-stone.html",
-      "date": "2026-03-12 22:20",
-      "summary": "Several years ago, my linguistic research team and I began developing a computational tool we call \"Read-y Grammarian.\" Our goal w..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Short tempers and legal threats: UK teachers report rise in problem parents",
+      "link": "https://www.theguardian.com/education/2026/mar/13/teachers-mental-heath-parents-behaviour-education",
+      "date": "2026-03-13 00:01",
+      "summary": "Rudeness, social media posts and AI-generated complaints among issues harming staff wellbeing, union survey findsTeachers are used..."
+    },
     {
       "title": "MPs launch student loans inquiry amid ‘perfect storm’ for young people in UK",
       "link": "https://www.theguardian.com/money/2026/mar/12/mps-launch-student-loans-inquiry-amid-perfect-storm-for-young-people-in-uk",
@@ -311,15 +317,27 @@
       "link": "https://www.theguardian.com/us-news/2026/mar/09/ohio-state-university-president-resigns",
       "date": "2026-03-09 18:33",
       "summary": "Walter ‘Ted’ Carter Jr says he ‘made a mistake in allowing inappropriate access to Ohio State leadership’Sign up for the Breaking ..."
-    },
-    {
-      "title": "A Mississippi mother couldn’t find accurate sex ed for her kids. So she started a class at church",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/09/sex-education-mississippi-church",
-      "date": "2026-03-09 14:00",
-      "summary": "As states scale back requirements for comprehensive sex ed, some parents and faith communities are stepping in to teach what schoo..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "When homes are small and costly, dreams of having a family shrink",
+      "link": "https://www.scmp.com/opinion/asia-opinion/article/3346224/when-homes-are-small-and-costly-dreams-having-family-shrink?utm_source=rss_feed",
+      "date": "2026-03-13 01:30",
+      "summary": "Across Asia’s densest cities, the milestones of adulthood are quietly shifting. Couples share kitchens with parents. Some wait yea..."
+    },
+    {
+      "title": "Swire sells part of Cathay Pacific stake for HK$1.8 billion to boost working capital",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3346425/swire-sells-part-cathay-pacific-stake-hk18-billion-boost-working-capital?utm_source=rss_feed",
+      "date": "2026-03-13 00:40",
+      "summary": "Conglomerate Swire Pacific has sold part of its stake in Hong Kong flag carrier Cathay Pacific Airways for HK$1.8 billion to raise..."
+    },
+    {
+      "title": "‘I can’t get a job and AI is to blame’: a young person’s lament",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3346409/i-cant-get-job-and-ai-blame-young-persons-lament?utm_source=rss_feed",
+      "date": "2026-03-13 00:01",
+      "summary": "Trina Lau spent nearly three months looking for work after she was laid off from an e-commerce firm in Hong Kong in December.\nIt w..."
+    },
     {
       "title": "Hong Kong insider-trading arrests send ‘very strong message’ on market integrity",
       "link": "https://www.scmp.com/business/markets/article/3346394/hong-kong-insider-trading-arrests-send-very-strong-message-market-integrity?utm_source=rss_feed",
@@ -331,24 +349,6 @@
       "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/anchors-academy-new-secondary-school/article/3346321/anchors-academy-expands-junior-secondary-division-and-co-establishes-senior-secondary-school-st-bees?utm_source=rss_feed",
       "date": "2026-03-12 16:00",
       "summary": "[The content of this article has been produced by our advertising partner.]\nAnchors Academy, recognised as one of Hong Kong's lead..."
-    },
-    {
-      "title": "2 arrested in raid on Hong Kong syndicate accused of laundering HK$4.7 billion",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3346412/2-arrested-raid-hong-kong-syndicate-accused-laundering-hk47-billion?utm_source=rss_feed",
-      "date": "2026-03-12 15:07",
-      "summary": "Hong Kong customs officers have arrested two men in a crackdown on a syndicate accused of laundering HK$4.7 billion (US$600.54 mil..."
-    },
-    {
-      "title": "Man injured after lithium battery catches fire on Hong Kong bus",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3346407/man-injured-after-lithium-battery-catches-fire-hong-kong-bus?utm_source=rss_feed",
-      "date": "2026-03-12 13:43",
-      "summary": "A man was injured on Thursday evening after a lithium battery he was carrying caught fire on a Hong Kong bus in Tsuen Wan, filling..."
-    },
-    {
-      "title": "Robot ‘arrested’ after elderly woman startled and sent to hospital in Macau",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3346405/robot-arrested-after-elderly-woman-startled-and-sent-hospital-macau?utm_source=rss_feed",
-      "date": "2026-03-12 13:09",
-      "summary": "An elderly woman was taken to hospital in Macau after being “frightened” by a humanoid robot that abruptly appeared behind her bef..."
     }
   ],
   "New Scientist": [
