@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
-      "date": "2025-09-30 07:00",
-      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
-    },
-    {
       "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
       "date": "2025-09-25 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2ZjQmV2UTFaS0pGVnpKNTBuZF83dkdOcV9NTVdvYXBmVWFYNDdHWlFHYkFna1A2SWFmS0UxRmRKWFhFTVowcWxrbEFJYVJTWmNDOUxuRVIzQ3Nuekwzb0JQWUFpSmNETlNReGtkSHJnNnZ4RGRCYlhPN2lBbWZibUc0bVRjd050N2dqdFAtNnh2RnlQQzEzYWtJU3VucXdVZ3AzOWtqQkdjeW8?oc=5",
       "date": "2025-10-16 07:00",
       "summary": "Harvard reports operating deficit amid federal funding cuts  Harvard Gazette..."
+    },
+    {
+      "title": "How academia can help America heal - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
+      "date": "2026-02-13 08:00",
+      "summary": "How academia can help America heal  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -205,16 +205,16 @@
       "summary": "Ukraine opens battlefield data access to allies' AI models  Reuters..."
     },
     {
-      "title": "Chinese banks boost loans to tech sector as Beijing ramps up AI push - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaWpGaHV5cHAtUnF3NkJqWGZaZzNyS2NEempXdXRDWW11X0gxRFFvWEd2clZSa3lSd0x4YVEwa3JMaU9MTnpvam91OTVtdnZsTGxheHFENlQ4MWlFVkJLbW52SDVjWUJNRFNOb3podzJsQTZnbl9KT284UGNvREFvZ2E4Rl9kN1ZzaldaZWtTc2xHbmx2NXdGT2pNUm9TLVhjSzRrWXg5M2I2akl0Umc0SENsTkN1QQ?oc=5",
-      "date": "2026-03-12 23:04",
-      "summary": "Chinese banks boost loans to tech sector as Beijing ramps up AI push  Reuters..."
-    },
-    {
       "title": "Software companies fight back against fears that AI will kill them - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3UzejNBaHdLZDJxd0xmaGNKYVdpLU5rNi1VMFpnRW5LZjVvWGtGaWItbVVYZjhpaEdaNTQxMVctbzc2UlY1NFhwTnZLS0J1SkN3bWpGVVh6bmM3ZmpFMVBnQ1VpNmplb1Zpa0h6cjJyZ2ZISjVBZnVRMkpJRjBOc2ZHOVQ0cEtOVGRTOFk4NGpWUjBNSE4yaG5WMG9Wc0M5N0Z4d2QySUxfcDloYl9lUQ?oc=5",
       "date": "2026-03-12 10:03",
       "summary": "Software companies fight back against fears that AI will kill them  Reuters..."
+    },
+    {
+      "title": "Chinese banks boost loans to tech sector as Beijing ramps up AI push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaWpGaHV5cHAtUnF3NkJqWGZaZzNyS2NEempXdXRDWW11X0gxRFFvWEd2clZSa3lSd0x4YVEwa3JMaU9MTnpvam91OTVtdnZsTGxheHFENlQ4MWlFVkJLbW52SDVjWUJNRFNOb3podzJsQTZnbl9KT284UGNvREFvZ2E4Rl9kN1ZzaldaZWtTc2xHbmx2NXdGT2pNUm9TLVhjSzRrWXg5M2I2akl0Umc0SENsTkN1QQ?oc=5",
+      "date": "2026-03-12 23:04",
+      "summary": "Chinese banks boost loans to tech sector as Beijing ramps up AI push  Reuters..."
     },
     {
       "title": "US insurers and hospitals turn to new AI for age-old battle over charges vs payments - Reuters",
@@ -231,31 +231,49 @@
       "summary": "Why physical AI is becoming manufacturing’s next advantage  MIT Technology Review..."
     },
     {
-      "title": "Future AI chips could be built on glass - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMTA5ZVJfQWVXMGh0THFyM3NIVzJ5a0lGSWIySjE3V2tGVVNzeHZYV0N3TllMUlJKdW5fR1JMc2VUWV83eEQxX3pIZHMxd1M2X0U3bTZNTlh6NXFlVEM4enJhbGh1U0Jab2ZaQlJEVkNxSFFTZy1OSS1qWG5sSXhybTYyWXkxNkpuemhvRlhxR0RySmZBRmtv0gGcAUFVX3lxTE1xalN1ODdJWk44UkFGUnlSZG51YU11MnFCOUwyV2lpOFZVUElHU3I2MzhobmdXdlVSNmhQdEpYalZRdllsUDVLTnB4YllhREEwN3dXLS04RWYwWjVya0k2Q01iUEVlRTRKQjlEdEhZZzdTS21JV1JlOThvejdnc3BmcDBVSkpheDJ3b0RHOVFNSERnY0F1MWpCY05Reg?oc=5",
-      "date": "2026-03-13 09:00",
-      "summary": "Future AI chips could be built on glass  MIT Technology Review..."
-    },
-    {
       "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWldQeHpYcFVnNGJrV2QwbVpXZUhza2Z4UmpLOFo0SjJ1bUNkWTd2VkdyOVRPSDNnY1YzckpaMzQ5VmM0eEtscUtwd2pUejFMVG9kTGY1TmJoZmI2QTJsQ1FDTVBrY00tZUhoVGtZeFRhd1MwN2lGTk5hWk5DNEFJYkFpUWtWd0xzSE5NYTJXYldXaXhzdkhGV2RHamRUOXJhakd3NGZzWVRWUzTSAbABQVVfeXFMTTh2UURxX205R2JiVGxFM3k2am1CM2pDWXlLUm5aWVNVWklEcnl3LW5DZW9adkMwN0lzOHlNSFl5UEtHLWJBaFlKVDhXdlhZWnE0Um1UTWY2Q2d1bHhWbTJDVWgxeFZGaVZyU0ZiaU5WY0ZYWTNCVFBqa1I1X0FTUzRZWVUtaVVmQ3Q3RzBJbGxaWHNoN0NOZFMwaHF4R085d1lxbEQtMi1lMG9ISGNWXzc?oc=5",
       "date": "2026-03-10 13:47",
       "summary": "How Pokémon Go is giving delivery robots an inch-perfect view of the world  MIT Technology Review..."
     },
     {
-      "title": "A defense official reveals how AI chatbots could be used for targeting decisions - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2ZVNFAwWHZjUXRRMzRLdm9hTUtFdlk3U0NZSFJ5amtWbzdkc3RNR1o3dEZWeEtBdWFKVE1aazlTdUFuSjZvVjFRaW5McEtGTlhTcWhTcFV2M2gtTUZUSTFZRnJKS2w5OGttaDZLaWxBbmlzX0o0SFd1ZTFDT21DUnJJUGllRWk4T0N0WlRZQnZUeVlXUExhVGd0c1BZMmRwbDBQMC1kSXVFRU5nYjRtZUdHMkfSAboBQVVfeXFMTzM2SkhOZXJZYTZTSzNDVklKYjkwNHFzZHMtSDgxUG5yVm1qLTgyNlRUb3N2cWxKUjdxb0dvbUNTR05kek5KMm1la19LWS1XZ0t5R0dabVJqaGtkUjQ0N0lVenM3UnpEd2REd2JaTlNlUlZ5QkRfLXVOZUw0Q1JGWmlERDlwOUx0LVNNbTk0NE1vZmxvLUxJY2V5WnQ0ZF9ndjRid0RwLVZoWm5GMmUyWTVsakV3MjQxMWhB?oc=5",
-      "date": "2026-03-12 22:23",
-      "summary": "A defense official reveals how AI chatbots could be used for targeting decisions  MIT Technology Review..."
+      "title": "Future AI chips could be built on glass - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMTA5ZVJfQWVXMGh0THFyM3NIVzJ5a0lGSWIySjE3V2tGVVNzeHZYV0N3TllMUlJKdW5fR1JMc2VUWV83eEQxX3pIZHMxd1M2X0U3bTZNTlh6NXFlVEM4enJhbGh1U0Jab2ZaQlJEVkNxSFFTZy1OSS1qWG5sSXhybTYyWXkxNkpuemhvRlhxR0RySmZBRmtv0gGcAUFVX3lxTE1xalN1ODdJWk44UkFGUnlSZG51YU11MnFCOUwyV2lpOFZVUElHU3I2MzhobmdXdlVSNmhQdEpYalZRdllsUDVLTnB4YllhREEwN3dXLS04RWYwWjVya0k2Q01iUEVlRTRKQjlEdEhZZzdTS21JV1JlOThvejdnc3BmcDBVSkpheDJ3b0RHOVFNSERnY0F1MWpCY05Reg?oc=5",
+      "date": "2026-03-13 09:00",
+      "summary": "Future AI chips could be built on glass  MIT Technology Review..."
     },
     {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjJNYVhxNlVqbGNtbkRDaVNrSVp3Q2xlVVpHaVZDN1FsM3djLWROTmdoRXlJbXRVZk1RaE1DQ3BDc1Z1cjBjQXpSb1VIMFRyRVN2ZnNpVndjQ2FwdElyeGdCRWNtNlkydWdNOUxxdzh2MnpLWE9JU3dGQ1VYbmxEUEFFTVhkWnpFUmc3ODdIVFFPYkU1aU55T2c2NXNadzB4T2Fz0gGoAUFVX3lxTFA0c0hLSjJxMU5lckM3bFJWLVRPSWhiX2EwcG1YVjFjOWpFbFVtaW5rbG5mbHFCLVdWcWpJRFlpSHFMTTlmUi1YOTVzYm5nYmJVblZxZUsweWZIbVBWcWhvcHpJYnFuV3FlbWtBbVR0NG1LaWxaREdFQVMyQmJneEY4M0lsQUp5RTRLTFFfY3JaRlV3UTI1UGYtNUFrR2I0d1Z4YWZqcjJSTw?oc=5",
       "date": "2026-03-09 15:11",
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
+    },
+    {
+      "title": "A defense official reveals how AI chatbots could be used for targeting decisions - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2ZVNFAwWHZjUXRRMzRLdm9hTUtFdlk3U0NZSFJ5amtWbzdkc3RNR1o3dEZWeEtBdWFKVE1aazlTdUFuSjZvVjFRaW5McEtGTlhTcWhTcFV2M2gtTUZUSTFZRnJKS2w5OGttaDZLaWxBbmlzX0o0SFd1ZTFDT21DUnJJUGllRWk4T0N0WlRZQnZUeVlXUExhVGd0c1BZMmRwbDBQMC1kSXVFRU5nYjRtZUdHMkfSAboBQVVfeXFMTzM2SkhOZXJZYTZTSzNDVklKYjkwNHFzZHMtSDgxUG5yVm1qLTgyNlRUb3N2cWxKUjdxb0dvbUNTR05kek5KMm1la19LWS1XZ0t5R0dabVJqaGtkUjQ0N0lVenM3UnpEd2REd2JaTlNlUlZ5QkRfLXVOZUw0Q1JGWmlERDlwOUx0LVNNbTk0NE1vZmxvLUxJY2V5WnQ0ZF9ndjRid0RwLVZoWm5GMmUyWTVsakV3MjQxMWhB?oc=5",
+      "date": "2026-03-12 22:23",
+      "summary": "A defense official reveals how AI chatbots could be used for targeting decisions  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "New DNA tools outperform traditional methods for detecting genetic risk in wildlife",
+      "link": "https://phys.org/news/2026-03-dna-tools-outperform-traditional-methods.html",
+      "date": "2026-03-13 22:20",
+      "summary": "Wildlife populations that become small and isolated, often due to habitat loss, inevitably experience inbreeding which can lead to..."
+    },
+    {
+      "title": "Researchers realize room-temperature two-dimensional multiferroic metal",
+      "link": "https://phys.org/news/2026-03-room-temperature-dimensional-multiferroic-metal.html",
+      "date": "2026-03-13 22:00",
+      "summary": "Multiferroic metals are materials that exhibit both electric polarization and magnetic order in the same crystal—a state known as ..."
+    },
+    {
+      "title": "From guesswork to guidance: How machine learning speeds dopant design for water-splitting photocatalysts",
+      "link": "https://phys.org/news/2026-03-guesswork-guidance-machine-dopant-photocatalysts.html",
+      "date": "2026-03-13 21:40",
+      "summary": "MLIP calculations successfully identify suitable dopants for a novel photocatalytic material, report researchers from the Institut..."
+    },
     {
       "title": "A 100-solar-mass black hole merger ripples spacetime, and may flash in gamma rays",
       "link": "https://phys.org/news/2026-03-solar-mass-black-hole-merger.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-03-customer-backfire.html",
       "date": "2026-03-13 21:20",
       "summary": "The customer is always right. It's the first rule of customer service, one that often means \"I'm sorry\" is the de facto response i..."
-    },
-    {
-      "title": "How flexible protein regions retain their function via motifs and chemical context",
-      "link": "https://phys.org/news/2026-03-flexible-protein-regions-retain-function.html",
-      "date": "2026-03-13 21:00",
-      "summary": "A new LMU study shows how proteins function reliably even without a stable 3D structure—and the crucial importance not only of sho..."
-    },
-    {
-      "title": "Bright pink insect stands out to blend in, scientists say",
-      "link": "https://phys.org/news/2026-03-bright-pink-insect-blend-scientists.html",
-      "date": "2026-03-13 20:40",
-      "summary": "A tropical insect has been found to change color from vivid hot pink to green within a fortnight, which scientists believe may mim..."
-    },
-    {
-      "title": "Reading fossil skull fracture patterns: Biomechanical analysis provides new insights",
-      "link": "https://phys.org/news/2026-03-fossil-skull-fracture-patterns-biomechanical.html",
-      "date": "2026-03-13 20:30",
-      "summary": "A research team associated with the European project DEATHREVOL has published a study in the journal Scientific Reports that propo..."
     }
   ],
   "The Guardian Edu": [
