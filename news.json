@@ -39,12 +39,6 @@
       "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
     },
     {
-      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
-      "date": "2025-09-30 07:00",
-      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
-    },
-    {
       "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
       "date": "2025-10-23 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2ZjQmV2UTFaS0pGVnpKNTBuZF83dkdOcV9NTVdvYXBmVWFYNDdHWlFHYkFna1A2SWFmS0UxRmRKWFhFTVowcWxrbEFJYVJTWmNDOUxuRVIzQ3Nuekwzb0JQWUFpSmNETlNReGtkSHJnNnZ4RGRCYlhPN2lBbWZibUc0bVRjd050N2dqdFAtNnh2RnlQQzEzYWtJU3VucXdVZ3AzOWtqQkdjeW8?oc=5",
       "date": "2025-10-16 07:00",
       "summary": "Harvard reports operating deficit amid federal funding cuts  Harvard Gazette..."
+    },
+    {
+      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
+      "date": "2025-10-28 07:00",
+      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Weekend reads: ‘Don’t hate the replicator, hate the game’; Crossref finds 150K incorrect citation links in database; Announcing our Ctrl-Z award",
+      "link": "https://retractionwatch.com/2026/03/14/weekend-reads-replication-games-crossref-incorrect-citation-links-database-announcing-our-ctrl-z-award/",
+      "date": "2026-03-14 10:00",
+      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: Pl..."
+    },
+    {
       "title": "Embattled journal brand mistakenly invites out-of-scope researchers to join board",
       "link": "https://retractionwatch.com/2026/03/13/cureus-journal-brand-agriculture-food-science-mistakenly-invites-researchers-board/",
       "date": "2026-03-13 15:55",
@@ -183,12 +189,6 @@
       "link": "https://retractionwatch.com/2026/03/09/stolen-economics-study-retracted-following-retraction-watch-coverage/",
       "date": "2026-03-09 20:02",
       "summary": "An economics study that was stolen and had its authorship slots sold by a paper mill has been retracted.  The move follows our rep..."
-    },
-    {
-      "title": "Weekend reads: The LLMs ‘willing to commit academic fraud’; ‘peer replication’ instead of review; a ‘spam filter’ for predatory journals",
-      "link": "https://retractionwatch.com/2026/03/07/weekend-reads-llm-academic-fraud-peer-replication-review-spam-filter-predatory-journals/",
-      "date": "2026-03-07 11:00",
-      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
     }
   ],
   "Reuters AI": [
@@ -231,16 +231,16 @@
       "summary": "Why physical AI is becoming manufacturing’s next advantage  MIT Technology Review..."
     },
     {
-      "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWldQeHpYcFVnNGJrV2QwbVpXZUhza2Z4UmpLOFo0SjJ1bUNkWTd2VkdyOVRPSDNnY1YzckpaMzQ5VmM0eEtscUtwd2pUejFMVG9kTGY1TmJoZmI2QTJsQ1FDTVBrY00tZUhoVGtZeFRhd1MwN2lGTk5hWk5DNEFJYkFpUWtWd0xzSE5NYTJXYldXaXhzdkhGV2RHamRUOXJhakd3NGZzWVRWUzTSAbABQVVfeXFMTTh2UURxX205R2JiVGxFM3k2am1CM2pDWXlLUm5aWVNVWklEcnl3LW5DZW9adkMwN0lzOHlNSFl5UEtHLWJBaFlKVDhXdlhZWnE0Um1UTWY2Q2d1bHhWbTJDVWgxeFZGaVZyU0ZiaU5WY0ZYWTNCVFBqa1I1X0FTUzRZWVUtaVVmQ3Q3RzBJbGxaWHNoN0NOZFMwaHF4R085d1lxbEQtMi1lMG9ISGNWXzc?oc=5",
-      "date": "2026-03-10 13:47",
-      "summary": "How Pokémon Go is giving delivery robots an inch-perfect view of the world  MIT Technology Review..."
-    },
-    {
       "title": "Hustlers are cashing in on China’s OpenClaw AI craze - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemY5MklSUzlJT2dLbGF0cU9CQndMRFc5cFV3Vmk4WUl0b1BLb1JwYlZYN2ZpSkxuNlNuVXUtbTdHbGp6bjU4dThvUTcxMnA2aHlrX2ViN09oZUl4S0Q5dkJZSWdoQk1mSEdWbU9nOXM1Zk9HSTNLbzh0bmZYeExOZ09SQdIBiAFBVV95cUxQTFh5VmI3akZQXy1OZFJLSE04V1ZxYnUwX0dIREdJWnMxVTg5SnFZNEtCLXAxT0FkQkZxV245LTE0UHJsYXlWMW1rUHVXSmotY05hUEhKQmlaaUlSWHBGNU1QZlk2RkhnY3MxekhoaTZNVDVPU2EtRnhQRmRPVWwtUmg5RXJXZ2hE?oc=5",
       "date": "2026-03-11 12:46",
       "summary": "Hustlers are cashing in on China’s OpenClaw AI craze  MIT Technology Review..."
+    },
+    {
+      "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWldQeHpYcFVnNGJrV2QwbVpXZUhza2Z4UmpLOFo0SjJ1bUNkWTd2VkdyOVRPSDNnY1YzckpaMzQ5VmM0eEtscUtwd2pUejFMVG9kTGY1TmJoZmI2QTJsQ1FDTVBrY00tZUhoVGtZeFRhd1MwN2lGTk5hWk5DNEFJYkFpUWtWd0xzSE5NYTJXYldXaXhzdkhGV2RHamRUOXJhakd3NGZzWVRWUzTSAbABQVVfeXFMTTh2UURxX205R2JiVGxFM3k2am1CM2pDWXlLUm5aWVNVWklEcnl3LW5DZW9adkMwN0lzOHlNSFl5UEtHLWJBaFlKVDhXdlhZWnE0Um1UTWY2Q2d1bHhWbTJDVWgxeFZGaVZyU0ZiaU5WY0ZYWTNCVFBqa1I1X0FTUzRZWVUtaVVmQ3Q3RzBJbGxaWHNoN0NOZFMwaHF4R085d1lxbEQtMi1lMG9ISGNWXzc?oc=5",
+      "date": "2026-03-10 13:47",
+      "summary": "How Pokémon Go is giving delivery robots an inch-perfect view of the world  MIT Technology Review..."
     },
     {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
@@ -249,13 +249,19 @@
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
     },
     {
-      "title": "A defense official reveals how AI chatbots could be used for targeting decisions - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2ZVNFAwWHZjUXRRMzRLdm9hTUtFdlk3U0NZSFJ5amtWbzdkc3RNR1o3dEZWeEtBdWFKVE1aazlTdUFuSjZvVjFRaW5McEtGTlhTcWhTcFV2M2gtTUZUSTFZRnJKS2w5OGttaDZLaWxBbmlzX0o0SFd1ZTFDT21DUnJJUGllRWk4T0N0WlRZQnZUeVlXUExhVGd0c1BZMmRwbDBQMC1kSXVFRU5nYjRtZUdHMkfSAboBQVVfeXFMTzM2SkhOZXJZYTZTSzNDVklKYjkwNHFzZHMtSDgxUG5yVm1qLTgyNlRUb3N2cWxKUjdxb0dvbUNTR05kek5KMm1la19LWS1XZ0t5R0dabVJqaGtkUjQ0N0lVenM3UnpEd2REd2JaTlNlUlZ5QkRfLXVOZUw0Q1JGWmlERDlwOUx0LVNNbTk0NE1vZmxvLUxJY2V5WnQ0ZF9ndjRid0RwLVZoWm5GMmUyWTVsakV3MjQxMWhB?oc=5",
-      "date": "2026-03-12 22:23",
-      "summary": "A defense official reveals how AI chatbots could be used for targeting decisions  MIT Technology Review..."
+      "title": "Pragmatic by design: Engineering AI for the real world - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWG9nYUN2VFpPRjlRc204RHBNRk1WMFVLal8tMHFHdTdEcWtMNmd6aldpTml5WmxtSmFFVHVWajFMN3lRbVRFOWxacnk2QS1raHRfOUhWczQ4bGtYelFwRWlCNHBocGxoWUs2elJYOGZDWnJMX04xc3A3amFaWXVubnFBXzBZdEVtQ1NmaTdqM2V5dUZqdGFCaWtsaGRYdjJSVXRINTJJYkJXQdIBrwFBVV95cUxPbzhqcExjZlRQWGNMNktlLVlmdnE3QTFodHREN25scklYY2hlWHFLR2draTJjbkFiUXljRFFWcDJtUmlSMVIwMzNsTXRuaVhQRU1jdkxnaDQ1SkdaanR4d1pyYjN0RnotRHhZTVUtdV91Z1g1ZzV1TzdvdFBGM25nbVFEZEg0dGZOQXlBOHplVjFnc01yYzZRU05hV3Z0Ym5COFFwUGV1a1JTRHZwdFpv?oc=5",
+      "date": "2026-03-12 13:00",
+      "summary": "Pragmatic by design: Engineering AI for the real world  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "New Panama tree species identified after 25 years is already endangered",
+      "link": "https://phys.org/news/2026-03-panama-tree-species-years-endangered.html",
+      "date": "2026-03-14 09:32",
+      "summary": "In 2000, a group of STRI botanists collected samples of all the plants from the genus Clusia they could find in Panama to find out..."
+    },
     {
       "title": "Pi Day: From rockets to cancer research, here's how the number pi is embedded in our lives",
       "link": "https://phys.org/news/2026-03-pi-day-rockets-cancer-embedded.html",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-03-horse-ivf-milestone-florida-frozen.html",
       "date": "2026-03-13 23:30",
       "summary": "The performance horse industry had a problem: Some of their most beloved and sought-after mares simply couldn't have foals safely...."
-    },
-    {
-      "title": "In a South Carolina swamp, researchers uncover secrets of firefly synchrony",
-      "link": "https://phys.org/news/2026-03-south-carolina-swamp-uncover-secrets.html",
-      "date": "2026-03-13 23:00",
-      "summary": "In the middle of the old-growth forests of Congaree National Park in South Carolina, fireflies put on an otherworldly display ever..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong to tighten moneylending rules to tackle debt collector harassment",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3346599/hong-kong-tighten-moneylending-rules-tackle-debt-collector-harassment?utm_source=rss_feed",
+      "date": "2026-03-14 09:45",
+      "summary": "Hong Kong’s licensed moneylenders will face strict new regulations starting in August, including debt servicing ratio caps for low..."
+    },
+    {
       "title": "Hong Kong’s anti-corruption agency seeks 50 new officers, refuses to ease criteria",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3346595/hong-kongs-anti-corruption-agency-seeks-50-new-officers-refuses-ease-criteria?utm_source=rss_feed",
       "date": "2026-03-14 08:20",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3346579/purrs-approval-yau-ma-tei-cat-mural-community-art-project-draws-crowds?utm_source=rss_feed",
       "date": "2026-03-14 04:45",
       "summary": "On the weathered facade of the Kiu Kong Mansion on Nathan Road, two freshly painted cats now curl into the bustle of Hong Kong’s Y..."
-    },
-    {
-      "title": "What are Hong Kong’s next best steps after ‘two sessions’ in Beijing?",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3346563/what-are-hong-kongs-next-best-steps-after-two-sessions-beijing?utm_source=rss_feed",
-      "date": "2026-03-14 04:00",
-      "summary": "Hong Kong should move beyond a “city-centred” approach that merely seeks Beijing’s policy support and instead take steps to align ..."
     }
   ],
   "New Scientist": [
