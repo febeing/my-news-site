@@ -45,6 +45,12 @@
       "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
     },
     {
+      "title": "Harvard University Housing establishes new rents for 2026–2027 - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
+      "date": "2026-01-23 08:00",
+      "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
+    },
+    {
       "title": "What if AI could help students learn, not just do assignments for them? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZERnQ0tJMkp3bEVHQXFHeDVRVFdNLUlucVQzakN2bmJ2VUFTSGJvVE9KNTJPSUxuNnFocjc5a2o0Q0JnTlJiMDFPdUVROVJJODhoek9scUJJTTNmVGd0RHN1NXJCbkZrXzVZM1c2YVhrZlFpWl9ZQ3NrS2dOUTVLd21nUWdIMERMTVVxWGxnZ2hGalBHNW5vSzgwQ1hNbEprWlRQTXN4REdKOS1JN3RPYUZoamN4T0tI?oc=5",
       "date": "2025-10-21 07:00",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
       "date": "2025-10-23 07:00",
       "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
-    },
-    {
-      "title": "A potential quantum leap - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
-      "date": "2025-11-12 08:00",
-      "summary": "A potential quantum leap  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -257,6 +257,12 @@
   ],
   "Phys.org": [
     {
+      "title": "TESS discovers a super-Earth exoplanet orbiting nearby star",
+      "link": "https://phys.org/news/2026-03-tess-super-earth-exoplanet-orbiting.html",
+      "date": "2026-03-15 15:00",
+      "summary": "Using the Transiting Exoplanet Survey Satellite (TESS), astronomers have discovered a new super-Earth exoplanet orbiting a star lo..."
+    },
+    {
       "title": "Could a recently detected ultra-high-energy neutrino be linked to new physics?",
       "link": "https://phys.org/news/2026-03-ultra-high-energy-neutrino-linked.html",
       "date": "2026-03-15 14:00",
@@ -279,15 +285,15 @@
       "link": "https://phys.org/news/2026-03-bird-losses-north-america-farming.html",
       "date": "2026-03-15 00:00",
       "summary": "Since the 1970s, the U.S. has lost billions of birds. We now know that those losses aren't just growing—they are accelerating in p..."
-    },
-    {
-      "title": "Thorny issue plaguing lithium-ion batteries laid bare in new study",
-      "link": "https://phys.org/news/2026-03-thorny-issue-plaguing-lithium-ion.html",
-      "date": "2026-03-14 23:00",
-      "summary": "Lithium dendrites, i.e. tiny crystalline thorns that grow off of lithium-ion battery anodes during charging, have been a persisten..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Row over tuition fees cut for European students threatens Starmer’s EU reset",
+      "link": "https://www.theguardian.com/politics/2026/mar/15/row-tuition-fees-cut-european-students-threatens-starmer-eu-reset",
+      "date": "2026-03-15 15:00",
+      "summary": "British negotiators ‘blindsided’ by Brussels’ demand for a reduction that could cost universities £140m a yearBritain is in a stan..."
+    },
     {
       "title": "Phillipson accuses lawyers of exploiting parents of children with special needs",
       "link": "https://www.theguardian.com/education/2026/mar/13/bridget-phillipson-accuses-lawyers-exploiting-parents-children-special-needs-send",
@@ -311,15 +317,21 @@
       "link": "https://www.theguardian.com/education/2026/mar/13/teachers-mental-heath-parents-behaviour-education",
       "date": "2026-03-13 00:01",
       "summary": "Rudeness, social media posts and AI-generated complaints among issues harming staff wellbeing, union survey findsTeachers are used..."
-    },
-    {
-      "title": "MPs launch student loans inquiry amid ‘perfect storm’ for young people in UK",
-      "link": "https://www.theguardian.com/money/2026/mar/12/mps-launch-student-loans-inquiry-amid-perfect-storm-for-young-people-in-uk",
-      "date": "2026-03-12 05:00",
-      "summary": "Influential Treasury committee chair Meg Hillier says review follows growing concern over graduate debtUK firms struggling to hire..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Search under way for 68‑year‑old man missing since Friday in Hong Kong",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3346682/search-under-way-68-year-old-man-missing-friday-hong-kong?utm_source=rss_feed",
+      "date": "2026-03-15 14:37",
+      "summary": "Hong Kong authorities were searching on Sunday for a 68‑year‑old man who has been missing for two days after leaving his home in T..."
+    },
+    {
+      "title": "Influencer Andrew Tate, facing rape charges in 2 countries, parties in Hong Kong",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3346680/online-influencers-andrew-and-tristan-tate-seen-partying-hong-kong?utm_source=rss_feed",
+      "date": "2026-03-15 14:33",
+      "summary": "Online influencer brothers Andrew and Tristan Tate, who both face rape and human‑trafficking charges in Romania and the United Kin..."
+    },
     {
       "title": "Over 300 Wang Fuk Court homeowners to petition Hong Kong’s John Lee for meeting",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3346679/over-300-wang-fuk-court-homeowners-petition-hong-kongs-john-lee-meeting?utm_source=rss_feed",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/politics/article/3346674/panama-urges-chinese-shipping-giant-cosco-resume-operations-canal?utm_source=rss_feed",
       "date": "2026-03-15 12:58",
       "summary": "The Panamanian government has asked Chinese shipping giant Cosco to reconsider its decision to suspend operations at the Balboa po..."
-    },
-    {
-      "title": "Hong Kong seeks to replace, not punish, underperforming Medical Council members",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3346661/hong-kong-replace-not-punish-underperforming-medical-council-members?utm_source=rss_feed",
-      "date": "2026-03-15 10:35",
-      "summary": "Hong Kong authorities have proposed replacing Medical Council members who underperform rather than punishing them as part of an ov..."
-    },
-    {
-      "title": "Body tied to bags of bricks found off Hong Kong pier in ‘suspicious’ case",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3346663/body-tied-bags-bricks-found-hong-kong-pier-suspicious-case?utm_source=rss_feed",
-      "date": "2026-03-15 10:34",
-      "summary": "Hong Kong police have launched an investigation after the body of a 60-year-old woman tied to bags of bricks was found floating of..."
     }
   ],
   "New Scientist": [
