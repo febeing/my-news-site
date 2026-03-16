@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "The clock is ticking for these Three Minute Thesis finalists - Stanford Report",
+      "title": "The clock is ticking for these Three Minute Thesis finalists - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NZDZJM2p3d19zS2dLdl9DZG5lQkx3Z3NoMFVpNmdFZXJtZmFPaXJ3VXExeXFib1dWWHJ6NHQtRElkNTBfZUJBMno2Y25IVUNBRTN0TEh4ckRlTE5wbnFYVWhNcnFqaThQenMwU0g4VU9yVy1MbjhncWdPdw?oc=5",
       "date": "2026-03-16 19:04",
-      "summary": "The clock is ticking for these Three Minute Thesis finalists  Stanford Report..."
+      "summary": "The clock is ticking for these Three Minute Thesis finalists  Stanford University..."
     },
     {
       "title": "Mike Canady Joins Stanford GSB as Chief Operating and Financial Officer - Stanford Graduate School of Business",
@@ -83,16 +83,16 @@
       "summary": "Fully-Funded Stanford Program Helps ‘BIPOC’ Teachers Earn Prestigious National Board Certification  National Review..."
     },
     {
-      "title": "Can science slow down aging? - Stanford Report",
+      "title": "Can science slow down aging? - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZV29yUHBYSVBzRWhKMmdxZUtPRm0zMnczQ0paajBtSHZwQnBBQXd0NXBkRmw3N0RlV3lpckFfNVNFUUlQeWJja2FiaU55TjRyV0tBMExHVkF3Y1c0RUNOdVhfSE4xLXFTWnVYbS14SHlMdUtpNHRmRDgzSTI3bGM?oc=5",
       "date": "2026-03-16 21:37",
-      "summary": "Can science slow down aging?  Stanford Report..."
+      "summary": "Can science slow down aging?  Stanford University..."
     },
     {
-      "title": "Watching a lifetime in motion reveals the architecture of aging - Stanford Report",
+      "title": "Watching a lifetime in motion reveals the architecture of aging - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYnJWemdNYTRUUEdjSHVTcUg2NHpLZ1h3UkR2cW40RzNpRlRROElic0REcjJ0NHM3ZTVqYVlza00yVzVXZkxoRXZNUlpPR0dwU2xpUmExOWtaRk9xVkg1MktxV3M1N0JKc3JUaGd5QjhhR19JNnlWV0lZcFZYUHRFbVREc08wenVMTHd4R0IzYw?oc=5",
       "date": "2026-03-12 20:40",
-      "summary": "Watching a lifetime in motion reveals the architecture of aging  Stanford Report..."
+      "summary": "Watching a lifetime in motion reveals the architecture of aging  Stanford University..."
     }
   ],
   "Nature Careers": [
@@ -101,6 +101,12 @@
       "link": "https://www.nature.com/articles/s41586-026-10372-3",
       "date": "2026-03-16 00:00",
       "summary": "Nature, Published online: 16 March 2026; doi:10.1038/s41586-026-10372-3Direct conversion from alkenes to alkynes..."
+    },
+    {
+      "title": "A single course of antibiotics can cause lingering changes in gut microbes",
+      "link": "https://www.nature.com/articles/d41586-026-00769-5",
+      "date": "2026-03-16 00:00",
+      "summary": "Nature, Published online: 16 March 2026; doi:10.1038/d41586-026-00769-5Microbial diversity loss seen after a course of some common..."
     },
     {
       "title": "Insulin resistance prediction from wearables and routine blood biomarkers",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-00841-0",
       "date": "2026-03-16 00:00",
       "summary": "Nature, Published online: 16 March 2026; doi:10.1038/d41586-026-00841-0An exemplary book gets much right, but misses the point tha..."
-    },
-    {
-      "title": "PhD students are turning to side hustles to make ends meet, finds <i>Nature</i> poll",
-      "link": "https://www.nature.com/articles/d41586-026-00422-1",
-      "date": "2026-03-16 00:00",
-      "summary": "Nature, Published online: 16 March 2026; doi:10.1038/d41586-026-00422-1Almost half of the scientists who responded said they have ..."
     }
   ],
   "Science News": [
@@ -193,6 +193,12 @@
   ],
   "Reuters AI": [
     {
+      "title": "Trump accuses Iran of using AI to spread disinformation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWG1nd2FDOUNqQXJETGRvLUc2RWJOTWRVV1BCcUZTODhVUkV5REFhWUFMdjJCMHhRWnJuUlphR0JPeTNEWWdmV0VDT291dEZLQUJqNDl1ZkE5Qjl0VWlqU2tEQzhWRlRxZE9uSFk0RWhYNWhWZThxa0Y0VWpyYUlXS05tQ3h4NWhFNnVBYU9sOXNWYUJNS2dZSEJrUjlrT1NRUmtfX1RvcHVZWWpT?oc=5",
+      "date": "2026-03-16 02:53",
+      "summary": "Trump accuses Iran of using AI to spread disinformation  Reuters..."
+    },
+    {
       "title": "Exclusive: Meta planning sweeping layoffs as AI costs mount - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRvMGkwTFd4Qkt3QzB1bDhZa2g1cWtiVlRXc0NoSlpfM2N4cmJUV0VTd3REcFljTHlWVDh6cUQ2emJaUVdPUVY1MFVqWVYzNFVkbk9zU2VhSDUtcUtBYlZtNVR5MGUwQ2FoakZYdkJtbWx4aTdOOTFxRmNXUWJVVDhXNy1YVGppMjlDNlZCcHVyNUM1OGswYzEwc3BZNmRQN3FnQzIwSQ?oc=5",
       "date": "2026-03-15 07:00",
@@ -215,12 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc09QQkUwWnBDV3ZldTNfUFQzb2xRdDRja0JDOW9JTjFJVGpyNGZnTExUSkJ6X00wWnJCZUU0anZnR01hcEJVdnU1WFlSaFpVVXdHTkZsMG9vemhXaEIyQ1JGWjBHcTN4MGhwLUZhUGl5RlU4SXBiZ3pPRzJGNHZrZ3ZsdGk0ejV5amptbWx5VWg4d2M1ODNyNTYwTjUxbWhjWkQ4M29oTjhRM2s0RzMyem1B?oc=5",
       "date": "2026-03-16 13:25",
       "summary": "Exclusive: OpenAI courts private equity to join enterprise AI venture, sources say  Reuters..."
-    },
-    {
-      "title": "Trump accuses Iran of using AI to spread disinformation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWG1nd2FDOUNqQXJETGRvLUc2RWJOTWRVV1BCcUZTODhVUkV5REFhWUFMdjJCMHhRWnJuUlphR0JPeTNEWWdmV0VDT291dEZLQUJqNDl1ZkE5Qjl0VWlqU2tEQzhWRlRxZE9uSFk0RWhYNWhWZThxa0Y0VWpyYUlXS05tQ3h4NWhFNnVBYU9sOXNWYUJNS2dZSEJrUjlrT1NRUmtfX1RvcHVZWWpT?oc=5",
-      "date": "2026-03-16 02:53",
-      "summary": "Trump accuses Iran of using AI to spread disinformation  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "A galaxy next door is transforming, and astronomers can see it happening",
-      "link": "https://phys.org/news/2026-03-galaxy-door-astronomers.html",
-      "date": "2026-03-16 22:30",
-      "summary": "The Small Magellanic Cloud (SMC) is one of the Milky Way's closest galactic neighbors—a small, gas-rich galaxy visible to the nake..."
+      "title": "Clustering-based AI forecasts river water levels using just a few long records",
+      "link": "https://phys.org/news/2026-03-clustering-based-ai-river.html",
+      "date": "2026-03-16 23:30",
+      "summary": "Reliable and scalable water level prediction is crucial in hydrology for effective water resources management, especially when con..."
     },
     {
-      "title": "Climate action could prevent over 13 million premature deaths, but equity choices matter for global health",
-      "link": "https://phys.org/news/2026-03-climate-action-million-premature-deaths.html",
-      "date": "2026-03-16 22:30",
-      "summary": "A new study published in The Lancet Global Health reveals a previously underappreciated tension at the heart of international clim..."
+      "title": "Amazonian chocolate: Combining cocoa clones with different post-harvest processes balances flavor and nutritional value",
+      "link": "https://phys.org/news/2026-03-amazonian-chocolate-combining-cocoa-clones.html",
+      "date": "2026-03-16 23:30",
+      "summary": "Chocolate produced in the Amazon is internationally recognized for its unique flavor. A study by researchers at São Paulo State Un..."
     },
     {
-      "title": "Laser-assisted electron scattering seen with circularly polarized light for the first time",
-      "link": "https://phys.org/news/2026-03-laser-electron-circularly-polarized.html",
-      "date": "2026-03-16 22:20",
-      "summary": "Researchers from Tokyo Metropolitan University have succeeded in detecting laser-assisted electron scattering (LAES) using circula..."
+      "title": "Milk-derived nanoparticles may enable physicians to target aggressive bile duct cancer",
+      "link": "https://phys.org/news/2026-03-derived-nanoparticles-enable-physicians-aggressive.html",
+      "date": "2026-03-16 23:20",
+      "summary": "Mayo Clinic researchers have developed a promising new way to deliver treatment directly to cholangiocarcinoma tumors, a rare and ..."
     },
     {
-      "title": "New study offers insight into tissue-specific gene regulation of sheep",
-      "link": "https://phys.org/news/2026-03-insight-tissue-specific-gene-sheep.html",
-      "date": "2026-03-16 22:10",
-      "summary": "Livestock breeders could soon have more tools to improve the health and quality of their animals, thanks to a recent study that sh..."
+      "title": "Bull sharks form social relationships with specific 'friends,' research reveals",
+      "link": "https://phys.org/news/2026-03-bull-sharks-social-relationships-specific.html",
+      "date": "2026-03-16 23:10",
+      "summary": "Sharks are often viewed as solitary, but a new study—carried out on the Shark Reef Marine Reserve in Fiji—has found that rather th..."
     },
     {
-      "title": "What you study in school shapes your voting choices in adulthood",
-      "link": "https://phys.org/news/2026-03-school-voting-choices-adulthood.html",
-      "date": "2026-03-16 22:10",
-      "summary": "Across Europe, education has become one of the biggest dividing lines in politics, and educational qualifications are now one of t..."
+      "title": "Q&A: Reevaluating reaction rates to better understand the stars",
+      "link": "https://phys.org/news/2026-03-qa-reevaluating-reaction-stars.html",
+      "date": "2026-03-16 23:10",
+      "summary": "Thermonuclear reaction rates power the models that explain how stars live, explode and create the elements. A new study co-authore..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "South Korea and Japan bear brunt of global stock sell-offs amid oil shock",
+      "link": "https://www.scmp.com/business/china-business/article/3346729/south-korea-and-japan-bear-brunt-global-stock-sell-offs-amid-oil-shock?utm_source=rss_feed",
+      "date": "2026-03-16 23:30",
+      "summary": "South Korea and Japan have led declines in global stock markets amid the oil shock, underscoring how supply disruptions in the Mid..."
+    },
+    {
+      "title": "Jean-Claude Van Damme talks art, Hong Kong filmmakers and ‘good friend’ Vladimir Putin",
+      "link": "https://www.scmp.com/lifestyle/entertainment/article/3346726/jean-claude-van-damme-talks-art-hong-kong-filmmakers-and-good-friend-vladimir-putin?utm_source=rss_feed",
+      "date": "2026-03-16 23:15",
+      "summary": "If he had to pick one word, Jean-Claude Van Damme says he would describe his oil paintings as “simple”.\nThe star of Bloodsport (19..."
+    },
+    {
       "title": "Iran war shows urgency of Hong Kong’s green shipping transition",
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3346529/iran-war-shows-urgency-hong-kongs-green-shipping-transition?utm_source=rss_feed",
       "date": "2026-03-16 21:30",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/politics/article/3346785/hong-kong-new-push-get-young-people-register-voters?utm_source=rss_feed",
       "date": "2026-03-16 12:33",
       "summary": "Young people can opt to make self-declarations to be exempted from producing proof of address to register as electors under a new ..."
-    },
-    {
-      "title": "Fix, don’t fire ‘digital employee’ OpenClaw over security risks: Paul Chan",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3346782/fix-dont-fire-digital-employee-openclaw-over-security-risks-paul-chan?utm_source=rss_feed",
-      "date": "2026-03-16 12:02",
-      "summary": "Hong Kong’s finance chief has likened the powerful AI agent OpenClaw to an efficient “digital employee”, saying it should not be d..."
-    },
-    {
-      "title": "Hong Kong businessman expected to take loss on Peak properties he bought for US$255m",
-      "link": "https://www.scmp.com/business/article/3346780/hong-kong-businessman-expected-take-loss-peak-properties-he-bought-us255m?utm_source=rss_feed",
-      "date": "2026-03-16 11:53",
-      "summary": "Luxury residential property on Hong Kong’s Peak Road owned by businessman Chan King-wai has been put up for sale by public tender,..."
     }
   ],
   "New Scientist": [
