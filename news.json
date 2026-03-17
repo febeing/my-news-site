@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Three anesthesia drugs all have the same effect in the brain, MIT researchers find",
+      "link": "https://news.mit.edu/2026/three-anesthesia-drugs-all-have-same-effect-brain-0317",
+      "date": "2026-03-17 15:00",
+      "summary": "Discovering this common mechanism could lead to a universal anesthesia-delivery system to monitor patients more effectively...."
+    },
+    {
       "title": "Ocean bacteria team up to break down biodegradable plastic",
       "link": "https://news.mit.edu/2026/ocean-bacteria-break-down-biodegradable-plastic-0316",
       "date": "2026-03-16 14:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/next-gen-geothermal-energy-promise-progress-challenges-0313",
       "date": "2026-03-13 18:55",
       "summary": "Geothermal innovators at MIT and elsewhere are seeking deeper and hotter rocks to generate electricity at scale...."
-    },
-    {
-      "title": "How the brain handles the “cocktail party problem”",
-      "link": "https://news.mit.edu/2026/how-brain-handles-cocktail-party-problem-0313",
-      "date": "2026-03-13 10:00",
-      "summary": "Using a computational model, neuroscientists showed how the brain can selectively focus attention on one voice among others in a n..."
     }
   ],
   "Harvard Gazette": [
@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "When artificial lightning strikes",
+      "link": "https://www.nature.com/articles/d41586-026-00643-4",
+      "date": "2026-03-17 00:00",
+      "summary": "Nature, Published online: 17 March 2026; doi:10.1038/d41586-026-00643-4Safety concerns of human-triggered bolts of electricity, an..."
+    },
+    {
       "title": "Rethinking AI’s role in survey research: from threat to collaboration",
       "link": "https://www.nature.com/articles/d41586-026-00862-9",
       "date": "2026-03-17 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-00864-7",
       "date": "2026-03-17 00:00",
       "summary": "Nature, Published online: 17 March 2026; doi:10.1038/d41586-026-00864-7Marine conservation cities: a model for ocean governance..."
-    },
-    {
-      "title": "AlphaFold hits ‘next level’: the AI tool now includes protein pairing",
-      "link": "https://www.nature.com/articles/d41586-026-00787-3",
-      "date": "2026-03-17 00:00",
-      "summary": "Nature, Published online: 17 March 2026; doi:10.1038/d41586-026-00787-3The database of 200 million protein-structure predictions n..."
     }
   ],
   "Science News": [
@@ -193,34 +193,34 @@
   ],
   "Reuters AI": [
     {
-      "title": "Meta shares jump after Reuters report on plans for layoffs of 20% or more - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjg1WWdxQlduWWxnV2t2NmZLWnJhY0R4b1hYQ3hYb1pzSXlJYnBqQl9ESXctcVoyUU1zemxSc2ZZWmRBVUhZRW81VXFReGRXRXgweV9rcTFLV3hqOFdLdUFySHpwWmJxQXRrajFyVFRMWml2eWtibDRVM3ZYcmNia0poeGNXTk1TaVZhSXVRblBoSVZVUUhJb0daeUlFM2xvdnNpdFZveGlpUFU?oc=5",
-      "date": "2026-03-16 11:50",
-      "summary": "Meta shares jump after Reuters report on plans for layoffs of 20% or more  Reuters..."
-    },
-    {
-      "title": "Trump accuses Iran of using AI to spread disinformation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWG1nd2FDOUNqQXJETGRvLUc2RWJOTWRVV1BCcUZTODhVUkV5REFhWUFMdjJCMHhRWnJuUlphR0JPeTNEWWdmV0VDT291dEZLQUJqNDl1ZkE5Qjl0VWlqU2tEQzhWRlRxZE9uSFk0RWhYNWhWZThxa0Y0VWpyYUlXS05tQ3h4NWhFNnVBYU9sOXNWYUJNS2dZSEJrUjlrT1NRUmtfX1RvcHVZWWpT?oc=5",
-      "date": "2026-03-16 02:53",
-      "summary": "Trump accuses Iran of using AI to spread disinformation  Reuters..."
-    },
-    {
-      "title": "Meta planning sweeping layoffs as AI costs mount: Reuters - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE1QZE02a2pMcFhrbTVkcFFzLTU5aXctU040Q3JMaTdIa0VrMW5vUUpPcU9UQV9aS1VLR1dqUEEyU1FzVTlMVUFOUmpDcEkwTzZGZVlmcTZ1RFFpalZEMUFmUF9wZmlxVmkxVUI2QkdqWTBLOHRJM0NpTVJUcGs5S212NWtPTjJsS0Zvc01HdDRFcXVCekdLLdIBngFBVV95cUxQUnM1a2NxNGQtUzB4UjZrMEtEVTdZOHJINmJDbG96VDRUSzVoRmhBZ04zcXNoNGVmX09VTUdsd3JMMXF0aDRkQ0xfUGY4U2FEWEJKYVc1a0U0Wk9RVW1WU2NfcGxodDQ3a2poajBFQ0dfTU5xYXRQX0ZRN1puRXcyaFJPUUV0ZUY3VVBLSWlNV3QxUWNMc0lRMjFOSE41Zw?oc=5",
-      "date": "2026-03-14 10:19",
-      "summary": "Meta planning sweeping layoffs as AI costs mount: Reuters  CNBC..."
-    },
-    {
-      "title": "Nvidia bets on AI inference as chip revenue opportunity hits $1 trillion - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzZqLTZuMnJNcm0wVG9VTFpSSnlZZTJvX3NXRTczU21sSFh1QU5rZUd0MDk3dE9xYWFOak8xblh4ZV9ONEstbTNzNDdyeXNsUzA1UktZMmR6YnJvTzdhVUMyOFFOaVVPdG1kY0lhVm5CdzJkV2Z3Q0hSRHYyWmZ6Rl9DZFduVURFcTVLTkdaYnR4TWxsa0JGV3F5V3Q3QzItTFVBZWVvajZOZzdiYW5MSk1iYnFvdDFN?oc=5",
-      "date": "2026-03-16 11:01",
-      "summary": "Nvidia bets on AI inference as chip revenue opportunity hits $1 trillion  Reuters..."
+      "title": "Exclusive: Meta planning sweeping layoffs as AI costs mount - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRvMGkwTFd4Qkt3QzB1bDhZa2g1cWtiVlRXc0NoSlpfM2N4cmJUV0VTd3REcFljTHlWVDh6cUQ2emJaUVdPUVY1MFVqWVYzNFVkbk9zU2VhSDUtcUtBYlZtNVR5MGUwQ2FoakZYdkJtbWx4aTdOOTFxRmNXUWJVVDhXNy1YVGppMjlDNlZCcHVyNUM1OGswYzEwc3BZNmRQN3FnQzIwSQ?oc=5",
+      "date": "2026-03-14 00:17",
+      "summary": "Exclusive: Meta planning sweeping layoffs as AI costs mount  Reuters..."
     },
     {
       "title": "Alibaba launches AI platform for enterprises as agent craze sweeps China - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYW5JS25vNndXY1cxWWF3R3E2NERDV0dPSlMweUh3YURBWXQwNU5JdFNUMmV4Rlk1Ynk0Q0ZxNUZoWkt4RGNsd0JCeGlNanJNQmE4N2MwVG91V3R2U0xaeTRVMENWdU45VEUxdXI4V1dNRGE5XzRBZDlBajd5NWdlNGZIbVRHODVtMmZJLThET1RtMDBWbmVxNGhkMHFWc3pJWFRNNVo1c2M?oc=5",
       "date": "2026-03-17 02:36",
       "summary": "Alibaba launches AI platform for enterprises as agent craze sweeps China  Reuters..."
+    },
+    {
+      "title": "Meta shares jump after Reuters report on plans for layoffs of 20% or more - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjg1WWdxQlduWWxnV2t2NmZLWnJhY0R4b1hYQ3hYb1pzSXlJYnBqQl9ESXctcVoyUU1zemxSc2ZZWmRBVUhZRW81VXFReGRXRXgweV9rcTFLV3hqOFdLdUFySHpwWmJxQXRrajFyVFRMWml2eWtibDRVM3ZYcmNia0poeGNXTk1TaVZhSXVRblBoSVZVUUhJb0daeUlFM2xvdnNpdFZveGlpUFU?oc=5",
+      "date": "2026-03-16 11:50",
+      "summary": "Meta shares jump after Reuters report on plans for layoffs of 20% or more  Reuters..."
+    },
+    {
+      "title": "OpenAI to sell AI to US agencies through Amazon cloud unit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYUc0dXdFRWFQOF9vUVZrVERpM3E1eW5JQTVSdWM1dnRTdVIwcmVpMUZadlY2bTJIdVZkUWV3S2RRbjBQdUtsYXdQaUhEQmFfSndvU1RlbEU3dmNDYllWbGNoOE8yZlZNdW92X0dIaVRrSU1UYnlLTXU4X002WF8xTXViOUg4Y3EyZHJ2UVpwa21QbXE5S0szTk5ydHlEbHQ0ZDczbzFXSl81bENsT0RFM2R1TEM0MUE4SDBzOUktM0tsaTNpWnBSOGgzYTRmdw?oc=5",
+      "date": "2026-03-17 13:12",
+      "summary": "OpenAI to sell AI to US agencies through Amazon cloud unit  Reuters..."
+    },
+    {
+      "title": "Nvidia bets on AI inference as chip revenue opportunity hits $1 trillion - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzZqLTZuMnJNcm0wVG9VTFpSSnlZZTJvX3NXRTczU21sSFh1QU5rZUd0MDk3dE9xYWFOak8xblh4ZV9ONEstbTNzNDdyeXNsUzA1UktZMmR6YnJvTzdhVUMyOFFOaVVPdG1kY0lhVm5CdzJkV2Z3Q0hSRHYyWmZ6Rl9DZFduVURFcTVLTkdaYnR4TWxsa0JGV3F5V3Q3QzItTFVBZWVvajZOZzdiYW5MSk1iYnFvdDFN?oc=5",
+      "date": "2026-03-16 11:01",
+      "summary": "Nvidia bets on AI inference as chip revenue opportunity hits $1 trillion  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "How plant populations keep a genetic memory of the past",
-      "link": "https://phys.org/news/2026-03-populations-genetic-memory.html",
-      "date": "2026-03-17 14:30",
-      "summary": "Plants are usually seen as stationary life forms, quietly supporting environments. But plant communities and populations are far f..."
+      "title": "Astronomers discover long-period radio transient of unknown origin",
+      "link": "https://phys.org/news/2026-03-astronomers-period-radio-transient-unknown.html",
+      "date": "2026-03-17 16:00",
+      "summary": "Using the Australian SKA Pathfinder (ASKAP), astronomers have discovered a new long-period radio transient source, which received ..."
     },
     {
-      "title": "Australia doesn't have a youth crime problem—it has a youth justice problem",
-      "link": "https://phys.org/news/2026-03-australia-doesnt-youth-crime-problem.html",
-      "date": "2026-03-17 13:50",
-      "summary": "Getting tough on youth crime is politically easy. Building a youth justice system that is safe, accountable and capable of learnin..."
+      "title": "Criminology professor co-authors study examining stereotypes against Asian women",
+      "link": "https://phys.org/news/2026-03-criminology-professor-authors-stereotypes-asian.html",
+      "date": "2026-03-17 16:00",
+      "summary": "The Asian community in the United States was microscopic six decades ago, for the wrong reasons. Because of discriminatory policie..."
     },
     {
-      "title": "Scientists show dragon fruit peel extract boosts bread nutrition and lowers glycemic potential",
-      "link": "https://phys.org/news/2026-03-scientists-dragon-fruit-boosts-bread.html",
-      "date": "2026-03-17 13:30",
-      "summary": "A research team led by Professor Zhou Weibiao from the Department of Food Science and Technology at the NUS Faculty of Science has..."
+      "title": "Discrete time crystal acts as a usable sensor for weak magnetic oscillations",
+      "link": "https://phys.org/news/2026-03-discrete-crystal-usable-sensor-weak.html",
+      "date": "2026-03-17 15:40",
+      "summary": "The bizarre properties of discrete time crystals could be harnessed to detect extremely subtle oscillations of magnetic fields, ph..."
     },
     {
-      "title": "Inverse design: A new pathway to custom functional polymers",
-      "link": "https://phys.org/news/2026-03-inverse-pathway-custom-functional-polymers.html",
-      "date": "2026-03-17 13:00",
-      "summary": "At a potluck, you ate the best chocolate chip cookie—golden-brown, thick and chewy. Unfortunately, you don't know who made the coo..."
+      "title": "Safety of antibiotic treatment for stony coral tissue loss disease confirmed",
+      "link": "https://phys.org/news/2026-03-safety-antibiotic-treatment-stony-coral.html",
+      "date": "2026-03-17 15:30",
+      "summary": "An antibiotic treatment used in many parts of the Caribbean and on Florida's Coral Reef to combat stony coral tissue loss disease ..."
     },
     {
-      "title": "Researcher finds that telling the truth is correlated with better criminal justice outcomes",
-      "link": "https://phys.org/news/2026-03-truth-criminal-justice-outcomes.html",
-      "date": "2026-03-17 12:50",
-      "summary": "Research from a Bowling Green State University faculty member recently found that one of the best strategies in the context of the..."
+      "title": "Earth's toughest microbes could help save the planet and find life on other worlds",
+      "link": "https://phys.org/news/2026-03-earth-toughest-microbes-planet-life.html",
+      "date": "2026-03-17 15:20",
+      "summary": "Extremophiles may well be tiny, but they are making a huge contribution to the health of our planet and our lives. A new review of..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Measures to streamline Northern Metropolis land-use procedures unveiled",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3346930/measures-streamline-northern-metropolis-land-use-procedures-unveiled?utm_source=rss_feed",
+      "date": "2026-03-17 15:38",
+      "summary": "Hong Kong authorities have proposed designated laws to streamline procedures for changing land use in the Northern Metropolis mega..."
+    },
+    {
       "title": "15 Hong Kong schools risk closure as falling numbers trigger Primary One ban",
       "link": "https://www.scmp.com/news/hong-kong/education/article/3346926/15-hong-kong-schools-risk-closure-falling-numbers-trigger-primary-one-ban?utm_source=rss_feed",
       "date": "2026-03-17 14:10",
@@ -343,44 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3346895/authorities-look-link-illegal-fuel-operations-truck-goes-flames?utm_source=rss_feed",
       "date": "2026-03-17 09:34",
       "summary": "Hong Kong authorities are searching for a woman believed to own a truck that burst into flames in Kwai Chung, with the vehicle sus..."
-    },
-    {
-      "title": "21 Wang Fuk Court homeowners, residents to give evidence in fire probe",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3346891/21-wang-fuk-court-homeowners-residents-give-evidence-fire-probe?utm_source=rss_feed",
-      "date": "2026-03-17 09:21",
-      "summary": "Fourteen members of the former owners’ corporation of blaze-hit Wang Fuk Court along with seven residents have been named to give ..."
-    }
-  ],
-  "New Scientist": [
-    {
-      "title": "Your partner may wake you up six times a night – but does it matter?",
-      "link": "https://www.newscientist.com/article/2519388-your-partner-may-wake-you-up-six-times-a-night-but-does-it-matter/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-17 12:00",
-      "summary": "People who share a bed with a partner are woken by them multiple times per night, but don’t remember most of these disturbances..."
-    },
-    {
-      "title": "The ancient Goths were an ethnically diverse group",
-      "link": "https://www.newscientist.com/article/2519371-the-ancient-goths-were-an-ethnically-diverse-group/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-16 12:00",
-      "summary": "Ancient DNA reveals that the Goths of eastern Europe, some of whom would ultimately sack the city of Rome, may have been a mix of ..."
-    },
-    {
-      "title": "Particle discovered at CERN solves a 20-year-old mystery",
-      "link": "https://www.newscientist.com/article/2519595-particle-discovered-at-cern-solves-a-20-year-old-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-17 09:00",
-      "summary": "Physicists working on the LHCb experiment have spotted an elusive and fleeting particle, a heavier and more charming cousin to the..."
-    },
-    {
-      "title": "3I/ATLAS: Interstellar comet has water unlike any in our solar system",
-      "link": "https://www.newscientist.com/article/2519428-3i-atlas-interstellar-comet-has-water-unlike-any-in-our-solar-system/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-17 07:00",
-      "summary": "The levels of a heavy form of hydrogen in 3I/ATLAS are 30 to 40 times higher than in Earth's oceans, suggesting the comet has a co..."
-    },
-    {
-      "title": "The asteroid Ryugu has all of the main ingredients for life",
-      "link": "https://www.newscientist.com/article/2519423-the-asteroid-ryugu-has-all-of-the-main-ingredients-for-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-16 16:00",
-      "summary": "All five of the canonical nucleobases – the underpinnings of DNA, RNA and life on Earth – have been found in samples from the aste..."
     }
   ]
 }
