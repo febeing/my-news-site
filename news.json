@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "How climate change is fueling disease outbreaks - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTklGeG5vbUZ5d01IWTdlamZYdm00M2N6bk1Cbkx4Z0ZvOHVheWxrSmc3Y05EbGtxa2FFSHhibDQwb0djUlZqZldHbnhzM2V2XzVYMUlUQXhXc3B1LVh6UGJpR01SRTFoSG1YenhpMUxocUhrZ3pXc0xrVjFwc1lWUjY0akplLVlPOGR3dEh4ekNfLVdhTV81ZzFrVG8?oc=5",
+      "date": "2026-03-17 22:21",
+      "summary": "How climate change is fueling disease outbreaks  Stanford Report..."
+    },
+    {
       "title": "What does it mean to be reasonable? - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdzFNRmVwZ3FjdEVyakEzdFE3ZHFPaG9NRnZYTjZPVkg5eE16ZmVJOGdjaDlWZkUxamh0aVJpQlNZZVk2dWh0dklFSGNFOGo1cjk0MGg4S3dRUVp2dVRaYWRlbERPYnVxenprb3p1RjFCNEhkSi1aZWxKRkpvclZENDVITkdHRktKd1B2VnNZVUs2R0dyM21LcE4yNHRyYjgz?oc=5",
       "date": "2026-03-17 13:00",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NZDZJM2p3d19zS2dLdl9DZG5lQkx3Z3NoMFVpNmdFZXJtZmFPaXJ3VXExeXFib1dWWHJ6NHQtRElkNTBfZUJBMno2Y25IVUNBRTN0TEh4ckRlTE5wbnFYVWhNcnFqaThQenMwU0g4VU9yVy1MbjhncWdPdw?oc=5",
       "date": "2026-03-16 19:04",
       "summary": "The clock is ticking for these Three Minute Thesis finalists  Stanford Report..."
-    },
-    {
-      "title": "Defending Ed Files Civil Rights Complaint Against Stanford University for National Board Resource Center BIPOC Cohort - Defending Education",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeUhxd0Q1ZWxnOEoyRk5RT2VZQnlycTdYVS15NHF4TUZrbHFNNmZLY2xBbV9PQUhtS3RDT0FzVEZmOXJrNjlnQ05TRnVmZzAzYldKdnE1V3B3T2xiQVBkOWpseGN6a2R5REhVUFphNVZsNkRvVTRnOTNPTnpQRjMwTlVvSExiRENsTkRzLVZUX1BiSm9DZXdHYXRFMHl3Ukcxd0dWQ0RpRFdfYkp5RV9FVEJKRTFJX1otaU5pRzd4SWZKdnJEWWZmMjRlNXVjRVM1OTM3MXRpRl9PRUt3cDM1VjVIYXJwRkJ1?oc=5",
-      "date": "2026-03-17 00:59",
-      "summary": "Defending Ed Files Civil Rights Complaint Against Stanford University for National Board Resource Center BIPOC Cohort  Defending E..."
     },
     {
       "title": "Broncos Close Regular Season With Sunday Dual at Stanford - Boise State University Athletics",
@@ -129,6 +129,18 @@
   ],
   "Science News": [
     {
+      "title": "White House lifts hold on NIH research spending",
+      "link": "https://www.science.org/content/article/white-house-lifts-hold-nih-research-spending",
+      "date": "2026-03-17 05:40",
+      "summary": "Director Jay Bhattacharya tells House lawmakers that grantmaking, hiring are on track..."
+    },
+    {
+      "title": "Colliding currents can target the deep brain without surgery",
+      "link": "https://www.science.org/content/article/colliding-currents-can-target-deep-brain-without-surgery",
+      "date": "2026-03-17 05:15",
+      "summary": "Human studies show promise of stimulation approach for epilepsy and other diseases..."
+    },
+    {
       "title": "This hot pink cricket is no mutant",
       "link": "https://www.science.org/content/article/hot-pink-cricket-no-mutant",
       "date": "2026-03-17 04:55",
@@ -145,18 +157,6 @@
       "link": "https://www.science.org/content/article/can-potatoes-grow-moon",
       "date": "2026-03-16 05:30",
       "summary": "Experiments show the crop can survive in lunar soil—with a lot of help..."
-    },
-    {
-      "title": "Ancient DNA reshapes the story of early Pacific migrations",
-      "link": "https://www.science.org/content/article/ancient-dna-reshapes-story-early-pacific-migrations",
-      "date": "2026-03-16 05:30",
-      "summary": "Neolithic seafarers who settled Palau were already a blend of Asian and Papuan peoples..."
-    },
-    {
-      "title": "Analysis: Why the research money isn’t flowing from NSF and NIH",
-      "link": "https://www.science.org/content/article/analysis-why-research-money-isn-t-flowing-nsf-and-nih",
-      "date": "2026-03-16 04:10",
-      "summary": "White House review of agency spending plans for this year is causing delays..."
     }
   ],
   "Retraction Watch": [
@@ -193,12 +193,6 @@
   ],
   "Reuters AI": [
     {
-      "title": "Alibaba launches AI platform for enterprises as agent craze sweeps China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYW5JS25vNndXY1cxWWF3R3E2NERDV0dPSlMweUh3YURBWXQwNU5JdFNUMmV4Rlk1Ynk0Q0ZxNUZoWkt4RGNsd0JCeGlNanJNQmE4N2MwVG91V3R2U0xaeTRVMENWdU45VEUxdXI4V1dNRGE5XzRBZDlBajd5NWdlNGZIbVRHODVtMmZJLThET1RtMDBWbmVxNGhkMHFWc3pJWFRNNVo1c2M?oc=5",
-      "date": "2026-03-17 02:36",
-      "summary": "Alibaba launches AI platform for enterprises as agent craze sweeps China  Reuters..."
-    },
-    {
       "title": "Meta shares jump after Reuters report on plans for layoffs of 20% or more - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjg1WWdxQlduWWxnV2t2NmZLWnJhY0R4b1hYQ3hYb1pzSXlJYnBqQl9ESXctcVoyUU1zemxSc2ZZWmRBVUhZRW81VXFReGRXRXgweV9rcTFLV3hqOFdLdUFySHpwWmJxQXRrajFyVFRMWml2eWtibDRVM3ZYcmNia0poeGNXTk1TaVZhSXVRblBoSVZVUUhJb0daeUlFM2xvdnNpdFZveGlpUFU?oc=5",
       "date": "2026-03-16 11:50",
@@ -217,10 +211,16 @@
       "summary": "Analysts revise AI hyperscaler debt forecasts after Amazon bond sale  Reuters..."
     },
     {
-      "title": "Meta planning sweeping layoffs as AI costs mount: Reuters - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE1QZE02a2pMcFhrbTVkcFFzLTU5aXctU040Q3JMaTdIa0VrMW5vUUpPcU9UQV9aS1VLR1dqUEEyU1FzVTlMVUFOUmpDcEkwTzZGZVlmcTZ1RFFpalZEMUFmUF9wZmlxVmkxVUI2QkdqWTBLOHRJM0NpTVJUcGs5S212NWtPTjJsS0Zvc01HdDRFcXVCekdLLdIBngFBVV95cUxQUnM1a2NxNGQtUzB4UjZrMEtEVTdZOHJINmJDbG96VDRUSzVoRmhBZ04zcXNoNGVmX09VTUdsd3JMMXF0aDRkQ0xfUGY4U2FEWEJKYVc1a0U0Wk9RVW1WU2NfcGxodDQ3a2poajBFQ0dfTU5xYXRQX0ZRN1puRXcyaFJPUUV0ZUY3VVBLSWlNV3QxUWNMc0lRMjFOSE41Zw?oc=5",
-      "date": "2026-03-14 10:19",
-      "summary": "Meta planning sweeping layoffs as AI costs mount: Reuters  CNBC..."
+      "title": "Nvidia bets on AI inference as chip revenue opportunity hits $1 trillion - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzZqLTZuMnJNcm0wVG9VTFpSSnlZZTJvX3NXRTczU21sSFh1QU5rZUd0MDk3dE9xYWFOak8xblh4ZV9ONEstbTNzNDdyeXNsUzA1UktZMmR6YnJvTzdhVUMyOFFOaVVPdG1kY0lhVm5CdzJkV2Z3Q0hSRHYyWmZ6Rl9DZFduVURFcTVLTkdaYnR4TWxsa0JGV3F5V3Q3QzItTFVBZWVvajZOZzdiYW5MSk1iYnFvdDFN?oc=5",
+      "date": "2026-03-16 11:01",
+      "summary": "Nvidia bets on AI inference as chip revenue opportunity hits $1 trillion  Reuters..."
+    },
+    {
+      "title": "Microsoft rejigs Copilot teams, freeing up AI chief for superintelligence push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZTZ1eTR3TnhaNEp0QktMUzA4WWJzcnE1MmtmTG9OeXpwdHpuUnZvM0tueFFUT19TTjVaSlI5RE5KZG1GVUhfMmt2UGVobzVIWmJIb2lqSDdkWmxTYjVxd3pjdk5MbDZkVGRtMW96NC0xdnhYT2hjQXMxZU8xcHZVMHFtMzM5TVV2SWhQT1p4UDRsQmlRal90RUNCakhtYy1vdjluR1cxcHV4aGJtb3YzLXRvOEJmQQ?oc=5",
+      "date": "2026-03-17 15:24",
+      "summary": "Microsoft rejigs Copilot teams, freeing up AI chief for superintelligence push  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -231,16 +231,16 @@
       "summary": "Where OpenAI’s technology could show up in Iran  MIT Technology Review..."
     },
     {
-      "title": "Future AI chips could be built on glass - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMTA5ZVJfQWVXMGh0THFyM3NIVzJ5a0lGSWIySjE3V2tGVVNzeHZYV0N3TllMUlJKdW5fR1JMc2VUWV83eEQxX3pIZHMxd1M2X0U3bTZNTlh6NXFlVEM4enJhbGh1U0Jab2ZaQlJEVkNxSFFTZy1OSS1qWG5sSXhybTYyWXkxNkpuemhvRlhxR0RySmZBRmtv0gGcAUFVX3lxTE1xalN1ODdJWk44UkFGUnlSZG51YU11MnFCOUwyV2lpOFZVUElHU3I2MzhobmdXdlVSNmhQdEpYalZRdllsUDVLTnB4YllhREEwN3dXLS04RWYwWjVya0k2Q01iUEVlRTRKQjlEdEhZZzdTS21JV1JlOThvejdnc3BmcDBVSkpheDJ3b0RHOVFNSERnY0F1MWpCY05Reg?oc=5",
-      "date": "2026-03-13 09:00",
-      "summary": "Future AI chips could be built on glass  MIT Technology Review..."
-    },
-    {
       "title": "A defense official reveals how AI chatbots could be used for targeting decisions - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2ZVNFAwWHZjUXRRMzRLdm9hTUtFdlk3U0NZSFJ5amtWbzdkc3RNR1o3dEZWeEtBdWFKVE1aazlTdUFuSjZvVjFRaW5McEtGTlhTcWhTcFV2M2gtTUZUSTFZRnJKS2w5OGttaDZLaWxBbmlzX0o0SFd1ZTFDT21DUnJJUGllRWk4T0N0WlRZQnZUeVlXUExhVGd0c1BZMmRwbDBQMC1kSXVFRU5nYjRtZUdHMkfSAboBQVVfeXFMTzM2SkhOZXJZYTZTSzNDVklKYjkwNHFzZHMtSDgxUG5yVm1qLTgyNlRUb3N2cWxKUjdxb0dvbUNTR05kek5KMm1la19LWS1XZ0t5R0dabVJqaGtkUjQ0N0lVenM3UnpEd2REd2JaTlNlUlZ5QkRfLXVOZUw0Q1JGWmlERDlwOUx0LVNNbTk0NE1vZmxvLUxJY2V5WnQ0ZF9ndjRid0RwLVZoWm5GMmUyWTVsakV3MjQxMWhB?oc=5",
       "date": "2026-03-12 22:23",
       "summary": "A defense official reveals how AI chatbots could be used for targeting decisions  MIT Technology Review..."
+    },
+    {
+      "title": "Future AI chips could be built on glass - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMTA5ZVJfQWVXMGh0THFyM3NIVzJ5a0lGSWIySjE3V2tGVVNzeHZYV0N3TllMUlJKdW5fR1JMc2VUWV83eEQxX3pIZHMxd1M2X0U3bTZNTlh6NXFlVEM4enJhbGh1U0Jab2ZaQlJEVkNxSFFTZy1OSS1qWG5sSXhybTYyWXkxNkpuemhvRlhxR0RySmZBRmtv0gGcAUFVX3lxTE1xalN1ODdJWk44UkFGUnlSZG51YU11MnFCOUwyV2lpOFZVUElHU3I2MzhobmdXdlVSNmhQdEpYalZRdllsUDVLTnB4YllhREEwN3dXLS04RWYwWjVya0k2Q01iUEVlRTRKQjlEdEhZZzdTS21JV1JlOThvejdnc3BmcDBVSkpheDJ3b0RHOVFNSERnY0F1MWpCY05Reg?oc=5",
+      "date": "2026-03-13 09:00",
+      "summary": "Future AI chips could be built on glass  MIT Technology Review..."
     },
     {
       "title": "Nurturing agentic AI beyond the toddler stage - MIT Technology Review",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Sunscreen produces persistent free radicals when exposed to light, study finds",
-      "link": "https://phys.org/news/2026-03-sunscreen-persistent-free-radicals-exposed.html",
-      "date": "2026-03-17 21:30",
-      "summary": "Research from the Department of Environmental Health Sciences explores how common sunscreen ingredients behave under light exposur..."
+      "title": "Bell-bottoms today, miniskirts tomorrow: Math reveals fashion's 20-year cycle",
+      "link": "https://phys.org/news/2026-03-bell-bottoms-today-miniskirts-tomorrow.html",
+      "date": "2026-03-17 22:30",
+      "summary": "Fashion insiders and beauty magazines have long cited the \"20-year-rule\"—the idea that clothing trends often resurface every two d..."
     },
     {
-      "title": "How humans took over the planet: The role of cultural evolution",
-      "link": "https://phys.org/news/2026-03-humans-planet-role-cultural-evolution.html",
-      "date": "2026-03-17 21:30",
-      "summary": "Humans really do rule the world. We took over fast and far, more than any other wild vertebrates. We inhabit nearly every corner o..."
+      "title": "Ultrathin BiFeO&#8323; breaks the 30 nm limit, delivering fourfold stronger piezoelectricity",
+      "link": "https://phys.org/news/2026-03-ultrathin-bifeo8323-nm-limit-fourfold.html",
+      "date": "2026-03-17 22:30",
+      "summary": "Piezoelectric materials, which convert mechanical stress into electricity and vice versa, are essential components in sensors, act..."
     },
     {
-      "title": "The autonomy of universities in the U.S. falls far behind peer group, analysis finds",
-      "link": "https://phys.org/news/2026-03-autonomy-universities-falls-peer-group.html",
-      "date": "2026-03-17 21:20",
-      "summary": "Academic freedom continues to decline worldwide. Over the last decade, it has declined in 50 countries, while only nine countries ..."
+      "title": "Some Canadians are willing to eat insect-based food, but conditions apply",
+      "link": "https://phys.org/news/2026-03-canadians-insect-based-food-conditions.html",
+      "date": "2026-03-17 22:20",
+      "summary": "Going to the grocery store these days can be a painful experience, with record-high price hikes biting into Canadian food budgets...."
     },
     {
-      "title": "Carbon nanotube 'black paint' absorbs terahertz radiation to cut 6G interference",
-      "link": "https://phys.org/news/2026-03-carbon-nanotube-black-absorbs-terahertz.html",
-      "date": "2026-03-17 21:20",
-      "summary": "Skoltech researchers and their colleagues from KTH Royal Institute of Technology, Sweden, have created an important building block..."
+      "title": "Past intensive whaling threatens the future of bowhead whales",
+      "link": "https://phys.org/news/2026-03-intensive-whaling-threatens-future-bowhead.html",
+      "date": "2026-03-17 22:20",
+      "summary": "A unique collection of prehistoric bowhead whale bones, dating back 11,000 years, reveals a previously untold story of the relativ..."
     },
     {
-      "title": "Bacterium that may protect against long COVID identified",
-      "link": "https://phys.org/news/2026-03-bacterium-covid.html",
-      "date": "2026-03-17 21:10",
-      "summary": "According to WHO, approximately 6% of the worldwide population who contract COVID-19—some 400 million people—go on to develop a lo..."
+      "title": "Genetic analyses show that many sponge species in the Indo-Pacific are regionally unique",
+      "link": "https://phys.org/news/2026-03-genetic-analyses-sponge-species-indo.html",
+      "date": "2026-03-17 22:10",
+      "summary": "The Indo-Pacific is the largest marine biogeographical region on Earth and a global center of marine biodiversity. Nevertheless, t..."
     }
   ],
   "The Guardian Edu": [
