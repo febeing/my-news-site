@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "ArXiv, the pioneering preprint server, declares independence from Cornell",
+      "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+      "date": "2026-03-18 06:00",
+      "summary": "As an independent nonprofit, it hopes to raise funds to cope with exploding submissions and “AI slop”..."
+    },
+    {
       "title": "China demands evidence that traditional medicine injections really work",
       "link": "https://www.science.org/content/article/china-demands-evidence-traditional-medicine-injections-really-work",
       "date": "2026-03-18 02:00",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/computer-science-s-nobel-prize-goes-quantum",
       "date": "2026-03-18 05:00",
       "summary": "Charles Bennett and Gilles Brassard share this year’s $1 million A.M. Turing Award for work on quantum information..."
-    },
-    {
-      "title": "Scientific conferences can be a bore. Can jokes liven them up?",
-      "link": "https://www.science.org/content/article/scientific-conferences-can-be-bore-can-jokes-liven-them",
-      "date": "2026-03-17 08:01",
-      "summary": "Science speaks with ecologist Stefano Mammola about the power of humor to enhance science communication..."
     }
   ],
   "Retraction Watch": [
@@ -205,6 +205,12 @@
       "summary": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036  Reuters..."
     },
     {
+      "title": "Micron forecasts strong revenue on AI boom; higher spending plan knocks shares - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzNUOFJSSUtqMEVvcmJOaWFwWDdmMTAtZERCdkN3TnY5OGcyOGFGLVZVeDV3RWd6QTlIWnNoNDlNc0k2QTMyUWJqTy1jd04tNmFVLTZTTkI4ZGJlbmpKM0FhVGhLdGFCclNjU1NGenk2SE5pSTJCdnJMdm9PYTNUQ0xGbU5qZnlaMUpuMWR0dnNSZw?oc=5",
+      "date": "2026-03-18 20:05",
+      "summary": "Micron forecasts strong revenue on AI boom; higher spending plan knocks shares  Reuters..."
+    },
+    {
       "title": "Meta’s AI push could trigger 20% layoffs of its workforce - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczhHUG45UlNfTUcxSUlwNlA5eDRvNjdxUWpWUTctbmZ6a0JUamVmVFUyTXJ2VkN4bU10RFNfZVBKaFZBMTQ0WlMzYWlKaERiekh0MkFmR2hLNzRCV2E5bl9XejJFMS13aVYtb3NVTG5mV1RRaFhBcFRmS0x2aGdYZTJselFBR2FKNGZ4N2NlUjNxTl9nTVl1bmZrMENkNjd1SFE?oc=5",
       "date": "2026-03-16 19:47",
@@ -215,12 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOEl1RjY5TXpZZ3FXWEl3TFJqb1pFUTVDXzNtVzJOUTlDclZEdURYZWRqazVyRVJURkxiMUxYcnFObkFhRE5rZDNJN0VMWER1S2FsM2NqWEZlb2tzSTZzaTNyWEpzSmltVTR1RDJHMTRaTWhVNTJMX3JZTHNHRnNqX0l4dFBhY1VfMDc4TGRJZG9KTzlNV0VvakJSeWFnRzBncnU4Qmlnckl0UDJncE1LR2NR?oc=5",
       "date": "2026-03-18 07:29",
       "summary": "Alibaba's AI strategy shift comes into focus with big bets on agents  Reuters..."
-    },
-    {
-      "title": "Samsung Elec and AMD sign MoU on AI memory, explore foundry partnership - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUZ3UjdLck9TeDNJU2hCN1hOekptTHl6Y1NOYVlOTGdhbWtaTnVqSWp3cmY1TFhDNEFZcGl0Zi1kNFpaYnQ5czhKTk9COUFPQnQzTkNuR2lHa2FJZHByUWhVanNfd18ydVlxdXBFTEV1OUpyUy1PWVhCRkpIaDg2TXoySFVqYXU5SWVmd3p5YmUyRjRHb0RZVHJWNEJuZ3E3UzlYdXhkaGgwRjc3bzFXbmk3NW53Q2NULVE?oc=5",
-      "date": "2026-03-18 08:03",
-      "summary": "Samsung Elec and AMD sign MoU on AI memory, explore foundry partnership  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -231,16 +231,16 @@
       "summary": "Where OpenAI’s technology could show up in Iran  MIT Technology Review..."
     },
     {
-      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM1lfaGg0eXpyNlFvQ1V4ZDFQUlFVQXJnX1NfdVlybnRIdF9ZaWFNVGtXMW9RY1lYNHNrZ2UzcmdRTGhUMFotenpPcUkzQUQxQlNCdGVsWTF2NVRxOG12a0FQbEZJa1oxR0lUX0RLVHZkLUpRc0ZSbHN3aGRFWFF0bVZpSDZSYURxYktISmpkVjlXemZ2TUFVNGZocldubjVTdm9ZNWY2dll0UFlFZ2h2WV91MDlLZlViMy01QXZieWZDRzNqQzB3OUljN3AzUUVNRFViVmN0SDRDSlZI0gHiAUFVX3lxTE9GTzg3RXk5eXdhX29ocm1ZLVg1d3dfb0UyM2h5eHlfb1FHNEdaSW9fZGluSmpydGRGeEt1U09tT2xEakZ3RDZXZGRnQnV5ZlgyRlFTX3BPRGtWZmVNdi0zekItS1VUQlYybjBwalEtcHM0WERsdXR3dWNpU25Fa1lCU2RPbGdwNHlYZVdRUTRidnFlVnFURmN3UkV5R04wenFDU1lhWVhWdzRCS1U2V2pLOTdsNWJ0QVZCN2xpcEROaUhFTk4tVjVlWTFoNE45bFJlNmU2UWdwaGN4UVFfc29PSnc?oc=5",
-      "date": "2026-03-17 22:30",
-      "summary": "The Pentagon is planning for AI companies to train on classified data, defense official says  MIT Technology Review..."
-    },
-    {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjJNYVhxNlVqbGNtbkRDaVNrSVp3Q2xlVVpHaVZDN1FsM3djLWROTmdoRXlJbXRVZk1RaE1DQ3BDc1Z1cjBjQXpSb1VIMFRyRVN2ZnNpVndjQ2FwdElyeGdCRWNtNlkydWdNOUxxdzh2MnpLWE9JU3dGQ1VYbmxEUEFFTVhkWnpFUmc3ODdIVFFPYkU1aU55T2c2NXNadzB4T2Fz0gGoAUFVX3lxTFA0c0hLSjJxMU5lckM3bFJWLVRPSWhiX2EwcG1YVjFjOWpFbFVtaW5rbG5mbHFCLVdWcWpJRFlpSHFMTTlmUi1YOTVzYm5nYmJVblZxZUsweWZIbVBWcWhvcHpJYnFuV3FlbWtBbVR0NG1LaWxaREdFQVMyQmJneEY4M0lsQUp5RTRLTFFfY3JaRlV3UTI1UGYtNUFrR2I0d1Z4YWZqcjJSTw?oc=5",
       "date": "2026-03-09 07:00",
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
+    },
+    {
+      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM1lfaGg0eXpyNlFvQ1V4ZDFQUlFVQXJnX1NfdVlybnRIdF9ZaWFNVGtXMW9RY1lYNHNrZ2UzcmdRTGhUMFotenpPcUkzQUQxQlNCdGVsWTF2NVRxOG12a0FQbEZJa1oxR0lUX0RLVHZkLUpRc0ZSbHN3aGRFWFF0bVZpSDZSYURxYktISmpkVjlXemZ2TUFVNGZocldubjVTdm9ZNWY2dll0UFlFZ2h2WV91MDlLZlViMy01QXZieWZDRzNqQzB3OUljN3AzUUVNRFViVmN0SDRDSlZI0gHiAUFVX3lxTE9GTzg3RXk5eXdhX29ocm1ZLVg1d3dfb0UyM2h5eHlfb1FHNEdaSW9fZGluSmpydGRGeEt1U09tT2xEakZ3RDZXZGRnQnV5ZlgyRlFTX3BPRGtWZmVNdi0zekItS1VUQlYybjBwalEtcHM0WERsdXR3dWNpU25Fa1lCU2RPbGdwNHlYZVdRUTRidnFlVnFURmN3UkV5R04wenFDU1lhWVhWdzRCS1U2V2pLOTdsNWJ0QVZCN2xpcEROaUhFTk4tVjVlWTFoNE45bFJlNmU2UWdwaGN4UVFfc29PSnc?oc=5",
+      "date": "2026-03-17 22:30",
+      "summary": "The Pentagon is planning for AI companies to train on classified data, defense official says  MIT Technology Review..."
     },
     {
       "title": "What do new nuclear reactors mean for waste? - MIT Technology Review",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "White-rot fungi show promise for reducing pharmaceutical residues in biosolids",
-      "link": "https://phys.org/news/2026-03-white-fungi-pharmaceutical-residues-biosolids.html",
-      "date": "2026-03-18 22:30",
-      "summary": "Antidepressants and other psychoactive drugs are designed to affect the human brain. But after they enter the water system in excr..."
+      "title": "How to stop panic buying: Research finds COVID lesson",
+      "link": "https://phys.org/news/2026-03-panic-buying-covid-lesson.html",
+      "date": "2026-03-18 23:20",
+      "summary": "Panic buying doesn't just respond to shortages—it creates them. And according to a University of the Sunshine Coast behavioral sci..."
     },
     {
-      "title": "Seals risk death by polar bear for a varied meal, study finds",
-      "link": "https://phys.org/news/2026-03-death-polar-varied-meal.html",
-      "date": "2026-03-18 22:20",
-      "summary": "As climate change reshapes Arctic food webs, ringed seals will swim into risky polar bear territory if the menu is varied enough. ..."
+      "title": "New ice core studies expand histories of greenhouse gases and ocean temperature to 3 million years",
+      "link": "https://phys.org/news/2026-03-ice-core-histories-greenhouse-gases.html",
+      "date": "2026-03-18 23:20",
+      "summary": "New analyses of ancient ice from Antarctica and the air contained inside it are extending the history of Earth's climate records a..."
     },
     {
-      "title": "In Germany, climate-related television content reaches engaged viewers but misses skeptical groups",
-      "link": "https://phys.org/news/2026-03-germany-climate-television-content-engaged.html",
-      "date": "2026-03-18 22:20",
-      "summary": "Researchers from Ludwig-Maximilians-Universität München, the University of Hamburg, Freie Universität Berlin and the Fraunhofer In..."
+      "title": "Global insect rescue plan requires new technology to ensure success",
+      "link": "https://phys.org/news/2026-03-global-insect-requires-technology-success.html",
+      "date": "2026-03-18 23:10",
+      "summary": "Cameras that photograph insects overnight and AI that identifies them are among a new generation of tools that could finally allow..."
     },
     {
-      "title": "Plant survival under three simultaneous stressors may hinge on a single protein",
-      "link": "https://phys.org/news/2026-03-survival-simultaneous-stressors-hinge-protein.html",
-      "date": "2026-03-18 22:10",
-      "summary": "Researchers at the University of Missouri have discovered certain proteins may be the key to saving plants' lives when multiple st..."
+      "title": "Clearing circular RNA from cells extends lifespan, C. elegans study reveals",
+      "link": "https://phys.org/news/2026-03-circular-rna-cells-lifespan-elegans.html",
+      "date": "2026-03-18 23:00",
+      "summary": "Cells in our bodies produce RNA based on genetic information stored in DNA, and RNA serves as a blueprint for making proteins. Res..."
     },
     {
-      "title": "Is glass a solid or a super slow liquid? Physicists create equilibrium glassy phase from rod-shaped particles",
-      "link": "https://phys.org/news/2026-03-glass-solid-super-liquid-physicists.html",
-      "date": "2026-03-18 22:00",
-      "summary": "Glass appears to be a solid, but in theory it sometimes behaves more like an extremely slow liquid. Physicists in Utrecht now show..."
+      "title": "Ancient climate records reveal a wetter Levant that may have guided early humans out of Africa",
+      "link": "https://phys.org/news/2026-03-ancient-climate-reveal-wetter-levant.html",
+      "date": "2026-03-18 22:40",
+      "summary": "For modern residents of the Levant, the \"Red Sea Trough\" usually brings a brief, dusty transition between seasons. But 127,000 yea..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong follows Federal Reserve to keep base rate unchanged amid Middle East war",
+      "link": "https://www.scmp.com/business/banking-finance/article/3347088/hong-kong-follows-federal-reserve-keep-base-rate-unchanged-amid-middle-east-war?utm_source=rss_feed",
+      "date": "2026-03-18 23:16",
+      "summary": "Hong Kong’s monetary authority kept its base rate unchanged after a similar move by the US Federal Reserve, as analysts said that ..."
+    },
+    {
       "title": "2 Hongkongers held after raids on 3 illegal fuel stations amid oil price spike",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347077/2-hongkongers-held-after-raids-3-illegal-fuel-stations-amid-oil-price-spike?utm_source=rss_feed",
       "date": "2026-03-18 15:19",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/education/article/3347067/hong-kong-establish-global-version-university-entrance-exam-pilot-basis?utm_source=rss_feed",
       "date": "2026-03-18 12:47",
       "summary": "Hong Kong’s education authorities plan to establish an “internationally benchmarked” version of the city’s university entrance exa..."
-    },
-    {
-      "title": "China-based Cosco Shipping Ports expects ‘limited’ impact from Iran conflict",
-      "link": "https://www.scmp.com/business/china-business/article/3347064/china-based-cosco-shipping-ports-expects-limited-impact-iran-conflict?utm_source=rss_feed",
-      "date": "2026-03-18 12:31",
-      "summary": "Cosco Shipping Ports, a unit of state-owned giant Cosco Shipping, reported modest earnings growth for 2025, as management expects ..."
     }
   ],
   "New Scientist": [
