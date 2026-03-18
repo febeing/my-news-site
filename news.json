@@ -71,6 +71,12 @@
       "summary": "How climate change is fueling disease outbreaks  Stanford Report..."
     },
     {
+      "title": "Sustainability course turns campus into a classroom - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUk0xRnFmLWQtR3NybkQ1dUlycmdaQkxIRUpVQm1zT1pFRzJHTGlrMzJ6SmRwS2lFRXpyWWxmMV9melozQmFXUEZGU2t0b2xXQUZ6OUw1a0t1Skx6cjJYMjhOZlhlWkxtUkdzM3NmWll1TDZGdmJnVVN1N1gxbEZHNWRxaDZ0VG5J?oc=5",
+      "date": "2026-03-18 06:02",
+      "summary": "Sustainability course turns campus into a classroom  Stanford Report..."
+    },
+    {
       "title": "Bioengineers develop novel method to read proteins - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRFpnTGZ0eW1JenQtT0tuZEVrSzdJSmlvR2I5VGRvLVVlMlhXaFRIRjhFblVqaXczd2hIOXJSV0Mzb1BnaWFtaTJtbEU5VlRrZWFqajFXQm9QZ3F1dHkyMno0WFdBRWFza3p6VUpQakY4Y1ZNc3JYbEFKNjc3MWRrQmItdmtKcEU?oc=5",
       "date": "2026-03-18 10:14",
@@ -83,12 +89,6 @@
       "summary": "Conservative group asks Trump to target Stanford program to train diverse teachers  San Francisco Chronicle..."
     },
     {
-      "title": "Sustainability course turns campus into a classroom - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUk0xRnFmLWQtR3NybkQ1dUlycmdaQkxIRUpVQm1zT1pFRzJHTGlrMzJ6SmRwS2lFRXpyWWxmMV9melozQmFXUEZGU2t0b2xXQUZ6OUw1a0t1Skx6cjJYMjhOZlhlWkxtUkdzM3NmWll1TDZGdmJnVVN1N1gxbEZHNWRxaDZ0VG5J?oc=5",
-      "date": "2026-03-18 06:02",
-      "summary": "Sustainability course turns campus into a classroom  Stanford Report..."
-    },
-    {
       "title": "Stanford Researchers Find Thin Evidence Behind AI Classroom Tools - GovTech",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYmVMLUpxaHV6R1RPY1R0WGtNLTVrQXlWTzUySzJRamxoWEdqYlptMW1lMjNWMWRuS1hhb2pVNjhpdWRxekRfclhVbl9FT3E0U1Byc18xcWd0Wm5XM1BTUlNRRWNpaFlzNVk4SDN3eW9YRkFWNlJsVXhIUWdnWmdxX3ZJQUUtcm5MSFRxNTRlZ0I1cXdnV2xHUGdRT0NaQ015Z3czV3J2Yw?oc=5",
       "date": "2026-03-18 00:03",
@@ -97,10 +97,22 @@
   ],
   "Nature Careers": [
     {
-      "title": "Founders of quantum information win top prize in computer science",
+      "title": "Author Correction: Autoimmune response to C9orf72 protein in amyotrophic lateral sclerosis",
+      "link": "https://www.nature.com/articles/s41586-026-10388-9",
+      "date": "2026-03-18 00:00",
+      "summary": "Nature, Published online: 18 March 2026; doi:10.1038/s41586-026-10388-9Author Correction: Autoimmune response to C9orf72 protein i..."
+    },
+    {
+      "title": "Major Turing computing award goes to quantum science for first time",
       "link": "https://www.nature.com/articles/d41586-026-00818-z",
       "date": "2026-03-18 00:00",
       "summary": "Nature, Published online: 18 March 2026; doi:10.1038/d41586-026-00818-zTuring Award winners Gilles Brassard and Charles Bennett pi..."
+    },
+    {
+      "title": "Affordable mobility for all: why we need smaller, cheaper electric vehicles",
+      "link": "https://www.nature.com/articles/d41586-026-00779-3",
+      "date": "2026-03-18 00:00",
+      "summary": "Nature, Published online: 18 March 2026; doi:10.1038/d41586-026-00779-3A cross between e-bikes and electric cars, low-speed electr..."
     },
     {
       "title": "Knock knock, no one’s there. Study finds scientists’ jokes mostly fall flat",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10402-0",
       "date": "2026-03-17 00:00",
       "summary": "Nature, Published online: 17 March 2026; doi:10.1038/s41586-026-10402-0Planar Li deposition and dissolution enable practical anode..."
-    },
-    {
-      "title": "Molecular basis of oocyte cytoplasmic lattice assembly",
-      "link": "https://www.nature.com/articles/s41586-026-10360-7",
-      "date": "2026-03-17 00:00",
-      "summary": "Nature, Published online: 17 March 2026; doi:10.1038/s41586-026-10360-7Molecular basis of oocyte cytoplasmic lattice assembly..."
-    },
-    {
-      "title": "Triple-junction solar cells with improved carrier and photon management",
-      "link": "https://www.nature.com/articles/s41586-026-10385-y",
-      "date": "2026-03-17 00:00",
-      "summary": "Nature, Published online: 17 March 2026; doi:10.1038/s41586-026-10385-yTriple-junction solar cells with improved carrier and photo..."
     }
   ],
   "Science News": [
@@ -211,16 +211,16 @@
       "summary": "Meta shares jump after Reuters report on plans for layoffs of 20% or more  Reuters..."
     },
     {
-      "title": "Nvidia gets Beijing's nod for H200 chip sales, adapts Groq chip for China, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNEVlQjZrU1hSX09aM1FEZndmSzR5RVFkejlDaVpUNGd2QkJRMG1fVkNKaGFrMHRFR2doTXhPUUQxdFVZeW5felVvOGR2bDhKbjMxTXh0ZHU1aHpQdEJ6ekFmc19ldHMzWUxkUW4wNFRLNlhYZTVHTUM5NnBNVFlMU3VrUjBjWjROUzdkazI5eXBYWUc3TlIweUlQV28tdldQdm1GMnRuZEtFbFRjLTNGTHRjajM?oc=5",
-      "date": "2026-03-18 01:32",
-      "summary": "Nvidia gets Beijing's nod for H200 chip sales, adapts Groq chip for China, sources say  Reuters..."
+      "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkNTcnhOZUxnNUNOckZiX3Z6eDlZZ3BBN18xVXpKRmtIMjFWY19sR0RoWGwxdDdyMXdlQmtSQnl4aE5WS0tWMU5GR2ZDd09RVkdHbEZpdVR1SjJ0cGNjVElKb1FZVUpnNUd4RlJrenVMNGVlRFNxRHdCRDlyWTZSSF9aaWxVOEdZLWxFSk9oWEo2bVZmMFhqS2pyT3NlaVBkUEtLQndLU203X3NCSTFpV0ZyeXJoM2tOWEUw?oc=5",
+      "date": "2026-03-17 22:51",
+      "summary": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say  Reuters..."
     },
     {
-      "title": "Alibaba's AI strategy shift comes into focus with big bets on agents - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOEl1RjY5TXpZZ3FXWEl3TFJqb1pFUTVDXzNtVzJOUTlDclZEdURYZWRqazVyRVJURkxiMUxYcnFObkFhRE5rZDNJN0VMWER1S2FsM2NqWEZlb2tzSTZzaTNyWEpzSmltVTR1RDJHMTRaTWhVNTJMX3JZTHNHRnNqX0l4dFBhY1VfMDc4TGRJZG9KTzlNV0VvakJSeWFnRzBncnU4Qmlnckl0UDJncE1LR2NR?oc=5",
-      "date": "2026-03-18 07:29",
-      "summary": "Alibaba's AI strategy shift comes into focus with big bets on agents  Reuters..."
+      "title": "Samsung Elec and AMD sign MoU on AI memory, explore foundry partnership - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUZ3UjdLck9TeDNJU2hCN1hOekptTHl6Y1NOYVlOTGdhbWtaTnVqSWp3cmY1TFhDNEFZcGl0Zi1kNFpaYnQ5czhKTk9COUFPQnQzTkNuR2lHa2FJZHByUWhVanNfd18ydVlxdXBFTEV1OUpyUy1PWVhCRkpIaDg2TXoySFVqYXU5SWVmd3p5YmUyRjRHb0RZVHJWNEJuZ3E3UzlYdXhkaGgwRjc3bzFXbmk3NW53Q2NULVE?oc=5",
+      "date": "2026-03-18 08:03",
+      "summary": "Samsung Elec and AMD sign MoU on AI memory, explore foundry partnership  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -229,12 +229,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM1lfaGg0eXpyNlFvQ1V4ZDFQUlFVQXJnX1NfdVlybnRIdF9ZaWFNVGtXMW9RY1lYNHNrZ2UzcmdRTGhUMFotenpPcUkzQUQxQlNCdGVsWTF2NVRxOG12a0FQbEZJa1oxR0lUX0RLVHZkLUpRc0ZSbHN3aGRFWFF0bVZpSDZSYURxYktISmpkVjlXemZ2TUFVNGZocldubjVTdm9ZNWY2dll0UFlFZ2h2WV91MDlLZlViMy01QXZieWZDRzNqQzB3OUljN3AzUUVNRFViVmN0SDRDSlZI0gHiAUFVX3lxTE9GTzg3RXk5eXdhX29ocm1ZLVg1d3dfb0UyM2h5eHlfb1FHNEdaSW9fZGluSmpydGRGeEt1U09tT2xEakZ3RDZXZGRnQnV5ZlgyRlFTX3BPRGtWZmVNdi0zekItS1VUQlYybjBwalEtcHM0WERsdXR3dWNpU25Fa1lCU2RPbGdwNHlYZVdRUTRidnFlVnFURmN3UkV5R04wenFDU1lhWVhWdzRCS1U2V2pLOTdsNWJ0QVZCN2xpcEROaUhFTk4tVjVlWTFoNE45bFJlNmU2UWdwaGN4UVFfc29PSnc?oc=5",
       "date": "2026-03-17 22:30",
       "summary": "The Pentagon is planning for AI companies to train on classified data, defense official says  MIT Technology Review..."
-    },
-    {
-      "title": "What do new nuclear reactors mean for waste? - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWWRMb3pId3hkekJkNHNLZGJvaktRanZCUlZDc0NmNWVwYUNza19fX2dWeTZBaUdhMUpzWjdNbUxlU2hwaDVlcnF1MFdXemE5bTlrRFhqMHRheUpFcDVUZUJYQkxPRGtFdVpOeC1vMlB4N1l6azlKRXd2elNHZngyeVlRVHA3RjhQVnRYN9IBkgFBVV95cUxQbTNoOTYxM2FxZk5SQUlJdng4U2xPaTlZRXhqMEpjdmtRdS1rLTNCWV9zQkxLcG03enNQMUlERi1HNWNFNmNsS0JGYkkyb0ItZmdpRFVpa2FaRnN2aHduT3VHRHktc3RxZ1h0aTZpeFVlM2pyaUdlbGlPUEVWWEhvZ19TUEtIMjRtX1RlQ3lNeXV2QQ?oc=5",
-      "date": "2026-03-18 09:00",
-      "summary": "What do new nuclear reactors mean for waste?  MIT Technology Review..."
     },
     {
       "title": "Where OpenAI’s technology could show up in Iran - MIT Technology Review",
@@ -249,6 +243,12 @@
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
     },
     {
+      "title": "What do new nuclear reactors mean for waste? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWWRMb3pId3hkekJkNHNLZGJvaktRanZCUlZDc0NmNWVwYUNza19fX2dWeTZBaUdhMUpzWjdNbUxlU2hwaDVlcnF1MFdXemE5bTlrRFhqMHRheUpFcDVUZUJYQkxPRGtFdVpOeC1vMlB4N1l6azlKRXd2elNHZngyeVlRVHA3RjhQVnRYN9IBkgFBVV95cUxQbTNoOTYxM2FxZk5SQUlJdng4U2xPaTlZRXhqMEpjdmtRdS1rLTNCWV9zQkxLcG03enNQMUlERi1HNWNFNmNsS0JGYkkyb0ItZmdpRFVpa2FaRnN2aHduT3VHRHktc3RxZ1h0aTZpeFVlM2pyaUdlbGlPUEVWWEhvZ19TUEtIMjRtX1RlQ3lNeXV2QQ?oc=5",
+      "date": "2026-03-18 09:00",
+      "summary": "What do new nuclear reactors mean for waste?  MIT Technology Review..."
+    },
+    {
       "title": "Why physical AI is becoming manufacturing’s next advantage - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORjM3R3RtMXFldmNibmxNUjh4Nk13Mmo2bm5MMFpTNTFUVzREclMtZmlsV2NHeUQzd280TnNGcUhnU1FmdlFxb1BtaXJkNXp1dURVUUdweXpDeTU3SzBBME0yX1UtcC1MMVhpOXl6cE13QXZTcVBOdmVJUzRtYlZiWElSS0xvOHp3Y2VqNWRVZ0ZVUHRBX0w2VGRDUXcyYW5ta1c5OUZQSko3U2tGc1Zv0gG0AUFVX3lxTE9nV2pDcGlHbHdSZHB0V3JGMDFNZnhvWHdfWWhDdlBuSUVta1ZGTjRnMkRod3k5RVhCRUlLSVVyOHd0UDVwZmxlZXlZOVNBZDFyRk9saGxCQUtQX3Y3MHllc1plVDRNenlNMFRUX2prTS05UGVZaDg5ell3dTZZdnZqemhDMk12a3B3dkU1M0VNWXo2aTVWQWVOYkgzc1VySXdDQ3pvLWMwa2xGMEpsQWxzVjhGaA?oc=5",
       "date": "2026-03-13 15:16",
@@ -257,37 +257,43 @@
   ],
   "Phys.org": [
     {
+      "title": "Microwave quantum network shows resilience against heat-related disturbances",
+      "link": "https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html",
+      "date": "2026-03-18 11:40",
+      "summary": "Quantum communication systems are emerging solutions to transmit information between devices in a network leveraging quantum mecha..."
+    },
+    {
+      "title": "Dark matter experiment reaches ultracold milestone",
+      "link": "https://phys.org/news/2026-03-dark-ultracold-milestone.html",
+      "date": "2026-03-18 11:20",
+      "summary": "An international collaboration, including Northwestern University, has reached a critical milestone in the search for dark matter,..."
+    },
+    {
+      "title": "Study links artificial turf fields to lethal chemical threat for salmon",
+      "link": "https://phys.org/news/2026-03-links-artificial-turf-fields-lethal.html",
+      "date": "2026-03-18 11:10",
+      "summary": "A new study from the University of British Columbia has found that artificial turf fields across Metro Vancouver leach 6PPD-quinon..."
+    },
+    {
+      "title": "Investors willing to pay a little more for green bonds",
+      "link": "https://phys.org/news/2026-03-investors-pay-green-bonds.html",
+      "date": "2026-03-18 11:00",
+      "summary": "Green investors often boast that they can support sustainability without sacrificing returns. But new research from Texas McCombs ..."
+    },
+    {
       "title": "Prodrug lipid nanoparticle could unlock universal immunotherapy for solid cancers",
       "link": "https://phys.org/news/2026-03-prodrug-lipid-nanoparticle-universal-immunotherapy.html",
       "date": "2026-03-18 10:00",
       "summary": "Engineers at the University of Pennsylvania have developed a new type of lipid nanoparticle (LNP) that could one day serve as a un..."
-    },
-    {
-      "title": "Protein sequencing advance offers new insights into life's foundations",
-      "link": "https://phys.org/news/2026-03-protein-sequencing-advance-insights-life.html",
-      "date": "2026-03-18 10:00",
-      "summary": "Proteins, one of the smallest building blocks of life on Earth, hold promise for answering some of biology's biggest questions. Co..."
-    },
-    {
-      "title": "A 'consortium' of bacteria cooperates to eat phthalate plasticizers that single microbes can't stomach",
-      "link": "https://phys.org/news/2026-03-consortium-bacteria-cooperates-phthalate-plasticizers.html",
-      "date": "2026-03-18 05:00",
-      "summary": "Plastic trash has reached the world's most remote locations, from the bottom of the Mariana Trench to the summit of Everest. Hundr..."
-    },
-    {
-      "title": "Targeted alpha therapy: One compound holds promise for unified cancer care",
-      "link": "https://phys.org/news/2026-03-alpha-therapy-compound-cancer.html",
-      "date": "2026-03-18 02:30",
-      "summary": "ORNL is a leader both in developing advanced radiotherapies and in providing the radioisotopes needed for those therapies. Accordi..."
-    },
-    {
-      "title": "Dallas-Fort Worth has untapped innovation potential, study says",
-      "link": "https://phys.org/news/2026-03-dallas-fort-worth-untapped-potential.html",
-      "date": "2026-03-18 02:00",
-      "summary": "Dallas-Fort Worth has all the right ingredients to be a national powerhouse for innovation—from a robust economy, world-class rese..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Florida professors quietly defy restrictions on race and gender: ‘This is how authoritarianism works’",
+      "link": "https://www.theguardian.com/us-news/2026/mar/18/florida-colleges-push-back-race-gender-restrictions",
+      "date": "2026-03-18 11:00",
+      "summary": "Sociology faculty are refusing to alter syllabi, even as state targets how race, gender and inequality are taughtSign up for the B..."
+    },
     {
       "title": "From the archive: ‘Parents are frightened for themselves and for their children’: an inspirational school in impossible times – podcast",
       "link": "https://www.theguardian.com/news/audio/2026/mar/18/from-the-archive-parents-are-frightened-for-themselves-and-for-their-children-an-inspirational-school-in-impossible-times-podcast",
@@ -311,15 +317,21 @@
       "link": "https://www.theguardian.com/politics/2026/mar/15/row-over-university-fees-uk-reset-with-eu-not-so-simple",
       "date": "2026-03-15 17:11",
       "summary": "Ministers go to Brussels for talks amid tuition fees standoff, almost 10 years after Britons voted to leave EUThis week is “Brexit..."
-    },
-    {
-      "title": "Office for Students faces judicial review over public funding for bible colleges",
-      "link": "https://www.theguardian.com/education/2026/mar/15/office-for-students-judicial-review-public-funding-bible-colleges",
-      "date": "2026-03-15 16:45",
-      "summary": "National Secular Society to launch court action after failure to investigate alleged breaches of academic freedom lawsA university..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Hong Kong’s Airport Authority to develop HK$300 million art storage facility",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347059/hong-kongs-airport-authority-develop-hk300-million-art-storage-facility?utm_source=rss_feed",
+      "date": "2026-03-18 11:39",
+      "summary": "Hong Kong’s Airport Authority is partnering with a private company to develop a HK$300 million (US$38.28 million) art storage faci..."
+    },
+    {
+      "title": "Hong Kong Tourism Board to woo overnight big spenders, diversify visitor mix",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347054/hong-kong-tourism-board-woo-overnight-big-spenders-diversify-visitor-mix?utm_source=rss_feed",
+      "date": "2026-03-18 11:08",
+      "summary": "The Hong Kong Tourism Board will allocate three-quarters of its resources to overseas markets this year in a strategic shift aimed..."
+    },
     {
       "title": "Hong Kong’s jobless rate falls by 0.1 percentage point",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347046/hong-kongs-jobless-rate-falls-01-percentage-point?utm_source=rss_feed",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3347006/bus-driver-union-slams-kmb-policy-turn-ac-when-travelling-no-patrons?utm_source=rss_feed",
       "date": "2026-03-18 08:15",
       "summary": "A Hong Kong bus driver union has hit out at a company’s guidelines asking drivers to save fuel amid surging oil prices by switchin..."
-    },
-    {
-      "title": "Anthony Mason, who helped put top Hong Kong court on the map, dies at age 100",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3346996/anthony-mason-who-helped-put-top-hong-kong-court-map-dies-age-100?utm_source=rss_feed",
-      "date": "2026-03-18 07:09",
-      "summary": "Former Australian chief justice Anthony Mason, who was one of the first non-permanent judges to join the Hong Kong Court of Final ..."
-    },
-    {
-      "title": "Investors eye Xi-Trump summit for direction as Hong Kong, China stocks shaken by conflict",
-      "link": "https://www.scmp.com/business/china-business/article/3346991/investors-eye-xi-trump-summit-direction-hong-kong-china-stocks-shaken-conflict?utm_source=rss_feed",
-      "date": "2026-03-18 06:59",
-      "summary": "The prospect of a meeting between President Xi Jinping and US counterpart Donald Trump has become a focal point for investors seek..."
     }
   ],
   "New Scientist": [
