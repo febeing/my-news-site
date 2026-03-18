@@ -33,18 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "A potential quantum leap - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
-      "date": "2025-11-12 08:00",
-      "summary": "A potential quantum leap  Harvard Gazette..."
-    },
-    {
-      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
-      "date": "2025-09-25 07:00",
-      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
-    },
-    {
       "title": "Harvard University Housing establishes new rents for 2026–2027 - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
       "date": "2026-01-23 08:00",
@@ -55,6 +43,18 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2ZjQmV2UTFaS0pGVnpKNTBuZF83dkdOcV9NTVdvYXBmVWFYNDdHWlFHYkFna1A2SWFmS0UxRmRKWFhFTVowcWxrbEFJYVJTWmNDOUxuRVIzQ3Nuekwzb0JQWUFpSmNETlNReGtkSHJnNnZ4RGRCYlhPN2lBbWZibUc0bVRjd050N2dqdFAtNnh2RnlQQzEzYWtJU3VucXdVZ3AzOWtqQkdjeW8?oc=5",
       "date": "2025-10-16 07:00",
       "summary": "Harvard reports operating deficit amid federal funding cuts  Harvard Gazette..."
+    },
+    {
+      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
+      "date": "2025-09-30 07:00",
+      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
+    },
+    {
+      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
+      "date": "2025-09-25 07:00",
+      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
     },
     {
       "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
@@ -199,22 +199,22 @@
       "summary": "Exclusive: Meta planning sweeping layoffs as AI costs mount  Reuters..."
     },
     {
-      "title": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakt6S3Bjbm5pMVh3blpDZ3JrdUdCQXNETjBlZlRTQURrbTJDb3FpbmN6YzdVRlpGWnVBaklOSkxNcWlOdWlWS20tZ2Vyakt5UTktWFhxSnYxZHp1TkJ3dFRTbEUxcnVYM055UC1fb3FMbmVSbFRlc3NjMVNrRF9waU9GS2w4VUtfQkh0U0ZzaHJYOHpmdEtZYU9rMjk3Y3Q4M3pjWkFjQWV1RmhHZ0hvU1NCT3pNaWlWalZ5bmhTSjhodw?oc=5",
-      "date": "2026-03-17 18:48",
-      "summary": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036  Reuters..."
-    },
-    {
-      "title": "Baidu joins China's OpenClaw frenzy with new AI agents - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORk5KVFQtbzYtcWJPZDljRFBMSkpKVmdYQkstejM3VVVseDZoYlUzUVJYRmFLeGNTbGwtb2VJUENFekJYRDlGalNsb1g3TEVWdklDTVhOYTZtUk5hVmpuZU1SNFRKU3NoSVhfTkNHVGFXMEt5cjBCaGxXdjViYVV5LXpRU2hKZ3ZxUC00XzRqS2ZKdHdHVkp0ZFlpaF9fdkdTT3hmTXgwQ0w3RlZXUDJrNDRR?oc=5",
-      "date": "2026-03-17 16:29",
-      "summary": "Baidu joins China's OpenClaw frenzy with new AI agents  Reuters..."
-    },
-    {
       "title": "A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster? - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNclBvcWpScEJkOUV5UXVrakVPTm00WHU0S1N1bkEzQ2NtLUNqQ0pwaTB5eWgxaXpHbDdfQ1Fsdzk1RG1EVkFCdkdFdHN2VWVqaklJQTFWeEYxUHRYc1dxNjh1dkdEcThielUtWWdkbmp6Q21EWU00YmdZMWV2QktLYkhfQ3NrVnZBLVU5UWtUSzljd2tfU2dENW1IdzZONXhRNmp5UmllanhSX2tlU3pDOHphanRGVVdyZ1RaR25URmIwd21rb1d4T3p5VXAtdTBQ?oc=5",
       "date": "2026-03-18 03:08",
       "summary": "A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster?  Reuters..."
+    },
+    {
+      "title": "OpenAI to sell AI to US agencies through Amazon cloud unit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYUc0dXdFRWFQOF9vUVZrVERpM3E1eW5JQTVSdWM1dnRTdVIwcmVpMUZadlY2bTJIdVZkUWV3S2RRbjBQdUtsYXdQaUhEQmFfSndvU1RlbEU3dmNDYllWbGNoOE8yZlZNdW92X0dIaVRrSU1UYnlLTXU4X002WF8xTXViOUg4Y3EyZHJ2UVpwa21QbXE5S0szTk5ydHlEbHQ0ZDczbzFXSl81bENsT0RFM2R1TEM0MUE4SDBzOUktM0tsaTNpWnBSOGgzYTRmdw?oc=5",
+      "date": "2026-03-17 13:12",
+      "summary": "OpenAI to sell AI to US agencies through Amazon cloud unit  Reuters..."
+    },
+    {
+      "title": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakt6S3Bjbm5pMVh3blpDZ3JrdUdCQXNETjBlZlRTQURrbTJDb3FpbmN6YzdVRlpGWnVBaklOSkxNcWlOdWlWS20tZ2Vyakt5UTktWFhxSnYxZHp1TkJ3dFRTbEUxcnVYM055UC1fb3FMbmVSbFRlc3NjMVNrRF9waU9GS2w4VUtfQkh0U0ZzaHJYOHpmdEtZYU9rMjk3Y3Q4M3pjWkFjQWV1RmhHZ0hvU1NCT3pNaWlWalZ5bmhTSjhodw?oc=5",
+      "date": "2026-03-17 18:48",
+      "summary": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036  Reuters..."
     },
     {
       "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say - Reuters",
@@ -257,6 +257,12 @@
   ],
   "Phys.org": [
     {
+      "title": "A 'consortium' of bacteria cooperates to eat phthalate plasticizers that single microbes can't stomach",
+      "link": "https://phys.org/news/2026-03-consortium-bacteria-cooperates-phthalate-plasticizers.html",
+      "date": "2026-03-18 05:00",
+      "summary": "Plastic trash has reached the world's most remote locations, from the bottom of the Mariana Trench to the summit of Everest. Hundr..."
+    },
+    {
       "title": "Targeted alpha therapy: One compound holds promise for unified cancer care",
       "link": "https://phys.org/news/2026-03-alpha-therapy-compound-cancer.html",
       "date": "2026-03-18 02:30",
@@ -279,15 +285,15 @@
       "link": "https://phys.org/news/2026-03-reveals-hidden-ocean-threatening-south.html",
       "date": "2026-03-18 01:10",
       "summary": "The South China Sea (SCS), a vital marine region supporting rich biodiversity, productive fisheries, and extensive coral reefs, fa..."
-    },
-    {
-      "title": "Researchers explore new ways to neutralize germs using light-activated nanomaterials",
-      "link": "https://phys.org/news/2026-03-explore-ways-neutralize-germs-nanomaterials.html",
-      "date": "2026-03-18 00:40",
-      "summary": "At Empa, an interdisciplinary research institute for materials science and technology within the ETH Domain, researchers are worki..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "From the archive: ‘Parents are frightened for themselves and for their children’: an inspirational school in impossible times – podcast",
+      "link": "https://www.theguardian.com/news/audio/2026/mar/18/from-the-archive-parents-are-frightened-for-themselves-and-for-their-children-an-inspirational-school-in-impossible-times-podcast",
+      "date": "2026-03-18 05:00",
+      "summary": "We are raiding the Guardian long read archives to bring you some classic pieces from years past, with new introductions from the a..."
+    },
     {
       "title": "EU calls for urgent reboot in talks with UK to stop reset deal failing",
       "link": "https://www.theguardian.com/world/2026/mar/16/eu-urgent-reboot-uk-talks-stop-reset-deal-failing",
@@ -311,15 +317,27 @@
       "link": "https://www.theguardian.com/education/2026/mar/15/office-for-students-judicial-review-public-funding-bible-colleges",
       "date": "2026-03-15 16:45",
       "summary": "National Secular Society to launch court action after failure to investigate alleged breaches of academic freedom lawsA university..."
-    },
-    {
-      "title": "Row over tuition fees cut for European students threatens Starmer’s EU reset",
-      "link": "https://www.theguardian.com/politics/2026/mar/15/row-tuition-fees-cut-european-students-threatens-starmer-eu-reset",
-      "date": "2026-03-15 15:00",
-      "summary": "British negotiators ‘blindsided’ by Brussels’ demand for a reduction that could cost universities £140m a yearBritain is in a stan..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "West Kowloon Cultural District to host second international cultural summit during Art Week",
+      "link": "https://www.scmp.com/presented/news/hong-kong/topics/hong-kong-international-cultural-summit/article/3346730/west-kowloon-cultural-district-host-second-international-cultural-summit-during-art-week?utm_source=rss_feed",
+      "date": "2026-03-18 05:54",
+      "summary": "[The content of this article has been produced by our advertising partner.]\nThe second Hong Kong International Cultural Summit wil..."
+    },
+    {
+      "title": "Hong Kong actor Gregory Wong loses appeal against 2019 Legco storming conviction",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3346982/hong-kong-actor-gregory-wong-loses-appeal-against-2019-legco-storming-conviction?utm_source=rss_feed",
+      "date": "2026-03-18 05:40",
+      "summary": "Hong Kong actor Gregory Wong Chung-yiu has lost an appeal against his conviction and jail sentence of six years and two months for..."
+    },
+    {
+      "title": "Closing struggling Hong Kong schools ‘spares parents from future problems’",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3346976/closing-struggling-hong-kong-schools-spares-parents-future-problems?utm_source=rss_feed",
+      "date": "2026-03-18 05:19",
+      "summary": "Closing struggling Hong Kong schools in the short term will prevent future problems for parents, the education minister has said, ..."
+    },
     {
       "title": "HSBC launches US$2.5 billion AT1 bond issue in Hong Kong after market standstill",
       "link": "https://www.scmp.com/business/banking-finance/article/3346960/hsbc-launches-us25-billion-at1-bond-issue-hong-kong-after-market-standstill?utm_source=rss_feed",
@@ -331,24 +349,6 @@
       "link": "https://www.scmp.com/native/news/hong-kong/education/topics/edtalk-cais-2026/article/3345350/how-education-develops-pathway-students-lifelong-growth?utm_source=rss_feed",
       "date": "2026-03-18 04:00",
       "summary": "The teachings of philosopher and psychologist John Dewey, who was a major 20th-century education reformer, still resonate with tea..."
-    },
-    {
-      "title": "Cathay extends Hong Kong to Middle East flight suspension until end of April",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3346957/cathay-extends-hong-kong-middle-east-flight-suspension-until-end-april?utm_source=rss_feed",
-      "date": "2026-03-18 03:37",
-      "summary": "Hong Kong flag carrier Cathay Pacific Airways has further extended its suspension of all flights to and from the Middle East until..."
-    },
-    {
-      "title": "From studio to market: Hong Kong Design Institute’s transdisciplinary path to global design impact",
-      "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/hkdis-graduates-make-global-impact/article/3346827/studio-market-hong-kong-design-institutes-transdisciplinary-path-global-design-impact?utm_source=rss_feed",
-      "date": "2026-03-18 02:59",
-      "summary": "[The content of this article has been produced by our advertising partner.]\n \nHong Kong is rapidly consolidating its role as Asia’..."
-    },
-    {
-      "title": "Scammers impersonate Hong Kong lawmaker to defraud woman of HK$38,000",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3346954/scammers-impersonate-hong-kong-lawmaker-defraud-resident-hk38000?utm_source=rss_feed",
-      "date": "2026-03-18 02:51",
-      "summary": "Hong Kong lawmaker Gary Chan Hak-kan has been impersonated in a scam that defrauded a victim of HK$38,000 (US$4,849), with the leg..."
     }
   ],
   "New Scientist": [
