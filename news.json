@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "New model predicts how mosquitoes will fly",
+      "link": "https://news.mit.edu/2026/new-model-predicts-how-mosquitoes-will-fly-0318",
+      "date": "2026-03-18 18:00",
+      "summary": "Their flight patterns change in response to different sensory cues, a new study finds. The work could lead to more effective traps..."
+    },
+    {
       "title": "Brain circuit needed to incorporate new information may be linked to schizophrenia",
       "link": "https://news.mit.edu/2026/brain-circuit-incorporates-new-information-may-be-linked-schizophrenia-0318",
       "date": "2026-03-18 10:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/three-anesthesia-drugs-all-have-same-effect-brain-0317",
       "date": "2026-03-17 15:00",
       "summary": "Discovering this common mechanism could lead to a universal anesthesia-delivery system to monitor patients more effectively...."
-    },
-    {
-      "title": "Ocean bacteria team up to break down biodegradable plastic",
-      "link": "https://news.mit.edu/2026/ocean-bacteria-break-down-biodegradable-plastic-0316",
-      "date": "2026-03-16 14:00",
-      "summary": "MIT researchers uncovered the roles of bacterial species from the environment as they consume biodegradable plastic...."
     }
   ],
   "Harvard Gazette": [
@@ -109,6 +109,12 @@
       "summary": "Nature, Published online: 18 March 2026; doi:10.1038/s41586-026-10382-1Publisher Correction: Atlas-guided discovery of transcripti..."
     },
     {
+      "title": "Botanical mystery solved: how plants make a crucial malaria drug",
+      "link": "https://www.nature.com/articles/d41586-026-00891-4",
+      "date": "2026-03-18 00:00",
+      "summary": "Nature, Published online: 18 March 2026; doi:10.1038/d41586-026-00891-4New evidence reveals biochemical pathway behind quinine pro..."
+    },
+    {
       "title": "Integrated memristor for mitigating reverse-bias in perovskite solar cells",
       "link": "https://www.nature.com/articles/s41586-026-10275-3",
       "date": "2026-03-18 00:00",
@@ -119,15 +125,15 @@
       "link": "https://www.nature.com/articles/s41586-026-10282-4",
       "date": "2026-03-18 00:00",
       "summary": "Nature, Published online: 18 March 2026; doi:10.1038/s41586-026-10282-4Magnetic resonance control of spin-correlated radical pairs..."
-    },
-    {
-      "title": "In vivo site-specific engineering to reprogram T cells",
-      "link": "https://www.nature.com/articles/s41586-026-10235-x",
-      "date": "2026-03-18 00:00",
-      "summary": "Nature, Published online: 18 March 2026; doi:10.1038/s41586-026-10235-xStable and cell-specific transgene expression can be achiev..."
     }
   ],
   "Science News": [
+    {
+      "title": "China demands evidence that traditional medicine injections really work",
+      "link": "https://www.science.org/content/article/china-demands-evidence-traditional-medicine-injections-really-work",
+      "date": "2026-03-18 02:00",
+      "summary": "New regulations ask manufacturers to provide efficacy and safety data—or withdraw their products..."
+    },
     {
       "title": "Mysterious type of static electricity has a hidden culprit",
       "link": "https://www.science.org/content/article/mysterious-type-static-electricity-has-hidden-culprit",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/scientific-conferences-can-be-bore-can-jokes-liven-them",
       "date": "2026-03-17 08:01",
       "summary": "Science speaks with ecologist Stefano Mammola about the power of humor to enhance science communication..."
-    },
-    {
-      "title": "White House lifts hold on NIH research spending",
-      "link": "https://www.science.org/content/article/white-house-lifts-hold-nih-research-spending",
-      "date": "2026-03-17 05:40",
-      "summary": "Director Jay Bhattacharya tells House lawmakers that grantmaking, hiring are on track..."
     }
   ],
   "Retraction Watch": [
@@ -199,10 +199,10 @@
       "summary": "A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster?  Reuters..."
     },
     {
-      "title": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakt6S3Bjbm5pMVh3blpDZ3JrdUdCQXNETjBlZlRTQURrbTJDb3FpbmN6YzdVRlpGWnVBaklOSkxNcWlOdWlWS20tZ2Vyakt5UTktWFhxSnYxZHp1TkJ3dFRTbEUxcnVYM055UC1fb3FMbmVSbFRlc3NjMVNrRF9waU9GS2w4VUtfQkh0U0ZzaHJYOHpmdEtZYU9rMjk3Y3Q4M3pjWkFjQWV1RmhHZ0hvU1NCT3pNaWlWalZ5bmhTSjhodw?oc=5",
-      "date": "2026-03-17 18:48",
-      "summary": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036  Reuters..."
+      "title": "Samsung Elec and AMD sign MoU on AI memory, explore foundry partnership - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUZ3UjdLck9TeDNJU2hCN1hOekptTHl6Y1NOYVlOTGdhbWtaTnVqSWp3cmY1TFhDNEFZcGl0Zi1kNFpaYnQ5czhKTk9COUFPQnQzTkNuR2lHa2FJZHByUWhVanNfd18ydVlxdXBFTEV1OUpyUy1PWVhCRkpIaDg2TXoySFVqYXU5SWVmd3p5YmUyRjRHb0RZVHJWNEJuZ3E3UzlYdXhkaGgwRjc3bzFXbmk3NW53Q2NULVE?oc=5",
+      "date": "2026-03-18 08:03",
+      "summary": "Samsung Elec and AMD sign MoU on AI memory, explore foundry partnership  Reuters..."
     },
     {
       "title": "Meta’s AI push could trigger 20% layoffs of its workforce - USA Today",
@@ -211,16 +211,16 @@
       "summary": "Meta’s AI push could trigger 20% layoffs of its workforce  USA Today..."
     },
     {
-      "title": "Nvidia gets Beijing's nod for H200 chip sales, adapts Groq chip for China, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNEVlQjZrU1hSX09aM1FEZndmSzR5RVFkejlDaVpUNGd2QkJRMG1fVkNKaGFrMHRFR2doTXhPUUQxdFVZeW5felVvOGR2bDhKbjMxTXh0ZHU1aHpQdEJ6ekFmc19ldHMzWUxkUW4wNFRLNlhYZTVHTUM5NnBNVFlMU3VrUjBjWjROUzdkazI5eXBYWUc3TlIweUlQV28tdldQdm1GMnRuZEtFbFRjLTNGTHRjajM?oc=5",
-      "date": "2026-03-18 01:32",
-      "summary": "Nvidia gets Beijing's nod for H200 chip sales, adapts Groq chip for China, sources say  Reuters..."
-    },
-    {
       "title": "Alibaba's AI strategy shift comes into focus with big bets on agents - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOEl1RjY5TXpZZ3FXWEl3TFJqb1pFUTVDXzNtVzJOUTlDclZEdURYZWRqazVyRVJURkxiMUxYcnFObkFhRE5rZDNJN0VMWER1S2FsM2NqWEZlb2tzSTZzaTNyWEpzSmltVTR1RDJHMTRaTWhVNTJMX3JZTHNHRnNqX0l4dFBhY1VfMDc4TGRJZG9KTzlNV0VvakJSeWFnRzBncnU4Qmlnckl0UDJncE1LR2NR?oc=5",
       "date": "2026-03-18 07:29",
       "summary": "Alibaba's AI strategy shift comes into focus with big bets on agents  Reuters..."
+    },
+    {
+      "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkNTcnhOZUxnNUNOckZiX3Z6eDlZZ3BBN18xVXpKRmtIMjFWY19sR0RoWGwxdDdyMXdlQmtSQnl4aE5WS0tWMU5GR2ZDd09RVkdHbEZpdVR1SjJ0cGNjVElKb1FZVUpnNUd4RlJrenVMNGVlRFNxRHdCRDlyWTZSSF9aaWxVOEdZLWxFSk9oWEo2bVZmMFhqS2pyT3NlaVBkUEtLQndLU203X3NCSTFpV0ZyeXJoM2tOWEUw?oc=5",
+      "date": "2026-03-17 22:51",
+      "summary": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,37 +257,43 @@
   ],
   "Phys.org": [
     {
-      "title": "Most mass spectrometers can process just a few molecules at once: Reengineered prototype does a billion simultaneously",
-      "link": "https://phys.org/news/2026-03-mass-spectrometers-molecules-reengineered-prototype.html",
-      "date": "2026-03-18 18:00",
-      "summary": "Mass spectrometry is already a powerful tool for determining what kind and how many molecules are present in a given sample. But m..."
+      "title": "How two dim stars came together to shine brightly",
+      "link": "https://phys.org/news/2026-03-dim-stars-brightly.html",
+      "date": "2026-03-18 19:40",
+      "summary": "Brown dwarfs get a bad rap in the stellar world, often labeled as \"failed stars\" for their inability to sustain nuclear fusion at ..."
     },
     {
-      "title": "Children shaped clay 15,000 years ago, long before pottery or farming, archaeologists find",
-      "link": "https://phys.org/news/2026-03-children-clay-years-pottery-farming.html",
-      "date": "2026-03-18 18:00",
-      "summary": "Long before pottery, before agriculture, when the first villages took shape, people in the Levant were already molding clay with t..."
+      "title": "What makes a genus real? Scientists use tree bats to evaluate a testable '2 Sigma Genus Concept'",
+      "link": "https://phys.org/news/2026-03-genus-real-scientists-tree-testable.html",
+      "date": "2026-03-18 19:20",
+      "summary": "Dr. Amy Baird, Professor of Biology at the University of Houston-Downtown (UHD), and her colleagues are seeking to change the atti..."
     },
     {
-      "title": "3D model predicts mosquito flight paths from sight and CO&#8322; cues",
-      "link": "https://phys.org/news/2026-03-3d-mosquito-flight-paths-sight.html",
-      "date": "2026-03-18 18:00",
-      "summary": "A mosquito finds its target with the help of certain cues in its environment, such as a person's silhouette and the carbon dioxide..."
+      "title": "Across Europe, warm-adapted plants spread as cold specialists retreat",
+      "link": "https://phys.org/news/2026-03-europe-cold-specialists-retreat.html",
+      "date": "2026-03-18 19:10",
+      "summary": "An international study shows how climate change is reshaping plant communities across Europe. Published in Nature, the study analy..."
     },
     {
-      "title": "Mental health policy is emerging as a key voting issue for Americans, study suggests",
-      "link": "https://phys.org/news/2026-03-mental-health-policy-emerging-key.html",
-      "date": "2026-03-18 18:00",
-      "summary": "A new University of Missouri study suggests mental health policies can play a significant role in how Americans choose political c..."
+      "title": "Polymer composite method cuts micro-voids to boost conductivity",
+      "link": "https://phys.org/news/2026-03-polymer-composite-method-micro-voids.html",
+      "date": "2026-03-18 19:00",
+      "summary": "Modern portable and wearable electronic devices increasingly integrate high-performance components and wireless communication tech..."
     },
     {
-      "title": "New study shows democracy has deep global roots—not just Greece and Rome",
-      "link": "https://phys.org/news/2026-03-democracy-deep-global-roots-greece.html",
-      "date": "2026-03-18 18:00",
-      "summary": "A new study on ancient societies from around the world is rewriting what we thought we knew about democracy. A team of researchers..."
+      "title": "Drought hits gulf fisheries, sparking food security fears",
+      "link": "https://phys.org/news/2026-03-drought-gulf-fisheries-food.html",
+      "date": "2026-03-18 19:00",
+      "summary": "A severe and prolonged U.S. drought in the late 1980s played a central role in one of the largest fisheries declines ever recorded..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Playing with dolls can help children develop imagination and social skills – UK study",
+      "link": "https://www.theguardian.com/society/2026/mar/18/playing-with-dolls-can-help-children-develop-imagination-and-social-skills-uk-study",
+      "date": "2026-03-18 19:05",
+      "summary": "Psychologists at Cardiff University and King’s College London compared children given dolls with those given video gamesPlaying al..."
+    },
     {
       "title": "Say gay: feminist magazine reclaims Charlie Kirk-style campus tours after Florida DEI cuts",
       "link": "https://www.theguardian.com/us-news/2026/mar/18/lux-magazine-florida-charlie-kirk-dei",
@@ -311,12 +317,6 @@
       "link": "https://www.theguardian.com/world/2026/mar/16/eu-urgent-reboot-uk-talks-stop-reset-deal-failing",
       "date": "2026-03-16 19:40",
       "summary": "Time is running out to find agreement on areas such as tuition fees EU citizens would pay in Britain and rules for food safetyThe ..."
-    },
-    {
-      "title": "Three-quarters of nine-month-olds in England have ‘daily screen time’",
-      "link": "https://www.theguardian.com/society/2026/mar/16/england-babies-daily-screen-time",
-      "date": "2026-03-16 05:00",
-      "summary": "Study shows average time on screens each day is 41 minutes, with some watching more than three hours a dayThree-quarters of nine-m..."
     }
   ],
   "SCMP Hong Kong": [
@@ -353,6 +353,24 @@
   ],
   "New Scientist": [
     {
+      "title": "Fluorescent ruby-like gems have been found on Mars for the first time",
+      "link": "https://www.newscientist.com/article/2519933-fluorescent-ruby-like-gems-have-been-found-on-mars-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-18 19:00",
+      "summary": "The Perseverance rover has found tiny crystals that seem to be rubies or sapphires inside pebbles on Mars, where they have never b..."
+    },
+    {
+      "title": "Boosting the blood-brain barrier could avert brain damage in athletes",
+      "link": "https://www.newscientist.com/article/2519756-boosting-the-blood-brain-barrier-could-avert-brain-damage-in-athletes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-18 18:00",
+      "summary": "The neurodegenerative condition chronic traumatic encephalopathy appears to be driven by damage to the blood-brain barrier due to ..."
+    },
+    {
+      "title": "Neanderthals may have treated wounds with antibiotic sticky tar",
+      "link": "https://www.newscientist.com/article/2519668-neanderthals-may-have-treated-wounds-with-antibiotic-sticky-tar/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-18 18:00",
+      "summary": "Tar made from birch tree bark is commonly found at Neanderthal sites, and experiments show that it kills some bacteria that cause ..."
+    },
+    {
       "title": "Will war in the Middle East accelerate the clean energy transition?",
       "link": "https://www.newscientist.com/article/2519862-will-war-in-the-middle-east-accelerate-the-clean-energy-transition/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-18 16:28",
@@ -363,24 +381,6 @@
       "link": "https://www.newscientist.com/article/2519363-the-mystery-of-how-volcanic-lightning-happens-has-been-solved/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-18 16:00",
       "summary": "When particles in volcanic ash cloud rub together, some pick up positive charge and others negative – now physicists have finally ..."
-    },
-    {
-      "title": "Ice core reveals low CO2 during warm spell 3 million years ago",
-      "link": "https://www.newscientist.com/article/2519771-ice-core-reveals-low-co2-during-warm-spell-3-million-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-18 16:00",
-      "summary": "For the first time, scientists have measured atmospheric gases from the late Pliocene, yielding data that could help to predict th..."
-    },
-    {
-      "title": "Psychedelics may be no better than antidepressants for depression",
-      "link": "https://www.newscientist.com/article/2519824-psychedelics-may-be-no-better-than-antidepressants-for-depression/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-18 15:00",
-      "summary": "Drugs like psilocybin that induce psychedelic effects have shown promise for treating depression. Now, a review of the evidence su..."
-    },
-    {
-      "title": "Google rerouted hundreds of flights to cut climate-warming contrails",
-      "link": "https://www.newscientist.com/article/2519687-google-rerouted-hundreds-of-flights-to-cut-climate-warming-contrails/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-18 14:41",
-      "summary": "A weather-forecasting AI was used to recommend routes for American Airlines flights between the US and Europe to reduce the format..."
     }
   ]
 }
