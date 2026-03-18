@@ -39,6 +39,12 @@
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
     },
     {
+      "title": "Harvard reports operating deficit amid federal funding cuts - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2ZjQmV2UTFaS0pGVnpKNTBuZF83dkdOcV9NTVdvYXBmVWFYNDdHWlFHYkFna1A2SWFmS0UxRmRKWFhFTVowcWxrbEFJYVJTWmNDOUxuRVIzQ3Nuekwzb0JQWUFpSmNETlNReGtkSHJnNnZ4RGRCYlhPN2lBbWZibUc0bVRjd050N2dqdFAtNnh2RnlQQzEzYWtJU3VucXdVZ3AzOWtqQkdjeW8?oc=5",
+      "date": "2025-10-16 07:00",
+      "summary": "Harvard reports operating deficit amid federal funding cuts  Harvard Gazette..."
+    },
+    {
       "title": "Crossing line between good and bad anxiety - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
       "date": "2025-09-30 07:00",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
       "date": "2025-10-23 07:00",
       "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
-    },
-    {
-      "title": "A potential quantum leap - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
-      "date": "2025-11-12 08:00",
-      "summary": "A potential quantum leap  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -205,10 +205,10 @@
       "summary": "A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster?  Reuters..."
     },
     {
-      "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkNTcnhOZUxnNUNOckZiX3Z6eDlZZ3BBN18xVXpKRmtIMjFWY19sR0RoWGwxdDdyMXdlQmtSQnl4aE5WS0tWMU5GR2ZDd09RVkdHbEZpdVR1SjJ0cGNjVElKb1FZVUpnNUd4RlJrenVMNGVlRFNxRHdCRDlyWTZSSF9aaWxVOEdZLWxFSk9oWEo2bVZmMFhqS2pyT3NlaVBkUEtLQndLU203X3NCSTFpV0ZyeXJoM2tOWEUw?oc=5",
-      "date": "2026-03-17 22:51",
-      "summary": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say  Reuters..."
+      "title": "Meta shares jump after Reuters report on plans for layoffs of 20% or more - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjg1WWdxQlduWWxnV2t2NmZLWnJhY0R4b1hYQ3hYb1pzSXlJYnBqQl9ESXctcVoyUU1zemxSc2ZZWmRBVUhZRW81VXFReGRXRXgweV9rcTFLV3hqOFdLdUFySHpwWmJxQXRrajFyVFRMWml2eWtibDRVM3ZYcmNia0poeGNXTk1TaVZhSXVRblBoSVZVUUhJb0daeUlFM2xvdnNpdFZveGlpUFU?oc=5",
+      "date": "2026-03-16 11:50",
+      "summary": "Meta shares jump after Reuters report on plans for layoffs of 20% or more  Reuters..."
     },
     {
       "title": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036 - Reuters",
@@ -217,10 +217,10 @@
       "summary": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036  Reuters..."
     },
     {
-      "title": "Court temporarily allows Perplexity AI shopping 'agents' on Amazon - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSy1Yak9TOUNWTEFLRm1vTm1vUDh4X2FfeDZlazB5WGhqMV9pSzdFajdNUGdLNUkyT1o1SV9QUjNfdFowVmZuZDlmOWdpbF80UVlOYTl1UkF0UlJXWlplUTlESGppeTZaUDRkSzQ2Slk5dXRSeTlvT0k5ZXlTdHVNYWl2aHlPczlHVWxaZDByZ0FNSmdjZFpuRGY1bWRRazhoa0R5VkhMeGlpOFIyR2dOYUF2OG4?oc=5",
-      "date": "2026-03-17 17:39",
-      "summary": "Court temporarily allows Perplexity AI shopping 'agents' on Amazon  Reuters..."
+      "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkNTcnhOZUxnNUNOckZiX3Z6eDlZZ3BBN18xVXpKRmtIMjFWY19sR0RoWGwxdDdyMXdlQmtSQnl4aE5WS0tWMU5GR2ZDd09RVkdHbEZpdVR1SjJ0cGNjVElKb1FZVUpnNUd4RlJrenVMNGVlRFNxRHdCRDlyWTZSSF9aaWxVOEdZLWxFSk9oWEo2bVZmMFhqS2pyT3NlaVBkUEtLQndLU203X3NCSTFpV0ZyeXJoM2tOWEUw?oc=5",
+      "date": "2026-03-17 22:51",
+      "summary": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -229,6 +229,12 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM1lfaGg0eXpyNlFvQ1V4ZDFQUlFVQXJnX1NfdVlybnRIdF9ZaWFNVGtXMW9RY1lYNHNrZ2UzcmdRTGhUMFotenpPcUkzQUQxQlNCdGVsWTF2NVRxOG12a0FQbEZJa1oxR0lUX0RLVHZkLUpRc0ZSbHN3aGRFWFF0bVZpSDZSYURxYktISmpkVjlXemZ2TUFVNGZocldubjVTdm9ZNWY2dll0UFlFZ2h2WV91MDlLZlViMy01QXZieWZDRzNqQzB3OUljN3AzUUVNRFViVmN0SDRDSlZI0gHiAUFVX3lxTE9GTzg3RXk5eXdhX29ocm1ZLVg1d3dfb0UyM2h5eHlfb1FHNEdaSW9fZGluSmpydGRGeEt1U09tT2xEakZ3RDZXZGRnQnV5ZlgyRlFTX3BPRGtWZmVNdi0zekItS1VUQlYybjBwalEtcHM0WERsdXR3dWNpU25Fa1lCU2RPbGdwNHlYZVdRUTRidnFlVnFURmN3UkV5R04wenFDU1lhWVhWdzRCS1U2V2pLOTdsNWJ0QVZCN2xpcEROaUhFTk4tVjVlWTFoNE45bFJlNmU2UWdwaGN4UVFfc29PSnc?oc=5",
       "date": "2026-03-17 22:30",
       "summary": "The Pentagon is planning for AI companies to train on classified data, defense official says  MIT Technology Review..."
+    },
+    {
+      "title": "What do new nuclear reactors mean for waste? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWWRMb3pId3hkekJkNHNLZGJvaktRanZCUlZDc0NmNWVwYUNza19fX2dWeTZBaUdhMUpzWjdNbUxlU2hwaDVlcnF1MFdXemE5bTlrRFhqMHRheUpFcDVUZUJYQkxPRGtFdVpOeC1vMlB4N1l6azlKRXd2elNHZngyeVlRVHA3RjhQVnRYN9IBkgFBVV95cUxQbTNoOTYxM2FxZk5SQUlJdng4U2xPaTlZRXhqMEpjdmtRdS1rLTNCWV9zQkxLcG03enNQMUlERi1HNWNFNmNsS0JGYkkyb0ItZmdpRFVpa2FaRnN2aHduT3VHRHktc3RxZ1h0aTZpeFVlM2pyaUdlbGlPUEVWWEhvZ19TUEtIMjRtX1RlQ3lNeXV2QQ?oc=5",
+      "date": "2026-03-18 09:00",
+      "summary": "What do new nuclear reactors mean for waste?  MIT Technology Review..."
     },
     {
       "title": "Where OpenAI’s technology could show up in Iran - MIT Technology Review",
@@ -247,12 +253,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2ZVNFAwWHZjUXRRMzRLdm9hTUtFdlk3U0NZSFJ5amtWbzdkc3RNR1o3dEZWeEtBdWFKVE1aazlTdUFuSjZvVjFRaW5McEtGTlhTcWhTcFV2M2gtTUZUSTFZRnJKS2w5OGttaDZLaWxBbmlzX0o0SFd1ZTFDT21DUnJJUGllRWk4T0N0WlRZQnZUeVlXUExhVGd0c1BZMmRwbDBQMC1kSXVFRU5nYjRtZUdHMkfSAboBQVVfeXFMTzM2SkhOZXJZYTZTSzNDVklKYjkwNHFzZHMtSDgxUG5yVm1qLTgyNlRUb3N2cWxKUjdxb0dvbUNTR05kek5KMm1la19LWS1XZ0t5R0dabVJqaGtkUjQ0N0lVenM3UnpEd2REd2JaTlNlUlZ5QkRfLXVOZUw0Q1JGWmlERDlwOUx0LVNNbTk0NE1vZmxvLUxJY2V5WnQ0ZF9ndjRid0RwLVZoWm5GMmUyWTVsakV3MjQxMWhB?oc=5",
       "date": "2026-03-12 22:23",
       "summary": "A defense official reveals how AI chatbots could be used for targeting decisions  MIT Technology Review..."
-    },
-    {
-      "title": "Future AI chips could be built on glass - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMTA5ZVJfQWVXMGh0THFyM3NIVzJ5a0lGSWIySjE3V2tGVVNzeHZYV0N3TllMUlJKdW5fR1JMc2VUWV83eEQxX3pIZHMxd1M2X0U3bTZNTlh6NXFlVEM4enJhbGh1U0Jab2ZaQlJEVkNxSFFTZy1OSS1qWG5sSXhybTYyWXkxNkpuemhvRlhxR0RySmZBRmtv0gGcAUFVX3lxTE1xalN1ODdJWk44UkFGUnlSZG51YU11MnFCOUwyV2lpOFZVUElHU3I2MzhobmdXdlVSNmhQdEpYalZRdllsUDVLTnB4YllhREEwN3dXLS04RWYwWjVya0k2Q01iUEVlRTRKQjlEdEhZZzdTS21JV1JlOThvejdnc3BmcDBVSkpheDJ3b0RHOVFNSERnY0F1MWpCY05Reg?oc=5",
-      "date": "2026-03-13 09:00",
-      "summary": "Future AI chips could be built on glass  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong to test new campsite booking system amid overcrowding, litter concerns",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3347018/hong-kong-test-new-campsite-booking-system-amid-overcrowding-litter-concerns?utm_source=rss_feed",
+      "date": "2026-03-18 08:54",
+      "summary": "Hong Kong could introduce pilot schemes for booking campsites in the city before the National Day holiday in October, as authoriti..."
+    },
+    {
       "title": "Bus driver union slams KMB policy to turn off air con when no patrons on board",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3347006/bus-driver-union-slams-kmb-policy-turn-ac-when-travelling-no-patrons?utm_source=rss_feed",
       "date": "2026-03-18 08:15",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/presented/news/hong-kong/topics/hong-kong-international-cultural-summit/article/3346730/west-kowloon-cultural-district-host-second-international-cultural-summit-during-art-week?utm_source=rss_feed",
       "date": "2026-03-18 05:54",
       "summary": "[The content of this article has been produced by our advertising partner.]\nThe second Hong Kong International Cultural Summit wil..."
-    },
-    {
-      "title": "Hong Kong actor Gregory Wong loses appeal against 2019 Legco storming conviction",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3346982/hong-kong-actor-gregory-wong-loses-appeal-against-2019-legco-storming-conviction?utm_source=rss_feed",
-      "date": "2026-03-18 05:40",
-      "summary": "Hong Kong actor Gregory Wong Chung-yiu has lost an appeal against his conviction and jail sentence of six years and two months for..."
     }
   ],
   "New Scientist": [
