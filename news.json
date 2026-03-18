@@ -39,12 +39,6 @@
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
     },
     {
-      "title": "Harvard reports operating deficit amid federal funding cuts - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2ZjQmV2UTFaS0pGVnpKNTBuZF83dkdOcV9NTVdvYXBmVWFYNDdHWlFHYkFna1A2SWFmS0UxRmRKWFhFTVowcWxrbEFJYVJTWmNDOUxuRVIzQ3Nuekwzb0JQWUFpSmNETlNReGtkSHJnNnZ4RGRCYlhPN2lBbWZibUc0bVRjd050N2dqdFAtNnh2RnlQQzEzYWtJU3VucXdVZ3AzOWtqQkdjeW8?oc=5",
-      "date": "2025-10-16 07:00",
-      "summary": "Harvard reports operating deficit amid federal funding cuts  Harvard Gazette..."
-    },
-    {
       "title": "Crossing line between good and bad anxiety - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
       "date": "2025-09-30 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
       "date": "2025-10-23 07:00",
       "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
+    },
+    {
+      "title": "A potential quantum leap - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
+      "date": "2025-11-12 08:00",
+      "summary": "A potential quantum leap  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -73,7 +73,7 @@
     {
       "title": "Sustainability course turns campus into a classroom - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUk0xRnFmLWQtR3NybkQ1dUlycmdaQkxIRUpVQm1zT1pFRzJHTGlrMzJ6SmRwS2lFRXpyWWxmMV9melozQmFXUEZGU2t0b2xXQUZ6OUw1a0t1Skx6cjJYMjhOZlhlWkxtUkdzM3NmWll1TDZGdmJnVVN1N1gxbEZHNWRxaDZ0VG5J?oc=5",
-      "date": "2026-03-17 23:01",
+      "date": "2026-03-18 06:02",
       "summary": "Sustainability course turns campus into a classroom  Stanford Report..."
     },
     {
@@ -205,10 +205,10 @@
       "summary": "A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster?  Reuters..."
     },
     {
-      "title": "OpenAI to sell AI to US agencies through Amazon cloud unit - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYUc0dXdFRWFQOF9vUVZrVERpM3E1eW5JQTVSdWM1dnRTdVIwcmVpMUZadlY2bTJIdVZkUWV3S2RRbjBQdUtsYXdQaUhEQmFfSndvU1RlbEU3dmNDYllWbGNoOE8yZlZNdW92X0dIaVRrSU1UYnlLTXU4X002WF8xTXViOUg4Y3EyZHJ2UVpwa21QbXE5S0szTk5ydHlEbHQ0ZDczbzFXSl81bENsT0RFM2R1TEM0MUE4SDBzOUktM0tsaTNpWnBSOGgzYTRmdw?oc=5",
-      "date": "2026-03-17 13:12",
-      "summary": "OpenAI to sell AI to US agencies through Amazon cloud unit  Reuters..."
+      "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkNTcnhOZUxnNUNOckZiX3Z6eDlZZ3BBN18xVXpKRmtIMjFWY19sR0RoWGwxdDdyMXdlQmtSQnl4aE5WS0tWMU5GR2ZDd09RVkdHbEZpdVR1SjJ0cGNjVElKb1FZVUpnNUd4RlJrenVMNGVlRFNxRHdCRDlyWTZSSF9aaWxVOEdZLWxFSk9oWEo2bVZmMFhqS2pyT3NlaVBkUEtLQndLU203X3NCSTFpV0ZyeXJoM2tOWEUw?oc=5",
+      "date": "2026-03-17 22:51",
+      "summary": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say  Reuters..."
     },
     {
       "title": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036 - Reuters",
@@ -217,10 +217,10 @@
       "summary": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036  Reuters..."
     },
     {
-      "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkNTcnhOZUxnNUNOckZiX3Z6eDlZZ3BBN18xVXpKRmtIMjFWY19sR0RoWGwxdDdyMXdlQmtSQnl4aE5WS0tWMU5GR2ZDd09RVkdHbEZpdVR1SjJ0cGNjVElKb1FZVUpnNUd4RlJrenVMNGVlRFNxRHdCRDlyWTZSSF9aaWxVOEdZLWxFSk9oWEo2bVZmMFhqS2pyT3NlaVBkUEtLQndLU203X3NCSTFpV0ZyeXJoM2tOWEUw?oc=5",
-      "date": "2026-03-17 22:51",
-      "summary": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say  Reuters..."
+      "title": "Court temporarily allows Perplexity AI shopping 'agents' on Amazon - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSy1Yak9TOUNWTEFLRm1vTm1vUDh4X2FfeDZlazB5WGhqMV9pSzdFajdNUGdLNUkyT1o1SV9QUjNfdFowVmZuZDlmOWdpbF80UVlOYTl1UkF0UlJXWlplUTlESGppeTZaUDRkSzQ2Slk5dXRSeTlvT0k5ZXlTdHVNYWl2aHlPczlHVWxaZDByZ0FNSmdjZFpuRGY1bWRRazhoa0R5VkhMeGlpOFIyR2dOYUF2OG4?oc=5",
+      "date": "2026-03-17 17:39",
+      "summary": "Court temporarily allows Perplexity AI shopping 'agents' on Amazon  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Bus driver union slams KMB policy to turn off air con when no patrons on board",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3347006/bus-driver-union-slams-kmb-policy-turn-ac-when-travelling-no-patrons?utm_source=rss_feed",
+      "date": "2026-03-18 08:15",
+      "summary": "A Hong Kong bus driver union has hit out at a company’s guidelines asking drivers to save fuel amid surging oil prices by switchin..."
+    },
+    {
       "title": "Anthony Mason, who helped put top Hong Kong court on the map, dies at age 100",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3346996/anthony-mason-who-helped-put-top-hong-kong-court-map-dies-age-100?utm_source=rss_feed",
       "date": "2026-03-18 07:09",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3346982/hong-kong-actor-gregory-wong-loses-appeal-against-2019-legco-storming-conviction?utm_source=rss_feed",
       "date": "2026-03-18 05:40",
       "summary": "Hong Kong actor Gregory Wong Chung-yiu has lost an appeal against his conviction and jail sentence of six years and two months for..."
-    },
-    {
-      "title": "Closing struggling Hong Kong schools ‘spares parents from future problems’",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3346976/closing-struggling-hong-kong-schools-spares-parents-future-problems?utm_source=rss_feed",
-      "date": "2026-03-18 05:19",
-      "summary": "Closing struggling Hong Kong schools in the short term will prevent future problems for parents, the education minister has said, ..."
     }
   ],
   "New Scientist": [
