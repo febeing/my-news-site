@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Turning extreme heat into large-scale energy storage",
+      "link": "https://news.mit.edu/2026/turning-extreme-heat-large-scale-energy-storage-0318",
+      "date": "2026-03-18 04:00",
+      "summary": "Fourth Power, founded by Professor Asegun Henry, is developing thermal batteries for efficiently storing excess electricity from u..."
+    },
+    {
       "title": "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact",
       "link": "https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317",
       "date": "2026-03-17 20:35",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/new-sensor-sniffs-out-pneumonia-patients-breath-0316",
       "date": "2026-03-16 04:00",
       "summary": "The technology could enable fast, point-of-care diagnoses for pneumonia and other lung conditions...."
-    },
-    {
-      "title": "Scientists discover genetics behind leaky brain blood vessels in Rett syndrome",
-      "link": "https://news.mit.edu/2026/scientists-discover-genetics-leaky-brain-blood-vessels-rett-syndrome-0313",
-      "date": "2026-03-13 19:15",
-      "summary": "By showing the problem derives from genetic mutations that lead to overexpression of a microRNA, MIT researchers’ study points to ..."
     }
   ],
   "Harvard Gazette": [
@@ -65,16 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "Sustainability course turns campus into a classroom - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUk0xRnFmLWQtR3NybkQ1dUlycmdaQkxIRUpVQm1zT1pFRzJHTGlrMzJ6SmRwS2lFRXpyWWxmMV9melozQmFXUEZGU2t0b2xXQUZ6OUw1a0t1Skx6cjJYMjhOZlhlWkxtUkdzM3NmWll1TDZGdmJnVVN1N1gxbEZHNWRxaDZ0VG5J?oc=5",
-      "date": "2026-03-17 23:01",
-      "summary": "Sustainability course turns campus into a classroom  Stanford Report..."
-    },
-    {
       "title": "How climate change is fueling disease outbreaks - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTklGeG5vbUZ5d01IWTdlamZYdm00M2N6bk1Cbkx4Z0ZvOHVheWxrSmc3Y05EbGtxa2FFSHhibDQwb0djUlZqZldHbnhzM2V2XzVYMUlUQXhXc3B1LVh6UGJpR01SRTFoSG1YenhpMUxocUhrZ3pXc0xrVjFwc1lWUjY0akplLVlPOGR3dEh4ekNfLVdhTV81ZzFrVG8?oc=5",
       "date": "2026-03-17 22:21",
       "summary": "How climate change is fueling disease outbreaks  Stanford Report..."
+    },
+    {
+      "title": "Sustainability course turns campus into a classroom - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUk0xRnFmLWQtR3NybkQ1dUlycmdaQkxIRUpVQm1zT1pFRzJHTGlrMzJ6SmRwS2lFRXpyWWxmMV9melozQmFXUEZGU2t0b2xXQUZ6OUw1a0t1Skx6cjJYMjhOZlhlWkxtUkdzM3NmWll1TDZGdmJnVVN1N1gxbEZHNWRxaDZ0VG5J?oc=5",
+      "date": "2026-03-17 23:01",
+      "summary": "Sustainability course turns campus into a classroom  Stanford Report..."
     },
     {
       "title": "Conservative group asks Trump to target Stanford program to train diverse teachers - San Francisco Chronicle",
@@ -96,6 +96,12 @@
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Knock knock, no one’s there. Study finds scientists’ jokes mostly fall flat",
+      "link": "https://www.nature.com/articles/d41586-026-00854-9",
+      "date": "2026-03-18 00:00",
+      "summary": "Nature, Published online: 18 March 2026; doi:10.1038/d41586-026-00854-9Survey examines how often academics attempt jokes during co..."
+    },
     {
       "title": "Planar Li deposition and dissolution enable practical anode-free pouch cells",
       "link": "https://www.nature.com/articles/s41586-026-10402-0",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-00643-4",
       "date": "2026-03-17 00:00",
       "summary": "Nature, Published online: 17 March 2026; doi:10.1038/d41586-026-00643-4Safety concerns of human-triggered bolts of electricity, an..."
-    },
-    {
-      "title": "Rethinking AI’s role in survey research: from threat to collaboration",
-      "link": "https://www.nature.com/articles/d41586-026-00862-9",
-      "date": "2026-03-17 00:00",
-      "summary": "Nature, Published online: 17 March 2026; doi:10.1038/d41586-026-00862-9Rethinking AI’s role in survey research: from threat to col..."
     }
   ],
   "Science News": [
@@ -193,40 +193,40 @@
   ],
   "Reuters AI": [
     {
+      "title": "Exclusive: Meta planning sweeping layoffs as AI costs mount - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRvMGkwTFd4Qkt3QzB1bDhZa2g1cWtiVlRXc0NoSlpfM2N4cmJUV0VTd3REcFljTHlWVDh6cUQ2emJaUVdPUVY1MFVqWVYzNFVkbk9zU2VhSDUtcUtBYlZtNVR5MGUwQ2FoakZYdkJtbWx4aTdOOTFxRmNXUWJVVDhXNy1YVGppMjlDNlZCcHVyNUM1OGswYzEwc3BZNmRQN3FnQzIwSQ?oc=5",
+      "date": "2026-03-14 00:17",
+      "summary": "Exclusive: Meta planning sweeping layoffs as AI costs mount  Reuters..."
+    },
+    {
       "title": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakt6S3Bjbm5pMVh3blpDZ3JrdUdCQXNETjBlZlRTQURrbTJDb3FpbmN6YzdVRlpGWnVBaklOSkxNcWlOdWlWS20tZ2Vyakt5UTktWFhxSnYxZHp1TkJ3dFRTbEUxcnVYM055UC1fb3FMbmVSbFRlc3NjMVNrRF9waU9GS2w4VUtfQkh0U0ZzaHJYOHpmdEtZYU9rMjk3Y3Q4M3pjWkFjQWV1RmhHZ0hvU1NCT3pNaWlWalZ5bmhTSjhodw?oc=5",
       "date": "2026-03-17 18:48",
       "summary": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036  Reuters..."
     },
     {
-      "title": "OpenAI to sell AI to US agencies through Amazon cloud unit - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYUc0dXdFRWFQOF9vUVZrVERpM3E1eW5JQTVSdWM1dnRTdVIwcmVpMUZadlY2bTJIdVZkUWV3S2RRbjBQdUtsYXdQaUhEQmFfSndvU1RlbEU3dmNDYllWbGNoOE8yZlZNdW92X0dIaVRrSU1UYnlLTXU4X002WF8xTXViOUg4Y3EyZHJ2UVpwa21QbXE5S0szTk5ydHlEbHQ0ZDczbzFXSl81bENsT0RFM2R1TEM0MUE4SDBzOUktM0tsaTNpWnBSOGgzYTRmdw?oc=5",
-      "date": "2026-03-17 13:12",
-      "summary": "OpenAI to sell AI to US agencies through Amazon cloud unit  Reuters..."
+      "title": "Baidu joins China's OpenClaw frenzy with new AI agents - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORk5KVFQtbzYtcWJPZDljRFBMSkpKVmdYQkstejM3VVVseDZoYlUzUVJYRmFLeGNTbGwtb2VJUENFekJYRDlGalNsb1g3TEVWdklDTVhOYTZtUk5hVmpuZU1SNFRKU3NoSVhfTkNHVGFXMEt5cjBCaGxXdjViYVV5LXpRU2hKZ3ZxUC00XzRqS2ZKdHdHVkp0ZFlpaF9fdkdTT3hmTXgwQ0w3RlZXUDJrNDRR?oc=5",
+      "date": "2026-03-17 16:29",
+      "summary": "Baidu joins China's OpenClaw frenzy with new AI agents  Reuters..."
     },
     {
-      "title": "Meta’s AI push could trigger 20% layoffs of its workforce - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczhHUG45UlNfTUcxSUlwNlA5eDRvNjdxUWpWUTctbmZ6a0JUamVmVFUyTXJ2VkN4bU10RFNfZVBKaFZBMTQ0WlMzYWlKaERiekh0MkFmR2hLNzRCV2E5bl9XejJFMS13aVYtb3NVTG5mV1RRaFhBcFRmS0x2aGdYZTJselFBR2FKNGZ4N2NlUjNxTl9nTVl1bmZrMENkNjd1SFE?oc=5",
-      "date": "2026-03-16 19:47",
-      "summary": "Meta’s AI push could trigger 20% layoffs of its workforce  USA Today..."
+      "title": "A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster? - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNclBvcWpScEJkOUV5UXVrakVPTm00WHU0S1N1bkEzQ2NtLUNqQ0pwaTB5eWgxaXpHbDdfQ1Fsdzk1RG1EVkFCdkdFdHN2VWVqaklJQTFWeEYxUHRYc1dxNjh1dkdEcThielUtWWdkbmp6Q21EWU00YmdZMWV2QktLYkhfQ3NrVnZBLVU5UWtUSzljd2tfU2dENW1IdzZONXhRNmp5UmllanhSX2tlU3pDOHphanRGVVdyZ1RaR25URmIwd21rb1d4T3p5VXAtdTBQ?oc=5",
+      "date": "2026-03-18 03:08",
+      "summary": "A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster?  Reuters..."
     },
     {
       "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkNTcnhOZUxnNUNOckZiX3Z6eDlZZ3BBN18xVXpKRmtIMjFWY19sR0RoWGwxdDdyMXdlQmtSQnl4aE5WS0tWMU5GR2ZDd09RVkdHbEZpdVR1SjJ0cGNjVElKb1FZVUpnNUd4RlJrenVMNGVlRFNxRHdCRDlyWTZSSF9aaWxVOEdZLWxFSk9oWEo2bVZmMFhqS2pyT3NlaVBkUEtLQndLU203X3NCSTFpV0ZyeXJoM2tOWEUw?oc=5",
       "date": "2026-03-17 22:51",
       "summary": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say  Reuters..."
-    },
-    {
-      "title": "Nvidia bets on AI inference as chip revenue opportunity hits $1 trillion - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzZqLTZuMnJNcm0wVG9VTFpSSnlZZTJvX3NXRTczU21sSFh1QU5rZUd0MDk3dE9xYWFOak8xblh4ZV9ONEstbTNzNDdyeXNsUzA1UktZMmR6YnJvTzdhVUMyOFFOaVVPdG1kY0lhVm5CdzJkV2Z3Q0hSRHYyWmZ6Rl9DZFduVURFcTVLTkdaYnR4TWxsa0JGV3F5V3Q3QzItTFVBZWVvajZOZzdiYW5MSk1iYnFvdDFN?oc=5",
-      "date": "2026-03-16 11:01",
-      "summary": "Nvidia bets on AI inference as chip revenue opportunity hits $1 trillion  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
       "title": "The Pentagon is planning for AI companies to train on classified data, defense official says - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM1lfaGg0eXpyNlFvQ1V4ZDFQUlFVQXJnX1NfdVlybnRIdF9ZaWFNVGtXMW9RY1lYNHNrZ2UzcmdRTGhUMFotenpPcUkzQUQxQlNCdGVsWTF2NVRxOG12a0FQbEZJa1oxR0lUX0RLVHZkLUpRc0ZSbHN3aGRFWFF0bVZpSDZSYURxYktISmpkVjlXemZ2TUFVNGZocldubjVTdm9ZNWY2dll0UFlFZ2h2WV91MDlLZlViMy01QXZieWZDRzNqQzB3OUljN3AzUUVNRFViVmN0SDRDSlZI0gHiAUFVX3lxTE9GTzg3RXk5eXdhX29ocm1ZLVg1d3dfb0UyM2h5eHlfb1FHNEdaSW9fZGluSmpydGRGeEt1U09tT2xEakZ3RDZXZGRnQnV5ZlgyRlFTX3BPRGtWZmVNdi0zekItS1VUQlYybjBwalEtcHM0WERsdXR3dWNpU25Fa1lCU2RPbGdwNHlYZVdRUTRidnFlVnFURmN3UkV5R04wenFDU1lhWVhWdzRCS1U2V2pLOTdsNWJ0QVZCN2xpcEROaUhFTk4tVjVlWTFoNE45bFJlNmU2UWdwaGN4UVFfc29PSnc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM1lfaGg0eXpyNlFvQ1V4ZDFQUlFVQXJnX1NfdVlybnRIdF9ZaWFNVGtXMW9RY1lYNHNrZ2UzcmdRTGhUMFotenpPcUkzQUQxQlNCdGVsWTF2NVRxOG12a0FQbEZJa1oxR0lUX0RLVHZkLUpRc0ZSbHN3aGRFWFF0bVZpSDZSYURxYktISmpkVjlXemZ2TUFVNGZocldubjVTdm9ZNWY2dll0UFlFZ2h2WV91MDlLZlViMy01QXZieWZDRzNqQzB3OUljN3AzUUVNRFViVmN0SDRDSlZI?oc=5",
       "date": "2026-03-17 22:30",
       "summary": "The Pentagon is planning for AI companies to train on classified data, defense official says  MIT Technology Review..."
     },
@@ -257,6 +257,12 @@
   ],
   "Phys.org": [
     {
+      "title": "Targeted alpha therapy: One compound holds promise for unified cancer care",
+      "link": "https://phys.org/news/2026-03-alpha-therapy-compound-cancer.html",
+      "date": "2026-03-18 02:30",
+      "summary": "ORNL is a leader both in developing advanced radiotherapies and in providing the radioisotopes needed for those therapies. Accordi..."
+    },
+    {
       "title": "Dallas-Fort Worth has untapped innovation potential, study says",
       "link": "https://phys.org/news/2026-03-dallas-fort-worth-untapped-potential.html",
       "date": "2026-03-18 02:00",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-03-explore-ways-neutralize-germs-nanomaterials.html",
       "date": "2026-03-18 00:40",
       "summary": "At Empa, an interdisciplinary research institute for materials science and technology within the ETH Domain, researchers are worki..."
-    },
-    {
-      "title": "How Edvard Munch's painting 'The Scream' might look in 300 years' time",
-      "link": "https://phys.org/news/2026-03-edvard-munch-years.html",
-      "date": "2026-03-18 00:00",
-      "summary": "If your great-grandparents ever saw \"The Scream,\" they probably experienced a slightly different painting than the one we see toda..."
     }
   ],
   "The Guardian Edu": [
@@ -321,34 +321,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Injured buffalo brings rush-hour traffic to a standstill on Hong Kong highway",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3346951/injured-cow-brings-rush-hour-traffic-standstill-hong-kong-highway?utm_source=rss_feed",
-      "date": "2026-03-18 01:33",
-      "summary": "An injured buffalo on a Yuen Long highway brought rush-hour traffic in northwestern Hong Kong to a standstill on Wednesday morning..."
+      "title": "HSBC launches US$2.5 billion AT1 bond issue in Hong Kong after market standstill",
+      "link": "https://www.scmp.com/business/banking-finance/article/3346960/hsbc-launches-us25-billion-at1-bond-issue-hong-kong-after-market-standstill?utm_source=rss_feed",
+      "date": "2026-03-18 04:29",
+      "summary": "HSBC Holdings plans to raise US$2.5 billion by issuing two tranches of additional tier-1 (AT1) bonds, marking the reopening of suc..."
     },
     {
-      "title": "Hong Kong women’s group condemns entry of Tates amid safety and equality concerns",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3346931/hong-kong-womens-group-condemns-entry-tates-amid-safety-and-equality-concerns?utm_source=rss_feed",
-      "date": "2026-03-18 01:30",
-      "summary": "A Hong Kong women’s rights group has criticised authorities for allowing controversial British-American influencers Andrew and Tri..."
+      "title": "How education develops a pathway for students’ lifelong growth",
+      "link": "https://www.scmp.com/native/news/hong-kong/education/topics/edtalk-cais-2026/article/3345350/how-education-develops-pathway-students-lifelong-growth?utm_source=rss_feed",
+      "date": "2026-03-18 04:00",
+      "summary": "The teachings of philosopher and psychologist John Dewey, who was a major 20th-century education reformer, still resonate with tea..."
     },
     {
-      "title": "Northern Metropolis land-use laws won’t undermine board’s authority: experts",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3346939/northern-metropolis-land-use-laws-wont-undermine-boards-authority-experts?utm_source=rss_feed",
-      "date": "2026-03-18 00:30",
-      "summary": "Proposed designated laws to streamline land-use approval procedures for the Northern Metropolis megaproject will not undermine the..."
+      "title": "Cathay extends Hong Kong to Middle East flight suspension until end of April",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3346957/cathay-extends-hong-kong-middle-east-flight-suspension-until-end-april?utm_source=rss_feed",
+      "date": "2026-03-18 03:37",
+      "summary": "Hong Kong flag carrier Cathay Pacific Airways has further extended its suspension of all flights to and from the Middle East until..."
     },
     {
-      "title": "Frenzy over AI agent OpenClaw shows the lobster has escaped the pot",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3346562/frenzy-over-ai-agent-openclaw-shows-lobster-has-escaped-pot?utm_source=rss_feed",
-      "date": "2026-03-17 21:30",
-      "summary": "In China this month, people have been lining up on streets to install an AI programme on their computers. Some had travelled from ..."
+      "title": "From studio to market: Hong Kong Design Institute’s transdisciplinary path to global design impact",
+      "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/hkdis-graduates-make-global-impact/article/3346827/studio-market-hong-kong-design-institutes-transdisciplinary-path-global-design-impact?utm_source=rss_feed",
+      "date": "2026-03-18 02:59",
+      "summary": "[The content of this article has been produced by our advertising partner.]\n \nHong Kong is rapidly consolidating its role as Asia’..."
     },
     {
-      "title": "Measures to streamline Northern Metropolis land-use procedures unveiled",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3346930/measures-streamline-northern-metropolis-land-use-procedures-unveiled?utm_source=rss_feed",
-      "date": "2026-03-17 15:38",
-      "summary": "Hong Kong authorities have proposed designated laws to streamline procedures for changing land use in the Northern Metropolis mega..."
+      "title": "Scammers impersonate Hong Kong lawmaker to defraud woman of HK$38,000",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3346954/scammers-impersonate-hong-kong-lawmaker-defraud-resident-hk38000?utm_source=rss_feed",
+      "date": "2026-03-18 02:51",
+      "summary": "Hong Kong lawmaker Gary Chan Hak-kan has been impersonated in a scam that defrauded a victim of HK$38,000 (US$4,849), with the leg..."
     }
   ],
   "New Scientist": [
