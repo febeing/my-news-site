@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Brain circuit needed to incorporate new information may be linked to schizophrenia",
+      "link": "https://news.mit.edu/2026/brain-circuit-incorporates-new-information-may-be-linked-schizophrenia-0318",
+      "date": "2026-03-18 10:00",
+      "summary": "Impairments of this circuit may help to explain why some people with schizophrenia lose touch with reality...."
+    },
+    {
       "title": "Turning extreme heat into large-scale energy storage",
       "link": "https://news.mit.edu/2026/turning-extreme-heat-large-scale-energy-storage-0318",
       "date": "2026-03-18 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/ocean-bacteria-break-down-biodegradable-plastic-0316",
       "date": "2026-03-16 14:00",
       "summary": "MIT researchers uncovered the roles of bacterial species from the environment as they consume biodegradable plastic...."
-    },
-    {
-      "title": "New sensor sniffs out pneumonia on a patient’s breath",
-      "link": "https://news.mit.edu/2026/new-sensor-sniffs-out-pneumonia-patients-breath-0316",
-      "date": "2026-03-16 04:00",
-      "summary": "The technology could enable fast, point-of-care diagnoses for pneumonia and other lung conditions...."
     }
   ],
   "Harvard Gazette": [
@@ -37,12 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
       "date": "2026-01-23 08:00",
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
-    },
-    {
-      "title": "Harvard reports operating deficit amid federal funding cuts - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2ZjQmV2UTFaS0pGVnpKNTBuZF83dkdOcV9NTVdvYXBmVWFYNDdHWlFHYkFna1A2SWFmS0UxRmRKWFhFTVowcWxrbEFJYVJTWmNDOUxuRVIzQ3Nuekwzb0JQWUFpSmNETlNReGtkSHJnNnZ4RGRCYlhPN2lBbWZibUc0bVRjd050N2dqdFAtNnh2RnlQQzEzYWtJU3VucXdVZ3AzOWtqQkdjeW8?oc=5",
-      "date": "2025-10-16 07:00",
-      "summary": "Harvard reports operating deficit amid federal funding cuts  Harvard Gazette..."
     },
     {
       "title": "Crossing line between good and bad anxiety - Harvard Gazette",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
       "date": "2025-10-23 07:00",
       "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
+    },
+    {
+      "title": "A potential quantum leap - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
+      "date": "2025-11-12 08:00",
+      "summary": "A potential quantum leap  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -71,10 +71,10 @@
       "summary": "How climate change is fueling disease outbreaks  Stanford Report..."
     },
     {
-      "title": "Sustainability course turns campus into a classroom - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUk0xRnFmLWQtR3NybkQ1dUlycmdaQkxIRUpVQm1zT1pFRzJHTGlrMzJ6SmRwS2lFRXpyWWxmMV9melozQmFXUEZGU2t0b2xXQUZ6OUw1a0t1Skx6cjJYMjhOZlhlWkxtUkdzM3NmWll1TDZGdmJnVVN1N1gxbEZHNWRxaDZ0VG5J?oc=5",
-      "date": "2026-03-18 06:02",
-      "summary": "Sustainability course turns campus into a classroom  Stanford Report..."
+      "title": "Bioengineers develop novel method to read proteins - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRFpnTGZ0eW1JenQtT0tuZEVrSzdJSmlvR2I5VGRvLVVlMlhXaFRIRjhFblVqaXczd2hIOXJSV0Mzb1BnaWFtaTJtbEU5VlRrZWFqajFXQm9QZ3F1dHkyMno0WFdBRWFza3p6VUpQakY4Y1ZNc3JYbEFKNjc3MWRrQmItdmtKcEU?oc=5",
+      "date": "2026-03-18 10:14",
+      "summary": "Bioengineers develop novel method to read proteins  Stanford Report..."
     },
     {
       "title": "Conservative group asks Trump to target Stanford program to train diverse teachers - San Francisco Chronicle",
@@ -83,10 +83,10 @@
       "summary": "Conservative group asks Trump to target Stanford program to train diverse teachers  San Francisco Chronicle..."
     },
     {
-      "title": "What does it mean to be reasonable? - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdzFNRmVwZ3FjdEVyakEzdFE3ZHFPaG9NRnZYTjZPVkg5eE16ZmVJOGdjaDlWZkUxamh0aVJpQlNZZVk2dWh0dklFSGNFOGo1cjk0MGg4S3dRUVp2dVRaYWRlbERPYnVxenprb3p1RjFCNEhkSi1aZWxKRkpvclZENDVITkdHRktKd1B2VnNZVUs2R0dyM21LcE4yNHRyYjgz?oc=5",
-      "date": "2026-03-17 13:00",
-      "summary": "What does it mean to be reasonable?  Stanford Report..."
+      "title": "Sustainability course turns campus into a classroom - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUk0xRnFmLWQtR3NybkQ1dUlycmdaQkxIRUpVQm1zT1pFRzJHTGlrMzJ6SmRwS2lFRXpyWWxmMV9melozQmFXUEZGU2t0b2xXQUZ6OUw1a0t1Skx6cjJYMjhOZlhlWkxtUkdzM3NmWll1TDZGdmJnVVN1N1gxbEZHNWRxaDZ0VG5J?oc=5",
+      "date": "2026-03-18 06:02",
+      "summary": "Sustainability course turns campus into a classroom  Stanford Report..."
     },
     {
       "title": "Stanford Researchers Find Thin Evidence Behind AI Classroom Tools - GovTech",
@@ -96,6 +96,12 @@
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Founders of quantum information win top prize in computer science",
+      "link": "https://www.nature.com/articles/d41586-026-00818-z",
+      "date": "2026-03-18 00:00",
+      "summary": "Nature, Published online: 18 March 2026; doi:10.1038/d41586-026-00818-zTuring Award winners Gilles Brassard and Charles Bennett pi..."
+    },
     {
       "title": "Knock knock, no one’s there. Study finds scientists’ jokes mostly fall flat",
       "link": "https://www.nature.com/articles/d41586-026-00854-9",
@@ -119,15 +125,15 @@
       "link": "https://www.nature.com/articles/s41586-026-10385-y",
       "date": "2026-03-17 00:00",
       "summary": "Nature, Published online: 17 March 2026; doi:10.1038/s41586-026-10385-yTriple-junction solar cells with improved carrier and photo..."
-    },
-    {
-      "title": "When artificial lightning strikes",
-      "link": "https://www.nature.com/articles/d41586-026-00643-4",
-      "date": "2026-03-17 00:00",
-      "summary": "Nature, Published online: 17 March 2026; doi:10.1038/d41586-026-00643-4Safety concerns of human-triggered bolts of electricity, an..."
     }
   ],
   "Science News": [
+    {
+      "title": "Computer science’s ‘Nobel Prize’ goes quantum",
+      "link": "https://www.science.org/content/article/computer-science-s-nobel-prize-goes-quantum",
+      "date": "2026-03-18 05:00",
+      "summary": "Charles Bennett and Gilles Brassard share this year’s $1 million A.M. Turing Award for work on quantum information..."
+    },
     {
       "title": "Scientific conferences can be a bore. Can jokes liven them up?",
       "link": "https://www.science.org/content/article/scientific-conferences-can-be-bore-can-jokes-liven-them",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/hot-pink-cricket-no-mutant",
       "date": "2026-03-17 04:55",
       "summary": "Arota festae’s unusual hue may help it blend in with immature plants..."
-    },
-    {
-      "title": "Research on fruit flies and other ‘model’ organisms may be declining",
-      "link": "https://www.science.org/content/article/research-fruit-flies-and-other-model-organisms-may-be-declining",
-      "date": "2026-03-17 10:00",
-      "summary": "Analysis of published papers on eight widely studied species suggests work on them is fading, but not everyone is worried..."
     }
   ],
   "Retraction Watch": [
@@ -211,16 +211,16 @@
       "summary": "Meta shares jump after Reuters report on plans for layoffs of 20% or more  Reuters..."
     },
     {
-      "title": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakt6S3Bjbm5pMVh3blpDZ3JrdUdCQXNETjBlZlRTQURrbTJDb3FpbmN6YzdVRlpGWnVBaklOSkxNcWlOdWlWS20tZ2Vyakt5UTktWFhxSnYxZHp1TkJ3dFRTbEUxcnVYM055UC1fb3FMbmVSbFRlc3NjMVNrRF9waU9GS2w4VUtfQkh0U0ZzaHJYOHpmdEtZYU9rMjk3Y3Q4M3pjWkFjQWV1RmhHZ0hvU1NCT3pNaWlWalZ5bmhTSjhodw?oc=5",
-      "date": "2026-03-17 18:48",
-      "summary": "Exclusive: Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036  Reuters..."
+      "title": "Nvidia gets Beijing's nod for H200 chip sales, adapts Groq chip for China, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNEVlQjZrU1hSX09aM1FEZndmSzR5RVFkejlDaVpUNGd2QkJRMG1fVkNKaGFrMHRFR2doTXhPUUQxdFVZeW5felVvOGR2bDhKbjMxTXh0ZHU1aHpQdEJ6ekFmc19ldHMzWUxkUW4wNFRLNlhYZTVHTUM5NnBNVFlMU3VrUjBjWjROUzdkazI5eXBYWUc3TlIweUlQV28tdldQdm1GMnRuZEtFbFRjLTNGTHRjajM?oc=5",
+      "date": "2026-03-18 01:32",
+      "summary": "Nvidia gets Beijing's nod for H200 chip sales, adapts Groq chip for China, sources say  Reuters..."
     },
     {
-      "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkNTcnhOZUxnNUNOckZiX3Z6eDlZZ3BBN18xVXpKRmtIMjFWY19sR0RoWGwxdDdyMXdlQmtSQnl4aE5WS0tWMU5GR2ZDd09RVkdHbEZpdVR1SjJ0cGNjVElKb1FZVUpnNUd4RlJrenVMNGVlRFNxRHdCRDlyWTZSSF9aaWxVOEdZLWxFSk9oWEo2bVZmMFhqS2pyT3NlaVBkUEtLQndLU203X3NCSTFpV0ZyeXJoM2tOWEUw?oc=5",
-      "date": "2026-03-17 22:51",
-      "summary": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say  Reuters..."
+      "title": "Alibaba's AI strategy shift comes into focus with big bets on agents - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOEl1RjY5TXpZZ3FXWEl3TFJqb1pFUTVDXzNtVzJOUTlDclZEdURYZWRqazVyRVJURkxiMUxYcnFObkFhRE5rZDNJN0VMWER1S2FsM2NqWEZlb2tzSTZzaTNyWEpzSmltVTR1RDJHMTRaTWhVNTJMX3JZTHNHRnNqX0l4dFBhY1VfMDc4TGRJZG9KTzlNV0VvakJSeWFnRzBncnU4Qmlnckl0UDJncE1LR2NR?oc=5",
+      "date": "2026-03-18 07:29",
+      "summary": "Alibaba's AI strategy shift comes into focus with big bets on agents  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,19 +243,31 @@
       "summary": "Where OpenAI’s technology could show up in Iran  MIT Technology Review..."
     },
     {
+      "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjJNYVhxNlVqbGNtbkRDaVNrSVp3Q2xlVVpHaVZDN1FsM3djLWROTmdoRXlJbXRVZk1RaE1DQ3BDc1Z1cjBjQXpSb1VIMFRyRVN2ZnNpVndjQ2FwdElyeGdCRWNtNlkydWdNOUxxdzh2MnpLWE9JU3dGQ1VYbmxEUEFFTVhkWnpFUmc3ODdIVFFPYkU1aU55T2c2NXNadzB4T2Fz0gGoAUFVX3lxTFA0c0hLSjJxMU5lckM3bFJWLVRPSWhiX2EwcG1YVjFjOWpFbFVtaW5rbG5mbHFCLVdWcWpJRFlpSHFMTTlmUi1YOTVzYm5nYmJVblZxZUsweWZIbVBWcWhvcHpJYnFuV3FlbWtBbVR0NG1LaWxaREdFQVMyQmJneEY4M0lsQUp5RTRLTFFfY3JaRlV3UTI1UGYtNUFrR2I0d1Z4YWZqcjJSTw?oc=5",
+      "date": "2026-03-09 07:00",
+      "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
+    },
+    {
       "title": "Why physical AI is becoming manufacturing’s next advantage - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORjM3R3RtMXFldmNibmxNUjh4Nk13Mmo2bm5MMFpTNTFUVzREclMtZmlsV2NHeUQzd280TnNGcUhnU1FmdlFxb1BtaXJkNXp1dURVUUdweXpDeTU3SzBBME0yX1UtcC1MMVhpOXl6cE13QXZTcVBOdmVJUzRtYlZiWElSS0xvOHp3Y2VqNWRVZ0ZVUHRBX0w2VGRDUXcyYW5ta1c5OUZQSko3U2tGc1Zv0gG0AUFVX3lxTE9nV2pDcGlHbHdSZHB0V3JGMDFNZnhvWHdfWWhDdlBuSUVta1ZGTjRnMkRod3k5RVhCRUlLSVVyOHd0UDVwZmxlZXlZOVNBZDFyRk9saGxCQUtQX3Y3MHllc1plVDRNenlNMFRUX2prTS05UGVZaDg5ell3dTZZdnZqemhDMk12a3B3dkU1M0VNWXo2aTVWQWVOYkgzc1VySXdDQ3pvLWMwa2xGMEpsQWxzVjhGaA?oc=5",
       "date": "2026-03-13 15:16",
       "summary": "Why physical AI is becoming manufacturing’s next advantage  MIT Technology Review..."
-    },
-    {
-      "title": "A defense official reveals how AI chatbots could be used for targeting decisions - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2ZVNFAwWHZjUXRRMzRLdm9hTUtFdlk3U0NZSFJ5amtWbzdkc3RNR1o3dEZWeEtBdWFKVE1aazlTdUFuSjZvVjFRaW5McEtGTlhTcWhTcFV2M2gtTUZUSTFZRnJKS2w5OGttaDZLaWxBbmlzX0o0SFd1ZTFDT21DUnJJUGllRWk4T0N0WlRZQnZUeVlXUExhVGd0c1BZMmRwbDBQMC1kSXVFRU5nYjRtZUdHMkfSAboBQVVfeXFMTzM2SkhOZXJZYTZTSzNDVklKYjkwNHFzZHMtSDgxUG5yVm1qLTgyNlRUb3N2cWxKUjdxb0dvbUNTR05kek5KMm1la19LWS1XZ0t5R0dabVJqaGtkUjQ0N0lVenM3UnpEd2REd2JaTlNlUlZ5QkRfLXVOZUw0Q1JGWmlERDlwOUx0LVNNbTk0NE1vZmxvLUxJY2V5WnQ0ZF9ndjRid0RwLVZoWm5GMmUyWTVsakV3MjQxMWhB?oc=5",
-      "date": "2026-03-12 22:23",
-      "summary": "A defense official reveals how AI chatbots could be used for targeting decisions  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Prodrug lipid nanoparticle could unlock universal immunotherapy for solid cancers",
+      "link": "https://phys.org/news/2026-03-prodrug-lipid-nanoparticle-universal-immunotherapy.html",
+      "date": "2026-03-18 10:00",
+      "summary": "Engineers at the University of Pennsylvania have developed a new type of lipid nanoparticle (LNP) that could one day serve as a un..."
+    },
+    {
+      "title": "Protein sequencing advance offers new insights into life's foundations",
+      "link": "https://phys.org/news/2026-03-protein-sequencing-advance-insights-life.html",
+      "date": "2026-03-18 10:00",
+      "summary": "Proteins, one of the smallest building blocks of life on Earth, hold promise for answering some of biology's biggest questions. Co..."
+    },
     {
       "title": "A 'consortium' of bacteria cooperates to eat phthalate plasticizers that single microbes can't stomach",
       "link": "https://phys.org/news/2026-03-consortium-bacteria-cooperates-phthalate-plasticizers.html",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-03-dallas-fort-worth-untapped-potential.html",
       "date": "2026-03-18 02:00",
       "summary": "Dallas-Fort Worth has all the right ingredients to be a national powerhouse for innovation—from a robust economy, world-class rese..."
-    },
-    {
-      "title": "New material can collect clean and safe drinking water from the air",
-      "link": "https://phys.org/news/2026-03-material-safe-air.html",
-      "date": "2026-03-18 01:30",
-      "summary": "Climate change, population growth, conflict and humanitarian crises are putting increasing pressure on the world's water resources..."
-    },
-    {
-      "title": "Research reveals hidden ocean heat waves threatening South China Sea ecosystems",
-      "link": "https://phys.org/news/2026-03-reveals-hidden-ocean-threatening-south.html",
-      "date": "2026-03-18 01:10",
-      "summary": "The South China Sea (SCS), a vital marine region supporting rich biodiversity, productive fisheries, and extensive coral reefs, fa..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong’s jobless rate falls by 0.1 percentage point",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347046/hong-kongs-jobless-rate-falls-01-percentage-point?utm_source=rss_feed",
+      "date": "2026-03-18 10:34",
+      "summary": "Hong Kong’s jobless rate dipped by 0.1 percentage point over the past three months to 3.8 per cent, with unemployment dropping in ..."
+    },
+    {
       "title": "Hong Kong to test new campsite booking system amid overcrowding, litter concerns",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3347018/hong-kong-test-new-campsite-booking-system-amid-overcrowding-litter-concerns?utm_source=rss_feed",
       "date": "2026-03-18 08:54",
@@ -343,15 +349,15 @@
       "link": "https://www.scmp.com/business/china-business/article/3346991/investors-eye-xi-trump-summit-direction-hong-kong-china-stocks-shaken-conflict?utm_source=rss_feed",
       "date": "2026-03-18 06:59",
       "summary": "The prospect of a meeting between President Xi Jinping and US counterpart Donald Trump has become a focal point for investors seek..."
-    },
-    {
-      "title": "West Kowloon Cultural District to host second international cultural summit during Art Week",
-      "link": "https://www.scmp.com/presented/news/hong-kong/topics/hong-kong-international-cultural-summit/article/3346730/west-kowloon-cultural-district-host-second-international-cultural-summit-during-art-week?utm_source=rss_feed",
-      "date": "2026-03-18 05:54",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nThe second Hong Kong International Cultural Summit wil..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Particle discovered at CERN solves a 20-year-old mystery",
+      "link": "https://www.newscientist.com/article/2519595-particle-discovered-at-cern-solves-a-20-year-old-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-17 09:00",
+      "summary": "Physicists working on the LHCb experiment have spotted an elusive and fleeting particle, a heavier and more charming cousin to the..."
+    },
     {
       "title": "Your partner may wake you up six times a night – but does it matter?",
       "link": "https://www.newscientist.com/article/2519388-your-partner-may-wake-you-up-six-times-a-night-but-does-it-matter/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -363,12 +369,6 @@
       "link": "https://www.newscientist.com/article/2519371-the-ancient-goths-were-an-ethnically-diverse-group/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-16 12:00",
       "summary": "Ancient DNA reveals that the Goths of eastern Europe, some of whom would ultimately sack the city of Rome, may have been a mix of ..."
-    },
-    {
-      "title": "Particle discovered at CERN solves a 20-year-old mystery",
-      "link": "https://www.newscientist.com/article/2519595-particle-discovered-at-cern-solves-a-20-year-old-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-17 09:00",
-      "summary": "Physicists working on the LHCb experiment have spotted an elusive and fleeting particle, a heavier and more charming cousin to the..."
     },
     {
       "title": "3I/ATLAS: Interstellar comet has water unlike any in our solar system",
