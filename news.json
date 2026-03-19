@@ -129,34 +129,34 @@
   ],
   "Science News": [
     {
+      "title": "How realistic is the science in <em>Project Hail Mary</em>?",
+      "link": "https://www.science.org/content/article/how-realistic-science-project-hail-mary",
+      "date": "2026-03-19 02:30",
+      "summary": "From the viability of waterless life to how researchers should handle cosmic emergencies, astronomer Wendy Freedman weighs in on t..."
+    },
+    {
+      "title": "What happened when an Arab neuroscientist took the helm at an Israeli university?",
+      "link": "https://www.science.org/content/article/what-happened-when-arab-neuroscientist-took-helm-israeli-university",
+      "date": "2026-03-19 02:00",
+      "summary": "Mouna Maroun’s stewardship highlights the promise—and perils—of reconciliation through science..."
+    },
+    {
+      "title": "Rice needs to be replanted every year. Genetic tinkering could make it more like apples",
+      "link": "https://www.science.org/content/article/rice-needs-be-replanted-every-year-genetic-tinkering-could-make-it-more-apples",
+      "date": "2026-03-19 02:00",
+      "summary": "Researchers re-create key aspects of long-lived wild relative, which could make rice fields longer lasting..."
+    },
+    {
+      "title": "Debate explodes over age of key South American archaeological site",
+      "link": "https://www.science.org/content/article/debate-explodes-over-age-key-south-american-archaeological-site",
+      "date": "2026-03-19 02:00",
+      "summary": "New study argues Monte Verde is far younger than once thought, challenging when people arrived in the Americas..."
+    },
+    {
       "title": "Floating wetlands boost water quality, slash greenhouse emissions",
       "link": "https://www.science.org/content/article/floating-wetlands-boost-water-quality-slash-greenhouse-emissions",
       "date": "2026-03-19 11:35",
       "summary": "Fabricated platforms at an Australian wastewater lagoon soak up water pollution and methane..."
-    },
-    {
-      "title": "ArXiv, the pioneering preprint server, declares independence from Cornell",
-      "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "date": "2026-03-18 06:00",
-      "summary": "As an independent nonprofit, it hopes to raise funds to cope with exploding submissions and “AI slop”..."
-    },
-    {
-      "title": "China demands evidence that traditional medicine injections really work",
-      "link": "https://www.science.org/content/article/china-demands-evidence-traditional-medicine-injections-really-work",
-      "date": "2026-03-18 02:00",
-      "summary": "New regulations ask manufacturers to provide efficacy and safety data—or withdraw their products..."
-    },
-    {
-      "title": "Mysterious type of static electricity has a hidden culprit",
-      "link": "https://www.science.org/content/article/mysterious-type-static-electricity-has-hidden-culprit",
-      "date": "2026-03-18 12:00",
-      "summary": "Find explains how volcanic ash plumes spark lightning and why dust in grain silos can explode..."
-    },
-    {
-      "title": "Mitochondria packaged in blood cell membranes improve disease symptoms in mice",
-      "link": "https://www.science.org/content/article/mitochondria-packaged-blood-cell-membranes-improve-disease-symptoms-mice",
-      "date": "2026-03-18 11:00",
-      "summary": "Tiny capsules can deliver healthy organelles into animals with Parkinson’s-like and other mitochondria-linked disorders..."
     }
   ],
   "Retraction Watch": [
@@ -193,16 +193,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "UK to examine labelling AI content among wider copyright reforms - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUFDSDJiRjBXLWtmdFBwSTlkREFZVFVoc0hiQnNsb3luM3BLbmZTWGtITlFjMmtEQkJSb1Y1ZUNVb29teS1sNnRKalE4cGdNcS05cnRWemJ2VnFfREhRdFZFN3ExZ0ozcmxEaGtpWmpkWTdReFdsbS1HSi1LMmUzUnc5N0lLa25fNUNjSFpvUWd5aGhWRVYtUF9KQzBnUzhDNmc1NDJjdDVJTjBNMlVfaVNPbmotWTJuREYtZg?oc=5",
-      "date": "2026-03-18 11:57",
-      "summary": "UK to examine labelling AI content among wider copyright reforms  Reuters..."
-    },
-    {
       "title": "Mystery AI model revealed to be Xiaomi's following suspicions it was DeepSeek V4 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNclBvcWpScEJkOUV5UXVrakVPTm00WHU0S1N1bkEzQ2NtLUNqQ0pwaTB5eWgxaXpHbDdfQ1Fsdzk1RG1EVkFCdkdFdHN2VWVqaklJQTFWeEYxUHRYc1dxNjh1dkdEcThielUtWWdkbmp6Q21EWU00YmdZMWV2QktLYkhfQ3NrVnZBLVU5UWtUSzljd2tfU2dENW1IdzZONXhRNmp5UmllanhSX2tlU3pDOHphanRGVVdyZ1RaR25URmIwd21rb1d4T3p5VXAtdTBQ?oc=5",
       "date": "2026-03-18 03:08",
       "summary": "Mystery AI model revealed to be Xiaomi's following suspicions it was DeepSeek V4  Reuters..."
+    },
+    {
+      "title": "UK to examine labelling AI content among wider copyright reforms - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUFDSDJiRjBXLWtmdFBwSTlkREFZVFVoc0hiQnNsb3luM3BLbmZTWGtITlFjMmtEQkJSb1Y1ZUNVb29teS1sNnRKalE4cGdNcS05cnRWemJ2VnFfREhRdFZFN3ExZ0ozcmxEaGtpWmpkWTdReFdsbS1HSi1LMmUzUnc5N0lLa25fNUNjSFpvUWd5aGhWRVYtUF9KQzBnUzhDNmc1NDJjdDVJTjBNMlVfaVNPbmotWTJuREYtZg?oc=5",
+      "date": "2026-03-18 11:57",
+      "summary": "UK to examine labelling AI content among wider copyright reforms  Reuters..."
     },
     {
       "title": "Meta’s AI push could trigger 20% layoffs of its workforce - USA Today",
@@ -225,16 +225,16 @@
   ],
   "MIT Tech Review": [
     {
-      "title": "Can quantum computers now solve health care problems? We’ll soon find out. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcW1UX1pxc3VPalJ2aDhGck5VdGpLcWN5alJyQVJOOFJULUd5M0hxcW96WVE2UTBwV05NMU53YkVpQi1WeGFyZy1IR1B6SEgyWWg3ellxbmVFX3VDMThKTVpLNU5ic0xISlhVa3Y4bmNkcUJnMFJSY21CVlZFbXdYeEcyaFlTWlhJX1VfdlFWSnYza1NxcS1zVHJ6NEVRMXBMSUQyeXFYQkVhRTYtQkZCZWx2dlR1dzRrUnlyT1l6RzZ0aklLOGdPaFlPX19pUDZnYkdz0gHYAUFVX3lxTFBMcmxGTHJ2Z1VmVjN4TmNBbEFMNHZkNFRnNGZjZC1tQzI4bVhZU3NBVVY1UTJReVVPSDJ6eFZUU00xVFFQNDR4cE9SbXB0bWFDQWVfbmlfU2M0RUMzaklaT2Nrc2ZnQThUQzhPNFBESjRlSlc0OWR5S0dZWldxV1c4UEEwck9CTWtsWFFPbHlGVWExVTY3TjhnLWI1bjU5NExCZDRXa245MzJXNHZjSnBxa3dmVS15M2U3LTBCeVo1SG1zQTYtU0RWTUl0ekx5aE1pNVpEMUJLNg?oc=5",
-      "date": "2026-03-19 10:51",
-      "summary": "Can quantum computers now solve health care problems? We’ll soon find out.  MIT Technology Review..."
-    },
-    {
       "title": "Where OpenAI’s technology could show up in Iran - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUUNta1NMUjlZOHJVejhqNXZLeDVpRTA4R2ZZUW1PTmxrWjZKc1dZajJEZjdNVlduT1dCNFhxLUVudlNLLTN2ZVFIR00tX3FEQjVCR3BaNUs2YmlvQi1DSUNHeElHbUVXUmVJZnV5bVFBNnFIU1dIX1hwamlTdVd0bUM2VUtVTVdLYWRpcFdyb19EVDRSZlVXeXJuT054MVA30gGmAUFVX3lxTFBDNW1IU01MSy1YNXNvNjIxdzMzaWg3RE1iZGJCamFYOE1DelBCZWJvZmFQNHY1SXp4cVhUaWZnUnR3cGpVTm9fWTJpdUw0NHl3ejhNWWdpX2FlZXNWS3ZRQVJxUWE2TWR6alRrU3NnX004UjFBUkp6c1VHdUo2MHczOHlZbkVuZ0ltZzEzUFVoMHpCbWhmdEIyNFNtaFFUZGZ0TG5lN3c?oc=5",
       "date": "2026-03-16 17:06",
       "summary": "Where OpenAI’s technology could show up in Iran  MIT Technology Review..."
+    },
+    {
+      "title": "Can quantum computers now solve health care problems? We’ll soon find out. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcW1UX1pxc3VPalJ2aDhGck5VdGpLcWN5alJyQVJOOFJULUd5M0hxcW96WVE2UTBwV05NMU53YkVpQi1WeGFyZy1IR1B6SEgyWWg3ellxbmVFX3VDMThKTVpLNU5ic0xISlhVa3Y4bmNkcUJnMFJSY21CVlZFbXdYeEcyaFlTWlhJX1VfdlFWSnYza1NxcS1zVHJ6NEVRMXBMSUQyeXFYQkVhRTYtQkZCZWx2dlR1dzRrUnlyT1l6RzZ0aklLOGdPaFlPX19pUDZnYkdz0gHYAUFVX3lxTFBMcmxGTHJ2Z1VmVjN4TmNBbEFMNHZkNFRnNGZjZC1tQzI4bVhZU3NBVVY1UTJReVVPSDJ6eFZUU00xVFFQNDR4cE9SbXB0bWFDQWVfbmlfU2M0RUMzaklaT2Nrc2ZnQThUQzhPNFBESjRlSlc0OWR5S0dZWldxV1c4UEEwck9CTWtsWFFPbHlGVWExVTY3TjhnLWI1bjU5NExCZDRXa245MzJXNHZjSnBxa3dmVS15M2U3LTBCeVo1SG1zQTYtU0RWTUl0ekx5aE1pNVpEMUJLNg?oc=5",
+      "date": "2026-03-19 10:51",
+      "summary": "Can quantum computers now solve health care problems? We’ll soon find out.  MIT Technology Review..."
     },
     {
       "title": "The Pentagon is planning for AI companies to train on classified data, defense official says - MIT Technology Review",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
+      "title": "Audit managers' work-life balance suffered during COVID",
+      "link": "https://phys.org/news/2026-03-life-covid.html",
+      "date": "2026-03-19 19:47",
+      "summary": "It's been six years since the COVID pandemic swept the world, and by now we are all familiar with the pros and cons of remote work..."
+    },
+    {
+      "title": "Light-activated medicines may cut side effects: How a switchable beta blocker works",
+      "link": "https://phys.org/news/2026-03-medicines-side-effects-switchable-beta.html",
+      "date": "2026-03-19 19:40",
+      "summary": "Rendering a drug effective or ineffective in a flash at the appropriate location—this is the focus of research in photopharmacolog..."
+    },
+    {
+      "title": "An AI-guided gene-editing tool for more precise and safer DNA correction",
+      "link": "https://phys.org/news/2026-03-ai-gene-tool-precise-safer.html",
+      "date": "2026-03-19 19:20",
+      "summary": "Researchers at the Yong Loo Lin School of Medicine, National University of Singapore (NUS Medicine) have developed a revolutionary..."
+    },
+    {
+      "title": "Fluorescent dye that works in superacidic conditions expands possibilities for imaging in extreme environments",
+      "link": "https://phys.org/news/2026-03-fluorescent-dye-superacidic-conditions-possibilities.html",
+      "date": "2026-03-19 19:00",
+      "summary": "Since the 1960s, boron–dipyrromethene dyes, commonly called BODIPY dyes, have been widely used for their strong fluorescence, espe..."
+    },
+    {
       "title": "Milkweed evolves 'mind-blowing' tactic to fight monarchs",
       "link": "https://phys.org/news/2026-03-milkweed-evolves-mind-tactic-monarchs.html",
       "date": "2026-03-19 18:40",
       "summary": "Milkweed has found a new strategy in its epic evolutionary battle with monarch butterflies: upgrading its toxins to outmaneuver th..."
-    },
-    {
-      "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
-      "link": "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html",
-      "date": "2026-03-19 18:40",
-      "summary": "The ancient city of Pompeii is one of those archaeological sites that keeps on giving with one discovery after another. While much..."
-    },
-    {
-      "title": "How a tryptophan-rich allosteric communication network helps activate a major drug target receptor",
-      "link": "https://phys.org/news/2026-03-tryptophan-rich-allosteric-communication-network.html",
-      "date": "2026-03-19 18:20",
-      "summary": "A multinational research team led by researchers at Institute of Science Tokyo, RIKEN, and the University of Toronto has revealed ..."
-    },
-    {
-      "title": "Air pollution to rise over Europe in coming days: EU agency",
-      "link": "https://phys.org/news/2026-03-air-pollution-europe-days-eu.html",
-      "date": "2026-03-19 18:00",
-      "summary": "Air quality is expected to deteriorate across parts of Europe in the coming days, driven by an increase in microscopic polluting p..."
-    },
-    {
-      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
-      "link": "https://phys.org/news/2026-03-earthquake-scientists-reveal-overplowing-weakens.html",
-      "date": "2026-03-19 18:00",
-      "summary": "Plowing, or tilling, is an age-old agricultural practice that readies the soil for planting by turning over the top layer to expos..."
     }
   ],
   "The Guardian Edu": [
