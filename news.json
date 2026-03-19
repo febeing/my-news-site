@@ -89,10 +89,10 @@
       "summary": "Sustainability course turns campus into a classroom  Stanford Report..."
     },
     {
-      "title": "Bioengineers develop novel method to read proteins - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRFpnTGZ0eW1JenQtT0tuZEVrSzdJSmlvR2I5VGRvLVVlMlhXaFRIRjhFblVqaXczd2hIOXJSV0Mzb1BnaWFtaTJtbEU5VlRrZWFqajFXQm9QZ3F1dHkyMno0WFdBRWFza3p6VUpQakY4Y1ZNc3JYbEFKNjc3MWRrQmItdmtKcEU?oc=5",
-      "date": "2026-03-18 10:14",
-      "summary": "Bioengineers develop novel method to read proteins  Stanford Report..."
+      "title": "What does it mean to be reasonable? - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdzFNRmVwZ3FjdEVyakEzdFE3ZHFPaG9NRnZYTjZPVkg5eE16ZmVJOGdjaDlWZkUxamh0aVJpQlNZZVk2dWh0dklFSGNFOGo1cjk0MGg4S3dRUVp2dVRaYWRlbERPYnVxenprb3p1RjFCNEhkSi1aZWxKRkpvclZENDVITkdHRktKd1B2VnNZVUs2R0dyM21LcE4yNHRyYjgz?oc=5",
+      "date": "2026-03-17 13:00",
+      "summary": "What does it mean to be reasonable?  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -257,6 +257,12 @@
   ],
   "Phys.org": [
     {
+      "title": "High-resolution atlas shows how thirsty plants hold out during drought",
+      "link": "https://phys.org/news/2026-03-high-resolution-atlas-thirsty-drought.html",
+      "date": "2026-03-19 10:00",
+      "summary": "The United States and Mexico have been in a historic megadrought since the turn of the century. For more than 25 years, the Americ..."
+    },
+    {
       "title": "Mystery fish deaths in Papua New Guinea prompt health warning",
       "link": "https://phys.org/news/2026-03-mystery-fish-deaths-papua-guinea.html",
       "date": "2026-03-19 09:36",
@@ -279,15 +285,15 @@
       "link": "https://phys.org/news/2026-03-teachers-students-ai-good.html",
       "date": "2026-03-19 00:50",
       "summary": "K-12 teachers and students across the country are increasingly using AI in and out of classrooms, whether it is teachers turning t..."
-    },
-    {
-      "title": "Some 'designer' crossbreed dogs may have more problem behaviors than pure breeds",
-      "link": "https://phys.org/news/2026-03-crossbreed-dogs-problem-behaviors-pure.html",
-      "date": "2026-03-19 00:10",
-      "summary": "In a new, survey-based study of three kinds of \"designer\" crossbreed dogs, cockapoos, cavapoos and labradoodles, all three showed ..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Efforts to shut down pro-Palestinian speech face series of setbacks in court",
+      "link": "https://www.theguardian.com/us-news/2026/mar/19/pro-palestinian-speech-antisemitism-lawsuits",
+      "date": "2026-03-19 10:00",
+      "summary": "Rulings in cases alleging antisemitism on US campuses say common pro-Palestinian speech is constitutionally protectedFew debates f..."
+    },
     {
       "title": "Playing with dolls can help children develop imagination and social skills – UK study",
       "link": "https://www.theguardian.com/society/2026/mar/18/playing-with-dolls-can-help-children-develop-imagination-and-social-skills-uk-study",
@@ -311,15 +317,15 @@
       "link": "https://www.theguardian.com/news/audio/2026/mar/18/from-the-archive-parents-are-frightened-for-themselves-and-for-their-children-an-inspirational-school-in-impossible-times-podcast",
       "date": "2026-03-18 05:00",
       "summary": "We are raiding the Guardian long read archives to bring you some classic pieces from years past, with new introductions from the a..."
-    },
-    {
-      "title": "EU calls for urgent reboot in talks with UK to stop reset deal failing",
-      "link": "https://www.theguardian.com/world/2026/mar/16/eu-urgent-reboot-uk-talks-stop-reset-deal-failing",
-      "date": "2026-03-16 19:40",
-      "summary": "Time is running out to find agreement on areas such as tuition fees EU citizens would pay in Britain and rules for food safetyThe ..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Tribute to towering jurist: how the late Sir Anthony Mason shaped Hong Kong courts",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347173/tribute-towering-jurist-how-late-sir-anthony-mason-shaped-hong-kong-courts?utm_source=rss_feed",
+      "date": "2026-03-19 09:49",
+      "summary": "Sir Anthony Mason, one of Hong Kong’s first and greatest justices to sit on our Court of Final Appeal, passed away on Tuesday at t..."
+    },
     {
       "title": "Hong Kong’s CK Hutchison reports 7% gain in underlying profit amid ‘unforeseen challenges’",
       "link": "https://www.scmp.com/business/article/3347168/hong-kongs-ck-hutchison-reports-7-gain-underlying-profit-amid-unforeseen-challenges?utm_source=rss_feed",
@@ -343,26 +349,26 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347113/hong-kong-businessman-jason-poon-5-others-arrested-hk6-million-fraud-case?utm_source=rss_feed",
       "date": "2026-03-19 04:28",
       "summary": "Hong Kong businessman Jason Poon Chuk-hung, his wife and four others have been arrested on suspicion of defrauding an enterprise f..."
-    },
-    {
-      "title": "Middle East banks eye Hong Kong as ‘safe haven’ amid Iran threats, InvestHK head says",
-      "link": "https://www.scmp.com/business/banking-finance/article/3347050/middle-east-banks-eye-hong-kong-safe-haven-amid-iran-threats-investhk-head-says?utm_source=rss_feed",
-      "date": "2026-03-19 01:30",
-      "summary": "Middle East banks and wealthy investors are poised to increase their investments in Hong Kong amid geopolitical tensions to divers..."
     }
   ],
   "New Scientist": [
     {
-      "title": "How worried should you be about ultra-processed foods?",
-      "link": "https://www.newscientist.com/article/2519704-how-worried-should-you-be-about-ultra-processed-foods/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-19 08:00",
-      "summary": "We are constantly told to watch out for the health risks of eating ultra-processed food, but should you be worried every time you ..."
+      "title": "Physicists create formula for how many times you can fold a crêpe",
+      "link": "https://www.newscientist.com/article/2519634-physicists-create-formula-for-how-many-times-you-can-fold-a-crepe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-19 10:00",
+      "summary": "When you fold a flexible material such as a pancake or a tortilla, its behaviour depends on a competition between gravity and elas..."
     },
     {
       "title": "Fluorescent ruby-like gems have been found on Mars for the first time",
       "link": "https://www.newscientist.com/article/2519933-fluorescent-ruby-like-gems-have-been-found-on-mars-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-18 19:00",
       "summary": "The Perseverance rover has found tiny crystals that seem to be rubies or sapphires inside pebbles on Mars, where they have never b..."
+    },
+    {
+      "title": "How worried should you be about ultra-processed foods?",
+      "link": "https://www.newscientist.com/article/2519704-how-worried-should-you-be-about-ultra-processed-foods/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-19 08:00",
+      "summary": "We are constantly told to watch out for the health risks of eating ultra-processed food, but should you be worried every time you ..."
     },
     {
       "title": "Boosting the blood-brain barrier could avert brain damage in athletes",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2519668-neanderthals-may-have-treated-wounds-with-antibiotic-sticky-tar/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-18 18:00",
       "summary": "Tar made from birch tree bark is commonly found at Neanderthal sites, and experiments show that it kills some bacteria that cause ..."
-    },
-    {
-      "title": "Will war in the Middle East accelerate the clean energy transition?",
-      "link": "https://www.newscientist.com/article/2519862-will-war-in-the-middle-east-accelerate-the-clean-energy-transition/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-18 16:28",
-      "summary": "Disruption to shipping traffic through the Strait of Hormuz has led to a spike in oil and natural gas prices, which could spur cou..."
     }
   ]
 }
