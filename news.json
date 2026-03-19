@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Improving cartilage repair through cell therapy",
+      "link": "https://news.mit.edu/2026/improving-cartilage-repair-through-cell-therapy-0319",
+      "date": "2026-03-19 13:50",
+      "summary": "SMART breakthrough offers a promising pathway toward improved manufacturing of high‑quality cells for regenerative therapies to tr..."
+    },
+    {
       "title": "Generative AI improves a wireless vision system that sees through obstructions",
       "link": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
       "date": "2026-03-19 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/brain-circuit-incorporates-new-information-may-be-linked-schizophrenia-0318",
       "date": "2026-03-18 10:00",
       "summary": "Impairments of this circuit may help to explain why some people with schizophrenia lose touch with reality...."
-    },
-    {
-      "title": "Turning extreme heat into large-scale energy storage",
-      "link": "https://news.mit.edu/2026/turning-extreme-heat-large-scale-energy-storage-0318",
-      "date": "2026-03-18 04:00",
-      "summary": "Fourth Power, founded by Professor Asegun Henry, is developing thermal batteries for efficiently storing excess electricity from u..."
     }
   ],
   "Harvard Gazette": [
@@ -51,16 +51,16 @@
       "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     },
     {
-      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
-      "date": "2025-10-28 07:00",
-      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
-    },
-    {
       "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
       "date": "2025-09-25 07:00",
       "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
+    },
+    {
+      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
+      "date": "2025-10-28 07:00",
+      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -97,34 +97,34 @@
   ],
   "Nature Careers": [
     {
+      "title": "UK bets big on homegrown fusion and quantum — can it lead the world?",
+      "link": "https://www.nature.com/articles/d41586-026-00877-2",
+      "date": "2026-03-19 00:00",
+      "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00877-2UK government announces multibillion-pound science investme..."
+    },
+    {
+      "title": "Seeking an industry role? Sell yourself as a problem-solver, not a job-seeker",
+      "link": "https://www.nature.com/articles/d41586-026-00548-2",
+      "date": "2026-03-19 00:00",
+      "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00548-2A mindset change can make career pivots from academia more ..."
+    },
+    {
+      "title": "Mathematician who reshaped number theory wins prestigious Abel prize",
+      "link": "https://www.nature.com/articles/d41586-026-00819-y",
+      "date": "2026-03-19 00:00",
+      "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00819-yMathematician Gerd Faltings showed that arithmetic equation..."
+    },
+    {
+      "title": "Masked mitochondria slip into cells to treat disease in mice",
+      "link": "https://www.nature.com/articles/d41586-026-00869-2",
+      "date": "2026-03-19 00:00",
+      "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00869-2Transplantation technique lengthened survival in animals wi..."
+    },
+    {
       "title": "Author Correction: Autoimmune response to C9orf72 protein in amyotrophic lateral sclerosis",
       "link": "https://www.nature.com/articles/s41586-026-10388-9",
       "date": "2026-03-18 00:00",
       "summary": "Nature, Published online: 18 March 2026; doi:10.1038/s41586-026-10388-9Author Correction: Autoimmune response to C9orf72 protein i..."
-    },
-    {
-      "title": "Publisher Correction: Atlas-guided discovery of transcription factors for T cell programming",
-      "link": "https://www.nature.com/articles/s41586-026-10382-1",
-      "date": "2026-03-18 00:00",
-      "summary": "Nature, Published online: 18 March 2026; doi:10.1038/s41586-026-10382-1Publisher Correction: Atlas-guided discovery of transcripti..."
-    },
-    {
-      "title": "Botanical mystery solved: how plants make a crucial malaria drug",
-      "link": "https://www.nature.com/articles/d41586-026-00891-4",
-      "date": "2026-03-18 00:00",
-      "summary": "Nature, Published online: 18 March 2026; doi:10.1038/d41586-026-00891-4New evidence reveals biochemical pathway behind quinine pro..."
-    },
-    {
-      "title": "Integrated memristor for mitigating reverse-bias in perovskite solar cells",
-      "link": "https://www.nature.com/articles/s41586-026-10275-3",
-      "date": "2026-03-18 00:00",
-      "summary": "Nature, Published online: 18 March 2026; doi:10.1038/s41586-026-10275-3A memristor integrated into perovskite photovoltaics aims t..."
-    },
-    {
-      "title": "Magnetic resonance control of spin-correlated radical pair dynamics in vivo",
-      "link": "https://www.nature.com/articles/s41586-026-10282-4",
-      "date": "2026-03-18 00:00",
-      "summary": "Nature, Published online: 18 March 2026; doi:10.1038/s41586-026-10282-4Magnetic resonance control of spin-correlated radical pairs..."
     }
   ],
   "Science News": [
@@ -205,22 +205,22 @@
       "summary": "UK to examine labelling AI content among wider copyright reforms  Reuters..."
     },
     {
-      "title": "As OpenClaw enthusiasm grips China, schoolkids and retirees alike raise 'lobsters' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVURXeEstSGM1TEhGTWdqWmNjYjhMRnVkaWRpRFVVRE5OOE1GcXdGdUtGWnNpQ0tEVjc1T1Y1Y0dwRC04cUhXYU0yeVRLYW55alhRNEZEZnVGYkNoUlNvajJoaXBCUFMyWTFyWG1aazN6Q2VydUhfaVlYTmZCbGFrSkJadGZSNzJGNHNPbG45SFBEeTBUTlpZSnQ5bUVXaFRjRU5jUnVIVnpGaVJtTzNRRVhMY1BjYmxWNjZZ?oc=5",
-      "date": "2026-03-19 08:04",
-      "summary": "As OpenClaw enthusiasm grips China, schoolkids and retirees alike raise 'lobsters'  Reuters..."
-    },
-    {
       "title": "Meta’s AI push could trigger 20% layoffs of its workforce - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczhHUG45UlNfTUcxSUlwNlA5eDRvNjdxUWpWUTctbmZ6a0JUamVmVFUyTXJ2VkN4bU10RFNfZVBKaFZBMTQ0WlMzYWlKaERiekh0MkFmR2hLNzRCV2E5bl9XejJFMS13aVYtb3NVTG5mV1RRaFhBcFRmS0x2aGdYZTJselFBR2FKNGZ4N2NlUjNxTl9nTVl1bmZrMENkNjd1SFE?oc=5",
       "date": "2026-03-16 19:47",
       "summary": "Meta’s AI push could trigger 20% layoffs of its workforce  USA Today..."
     },
     {
-      "title": "Samsung Elec plans over $73 bln investment in 2026 to lead in AI chip sector - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd25Qa1dITzBvWENPOTZadzY0cHo0MjRaQlVmZlRUTy05cU9vbl93RUFjTmxmVlF5V0U0MnEwLWFDMV9KSXNOUGdiUkVfa0tRNjJfNEZzLVlSbU1SWFRzRk5sazZhOHZLLXRiVnJnRS1ZdUQzQ3pPMF9QSW9JcVU5NGVXX3lRRndMeVpObWMwZDFBLUNGaUdGSTJIRkhyWEhDWHh2VzgwYjBON3ZCWW5HcnpIcw?oc=5",
-      "date": "2026-03-19 07:59",
-      "summary": "Samsung Elec plans over $73 bln investment in 2026 to lead in AI chip sector  Reuters..."
+      "title": "Breakingviews - How the energy shock could derail the AI boom - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMlY5eElsMkpoaDFzUWxodlNQdUQycWxFdjJtTEVmQ1FVeVRxeVNtdTJjUFlTVVhwZE5zNUo0S1h2UzdjQ29yOU1xOVNnb3drUEFHX3F1Q1FxLXJ3MXpaVVN3OEVYRkRjZW1PSm1UZWJSTTd2czY0cjJudDJMVGI3NXVNd1U3N1ltRFp2QjFiZ1RPRkp6S0RhOWtBbDhiUW8?oc=5",
+      "date": "2026-03-19 05:00",
+      "summary": "Breakingviews - How the energy shock could derail the AI boom  Reuters..."
+    },
+    {
+      "title": "Samsung Elec and AMD sign MoU on AI memory, explore foundry partnership - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUZ3UjdLck9TeDNJU2hCN1hOekptTHl6Y1NOYVlOTGdhbWtaTnVqSWp3cmY1TFhDNEFZcGl0Zi1kNFpaYnQ5czhKTk9COUFPQnQzTkNuR2lHa2FJZHByUWhVanNfd18ydVlxdXBFTEV1OUpyUy1PWVhCRkpIaDg2TXoySFVqYXU5SWVmd3p5YmUyRjRHb0RZVHJWNEJuZ3E3UzlYdXhkaGgwRjc3bzFXbmk3NW53Q2NULVE?oc=5",
+      "date": "2026-03-18 08:03",
+      "summary": "Samsung Elec and AMD sign MoU on AI memory, explore foundry partnership  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Stories, not shopping lists: Narrative dating profiles draw more interest, experiments show",
-      "link": "https://phys.org/news/2026-03-stories-narrative-dating-profiles.html",
-      "date": "2026-03-19 13:00",
-      "summary": "According to research published in the journal Psychology of Popular Media, if you want to attract more interest on dating apps, d..."
+      "title": "The discovery of a buried delta on Mars could boost the search for life",
+      "link": "https://phys.org/news/2026-03-discovery-delta-mars-boost-life.html",
+      "date": "2026-03-19 14:40",
+      "summary": "There's more evidence that water once flowed on Mars with the discovery of an ancient river delta deep below the surface. NASA's P..."
     },
     {
-      "title": "Researchers link carbon fiber weakening in aircraft to total moisture content",
-      "link": "https://phys.org/news/2026-03-link-carbon-fiber-weakening-aircraft.html",
-      "date": "2026-03-19 12:14",
-      "summary": "New research from engineers at Monash University and RMIT has revealed that moisture absorption is the most important factor in ho..."
+      "title": "The best places to look for alien life: Scientists identify 45 Earth-like worlds to explore for a 'Project Hail Mary'",
+      "link": "https://phys.org/news/2026-03-alien-life-scientists-earth-worlds.html",
+      "date": "2026-03-19 14:31",
+      "summary": "If we're to find extraterrestrial life in the universe, astronomers have pinpointed the best places to look for it. They have iden..."
     },
     {
-      "title": "Sawdust waste could become fire-safe interiors with a composite that can be recycled",
-      "link": "https://phys.org/news/2026-03-sawdust-safe-interiors-composite-recycled.html",
-      "date": "2026-03-19 11:30",
-      "summary": "Every time a tree trunk is sawn, it creates sawdust. Millions of tons of sawdust are produced every year worldwide, with most of i..."
+      "title": "DESI maps C-19, an extremely metal-poor Milky Way stellar stream",
+      "link": "https://phys.org/news/2026-03-desi-extremely-metal-poor-milky.html",
+      "date": "2026-03-19 14:20",
+      "summary": "Using the Mayall 4-meter telescope at Kitt Peak National Observatory, an international team of astronomers has observed C-19—an ex..."
     },
     {
-      "title": "Myth defanged: Baby rattlesnake bites aren't more dangerous than bites from adult rattlesnakes",
-      "link": "https://phys.org/news/2026-03-myth-defanged-baby-rattlesnake-dangerous.html",
-      "date": "2026-03-19 11:20",
-      "summary": "Baby rattlesnake bites are less dangerous than bites from adult rattlesnakes, according to a new study from Loma Linda University ..."
+      "title": "Cyclone Narelle: 'Compact,' dangerous and unusually predictable",
+      "link": "https://phys.org/news/2026-03-cyclone-narelle-compact-dangerous-unusually.html",
+      "date": "2026-03-19 14:10",
+      "summary": "Tropical Cyclone Narelle is currently a very dangerous Category 5 storm, sitting off the Far North Queensland Coast some 350 kilom..."
     },
     {
-      "title": "Medieval chess promoted racial harmony and mutual respect, say historians",
-      "link": "https://phys.org/news/2026-03-medieval-chess-racial-harmony-mutual.html",
-      "date": "2026-03-19 11:10",
-      "summary": "Medieval manuscripts, paintings and chess sets reveal that the so-called \"game of kings\" defied social structures and racial attit..."
+      "title": "The Yamna reused sacred spaces in the north Pontic Steppe, study suggests",
+      "link": "https://phys.org/news/2026-03-yamna-reused-sacred-spaces-north.html",
+      "date": "2026-03-19 14:00",
+      "summary": "According to an article published in Antiquity by Dr. Svitlana Ivanova and her colleagues, the Yamna culture's repurposing of olde..."
     }
   ],
   "The Guardian Edu": [
@@ -321,34 +321,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong finance chief stresses flexibility in pitch for Northern Metropolis",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347210/hong-kong-finance-chief-stresses-flexibility-pitch-northern-metropolis?utm_source=rss_feed",
+      "date": "2026-03-19 14:31",
+      "summary": "Hong Kong is ready to discuss land, tax incentives and financial support for businesses setting up in the Northern Metropolis, the..."
+    },
+    {
+      "title": "Firefighter killed in Tai Po blaze may have entered wrong building, inquiry told",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3347208/firefighter-killed-tai-po-blaze-may-have-entered-wrong-building-inquiry-told?utm_source=rss_feed",
+      "date": "2026-03-19 14:09",
+      "summary": "A firefighter killed in Hong Kong’s deadliest blaze in decades may have entered the wrong building amid the initial chaos at the s..."
+    },
+    {
+      "title": "CK Hutchison vows to pursue ‘all legal remedies’ over seized Panama ports",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347206/ck-hutchison-vows-pursue-all-legal-remedies-over-seized-panama-ports?utm_source=rss_feed",
+      "date": "2026-03-19 14:02",
+      "summary": "Hong Kong conglomerate CK Hutchison has said it will pursue “all available legal remedies” through both national and international..."
+    },
+    {
+      "title": "Hong Kong customs arrests 5 people, seizes HK$2.2 million in counterfeit eyewear",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347205/hong-kong-customs-arrests-5-people-seizes-hk22-million-counterfeit-eyewear?utm_source=rss_feed",
+      "date": "2026-03-19 13:42",
+      "summary": "Hong Kong customs officers have arrested five people and seized 2,500 pairs of suspected counterfeit eyewear worth about HK$2.2 mi..."
+    },
+    {
       "title": "Paralegals among 16 people arrested over ‘crash-for-cash’ scams in Hong Kong",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347196/paralegals-among-16-people-arrested-over-crash-cash-scams-hong-kong?utm_source=rss_feed",
       "date": "2026-03-19 12:15",
       "summary": "Hong Kong police have arrested 16 more people, including paralegals, over traffic accident compensation claims worth more than HK$..."
-    },
-    {
-      "title": "Recession fears grip markets as energy facilities come under fire in Middle East",
-      "link": "https://www.scmp.com/business/china-business/article/3347170/recession-fears-grip-markets-energy-facilities-come-under-fire-middle-east?utm_source=rss_feed",
-      "date": "2026-03-19 11:30",
-      "summary": "A recession mindset took hold among global investors after strikes on energy infrastructure in the Middle East heightened fears th..."
-    },
-    {
-      "title": "SFC prepares to inspect Hong Kong IPO listing sponsors amid quality concerns",
-      "link": "https://www.scmp.com/business/banking-finance/article/3347182/sfc-prepares-inspect-hong-kong-ipo-listing-sponsors-amid-quality-concerns?utm_source=rss_feed",
-      "date": "2026-03-19 11:00",
-      "summary": "Hong Kong’s market regulator will soon begin inspection of investment banks to assess their roles as sponsors of listing candidate..."
-    },
-    {
-      "title": "Tribute to towering jurist: how the late Sir Anthony Mason shaped Hong Kong courts",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347173/tribute-towering-jurist-how-late-sir-anthony-mason-shaped-hong-kong-courts?utm_source=rss_feed",
-      "date": "2026-03-19 09:49",
-      "summary": "Sir Anthony Mason, one of Hong Kong’s first and greatest justices to sit on our Court of Final Appeal, passed away on Tuesday at t..."
-    },
-    {
-      "title": "Hong Kong’s CK Hutchison reports 7% gain in underlying profit amid ‘unforeseen challenges’",
-      "link": "https://www.scmp.com/business/article/3347168/hong-kongs-ck-hutchison-reports-7-gain-underlying-profit-amid-unforeseen-challenges?utm_source=rss_feed",
-      "date": "2026-03-19 09:32",
-      "summary": "CK Hutchison Holdings, one of the flagship companies owned by Hong Kong billionaire Li Ka-shing’s family, reported a 7 per cent in..."
     }
   ],
   "New Scientist": [
