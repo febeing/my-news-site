@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "Chemical pollutants are rife across the world’s oceans",
+      "link": "https://www.nature.com/articles/d41586-026-00850-z",
+      "date": "2026-03-20 00:00",
+      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00850-zCompounds that are used to make plastics and personal-care ..."
+    },
+    {
       "title": "Editorial Expression of Concern: A FADD-dependent innate immune mechanism in mammalian cells",
       "link": "https://www.nature.com/articles/s41586-026-10397-8",
       "date": "2026-03-19 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-00876-3",
       "date": "2026-03-19 00:00",
       "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00876-3Scientists have identified the neurons that worsen the cond..."
-    },
-    {
-      "title": "UK bets big on homegrown fusion and quantum — can it lead the world?",
-      "link": "https://www.nature.com/articles/d41586-026-00877-2",
-      "date": "2026-03-19 00:00",
-      "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00877-2UK government announces multibillion-pound science investme..."
     }
   ],
   "Science News": [
@@ -193,10 +193,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "UK to examine labelling AI content among wider copyright reforms - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUFDSDJiRjBXLWtmdFBwSTlkREFZVFVoc0hiQnNsb3luM3BLbmZTWGtITlFjMmtEQkJSb1Y1ZUNVb29teS1sNnRKalE4cGdNcS05cnRWemJ2VnFfREhRdFZFN3ExZ0ozcmxEaGtpWmpkWTdReFdsbS1HSi1LMmUzUnc5N0lLa25fNUNjSFpvUWd5aGhWRVYtUF9KQzBnUzhDNmc1NDJjdDVJTjBNMlVfaVNPbmotWTJuREYtZg?oc=5",
-      "date": "2026-03-18 11:57",
-      "summary": "UK to examine labelling AI content among wider copyright reforms  Reuters..."
+      "title": "Jensen Huang touts Nvidia's dominance at AI conference - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWDNUZ3R5Z3NRa0ZRQVV5bUwxcmdOanJNOHBkeTdzV1cxbmZ2UnlzTEQtcWJ4LVlEWXd5MFA5MlhVZUNrUmpDTS1SVkQyc1h2dFBvNjRvbzB0a2dURlVoRG4wT2d1UWRaN1NQUFRHX0gtZkk2UTdwbWZrcEo0c3R6M0JVOHRDMHl2bUd4b3p1RUhvQ2dyVlNzQ2FvZk9WSmJJeDV4NWlfMnlKZTNNMEpJYk5rQTc0bmdBWTRnMnpZdVFFRU05eGVkNmZRanVUdFRDSHFheVZEVEUzMktGWFhEVk9wa2Y?oc=5",
+      "date": "2026-03-19 10:10",
+      "summary": "Jensen Huang touts Nvidia's dominance at AI conference  Reuters..."
     },
     {
       "title": "As OpenClaw enthusiasm grips China, schoolkids and retirees alike raise 'lobsters' - Reuters",
@@ -243,16 +243,16 @@
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
     },
     {
-      "title": "Can quantum computers now solve health care problems? We’ll soon find out. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcW1UX1pxc3VPalJ2aDhGck5VdGpLcWN5alJyQVJOOFJULUd5M0hxcW96WVE2UTBwV05NMU53YkVpQi1WeGFyZy1IR1B6SEgyWWg3ellxbmVFX3VDMThKTVpLNU5ic0xISlhVa3Y4bmNkcUJnMFJSY21CVlZFbXdYeEcyaFlTWlhJX1VfdlFWSnYza1NxcS1zVHJ6NEVRMXBMSUQyeXFYQkVhRTYtQkZCZWx2dlR1dzRrUnlyT1l6RzZ0aklLOGdPaFlPX19pUDZnYkdz0gHYAUFVX3lxTFBMcmxGTHJ2Z1VmVjN4TmNBbEFMNHZkNFRnNGZjZC1tQzI4bVhZU3NBVVY1UTJReVVPSDJ6eFZUU00xVFFQNDR4cE9SbXB0bWFDQWVfbmlfU2M0RUMzaklaT2Nrc2ZnQThUQzhPNFBESjRlSlc0OWR5S0dZWldxV1c4UEEwck9CTWtsWFFPbHlGVWExVTY3TjhnLWI1bjU5NExCZDRXa245MzJXNHZjSnBxa3dmVS15M2U3LTBCeVo1SG1zQTYtU0RWTUl0ekx5aE1pNVpEMUJLNg?oc=5",
-      "date": "2026-03-19 10:51",
-      "summary": "Can quantum computers now solve health care problems? We’ll soon find out.  MIT Technology Review..."
-    },
-    {
       "title": "Why physical AI is becoming manufacturing’s next advantage - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORjM3R3RtMXFldmNibmxNUjh4Nk13Mmo2bm5MMFpTNTFUVzREclMtZmlsV2NHeUQzd280TnNGcUhnU1FmdlFxb1BtaXJkNXp1dURVUUdweXpDeTU3SzBBME0yX1UtcC1MMVhpOXl6cE13QXZTcVBOdmVJUzRtYlZiWElSS0xvOHp3Y2VqNWRVZ0ZVUHRBX0w2VGRDUXcyYW5ta1c5OUZQSko3U2tGc1Zv0gG0AUFVX3lxTE9nV2pDcGlHbHdSZHB0V3JGMDFNZnhvWHdfWWhDdlBuSUVta1ZGTjRnMkRod3k5RVhCRUlLSVVyOHd0UDVwZmxlZXlZOVNBZDFyRk9saGxCQUtQX3Y3MHllc1plVDRNenlNMFRUX2prTS05UGVZaDg5ell3dTZZdnZqemhDMk12a3B3dkU1M0VNWXo2aTVWQWVOYkgzc1VySXdDQ3pvLWMwa2xGMEpsQWxzVjhGaA?oc=5",
       "date": "2026-03-13 15:16",
       "summary": "Why physical AI is becoming manufacturing’s next advantage  MIT Technology Review..."
+    },
+    {
+      "title": "Can quantum computers now solve health care problems? We’ll soon find out. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcW1UX1pxc3VPalJ2aDhGck5VdGpLcWN5alJyQVJOOFJULUd5M0hxcW96WVE2UTBwV05NMU53YkVpQi1WeGFyZy1IR1B6SEgyWWg3ellxbmVFX3VDMThKTVpLNU5ic0xISlhVa3Y4bmNkcUJnMFJSY21CVlZFbXdYeEcyaFlTWlhJX1VfdlFWSnYza1NxcS1zVHJ6NEVRMXBMSUQyeXFYQkVhRTYtQkZCZWx2dlR1dzRrUnlyT1l6RzZ0aklLOGdPaFlPX19pUDZnYkdz0gHYAUFVX3lxTFBMcmxGTHJ2Z1VmVjN4TmNBbEFMNHZkNFRnNGZjZC1tQzI4bVhZU3NBVVY1UTJReVVPSDJ6eFZUU00xVFFQNDR4cE9SbXB0bWFDQWVfbmlfU2M0RUMzaklaT2Nrc2ZnQThUQzhPNFBESjRlSlc0OWR5S0dZWldxV1c4UEEwck9CTWtsWFFPbHlGVWExVTY3TjhnLWI1bjU5NExCZDRXa245MzJXNHZjSnBxa3dmVS15M2U3LTBCeVo1SG1zQTYtU0RWTUl0ekx5aE1pNVpEMUJLNg?oc=5",
+      "date": "2026-03-19 10:51",
+      "summary": "Can quantum computers now solve health care problems? We’ll soon find out.  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong crane collapse signals need for metal fatigue testing: expert",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3347267/hong-kong-crane-collapse-signals-need-metal-fatigue-testing-expert?utm_source=rss_feed",
+      "date": "2026-03-20 05:47",
+      "summary": "Hong Kong should review its crane safety guidelines to include mandatory testing for metal fatigue, an industry expert has said af..."
+    },
+    {
       "title": "Panama⁠ president accuses CK Hutchison subsidiary of lying about arbitration response",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347254/panama-president-accuses-ck-hutchison-subsidiary-lying-about-arbitration-response?utm_source=rss_feed",
       "date": "2026-03-20 04:29",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/business/article/3347209/office-vacancy-rate-hong-kongs-central-falls-single-digits-after-2-years?utm_source=rss_feed",
       "date": "2026-03-20 00:30",
       "summary": "Prime office vacancy rates in Hong Kong’s main business district dropped to single digits for the first time in 26 months, lifting..."
-    },
-    {
-      "title": "‘Too slow’: Hong Kong’s new university town faces questions over plans",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3347197/too-slow-hong-kongs-new-university-town-faces-questions-over-plans?utm_source=rss_feed",
-      "date": "2026-03-20 00:30",
-      "summary": "Hong Kong’s Baptist University placed a big bet when it told the government in 2023 that it was interested in moving its campus fr..."
     }
   ],
   "New Scientist": [
