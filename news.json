@@ -65,16 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "A ‘shocking’ carbon discovery in Sweden’s forests - Stanford Doerr School of Sustainability",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbEEwRFlzYTdneTZvT2l6Zzd6czlBaVc0LXkydXJvQ1pZTXZzdFZTZWNBWVpSSzhNR3ZqdFg2WDhWb181WGVzS1BZMkhKVWFTVDFoNERqTE9DZGlDc2l1bkdBLURGaGVhY1Rrd3pqaHBGemUwMnY1THUtV2FOUHhPTkRqUWJzYXRpbnc?oc=5",
-      "date": "2026-03-19 18:23",
-      "summary": "A ‘shocking’ carbon discovery in Sweden’s forests  Stanford Doerr School of Sustainability..."
-    },
-    {
       "title": "How climate change is fueling disease outbreaks - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTklGeG5vbUZ5d01IWTdlamZYdm00M2N6bk1Cbkx4Z0ZvOHVheWxrSmc3Y05EbGtxa2FFSHhibDQwb0djUlZqZldHbnhzM2V2XzVYMUlUQXhXc3B1LVh6UGJpR01SRTFoSG1YenhpMUxocUhrZ3pXc0xrVjFwc1lWUjY0akplLVlPOGR3dEh4ekNfLVdhTV81ZzFrVG8?oc=5",
       "date": "2026-03-17 22:21",
       "summary": "How climate change is fueling disease outbreaks  Stanford Report..."
+    },
+    {
+      "title": "A ‘shocking’ carbon discovery in Sweden’s forests - Stanford Doerr School of Sustainability",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbEEwRFlzYTdneTZvT2l6Zzd6czlBaVc0LXkydXJvQ1pZTXZzdFZTZWNBWVpSSzhNR3ZqdFg2WDhWb181WGVzS1BZMkhKVWFTVDFoNERqTE9DZGlDc2l1bkdBLURGaGVhY1Rrd3pqaHBGemUwMnY1THUtV2FOUHhPTkRqUWJzYXRpbnc?oc=5",
+      "date": "2026-03-19 18:23",
+      "summary": "A ‘shocking’ carbon discovery in Sweden’s forests  Stanford Doerr School of Sustainability..."
     },
     {
       "title": "Civil rights complaint targets Stanford program over race-based allegations - National News Desk",
@@ -83,19 +83,25 @@
       "summary": "Civil rights complaint targets Stanford program over race-based allegations  National News Desk..."
     },
     {
-      "title": "Orange Clash With #33 Stanford, #16 California - Syracuse University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWEpJTVBPUldJeWUxWEVKUEM2SGRxNnJNZEdtdVpRVVRzaDNMT0JoN2hxbUtWcUpUeUlSVG9idm05T3hXNFlYZzNsejF2bFI1S25vTXd6NmhIUWZSWUFnZjR6Vy1JQ2luQnpMZWEyQVNkaHd4TFVhdkxHbTNRR3VESlFHbG5idW5ZaFE?oc=5",
-      "date": "2026-03-19 21:09",
-      "summary": "Orange Clash With #33 Stanford, #16 California  Syracuse University Athletics..."
-    },
-    {
       "title": "Q&A: Ken Goodson on graduate education - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHFjVlBNMXczelR5bUUtTHFyLVJhQVNQNWFKdnpjMGcwTVJhNzlDMmFqQmlNTWRVaDhObjRIWERvbmxWbmZOUmhhYS1GVzVvZFZmY1dSdV90RGpJblVtb2wzY0FJWEQxS0NKSDNhdjNGUjQ4UVduT1dXdnhYd1Y5Qm4zV1I?oc=5",
       "date": "2026-03-19 04:22",
       "summary": "Q&A: Ken Goodson on graduate education  Stanford Report..."
+    },
+    {
+      "title": "Orange Clash With #33 Stanford, #16 California - Syracuse University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWEpJTVBPUldJeWUxWEVKUEM2SGRxNnJNZEdtdVpRVVRzaDNMT0JoN2hxbUtWcUpUeUlSVG9idm05T3hXNFlYZzNsejF2bFI1S25vTXd6NmhIUWZSWUFnZjR6Vy1JQ2luQnpMZWEyQVNkaHd4TFVhdkxHbTNRR3VESlFHbG5idW5ZaFE?oc=5",
+      "date": "2026-03-19 21:09",
+      "summary": "Orange Clash With #33 Stanford, #16 California  Syracuse University Athletics..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Author Correction: A PP1–PP2A phosphatase relay controls mitotic progression",
+      "link": "https://www.nature.com/articles/s41586-026-10411-z",
+      "date": "2026-03-20 00:00",
+      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/s41586-026-10411-zAuthor Correction: A PP1–PP2A phosphatase relay controls mi..."
+    },
     {
       "title": "Chemical pollutants are rife across the world’s oceans",
       "link": "https://www.nature.com/articles/d41586-026-00850-z",
@@ -103,31 +109,37 @@
       "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00850-zCompounds that are used to make plastics and personal-care ..."
     },
     {
+      "title": "Mighty mini-magnet is low in cost and light on energy use",
+      "link": "https://www.nature.com/articles/d41586-026-00851-y",
+      "date": "2026-03-20 00:00",
+      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00851-yA compact device can produce a magnetic field that is more ..."
+    },
+    {
+      "title": "Briefing Chat: Are scientists funny? The evidence is in — and it's no joke",
+      "link": "https://www.nature.com/articles/d41586-026-00937-7",
+      "date": "2026-03-20 00:00",
+      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00937-7Nature staff discuss some of the week’s top science news...."
+    },
+    {
       "title": "‘Unaffordable’ visa price hike threatens Australia’s researcher pipeline",
       "link": "https://www.nature.com/articles/d41586-026-00822-3",
       "date": "2026-03-20 00:00",
       "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00822-3Doubling of the cost of a key visa used by graduates to sta..."
-    },
-    {
-      "title": "Lab-grown oesophagus restores pigs’ ability to swallow",
-      "link": "https://www.nature.com/articles/d41586-026-00936-8",
-      "date": "2026-03-20 00:00",
-      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00936-8Engineered tissue could eventually be used for children bor..."
-    },
-    {
-      "title": "The mid-career reset: how to be strategic about your research direction",
-      "link": "https://www.nature.com/articles/d41586-025-04077-2",
-      "date": "2026-03-20 00:00",
-      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-025-04077-2A decade after completing a PhD, your research can begin to..."
-    },
-    {
-      "title": "Editorial Expression of Concern: A FADD-dependent innate immune mechanism in mammalian cells",
-      "link": "https://www.nature.com/articles/s41586-026-10397-8",
-      "date": "2026-03-19 00:00",
-      "summary": "Nature, Published online: 19 March 2026; doi:10.1038/s41586-026-10397-8Editorial Expression of Concern: A FADD-dependent innate im..."
     }
   ],
   "Science News": [
+    {
+      "title": "Microscopic spikes on snakeskin block bacterial buildup",
+      "link": "https://www.science.org/content/article/microscopic-spikes-snakeskin-block-bacterial-buildup",
+      "date": "2026-03-20 12:15",
+      "summary": "Structures on python scales could inspire chemical-free antimicrobial designs..."
+    },
+    {
+      "title": "First science from private Moon lander challenges lunar divide",
+      "link": "https://www.science.org/content/article/first-science-private-moon-lander-challenges-lunar-divide",
+      "date": "2026-03-20 11:45",
+      "summary": "Blue Ghost data suggest NASA’s growing commercial Moon program can deliver results..."
+    },
     {
       "title": "Energy Department merges nuclear and particle physics programs, unsettling researchers",
       "link": "https://www.science.org/content/article/energy-department-merges-nuclear-and-particle-physics-programs-unsettling-researchers",
@@ -145,18 +157,6 @@
       "link": "https://www.science.org/content/article/what-happened-when-arab-neuroscientist-took-helm-israeli-university",
       "date": "2026-03-19 02:00",
       "summary": "Mouna Maroun’s stewardship highlights the promise—and perils—of reconciliation through science..."
-    },
-    {
-      "title": "Rice needs to be replanted every year. Genetic tinkering could make it more like apples",
-      "link": "https://www.science.org/content/article/rice-needs-be-replanted-every-year-genetic-tinkering-could-make-it-more-apples",
-      "date": "2026-03-19 02:00",
-      "summary": "Researchers re-create key aspects of long-lived wild relative, which could make rice fields longer lasting..."
-    },
-    {
-      "title": "Debate explodes over age of key South American archaeological site",
-      "link": "https://www.science.org/content/article/debate-explodes-over-age-key-south-american-archaeological-site",
-      "date": "2026-03-19 02:00",
-      "summary": "New study argues Monte Verde is far younger than once thought, challenging when people arrived in the Americas..."
     }
   ],
   "Retraction Watch": [
@@ -199,10 +199,10 @@
       "summary": "Accenture beats quarterly revenue estimates on strong AI demand  Reuters..."
     },
     {
-      "title": "Trump Releases AI Policy to Pre-Empt State Rules - U.S. News & World Report",
+      "title": "Trump Releases AI Policy for Congress to Pre-Empt State Rules - U.S. News & World Report",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWR4Y2ZpYXFzY3h4VmREeHlGay1qWDNDb1dhTHNUMHhodmt6V3NfcjlZdnhIN2ZXVFBaMFRvdHBrUHpQSDlFUl9DS1dsRVNidnB6d1hkQ2hKdVp6d1QwMnhPandob3hGNjB1T1hLLUdGdThxREFvNThSaUlScThMeFBEdWNadGdDMXNpSTdic2JEc2ZyN2J4OVp3LWU?oc=5",
       "date": "2026-03-20 12:27",
-      "summary": "Trump Releases AI Policy to Pre-Empt State Rules  U.S. News & World Report..."
+      "summary": "Trump Releases AI Policy for Congress to Pre-Empt State Rules  U.S. News & World Report..."
     },
     {
       "title": "As OpenClaw enthusiasm grips China, schoolkids and retirees alike raise 'lobsters' - Reuters",
@@ -211,16 +211,16 @@
       "summary": "As OpenClaw enthusiasm grips China, schoolkids and retirees alike raise 'lobsters'  Reuters..."
     },
     {
-      "title": "OpenAI plans desktop 'superapp' to streamline user experience - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkM3RVhJUllwRGlRbFJaU042VG81UVl1b0o1MW9jWmRTN3Fla25aUUZSY3RSZENzWkhnMjh4NDFwX2h3RE9qQ1lpLThpYjkyWGRXLWxLdEZadTV6Q2RER1Zma05pd1ppT21FTGc4X3dIenRsTXNVLU50OEhpdUZCQ0Y2Q1gtcFcyRTljSl9xUzYyd1V3Uk9mLUFDd2lCdnBtRHdDRTNsbDRESGNvb3VYNm5LSQ?oc=5",
-      "date": "2026-03-19 22:51",
-      "summary": "OpenAI plans desktop 'superapp' to streamline user experience  Reuters..."
-    },
-    {
       "title": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEFLYkdreFlDTjNjdVdvUjdwRnA3eWtxa3hXZTdIMW1WQUJ3VXVNaDY1emJFTEd2cXVaLWlJWG50cklxYW1YdDRpSVRfWkJJVXlNS01EWmoxaWZVaURhNmN6akRIYWtaWVg0TDZnMVNqNUtWUXpmbDI0cFItUERPbmtTVzcwdGtUTi1yTHJfdFE1Ui1CUGlOb1ZNazV6SDh4OGhGNw?oc=5",
       "date": "2026-03-19 22:13",
       "summary": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China  Reuters..."
+    },
+    {
+      "title": "OpenAI plans desktop 'superapp' to streamline user experience - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkM3RVhJUllwRGlRbFJaU042VG81UVl1b0o1MW9jWmRTN3Fla25aUUZSY3RSZENzWkhnMjh4NDFwX2h3RE9qQ1lpLThpYjkyWGRXLWxLdEZadTV6Q2RER1Zma05pd1ppT21FTGc4X3dIenRsTXNVLU50OEhpdUZCQ0Y2Q1gtcFcyRTljSl9xUzYyd1V3Uk9mLUFDd2lCdnBtRHdDRTNsbDRESGNvb3VYNm5LSQ?oc=5",
+      "date": "2026-03-19 22:51",
+      "summary": "OpenAI plans desktop 'superapp' to streamline user experience  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,48 +243,48 @@
       "summary": "Where OpenAI’s technology could show up in Iran  MIT Technology Review..."
     },
     {
-      "title": "Mind-altering substances are (still) falling short in clinical trials - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVBfQVBJR0hPZEJJT2VmT0IxRnR6b3F1X3RuTUpMaVU0clo3QjFwcXJVZzQ5Vl8zS0NSaEFfUFZ1eUp3ZjJzMURyQlRtV1VYSUxGTEpQWTZ0REl0NzNJbjJvMTZJRUdES2x2MkVFWm9OLUxTcVJZZTZES3ZyUEJYcnFFYjRuX0FZSVhiLXFfVXdqdEVaRlZJU3h5cmJIcXFBdDlpT2JWaTHSAa4BQVVfeXFMTnBVQkpsdGZfc0tVSjZXbUFDUmFoRGpBczFhU2RTdUZwS3FiRWdkNmJxakRfRzVWUVk2SUJzeUpFbG1HeXdIYjJLQ3pLU3BCVFRXdUFOVTVMSHFmc1FGVzAtb3RYZkxPV1NuU215WEpZdWFZRUhrdEFlZlM3U0Y1c1d0LTlQV0JnWGltekhKUktPY0JQT3F4T0NHY29BWi1UaHBTMUp0b3VvMmVrdW5n?oc=5",
-      "date": "2026-03-20 09:00",
-      "summary": "Mind-altering substances are (still) falling short in clinical trials  MIT Technology Review..."
-    },
-    {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjJNYVhxNlVqbGNtbkRDaVNrSVp3Q2xlVVpHaVZDN1FsM3djLWROTmdoRXlJbXRVZk1RaE1DQ3BDc1Z1cjBjQXpSb1VIMFRyRVN2ZnNpVndjQ2FwdElyeGdCRWNtNlkydWdNOUxxdzh2MnpLWE9JU3dGQ1VYbmxEUEFFTVhkWnpFUmc3ODdIVFFPYkU1aU55T2c2NXNadzB4T2Fz0gGoAUFVX3lxTFA0c0hLSjJxMU5lckM3bFJWLVRPSWhiX2EwcG1YVjFjOWpFbFVtaW5rbG5mbHFCLVdWcWpJRFlpSHFMTTlmUi1YOTVzYm5nYmJVblZxZUsweWZIbVBWcWhvcHpJYnFuV3FlbWtBbVR0NG1LaWxaREdFQVMyQmJneEY4M0lsQUp5RTRLTFFfY3JaRlV3UTI1UGYtNUFrR2I0d1Z4YWZqcjJSTw?oc=5",
       "date": "2026-03-09 07:00",
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
+    },
+    {
+      "title": "Mind-altering substances are (still) falling short in clinical trials - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVBfQVBJR0hPZEJJT2VmT0IxRnR6b3F1X3RuTUpMaVU0clo3QjFwcXJVZzQ5Vl8zS0NSaEFfUFZ1eUp3ZjJzMURyQlRtV1VYSUxGTEpQWTZ0REl0NzNJbjJvMTZJRUdES2x2MkVFWm9OLUxTcVJZZTZES3ZyUEJYcnFFYjRuX0FZSVhiLXFfVXdqdEVaRlZJU3h5cmJIcXFBdDlpT2JWaTHSAa4BQVVfeXFMTnBVQkpsdGZfc0tVSjZXbUFDUmFoRGpBczFhU2RTdUZwS3FiRWdkNmJxakRfRzVWUVk2SUJzeUpFbG1HeXdIYjJLQ3pLU3BCVFRXdUFOVTVMSHFmc1FGVzAtb3RYZkxPV1NuU215WEpZdWFZRUhrdEFlZlM3U0Y1c1d0LTlQV0JnWGltekhKUktPY0JQT3F4T0NHY29BWi1UaHBTMUp0b3VvMmVrdW5n?oc=5",
+      "date": "2026-03-20 09:00",
+      "summary": "Mind-altering substances are (still) falling short in clinical trials  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "NASA hauls its repaired moon rocket from the hangar back to the pad for an early April launch",
-      "link": "https://phys.org/news/2026-03-nasa-hauls-moon-rocket-hangar.html",
-      "date": "2026-03-20 16:40",
-      "summary": "For the second time this year, NASA moved its moon rocket from the hangar out toward the pad Friday in hopes of launching four ast..."
+      "title": "Innovative recycling method can convert waste PET into high-quality raw materials and clean hydrogen",
+      "link": "https://phys.org/news/2026-03-recycling-method-pet-high-quality.html",
+      "date": "2026-03-20 17:30",
+      "summary": "Despite polyethylene terephthalate (PET) being one of the most widely recycled plastics, only about 20% of used PET bottles are ac..."
     },
     {
-      "title": "New controls can stretch, blur and even reverse quantum time flow",
-      "link": "https://phys.org/news/2026-03-blur-reverse-quantum.html",
-      "date": "2026-03-20 16:40",
-      "summary": "In new research published in Physical Review X, scientists have designed quantum control protocols that generate processes more co..."
+      "title": "New 'atlas' for dendritic cells creates order in international nomenclature",
+      "link": "https://phys.org/news/2026-03-atlas-dendritic-cells-international-nomenclature.html",
+      "date": "2026-03-20 17:20",
+      "summary": "For her Ph.D. at VUB and KULeuven, Aarushi Caro created a kind of systematics for dendritic cells, a special group of immune cells..."
     },
     {
-      "title": "Record-breaking heat wave grips western US",
-      "link": "https://phys.org/news/2026-03-western.html",
-      "date": "2026-03-20 16:30",
-      "summary": "A record early heat wave striking the west of the United States on Friday is a one-in-500-years type event and all but certainly t..."
+      "title": "'Plastic-eating' fusion enzyme improves polyester textile recycling",
+      "link": "https://phys.org/news/2026-03-plastic-fusion-enzyme-polyester-textile.html",
+      "date": "2026-03-20 17:20",
+      "summary": "In a new study, scientists from the universities of Portsmouth and Manchester report that a specially engineered enzyme can signif..."
     },
     {
-      "title": "Wheat's immune system uses novel protein complex, study finds",
-      "link": "https://phys.org/news/2026-03-wheat-immune-protein-complex.html",
-      "date": "2026-03-20 16:20",
-      "summary": "Plant immunity is largely initiated at the cellular level, with each cell capable of autonomous detection and response, while also..."
+      "title": "Chatting with people beats interactions with AI chatbots when it comes to reducing loneliness",
+      "link": "https://phys.org/news/2026-03-chatting-people-interactions-ai-chatbots.html",
+      "date": "2026-03-20 17:00",
+      "summary": "More and more people are turning to AI chatbots as if they were close friends—venting about personal struggles, asking for advice,..."
     },
     {
-      "title": "Two new fungi species uncovered in Australian herbarium using DNA sequencing",
-      "link": "https://phys.org/news/2026-03-fungi-species-uncovered-australian-herbarium.html",
-      "date": "2026-03-20 16:20",
-      "summary": "Scientists at Royal Botanic Gardens Victoria, Australia have described two new species of fungi, Peziza austroechinospora and Pezi..."
+      "title": "How AI‑supported storytelling helps adult learners understand environmental science",
+      "link": "https://phys.org/news/2026-03-aisupported-storytelling-adult-learners-environmental.html",
+      "date": "2026-03-20 17:00",
+      "summary": "University of Phoenix announces the publication of \"Harnessing AI, Virtual Landscapes, and Anthropomorphic Imaginaries to Enhance ..."
     }
   ],
   "The Guardian Edu": [
