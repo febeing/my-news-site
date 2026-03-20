@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "CryoPRISM: A new tool for observing cellular machinery in a more natural environment",
+      "link": "https://news.mit.edu/2026/cryoprism-tool-for-observing-cellular-machinery-more-natural-environment-0320",
+      "date": "2026-03-20 19:25",
+      "summary": "The method allows researchers to observe biomolecular complexes in a quick, accurate, and budget-friendly way, providing new insig..."
+    },
+    {
       "title": "MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity",
       "link": "https://news.mit.edu/2026/mit-hasso-plattner-institute-collaborative-hub-for-ai-and-creativity-0320",
       "date": "2026-03-20 12:45",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
       "date": "2026-03-19 04:00",
       "summary": "This new metric for measuring uncertainty could flag hallucinations and help users know whether to trust an AI model...."
-    },
-    {
-      "title": "New model predicts how mosquitoes will fly",
-      "link": "https://news.mit.edu/2026/new-model-predicts-how-mosquitoes-will-fly-0318",
-      "date": "2026-03-18 18:00",
-      "summary": "Their flight patterns change in response to different sensory cues, a new study finds. The work could lead to more effective traps..."
     }
   ],
   "Harvard Gazette": [
@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "Hormone linked to morning sickness may help reduce alcohol intake",
+      "link": "https://www.science.org/content/article/hormone-linked-morning-sickness-may-help-reduce-alcohol-intake",
+      "date": "2026-03-20 02:15",
+      "summary": "GDF15, which is thought to contribute to nausea during pregnancy, may keep our drinking in check, researchers propose..."
+    },
+    {
       "title": "Microscopic spikes on snakeskin block bacterial buildup",
       "link": "https://www.science.org/content/article/microscopic-spikes-snakeskin-block-bacterial-buildup",
       "date": "2026-03-20 12:15",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/how-realistic-science-project-hail-mary",
       "date": "2026-03-19 02:30",
       "summary": "From the viability of waterless life to how researchers should handle cosmic emergencies, astronomer Wendy Freedman weighs in on t..."
-    },
-    {
-      "title": "What happened when an Arab neuroscientist took the helm at an Israeli university?",
-      "link": "https://www.science.org/content/article/what-happened-when-arab-neuroscientist-took-helm-israeli-university",
-      "date": "2026-03-19 02:00",
-      "summary": "Mouna Maroun’s stewardship highlights the promise—and perils—of reconciliation through science..."
     }
   ],
   "Retraction Watch": [
@@ -257,6 +257,24 @@
   ],
   "Phys.org": [
     {
+      "title": "ShadowCam search casts doubt on abundant lunar ice",
+      "link": "https://phys.org/news/2026-03-shadowcam-abundant-lunar-ice.html",
+      "date": "2026-03-20 19:20",
+      "summary": "New observations by a team of US astronomers have cast fresh doubt on whether the lunar surface could host abundant water ice. Pub..."
+    },
+    {
+      "title": "What 'Project Hail Mary' gets right—and wrong—about astrophysics",
+      "link": "https://phys.org/news/2026-03-hail-mary-wrong-astrophysics.html",
+      "date": "2026-03-20 19:10",
+      "summary": "\"Project Hail Mary,\" the Ryan Gosling-led adaptation of the best-selling sci-fi novel from Andy Weir, is being praised for putting..."
+    },
+    {
+      "title": "Microbes make microplastics more likely to form ice in clouds, research reveals",
+      "link": "https://phys.org/news/2026-03-microbes-microplastics-ice-clouds-reveals.html",
+      "date": "2026-03-20 19:00",
+      "summary": "Tiny pieces of plastic, called microplastics, are showing up everywhere, even in the water in clouds, rain, and snow—and they may ..."
+    },
+    {
       "title": "Rivers and tidal currents keep 80% of microfibers from reaching oceans, study suggests",
       "link": "https://phys.org/news/2026-03-rivers-tidal-currents-microfibers-oceans.html",
       "date": "2026-03-20 18:40",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-03-courting-competition-male-fruit-flies.html",
       "date": "2026-03-20 18:20",
       "summary": "Like the males of many animal species, male Drosophila melanogaster fruit flies, a commonly studied lab animal, are aggressive tow..."
-    },
-    {
-      "title": "Ancient sling bullet delivers a 2,100-year-old taunt: 'Learn your lesson!'",
-      "link": "https://phys.org/news/2026-03-ancient-bullet-year-taunt-lesson.html",
-      "date": "2026-03-20 18:00",
-      "summary": "For millennia, sling bullets served as a hand-thrown projectile that could be used to fend off enemies. At Hippos, 70 sling bullet..."
-    },
-    {
-      "title": "Replicating bacterial DNA relies on accordion-like folds to separate, researchers discover",
-      "link": "https://phys.org/news/2026-03-replicating-bacterial-dna-accordion.html",
-      "date": "2026-03-20 17:40",
-      "summary": "When bacteria cells replicate, they do so a little differently than human cells do. They don't undergo mitosis, a splitting that i..."
-    },
-    {
-      "title": "Innovative recycling method can convert waste PET into high-quality raw materials and clean hydrogen",
-      "link": "https://phys.org/news/2026-03-recycling-method-pet-high-quality.html",
-      "date": "2026-03-20 17:30",
-      "summary": "Despite polyethylene terephthalate (PET) being one of the most widely recycled plastics, only about 20% of used PET bottles are ac..."
     }
   ],
   "The Guardian Edu": [
@@ -353,6 +353,12 @@
   ],
   "New Scientist": [
     {
+      "title": "We’ve spotted a huge asteroid spinning impossibly fast",
+      "link": "https://www.newscientist.com/article/2520088-weve-spotted-a-huge-asteroid-spinning-impossibly-fast/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-20 17:00",
+      "summary": "Astronomers have found a 710-metre-wide asteroid that spins once every 1.9 minutes, so fast that it should have spun itself apart..."
+    },
+    {
       "title": "Major leap towards reanimation after death as mammal's brain preserved",
       "link": "https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-20 16:19",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2519762-mathematician-wins-2026-abel-prize-for-solving-60-year-old-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-19 11:00",
       "summary": "Gerd Faltings shocked mathematicians around the world for his 1983 proof of the Mordell conjecture, which brought together seeming..."
-    },
-    {
-      "title": "Probiotic cream that ramps up heat production could prevent frostbite",
-      "link": "https://www.newscientist.com/article/2520006-probiotic-cream-that-ramps-up-heat-production-could-prevent-frostbite/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-19 17:07",
-      "summary": "Tweaking our skin's microbiome via a probiotic cream could prevent frostbite and hypothermia in extreme environments..."
     }
   ]
 }
