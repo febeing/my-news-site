@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity",
+      "link": "https://news.mit.edu/2026/mit-hasso-plattner-institute-collaborative-hub-for-ai-and-creativity-0320",
+      "date": "2026-03-20 12:45",
+      "summary": "Jointly led by the MIT Morningside Academy for Design, MIT Schwarzman College of Computing, and the Hasso Plattner Institute in Po..."
+    },
+    {
       "title": "Improving cartilage repair through cell therapy",
       "link": "https://news.mit.edu/2026/improving-cartilage-repair-through-cell-therapy-0319",
       "date": "2026-03-19 13:50",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/new-model-predicts-how-mosquitoes-will-fly-0318",
       "date": "2026-03-18 18:00",
       "summary": "Their flight patterns change in response to different sensory cues, a new study finds. The work could lead to more effective traps..."
-    },
-    {
-      "title": "Brain circuit needed to incorporate new information may be linked to schizophrenia",
-      "link": "https://news.mit.edu/2026/brain-circuit-incorporates-new-information-may-be-linked-schizophrenia-0318",
-      "date": "2026-03-18 10:00",
-      "summary": "Impairments of this circuit may help to explain why some people with schizophrenia lose touch with reality...."
     }
   ],
   "Harvard Gazette": [
@@ -77,6 +77,12 @@
       "summary": "Orange Clash With #33 Stanford, #16 California  Syracuse University Athletics..."
     },
     {
+      "title": "Q&A: Ken Goodson on graduate education - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHFjVlBNMXczelR5bUUtTHFyLVJhQVNQNWFKdnpjMGcwTVJhNzlDMmFqQmlNTWRVaDhObjRIWERvbmxWbmZOUmhhYS1GVzVvZFZmY1dSdV90RGpJblVtb2wzY0FJWEQxS0NKSDNhdjNGUjQ4UVduT1dXdnhYd1Y5Qm4zV1I?oc=5",
+      "date": "2026-03-19 04:22",
+      "summary": "Q&A: Ken Goodson on graduate education  Stanford Report..."
+    },
+    {
       "title": "A Square Peg, a Round Hole, and the Future of Antidiscrimination Law - Stanford Law School",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaEpsZTJ1ZjZRLTViRlVSTFhRMHF5YVF1RnBtdFNtS3B5NG4zUGQ0QXJzUlVBeGtCM0pGakhYUlM4MWxQRjhCbWo5NkhWZURWZFBya2tWVnpONk9vbmMxYnpjMzVIdy1YY3Z6SHVxUWd4NnFwZ2NaVXpzWmoxb1pXUnNWcEc1MHF0dHotdk1vRHF3eExBTGQ5aXozTW1tVUU?oc=5",
       "date": "2026-03-20 02:05",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbEEwRFlzYTdneTZvT2l6Zzd6czlBaVc0LXkydXJvQ1pZTXZzdFZTZWNBWVpSSzhNR3ZqdFg2WDhWb181WGVzS1BZMkhKVWFTVDFoNERqTE9DZGlDc2l1bkdBLURGaGVhY1Rrd3pqaHBGemUwMnY1THUtV2FOUHhPTkRqUWJzYXRpbnc?oc=5",
       "date": "2026-03-19 18:23",
       "summary": "A ‘shocking’ carbon discovery in Sweden’s forests  Stanford Doerr School of Sustainability..."
-    },
-    {
-      "title": "Q&A: Ken Goodson on graduate education - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHFjVlBNMXczelR5bUUtTHFyLVJhQVNQNWFKdnpjMGcwTVJhNzlDMmFqQmlNTWRVaDhObjRIWERvbmxWbmZOUmhhYS1GVzVvZFZmY1dSdV90RGpJblVtb2wzY0FJWEQxS0NKSDNhdjNGUjQ4UVduT1dXdnhYd1Y5Qm4zV1I?oc=5",
-      "date": "2026-03-19 04:22",
-      "summary": "Q&A: Ken Goodson on graduate education  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -193,34 +193,34 @@
   ],
   "Reuters AI": [
     {
-      "title": "Accenture beats quarterly revenue estimates on strong AI demand - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZU1Sb2FZVHVfOUJQVUZCZGRabEVPcll2bHlVamlqblhic3BudnY3MGR5Wm04eHNLWDR5aVlUdWlWaXd4MnpDc19sd3psbFVfdDYteXlvMFJySmRpb0hKX0cySXNILU9aSEU1TDV5cGFFMDQtUG0tVktRUzZvZEk0amdaWUNUMHhOblFXTjRzM3R0UmhZcjR0aG90QkxIeWs?oc=5",
-      "date": "2026-03-19 10:45",
-      "summary": "Accenture beats quarterly revenue estimates on strong AI demand  Reuters..."
-    },
-    {
-      "title": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEFLYkdreFlDTjNjdVdvUjdwRnA3eWtxa3hXZTdIMW1WQUJ3VXVNaDY1emJFTEd2cXVaLWlJWG50cklxYW1YdDRpSVRfWkJJVXlNS01EWmoxaWZVaURhNmN6akRIYWtaWVg0TDZnMVNqNUtWUXpmbDI0cFItUERPbmtTVzcwdGtUTi1yTHJfdFE1Ui1CUGlOb1ZNazV6SDh4OGhGNw?oc=5",
-      "date": "2026-03-19 22:13",
-      "summary": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China  Reuters..."
-    },
-    {
-      "title": "Jensen Huang touts Nvidia's dominance at AI conference - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWDNUZ3R5Z3NRa0ZRQVV5bUwxcmdOanJNOHBkeTdzV1cxbmZ2UnlzTEQtcWJ4LVlEWXd5MFA5MlhVZUNrUmpDTS1SVkQyc1h2dFBvNjRvbzB0a2dURlVoRG4wT2d1UWRaN1NQUFRHX0gtZkk2UTdwbWZrcEo0c3R6M0JVOHRDMHl2bUd4b3p1RUhvQ2dyVlNzQ2FvZk9WSmJJeDV4NWlfMnlKZTNNMEpJYk5rQTc0bmdBWTRnMnpZdVFFRU05eGVkNmZRanVUdFRDSHFheVZEVEUzMktGWFhEVk9wa2Y?oc=5",
-      "date": "2026-03-19 10:10",
-      "summary": "Jensen Huang touts Nvidia's dominance at AI conference  Reuters..."
-    },
-    {
       "title": "Jeff Bezos aims to raise $100 billion to buy, revamp manufacturing firms with AI, WSJ reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTHhIWGR3WG9uNWpScVYwdnVBT1dWSVRVWjdoUy1GTFVMQ3ZEcjB3LVhvUjNPekhhU3VkLWZMQ3ZTUkItdmRBM0xlWElwVmNYTlpuRE5HTmxINjd5YnR2cVdtOFFGUkFIZUUxSE1NMFFPanUtR3ItRy1UN2dlRVlTS0F0VHNVYmFIclFEb3RmZl9fNmNlV0pEM0tRNnlzN1AtRDhfV01hSkJISTRNb2dRWlpacTdWLUprNE4xeHRDdUZpcWVNNGczREJOQ1dWOFZVcW5Z?oc=5",
       "date": "2026-03-19 19:26",
       "summary": "Jeff Bezos aims to raise $100 billion to buy, revamp manufacturing firms with AI, WSJ reports  Reuters..."
     },
     {
-      "title": "OpenAI plans desktop 'superapp' to streamline user experience - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkM3RVhJUllwRGlRbFJaU042VG81UVl1b0o1MW9jWmRTN3Fla25aUUZSY3RSZENzWkhnMjh4NDFwX2h3RE9qQ1lpLThpYjkyWGRXLWxLdEZadTV6Q2RER1Zma05pd1ppT21FTGc4X3dIenRsTXNVLU50OEhpdUZCQ0Y2Q1gtcFcyRTljSl9xUzYyd1V3Uk9mLUFDd2lCdnBtRHdDRTNsbDRESGNvb3VYNm5LSQ?oc=5",
-      "date": "2026-03-19 22:51",
-      "summary": "OpenAI plans desktop 'superapp' to streamline user experience  Reuters..."
+      "title": "Accenture beats quarterly revenue estimates on strong AI demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZU1Sb2FZVHVfOUJQVUZCZGRabEVPcll2bHlVamlqblhic3BudnY3MGR5Wm04eHNLWDR5aVlUdWlWaXd4MnpDc19sd3psbFVfdDYteXlvMFJySmRpb0hKX0cySXNILU9aSEU1TDV5cGFFMDQtUG0tVktRUzZvZEk0amdaWUNUMHhOblFXTjRzM3R0UmhZcjR0aG90QkxIeWs?oc=5",
+      "date": "2026-03-19 10:45",
+      "summary": "Accenture beats quarterly revenue estimates on strong AI demand  Reuters..."
+    },
+    {
+      "title": "White House Releases National AI Framework - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWR4Y2ZpYXFzY3h4VmREeHlGay1qWDNDb1dhTHNUMHhodmt6V3NfcjlZdnhIN2ZXVFBaMFRvdHBrUHpQSDlFUl9DS1dsRVNidnB6d1hkQ2hKdVp6d1QwMnhPandob3hGNjB1T1hLLUdGdThxREFvNThSaUlScThMeFBEdWNadGdDMXNpSTdic2JEc2ZyN2J4OVp3LWU?oc=5",
+      "date": "2026-03-20 12:27",
+      "summary": "White House Releases National AI Framework  U.S. News & World Report..."
+    },
+    {
+      "title": "As OpenClaw enthusiasm grips China, schoolkids and retirees alike raise 'lobsters' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVURXeEstSGM1TEhGTWdqWmNjYjhMRnVkaWRpRFVVRE5OOE1GcXdGdUtGWnNpQ0tEVjc1T1Y1Y0dwRC04cUhXYU0yeVRLYW55alhRNEZEZnVGYkNoUlNvajJoaXBCUFMyWTFyWG1aazN6Q2VydUhfaVlYTmZCbGFrSkJadGZSNzJGNHNPbG45SFBEeTBUTlpZSnQ5bUVXaFRjRU5jUnVIVnpGaVJtTzNRRVhMY1BjYmxWNjZZ?oc=5",
+      "date": "2026-03-19 08:04",
+      "summary": "As OpenClaw enthusiasm grips China, schoolkids and retirees alike raise 'lobsters'  Reuters..."
+    },
+    {
+      "title": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEFLYkdreFlDTjNjdVdvUjdwRnA3eWtxa3hXZTdIMW1WQUJ3VXVNaDY1emJFTEd2cXVaLWlJWG50cklxYW1YdDRpSVRfWkJJVXlNS01EWmoxaWZVaURhNmN6akRIYWtaWVg0TDZnMVNqNUtWUXpmbDI0cFItUERPbmtTVzcwdGtUTi1yTHJfdFE1Ui1CUGlOb1ZNazV6SDh4OGhGNw?oc=5",
+      "date": "2026-03-19 22:13",
+      "summary": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,51 +243,57 @@
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
     },
     {
+      "title": "OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaktiMXBZbHU1WWV0YUw1c3A1RlloQTJXVGd0eEdQTzA4ZUF2YmZzODFtLWhMU0dKXzkxUXFPOXgwalF1bTlmM3Z6d3JhRzdpeDlZZVRRdWFBeHhTd0dfSUhCUWgwcHVDZkctSVlLZEVjLXdzLW02THh2Mi1DM25SbmFTSlNJOFhTOE9XSERHcFRFbUJfSGFSUDhDSFdrZm43S3FIUnRxVjAtaVpQUVZ6dHVaaWpzMDhFS1haakZ6T1BrU3PSAcgBQVVfeXFMUHl0ZFNoeFlESVdmZHJzTmkzWHQxYmxKbV9KazY3NHpZdGtvMFk5c0VVUExCMU82MmpTX1p3RHJjTDR2VlRBZ01tS0R3TWFBYXV3RDdXLXh4N3FWX1hXWnQ4OEpmcW13NWhybktWdXRFRUxfUldNSGlROEVKTHpwUlhMZHFMTEhJT0dTT1NITEFtV2c5QmR5a3VMaDFMY2Z0LXlCclFWS21DWGxmNjBxaWNsYWZVeGxyRm9Zd1NFUm1hVmxPVTdCVVg?oc=5",
+      "date": "2026-03-20 11:57",
+      "summary": "OpenAI is throwing everything into building a fully automated researcher  MIT Technology Review..."
+    },
+    {
       "title": "Mind-altering substances are (still) falling short in clinical trials - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVBfQVBJR0hPZEJJT2VmT0IxRnR6b3F1X3RuTUpMaVU0clo3QjFwcXJVZzQ5Vl8zS0NSaEFfUFZ1eUp3ZjJzMURyQlRtV1VYSUxGTEpQWTZ0REl0NzNJbjJvMTZJRUdES2x2MkVFWm9OLUxTcVJZZTZES3ZyUEJYcnFFYjRuX0FZSVhiLXFfVXdqdEVaRlZJU3h5cmJIcXFBdDlpT2JWaTHSAa4BQVVfeXFMTnBVQkpsdGZfc0tVSjZXbUFDUmFoRGpBczFhU2RTdUZwS3FiRWdkNmJxakRfRzVWUVk2SUJzeUpFbG1HeXdIYjJLQ3pLU3BCVFRXdUFOVTVMSHFmc1FGVzAtb3RYZkxPV1NuU215WEpZdWFZRUhrdEFlZlM3U0Y1c1d0LTlQV0JnWGltekhKUktPY0JQT3F4T0NHY29BWi1UaHBTMUp0b3VvMmVrdW5n?oc=5",
       "date": "2026-03-20 09:00",
       "summary": "Mind-altering substances are (still) falling short in clinical trials  MIT Technology Review..."
-    },
-    {
-      "title": "Why physical AI is becoming manufacturing’s next advantage - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORjM3R3RtMXFldmNibmxNUjh4Nk13Mmo2bm5MMFpTNTFUVzREclMtZmlsV2NHeUQzd280TnNGcUhnU1FmdlFxb1BtaXJkNXp1dURVUUdweXpDeTU3SzBBME0yX1UtcC1MMVhpOXl6cE13QXZTcVBOdmVJUzRtYlZiWElSS0xvOHp3Y2VqNWRVZ0ZVUHRBX0w2VGRDUXcyYW5ta1c5OUZQSko3U2tGc1Zv0gG0AUFVX3lxTE9nV2pDcGlHbHdSZHB0V3JGMDFNZnhvWHdfWWhDdlBuSUVta1ZGTjRnMkRod3k5RVhCRUlLSVVyOHd0UDVwZmxlZXlZOVNBZDFyRk9saGxCQUtQX3Y3MHllc1plVDRNenlNMFRUX2prTS05UGVZaDg5ell3dTZZdnZqemhDMk12a3B3dkU1M0VNWXo2aTVWQWVOYkgzc1VySXdDQ3pvLWMwa2xGMEpsQWxzVjhGaA?oc=5",
-      "date": "2026-03-13 15:16",
-      "summary": "Why physical AI is becoming manufacturing’s next advantage  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Unexpected discovery leads to potential pollination control mechanism for baby corn",
+      "link": "https://phys.org/news/2026-03-unexpected-discovery-potential-pollination-mechanism.html",
+      "date": "2026-03-20 12:50",
+      "summary": "Baby corn, essentially unfertilized young ears of corn, is a specialty food gaining interest for its high nutrition and low calori..."
+    },
+    {
+      "title": "Smile mission set for April 9 launch to image Earth's magnetic field in X-rays",
+      "link": "https://phys.org/news/2026-03-mission-april-image-earth-magnetic.html",
+      "date": "2026-03-20 12:08",
+      "summary": "The Smile mission is set to launch on a Vega-C rocket from Europe's Spaceport in French Guiana on Thursday, April 9, at 08:29 CEST..."
+    },
+    {
+      "title": "Long-term road surveys reveal widespread declines in South African birds of prey",
+      "link": "https://phys.org/news/2026-03-term-road-surveys-reveal-widespread.html",
+      "date": "2026-03-20 12:00",
+      "summary": "A comprehensive study has revealed substantial declines in many of South Africa's birds of prey (raptors) over the past 16 years, ..."
+    },
+    {
+      "title": "A new entanglement-enhanced quantum sensing scheme",
+      "link": "https://phys.org/news/2026-03-entanglement-quantum-scheme.html",
+      "date": "2026-03-20 12:00",
+      "summary": "Over the past decades, quantum scientists have introduced various technologies that operate leveraging quantum mechanical effects,..."
+    },
     {
       "title": "Early Southwest heat is latest in parade of weather extremes as Earth warms",
       "link": "https://phys.org/news/2026-03-early-southwest-latest-parade-weather.html",
       "date": "2026-03-20 09:10",
       "summary": "The dangerous heat wave shattering March records all over the U.S. Southwest is more than just another extreme weather blip. It's ..."
-    },
-    {
-      "title": "NASA returns moon rocket to pad, eyeing April 1 launch",
-      "link": "https://phys.org/news/2026-03-nasa-moon-rocket-pad-eyeing.html",
-      "date": "2026-03-20 09:10",
-      "summary": "NASA on Thursday began returning its towering SLS rocket and Orion spacecraft to its Florida launch pad ahead of a planned flyby o..."
-    },
-    {
-      "title": "AI shows promise for flood forecasting and water security in data scarce regions",
-      "link": "https://phys.org/news/2026-03-ai-scarce-regions.html",
-      "date": "2026-03-20 09:00",
-      "summary": "New research reveals that \"foundation models\" trained on vast, general time-series data may be able to forecast river flows accura..."
-    },
-    {
-      "title": "Meteorite hunters scour Ohio for fragments of 7-ton space rock that crashed into Earth",
-      "link": "https://phys.org/news/2026-03-meteorite-hunters-scour-ohio-fragments.html",
-      "date": "2026-03-20 08:48",
-      "summary": "Meteorite hunters fanned out across a wide swath of Ohio on Thursday, hoping to collect fragments of an estimated 7-ton (6,350 kil..."
-    },
-    {
-      "title": "Mind over metal: Staying wary of metal-related toxicities for pets",
-      "link": "https://phys.org/news/2026-03-mind-metal-staying-wary-toxicities.html",
-      "date": "2026-03-20 02:40",
-      "summary": "Pets encounter a variety of everyday risks, from outdoor threats like animals or parasites to physical dangers like vehicles or sh..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "The Kent meningitis outbreak: what is happening and why?",
+      "link": "https://www.theguardian.com/society/2026/mar/20/the-kent-meningitis-outbreak-what-is-happening-and-why",
+      "date": "2026-03-20 11:42",
+      "summary": "Causes of meningitis, what the public health response has been, and how the situation differs from CovidThe deadly outbreak of men..."
+    },
     {
       "title": "Efforts to shut down pro-Palestinian speech face series of setbacks in court",
       "link": "https://www.theguardian.com/us-news/2026/mar/19/pro-palestinian-speech-antisemitism-lawsuits",
@@ -311,12 +317,6 @@
       "link": "https://www.theguardian.com/us-news/2026/mar/18/florida-colleges-push-back-race-gender-restrictions",
       "date": "2026-03-18 11:00",
       "summary": "Sociology faculty are refusing to alter syllabi, even as state targets how race, gender and inequality are taughtSign up for the B..."
-    },
-    {
-      "title": "From the archive: ‘Parents are frightened for themselves and for their children’: an inspirational school in impossible times – podcast",
-      "link": "https://www.theguardian.com/news/audio/2026/mar/18/from-the-archive-parents-are-frightened-for-themselves-and-for-their-children-an-inspirational-school-in-impossible-times-podcast",
-      "date": "2026-03-18 05:00",
-      "summary": "We are raiding the Guardian long read archives to bring you some classic pieces from years past, with new introductions from the a..."
     }
   ],
   "SCMP Hong Kong": [
