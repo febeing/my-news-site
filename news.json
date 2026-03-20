@@ -103,6 +103,18 @@
       "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00850-zCompounds that are used to make plastics and personal-care ..."
     },
     {
+      "title": "‘Unaffordable’ visa price hike threatens Australia’s researcher pipeline",
+      "link": "https://www.nature.com/articles/d41586-026-00822-3",
+      "date": "2026-03-20 00:00",
+      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00822-3Doubling of the cost of a key visa used by graduates to sta..."
+    },
+    {
+      "title": "The mid-career reset: how to be strategic about your research direction",
+      "link": "https://www.nature.com/articles/d41586-025-04077-2",
+      "date": "2026-03-20 00:00",
+      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-025-04077-2A decade after completing a PhD, your research can begin to..."
+    },
+    {
       "title": "Editorial Expression of Concern: A FADD-dependent innate immune mechanism in mammalian cells",
       "link": "https://www.nature.com/articles/s41586-026-10397-8",
       "date": "2026-03-19 00:00",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-00866-5",
       "date": "2026-03-19 00:00",
       "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00866-5Data from almost 700 people show that biomarkers that chang..."
-    },
-    {
-      "title": "Strength persists after a mid-life course of obesity drugs",
-      "link": "https://www.nature.com/articles/d41586-026-00852-x",
-      "date": "2026-03-19 00:00",
-      "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00852-xMuscle mass increased or remained stable relative to body w..."
-    },
-    {
-      "title": "Stress can cause eczema to flare-up – now we know why",
-      "link": "https://www.nature.com/articles/d41586-026-00876-3",
-      "date": "2026-03-19 00:00",
-      "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00876-3Scientists have identified the neurons that worsen the cond..."
     }
   ],
   "Science News": [
@@ -193,16 +193,22 @@
   ],
   "Reuters AI": [
     {
+      "title": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEFLYkdreFlDTjNjdVdvUjdwRnA3eWtxa3hXZTdIMW1WQUJ3VXVNaDY1emJFTEd2cXVaLWlJWG50cklxYW1YdDRpSVRfWkJJVXlNS01EWmoxaWZVaURhNmN6akRIYWtaWVg0TDZnMVNqNUtWUXpmbDI0cFItUERPbmtTVzcwdGtUTi1yTHJfdFE1Ui1CUGlOb1ZNazV6SDh4OGhGNw?oc=5",
+      "date": "2026-03-19 22:13",
+      "summary": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China  Reuters..."
+    },
+    {
       "title": "Jeff Bezos aims to raise $100 billion to buy, revamp manufacturing firms with AI, WSJ reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTHhIWGR3WG9uNWpScVYwdnVBT1dWSVRVWjdoUy1GTFVMQ3ZEcjB3LVhvUjNPekhhU3VkLWZMQ3ZTUkItdmRBM0xlWElwVmNYTlpuRE5HTmxINjd5YnR2cVdtOFFGUkFIZUUxSE1NMFFPanUtR3ItRy1UN2dlRVlTS0F0VHNVYmFIclFEb3RmZl9fNmNlV0pEM0tRNnlzN1AtRDhfV01hSkJISTRNb2dRWlpacTdWLUprNE4xeHRDdUZpcWVNNGczREJOQ1dWOFZVcW5Z?oc=5",
       "date": "2026-03-19 19:26",
       "summary": "Jeff Bezos aims to raise $100 billion to buy, revamp manufacturing firms with AI, WSJ reports  Reuters..."
     },
     {
-      "title": "Accenture beats quarterly revenue estimates on strong AI demand - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZU1Sb2FZVHVfOUJQVUZCZGRabEVPcll2bHlVamlqblhic3BudnY3MGR5Wm04eHNLWDR5aVlUdWlWaXd4MnpDc19sd3psbFVfdDYteXlvMFJySmRpb0hKX0cySXNILU9aSEU1TDV5cGFFMDQtUG0tVktRUzZvZEk0amdaWUNUMHhOblFXTjRzM3R0UmhZcjR0aG90QkxIeWs?oc=5",
-      "date": "2026-03-19 10:45",
-      "summary": "Accenture beats quarterly revenue estimates on strong AI demand  Reuters..."
+      "title": "Super Micro shares plunge as US charges co-founder, 2 more for smuggling AI chips to China - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQVg0ZUQwR2ROSnN4SElJeG5LTTBqVUFvTzh5X0VtekNhNGlZRGc4N3Y5S1h0ekp5WmpCRTJjZjRVRUN4RERUekc2MGt6S1NRTTRKczVhNmlueDJuWHE0VFpnSGR3S1NUenBkeVV2dm4ySEJoQVljejlCTm94aVg4Y05kZUNJMUVwMWFZVUtCMG1UYzNOa3EzUXpRdjJQb0VRVGo4ajd6ZjR2Y3hnUDhObmU2cVphUkYwTFFtNjg1Qi1oRXFPYU5temVMVEs?oc=5",
+      "date": "2026-03-20 11:49",
+      "summary": "Super Micro shares plunge as US charges co-founder, 2 more for smuggling AI chips to China  Reuters..."
     },
     {
       "title": "White House Releases National AI Framework - U.S. News & World Report",
@@ -215,12 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVURXeEstSGM1TEhGTWdqWmNjYjhMRnVkaWRpRFVVRE5OOE1GcXdGdUtGWnNpQ0tEVjc1T1Y1Y0dwRC04cUhXYU0yeVRLYW55alhRNEZEZnVGYkNoUlNvajJoaXBCUFMyWTFyWG1aazN6Q2VydUhfaVlYTmZCbGFrSkJadGZSNzJGNHNPbG45SFBEeTBUTlpZSnQ5bUVXaFRjRU5jUnVIVnpGaVJtTzNRRVhMY1BjYmxWNjZZ?oc=5",
       "date": "2026-03-19 08:04",
       "summary": "As OpenClaw enthusiasm grips China, schoolkids and retirees alike raise 'lobsters'  Reuters..."
-    },
-    {
-      "title": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEFLYkdreFlDTjNjdVdvUjdwRnA3eWtxa3hXZTdIMW1WQUJ3VXVNaDY1emJFTEd2cXVaLWlJWG50cklxYW1YdDRpSVRfWkJJVXlNS01EWmoxaWZVaURhNmN6akRIYWtaWVg0TDZnMVNqNUtWUXpmbDI0cFItUERPbmtTVzcwdGtUTi1yTHJfdFE1Ui1CUGlOb1ZNazV6SDh4OGhGNw?oc=5",
-      "date": "2026-03-19 22:13",
-      "summary": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,12 @@
   ],
   "Phys.org": [
     {
+      "title": "The next mountain tourism boom? Via Ferrata's global rise prompts call for industry collaboration",
+      "link": "https://phys.org/news/2026-03-mountain-tourism-boom-ferrata-global.html",
+      "date": "2026-03-20 13:10",
+      "summary": "As interest in structured mountain adventure continues to surge across Europe and North America, a new study led by researchers at..."
+    },
+    {
       "title": "Unexpected discovery leads to potential pollination control mechanism for baby corn",
       "link": "https://phys.org/news/2026-03-unexpected-discovery-potential-pollination-mechanism.html",
       "date": "2026-03-20 12:50",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-03-entanglement-quantum-scheme.html",
       "date": "2026-03-20 12:00",
       "summary": "Over the past decades, quantum scientists have introduced various technologies that operate leveraging quantum mechanical effects,..."
-    },
-    {
-      "title": "Early Southwest heat is latest in parade of weather extremes as Earth warms",
-      "link": "https://phys.org/news/2026-03-early-southwest-latest-parade-weather.html",
-      "date": "2026-03-20 09:10",
-      "summary": "The dangerous heat wave shattering March records all over the U.S. Southwest is more than just another extreme weather blip. It's ..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Swire Coca-Cola wins HK$32 million government deal after bottled water scandal",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3347375/swire-coca-cola-wins-hk32-million-government-deal-after-bottled-water-scandal?utm_source=rss_feed",
+      "date": "2026-03-20 13:32",
+      "summary": "Swire Coca-Cola has secured a HK$31.9 million (US$4 million) contract to supply Bonaqua water to some Hong Kong government offices..."
+    },
+    {
+      "title": "Hong Kong should use ‘safe haven’ status to draw capital from Gulf: agency chief",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347376/hong-kong-should-use-safe-haven-status-draw-capital-gulf-agency-chief?utm_source=rss_feed",
+      "date": "2026-03-20 13:32",
+      "summary": "Hong Kong should leverage its position as a “safe haven for investment” to attract foreign capital amid the ongoing conflict in th..."
+    },
+    {
       "title": "13 arrested over HK$113 million laundered using government’s ‘iAM Smart’ app",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347332/13-arrested-hong-kong-over-hk113-million-iam-smart-laundering-crackdown?utm_source=rss_feed",
       "date": "2026-03-20 10:06",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/economy/china-economy/article/3347323/chinas-hainan-free-trade-hub-reinvents-itself-hong-kongs-rival-and-partner?utm_source=rss_feed",
       "date": "2026-03-20 09:27",
       "summary": "As Hainan pushes ahead with its free-trade port, the tropical island is emerging as a potential rival to Hong Kong’s long-standing..."
-    },
-    {
-      "title": "5 jailed, 20 others arrested in Hong Kong crackdown on illegal employment",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3347280/5-jailed-20-more-arrested-hong-kong-crackdown-illegal-employment?utm_source=rss_feed",
-      "date": "2026-03-20 06:51",
-      "summary": "Five people have been jailed and another 20 arrested as part of a Hong Kong Immigration Department crackdown on illegal employment..."
-    },
-    {
-      "title": "Deadly tower crane collapse prompts calls for review of safety guidelines",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3347267/hong-kong-crane-collapse-signals-need-metal-fatigue-testing-expert?utm_source=rss_feed",
-      "date": "2026-03-20 05:47",
-      "summary": "Industry leaders have called on Hong Kong authorities to review crane safety guidelines to include mandatory testing for metal fat..."
     }
   ],
   "New Scientist": [
