@@ -65,16 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "Softball Drops Game Two To No. 19 Stanford, 6-2 - University of North Carolina Athletics",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYWR6SDYwbHU5NTU3aTczbzFhYkhrNlB1TkcwY3BSMXg1YWIzSVZWbGREUnZjZTA2dFNoV0h3cXFCa19lWFF0bW94RVdJc3NnOGZvLWhDQjhaREVienZBZDR3aE5RVkI2ektBbDM3aXJGdnVGRTduQl9sMGhRUlpoaURB?oc=5",
-      "date": "2026-03-22 01:19",
-      "summary": "Softball Drops Game Two To No. 19 Stanford, 6-2  University of North Carolina Athletics..."
-    },
-    {
       "title": "How climate change is fueling disease outbreaks - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTklGeG5vbUZ5d01IWTdlamZYdm00M2N6bk1Cbkx4Z0ZvOHVheWxrSmc3Y05EbGtxa2FFSHhibDQwb0djUlZqZldHbnhzM2V2XzVYMUlUQXhXc3B1LVh6UGJpR01SRTFoSG1YenhpMUxocUhrZ3pXc0xrVjFwc1lWUjY0akplLVlPOGR3dEh4ekNfLVdhTV81ZzFrVG8?oc=5",
       "date": "2026-03-17 22:21",
       "summary": "How climate change is fueling disease outbreaks  Stanford Report..."
+    },
+    {
+      "title": "Softball Drops Game Two To No. 19 Stanford, 6-2 - University of North Carolina Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYWR6SDYwbHU5NTU3aTczbzFhYkhrNlB1TkcwY3BSMXg1YWIzSVZWbGREUnZjZTA2dFNoV0h3cXFCa19lWFF0bW94RVdJc3NnOGZvLWhDQjhaREVienZBZDR3aE5RVkI2ektBbDM3aXJGdnVGRTduQl9sMGhRUlpoaURB?oc=5",
+      "date": "2026-03-22 01:19",
+      "summary": "Softball Drops Game Two To No. 19 Stanford, 6-2  University of North Carolina Athletics..."
     },
     {
       "title": "A ‘shocking’ carbon discovery in Sweden’s forests - Stanford Doerr School of Sustainability",
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Analysis of 1.4 million interactions shows how employees achieve sophisticated AI collaboration",
+      "link": "https://phys.org/news/2026-03-analysis-million-interactions-employees-sophisticated.html",
+      "date": "2026-03-22 17:00",
+      "summary": "A study of 1.4 million real workplace interactions with artificial intelligence reveals teachable differences between routine and ..."
+    },
+    {
+      "title": "China's earliest Bronze Age meteoritic iron artifact unearthed at Sanxingdui sacrificial site",
+      "link": "https://phys.org/news/2026-03-china-earliest-bronze-age-meteoritic.html",
+      "date": "2026-03-22 17:00",
+      "summary": "In a study published in Archaeological Research in Asia, Dr. Haichao Li and a team of researchers analyzed the earliest Bronze Age..."
+    },
+    {
       "title": "How birds send heat into space measured for the first time—a hidden reflectance of feathers",
       "link": "https://phys.org/news/2026-03-birds-space-hidden-feathers.html",
       "date": "2026-03-22 16:00",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-03-pike-threatening-native-species.html",
       "date": "2026-03-22 15:30",
       "summary": "Rising temperatures in a Southcentral Alaska river have led to a hungrier population of invasive northern pike, a trend that could..."
-    },
-    {
-      "title": "A Hall 'rectenna' can detect signals over a 100 GHz frequency range",
-      "link": "https://phys.org/news/2026-03-hall-rectenna-ghz-frequency-range.html",
-      "date": "2026-03-22 15:00",
-      "summary": "Many current wireless communication, imaging and sensing technologies rely on components that convert oscillating electric and mag..."
-    },
-    {
-      "title": "Sea levels around Africa are rising faster than the global average: What's behind this alarming trend",
-      "link": "https://phys.org/news/2026-03-sea-africa-faster-global-average.html",
-      "date": "2026-03-22 14:30",
-      "summary": "For over three decades, satellites orbiting Earth have measured the height of the ocean surface with remarkable precision. These m..."
     }
   ],
   "The Guardian Edu": [
