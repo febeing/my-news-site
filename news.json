@@ -193,12 +193,6 @@
   ],
   "Reuters AI": [
     {
-      "title": "Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFVuVHRfVXhQRTRETHIyLUc5aW9UOGNWSmRmdWJEZ2xScVBLbWtLTWZhQTNVMEx3ZnlTcDBkMi1fZ3pIQ0RCOUxpWDU3R2JLd1VuVjFvbkRSNDhqSGM2RGhqa0RkUklyZmJhRWFKSXl2T1h1RFpMRVJ4cGtiSW9UTHQ0MlJMNjh2YVVGLWFRcktHR2VBOXRBd3BKeFA2b0JWd3A2dWc3UUtPc0VCcGRV?oc=5",
-      "date": "2026-03-21 00:44",
-      "summary": "Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says  Reuters..."
-    },
-    {
       "title": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTU43NEplLVc4bHV5ZWdsT0NGRDdpSzJuRE1nYzdqczZVaVcteHh2NnM4WEhEblpUQ1hlWFI3dEY2M082SnktYVFuOFI0TEhmNlBCTkVoeGt1OUVDbi1tZ2RMOGFDT2UyQ0t2VWh3Q0NWRWZFT0liSEE3RTdCY19aSHBCTllaX0N1bFBOaFJBdW5UN3FDM0V0czF4dUk0QjZhM0llQkRB?oc=5",
       "date": "2026-03-21 12:08",
@@ -211,16 +205,22 @@
       "summary": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle  Reuters..."
     },
     {
+      "title": "Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFVuVHRfVXhQRTRETHIyLUc5aW9UOGNWSmRmdWJEZ2xScVBLbWtLTWZhQTNVMEx3ZnlTcDBkMi1fZ3pIQ0RCOUxpWDU3R2JLd1VuVjFvbkRSNDhqSGM2RGhqa0RkUklyZmJhRWFKSXl2T1h1RFpMRVJ4cGtiSW9UTHQ0MlJMNjh2YVVGLWFRcktHR2VBOXRBd3BKeFA2b0JWd3A2dWc3UUtPc0VCcGRV?oc=5",
+      "date": "2026-03-20 23:28",
+      "summary": "Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says  Reuters..."
+    },
+    {
       "title": "Russia to give itself sweeping powers to ban or restrict foreign AI tools - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNnlQRklZVzNYSTAzLW5BWkJZbllNTGpsaTZvZ2U1SFY4eHpQbDVSWlJ0T0NwS3huV3lzU2NuTkdIYXItM1BhVElRbWZyWnlhZmtYdzRocm5ZM2xHaHF2dFJ3NFRma1FNQ3ZKWm1ONmtLWEhzQlJ6R3JqRUtPY2dQNUYwZjJTRmpsaDZQYWhkYmw0ZERTUkVxaWpRZzlvSkQ1X2Q1U0xxdDdORjNCT2Y5aTlR?oc=5",
       "date": "2026-03-20 13:04",
       "summary": "Russia to give itself sweeping powers to ban or restrict foreign AI tools  Reuters..."
     },
     {
-      "title": "Super Micro's Liaw exits board following AI chip smuggling charges - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0Q5MUFPQVlaZC1FTVZfMFRxTld3dDBFZEZpZGQ3ZkdmU2F4emZxU1pOTEtXQlZ2dkJGV1BGSGpvNGRRanh1ajFGRDJVaktYaWM2UWtuanEwMmoxT1Q3T01hX0RWdHNlTG1sUmIzbzM5dHlsX0RadnNTc19uTFUtcXRaUWZVakU0ZVVDVWprZEhLUTZOd3lKT0h6TjlyWTcwcFhSN2VSZW5VanJDb05xSDA2N3otYU13aVNXLUMzMjlfTk5ybTY4VlNyQQ?oc=5",
-      "date": "2026-03-20 20:51",
-      "summary": "Super Micro's Liaw exits board following AI chip smuggling charges  Reuters..."
+      "title": "Trump releases AI policy for Congress to pre-empt state rules - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWZpamJCdk1QQVpCa2xwRmxsUDBVZk91Q1pybV9kSHE1WTR2WTRlNEdxRHN4UlVULWEzR3NyQjZGaks1V2N1RXhSTzNZcG83SGtHa0pCR0dyWktGWUJMdVlpeVRYOE9WYTYwNjNPcTR1UFJDTUozaWxIazVQY2llcXFXcDdueVdMTEd4TGhrdXU?oc=5",
+      "date": "2026-03-20 12:28",
+      "summary": "Trump releases AI policy for Congress to pre-empt state rules  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "A Hall 'rectenna' can detect signals over a 100 GHz frequency range",
+      "link": "https://phys.org/news/2026-03-hall-rectenna-ghz-frequency-range.html",
+      "date": "2026-03-22 15:00",
+      "summary": "Many current wireless communication, imaging and sensing technologies rely on components that convert oscillating electric and mag..."
+    },
+    {
+      "title": "Sea levels around Africa are rising faster than the global average: What's behind this alarming trend",
+      "link": "https://phys.org/news/2026-03-sea-africa-faster-global-average.html",
+      "date": "2026-03-22 14:30",
+      "summary": "For over three decades, satellites orbiting Earth have measured the height of the ocean surface with remarkable precision. These m..."
+    },
+    {
       "title": "Indigenous wisdom can guide Indonesia's efforts to build a sustainable ocean economy",
       "link": "https://phys.org/news/2026-03-indigenous-wisdom-indonesia-efforts-sustainable.html",
       "date": "2026-03-22 14:00",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-03-approach-dna-otters-disturbing.html",
       "date": "2026-03-22 13:00",
       "summary": "Studying endangered animal species without disturbing them and disrupting their natural habitat could be highly advantageous, as i..."
-    },
-    {
-      "title": "New metabolic atlas maps how plants take up and process selenium",
-      "link": "https://phys.org/news/2026-03-metabolic-atlas-selenium.html",
-      "date": "2026-03-22 12:30",
-      "summary": "An estimated 500 million to 1 billion people worldwide are affected by selenium deficiency, according to the World Health Organiza..."
-    },
-    {
-      "title": "Altered colony chemistry reveals a process that destroys termite societies",
-      "link": "https://phys.org/news/2026-03-colony-chemistry-reveals-destroys-termite.html",
-      "date": "2026-03-22 12:20",
-      "summary": "Several insect species, including ants, honeybees and termites, live in highly organized societies, also known as social insect co..."
     }
   ],
   "The Guardian Edu": [
@@ -321,7 +321,7 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "High-speed rail tickets selling fast as Hongkongers opt for short-haul trips amid war",
+      "title": "High-speed rail tickets selling fast as Hongkongers opt for short-haul trips amid Iran war",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347502/high-speed-rail-tickets-selling-fast-hongkongers-opt-short-haul-trips-amid-war?utm_source=rss_feed",
       "date": "2026-03-22 14:27",
       "summary": "Tickets from Hong Kong to many mainland Chinese destinations connected by cross-border high-speed rail services are nearly sold ou..."
@@ -342,7 +342,7 @@
       "title": "2 women climb out of window to flee Hong Kong building fire that injured 3 others",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3347493/2-women-climb-out-window-flee-hong-kong-building-fire-injured-3-others?utm_source=rss_feed",
       "date": "2026-03-22 12:29",
-      "summary": "Two women climbed out of a window of a residential block in Hong Kong in an attempt to escape a fire that sent at least three peop..."
+      "summary": "Two women climbed out of a window of a residential building in Hong Kong to escape a fire that sent three people to hospital on Su..."
     },
     {
       "title": "1,200 musicians set Guinness World Record at concert in Hong Kong",
