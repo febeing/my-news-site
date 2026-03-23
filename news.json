@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Investigating Antarctic ice shelf melting with global navigation satellite systems",
+      "link": "https://news.mit.edu/2026/investigating-antarctic-ice-shelf-melting-gnss-satellites-0323",
+      "date": "2026-03-23 20:55",
+      "summary": "Observations suggest a major melting event at the Ross Ice Shelf was connected to atmospheric turbulence...."
+    },
+    {
       "title": "Stamping high-res imagery onto everyday items to “reprogram” their appearance",
       "link": "https://news.mit.edu/2026/chromolcd-high-res-imagery-on-everyday-items-to-reprogram-appearance-0323",
       "date": "2026-03-23 20:15",
@@ -23,44 +29,38 @@
       "link": "https://news.mit.edu/2026/improving-cartilage-repair-through-cell-therapy-0319",
       "date": "2026-03-19 13:50",
       "summary": "SMART breakthrough offers a promising pathway toward improved manufacturing of high‑quality cells for regenerative therapies to tr..."
-    },
-    {
-      "title": "Generative AI improves a wireless vision system that sees through obstructions",
-      "link": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
-      "date": "2026-03-19 04:00",
-      "summary": "With this new technique, a robot could more accurately detect hidden objects or understand an indoor scene using reflected Wi-Fi s..."
     }
   ],
   "Harvard Gazette": [
     {
-      "title": "How academia can help America heal - Harvard University",
+      "title": "How academia can help America heal - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
-      "summary": "How academia can help America heal  Harvard University..."
+      "summary": "How academia can help America heal  Harvard Gazette..."
     },
     {
-      "title": "Harvard University Housing establishes new rents for 2026–2027 - Harvard University",
+      "title": "Harvard University Housing establishes new rents for 2026–2027 - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
       "date": "2026-01-23 08:00",
-      "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard University..."
+      "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
     },
     {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard University",
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
       "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard University..."
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     },
     {
-      "title": "Crossing line between good and bad anxiety - Harvard University",
+      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
       "date": "2025-09-30 07:00",
-      "summary": "Crossing line between good and bad anxiety  Harvard University..."
+      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
     },
     {
-      "title": "Clearing significant hurdle to quantum computing - Harvard University",
+      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
       "date": "2025-09-25 07:00",
-      "summary": "Clearing significant hurdle to quantum computing  Harvard University..."
+      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -77,12 +77,6 @@
       "summary": "The Courts Cannot Save Us From Trump  Stanford Law School..."
     },
     {
-      "title": "No. 19 Stanford Outlasts Softball's Bats, 15-12 - University of North Carolina Athletics",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WMmJXSW5yLXNIR05OVUFDa2ROUXVUNkxIQ2tybS1ScWZHS3hVQlgxVXJ6bEtwYkRULUFqNzNCdXZvVWlYLS16X2ZyV2F1cmd2TVlSNWhibU43d3kxTTE2a0k2dDNNWHZib08wUG1Ib192YnFQMlBIMmJRZ0t3Zw?oc=5",
-      "date": "2026-03-23 02:31",
-      "summary": "No. 19 Stanford Outlasts Softball's Bats, 15-12  University of North Carolina Athletics..."
-    },
-    {
       "title": "Senior Spotlight: Valley Oaks Valedictorian Warren Woolf Headed to Stanford - KCSOS News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM090WWlWbEp5UjAwajNES1lmaGJCVG5VbnN1czBKRklzSUxfX0FaenVpQ3F5Yml4MmZzTlNVTGdCLXFUdDNXTFJZTU9ub3N1VjV5bmJFcENrMktBN281RjVLX3hCcFp0WWxDRENybmxjbWM3bjRTMXEwVklmODVDRkhPMW5uc192UnBKUld3RHExY1RQZERoYl91S0NnREVsNXFvakJjNkNYcUUzcmYtYzhIUQ?oc=5",
       "date": "2026-03-23 14:53",
@@ -93,6 +87,12 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVJpS2hrVDBqNVFsUzhzT0dsWkhUQ1Z6SlZVMThXNV9HVlJVOFBna19LWjVVV1AyOXJKV3BEZF9ZcWI4dWxnVnk0YURmdmJpZkxQQ1V5ZHdXRkRoRndGM1FfMEZTZ29TV3NjUGVCZnc0aVN3MzRZeXpHSDBkRnltRkZpTnhraXJIcVQ0bnk5WW5vc1BPQ0ZaWnpyWFFaY293dEhqRQ?oc=5",
       "date": "2026-03-23 05:05",
       "summary": "Fire extinguished at Stanford’s Beckman Center  Palo Alto Online..."
+    },
+    {
+      "title": "A ‘shocking’ carbon discovery in Sweden’s forests - Stanford Doerr School of Sustainability",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbEEwRFlzYTdneTZvT2l6Zzd6czlBaVc0LXkydXJvQ1pZTXZzdFZTZWNBWVpSSzhNR3ZqdFg2WDhWb181WGVzS1BZMkhKVWFTVDFoNERqTE9DZGlDc2l1bkdBLURGaGVhY1Rrd3pqaHBGemUwMnY1THUtV2FOUHhPTkRqUWJzYXRpbnc?oc=5",
+      "date": "2026-03-19 18:23",
+      "summary": "A ‘shocking’ carbon discovery in Sweden’s forests  Stanford Doerr School of Sustainability..."
     }
   ],
   "Nature Careers": [
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Guest post: A call to end the ‘impact on conclusions’ test for retraction",
+      "link": "https://retractionwatch.com/2026/03/23/guest-post-a-call-to-end-the-impact-on-conclusions-test-for-retraction/",
+      "date": "2026-03-23 21:11",
+      "summary": "As a lawyer representing whistleblowers of problems in the scientific literature, I follow the arc of many fierce disputes over po..."
+    },
+    {
       "title": "Physicists flag over 50 papers on superheavy elements, leading to 3 retractions",
       "link": "https://retractionwatch.com/2026/03/23/physicists-flag-over-50-papers-on-superheavy-elements-leading-to-3-retractions/",
       "date": "2026-03-23 10:00",
@@ -183,27 +189,9 @@
       "link": "https://retractionwatch.com/2026/03/17/communications-in-algebra-taylor-francis-editors-mass-resignation/",
       "date": "2026-03-17 20:52",
       "summary": "Nearly two dozen editors of a mathematics journal have resigned after its publisher removed the top editor and implemented a multi..."
-    },
-    {
-      "title": "University of Melbourne opens formal investigation into education researcher John Hattie",
-      "link": "https://retractionwatch.com/2026/03/16/university-melbourne-opens-formal-investigation-education-researcher-john-hattie/",
-      "date": "2026-03-16 05:00",
-      "summary": "The University of Melbourne has opened a formal investigation into the prominent Australia-based education researcher John Hattie,..."
     }
   ],
   "Reuters AI": [
-    {
-      "title": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTU43NEplLVc4bHV5ZWdsT0NGRDdpSzJuRE1nYzdqczZVaVcteHh2NnM4WEhEblpUQ1hlWFI3dEY2M082SnktYVFuOFI0TEhmNlBCTkVoeGt1OUVDbi1tZ2RMOGFDT2UyQ0t2VWh3Q0NWRWZFT0liSEE3RTdCY19aSHBCTllaX0N1bFBOaFJBdW5UN3FDM0V0czF4dUk0QjZhM0llQkRB?oc=5",
-      "date": "2026-03-21 12:08",
-      "summary": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports  Reuters..."
-    },
-    {
-      "title": "Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW56SUFMaVJjWHF5dExwaENQLXFNT0tYYVhOdEhvdzl4WDFMbUhJZmNmWmZSTkp1U2xaOUotM24zTEVDdmF6NjNqRUJMX09HWV9EdkFNcDdNQlZtLXV0bXN1eFlaaGp4dG93RWVnWlVJckwtOXdYS0lySTRZVzdkS0ViRlVUbWM1ZGZ4d2VYM3lYSFdzUENfUFZBTDdtdzRBVi1hWEhURWhsZUFhY2J4NWlTTU41REdZbm0zVWhB?oc=5",
-      "date": "2026-03-23 10:01",
-      "summary": "Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say  Reuters..."
-    },
     {
       "title": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUTJucUZORzdzUDQtODZyeVVJRkVmZVQwUnRCbGZmT1YxMHFNRFFGUlhmTjBZMTNlUU9wTTFzMl85czh2WnFRcklfT0dlWHVmMkVNWUhtOE9HS0hwNk1QcWJuTnExdDVhMG9NOVB1RmhFZW5GUUtfVkZWR2pTdENqeVR6V1FiXy1NUFJHTUV2NkJKRUhRZFFiNHMycjBvQ3hhbE82bWtXdXdNVjFyVy0wc1Q1RjBlcjNkQ2c?oc=5",
@@ -217,10 +205,22 @@
       "summary": "US needs more energy development to power AI, Google president says  Reuters..."
     },
     {
+      "title": "BlackRock's Fink warns AI boom could widen wealth divide without broader participation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMi1rdzIwT1NGSEpJcDc2UEkyRE0wS1BkU0JVSkh0a05iZnFGbFNXYjY3LVU0UFA3NnpBM0d3UGp1dFJpU29QdGlKejY1Zk02WXJQVVFZWFptUE1mWC1wcHRWNmdhNGV1UDQwUk9vWXRwMGNDVnc1RzR5eUQxaG1EVGthaGxZdFBkbUlMa3NnWG5TS3I1dy0tLVY0WkpBbHp6ellYWEFFX3ptVzAzai04MGxSRnVsQzZB?oc=5",
+      "date": "2026-03-23 11:59",
+      "summary": "BlackRock's Fink warns AI boom could widen wealth divide without broader participation  Reuters..."
+    },
+    {
       "title": "HSBC appoints first chief AI officer as it seeks cost cuts - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTNBdU5vaE0tbU9jUlh0Qy15b3g2ek16MEtlYnRpVnZIUWM5b2ZJZVBwd0dVU1hOZFVGTmRLRzNVaWJXRjNVU0dxQllCUF9aeGtwbHBXXzFtTGkxa2FlVnZMV3oyajZPTEVpOUtaaWJFM3hYS3ZJNVhRUUZqUHRYOE9Zb3lmWmlMYTlnejlrdGdmZThxY1FpOHFhLVpuZ0N6eGc?oc=5",
       "date": "2026-03-23 13:13",
       "summary": "HSBC appoints first chief AI officer as it seeks cost cuts  Reuters..."
+    },
+    {
+      "title": "China's open-source dominance threatens US AI lead, US advisory body warns - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN3FfMmpVdzRPQUtQWGNWbmlTdTQ5djBZc3RvX3djNThZUmJTanBZY3RFdEw5YjM4YzZvYTBTVTVoNmY1ZWNsM3IxREpPNkJCWl90R1RfNVFSaUk4WTZiOTk4WHFCV3RyQUdaTFk5cmFPYkRhSWpCZ1M1X2FkZDhtT2VlaTdIdXpKcmdPZWRIbWpYMkVjcU1uRzYwRGpDSGdVZ3RkSmc1aGhzSFBac05hWklrV0gtd2szTWNCbkpIbjdibHl5U05Uby1ZY0NFOGdXbE9wQw?oc=5",
+      "date": "2026-03-23 12:02",
+      "summary": "China's open-source dominance threatens US AI lead, US advisory body warns  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,48 +257,48 @@
   ],
   "Phys.org": [
     {
-      "title": "Genome-hopping 'Starships' may explain why some pest-killing fungi stop working",
-      "link": "https://phys.org/news/2026-03-genome-starships-pest-fungi.html",
-      "date": "2026-03-23 20:30",
-      "summary": "A new study from Kiel University shows how the massive exchange of mobile genetic elements between fungi can impair their effectiv..."
+      "title": "Engineered E. coli can monitor arsenic, offering a cheap biosensor",
+      "link": "https://phys.org/news/2026-03-coli-arsenic-cheap-biosensor.html",
+      "date": "2026-03-23 21:30",
+      "summary": "Cornell scientists have engineered E. coli to act as a sensitive biosensor for monitoring environmental arsenic, a toxic pollutant..."
     },
     {
-      "title": "Stealth superstorms reveal lightning on Jupiter: Beyond the superbolt",
-      "link": "https://phys.org/news/2026-03-stealth-superstorms-reveal-lightning-jupiter.html",
-      "date": "2026-03-23 20:20",
-      "summary": "Jupiter's lightning has long been of interest to planetary scientists, as it marks stormy spots where researchers can look to lear..."
+      "title": "Record-smashing heat continues: 'Basically the entire U.S. is going to be hot'",
+      "link": "https://phys.org/news/2026-03-basically-entire-hot.html",
+      "date": "2026-03-23 21:30",
+      "summary": "After smashing March heat records in 14 states and the U.S. as a whole, the gigantic heat dome that's baked the Southwest is creep..."
     },
     {
-      "title": "Superconducting chip generates tunable terahertz waves for compact imaging",
-      "link": "https://phys.org/news/2026-03-superconducting-chip-generates-tunable-terahertz.html",
-      "date": "2026-03-23 20:10",
-      "summary": "A tiny crystal chip which uses terahertz radiation to see clearly through a wide range of materials could find applications in hea..."
+      "title": "CryoPRISM: A new tool for observing cellular machinery in a more natural environment",
+      "link": "https://phys.org/news/2026-03-cryoprism-tool-cellular-machinery-natural.html",
+      "date": "2026-03-23 21:20",
+      "summary": "The blobfish, once considered the ugliest animal in the world, has since had quite the redemption arc. Years after it was first di..."
     },
     {
-      "title": "LLMs stereotype non-Western moral values in predictable ways, research finds",
-      "link": "https://phys.org/news/2026-03-llms-stereotype-western-moral-values.html",
-      "date": "2026-03-23 20:10",
-      "summary": "Aliah Zewail, a graduate student in psychological and brain sciences in the College of Natural Sciences (CNS), has led research fo..."
+      "title": "Researchers reveal m6A epigenetic modification controls arbovirus infection and transmission",
+      "link": "https://phys.org/news/2026-03-reveal-m6a-epigenetic-modification-arbovirus.html",
+      "date": "2026-03-23 21:20",
+      "summary": "Arthropod-borne viruses (arboviruses), such as dengue and Zika viruses, transmit widely across the globe, posing threats to human ..."
     },
     {
-      "title": "Hubble revisits Crab Nebula to track 25 years of expansion",
-      "link": "https://phys.org/news/2026-03-hubble-revisits-crab-nebula-track.html",
-      "date": "2026-03-23 20:00",
-      "summary": "Nearly a millennium ago, astronomers witnessed a brilliant new star blazing in the sky—a supernova so bright it was visible in day..."
+      "title": "Roll-call votes may understate polarization in Congress, study finds",
+      "link": "https://phys.org/news/2026-03-votes-understate-polarization-congress.html",
+      "date": "2026-03-23 21:10",
+      "summary": "For decades, scholars have estimated the ideology of members of Congress by analyzing roll-call votes, recorded tallies of each me..."
     }
   ],
   "The Guardian Edu": [
-    {
-      "title": "Six students challenge Home Office visa ban on four countries",
-      "link": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
-      "date": "2026-03-23 18:00",
-      "summary": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from ..."
-    },
     {
       "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
       "link": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
       "date": "2026-03-23 18:00",
       "summary": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will..."
+    },
+    {
+      "title": "Six students challenge Home Office visa ban on four countries",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
+      "date": "2026-03-23 18:00",
+      "summary": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from ..."
     },
     {
       "title": "‘Audiences told us we didn’t show enough teacher sex’: how we made Waterloo Road",
@@ -353,6 +353,18 @@
   ],
   "New Scientist": [
     {
+      "title": "Genetic clues tell the story of Neanderthals' decline",
+      "link": "https://www.newscientist.com/article/2520319-genetic-clues-tell-the-story-of-neanderthals-decline/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-23 19:00",
+      "summary": "The Neanderthal population shrank during a cold spell around 75,000 years ago, and the loss of genetic diversity may have contribu..."
+    },
+    {
+      "title": "Warmer ocean is driving the Antarctic sea ice 'regime shift'",
+      "link": "https://www.newscientist.com/article/2520281-warmer-ocean-is-driving-the-antarctic-sea-ice-regime-shift/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-23 19:00",
+      "summary": "Since 2016, Antarctic sea ice extent has been declining sharply – now scientists are piecing together how strong winds and warm de..."
+    },
+    {
       "title": "Mysterious comet disintegration caught by telescope after lucky break",
       "link": "https://www.newscientist.com/article/2520265-mysterious-comet-disintegration-caught-by-telescope-after-lucky-break/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-23 13:04",
@@ -369,18 +381,6 @@
       "link": "https://www.newscientist.com/article/2520143-security-credentials-inadvertently-leaked-on-thousands-of-websites/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-23 08:00",
       "summary": "Researchers identified nearly 10,000 websites where API keys could be found, exposing details that could let attackers access sens..."
-    },
-    {
-      "title": "Inside the world’s first antimatter delivery service",
-      "link": "https://www.newscientist.com/article/2520160-inside-the-worlds-first-antimatter-delivery-service/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-21 06:00",
-      "summary": "On Tuesday, CERN will transport antiprotons on a truck for the first time, testing the plan to deliver antimatter by road to resea..."
-    },
-    {
-      "title": "You can now buy a DIY quantum computer",
-      "link": "https://www.newscientist.com/article/2520214-you-can-now-buy-a-diy-quantum-computer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-21 12:00",
-      "summary": "Qilimanjaro is selling a relatively cheap kit with everything you need for a quantum computer – you just need to be able to put it..."
     }
   ]
 }
