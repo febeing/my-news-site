@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "Fire extinguished at Stanford’s Beckman Center - Palo Alto Online",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVJpS2hrVDBqNVFsUzhzT0dsWkhUQ1Z6SlZVMThXNV9HVlJVOFBna19LWjVVV1AyOXJKV3BEZF9ZcWI4dWxnVnk0YURmdmJpZkxQQ1V5ZHdXRkRoRndGM1FfMEZTZ29TV3NjUGVCZnc0aVN3MzRZeXpHSDBkRnltRkZpTnhraXJIcVQ0bnk5WW5vc1BPQ0ZaWnpyWFFaY293dEhqRQ?oc=5",
+      "date": "2026-03-23 05:05",
+      "summary": "Fire extinguished at Stanford’s Beckman Center  Palo Alto Online..."
+    },
+    {
       "title": "A ‘shocking’ carbon discovery in Sweden’s forests - Stanford Doerr School of Sustainability",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbEEwRFlzYTdneTZvT2l6Zzd6czlBaVc0LXkydXJvQ1pZTXZzdFZTZWNBWVpSSzhNR3ZqdFg2WDhWb181WGVzS1BZMkhKVWFTVDFoNERqTE9DZGlDc2l1bkdBLURGaGVhY1Rrd3pqaHBGemUwMnY1THUtV2FOUHhPTkRqUWJzYXRpbnc?oc=5",
       "date": "2026-03-19 18:23",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYWR6SDYwbHU5NTU3aTczbzFhYkhrNlB1TkcwY3BSMXg1YWIzSVZWbGREUnZjZTA2dFNoV0h3cXFCa19lWFF0bW94RVdJc3NnOGZvLWhDQjhaREVienZBZDR3aE5RVkI2ektBbDM3aXJGdnVGRTduQl9sMGhRUlpoaURB?oc=5",
       "date": "2026-03-22 03:36",
       "summary": "Softball Drops Game Two To No. 19 Stanford, 6-2  University of North Carolina Athletics..."
-    },
-    {
-      "title": "Highlights: Stanford Women’s Basketball vs. Quinnipiac (3/22/26) - Stanford Cardinal",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUlvYXNrX1VkbmpCSFJjOVY4V2hpOTNRcWp3eFdMQVNuU05wSFY3ZkdWVnc4aVNaS1Rzb09PeDljZktIQzhVVlBpTUVsSVcxWk41M0ZwamJJWi13bEVjb3M0YWdpRU5QNEhMM2FBZi1TZmRyUFBxZ19STmt6aGJHLUg4ZDdYUUpGT2lTSjEtc2dRNGxySjJOZUl0eVE?oc=5",
-      "date": "2026-03-22 23:55",
-      "summary": "Highlights: Stanford Women’s Basketball vs. Quinnipiac (3/22/26)  Stanford Cardinal..."
     },
     {
       "title": "Orange Clash With #33 Stanford, #16 California - Syracuse University Athletics",
@@ -193,12 +193,6 @@
   ],
   "Reuters AI": [
     {
-      "title": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTU43NEplLVc4bHV5ZWdsT0NGRDdpSzJuRE1nYzdqczZVaVcteHh2NnM4WEhEblpUQ1hlWFI3dEY2M082SnktYVFuOFI0TEhmNlBCTkVoeGt1OUVDbi1tZ2RMOGFDT2UyQ0t2VWh3Q0NWRWZFT0liSEE3RTdCY19aSHBCTllaX0N1bFBOaFJBdW5UN3FDM0V0czF4dUk0QjZhM0llQkRB?oc=5",
-      "date": "2026-03-21 12:08",
-      "summary": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports  Reuters..."
-    },
-    {
       "title": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUTJucUZORzdzUDQtODZyeVVJRkVmZVQwUnRCbGZmT1YxMHFNRFFGUlhmTjBZMTNlUU9wTTFzMl85czh2WnFRcklfT0dlWHVmMkVNWUhtOE9HS0hwNk1QcWJuTnExdDVhMG9NOVB1RmhFZW5GUUtfVkZWR2pTdENqeVR6V1FiXy1NUFJHTUV2NkJKRUhRZFFiNHMycjBvQ3hhbE82bWtXdXdNVjFyVy0wc1Q1RjBlcjNkQ2c?oc=5",
       "date": "2026-03-22 07:36",
@@ -211,16 +205,22 @@
       "summary": "Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says  Reuters..."
     },
     {
+      "title": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTU43NEplLVc4bHV5ZWdsT0NGRDdpSzJuRE1nYzdqczZVaVcteHh2NnM4WEhEblpUQ1hlWFI3dEY2M082SnktYVFuOFI0TEhmNlBCTkVoeGt1OUVDbi1tZ2RMOGFDT2UyQ0t2VWh3Q0NWRWZFT0liSEE3RTdCY19aSHBCTllaX0N1bFBOaFJBdW5UN3FDM0V0czF4dUk0QjZhM0llQkRB?oc=5",
+      "date": "2026-03-21 12:08",
+      "summary": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports  Reuters..."
+    },
+    {
       "title": "Russia to give itself sweeping powers to ban or restrict foreign AI tools - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNnlQRklZVzNYSTAzLW5BWkJZbllNTGpsaTZvZ2U1SFY4eHpQbDVSWlJ0T0NwS3huV3lzU2NuTkdIYXItM1BhVElRbWZyWnlhZmtYdzRocm5ZM2xHaHF2dFJ3NFRma1FNQ3ZKWm1ONmtLWEhzQlJ6R3JqRUtPY2dQNUYwZjJTRmpsaDZQYWhkYmw0ZERTUkVxaWpRZzlvSkQ1X2Q1U0xxdDdORjNCT2Y5aTlR?oc=5",
       "date": "2026-03-20 13:04",
       "summary": "Russia to give itself sweeping powers to ban or restrict foreign AI tools  Reuters..."
     },
     {
-      "title": "Super Micro's Liaw exits board following AI chip smuggling charges - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0Q5MUFPQVlaZC1FTVZfMFRxTld3dDBFZEZpZGQ3ZkdmU2F4emZxU1pOTEtXQlZ2dkJGV1BGSGpvNGRRanh1ajFGRDJVaktYaWM2UWtuanEwMmoxT1Q3T01hX0RWdHNlTG1sUmIzbzM5dHlsX0RadnNTc19uTFUtcXRaUWZVakU0ZVVDVWprZEhLUTZOd3lKT0h6TjlyWTcwcFhSN2VSZW5VanJDb05xSDA2N3otYU13aVNXLUMzMjlfTk5ybTY4VlNyQQ?oc=5",
-      "date": "2026-03-20 20:51",
-      "summary": "Super Micro's Liaw exits board following AI chip smuggling charges  Reuters..."
+      "title": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEFLYkdreFlDTjNjdVdvUjdwRnA3eWtxa3hXZTdIMW1WQUJ3VXVNaDY1emJFTEd2cXVaLWlJWG50cklxYW1YdDRpSVRfWkJJVXlNS01EWmoxaWZVaURhNmN6akRIYWtaWVg0TDZnMVNqNUtWUXpmbDI0cFItUERPbmtTVzcwdGtUTi1yTHJfdFE1Ui1CUGlOb1ZNazV6SDh4OGhGNw?oc=5",
+      "date": "2026-03-20 07:34",
+      "summary": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -321,6 +321,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong’s Art March celebrations press on amid Middle East conflict disruptions",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347557/hong-kongs-art-march-celebrations-press-amid-middle-east-conflict-disruptions?utm_source=rss_feed",
+      "date": "2026-03-23 07:01",
+      "summary": "Most overseas galleries were able to attend Hong Kong’s two annual art fairs, part of the much-anticipated Art March celebration, ..."
+    },
+    {
+      "title": "Withholding device passwords punishable under tightened national security rules",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3347556/withholding-device-passwords-punishable-under-tightened-national-security-rules?utm_source=rss_feed",
+      "date": "2026-03-23 06:57",
+      "summary": "Hong Kong authorities could punish those who refuse to provide passwords for electronic devices during national security investiga..."
+    },
+    {
+      "title": "Man injured after being caught between fighting cows on Hong Kong hiking trail",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3347550/man-injured-after-being-caught-between-fighting-cows-hong-kong-hiking-trail?utm_source=rss_feed",
+      "date": "2026-03-23 06:02",
+      "summary": "A man has been injured by two fighting cows while hiking near a Hong Kong reservoir.\nThe 67-year-old reported the incident to poli..."
+    },
+    {
       "title": "Hong Kong to raise postage rates from April 13 amid surging oil prices",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347541/hong-kong-raise-postage-rates-april-13-amid-surging-oil-prices?utm_source=rss_feed",
       "date": "2026-03-23 04:58",
@@ -331,24 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3347531/changes-hong-kongs-hk2-transport-subsidy-scheme-kick-april-3?utm_source=rss_feed",
       "date": "2026-03-23 04:09",
       "summary": "Hong Kong will implement the revised HK$2 (26 US cents) transport fare scheme next Friday, under which elderly and disabled reside..."
-    },
-    {
-      "title": "How Hong Kong can prepare to bring its transport blueprint to life",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3347262/how-hong-kong-can-prepare-bring-its-transport-blueprint-life?utm_source=rss_feed",
-      "date": "2026-03-23 03:30",
-      "summary": "Feel strongly about these letters, or any other aspects of the news? Share your views by emailing us your Letter to the Editor at ..."
-    },
-    {
-      "title": "Luxury brands bet on growth as well-heeled tourists flock to Hong Kong events",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347486/luxury-brands-bet-growth-well-heeled-tourists-flock-hong-kong-events?utm_source=rss_feed",
-      "date": "2026-03-23 02:30",
-      "summary": "More than 60 new brands, mostly luxury labels, will move into K11 Musea as part of a revamp to boost the shopping centre’s offerin..."
-    },
-    {
-      "title": "To realise Hong Kong’s cultural potential, a global vision is essential",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3347251/realise-hong-kongs-cultural-potential-global-vision-essential?utm_source=rss_feed",
-      "date": "2026-03-23 01:30",
-      "summary": "The power of arts and culture should not be underestimated. They educate, inform, inspire and bring joy. They open doors to discov..."
     }
   ],
   "New Scientist": [
