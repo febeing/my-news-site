@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "The intelligence illusion: why AI isn’t as smart as it is made out to be",
+      "link": "https://www.nature.com/articles/d41586-026-00882-5",
+      "date": "2026-03-23 00:00",
+      "summary": "Nature, Published online: 23 March 2026; doi:10.1038/d41586-026-00882-5Artificial-intelligence models will supposedly take over th..."
+    },
+    {
       "title": "The world just lived through the 11 hottest years on record — what now?",
       "link": "https://www.nature.com/articles/d41586-026-00946-6",
       "date": "2026-03-23 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-00850-z",
       "date": "2026-03-20 00:00",
       "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00850-zCompounds that are used to make plastics and personal-care ..."
-    },
-    {
-      "title": "Mighty mini-magnet is low in cost and light on energy use",
-      "link": "https://www.nature.com/articles/d41586-026-00851-y",
-      "date": "2026-03-20 00:00",
-      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00851-yA compact device can produce a magnetic field that is more ..."
     }
   ],
   "Science News": [
@@ -237,16 +237,16 @@
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
     },
     {
-      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM1lfaGg0eXpyNlFvQ1V4ZDFQUlFVQXJnX1NfdVlybnRIdF9ZaWFNVGtXMW9RY1lYNHNrZ2UzcmdRTGhUMFotenpPcUkzQUQxQlNCdGVsWTF2NVRxOG12a0FQbEZJa1oxR0lUX0RLVHZkLUpRc0ZSbHN3aGRFWFF0bVZpSDZSYURxYktISmpkVjlXemZ2TUFVNGZocldubjVTdm9ZNWY2dll0UFlFZ2h2WV91MDlLZlViMy01QXZieWZDRzNqQzB3OUljN3AzUUVNRFViVmN0SDRDSlZI0gHiAUFVX3lxTE9GTzg3RXk5eXdhX29ocm1ZLVg1d3dfb0UyM2h5eHlfb1FHNEdaSW9fZGluSmpydGRGeEt1U09tT2xEakZ3RDZXZGRnQnV5ZlgyRlFTX3BPRGtWZmVNdi0zekItS1VUQlYybjBwalEtcHM0WERsdXR3dWNpU25Fa1lCU2RPbGdwNHlYZVdRUTRidnFlVnFURmN3UkV5R04wenFDU1lhWVhWdzRCS1U2V2pLOTdsNWJ0QVZCN2xpcEROaUhFTk4tVjVlWTFoNE45bFJlNmU2UWdwaGN4UVFfc29PSnc?oc=5",
-      "date": "2026-03-17 22:30",
-      "summary": "The Pentagon is planning for AI companies to train on classified data, defense official says  MIT Technology Review..."
-    },
-    {
       "title": "Can quantum computers now solve health care problems? We’ll soon find out. - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcW1UX1pxc3VPalJ2aDhGck5VdGpLcWN5alJyQVJOOFJULUd5M0hxcW96WVE2UTBwV05NMU53YkVpQi1WeGFyZy1IR1B6SEgyWWg3ellxbmVFX3VDMThKTVpLNU5ic0xISlhVa3Y4bmNkcUJnMFJSY21CVlZFbXdYeEcyaFlTWlhJX1VfdlFWSnYza1NxcS1zVHJ6NEVRMXBMSUQyeXFYQkVhRTYtQkZCZWx2dlR1dzRrUnlyT1l6RzZ0aklLOGdPaFlPX19pUDZnYkdz0gHYAUFVX3lxTFBMcmxGTHJ2Z1VmVjN4TmNBbEFMNHZkNFRnNGZjZC1tQzI4bVhZU3NBVVY1UTJReVVPSDJ6eFZUU00xVFFQNDR4cE9SbXB0bWFDQWVfbmlfU2M0RUMzaklaT2Nrc2ZnQThUQzhPNFBESjRlSlc0OWR5S0dZWldxV1c4UEEwck9CTWtsWFFPbHlGVWExVTY3TjhnLWI1bjU5NExCZDRXa245MzJXNHZjSnBxa3dmVS15M2U3LTBCeVo1SG1zQTYtU0RWTUl0ekx5aE1pNVpEMUJLNg?oc=5",
       "date": "2026-03-19 10:51",
       "summary": "Can quantum computers now solve health care problems? We’ll soon find out.  MIT Technology Review..."
+    },
+    {
+      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM1lfaGg0eXpyNlFvQ1V4ZDFQUlFVQXJnX1NfdVlybnRIdF9ZaWFNVGtXMW9RY1lYNHNrZ2UzcmdRTGhUMFotenpPcUkzQUQxQlNCdGVsWTF2NVRxOG12a0FQbEZJa1oxR0lUX0RLVHZkLUpRc0ZSbHN3aGRFWFF0bVZpSDZSYURxYktISmpkVjlXemZ2TUFVNGZocldubjVTdm9ZNWY2dll0UFlFZ2h2WV91MDlLZlViMy01QXZieWZDRzNqQzB3OUljN3AzUUVNRFViVmN0SDRDSlZI0gHiAUFVX3lxTE9GTzg3RXk5eXdhX29ocm1ZLVg1d3dfb0UyM2h5eHlfb1FHNEdaSW9fZGluSmpydGRGeEt1U09tT2xEakZ3RDZXZGRnQnV5ZlgyRlFTX3BPRGtWZmVNdi0zekItS1VUQlYybjBwalEtcHM0WERsdXR3dWNpU25Fa1lCU2RPbGdwNHlYZVdRUTRidnFlVnFURmN3UkV5R04wenFDU1lhWVhWdzRCS1U2V2pLOTdsNWJ0QVZCN2xpcEROaUhFTk4tVjVlWTFoNE45bFJlNmU2UWdwaGN4UVFfc29PSnc?oc=5",
+      "date": "2026-03-17 22:30",
+      "summary": "The Pentagon is planning for AI companies to train on classified data, defense official says  MIT Technology Review..."
     },
     {
       "title": "Why physical AI is becoming manufacturing’s next advantage - MIT Technology Review",
@@ -256,6 +256,24 @@
     }
   ],
   "Phys.org": [
+    {
+      "title": "Field-portable assays help scientists study and explore caves",
+      "link": "https://phys.org/news/2026-03-field-portable-assays-scientists-explore.html",
+      "date": "2026-03-23 13:00",
+      "summary": "A new study has demonstrated that we now have the tools to study the incredibly complex ecosystems of caves in near real-time with..."
+    },
+    {
+      "title": "Police misconduct is often traceable to warning signs before hire: Study recommends national hiring standards",
+      "link": "https://phys.org/news/2026-03-police-misconduct-traceable-hire-national.html",
+      "date": "2026-03-23 13:00",
+      "summary": "Past behavior matters, especially in law enforcement where certain pre-hire misbehavior by law enforcement candidates sharply incr..."
+    },
+    {
+      "title": "How soil microbes may control the future of our planet",
+      "link": "https://phys.org/news/2026-03-soil-microbes-future-planet.html",
+      "date": "2026-03-23 12:00",
+      "summary": "The soil beneath our feet is a huge carbon bank storing up to approximately three times more carbon than the entire atmosphere. Th..."
+    },
     {
       "title": "Research team examine ethical and methodological use of generative artificial intelligence in higher education",
       "link": "https://phys.org/news/2026-03-team-ethical-methodological-generative-artificial.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-03-space-archaeology-reveals-dynamic-history.html",
       "date": "2026-03-23 10:00",
       "summary": "A team of astronomers led by the Center for Astrophysics | Harvard and Smithsonian have for the first time used galactic archaeolo..."
-    },
-    {
-      "title": "Russia resumes use of space launch site damaged in accident",
-      "link": "https://phys.org/news/2026-03-russia-resumes-space-site-accident.html",
-      "date": "2026-03-23 09:30",
-      "summary": "Russia has launched a rocket from Site 31 of the Baikonur Cosmodrome for the first time since it was damaged during a liftoff last..."
-    },
-    {
-      "title": "Planet trapped record heat in 2025: UN",
-      "link": "https://phys.org/news/2026-03-planet.html",
-      "date": "2026-03-23 09:20",
-      "summary": "The amount of heat trapped by Earth reached record levels in 2025, with the consequences of such warming feared to last for thousa..."
-    },
-    {
-      "title": "An end to the battle between touchscreens and long fingernails is on the horizon",
-      "link": "https://phys.org/news/2026-03-touchscreens-fingernails-horizon.html",
-      "date": "2026-03-23 09:00",
-      "summary": "Anybody who has tried to use a smartphone or tablet with long nails knows that there's a learning curve. Rather than effortlessly ..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong projected to face 4 to 7 typhoons in 2026",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3347619/hong-kong-projected-face-4-7-typhoons-2026?utm_source=rss_feed",
+      "date": "2026-03-23 12:16",
+      "summary": "Hong Kong will experience between four and seven typhoons from June to October this year, according to the city’s forecaster – a f..."
+    },
+    {
+      "title": "Hong Kong’s Henderson Land trims dividend as Iran, mainland China cloud outlook",
+      "link": "https://www.scmp.com/business/companies/article/3347616/hong-kongs-henderson-land-trims-dividend-iran-clouds-outlook-china-slump-lingers?utm_source=rss_feed",
+      "date": "2026-03-23 11:51",
+      "summary": "Major Hong Kong developers Henderson Land Development and Kerry Properties both reported mixed 2025 results, with stronger home sa..."
+    },
+    {
       "title": "Newborn baby found in rubbish bin at Hong Kong shopping centre dies in hospital",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347607/newborn-baby-found-rubbish-bin-hong-kong-shopping-centre-dies-hospital?utm_source=rss_feed",
       "date": "2026-03-23 11:29",
@@ -330,25 +342,13 @@
       "title": "No funding cuts to Hong Kong arts groups for next 3 years, agency chief pledges",
       "link": "https://www.scmp.com/news/hong-kong/article/3347605/no-funding-cuts-hong-kong-arts-groups-next-3-years-agency-chief-pledges?utm_source=rss_feed",
       "date": "2026-03-23 11:06",
-      "summary": "Hong Kong’s arts funding body has said it will not cut financial support to arts groups and artists for the next three years, even..."
+      "summary": "Hong Kong’s arts funding body has vowed not to cut financial support for arts groups and artists for the next three years, even as..."
     },
     {
       "title": "Hong Kong to sign landmark Art Basel collaboration deal",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3347598/hong-kong-sign-landmark-art-basel-collaboration-deal?utm_source=rss_feed",
       "date": "2026-03-23 10:30",
-      "summary": "Hong Kong is to sign a five-year deal with Art Basel by the end of the month – the first such collaboration between the city’s cul..."
-    },
-    {
-      "title": "Truck driver injured as vehicle slams into fire engine on Hong Kong highway",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3347596/truck-driver-injured-vehicle-slams-fire-engine-hong-kong-highway?utm_source=rss_feed",
-      "date": "2026-03-23 10:29",
-      "summary": "A 64-year-old container truck driver was injured when his vehicle crashed into a fire engine and overturned on a busy Hong Kong ex..."
-    },
-    {
-      "title": "HKUST launches programme offering Alzheimer’s blood-based test for elderly",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3347591/hkust-launches-programme-offering-alzheimers-blood-based-test-elderly?utm_source=rss_feed",
-      "date": "2026-03-23 10:04",
-      "summary": "A university in Hong Kong has launched an Alzheimer’s disease screening programme using a locally developed blood-based testing te..."
+      "summary": "Hong Kong will sign a five-year deal with Art Basel by the end of the month in the first such collaboration between the city’s cul..."
     }
   ],
   "New Scientist": [
