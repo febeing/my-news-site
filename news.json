@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Physicists flag over 50 papers on superheavy elements, leading to 3 retractions",
+      "link": "https://retractionwatch.com/2026/03/23/physicists-flag-over-50-papers-on-superheavy-elements-leading-to-3-retractions/",
+      "date": "2026-03-23 10:00",
+      "summary": "A physicist in India has accumulated three retractions and 13 expressions of concern for papers on superheavy elements after three..."
+    },
+    {
       "title": "Weekend reads: How to buy a scientific paper; creating responsible authorship culture; sanction authors for hallucinated references?",
       "link": "https://retractionwatch.com/2026/03/21/weekend-reads-how-to-buy-scientific-paper-creating-responsible-authorship-culture-sanction-authors-hallucinated-references/",
       "date": "2026-03-21 10:00",
@@ -183,15 +189,15 @@
       "link": "https://retractionwatch.com/2026/03/16/university-melbourne-opens-formal-investigation-education-researcher-john-hattie/",
       "date": "2026-03-16 05:00",
       "summary": "The University of Melbourne has opened a formal investigation into the prominent Australia-based education researcher John Hattie,..."
-    },
-    {
-      "title": "Weekend reads: ‘Don’t hate the replicator, hate the game’; Crossref finds 150K incorrect citation links in database; Announcing our Ctrl-Z award",
-      "link": "https://retractionwatch.com/2026/03/14/weekend-reads-replication-games-crossref-incorrect-citation-links-database-announcing-our-ctrl-z-award/",
-      "date": "2026-03-14 10:00",
-      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: Pl..."
     }
   ],
   "Reuters AI": [
+    {
+      "title": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTU43NEplLVc4bHV5ZWdsT0NGRDdpSzJuRE1nYzdqczZVaVcteHh2NnM4WEhEblpUQ1hlWFI3dEY2M082SnktYVFuOFI0TEhmNlBCTkVoeGt1OUVDbi1tZ2RMOGFDT2UyQ0t2VWh3Q0NWRWZFT0liSEE3RTdCY19aSHBCTllaX0N1bFBOaFJBdW5UN3FDM0V0czF4dUk0QjZhM0llQkRB?oc=5",
+      "date": "2026-03-21 12:08",
+      "summary": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports  Reuters..."
+    },
     {
       "title": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUTJucUZORzdzUDQtODZyeVVJRkVmZVQwUnRCbGZmT1YxMHFNRFFGUlhmTjBZMTNlUU9wTTFzMl85czh2WnFRcklfT0dlWHVmMkVNWUhtOE9HS0hwNk1QcWJuTnExdDVhMG9NOVB1RmhFZW5GUUtfVkZWR2pTdENqeVR6V1FiXy1NUFJHTUV2NkJKRUhRZFFiNHMycjBvQ3hhbE82bWtXdXdNVjFyVy0wc1Q1RjBlcjNkQ2c?oc=5",
@@ -211,16 +217,10 @@
       "summary": "Trump releases AI policy for Congress to pre-empt state rules  Reuters..."
     },
     {
-      "title": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTU43NEplLVc4bHV5ZWdsT0NGRDdpSzJuRE1nYzdqczZVaVcteHh2NnM4WEhEblpUQ1hlWFI3dEY2M082SnktYVFuOFI0TEhmNlBCTkVoeGt1OUVDbi1tZ2RMOGFDT2UyQ0t2VWh3Q0NWRWZFT0liSEE3RTdCY19aSHBCTllaX0N1bFBOaFJBdW5UN3FDM0V0czF4dUk0QjZhM0llQkRB?oc=5",
-      "date": "2026-03-21 12:08",
-      "summary": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports  Reuters..."
-    },
-    {
-      "title": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEFLYkdreFlDTjNjdVdvUjdwRnA3eWtxa3hXZTdIMW1WQUJ3VXVNaDY1emJFTEd2cXVaLWlJWG50cklxYW1YdDRpSVRfWkJJVXlNS01EWmoxaWZVaURhNmN6akRIYWtaWVg0TDZnMVNqNUtWUXpmbDI0cFItUERPbmtTVzcwdGtUTi1yTHJfdFE1Ui1CUGlOb1ZNazV6SDh4OGhGNw?oc=5",
-      "date": "2026-03-20 07:34",
-      "summary": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China  Reuters..."
+      "title": "Super Micro's Liaw exits board following AI chip smuggling charges - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0Q5MUFPQVlaZC1FTVZfMFRxTld3dDBFZEZpZGQ3ZkdmU2F4emZxU1pOTEtXQlZ2dkJGV1BGSGpvNGRRanh1ajFGRDJVaktYaWM2UWtuanEwMmoxT1Q3T01hX0RWdHNlTG1sUmIzbzM5dHlsX0RadnNTc19uTFUtcXRaUWZVakU0ZVVDVWprZEhLUTZOd3lKT0h6TjlyWTcwcFhSN2VSZW5VanJDb05xSDA2N3otYU13aVNXLUMzMjlfTk5ybTY4VlNyQQ?oc=5",
+      "date": "2026-03-20 20:51",
+      "summary": "Super Micro's Liaw exits board following AI chip smuggling charges  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -249,42 +249,42 @@
       "summary": "Can quantum computers now solve health care problems? We’ll soon find out.  MIT Technology Review..."
     },
     {
-      "title": "Where OpenAI’s technology could show up in Iran - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUUNta1NMUjlZOHJVejhqNXZLeDVpRTA4R2ZZUW1PTmxrWjZKc1dZajJEZjdNVlduT1dCNFhxLUVudlNLLTN2ZVFIR00tX3FEQjVCR3BaNUs2YmlvQi1DSUNHeElHbUVXUmVJZnV5bVFBNnFIU1dIX1hwamlTdVd0bUM2VUtVTVdLYWRpcFdyb19EVDRSZlVXeXJuT054MVA30gGmAUFVX3lxTFBDNW1IU01MSy1YNXNvNjIxdzMzaWg3RE1iZGJCamFYOE1DelBCZWJvZmFQNHY1SXp4cVhUaWZnUnR3cGpVTm9fWTJpdUw0NHl3ejhNWWdpX2FlZXNWS3ZRQVJxUWE2TWR6alRrU3NnX004UjFBUkp6c1VHdUo2MHczOHlZbkVuZ0ltZzEzUFVoMHpCbWhmdEIyNFNtaFFUZGZ0TG5lN3c?oc=5",
-      "date": "2026-03-16 17:06",
-      "summary": "Where OpenAI’s technology could show up in Iran  MIT Technology Review..."
+      "title": "The Bay Area’s animal welfare movement wants to recruit AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNajZ1Y3YwSFR0dElfLVlqOEdnVTN6X1pRbFFaVkFKNUxzSktEU0tkSzFINE1RQ0k1LU5iUWFyTXZkSlB0MWRJTUlJX2Y5c2pLVUVnQWk2N3oyZVFPREhLeXliaF9KU18xUlRYUWtuRlktU3dYV2YwSk5aNjh4bVZucDJuVWlzcm9MUUtEYndMLWRYajQyMWxTWVFwbTZEc2Y0ajBrQ09fUWZZVUF3MGpR0gG0AUFVX3lxTFBXSndVZjdxMV9xbmRMYzRuZlNzWmZEZTgxMnlMc3FQTnA2R3g2b2pEMWZkdTVzc2xHXzNUWHdaYnFaVlNYVWNOcVR6UUlwVmlkbHpFVXBjeWhWYk5HQ0xaUGRCb1F6aXFIbG5waE8tUy1tU05XaER5a01ibEZNM05jeUdyWDc5ZnpoNmJUb3V1VjRBZWxseFNBZ011dXNvNkRFTElkSFl6cnEyYlRHRDBKeEI1bw?oc=5",
+      "date": "2026-03-23 09:00",
+      "summary": "The Bay Area’s animal welfare movement wants to recruit AI  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "'Space archaeology' reveals first dynamic history of a giant spiral galaxy",
+      "link": "https://phys.org/news/2026-03-space-archaeology-reveals-dynamic-history.html",
+      "date": "2026-03-23 10:00",
+      "summary": "A team of astronomers led by the Center for Astrophysics | Harvard and Smithsonian have for the first time used galactic archaeolo..."
+    },
+    {
+      "title": "Russia resumes use of space launch site damaged in accident",
+      "link": "https://phys.org/news/2026-03-russia-resumes-space-site-accident.html",
+      "date": "2026-03-23 09:30",
+      "summary": "Russia has launched a rocket from Site 31 of the Baikonur Cosmodrome for the first time since it was damaged during a liftoff last..."
+    },
+    {
+      "title": "Planet trapped record heat in 2025: UN",
+      "link": "https://phys.org/news/2026-03-planet.html",
+      "date": "2026-03-23 09:20",
+      "summary": "The amount of heat trapped by Earth reached record levels in 2025, with the consequences of such warming feared to last for thousa..."
+    },
+    {
+      "title": "An end to the battle between touchscreens and long fingernails is on the horizon",
+      "link": "https://phys.org/news/2026-03-touchscreens-fingernails-horizon.html",
+      "date": "2026-03-23 09:00",
+      "summary": "Anybody who has tried to use a smartphone or tablet with long nails knows that there's a learning curve. Rather than effortlessly ..."
+    },
     {
       "title": "Neutrality can speed up and stabilize collective decisions, new study shows",
       "link": "https://phys.org/news/2026-03-neutrality-stabilize-decisions.html",
       "date": "2026-03-23 04:00",
       "summary": "Trying to persuade people to abandon deeply held views often backfires, leaving groups entrenched and unable to move forward. A ne..."
-    },
-    {
-      "title": "Measuring irreversibility in gene transcription",
-      "link": "https://phys.org/news/2026-03-irreversibility-gene-transcription.html",
-      "date": "2026-03-22 23:30",
-      "summary": "Living cells are fundamentally nonequilibrium systems, meaning they constantly spend energy through seemingly one-way, irreversibl..."
-    },
-    {
-      "title": "Two-thirds of workers are burned out—here's what science says about how to tackle it",
-      "link": "https://phys.org/news/2026-03-thirds-workers-science-tackle.html",
-      "date": "2026-03-22 22:30",
-      "summary": "Burnout is at an all-time high, with some studies saying two-thirds of employees now cite job burnout as a major challenge. Overwo..."
-    },
-    {
-      "title": "How conversation works—and why people with hearing loss rely more on their powers of prediction",
-      "link": "https://phys.org/news/2026-03-conversation-people-loss-powers.html",
-      "date": "2026-03-22 21:30",
-      "summary": "\"Ultimately, the bond of all companionship, whether in marriage or friendship, is conversation,\" wrote Oscar Wilde...."
-    },
-    {
-      "title": "Sea turtle shells reveal hidden records of ocean change",
-      "link": "https://phys.org/news/2026-03-sea-turtle-shells-reveal-hidden.html",
-      "date": "2026-03-22 21:00",
-      "summary": "Techniques developed to study the distant past—from dating ancient artifacts to reconstructing climate records in ice cores—are no..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Global investors pivot to ‘stability’ of China amid turmoil: Milken forum speakers",
+      "link": "https://www.scmp.com/business/markets/article/3347593/global-investors-pivot-stability-china-amid-turmoil-milken-forum-speakers?utm_source=rss_feed",
+      "date": "2026-03-23 10:01",
+      "summary": "Global investors should take a fresh look at China, where rapid technological advancement is converging with declining geopolitica..."
+    },
+    {
+      "title": "From toys to toilet paper, prices set to rise amid Middle East war, experts say",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347588/toys-toilet-paper-prices-set-rise-amid-middle-east-war-experts-say?utm_source=rss_feed",
+      "date": "2026-03-23 09:32",
+      "summary": "The surge in oil prices caused by the Middle East conflict will drive up the cost of plastic products, construction materials and ..."
+    },
+    {
       "title": "Hong Kong activist on trial for subversion calls one-party rule ‘regression’",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347577/anti-china-activist-trial-subversion-calls-one-party-rule-regression?utm_source=rss_feed",
       "date": "2026-03-23 08:49",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347564/hong-kong-police-file-fresh-terrorism-charge-against-pair-over-alleged-bomb-plot?utm_source=rss_feed",
       "date": "2026-03-23 07:42",
       "summary": "Hong Kong police have charged two men with a fresh terrorism offence under the national security law over an alleged bomb plot dat..."
-    },
-    {
-      "title": "Ex-assistant principal given 36-month bind-over for stealing groceries from Sogo",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347562/ex-assistant-principal-given-36-month-bind-over-stealing-groceries-sogo?utm_source=rss_feed",
-      "date": "2026-03-23 07:34",
-      "summary": "A former assistant principal in a Hong Kong secondary school has avoided a criminal conviction for stealing over HK$3,000 (US$380)..."
-    },
-    {
-      "title": "Hong Kong’s Art March celebrations press on amid Middle East conflict disruptions",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347557/hong-kongs-art-march-celebrations-press-amid-middle-east-conflict-disruptions?utm_source=rss_feed",
-      "date": "2026-03-23 07:01",
-      "summary": "Most overseas galleries were able to attend Hong Kong’s two annual art fairs, part of the much-anticipated Art March celebration, ..."
     }
   ],
   "New Scientist": [
