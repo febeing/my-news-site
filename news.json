@@ -100,7 +100,13 @@
       "title": "The world just lived through the 11 hottest years on record — what now?",
       "link": "https://www.nature.com/articles/d41586-026-00946-6",
       "date": "2026-03-23 00:00",
-      "summary": "Nature, Published online: 23 March 2026; doi:10.1038/d41586-026-00946-6Ocean heat and carbon dioxide concentrations have also hit ..."
+      "summary": "Nature, Published online: 23 March 2026; doi:10.1038/d41586-026-00946-6Earth is increasingly ‘out of balance’, as more heat is tra..."
+    },
+    {
+      "title": "Forty-five years of progress after a key paper about the evolution of cooperation",
+      "link": "https://www.nature.com/articles/d41586-026-00802-7",
+      "date": "2026-03-23 00:00",
+      "summary": "Nature, Published online: 23 March 2026; doi:10.1038/d41586-026-00802-7A 1981 publication showed how cooperators can prevail over ..."
     },
     {
       "title": "Author Correction: A PP1–PP2A phosphatase relay controls mitotic progression",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-00851-y",
       "date": "2026-03-20 00:00",
       "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00851-yA compact device can produce a magnetic field that is more ..."
-    },
-    {
-      "title": "Briefing Chat: Are scientists funny? The evidence is in — and it's no joke",
-      "link": "https://www.nature.com/articles/d41586-026-00937-7",
-      "date": "2026-03-20 00:00",
-      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00937-7Nature staff discuss some of the week’s top science news...."
     }
   ],
   "Science News": [
@@ -211,16 +211,16 @@
       "summary": "Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says  Reuters..."
     },
     {
+      "title": "Super Micro shares plunge as US charges co-founder, 2 more for smuggling AI chips to China - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQVg0ZUQwR2ROSnN4SElJeG5LTTBqVUFvTzh5X0VtekNhNGlZRGc4N3Y5S1h0ekp5WmpCRTJjZjRVRUN4RERUekc2MGt6S1NRTTRKczVhNmlueDJuWHE0VFpnSGR3S1NUenBkeVV2dm4ySEJoQVljejlCTm94aVg4Y05kZUNJMUVwMWFZVUtCMG1UYzNOa3EzUXpRdjJQb0VRVGo4ajd6ZjR2Y3hnUDhObmU2cVphUkYwTFFtNjg1Qi1oRXFPYU5temVMVEs?oc=5",
+      "date": "2026-03-20 11:49",
+      "summary": "Super Micro shares plunge as US charges co-founder, 2 more for smuggling AI chips to China  Reuters..."
+    },
+    {
       "title": "Trump releases AI policy for Congress to pre-empt state rules - Reuters",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWZpamJCdk1QQVpCa2xwRmxsUDBVZk91Q1pybV9kSHE1WTR2WTRlNEdxRHN4UlVULWEzR3NyQjZGaks1V2N1RXhSTzNZcG83SGtHa0pCR0dyWktGWUJMdVlpeVRYOE9WYTYwNjNPcTR1UFJDTUozaWxIazVQY2llcXFXcDdueVdMTEd4TGhrdXU?oc=5",
       "date": "2026-03-20 12:28",
       "summary": "Trump releases AI policy for Congress to pre-empt state rules  Reuters..."
-    },
-    {
-      "title": "Super Micro's Liaw exits board following AI chip smuggling charges - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0Q5MUFPQVlaZC1FTVZfMFRxTld3dDBFZEZpZGQ3ZkdmU2F4emZxU1pOTEtXQlZ2dkJGV1BGSGpvNGRRanh1ajFGRDJVaktYaWM2UWtuanEwMmoxT1Q3T01hX0RWdHNlTG1sUmIzbzM5dHlsX0RadnNTc19uTFUtcXRaUWZVakU0ZVVDVWprZEhLUTZOd3lKT0h6TjlyWTcwcFhSN2VSZW5VanJDb05xSDA2N3otYU13aVNXLUMzMjlfTk5ybTY4VlNyQQ?oc=5",
-      "date": "2026-03-20 20:51",
-      "summary": "Super Micro's Liaw exits board following AI chip smuggling charges  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -249,13 +249,19 @@
       "summary": "Can quantum computers now solve health care problems? We’ll soon find out.  MIT Technology Review..."
     },
     {
-      "title": "The Bay Area’s animal welfare movement wants to recruit AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNajZ1Y3YwSFR0dElfLVlqOEdnVTN6X1pRbFFaVkFKNUxzSktEU0tkSzFINE1RQ0k1LU5iUWFyTXZkSlB0MWRJTUlJX2Y5c2pLVUVnQWk2N3oyZVFPREhLeXliaF9KU18xUlRYUWtuRlktU3dYV2YwSk5aNjh4bVZucDJuVWlzcm9MUUtEYndMLWRYajQyMWxTWVFwbTZEc2Y0ajBrQ09fUWZZVUF3MGpR0gG0AUFVX3lxTFBXSndVZjdxMV9xbmRMYzRuZlNzWmZEZTgxMnlMc3FQTnA2R3g2b2pEMWZkdTVzc2xHXzNUWHdaYnFaVlNYVWNOcVR6UUlwVmlkbHpFVXBjeWhWYk5HQ0xaUGRCb1F6aXFIbG5waE8tUy1tU05XaER5a01ibEZNM05jeUdyWDc5ZnpoNmJUb3V1VjRBZWxseFNBZ011dXNvNkRFTElkSFl6cnEyYlRHRDBKeEI1bw?oc=5",
-      "date": "2026-03-23 09:00",
-      "summary": "The Bay Area’s animal welfare movement wants to recruit AI  MIT Technology Review..."
+      "title": "Why physical AI is becoming manufacturing’s next advantage - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORjM3R3RtMXFldmNibmxNUjh4Nk13Mmo2bm5MMFpTNTFUVzREclMtZmlsV2NHeUQzd280TnNGcUhnU1FmdlFxb1BtaXJkNXp1dURVUUdweXpDeTU3SzBBME0yX1UtcC1MMVhpOXl6cE13QXZTcVBOdmVJUzRtYlZiWElSS0xvOHp3Y2VqNWRVZ0ZVUHRBX0w2VGRDUXcyYW5ta1c5OUZQSko3U2tGc1Zv0gG0AUFVX3lxTE9nV2pDcGlHbHdSZHB0V3JGMDFNZnhvWHdfWWhDdlBuSUVta1ZGTjRnMkRod3k5RVhCRUlLSVVyOHd0UDVwZmxlZXlZOVNBZDFyRk9saGxCQUtQX3Y3MHllc1plVDRNenlNMFRUX2prTS05UGVZaDg5ell3dTZZdnZqemhDMk12a3B3dkU1M0VNWXo2aTVWQWVOYkgzc1VySXdDQ3pvLWMwa2xGMEpsQWxzVjhGaA?oc=5",
+      "date": "2026-03-13 07:00",
+      "summary": "Why physical AI is becoming manufacturing’s next advantage  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Research team examine ethical and methodological use of generative artificial intelligence in higher education",
+      "link": "https://phys.org/news/2026-03-team-ethical-methodological-generative-artificial.html",
+      "date": "2026-03-23 11:00",
+      "summary": "University of Phoenix College of Doctoral Studies scholars Patricia Akojie, Ph.D., Marlene Blake, Ph.D., and Louise Underdahl, Ph...."
+    },
     {
       "title": "'Space archaeology' reveals first dynamic history of a giant spiral galaxy",
       "link": "https://phys.org/news/2026-03-space-archaeology-reveals-dynamic-history.html",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-03-touchscreens-fingernails-horizon.html",
       "date": "2026-03-23 09:00",
       "summary": "Anybody who has tried to use a smartphone or tablet with long nails knows that there's a learning curve. Rather than effortlessly ..."
-    },
-    {
-      "title": "Neutrality can speed up and stabilize collective decisions, new study shows",
-      "link": "https://phys.org/news/2026-03-neutrality-stabilize-decisions.html",
-      "date": "2026-03-23 04:00",
-      "summary": "Trying to persuade people to abandon deeply held views often backfires, leaving groups entrenched and unable to move forward. A ne..."
     }
   ],
   "The Guardian Edu": [
@@ -321,48 +321,48 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Global investors pivot to ‘stability’ of China amid turmoil: Milken forum speakers",
-      "link": "https://www.scmp.com/business/markets/article/3347593/global-investors-pivot-stability-china-amid-turmoil-milken-forum-speakers?utm_source=rss_feed",
-      "date": "2026-03-23 10:01",
-      "summary": "Global investors should take a fresh look at China, where rapid technological advancement is converging with declining geopolitica..."
+      "title": "Newborn baby found in rubbish bin at Hong Kong shopping centre dies in hospital",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347607/newborn-baby-found-rubbish-bin-hong-kong-shopping-centre-dies-hospital?utm_source=rss_feed",
+      "date": "2026-03-23 11:29",
+      "summary": "A newborn baby boy was found abandoned in a rubbish bin inside a toilet at a Hong Kong shopping centre but later died in hospital...."
     },
     {
-      "title": "From toys to toilet paper, prices set to rise amid Middle East war, experts say",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347588/toys-toilet-paper-prices-set-rise-amid-middle-east-war-experts-say?utm_source=rss_feed",
-      "date": "2026-03-23 09:32",
-      "summary": "The surge in oil prices caused by the Middle East conflict will drive up the cost of plastic products, construction materials and ..."
+      "title": "No funding cuts to Hong Kong arts groups for next 3 years, agency chief pledges",
+      "link": "https://www.scmp.com/news/hong-kong/article/3347605/no-funding-cuts-hong-kong-arts-groups-next-3-years-agency-chief-pledges?utm_source=rss_feed",
+      "date": "2026-03-23 11:06",
+      "summary": "Hong Kong’s arts funding body has said it will not cut financial support to arts groups and artists for the next three years, even..."
     },
     {
-      "title": "Hong Kong activist on trial for subversion calls one-party rule ‘regression’",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347577/anti-china-activist-trial-subversion-calls-one-party-rule-regression?utm_source=rss_feed",
-      "date": "2026-03-23 08:49",
-      "summary": "A Hong Kong barrister turned activist on trial for allegedly inciting subversion has accused Beijing of undermining the nation’s c..."
+      "title": "Hong Kong to sign landmark Art Basel collaboration deal",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3347598/hong-kong-sign-landmark-art-basel-collaboration-deal?utm_source=rss_feed",
+      "date": "2026-03-23 10:30",
+      "summary": "Hong Kong is to sign a five-year deal with Art Basel by the end of the month – the first such collaboration between the city’s cul..."
     },
     {
-      "title": "Regal’s US$194 million hotel sale highlights investor push into Hong Kong student housing",
-      "link": "https://www.scmp.com/business/article/3347571/regals-us194-million-hotel-sale-highlights-investor-push-hong-kong-student-housing?utm_source=rss_feed",
-      "date": "2026-03-23 08:13",
-      "summary": "Regal Hotels International Holdings and its units have sold the 494-room Regal Kowloon Hotel for about HK$1.52 billion (US$194 mil..."
+      "title": "Truck driver injured as vehicle slams into fire engine on Hong Kong highway",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3347596/truck-driver-injured-vehicle-slams-fire-engine-hong-kong-highway?utm_source=rss_feed",
+      "date": "2026-03-23 10:29",
+      "summary": "A 64-year-old container truck driver was injured when his vehicle crashed into a fire engine and overturned on a busy Hong Kong ex..."
     },
     {
-      "title": "Hong Kong police file fresh terrorism charge against pair over alleged bomb plot",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347564/hong-kong-police-file-fresh-terrorism-charge-against-pair-over-alleged-bomb-plot?utm_source=rss_feed",
-      "date": "2026-03-23 07:42",
-      "summary": "Hong Kong police have charged two men with a fresh terrorism offence under the national security law over an alleged bomb plot dat..."
+      "title": "HKUST launches programme offering Alzheimer’s blood-based test for elderly",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3347591/hkust-launches-programme-offering-alzheimers-blood-based-test-elderly?utm_source=rss_feed",
+      "date": "2026-03-23 10:04",
+      "summary": "A university in Hong Kong has launched an Alzheimer’s disease screening programme using a locally developed blood-based testing te..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "'Zombie' cells created by transplanting genomes into dead bacteria",
+      "link": "https://www.newscientist.com/article/2520182-zombie-cells-created-by-transplanting-genomes-into-dead-bacteria/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-23 10:47",
+      "summary": "Researchers have created the first living synthetic bacterium made from non-living parts by killing a bacterial cell and then tran..."
+    },
     {
       "title": "Security credentials inadvertently leaked on thousands of websites",
       "link": "https://www.newscientist.com/article/2520143-security-credentials-inadvertently-leaked-on-thousands-of-websites/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-23 08:00",
       "summary": "Researchers identified nearly 10,000 websites where API keys could be found, exposing details that could let attackers access sens..."
-    },
-    {
-      "title": "You can now buy a DIY quantum computer",
-      "link": "https://www.newscientist.com/article/2520214-you-can-now-buy-a-diy-quantum-computer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-21 12:00",
-      "summary": "Qilimanjaro is selling a relatively cheap kit with everything you need for a quantum computer – you just need to be able to put it..."
     },
     {
       "title": "Inside the world’s first antimatter delivery service",
@@ -371,16 +371,16 @@
       "summary": "On Tuesday, CERN will transport antiprotons on a truck for the first time, testing the plan to deliver antimatter by road to resea..."
     },
     {
+      "title": "You can now buy a DIY quantum computer",
+      "link": "https://www.newscientist.com/article/2520214-you-can-now-buy-a-diy-quantum-computer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-21 12:00",
+      "summary": "Qilimanjaro is selling a relatively cheap kit with everything you need for a quantum computer – you just need to be able to put it..."
+    },
+    {
       "title": "We’ve spotted a huge asteroid spinning impossibly fast",
       "link": "https://www.newscientist.com/article/2520088-weve-spotted-a-huge-asteroid-spinning-impossibly-fast/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-20 17:00",
       "summary": "Astronomers have found a 710-metre-wide asteroid that spins once every 1.9 minutes, so fast that it should have spun itself apart..."
-    },
-    {
-      "title": "Major leap towards reanimation after death as mammal's brain preserved",
-      "link": "https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-20 16:19",
-      "summary": "A pig's brain has been frozen with its cellular activity locked in place and minimal damage. Some believe the same could be done w..."
     }
   ]
 }
