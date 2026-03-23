@@ -129,6 +129,24 @@
   ],
   "Science News": [
     {
+      "title": "Neanderthals survived on a knife’s edge for 350,000 years",
+      "link": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+      "date": "2026-03-23 03:00",
+      "summary": "A pair of studies illuminates these humans’ long, hardscrabble existence..."
+    },
+    {
+      "title": "AI algorithms can become ‘agents of chaos’",
+      "link": "https://www.science.org/content/article/ai-algorithms-can-become-agents-chaos",
+      "date": "2026-03-23 02:05",
+      "summary": "Given autonomous control of other software, programs shared private medical details and deleted files without permission..."
+    },
+    {
+      "title": "Iran’s internet shutdown muddies global efforts to track damage to historical sites",
+      "link": "https://www.science.org/content/article/iran-s-internet-shutdown-muddies-global-efforts-track-damage-historical-sites",
+      "date": "2026-03-23 01:45",
+      "summary": "At least 56 cultural sites have been damaged since strikes began in February—but internet blackouts and academic isolation are obs..."
+    },
+    {
       "title": "Hormone linked to morning sickness may help reduce alcohol intake",
       "link": "https://www.science.org/content/article/hormone-linked-morning-sickness-may-help-reduce-alcohol-intake",
       "date": "2026-03-20 02:15",
@@ -139,24 +157,6 @@
       "link": "https://www.science.org/content/article/microscopic-spikes-snakeskin-block-bacterial-buildup",
       "date": "2026-03-20 12:15",
       "summary": "Structures on python scales could inspire chemical-free antimicrobial designs..."
-    },
-    {
-      "title": "First science from private Moon lander challenges lunar divide",
-      "link": "https://www.science.org/content/article/first-science-private-moon-lander-challenges-lunar-divide",
-      "date": "2026-03-20 11:45",
-      "summary": "Blue Ghost data suggest NASA’s growing commercial Moon program can deliver results..."
-    },
-    {
-      "title": "Energy Department merges nuclear and particle physics programs, unsettling researchers",
-      "link": "https://www.science.org/content/article/energy-department-merges-nuclear-and-particle-physics-programs-unsettling-researchers",
-      "date": "2026-03-20 11:25",
-      "summary": "In spite of synergies, physicists worry both fields are being sidelined in favor of AI..."
-    },
-    {
-      "title": "How realistic is the science in <em>Project Hail Mary</em>?",
-      "link": "https://www.science.org/content/article/how-realistic-science-project-hail-mary",
-      "date": "2026-03-19 02:30",
-      "summary": "From the viability of waterless life to how researchers should handle cosmic emergencies, astronomer Wendy Freedman weighs in on t..."
     }
   ],
   "Retraction Watch": [
@@ -231,16 +231,16 @@
       "summary": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy  MIT Technology Review..."
     },
     {
-      "title": "The Bay Area’s animal welfare movement wants to recruit AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNajZ1Y3YwSFR0dElfLVlqOEdnVTN6X1pRbFFaVkFKNUxzSktEU0tkSzFINE1RQ0k1LU5iUWFyTXZkSlB0MWRJTUlJX2Y5c2pLVUVnQWk2N3oyZVFPREhLeXliaF9KU18xUlRYUWtuRlktU3dYV2YwSk5aNjh4bVZucDJuVWlzcm9MUUtEYndMLWRYajQyMWxTWVFwbTZEc2Y0ajBrQ09fUWZZVUF3MGpR0gG0AUFVX3lxTFBXSndVZjdxMV9xbmRMYzRuZlNzWmZEZTgxMnlMc3FQTnA2R3g2b2pEMWZkdTVzc2xHXzNUWHdaYnFaVlNYVWNOcVR6UUlwVmlkbHpFVXBjeWhWYk5HQ0xaUGRCb1F6aXFIbG5waE8tUy1tU05XaER5a01ibEZNM05jeUdyWDc5ZnpoNmJUb3V1VjRBZWxseFNBZ011dXNvNkRFTElkSFl6cnEyYlRHRDBKeEI1bw?oc=5",
-      "date": "2026-03-23 09:00",
-      "summary": "The Bay Area’s animal welfare movement wants to recruit AI  MIT Technology Review..."
-    },
-    {
       "title": "OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaktiMXBZbHU1WWV0YUw1c3A1RlloQTJXVGd0eEdQTzA4ZUF2YmZzODFtLWhMU0dKXzkxUXFPOXgwalF1bTlmM3Z6d3JhRzdpeDlZZVRRdWFBeHhTd0dfSUhCUWgwcHVDZkctSVlLZEVjLXdzLW02THh2Mi1DM25SbmFTSlNJOFhTOE9XSERHcFRFbUJfSGFSUDhDSFdrZm43S3FIUnRxVjAtaVpQUVZ6dHVaaWpzMDhFS1haakZ6T1BrU3PSAcgBQVVfeXFMUHl0ZFNoeFlESVdmZHJzTmkzWHQxYmxKbV9KazY3NHpZdGtvMFk5c0VVUExCMU82MmpTX1p3RHJjTDR2VlRBZ01tS0R3TWFBYXV3RDdXLXh4N3FWX1hXWnQ4OEpmcW13NWhybktWdXRFRUxfUldNSGlROEVKTHpwUlhMZHFMTEhJT0dTT1NITEFtV2c5QmR5a3VMaDFMY2Z0LXlCclFWS21DWGxmNjBxaWNsYWZVeGxyRm9Zd1NFUm1hVmxPVTdCVVg?oc=5",
       "date": "2026-03-20 11:57",
       "summary": "OpenAI is throwing everything into building a fully automated researcher  MIT Technology Review..."
+    },
+    {
+      "title": "The Bay Area’s animal welfare movement wants to recruit AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNajZ1Y3YwSFR0dElfLVlqOEdnVTN6X1pRbFFaVkFKNUxzSktEU0tkSzFINE1RQ0k1LU5iUWFyTXZkSlB0MWRJTUlJX2Y5c2pLVUVnQWk2N3oyZVFPREhLeXliaF9KU18xUlRYUWtuRlktU3dYV2YwSk5aNjh4bVZucDJuVWlzcm9MUUtEYndMLWRYajQyMWxTWVFwbTZEc2Y0ajBrQ09fUWZZVUF3MGpR0gG0AUFVX3lxTFBXSndVZjdxMV9xbmRMYzRuZlNzWmZEZTgxMnlMc3FQTnA2R3g2b2pEMWZkdTVzc2xHXzNUWHdaYnFaVlNYVWNOcVR6UUlwVmlkbHpFVXBjeWhWYk5HQ0xaUGRCb1F6aXFIbG5waE8tUy1tU05XaER5a01ibEZNM05jeUdyWDc5ZnpoNmJUb3V1VjRBZWxseFNBZ011dXNvNkRFTElkSFl6cnEyYlRHRDBKeEI1bw?oc=5",
+      "date": "2026-03-23 09:00",
+      "summary": "The Bay Area’s animal welfare movement wants to recruit AI  MIT Technology Review..."
     },
     {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Nanoplastics become more harmful after being outdoors, study finds",
-      "link": "https://phys.org/news/2026-03-nanoplastics-outdoors.html",
-      "date": "2026-03-23 18:50",
-      "summary": "When cutlery, insulation, packaging and other items made of polystyrene plastic break down, they can form nanoplastics up to 100 t..."
+      "title": "Frustrated Lewis pair chemistry enables dual atom insertion to build bioactive molecules",
+      "link": "https://phys.org/news/2026-03-frustrated-lewis-pair-chemistry-enables.html",
+      "date": "2026-03-23 19:40",
+      "summary": "Researchers from the National University of Singapore (NUS) have developed a boron-catalyzed method to transform oxetanes, which a..."
     },
     {
-      "title": "Green clay courts serve up environmental solutions by absorbing carbon dioxide",
-      "link": "https://phys.org/news/2026-03-green-clay-courts-environmental-solutions.html",
-      "date": "2026-03-23 18:40",
-      "summary": "Green clay tennis courts are able to absorb massive amounts of carbon dioxide via enhanced rock weathering, according to a new stu..."
+      "title": "Diamonds are not a geoengineer's best friend: Carbon impurities provide a reality check",
+      "link": "https://phys.org/news/2026-03-diamonds-geoengineer-friend-carbon-impurities.html",
+      "date": "2026-03-23 19:30",
+      "summary": "The field of solar geoengineering revolves around the idea of cooling the globe via the injection of aerosols to reflect sunlight ..."
     },
     {
-      "title": "The 'silent takeover': Invasive bees are reshaping Chile's unique pollination networks",
-      "link": "https://phys.org/news/2026-03-silent-takeover-invasive-bees-reshaping.html",
-      "date": "2026-03-23 18:20",
-      "summary": "Biological invasions are a major driver of biodiversity loss and invasive pollinators can reshape native plant-pollinator networks..."
+      "title": "Climate change may complicate avalanche risk across the Pacific Northwest",
+      "link": "https://phys.org/news/2026-03-climate-complicate-avalanche-pacific-northwest.html",
+      "date": "2026-03-23 19:20",
+      "summary": "This winter was one of the warmest on record across the West. As a result, many snowy, alpine areas have seen bouts of winter rain..."
     },
     {
-      "title": "Study explores 'antifragility' in nature, where some species benefit from extreme swings",
-      "link": "https://phys.org/news/2026-03-explores-antifragility-nature-species-benefit.html",
-      "date": "2026-03-23 18:20",
-      "summary": "From deadly heat waves to unprecedented flooding, devastating wildfires to record-breaking droughts, extreme weather is becoming t..."
+      "title": "Wildflower folk remedy shows modern potential for tackling antibiotic resistance",
+      "link": "https://phys.org/news/2026-03-wildflower-folk-remedy-modern-potential.html",
+      "date": "2026-03-23 19:20",
+      "summary": "Scientists have proven that a wildflower steeped in folklore for its medicinal powers has genuine healing qualities—and the potent..."
     },
     {
-      "title": "Discovery of genetic switch could help turn rice into a perennial crop",
-      "link": "https://phys.org/news/2026-03-discovery-genetic-rice-perennial-crop.html",
-      "date": "2026-03-23 18:20",
-      "summary": "Rice is a vital crop that feeds more than half of the world's population. In the wild, many rice species are perennials that live ..."
+      "title": "Unlocking longevity insights from ancient bristlecone pine",
+      "link": "https://phys.org/news/2026-03-longevity-insights-ancient-bristlecone.html",
+      "date": "2026-03-23 19:10",
+      "summary": "What can the world's longest living individual teach us about longevity? A team of scientists coordinated by the University of Cal..."
     }
   ],
   "The Guardian Edu": [
