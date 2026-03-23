@@ -31,100 +31,36 @@
       "summary": "This new metric for measuring uncertainty could flag hallucinations and help users know whether to trust an AI model...."
     }
   ],
-  "Harvard Gazette": [
-    {
-      "title": "How academia can help America heal - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
-      "date": "2026-02-13 08:00",
-      "summary": "How academia can help America heal  Harvard Gazette..."
-    },
-    {
-      "title": "Harvard University Housing establishes new rents for 2026–2027 - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
-      "date": "2026-01-23 08:00",
-      "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
-    },
-    {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
-      "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
-    },
-    {
-      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
-      "date": "2025-09-30 07:00",
-      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
-    },
-    {
-      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
-      "date": "2025-09-25 07:00",
-      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
-    }
-  ],
-  "Stanford News": [
-    {
-      "title": "Immersive: The Renovation of the Black House at Stanford University - peninsulapress.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTFFNTRfU3B2M21wMldkX2FqMlpGdS1BRlk4bGNDNHRnVUd0bVBoR2Y2OG1KZGVSUURyWWU0N3JOdmNWZFhWejExb0FDemJFVHB1MzRBUmNSekM2Q21MRVdGdUZPemFBVVk1b01MR19EXzlDTEpHZnVBRDJ0UXFMNFZNRHdNLUJtT25XZnlUcEI5RDZIUUF2aFFrUHZCR0phNHZ3VXFJNXQ?oc=5",
-      "date": "2026-03-23 14:45",
-      "summary": "Immersive: The Renovation of the Black House at Stanford University  peninsulapress.com..."
-    },
-    {
-      "title": "The Courts Cannot Save Us From Trump - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NbUR6LVFhTUl3NmZGZEVfYVEtWnF2c2hnaFNBZmpVY2s5ZFB0anc3ZjQtN0F4eTY3U3RVNVUtTkVGVkh4OS1VV3R5N3hnUUdycTlmcFc0am5nc1NiWnFoZE55SzNMc2ZLTVdkRFZfLVJ1ODRQU0xXbUc0V0U0UQ?oc=5",
-      "date": "2026-03-23 15:46",
-      "summary": "The Courts Cannot Save Us From Trump  Stanford Law School..."
-    },
-    {
-      "title": "No. 19 Stanford Outlasts Softball's Bats, 15-12 - University of North Carolina Athletics",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WMmJXSW5yLXNIR05OVUFDa2ROUXVUNkxIQ2tybS1ScWZHS3hVQlgxVXJ6bEtwYkRULUFqNzNCdXZvVWlYLS16X2ZyV2F1cmd2TVlSNWhibU43d3kxTTE2a0k2dDNNWHZib08wUG1Ib192YnFQMlBIMmJRZ0t3Zw?oc=5",
-      "date": "2026-03-23 02:31",
-      "summary": "No. 19 Stanford Outlasts Softball's Bats, 15-12  University of North Carolina Athletics..."
-    },
-    {
-      "title": "Fire extinguished at Stanford’s Beckman Center - Palo Alto Online",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVJpS2hrVDBqNVFsUzhzT0dsWkhUQ1Z6SlZVMThXNV9HVlJVOFBna19LWjVVV1AyOXJKV3BEZF9ZcWI4dWxnVnk0YURmdmJpZkxQQ1V5ZHdXRkRoRndGM1FfMEZTZ29TV3NjUGVCZnc0aVN3MzRZeXpHSDBkRnltRkZpTnhraXJIcVQ0bnk5WW5vc1BPQ0ZaWnpyWFFaY293dEhqRQ?oc=5",
-      "date": "2026-03-23 05:05",
-      "summary": "Fire extinguished at Stanford’s Beckman Center  Palo Alto Online..."
-    },
-    {
-      "title": "Senior Spotlight: Valley Oaks Valedictorian Warren Woolf Headed to Stanford - KCSOS News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM090WWlWbEp5UjAwajNES1lmaGJCVG5VbnN1czBKRklzSUxfX0FaenVpQ3F5Yml4MmZzTlNVTGdCLXFUdDNXTFJZTU9ub3N1VjV5bmJFcENrMktBN281RjVLX3hCcFp0WWxDRENybmxjbWM3bjRTMXEwVklmODVDRkhPMW5uc192UnBKUld3RHExY1RQZERoYl91S0NnREVsNXFvakJjNkNYcUUzcmYtYzhIUQ?oc=5",
-      "date": "2026-03-23 14:00",
-      "summary": "Senior Spotlight: Valley Oaks Valedictorian Warren Woolf Headed to Stanford  KCSOS News..."
-    }
-  ],
   "Nature Careers": [
     {
-      "title": "Author Correction: A PP1–PP2A phosphatase relay controls mitotic progression",
-      "link": "https://www.nature.com/articles/s41586-026-10411-z",
-      "date": "2026-03-20 00:00",
-      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/s41586-026-10411-zAuthor Correction: A PP1–PP2A phosphatase relay controls mi..."
+      "title": "How the idea of human superiority over nature was invented",
+      "link": "https://www.nature.com/articles/d41586-026-00881-6",
+      "date": "2026-03-23 00:00",
+      "summary": "Nature, Published online: 23 March 2026; doi:10.1038/d41586-026-00881-6Scientific discoveries are increasingly eroding the human–a..."
     },
     {
-      "title": "Chemical pollutants are rife across the world’s oceans",
-      "link": "https://www.nature.com/articles/d41586-026-00850-z",
-      "date": "2026-03-20 00:00",
-      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00850-zCompounds that are used to make plastics and personal-care ..."
+      "title": "How to measure a good life – tips for moving beyond GDP",
+      "link": "https://www.nature.com/articles/d41586-026-00884-3",
+      "date": "2026-03-23 00:00",
+      "summary": "Nature, Published online: 23 March 2026; doi:10.1038/d41586-026-00884-3Including human and environmental capital paints a differen..."
     },
     {
-      "title": "Mighty mini-magnet is low in cost and light on energy use",
-      "link": "https://www.nature.com/articles/d41586-026-00851-y",
-      "date": "2026-03-20 00:00",
-      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00851-yA compact device can produce a magnetic field that is more ..."
+      "title": "The intelligence illusion: why AI isn’t as smart as it is made out to be",
+      "link": "https://www.nature.com/articles/d41586-026-00882-5",
+      "date": "2026-03-23 00:00",
+      "summary": "Nature, Published online: 23 March 2026; doi:10.1038/d41586-026-00882-5Artificial-intelligence models will supposedly take over th..."
     },
     {
-      "title": "Briefing Chat: Are scientists funny? The evidence is in — and it's no joke",
-      "link": "https://www.nature.com/articles/d41586-026-00937-7",
-      "date": "2026-03-20 00:00",
-      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00937-7Nature staff discuss some of the week’s top science news...."
+      "title": "The world just lived through the 11 hottest years on record — what now?",
+      "link": "https://www.nature.com/articles/d41586-026-00946-6",
+      "date": "2026-03-23 00:00",
+      "summary": "Nature, Published online: 23 March 2026; doi:10.1038/d41586-026-00946-6Earth is increasingly ‘out of balance’, as more heat is tra..."
     },
     {
-      "title": "Elusive ‘nuclear clocks’ tick closer to reality — after decades in the making",
-      "link": "https://www.nature.com/articles/d41586-026-00848-7",
-      "date": "2026-03-20 00:00",
-      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00848-7Super-precise timekeepers based on atomic nuclei could be t..."
+      "title": "Forty-five years of progress after a key paper about the evolution of cooperation",
+      "link": "https://www.nature.com/articles/d41586-026-00802-7",
+      "date": "2026-03-23 00:00",
+      "summary": "Nature, Published online: 23 March 2026; doi:10.1038/d41586-026-00802-7A 1981 publication showed how cooperators can prevail over ..."
     }
   ],
   "Science News": [
@@ -191,100 +127,36 @@
       "summary": "The University of Melbourne has opened a formal investigation into the prominent Australia-based education researcher John Hattie,..."
     }
   ],
-  "Reuters AI": [
-    {
-      "title": "Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFVuVHRfVXhQRTRETHIyLUc5aW9UOGNWSmRmdWJEZ2xScVBLbWtLTWZhQTNVMEx3ZnlTcDBkMi1fZ3pIQ0RCOUxpWDU3R2JLd1VuVjFvbkRSNDhqSGM2RGhqa0RkUklyZmJhRWFKSXl2T1h1RFpMRVJ4cGtiSW9UTHQ0MlJMNjh2YVVGLWFRcktHR2VBOXRBd3BKeFA2b0JWd3A2dWc3UUtPc0VCcGRV?oc=5",
-      "date": "2026-03-21 00:44",
-      "summary": "Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says  Reuters..."
-    },
-    {
-      "title": "China's open-source dominance threatens US AI lead, US advisory body warns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN3FfMmpVdzRPQUtQWGNWbmlTdTQ5djBZc3RvX3djNThZUmJTanBZY3RFdEw5YjM4YzZvYTBTVTVoNmY1ZWNsM3IxREpPNkJCWl90R1RfNVFSaUk4WTZiOTk4WHFCV3RyQUdaTFk5cmFPYkRhSWpCZ1M1X2FkZDhtT2VlaTdIdXpKcmdPZWRIbWpYMkVjcU1uRzYwRGpDSGdVZ3RkSmc1aGhzSFBac05hWklrV0gtd2szTWNCbkpIbjdibHl5U05Uby1ZY0NFOGdXbE9wQw?oc=5",
-      "date": "2026-03-23 12:02",
-      "summary": "China's open-source dominance threatens US AI lead, US advisory body warns  Reuters..."
-    },
-    {
-      "title": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUTJucUZORzdzUDQtODZyeVVJRkVmZVQwUnRCbGZmT1YxMHFNRFFGUlhmTjBZMTNlUU9wTTFzMl85czh2WnFRcklfT0dlWHVmMkVNWUhtOE9HS0hwNk1QcWJuTnExdDVhMG9NOVB1RmhFZW5GUUtfVkZWR2pTdENqeVR6V1FiXy1NUFJHTUV2NkJKRUhRZFFiNHMycjBvQ3hhbE82bWtXdXdNVjFyVy0wc1Q1RjBlcjNkQ2c?oc=5",
-      "date": "2026-03-22 07:36",
-      "summary": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle  Reuters..."
-    },
-    {
-      "title": "Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW56SUFMaVJjWHF5dExwaENQLXFNT0tYYVhOdEhvdzl4WDFMbUhJZmNmWmZSTkp1U2xaOUotM24zTEVDdmF6NjNqRUJMX09HWV9EdkFNcDdNQlZtLXV0bXN1eFlaaGp4dG93RWVnWlVJckwtOXdYS0lySTRZVzdkS0ViRlVUbWM1ZGZ4d2VYM3lYSFdzUENfUFZBTDdtdzRBVi1hWEhURWhsZUFhY2J4NWlTTU41REdZbm0zVWhB?oc=5",
-      "date": "2026-03-23 10:01",
-      "summary": "Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say  Reuters..."
-    },
-    {
-      "title": "Super Micro shares plunge as US charges co-founder, 2 more for smuggling AI chips to China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQVg0ZUQwR2ROSnN4SElJeG5LTTBqVUFvTzh5X0VtekNhNGlZRGc4N3Y5S1h0ekp5WmpCRTJjZjRVRUN4RERUekc2MGt6S1NRTTRKczVhNmlueDJuWHE0VFpnSGR3S1NUenBkeVV2dm4ySEJoQVljejlCTm94aVg4Y05kZUNJMUVwMWFZVUtCMG1UYzNOa3EzUXpRdjJQb0VRVGo4ajd6ZjR2Y3hnUDhObmU2cVphUkYwTFFtNjg1Qi1oRXFPYU5temVMVEs?oc=5",
-      "date": "2026-03-20 11:49",
-      "summary": "Super Micro shares plunge as US charges co-founder, 2 more for smuggling AI chips to China  Reuters..."
-    }
-  ],
-  "MIT Tech Review": [
-    {
-      "title": "OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaktiMXBZbHU1WWV0YUw1c3A1RlloQTJXVGd0eEdQTzA4ZUF2YmZzODFtLWhMU0dKXzkxUXFPOXgwalF1bTlmM3Z6d3JhRzdpeDlZZVRRdWFBeHhTd0dfSUhCUWgwcHVDZkctSVlLZEVjLXdzLW02THh2Mi1DM25SbmFTSlNJOFhTOE9XSERHcFRFbUJfSGFSUDhDSFdrZm43S3FIUnRxVjAtaVpQUVZ6dHVaaWpzMDhFS1haakZ6T1BrU3PSAcgBQVVfeXFMUHl0ZFNoeFlESVdmZHJzTmkzWHQxYmxKbV9KazY3NHpZdGtvMFk5c0VVUExCMU82MmpTX1p3RHJjTDR2VlRBZ01tS0R3TWFBYXV3RDdXLXh4N3FWX1hXWnQ4OEpmcW13NWhybktWdXRFRUxfUldNSGlROEVKTHpwUlhMZHFMTEhJT0dTT1NITEFtV2c5QmR5a3VMaDFMY2Z0LXlCclFWS21DWGxmNjBxaWNsYWZVeGxyRm9Zd1NFUm1hVmxPVTdCVVg?oc=5",
-      "date": "2026-03-20 11:57",
-      "summary": "OpenAI is throwing everything into building a fully automated researcher  MIT Technology Review..."
-    },
-    {
-      "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjJNYVhxNlVqbGNtbkRDaVNrSVp3Q2xlVVpHaVZDN1FsM3djLWROTmdoRXlJbXRVZk1RaE1DQ3BDc1Z1cjBjQXpSb1VIMFRyRVN2ZnNpVndjQ2FwdElyeGdCRWNtNlkydWdNOUxxdzh2MnpLWE9JU3dGQ1VYbmxEUEFFTVhkWnpFUmc3ODdIVFFPYkU1aU55T2c2NXNadzB4T2Fz0gGoAUFVX3lxTFA0c0hLSjJxMU5lckM3bFJWLVRPSWhiX2EwcG1YVjFjOWpFbFVtaW5rbG5mbHFCLVdWcWpJRFlpSHFMTTlmUi1YOTVzYm5nYmJVblZxZUsweWZIbVBWcWhvcHpJYnFuV3FlbWtBbVR0NG1LaWxaREdFQVMyQmJneEY4M0lsQUp5RTRLTFFfY3JaRlV3UTI1UGYtNUFrR2I0d1Z4YWZqcjJSTw?oc=5",
-      "date": "2026-03-09 07:00",
-      "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
-    },
-    {
-      "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFB4X2RNeGtrREJzNENEUmg3VUtmd196SmwyWTZKdkVMSHE3T0loYkJSSHpfNTVmd0xFeTZLSFdlSUQ1X3JhckRieC1IYmFMaTY3MVI3clZyM2kyQV9OdWlEdWc2dUl2aXBnYkRlMzJtMXNkRFRBdXU5VkZCRER6R2V5SHFveDdaR0hxV1JpZ1VaaEtOR085ZGpmSXJhYlZCeXJCYjRQQUNuWlNoWk9ET2tIaHZqZXJrUVU3cXR30gHDAUFVX3lxTE03LTZ1bVVRSjJQNFFQUGtIMDNmOFNmajZ0WkYzRGNhenlUTENPLUdtcFQ2b2hRYUx5SnhGbV9OVjRyTTBQME15T3dGZFhIOUxwVHFHWDZwSGdBaWlsaVV6WWwwcVFrSDB0dUFjSDVzTlVxZDZ1c2NJRElkRDVfcmdBTmxyRWZYY0V5c04tenNlSHJkS29MT2pjZGdfSm0yX1Z0b1l1TThHMzMxWTkwa1p4eks5c1VwNnhOQkV2LU95V3dqQQ?oc=5",
-      "date": "2026-03-23 12:17",
-      "summary": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy  MIT Technology Review..."
-    },
-    {
-      "title": "Can quantum computers now solve health care problems? We’ll soon find out. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcW1UX1pxc3VPalJ2aDhGck5VdGpLcWN5alJyQVJOOFJULUd5M0hxcW96WVE2UTBwV05NMU53YkVpQi1WeGFyZy1IR1B6SEgyWWg3ellxbmVFX3VDMThKTVpLNU5ic0xISlhVa3Y4bmNkcUJnMFJSY21CVlZFbXdYeEcyaFlTWlhJX1VfdlFWSnYza1NxcS1zVHJ6NEVRMXBMSUQyeXFYQkVhRTYtQkZCZWx2dlR1dzRrUnlyT1l6RzZ0aklLOGdPaFlPX19pUDZnYkdz0gHYAUFVX3lxTFBMcmxGTHJ2Z1VmVjN4TmNBbEFMNHZkNFRnNGZjZC1tQzI4bVhZU3NBVVY1UTJReVVPSDJ6eFZUU00xVFFQNDR4cE9SbXB0bWFDQWVfbmlfU2M0RUMzaklaT2Nrc2ZnQThUQzhPNFBESjRlSlc0OWR5S0dZWldxV1c4UEEwck9CTWtsWFFPbHlGVWExVTY3TjhnLWI1bjU5NExCZDRXa245MzJXNHZjSnBxa3dmVS15M2U3LTBCeVo1SG1zQTYtU0RWTUl0ekx5aE1pNVpEMUJLNg?oc=5",
-      "date": "2026-03-19 10:51",
-      "summary": "Can quantum computers now solve health care problems? We’ll soon find out.  MIT Technology Review..."
-    },
-    {
-      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM1lfaGg0eXpyNlFvQ1V4ZDFQUlFVQXJnX1NfdVlybnRIdF9ZaWFNVGtXMW9RY1lYNHNrZ2UzcmdRTGhUMFotenpPcUkzQUQxQlNCdGVsWTF2NVRxOG12a0FQbEZJa1oxR0lUX0RLVHZkLUpRc0ZSbHN3aGRFWFF0bVZpSDZSYURxYktISmpkVjlXemZ2TUFVNGZocldubjVTdm9ZNWY2dll0UFlFZ2h2WV91MDlLZlViMy01QXZieWZDRzNqQzB3OUljN3AzUUVNRFViVmN0SDRDSlZI0gHiAUFVX3lxTE9GTzg3RXk5eXdhX29ocm1ZLVg1d3dfb0UyM2h5eHlfb1FHNEdaSW9fZGluSmpydGRGeEt1U09tT2xEakZ3RDZXZGRnQnV5ZlgyRlFTX3BPRGtWZmVNdi0zekItS1VUQlYybjBwalEtcHM0WERsdXR3dWNpU25Fa1lCU2RPbGdwNHlYZVdRUTRidnFlVnFURmN3UkV5R04wenFDU1lhWVhWdzRCS1U2V2pLOTdsNWJ0QVZCN2xpcEROaUhFTk4tVjVlWTFoNE45bFJlNmU2UWdwaGN4UVFfc29PSnc?oc=5",
-      "date": "2026-03-17 22:30",
-      "summary": "The Pentagon is planning for AI companies to train on classified data, defense official says  MIT Technology Review..."
-    }
-  ],
   "Phys.org": [
     {
-      "title": "Ancient 'syphilis-like' disease in Vietnam challenges long-held assumptions on congenital infection",
-      "link": "https://phys.org/news/2026-03-ancient-syphilis-disease-vietnam-held.html",
-      "date": "2026-03-23 15:40",
-      "summary": "The findings of a new study by a Charles Sturt University researcher and colleagues challenge a long-standing assumption used by s..."
+      "title": "The evolutionary secret of the California poppy's alkaloids",
+      "link": "https://phys.org/news/2026-03-evolutionary-secret-california-poppy-alkaloids.html",
+      "date": "2026-03-23 17:00",
+      "summary": "Characteristic features of plants, such as their active ingredients or flower color, may have developed through very different evo..."
     },
     {
-      "title": "Online ad fraud is a feature, not a bug",
-      "link": "https://phys.org/news/2026-03-online-ad-fraud-feature-bug.html",
-      "date": "2026-03-23 15:20",
-      "summary": "Technological advancements and the dynamics of the platform economy make rooting out fraud more complicated than it may seem. With..."
+      "title": "How dolphins communicate: New discoveries from a long‑term study in Sarasota, Florida",
+      "link": "https://phys.org/news/2026-03-dolphins-communicate-discoveries-longterm-sarasota.html",
+      "date": "2026-03-23 17:00",
+      "summary": "Human fascination with bottlenose dolphins goes back thousands of years, at least as early as Greek mythology...."
     },
     {
-      "title": "Self-cleaning fabric could eliminate the need for detergent",
-      "link": "https://phys.org/news/2026-03-fabric-detergent.html",
-      "date": "2026-03-23 15:20",
-      "summary": "Detergents may begin their journey by cleaning our clothes, but they end up contaminating the environment, flowing into rivers, po..."
+      "title": "Decoding sugars one bond at a time—without labels",
+      "link": "https://phys.org/news/2026-03-decoding-sugars-bond.html",
+      "date": "2026-03-23 16:40",
+      "summary": "Researchers at National Taiwan University have developed a tip-enhanced Raman spectroscopy platform that can identify tiny structu..."
     },
     {
-      "title": "Quantum computers could have a fundamental limit after all",
-      "link": "https://phys.org/news/2026-03-quantum-fundamental-limit.html",
-      "date": "2026-03-23 15:00",
-      "summary": "The performance of quantum computers could cap out after around 1,000 qubits, according to a new analysis published in the Proceed..."
+      "title": "Striped mice survive harsh drought by slowing down and not getting stressed",
+      "link": "https://phys.org/news/2026-03-striped-mice-survive-harsh-drought.html",
+      "date": "2026-03-23 16:40",
+      "summary": "For decades, ecologists lumped everything bad for animals under one word: stress. But what if animals don't experience harsh envir..."
     },
     {
-      "title": "Saturn-mass world discovered orbiting two low-mass stars",
-      "link": "https://phys.org/news/2026-03-saturn-mass-world-orbiting-stars.html",
-      "date": "2026-03-23 15:00",
-      "summary": "Researchers report the discovery of a Saturn-sized exoplanet orbiting two M-dwarf stars, which are smaller and cooler than our sun..."
+      "title": "Mining a methane-degrading bioreactor for protein rubies",
+      "link": "https://phys.org/news/2026-03-methane-degrading-bioreactor-protein-rubies.html",
+      "date": "2026-03-23 16:20",
+      "summary": "Scientists have found a new type of iron-storing protein in a mixture of microbes containing methane-degraders. This discovery und..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +193,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "A Living Tradition: Gewandhausorchester Leipzig in Hong Kong",
+      "link": "https://www.scmp.com/presented/news/hong-kong/topics/gewandhausorchester-leipzig-hong-kong/article/3346958/living-tradition-gewandhausorchester-leipzig-hong-kong?utm_source=rss_feed",
+      "date": "2026-03-23 16:00",
+      "summary": "[The content of this article has been produced by our advertising partner.]\nFor centuries, Leipzig has been a city where music mat..."
+    },
+    {
       "title": "Hong Kong raises Iran, Israel travel alerts to black, expands amber warning",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3347631/hong-kong-raises-iran-israel-travel-alerts-black-expands-amber-warning?utm_source=rss_feed",
       "date": "2026-03-23 14:49",
@@ -343,12 +221,6 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3347619/hong-kong-projected-face-4-7-typhoons-2026?utm_source=rss_feed",
       "date": "2026-03-23 12:16",
       "summary": "Hong Kong will experience between four and seven typhoons from June to October, according to the city’s weather forecaster, fewer ..."
-    },
-    {
-      "title": "Hong Kong’s Henderson Land trims dividend as Iran, mainland China cloud outlook",
-      "link": "https://www.scmp.com/business/companies/article/3347616/hong-kongs-henderson-land-trims-dividend-iran-clouds-outlook-china-slump-lingers?utm_source=rss_feed",
-      "date": "2026-03-23 11:51",
-      "summary": "Major Hong Kong developers Henderson Land Development and Kerry Properties both reported mixed 2025 results, with stronger home sa..."
     }
   ],
   "New Scientist": [
