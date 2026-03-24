@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "At Match Day celebration, students get a first look at their next chapter - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ2g1QTltTTh0aFI4d05IVnVnTVIxMTNXRDJQX2hYMEF5bnFPcnlqY1d1VXZUYzVPVGJ0Z2VlR2JHQzBrcU0wRC0xb1BKWTRYblBlVlljXzRRVkgwZUhxVzMyeFBUQVhWUlo4dUlqVlVZTnZtWHZUTlVsMjhsLVc2OHI2cVU5ZUs1bnVCcGtka0czTml2OXY5MHNFOVpZc3RlQ1pHOFlKamI0OFQ0T3NhTEdQOU4?oc=5",
+      "date": "2026-03-24 19:50",
+      "summary": "At Match Day celebration, students get a first look at their next chapter  Stanford Report..."
+    },
+    {
       "title": "Pirates Set To Host No. 19 Stanford On Wednesday Night - East Carolina University Athletics",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXVVYzNZcFJ1V2xRLTN2T01lYWtoQ19fOG0tU2phT2p6MGYyVnYtWGw0UG84SGRxTmxzcXczUmJGeFJVaGFCbEh3NkFmUkh2LS05WlBKWndkTS15alZfelZWek1tdTd5dmZPdUc1eFV6SWJCcFp2VDhKN1M0ZEFCUzJfamd6QTQtVFpCdGJ3VmtUX3ZVd25iVjZtbzUyRkZsYUE?oc=5",
       "date": "2026-03-24 15:16",
@@ -77,22 +83,16 @@
       "summary": "Immersive: The Renovation of the Black House at Stanford University  peninsulapress.com..."
     },
     {
+      "title": "Diving into the mind of pioneering French biologist Jean-Baptiste Lamarck - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZHpkdlY2cDRUVF9KRTl1UUp4MVBhZnJjU2hRZXBTVkRrbW9NZ2FrbVc3QWdlaFRtWGROR3hHX1hMcFFqNDZQYVRWdEphT1NqcWI4Q3FyclV3WWxXMlBac3F6MFJsUWhadEhQdXFmUGM4NUs4bHBNQlEyWkUxZlRzOFFUWEhqMkJ1MkNIeU1qbDkxdEVnMFIxTksxeEZiRzllQkZsQ25B?oc=5",
+      "date": "2026-03-23 07:00",
+      "summary": "Diving into the mind of pioneering French biologist Jean-Baptiste Lamarck  Stanford Report..."
+    },
+    {
       "title": "Women's Basketball Falls to Stanford in WBIT - Quinnipiac University Athletics",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVlNER2xjNVVGLTdPT00tTjFEcDFBMlktcUZ2NktZb1FhQ1c0Y09CMTFkNGpiLUFqMk0xb3dlb1lWOTgzRWJTRC1ibkVKMlRXOFZYN1hla3NTc2RKUFNOME9RYmFoSGpSVlQxd3Y2cUFoOHd1b2VmM0N5V0N1NkpVZVktZTMtRkU?oc=5",
       "date": "2026-03-23 01:06",
       "summary": "Women's Basketball Falls to Stanford in WBIT  Quinnipiac University Athletics..."
-    },
-    {
-      "title": "AI could spot the next financial crisis – but there’s a catch - Stanford Institute for Economic Policy Research (SIEPR)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXllNGJrTXRLeXllR1l0eUhFYUtqLWxBaXZPWWxoSThISlNZdk9QLTVxai10c1BpamNwa1ItdG5fSjVMUFhqbEZHbmZmUkdnTnU2eUhtaW85UFpfSWNIQjR3OHpSN2UwaEM3WXo5MGpzdjg2LUlqd0Y4Q01KZ0RQal92NjZFSG8?oc=5",
-      "date": "2026-03-24 12:00",
-      "summary": "AI could spot the next financial crisis – but there’s a catch  Stanford Institute for Economic Policy Research (SIEPR)..."
-    },
-    {
-      "title": "Fire extinguished at Stanford’s Beckman Center - Palo Alto Online",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVJpS2hrVDBqNVFsUzhzT0dsWkhUQ1Z6SlZVMThXNV9HVlJVOFBna19LWjVVV1AyOXJKV3BEZF9ZcWI4dWxnVnk0YURmdmJpZkxQQ1V5ZHdXRkRoRndGM1FfMEZTZ29TV3NjUGVCZnc0aVN3MzRZeXpHSDBkRnltRkZpTnhraXJIcVQ0bnk5WW5vc1BPQ0ZaWnpyWFFaY293dEhqRQ?oc=5",
-      "date": "2026-03-23 05:05",
-      "summary": "Fire extinguished at Stanford’s Beckman Center  Palo Alto Online..."
     }
   ],
   "Nature Careers": [
@@ -205,6 +205,12 @@
       "summary": "AI may boost euro area productivity growth by 4% in 10 years, ECB says  Reuters..."
     },
     {
+      "title": "Arm unveils new AI chip, expects it to add billions in annual revenue - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkx5YWdOdURHUUg5Q2RZbEd6TnV6Nms5ZzdyNUpGcXZnX2xSMTl1Y1Y3cnJ5UUZEWkNUbUwxbWEtZ0FaMlJubzZXMGM2ZUZvT3AzcHJMd3RNZGU5LXZKYkxlTlBpbl91RFFTcE1ic3lCVlo3by1GZjhjRXp1VGpTZDc1cDh5ZkRxUmE3VzRGQXB1UUZBQ1QwNVVrckttNGprREZGNS1KaUZyRHRIektyZDBPTGZCblhhQmJ0VW1B?oc=5",
+      "date": "2026-03-24 17:02",
+      "summary": "Arm unveils new AI chip, expects it to add billions in annual revenue  Reuters..."
+    },
+    {
       "title": "HSBC appoints first chief AI officer as it seeks cost cuts - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTNBdU5vaE0tbU9jUlh0Qy15b3g2ek16MEtlYnRpVnZIUWM5b2ZJZVBwd0dVU1hOZFVGTmRLRzNVaWJXRjNVU0dxQllCUF9aeGtwbHBXXzFtTGkxa2FlVnZMV3oyajZPTEVpOUtaaWJFM3hYS3ZJNVhRUUZqUHRYOE9Zb3lmWmlMYTlnejlrdGdmZThxY1FpOHFhLVpuZ0N6eGc?oc=5",
       "date": "2026-03-23 13:13",
@@ -215,12 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmlaQnozTEZ2VXM2REw4Z2ZDZktTeVh1M1NJVzNUaWV0VjNabkIwS3NSWE40Z2d5Tjd0R0tBOWQtaWk5RVFWS3NPMDg1RWpaSnczVm9kOEdwdlNMSklpbXBMOXg5WnhtR1B0Y0Q3Q1BPVjYyc21oVmtwdHI5U2RSM3lUOF9NWnkyaGJCcVBaeDhvR0hfemNPdDNhU1FZV2RId1hsYmZvajFHcTh0eW52N29vcWdDVzk2dzlNZG9odlNidnkwdVhwVmlTMS0?oc=5",
       "date": "2026-03-23 13:02",
       "summary": "Alibaba launches latest agentic AI platform with international unit's Accio Work  Reuters..."
-    },
-    {
-      "title": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUTJucUZORzdzUDQtODZyeVVJRkVmZVQwUnRCbGZmT1YxMHFNRFFGUlhmTjBZMTNlUU9wTTFzMl85czh2WnFRcklfT0dlWHVmMkVNWUhtOE9HS0hwNk1QcWJuTnExdDVhMG9NOVB1RmhFZW5GUUtfVkZWR2pTdENqeVR6V1FiXy1NUFJHTUV2NkJKRUhRZFFiNHMycjBvQ3hhbE82bWtXdXdNVjFyVy0wc1Q1RjBlcjNkQ2c?oc=5",
-      "date": "2026-03-22 07:36",
-      "summary": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -237,16 +237,16 @@
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
     },
     {
+      "title": "The hardest question to answer about AI-fueled delusions - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPekIwZlU3MjhiLWtYdnRKZzNETXp2TVdSUU9qN1FETUNNNkhUMjVHRFVRMFM4bmwteW1odmdPUFJ5aVN5RVNQSXZqbGpkcTEtYzFYdU1VTERSdDlyTnRMaWc4dkd2SkszTm5pblplQTdwSFFiRW1sek1NNW1RZUx3SGlzZTdtMjdDUWx1Q3ZzSFlBTTNBTmhfV0cxakJyOEdvSXVWdUVXWFU3TjFyVVHSAbMBQVVfeXFMTlB3Q2I5UXdYWkl5XzZacTZDQmlmaVJrS09UbUxZcHVWWDBBUVQ3NlRIVkRqTGZaWDJPUGZ6bXdWa3VWZTZ1TERycHRfYk10a1lPalZFdHU5MFppNFgzNHY2T0RkdU5PcHNKU1BKSzd1bVVDbjVPWWZvWlM0RWtIUVNSOC1ma2hnbHVpdGE3Z0d3cm8yMkVGT1pmbVJ5NHBBUWZDcEN4MTNQRVlfbG1RWnRqems?oc=5",
+      "date": "2026-03-23 16:31",
+      "summary": "The hardest question to answer about AI-fueled delusions  MIT Technology Review..."
+    },
+    {
       "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFB4X2RNeGtrREJzNENEUmg3VUtmd196SmwyWTZKdkVMSHE3T0loYkJSSHpfNTVmd0xFeTZLSFdlSUQ1X3JhckRieC1IYmFMaTY3MVI3clZyM2kyQV9OdWlEdWc2dUl2aXBnYkRlMzJtMXNkRFRBdXU5VkZCRER6R2V5SHFveDdaR0hxV1JpZ1VaaEtOR085ZGpmSXJhYlZCeXJCYjRQQUNuWlNoWk9ET2tIaHZqZXJrUVU3cXR30gHDAUFVX3lxTE03LTZ1bVVRSjJQNFFQUGtIMDNmOFNmajZ0WkYzRGNhenlUTENPLUdtcFQ2b2hRYUx5SnhGbV9OVjRyTTBQME15T3dGZFhIOUxwVHFHWDZwSGdBaWlsaVV6WWwwcVFrSDB0dUFjSDVzTlVxZDZ1c2NJRElkRDVfcmdBTmxyRWZYY0V5c04tenNlSHJkS29MT2pjZGdfSm0yX1Z0b1l1TThHMzMxWTkwa1p4eks5c1VwNnhOQkV2LU95V3dqQQ?oc=5",
       "date": "2026-03-23 12:17",
       "summary": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy  MIT Technology Review..."
-    },
-    {
-      "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0txaGhSTldUN0dXQmxLVUdjN0hRSVBoWnZpUjczcUxSZmkxTGRMVFNpbGJPTFlXQ19zVzNCRGVlWk1LbGwxcDhWTlppV0NIdV9ranEtdS10NGY5cUFCREZrN2pVOTVYWkQ3VDI5UW5LWEVXTldvMlpPYzNXWFVOOHk0U1B6SWRmS1p0dkZOVEZucGhyVkoxS2llTW5zZFBPMXBNeDIxdlRnZ9IBrwFBVV95cUxQdEgwOFZ3eFk5d28yNVltNFQtTjFZTWlwN3ZGYjhQUEhfRmFsMGJaaXJqd1JGa3h0dFhZVmxyM3VzV0JKOUJmN1NXbjJtWlctdEZsc003OEVZWFBkTS1ZRDNhZGdDdEw0VjNtekwzVXNnSjNUdVlrXzU5a3lieVJCNjFXSXF3eFJLS3M3aWRoak9nVXVwQ1hkQnFhRmUyQ3JtZGZ6b3VKUzhmY1MxdGYw?oc=5",
-      "date": "2026-03-24 16:43",
-      "summary": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain  MIT Technology Review..."
     },
     {
       "title": "Can quantum computers now solve health care problems? We’ll soon find out. - MIT Technology Review",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "We are flushing paracetamol down the toilet and into our water supply: Here's how it could be removed",
-      "link": "https://phys.org/news/2026-03-flushing-paracetamol-toilet.html",
-      "date": "2026-03-24 19:00",
-      "summary": "Many people use drugs, including paracetamol, on a regular basis to treat headaches. But only part of each drug is taken into the ..."
+      "title": "All herbivores, great and small, help protect Australia's endangered grassy woodlands",
+      "link": "https://phys.org/news/2026-03-herbivores-great-small-australia-endangered.html",
+      "date": "2026-03-24 20:40",
+      "summary": "A new QUT-led study has found both grazing mammals and plant-eating insects together play a major role in maintaining the health o..."
     },
     {
-      "title": "Electronics of the future: Ultra-efficient graphene switch developed at nanometer scale",
-      "link": "https://phys.org/news/2026-03-electronics-future-ultra-efficient-graphene.html",
-      "date": "2026-03-24 19:00",
-      "summary": "A team of researchers from Tel Aviv University, in collaboration with colleagues from Japan, has taken an important step toward th..."
+      "title": "Satellite-driven model provides 'more realistic and reliable' predictions of sand and dust storm emissions",
+      "link": "https://phys.org/news/2026-03-satellite-driven-realistic-reliable-sand.html",
+      "date": "2026-03-24 20:40",
+      "summary": "The technology used to predict sand and dust storm (SDS) severity has for decades systematically overestimated when and where sedi..."
     },
     {
-      "title": "600-year-old pinot noir grape found in medieval French toilet",
-      "link": "https://phys.org/news/2026-03-year-pinot-noir-grape-medieval.html",
-      "date": "2026-03-24 18:50",
-      "summary": "A 600-year-old grape seed discovered in the toilets of a medieval French hospital is genetically identical to the grapes still bei..."
+      "title": "Belt-like VO₂(B) single crystals unlock high-sensitivity gas detection at room temperature",
+      "link": "https://phys.org/news/2026-03-belt-vob-crystals-high-sensitivity.html",
+      "date": "2026-03-24 20:20",
+      "summary": "An international research team has successfully synthesized oriented belt-shaped vanadium dioxide (VO2(B)) single crystals via a h..."
     },
     {
-      "title": "Why cooperative workplaces boost your sense of freedom",
-      "link": "https://phys.org/news/2026-03-cooperative-workplaces-boost-freedom.html",
-      "date": "2026-03-24 18:40",
-      "summary": "Jack Welch, the legendary General Electric CEO, was infamous for firing the bottom 10% of his workforce every year, without except..."
+      "title": "Genomic test could help stop destructive Asian spongy moth in its tracks",
+      "link": "https://phys.org/news/2026-03-genomic-destructive-asian-spongy-moth.html",
+      "date": "2026-03-24 20:00",
+      "summary": "Invasive species cost Canada billions of dollars each year. Now, a team led by UBC researchers has developed a new genomic test th..."
     },
     {
-      "title": "Mammal cloning cannot be endless: Mouse line fails at generation 58",
-      "link": "https://phys.org/news/2026-03-mammal-cloning-endless-mouse-line.html",
-      "date": "2026-03-24 18:40",
-      "summary": "There is a limit on how many times a mammal can be cloned before suffering \"mutational meltdown,\" Japanese scientists have discove..."
+      "title": "Why Americans think they won't benefit from Social Security",
+      "link": "https://phys.org/news/2026-03-americans-wont-benefit-social.html",
+      "date": "2026-03-24 20:00",
+      "summary": "Social Security's trust funds are projected to run out by 2035, but that doesn't mean retirees will be left with nothing. New rese..."
     }
   ],
   "The Guardian Edu": [
@@ -301,16 +301,16 @@
       "summary": "School leaders believe some deploy a deliberate strategy to boost grades and improve finances, new research suggests The top 500 s..."
     },
     {
-      "title": "Six students challenge Home Office visa ban on four countries",
-      "link": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
-      "date": "2026-03-23 18:00",
-      "summary": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from ..."
-    },
-    {
       "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
       "link": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
       "date": "2026-03-23 18:00",
       "summary": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will..."
+    },
+    {
+      "title": "Six students challenge Home Office visa ban on four countries",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
+      "date": "2026-03-23 18:00",
+      "summary": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from ..."
     },
     {
       "title": "‘Audiences told us we didn’t show enough teacher sex’: how we made Waterloo Road",
@@ -345,7 +345,7 @@
       "summary": "The founder of an independent bookstore in Hong Kong and three staff have been arrested for selling a biography of former media bo..."
     },
     {
-      "title": "Government rejects suggestions surveyor conspired with contractor at Tai Po fire hearing",
+      "title": "Tai Po fire hearing: government rejects assertions surveyors, contractor conspired",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3347757/government-rejects-suggestions-surveyor-conspired-contractor?utm_source=rss_feed",
       "date": "2026-03-24 14:24",
       "summary": "A lawyer for the Hong Kong government has rejected “groundless” assertions that its surveyors conspired with a renovation contract..."
