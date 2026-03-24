@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "How to create “humble” AI",
+      "link": "https://news.mit.edu/2026/creating-humble-ai-0324",
+      "date": "2026-03-24 04:00",
+      "summary": "An MIT-led team is designing artificial intelligence systems for medical diagnosis that are more collaborative and forthcoming abo..."
+    },
+    {
+      "title": "A complicated future for a methane-cleansing molecule",
+      "link": "https://news.mit.edu/2026/complicated-future-methane-cleansing-molecule-0324",
+      "date": "2026-03-24 04:00",
+      "summary": "A new model shows how levels of the “atmosphere’s detergent” may rise and fall in response to climate change...."
+    },
+    {
       "title": "Investigating Antarctic ice shelf melting with global navigation satellite systems",
       "link": "https://news.mit.edu/2026/investigating-antarctic-ice-shelf-melting-gnss-satellites-0323",
       "date": "2026-03-23 20:55",
@@ -17,18 +29,6 @@
       "link": "https://news.mit.edu/2026/cryoprism-tool-for-observing-cellular-machinery-more-natural-environment-0320",
       "date": "2026-03-20 19:25",
       "summary": "The method allows researchers to observe biomolecular complexes in a quick, accurate, and budget-friendly way, providing new insig..."
-    },
-    {
-      "title": "MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity",
-      "link": "https://news.mit.edu/2026/mit-hasso-plattner-institute-collaborative-hub-for-ai-and-creativity-0320",
-      "date": "2026-03-20 12:45",
-      "summary": "Jointly led by the MIT Morningside Academy for Design, MIT Schwarzman College of Computing, and the Hasso Plattner Institute in Po..."
-    },
-    {
-      "title": "Improving cartilage repair through cell therapy",
-      "link": "https://news.mit.edu/2026/improving-cartilage-repair-through-cell-therapy-0319",
-      "date": "2026-03-19 13:50",
-      "summary": "SMART breakthrough offers a promising pathway toward improved manufacturing of high‑quality cells for regenerative therapies to tr..."
     }
   ],
   "Harvard Gazette": [
@@ -77,12 +77,6 @@
       "summary": "The Courts Cannot Save Us From Trump  Stanford Law School..."
     },
     {
-      "title": "Fire extinguished at Stanford’s Beckman Center - Palo Alto Online",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVJpS2hrVDBqNVFsUzhzT0dsWkhUQ1Z6SlZVMThXNV9HVlJVOFBna19LWjVVV1AyOXJKV3BEZF9ZcWI4dWxnVnk0YURmdmJpZkxQQ1V5ZHdXRkRoRndGM1FfMEZTZ29TV3NjUGVCZnc0aVN3MzRZeXpHSDBkRnltRkZpTnhraXJIcVQ0bnk5WW5vc1BPQ0ZaWnpyWFFaY293dEhqRQ?oc=5",
-      "date": "2026-03-23 05:05",
-      "summary": "Fire extinguished at Stanford’s Beckman Center  Palo Alto Online..."
-    },
-    {
       "title": "Senior Spotlight: Valley Oaks Valedictorian Warren Woolf Headed to Stanford - KCSOS News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM090WWlWbEp5UjAwajNES1lmaGJCVG5VbnN1czBKRklzSUxfX0FaenVpQ3F5Yml4MmZzTlNVTGdCLXFUdDNXTFJZTU9ub3N1VjV5bmJFcENrMktBN281RjVLX3hCcFp0WWxDRENybmxjbWM3bjRTMXEwVklmODVDRkhPMW5uc192UnBKUld3RHExY1RQZERoYl91S0NnREVsNXFvakJjNkNYcUUzcmYtYzhIUQ?oc=5",
       "date": "2026-03-23 14:53",
@@ -93,6 +87,12 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVlNER2xjNVVGLTdPT00tTjFEcDFBMlktcUZ2NktZb1FhQ1c0Y09CMTFkNGpiLUFqMk0xb3dlb1lWOTgzRWJTRC1ibkVKMlRXOFZYN1hla3NTc2RKUFNOME9RYmFoSGpSVlQxd3Y2cUFoOHd1b2VmM0N5V0N1NkpVZVktZTMtRkU?oc=5",
       "date": "2026-03-23 01:06",
       "summary": "Women's Basketball Falls to Stanford in WBIT  Quinnipiac University Athletics..."
+    },
+    {
+      "title": "A ‘shocking’ carbon discovery in Sweden’s forests - Stanford Doerr School of Sustainability",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbEEwRFlzYTdneTZvT2l6Zzd6czlBaVc0LXkydXJvQ1pZTXZzdFZTZWNBWVpSSzhNR3ZqdFg2WDhWb181WGVzS1BZMkhKVWFTVDFoNERqTE9DZGlDc2l1bkdBLURGaGVhY1Rrd3pqaHBGemUwMnY1THUtV2FOUHhPTkRqUWJzYXRpbnc?oc=5",
+      "date": "2026-03-19 18:23",
+      "summary": "A ‘shocking’ carbon discovery in Sweden’s forests  Stanford Doerr School of Sustainability..."
     }
   ],
   "Nature Careers": [
@@ -199,10 +199,10 @@
       "summary": "China's open-source dominance threatens US AI lead, US advisory body warns  Reuters..."
     },
     {
-      "title": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUTJucUZORzdzUDQtODZyeVVJRkVmZVQwUnRCbGZmT1YxMHFNRFFGUlhmTjBZMTNlUU9wTTFzMl85czh2WnFRcklfT0dlWHVmMkVNWUhtOE9HS0hwNk1QcWJuTnExdDVhMG9NOVB1RmhFZW5GUUtfVkZWR2pTdENqeVR6V1FiXy1NUFJHTUV2NkJKRUhRZFFiNHMycjBvQ3hhbE82bWtXdXdNVjFyVy0wc1Q1RjBlcjNkQ2c?oc=5",
-      "date": "2026-03-22 07:36",
-      "summary": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle  Reuters..."
+      "title": "Alibaba launches latest agentic AI platform with international unit's Accio Work - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmlaQnozTEZ2VXM2REw4Z2ZDZktTeVh1M1NJVzNUaWV0VjNabkIwS3NSWE40Z2d5Tjd0R0tBOWQtaWk5RVFWS3NPMDg1RWpaSnczVm9kOEdwdlNMSklpbXBMOXg5WnhtR1B0Y0Q3Q1BPVjYyc21oVmtwdHI5U2RSM3lUOF9NWnkyaGJCcVBaeDhvR0hfemNPdDNhU1FZV2RId1hsYmZvajFHcTh0eW52N29vcWdDVzk2dzlNZG9odlNidnkwdVhwVmlTMS0?oc=5",
+      "date": "2026-03-23 13:02",
+      "summary": "Alibaba launches latest agentic AI platform with international unit's Accio Work  Reuters..."
     },
     {
       "title": "Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say - Reuters",
@@ -211,16 +211,16 @@
       "summary": "Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say  Reuters..."
     },
     {
-      "title": "Alibaba launches latest agentic AI platform with international unit's Accio Work - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmlaQnozTEZ2VXM2REw4Z2ZDZktTeVh1M1NJVzNUaWV0VjNabkIwS3NSWE40Z2d5Tjd0R0tBOWQtaWk5RVFWS3NPMDg1RWpaSnczVm9kOEdwdlNMSklpbXBMOXg5WnhtR1B0Y0Q3Q1BPVjYyc21oVmtwdHI5U2RSM3lUOF9NWnkyaGJCcVBaeDhvR0hfemNPdDNhU1FZV2RId1hsYmZvajFHcTh0eW52N29vcWdDVzk2dzlNZG9odlNidnkwdVhwVmlTMS0?oc=5",
-      "date": "2026-03-23 13:02",
-      "summary": "Alibaba launches latest agentic AI platform with international unit's Accio Work  Reuters..."
-    },
-    {
       "title": "AI may boost euro area productivity growth by 4% in 10 years, ECB says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUJtcm5NUlpSX3lxRnFEZHZBbHBiUGgyQjhRbjFIdGlKQ2FDR0d1TnBfdEl6RFRQQjdsbGg0WmstYjJmbHp0dF9nRlllbGdzRTBwM0gtQ29FRGNraEprR0VHelFNUDZXQkNvWG90ZzN2ejJxdkZ6M3V1WnNWWGwxekdCTFMzanNjVlMzTmlfZHNrZkNrOXAwY0xxNXk2cUV4aHJnQ3Itcm51TkF0eGVIZ2F1RTRFRkY1N3c?oc=5",
       "date": "2026-03-23 16:52",
       "summary": "AI may boost euro area productivity growth by 4% in 10 years, ECB says  Reuters..."
+    },
+    {
+      "title": "HSBC appoints first chief AI officer as it seeks cost cuts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTNBdU5vaE0tbU9jUlh0Qy15b3g2ek16MEtlYnRpVnZIUWM5b2ZJZVBwd0dVU1hOZFVGTmRLRzNVaWJXRjNVU0dxQllCUF9aeGtwbHBXXzFtTGkxa2FlVnZMV3oyajZPTEVpOUtaaWJFM3hYS3ZJNVhRUUZqUHRYOE9Zb3lmWmlMYTlnejlrdGdmZThxY1FpOHFhLVpuZ0N6eGc?oc=5",
+      "date": "2026-03-23 13:13",
+      "summary": "HSBC appoints first chief AI officer as it seeks cost cuts  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,12 @@
   ],
   "Phys.org": [
     {
+      "title": "When NASA's experimental technology detects a tsunami, it may help save lives",
+      "link": "https://phys.org/news/2026-03-nasa-experimental-technology-tsunami.html",
+      "date": "2026-03-24 02:40",
+      "summary": "A new data visualization illustrates how an experimental NASA technology can provide extra lead time to communities in the path of..."
+    },
+    {
       "title": "Yes, AI could boost productivity, but work is about more than maximizing output",
       "link": "https://phys.org/news/2026-03-ai-boost-productivity-maximizing-output.html",
       "date": "2026-03-24 02:00",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-03-negative-emotions-leaders-empathy.html",
       "date": "2026-03-24 00:20",
       "summary": "During a widespread crisis, negative emotions don't simply go away once the workday begins. Organizational scholars who study how ..."
-    },
-    {
-      "title": "Adding 1,000 immigrants tied to 142 more health workers, fewer elderly deaths",
-      "link": "https://phys.org/news/2026-03-adding-immigrants-health-workers-elderly.html",
-      "date": "2026-03-23 23:50",
-      "summary": "New research finds the addition of a thousand new immigrants in a metropolitan area reduces elderly mortality by about 10 deaths t..."
     }
   ],
   "The Guardian Edu": [
@@ -295,16 +295,16 @@
       "summary": "School leaders believe some deploy a deliberate strategy to boost grades and improve finances, new research suggests The top 500 s..."
     },
     {
-      "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
-      "link": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
-      "date": "2026-03-23 18:00",
-      "summary": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will..."
-    },
-    {
       "title": "Six students challenge Home Office visa ban on four countries",
       "link": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
       "date": "2026-03-23 18:00",
       "summary": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from ..."
+    },
+    {
+      "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
+      "date": "2026-03-23 18:00",
+      "summary": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will..."
     },
     {
       "title": "‘Audiences told us we didn’t show enough teacher sex’: how we made Waterloo Road",
@@ -320,6 +320,18 @@
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Hong Kong proposes heavy penalties for smoking on construction sites",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3347656/hong-kong-proposes-heavy-penalties-smoking-construction-sites?utm_source=rss_feed",
+      "date": "2026-03-24 02:43",
+      "summary": "Contractors could face fines of up to HK$400,000 (US$51,068) for failing to prevent smoking at construction sites in Hong Kong und..."
+    },
+    {
+      "title": "Assertion of inspection ‘tip-off’ to contractor ‘groundless’, hearing told",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3347652/residents-testify-hearing-deadly-tai-po-fire-enters-third-day?utm_source=rss_feed",
+      "date": "2026-03-24 02:13",
+      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+    },
     {
       "title": "Hong Kong’s national security better protected with changes, experts say",
       "link": "https://www.scmp.com/news/hong-kong/politics/article/3347632/hong-kongs-national-security-better-protected-changes-experts-say?utm_source=rss_feed",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3347631/hong-kong-raises-iran-israel-travel-alerts-black-expands-amber-warning?utm_source=rss_feed",
       "date": "2026-03-23 14:49",
       "summary": "The Hong Kong government has raised the outbound travel alert for Iran and Israel to black, and expanded the amber alert to includ..."
-    },
-    {
-      "title": "Non-local pupils could face HK$350,000 in fees at Hong Kong semi-private schools",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3347630/non-local-pupils-could-face-hk350000-fees-hong-kong-semi-private-schools?utm_source=rss_feed",
-      "date": "2026-03-23 14:37",
-      "summary": "Non-local students could pay up to HK$350,000 (US$44,680) per year to study in Hong Kong’s semi-private schools after the institut..."
-    },
-    {
-      "title": "Hong Kong’s family office summit draws Pop Mart billionaire among global guest list",
-      "link": "https://www.scmp.com/business/banking-finance/article/3347628/hong-kongs-family-office-summit-draws-pop-mart-billionaire-among-global-guest-list?utm_source=rss_feed",
-      "date": "2026-03-23 14:13",
-      "summary": "About 130 family office decision-makers and affluent second-generation members from across the world attended a dinner held by the..."
     }
   ],
   "New Scientist": [
