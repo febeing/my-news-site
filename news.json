@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Publisher to retract entire conference proceedings, ban editor who wrote most of them",
+      "link": "https://retractionwatch.com/2026/03/24/edp-sciences-publisher-to-retract-conference-proceedings-ban-editor/",
+      "date": "2026-03-24 18:49",
+      "summary": "On Monday, we published a story about a physicist in India who had three papers on superheavy elements retracted after others in h..."
+    },
+    {
       "title": "Guest post: A call to end the ‘impact on conclusions’ test for retraction",
       "link": "https://retractionwatch.com/2026/03/23/guest-post-a-call-to-end-the-impact-on-conclusions-test-for-retraction/",
       "date": "2026-03-23 21:11",
@@ -183,15 +189,15 @@
       "link": "https://retractionwatch.com/2026/03/18/technology-journal-pulls-papers-for-unauthorized-author-changes-fictitious-emails/",
       "date": "2026-03-18 18:01",
       "summary": "An Elsevier energy-technology journal has retracted six papers from 2022 whose authors changed without editorial approval during r..."
-    },
-    {
-      "title": "Most editors at math journal resign over multiple reviews, ‘cloak-and-dagger’ removal of EIC",
-      "link": "https://retractionwatch.com/2026/03/17/communications-in-algebra-taylor-francis-editors-mass-resignation/",
-      "date": "2026-03-17 20:52",
-      "summary": "Nearly two dozen editors of a mathematics journal have resigned after its publisher removed the top editor and implemented a multi..."
     }
   ],
   "Reuters AI": [
+    {
+      "title": "Arm unveils new AI chip, expects it to add billions in annual revenue - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkx5YWdOdURHUUg5Q2RZbEd6TnV6Nms5ZzdyNUpGcXZnX2xSMTl1Y1Y3cnJ5UUZEWkNUbUwxbWEtZ0FaMlJubzZXMGM2ZUZvT3AzcHJMd3RNZGU5LXZKYkxlTlBpbl91RFFTcE1ic3lCVlo3by1GZjhjRXp1VGpTZDc1cDh5ZkRxUmE3VzRGQXB1UUZBQ1QwNVVrckttNGprREZGNS1KaUZyRHRIektyZDBPTGZCblhhQmJ0VW1B?oc=5",
+      "date": "2026-03-24 17:02",
+      "summary": "Arm unveils new AI chip, expects it to add billions in annual revenue  Reuters..."
+    },
     {
       "title": "China's open-source dominance threatens US AI lead, US advisory body warns - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN3FfMmpVdzRPQUtQWGNWbmlTdTQ5djBZc3RvX3djNThZUmJTanBZY3RFdEw5YjM4YzZvYTBTVTVoNmY1ZWNsM3IxREpPNkJCWl90R1RfNVFSaUk4WTZiOTk4WHFCV3RyQUdaTFk5cmFPYkRhSWpCZ1M1X2FkZDhtT2VlaTdIdXpKcmdPZWRIbWpYMkVjcU1uRzYwRGpDSGdVZ3RkSmc1aGhzSFBac05hWklrV0gtd2szTWNCbkpIbjdibHl5U05Uby1ZY0NFOGdXbE9wQw?oc=5",
@@ -199,16 +205,10 @@
       "summary": "China's open-source dominance threatens US AI lead, US advisory body warns  Reuters..."
     },
     {
-      "title": "AI may boost euro area productivity growth by 4% in 10 years, ECB says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUJtcm5NUlpSX3lxRnFEZHZBbHBiUGgyQjhRbjFIdGlKQ2FDR0d1TnBfdEl6RFRQQjdsbGg0WmstYjJmbHp0dF9nRlllbGdzRTBwM0gtQ29FRGNraEprR0VHelFNUDZXQkNvWG90ZzN2ejJxdkZ6M3V1WnNWWGwxekdCTFMzanNjVlMzTmlfZHNrZkNrOXAwY0xxNXk2cUV4aHJnQ3Itcm51TkF0eGVIZ2F1RTRFRkY1N3c?oc=5",
-      "date": "2026-03-23 16:52",
-      "summary": "AI may boost euro area productivity growth by 4% in 10 years, ECB says  Reuters..."
-    },
-    {
-      "title": "Arm unveils new AI chip, expects it to add billions in annual revenue - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkx5YWdOdURHUUg5Q2RZbEd6TnV6Nms5ZzdyNUpGcXZnX2xSMTl1Y1Y3cnJ5UUZEWkNUbUwxbWEtZ0FaMlJubzZXMGM2ZUZvT3AzcHJMd3RNZGU5LXZKYkxlTlBpbl91RFFTcE1ic3lCVlo3by1GZjhjRXp1VGpTZDc1cDh5ZkRxUmE3VzRGQXB1UUZBQ1QwNVVrckttNGprREZGNS1KaUZyRHRIektyZDBPTGZCblhhQmJ0VW1B?oc=5",
-      "date": "2026-03-24 17:02",
-      "summary": "Arm unveils new AI chip, expects it to add billions in annual revenue  Reuters..."
+      "title": "OpenAI set to discontinue Sora video platform app, WSJ reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYlFMYXFmMll5LVluZE5adTFIRDY2eXF3TG5IbVRnS0hmQlZfOUNBQ3hZTDRpWW9Ya0N5MDdWRm1PenZpMFA4Z182YnppZnVYRzdRVWx3VUJBdjNNd0YxSXpnazFOdnBibHVUS1JBNWFUSk5LT1R0V3RlYzMtaTRkRmRGN3VySFF6VDVJSTBmN2hXT3FGdWU1anpiM2lUWkhXMGZMZDh5Y2c?oc=5",
+      "date": "2026-03-24 19:54",
+      "summary": "OpenAI set to discontinue Sora video platform app, WSJ reports  Reuters..."
     },
     {
       "title": "HSBC appoints first chief AI officer as it seeks cost cuts - Reuters",
@@ -217,10 +217,10 @@
       "summary": "HSBC appoints first chief AI officer as it seeks cost cuts  Reuters..."
     },
     {
-      "title": "Alibaba launches latest agentic AI platform with international unit's Accio Work - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmlaQnozTEZ2VXM2REw4Z2ZDZktTeVh1M1NJVzNUaWV0VjNabkIwS3NSWE40Z2d5Tjd0R0tBOWQtaWk5RVFWS3NPMDg1RWpaSnczVm9kOEdwdlNMSklpbXBMOXg5WnhtR1B0Y0Q3Q1BPVjYyc21oVmtwdHI5U2RSM3lUOF9NWnkyaGJCcVBaeDhvR0hfemNPdDNhU1FZV2RId1hsYmZvajFHcTh0eW52N29vcWdDVzk2dzlNZG9odlNidnkwdVhwVmlTMS0?oc=5",
-      "date": "2026-03-23 13:02",
-      "summary": "Alibaba launches latest agentic AI platform with international unit's Accio Work  Reuters..."
+      "title": "AI may boost euro area productivity growth by 4% in 10 years, ECB says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUJtcm5NUlpSX3lxRnFEZHZBbHBiUGgyQjhRbjFIdGlKQ2FDR0d1TnBfdEl6RFRQQjdsbGg0WmstYjJmbHp0dF9nRlllbGdzRTBwM0gtQ29FRGNraEprR0VHelFNUDZXQkNvWG90ZzN2ejJxdkZ6M3V1WnNWWGwxekdCTFMzanNjVlMzTmlfZHNrZkNrOXAwY0xxNXk2cUV4aHJnQ3Itcm51TkF0eGVIZ2F1RTRFRkY1N3c?oc=5",
+      "date": "2026-03-23 16:52",
+      "summary": "AI may boost euro area productivity growth by 4% in 10 years, ECB says  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "All herbivores, great and small, help protect Australia's endangered grassy woodlands",
-      "link": "https://phys.org/news/2026-03-herbivores-great-small-australia-endangered.html",
-      "date": "2026-03-24 20:40",
-      "summary": "A new QUT-led study has found both grazing mammals and plant-eating insects together play a major role in maintaining the health o..."
+      "title": "Single-cell imaging and machine learning reveal hidden coordination in algae's response to light stress",
+      "link": "https://phys.org/news/2026-03-cell-imaging-machine-reveal-hidden.html",
+      "date": "2026-03-24 21:20",
+      "summary": "Researchers from several Parisian institutions have worked together to develop a non-destructive approach to study how unicellular..."
     },
     {
-      "title": "Satellite-driven model provides 'more realistic and reliable' predictions of sand and dust storm emissions",
-      "link": "https://phys.org/news/2026-03-satellite-driven-realistic-reliable-sand.html",
-      "date": "2026-03-24 20:40",
-      "summary": "The technology used to predict sand and dust storm (SDS) severity has for decades systematically overestimated when and where sedi..."
+      "title": "Volunteers need training and support to deal with disclosures of child abuse in community sport",
+      "link": "https://phys.org/news/2026-03-volunteers-disclosures-child-abuse-community.html",
+      "date": "2026-03-24 21:20",
+      "summary": "A new study by Victoria University (VU) reveals volunteers involved in community sport need more support when recognizing and resp..."
     },
     {
-      "title": "Belt-like VO₂(B) single crystals unlock high-sensitivity gas detection at room temperature",
-      "link": "https://phys.org/news/2026-03-belt-vob-crystals-high-sensitivity.html",
-      "date": "2026-03-24 20:20",
-      "summary": "An international research team has successfully synthesized oriented belt-shaped vanadium dioxide (VO2(B)) single crystals via a h..."
+      "title": "New imaging technique maps membrane lipids in 3D at nanoscale",
+      "link": "https://phys.org/news/2026-03-imaging-technique-membrane-lipids-3d.html",
+      "date": "2026-03-24 21:00",
+      "summary": "Biological membranes of cells and their subunits (organelles) are organized into tiny regions (nanodomains) made up of fats (lipid..."
     },
     {
-      "title": "Genomic test could help stop destructive Asian spongy moth in its tracks",
-      "link": "https://phys.org/news/2026-03-genomic-destructive-asian-spongy-moth.html",
-      "date": "2026-03-24 20:00",
-      "summary": "Invasive species cost Canada billions of dollars each year. Now, a team led by UBC researchers has developed a new genomic test th..."
+      "title": "Urban stormwater ponds support rich bird life",
+      "link": "https://phys.org/news/2026-03-urban-stormwater-ponds-rich-bird.html",
+      "date": "2026-03-24 21:00",
+      "summary": "Urban stormwater ponds provide important habitats for birds, including both resident and migrating species, according to research ..."
     },
     {
-      "title": "Why Americans think they won't benefit from Social Security",
-      "link": "https://phys.org/news/2026-03-americans-wont-benefit-social.html",
-      "date": "2026-03-24 20:00",
-      "summary": "Social Security's trust funds are projected to run out by 2035, but that doesn't mean retirees will be left with nothing. New rese..."
+      "title": "New research reveals high option trading fees and barriers to competition",
+      "link": "https://phys.org/news/2026-03-reveals-high-option-fees-barriers.html",
+      "date": "2026-03-24 20:50",
+      "summary": "Could the rules of the options market be quietly costing you ten times more than your stock trades? A recent study in The Review o..."
     }
   ],
   "The Guardian Edu": [
