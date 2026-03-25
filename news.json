@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "NASA revives next-generation flagship Earth-observing missions",
+      "link": "https://www.science.org/content/article/nasa-revives-next-generation-flagship-earth-observing-missions",
+      "date": "2026-03-25 05:55",
+      "summary": "“Falcon” and “Eagle” will monitor changing clouds and map critical minerals..."
+    },
+    {
       "title": "Trump’s new science panel is stuffed with high-tech billionaires",
       "link": "https://www.science.org/content/article/trump-s-new-science-panel-stuffed-high-tech-billionaires",
       "date": "2026-03-25 05:30",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/genes-giant-viruses-help-polar-algae-survive-frigid-waters-and-harsh-sun",
       "date": "2026-03-25 11:05",
       "summary": "A prior infection may create lasting, beneficial evolutionary change in these hardy microbes..."
-    },
-    {
-      "title": "NASA plans to send a nuclear-powered spacecraft to Mars in 2028",
-      "link": "https://www.science.org/content/article/nasa-plans-send-nuclear-powered-spacecraft-mars-2028",
-      "date": "2026-03-24 06:15",
-      "summary": "Spacecraft would release helicopters to explore martian surface..."
     }
   ],
   "Retraction Watch": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Webb and Hubble share the most comprehensive view of Saturn to date",
-      "link": "https://phys.org/news/2026-03-webb-hubble-comprehensive-view-saturn.html",
-      "date": "2026-03-25 22:20",
-      "summary": "NASA's James Webb Space Telescope and Hubble Space Telescope have teamed up to capture new views of Saturn, revealing the planet i..."
+      "title": "Seismic activity in California varies with the seasons",
+      "link": "https://phys.org/news/2026-03-seismic-california-varies-seasons.html",
+      "date": "2026-03-25 23:20",
+      "summary": "Earthquakes occur when the tectonic plates of the Earth's crust shift, jolting past each other in a release of built-up tension. H..."
     },
     {
-      "title": "Microtubules discovered to play an active role in correctly distributing chromosomes during cell division",
-      "link": "https://phys.org/news/2026-03-microtubules-play-role-chromosomes-cell.html",
-      "date": "2026-03-25 22:10",
-      "summary": "Microtubules, the dynamic filaments that form the cell's internal scaffolding, have long been viewed as mere passive structural su..."
+      "title": "AI tool predicts wildfire danger faster than current systems",
+      "link": "https://phys.org/news/2026-03-ai-tool-wildfire-danger-faster.html",
+      "date": "2026-03-25 23:10",
+      "summary": "A wildfire forecasting system powered by artificial intelligence (AI) could help detect dangerous fire conditions earlier and redu..."
     },
     {
-      "title": "Hooking big fish in warming oceans comes with a catch",
-      "link": "https://phys.org/news/2026-03-big-fish-oceans.html",
-      "date": "2026-03-25 22:10",
-      "summary": "When it comes to fishing, reeling in the biggest one is often the goal. But as it turns out, leaving the largest and oldest fish i..."
+      "title": "Advanced dating method reveals age of Pacific coral architecture",
+      "link": "https://phys.org/news/2026-03-advanced-dating-method-reveals-age.html",
+      "date": "2026-03-25 23:00",
+      "summary": "Application of an advanced dating technique establishes the first precise construction timeline for houses built out of coral in F..."
     },
     {
-      "title": "Why no individual is like another when epigenetics come into play",
-      "link": "https://phys.org/news/2026-03-individual-epigenetics-play.html",
-      "date": "2026-03-25 22:00",
-      "summary": "Why do animals behave differently, and what are the consequences of this? A research team from the Collaborative Research Center N..."
+      "title": "'Cool' detectors cut neutrino mass upper limit by an order of magnitude",
+      "link": "https://phys.org/news/2026-03-cool-detectors-neutrino-mass-upper.html",
+      "date": "2026-03-25 22:40",
+      "summary": "Their mass is extremely low, but how light are neutrinos really? A collaboration comprising German and international research grou..."
     },
     {
-      "title": "Laser-modified graphene enables molecule-thick films to grow only where needed",
-      "link": "https://phys.org/news/2026-03-laser-graphene-enables-molecule-thick.html",
-      "date": "2026-03-25 21:50",
-      "summary": "Researchers from the University of Jyväskylä and Aalto University have developed a new method based on laser modification, which a..."
+      "title": "Tourism work builds 100 transferable skills, study shows",
+      "link": "https://phys.org/news/2026-03-tourism-skills.html",
+      "date": "2026-03-25 22:40",
+      "summary": "People working in tourism and hospitality develop more than 100 transferable skills—from empathy and resilience to problem-solving..."
     }
   ],
   "The Guardian Edu": [
@@ -353,12 +353,6 @@
   ],
   "New Scientist": [
     {
-      "title": "Meta and YouTube fined $3 million for harming mental health",
-      "link": "https://www.newscientist.com/article/2521032-meta-and-youtube-fined-3-million-for-harming-mental-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-25 20:52",
-      "summary": "In a landmark trial, social media giants Meta and YouTube were found negligent and ordered to pay for harming a user's mental heal..."
-    },
-    {
       "title": "The brain's cleaning system can be boosted to rid Alzheimer's proteins",
       "link": "https://www.newscientist.com/article/2520849-the-brains-cleaning-system-can-be-boosted-to-rid-alzheimers-proteins/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-25 17:00",
@@ -381,6 +375,12 @@
       "link": "https://www.newscientist.com/article/2520535-ancient-elephant-bones-reveal-vivid-details-of-a-neanderthal-hunt/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-25 11:54",
       "summary": "Researchers have re-analysed a set of elephant bones and a wooden spear found in Germany in 1948, which provide compelling evidenc..."
+    },
+    {
+      "title": "Cancer-causing chemical found to be leaking from gas cookers",
+      "link": "https://www.newscientist.com/article/2520639-cancer-causing-chemical-found-to-be-leaking-from-gas-cookers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-25 07:00",
+      "summary": "One in 10 homes tested in the UK, Italy and the Netherlands have dangerous levels of benzene because of slow leaks from gas hobs a..."
     }
   ]
 }
