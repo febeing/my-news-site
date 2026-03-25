@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Augmenting citizen science with computer vision for fish monitoring",
+      "link": "https://news.mit.edu/2026/augmenting-citizen-science-computer-vision-fish-monitoring-0325",
+      "date": "2026-03-25 21:00",
+      "summary": "MIT Sea Grant works with the Woodwell Climate Research Center and other collaborators to demonstrate a deep learning-based system ..."
+    },
+    {
       "title": "Why solid-state batteries keep short-circuiting",
       "link": "https://news.mit.edu/2026/why-solid-state-batteries-keep-short-circuiting-0325",
       "date": "2026-03-25 16:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/complicated-future-methane-cleansing-molecule-0324",
       "date": "2026-03-24 04:00",
       "summary": "A new model shows how levels of the “atmosphere’s detergent” may rise and fall in response to climate change...."
-    },
-    {
-      "title": "Investigating Antarctic ice shelf melting with global navigation satellite systems",
-      "link": "https://news.mit.edu/2026/investigating-antarctic-ice-shelf-melting-gnss-satellites-0323",
-      "date": "2026-03-23 20:55",
-      "summary": "Observations suggest a major melting event at the Ross Ice Shelf was connected to atmospheric turbulence...."
     }
   ],
   "Harvard Gazette": [
@@ -89,10 +89,10 @@
       "summary": "Women's Basketball Falls to Stanford in WBIT  Quinnipiac University Athletics..."
     },
     {
-      "title": "A Stanford MBA Reflection: Ten Minutes from Where I Sleep - Poets&Quants",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTGZpVWJuRUxkSWsycGMzTEhGeXhyTVExM2FTTTd4SmxHVW8xNHhnNEJvTjl1SXFSQUVhdDRTdmxYSklsNjhzTy13TVllaThOQzJBMTdmYzc0bkpIRlY4ZEtwSEk1UDZGeWxtWFlEOWYxeEVqTWdORWtQRlVqRkVKLUU2VGhfSlZsNVY0WnZvdExzUi1JMW9PdGQ2UQ?oc=5",
-      "date": "2026-03-24 21:58",
-      "summary": "A Stanford MBA Reflection: Ten Minutes from Where I Sleep  Poets&Quants..."
+      "title": "Pirates Set To Host No. 19 Stanford On Wednesday Night - East Carolina University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXVVYzNZcFJ1V2xRLTN2T01lYWtoQ19fOG0tU2phT2p6MGYyVnYtWGw0UG84SGRxTmxzcXczUmJGeFJVaGFCbEh3NkFmUkh2LS05WlBKWndkTS15alZfelZWek1tdTd5dmZPdUc1eFV6SWJCcFp2VDhKN1M0ZEFCUzJfamd6QTQtVFpCdGJ3VmtUX3ZVd25iVjZtbzUyRkZsYUE?oc=5",
+      "date": "2026-03-24 15:16",
+      "summary": "Pirates Set To Host No. 19 Stanford On Wednesday Night  East Carolina University Athletics..."
     }
   ],
   "Nature Careers": [
@@ -217,24 +217,24 @@
       "summary": "China bars Manus co-founders from leaving country amid Meta deal review, FT reports  Reuters..."
     },
     {
-      "title": "Breakingviews - China AI labs face growing open-source dilemma - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTc1X1B3WHpNUDVjei1KRmQyWkJiMzFCc1hsa0RINUJLYXF0MFRsOEI2bVBzZk5XbE82dDFqVTh0NVoxZUhRTU1pR2hMOG9KYXBSWkVBNE1WWEt6MkU1NF83djRKZGdQN1VWTW9oY0dTTXZmZ1QtczZjV19idi1jbFh3Y05WWnpFR0QtVVZTQlVfZTlJTjRmai1oRFQ2X0RkZW1aOE5mRVVDd0E?oc=5",
-      "date": "2026-03-25 04:27",
-      "summary": "Breakingviews - China AI labs face growing open-source dilemma  Reuters..."
+      "title": "German army eyes AI tools to expedite wartime decision-making - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTE5TVGhYTDhrVW1JMXh0dU54Q1pHUV81d3pHZlZNdjg1UTNqS0tWZVlCU0ozQ1A2aGR5dVZESS1DQjlqVXJVb2UwZUZnYlV5STNfV3BvWU5zakt6Z1dGOHpXVmNHOUJoVUJSQTl2Q2JEYlU4dVZ1TldfY3hQUXY2WTNtUkVXYUpVTFczSmExQUlEdWk2MWhyeVdEY3pDTjgteUlrNUZMaEE?oc=5",
+      "date": "2026-03-25 10:44",
+      "summary": "German army eyes AI tools to expedite wartime decision-making  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "Why this battery company is pivoting to AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQajF2ejU5LTJpZnp0NV9vOVZTQWZPMURObEtGSjhkekh1TmM4Ymd0cUx0VC1ORHQxQWlFU2UwaTZYcF9SUEtWSlpCeDl2ZlJfYmdDd3ZycURUanBOdE9FalRNRFVlT0pabmJvUEdETzE1REM2OVpvc2s3ZUc0MWFFMXFnSDgtUkRq0gGOAUFVX3lxTE9ZQk5ucG5PMm42cGFnZlhfV0pKN1RueHBVR2dNdWhsUkRrMVhaSG1OcFBPajc0b3NtZEttWDBpN2lUSUE5cVlWaXNPXzlLVzUtUXV1STNYb1FGWGhNZVkyZG1GY0ZXVUFtWm8xNERnc3VjWGsybEFFdnQzUU9ud1gtaEhzbEJfR1J4Um1zclE?oc=5",
+      "date": "2026-03-25 15:02",
+      "summary": "Why this battery company is pivoting to AI  MIT Technology Review..."
+    },
     {
       "title": "The AI Hype Index: AI goes to war - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdG1LSm1hZkltdEZGM3RPX0psVmNoT3BmdVRuLTlob0ZLdFZUSnB2N25seGRwVldVT214RmROWS0zelRwcGJTMVlBT0lYYlRfNTdIZTdWQmNaS0pFUnRndXVaU1ZVY3BWVmlpcVhCRGFCR25sMDNzT1p2RTE0LTVPZ3Z4eWNpdUdDUGU3N0R3?oc=5",
       "date": "2026-03-25 09:00",
       "summary": "The AI Hype Index: AI goes to war  MIT Technology Review..."
-    },
-    {
-      "title": "OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaktiMXBZbHU1WWV0YUw1c3A1RlloQTJXVGd0eEdQTzA4ZUF2YmZzODFtLWhMU0dKXzkxUXFPOXgwalF1bTlmM3Z6d3JhRzdpeDlZZVRRdWFBeHhTd0dfSUhCUWgwcHVDZkctSVlLZEVjLXdzLW02THh2Mi1DM25SbmFTSlNJOFhTOE9XSERHcFRFbUJfSGFSUDhDSFdrZm43S3FIUnRxVjAtaVpQUVZ6dHVaaWpzMDhFS1haakZ6T1BrU3PSAcgBQVVfeXFMUHl0ZFNoeFlESVdmZHJzTmkzWHQxYmxKbV9KazY3NHpZdGtvMFk5c0VVUExCMU82MmpTX1p3RHJjTDR2VlRBZ01tS0R3TWFBYXV3RDdXLXh4N3FWX1hXWnQ4OEpmcW13NWhybktWdXRFRUxfUldNSGlROEVKTHpwUlhMZHFMTEhJT0dTT1NITEFtV2c5QmR5a3VMaDFMY2Z0LXlCclFWS21DWGxmNjBxaWNsYWZVeGxyRm9Zd1NFUm1hVmxPVTdCVVg?oc=5",
-      "date": "2026-03-20 11:57",
-      "summary": "OpenAI is throwing everything into building a fully automated researcher  MIT Technology Review..."
     },
     {
       "title": "This startup wants to change how mathematicians do math - MIT Technology Review",
@@ -243,48 +243,48 @@
       "summary": "This startup wants to change how mathematicians do math  MIT Technology Review..."
     },
     {
+      "title": "OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaktiMXBZbHU1WWV0YUw1c3A1RlloQTJXVGd0eEdQTzA4ZUF2YmZzODFtLWhMU0dKXzkxUXFPOXgwalF1bTlmM3Z6d3JhRzdpeDlZZVRRdWFBeHhTd0dfSUhCUWgwcHVDZkctSVlLZEVjLXdzLW02THh2Mi1DM25SbmFTSlNJOFhTOE9XSERHcFRFbUJfSGFSUDhDSFdrZm43S3FIUnRxVjAtaVpQUVZ6dHVaaWpzMDhFS1haakZ6T1BrU3PSAcgBQVVfeXFMUHl0ZFNoeFlESVdmZHJzTmkzWHQxYmxKbV9KazY3NHpZdGtvMFk5c0VVUExCMU82MmpTX1p3RHJjTDR2VlRBZ01tS0R3TWFBYXV3RDdXLXh4N3FWX1hXWnQ4OEpmcW13NWhybktWdXRFRUxfUldNSGlROEVKTHpwUlhMZHFMTEhJT0dTT1NITEFtV2c5QmR5a3VMaDFMY2Z0LXlCclFWS21DWGxmNjBxaWNsYWZVeGxyRm9Zd1NFUm1hVmxPVTdCVVg?oc=5",
+      "date": "2026-03-20 11:57",
+      "summary": "OpenAI is throwing everything into building a fully automated researcher  MIT Technology Review..."
+    },
+    {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjJNYVhxNlVqbGNtbkRDaVNrSVp3Q2xlVVpHaVZDN1FsM3djLWROTmdoRXlJbXRVZk1RaE1DQ3BDc1Z1cjBjQXpSb1VIMFRyRVN2ZnNpVndjQ2FwdElyeGdCRWNtNlkydWdNOUxxdzh2MnpLWE9JU3dGQ1VYbmxEUEFFTVhkWnpFUmc3ODdIVFFPYkU1aU55T2c2NXNadzB4T2Fz0gGoAUFVX3lxTFA0c0hLSjJxMU5lckM3bFJWLVRPSWhiX2EwcG1YVjFjOWpFbFVtaW5rbG5mbHFCLVdWcWpJRFlpSHFMTTlmUi1YOTVzYm5nYmJVblZxZUsweWZIbVBWcWhvcHpJYnFuV3FlbWtBbVR0NG1LaWxaREdFQVMyQmJneEY4M0lsQUp5RTRLTFFfY3JaRlV3UTI1UGYtNUFrR2I0d1Z4YWZqcjJSTw?oc=5",
       "date": "2026-03-09 07:00",
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
-    },
-    {
-      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWkFweVFuNktxSXZmTlIzM3R2NFhhX1NINzR2MWRBZnFqZDVFQkJITlVMWmpBMkhPUzlNNGhsM3doRHMzaV9rZ0gxUUp6TWtMNS0zenByLWJDYk5JeXVNLXliQmJhbUN2RlZfNFlqQ3lpaXZwWjJfYmlCYmlwRlJfaTliQXRfYnJ0MThKRFZ4Qzh3cFhyLUJTN2RwSUxFbWo1dFUtZlRnOVAxM1FucDBzY0dqYmNBZXdjbW9YeUpn0gHDAUFVX3lxTE5FMGFJNGZheFJhWVFoZnhhQWtTR1BfQ25JOU0wVFJlX3FzSFgxTmNKMmJnOHJNYmVISnNUSUtxTG5JcGlvcmhTNVJ2TlVvQXUweGM1NUpabUVnNmNmMEFYTFZ4U2ZNcnNQdGs4MnJXaVFudHVacC14NFNrd210ODFRaWFkT0tGMEVoVVpOQlhsT2pHS20ta1BkTkpkQTRsWHA5Sl9KUm5lRHhaeVZWazFuQzQ2NUZDN1JRci10OUE3djNoZw?oc=5",
-      "date": "2026-03-25 12:47",
-      "summary": "The Download: reawakening frozen brains, and the AI Hype Index returns  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "What the historic snow drought means for water, wildfires and the future of the West",
-      "link": "https://phys.org/news/2026-03-historic-drought-wildfires-future-west.html",
-      "date": "2026-03-25 20:30",
-      "summary": "Across much of the Western United States, winter 2026 was the year the snow never came. Many ski resorts got by with snowmaking bu..."
+      "title": "Topological solitons power a chip-scale frequency comb source",
+      "link": "https://phys.org/news/2026-03-topological-solitons-power-chip-scale.html",
+      "date": "2026-03-25 21:30",
+      "summary": "Caltech scientists have developed a new way to produce optical frequency combs—important tools in devices that keep time and measu..."
     },
     {
-      "title": "A forest cleanup crew at risk? What hotter Amazon lowlands could mean dung beetles",
-      "link": "https://phys.org/news/2026-03-forest-cleanup-crew-hotter-amazon.html",
-      "date": "2026-03-25 20:20",
-      "summary": "Dung beetles remove feces from wild animals in forests and thus inhibit the spread of parasites. They work the dung into the soil ..."
+      "title": "Motivations behind violent extremism uncovered in new global study",
+      "link": "https://phys.org/news/2026-03-violent-extremism-uncovered-global.html",
+      "date": "2026-03-25 21:20",
+      "summary": "New research from the University of St Andrews has revealed that human readiness for intergroup violence is not a single or unifie..."
     },
     {
-      "title": "XRISM clocks hot wind of galaxy M82 at 2 million mph",
-      "link": "https://phys.org/news/2026-03-xrism-clocks-hot-galaxy-m82.html",
-      "date": "2026-03-25 20:10",
-      "summary": "For the first time, astronomers have directly measured the speed of superheated gas billowing from a cauldron of stellar activity ..."
+      "title": "Scientists engineer a 'Trojan Horse' to conquer aggressive brain cancer",
+      "link": "https://phys.org/news/2026-03-scientists-trojan-horse-conquer-aggressive.html",
+      "date": "2026-03-25 21:20",
+      "summary": "Scientists from National Taiwan University (NTU) and Linkou Chang Gung Memorial Hospital (CGMH) have developed a precision-enginee..."
     },
     {
-      "title": "Finding order in disorder: New mechanism amplifies transverse electron transport",
-      "link": "https://phys.org/news/2026-03-disorder-mechanism-amplifies-transverse-electron.html",
-      "date": "2026-03-25 20:00",
-      "summary": "For decades, it has been widely believed that electrons move most efficiently in materials that are clean and highly ordered. Much..."
+      "title": "RNA-guided CRISPR system activates gene expression",
+      "link": "https://phys.org/news/2026-03-rna-crispr-gene.html",
+      "date": "2026-03-25 21:10",
+      "summary": "In back-to-back studies published in Nature, researchers from Purdue University and Columbia University report a naturally evolved..."
     },
     {
-      "title": "Why some reefs recover faster than others—mathematical model spotlights coral recruitment patterns",
-      "link": "https://phys.org/news/2026-03-reefs-recover-faster-mathematical-spotlights.html",
-      "date": "2026-03-25 19:40",
-      "summary": "Climate-driven disturbances such as marine heat waves are rapidly reducing coral cover and degrading reef ecosystems worldwide. Us..."
+      "title": "Is nectar naturally spiked? What widespread low-level ethanol could mean for pollinators",
+      "link": "https://phys.org/news/2026-03-nectar-naturally-spiked-widespread-ethanol.html",
+      "date": "2026-03-25 21:00",
+      "summary": "As bees and hummingbirds flit from flower to flower, greedily sipping nectar in exchange for pollination, the animals often get an..."
     }
   ],
   "The Guardian Edu": [
@@ -353,6 +353,12 @@
   ],
   "New Scientist": [
     {
+      "title": "Meta and YouTube fined $3 million for harming mental health",
+      "link": "https://www.newscientist.com/article/2521032-meta-and-youtube-fined-3-million-for-harming-mental-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-25 20:52",
+      "summary": "In a landmark trial, social media giants Meta and YouTube were found negligent and ordered to pay for harming a user's mental heal..."
+    },
+    {
       "title": "The brain's cleaning system can be boosted to rid Alzheimer's proteins",
       "link": "https://www.newscientist.com/article/2520849-the-brains-cleaning-system-can-be-boosted-to-rid-alzheimers-proteins/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-25 17:00",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2520535-ancient-elephant-bones-reveal-vivid-details-of-a-neanderthal-hunt/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-25 11:54",
       "summary": "Researchers have re-analysed a set of elephant bones and a wooden spear found in Germany in 1948, which provide compelling evidenc..."
-    },
-    {
-      "title": "Cancer-causing chemical found to be leaking from gas cookers",
-      "link": "https://www.newscientist.com/article/2520639-cancer-causing-chemical-found-to-be-leaking-from-gas-cookers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-25 07:00",
-      "summary": "One in 10 homes tested in the UK, Italy and the Netherlands have dangerous levels of benzene because of slow leaks from gas hobs a..."
     }
   ]
 }
