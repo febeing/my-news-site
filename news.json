@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Wristband enables wearers to control a robotic hand with their own movements",
+      "link": "https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325",
+      "date": "2026-03-25 10:00",
+      "summary": "By moving their hands and fingers, users can direct a robot to play piano or shoot a basketball, or they can manipulate objects in..."
+    },
+    {
       "title": "How to create “humble” AI",
       "link": "https://news.mit.edu/2026/creating-humble-ai-0324",
       "date": "2026-03-24 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/chromolcd-high-res-imagery-on-everyday-items-to-reprogram-appearance-0323",
       "date": "2026-03-23 20:15",
       "summary": "The portable “ChromoLCD” device combines LCD and LED lighting to customize high-quality designs onto things like shirts and whiteb..."
-    },
-    {
-      "title": "CryoPRISM: A new tool for observing cellular machinery in a more natural environment",
-      "link": "https://news.mit.edu/2026/cryoprism-tool-for-observing-cellular-machinery-more-natural-environment-0320",
-      "date": "2026-03-20 19:25",
-      "summary": "The method allows researchers to observe biomolecular complexes in a quick, accurate, and budget-friendly way, providing new insig..."
     }
   ],
   "Harvard Gazette": [
@@ -199,12 +199,6 @@
       "summary": "China's open-source dominance threatens US AI lead, US advisory body warns  Reuters..."
     },
     {
-      "title": "OpenAI drops AI video tool Sora, startling Disney, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYlFMYXFmMll5LVluZE5adTFIRDY2eXF3TG5IbVRnS0hmQlZfOUNBQ3hZTDRpWW9Ya0N5MDdWRm1PenZpMFA4Z182YnppZnVYRzdRVWx3VUJBdjNNd0YxSXpnazFOdnBibHVUS1JBNWFUSk5LT1R0V3RlYzMtaTRkRmRGN3VySFF6VDVJSTBmN2hXT3FGdWU1anpiM2lUWkhXMGZMZDh5Y2c?oc=5",
-      "date": "2026-03-24 19:54",
-      "summary": "OpenAI drops AI video tool Sora, startling Disney, sources say  Reuters..."
-    },
-    {
       "title": "Meta boosts top executives' pay with stock options as AI race heats up - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblpUVnExU2V5YW9xX3hZZklma3gtSW5RQ09lZlQyQTJhN2ZFbmpXRkkxNUt5MVFOMTZsUGd1REd0Wk52RXFsRXJZWmxGRzVjRmtFczFmcDF0U0szUktOUXlQdWU0LU1aR1FDcTBvaW5MQkpCanJzalZaUFhpUlk1QS1jTkc3MEdRSFFaZDFIUXNnZVVXcG5MVFlPVW1qRmN4SjA4?oc=5",
       "date": "2026-03-25 01:57",
@@ -221,6 +215,12 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmlaQnozTEZ2VXM2REw4Z2ZDZktTeVh1M1NJVzNUaWV0VjNabkIwS3NSWE40Z2d5Tjd0R0tBOWQtaWk5RVFWS3NPMDg1RWpaSnczVm9kOEdwdlNMSklpbXBMOXg5WnhtR1B0Y0Q3Q1BPVjYyc21oVmtwdHI5U2RSM3lUOF9NWnkyaGJCcVBaeDhvR0hfemNPdDNhU1FZV2RId1hsYmZvajFHcTh0eW52N29vcWdDVzk2dzlNZG9odlNidnkwdVhwVmlTMS0?oc=5",
       "date": "2026-03-23 13:02",
       "summary": "Alibaba launches latest agentic AI platform with international unit's Accio Work  Reuters..."
+    },
+    {
+      "title": "Soaring AI demand spurs roll-out of long duration energy storage - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQTZobV9oeUtXX0pfeXNXRXBlaFJteGlza1V2ZUowMjNzUEZIUkpfLTNKd2lkdXNzMVEzbi16ZlU0SzRCcVY4NmRuUFZCdkJpVEU3TUplNEdObi1vaXFBVWtYN0ZKWDN3N0RMQU1fR3JYcXZFNE5vWXU1ZzZsa21QaExHTDdzN21MMjJtMnlxQWlFSjUtaG5rQUxOZVBNdnNld2hOYnc1dGtRUU9rUHRQVEdjbFlnSjV5a21wMA?oc=5",
+      "date": "2026-03-24 15:49",
+      "summary": "Soaring AI demand spurs roll-out of long duration energy storage  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,24 @@
   ],
   "Phys.org": [
     {
+      "title": "Artemis 2 Moon mission: a primer",
+      "link": "https://phys.org/news/2026-03-artemis-moon-mission-primer.html",
+      "date": "2026-03-25 10:10",
+      "summary": "NASA's Artemis 2 lunar mission is set to be the first crewed flyby of the moon in more than half a century, and could launch as so..."
+    },
+    {
+      "title": "First microlasers capable of detecting individual molecules and ions could one day aid diagnosis",
+      "link": "https://phys.org/news/2026-03-microlasers-capable-individual-molecules-ions.html",
+      "date": "2026-03-25 10:00",
+      "summary": "Scientists have created the first microlasers capable of detecting individual molecules and even single atomic ions, a breakthroug..."
+    },
+    {
+      "title": "Genomes reveal five E. coli 'armor' types behind most multidrug-resistant bloodstream infections",
+      "link": "https://phys.org/news/2026-03-genomes-reveal-coli-armor-multidrug.html",
+      "date": "2026-03-25 10:00",
+      "summary": "The first large-scale genetic study of E. coli's protective armor has identified the five capsule types that are responsible for 7..."
+    },
+    {
       "title": "Meet the four astronauts set to voyage around the moon",
       "link": "https://phys.org/news/2026-03-astronauts-voyage-moon.html",
       "date": "2026-03-25 09:50",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-03-dirty-diapers-born-japan-recycling.html",
       "date": "2026-03-25 09:40",
       "summary": "Billions of dirty diapers end up buried or burned every year in Japan—more from seniors than babies—but a recycling breakthrough h..."
-    },
-    {
-      "title": "It's go time: historic Moon mission set for lift-off",
-      "link": "https://phys.org/news/2026-03-historic-moon-mission.html",
-      "date": "2026-03-25 09:19",
-      "summary": "More than half a century after the groundbreaking Apollo program's last crewed flight to the moon, three men and one woman are pre..."
-    },
-    {
-      "title": "Green fireball captured on dashcam video as a meteor streaks across the Pacific Northwest sky",
-      "link": "https://phys.org/news/2026-03-green-fireball-captured-dashcam-video.html",
-      "date": "2026-03-25 09:14",
-      "summary": "Jason Jenkins was driving to work before dawn when a bright green streak beamed across the sky...."
-    },
-    {
-      "title": "Britain's hibernating hazel dormice are getting lighter in spring as temperatures rise, study suggests",
-      "link": "https://phys.org/news/2026-03-britain-hibernating-hazel-dormice-lighter.html",
-      "date": "2026-03-25 09:00",
-      "summary": "Britain's hazel dormice are getting lighter in spring but fatter in autumn as our climate changes, suggests new research in Scient..."
     }
   ],
   "The Guardian Edu": [
@@ -307,19 +307,31 @@
       "summary": "School leaders believe some deploy a deliberate strategy to boost grades and improve finances, new research suggests The top 500 s..."
     },
     {
-      "title": "Six students challenge Home Office visa ban on four countries",
-      "link": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
-      "date": "2026-03-23 18:00",
-      "summary": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from ..."
-    },
-    {
       "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
       "link": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
       "date": "2026-03-23 18:00",
       "summary": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will..."
+    },
+    {
+      "title": "Six students challenge Home Office visa ban on four countries",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
+      "date": "2026-03-23 18:00",
+      "summary": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from ..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Former Hong Kong exchange executive Ba Shusong reported out of public sight",
+      "link": "https://www.scmp.com/business/markets/article/3347879/former-hong-kong-exchange-executive-ba-shusong-reported-out-public-sight?utm_source=rss_feed",
+      "date": "2026-03-25 10:30",
+      "summary": "The former managing director and chief China economist of bourse operator Hong Kong Exchanges and Clearing (HKEX), Ba Shusong, has..."
+    },
+    {
+      "title": "CityU professor gets 4½ months in prison for offering HK$1,000 bribe to agent",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347878/cityu-professor-gets-4-1/2-months-prison-offering-hk1000-bribe-agent?utm_source=rss_feed",
+      "date": "2026-03-25 10:23",
+      "summary": "A City University (CityU) professor has been sentenced to 4½ months in prison for offering a HK$1,000 (US$128) bribe to a Hong Kon..."
+    },
     {
       "title": "GSIS exemplifying the benefits of bilingual education",
       "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/benefits-bilingual-education/article/3347575/gsis-exemplifying-benefits-bilingual-education?utm_source=rss_feed",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/business/article/3347851/pop-mart-shares-dive-despite-soaring-profit-investors-fear-labubu-dependence?utm_source=rss_feed",
       "date": "2026-03-25 08:30",
       "summary": "Chinese toymaker Pop Mart reported strong annual growth in revenue and net profit for 2025, but not enough to alleviate investor f..."
-    },
-    {
-      "title": "Hong Kong weighs petrol pricing disclosure rule in tenders as fuel costs surge",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3347850/hong-kong-weighs-petrol-pricing-disclosure-rule-tenders-fuel-costs-surge?utm_source=rss_feed",
-      "date": "2026-03-25 08:28",
-      "summary": "Hong Kong authorities are facing mounting pressure from lawmakers to roll out more measures to rein in surging fuel prices, includ..."
-    },
-    {
-      "title": "More websites, mobile apps for children collecting personal data: study",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3347829/more-websites-mobile-apps-children-collecting-personal-data-study-finds?utm_source=rss_feed",
-      "date": "2026-03-25 06:55",
-      "summary": "A global investigation involving Hong Kong authorities has found that more websites and mobile apps designed for children are coll..."
     }
   ],
   "New Scientist": [
