@@ -90,7 +90,7 @@
     },
     {
       "title": "A Stanford MBA Reflection: Ten Minutes from Where I Sleep - Poets&Quants",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM3lWRDU1S3FTa3JndFZkU2pWR3lPM1drS2RFZkp2Mk1iQ01VLXRkMzYyZ0dEMWJFRE0tUkZhb3JRSm15OVhjdFhheG9kT1dFWDBmakpGc3lZSEpmeTZHZWk5MTBLZGpSdG40SzA2eDh2Y3ZiemZVOGliLTRYZVhCV3VJV203Y2xubkZ5QWF5QlhaOVoxS0gwMUNMZ2V0Q1RyVGpOcHJlb2dMNEZEbnU2V2trZER3X3BiYVBoWEZPSXVwcVh2TG5NaHRUdWFsOEU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTGZpVWJuRUxkSWsycGMzTEhGeXhyTVExM2FTTTd4SmxHVW8xNHhnNEJvTjl1SXFSQUVhdDRTdmxYSklsNjhzTy13TVllaThOQzJBMTdmYzc0bkpIRlY4ZEtwSEk1UDZGeWxtWFlEOWYxeEVqTWdORWtQRlVqRkVKLUU2VGhfSlZsNVY0WnZvdExzUi1JMW9PdGQ2UQ?oc=5",
       "date": "2026-03-24 21:58",
       "summary": "A Stanford MBA Reflection: Ten Minutes from Where I Sleep  Poets&Quants..."
     }
@@ -101,6 +101,12 @@
       "link": "https://www.nature.com/articles/s41586-026-10355-4",
       "date": "2026-03-25 00:00",
       "summary": "Nature, Published online: 25 March 2026; doi:10.1038/s41586-026-10355-4Retraction Note: Multisensory learning binds neurons into a..."
+    },
+    {
+      "title": "Why insects aren't huge: a new challenge to a decades-old idea",
+      "link": "https://www.nature.com/articles/d41586-026-00976-0",
+      "date": "2026-03-25 00:00",
+      "summary": "Nature, Published online: 25 March 2026; doi:10.1038/d41586-026-00976-0Evidence suggests oxygen levels may not have been limiting ..."
     },
     {
       "title": "Can China keep up its extraordinary research growth?",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10270-8",
       "date": "2026-03-25 00:00",
       "summary": "Nature, Published online: 25 March 2026; doi:10.1038/s41586-026-10270-8Single-nucleus chromatin and RNA sequencing identifies epig..."
-    },
-    {
-      "title": "Ectopic NMDAR expression in cancer unmasks germline-encoded autoimmunity",
-      "link": "https://www.nature.com/articles/s41586-026-10278-0",
-      "date": "2026-03-25 00:00",
-      "summary": "Nature, Published online: 25 March 2026; doi:10.1038/s41586-026-10278-0NMDAR expression is sufficient to induce B cell recruitment..."
     }
   ],
   "Science News": [
@@ -193,10 +193,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "Arm unveils new AI chip, expects it to add billions in annual revenue - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkx5YWdOdURHUUg5Q2RZbEd6TnV6Nms5ZzdyNUpGcXZnX2xSMTl1Y1Y3cnJ5UUZEWkNUbUwxbWEtZ0FaMlJubzZXMGM2ZUZvT3AzcHJMd3RNZGU5LXZKYkxlTlBpbl91RFFTcE1ic3lCVlo3by1GZjhjRXp1VGpTZDc1cDh5ZkRxUmE3VzRGQXB1UUZBQ1QwNVVrckttNGprREZGNS1KaUZyRHRIektyZDBPTGZCblhhQmJ0VW1B?oc=5",
-      "date": "2026-03-24 17:02",
-      "summary": "Arm unveils new AI chip, expects it to add billions in annual revenue  Reuters..."
+      "title": "Alibaba launches latest agentic AI platform with international unit's Accio Work - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmlaQnozTEZ2VXM2REw4Z2ZDZktTeVh1M1NJVzNUaWV0VjNabkIwS3NSWE40Z2d5Tjd0R0tBOWQtaWk5RVFWS3NPMDg1RWpaSnczVm9kOEdwdlNMSklpbXBMOXg5WnhtR1B0Y0Q3Q1BPVjYyc21oVmtwdHI5U2RSM3lUOF9NWnkyaGJCcVBaeDhvR0hfemNPdDNhU1FZV2RId1hsYmZvajFHcTh0eW52N29vcWdDVzk2dzlNZG9odlNidnkwdVhwVmlTMS0?oc=5",
+      "date": "2026-03-23 13:02",
+      "summary": "Alibaba launches latest agentic AI platform with international unit's Accio Work  Reuters..."
     },
     {
       "title": "OpenAI drops AI video tool Sora, startling Disney, sources say - Reuters",
@@ -205,22 +205,22 @@
       "summary": "OpenAI drops AI video tool Sora, startling Disney, sources say  Reuters..."
     },
     {
+      "title": "Arm shares rally as new AI chip to drive billions in annual revenue - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDRyQWFic2hmOFlEZVp0dGk5TVZGNkNKcDhtY0FienUzeE9DZnBxMFExb3QwTzF2dHF0VUNWb3k0dndEUVVVQmhMa1lSOGpyOUVjRFJUNFp3bG9CWlkyS2ZlX1dtTENISXJFQ0ZndEtNR0ZlWTYtZ01TTTJaR0FoV1pqTU9oU3VhYzA2dFVmbWtjdVdSajFGTVBGbmo?oc=5",
+      "date": "2026-03-25 09:56",
+      "summary": "Arm shares rally as new AI chip to drive billions in annual revenue  Reuters..."
+    },
+    {
+      "title": "China bars Manus co-founders from leaving country amid Meta deal review, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcEtjblhLMFg0a3lFaUFILURiS2Y4Sk83SURULU5Sd2FOVVZ1RHJQVy1nY1gwemNUZFlqZV9vVGpiWGNxVlN0WG9Hb3JXejJCa2tUVl9WTnhiOWpPSmVoQ01LaTd0Ti1nUVdyQXMwOFZaU1VWV0xVSUFxYTlHcmV3Nm5Xdm1oeW9QSjZsMm1jOHpXbkNaaS1uQ2JpNTJmTVhYNjducUROWUZqQ1p6bWJVbGRQUGNBY2ZScmRtOEN0bUMtTUppdjl3VkVwbw?oc=5",
+      "date": "2026-03-25 04:47",
+      "summary": "China bars Manus co-founders from leaving country amid Meta deal review, FT reports  Reuters..."
+    },
+    {
       "title": "Breakingviews - China AI labs face growing open-source dilemma - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTc1X1B3WHpNUDVjei1KRmQyWkJiMzFCc1hsa0RINUJLYXF0MFRsOEI2bVBzZk5XbE82dDFqVTh0NVoxZUhRTU1pR2hMOG9KYXBSWkVBNE1WWEt6MkU1NF83djRKZGdQN1VWTW9oY0dTTXZmZ1QtczZjV19idi1jbFh3Y05WWnpFR0QtVVZTQlVfZTlJTjRmai1oRFQ2X0RkZW1aOE5mRVVDd0E?oc=5",
       "date": "2026-03-25 04:27",
       "summary": "Breakingviews - China AI labs face growing open-source dilemma  Reuters..."
-    },
-    {
-      "title": "German army eyes AI tools to expedite wartime decision-making - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTE5TVGhYTDhrVW1JMXh0dU54Q1pHUV81d3pHZlZNdjg1UTNqS0tWZVlCU0ozQ1A2aGR5dVZESS1DQjlqVXJVb2UwZUZnYlV5STNfV3BvWU5zakt6Z1dGOHpXVmNHOUJoVUJSQTl2Q2JEYlU4dVZ1TldfY3hQUXY2WTNtUkVXYUpVTFczSmExQUlEdWk2MWhyeVdEY3pDTjgteUlrNUZMaEE?oc=5",
-      "date": "2026-03-25 10:44",
-      "summary": "German army eyes AI tools to expedite wartime decision-making  Reuters..."
-    },
-    {
-      "title": "AI boom accelerates China's chip industry growth as demand strains supply chain - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQTZNb1VmYmNoVERjZFo4eTVWZXJOWWR3ekczLVdNRFYtMjNCenpHcjkzbFJJR0FFNzhLMm9xQXBLZWJQeFhxM0traVRsOXczZ3IzSHRBYXpNTHpDQXRYTHFZZGo5cDNMQ3hPSXFfd2NVT0NvX3VHY1YtODNrWjJIWDhlcUpMbmZuTFdlQlF5a2NfeXpyUE1McndKYW9FbHVRZkxDZnFCdHFpUXNoeHNJY2ZWTkFuVkY4OUlDbkw5OGszcmFraTg1VWc4eXhtRE1YUGhwZHV3eWQ?oc=5",
-      "date": "2026-03-25 12:20",
-      "summary": "AI boom accelerates China's chip industry growth as demand strains supply chain  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,48 +243,48 @@
       "summary": "This startup wants to change how mathematicians do math  MIT Technology Review..."
     },
     {
-      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWkFweVFuNktxSXZmTlIzM3R2NFhhX1NINzR2MWRBZnFqZDVFQkJITlVMWmpBMkhPUzlNNGhsM3doRHMzaV9rZ0gxUUp6TWtMNS0zenByLWJDYk5JeXVNLXliQmJhbUN2RlZfNFlqQ3lpaXZwWjJfYmlCYmlwRlJfaTliQXRfYnJ0MThKRFZ4Qzh3cFhyLUJTN2RwSUxFbWo1dFUtZlRnOVAxM1FucDBzY0dqYmNBZXdjbW9YeUpn0gHDAUFVX3lxTE5FMGFJNGZheFJhWVFoZnhhQWtTR1BfQ25JOU0wVFJlX3FzSFgxTmNKMmJnOHJNYmVISnNUSUtxTG5JcGlvcmhTNVJ2TlVvQXUweGM1NUpabUVnNmNmMEFYTFZ4U2ZNcnNQdGs4MnJXaVFudHVacC14NFNrd210ODFRaWFkT0tGMEVoVVpOQlhsT2pHS20ta1BkTkpkQTRsWHA5Sl9KUm5lRHhaeVZWazFuQzQ2NUZDN1JRci10OUE3djNoZw?oc=5",
-      "date": "2026-03-25 12:47",
-      "summary": "The Download: reawakening frozen brains, and the AI Hype Index returns  MIT Technology Review..."
-    },
-    {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjJNYVhxNlVqbGNtbkRDaVNrSVp3Q2xlVVpHaVZDN1FsM3djLWROTmdoRXlJbXRVZk1RaE1DQ3BDc1Z1cjBjQXpSb1VIMFRyRVN2ZnNpVndjQ2FwdElyeGdCRWNtNlkydWdNOUxxdzh2MnpLWE9JU3dGQ1VYbmxEUEFFTVhkWnpFUmc3ODdIVFFPYkU1aU55T2c2NXNadzB4T2Fz0gGoAUFVX3lxTFA0c0hLSjJxMU5lckM3bFJWLVRPSWhiX2EwcG1YVjFjOWpFbFVtaW5rbG5mbHFCLVdWcWpJRFlpSHFMTTlmUi1YOTVzYm5nYmJVblZxZUsweWZIbVBWcWhvcHpJYnFuV3FlbWtBbVR0NG1LaWxaREdFQVMyQmJneEY4M0lsQUp5RTRLTFFfY3JaRlV3UTI1UGYtNUFrR2I0d1Z4YWZqcjJSTw?oc=5",
       "date": "2026-03-09 07:00",
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWkFweVFuNktxSXZmTlIzM3R2NFhhX1NINzR2MWRBZnFqZDVFQkJITlVMWmpBMkhPUzlNNGhsM3doRHMzaV9rZ0gxUUp6TWtMNS0zenByLWJDYk5JeXVNLXliQmJhbUN2RlZfNFlqQ3lpaXZwWjJfYmlCYmlwRlJfaTliQXRfYnJ0MThKRFZ4Qzh3cFhyLUJTN2RwSUxFbWo1dFUtZlRnOVAxM1FucDBzY0dqYmNBZXdjbW9YeUpn0gHDAUFVX3lxTE5FMGFJNGZheFJhWVFoZnhhQWtTR1BfQ25JOU0wVFJlX3FzSFgxTmNKMmJnOHJNYmVISnNUSUtxTG5JcGlvcmhTNVJ2TlVvQXUweGM1NUpabUVnNmNmMEFYTFZ4U2ZNcnNQdGs4MnJXaVFudHVacC14NFNrd210ODFRaWFkT0tGMEVoVVpOQlhsT2pHS20ta1BkTkpkQTRsWHA5Sl9KUm5lRHhaeVZWazFuQzQ2NUZDN1JRci10OUE3djNoZw?oc=5",
+      "date": "2026-03-25 12:47",
+      "summary": "The Download: reawakening frozen brains, and the AI Hype Index returns  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "If the Laschamps geomagnetic excursion happened today, aviation radiation exposure would be radically altered",
-      "link": "https://phys.org/news/2026-03-laschamps-geomagnetic-excursion-today-aviation.html",
-      "date": "2026-03-25 19:00",
-      "summary": "Earth's magnetic field acts as a vital shield against radiation arriving from space, but it is not constant. A new international s..."
+      "title": "What the historic snow drought means for water, wildfires and the future of the West",
+      "link": "https://phys.org/news/2026-03-historic-drought-wildfires-future-west.html",
+      "date": "2026-03-25 20:30",
+      "summary": "Across much of the Western United States, winter 2026 was the year the snow never came. Many ski resorts got by with snowmaking bu..."
     },
     {
-      "title": "Brazil's fire corals may be facing silent extinction, experts say",
-      "link": "https://phys.org/news/2026-03-brazil-corals-silent-extinction-experts.html",
-      "date": "2026-03-25 18:50",
-      "summary": "According to the authors of a study published in the journal Coral Reefs, fire corals may be undergoing a \"silent extinction.\" Cor..."
+      "title": "A forest cleanup crew at risk? What hotter Amazon lowlands could mean dung beetles",
+      "link": "https://phys.org/news/2026-03-forest-cleanup-crew-hotter-amazon.html",
+      "date": "2026-03-25 20:20",
+      "summary": "Dung beetles remove feces from wild animals in forests and thus inhibit the spread of parasites. They work the dung into the soil ..."
     },
     {
-      "title": "How New Jersey's limits on 'forever chemicals' in tap water brought levels down",
-      "link": "https://phys.org/news/2026-03-jersey-limits-chemicals-brought.html",
-      "date": "2026-03-25 18:40",
-      "summary": "Levels of toxic \"forever chemicals\" in New Jersey's public water systems dropped by as much as 55% after the state moved to limit ..."
+      "title": "XRISM clocks hot wind of galaxy M82 at 2 million mph",
+      "link": "https://phys.org/news/2026-03-xrism-clocks-hot-galaxy-m82.html",
+      "date": "2026-03-25 20:10",
+      "summary": "For the first time, astronomers have directly measured the speed of superheated gas billowing from a cauldron of stellar activity ..."
     },
     {
-      "title": "Using 'imaginative' AI to survey past and future earthquake damage",
-      "link": "https://phys.org/news/2026-03-ai-survey-future-earthquake.html",
-      "date": "2026-03-25 18:40",
-      "summary": "Researchers have used artificial intelligence to develop a new tool for assessing earthquake damage, a leap that could ultimately ..."
+      "title": "Finding order in disorder: New mechanism amplifies transverse electron transport",
+      "link": "https://phys.org/news/2026-03-disorder-mechanism-amplifies-transverse-electron.html",
+      "date": "2026-03-25 20:00",
+      "summary": "For decades, it has been widely believed that electrons move most efficiently in materials that are clean and highly ordered. Much..."
     },
     {
-      "title": "Amazon wildfire emissions may be up to three times higher than estimated",
-      "link": "https://phys.org/news/2026-03-amazon-wildfire-emissions-higher.html",
-      "date": "2026-03-25 18:20",
-      "summary": "Fires are a recurring phenomenon in central South America, often intensified by drought and deforestation. In 2024, wildfire activ..."
+      "title": "Why some reefs recover faster than others—mathematical model spotlights coral recruitment patterns",
+      "link": "https://phys.org/news/2026-03-reefs-recover-faster-mathematical-spotlights.html",
+      "date": "2026-03-25 19:40",
+      "summary": "Climate-driven disturbances such as marine heat waves are rapidly reducing coral cover and degrading reef ecosystems worldwide. Us..."
     }
   ],
   "The Guardian Edu": [
