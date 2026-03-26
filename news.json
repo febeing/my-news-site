@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "Stanford Medicine students discover their residency futures on Match Day - Stanford Medicine",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rMXpwX2VEZGRBaGRiZ3VPdUNmOThXM3BLWWJJZ0lJYXNOVXFDUVNkSU44UzI5bGRNcEFRWm5MX0UwM3lzU1RsZ2lPYnVLQ2tob296bjd2MElJYWhFbnp5TVp2alktcFhkdkR4U2l2Z0UxVWVN?oc=5",
+      "date": "2026-03-24 16:11",
+      "summary": "Stanford Medicine students discover their residency futures on Match Day  Stanford Medicine..."
+    },
+    {
       "title": "Pirates Fall At Home To No. 19 Stanford, 7-2 - East Carolina University Athletics",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUllySnQ1MVZOcWRpdXk5ZDNwX0xSM1YyMFZSOUktSGdfNHVJbmI4eWFxSklxWGVNNnFuLUZubXcyY203ZnlGdlhSaTU3RzljWmNCaGN0UllmdUhMNV9aSEtxcW9MdEpRTkdiRkJRWlZId1FfMWFITUxZMXpqN1YwQUVuaVViMXB3bjB5OU5rY3dxRGM?oc=5",
       "date": "2026-03-26 01:54",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVnRfSS1oMEFFdHBUdXBLS0wzcFVPS2FlTHNQQWgxT0JvMmNIRVlVZWZPMUhFc1VSTTl2WHJuYUhZcGV5NkpGc0xnZ2RLRTFGYWNGV3hzR0ZwTy1LY1V5UVBOR2wyTmJGd01fWkI1ajlwRzNCSUxnN291RVpfMFNZcWp2dkZiZk93QnJYTHNGMWdNdw?oc=5",
       "date": "2026-03-25 19:03",
       "summary": "Cougars Head to Stanford for The Goodwin  Washington State University Athletics..."
-    },
-    {
-      "title": "Stanford Medicine students discover their residency futures on Match Day - Stanford Medicine",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rMXpwX2VEZGRBaGRiZ3VPdUNmOThXM3BLWWJJZ0lJYXNOVXFDUVNkSU44UzI5bGRNcEFRWm5MX0UwM3lzU1RsZ2lPYnVLQ2tob296bjd2MElJYWhFbnp5TVp2alktcFhkdkR4U2l2Z0UxVWVN?oc=5",
-      "date": "2026-03-24 16:11",
-      "summary": "Stanford Medicine students discover their residency futures on Match Day  Stanford Medicine..."
     },
     {
       "title": "Joan Lane, trailblazing volunteer and Stanford’s go-to for ‘sticky problems,’ dies at 97 - The Almanac",
@@ -193,10 +193,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "China's open-source dominance threatens US AI lead, US advisory body warns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN3FfMmpVdzRPQUtQWGNWbmlTdTQ5djBZc3RvX3djNThZUmJTanBZY3RFdEw5YjM4YzZvYTBTVTVoNmY1ZWNsM3IxREpPNkJCWl90R1RfNVFSaUk4WTZiOTk4WHFCV3RyQUdaTFk5cmFPYkRhSWpCZ1M1X2FkZDhtT2VlaTdIdXpKcmdPZWRIbWpYMkVjcU1uRzYwRGpDSGdVZ3RkSmc1aGhzSFBac05hWklrV0gtd2szTWNCbkpIbjdibHl5U05Uby1ZY0NFOGdXbE9wQw?oc=5",
-      "date": "2026-03-23 12:02",
-      "summary": "China's open-source dominance threatens US AI lead, US advisory body warns  Reuters..."
+      "title": "Arm unveils new AI chip, expects it to add billions in annual revenue - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkx5YWdOdURHUUg5Q2RZbEd6TnV6Nms5ZzdyNUpGcXZnX2xSMTl1Y1Y3cnJ5UUZEWkNUbUwxbWEtZ0FaMlJubzZXMGM2ZUZvT3AzcHJMd3RNZGU5LXZKYkxlTlBpbl91RFFTcE1ic3lCVlo3by1GZjhjRXp1VGpTZDc1cDh5ZkRxUmE3VzRGQXB1UUZBQ1QwNVVrckttNGprREZGNS1KaUZyRHRIektyZDBPTGZCblhhQmJ0VW1B?oc=5",
+      "date": "2026-03-24 17:02",
+      "summary": "Arm unveils new AI chip, expects it to add billions in annual revenue  Reuters..."
     },
     {
       "title": "AI boom accelerates China's chip industry growth as demand strains supply chain - Reuters",
@@ -243,16 +243,16 @@
       "summary": "This startup wants to change how mathematicians do math  MIT Technology Review..."
     },
     {
-      "title": "The AI Hype Index: AI goes to war - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdG1LSm1hZkltdEZGM3RPX0psVmNoT3BmdVRuLTlob0ZLdFZUSnB2N25seGRwVldVT214RmROWS0zelRwcGJTMVlBT0lYYlRfNTdIZTdWQmNaS0pFUnRndXVaU1ZVY3BWVmlpcVhCRGFCR25sMDNzT1p2RTE0LTVPZ3Z4eWNpdUdDUGU3N0R3?oc=5",
-      "date": "2026-03-25 09:00",
-      "summary": "The AI Hype Index: AI goes to war  MIT Technology Review..."
-    },
-    {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjJNYVhxNlVqbGNtbkRDaVNrSVp3Q2xlVVpHaVZDN1FsM3djLWROTmdoRXlJbXRVZk1RaE1DQ3BDc1Z1cjBjQXpSb1VIMFRyRVN2ZnNpVndjQ2FwdElyeGdCRWNtNlkydWdNOUxxdzh2MnpLWE9JU3dGQ1VYbmxEUEFFTVhkWnpFUmc3ODdIVFFPYkU1aU55T2c2NXNadzB4T2Fz0gGoAUFVX3lxTFA0c0hLSjJxMU5lckM3bFJWLVRPSWhiX2EwcG1YVjFjOWpFbFVtaW5rbG5mbHFCLVdWcWpJRFlpSHFMTTlmUi1YOTVzYm5nYmJVblZxZUsweWZIbVBWcWhvcHpJYnFuV3FlbWtBbVR0NG1LaWxaREdFQVMyQmJneEY4M0lsQUp5RTRLTFFfY3JaRlV3UTI1UGYtNUFrR2I0d1Z4YWZqcjJSTw?oc=5",
       "date": "2026-03-09 07:00",
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
+    },
+    {
+      "title": "The AI Hype Index: AI goes to war - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdG1LSm1hZkltdEZGM3RPX0psVmNoT3BmdVRuLTlob0ZLdFZUSnB2N25seGRwVldVT214RmROWS0zelRwcGJTMVlBT0lYYlRfNTdIZTdWQmNaS0pFUnRndXVaU1ZVY3BWVmlpcVhCRGFCR25sMDNzT1p2RTE0LTVPZ3Z4eWNpdUdDUGU3N0R3?oc=5",
+      "date": "2026-03-25 09:00",
+      "summary": "The AI Hype Index: AI goes to war  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -307,24 +307,30 @@
       "summary": "School leaders believe some deploy a deliberate strategy to boost grades and improve finances, new research suggests The top 500 s..."
     },
     {
-      "title": "Six students challenge Home Office visa ban on four countries",
-      "link": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
-      "date": "2026-03-23 18:00",
-      "summary": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from ..."
-    },
-    {
       "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
       "link": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
       "date": "2026-03-23 18:00",
       "summary": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will..."
+    },
+    {
+      "title": "Six students challenge Home Office visa ban on four countries",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
+      "date": "2026-03-23 18:00",
+      "summary": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from ..."
     }
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Explosion at Hong Kong recycling yard injures 2",
+      "title": "Air-con technician critically injured after fall from ladder in Tsuen Wan",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3347969/air-con-technician-critically-injured-after-fall-ladder-tsuen-wan?utm_source=rss_feed",
+      "date": "2026-03-26 06:53",
+      "summary": "A Hong Kong air-conditioner technician was critically injured after falling from a ladder in Tsuen Wan on Thursday morning.\nPolice..."
+    },
+    {
+      "title": "6 injured in explosion at Hong Kong recycling yard",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3347947/explosion-hong-kong-recycling-yard-injures-2?utm_source=rss_feed",
       "date": "2026-03-26 04:53",
-      "summary": "Two people have been injured in an explosion at a recycling yard in northern Hong Kong, with online footage showing towering flame..."
+      "summary": "Six people have been injured, some with serious burns, in an explosion at a recycling yard in northern Hong Kong, with more than 1..."
     },
     {
       "title": "Man dies after getting electric shock from lamp post near Lantau beach",
@@ -333,22 +339,16 @@
       "summary": "A man was killed after receiving an electric shock from a lamp post while wet following a visit to a beach on Hong Kong’s Lantau I..."
     },
     {
-      "title": "Contractor failed to supervise smoking workers, resident says in Tai Po fire hearing",
+      "title": "Contractor failed to supervise smoking workers, residents say in Tai Po fire hearing",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3347925/police-hotline-busy-piles-rubbish-estate-residents-say-tai-po-fire-hearing?utm_source=rss_feed",
       "date": "2026-03-26 02:57",
-      "summary": "A public evidential hearing by an independent committee into a fire that killed 168 people at a Hong Kong estate has entered its f..."
+      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
     },
     {
       "title": "Innuendo and implication: just a joke or risk of defamation in Hong Kong?",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347796/innuendo-and-implication-just-joke-or-risk-defamation-hong-kong?utm_source=rss_feed",
       "date": "2026-03-26 01:30",
       "summary": "Picture this – you’re having a few pints with your mates down at the pub during an open-mic comedy night.\nThe aspiring comedian th..."
-    },
-    {
-      "title": "CLP to raise fuel cost adjustment next month, first increase in more than a year",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347924/clp-raise-fuel-cost-adjustment-next-month-first-increase-more-year?utm_source=rss_feed",
-      "date": "2026-03-26 00:45",
-      "summary": "CLP Power, Hong Kong’s largest electricity supplier, will raise its fuel cost adjustment (FCA) next month – the first increase in ..."
     }
   ],
   "New Scientist": [
