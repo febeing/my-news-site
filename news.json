@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT engineers design proteins by their motion, not just their shape",
+      "link": "https://news.mit.edu/2026/mit-engineers-design-proteins-by-motion-not-just-shape-0326",
+      "date": "2026-03-26 20:20",
+      "summary": "An AI model generates novel proteins based on how they vibrate and move, opening new possibilities for dynamic biomaterials and ad..."
+    },
+    {
       "title": "Implantable islet cells could control diabetes without insulin injections",
       "link": "https://news.mit.edu/2026/implantable-islet-cells-could-control-diabetes-without-insulin-injections-0326",
       "date": "2026-03-26 15:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326",
       "date": "2026-03-26 04:00",
       "summary": "This new approach adapts to decide which robots should get the right of way at every moment, avoiding congestion and increasing th..."
-    },
-    {
-      "title": "Augmenting citizen science with computer vision for fish monitoring",
-      "link": "https://news.mit.edu/2026/augmenting-citizen-science-computer-vision-fish-monitoring-0325",
-      "date": "2026-03-25 21:00",
-      "summary": "MIT Sea Grant works with the Woodwell Climate Research Center and other collaborators to demonstrate a deep learning-based system ..."
     }
   ],
   "Harvard Gazette": [
@@ -71,10 +71,10 @@
       "summary": "Trump Administration Begins Investigations Into Three Medical Schools  The New York Times..."
     },
     {
-      "title": "Three faculty named AAAS Fellows - Stanford Report",
+      "title": "Three Stanford faculty named AAAS Fellows - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWnNBb2w2WFI2TkUxYXNCdHFrYWxMNkRaaW5YTXhsemNfVzVvLURzUGtaSGU0RU1jYW1FZlQ5ZVlHM2xiemNLTG1fZGE4VlAzdWhZblR3NFJzN2RPV01nRzN4RVNsSUoxWkVLbnFjOEk0ODFGbHdjU1dOT3NpM1V2MjhNX1pPdThZbGZN?oc=5",
       "date": "2026-03-26 14:19",
-      "summary": "Three faculty named AAAS Fellows  Stanford Report..."
+      "summary": "Three Stanford faculty named AAAS Fellows  Stanford Report..."
     },
     {
       "title": "AI overly affirms users asking for personal advice - Stanford Report",
@@ -103,6 +103,12 @@
       "summary": "Nature, Published online: 26 March 2026; doi:10.1038/d41586-026-00867-4Data gathered during a 1,200-kilometre polar trek show wher..."
     },
     {
+      "title": "Trump’s new science advisers include 12 technology chiefs — and one academic",
+      "link": "https://www.nature.com/articles/d41586-026-00977-z",
+      "date": "2026-03-26 00:00",
+      "summary": "Nature, Published online: 26 March 2026; doi:10.1038/d41586-026-00977-zSparse academic presence on the US President’s Council of A..."
+    },
+    {
       "title": "Why labs need a napping room to help you work, rest and play",
       "link": "https://www.nature.com/articles/d41586-026-00549-1",
       "date": "2026-03-26 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-00976-0",
       "date": "2026-03-25 00:00",
       "summary": "Nature, Published online: 25 March 2026; doi:10.1038/d41586-026-00976-0Evidence suggests oxygen levels may not have been limiting ..."
-    },
-    {
-      "title": "Can China keep up its extraordinary research growth?",
-      "link": "https://www.nature.com/articles/d41586-026-00423-0",
-      "date": "2026-03-25 00:00",
-      "summary": "Nature, Published online: 25 March 2026; doi:10.1038/d41586-026-00423-0Evidence of a pivot towards other sources of funding and co..."
     }
   ],
   "Science News": [
@@ -201,7 +201,7 @@
     {
       "title": "Nvidia-backed Reflection AI eyes $25 billion valuation, WSJ reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmRCZkV3ZWtxZ0ljc0FQb1d3ak1Nb0gwbTNDUzJiTU1iR0Ewbmw3UjFWR0FwalFxWmYyRHdCVmNmVDlRRDJjVWVLekVyeU02UG9RQ1Rsb2psYWRjVmJyWFowNndjSllteXI4ZEhMalVMTkdOZGJFR1JTd3A0SjY4SjluZjZHdmJQS3dvZlplTGdJaWtJOFBkd0ZqN3RfbGVEanBmRXJHZXRONDRsc3gw?oc=5",
-      "date": "2026-03-26 02:44",
+      "date": "2026-03-26 02:43",
       "summary": "Nvidia-backed Reflection AI eyes $25 billion valuation, WSJ reports  Reuters..."
     },
     {
@@ -211,16 +211,16 @@
       "summary": "AI boom accelerates China's chip industry growth as demand strains supply chain  Reuters..."
     },
     {
-      "title": "German army eyes AI tools to expedite wartime decision-making - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTE5TVGhYTDhrVW1JMXh0dU54Q1pHUV81d3pHZlZNdjg1UTNqS0tWZVlCU0ozQ1A2aGR5dVZESS1DQjlqVXJVb2UwZUZnYlV5STNfV3BvWU5zakt6Z1dGOHpXVmNHOUJoVUJSQTl2Q2JEYlU4dVZ1TldfY3hQUXY2WTNtUkVXYUpVTFczSmExQUlEdWk2MWhyeVdEY3pDTjgteUlrNUZMaEE?oc=5",
-      "date": "2026-03-25 10:44",
-      "summary": "German army eyes AI tools to expedite wartime decision-making  Reuters..."
-    },
-    {
       "title": "South Korea to invest $166 million in AI chip startup Rebellions - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX1UwU2JaM3BaZVlpNjU4ZmNjcnNMSEdydTY3NDA2T1ZvODl3YVI4ZEtidzNBQVVEXzBmTTYzd2hkMldlUlhQVU1tc1pRRDJIcFlMbnU3elFoTEpfaUNnb210ckdONnFDRFdZNlVQV1B2NzFOU2tyNlhZaXhlTGI0YkxEUTYwazBSdEVaLUw2aDVWWkRQWlFMSlh1TGRiWGxhRlFQb3ZxamljcWo1SUlxNXlR?oc=5",
       "date": "2026-03-26 09:01",
       "summary": "South Korea to invest $166 million in AI chip startup Rebellions  Reuters..."
+    },
+    {
+      "title": "OpenAI indefinitely pauses plans to release erotic chatbot, FT says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTlRJaGRveGt1Z1R0VlIyempzZVVKNnJiaFY5UnpyRUJfQmpLaV91LTYxd0xzWms4Q25QaVZFTWY3X01HYnUyR3lpTkFJRF9WQlhEWkRKLThPQXIxSE1zS1l2a1dwdm9XeFRWdzhDMDlFVHFTVUw1bnU4TGxmYnAtWmtTTkZ6UTJOS0U3RURLSzV4QWFkdEZ3Um0wdWlFZ3pDN0x5WmVaNE9wdkFh?oc=5",
+      "date": "2026-03-26 10:22",
+      "summary": "OpenAI indefinitely pauses plans to release erotic chatbot, FT says  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -237,54 +237,54 @@
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
     },
     {
-      "title": "Are high gas prices good news for EVs? It’s complicated. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXMzYW10V3lKRVdIcVQ3SkE1M21iV1E1aXFxa1RhWTBIQ21Pb0VhQlljNjVCZ28yWWtMVFpfcDl1dUxOdFhEcDVSOE9nYzduYjJ6NktwTVYwRnk4M2V0bmV0bGZfYXo2OUlRY1hOSURkUF95V3Vsa1lRdUV6RWN4eUJCd1pNQkJS0gGOAUFVX3lxTFAwcW5SQUhrMWptclEwLWFQbHpRMmVfLWZVYVhadzhSWkZNa0IyLTZQVDVfc2UxNkVPSy1qX09jakJFWmFoTkpXeFFuMVlzR3BMTFJHMzdWbWFLWk95cVA2Z2V0YWZLdlFjNVJJNUtQWTBabEs4TjRqSHQxdHBTY3BHRXE2Tk9nX1ZYelE4a0E?oc=5",
-      "date": "2026-03-26 10:00",
-      "summary": "Are high gas prices good news for EVs? It’s complicated.  MIT Technology Review..."
-    },
-    {
       "title": "OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaktiMXBZbHU1WWV0YUw1c3A1RlloQTJXVGd0eEdQTzA4ZUF2YmZzODFtLWhMU0dKXzkxUXFPOXgwalF1bTlmM3Z6d3JhRzdpeDlZZVRRdWFBeHhTd0dfSUhCUWgwcHVDZkctSVlLZEVjLXdzLW02THh2Mi1DM25SbmFTSlNJOFhTOE9XSERHcFRFbUJfSGFSUDhDSFdrZm43S3FIUnRxVjAtaVpQUVZ6dHVaaWpzMDhFS1haakZ6T1BrU3PSAcgBQVVfeXFMUHl0ZFNoeFlESVdmZHJzTmkzWHQxYmxKbV9KazY3NHpZdGtvMFk5c0VVUExCMU82MmpTX1p3RHJjTDR2VlRBZ01tS0R3TWFBYXV3RDdXLXh4N3FWX1hXWnQ4OEpmcW13NWhybktWdXRFRUxfUldNSGlROEVKTHpwUlhMZHFMTEhJT0dTT1NITEFtV2c5QmR5a3VMaDFMY2Z0LXlCclFWS21DWGxmNjBxaWNsYWZVeGxyRm9Zd1NFUm1hVmxPVTdCVVg?oc=5",
       "date": "2026-03-20 11:57",
       "summary": "OpenAI is throwing everything into building a fully automated researcher  MIT Technology Review..."
     },
     {
-      "title": "The AI Hype Index: AI goes to war - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdG1LSm1hZkltdEZGM3RPX0psVmNoT3BmdVRuLTlob0ZLdFZUSnB2N25seGRwVldVT214RmROWS0zelRwcGJTMVlBT0lYYlRfNTdIZTdWQmNaS0pFUnRndXVaU1ZVY3BWVmlpcVhCRGFCR25sMDNzT1p2RTE0LTVPZ3Z4eWNpdUdDUGU3N0R3?oc=5",
-      "date": "2026-03-25 09:00",
-      "summary": "The AI Hype Index: AI goes to war  MIT Technology Review..."
+      "title": "Are high gas prices good news for EVs? It’s complicated. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXMzYW10V3lKRVdIcVQ3SkE1M21iV1E1aXFxa1RhWTBIQ21Pb0VhQlljNjVCZ28yWWtMVFpfcDl1dUxOdFhEcDVSOE9nYzduYjJ6NktwTVYwRnk4M2V0bmV0bGZfYXo2OUlRY1hOSURkUF95V3Vsa1lRdUV6RWN4eUJCd1pNQkJS0gGOAUFVX3lxTFAwcW5SQUhrMWptclEwLWFQbHpRMmVfLWZVYVhadzhSWkZNa0IyLTZQVDVfc2UxNkVPSy1qX09jakJFWmFoTkpXeFFuMVlzR3BMTFJHMzdWbWFLWk95cVA2Z2V0YWZLdlFjNVJJNUtQWTBabEs4TjRqSHQxdHBTY3BHRXE2Tk9nX1ZYelE4a0E?oc=5",
+      "date": "2026-03-26 10:00",
+      "summary": "Are high gas prices good news for EVs? It’s complicated.  MIT Technology Review..."
+    },
+    {
+      "title": "This startup wants to change how mathematicians do math - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOVVjVW5pcWhfWTFhaUhQQzdaMTZlRDN1dGIyX2Y2d3lDQWk3aFAxV2pKTmI5VFB3MUVXN0NSQVdXQUpzZ1RXTXR3UlFhaGdwa3p3LUpDSmNwMUhZMUxsakE1SFB1dnZ5ODNRUmZrSUE2aE9tRm1kczlOVzY3OENoQkd5cVJiV05fWEt5T3k3bklac2ZkZ2dncUF5WTVmc3g3cFhvZjdORWxEcmll0gGyAUFVX3lxTE9FR054bldLREVET1d0ODhaYnhXNklQQVVBYVYzLV80Q0tyWEZLU2pJVHVNV0Z3Zm5DekluVjNfMjF1S1RVM2VLczJBREp3LVZzbmFEWHJLX2lTQjRJWHhaNGVWU193QUpCQ1VTUlhVQlAtUWh3bkhxc0FtTHMtcVVqQVA1dzFZZjdsTU1uYUt5X3BmTEEzS19hV3Btc3ZCME94OG1NSjQyODFrTGwzRVRQekE?oc=5",
+      "date": "2026-03-25 13:59",
+      "summary": "This startup wants to change how mathematicians do math  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Why believing 'practice makes perfect' may matter more than grit for students' grades",
-      "link": "https://phys.org/news/2026-03-believing-grit-students-grades.html",
-      "date": "2026-03-26 19:40",
-      "summary": "Different forms of motivation affect how pupils perform in upper secondary school, a recent NTNU study shows. Pupils who believe t..."
+      "title": "Arctic sea ice at lowest level ever this winter",
+      "link": "https://phys.org/news/2026-03-arctic-sea-ice-lowest-winter.html",
+      "date": "2026-03-26 20:30",
+      "summary": "Arctic sea ice reached its lowest level ever recorded, statistically tying last year's record, a leading US climate observatory fo..."
     },
     {
-      "title": "AI tool can screen unknown bacteria for disease-linked genes, moving closer to preventing pandemics",
-      "link": "https://phys.org/news/2026-03-ai-tool-screen-unknown-bacteria.html",
-      "date": "2026-03-26 19:40",
-      "summary": "PathogenFinder2 is a new AI tool developed by researchers at DTU in Denmark, in collaboration with international partners, to dete..."
+      "title": "Justice in achieving climate goals: Researchers highlight the need for fair country shares in CO₂ removal",
+      "link": "https://phys.org/news/2026-03-justice-climate-goals-highlight-fair.html",
+      "date": "2026-03-26 20:20",
+      "summary": "As the war in the Middle East is currently reminding us once again, many countries around the world are heavily reliant on oil and..."
     },
     {
-      "title": "Generative AI for polymer design passes lab tests with a new dielectric material",
-      "link": "https://phys.org/news/2026-03-generative-ai-polymer-lab-dielectric.html",
-      "date": "2026-03-26 19:30",
-      "summary": "The words on this page mean something because they are assembled in a particular order and follow the complex rules of grammar and..."
+      "title": "Israel's 'Stonehenge' no longer stands alone: Satellite technology opens archaeological frontiers",
+      "link": "https://phys.org/news/2026-03-israel-stonehenge-longer-satellite-technology.html",
+      "date": "2026-03-26 20:20",
+      "summary": "For decades, the massive stone circles of Rujm el-Hiri in the Golan Heights were considered a singular, mysterious anomaly—often d..."
     },
     {
-      "title": "Hubble detects first-ever spin reversal of tiny comet",
-      "link": "https://phys.org/news/2026-03-hubble-reversal-tiny-comet.html",
-      "date": "2026-03-26 19:20",
-      "summary": "Astronomers using NASA's Hubble Space Telescope have found evidence that the spinning of a small comet slowed and then reversed it..."
+      "title": "Even if it goes nowhere, an SEC investigation will cost you",
+      "link": "https://phys.org/news/2026-03-sec.html",
+      "date": "2026-03-26 20:10",
+      "summary": "Everybody acts differently while they are being watched, especially by those with authority. Whether it's your boss sitting in the..."
     },
     {
-      "title": "In flight simulators, crews with better rapport perform better, study finds",
-      "link": "https://phys.org/news/2026-03-flight-simulators-crews-rapport.html",
-      "date": "2026-03-26 19:20",
-      "summary": "Picture a cockpit crew of two who met just minutes before takeoff, now descending through a turbulent midnight sky. They aren't lo..."
+      "title": "'Near-misses' in particle accelerators can illuminate new physics, study finds",
+      "link": "https://phys.org/news/2026-03-particle-illuminate-physics.html",
+      "date": "2026-03-26 20:00",
+      "summary": "Particle accelerators reveal the heart of nuclear matter by smashing together atoms at close to the speed of light. The high-energ..."
     }
   ],
   "The Guardian Edu": [
@@ -307,16 +307,16 @@
       "summary": "School leaders believe some deploy a deliberate strategy to boost grades and improve finances, new research suggests The top 500 s..."
     },
     {
-      "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
-      "link": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
-      "date": "2026-03-23 18:00",
-      "summary": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will..."
-    },
-    {
       "title": "Six students challenge Home Office visa ban on four countries",
       "link": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
       "date": "2026-03-23 18:00",
       "summary": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from ..."
+    },
+    {
+      "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
+      "date": "2026-03-23 18:00",
+      "summary": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will..."
     }
   ],
   "SCMP Hong Kong": [
