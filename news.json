@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "AI system learns to keep warehouse robot traffic running smoothly",
+      "link": "https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326",
+      "date": "2026-03-26 04:00",
+      "summary": "This new approach adapts to decide which robots should get the right of way at every moment, avoiding congestion and increasing th..."
+    },
+    {
       "title": "Augmenting citizen science with computer vision for fish monitoring",
       "link": "https://news.mit.edu/2026/augmenting-citizen-science-computer-vision-fish-monitoring-0325",
       "date": "2026-03-25 21:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/creating-humble-ai-0324",
       "date": "2026-03-24 04:00",
       "summary": "An MIT-led team is designing artificial intelligence systems for medical diagnosis that are more collaborative and forthcoming abo..."
-    },
-    {
-      "title": "A complicated future for a methane-cleansing molecule",
-      "link": "https://news.mit.edu/2026/complicated-future-methane-cleansing-molecule-0324",
-      "date": "2026-03-24 04:00",
-      "summary": "A new model shows how levels of the “atmosphere’s detergent” may rise and fall in response to climate change...."
     }
   ],
   "Harvard Gazette": [
@@ -65,16 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "AI’s Growing Role as Scientific Peer Reviewer - Stanford HAI",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzYU1HbWswTnpobDh5YjRLTHFtLU95RDUtSTcwbVcxVHplZjYxODVFRDJnZDN1d210THBKTms2NnlPNWFlcHJaQUIwbElvMmRoWFgxR04ycXc1d1V4Z2ZOai0zRmtvWmdBbHdJbXFvWVk5UFZSWHowV2U5cXpwX1E?oc=5",
-      "date": "2026-03-25 13:22",
-      "summary": "AI’s Growing Role as Scientific Peer Reviewer  Stanford HAI..."
-    },
-    {
       "title": "Pirates Fall At Home To No. 19 Stanford, 7-2 - East Carolina University Athletics",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUllySnQ1MVZOcWRpdXk5ZDNwX0xSM1YyMFZSOUktSGdfNHVJbmI4eWFxSklxWGVNNnFuLUZubXcyY203ZnlGdlhSaTU3RzljWmNCaGN0UllmdUhMNV9aSEtxcW9MdEpRTkdiRkJRWlZId1FfMWFITUxZMXpqN1YwQUVuaVViMXB3bjB5OU5rY3dxRGM?oc=5",
       "date": "2026-03-26 01:54",
       "summary": "Pirates Fall At Home To No. 19 Stanford, 7-2  East Carolina University Athletics..."
+    },
+    {
+      "title": "AI’s Growing Role as Scientific Peer Reviewer - Stanford HAI",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzYU1HbWswTnpobDh5YjRLTHFtLU95RDUtSTcwbVcxVHplZjYxODVFRDJnZDN1d210THBKTms2NnlPNWFlcHJaQUIwbElvMmRoWFgxR04ycXc1d1V4Z2ZOai0zRmtvWmdBbHdJbXFvWVk5UFZSWHowV2U5cXpwX1E?oc=5",
+      "date": "2026-03-25 13:22",
+      "summary": "AI’s Growing Role as Scientific Peer Reviewer  Stanford HAI..."
     },
     {
       "title": "Cougars Head to Stanford for The Goodwin - Washington State University Athletics",
@@ -96,6 +96,12 @@
     }
   ],
   "Nature Careers": [
+    {
+      "title": "History of ‘forever’ chemicals is written in Antarctic snow",
+      "link": "https://www.nature.com/articles/d41586-026-00867-4",
+      "date": "2026-03-26 00:00",
+      "summary": "Nature, Published online: 26 March 2026; doi:10.1038/d41586-026-00867-4Data gathered during a 1,200-kilometre polar trek show wher..."
+    },
     {
       "title": "Retraction Note: Multisensory learning binds neurons into a cross-modal memory engram",
       "link": "https://www.nature.com/articles/s41586-026-10355-4",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10112-7",
       "date": "2026-03-25 00:00",
       "summary": "Nature, Published online: 25 March 2026; doi:10.1038/s41586-026-10112-7Genome-wide analysis shows European dogs existed by 14,200 ..."
-    },
-    {
-      "title": "Dominant clones leverage developmental epigenomic states to drive ependymoma",
-      "link": "https://www.nature.com/articles/s41586-026-10270-8",
-      "date": "2026-03-25 00:00",
-      "summary": "Nature, Published online: 25 March 2026; doi:10.1038/s41586-026-10270-8Single-nucleus chromatin and RNA sequencing identifies epig..."
     }
   ],
   "Science News": [
@@ -199,28 +199,28 @@
       "summary": "China's open-source dominance threatens US AI lead, US advisory body warns  Reuters..."
     },
     {
+      "title": "AI boom accelerates China's chip industry growth as demand strains supply chain - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQTZNb1VmYmNoVERjZFo4eTVWZXJOWWR3ekczLVdNRFYtMjNCenpHcjkzbFJJR0FFNzhLMm9xQXBLZWJQeFhxM0traVRsOXczZ3IzSHRBYXpNTHpDQXRYTHFZZGo5cDNMQ3hPSXFfd2NVT0NvX3VHY1YtODNrWjJIWDhlcUpMbmZuTFdlQlF5a2NfeXpyUE1McndKYW9FbHVRZkxDZnFCdHFpUXNoeHNJY2ZWTkFuVkY4OUlDbkw5OGszcmFraTg1VWc4eXhtRE1YUGhwZHV3eWQ?oc=5",
+      "date": "2026-03-25 12:20",
+      "summary": "AI boom accelerates China's chip industry growth as demand strains supply chain  Reuters..."
+    },
+    {
       "title": "Robot joins Melania Trump at White House event to tout AI teachers - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWR6Q2o3MGkxenNrY1J2eVVRa09CY1FNUGwxQ2ppb05XVkktY3oxekFENHNJSmlxeS04bXQ0Q1NHOUhWMmVzRTlaNmZZejdQVFlobVY1Y05ReWRZWFR6ZnBuRnlJeHU1Q3N2RkJtRVpzTXgzVXRobFlxdWsyVWxINGFfWEhIQlQ2NGk5VGdibkVlODhhNEUwOXZFam5UX3lzMU1NMi1Qdms?oc=5",
       "date": "2026-03-25 19:33",
       "summary": "Robot joins Melania Trump at White House event to tout AI teachers  Reuters..."
     },
     {
+      "title": "Nvidia-backed Reflection AI eyes $25 billion valuation, WSJ reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmRCZkV3ZWtxZ0ljc0FQb1d3ak1Nb0gwbTNDUzJiTU1iR0Ewbmw3UjFWR0FwalFxWmYyRHdCVmNmVDlRRDJjVWVLekVyeU02UG9RQ1Rsb2psYWRjVmJyWFowNndjSllteXI4ZEhMalVMTkdOZGJFR1JTd3A0SjY4SjluZjZHdmJQS3dvZlplTGdJaWtJOFBkd0ZqN3RfbGVEanBmRXJHZXRONDRsc3gw?oc=5",
+      "date": "2026-03-26 02:43",
+      "summary": "Nvidia-backed Reflection AI eyes $25 billion valuation, WSJ reports  Reuters..."
+    },
+    {
       "title": "OpenAI drops AI video tool Sora, startling Disney, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYlFMYXFmMll5LVluZE5adTFIRDY2eXF3TG5IbVRnS0hmQlZfOUNBQ3hZTDRpWW9Ya0N5MDdWRm1PenZpMFA4Z182YnppZnVYRzdRVWx3VUJBdjNNd0YxSXpnazFOdnBibHVUS1JBNWFUSk5LT1R0V3RlYzMtaTRkRmRGN3VySFF6VDVJSTBmN2hXT3FGdWU1anpiM2lUWkhXMGZMZDh5Y2c?oc=5",
       "date": "2026-03-24 19:54",
       "summary": "OpenAI drops AI video tool Sora, startling Disney, sources say  Reuters..."
-    },
-    {
-      "title": "Arm shares rally as new AI chip to drive billions in annual revenue - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDRyQWFic2hmOFlEZVp0dGk5TVZGNkNKcDhtY0FienUzeE9DZnBxMFExb3QwTzF2dHF0VUNWb3k0dndEUVVVQmhMa1lSOGpyOUVjRFJUNFp3bG9CWlkyS2ZlX1dtTENISXJFQ0ZndEtNR0ZlWTYtZ01TTTJaR0FoV1pqTU9oU3VhYzA2dFVmbWtjdVdSajFGTVBGbmo?oc=5",
-      "date": "2026-03-25 09:56",
-      "summary": "Arm shares rally as new AI chip to drive billions in annual revenue  Reuters..."
-    },
-    {
-      "title": "AI boom accelerates China's chip industry growth as demand strains supply chain - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQTZNb1VmYmNoVERjZFo4eTVWZXJOWWR3ekczLVdNRFYtMjNCenpHcjkzbFJJR0FFNzhLMm9xQXBLZWJQeFhxM0traVRsOXczZ3IzSHRBYXpNTHpDQXRYTHFZZGo5cDNMQ3hPSXFfd2NVT0NvX3VHY1YtODNrWjJIWDhlcUpMbmZuTFdlQlF5a2NfeXpyUE1McndKYW9FbHVRZkxDZnFCdHFpUXNoeHNJY2ZWTkFuVkY4OUlDbkw5OGszcmFraTg1VWc4eXhtRE1YUGhwZHV3eWQ?oc=5",
-      "date": "2026-03-25 12:20",
-      "summary": "AI boom accelerates China's chip industry growth as demand strains supply chain  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -229,12 +229,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQajF2ejU5LTJpZnp0NV9vOVZTQWZPMURObEtGSjhkekh1TmM4Ymd0cUx0VC1ORHQxQWlFU2UwaTZYcF9SUEtWSlpCeDl2ZlJfYmdDd3ZycURUanBOdE9FalRNRFVlT0pabmJvUEdETzE1REM2OVpvc2s3ZUc0MWFFMXFnSDgtUkRq0gGOAUFVX3lxTE9ZQk5ucG5PMm42cGFnZlhfV0pKN1RueHBVR2dNdWhsUkRrMVhaSG1OcFBPajc0b3NtZEttWDBpN2lUSUE5cVlWaXNPXzlLVzUtUXV1STNYb1FGWGhNZVkyZG1GY0ZXVUFtWm8xNERnc3VjWGsybEFFdnQzUU9ud1gtaEhzbEJfR1J4Um1zclE?oc=5",
       "date": "2026-03-25 15:02",
       "summary": "Why this battery company is pivoting to AI  MIT Technology Review..."
-    },
-    {
-      "title": "The AI Hype Index: AI goes to war - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdG1LSm1hZkltdEZGM3RPX0psVmNoT3BmdVRuLTlob0ZLdFZUSnB2N25seGRwVldVT214RmROWS0zelRwcGJTMVlBT0lYYlRfNTdIZTdWQmNaS0pFUnRndXVaU1ZVY3BWVmlpcVhCRGFCR25sMDNzT1p2RTE0LTVPZ3Z4eWNpdUdDUGU3N0R3?oc=5",
-      "date": "2026-03-25 09:00",
-      "summary": "The AI Hype Index: AI goes to war  MIT Technology Review..."
     },
     {
       "title": "OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review",
@@ -249,6 +243,12 @@
       "summary": "This startup wants to change how mathematicians do math  MIT Technology Review..."
     },
     {
+      "title": "The AI Hype Index: AI goes to war - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdG1LSm1hZkltdEZGM3RPX0psVmNoT3BmdVRuLTlob0ZLdFZUSnB2N25seGRwVldVT214RmROWS0zelRwcGJTMVlBT0lYYlRfNTdIZTdWQmNaS0pFUnRndXVaU1ZVY3BWVmlpcVhCRGFCR25sMDNzT1p2RTE0LTVPZ3Z4eWNpdUdDUGU3N0R3?oc=5",
+      "date": "2026-03-25 09:00",
+      "summary": "The AI Hype Index: AI goes to war  MIT Technology Review..."
+    },
+    {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjJNYVhxNlVqbGNtbkRDaVNrSVp3Q2xlVVpHaVZDN1FsM3djLWROTmdoRXlJbXRVZk1RaE1DQ3BDc1Z1cjBjQXpSb1VIMFRyRVN2ZnNpVndjQ2FwdElyeGdCRWNtNlkydWdNOUxxdzh2MnpLWE9JU3dGQ1VYbmxEUEFFTVhkWnpFUmc3ODdIVFFPYkU1aU55T2c2NXNadzB4T2Fz0gGoAUFVX3lxTFA0c0hLSjJxMU5lckM3bFJWLVRPSWhiX2EwcG1YVjFjOWpFbFVtaW5rbG5mbHFCLVdWcWpJRFlpSHFMTTlmUi1YOTVzYm5nYmJVblZxZUsweWZIbVBWcWhvcHpJYnFuV3FlbWtBbVR0NG1LaWxaREdFQVMyQmJneEY4M0lsQUp5RTRLTFFfY3JaRlV3UTI1UGYtNUFrR2I0d1Z4YWZqcjJSTw?oc=5",
       "date": "2026-03-09 07:00",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "From tropics to poles: How Pacific Ocean warming sets the stage for Antarctic stratospheric changes months later",
-      "link": "https://phys.org/news/2026-03-tropics-poles-pacific-ocean-stage.html",
-      "date": "2026-03-26 02:10",
-      "summary": "The tropical Pacific Ocean and the frozen expanse of Antarctica sit more than 10,000 kilometers apart. Yet new research shows that..."
+      "title": "Decoding the complete genome of the fungus responsible for Cercospora leaf spot in olive trees",
+      "link": "https://phys.org/news/2026-03-decoding-genome-fungus-responsible-cercospora.html",
+      "date": "2026-03-26 04:20",
+      "summary": "Collaboration between the UCO's Agronomy and Genetics departments was key to sequencing the genome of this pathogen, which is resp..."
     },
     {
-      "title": "Need to parent differently now that your kid's a teen or tween? Five techniques that actually work",
-      "link": "https://phys.org/news/2026-03-parent-differently-kid-teen-tween.html",
-      "date": "2026-03-26 01:50",
-      "summary": "As your child approaches their teenage years, they'll want more independence, their emotions will run higher and you might see mor..."
+      "title": "How plants stop growing to survive stress: Retired scientist's persistence reveals insight to boost farm yields",
+      "link": "https://phys.org/news/2026-03-survive-stress-scientist-persistence-reveals.html",
+      "date": "2026-03-26 03:00",
+      "summary": "UC Riverside researchers have identified a mechanism that allows plants to rapidly slow growth in response to extreme environmenta..."
     },
     {
-      "title": "Distant galaxy fades 20-fold in just two decades, challenging how supermassive black holes evolve",
-      "link": "https://phys.org/news/2026-03-distant-galaxy-decades-supermassive-black.html",
-      "date": "2026-03-26 01:40",
-      "summary": "An international team led by a researcher at the Chiba Institute of Technology has discovered an extremely rare phenomenon: a gala..."
+      "title": "New study outlines privacy solution for retail central bank digital currencies",
+      "link": "https://phys.org/news/2026-03-outlines-privacy-solution-retail-central.html",
+      "date": "2026-03-26 02:50",
+      "summary": "New research shows that retail central bank digital currencies (CBDCs) can be designed to protect user privacy, one of the biggest..."
     },
     {
-      "title": "Ice Age animals and slice of Earth history found in central Texas water cave",
-      "link": "https://phys.org/news/2026-03-ice-age-animals-slice-earth.html",
-      "date": "2026-03-26 01:20",
-      "summary": "A paleontologist from The University of Texas at Austin has discovered the fossilized remains of Ice Age animals that have never b..."
+      "title": "New research suggests deadly bat fungus is more widespread in western Canada than previously known",
+      "link": "https://phys.org/news/2026-03-deadly-fungus-widespread-western-canada.html",
+      "date": "2026-03-26 02:30",
+      "summary": "Scientists at McMaster University have uncovered new evidence that the fungus causing white-nose syndrome, a deadly disease affect..."
     },
     {
-      "title": "Contaminated aquatic sediments can be remediated on site using new methods",
-      "link": "https://phys.org/news/2026-03-contaminated-aquatic-sediments-remediated-site.html",
-      "date": "2026-03-26 01:20",
-      "summary": "The bottom sediment of water bodies is an archive of all human activity. It is a reservoir of nutrients but also of harmful substa..."
+      "title": "Organocatalytic strategy provides a metal-free route to antiviral candidates",
+      "link": "https://phys.org/news/2026-03-organocatalytic-strategy-metal-free-route.html",
+      "date": "2026-03-26 02:20",
+      "summary": "A research team led by Prof. Sun Jianwei has achieved an advancement in organic synthesis and medicinal chemistry by developing an..."
     }
   ],
   "The Guardian Edu": [
@@ -307,19 +307,37 @@
       "summary": "School leaders believe some deploy a deliberate strategy to boost grades and improve finances, new research suggests The top 500 s..."
     },
     {
-      "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
-      "link": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
-      "date": "2026-03-23 18:00",
-      "summary": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will..."
-    },
-    {
       "title": "Six students challenge Home Office visa ban on four countries",
       "link": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
       "date": "2026-03-23 18:00",
       "summary": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from ..."
+    },
+    {
+      "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
+      "date": "2026-03-23 18:00",
+      "summary": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Explosion at Hong Kong recycling yard injures 2",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3347947/explosion-hong-kong-recycling-yard-injures-2?utm_source=rss_feed",
+      "date": "2026-03-26 04:53",
+      "summary": "Two people have been injured in an explosion at a recycling yard in northern Hong Kong, with online footage showing towering flame..."
+    },
+    {
+      "title": "Man dies after getting electric shock from lamp post near Lantau beach",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347943/man-dies-after-getting-electric-shock-lamp-post-near-lantau-beach?utm_source=rss_feed",
+      "date": "2026-03-26 04:28",
+      "summary": "A man was killed after receiving an electric shock from a lamp post while wet following a visit to a beach on Hong Kong’s Lantau I..."
+    },
+    {
+      "title": "Contractor failed to supervise smoking workers, resident says in Tai Po fire hearing",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3347925/police-hotline-busy-piles-rubbish-estate-residents-say-tai-po-fire-hearing?utm_source=rss_feed",
+      "date": "2026-03-26 02:57",
+      "summary": "A public evidential hearing by an independent committee into a fire that killed 168 people at a Hong Kong estate has entered its f..."
+    },
     {
       "title": "Innuendo and implication: just a joke or risk of defamation in Hong Kong?",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347796/innuendo-and-implication-just-joke-or-risk-defamation-hong-kong?utm_source=rss_feed",
@@ -331,24 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347924/clp-raise-fuel-cost-adjustment-next-month-first-increase-more-year?utm_source=rss_feed",
       "date": "2026-03-26 00:45",
       "summary": "CLP Power, Hong Kong’s largest electricity supplier, will raise its fuel cost adjustment (FCA) next month – the first increase in ..."
-    },
-    {
-      "title": "Warning over mould and infections as Hong Kong set for more damp days",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3347907/warning-over-mould-and-infections-hong-kong-set-more-damp-days?utm_source=rss_feed",
-      "date": "2026-03-26 00:30",
-      "summary": "Elderly Hongkongers and people with chronic illnesses should protect themselves from health problems arising from high humidity by..."
-    },
-    {
-      "title": "Chinese nationals, companies charged in US with smuggling AI chips and drug trafficking",
-      "link": "https://www.scmp.com/news/us/article/3347923/chinese-nationals-companies-charged-us-smuggling-ai-chips-and-drug-trafficking?utm_source=rss_feed",
-      "date": "2026-03-25 23:50",
-      "summary": "In two different cases on Wednesday, United States authorities charged Chinese nationals on offences ranging from conspiring to sm..."
-    },
-    {
-      "title": "Hong Kong holds onto Art Basel crown for 5 more years thanks to new deal",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3347906/hong-kong-holds-art-basel-crown-5-more-years-thanks-new-deal?utm_source=rss_feed",
-      "date": "2026-03-25 15:20",
-      "summary": "Hong Kong has held onto its crown as the exclusive regional home of Art Basel for the next five years, the culture minister has an..."
     }
   ],
   "New Scientist": [
