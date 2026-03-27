@@ -103,6 +103,12 @@
       "summary": "Nature, Published online: 27 March 2026; doi:10.1038/d41586-026-00954-6A programme that offers scans to smokers between the ages o..."
     },
     {
+      "title": "Giants of the deep and the wonder of space: Books in Brief",
+      "link": "https://www.nature.com/articles/d41586-026-00995-x",
+      "date": "2026-03-27 00:00",
+      "summary": "Nature, Published online: 27 March 2026; doi:10.1038/d41586-026-00995-xAndrew Robinson reviews five of the best science picks...."
+    },
+    {
       "title": "Sunken Soviet nuclear submarine’s radioactive release",
       "link": "https://www.nature.com/articles/d41586-026-00953-7",
       "date": "2026-03-27 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-00992-0",
       "date": "2026-03-26 00:00",
       "summary": "Nature, Published online: 26 March 2026; doi:10.1038/d41586-026-00992-0The 15,000-year-old remains of domestic dogs hint at their ..."
-    },
-    {
-      "title": "Chats with sycophantic AI make you less kind to others",
-      "link": "https://www.nature.com/articles/d41586-026-00979-x",
-      "date": "2026-03-26 00:00",
-      "summary": "Nature, Published online: 26 March 2026; doi:10.1038/d41586-026-00979-xEven people who were sceptical of chatbots’ utility fell un..."
     }
   ],
   "Science News": [
@@ -193,6 +193,12 @@
   ],
   "Reuters AI": [
     {
+      "title": "Apple plans to open Siri to rival AI services, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzdkdFVoMEZ6SHBUZmxHUHYzSzhkNzBXRVAybVluT1Jpb2ZkNklRSkNILVVpQ29nS3Y2SFFYNTJUeTJ2QTZzaU9yaUpEY2FTWjRaRHdteTRsVHZvM3VRXzQyd25UM0VSdTczVjZUNUhBdFNScTI1QU42bUdYSk8xMHRNdzlMVlF1T3J6TmdwbnIxeTd6dERQVHRwdDFLemc0Mm5BTHNydEJWNXc?oc=5",
+      "date": "2026-03-26 18:43",
+      "summary": "Apple plans to open Siri to rival AI services, Bloomberg News reports  Reuters..."
+    },
+    {
       "title": "Exclusive: Huawei's new AI chip finds favour with ByteDance, Alibaba which plan to place orders, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNUV5d0I0b2ZxMDFnMXZRV0NxZzdhWFR1UkV3bmJzN1E4c1UyS0Yya3ZNSE1TUnhENmo0ck0tcE5pX3hKV0VBeXRPd29mTmQ2cEZzS0lrZlU0aFEwenBRR0xwMUpac2tfOEsxTEM4dm8xbWt3R0hseUtlUXp2S2ZiOVRSOWZYbW4wVmxjekVoYmV1MWRqZkQwTkx6cTVsN3oxak9MYlRJbHF0TG1sckY4a2hZQllGOThUM2JxRkVwcUVvM0Na?oc=5",
       "date": "2026-03-27 06:53",
@@ -215,12 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY1lDZjdiQ0xHR2Z2cWdZdzJNQWlCc1ptWE1kckJaZHNXcjN6TzBTWV82RjZjZy1HTVZ6NjNIRmhzN1pTNTd5VWxQQWhGWVNRVzVJZU9RR050WldhMTE1TDF4NVlNSEdGbHNuczc0Z2oxdWxVdklnMjJMamlVb2xBR2FISnRsZjJocWpPWm5HOVNoU01wOGRGSlNORXJranZmSlF0aWhxYkRWYkVzRVhRYWRxQ3gySnNjUzZ5My1EZ1BWeVBRTXc?oc=5",
       "date": "2026-03-26 22:26",
       "summary": "OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks  Reuters..."
-    },
-    {
-      "title": "White House AI czar Sacks to step down, moves to advisory role - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXRIbF9lczU3ZGJ2UTFUV3VneWNVR3o1VEg1aGtHejNiLWxFUXV6eGl5VG1aRl9SMDVQOHcwVDhhd1B6a0w1SDh4aXlZTktfblRPMzNkMS1WNnJ2c3pqYm9LeDd4UHV2aWFNX3RZejdvNkZ5ZXh4TjA1YXBkVUR5YUdCSUhCb1AxcG5VbEhFb0hqc21BVlNsMHk1LVlCNW5JMGc?oc=5",
-      "date": "2026-03-27 01:02",
-      "summary": "White House AI czar Sacks to step down, moves to advisory role  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -231,16 +231,16 @@
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
     },
     {
-      "title": "The Download: a battery pivot to AI, and rewriting math - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzN6Y1EydFB0QWxINVdrYUNtTFpuekdJVlppZ1NTMGRrQmpfcDVjZWVtUXdleEk1MG5jcXItRHB5WEdrTkNxSERRMEpGbXBQUUQ5Wm8zM2ZjUGhZZl94NWJ1ek4xS3FVdFJHa3BBU3NUZ05rRFJxMFVyRHpEeTVXN3NHeXFWQjFqejMzNkRGWVRtNEIzZGlHU2xXUXNjbGYt0gGmAUFVX3lxTE1BRXhSQ2J3NkJWeVlPbHI0MlROVllDdmRPT0otcElvTkRBVmw0c1BhSzk4ZF91dl9zdEd3Z0VvUUplT0RYa2xyREQ3NlFSd2pfSWdEOEJySDRnMFpRMHB0TklWM2FjelFCaExEb0hISlVjeXFKeThRMTdoU2wxdG1fRVk4bzVDRDdGZXB4eWZQZHl5S3BiQkNPRlVLN0lTc0RJMTJDY3c?oc=5",
-      "date": "2026-03-26 12:42",
-      "summary": "The Download: a battery pivot to AI, and rewriting math  MIT Technology Review..."
-    },
-    {
       "title": "OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaktiMXBZbHU1WWV0YUw1c3A1RlloQTJXVGd0eEdQTzA4ZUF2YmZzODFtLWhMU0dKXzkxUXFPOXgwalF1bTlmM3Z6d3JhRzdpeDlZZVRRdWFBeHhTd0dfSUhCUWgwcHVDZkctSVlLZEVjLXdzLW02THh2Mi1DM25SbmFTSlNJOFhTOE9XSERHcFRFbUJfSGFSUDhDSFdrZm43S3FIUnRxVjAtaVpQUVZ6dHVaaWpzMDhFS1haakZ6T1BrU3PSAcgBQVVfeXFMUHl0ZFNoeFlESVdmZHJzTmkzWHQxYmxKbV9KazY3NHpZdGtvMFk5c0VVUExCMU82MmpTX1p3RHJjTDR2VlRBZ01tS0R3TWFBYXV3RDdXLXh4N3FWX1hXWnQ4OEpmcW13NWhybktWdXRFRUxfUldNSGlROEVKTHpwUlhMZHFMTEhJT0dTT1NITEFtV2c5QmR5a3VMaDFMY2Z0LXlCclFWS21DWGxmNjBxaWNsYWZVeGxyRm9Zd1NFUm1hVmxPVTdCVVg?oc=5",
       "date": "2026-03-20 11:57",
       "summary": "OpenAI is throwing everything into building a fully automated researcher  MIT Technology Review..."
+    },
+    {
+      "title": "Are high gas prices good news for EVs? It’s complicated. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXMzYW10V3lKRVdIcVQ3SkE1M21iV1E1aXFxa1RhWTBIQ21Pb0VhQlljNjVCZ28yWWtMVFpfcDl1dUxOdFhEcDVSOE9nYzduYjJ6NktwTVYwRnk4M2V0bmV0bGZfYXo2OUlRY1hOSURkUF95V3Vsa1lRdUV6RWN4eUJCd1pNQkJS0gGOAUFVX3lxTFAwcW5SQUhrMWptclEwLWFQbHpRMmVfLWZVYVhadzhSWkZNa0IyLTZQVDVfc2UxNkVPSy1qX09jakJFWmFoTkpXeFFuMVlzR3BMTFJHMzdWbWFLWk95cVA2Z2V0YWZLdlFjNVJJNUtQWTBabEs4TjRqSHQxdHBTY3BHRXE2Tk9nX1ZYelE4a0E?oc=5",
+      "date": "2026-03-26 10:00",
+      "summary": "Are high gas prices good news for EVs? It’s complicated.  MIT Technology Review..."
     },
     {
       "title": "The AI Hype Index: AI goes to war - MIT Technology Review",
@@ -249,42 +249,42 @@
       "summary": "The AI Hype Index: AI goes to war  MIT Technology Review..."
     },
     {
-      "title": "Are high gas prices good news for EVs? It’s complicated. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXMzYW10V3lKRVdIcVQ3SkE1M21iV1E1aXFxa1RhWTBIQ21Pb0VhQlljNjVCZ28yWWtMVFpfcDl1dUxOdFhEcDVSOE9nYzduYjJ6NktwTVYwRnk4M2V0bmV0bGZfYXo2OUlRY1hOSURkUF95V3Vsa1lRdUV6RWN4eUJCd1pNQkJS0gGOAUFVX3lxTFAwcW5SQUhrMWptclEwLWFQbHpRMmVfLWZVYVhadzhSWkZNa0IyLTZQVDVfc2UxNkVPSy1qX09jakJFWmFoTkpXeFFuMVlzR3BMTFJHMzdWbWFLWk95cVA2Z2V0YWZLdlFjNVJJNUtQWTBabEs4TjRqSHQxdHBTY3BHRXE2Tk9nX1ZYelE4a0E?oc=5",
-      "date": "2026-03-26 10:00",
-      "summary": "Are high gas prices good news for EVs? It’s complicated.  MIT Technology Review..."
+      "title": "The hardest question to answer about AI-fueled delusions - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPekIwZlU3MjhiLWtYdnRKZzNETXp2TVdSUU9qN1FETUNNNkhUMjVHRFVRMFM4bmwteW1odmdPUFJ5aVN5RVNQSXZqbGpkcTEtYzFYdU1VTERSdDlyTnRMaWc4dkd2SkszTm5pblplQTdwSFFiRW1sek1NNW1RZUx3SGlzZTdtMjdDUWx1Q3ZzSFlBTTNBTmhfV0cxakJyOEdvSXVWdUVXWFU3TjFyVVHSAbMBQVVfeXFMTlB3Q2I5UXdYWkl5XzZacTZDQmlmaVJrS09UbUxZcHVWWDBBUVQ3NlRIVkRqTGZaWDJPUGZ6bXdWa3VWZTZ1TERycHRfYk10a1lPalZFdHU5MFppNFgzNHY2T0RkdU5PcHNKU1BKSzd1bVVDbjVPWWZvWlM0RWtIUVNSOC1ma2hnbHVpdGE3Z0d3cm8yMkVGT1pmbVJ5NHBBUWZDcEN4MTNQRVlfbG1RWnRqems?oc=5",
+      "date": "2026-03-23 16:31",
+      "summary": "The hardest question to answer about AI-fueled delusions  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Unraveling active magma by drilling in the heart of volcanoes",
-      "link": "https://phys.org/news/2026-03-unraveling-magma-drilling-heart-volcanoes.html",
-      "date": "2026-03-27 13:00",
-      "summary": "Although volcanic eruptions are spectacular natural events that occur around the world every day, most volcanoes spend the majorit..."
+      "title": "Unlocking the cell's 'gatekeeper': Researchers discover critical RNA quality-control factor, LENG8",
+      "link": "https://phys.org/news/2026-03-cell-gatekeeper-critical-rna-quality.html",
+      "date": "2026-03-27 14:40",
+      "summary": "How do cells ensure that the \"blueprints\" of genetic information-RNA are accurate and intact before they are exported from the nuc..."
     },
     {
-      "title": "The northern lights' dark twin is a wild card for the power grid",
-      "link": "https://phys.org/news/2026-03-northern-dark-twin-wild-card.html",
-      "date": "2026-03-27 12:40",
-      "summary": "Scientists are working to understand how magnetic currents from the sun spread beneath Earth's crust when the northern lights danc..."
+      "title": "Q&A: Why hasn't the US military used force to secure the Strait of Hormuz?",
+      "link": "https://phys.org/news/2026-03-qa-hasnt-military-strait-hormuz.html",
+      "date": "2026-03-27 14:40",
+      "summary": "Since the United States and Israel launched their war against Iran in late February, Iran has retaliated by targeting commercial s..."
     },
     {
-      "title": "Why student samples can mislead: Higher education may shift values toward Western norms",
-      "link": "https://phys.org/news/2026-03-student-samples-higher-shift-values.html",
-      "date": "2026-03-27 12:40",
-      "summary": "A new study published in Nature Communications finds that worldwide, people with higher levels of education are more culturally si..."
+      "title": "'Drive‑off' fuel thefts cost millions even before the war—and they're heading up",
+      "link": "https://phys.org/news/2026-03-driveoff-fuel-thefts-millions-war.html",
+      "date": "2026-03-27 14:30",
+      "summary": "With petrol and diesel prices soaring, we're hearing more reports of alleged fuel thefts from petrol stations, farms, trucks and e..."
     },
     {
-      "title": "Piezoelectric materials enable a new approach to searching for axions",
-      "link": "https://phys.org/news/2026-03-piezoelectric-materials-enable-approach-axions.html",
-      "date": "2026-03-27 12:00",
-      "summary": "Dark matter, a type of matter that does not emit, reflect or absorb light, is predicted to account for most of the matter in the u..."
+      "title": "Breaking recalcitrant lignin bonds with electricity for conversion into value-added chemicals: An e-biorefinery",
+      "link": "https://phys.org/news/2026-03-recalcitrant-lignin-bonds-electricity-conversion.html",
+      "date": "2026-03-27 14:20",
+      "summary": "A research team led by Professor Jaehoon Kim at Sungkyunkwan University and Dr. Dong Ki Lee at the Korea Institute of Science and ..."
     },
     {
-      "title": "Japan's giant caldera volcano is refilling 7,300 years later",
-      "link": "https://phys.org/news/2026-03-japan-giant-caldera-volcano-refilling.html",
-      "date": "2026-03-27 10:00",
-      "summary": "The magma reservoir of the largest volcanic eruption of the Holocene is refilling. This Kobe University insight on the Kikai calde..."
+      "title": "Cyclone Narelle is now larger and 'more severe' as it crosses the Western Australian coast",
+      "link": "https://phys.org/news/2026-03-cyclone-narelle-larger-severe-western.html",
+      "date": "2026-03-27 14:20",
+      "summary": "Severe Tropical Cyclone Narelle continues to amaze us with its long journey across northern Australia. This cyclone began life nea..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Anger after chaotic 2½-hour disruption on East Rail line as man opens train exit",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3348209/anger-after-chaotic-2-1/2-hour-disruption-east-rail-line-man-opens-train-exit?utm_source=rss_feed",
+      "date": "2026-03-27 14:20",
+      "summary": "Hong Kong commuters have complained about chaotic scenes after services on a section of the East Rail line were suspended for abou..."
+    },
+    {
       "title": "Beijing official visits Greater Bay Area cities to explore integrating Hong Kong",
       "link": "https://www.scmp.com/news/hong-kong/politics/article/3348201/beijing-official-visits-greater-bay-area-cities-explore-integrating-hong-kong?utm_source=rss_feed",
       "date": "2026-03-27 12:47",
@@ -330,7 +336,7 @@
       "title": "Hong Kong’s MTR Corp to keep fares unchanged for second year in row",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3348194/hong-kongs-mtr-corp-keep-fares-unchanged-second-year-row?utm_source=rss_feed",
       "date": "2026-03-27 12:03",
-      "summary": "Hong Kong’s rail giant has announced it will keep fares unchanged for the coming year after an annual review, marking the second y..."
+      "summary": "Hong Kong’s rail operator has announced it will keep fares unchanged for the coming year after an annual review, marking the secon..."
     },
     {
       "title": "Hong Kong developers test market  with 222 units released amid interest rate uncertainty",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3348180/10-defendants-remanded-custody-jpex-cryptocurrency-fraud-case?utm_source=rss_feed",
       "date": "2026-03-27 11:18",
       "summary": "A Hong Kong court has remanded in custody another 10 people in connection with the HK$1.6 billion (US$205.8 million) in JPEX crypt..."
-    },
-    {
-      "title": "Residents of fire-hit Wang Fuk Court blocks can retrieve belongings from mid-April",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3348176/residents-fire-hit-wang-fuk-court-blocks-can-retrieve-belongings-mid-april?utm_source=rss_feed",
-      "date": "2026-03-27 10:40",
-      "summary": "Displaced residents from the seven fire-ravaged blocks of Hong Kong’s Wang Fuk Court will be allowed to return to their flats for ..."
     }
   ],
   "New Scientist": [
