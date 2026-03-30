@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT researchers use AI to uncover atomic defects in materials",
+      "link": "https://news.mit.edu/2026/mit-researchers-use-ai-uncover-atomic-defects-materials-0330",
+      "date": "2026-03-30 15:00",
+      "summary": "A new model measures defects that can be leveraged to improve materials’ mechanical strength, heat transfer, and energy-conversion..."
+    },
+    {
       "title": "MIT engineers design proteins by their motion, not just their shape",
       "link": "https://news.mit.edu/2026/mit-engineers-design-proteins-by-motion-not-just-shape-0326",
       "date": "2026-03-26 20:20",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/near-misses-particle-accelerators-can-illuminate-new-physics-0326",
       "date": "2026-03-26 14:50",
       "summary": "Physicists discovered new properties of the strong force by analyzing what happens when light-speed particles skim by each other...."
-    },
-    {
-      "title": "AI system learns to keep warehouse robot traffic running smoothly",
-      "link": "https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326",
-      "date": "2026-03-26 04:00",
-      "summary": "This new approach adapts to decide which robots should get the right of way at every moment, avoiding congestion and increasing th..."
     }
   ],
   "Harvard Gazette": [
@@ -45,30 +45,36 @@
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
     },
     {
-      "title": "How to help lift slumping American math scores - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
-      "date": "2026-01-26 08:00",
-      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
+      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
+      "date": "2025-09-25 07:00",
+      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
     },
     {
-      "title": "It’s time to get more comfortable with talking about dying - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUDJWWTkzY3ItYUctU2JPNUJxM2Jwa3k5SmI2WmN5UXFmLXc0Rzh0dG5jLXRiQ0x6bHBPdUhtMktYOXVHYkdIcXN5T2VYRmdVbExCZm1RZU94R2pFaVZlRlp4NXliYVNqdGNySjNxOE1CV1dpc0V3eWpiQjI2eUtkMUpEaHZiZ1Myc3pyY1kxR1ROc3FVZlM0akRnUVhtY01UeFZmM3hjQ1c?oc=5",
-      "date": "2026-02-03 08:00",
-      "summary": "It’s time to get more comfortable with talking about dying  Harvard Gazette..."
+      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
+      "date": "2025-10-28 07:00",
+      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     },
     {
-      "title": "A potential quantum leap - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
-      "date": "2025-11-12 08:00",
-      "summary": "A potential quantum leap  Harvard Gazette..."
+      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
+      "date": "2025-09-30 07:00",
+      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
     }
   ],
   "Stanford News": [
     {
-      "title": "AI overly affirms users asking for personal advice - Stanford Report",
+      "title": "AI overly affirms users asking for personal advice - news.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTTZHNl94cl90dEhnelZKekxwbUZNWHU2amxfQnJoVUtyTy1QbDJHbElWMVUwc0pHaHhEUzFPTnJKSEZDNzRYTlVMeDhTWmQ5OHdNUDR0T2hwNUlOS2h0cks1NndNVkZPWm1RVFJvN3dteFI4RHQ2V0pDNlBzbnBXNVA5UnN5dw?oc=5",
       "date": "2026-03-26 18:15",
-      "summary": "AI overly affirms users asking for personal advice  Stanford Report..."
+      "summary": "AI overly affirms users asking for personal advice  news.stanford.edu..."
+    },
+    {
+      "title": "Armed man sexually assaulted woman jogging near Stanford University, campus police say - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUFotcGx2cHB0aF9BWnJORnVxbVgydlNJNW0yODN2M21ha2ozN1hhOU11cGlERnN5dkM4UkFkVnVpc1Zqb21KWm5DeEhKc3g5TnhnM0hJN2hqa1ZwcE93UjJMUUsxQ0JrTUZVMkJHNk1tNzJfbDE2SkVTMGFwME1lalpQVFBGUUZvZE1QS2h3?oc=5",
+      "date": "2026-03-30 15:59",
+      "summary": "Armed man sexually assaulted woman jogging near Stanford University, campus police say  Yahoo..."
     },
     {
       "title": "Stanford University: Jails could cut hepatitis C infections nearly in half with testing and treatment - European AIDS Treatment Group",
@@ -77,25 +83,31 @@
       "summary": "Stanford University: Jails could cut hepatitis C infections nearly in half with testing and treatment  European AIDS Treatment Gro..."
     },
     {
-      "title": "A Sacred Heart Prep Gator party at Stanford University’s Sunken Diamond - smdailyjournal.com",
+      "title": "A Sacred Heart Prep Gator party at Stanford University’s Sunken Diamond - San Mateo Daily Journal",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa2xWa21HcUZ5ZzA0WUJLY0psYkJpTlA2c0NZSG04WDBtbUtuLXd0akdMWFptZi0teDlaeXJxS2pQVjFsQmktS3JPVDhWaTFOZGdfbFJ1cUZaeXFBdWRvZEgtN1dndDFnb0J6LVBiTk95Z2treVNodTlORkQtbGxHWnF0eFZNQ0tFRFVWZThGdm1yMnZUOFNKTEhnLUZELWszLTRtWmRQSTJ1cWhWMkIyM2lZM1JwdVRYTUJrc01KclpDaDBVLUVZbU5Dc2pOZGRGYW9YVVl6azJJV2xPMDd3R25kTUM3eFRRajRJdmdmMXUtcmNad3QzLQ?oc=5",
       "date": "2026-03-30 10:45",
-      "summary": "A Sacred Heart Prep Gator party at Stanford University’s Sunken Diamond  smdailyjournal.com..."
+      "summary": "A Sacred Heart Prep Gator party at Stanford University’s Sunken Diamond  San Mateo Daily Journal..."
     },
     {
       "title": "Study links past emissions to trillions in future economic damages - Stanford Doerr School of Sustainability",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzVESEJpWmRHWlA5aVhoZFJPRHM0cjN4OE5pYkxYd1dfNlFqQ0dXaUxhekZvYmlrbDlUdngybkxhbTdsV0dlZDRkUHFjQzk4RHBoZDZ5S0pQM0pBYVlfMzBwMEdoT3MzUFM4S0tKWlItcGl1X3BoVi1uM0VITWFxZ2szY0t5by1YVWtyeUFwVmtmZ0c0cU1kdi1KMXVmMVpjejFn?oc=5",
       "date": "2026-03-25 17:45",
       "summary": "Study links past emissions to trillions in future economic damages  Stanford Doerr School of Sustainability..."
-    },
-    {
-      "title": "Duke Plates Nine in Seventh, Walks Off Stanford, 17-14 - Duke University - goduke.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdmlVTHRTWjVZVC1tYkU3SVdlV2h2MTFNMUZVT3piLWZ1aUJkNHlVb3BzV183U2QtT18taVJKcVZxdlRxVmFiQmV3aU5sZFRKSzd4ZmREdmlpTmVSdUFKVzlmZVJqMHBpdGdZYkp1ZG9vc0k0ejZEU0pmMUdrbDQyal8zaGs4Wm44Rnc3LU82X3VBRENxc3ViWmxaSQ?oc=5",
-      "date": "2026-03-29 21:00",
-      "summary": "Duke Plates Nine in Seventh, Walks Off Stanford, 17-14 - Duke University  goduke.com..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Static electricity is a mystery but invisible carbon may be key",
+      "link": "https://www.nature.com/articles/d41586-026-01012-x",
+      "date": "2026-03-30 00:00",
+      "summary": "Nature, Published online: 30 March 2026; doi:10.1038/d41586-026-01012-xA thin layer of carbon on the surface of oxide grains chang..."
+    },
+    {
+      "title": "Why I made a river my co-author",
+      "link": "https://www.nature.com/articles/d41586-026-00973-3",
+      "date": "2026-03-30 00:00",
+      "summary": "Nature, Published online: 30 March 2026; doi:10.1038/d41586-026-00973-3Anne Poelina gives first authorship to a source with deep k..."
+    },
     {
       "title": "How buildings and cities can be aligned with life",
       "link": "https://www.nature.com/articles/d41586-026-00971-5",
@@ -103,31 +115,25 @@
       "summary": "Nature, Published online: 30 March 2026; doi:10.1038/d41586-026-00971-5Following nature’s patterns, not fighting them, is the way ..."
     },
     {
+      "title": "Inside the ‘self-driving’ lab revolution",
+      "link": "https://www.nature.com/articles/d41586-026-00974-2",
+      "date": "2026-03-30 00:00",
+      "summary": "Nature, Published online: 30 March 2026; doi:10.1038/d41586-026-00974-2AI-powered robotic tools are muscling in on tasks typically..."
+    },
+    {
       "title": "Countdown to Artemis: is NASA’s Moon mission the dawn of a new space age?",
       "link": "https://www.nature.com/articles/d41586-026-00998-8",
       "date": "2026-03-30 00:00",
       "summary": "Nature, Published online: 30 March 2026; doi:10.1038/d41586-026-00998-8As humans, we must be intentional about whether, and how, w..."
-    },
-    {
-      "title": "Anthony Leggett obituary: physicist who brought quantum theory to the macro world",
-      "link": "https://www.nature.com/articles/d41586-026-01010-z",
-      "date": "2026-03-30 00:00",
-      "summary": "Nature, Published online: 30 March 2026; doi:10.1038/d41586-026-01010-zThe polymath also trained as a philosopher and won a Nobel ..."
-    },
-    {
-      "title": "Now is the time for scientific societies to guide global research",
-      "link": "https://www.nature.com/articles/d41586-025-04155-5",
-      "date": "2026-03-30 00:00",
-      "summary": "Nature, Published online: 30 March 2026; doi:10.1038/d41586-025-04155-5Electrical engineer Ratko Magjarević explains the benefits ..."
-    },
-    {
-      "title": "Dawkin’s paradox: dissecting the body’s battle to keep selfish genes in check",
-      "link": "https://www.nature.com/articles/d41586-026-00970-6",
-      "date": "2026-03-30 00:00",
-      "summary": "Nature, Published online: 30 March 2026; doi:10.1038/d41586-026-00970-6An essay series by specialists in evolutionary biology, phi..."
     }
   ],
   "Science News": [
+    {
+      "title": "As U.S. blockade bites, Cuba’s health care and science suffer",
+      "link": "https://www.science.org/content/article/u-s-blockade-bites-cuba-s-health-care-and-science-suffer",
+      "date": "2026-03-30 12:20",
+      "summary": "Hospitals and researchers struggle to cope with lengthy blackouts and supply shortages..."
+    },
     {
       "title": "These small African antelopes may help mpox spread",
       "link": "https://www.science.org/content/article/these-small-african-antelopes-may-help-mpox-spread",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/these-birds-suck-literally",
       "date": "2026-03-27 11:00",
       "summary": "Scientists spot first example of suction feeding in the avian world..."
-    },
-    {
-      "title": "Jupiter’s weather forecast: cloudy with a chance of nukes",
-      "link": "https://www.science.org/content/article/jupiter-s-weather-forecast-cloudy-chance-nukes",
-      "date": "2026-03-27 10:25",
-      "summary": "The planet’s lightning storms can unleash the force of multiple nuclear weapons every minute..."
     }
   ],
   "Retraction Watch": [
@@ -193,16 +193,22 @@
   ],
   "Reuters AI": [
     {
+      "title": "France's Mistral raises $830 million in debt for AI data centre build-up - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX3BTQVRWejdBcFpGY1lxcGEydnRHWXg2SjZpZlBYQ29Zc1ltbFBwOUpwZFl4by1DNW1aU0hsdS1RejBCU0c0eHlnNmZPYndxamJjMUhmMnk1X01pT2plVlZ3OGFqbkx0TDRGZVJ4U2NINVF1NHowRk5FMGtQdFNFbjF2SHdVVmVSUDE1U01rQnBJdDdiV180ZFA0Z0NpSnZJWkRXM2o3Zm8tUlF6dlBoYmZDcnZzWU0?oc=5",
+      "date": "2026-03-30 06:05",
+      "summary": "France's Mistral raises $830 million in debt for AI data centre build-up  Reuters..."
+    },
+    {
       "title": "Microsoft unveils AI upgrades, rolls out Copilot Cowork to early-access customers - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOXI4dFM4bkM2N0RZYVVOM1dQeEl0YmVRZjVWMHk2YWpQT3BPbkFhQzNqT0dZNWdxdzFza1dKdG1rUmROajVjWEtWUlQxeDR0cWFwcDlZSHBPbVBHcm9TdEhBbG4zTmZIT1lJajJsVFFkN3hKTEh3cDRTSDlsaHZYY3RCQTFOXzMzaVN1WFNqQnBQMGVmbVRyTERLbkp5Y2RFZmNNU3FHZ2JrRng2dmFuSU9DMzJsdlZzVWJRZDZTRQ?oc=5",
       "date": "2026-03-30 13:05",
       "summary": "Microsoft unveils AI upgrades, rolls out Copilot Cowork to early-access customers  Reuters..."
     },
     {
-      "title": "Starcloud reaches $1.1 billion valuation as AI space race heats up - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN3hoYWp5SE9lak8wNkNZWXI0cFhGczZmbkIzVEpNelRnVXdZR3NjYS0tOXZmWDlZUGF3bE9aUEw1SEtKX00zQlc5X3RrRk1NXzlOOVN5elZHRHBwbDdPOTJjcWVBUUdncDJHclFpU1lUMnRQcFJDNkE5cXQ0clZJRURlUks2R3VBYUVWdHBZTzlZWHRnX19KQjhZM1RqMTFSakNqVndsNDdhMS1DeFdFamh4SXd1Zy00SGxXM3NSTQ?oc=5",
-      "date": "2026-03-30 11:03",
-      "summary": "Starcloud reaches $1.1 billion valuation as AI space race heats up  Reuters..."
+      "title": "Huawei's new AI chip finds favor with ByteDance, Alibaba which plan to place orders, Reuters reports - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPekJLaDJsdGhjTTRVWnF0QlF0ZThlVzZoSEt2bTd3RXNRVlRDYnFicWw1eTVXRUFyQTN5ZGpTUzMydnpydU1ZSXgzTXpZd2tZODlPcnYyUFlhbFgzX0lPVjBPelY5enBUXzRfa0tOTzJEODQtTDdZYXJoclhuUFJwWFhrZVBuaWlReUxNRXoxeTZISXlGWWdKS2FVdFpHME1sdVHSAacBQVVfeXFMTjUwTXlmODNBQUtSdXZBWDFUek9YcENNUDA1RXlpTW1aWlVkODhfMFRfbk1IS0t1RVJBNFNLSmxkcDI5akVfS2VuYjVEbXBHRFQ5ZVREZ3JSSlFsLV8yZjh6UVJHX3VMdlhzM2t3eFVyQWZheUI1eG9hVHYycWVwRzdQQ01DekdyTnpSel9nR1RBWG4ybHh0Ynk4VWxlU2IwNFpPaHVOdVk?oc=5",
+      "date": "2026-03-27 07:27",
+      "summary": "Huawei's new AI chip finds favor with ByteDance, Alibaba which plan to place orders, Reuters reports  CNBC..."
     },
     {
       "title": "Nvidia's PE sinks to seven-year low as war and AI angst weigh - Reuters",
@@ -211,16 +217,10 @@
       "summary": "Nvidia's PE sinks to seven-year low as war and AI angst weigh  Reuters..."
     },
     {
-      "title": "China's DeepSeek AI chatbot suffers longest outage since viral rise in early 2025 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3VuNmlYcXgwTkl5dzRCSzBQVHVRUjgxSV9FN210WThyUnNTZ3JBa055MXpTVGdSZHd6ak9vUUZzNEpKZDIyQndsakhzVHNkdGNrdW5DX3NpdTNNNXlYdzBJTjkwR25BU1dLRlRleU9xTDZzUjJJQzBYcVJCbWpsRVp6cEdGTmZlQ2xGOTRQZEozNm5FY21iNVA5dWc1aHF2bUVSRUFUYWQ0Q05vVzBGbGVMVFp3UjZJWHBCaFdxUmZJUQ?oc=5",
-      "date": "2026-03-30 06:56",
-      "summary": "China's DeepSeek AI chatbot suffers longest outage since viral rise in early 2025  Reuters..."
-    },
-    {
-      "title": "France's Mistral raises $830 million in debt for AI data centre build-up - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX3BTQVRWejdBcFpGY1lxcGEydnRHWXg2SjZpZlBYQ29Zc1ltbFBwOUpwZFl4by1DNW1aU0hsdS1RejBCU0c0eHlnNmZPYndxamJjMUhmMnk1X01pT2plVlZ3OGFqbkx0TDRGZVJ4U2NINVF1NHowRk5FMGtQdFNFbjF2SHdVVmVSUDE1U01rQnBJdDdiV180ZFA0Z0NpSnZJWkRXM2o3Zm8tUlF6dlBoYmZDcnZzWU0?oc=5",
-      "date": "2026-03-30 06:03",
-      "summary": "France's Mistral raises $830 million in debt for AI data centre build-up  Reuters..."
+      "title": "Starcloud reaches $1.1 billion valuation as AI space race heats up - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN3hoYWp5SE9lak8wNkNZWXI0cFhGczZmbkIzVEpNelRnVXdZR3NjYS0tOXZmWDlZUGF3bE9aUEw1SEtKX00zQlc5X3RrRk1NXzlOOVN5elZHRHBwbDdPOTJjcWVBUUdncDJHclFpU1lUMnRQcFJDNkE5cXQ0clZJRURlUks2R3VBYUVWdHBZTzlZWHRnX19KQjhZM1RqMTFSakNqVndsNDdhMS1DeFdFamh4SXd1Zy00SGxXM3NSTQ?oc=5",
+      "date": "2026-03-30 14:50",
+      "summary": "Starcloud reaches $1.1 billion valuation as AI space race heats up  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -229,6 +229,12 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjhOa2lfTk81X0JCd0VDY3BiWGN4Z1pza095UEdlakRqY1F1Y1hPckVHT0FObTZhM2RYdl9LbzhQbk80T3RNbFNTdFVwNVdJWWhweGRoeHBEbUNtb1BQZUdjcWtGVF9pQzE5WUNxQnpudW9tWko5M1ZndHpzRW1adDI1QndzeFF5UWxzZXJfa1JMVXRJRFZVUlhaazdCZmpnYmczYWJZLWpUMGxOZnR0NURGNjlwczhtYkJfMktLQTBnX3QwUmpUYzYxbnB6UHRZM3Rn0gHYAUFVX3lxTE4xTTduWDFMcHh3dmNVaWlZY2ctbTIxTUR1cmJBT1ZhSXUtd2RFV21leVZ3M2dEVXZ2T2NNaHpnQXBpa3pxRzVxTXFMY29MZHdDdVpPTmRwbDVyUWNidWkxVUp2Y0V2Nnc5cXhwWW1TOERwZWlibmJwVzcxczJRQmk0MFU5TVhsX0pRN0JESEZaUmF4eVBxY3VJX0g5U1hDQUJiQUl0X0pHeDlxV0Q4aTJ6M2hnOVY5YUYwVXgtcjNEVlplVGlJVzZBNG01OGh4ZGs5SVl5M09PdA?oc=5",
       "date": "2026-03-30 09:00",
       "summary": "Inside the stealthy startup that pitched brainless human clones  MIT Technology Review..."
+    },
+    {
+      "title": "The Pentagon’s culture war tactic against Anthropic has backfired - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcE5pX3ZEMGZGd1hkLVRNcVBhNkVmMy1WcUtNc3Ayd195dW9hN0g1TWtzSFFNeHNkYlBBQzZnekUzVjlBY1lBOEtpaGN2UmdYNkNCeTkwalBiWURJMU9GOVROZ0VMQkpjdkczNlZ3c1MzbXVXYzRWRE5WVDVibWppN195LXRSUldPTDdydkw1ZjAyRHBOb2hCOHBLdV9hWlNlbHVYa3Y5MXk5QUpORldTaDhod1VIX2Vn0gG-AUFVX3lxTE8yVnVCME56MUJfRWlsZVFYeWt5cUN4YncyNzJ1bVhsNWRNOUlNNXFtWUUtbUh5TGFrMXFCNXA0RkxZelFRaWVvMkdVaDVmRnI2Uy1COXM2RGE3aXBicHdfXzNaeFM5R2JsTFlDc244OWNzR3NhU3ZJM2V0ZXFHMTNGOVFfTW1yQk5zckJ6UmtWMjBIZFFLbHB1b2tYcWlGTzR2LXFydG12QnVSWE5QaHRDUy00aVJQRTdNeV8xeVE?oc=5",
+      "date": "2026-03-30 15:42",
+      "summary": "The Pentagon’s culture war tactic against Anthropic has backfired  MIT Technology Review..."
     },
     {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
@@ -247,47 +253,47 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzN6Y1EydFB0QWxINVdrYUNtTFpuekdJVlppZ1NTMGRrQmpfcDVjZWVtUXdleEk1MG5jcXItRHB5WEdrTkNxSERRMEpGbXBQUUQ5Wm8zM2ZjUGhZZl94NWJ1ek4xS3FVdFJHa3BBU3NUZ05rRFJxMFVyRHpEeTVXN3NHeXFWQjFqejMzNkRGWVRtNEIzZGlHU2xXUXNjbGYt0gGmAUFVX3lxTE1BRXhSQ2J3NkJWeVlPbHI0MlROVllDdmRPT0otcElvTkRBVmw0c1BhSzk4ZF91dl9zdEd3Z0VvUUplT0RYa2xyREQ3NlFSd2pfSWdEOEJySDRnMFpRMHB0TklWM2FjelFCaExEb0hISlVjeXFKeThRMTdoU2wxdG1fRVk4bzVDRDdGZXB4eWZQZHl5S3BiQkNPRlVLN0lTc0RJMTJDY3c?oc=5",
       "date": "2026-03-26 12:42",
       "summary": "The Download: a battery pivot to AI, and rewriting math  MIT Technology Review..."
-    },
-    {
-      "title": "This startup wants to change how mathematicians do math - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOVVjVW5pcWhfWTFhaUhQQzdaMTZlRDN1dGIyX2Y2d3lDQWk3aFAxV2pKTmI5VFB3MUVXN0NSQVdXQUpzZ1RXTXR3UlFhaGdwa3p3LUpDSmNwMUhZMUxsakE1SFB1dnZ5ODNRUmZrSUE2aE9tRm1kczlOVzY3OENoQkd5cVJiV05fWEt5T3k3bklac2ZkZ2dncUF5WTVmc3g3cFhvZjdORWxEcmll0gGyAUFVX3lxTE9FR054bldLREVET1d0ODhaYnhXNklQQVVBYVYzLV80Q0tyWEZLU2pJVHVNV0Z3Zm5DekluVjNfMjF1S1RVM2VLczJBREp3LVZzbmFEWHJLX2lTQjRJWHhaNGVWU193QUpCQ1VTUlhVQlAtUWh3bkhxc0FtTHMtcVVqQVA1dzFZZjdsTU1uYUt5X3BmTEEzS19hV3Btc3ZCME94OG1NSjQyODFrTGwzRVRQekE?oc=5",
-      "date": "2026-03-25 13:59",
-      "summary": "This startup wants to change how mathematicians do math  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Location matters: How one fat molecule can help trigger both cell limbo and cell death",
-      "link": "https://phys.org/news/2026-03-fat-molecule-trigger-cell-limbo.html",
-      "date": "2026-03-30 15:00",
-      "summary": "When cells experience enough chronic stress, they can stop dividing permanently. In this state of cellular limbo, known as replica..."
+      "title": "Global human population is pushing Earth past its breaking point",
+      "link": "https://phys.org/news/2026-03-global-human-population-earth.html",
+      "date": "2026-03-30 16:40",
+      "summary": "Earth has already exceeded its ability to support the global population sustainably, with new research warning of increasing press..."
     },
     {
-      "title": "A rare 'triple-double' radio galaxy discovered using MeerKAT",
-      "link": "https://phys.org/news/2026-03-rare-triple-radio-galaxy-meerkat.html",
-      "date": "2026-03-30 14:40",
-      "summary": "Astronomers have discovered an exceptionally rare radio galaxy that has three distinct pairs of radio lobes. This system falls int..."
+      "title": "Potential disease marker, therapeutic target for cats with osteoarthritis identified",
+      "link": "https://phys.org/news/2026-03-potential-disease-marker-therapeutic-cats.html",
+      "date": "2026-03-30 16:40",
+      "summary": "By comparing osteoarthritis pain pathways known to be active in dogs and humans to those in cats with degenerative joint disease (..."
     },
     {
-      "title": "Ancient predator species discovered in South Africa challenges what we know about gorgonopsians",
-      "link": "https://phys.org/news/2026-03-ancient-predator-species-south-africa.html",
-      "date": "2026-03-30 14:20",
-      "summary": "In a study published in The Anatomical Record, researchers have identified a new species of large-bodied gorgonopsian from the mid..."
+      "title": "New discoveries are showing how human anatomy is far from settled",
+      "link": "https://phys.org/news/2026-03-discoveries-human-anatomy.html",
+      "date": "2026-03-30 16:20",
+      "summary": "Leaf through a textbook, watch a wellness influencer, or listen in at the gym, and it can feel as though the human body has alread..."
     },
     {
-      "title": "Tropical volcanic eruptions trigger atmospheric changes that drive droughts in Asia",
-      "link": "https://phys.org/news/2026-03-tropical-volcanic-eruptions-trigger-atmospheric.html",
-      "date": "2026-03-30 14:00",
-      "summary": "Volcanoes are both captivating and disastrous. Most are likely familiar with the common short-term dangers associated with them: e..."
+      "title": "Silicon quantum computer performs logical operations for the first time",
+      "link": "https://phys.org/news/2026-03-silicon-quantum-logical.html",
+      "date": "2026-03-30 16:20",
+      "summary": "Silicon is ubiquitous in modern electronics, and now it is becoming increasingly useful in quantum computing. In particular, silic..."
     },
     {
-      "title": "Report provides introductory guide on green roofs and walls",
-      "link": "https://phys.org/news/2026-03-introductory-green-roofs-walls.html",
-      "date": "2026-03-30 13:50",
-      "summary": "Green roofs and green walls are no longer niche design features but proven, scalable nature-based solutions that can significantly..."
+      "title": "Framework unifies the classical and quantum Mpemba effects",
+      "link": "https://phys.org/news/2026-03-framework-classical-quantum-mpemba-effects.html",
+      "date": "2026-03-30 16:00",
+      "summary": "Physicists have developed a new theoretical framework which unifies a wide array of seemingly unrelated \"Mpemba effects\": counteri..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Zack Polanski tells NEU teachers’ union that Greens would abolish ‘toxic’ Ofsted – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2026/mar/30/starmer-iran-war-labour-values-local-elections-campaign-launch-uk-politics-latest",
+      "date": "2026-03-30 16:48",
+      "summary": "The Green party leader said Ofsted is a ‘failed institution’ and that teaching should move ‘toward a genuinely collaborative model..."
+    },
     {
       "title": "‘A fire that’s burning again’: Welsh language resurges thanks to adult learners",
       "link": "https://www.theguardian.com/uk-news/2026/mar/29/welsh-language-resurges-adult-learners-dysgu-cymraeg",
@@ -311,12 +317,6 @@
       "link": "https://www.theguardian.com/environment/2026/mar/28/cambridge-university-botany-course-charles-darwin-john-stevens-henslow",
       "date": "2026-03-28 06:00",
       "summary": "University’s botanic garden will use study materials created by John Stevens Henslow, the naturalist’s mentor, 200 years agoPlant ..."
-    },
-    {
-      "title": "Schools in England must be compelled to offer pupils healthy food, not junk",
-      "link": "https://www.theguardian.com/education/2026/mar/27/schools-england-must-offer-pupils-healthy-food-not-junk",
-      "date": "2026-03-27 18:48",
-      "summary": "School dinners have suffered at the hands of politics and economics for almost 50 yearsAlmost a generation has passed since Jamie ..."
     }
   ],
   "SCMP Hong Kong": [
@@ -365,12 +365,6 @@
       "summary": "Researchers have identified genetic material from a vast range of organisms contaminating the shroud, said to have wrapped Jesus's..."
     },
     {
-      "title": "Want to live forever? There are major questions to confront, first",
-      "link": "https://www.newscientist.com/article/2520472-want-to-live-forever-there-are-major-questions-to-confront-first/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-25 10:53",
-      "summary": "A start-up has worked out how to preserve the brain after death – paving the way for immortality in a distant future. But beginnin..."
-    },
-    {
       "title": "The weird physics of plant-based milks is only just coming to light",
       "link": "https://www.newscientist.com/article/2521037-the-weird-physics-of-plant-based-milks-is-only-just-coming-to-light/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-30 07:00",
@@ -381,6 +375,12 @@
       "link": "https://www.newscientist.com/article/2521185-why-the-lack-of-water-on-mars-is-so-mysterious/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-30 07:00",
       "summary": "An accounting of all the water that should have been and gone on Mars’s surface has come up with a discrepancy that shows just how..."
+    },
+    {
+      "title": "Surprising male G-spot found in most detailed study of the penis yet",
+      "link": "https://www.newscientist.com/article/2520982-surprising-male-g-spot-found-in-most-detailed-study-of-the-penis-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-27 09:00",
+      "summary": "A long-overlooked area of the penis has been found to have the highest concentration of nerve endings and sensory structures in th..."
     }
   ]
 }
