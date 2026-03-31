@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Climate change may produce “fast-food” phytoplankton",
+      "link": "https://news.mit.edu/2026/climate-change-may-produce-fast-food-phytoplankton",
+      "date": "2026-03-31 09:00",
+      "summary": "With warmer ocean temperatures, the composition of marine plankton could shift from protein-rich to carb-heavy, a new study sugges..."
+    },
+    {
       "title": "MIT researchers use AI to uncover atomic defects in materials",
       "link": "https://news.mit.edu/2026/mit-researchers-use-ai-uncover-atomic-defects-materials-0330",
       "date": "2026-03-30 15:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/study-reveals-why-some-cancer-therapies-dont-work-all-patients-0326",
       "date": "2026-03-26 15:00",
       "summary": "A backup survival pathway can help tumor cells resist certain lung cancer and other drugs. Combining therapies may offer a solutio..."
-    },
-    {
-      "title": "“Near-misses” in particle accelerators can illuminate new physics, study finds",
-      "link": "https://news.mit.edu/2026/near-misses-particle-accelerators-can-illuminate-new-physics-0326",
-      "date": "2026-03-26 14:50",
-      "summary": "Physicists discovered new properties of the strong force by analyzing what happens when light-speed particles skim by each other...."
     }
   ],
   "Harvard Gazette": [
@@ -89,10 +89,10 @@
       "summary": "Police: Jogger sexually assaulted on Stanford campus  Palo Alto Online..."
     },
     {
-      "title": "Liza Diño proud mom as daughter gets accepted to Stanford University - Inquirer.net",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1JMU3FSM3hFOUppOEFZYXdZWnZoQ01HNmRsaFlUbExhMWRKU1Y0N3RGY3YwZWlBekJLSlFJc2tLbHBNWUZEVXVGNW9ETDFlRFR6MGN0ZThhcURFUk45YlFiR0tfWkJNeTJJelpFU290OFEzOFNGRExqb2xDeWhYTWpLbERqZkdMeEJEY1I4QWVnNllYQkh0NFM4UzhOZ3pwRWxTMEg1Um53Z3k3dUNR0gG0AUFVX3lxTFBLTXV6N0pNTkljMkVLY29ZRlF4cjFBUnVoT2VXSWttUEp3eFNrR3BkU2N6T0ZpVUhNTnpUZHVvZGFwb09pdFIxc0lza2x3U0F0dTNYd0w4WEo4NjVia0c3ZjdGbjc3SmpRcDQ4TjJEUFZTRFg3SU0xUnppZGxRYThuM0FRNDJ0VkZ6Y1k2aDdZRU9rT2otZmJmOHpaaVN6WnB1QmZvcjFHTDZ4YVY0TkNWUEpvVw?oc=5",
-      "date": "2026-03-31 02:38",
-      "summary": "Liza Diño proud mom as daughter gets accepted to Stanford University  Inquirer.net..."
+      "title": "Stanford scientists create shape-shifting material that changes color and texture like an octopus - ScienceDaily",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81bkpSdkRUYUYwakg1RUNEZEt4UHdSaHRXcHNPNWRrcWxjR3RLZVNMT0w1MjVrMHh4R0oxMGZqLVFuejBRS3dueW51TTdMc3RLRm9DX05IdFJQb1liWEt4bWxqQXdhd3J0NU1iRU5B?oc=5",
+      "date": "2026-03-31 08:58",
+      "summary": "Stanford scientists create shape-shifting material that changes color and texture like an octopus  ScienceDaily..."
     }
   ],
   "Nature Careers": [
@@ -193,12 +193,6 @@
   ],
   "Reuters AI": [
     {
-      "title": "China's DeepSeek AI chatbot suffers longest outage since viral rise in early 2025 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3VuNmlYcXgwTkl5dzRCSzBQVHVRUjgxSV9FN210WThyUnNTZ3JBa055MXpTVGdSZHd6ak9vUUZzNEpKZDIyQndsakhzVHNkdGNrdW5DX3NpdTNNNXlYdzBJTjkwR25BU1dLRlRleU9xTDZzUjJJQzBYcVJCbWpsRVp6cEdGTmZlQ2xGOTRQZEozNm5FY21iNVA5dWc1aHF2bUVSRUFUYWQ0Q05vVzBGbGVMVFp3UjZJWHBCaFdxUmZJUQ?oc=5",
-      "date": "2026-03-30 06:56",
-      "summary": "China's DeepSeek AI chatbot suffers longest outage since viral rise in early 2025  Reuters..."
-    },
-    {
       "title": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzBseURLM25nc3R5UDZ1bDBDWkVZLV9mc014WmQ4bXg3TEUzb1V4bDZSUFNQR3lySVh5WExjQVM1V0J3MDNWQmZGeDNtUWJEbTdiUGplcFpaMWZ5RDhCRFE3d1VjZnBvTFE2WE9xYk1fZlBHaTJTeVpPWVdBdWh5VjZ1VGsybHE0Y05zOGo1S29Md2ZIOWtuYTlnQjlhUGZsbE9ub3NaQ1poWlFfa194NVFTSU1nQXhvNDViaA?oc=5",
       "date": "2026-03-31 06:23",
@@ -221,6 +215,12 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWhveEx5QnNDMU5ha3huUXljSXlHdVd1bFU2QmxtSlBPSkRlTkpLUGNFNjdrV09TWFQtQmRub0ctUXBkZ0VTN2JaZWVmTjVMQkJOdXNDYzZoREFXdERxdWtTUVdTbV9vTFVHRjh3cG02aVZCeEd2bG1UZUhRLXZQSTBEWEJybF8xM08xTWJES1R1dG5VSEJvY1JIMA?oc=5",
       "date": "2026-03-30 08:43",
       "summary": "Masayoshi Son represents fragile link in AI chain  Reuters..."
+    },
+    {
+      "title": "Nvidia's PE sinks to seven-year low as war and AI angst weigh - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0ZFT2xDVFVkTFAzVlBpMmlhUnpxbjVrZjgzSTRoOHQza0lvTERvNlYwVTVjWVJhNVJGVUlXanJ4Q1o1ZUwzUkFiNnBVcmdtbE1NWVVCRHZZeEEwM0FNOVFqdnVSYmdfWXVsb1BYaDl4a3p6T3laX2JucEpCZzVuRFZKOHJJWkVaYmdfRW5RY21lNG1lNFVUQXI2VQ?oc=5",
+      "date": "2026-03-30 09:34",
+      "summary": "Nvidia's PE sinks to seven-year low as war and AI angst weigh  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,16 +243,16 @@
       "summary": "Inside the stealthy startup that pitched brainless human clones  MIT Technology Review..."
     },
     {
-      "title": "OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaktiMXBZbHU1WWV0YUw1c3A1RlloQTJXVGd0eEdQTzA4ZUF2YmZzODFtLWhMU0dKXzkxUXFPOXgwalF1bTlmM3Z6d3JhRzdpeDlZZVRRdWFBeHhTd0dfSUhCUWgwcHVDZkctSVlLZEVjLXdzLW02THh2Mi1DM25SbmFTSlNJOFhTOE9XSERHcFRFbUJfSGFSUDhDSFdrZm43S3FIUnRxVjAtaVpQUVZ6dHVaaWpzMDhFS1haakZ6T1BrU3PSAcgBQVVfeXFMUHl0ZFNoeFlESVdmZHJzTmkzWHQxYmxKbV9KazY3NHpZdGtvMFk5c0VVUExCMU82MmpTX1p3RHJjTDR2VlRBZ01tS0R3TWFBYXV3RDdXLXh4N3FWX1hXWnQ4OEpmcW13NWhybktWdXRFRUxfUldNSGlROEVKTHpwUlhMZHFMTEhJT0dTT1NITEFtV2c5QmR5a3VMaDFMY2Z0LXlCclFWS21DWGxmNjBxaWNsYWZVeGxyRm9Zd1NFUm1hVmxPVTdCVVg?oc=5",
-      "date": "2026-03-20 07:00",
-      "summary": "OpenAI is throwing everything into building a fully automated researcher  MIT Technology Review..."
-    },
-    {
       "title": "How AI is turning the Iran conflict into theater - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjJNYVhxNlVqbGNtbkRDaVNrSVp3Q2xlVVpHaVZDN1FsM3djLWROTmdoRXlJbXRVZk1RaE1DQ3BDc1Z1cjBjQXpSb1VIMFRyRVN2ZnNpVndjQ2FwdElyeGdCRWNtNlkydWdNOUxxdzh2MnpLWE9JU3dGQ1VYbmxEUEFFTVhkWnpFUmc3ODdIVFFPYkU1aU55T2c2NXNadzB4T2Fz0gGoAUFVX3lxTFA0c0hLSjJxMU5lckM3bFJWLVRPSWhiX2EwcG1YVjFjOWpFbFVtaW5rbG5mbHFCLVdWcWpJRFlpSHFMTTlmUi1YOTVzYm5nYmJVblZxZUsweWZIbVBWcWhvcHpJYnFuV3FlbWtBbVR0NG1LaWxaREdFQVMyQmJneEY4M0lsQUp5RTRLTFFfY3JaRlV3UTI1UGYtNUFrR2I0d1Z4YWZqcjJSTw?oc=5",
       "date": "2026-03-09 07:00",
       "summary": "How AI is turning the Iran conflict into theater  MIT Technology Review..."
+    },
+    {
+      "title": "OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaktiMXBZbHU1WWV0YUw1c3A1RlloQTJXVGd0eEdQTzA4ZUF2YmZzODFtLWhMU0dKXzkxUXFPOXgwalF1bTlmM3Z6d3JhRzdpeDlZZVRRdWFBeHhTd0dfSUhCUWgwcHVDZkctSVlLZEVjLXdzLW02THh2Mi1DM25SbmFTSlNJOFhTOE9XSERHcFRFbUJfSGFSUDhDSFdrZm43S3FIUnRxVjAtaVpQUVZ6dHVaaWpzMDhFS1haakZ6T1BrU3PSAcgBQVVfeXFMUHl0ZFNoeFlESVdmZHJzTmkzWHQxYmxKbV9KazY3NHpZdGtvMFk5c0VVUExCMU82MmpTX1p3RHJjTDR2VlRBZ01tS0R3TWFBYXV3RDdXLXh4N3FWX1hXWnQ4OEpmcW13NWhybktWdXRFRUxfUldNSGlROEVKTHpwUlhMZHFMTEhJT0dTT1NITEFtV2c5QmR5a3VMaDFMY2Z0LXlCclFWS21DWGxmNjBxaWNsYWZVeGxyRm9Zd1NFUm1hVmxPVTdCVVg?oc=5",
+      "date": "2026-03-20 07:00",
+      "summary": "OpenAI is throwing everything into building a fully automated researcher  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -321,10 +321,16 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong homebuyers pile into new launches despite rate jitters and Middle East tensions",
+      "link": "https://www.scmp.com/business/article/3348547/hong-kong-homebuyers-pile-new-launches-despite-rate-jitters-and-middle-east-tensions?utm_source=rss_feed",
+      "date": "2026-03-31 09:49",
+      "summary": "Hong Kong homebuyers snapped up new launches on Tuesday as developers accelerated sales amid concerns over slower rate cuts and ge..."
+    },
+    {
       "title": "13 parents, businessman get up to 14 months in jail for bribing ESF employee",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3348521/13-parents-merchant-get-14-months-jail-bribing-esf-employee?utm_source=rss_feed",
       "date": "2026-03-31 08:12",
-      "summary": "A Hong Kong court has sentenced 13 parents and a merchant to up to 14 months in jail for offering bribes ranging from HK$20,000 to..."
+      "summary": "A Hong Kong court has sentenced 13 parents and a businessman to up to 14 months in jail for offering bribes ranging from HK$20,000..."
     },
     {
       "title": "EnerVenue plugs into US$300 million to scale next-gen batteries as it eyes Hong Kong hub",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3348491/hong-kong-man-gets-22-months-jail-pregnant-womans-death-truck-accident?utm_source=rss_feed",
       "date": "2026-03-31 05:51",
       "summary": "A former Hong Kong truck driver who caused the death of a pregnant woman was sentenced to 22 months in prison on Tuesday, with the..."
-    },
-    {
-      "title": "Over 47,000 cabbies adopt Octopus, card readers ahead of e-payment deadline",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3348480/over-47000-cabbies-adopt-octopus-card-readers-ahead-e-payment-regulations?utm_source=rss_feed",
-      "date": "2026-03-31 04:05",
-      "summary": "More than 47,000 taxi drivers have adopted the commercial version of the Octopus app or equipped their cabs with mobile card reade..."
     }
   ],
   "New Scientist": [
@@ -365,12 +365,6 @@
       "summary": "Hundreds of millions of people live close enough to data centres used to power AI to feel warmer average temperatures in their loc..."
     },
     {
-      "title": "The Shroud of Turin bears DNA from many people, plants and animals",
-      "link": "https://www.newscientist.com/article/2521236-the-shroud-of-turin-bears-dna-from-many-people-plants-and-animals/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-30 10:00",
-      "summary": "Researchers have identified genetic material from a vast range of organisms contaminating the shroud, said to have wrapped Jesus's..."
-    },
-    {
       "title": "The weird physics of plant-based milks is only just coming to light",
       "link": "https://www.newscientist.com/article/2521037-the-weird-physics-of-plant-based-milks-is-only-just-coming-to-light/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-30 07:00",
@@ -381,6 +375,12 @@
       "link": "https://www.newscientist.com/article/2521185-why-the-lack-of-water-on-mars-is-so-mysterious/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-30 07:00",
       "summary": "An accounting of all the water that should have been and gone on Mars’s surface has come up with a discrepancy that shows just how..."
+    },
+    {
+      "title": "Surprising male G-spot found in most detailed study of the penis yet",
+      "link": "https://www.newscientist.com/article/2520982-surprising-male-g-spot-found-in-most-detailed-study-of-the-penis-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-27 09:00",
+      "summary": "A long-overlooked area of the penis has been found to have the highest concentration of nerve endings and sensory structures in th..."
     }
   ]
 }
