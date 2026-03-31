@@ -51,16 +51,16 @@
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
     },
     {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
-      "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
-    },
-    {
       "title": "How to help lift slumping American math scores - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
       "summary": "How to help lift slumping American math scores  Harvard Gazette..."
+    },
+    {
+      "title": "It’s time to get more comfortable with talking about dying - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUDJWWTkzY3ItYUctU2JPNUJxM2Jwa3k5SmI2WmN5UXFmLXc0Rzh0dG5jLXRiQ0x6bHBPdUhtMktYOXVHYkdIcXN5T2VYRmdVbExCZm1RZU94R2pFaVZlRlp4NXliYVNqdGNySjNxOE1CV1dpc0V3eWpiQjI2eUtkMUpEaHZiZ1Myc3pyY1kxR1ROc3FVZlM0akRnUVhtY01UeFZmM3hjQ1c?oc=5",
+      "date": "2026-02-03 08:00",
+      "summary": "It’s time to get more comfortable with talking about dying  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "Energy Department aims to build full-fledged quantum computer within 3 years",
+      "link": "https://www.science.org/content/article/energy-department-aims-build-full-fledged-quantum-computer-within-3-years",
+      "date": "2026-03-31 06:10",
+      "summary": "Agency will also make new list of major facilities to be built in the coming decade..."
+    },
+    {
       "title": "An Alzheimer’s blood test is getting popular. But who really needs it?",
       "link": "https://www.science.org/content/article/alzheimer-s-blood-test-getting-popular-who-really-needs-it",
       "date": "2026-03-31 04:45",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/trump-killing-heralded-u-s-effort-help-world-battle-hiv",
       "date": "2026-03-31 09:00",
       "summary": "The Department of State hasn’t given the Centers for Disease Control and Prevention all the money it needs to keep vital AIDS reli..."
-    },
-    {
-      "title": "Supporters push to revive moribund agency studying patient care",
-      "link": "https://www.science.org/content/article/supporters-push-revive-moribund-agency-studying-patient-care",
-      "date": "2026-03-30 01:20",
-      "summary": "The Agency for Healthcare Research and Quality has grant money, but nobody to hand it out..."
     }
   ],
   "Retraction Watch": [
@@ -193,34 +193,34 @@
   ],
   "Reuters AI": [
     {
-      "title": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says - Reuters",
+      "title": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzBseURLM25nc3R5UDZ1bDBDWkVZLV9mc014WmQ4bXg3TEUzb1V4bDZSUFNQR3lySVh5WExjQVM1V0J3MDNWQmZGeDNtUWJEbTdiUGplcFpaMWZ5RDhCRFE3d1VjZnBvTFE2WE9xYk1fZlBHaTJTeVpPWVdBdWh5VjZ1VGsybHE0Y05zOGo1S29Md2ZIOWtuYTlnQjlhUGZsbE9ub3NaQ1poWlFfa194NVFTSU1nQXhvNDViaA?oc=5",
       "date": "2026-03-31 06:21",
-      "summary": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says  Reuters..."
+      "summary": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says  reuters.com..."
     },
     {
-      "title": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition - Reuters",
+      "title": "Huge glass skyscraper envisioned for Trump presidential library in AI video - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSFJQVVFacjJBZGRCWUVLcFdYbnU2cXkwMDNIN09XRXkzRzA2TmFEd0tadGtBcW4wb0FXcnlJa3BSNTMyRUdXWjBjcVhZclg1amdmbVRsclFiVjJIQVR0MVp3TldxeTUxT3Q5N1hkNDJBRTZzb2c5c29udUZURWp0QjJYazY3N2tKazF2WjdZcnZUbmw0V2k3QldZbF8yekx5U3JReFBUQ3lvcTNxQS1kV1dpOA?oc=5",
+      "date": "2026-03-31 18:47",
+      "summary": "Huge glass skyscraper envisioned for Trump presidential library in AI video  reuters.com..."
+    },
+    {
+      "title": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmh3NHVnejF0NmZSS0FhOXdHdUZ6bW5EdlpBODZ1YzN2b2swbG9WSkJYVW40MWNVN3IzRVk5S0VOeEJNS2g4TEoyVk50MkFVZXVPRk5tSFN5aFU0WWNSMVhGd0hFTXJkbEw2RDQta3FPa0dSamdPX2lMZ291bDNrMTk1eEpWSmY0NTBZNUl5SnJ6WGQ1N2toOHEwYVpuU2FYT1g1ellB?oc=5",
       "date": "2026-03-31 15:10",
-      "summary": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition  Reuters..."
+      "summary": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition  reuters.com..."
     },
     {
-      "title": "Majority of US federal judges are using AI, study finds - Reuters",
+      "title": "Majority of US federal judges are using AI, study finds - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2JjaW9CWjltYUVVWExxbS13cHgyYTJTZVVOSWg0aUxNNzdoclUxQlFqR3hlUGRfQy1sS0l3bnJacWZxZHJrc3h6aGhDRTNOdFRoT21xYmdDRXEzU2JlUThtbGVkMGRRdU1nbGhpZkNoN2lYbW8ycWxpTDhlYzRKaC16YWI4b0ZQcGZKMms3U0VCOUZQb2EwdnVkSjF4Um9KWUFBdF9lQQ?oc=5",
       "date": "2026-03-30 20:48",
-      "summary": "Majority of US federal judges are using AI, study finds  Reuters..."
+      "summary": "Majority of US federal judges are using AI, study finds  reuters.com..."
     },
     {
-      "title": "Masayoshi Son represents fragile link in AI chain - Reuters",
+      "title": "Masayoshi Son represents fragile link in AI chain - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWhveEx5QnNDMU5ha3huUXljSXlHdVd1bFU2QmxtSlBPSkRlTkpLUGNFNjdrV09TWFQtQmRub0ctUXBkZ0VTN2JaZWVmTjVMQkJOdXNDYzZoREFXdERxdWtTUVdTbV9vTFVHRjh3cG02aVZCeEd2bG1UZUhRLXZQSTBEWEJybF8xM08xTWJES1R1dG5VSEJvY1JIMA?oc=5",
       "date": "2026-03-30 08:35",
-      "summary": "Masayoshi Son represents fragile link in AI chain  Reuters..."
-    },
-    {
-      "title": "China's DeepSeek AI chatbot suffers longest outage since viral rise in early 2025 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3VuNmlYcXgwTkl5dzRCSzBQVHVRUjgxSV9FN210WThyUnNTZ3JBa055MXpTVGdSZHd6ak9vUUZzNEpKZDIyQndsakhzVHNkdGNrdW5DX3NpdTNNNXlYdzBJTjkwR25BU1dLRlRleU9xTDZzUjJJQzBYcVJCbWpsRVp6cEdGTmZlQ2xGOTRQZEozNm5FY21iNVA5dWc1aHF2bUVSRUFUYWQ0Q05vVzBGbGVMVFp3UjZJWHBCaFdxUmZJUQ?oc=5",
-      "date": "2026-03-30 06:56",
-      "summary": "China's DeepSeek AI chatbot suffers longest outage since viral rise in early 2025  Reuters..."
+      "summary": "Masayoshi Son represents fragile link in AI chain  reuters.com..."
     }
   ],
   "MIT Tech Review": [
@@ -231,16 +231,16 @@
       "summary": "Shifting to AI model customization is an architectural imperative  MIT Technology Review..."
     },
     {
-      "title": "Inside the stealthy startup that pitched brainless human clones - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjhOa2lfTk81X0JCd0VDY3BiWGN4Z1pza095UEdlakRqY1F1Y1hPckVHT0FObTZhM2RYdl9LbzhQbk80T3RNbFNTdFVwNVdJWWhweGRoeHBEbUNtb1BQZUdjcWtGVF9pQzE5WUNxQnpudW9tWko5M1ZndHpzRW1adDI1QndzeFF5UWxzZXJfa1JMVXRJRFZVUlhaazdCZmpnYmczYWJZLWpUMGxOZnR0NURGNjlwczhtYkJfMktLQTBnX3QwUmpUYzYxbnB6UHRZM3Rn0gHYAUFVX3lxTE4xTTduWDFMcHh3dmNVaWlZY2ctbTIxTUR1cmJBT1ZhSXUtd2RFV21leVZ3M2dEVXZ2T2NNaHpnQXBpa3pxRzVxTXFMY29MZHdDdVpPTmRwbDVyUWNidWkxVUp2Y0V2Nnc5cXhwWW1TOERwZWlibmJwVzcxczJRQmk0MFU5TVhsX0pRN0JESEZaUmF4eVBxY3VJX0g5U1hDQUJiQUl0X0pHeDlxV0Q4aTJ6M2hnOVY5YUYwVXgtcjNEVlplVGlJVzZBNG01OGh4ZGs5SVl5M09PdA?oc=5",
-      "date": "2026-03-30 09:00",
-      "summary": "Inside the stealthy startup that pitched brainless human clones  MIT Technology Review..."
-    },
-    {
       "title": "AI benchmarks are broken. Here’s what we need instead. - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGQ3dHlENnVNVmlwbWE3VFplQzJCZ0NhV1NLbUl6RmZzbk1YTF9tbmh1OTJ0V0dnYXdzRmZRaGZQdEdiVVBNbmVMUWV4NEpNMENLMUxsRkxPekl1VVJneEt6c0VVZzA5dHU2a3JJS0wtcHRBcTlQcUxJa0tFVk55OFZkeUJaaEt2QlNHc0Fsel84dGVEWDVFUVVfOFFlZGtack1tenhlWdIBrAFBVV95cUxOUnpwejZHN3NwcVpmRk1iTzk1dkdpNTZKbGY2TEduYXNjdXRxeC1uY3gxVnh6NGlPVGpqY3N6THVmeWkwNGlXYTUtX2YwbTJCVnFkc0I5U09CZEFzRGZnTjA4T0Fma2JwUGxUOF9PUUlWTkE0NjRLbjJNM3RCUUdKaHRpWGlmcV8zT1JrSVBmMmZkd1FOWi12YkR1c0x0YUtmejZCNTRBdE1zQVU5?oc=5",
       "date": "2026-03-31 12:01",
       "summary": "AI benchmarks are broken. Here’s what we need instead.  MIT Technology Review..."
+    },
+    {
+      "title": "Inside the stealthy startup that pitched brainless human clones - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjhOa2lfTk81X0JCd0VDY3BiWGN4Z1pza095UEdlakRqY1F1Y1hPckVHT0FObTZhM2RYdl9LbzhQbk80T3RNbFNTdFVwNVdJWWhweGRoeHBEbUNtb1BQZUdjcWtGVF9pQzE5WUNxQnpudW9tWko5M1ZndHpzRW1adDI1QndzeFF5UWxzZXJfa1JMVXRJRFZVUlhaazdCZmpnYmczYWJZLWpUMGxOZnR0NURGNjlwczhtYkJfMktLQTBnX3QwUmpUYzYxbnB6UHRZM3Rn0gHYAUFVX3lxTE4xTTduWDFMcHh3dmNVaWlZY2ctbTIxTUR1cmJBT1ZhSXUtd2RFV21leVZ3M2dEVXZ2T2NNaHpnQXBpa3pxRzVxTXFMY29MZHdDdVpPTmRwbDVyUWNidWkxVUp2Y0V2Nnc5cXhwWW1TOERwZWlibmJwVzcxczJRQmk0MFU5TVhsX0pRN0JESEZaUmF4eVBxY3VJX0g5U1hDQUJiQUl0X0pHeDlxV0Q4aTJ6M2hnOVY5YUYwVXgtcjNEVlplVGlJVzZBNG01OGh4ZGs5SVl5M09PdA?oc=5",
+      "date": "2026-03-30 09:00",
+      "summary": "Inside the stealthy startup that pitched brainless human clones  MIT Technology Review..."
     },
     {
       "title": "OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review",
@@ -257,37 +257,43 @@
   ],
   "Phys.org": [
     {
+      "title": "Targeting the tiniest divide: Research reveals potential vulnerability in bacterial reproduction",
+      "link": "https://phys.org/news/2026-03-tiniest-reveals-potential-vulnerability-bacterial.html",
+      "date": "2026-03-31 23:20",
+      "summary": "A Université de Montréal study has found a previously unknown mechanism in bacterial reproduction that could be attacked by future..."
+    },
+    {
+      "title": "Racetrack-shaped lasers developed for bright, stable frequency combs",
+      "link": "https://phys.org/news/2026-03-racetrack-lasers-bright-stable-frequency.html",
+      "date": "2026-03-31 23:00",
+      "summary": "A new, miniature laser source developed by applied physicists in the Harvard John A. Paulson School of Engineering and Applied Sci..."
+    },
+    {
+      "title": "Introducing a new citizen science nature app that's geared towards the scientific community",
+      "link": "https://phys.org/news/2026-03-citizen-science-nature-app-geared.html",
+      "date": "2026-03-31 23:00",
+      "summary": "Identifying weeds, checking out the pollen map, or discovering new plant life-forms are among the promising wealth of data availab..."
+    },
+    {
+      "title": "NASA probe data suggests a more complex sun's magnetic engine",
+      "link": "https://phys.org/news/2026-03-nasa-probe-complex-sun-magnetic.html",
+      "date": "2026-03-31 22:40",
+      "summary": "A Southwest Research Institute-led study found that protons and heavy ions react differently to solar magnetic reconnection events..."
+    },
+    {
       "title": "Engineers introduce first synthetic charged domain wall in 2D material",
       "link": "https://phys.org/news/2026-03-synthetic-domain-wall-2d-material.html",
       "date": "2026-03-31 22:20",
       "summary": "In a first for the field, materials scientists from The Grainger College of Engineering at the University of Illinois Urbana-Champ..."
-    },
-    {
-      "title": "Why measuring pain could reveal more about well-being than GDP",
-      "link": "https://phys.org/news/2026-03-pain-reveal-gdp.html",
-      "date": "2026-03-31 22:20",
-      "summary": "Anna spends most of her workday typing on her laptop. After a few hours, she starts rubbing her wrists as her pain sets in. A glan..."
-    },
-    {
-      "title": "Chiral metasurfaces guide twisted light into free space",
-      "link": "https://phys.org/news/2026-03-chiral-metasurfaces-free-space.html",
-      "date": "2026-03-31 22:10",
-      "summary": "Light can carry angular momentum in two distinct ways. One comes from polarization, which describes how the electric field rotates..."
-    },
-    {
-      "title": "Crushing soda cans and the mathematics of corrugation formation",
-      "link": "https://phys.org/news/2026-03-soda-cans-mathematics-corrugation-formation.html",
-      "date": "2026-03-31 22:00",
-      "summary": "Many people have likely found themselves watching oddly satisfying videos of random objects being squashed by a powerful hydraulic..."
-    },
-    {
-      "title": "Income rank predicts well-being worldwide, but social capital can buffer its effects",
-      "link": "https://phys.org/news/2026-03-income-worldwide-social-capital-buffer.html",
-      "date": "2026-03-31 21:50",
-      "summary": "An individual's position in the income hierarchy is a stronger predictor of well-being than either how much they earn or how large..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Almost half of primary teachers in England see pupils with eating disorders, survey finds",
+      "link": "https://www.theguardian.com/education/2026/mar/31/almost-half-of-primary-teachers-in-england-see-pupils-with-eating-disorders-survey-finds",
+      "date": "2026-03-31 23:15",
+      "summary": "Poll of 10,000 teachers also finds ‘overwhelming’ exam anxiety and rising absenteeism linked to poor mental healthAlmost half of p..."
+    },
     {
       "title": "Judge orders University of Pennsylvania to provide list of Jews to federal agency",
       "link": "https://www.theguardian.com/us-news/2026/mar/31/judge-penn-jewish-employees-list-trump",
@@ -299,12 +305,6 @@
       "link": "https://www.theguardian.com/education/2026/mar/31/college-student-job-hunt-experience-tell-us",
       "date": "2026-03-31 18:21",
       "summary": "How have you found the job application process? What has been your experience of job hunting so far? The entry-level job market fo..."
-    },
-    {
-      "title": "Almost half of primary teachers in England see pupils with eating disorders, survey finds",
-      "link": "https://www.theguardian.com/education/2026/mar/31/almost-half-of-primary-teachers-in-england-see-pupils-with-eating-disorders-survey-finds",
-      "date": "2026-03-31 17:17",
-      "summary": "Poll of 10,000 teachers also finds ‘overwhelming’ exam anxiety and rising absenteeism linked to poor mental healthAlmost half of p..."
     },
     {
       "title": "Sad faces all round as Bolivia’s clowns protest over decree threatening their livelihoods",
