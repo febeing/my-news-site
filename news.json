@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Two physicists and a curious host walk into a studio…",
+      "link": "https://news.mit.edu/2026/two-physicists-and-curious-host-walk-studio",
+      "date": "2026-03-31 23:00",
+      "summary": "On GBH’s new show The Curiosity Desk, MIT LIGO researchers revel in the beauties of fundamental discovery science and MIT astronom..."
+    },
+    {
       "title": "Climate change may produce “fast-food” phytoplankton",
       "link": "https://news.mit.edu/2026/climate-change-may-produce-fast-food-phytoplankton-0331",
       "date": "2026-03-31 09:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/implantable-islet-cells-could-control-diabetes-without-insulin-injections-0326",
       "date": "2026-03-26 15:00",
       "summary": "The cells can survive in the body for at least three months, producing enough insulin to control blood sugar levels, research show..."
-    },
-    {
-      "title": "Study reveals why some cancer therapies don’t work for all patients",
-      "link": "https://news.mit.edu/2026/study-reveals-why-some-cancer-therapies-dont-work-all-patients-0326",
-      "date": "2026-03-26 15:00",
-      "summary": "A backup survival pathway can help tumor cells resist certain lung cancer and other drugs. Combining therapies may offer a solutio..."
     }
   ],
   "Harvard Gazette": [
@@ -45,6 +45,12 @@
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
     },
     {
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
+      "date": "2025-10-23 07:00",
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
+    },
+    {
       "title": "How to help lift slumping American math scores - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
@@ -55,33 +61,9 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
       "date": "2025-09-25 07:00",
       "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
-    },
-    {
-      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
-      "date": "2025-10-28 07:00",
-      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     }
   ],
   "Stanford News": [
-    {
-      "title": "Armed man sought after sexual assault of jogger near Stanford - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTVXVGZvZVBsRmU2dnk4UWdfRm5GUHdkNDRQRXJXNG5RMV8tME5fZVhyNWpqeWVnMkZTeWdHa1B1QjVyTzdUMlVDQ2gtZzMwVHR0Z3BiOWY0cnZJZ21xcll5QXp0alMzYnpSczFxcXA1RTlLRklrNkN5Nm1yWHJ0aElKbUlzZ1IwTXc?oc=5",
-      "date": "2026-03-30 23:24",
-      "summary": "Armed man sought after sexual assault of jogger near Stanford  SFGATE..."
-    },
-    {
-      "title": "Armed man sexually assaulted woman jogging near Stanford University, campus police say - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeVYtbTVZSTgwRlVyMGE4R3FHNTdhZnJQYlpGOGk5THVMZVVFd1V1aW1nTU0zd2M5Rm8zZ0UtRkNGalB5cVl4R1IwVFJiX196Qi1RS3NNS2I5X3N5TDBPNXV4Y1pVbzFrTUQ1VnRmMUcyYUplUU9MNWtKSV90OEJnMTlSU3g?oc=5",
-      "date": "2026-03-30 15:03",
-      "summary": "Armed man sexually assaulted woman jogging near Stanford University, campus police say  San Francisco Chronicle..."
-    },
-    {
-      "title": "‘I exposed China’s espionage tactics in The Times. Now I’m being harassed’ - The Times",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNMzczWHpGWnZ0ODhaVlh1bFVQSjEtZkJXRlJYZnZEYU1JcS04Rk9iendqN2FYSE1qdEExRzJFSlE4d3NneEEwXy04amIyLTN1VDZ4aTUzTEFBYkFaZ1ZzZWNXNWhhMk1JSTNfM0hONDE0YXdjZkRXclFPekljaVBSMHJSRjAwcWtBZnZGbG5JSlo3Nk9Wd0g1QWNXX2s2NzRWNkt3ZWl1QnRlLVhpSHVrc0x5RTRZNWtiU1JRUmlWRzhmOXN3dm0yYzA0MEZFRHJqUG9rd3gwWEpwTGNodXRBMXdrSlBCX3lsRWhaZWRHbGVjLXdDa2JyRGM1WHA4dVVTVXQ5T2swUUpja0hzMng0aTlReS03WmNiR1hTdWlLTENWcmpDVEM3VkZLNFZvcE0xbG1TaGFjSmszNV8zZzhPUXNDblVDTktsU3JKdEoyM2hydXpHc3lQcWdxXy1vZFJKdC16eHRVRmp0QTB2Q1I0blM4MllPT1hqTkVKSzlHdkJTdm8xVDNSMzlGeVN0ei1JMUE2STBDRDhwNV9IY3BZ?oc=5",
-      "date": "2026-03-31 11:00",
-      "summary": "‘I exposed China’s espionage tactics in The Times. Now I’m being harassed’  The Times..."
-    },
     {
       "title": "Female jogger says she was sexually assaulted by armed male near Stanford campus - NBC Bay Area",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlg3cjZEcV9ldjJnUnJ5dXFGbnlLYWRRSXMxQXNRaW9uTUV3cko5OVVlX2U4clRfdnFNYkg2Sm4xZzZxMGxqMHhuQjZkQlU2NDllTUVPam5EallzNThWeEhlcjE2ZDlHZmxjVXlydnRCcWZPd0Y5MG54Vk42NHBwc0V6R2xqT215OFNxOFYxVmstNTBiU3fSAZ4BQVVfeXFMTUlNcVBnWnBUZnRXTUhueTlsXzZmYURzaU9KZWlObkx3SkdDbE9mOGN4UUprNWItRkl2dUtIWDFMMDItQmt3T1BYZjJDTEVFazVSb0tJZzVRMHk0M2ZQU1ZiMFZRNUJrR1EzMmxuMjJyMWVNbWp3N3pZUzFhXzNxZ3pNZU5KVm40SHhkZDNacWNkNnBxd3ZsTjBWWmRreHc?oc=5",
@@ -89,10 +71,28 @@
       "summary": "Female jogger says she was sexually assaulted by armed male near Stanford campus  NBC Bay Area..."
     },
     {
+      "title": "Armed man sought after sexual assault of jogger near Stanford - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTVXVGZvZVBsRmU2dnk4UWdfRm5GUHdkNDRQRXJXNG5RMV8tME5fZVhyNWpqeWVnMkZTeWdHa1B1QjVyTzdUMlVDQ2gtZzMwVHR0Z3BiOWY0cnZJZ21xcll5QXp0alMzYnpSczFxcXA1RTlLRklrNkN5Nm1yWHJ0aElKbUlzZ1IwTXc?oc=5",
+      "date": "2026-03-30 23:24",
+      "summary": "Armed man sought after sexual assault of jogger near Stanford  SFGATE..."
+    },
+    {
+      "title": "Woman sexually assaulted by man with gun while jogging near Stanford campus, police say - ABC7 San Francisco",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXVGWVdCUGllUkYtU2pWei1uRDNhRmd4b2haRzJOblJkZkNMYmxPblZwZGJnSUpMLUpWTFJQcml6MXRvMWhRT2diaGxuVE1kWE5tSm1uU05IcjJEd1JNQW0wdjBHZzBzX3lHNDFWbTFpRVI2b0I2OVpldG4yay1udTE0TTRIQXZ4UEhjOHFSLWJmeW90eHN3c3FaMFUtLXAydGJIRmdn0gGrAUFVX3lxTE5Dem1oZVVvY2xFLTRWM1VfaFdpWmlQMnVpRGVHZ242QXpPLVYydm1Udmo2ZWg0ZWphdHJkR2RlQ3J0SHJHc2hOUnFUTWVVektOUHZKc1I2bE0tc2hJN093ZUE3R043Z1I5ckZPWHd3TzNVbjg2UVpUZ3ZvMlplX3JiSFlLcnlnM3V4RnJtMGxiVzBod19OeWxzcEZKNXRQeG45d2RVd3VUVTdIUQ?oc=5",
+      "date": "2026-03-31 16:36",
+      "summary": "Woman sexually assaulted by man with gun while jogging near Stanford campus, police say  ABC7 San Francisco..."
+    },
+    {
       "title": "Police: Jogger sexually assaulted on Stanford campus - Palo Alto Online",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYzBMTkR0QWpOTDJKT3dEbDRKZ3FUS19mX2ZCVjBhMzFVOURGaVE4NEVEN2UwdXhWN1FqXzRNaklLSnJGN3hVdDFlQzFNRGVrX0I4ekFYc1ZOc3E3Z1pObDBNcHRTN3d3amJfMV9GenNqQm5ZZVpiQVRuYTd4RWdBNUVCM1ZvZjZxRWlhd3U4c2RUTnptTFFtMkV3V00ta2NrYlE?oc=5",
       "date": "2026-03-30 20:45",
       "summary": "Police: Jogger sexually assaulted on Stanford campus  Palo Alto Online..."
+    },
+    {
+      "title": "Armed man sexually assaulted woman jogging near Stanford University, campus police say - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeVYtbTVZSTgwRlVyMGE4R3FHNTdhZnJQYlpGOGk5THVMZVVFd1V1aW1nTU0zd2M5Rm8zZ0UtRkNGalB5cVl4R1IwVFJiX196Qi1RS3NNS2I5X3N5TDBPNXV4Y1pVbzFrTUQ1VnRmMUcyYUplUU9MNWtKSV90OEJnMTlSU3g?oc=5",
+      "date": "2026-03-30 15:03",
+      "summary": "Armed man sexually assaulted woman jogging near Stanford University, campus police say  San Francisco Chronicle..."
     }
   ],
   "Nature Careers": [
@@ -115,16 +115,16 @@
       "summary": "Nature, Published online: 31 March 2026; doi:10.1038/d41586-026-01009-6Schrödinger’s carbon’: The misclassification of carbon capt..."
     },
     {
+      "title": "Bunny or bug?",
+      "link": "https://www.nature.com/articles/d41586-026-00912-2",
+      "date": "2026-03-31 00:00",
+      "summary": "Nature, Published online: 31 March 2026; doi:10.1038/d41586-026-00912-2A curious species of rabbit is detected in the lab, and bul..."
+    },
+    {
       "title": "A responsible authorship culture is needed — it is a collective responsibility",
       "link": "https://www.nature.com/articles/d41586-026-00997-9",
       "date": "2026-03-31 00:00",
       "summary": "Nature, Published online: 31 March 2026; doi:10.1038/d41586-026-00997-9A responsible authorship culture is needed — it is a collec..."
-    },
-    {
-      "title": "AI used in warfare needs a strong ethical framework",
-      "link": "https://www.nature.com/articles/d41586-026-01008-7",
-      "date": "2026-03-31 00:00",
-      "summary": "Nature, Published online: 31 March 2026; doi:10.1038/d41586-026-01008-7AI used in warfare needs a strong ethical framework..."
     }
   ],
   "Science News": [
@@ -193,28 +193,28 @@
   ],
   "Reuters AI": [
     {
-      "title": "China's DeepSeek AI chatbot suffers longest outage since viral rise in early 2025 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3VuNmlYcXgwTkl5dzRCSzBQVHVRUjgxSV9FN210WThyUnNTZ3JBa055MXpTVGdSZHd6ak9vUUZzNEpKZDIyQndsakhzVHNkdGNrdW5DX3NpdTNNNXlYdzBJTjkwR25BU1dLRlRleU9xTDZzUjJJQzBYcVJCbWpsRVp6cEdGTmZlQ2xGOTRQZEozNm5FY21iNVA5dWc1aHF2bUVSRUFUYWQ0Q05vVzBGbGVMVFp3UjZJWHBCaFdxUmZJUQ?oc=5",
-      "date": "2026-03-30 06:57",
-      "summary": "China's DeepSeek AI chatbot suffers longest outage since viral rise in early 2025  Reuters..."
-    },
-    {
-      "title": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmh3NHVnejF0NmZSS0FhOXdHdUZ6bW5EdlpBODZ1YzN2b2swbG9WSkJYVW40MWNVN3IzRVk5S0VOeEJNS2g4TEoyVk50MkFVZXVPRk5tSFN5aFU0WWNSMVhGd0hFTXJkbEw2RDQta3FPa0dSamdPX2lMZ291bDNrMTk1eEpWSmY0NTBZNUl5SnJ6WGQ1N2toOHEwYVpuU2FYT1g1ellB?oc=5",
-      "date": "2026-03-31 13:29",
-      "summary": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition  Reuters..."
-    },
-    {
       "title": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzBseURLM25nc3R5UDZ1bDBDWkVZLV9mc014WmQ4bXg3TEUzb1V4bDZSUFNQR3lySVh5WExjQVM1V0J3MDNWQmZGeDNtUWJEbTdiUGplcFpaMWZ5RDhCRFE3d1VjZnBvTFE2WE9xYk1fZlBHaTJTeVpPWVdBdWh5VjZ1VGsybHE0Y05zOGo1S29Md2ZIOWtuYTlnQjlhUGZsbE9ub3NaQ1poWlFfa194NVFTSU1nQXhvNDViaA?oc=5",
       "date": "2026-03-31 06:21",
       "summary": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says  Reuters..."
     },
     {
+      "title": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmh3NHVnejF0NmZSS0FhOXdHdUZ6bW5EdlpBODZ1YzN2b2swbG9WSkJYVW40MWNVN3IzRVk5S0VOeEJNS2g4TEoyVk50MkFVZXVPRk5tSFN5aFU0WWNSMVhGd0hFTXJkbEw2RDQta3FPa0dSamdPX2lMZ291bDNrMTk1eEpWSmY0NTBZNUl5SnJ6WGQ1N2toOHEwYVpuU2FYT1g1ellB?oc=5",
+      "date": "2026-03-31 15:10",
+      "summary": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition  Reuters..."
+    },
+    {
       "title": "Masayoshi Son represents fragile link in AI chain - Reuters",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWhveEx5QnNDMU5ha3huUXljSXlHdVd1bFU2QmxtSlBPSkRlTkpLUGNFNjdrV09TWFQtQmRub0ctUXBkZ0VTN2JaZWVmTjVMQkJOdXNDYzZoREFXdERxdWtTUVdTbV9vTFVHRjh3cG02aVZCeEd2bG1UZUhRLXZQSTBEWEJybF8xM08xTWJES1R1dG5VSEJvY1JIMA?oc=5",
       "date": "2026-03-30 08:35",
       "summary": "Masayoshi Son represents fragile link in AI chain  Reuters..."
+    },
+    {
+      "title": "Majority of US federal judges are using AI, study finds - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2JjaW9CWjltYUVVWExxbS13cHgyYTJTZVVOSWg0aUxNNzdoclUxQlFqR3hlUGRfQy1sS0l3bnJacWZxZHJrc3h6aGhDRTNOdFRoT21xYmdDRXEzU2JlUThtbGVkMGRRdU1nbGhpZkNoN2lYbW8ycWxpTDhlYzRKaC16YWI4b0ZQcGZKMms3U0VCOUZQb2EwdnVkSjF4Um9KWUFBdF9lQQ?oc=5",
+      "date": "2026-03-30 20:48",
+      "summary": "Majority of US federal judges are using AI, study finds  Reuters..."
     },
     {
       "title": "Microsoft unveils AI upgrades, rolls out Copilot Cowork to early-access customers - Reuters",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Viruses 'eavesdrop' on each other—but it can backfire",
-      "link": "https://phys.org/news/2026-03-viruses-eavesdrop-backfire.html",
-      "date": "2026-03-31 15:00",
-      "summary": "University of Exeter scientists studied chemical communication by phages (viruses that infect bacteria). The phages assessed in th..."
+      "title": "Solar flare prompts close monitoring of space weather ahead of Artemis II launch",
+      "link": "https://phys.org/news/2026-03-solar-flare-prompts-space-weather.html",
+      "date": "2026-03-31 16:50",
+      "summary": "With NASA preparing for the Artemis II launch (expected tomorrow, 1 April), a strong solar flare earlier this week is putting spac..."
     },
     {
-      "title": "How Europe can use emissions trading to also manage carbon removals",
-      "link": "https://phys.org/news/2026-03-europe-emissions-carbon.html",
-      "date": "2026-03-31 15:00",
-      "summary": "The emissions trading system launched by the European Union in 2005 could one day also be used to capture CO₂ on a large scale. A ..."
+      "title": "Lost mosaic reveals first image of female beast-fighter from the Roman era",
+      "link": "https://phys.org/news/2026-03-lost-mosaic-reveals-image-female.html",
+      "date": "2026-03-31 16:40",
+      "summary": "When you think of a fight between an animal and a human in ancient Roman sports, the mental image is usually of a big man vs. an a..."
     },
     {
-      "title": "Can planes evacuate in 90 seconds? New simulations show the safest cabin layout",
-      "link": "https://phys.org/news/2026-03-planes-evacuate-seconds-simulations-safest.html",
-      "date": "2026-03-31 15:00",
-      "summary": "In case of an emergency, the Federal Aviation Administration requires aircraft to be able to evacuate within 90 seconds. However, ..."
+      "title": "Why teens are more self-serving than adults in social situations",
+      "link": "https://phys.org/news/2026-03-teens-adults-social-situations.html",
+      "date": "2026-03-31 16:30",
+      "summary": "Researchers have found that adolescents focus more on their own interests compared to adults when navigating social dilemmas, even..."
     },
     {
-      "title": "Towards smarter agriculture: Durable nanofilm electrodes for monitoring leaf health",
-      "link": "https://phys.org/news/2026-03-smarter-agriculture-durable-nanofilm-electrodes.html",
-      "date": "2026-03-31 14:40",
-      "summary": "Nanofilm electrodes capable of detecting stress in plants through bioelectric potentials could pave the way for more resilient agr..."
+      "title": "Parasites defy biodiversity rules, thriving far from the equator",
+      "link": "https://phys.org/news/2026-03-parasites-defy-biodiversity-equator.html",
+      "date": "2026-03-31 16:20",
+      "summary": "For decades, scientists have observed a clear pattern across the natural world: biodiversity tends to be higher near the equator a..."
     },
     {
-      "title": "Two new gecko species discovered in Vietnam",
-      "link": "https://phys.org/news/2026-03-gecko-species-vietnam.html",
-      "date": "2026-03-31 14:30",
-      "summary": "The half leaf-fingered geckos (Hemiphyllodactylus) are a diverse group with more than 70 recognized species and a distribution ran..."
+      "title": "Study highlights role of risk attitudes in crop insurance outcomes",
+      "link": "https://phys.org/news/2026-03-highlights-role-attitudes-crop-outcomes.html",
+      "date": "2026-03-31 16:10",
+      "summary": "Crop insurance plays a critical role in agricultural risk management by providing financial protection when disasters such as floo..."
     }
   ],
   "The Guardian Edu": [
@@ -353,6 +353,12 @@
   ],
   "New Scientist": [
     {
+      "title": "New fibre optic record allows 50,000,000 movies to be streamed at once",
+      "link": "https://www.newscientist.com/article/2520542-new-fibre-optic-record-allows-50000000-movies-to-be-streamed-at-once/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-03-31 14:00",
+      "summary": "Improved hardware can send ten times as much data through existing fibre optic cables, potentially providing a way to massively up..."
+    },
+    {
       "title": "Astronauts are ready to return to the moon on Artemis II mission",
       "link": "https://www.newscientist.com/article/2521539-astronauts-are-ready-to-return-to-the-moon-on-artemis-ii-mission/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-31 10:57",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2521037-the-weird-physics-of-plant-based-milks-is-only-just-coming-to-light/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-30 07:00",
       "summary": "Experiments on different kinds of milk have revealed that many plant-based milks are non-Newtonian fluids..."
-    },
-    {
-      "title": "Why the lack of water on Mars is so mysterious",
-      "link": "https://www.newscientist.com/article/2521185-why-the-lack-of-water-on-mars-is-so-mysterious/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-30 07:00",
-      "summary": "An accounting of all the water that should have been and gone on Mars’s surface has come up with a discrepancy that shows just how..."
     }
   ]
 }
