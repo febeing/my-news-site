@@ -83,10 +83,10 @@
       "summary": "Stanford scientists create shape-shifting material that changes color and texture like an octopus  ScienceDaily..."
     },
     {
-      "title": "Justice Department opens admissions probe into Stanford’s School of Medicine, threatens federal funding cuts - paloaltoonline.com",
+      "title": "Justice Department opens admissions probe into Stanford’s School of Medicine, threatens federal funding cuts - Palo Alto Online",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV19mbThMOG10RTVsV1l6U1FYLXBFa05qMzYwQ0dpdHpvamV5aGMzRnJqQURMRG1nVWNvUjVaM0xSWHp6d3pkSmdkMHdfbV9kQVpGX0E0RTJkdVVESVBWbEtDaC1IVXNrcGZZMmxNX1oxUTNHOGZtVm80ZUd0RkRpTzlET3NjdU9pRFBpNkJSQk1peDRiRVNuc1VCcklvQm9vSUx5b0dfSk9iUGk5RUg5TXJaSEh2Vk10S3VxQjNQTy1TSmM5eF9aT3JGNmRhRjd5a1B3bGdxSTkteTk2UzJrVGJkbENlNXFVNmJXUi1CYw?oc=5",
       "date": "2026-03-31 02:36",
-      "summary": "Justice Department opens admissions probe into Stanford’s School of Medicine, threatens federal funding cuts  paloaltoonline.com..."
+      "summary": "Justice Department opens admissions probe into Stanford’s School of Medicine, threatens federal funding cuts  Palo Alto Online..."
     },
     {
       "title": "‘I exposed China’s espionage tactics in The Times. Now I’m being harassed’ - The Times",
@@ -115,16 +115,16 @@
       "summary": "Nature, Published online: 01 April 2026; doi:10.1038/d41586-026-00969-zTens of thousands of publications from 2025 might include i..."
     },
     {
+      "title": "False hope",
+      "link": "https://www.nature.com/articles/d41586-026-00616-7",
+      "date": "2026-04-01 00:00",
+      "summary": "Nature, Published online: 01 April 2026; doi:10.1038/d41586-026-00616-7There’s something brewing...."
+    },
+    {
       "title": "100 years of synthetic fuels",
       "link": "https://www.nature.com/articles/d41586-026-00808-1",
       "date": "2026-04-01 00:00",
       "summary": "Nature, Published online: 01 April 2026; doi:10.1038/d41586-026-00808-1The Fischer–Tropsch synthesis shaped history by providing a..."
-    },
-    {
-      "title": "Author Correction: Signatures of ambient pressure superconductivity in thin film La<sub>3</sub>Ni<sub>2</sub>O<sub>7</sub>",
-      "link": "https://www.nature.com/articles/s41586-026-10335-8",
-      "date": "2026-03-31 00:00",
-      "summary": "Nature, Published online: 31 March 2026; doi:10.1038/s41586-026-10335-8Author Correction: Signatures of ambient pressure supercond..."
     }
   ],
   "Science News": [
@@ -193,37 +193,43 @@
   ],
   "Reuters AI": [
     {
-      "title": "Anthropic to sign deal with Australia on AI safety and economic data tracking - reuters.com",
+      "title": "Anthropic to sign deal with Australia on AI safety and economic data tracking - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTB6MGdId0tuQl9FcjIxSHdFQTUxXzhfa1RxNk1QbEJ0OGpIbk5INmxJUmlSTTl0TFFyUmVtbmlpSWc2Njg1V2Ffc0lJVVZxckJfQjhHcjV6dDUxOUo4dnF4ZC1qNmZ5MDJGRWtOb1doZ0VHNDdzUzdMNDBSeTBaV285S3pSRHhhVzdtUUxNWkkta25BcHpqdHRSUTllc1RUNjR1cnVvam9UOHNpckdsc2w3LUhoUzJGeTZlWUt1Zw?oc=5",
       "date": "2026-03-31 23:15",
-      "summary": "Anthropic to sign deal with Australia on AI safety and economic data tracking  reuters.com..."
+      "summary": "Anthropic to sign deal with Australia on AI safety and economic data tracking  Reuters..."
     },
     {
-      "title": "AI-led selloff in contract research firms may be misjudging disruption risk - reuters.com",
+      "title": "AI-led selloff in contract research firms may be misjudging disruption risk - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUF3MzNST19GekFreVVIS0F6VndPNVVvTFhVV1dMX21NYkF5aG9iTGVyem1FZTh5enNpaUN4dXd3bmdvbWpQU0U2cHZEQWxGVE1sbzRtcWF4Slp0M0xXX1p1REgyVkxZT29nZGVUeDdRYU1BRVZqUkMwOG56SVRZNUNoTW01VnRrUmc5bzNjLXZVQV81RVRxVUtybXNoeUlNMmg5REphTlpYUFRObnh4UDd1WXpSOU1menJGYWlldzdBcWpENXozMjNrRjZ0ZTh2NU4zd3hvckk0Nm5G?oc=5",
       "date": "2026-03-31 14:24",
-      "summary": "AI-led selloff in contract research firms may be misjudging disruption risk  reuters.com..."
+      "summary": "AI-led selloff in contract research firms may be misjudging disruption risk  Reuters..."
     },
     {
-      "title": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition - reuters.com",
+      "title": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmh3NHVnejF0NmZSS0FhOXdHdUZ6bW5EdlpBODZ1YzN2b2swbG9WSkJYVW40MWNVN3IzRVk5S0VOeEJNS2g4TEoyVk50MkFVZXVPRk5tSFN5aFU0WWNSMVhGd0hFTXJkbEw2RDQta3FPa0dSamdPX2lMZ291bDNrMTk1eEpWSmY0NTBZNUl5SnJ6WGQ1N2toOHEwYVpuU2FYT1g1ellB?oc=5",
       "date": "2026-03-31 15:10",
-      "summary": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition  reuters.com..."
+      "summary": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition  Reuters..."
     },
     {
-      "title": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says - reuters.com",
+      "title": "Starcloud reaches $1.1 billion valuation as AI space race heats up - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN3hoYWp5SE9lak8wNkNZWXI0cFhGczZmbkIzVEpNelRnVXdZR3NjYS0tOXZmWDlZUGF3bE9aUEw1SEtKX00zQlc5X3RrRk1NXzlOOVN5elZHRHBwbDdPOTJjcWVBUUdncDJHclFpU1lUMnRQcFJDNkE5cXQ0clZJRURlUks2R3VBYUVWdHBZTzlZWHRnX19KQjhZM1RqMTFSakNqVndsNDdhMS1DeFdFamh4SXd1Zy00SGxXM3NSTQ?oc=5",
+      "date": "2026-03-30 14:50",
+      "summary": "Starcloud reaches $1.1 billion valuation as AI space race heats up  Reuters..."
+    },
+    {
+      "title": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzBseURLM25nc3R5UDZ1bDBDWkVZLV9mc014WmQ4bXg3TEUzb1V4bDZSUFNQR3lySVh5WExjQVM1V0J3MDNWQmZGeDNtUWJEbTdiUGplcFpaMWZ5RDhCRFE3d1VjZnBvTFE2WE9xYk1fZlBHaTJTeVpPWVdBdWh5VjZ1VGsybHE0Y05zOGo1S29Md2ZIOWtuYTlnQjlhUGZsbE9ub3NaQ1poWlFfa194NVFTSU1nQXhvNDViaA?oc=5",
       "date": "2026-03-31 06:21",
-      "summary": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says  reuters.com..."
-    },
-    {
-      "title": "Majority of US federal judges are using AI, study finds - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2JjaW9CWjltYUVVWExxbS13cHgyYTJTZVVOSWg0aUxNNzdoclUxQlFqR3hlUGRfQy1sS0l3bnJacWZxZHJrc3h6aGhDRTNOdFRoT21xYmdDRXEzU2JlUThtbGVkMGRRdU1nbGhpZkNoN2lYbW8ycWxpTDhlYzRKaC16YWI4b0ZQcGZKMms3U0VCOUZQb2EwdnVkSjF4Um9KWUFBdF9lQQ?oc=5",
-      "date": "2026-03-30 20:48",
-      "summary": "Majority of US federal judges are using AI, study finds  reuters.com..."
+      "summary": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "Inside the stealthy startup that pitched brainless human clones - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjhOa2lfTk81X0JCd0VDY3BiWGN4Z1pza095UEdlakRqY1F1Y1hPckVHT0FObTZhM2RYdl9LbzhQbk80T3RNbFNTdFVwNVdJWWhweGRoeHBEbUNtb1BQZUdjcWtGVF9pQzE5WUNxQnpudW9tWko5M1ZndHpzRW1adDI1QndzeFF5UWxzZXJfa1JMVXRJRFZVUlhaazdCZmpnYmczYWJZLWpUMGxOZnR0NURGNjlwczhtYkJfMktLQTBnX3QwUmpUYzYxbnB6UHRZM3Rn0gHYAUFVX3lxTE4xTTduWDFMcHh3dmNVaWlZY2ctbTIxTUR1cmJBT1ZhSXUtd2RFV21leVZ3M2dEVXZ2T2NNaHpnQXBpa3pxRzVxTXFMY29MZHdDdVpPTmRwbDVyUWNidWkxVUp2Y0V2Nnc5cXhwWW1TOERwZWlibmJwVzcxczJRQmk0MFU5TVhsX0pRN0JESEZaUmF4eVBxY3VJX0g5U1hDQUJiQUl0X0pHeDlxV0Q4aTJ6M2hnOVY5YUYwVXgtcjNEVlplVGlJVzZBNG01OGh4ZGs5SVl5M09PdA?oc=5",
+      "date": "2026-03-30 09:00",
+      "summary": "Inside the stealthy startup that pitched brainless human clones  MIT Technology Review..."
+    },
     {
       "title": "The gig workers who are training humanoid robots at home - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXpBZEJpS1hfTFl4SmtuSmszX0I2STJWOUs4Z1ktLVRENUljLUx4akZoVzJUNW5zUVpmWGpxNGdJZzY4a0sxMXRoaXdjSTE1SjJiNHMzLUhnMkpmSkVvdV91Nm5mQmwzY2JLZXNSOXlfaDZvRDQyc2ZPOHNJZUlxUUVXbDNrVFM1YnFXQXNHN3ZxTi1lUjd4cjR5aFRTbzhSTkxXX1hPTkl1Q0dkRlRQTUVsY1hfQmvSAbwBQVVfeXFMTVZfaUNoV2VUNHlSXzM3X1VBNXc3Mi1UcXhIeUUwWkgtOE44ZG5kWTJEZHhnUGJJSEZQWTBRb203WDhvTTNpTi15NmtjMm8yTm96YTc3bC0zeXJPRkNMZm1vVDZpd3BaOWNMT0xSMVRDalJOMl80b0xsb1hhNTN2ZWxBY1lnUVRJVnBUbzJoY0NfeEVBbGc4dmFDSXhIYUs5dWhFYTRSQ3c3MmI3ajdaWlhJVTZCWmpmMVUycVc?oc=5",
@@ -231,10 +237,10 @@
       "summary": "The gig workers who are training humanoid robots at home  MIT Technology Review..."
     },
     {
-      "title": "Inside the stealthy startup that pitched brainless human clones - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjhOa2lfTk81X0JCd0VDY3BiWGN4Z1pza095UEdlakRqY1F1Y1hPckVHT0FObTZhM2RYdl9LbzhQbk80T3RNbFNTdFVwNVdJWWhweGRoeHBEbUNtb1BQZUdjcWtGVF9pQzE5WUNxQnpudW9tWko5M1ZndHpzRW1adDI1QndzeFF5UWxzZXJfa1JMVXRJRFZVUlhaazdCZmpnYmczYWJZLWpUMGxOZnR0NURGNjlwczhtYkJfMktLQTBnX3QwUmpUYzYxbnB6UHRZM3Rn0gHYAUFVX3lxTE4xTTduWDFMcHh3dmNVaWlZY2ctbTIxTUR1cmJBT1ZhSXUtd2RFV21leVZ3M2dEVXZ2T2NNaHpnQXBpa3pxRzVxTXFMY29MZHdDdVpPTmRwbDVyUWNidWkxVUp2Y0V2Nnc5cXhwWW1TOERwZWlibmJwVzcxczJRQmk0MFU5TVhsX0pRN0JESEZaUmF4eVBxY3VJX0g5U1hDQUJiQUl0X0pHeDlxV0Q4aTJ6M2hnOVY5YUYwVXgtcjNEVlplVGlJVzZBNG01OGh4ZGs5SVl5M09PdA?oc=5",
-      "date": "2026-03-30 09:00",
-      "summary": "Inside the stealthy startup that pitched brainless human clones  MIT Technology Review..."
+      "title": "A woman’s uterus has been kept alive outside the body for the first time - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVdZZEluOWNLcEY2a2lOZTBFWWpleHd1SklmbVFRTDZvZzdJeXBjYVVFMWZ0WDNva2tjZEFIaUZQaUZRNVRQQ3R3LWZBMGREcmIzV0Zfa25uTFFyTWYtVHpDQzJWaXFXNEFfUlRRa2stVWFvbDRYcWEzSHVHZDlUNzlqYkhQLTVVajVqN3dVN09fZnpuX1IxTjRZY0xUQlpqZnfSAacBQVVfeXFMTXNObEFHNE5QS1NCQk9MUE1pVkJ6ekg1ODNLVkZaWFAtNEpBSjlzSXpPS09xTXZlVEhuZG11cFdCQkpFd1dlX3VhRDlITXVqa1h0aVJLaEhSMExjZFhlaXVBLVFjclN4Rmxtc3UwRzFtd2duTnVpYloyNTJZT2liN0tKWFFOTUtiejZkS2MyNFBLODVkcW9WOW5JamV5bDZHMm84MTc5NFk?oc=5",
+      "date": "2026-03-28 09:00",
+      "summary": "A woman’s uterus has been kept alive outside the body for the first time  MIT Technology Review..."
     },
     {
       "title": "Shifting to AI model customization is an architectural imperative - MIT Technology Review",
@@ -247,44 +253,38 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmFZaEJoalhZc3kwMEttbjZYa0JPRkNUMktHaEc3dDQ5dHBqSzJrY1dVakNKdEVoaDFrZGVISWZVc0lYN2d2U3lCLWxHZHZ4ZGwxeGwxWkVKVEFMNkw0ZWRkWFZWTERwX052THV2SGVXQzVNUVRDOXFpd3pLVENxTm94OUZmSk9FRUFJNU96R0VYSWpkSjRhZVp5LTI0MThLYmxGRXpycWtjWk4yOGdyTXhzc0E3RkFocm9B0gHAAUFVX3lxTE51cTBXRzN3ZkNwY2c4OUdiQ2hIMjAzTTY3Wm9HeWNROXRDb0x1QmxmMVF0b2JkbUh2TE5UMHkxRE9ZWDgyWkc5Nk90NE1xeFRlQ0tyaGhTSXBtUHV6aFpPTVV2bjBRQ1g1c21HQzJ2YmZmWDcwQVJvLS1Od2w4VDlna0tGZ180VWhuVWRpUElpMTRqSWpFQkJ6SzJ4eVB4QzZtd3FKYWZrWWYyYXRxTmdtUTM5LUlBTFdfQzBWVWtaUg?oc=5",
       "date": "2026-03-30 16:00",
       "summary": "There are more AI health tools than ever—but how well do they work?  MIT Technology Review..."
-    },
-    {
-      "title": "A woman’s uterus has been kept alive outside the body for the first time - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVdZZEluOWNLcEY2a2lOZTBFWWpleHd1SklmbVFRTDZvZzdJeXBjYVVFMWZ0WDNva2tjZEFIaUZQaUZRNVRQQ3R3LWZBMGREcmIzV0Zfa25uTFFyTWYtVHpDQzJWaXFXNEFfUlRRa2stVWFvbDRYcWEzSHVHZDlUNzlqYkhQLTVVajVqN3dVN09fZnpuX1IxTjRZY0xUQlpqZnfSAacBQVVfeXFMTXNObEFHNE5QS1NCQk9MUE1pVkJ6ekg1ODNLVkZaWFAtNEpBSjlzSXpPS09xTXZlVEhuZG11cFdCQkpFd1dlX3VhRDlITXVqa1h0aVJLaEhSMExjZFhlaXVBLVFjclN4Rmxtc3UwRzFtd2duTnVpYloyNTJZT2liN0tKWFFOTUtiejZkS2MyNFBLODVkcW9WOW5JamV5bDZHMm84MTc5NFk?oc=5",
-      "date": "2026-03-28 09:00",
-      "summary": "A woman’s uterus has been kept alive outside the body for the first time  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Air surveillance reveals hidden reservoirs of antibiotic resistance genes",
-      "link": "https://phys.org/news/2026-04-air-surveillance-reveals-hidden-reservoirs.html",
-      "date": "2026-04-01 13:19",
-      "summary": "A review finds that antibiotic resistance genes—capable of undermining modern medicine—can travel through the air across both citi..."
+      "title": "Can you trust a finding? A new project maps which studies replicate",
+      "link": "https://phys.org/news/2026-03-replicate.html",
+      "date": "2026-04-01 15:00",
+      "summary": "Findings from the Systematizing Confidence in Open Research and Evidence (SCORE) program—a collaborative effort involving 865 rese..."
     },
     {
-      "title": "Is true empathy possible between humans and AI?",
-      "link": "https://phys.org/news/2026-04-true-empathy-humans-ai.html",
-      "date": "2026-04-01 13:10",
-      "summary": "As artificial intelligence (AI) continues to influence all facets of our personal and professional lives, questions abound, like, ..."
+      "title": "A 500-million-year-old clawed predator rewrites the origin of spiders and horseshoe crabs",
+      "link": "https://phys.org/news/2026-03-million-year-clawed-predator-rewrites.html",
+      "date": "2026-04-01 15:00",
+      "summary": "It had been a long day of teaching for Rudy Lerosey-Aubril. As a reward, he returned to cleaning an intriguing Cambrian arthropod ..."
     },
     {
-      "title": "Wisconsin-sized chunk of Alaskan permafrost is thawing: Geoscientists say climate may never be the same",
-      "link": "https://phys.org/news/2026-03-wisconsin-sized-chunk-alaskan-permafrost.html",
-      "date": "2026-04-01 13:00",
-      "summary": "In a first-of-its-kind study, a team of researchers led by geoscientist Michael Rawlins at the University of Massachusetts Amherst..."
+      "title": "5 reasons why the Artemis II mission is a big deal",
+      "link": "https://phys.org/news/2026-04-artemis-ii-mission-big.html",
+      "date": "2026-04-01 15:00",
+      "summary": "The Artemis II mission, scheduled to launch on Wednesday, will send four astronauts on a 10-day journey from Earth around the moon..."
     },
     {
-      "title": "Unexplained sky flashes from the 1950s: Independent analysis supports their existence",
-      "link": "https://phys.org/news/2026-03-unexplained-sky-1950s-independent-analysis.html",
-      "date": "2026-04-01 13:00",
-      "summary": "Historical observations from an observatory in Germany have now independently verified evidence for brief, mysterious flashes of l..."
+      "title": "Could a solar storm derail the Artemis II mission?",
+      "link": "https://phys.org/news/2026-04-solar-storm-derail-artemis-ii.html",
+      "date": "2026-04-01 14:50",
+      "summary": "Every mission to deep space is fraught with danger. A hardware failure during launch, an equipment malfunction far from Earth, or ..."
     },
     {
-      "title": "Researchers say ecotourism is valuable but cannot decarbonize tourism industry",
-      "link": "https://phys.org/news/2026-04-ecotourism-valuable-decarbonize-tourism-industry.html",
-      "date": "2026-04-01 13:00",
-      "summary": "A new research review published in npj Climate Action counters a recently proposed idea published in Nature Climate Change that ec..."
+      "title": "Warming winters lead to more nitrate pollution in the drinking water near farms",
+      "link": "https://phys.org/news/2026-04-winters-nitrate-pollution-farms.html",
+      "date": "2026-04-01 14:40",
+      "summary": "When pollution gets bad enough in the rivers supplying Iowa's largest city with drinking water, it costs Des Moines around $16,000..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "4 Hong Kong schools to close as 9 seek mergers over insufficient enrolment",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3348713/4-hong-kong-schools-close-9-seek-mergers-over-insufficient-enrolment?utm_source=rss_feed",
+      "date": "2026-04-01 15:00",
+      "summary": "Four of 15 Hong Kong public primary schools at risk of closure due to insufficient enrolment plan to shut down, while nine are see..."
+    },
+    {
       "title": "US church launches search for new HKIS school head amid legal row with operator",
       "link": "https://www.scmp.com/news/hong-kong/education/article/3348702/us-church-launches-search-new-hkis-school-head-amid-legal-row-operator?utm_source=rss_feed",
       "date": "2026-04-01 13:10",
@@ -343,15 +349,21 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3348686/shenzhen-robot-maker-turns-hong-kong-computing-power-and-listing?utm_source=rss_feed",
       "date": "2026-04-01 11:12",
       "summary": "A Shenzhen-based tech firm taking part in Hong Kong trade fairs is leveraging the city as a springboard for global expansion, with..."
-    },
-    {
-      "title": "Revamped ‘Hong Kong Story’ exhibition spotlights city’s roots in Chinese culture",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3348678/revamped-hong-kong-story-exhibition-spotlights-citys-roots-chinese-culture?utm_source=rss_feed",
-      "date": "2026-04-01 10:15",
-      "summary": "A permanent exhibition showcasing Hong Kong’s history reopened on Wednesday after a major revamp that emphasised the city’s roots ..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Virus from marine animals is causing weird eye problems in people",
+      "link": "https://www.newscientist.com/article/2521680-virus-from-marine-animals-is-causing-weird-eye-problems-in-people/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-01 12:00",
+      "summary": "A virus seems to have jumped from marine animals into people for the first time ever, and it is causing serious vision problems..."
+    },
+    {
+      "title": "Plug-in solar is coming – how dangerous is it and is it worth it?",
+      "link": "https://www.newscientist.com/article/2520742-plug-in-solar-is-coming-how-dangerous-is-it-and-is-it-worth-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-01 12:00",
+      "summary": "Plug-in solar panels are a cheaper, simpler alternative to professionally installed panels. But can they really reduce energy bill..."
+    },
     {
       "title": "Historians dispute link between drought and rebellion in Roman Britain",
       "link": "https://www.newscientist.com/article/2520194-historians-dispute-link-between-drought-and-rebellion-in-roman-britain/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -369,18 +381,6 @@
       "link": "https://www.newscientist.com/article/2520542-new-fibre-optic-record-allows-50000000-movies-to-be-streamed-at-once/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-03-31 14:00",
       "summary": "Improved hardware can send ten times as much data through existing fibre optic cables, potentially providing a way to massively up..."
-    },
-    {
-      "title": "Astronauts are ready to return to the moon on Artemis II mission",
-      "link": "https://www.newscientist.com/article/2521539-astronauts-are-ready-to-return-to-the-moon-on-artemis-ii-mission/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-31 10:57",
-      "summary": "NASA’s Artemis II mission will be the first time humans have been around the moon in half a century, and its next launch window op..."
-    },
-    {
-      "title": "The Shroud of Turin bears DNA from many people, plants and animals",
-      "link": "https://www.newscientist.com/article/2521236-the-shroud-of-turin-bears-dna-from-many-people-plants-and-animals/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-03-30 10:00",
-      "summary": "Researchers have identified genetic material from a vast range of organisms contaminating the shroud, said to have wrapped Jesus's..."
     }
   ]
 }
