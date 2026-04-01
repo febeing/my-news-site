@@ -65,22 +65,16 @@
   ],
   "Stanford News": [
     {
+      "title": "Stanford University wins battle to keep diaries of Mao Zedong's secretary Li Rui - bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uWExtY2ZaY2tmWVl0U1dCZkg3WERfYW0xc3FQQ2RFNlN1WnhMN1ItcHgxMEhjcm5iUzNtX2xHV0JaSC1CYUNfT2JsaXpSSEpqWEFlblBoRHpDQQ?oc=5",
+      "date": "2026-04-01 06:22",
+      "summary": "Stanford University wins battle to keep diaries of Mao Zedong's secretary Li Rui  bbc.com..."
+    },
+    {
       "title": "Female jogger says she was sexually assaulted by armed male near Stanford campus - NBC Bay Area",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlg3cjZEcV9ldjJnUnJ5dXFGbnlLYWRRSXMxQXNRaW9uTUV3cko5OVVlX2U4clRfdnFNYkg2Sm4xZzZxMGxqMHhuQjZkQlU2NDllTUVPam5EallzNThWeEhlcjE2ZDlHZmxjVXlydnRCcWZPd0Y5MG54Vk42NHBwc0V6R2xqT215OFNxOFYxVmstNTBiU3fSAZ4BQVVfeXFMTUlNcVBnWnBUZnRXTUhueTlsXzZmYURzaU9KZWlObkx3SkdDbE9mOGN4UUprNWItRkl2dUtIWDFMMDItQmt3T1BYZjJDTEVFazVSb0tJZzVRMHk0M2ZQU1ZiMFZRNUJrR1EzMmxuMjJyMWVNbWp3N3pZUzFhXzNxZ3pNZU5KVm40SHhkZDNacWNkNnBxd3ZsTjBWWmRreHc?oc=5",
       "date": "2026-03-30 21:12",
       "summary": "Female jogger says she was sexually assaulted by armed male near Stanford campus  NBC Bay AreaArmed man sought after sexual assaul..."
-    },
-    {
-      "title": "‘I exposed China’s espionage tactics in The Times. Now I’m being harassed’ - The Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVp6OFRJWk8yRVQtdjh5WTlSMjdBYlhXNmNPYUluaG9NTTZ0VTMxS0ZNUlRQeGsyVS1CLUdIZjJqdFBfRmNoNWlJeGJBUUtIYklYdHZsX0puVXZaWWJPNll1VzAxX3pIaDdKaHVXMkFsdFM4bXI3Ry1SakNrWE93TklHeExCaENDWkY4TzFwQ3BWUDQxS2FxMDJn?oc=5",
-      "date": "2026-03-31 11:00",
-      "summary": "‘I exposed China’s espionage tactics in The Times. Now I’m being harassed’  The Times..."
-    },
-    {
-      "title": "Stanford University wins battle to keep diaries of Mao Zedong's secretary Li Rui - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uWExtY2ZaY2tmWVl0U1dCZkg3WERfYW0xc3FQQ2RFNlN1WnhMN1ItcHgxMEhjcm5iUzNtX2xHV0JaSC1CYUNfT2JsaXpSSEpqWEFlblBoRHpDQQ?oc=5",
-      "date": "2026-04-01 06:22",
-      "summary": "Stanford University wins battle to keep diaries of Mao Zedong's secretary Li Rui  BBC..."
     },
     {
       "title": "Stanford scientists create shape-shifting material that changes color and texture like an octopus - ScienceDaily",
@@ -93,6 +87,12 @@
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV19mbThMOG10RTVsV1l6U1FYLXBFa05qMzYwQ0dpdHpvamV5aGMzRnJqQURMRG1nVWNvUjVaM0xSWHp6d3pkSmdkMHdfbV9kQVpGX0E0RTJkdVVESVBWbEtDaC1IVXNrcGZZMmxNX1oxUTNHOGZtVm80ZUd0RkRpTzlET3NjdU9pRFBpNkJSQk1peDRiRVNuc1VCcklvQm9vSUx5b0dfSk9iUGk5RUg5TXJaSEh2Vk10S3VxQjNQTy1TSmM5eF9aT3JGNmRhRjd5a1B3bGdxSTkteTk2UzJrVGJkbENlNXFVNmJXUi1CYw?oc=5",
       "date": "2026-03-31 02:36",
       "summary": "Justice Department opens admissions probe into Stanford’s School of Medicine, threatens federal funding cuts  Palo Alto Online..."
+    },
+    {
+      "title": "‘I exposed China’s espionage tactics in The Times. Now I’m being harassed’ - The Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVp6OFRJWk8yRVQtdjh5WTlSMjdBYlhXNmNPYUluaG9NTTZ0VTMxS0ZNUlRQeGsyVS1CLUdIZjJqdFBfRmNoNWlJeGJBUUtIYklYdHZsX0puVXZaWWJPNll1VzAxX3pIaDdKaHVXMkFsdFM4bXI3Ry1SakNrWE93TklHeExCaENDWkY4TzFwQ3BWUDQxS2FxMDJn?oc=5",
+      "date": "2026-03-31 11:00",
+      "summary": "‘I exposed China’s espionage tactics in The Times. Now I’m being harassed’  The Times..."
     }
   ],
   "Nature Careers": [
@@ -193,10 +193,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "Starcloud reaches $1.1 billion valuation as AI space race heats up - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN3hoYWp5SE9lak8wNkNZWXI0cFhGczZmbkIzVEpNelRnVXdZR3NjYS0tOXZmWDlZUGF3bE9aUEw1SEtKX00zQlc5X3RrRk1NXzlOOVN5elZHRHBwbDdPOTJjcWVBUUdncDJHclFpU1lUMnRQcFJDNkE5cXQ0clZJRURlUks2R3VBYUVWdHBZTzlZWHRnX19KQjhZM1RqMTFSakNqVndsNDdhMS1DeFdFamh4SXd1Zy00SGxXM3NSTQ?oc=5",
-      "date": "2026-03-30 14:50",
-      "summary": "Starcloud reaches $1.1 billion valuation as AI space race heats up  Reuters..."
+      "title": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzBseURLM25nc3R5UDZ1bDBDWkVZLV9mc014WmQ4bXg3TEUzb1V4bDZSUFNQR3lySVh5WExjQVM1V0J3MDNWQmZGeDNtUWJEbTdiUGplcFpaMWZ5RDhCRFE3d1VjZnBvTFE2WE9xYk1fZlBHaTJTeVpPWVdBdWh5VjZ1VGsybHE0Y05zOGo1S29Md2ZIOWtuYTlnQjlhUGZsbE9ub3NaQ1poWlFfa194NVFTSU1nQXhvNDViaA?oc=5",
+      "date": "2026-03-31 06:21",
+      "summary": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says  Reuters..."
     },
     {
       "title": "Anthropic to sign deal with Australia on AI safety and economic data tracking - Reuters",
@@ -211,16 +211,16 @@
       "summary": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition  Reuters..."
     },
     {
-      "title": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzBseURLM25nc3R5UDZ1bDBDWkVZLV9mc014WmQ4bXg3TEUzb1V4bDZSUFNQR3lySVh5WExjQVM1V0J3MDNWQmZGeDNtUWJEbTdiUGplcFpaMWZ5RDhCRFE3d1VjZnBvTFE2WE9xYk1fZlBHaTJTeVpPWVdBdWh5VjZ1VGsybHE0Y05zOGo1S29Md2ZIOWtuYTlnQjlhUGZsbE9ub3NaQ1poWlFfa194NVFTSU1nQXhvNDViaA?oc=5",
-      "date": "2026-03-31 06:21",
-      "summary": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says  Reuters..."
+      "title": "AI-led selloff in contract research firms may be misjudging disruption risk - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUF3MzNST19GekFreVVIS0F6VndPNVVvTFhVV1dMX21NYkF5aG9iTGVyem1FZTh5enNpaUN4dXd3bmdvbWpQU0U2cHZEQWxGVE1sbzRtcWF4Slp0M0xXX1p1REgyVkxZT29nZGVUeDdRYU1BRVZqUkMwOG56SVRZNUNoTW01VnRrUmc5bzNjLXZVQV81RVRxVUtybXNoeUlNMmg5REphTlpYUFRObnh4UDd1WXpSOU1menJGYWlldzdBcWpENXozMjNrRjZ0ZTh2NU4zd3hvckk0Nm5G?oc=5",
+      "date": "2026-03-31 14:24",
+      "summary": "AI-led selloff in contract research firms may be misjudging disruption risk  Reuters..."
     },
     {
-      "title": "CoreWeave secures $8.5 billion loan to expand AI infrastructure - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3N4LUxyWGlpYzNSd29NM3UzZThFMXdqUEhWeVV4dHlyVjZuM0QzeERqbl9LS25Tb0wxeDFTSUdacU0yUFozT2lfZ3dhNzZvcUhoLU1uQ1d4SzZXZ3htVXVMM2dWWmtKbXIyWEh3R0JzeHRGQXlWR1JoVG5SalByM0hvSXBScnl6R2J2eWwxQVNNbXAxNzZvUmpreDIyLXZhbmpnRXVNb1c?oc=5",
-      "date": "2026-03-31 13:05",
-      "summary": "CoreWeave secures $8.5 billion loan to expand AI infrastructure  Reuters..."
+      "title": "Majority of US federal judges are using AI, study finds - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2JjaW9CWjltYUVVWExxbS13cHgyYTJTZVVOSWg0aUxNNzdoclUxQlFqR3hlUGRfQy1sS0l3bnJacWZxZHJrc3h6aGhDRTNOdFRoT21xYmdDRXEzU2JlUThtbGVkMGRRdU1nbGhpZkNoN2lYbW8ycWxpTDhlYzRKaC16YWI4b0ZQcGZKMms3U0VCOUZQb2EwdnVkSjF4Um9KWUFBdF9lQQ?oc=5",
+      "date": "2026-03-30 20:48",
+      "summary": "Majority of US federal judges are using AI, study finds  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -237,16 +237,16 @@
       "summary": "Inside the stealthy startup that pitched brainless human clones  MIT Technology Review..."
     },
     {
-      "title": "AI benchmarks are broken. Here’s what we need instead. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGQ3dHlENnVNVmlwbWE3VFplQzJCZ0NhV1NLbUl6RmZzbk1YTF9tbmh1OTJ0V0dnYXdzRmZRaGZQdEdiVVBNbmVMUWV4NEpNMENLMUxsRkxPekl1VVJneEt6c0VVZzA5dHU2a3JJS0wtcHRBcTlQcUxJa0tFVk55OFZkeUJaaEt2QlNHc0Fsel84dGVEWDVFUVVfOFFlZGtack1tenhlWdIBrAFBVV95cUxOUnpwejZHN3NwcVpmRk1iTzk1dkdpNTZKbGY2TEduYXNjdXRxeC1uY3gxVnh6NGlPVGpqY3N6THVmeWkwNGlXYTUtX2YwbTJCVnFkc0I5U09CZEFzRGZnTjA4T0Fma2JwUGxUOF9PUUlWTkE0NjRLbjJNM3RCUUdKaHRpWGlmcV8zT1JrSVBmMmZkd1FOWi12YkR1c0x0YUtmejZCNTRBdE1zQVU5?oc=5",
-      "date": "2026-03-31 12:01",
-      "summary": "AI benchmarks are broken. Here’s what we need instead.  MIT Technology Review..."
-    },
-    {
       "title": "A woman’s uterus has been kept alive outside the body for the first time - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVdZZEluOWNLcEY2a2lOZTBFWWpleHd1SklmbVFRTDZvZzdJeXBjYVVFMWZ0WDNva2tjZEFIaUZQaUZRNVRQQ3R3LWZBMGREcmIzV0Zfa25uTFFyTWYtVHpDQzJWaXFXNEFfUlRRa2stVWFvbDRYcWEzSHVHZDlUNzlqYkhQLTVVajVqN3dVN09fZnpuX1IxTjRZY0xUQlpqZnfSAacBQVVfeXFMTXNObEFHNE5QS1NCQk9MUE1pVkJ6ekg1ODNLVkZaWFAtNEpBSjlzSXpPS09xTXZlVEhuZG11cFdCQkpFd1dlX3VhRDlITXVqa1h0aVJLaEhSMExjZFhlaXVBLVFjclN4Rmxtc3UwRzFtd2duTnVpYloyNTJZT2liN0tKWFFOTUtiejZkS2MyNFBLODVkcW9WOW5JamV5bDZHMm84MTc5NFk?oc=5",
       "date": "2026-03-28 09:00",
       "summary": "A woman’s uterus has been kept alive outside the body for the first time  MIT Technology Review..."
+    },
+    {
+      "title": "AI benchmarks are broken. Here’s what we need instead. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGQ3dHlENnVNVmlwbWE3VFplQzJCZ0NhV1NLbUl6RmZzbk1YTF9tbmh1OTJ0V0dnYXdzRmZRaGZQdEdiVVBNbmVMUWV4NEpNMENLMUxsRkxPekl1VVJneEt6c0VVZzA5dHU2a3JJS0wtcHRBcTlQcUxJa0tFVk55OFZkeUJaaEt2QlNHc0Fsel84dGVEWDVFUVVfOFFlZGtack1tenhlWdIBrAFBVV95cUxOUnpwejZHN3NwcVpmRk1iTzk1dkdpNTZKbGY2TEduYXNjdXRxeC1uY3gxVnh6NGlPVGpqY3N6THVmeWkwNGlXYTUtX2YwbTJCVnFkc0I5U09CZEFzRGZnTjA4T0Fma2JwUGxUOF9PUUlWTkE0NjRLbjJNM3RCUUdKaHRpWGlmcV8zT1JrSVBmMmZkd1FOWi12YkR1c0x0YUtmejZCNTRBdE1zQVU5?oc=5",
+      "date": "2026-03-31 12:01",
+      "summary": "AI benchmarks are broken. Here’s what we need instead.  MIT Technology Review..."
     },
     {
       "title": "There are more AI health tools than ever—but how well do they work? - MIT Technology Review",
@@ -256,6 +256,24 @@
     }
   ],
   "Phys.org": [
+    {
+      "title": "Saturn's magnetic bubble is lopsided compared to Earth's, suggests new study",
+      "link": "https://phys.org/news/2026-03-saturn-magnetic-lopsided-earth.html",
+      "date": "2026-04-01 09:00",
+      "summary": "Saturn's magnetic shield is asymmetrical compared to Earth's, suggests a new study involving University College London (UCL) resea..."
+    },
+    {
+      "title": "Florida tourists gather to 'witness history' ahead of Moon launch",
+      "link": "https://phys.org/news/2026-04-florida-tourists-witness-history-moon.html",
+      "date": "2026-04-01 08:30",
+      "summary": "Jason Heath had ventured with his family from northeastern Maine to the Sunshine State for a vacation—but soon found out they were..."
+    },
+    {
+      "title": "Moon rocket and weather are on NASA's side for the first astronaut launch in decades",
+      "link": "https://phys.org/news/2026-04-moon-rocket-weather-nasa-side.html",
+      "date": "2026-04-01 08:19",
+      "summary": "After weeks of fuel leaks and other issues, NASA faced a trouble-free countdown Tuesday on the eve of astronauts' first trip to th..."
+    },
     {
       "title": "Women are being shut out of workplaces because of a hidden time gap, new research shows",
       "link": "https://phys.org/news/2026-03-women-workplaces-hidden-gap.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-03-moon.html",
       "date": "2026-04-01 03:50",
       "summary": "At 13:24:59 Central Standard Time on December 19, 1972, the Apollo 17 command module splashed down in the Pacific Ocean, about 350..."
-    },
-    {
-      "title": "Inside the high-stakes decisions of the NFL draft",
-      "link": "https://phys.org/news/2026-03-high-stakes-decisions-nfl.html",
-      "date": "2026-04-01 02:40",
-      "summary": "On NFL draft day, every team has the chance to win—or lose—big. With millions of dollars on the line and just minutes to make a fi..."
-    },
-    {
-      "title": "Why a social media ban for teenagers misses the point",
-      "link": "https://phys.org/news/2026-03-social-media-teenagers.html",
-      "date": "2026-04-01 02:00",
-      "summary": "Taylor Little became so badly addicted to her smartphone that she felt she had lost many of her teenage years. \"I was literally tr..."
-    },
-    {
-      "title": "'One Plant Health Concept' connects tradition and technology to address plant diseases in Africa",
-      "link": "https://phys.org/news/2026-03-health-concept-tradition-technology-diseases.html",
-      "date": "2026-04-01 01:30",
-      "summary": "An article published in CABI Agriculture and Bioscience calls for a diverse, participatory approach that combines indigenous, loca..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong retail sales jump nearly 12% in first 2 months of year",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3348664/hong-kong-retail-sales-jump-nearly-12-first-2-months-year?utm_source=rss_feed",
+      "date": "2026-04-01 08:49",
+      "summary": "Hong Kong’s retail sales jumped by nearly 12 per cent in the first two months of 2026 against a year ago, with authorities pointin..."
+    },
+    {
+      "title": "Mainland China, Hong Kong premium office supply to peak as demand lags, Cushman says",
+      "link": "https://www.scmp.com/business/article/3348648/mainland-china-hong-kong-premium-office-supply-peak-demand-lags-cushman-says?utm_source=rss_feed",
+      "date": "2026-04-01 08:30",
+      "summary": "Prime office supply in mainland Chinese cities and Hong Kong is estimated to peak this year, while demand remains hampered by an e..."
+    },
+    {
+      "title": "Hong Kong airport named world’s best at Global Travel Awards 2026",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3348649/hong-kong-airport-named-worlds-best-global-travel-awards-2026?utm_source=rss_feed",
+      "date": "2026-04-01 08:10",
+      "summary": "Hong Kong International Airport has been voted the world’s best airport, along with accolades recognising its security standards a..."
+    },
+    {
       "title": "HKTVmall parent firm under fire for testing how long detached animal heads can survive",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3348638/hktvmall-parent-firm-under-fire-testing-how-long-detached-animal-heads-can-survive?utm_source=rss_feed",
       "date": "2026-04-01 07:14",
@@ -330,25 +348,7 @@
       "title": "Some Hong Kong taxi drivers unprepared as new e-payments rule takes effect",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3348627/some-hong-kong-taxi-drivers-unprepared-new-e-payments-rule-takes-effect?utm_source=rss_feed",
       "date": "2026-04-01 06:47",
-      "summary": "Some Hong Kong taxi drivers have yet to install e-payment options even after the city’s mandatory electronic payment for taxis wen..."
-    },
-    {
-      "title": "World’s first Chinese-language TV station goes off-air in 2016 – SCMP archive",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3348605/worlds-first-chinese-language-tv-station-goes-air-2016-scmp-archive?utm_source=rss_feed",
-      "date": "2026-04-01 04:30",
-      "summary": "This article was first published on April 2, 2016.\nby Eddie Lee\nStaff, fans bid farewell to broadcaster\nIt was finally curtains fo..."
-    },
-    {
-      "title": "Tai Po fire hearing: estate management staff tearfully reject failure to help claims",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3348599/hong-kong-inquiry-deadly-wang-fuk-court-fire-focuses-property-manager?utm_source=rss_feed",
-      "date": "2026-04-01 02:26",
-      "summary": "The seventh session of the independent inquiry into Hong Kong's deadliest fire in decades is under way, with the focus turning to ..."
-    },
-    {
-      "title": "‘I’m not dumb’: Hong Kong’s London trade office manager denies running spy network",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3348583/im-not-dumb-hong-kongs-london-trade-office-manager-denies-running-spy-network?utm_source=rss_feed",
-      "date": "2026-04-01 00:30",
-      "summary": "A national security trial in Britain that thrust the role of Hong Kong’s overseas trade promotion offices into the global spotligh..."
+      "summary": "Some Hong Kong taxi drivers have yet to install e-payment options even after the city’s mandatory electronic payment choices for t..."
     }
   ],
   "New Scientist": [
