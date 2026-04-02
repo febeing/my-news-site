@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Evaluating the ethics of autonomous systems",
+      "link": "https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402",
+      "date": "2026-04-02 04:00",
+      "summary": "MIT researchers developed a testing framework that pinpoints situations where AI decision-support systems are not treating people ..."
+    },
+    {
       "title": "Preview tool helps makers visualize 3D-printed objects",
       "link": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
       "date": "2026-04-01 04:00",
@@ -23,44 +29,38 @@
       "link": "https://news.mit.edu/2026/climate-change-may-produce-fast-food-phytoplankton-0331",
       "date": "2026-03-31 09:00",
       "summary": "With warmer ocean temperatures, the composition of marine plankton could shift from protein-rich to carb-heavy, a new study sugges..."
-    },
-    {
-      "title": "MIT researchers use AI to uncover atomic defects in materials",
-      "link": "https://news.mit.edu/2026/mit-researchers-use-ai-uncover-atomic-defects-materials-0330",
-      "date": "2026-03-30 15:00",
-      "summary": "A new model measures defects that can be leveraged to improve materials’ mechanical strength, heat transfer, and energy-conversion..."
     }
   ],
   "Harvard Gazette": [
     {
-      "title": "Wonder served him well - Harvard Gazette",
+      "title": "Wonder served him well - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHpkLV9RSGFGQnBBVjJxeDBMZmE2Nk5udkZjQjFtdExHSTZpcjM4b0pmWDhMYWZQeE9KZlI0QmU5d0tNMFBCZVhLMVNtYW13Rm1OaW9lLXMzLTd0bDVsd2NHSGxydVBFZ2pROVFBaUU0U0RWOXBBQnNCeXZYR0lRY2QydEpPYkg0bl9YNA?oc=5",
       "date": "2026-03-04 08:00",
-      "summary": "Wonder served him well  Harvard Gazette..."
+      "summary": "Wonder served him well  news.harvard.edu..."
     },
     {
-      "title": "How academia can help America heal - Harvard Gazette",
+      "title": "How academia can help America heal - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
-      "summary": "How academia can help America heal  Harvard Gazette..."
+      "summary": "How academia can help America heal  news.harvard.edu..."
     },
     {
-      "title": "Harvard University Housing establishes new rents for 2026–2027 - Harvard Gazette",
+      "title": "Harvard University Housing establishes new rents for 2026–2027 - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
       "date": "2026-01-23 08:00",
-      "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
+      "summary": "Harvard University Housing establishes new rents for 2026–2027  news.harvard.edu..."
     },
     {
-      "title": "How to help lift slumping American math scores - Harvard Gazette",
+      "title": "How to help lift slumping American math scores - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
-      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
+      "summary": "How to help lift slumping American math scores  news.harvard.edu..."
     },
     {
-      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
+      "title": "Clearing significant hurdle to quantum computing - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
       "date": "2025-09-25 07:00",
-      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
+      "summary": "Clearing significant hurdle to quantum computing  news.harvard.edu..."
     }
   ],
   "Stanford News": [
@@ -71,28 +71,28 @@
       "summary": "Stanford University wins battle to keep diaries of Mao Zedong's secretary Li Rui  BBC..."
     },
     {
-      "title": "Female jogger says she was sexually assaulted by armed male near Stanford campus - NBC Bay Area",
+      "title": "Female jogger says she was sexually assaulted by armed male near Stanford campus - nbcbayarea.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlg3cjZEcV9ldjJnUnJ5dXFGbnlLYWRRSXMxQXNRaW9uTUV3cko5OVVlX2U4clRfdnFNYkg2Sm4xZzZxMGxqMHhuQjZkQlU2NDllTUVPam5EallzNThWeEhlcjE2ZDlHZmxjVXlydnRCcWZPd0Y5MG54Vk42NHBwc0V6R2xqT215OFNxOFYxVmstNTBiU3fSAZ4BQVVfeXFMTUlNcVBnWnBUZnRXTUhueTlsXzZmYURzaU9KZWlObkx3SkdDbE9mOGN4UUprNWItRkl2dUtIWDFMMDItQmt3T1BYZjJDTEVFazVSb0tJZzVRMHk0M2ZQU1ZiMFZRNUJrR1EzMmxuMjJyMWVNbWp3N3pZUzFhXzNxZ3pNZU5KVm40SHhkZDNacWNkNnBxd3ZsTjBWWmRreHc?oc=5",
       "date": "2026-03-30 21:12",
-      "summary": "Female jogger says she was sexually assaulted by armed male near Stanford campus  NBC Bay AreaPolice: Jogger sexually assaulted on..."
+      "summary": "Female jogger says she was sexually assaulted by armed male near Stanford campus  nbcbayarea.comWoman Jogging Near Stanford Univer..."
     },
     {
-      "title": "Court Rules Li Rui Collection to Remain at the Hoover Institution, Stanford University - Hoover Institution",
+      "title": "Court Rules Li Rui Collection To Remain At The Hoover Institution, Stanford University - Hoover Institution",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUWMwT2t1NG85R2R2UzVMN2x6VUZxMkN5VWd6bHJVbE00bkNIbDZoV1E1T2hvX1l1dk40emFUMVpFQUJRbHZPTUp3bV9FLVd4Wmd3Tk5IM2pHcjRhb3RmQmxRVlZkY0FPR2phczR0cHpDQm5vbkQzU181aFhYZmJLUjM5eEUyV1ZHbGpITlZpQVAwbndBZ0tjR05UbVlQSHhObnZ2cnVOQQ?oc=5",
       "date": "2026-03-31 21:06",
-      "summary": "Court Rules Li Rui Collection to Remain at the Hoover Institution, Stanford University  Hoover Institution..."
-    },
-    {
-      "title": "Stanford scientists create shape-shifting material that changes color and texture like an octopus - ScienceDaily",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yQTNWTkpkaW1qai1ZTFVEUXhqbHZWTDctdkp2MkJ2R1RaeF9FbWRXRGlTSmh5T3JtSzNvNVBJVkZ4RVAtQVJoVUFvN1JlY0hibXFuNGhTcExEV2dYdEIta1VCRkpJOVFDSlVWODNkUQ?oc=5",
-      "date": "2026-03-31 08:58",
-      "summary": "Stanford scientists create shape-shifting material that changes color and texture like an octopus  ScienceDaily..."
+      "summary": "Court Rules Li Rui Collection To Remain At The Hoover Institution, Stanford University  Hoover Institution..."
     },
     {
       "title": "‘I exposed China’s espionage tactics in The Times. Now I’m being harassed’ - The Times",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVp6OFRJWk8yRVQtdjh5WTlSMjdBYlhXNmNPYUluaG9NTTZ0VTMxS0ZNUlRQeGsyVS1CLUdIZjJqdFBfRmNoNWlJeGJBUUtIYklYdHZsX0puVXZaWWJPNll1VzAxX3pIaDdKaHVXMkFsdFM4bXI3Ry1SakNrWE93TklHeExCaENDWkY4TzFwQ3BWUDQxS2FxMDJn?oc=5",
       "date": "2026-03-31 11:00",
       "summary": "‘I exposed China’s espionage tactics in The Times. Now I’m being harassed’  The Times..."
+    },
+    {
+      "title": "Stanford scientists create shape-shifting material that changes color and texture like an octopus - sciencedaily.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yQTNWTkpkaW1qai1ZTFVEUXhqbHZWTDctdkp2MkJ2R1RaeF9FbWRXRGlTSmh5T3JtSzNvNVBJVkZ4RVAtQVJoVUFvN1JlY0hibXFuNGhTcExEV2dYdEIta1VCRkpJOVFDSlVWODNkUQ?oc=5",
+      "date": "2026-03-31 08:58",
+      "summary": "Stanford scientists create shape-shifting material that changes color and texture like an octopus  sciencedaily.com..."
     }
   ],
   "Nature Careers": [
@@ -199,10 +199,10 @@
       "summary": "Does the AI business model have a fatal flaw?  Reuters..."
     },
     {
-      "title": "Anthropic to sign deal with Australia on AI safety and economic data tracking - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTB6MGdId0tuQl9FcjIxSHdFQTUxXzhfa1RxNk1QbEJ0OGpIbk5INmxJUmlSTTl0TFFyUmVtbmlpSWc2Njg1V2Ffc0lJVVZxckJfQjhHcjV6dDUxOUo4dnF4ZC1qNmZ5MDJGRWtOb1doZ0VHNDdzUzdMNDBSeTBaV285S3pSRHhhVzdtUUxNWkkta25BcHpqdHRSUTllc1RUNjR1cnVvam9UOHNpckdsc2w3LUhoUzJGeTZlWUt1Zw?oc=5",
-      "date": "2026-03-31 23:15",
-      "summary": "Anthropic to sign deal with Australia on AI safety and economic data tracking  Reuters..."
+      "title": "India's Wipro names AI chief, head of 'Americas 2' unit quits - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXhlbmVtRjg0ZFFPbHFTM1ZsLTY4ZmtPdHJKTXNmeTdmX0tva001VkVRSF9JQks4TXpybV80ZjdReTV5Q29lRHJWZnN4SHhhbFlCVHl5eUI3M3BmV0ZMaXBFVGtySEVwZTBEQTNwZmVoYUt5T3FxM2xka0NCOHhRZHE2bGlrbVE1MWRvRGJDdEctYV9Wb3kzX0czSWE1WjA?oc=5",
+      "date": "2026-04-01 13:00",
+      "summary": "India's Wipro names AI chief, head of 'Americas 2' unit quits  Reuters..."
     },
     {
       "title": "Musk wants SpaceX IPO to fund AI space data centers. Microsoft's undersea setback sounds warning. - Reuters",
@@ -217,77 +217,83 @@
       "summary": "AI's blindspot about its nature impacts endangers us all  Reuters..."
     },
     {
-      "title": "India's Wipro names AI chief, head of 'Americas 2' unit quits - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXhlbmVtRjg0ZFFPbHFTM1ZsLTY4ZmtPdHJKTXNmeTdmX0tva001VkVRSF9JQks4TXpybV80ZjdReTV5Q29lRHJWZnN4SHhhbFlCVHl5eUI3M3BmV0ZMaXBFVGtySEVwZTBEQTNwZmVoYUt5T3FxM2xka0NCOHhRZHE2bGlrbVE1MWRvRGJDdEctYV9Wb3kzX0czSWE1WjA?oc=5",
-      "date": "2026-04-01 13:00",
-      "summary": "India's Wipro names AI chief, head of 'Americas 2' unit quits  Reuters..."
+      "title": "Artificial Intelligencer: OpenAI’s $852 billion problem: finding focus - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcWQzV1dHTmNpcEgzMVl5SGFVWEVHaUJldnpfMEZSeUxlRFRMd20zS2N6ZUNVQTdNQUtVaFpVU3Jyc0RuZ2VTWXliZ3dCV0hjWS1pTVdKR1RlY2J2c2dpV19WVTA2bjJxV0lKRXdsYldkOURGMm9DZ255X2NueTV4LTBSSzJKM1l6R3c1a0xrR1dPel9hb0N6dktodXNrYVdJRmsxNWpsZEptSFRtQUkxOWl2Q2I0dUVaTEtiUTBWTEh1b0k1bGdRcmxBNmlYRHFLU1JV?oc=5",
+      "date": "2026-04-01 19:00",
+      "summary": "Artificial Intelligencer: OpenAI’s $852 billion problem: finding focus  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "Inside the stealthy startup that pitched brainless human clones - MIT Technology Review",
+      "title": "Inside the stealthy startup that pitched brainless human clones - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjhOa2lfTk81X0JCd0VDY3BiWGN4Z1pza095UEdlakRqY1F1Y1hPckVHT0FObTZhM2RYdl9LbzhQbk80T3RNbFNTdFVwNVdJWWhweGRoeHBEbUNtb1BQZUdjcWtGVF9pQzE5WUNxQnpudW9tWko5M1ZndHpzRW1adDI1QndzeFF5UWxzZXJfa1JMVXRJRFZVUlhaazdCZmpnYmczYWJZLWpUMGxOZnR0NURGNjlwczhtYkJfMktLQTBnX3QwUmpUYzYxbnB6UHRZM3Rn0gHYAUFVX3lxTE4xTTduWDFMcHh3dmNVaWlZY2ctbTIxTUR1cmJBT1ZhSXUtd2RFV21leVZ3M2dEVXZ2T2NNaHpnQXBpa3pxRzVxTXFMY29MZHdDdVpPTmRwbDVyUWNidWkxVUp2Y0V2Nnc5cXhwWW1TOERwZWlibmJwVzcxczJRQmk0MFU5TVhsX0pRN0JESEZaUmF4eVBxY3VJX0g5U1hDQUJiQUl0X0pHeDlxV0Q4aTJ6M2hnOVY5YUYwVXgtcjNEVlplVGlJVzZBNG01OGh4ZGs5SVl5M09PdA?oc=5",
       "date": "2026-03-30 09:00",
-      "summary": "Inside the stealthy startup that pitched brainless human clones  MIT Technology Review..."
+      "summary": "Inside the stealthy startup that pitched brainless human clones  technologyreview.com..."
     },
     {
-      "title": "A woman’s uterus has been kept alive outside the body for the first time - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVdZZEluOWNLcEY2a2lOZTBFWWpleHd1SklmbVFRTDZvZzdJeXBjYVVFMWZ0WDNva2tjZEFIaUZQaUZRNVRQQ3R3LWZBMGREcmIzV0Zfa25uTFFyTWYtVHpDQzJWaXFXNEFfUlRRa2stVWFvbDRYcWEzSHVHZDlUNzlqYkhQLTVVajVqN3dVN09fZnpuX1IxTjRZY0xUQlpqZnfSAacBQVVfeXFMTXNObEFHNE5QS1NCQk9MUE1pVkJ6ekg1ODNLVkZaWFAtNEpBSjlzSXpPS09xTXZlVEhuZG11cFdCQkpFd1dlX3VhRDlITXVqa1h0aVJLaEhSMExjZFhlaXVBLVFjclN4Rmxtc3UwRzFtd2duTnVpYloyNTJZT2liN0tKWFFOTUtiejZkS2MyNFBLODVkcW9WOW5JamV5bDZHMm84MTc5NFk?oc=5",
-      "date": "2026-03-28 09:00",
-      "summary": "A woman’s uterus has been kept alive outside the body for the first time  MIT Technology Review..."
-    },
-    {
-      "title": "Shifting to AI model customization is an architectural imperative - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdjlGN2VjYXVLTGtXaGRmSUFXSUJfVWtpYlNMd0NJNHUybjRGcmdKVFJKODV2dGlBem5ENDVZQWZhSkh2amQxakR1V0MtS3FsclBPNE5KSThZWUNBMGxDV1F0Y1JGWERxaVFBM1FLZjZYbDJvWDhtYlN6ejZxT0RrSXZiM1o1RzFyOE1oUjVsaDlMSXB2RTBOSWZTVGQtczlKdDVmdG9RaUxCaXFNam15YlZ4S1hxMm16d1HSAb8BQVVfeXFMUHU1b3ZvLVJMWXNqaUY1RTlYN2ctZldwdVlDWlg2U0FDdlBzZFRBWXdzV2JmRFhlZDFTUXk3ZmJCaGpKcURhX2ppOE1oR3N6Wm9TWXVMSXpGU2FLWVE4Y05zS2ViLWFKMlB0YjlWRFowUWRQczVOVVFoZjRnMVVySW83Z2RrOVl0MnV6d1FDMHc0TGRjZWdVV0hYMzlRTm9DOXZNTEEwMEI2WXJhd25vZlFxNzdUQWlQWGEwZmd2dlU?oc=5",
-      "date": "2026-03-31 14:12",
-      "summary": "Shifting to AI model customization is an architectural imperative  MIT Technology Review..."
-    },
-    {
-      "title": "The gig workers who are training humanoid robots at home - MIT Technology Review",
+      "title": "The gig workers who are training humanoid robots at home - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXpBZEJpS1hfTFl4SmtuSmszX0I2STJWOUs4Z1ktLVRENUljLUx4akZoVzJUNW5zUVpmWGpxNGdJZzY4a0sxMXRoaXdjSTE1SjJiNHMzLUhnMkpmSkVvdV91Nm5mQmwzY2JLZXNSOXlfaDZvRDQyc2ZPOHNJZUlxUUVXbDNrVFM1YnFXQXNHN3ZxTi1lUjd4cjR5aFRTbzhSTkxXX1hPTkl1Q0dkRlRQTUVsY1hfQmvSAbwBQVVfeXFMTVZfaUNoV2VUNHlSXzM3X1VBNXc3Mi1UcXhIeUUwWkgtOE44ZG5kWTJEZHhnUGJJSEZQWTBRb203WDhvTTNpTi15NmtjMm8yTm96YTc3bC0zeXJPRkNMZm1vVDZpd3BaOWNMT0xSMVRDalJOMl80b0xsb1hhNTN2ZWxBY1lnUVRJVnBUbzJoY0NfeEVBbGc4dmFDSXhIYUs5dWhFYTRSQ3c3MmI3ajdaWlhJVTZCWmpmMVUycVc?oc=5",
       "date": "2026-04-01 11:00",
-      "summary": "The gig workers who are training humanoid robots at home  MIT Technology Review..."
+      "summary": "The gig workers who are training humanoid robots at home  technologyreview.com..."
     },
     {
-      "title": "There are more AI health tools than ever—but how well do they work? - MIT Technology Review",
+      "title": "A woman’s uterus has been kept alive outside the body for the first time - technologyreview.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVdZZEluOWNLcEY2a2lOZTBFWWpleHd1SklmbVFRTDZvZzdJeXBjYVVFMWZ0WDNva2tjZEFIaUZQaUZRNVRQQ3R3LWZBMGREcmIzV0Zfa25uTFFyTWYtVHpDQzJWaXFXNEFfUlRRa2stVWFvbDRYcWEzSHVHZDlUNzlqYkhQLTVVajVqN3dVN09fZnpuX1IxTjRZY0xUQlpqZnfSAacBQVVfeXFMTXNObEFHNE5QS1NCQk9MUE1pVkJ6ekg1ODNLVkZaWFAtNEpBSjlzSXpPS09xTXZlVEhuZG11cFdCQkpFd1dlX3VhRDlITXVqa1h0aVJLaEhSMExjZFhlaXVBLVFjclN4Rmxtc3UwRzFtd2duTnVpYloyNTJZT2liN0tKWFFOTUtiejZkS2MyNFBLODVkcW9WOW5JamV5bDZHMm84MTc5NFk?oc=5",
+      "date": "2026-03-28 09:00",
+      "summary": "A woman’s uterus has been kept alive outside the body for the first time  technologyreview.com..."
+    },
+    {
+      "title": "Shifting to AI model customization is an architectural imperative - technologyreview.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdjlGN2VjYXVLTGtXaGRmSUFXSUJfVWtpYlNMd0NJNHUybjRGcmdKVFJKODV2dGlBem5ENDVZQWZhSkh2amQxakR1V0MtS3FsclBPNE5KSThZWUNBMGxDV1F0Y1JGWERxaVFBM1FLZjZYbDJvWDhtYlN6ejZxT0RrSXZiM1o1RzFyOE1oUjVsaDlMSXB2RTBOSWZTVGQtczlKdDVmdG9RaUxCaXFNam15YlZ4S1hxMm16d1HSAb8BQVVfeXFMUHU1b3ZvLVJMWXNqaUY1RTlYN2ctZldwdVlDWlg2U0FDdlBzZFRBWXdzV2JmRFhlZDFTUXk3ZmJCaGpKcURhX2ppOE1oR3N6Wm9TWXVMSXpGU2FLWVE4Y05zS2ViLWFKMlB0YjlWRFowUWRQczVOVVFoZjRnMVVySW83Z2RrOVl0MnV6d1FDMHc0TGRjZWdVV0hYMzlRTm9DOXZNTEEwMEI2WXJhd25vZlFxNzdUQWlQWGEwZmd2dlU?oc=5",
+      "date": "2026-03-31 14:12",
+      "summary": "Shifting to AI model customization is an architectural imperative  technologyreview.com..."
+    },
+    {
+      "title": "There are more AI health tools than ever—but how well do they work? - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmFZaEJoalhZc3kwMEttbjZYa0JPRkNUMktHaEc3dDQ5dHBqSzJrY1dVakNKdEVoaDFrZGVISWZVc0lYN2d2U3lCLWxHZHZ4ZGwxeGwxWkVKVEFMNkw0ZWRkWFZWTERwX052THV2SGVXQzVNUVRDOXFpd3pLVENxTm94OUZmSk9FRUFJNU96R0VYSWpkSjRhZVp5LTI0MThLYmxGRXpycWtjWk4yOGdyTXhzc0E3RkFocm9B0gHAAUFVX3lxTE51cTBXRzN3ZkNwY2c4OUdiQ2hIMjAzTTY3Wm9HeWNROXRDb0x1QmxmMVF0b2JkbUh2TE5UMHkxRE9ZWDgyWkc5Nk90NE1xeFRlQ0tyaGhTSXBtUHV6aFpPTVV2bjBRQ1g1c21HQzJ2YmZmWDcwQVJvLS1Od2w4VDlna0tGZ180VWhuVWRpUElpMTRqSWpFQkJ6SzJ4eVB4QzZtd3FKYWZrWWYyYXRxTmdtUTM5LUlBTFdfQzBWVWtaUg?oc=5",
       "date": "2026-03-30 16:00",
-      "summary": "There are more AI health tools than ever—but how well do they work?  MIT Technology Review..."
+      "summary": "There are more AI health tools than ever—but how well do they work?  technologyreview.com..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Native Americans were making dice, gambling, exploring probability millennia before their Old World counterparts",
+      "link": "https://phys.org/news/2026-03-native-americans-dice-gambling-exploring.html",
+      "date": "2026-04-02 04:10",
+      "summary": "A new study in American Antiquity presents evidence that the earliest known dice in human history were made and used by Native Ame..."
+    },
+    {
+      "title": "'Nothing is changing,' researcher warns British Columbia's endangered species lacking protection",
+      "link": "https://phys.org/news/2026-04-british-columbia-endangered-species-lacking.html",
+      "date": "2026-04-02 03:10",
+      "summary": "Thousands of endangered species in British Columbia are not receiving the help they need to survive, according to new Simon Fraser..."
+    },
+    {
+      "title": "AI study reveals England's productivity divide is far more complex than North-South",
+      "link": "https://phys.org/news/2026-04-ai-reveals-england-productivity-complex.html",
+      "date": "2026-04-02 02:50",
+      "summary": "Researchers at the University of Manchester have used artificial intelligence to uncover a complex picture behind England's long-r..."
+    },
+    {
+      "title": "Going from serving the nation to serving a prison sentence",
+      "link": "https://phys.org/news/2026-04-nation-prison-sentence.html",
+      "date": "2026-04-02 02:30",
+      "summary": "As Australia faces renewed strategic tension and the heightened prospect of conflict abroad, new Flinders University research warn..."
+    },
     {
       "title": "Fifty years of measuring the world's cleanest air",
       "link": "https://phys.org/news/2026-04-fifty-years-world-cleanest-air.html",
       "date": "2026-04-02 02:00",
       "summary": "Australia marks 50 years of monitoring the world's cleanest air in remote northwest Tasmania at Kennaook / Cape Grim Baseline Air ..."
-    },
-    {
-      "title": "Rethinking Europe's nature reserves",
-      "link": "https://phys.org/news/2026-04-rethinking-europe-nature-reserves.html",
-      "date": "2026-04-02 01:30",
-      "summary": "Natura 2000 is regarded as a milestone in nature conservation: this network of around 27,000 protected areas across the EU is desi..."
-    },
-    {
-      "title": "Mercury scout mission concept with solar sail propulsion",
-      "link": "https://phys.org/news/2026-04-mercury-scout-mission-concept-solar.html",
-      "date": "2026-04-02 01:00",
-      "summary": "The planet Mercury is the closest planet to the sun, and also the most difficult for spacecraft to visit and explore. This is beca..."
-    },
-    {
-      "title": "Researchers warn of risks posed by 'contaminants of emerging concern' found in crops, agricultural soil",
-      "link": "https://phys.org/news/2026-04-posed-contaminants-emerging-crops-agricultural.html",
-      "date": "2026-04-02 00:30",
-      "summary": "A new international study offers insights into the health risks posed by crops' absorption of \"contaminants of emerging concern\" (..."
-    },
-    {
-      "title": "Study suggests people are losing 338 spoken words every year and have been for at least 15 years",
-      "link": "https://phys.org/news/2026-04-people-spoken-words-year-years.html",
-      "date": "2026-04-01 23:50",
-      "summary": "In a society increasingly shaped by self-checkouts, GPS navigation and touchscreen ordering kiosks, new research shows face-to-fac..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Chris Rokos: the camera-shy billionaire behind the biggest UK university donation in modern times",
+      "link": "https://www.theguardian.com/education/2026/apr/02/chris-rokos-the-camera-shy-billionaire-behind-the-biggest-uk-university-donation-in-modern-times",
+      "date": "2026-04-02 04:00",
+      "summary": "The 55-year-old is one of the most successful hedge fund managers of his generationWhen Chris Rokos decided to donate a record £19..."
+    },
     {
       "title": "The brilliant students the UK doesn’t want - podcast",
       "link": "https://www.theguardian.com/news/audio/2026/apr/01/the-brilliant-students-the-uk-doesnt-want-podcast",
@@ -311,15 +317,27 @@
       "link": "https://www.theguardian.com/education/2026/mar/31/college-student-job-hunt-experience-tell-us",
       "date": "2026-03-31 18:21",
       "summary": "How have you found the job application process? What has been your experience of job hunting so far? The entry-level job market fo..."
-    },
-    {
-      "title": "Sad faces all round as Bolivia’s clowns protest over decree threatening their livelihoods",
-      "link": "https://www.theguardian.com/world/2026/mar/31/bolivia-clown-protests-decree-school-holiday-parties",
-      "date": "2026-03-31 00:56",
-      "summary": "Clowns in Bolivia are upset by mandate that stops schools hosting events from which they earn a livingDozens of clowns have marche..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Hong Kong’s unified stock exchange opens for trading in 1986 – SCMP archive",
+      "link": "https://www.scmp.com/business/article/3348608/hong-kongs-unified-stock-exchange-opens-trading-1986-scmp-archive?utm_source=rss_feed",
+      "date": "2026-04-02 03:30",
+      "summary": "This article was first published on April 3, 1986.\nBy Jerry Norton\nDebut-day is full of contradictions\nConsidering the historic na..."
+    },
+    {
+      "title": "Hong Kong’s property deals exceed 7,000 for the sixth straight month in March",
+      "link": "https://www.scmp.com/business/article/3348739/hong-kongs-property-deals-exceed-7000-6-straight-months-march?utm_source=rss_feed",
+      "date": "2026-04-02 03:24",
+      "summary": "Hong Kong’s property transactions crossed 7,000 for the sixth consecutive month in March – the first time in four years that month..."
+    },
+    {
+      "title": "Tai Po fire hearing: management company may have breached duty to ensure safety",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3348730/tai-po-fire-hearing-committee-chairman-says-good-progress-made?utm_source=rss_feed",
+      "date": "2026-04-02 03:14",
+      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+    },
     {
       "title": "Will coming changes to HK$2 transport scheme hurt working elderly most?",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3348712/will-coming-changes-hk2-transport-scheme-hurt-working-elderly-most?utm_source=rss_feed",
@@ -331,27 +349,15 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3348692/split-legal-profession-hong-kong?utm_source=rss_feed",
       "date": "2026-04-02 01:30",
       "summary": "A major feature of Hong Kong’s legal profession is the division between barristers and solicitors.\nBarristers specialise in court ..."
-    },
-    {
-      "title": "Hong Kong’s next 5 years must take city from alignment to action",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3348403/hong-kongs-next-five-years-must-take-city-alignment-action?utm_source=rss_feed",
-      "date": "2026-04-02 01:30",
-      "summary": "Hong Kong is preparing its own medium-term development blueprint alongside China’s coming 15th five-year plan, which officials hav..."
-    },
-    {
-      "title": "Is it time to call an end to Hong Kong’s boar war?",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3348718/it-time-call-end-hong-kongs-boar-war?utm_source=rss_feed",
-      "date": "2026-04-02 00:30",
-      "summary": "Shortly before the evening rush hour recently, chaos erupted at Hong Kong’s Wu Kai Sha MTR station when a wild boar stormed throug..."
-    },
-    {
-      "title": "Hong Kong woman loses HK$2.5 million in online collagen drinks scam",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3348716/hong-kong-woman-loses-hk25-million-online-collagen-drinks-scam?utm_source=rss_feed",
-      "date": "2026-04-01 16:03",
-      "summary": "A housewife in Hong Kong has lost nearly HK$2.5 million (US$320,500) in an online shopping scam after she tried to buy collagen dr..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Historic Artemis II launch sends astronauts bound for the moon",
+      "link": "https://www.newscientist.com/article/2521666-historic-artemis-ii-launch-sends-astronauts-bound-for-the-moon/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-01 19:00",
+      "summary": "Four astronauts have begun a 10-day journey around the moon and back again, the first crewed flight to the moon since 1972..."
+    },
     {
       "title": "Astronauts are ready to return to the moon on Artemis II mission",
       "link": "https://www.newscientist.com/article/2521539-astronauts-are-ready-to-return-to-the-moon-on-artemis-ii-mission/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2521878-the-first-quantum-computer-to-break-encryption-is-now-shockingly-close/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-01 16:32",
       "summary": "Traditional encryption methods have long been vulnerable to quantum computers, but two new analyses suggest a capable enough machi..."
-    },
-    {
-      "title": "Male octopuses have a favourite arm that they mostly use for sex",
-      "link": "https://www.newscientist.com/article/2521744-male-octopuses-have-a-favourite-arm-that-they-mostly-use-for-sex/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-01 15:00",
-      "summary": "The third right arm of male octopuses has a specialised role in mating, and the creatures take extra care to avoid damaging it or ..."
     }
   ]
 }
