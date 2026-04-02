@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT researchers measure traffic emissions, to the block, in real-time",
+      "link": "https://news.mit.edu/2026/mit-researchers-measure-traffic-emissions-block-real-time-0402",
+      "date": "2026-04-02 09:00",
+      "summary": "A new study pieces together existing data sources in order to develop a detailed, dynamic picture of auto emissions...."
+    },
+    {
       "title": "Evaluating the ethics of autonomous systems",
       "link": "https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402",
       "date": "2026-04-02 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/turning-muscles-into-motors-gives-static-organs-new-life-0331",
       "date": "2026-03-31 18:30",
       "summary": "A new biohybrid system developed at MIT is the first living implant that uses rewired nerves to revive paralyzed organs...."
-    },
-    {
-      "title": "Climate change may produce “fast-food” phytoplankton",
-      "link": "https://news.mit.edu/2026/climate-change-may-produce-fast-food-phytoplankton-0331",
-      "date": "2026-03-31 09:00",
-      "summary": "With warmer ocean temperatures, the composition of marine plankton could shift from protein-rich to carb-heavy, a new study sugges..."
     }
   ],
   "Harvard Gazette": [
@@ -77,10 +77,10 @@
       "summary": "Female jogger says she was sexually assaulted by armed male near Stanford campus  NBC Bay AreaPolice: Jogger sexually assaulted on..."
     },
     {
-      "title": "Court Rules Li Rui Collection To Remain At The Hoover Institution, Stanford University - hoover.org",
+      "title": "Court Rules Li Rui Collection To Remain At The Hoover Institution, Stanford University - Hoover Institution",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUWMwT2t1NG85R2R2UzVMN2x6VUZxMkN5VWd6bHJVbE00bkNIbDZoV1E1T2hvX1l1dk40emFUMVpFQUJRbHZPTUp3bV9FLVd4Wmd3Tk5IM2pHcjRhb3RmQmxRVlZkY0FPR2phczR0cHpDQm5vbkQzU181aFhYZmJLUjM5eEUyV1ZHbGpITlZpQVAwbndBZ0tjR05UbVlQSHhObnZ2cnVOQQ?oc=5",
       "date": "2026-03-31 21:06",
-      "summary": "Court Rules Li Rui Collection To Remain At The Hoover Institution, Stanford University  hoover.org..."
+      "summary": "Court Rules Li Rui Collection To Remain At The Hoover Institution, Stanford University  Hoover Institution..."
     },
     {
       "title": "‘I exposed China’s espionage tactics in The Times. Now I’m being harassed’ - The Times",
@@ -193,48 +193,48 @@
   ],
   "Reuters AI": [
     {
-      "title": "Artificial Intelligencer: OpenAI’s $852 billion problem: finding focus - reuters.com",
+      "title": "Artificial Intelligencer: OpenAI’s $852 billion problem: finding focus - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcWQzV1dHTmNpcEgzMVl5SGFVWEVHaUJldnpfMEZSeUxlRFRMd20zS2N6ZUNVQTdNQUtVaFpVU3Jyc0RuZ2VTWXliZ3dCV0hjWS1pTVdKR1RlY2J2c2dpV19WVTA2bjJxV0lKRXdsYldkOURGMm9DZ255X2NueTV4LTBSSzJKM1l6R3c1a0xrR1dPel9hb0N6dktodXNrYVdJRmsxNWpsZEptSFRtQUkxOWl2Q2I0dUVaTEtiUTBWTEh1b0k1bGdRcmxBNmlYRHFLU1JV?oc=5",
       "date": "2026-04-01 19:00",
-      "summary": "Artificial Intelligencer: OpenAI’s $852 billion problem: finding focus  reuters.com..."
+      "summary": "Artificial Intelligencer: OpenAI’s $852 billion problem: finding focus  Reuters..."
     },
     {
-      "title": "Does the AI business model have a fatal flaw? - reuters.com",
+      "title": "Does the AI business model have a fatal flaw? - Reuters",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcTlfTnJTd00wdUo5OHhmQzBKdkFNMnlWeTBVQkJjcUlqNnZvTExLN3F4UHlqQldKNHZwRFc1UHBNY3FlRXk1QkdtOE90dERKdFMta2xsNzdkZG00VHRhVmVmdDVOcnpMdGpra2ZVWFR4MFNDOXRUbEh3WG92Z0NfOFNYOVFzT2FIN0w5bU5n?oc=5",
       "date": "2026-04-01 06:07",
-      "summary": "Does the AI business model have a fatal flaw?  reuters.com..."
+      "summary": "Does the AI business model have a fatal flaw?  Reuters..."
     },
     {
-      "title": "India's Wipro names AI chief, head of 'Americas 2' unit quits - reuters.com",
+      "title": "India's Wipro names AI chief, head of 'Americas 2' unit quits - Reuters",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXhlbmVtRjg0ZFFPbHFTM1ZsLTY4ZmtPdHJKTXNmeTdmX0tva001VkVRSF9JQks4TXpybV80ZjdReTV5Q29lRHJWZnN4SHhhbFlCVHl5eUI3M3BmV0ZMaXBFVGtySEVwZTBEQTNwZmVoYUt5T3FxM2xka0NCOHhRZHE2bGlrbVE1MWRvRGJDdEctYV9Wb3kzX0czSWE1WjA?oc=5",
       "date": "2026-04-01 13:00",
-      "summary": "India's Wipro names AI chief, head of 'Americas 2' unit quits  reuters.com..."
+      "summary": "India's Wipro names AI chief, head of 'Americas 2' unit quits  Reuters..."
     },
     {
-      "title": "Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism - reuters.com",
+      "title": "Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUzB4X19KQlVrNUozZHM4enItNnRBbFlaZDhqSjUtMzI4cVNkY3BtMjJqeWR6YVBZRFEzU21sTVNCdFNaUFRYeVRFdVgybnZHSlJKcE1jeU9yY0I1U1A3WkRQZUVhMlRXWUFXRm5NV3BaVVhWWTVjR3pSUGE3NEV3Tm94M1lOSGxRdVpYLWxSY1E3WFhoLVFJZDlNd01mZW9EVXVGNnVDSGlGbnYwMlA1VUdTUHE5UGwwbEFzWS1kZEc1b2ZHbGc?oc=5",
       "date": "2026-04-02 05:22",
-      "summary": "Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism  reuters.com..."
+      "summary": "Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism  Reuters..."
     },
     {
-      "title": "Musk wants SpaceX IPO to fund AI space data centers. Microsoft's undersea setback sounds warning. - reuters.com",
+      "title": "Musk wants SpaceX IPO to fund AI space data centers. Microsoft's undersea setback sounds warning. - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMkg3aExUTnNxUTNfNFpvU29ad1AxNzMtR3NvTmZPUklrZDBrQ19FbnVIS3hKdEc5RVg1bkFoQ2RGMXNUd0JMTTZEX1FCeXY1SmJYYVZIakpaVC1MRjNGOTVxcGRGWHY4TWhvM0ZqaVNMZ3dhTTJtWEl4RUdmeU5GOUc5VVR4WjlEVWg1cGc1SWc3akYyT095YTViVzl0RlZhWHU4WVUxbnB5RE5Ld0dIOEJLMkFXWkkwbkNQcmFVbkdaZHNKQWc1QmxOOEx4cTRpQlE?oc=5",
       "date": "2026-04-01 18:41",
-      "summary": "Musk wants SpaceX IPO to fund AI space data centers. Microsoft's undersea setback sounds warning.  reuters.com..."
+      "summary": "Musk wants SpaceX IPO to fund AI space data centers. Microsoft's undersea setback sounds warning.  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "AI benchmarks are broken. Here’s what we need instead. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGQ3dHlENnVNVmlwbWE3VFplQzJCZ0NhV1NLbUl6RmZzbk1YTF9tbmh1OTJ0V0dnYXdzRmZRaGZQdEdiVVBNbmVMUWV4NEpNMENLMUxsRkxPekl1VVJneEt6c0VVZzA5dHU2a3JJS0wtcHRBcTlQcUxJa0tFVk55OFZkeUJaaEt2QlNHc0Fsel84dGVEWDVFUVVfOFFlZGtack1tenhlWdIBrAFBVV95cUxOUnpwejZHN3NwcVpmRk1iTzk1dkdpNTZKbGY2TEduYXNjdXRxeC1uY3gxVnh6NGlPVGpqY3N6THVmeWkwNGlXYTUtX2YwbTJCVnFkc0I5U09CZEFzRGZnTjA4T0Fma2JwUGxUOF9PUUlWTkE0NjRLbjJNM3RCUUdKaHRpWGlmcV8zT1JrSVBmMmZkd1FOWi12YkR1c0x0YUtmejZCNTRBdE1zQVU5?oc=5",
-      "date": "2026-03-31 12:01",
-      "summary": "AI benchmarks are broken. Here’s what we need instead.  MIT Technology Review..."
-    },
     {
       "title": "Inside the stealthy startup that pitched brainless human clones - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjhOa2lfTk81X0JCd0VDY3BiWGN4Z1pza095UEdlakRqY1F1Y1hPckVHT0FObTZhM2RYdl9LbzhQbk80T3RNbFNTdFVwNVdJWWhweGRoeHBEbUNtb1BQZUdjcWtGVF9pQzE5WUNxQnpudW9tWko5M1ZndHpzRW1adDI1QndzeFF5UWxzZXJfa1JMVXRJRFZVUlhaazdCZmpnYmczYWJZLWpUMGxOZnR0NURGNjlwczhtYkJfMktLQTBnX3QwUmpUYzYxbnB6UHRZM3Rn0gHYAUFVX3lxTE4xTTduWDFMcHh3dmNVaWlZY2ctbTIxTUR1cmJBT1ZhSXUtd2RFV21leVZ3M2dEVXZ2T2NNaHpnQXBpa3pxRzVxTXFMY29MZHdDdVpPTmRwbDVyUWNidWkxVUp2Y0V2Nnc5cXhwWW1TOERwZWlibmJwVzcxczJRQmk0MFU5TVhsX0pRN0JESEZaUmF4eVBxY3VJX0g5U1hDQUJiQUl0X0pHeDlxV0Q4aTJ6M2hnOVY5YUYwVXgtcjNEVlplVGlJVzZBNG01OGh4ZGs5SVl5M09PdA?oc=5",
       "date": "2026-03-30 09:00",
       "summary": "Inside the stealthy startup that pitched brainless human clones  MIT Technology Review..."
+    },
+    {
+      "title": "AI benchmarks are broken. Here’s what we need instead. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGQ3dHlENnVNVmlwbWE3VFplQzJCZ0NhV1NLbUl6RmZzbk1YTF9tbmh1OTJ0V0dnYXdzRmZRaGZQdEdiVVBNbmVMUWV4NEpNMENLMUxsRkxPekl1VVJneEt6c0VVZzA5dHU2a3JJS0wtcHRBcTlQcUxJa0tFVk55OFZkeUJaaEt2QlNHc0Fsel84dGVEWDVFUVVfOFFlZGtack1tenhlWdIBrAFBVV95cUxOUnpwejZHN3NwcVpmRk1iTzk1dkdpNTZKbGY2TEduYXNjdXRxeC1uY3gxVnh6NGlPVGpqY3N6THVmeWkwNGlXYTUtX2YwbTJCVnFkc0I5U09CZEFzRGZnTjA4T0Fma2JwUGxUOF9PUUlWTkE0NjRLbjJNM3RCUUdKaHRpWGlmcV8zT1JrSVBmMmZkd1FOWi12YkR1c0x0YUtmejZCNTRBdE1zQVU5?oc=5",
+      "date": "2026-03-31 12:01",
+      "summary": "AI benchmarks are broken. Here’s what we need instead.  MIT Technology Review..."
     },
     {
       "title": "A woman’s uterus has been kept alive outside the body for the first time - MIT Technology Review",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
+      "title": "Governments, beware: Why it's so hard to invest in risk prevention",
+      "link": "https://phys.org/news/2026-04-beware-hard-invest.html",
+      "date": "2026-04-02 10:00",
+      "summary": "Governments cutting hundreds of millions of euros in pandemic funding, just a few years after a pandemic. Billions spent on compen..."
+    },
+    {
+      "title": "How noise limits today's quantum circuits",
+      "link": "https://phys.org/news/2026-03-noise-limits-today-quantum-circuits.html",
+      "date": "2026-04-02 09:00",
+      "summary": "Imagine you're trying to build a very long, complicated chain of dominoes. The aim is that each domino hits the next one perfectly..."
+    },
+    {
+      "title": "Protostars 'sneeze' and produce rings of gas and magnetic flux as they grow",
+      "link": "https://phys.org/news/2026-03-protostars-gas-magnetic-flux.html",
+      "date": "2026-04-02 09:00",
+      "summary": "Researchers have uncovered new insights into the early development of baby stars. As published in The Astrophysical Journal Letter..."
+    },
+    {
+      "title": "Novel approach to quantum error correction portends a scalable future for quantum computing",
+      "link": "https://phys.org/news/2026-03-approach-quantum-error-portends-scalable.html",
+      "date": "2026-04-02 09:00",
+      "summary": "A University of Sydney quantum physicist has developed a new approach to quantum error correction that could significantly reduce ..."
+    },
+    {
       "title": "Europe to negotiate with NASA on lunar missions: ESA",
       "link": "https://phys.org/news/2026-04-europe-nasa-lunar-missions-esa.html",
       "date": "2026-04-02 05:50",
       "summary": "The European Space Agency will negotiate future participation in NASA missions after the US space agency revamped its lunar progra..."
-    },
-    {
-      "title": "NASA's Artemis II mission launches on first crewed lunar flyby in 50 years",
-      "link": "https://phys.org/news/2026-04-nasa-artemis-crew-crewed-lunar.html",
-      "date": "2026-04-02 05:16",
-      "summary": "Four astronauts blasted off aboard a massive NASA rocket Wednesday on a long-anticipated journey around the moon, the first crewed..."
-    },
-    {
-      "title": "New miniature marsupial frog found in Peru carries eggs in a back pouch",
-      "link": "https://phys.org/news/2026-04-miniature-marsupial-frog-peru-eggs.html",
-      "date": "2026-04-02 05:12",
-      "summary": "Scientists have discovered a new species of miniature marsupial frog in the Peruvian Amazon that carries its young in a natural po..."
-    },
-    {
-      "title": "AI uptake across Italian firms remains patchy, study suggests, despite generative AI buzz",
-      "link": "https://phys.org/news/2026-04-ai-uptake-italian-firms-patchy.html",
-      "date": "2026-04-02 05:10",
-      "summary": "Research in the International Journal of Business Information Systems suggests that the adoption of artificial intelligence (AI) i..."
-    },
-    {
-      "title": "How a seabird native to Hawaii has adapted to life in Honolulu's concrete jungle",
-      "link": "https://phys.org/news/2026-04-seabird-native-hawaii-life-honolulu.html",
-      "date": "2026-04-02 05:08",
-      "summary": "Kaʻiulani Murphy is quick to spot white terns flapping their wings when she's guiding Polynesian voyaging canoes across the Pacifi..."
     }
   ],
   "The Guardian Edu": [
