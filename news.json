@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Electrons in moiré crystals explore higher-dimensional quantum worlds",
+      "link": "https://news.mit.edu/2026/electrons-in-moire-crystals-explore-higher-dimensional-quantum-worlds-0403",
+      "date": "2026-04-03 21:30",
+      "summary": "MIT physicists have discovered 3D “moiré crystals” that simulate four-dimensional quantum materials to a T...."
+    },
+    {
       "title": "MIT researchers measure traffic emissions, to the block, in real-time",
       "link": "https://news.mit.edu/2026/mit-researchers-measure-traffic-emissions-block-real-time-0402",
       "date": "2026-04-02 09:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/two-physicists-and-curious-host-walk-studio",
       "date": "2026-03-31 23:00",
       "summary": "On GBH’s new show The Curiosity Desk, MIT LIGO researchers revel in the beauties of fundamental discovery science and MIT astronom..."
-    },
-    {
-      "title": "Turning muscles into motors gives static organs new life",
-      "link": "https://news.mit.edu/2026/turning-muscles-into-motors-gives-static-organs-new-life-0331",
-      "date": "2026-03-31 18:30",
-      "summary": "A new biohybrid system developed at MIT is the first living implant that uses rewired nerves to revive paralyzed organs...."
     }
   ],
   "Harvard Gazette": [
@@ -65,10 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "‘I exposed China’s espionage tactics in The Times. Now I’m being harassed’ - thetimes.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVp6OFRJWk8yRVQtdjh5WTlSMjdBYlhXNmNPYUluaG9NTTZ0VTMxS0ZNUlRQeGsyVS1CLUdIZjJqdFBfRmNoNWlJeGJBUUtIYklYdHZsX0puVXZaWWJPNll1VzAxX3pIaDdKaHVXMkFsdFM4bXI3Ry1SakNrWE93TklHeExCaENDWkY4TzFwQ3BWUDQxS2FxMDJn?oc=5",
-      "date": "2026-03-31 11:00",
-      "summary": "‘I exposed China’s espionage tactics in The Times. Now I’m being harassed’  thetimes.com..."
+      "title": "Sundar Pichai will be Stanford’s 2026 Commencement speaker - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0JoSVd2TjMwY042UDJqblZlN0I3dUFBZkZJVlZkMjgtazlNYVJ6UC1lQXhnXzg0SWFKSklYN1RnbkNkLU9ZeHFNV21ic0MtcTRsanlSNW44cXprT1ZWVTRQRVlDRDhCbTJUeWVEZXMzXy14YVZTaHFORlQ1UWE3MkZn?oc=5",
+      "date": "2026-04-03 03:47",
+      "summary": "Sundar Pichai will be Stanford’s 2026 Commencement speaker  Stanford Report..."
+    },
+    {
+      "title": "Google CEO Sundar Pichai set to return to Stanford University as a commencement speaker: ‘It’s a privilege’ | Trending - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOenFFVnQ3QVZGM3dudndrc1NMNTg5bTRuWlZLb05fcGtoci1NaDdnSVBtblpTcFFPXzVPQUpWTEphSXZOWTFSei13cmNSb3ZGclRfcTRidVRxNGNlYXlQQlRlZ04yM0QwNkxUeUM0Y2Q4ejJ2ajQ5SnBqNHBUTmlQWHhpOWF4QzdVT0VsTHIyUVhWY2lUNzBTWnRuZDc0bnRqdHQ2RzE0RDVIakdObUF2V01sSE00Wm5ERktxUERvWlplYTlqeTFnWkdqVmdwRkUxZmpJbzdlMm5xTnAyU3NFU3VZRW9ieVVzbTc3Z2RhSmltXzJ2eU4yeTVWdE92MW_SAYQCQVVfeXFMTS1heU1nNFNkeEliTnU2SnluclJzTi1QeUNSTE1yTWtGVkdxakN1ZlUxRDhQS0dfaFZFd0g1UU1uMFU1N2J5Q3VnWFhaeWxoMXNiR29ZV19QcWtfemNyWTNHUFF1akJRbGMxbXVCanlJRTJVazN1c2xCanlZN2RCNkxrdWg3aUJVZzNsdWtVa3F5eFItaGhVRi1qYVZDU1lCR0R0b3E2V0NJcmtlbkxrTFVYV3Y1ZEhMemttdkFvY29Jd3NUcl9UY2NGYXBFeWxVUkc2QjNrbFFRQUV0X3IxaHhyWFNpY1VuRmJwTkYxQ3h6aERPOEFUam9OY3BaeGdsdlZsMjc?oc=5",
+      "date": "2026-04-03 02:54",
+      "summary": "Google CEO Sundar Pichai set to return to Stanford University as a commencement speaker: ‘It’s a privilege’ | Trending  Hindustan ..."
     },
     {
       "title": "Google CEO Sundar Pichai to 'return' to Stanford University in June 2026 as ... - The Times of India",
@@ -77,22 +83,16 @@
       "summary": "Google CEO Sundar Pichai to 'return' to Stanford University in June 2026 as ...  The Times of India..."
     },
     {
+      "title": "‘I exposed China’s espionage tactics in The Times. Now I’m being harassed’ - The Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVp6OFRJWk8yRVQtdjh5WTlSMjdBYlhXNmNPYUluaG9NTTZ0VTMxS0ZNUlRQeGsyVS1CLUdIZjJqdFBfRmNoNWlJeGJBUUtIYklYdHZsX0puVXZaWWJPNll1VzAxX3pIaDdKaHVXMkFsdFM4bXI3Ry1SakNrWE93TklHeExCaENDWkY4TzFwQ3BWUDQxS2FxMDJn?oc=5",
+      "date": "2026-03-31 11:00",
+      "summary": "‘I exposed China’s espionage tactics in The Times. Now I’m being harassed’  The Times..."
+    },
+    {
       "title": "Stunning Stanford study finds way to regrow joint cartilage. Could it mean an end to osteoarthritis? - KTVU",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQlBsd1pWZmhVbVpwQ0M3bVM1WVZocVN0b1FGR20yVXF2WFRLb09BbDREanJPYk1fNy1jdFAyUFMxYXBmOHJOQlZHTG1MMXZGZ28zY2E5aWQ5Wm92SnZEM19VWnYydk1qREVQd1hlNmU2ajFQdFdCeFJFUUxFR2djWko2UUotRHk1cUlXZUlnV0VlRVJuZnJMVVk2Q1FMMHd6Y3ZCdmdEbVQzN1ZQRTNMLW03SXo1MmR0UVHSAb8BQVVfeXFMTVBWd01GMEpsYkFfdHRWWmFwbFZ4b0IzRjBMT0c0THo2SDVFbDRwcDkyWGVmdXkyOVNGNU9HUFlBT2NPZUNxcUl3RnpjaHFpd0ZSUDZyMXZnTDc3WHhySHFyLTU4Q0dJckdwSGI0U0c0cEFrQ1NFSXFMNnB6ZkxkcVdQV0x0ODctelVVbGFKYkJWSV9CSGM1VHd6Z090bmhrMmlNMVhnSUNtM2FfSjRiWVJJRDJhWV8zcjJUYU82N00?oc=5",
       "date": "2026-04-02 23:33",
       "summary": "Stunning Stanford study finds way to regrow joint cartilage. Could it mean an end to osteoarthritis?  KTVU..."
-    },
-    {
-      "title": "Stanford University wins battle to keep diaries of Mao Zedong's secretary Li Rui - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uWExtY2ZaY2tmWVl0U1dCZkg3WERfYW0xc3FQQ2RFNlN1WnhMN1ItcHgxMEhjcm5iUzNtX2xHV0JaSC1CYUNfT2JsaXpSSEpqWEFlblBoRHpDQQ?oc=5",
-      "date": "2026-04-01 09:31",
-      "summary": "Stanford University wins battle to keep diaries of Mao Zedong's secretary Li Rui  BBC..."
-    },
-    {
-      "title": "Meet the new directors of GLAM, PULSE, and the Ginzton Lab - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQjJ1QnlhOUZfRW9qWC1acDh6MG5nTkUxZEFQZ25rbXVRbHVCVklPOS1XUGNoMUYySk1mNktXSDJfZFlmMWtGazZ2TUxhdHA2eUVWdGJZeTZHWUYzRzdmLXhJbHltX1FDd0ZxTlNodnVOZWFzZkl3eERfX1o1SHo3bEozckg?oc=5",
-      "date": "2026-04-02 18:59",
-      "summary": "Meet the new directors of GLAM, PULSE, and the Ginzton Lab  Stanford Report..."
     }
   ],
   "Nature Careers": [
