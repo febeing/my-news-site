@@ -33,34 +33,34 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Wonder served him well - Harvard Gazette",
+      "title": "Wonder served him well - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHpkLV9RSGFGQnBBVjJxeDBMZmE2Nk5udkZjQjFtdExHSTZpcjM4b0pmWDhMYWZQeE9KZlI0QmU5d0tNMFBCZVhLMVNtYW13Rm1OaW9lLXMzLTd0bDVsd2NHSGxydVBFZ2pROVFBaUU0U0RWOXBBQnNCeXZYR0lRY2QydEpPYkg0bl9YNA?oc=5",
       "date": "2026-03-04 08:00",
-      "summary": "Wonder served him well  Harvard Gazette..."
+      "summary": "Wonder served him well  news.harvard.edu..."
     },
     {
-      "title": "How academia can help America heal - Harvard Gazette",
+      "title": "How academia can help America heal - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
-      "summary": "How academia can help America heal  Harvard Gazette..."
+      "summary": "How academia can help America heal  news.harvard.edu..."
     },
     {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
       "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  news.harvard.edu..."
     },
     {
-      "title": "Clearing significant hurdle to quantum computing - Harvard Gazette",
+      "title": "Clearing significant hurdle to quantum computing - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGNwaWVsU3BTaDJGUktuY1RmMUoxVjhMbFJjcmJ4dWE1UXNvUVNfbzFLRDVSRzBSdWFaZFlJZTJNUl9kOUJmSnhvYTJmcXZfbFZLbWtZVjIzeUNWdGdPUTRfb2NidTNvMTRVUG81amdqbE43WnIzejI2NmN2bVRNeU85M2J1N0YwWEhIby0teVBLVXE1Mldxdy13bTI?oc=5",
       "date": "2025-09-25 07:00",
-      "summary": "Clearing significant hurdle to quantum computing  Harvard Gazette..."
+      "summary": "Clearing significant hurdle to quantum computing  news.harvard.edu..."
     },
     {
-      "title": "How to help lift slumping American math scores - Harvard Gazette",
+      "title": "How to help lift slumping American math scores - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
-      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
+      "summary": "How to help lift slumping American math scores  news.harvard.edu..."
     }
   ],
   "Stanford News": [
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Artemis astronauts to study the moon's surface using mainly their eyes",
+      "link": "https://phys.org/news/2026-04-artemis-astronauts-moon-surface-eyes.html",
+      "date": "2026-04-05 12:40",
+      "summary": "More than 50 years after humans first flew around the moon, Artemis astronauts will repeat the feat on Monday and use the most bas..."
+    },
+    {
+      "title": "Exploding primordial black holes might have reshaped the early universe, and created all matter as we know it",
+      "link": "https://phys.org/news/2026-04-primordial-black-holes-reshaped-early.html",
+      "date": "2026-04-05 12:00",
+      "summary": "The early universe is absolutely so far outside our understanding of how the world works it's hard to describe in words. Back then..."
+    },
+    {
       "title": "Artemis astronauts glimpse moon's 'Grand Canyon' ahead of historic lunar flyby",
       "link": "https://phys.org/news/2026-04-artemis-astronauts-glimpse-moon-grand.html",
       "date": "2026-04-05 11:00",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-03-ai-rewilding-messy-reality.html",
       "date": "2026-04-04 23:30",
       "summary": "Humans have always imagined the natural world. From Ice Age cave paintings to the modern day, we depict the animals and landscapes..."
-    },
-    {
-      "title": "Insects in the tropics are already near their heat limits. Climate change could push many beyond survival",
-      "link": "https://phys.org/news/2026-04-insects-tropics-limits-climate-survival.html",
-      "date": "2026-04-04 22:00",
-      "summary": "Insects make up to 90% of all animal species on the planet, and most of them can be found in the tropics, the regions around the e..."
-    },
-    {
-      "title": "Two's company: Scientists identify new class of star remnants",
-      "link": "https://phys.org/news/2026-03-company-scientists-class-star-remnants.html",
-      "date": "2026-04-04 21:00",
-      "summary": "In about 5 to 8 billion years, our sun is expected to evolve into a white dwarf—an extremely dense, Earth-sized stellar remnant th..."
     }
   ],
   "The Guardian Edu": [
@@ -321,34 +321,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Talk about death comes alive in ageing Hong Kong",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3349079/talk-about-death-comes-alive-ageing-hong-kong?utm_source=rss_feed",
+      "date": "2026-04-05 12:30",
+      "summary": "Hongkongers are more willing to discuss death including their own funeral wishes in the wake of the Covid pandemic, mass emigratio..."
+    },
+    {
+      "title": "Hong Kong must not undo the good work of its HK$2 transport scheme",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3348958/hong-kong-must-not-undo-good-work-its-hk2-transport-scheme?utm_source=rss_feed",
+      "date": "2026-04-05 12:30",
+      "summary": "The HK$2 (US$0.26) transport fare scheme for the elderly is one of Hong Kong’s most socially significant success stories. But some..."
+    },
+    {
+      "title": "Signal fault disrupts Hong Kong MTR’s Airport Express, Tung Chung line services",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349091/signal-fault-disrupts-hong-kong-mtrs-airport-express-tung-chung-line-services?utm_source=rss_feed",
+      "date": "2026-04-05 12:12",
+      "summary": "Hong Kong’s MTR Corporation extended the time needed for its in-town check-in service to 120 minutes from 90 minutes on Sunday, af..."
+    },
+    {
       "title": "Move over, Easter Bunny: cats are the stars in Hong Kong this holiday",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349088/move-over-easter-bunny-cats-are-stars-hong-kong-holiday?utm_source=rss_feed",
       "date": "2026-04-05 10:44",
-      "summary": "From giant cat installations to murals, Hong Kong’s Easter holiday has seen a surge in feline presence over the traditional rabbit..."
+      "summary": "Hong Kong has swapped the Easter Bunny for a festive feline, with giant cat installations and murals delighting visitors and resid..."
     },
     {
       "title": "Hong Kong rescuers search for man, 81, who went missing on hike in Tuen Mun",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3349078/hong-kong-rescuers-search-man-81-who-went-missing-hike-tuen-mun?utm_source=rss_feed",
       "date": "2026-04-05 07:34",
       "summary": "Hong Kong rescuers are searching for an 81-year-old man missing since Saturday, with authorities discovering one of his shoes near..."
-    },
-    {
-      "title": "‘From big renovation to big burial’: Wang Fuk Court residents return to mark Ching Ming",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3349074/thousands-brave-rain-mark-ching-ming-wang-fuk-court-residents-return-mourn?utm_source=rss_feed",
-      "date": "2026-04-05 06:55",
-      "summary": "Thousands of Hongkongers braved heavy rains to sweep tombs during the Ching Ming Festival on Sunday, with some Wang Fuk Court resi..."
-    },
-    {
-      "title": "Tai Po fire hearings reveal broken promises to Hongkongers",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3348966/tai-po-fire-hearings-reveal-broken-promises-hongkongers?utm_source=rss_feed",
-      "date": "2026-04-05 06:30",
-      "summary": "The independent committee investigating Hong Kong’s deadliest fire in decades concluded the first round of hearings last week. It ..."
-    },
-    {
-      "title": "Hong Kong economy showed resilience in first quarter of 2026, Paul Chan says",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349071/hong-kong-economy-showed-resilience-first-quarter-2026-paul-chan-says?utm_source=rss_feed",
-      "date": "2026-04-05 05:51",
-      "summary": "Hong Kong’s economy showed resilience in the first quarter of 2026 amid volatility in the equity and oil markets brought by war in..."
     }
   ],
   "New Scientist": [
