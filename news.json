@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "Softball Heads Out West to Face Santa Clara and No. 24 Stanford - seminoles.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkJNSUZKR0c3X09QbVZYdXVZYnk4dFA2aV82NnRHSWJiMlZzTFdOU2NOZGRXVDVQY0Z5ekFEOWZXSGtrSzNENE9wU2tmVmlMZE4zS0ZnNjFsTEVianNEdkliUmwxemtmbGYzUTZpMlJpYUhlZDJSQUpBdnlETy1pWndwWll3NGxFSm5raEJWQ240Uk9ZMUtST2RxdHRFRTA?oc=5",
+      "date": "2026-04-06 19:52",
+      "summary": "Softball Heads Out West to Face Santa Clara and No. 24 Stanford  seminoles.com..."
+    },
+    {
       "title": "Jensen Huang to Sam Altman: The guest list turning a Stanford AI class into a tech summit - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhBVmlEY1RtaVRqZ3pDNzRDbjB6YWlLSnZwSm0tQjYtWEJQXy04d3BSWndKTEM1ZDY3RHgyaDZZbTBIa1FmSVRTVDJoYV80VnA1OU56Z0dxOXFBdV91Zl9PMWZOSXRWUkVHc2ZaOXpMaEt1MW9IcDRrcVVUazNGZmhDWWgyd2QyckUzVnlaeEV0NHhfVzFVdFBoUlVtN3FjTXk5QkdR?oc=5",
       "date": "2026-04-06 09:07",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0JoSVd2TjMwY042UDJqblZlN0I3dUFBZkZJVlZkMjgtazlNYVJ6UC1lQXhnXzg0SWFKSklYN1RnbkNkLU9ZeHFNV21ic0MtcTRsanlSNW44cXprT1ZWVTRQRVlDRDhCbTJUeWVEZXMzXy14YVZTaHFORlQ1UWE3MkZn?oc=5",
       "date": "2026-04-03 03:47",
       "summary": "Sundar Pichai will be Stanford’s 2026 Commencement speaker  Stanford Report..."
-    },
-    {
-      "title": "AI overly affirms users asking for personal advice - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTTZHNl94cl90dEhnelZKekxwbUZNWHU2amxfQnJoVUtyTy1QbDJHbElWMVUwc0pHaHhEUzFPTnJKSEZDNzRYTlVMeDhTWmQ5OHdNUDR0T2hwNUlOS2h0cks1NndNVkZPWm1RVFJvN3dteFI4RHQ2V0pDNlBzbnBXNVA5UnN5dw?oc=5",
-      "date": "2026-03-26 07:00",
-      "summary": "AI overly affirms users asking for personal advice  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -115,10 +115,10 @@
       "summary": "Nature, Published online: 06 April 2026; doi:10.1038/d41586-026-01027-4A goal-driven approach to medical research and development ..."
     },
     {
-      "title": "Artemis II astronauts fly by the Moon today: follow along with <i>Nature</i> live",
+      "title": "Moon fly-by live coverage: Artemis crew set distance record from Earth",
       "link": "https://www.nature.com/articles/d41586-026-00989-9",
       "date": "2026-04-06 00:00",
-      "summary": "Nature, Published online: 06 April 2026; doi:10.1038/d41586-026-00989-9Humans are seeing parts of the Moon’s far side never observ..."
+      "summary": "Nature, Published online: 06 April 2026; doi:10.1038/d41586-026-00989-9Astronauts are flying by the Moon’s far side and setting re..."
     },
     {
       "title": "What Artemis II’s astronauts will look for on the Moon’s far side",
@@ -128,6 +128,18 @@
     }
   ],
   "Science News": [
+    {
+      "title": "Relics of an ancient sandstorm on Mars point to Earth-like winds",
+      "link": "https://www.science.org/content/article/relics-ancient-sandstorm-mars-point-earth-winds",
+      "date": "2026-04-06 02:45",
+      "summary": "Curiosity rover finds what may be the first direct evidence that Mars once had a thick atmosphere..."
+    },
+    {
+      "title": "As war escalates, Iran’s universities face increasing fire",
+      "link": "https://www.science.org/content/article/war-escalates-iran-s-universities-face-increasing-fire",
+      "date": "2026-04-06 01:55",
+      "summary": "Attacks have destroyed or damaged a wide range of academic and commercial research centers..."
+    },
     {
       "title": "AIs can ‘memorize’ data they shouldn’t. Can they be forced to forget?",
       "link": "https://www.science.org/content/article/ais-can-memorize-data-they-shouldn-t-can-they-be-forced-forget",
@@ -145,18 +157,6 @@
       "link": "https://www.science.org/content/article/slasher-sequel-trump-again-proposes-major-cuts-u-s-science-spending",
       "date": "2026-04-03 06:35",
       "summary": "Science advocates urge Congress to reject 2027 budget plan..."
-    },
-    {
-      "title": "History and mystery surround NASA’s 2028 nuclear Mars mission",
-      "link": "https://www.science.org/content/article/history-and-mystery-surround-nasa-s-2028-nuclear-mars-mission",
-      "date": "2026-04-03 01:30",
-      "summary": "Fission-powered space flight, a 60-year dream, would supercharge outer Solar System exploration..."
-    },
-    {
-      "title": "Offering scientists cash to spot errors in published papers doesn’t work",
-      "link": "https://www.science.org/content/article/offering-scientists-cash-spot-errors-published-papers-doesn-t-work",
-      "date": "2026-04-03 12:26",
-      "summary": "The ERROR project tried enticing reviewers with payments. Now it’s launching a journal—and promising papers as rewards..."
     }
   ],
   "Retraction Watch": [
@@ -257,6 +257,24 @@
   ],
   "Phys.org": [
     {
+      "title": "Spring cold snaps harm nesting tree swallows, but some show resilience",
+      "link": "https://phys.org/news/2026-04-cold-snaps-tree-swallows-resilience.html",
+      "date": "2026-04-06 19:40",
+      "summary": "Warming temperatures from climate change cause tree swallows to nest up to two weeks earlier than they did in the 1970s, but early..."
+    },
+    {
+      "title": "Rating community resilience with a deep learning framework",
+      "link": "https://phys.org/news/2026-04-community-resilience-deep-framework.html",
+      "date": "2026-04-06 19:20",
+      "summary": "An understanding of community resilience and risk analysis is vital when it comes to protecting civilians and infrastructure from ..."
+    },
+    {
+      "title": "Origins of Earth's most powerful ocean current revealed",
+      "link": "https://phys.org/news/2026-04-earth-powerful-ocean-current-revealed.html",
+      "date": "2026-04-06 19:00",
+      "summary": "It transports far more than 100 times as much water as all of the Earth's rivers combined: The Antarctic Circumpolar Current rushe..."
+    },
+    {
       "title": "Scientists identify potential new target for disrupting mosquito reproduction",
       "link": "https://phys.org/news/2026-04-scientists-potential-disrupting-mosquito-reproduction.html",
       "date": "2026-04-06 18:40",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-04-cats-fullness.html",
       "date": "2026-04-06 18:30",
       "summary": "Why do cats often leave food unfinished? Many cat owners have experienced this puzzling behavior. Domestic cats are well known for..."
-    },
-    {
-      "title": "Expanded MAGIC toolkit makes genome-wide single-cell mosaic analysis possible in Drosophila",
-      "link": "https://phys.org/news/2026-04-magic-toolkit-genome-wide-cell.html",
-      "date": "2026-04-06 18:20",
-      "summary": "Researchers at Cornell University have developed a powerful new genetic toolkit that allows scientists to study how genes function..."
-    },
-    {
-      "title": "Artemis II crew breaks Apollo 13 record, reaching 252,760 miles from Earth",
-      "link": "https://phys.org/news/2026-04-artemis-ii-crew-apollo-miles.html",
-      "date": "2026-04-06 18:14",
-      "summary": "The four astronauts embarking on NASA's lunar flyby became on Monday the humans to travel farthest from our planet, as they get se..."
-    },
-    {
-      "title": "Three Himalayan predators coexist by partitioning prey, reducing direct competition",
-      "link": "https://phys.org/news/2026-04-himalayan-predators-coexist-partitioning-prey.html",
-      "date": "2026-04-06 18:00",
-      "summary": "Snow leopards, leopards, and Himalayan wolves all share similar stomping grounds in Nepal's Lapchi Valley in the Himalayas. A rece..."
     }
   ],
   "The Guardian Edu": [
