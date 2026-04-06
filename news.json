@@ -65,10 +65,22 @@
   ],
   "Stanford News": [
     {
+      "title": "Scholars explore 250 years of Declaration interpretations - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTYtbGRSczgxbHN2OFpWVGgwaTBLbEpHeGpwVTZHWUljbTBfRjA4eVR4eUplYV9ySzNoQlAtSnpjdW5EbDRLeE4tMFJRVF9ta3E2VE9ER1pGb2REODVCVEpCYVFEOXM0bGZMcHdScVZWQmpOMzQta0c1UHNpZm54azJiSXNPVGtuaFpUekRGNVAwa2pfME9MRGY1d2laaEE?oc=5",
+      "date": "2026-04-06 19:57",
+      "summary": "Scholars explore 250 years of Declaration interpretations  Stanford Report..."
+    },
+    {
       "title": "Softball Heads Out West to Face Santa Clara and No. 24 Stanford - seminoles.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkJNSUZKR0c3X09QbVZYdXVZYnk4dFA2aV82NnRHSWJiMlZzTFdOU2NOZGRXVDVQY0Z5ekFEOWZXSGtrSzNENE9wU2tmVmlMZE4zS0ZnNjFsTEVianNEdkliUmwxemtmbGYzUTZpMlJpYUhlZDJSQUpBdnlETy1pWndwWll3NGxFSm5raEJWQ240Uk9ZMUtST2RxdHRFRTA?oc=5",
       "date": "2026-04-06 19:52",
       "summary": "Softball Heads Out West to Face Santa Clara and No. 24 Stanford  seminoles.com..."
+    },
+    {
+      "title": "Go behind the science with Rodolfo Dirzo - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sanBlRzJYRHZvMEU4Sm9hdm83VmFzM2E0VzlTdUU1OEpfa01hTThvc2c0T2FiWFNDek5iVHNKNTNDWHpNdlFXU0FzVGNLb1FTY0kwQ084VlBWS3FzS1lIX3ZuQU9Pd0Y1Yk00Y3VR?oc=5",
+      "date": "2026-04-06 12:00",
+      "summary": "Go behind the science with Rodolfo Dirzo  Stanford University..."
     },
     {
       "title": "Jensen Huang to Sam Altman: The guest list turning a Stanford AI class into a tech summit - Business Insider",
@@ -81,18 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOTA4Z2thUkZfaTY0STJHWHVmVzhza2J1LUFxNDgxNFltcHdlVlJVdll1WG94YWh4OFVfN2h2bmdDbVNxbWJqN0FjSVJwa0haei04YV9qYTVDZUwzTHRfZWxzekJiMU5LQm1idENyU3EzSkFmc0lwZmZkcmpWdWg5b2JTQ3FzV3VoVHI3OV9KUGp2UExuTkNsVFhn?oc=5",
       "date": "2026-04-04 05:06",
       "summary": "No. 3 Demon Deacons Drop Heartbreaker at Stanford  Wake Forest University Athletics..."
-    },
-    {
-      "title": "Huskies Fall To No. 24 Stanford - University of Washington Athletics",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGp5ZURIR2xTUlJPSWxmVnljYWF0QWNFdVNXcXNWd1BDam5lMGZ1V1V0SnVCdFRPUUtjcHRFM1B4d012TkdqUzQxUE5EQzlQNUpUSTdCekRLdTFiUDdZNndOVjFmQTFMQnFlYk1nbVJBcHlFVFhMREtTTC16Wi1IOA?oc=5",
-      "date": "2026-04-04 23:49",
-      "summary": "Huskies Fall To No. 24 Stanford  University of Washington Athletics..."
-    },
-    {
-      "title": "Sundar Pichai will be Stanford’s 2026 Commencement speaker - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0JoSVd2TjMwY042UDJqblZlN0I3dUFBZkZJVlZkMjgtazlNYVJ6UC1lQXhnXzg0SWFKSklYN1RnbkNkLU9ZeHFNV21ic0MtcTRsanlSNW44cXprT1ZWVTRQRVlDRDhCbTJUeWVEZXMzXy14YVZTaHFORlQ1UWE3MkZn?oc=5",
-      "date": "2026-04-03 03:47",
-      "summary": "Sundar Pichai will be Stanford’s 2026 Commencement speaker  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -225,16 +225,16 @@
   ],
   "MIT Tech Review": [
     {
-      "title": "AI is changing how small online sellers decide what to make - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNW8ycWZpZl9mZERTQmlMR3pUNmJVQU1qVUZYaWhnS182S0c0UGV2VkdheERsYmRiMnE4UzlXb1oydHFKM2t2YW4tdmNaLU1RR1l5LVdKbjhjQ0wwQzRXaTBkNGUxS1loQ1o1VGZxZ0tQM3E3OHc5UHNobDhOcXNXc0ppOTZzUWtpQVM40gGQAUFVX3lxTFBPQ2MzOThGSzBfQ01aeGJlQjN1dXNRcWJpbWYwdlkwVEI1Q09vSnR5ZkExaFFSUnEybFozb1J4UklZNFc4ZzAwV1hZWHQwb0FRRlMzZXVoRE9oRGt5cWN2ZEZzMzNaTWZyU215ajhMUUUzOVBfdlBfTWE2NnE5QnBoYnhSb2hyR3h5V04tN20tSQ?oc=5",
-      "date": "2026-04-06 11:00",
-      "summary": "AI is changing how small online sellers decide what to make  MIT Technology Review..."
-    },
-    {
       "title": "The one piece of data that could actually shed light on your job and AI - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNU1KczRpUWRzWk9Ccm85OG5IQnk1cUJpQldzUGh0SEtpR0ZmTV9ET2phODB3aEk2SDF0QTdSaGRRemVmUWNHVzBFNEI3akdPY0s1eWQwaHQ0NENXdFVzZDBoTWpUUWNhUTd6SlJOejNEbDFYd3ZRUnBUaWVsVXJIdi1hVUJtZHFNSEhFZC15Y3ltbDJ5ZGtZZnJyd2lPZlM5cHV2Zmk3ekU4bENwUVBGZlQ5RTktS1N0dnNROV9XSjByd9IBxwFBVV95cUxNdjJDQkZEVDVBNHlsb3Vkc1ViOVRscEI5WGtsdUo3WEZKZW9LVVFtMzUxTkozUXZsX2lINURKRDA2MThwMkc2c0dkSnIwQWdWdzhIclJ5ZXE2RTdsei0xWGNJbl8zcDFBNkY4Y0lGSWotVzR4cmV5cVl0WWJtZGRzQktMX3VZU0R4cjVFZkZ4MnpNNjY3WEVqcllVZ3ZjWXJ5M1ZRTEV1ZHZsbWp0UFd3cDEydkh0Wm1nbmhfTU9mRzZRQ2ZscUdn?oc=5",
       "date": "2026-04-06 16:33",
       "summary": "The one piece of data that could actually shed light on your job and AI  MIT Technology Review..."
+    },
+    {
+      "title": "AI is changing how small online sellers decide what to make - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNW8ycWZpZl9mZERTQmlMR3pUNmJVQU1qVUZYaWhnS182S0c0UGV2VkdheERsYmRiMnE4UzlXb1oydHFKM2t2YW4tdmNaLU1RR1l5LVdKbjhjQ0wwQzRXaTBkNGUxS1loQ1o1VGZxZ0tQM3E3OHc5UHNobDhOcXNXc0ppOTZzUWtpQVM40gGQAUFVX3lxTFBPQ2MzOThGSzBfQ01aeGJlQjN1dXNRcWJpbWYwdlkwVEI1Q09vSnR5ZkExaFFSUnEybFozb1J4UklZNFc4ZzAwV1hZWHQwb0FRRlMzZXVoRE9oRGt5cWN2ZEZzMzNaTWZyU215ajhMUUUzOVBfdlBfTWE2NnE5QnBoYnhSb2hyR3h5V04tN20tSQ?oc=5",
+      "date": "2026-04-06 11:00",
+      "summary": "AI is changing how small online sellers decide what to make  MIT Technology Review..."
     },
     {
       "title": "The gig workers who are training humanoid robots at home - MIT Technology Review",
@@ -243,48 +243,48 @@
       "summary": "The gig workers who are training humanoid robots at home  MIT Technology Review..."
     },
     {
-      "title": "The Download: a battery pivot to AI, and rewriting math - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzN6Y1EydFB0QWxINVdrYUNtTFpuekdJVlppZ1NTMGRrQmpfcDVjZWVtUXdleEk1MG5jcXItRHB5WEdrTkNxSERRMEpGbXBQUUQ5Wm8zM2ZjUGhZZl94NWJ1ek4xS3FVdFJHa3BBU3NUZ05rRFJxMFVyRHpEeTVXN3NHeXFWQjFqejMzNkRGWVRtNEIzZGlHU2xXUXNjbGYt0gGmAUFVX3lxTE1BRXhSQ2J3NkJWeVlPbHI0MlROVllDdmRPT0otcElvTkRBVmw0c1BhSzk4ZF91dl9zdEd3Z0VvUUplT0RYa2xyREQ3NlFSd2pfSWdEOEJySDRnMFpRMHB0TklWM2FjelFCaExEb0hISlVjeXFKeThRMTdoU2wxdG1fRVk4bzVDRDdGZXB4eWZQZHl5S3BiQkNPRlVLN0lTc0RJMTJDY3c?oc=5",
-      "date": "2026-03-26 07:00",
-      "summary": "The Download: a battery pivot to AI, and rewriting math  MIT Technology Review..."
-    },
-    {
       "title": "Four things we’d need to put data centers in space - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUlRTUJSdlozb0JUdWdjWjlFQ2hVNmFNRklTZXU1OVhsR0Y2aS0xSU05d3lyd2pyT041QTdBeG1VYndOTkx6MEZwaWJWSkkyZTVKSDA4RFBUYWppcm5YdEFTOVNRcExsSGRiQXdtQUZHclA0Q3JDNFhNeXRILWtjS0gtaTBSdEhpU09NV0VBdl92RFJISkhOMHBGQkNWQzRvamtyTtIBqgFBVV95cUxPd21CU0lVOUdrNVZFZFVGSTc2eHdTWlF5WUY5UGRtOUdTU2p3VmVSYWFRM3EyWC1ESDFCSWduR1J4ekwza29tV2xJVE1tbTU0bTd2dGdiMlRNWlpXZmh2a1ZfUTEzSE10R3lZRGRlVktyc3dSUnMzUk5ubm90WlVPMlZjMG1CaFE4MlJqemQyUkRlVTJ3UGNKQ0QzbE92ZEEwckhSUlk3dU9wZw?oc=5",
       "date": "2026-04-03 17:03",
       "summary": "Four things we’d need to put data centers in space  MIT Technology Review..."
+    },
+    {
+      "title": "AI benchmarks are broken. Here’s what we need instead. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGQ3dHlENnVNVmlwbWE3VFplQzJCZ0NhV1NLbUl6RmZzbk1YTF9tbmh1OTJ0V0dnYXdzRmZRaGZQdEdiVVBNbmVMUWV4NEpNMENLMUxsRkxPekl1VVJneEt6c0VVZzA5dHU2a3JJS0wtcHRBcTlQcUxJa0tFVk55OFZkeUJaaEt2QlNHc0Fsel84dGVEWDVFUVVfOFFlZGtack1tenhlWdIBrAFBVV95cUxOUnpwejZHN3NwcVpmRk1iTzk1dkdpNTZKbGY2TEduYXNjdXRxeC1uY3gxVnh6NGlPVGpqY3N6THVmeWkwNGlXYTUtX2YwbTJCVnFkc0I5U09CZEFzRGZnTjA4T0Fma2JwUGxUOF9PUUlWTkE0NjRLbjJNM3RCUUdKaHRpWGlmcV8zT1JrSVBmMmZkd1FOWi12YkR1c0x0YUtmejZCNTRBdE1zQVU5?oc=5",
+      "date": "2026-03-31 12:01",
+      "summary": "AI benchmarks are broken. Here’s what we need instead.  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Spring cold snaps harm nesting tree swallows, but some show resilience",
-      "link": "https://phys.org/news/2026-04-cold-snaps-tree-swallows-resilience.html",
-      "date": "2026-04-06 19:40",
-      "summary": "Warming temperatures from climate change cause tree swallows to nest up to two weeks earlier than they did in the 1970s, but early..."
+      "title": "Mechanical inputs boost diamond quantum sensor states as Q factor tops one million",
+      "link": "https://phys.org/news/2026-04-mechanical-boost-diamond-quantum-sensor.html",
+      "date": "2026-04-06 20:30",
+      "summary": "Most people think of diamonds as high-end adornments. Not Ania Bleszynski Jayich. The UC Santa Barbara physicist sees diamonds, wh..."
     },
     {
-      "title": "Rating community resilience with a deep learning framework",
-      "link": "https://phys.org/news/2026-04-community-resilience-deep-framework.html",
-      "date": "2026-04-06 19:20",
-      "summary": "An understanding of community resilience and risk analysis is vital when it comes to protecting civilians and infrastructure from ..."
+      "title": "Bacteria are weaving forever chemicals directly into their cell membranes, study finds",
+      "link": "https://phys.org/news/2026-04-bacteria-chemicals-cell-membranes.html",
+      "date": "2026-04-06 20:20",
+      "summary": "University of Tennessee Knoxville professor and Goodrich Chair of Excellence in Civil Engineering Frank Loeffler and his co-author..."
     },
     {
-      "title": "Origins of Earth's most powerful ocean current revealed",
-      "link": "https://phys.org/news/2026-04-earth-powerful-ocean-current-revealed.html",
-      "date": "2026-04-06 19:00",
-      "summary": "It transports far more than 100 times as much water as all of the Earth's rivers combined: The Antarctic Circumpolar Current rushe..."
+      "title": "Q&A: What drives the rise in red tides that threaten human health?",
+      "link": "https://phys.org/news/2026-04-qa-red-tides-threaten-human.html",
+      "date": "2026-04-06 20:20",
+      "summary": "With its striking San Francisco Bay settings, director Alfred Hitchcock's iconic horror film \"The Birds\" has captivated audiences ..."
     },
     {
-      "title": "Scientists identify potential new target for disrupting mosquito reproduction",
-      "link": "https://phys.org/news/2026-04-scientists-potential-disrupting-mosquito-reproduction.html",
-      "date": "2026-04-06 18:40",
-      "summary": "A longstanding mystery in mosquito biology has been solved, opening a potential new path for controlling mosquitoes and the diseas..."
+      "title": "Analysis finds geometric thinking may come from wandering, not a human-only math module",
+      "link": "https://phys.org/news/2026-04-analysis-geometric-human-math-module.html",
+      "date": "2026-04-06 20:10",
+      "summary": "Debates over how geometry is understood and learned date back at least to the days of Plato, with more recent scholars concluding ..."
     },
     {
-      "title": "Why cats stop eating—it's not just fullness",
-      "link": "https://phys.org/news/2026-04-cats-fullness.html",
-      "date": "2026-04-06 18:30",
-      "summary": "Why do cats often leave food unfinished? Many cat owners have experienced this puzzling behavior. Domestic cats are well known for..."
+      "title": "How to eat an elephant: Fossil find in Tanzania shows oldest signs of butchering these giant mammals",
+      "link": "https://phys.org/news/2026-04-elephant-fossil-tanzania-oldest-butchering.html",
+      "date": "2026-04-06 20:00",
+      "summary": "Imagine a creature nearly twice the size of a modern African elephant, which can weigh up to 6,000 kg. This was Elephas (Paleoxodo..."
     }
   ],
   "The Guardian Edu": [
