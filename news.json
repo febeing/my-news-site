@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "Birnbaum Wins Invitational 5,000 at Stanford - University of Oregon Athletics",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaGlUR05FQ0lUMFpVUEpibm9mQ0RycDd0TGFoTlJkVFNqUVBZNDg5dDdDMWlzV29VX2tBT3plSExYaGFWSDZUYmg0Tkk4R1RBcnBaeUJvNFBXQTdfaXBvblhXT1JqUGhieGo4c1ZqOEd4OS1Xd0FOS0Y2OHlDdjI2SllpS2dZUmJGSk41VVQ5S19PZ3d4TlF4WUlB?oc=5",
+      "date": "2026-04-04 06:49",
+      "summary": "Birnbaum Wins Invitational 5,000 at Stanford  University of Oregon Athletics..."
+    },
+    {
       "title": "Jensen Huang to Sam Altman: The guest list turning a Stanford AI class into a tech summit - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhBVmlEY1RtaVRqZ3pDNzRDbjB6YWlLSnZwSm0tQjYtWEJQXy04d3BSWndKTEM1ZDY3RHgyaDZZbTBIa1FmSVRTVDJoYV80VnA1OU56Z0dxOXFBdV91Zl9PMWZOSXRWUkVHc2ZaOXpMaEt1MW9IcDRrcVVUazNGZmhDWWgyd2QyckUzVnlaeEV0NHhfVzFVdFBoUlVtN3FjTXk5QkdR?oc=5",
       "date": "2026-04-06 09:07",
@@ -75,12 +81,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOTA4Z2thUkZfaTY0STJHWHVmVzhza2J1LUFxNDgxNFltcHdlVlJVdll1WG94YWh4OFVfN2h2bmdDbVNxbWJqN0FjSVJwa0haei04YV9qYTVDZUwzTHRfZWxzekJiMU5LQm1idENyU3EzSkFmc0lwZmZkcmpWdWg5b2JTQ3FzV3VoVHI3OV9KUGp2UExuTkNsVFhn?oc=5",
       "date": "2026-04-04 05:06",
       "summary": "No. 3 Demon Deacons Drop Heartbreaker at Stanford  Wake Forest University Athletics..."
-    },
-    {
-      "title": "Birnbaum Wins Invitational 5,000 at Stanford - University of Oregon Athletics",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaGlUR05FQ0lUMFpVUEpibm9mQ0RycDd0TGFoTlJkVFNqUVBZNDg5dDdDMWlzV29VX2tBT3plSExYaGFWSDZUYmg0Tkk4R1RBcnBaeUJvNFBXQTdfaXBvblhXT1JqUGhieGo4c1ZqOEd4OS1Xd0FOS0Y2OHlDdjI2SllpS2dZUmJGSk41VVQ5S19PZ3d4TlF4WUlB?oc=5",
-      "date": "2026-04-04 06:49",
-      "summary": "Birnbaum Wins Invitational 5,000 at Stanford  University of Oregon Athletics..."
     },
     {
       "title": "Schroeder, Thomas, Jenkins Break Records At Stanford - University of Washington Athletics",
@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "AIs can ‘memorize’ data they shouldn’t. Can they be forced to forget?",
+      "link": "https://www.science.org/content/article/ais-can-memorize-data-they-shouldn-t-can-they-be-forced-forget",
+      "date": "2026-04-06 08:00",
+      "summary": "New tool could help researchers probe how models “unlearn” sensitive training material..."
+    },
+    {
       "title": "U.S. Forest Service unveils extensive closures of research facilities",
       "link": "https://www.science.org/content/article/u-s-forest-service-unveils-extensive-closures-research-facilities",
       "date": "2026-04-03 06:52",
@@ -151,15 +157,15 @@
       "link": "https://www.science.org/content/article/offering-scientists-cash-spot-errors-published-papers-doesn-t-work",
       "date": "2026-04-03 12:26",
       "summary": "The ERROR project tried enticing reviewers with payments. Now it’s launching a journal—and promising papers as rewards..."
-    },
-    {
-      "title": "Bumble bees show a surprising knack for rhythm",
-      "link": "https://www.science.org/content/article/bumble-bees-show-surprising-knack-rhythm",
-      "date": "2026-04-02 02:00",
-      "summary": "Flexible rhythm perception, once thought to require a big brain, has been shown in humble bumble bees..."
     }
   ],
   "Retraction Watch": [
+    {
+      "title": "Bloodhound code sniffs out copied-and-pasted numerical data",
+      "link": "https://retractionwatch.com/2026/04/06/data-duplications-errors-open-repositories-markus-englund/",
+      "date": "2026-04-06 12:00",
+      "summary": "Markus Englund, a software developer and sleuth based in the Netherlands, first hit paydirt with invasive plant species in China. ..."
+    },
     {
       "title": "Weekend reads: Half of social science ‘doesn’t replicate’; ‘Scientific ghosts: Life after retraction’; multisensory learning paper retracted",
       "link": "https://retractionwatch.com/2026/04/04/weekend-reads-half-social-science-doesnt-replicate-scientific-ghosts-multisensory-learning-paper-retracted/",
@@ -183,12 +189,6 @@
       "link": "https://retractionwatch.com/2026/04/01/european-journal-experimental-biology-fee-demand-prime-scholars/",
       "date": "2026-04-01 17:20",
       "summary": "In a story readers might find familiar, a researcher was asked to pay when he demanded a journal retract an article he had never s..."
-    },
-    {
-      "title": "BMJ retracts cardiac stem cell paper, removes authors months after sleuths flag data ‘mismatch’",
-      "link": "https://retractionwatch.com/2026/03/31/bmj-retracts-cardiac-stem-cell-paper-removes-authors-months-after-sleuths-flag-data-mismatch/",
-      "date": "2026-03-31 21:43",
-      "summary": "The BMJ has retracted a paper on stem cell therapy for heart failure after sleuths flagged the work for “serious” inconsistencies ..."
     }
   ],
   "Reuters AI": [
@@ -205,16 +205,16 @@
       "summary": "Britain woos Anthropic expansion after US defence clash, FT says  Reuters..."
     },
     {
+      "title": "Indian IT firms face subdued fourth quarter as war, AI concerns persist; weak rupee helps earnings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3VRNVhNUnExakZfLWl4dktJUUYzUDlXQ0Z1ZW1fU3czNTdnLUJPX1ZwUkRnN1lVZnJQUjdWZm1sU0FSNmxFdk5QUFNVQXFLczFxOEg2UXFvZUwyaS0zd0t0cUFtRXQxbkJJWEl2LTVCbEs2NnR3NUFmOVI1T0xGaXVIZks3TlppdkhCckU5RWk0VlNiMkZQU1p1OERUbEhIWFlfd1FfeG9IYVZpNWgyN2JFaXYzRXJvbmdmb01jWHIwdGNL?oc=5",
+      "date": "2026-04-06 11:38",
+      "summary": "Indian IT firms face subdued fourth quarter as war, AI concerns persist; weak rupee helps earnings  Reuters..."
+    },
+    {
       "title": "Microsoft to invest $10 billion in Japan for AI and cyber defence expansion - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS00wUDd0Y1YxQ1RaektWX1JPY0VDaEZNa0ZOczdCZWJKUVhvRjJlWWxqX3FyWnRwU1N3Z0NqMkdLbDdiZU9xa3Vxb1lBZ2pvWEJiMjJvX2Z3eExGVGx4SWpPeHkzb0FCTm9Hakg5ZTBXaEZYWFBuRGdaSkpMRklnTXRYM01ybW9BTm5BbG9xR0dCV1JIY2ZTa05CRWRmLWpfODNFajNUZDFyaFBEM0J1WE5xTnlpbDFsQUpN?oc=5",
       "date": "2026-04-03 03:40",
       "summary": "Microsoft to invest $10 billion in Japan for AI and cyber defence expansion  Reuters..."
-    },
-    {
-      "title": "Indian IT firms face subdued fourth quarter as war, AI concerns persist; weak rupee helps earnings - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3VRNVhNUnExakZfLWl4dktJUUYzUDlXQ0Z1ZW1fU3czNTdnLUJPX1ZwUkRnN1lVZnJQUjdWZm1sU0FSNmxFdk5QUFNVQXFLczFxOEg2UXFvZUwyaS0zd0t0cUFtRXQxbkJJWEl2LTVCbEs2NnR3NUFmOVI1T0xGaXVIZks3TlppdkhCckU5RWk0VlNiMkZQU1p1OERUbEhIWFlfd1FfeG9IYVZpNWgyN2JFaXYzRXJvbmdmb01jWHIwdGNL?oc=5",
-      "date": "2026-04-06 08:24",
-      "summary": "Indian IT firms face subdued fourth quarter as war, AI concerns persist; weak rupee helps earnings  Reuters..."
     },
     {
       "title": "China warns state-owned firms and government agencies against OpenClaw AI, sources say - Reuters",
@@ -257,6 +257,24 @@
   ],
   "Phys.org": [
     {
+      "title": "New detector triples the speed of electron camera, enabling higher sensitivity",
+      "link": "https://phys.org/news/2026-04-detector-triples-electron-camera-enabling.html",
+      "date": "2026-04-06 13:00",
+      "summary": "An instrument that uses high-energy electrons to take \"snapshots\" of ultrafast chemical processes at the atomic and molecular leve..."
+    },
+    {
+      "title": "Fish 'steals' glowing protein: Genome sequencing proves unique survival strategy",
+      "link": "https://phys.org/news/2026-04-fish-protein-genome-sequencing-unique.html",
+      "date": "2026-04-06 13:00",
+      "summary": "In a striking example of nature's ingenuity, a collaborative research team has revealed that a bioluminescent fish glows not by pr..."
+    },
+    {
+      "title": "Looking up? How to photograph the moon with your phone",
+      "link": "https://phys.org/news/2026-04-moon.html",
+      "date": "2026-04-06 12:50",
+      "summary": "Eyes are on the sky this week as four astronauts get the closest humans have been to the moon for more than 50 years on NASA's Art..."
+    },
+    {
       "title": "An aerobot with ISRU capabilities could explore Venus' atmosphere for years",
       "link": "https://phys.org/news/2026-04-aerobot-isru-capabilities-explore-venus.html",
       "date": "2026-04-06 11:20",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-04-longer-wildfire-seasons-pose-threat.html",
       "date": "2026-04-06 09:00",
       "summary": "Wildfires are becoming more frequent and are ravaging new parts of the world due to global warming. A study led by researchers fro..."
-    },
-    {
-      "title": "What to know about the Artemis 2 mission's moon flyby",
-      "link": "https://phys.org/news/2026-04-artemis-mission-moon-flyby.html",
-      "date": "2026-04-06 08:50",
-      "summary": "For the first time in more than half a century, astronauts will fly around the moon on Monday, marking the high point of the Artem..."
-    },
-    {
-      "title": "Artemis mission approaches lunar loop for first flyby since 1972",
-      "link": "https://phys.org/news/2026-04-artemis-mission-approaches-lunar-loop.html",
-      "date": "2026-04-06 08:35",
-      "summary": "The Artemis astronauts entered the final phase of their run-up to a lunar loop on Monday, a tipping point of sorts that means the ..."
-    },
-    {
-      "title": "A gray whale that swam 20 miles up a Washington state river is found dead",
-      "link": "https://phys.org/news/2026-04-gray-whale-swam-miles-washington.html",
-      "date": "2026-04-06 08:33",
-      "summary": "A juvenile gray whale that amazed Washington state residents after it swam 20 miles up a small river was found dead, and an offici..."
     }
   ],
   "The Guardian Edu": [
@@ -324,7 +324,7 @@
       "title": "Hong Kong restaurant revenues drop over Easter break as departures outnumber arrivals",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349162/hong-kong-restaurant-revenues-drop-over-easter-break-departures-outnumber-arrivals?utm_source=rss_feed",
       "date": "2026-04-06 11:30",
-      "summary": "Hong Kong’s catering sector registered an estimated 6 to 7 per cent drop in business over the long weekend, according to an indust..."
+      "summary": "Hong Kong restaurants suffered a 6 to 7 per cent revenue drop over the Easter weekend, an industry source said, as gains from a 15..."
     },
     {
       "title": "Hong Kong developers test homebuyers with modest price increases after sell-outs",
