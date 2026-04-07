@@ -1,6 +1,24 @@
 {
   "MIT News": [
     {
+      "title": "Researchers develop molecular editing tool to relocate alcohol groups",
+      "link": "https://news.mit.edu/2026/molecular-editing-tool-relocate-alcohol-groups-0407",
+      "date": "2026-04-07 16:35",
+      "summary": "This new technique will allow chemists to efficiently fine-tune the chemical structure of an organic molecule...."
+    },
+    {
+      "title": "Study reveals “two-factor authentication” system that controls microRNA destruction",
+      "link": "https://news.mit.edu/2026/2fa-system-controls-microrna-destruction-0407",
+      "date": "2026-04-07 16:10",
+      "summary": "Researchers uncovered how cells selectively destroy certain microRNAs — key gene regulators — through a mechanism that requires tw..."
+    },
+    {
+      "title": "How bacteria suppress immune defenses in stubborn wound infections",
+      "link": "https://news.mit.edu/2026/how-bacteria-suppress-immune-defenses-stubborn-wound-infections-0407",
+      "date": "2026-04-07 15:40",
+      "summary": "Study finds a common bacterium can suppress the body’s early warning system in wounds, causing infections to persist and create an..."
+    },
+    {
       "title": "Helping data centers deliver higher performance with less hardware",
       "link": "https://news.mit.edu/2026/helping-data-centers-deliver-higher-performance-less-hardware-0407",
       "date": "2026-04-07 04:00",
@@ -11,24 +29,6 @@
       "link": "https://news.mit.edu/2026/electrons-in-moire-crystals-explore-higher-dimensional-quantum-worlds-0403",
       "date": "2026-04-03 21:30",
       "summary": "MIT physicists have discovered 3D “moiré crystals” that simulate four-dimensional quantum materials to a T...."
-    },
-    {
-      "title": "MIT researchers measure traffic emissions, to the block, in real-time",
-      "link": "https://news.mit.edu/2026/mit-researchers-measure-traffic-emissions-block-real-time-0402",
-      "date": "2026-04-02 09:00",
-      "summary": "A new study pieces together existing data sources in order to develop a detailed, dynamic picture of auto emissions...."
-    },
-    {
-      "title": "Evaluating the ethics of autonomous systems",
-      "link": "https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402",
-      "date": "2026-04-02 04:00",
-      "summary": "MIT researchers developed a testing framework that pinpoints situations where AI decision-support systems are not treating people ..."
-    },
-    {
-      "title": "Preview tool helps makers visualize 3D-printed objects",
-      "link": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
-      "date": "2026-04-01 04:00",
-      "summary": "By quickly generating aesthetically accurate previews of fabricated objects, the VisiPrint system could make prototyping faster an..."
     }
   ],
   "Harvard Gazette": [
@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "Stanford Ends Yale’s Reign As The #1 Law School - davidlat.substack.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM1Jwc2l5d0o1S0FGQi1laE5iMlhoYjVnX3R1dlhqUjRPekxuTm12eDFKU19reG9LU3lrNWk4NzRReU9VZHhCUFRvSEo2Vkh0VlZJdnZQcjFLbFNGVFMxRkhYSHhfbURFdUE5Q0tCY2RUYUIxU2dELWMxMHl0ZWFvYmVfQTJ6RnNRbjdNQ29QalVKR1M3Q3lnUV9tbjVQQ0U?oc=5",
+      "date": "2026-04-07 13:31",
+      "summary": "Stanford Ends Yale’s Reign As The #1 Law School  davidlat.substack.com..."
+    },
+    {
       "title": "Jensen Huang to Sam Altman: The guest list turning a Stanford AI class into a tech summit - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhBVmlEY1RtaVRqZ3pDNzRDbjB6YWlLSnZwSm0tQjYtWEJQXy04d3BSWndKTEM1ZDY3RHgyaDZZbTBIa1FmSVRTVDJoYV80VnA1OU56Z0dxOXFBdV91Zl9PMWZOSXRWUkVHc2ZaOXpMaEt1MW9IcDRrcVVUazNGZmhDWWgyd2QyckUzVnlaeEV0NHhfVzFVdFBoUlVtN3FjTXk5QkdR?oc=5",
       "date": "2026-04-06 09:07",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTYtbGRSczgxbHN2OFpWVGgwaTBLbEpHeGpwVTZHWUljbTBfRjA4eVR4eUplYV9ySzNoQlAtSnpjdW5EbDRLeE4tMFJRVF9ta3E2VE9ER1pGb2REODVCVEpCYVFEOXM0bGZMcHdScVZWQmpOMzQta0c1UHNpZm54azJiSXNPVGtuaFpUekRGNVAwa2pfME9MRGY1d2laaEE?oc=5",
       "date": "2026-04-07 05:28",
       "summary": "Scholars explore 250 years of Declaration interpretations  Stanford Report..."
-    },
-    {
-      "title": "From the Community | Stanford must stop supporting the surveillance state - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rSXA5Y0hYZUxGaVNJMjFVbUt1dUcyM01ZSXBFM2JBOGIxUTQyYUFDNTd1SnpWMUFiODRRbWNoRm84MUNTX0x1c1BmeHkzUlVKSlY4TjFtUFRnR3BXbTZoWlpCLVowYS0xNURBTF9UZFlpd1k?oc=5",
-      "date": "2026-04-07 05:42",
-      "summary": "From the Community | Stanford must stop supporting the surveillance state  The Stanford Daily..."
     }
   ],
   "Nature Careers": [
@@ -101,6 +101,12 @@
       "link": "https://www.nature.com/articles/d41586-026-01094-7",
       "date": "2026-04-07 00:00",
       "summary": "Nature, Published online: 07 April 2026; doi:10.1038/d41586-026-01094-7AI and the human mind: only one is a black box..."
+    },
+    {
+      "title": "When page-renumbering causes outrage",
+      "link": "https://www.nature.com/articles/d41586-026-00913-1",
+      "date": "2026-04-07 00:00",
+      "summary": "Nature, Published online: 07 April 2026; doi:10.1038/d41586-026-00913-1The problem of page numbering in reprinted articles, and ex..."
     },
     {
       "title": "Representation without power in science isn’t equity",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01029-2",
       "date": "2026-04-07 00:00",
       "summary": "Nature, Published online: 07 April 2026; doi:10.1038/d41586-026-01029-2Scientists are exposing the biological information hidden i..."
-    },
-    {
-      "title": "This method to reverse cellular ageing is about to be tested in humans",
-      "link": "https://www.nature.com/articles/d41586-026-01024-7",
-      "date": "2026-04-07 00:00",
-      "summary": "Nature, Published online: 07 April 2026; doi:10.1038/d41586-026-01024-7A burgeoning field is launching its first clinical trial to..."
     }
   ],
   "Science News": [
@@ -199,18 +199,6 @@
       "summary": "AI is rewiring the world’s most prolific film industry  Reuters..."
     },
     {
-      "title": "Intel joins Musk's Terafab AI chip project to power humanoid, data center goals - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRTNIUzRxbUxZN05HekdrUkhvZXRaQVlLV1dtSkVybU1BUGo2VFU1UWtEdmRJQ2w0N2hzRGNRMXlQdkVZMFBTOVpkSW9iV1ZmNjNqOTR1dEZKcU1McjhpaWRNMkJSb1AzamdnQ29LNjY4X3ZMbW9EMlgwUVQ4RGZhbG9QdjYxV01BRlgzOXFQVlpLMHpyQmlZMlMxRjlXa3I0WlZSbGZfVS1Nbmc4ajE1WQ?oc=5",
-      "date": "2026-04-07 14:30",
-      "summary": "Intel joins Musk's Terafab AI chip project to power humanoid, data center goals  Reuters..."
-    },
-    {
-      "title": "Uber bets on Amazon's custom chips to boost AI efforts - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHU5M1pIMExjQnlha1huU2dPeVhNa1Noc2NBX2dkTk5VVHFmVy1RWkR3MzQ4RGtzTWZ6SDBLY0U4bHBmLWR6YzVyQWZ3Qm5wWFBmNEQ5bFA3eFdXSWlqSmFVRV9NeVdNUGwxVk9wWmQ4a3dJNDRrOFhIODZVSVpId1cxQV8xeV94TFlTZ3Y0bDktNUhJY0J5YzF6N2hLdE1Tc3AzQnpQRU5HQy1R?oc=5",
-      "date": "2026-04-07 13:03",
-      "summary": "Uber bets on Amazon's custom chips to boost AI efforts  Reuters..."
-    },
-    {
       "title": "Breakingviews - AI dreams crash into stark $7 trln reality - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORmdOS1h3WWxSeXhpdW9oUDBTaE9XdmNqLWtRZFRmY3Z2RDRRSnAyZkhqdzVoWVNILUtweUlpUWUySmU5TU9ZNkMzOTdjY0pvQlI0QjFzYWtZLVh0OVprUWxLZ1FaQjdVajNWbC10ek5sdmVQZjZzdUItdHUzQUxUTUpCakpwUEl5aGdlejZ2LURNTkV5MHQzajJnT3VLU3h2TzdveQ?oc=5",
       "date": "2026-04-07 05:00",
@@ -221,6 +209,18 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmVpQ1hueFNRMkcwRXMzZHhrSnl1bUxTb0pscFZ5cmRZNmFtUUxiMWxReTdFcVZJQVlqQjRqVEdoZTQ2WGhhSm50OU9wYUUxbUpLZDIyNVNCRkhnZ3pOdjJhRW5Ud2kweUhoTWNBTTZyRVdtXzBRbWk1aUJCZ0lwSGtsdGRkU3lmd092b283WmpRelZnUGxicG8teTVFVWxzRzB0UU9CcEdfZw?oc=5",
       "date": "2026-04-06 22:38",
       "summary": "Broadcom signs long-term deal to develop Google’s custom AI chips  Reuters..."
+    },
+    {
+      "title": "Uber bets on Amazon's custom chips to boost AI efforts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHU5M1pIMExjQnlha1huU2dPeVhNa1Noc2NBX2dkTk5VVHFmVy1RWkR3MzQ4RGtzTWZ6SDBLY0U4bHBmLWR6YzVyQWZ3Qm5wWFBmNEQ5bFA3eFdXSWlqSmFVRV9NeVdNUGwxVk9wWmQ4a3dJNDRrOFhIODZVSVpId1cxQV8xeV94TFlTZ3Y0bDktNUhJY0J5YzF6N2hLdE1Tc3AzQnpQRU5HQy1R?oc=5",
+      "date": "2026-04-07 13:03",
+      "summary": "Uber bets on Amazon's custom chips to boost AI efforts  Reuters..."
+    },
+    {
+      "title": "Samsung flags eightfold jump in quarterly profit as AI chip demand pumps prices - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQkZHUl9QZHhISlR6WXVmbGZtODRtQW9rR1MyR04zOTNNT0dObkFnS1o3elFFVXZvZGc0R0RtSnZqYkZaTTk5NVdESXNGakFjUl9Hd2E5V0RObzRYZlpJRTBOOG9IblVVTlJIcFVyZ2dUYzA2UlhqaHRIRUFpNThSc21fRVJoYWVjajBDQS1iMUtYSnFaMVBiVFptQW5XaXlQQWVqZlhlQWpSd25JTU9Vd0FRNk1wU25tOFprUWY0TDdjMWhnUE9laDd6Qk92U3llaS0wVE1yN3NpQl9STWhGeDVtUkxxd3M?oc=5",
+      "date": "2026-04-06 22:45",
+      "summary": "Samsung flags eightfold jump in quarterly profit as AI chip demand pumps prices  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -237,16 +237,16 @@
       "summary": "The one piece of data that could actually shed light on your job and AI  MIT Technology Review..."
     },
     {
-      "title": "AI is changing how small online sellers decide what to make - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNW8ycWZpZl9mZERTQmlMR3pUNmJVQU1qVUZYaWhnS182S0c0UGV2VkdheERsYmRiMnE4UzlXb1oydHFKM2t2YW4tdmNaLU1RR1l5LVdKbjhjQ0wwQzRXaTBkNGUxS1loQ1o1VGZxZ0tQM3E3OHc5UHNobDhOcXNXc0ppOTZzUWtpQVM40gGQAUFVX3lxTFBPQ2MzOThGSzBfQ01aeGJlQjN1dXNRcWJpbWYwdlkwVEI1Q09vSnR5ZkExaFFSUnEybFozb1J4UklZNFc4ZzAwV1hZWHQwb0FRRlMzZXVoRE9oRGt5cWN2ZEZzMzNaTWZyU215ajhMUUUzOVBfdlBfTWE2NnE5QnBoYnhSb2hyR3h5V04tN20tSQ?oc=5",
-      "date": "2026-04-06 11:00",
-      "summary": "AI is changing how small online sellers decide what to make  MIT Technology Review..."
-    },
-    {
       "title": "The gig workers who are training humanoid robots at home - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXpBZEJpS1hfTFl4SmtuSmszX0I2STJWOUs4Z1ktLVRENUljLUx4akZoVzJUNW5zUVpmWGpxNGdJZzY4a0sxMXRoaXdjSTE1SjJiNHMzLUhnMkpmSkVvdV91Nm5mQmwzY2JLZXNSOXlfaDZvRDQyc2ZPOHNJZUlxUUVXbDNrVFM1YnFXQXNHN3ZxTi1lUjd4cjR5aFRTbzhSTkxXX1hPTkl1Q0dkRlRQTUVsY1hfQmvSAbwBQVVfeXFMTVZfaUNoV2VUNHlSXzM3X1VBNXc3Mi1UcXhIeUUwWkgtOE44ZG5kWTJEZHhnUGJJSEZQWTBRb203WDhvTTNpTi15NmtjMm8yTm96YTc3bC0zeXJPRkNMZm1vVDZpd3BaOWNMT0xSMVRDalJOMl80b0xsb1hhNTN2ZWxBY1lnUVRJVnBUbzJoY0NfeEVBbGc4dmFDSXhIYUs5dWhFYTRSQ3c3MmI3ajdaWlhJVTZCWmpmMVUycVc?oc=5",
       "date": "2026-04-01 11:00",
       "summary": "The gig workers who are training humanoid robots at home  MIT Technology Review..."
+    },
+    {
+      "title": "AI is changing how small online sellers decide what to make - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNW8ycWZpZl9mZERTQmlMR3pUNmJVQU1qVUZYaWhnS182S0c0UGV2VkdheERsYmRiMnE4UzlXb1oydHFKM2t2YW4tdmNaLU1RR1l5LVdKbjhjQ0wwQzRXaTBkNGUxS1loQ1o1VGZxZ0tQM3E3OHc5UHNobDhOcXNXc0ppOTZzUWtpQVM40gGQAUFVX3lxTFBPQ2MzOThGSzBfQ01aeGJlQjN1dXNRcWJpbWYwdlkwVEI1Q09vSnR5ZkExaFFSUnEybFozb1J4UklZNFc4ZzAwV1hZWHQwb0FRRlMzZXVoRE9oRGt5cWN2ZEZzMzNaTWZyU215ajhMUUUzOVBfdlBfTWE2NnE5QnBoYnhSb2hyR3h5V04tN20tSQ?oc=5",
+      "date": "2026-04-06 11:00",
+      "summary": "AI is changing how small online sellers decide what to make  MIT Technology Review..."
     },
     {
       "title": "The Download: a battery pivot to AI, and rewriting math - MIT Technology Review",
@@ -257,42 +257,42 @@
   ],
   "Phys.org": [
     {
-      "title": "'Voorhees law' explains why the slower car often catches up",
-      "link": "https://phys.org/news/2026-04-voorhees-law-slower-car.html",
-      "date": "2026-04-07 15:00",
-      "summary": "Many drivers will know the feeling: you pull ahead of the slower car you've been stuck behind and cruise the open road ahead at yo..."
+      "title": "Why AI shouldn't be used even to decide 'simple' court cases",
+      "link": "https://phys.org/news/2026-04-ai-shouldnt-simple-court-cases.html",
+      "date": "2026-04-07 16:50",
+      "summary": "In just a few years, generative artificial intelligence (gen AI) has brought about significant changes in many industries, from he..."
     },
     {
-      "title": "How the social lives of magpies shape their call repertoire",
-      "link": "https://phys.org/news/2026-04-social-magpies-repertoire.html",
-      "date": "2026-04-07 14:40",
-      "summary": "Communication is central to the survival of most animals, including humans. Yet animals of different species communicate different..."
+      "title": "More than a pretty picture, star-shaped nanomaterial changes energy storage",
+      "link": "https://phys.org/news/2026-04-pretty-picture-star-nanomaterial-energy.html",
+      "date": "2026-04-07 16:40",
+      "summary": "When created at the nanoscale, materials can resemble shapes like stars, rods or even pyramids. These particle shapes, also known ..."
     },
     {
-      "title": "Reducing risks when modernizing packaging",
-      "link": "https://phys.org/news/2026-04-modernizing-packaging.html",
-      "date": "2026-04-07 14:30",
-      "summary": "Redesigns can cause serious harm to businesses. New research from Adelaide University explores what brands should consider when mo..."
+      "title": "Early humans in South Africa were quarrying stone as far back as 220,000 years ago",
+      "link": "https://phys.org/news/2026-04-early-humans-south-africa-quarrying.html",
+      "date": "2026-04-07 16:20",
+      "summary": "As long as 220,000 years ago—far earlier than previously thought—people quarried rocks for their tools in places they specifically..."
     },
     {
-      "title": "Green skepticism indirectly reduces intention to purchase sustainable products, says study",
-      "link": "https://phys.org/news/2026-04-green-skepticism-indirectly-intention-sustainable.html",
-      "date": "2026-04-07 14:23",
-      "summary": "Skepticism about claims regarding sustainability reduces consumers' intentions to purchase sustainable products by weakening two i..."
+      "title": "New leading cause of tree death in US northeast shifts from logging to natural causes",
+      "link": "https://phys.org/news/2026-04-tree-death-northeast-shifts-natural.html",
+      "date": "2026-04-07 16:10",
+      "summary": "Why do trees fall in the forest? The Answer is Changing. New research suggests that in just 15 years, the causes of most tree loss..."
     },
     {
-      "title": "A layered approach sharpens brain signals in optical imaging",
-      "link": "https://phys.org/news/2026-04-layered-approach-sharpens-brain-optical.html",
-      "date": "2026-04-07 14:20",
-      "summary": "Near-infrared spectroscopy, or fNIRS, offers a way to monitor brain activity without surgery or radiation by tracking changes in b..."
+      "title": "Born to roam, built for home: New genomic insights for snapper fisheries",
+      "link": "https://phys.org/news/2026-04-born-roam-built-home-genomic.html",
+      "date": "2026-04-07 16:00",
+      "summary": "Snapper are central to coastal life across southern Australia, supporting fisheries, local businesses, and regional tourism. New F..."
     }
   ],
   "The Guardian Edu": [
     {
       "title": "UK government caps student loan interest rates at 6% from September",
       "link": "https://www.theguardian.com/money/2026/apr/07/uk-government-caps-student-loan-interest-rates",
-      "date": "2026-04-07 10:44",
-      "summary": "Minister says change for plan 2 and 3 loans in England and Wales will ‘protect borrowers’ from impact of global conflictUK politic..."
+      "date": "2026-04-07 15:26",
+      "summary": "Minister says change for plan 2 and 3 loans in England and Wales will protect borrowers from impact of global conflictExplainer: w..."
     },
     {
       "title": "‘I see it as trafficking’: the brutal reality of life as a foreign student in the UK",
@@ -353,6 +353,24 @@
   ],
   "New Scientist": [
     {
+      "title": "Migraines could be treated by ramping up the brain's cleaning system",
+      "link": "https://www.newscientist.com/article/2522159-migraines-could-be-treated-by-ramping-up-the-brains-cleaning-system/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-07 15:00",
+      "summary": "Amplifying the brain's waste disposal system seems to clear a substance that drives migraines, relieving some of the pain associat..."
+    },
+    {
+      "title": "Are manure digesters a real solution to dairy farm emissions?",
+      "link": "https://www.newscientist.com/article/2522081-are-manure-digesters-a-real-solution-to-dairy-farm-emissions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-07 15:00",
+      "summary": "Anaerobic digesters converting manure to biogas reduce methane emissions from livestock, but incentives for them have encouraged f..."
+    },
+    {
+      "title": "The Artemis II astronauts have flown around the moon",
+      "link": "https://www.newscientist.com/article/2522113-the-artemis-ii-astronauts-have-flown-around-the-moon/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-07 09:24",
+      "summary": "Four NASA astronauts have now travelled further from Earth than any humans before them, as they flew around the moon during the Ar..."
+    },
+    {
       "title": "Novel approach to clearing brain waste shows promise for Alzheimer's",
       "link": "https://www.newscientist.com/article/2522065-novel-approach-to-clearing-brain-waste-shows-promise-for-alzheimers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-06 12:00",
@@ -363,24 +381,6 @@
       "link": "https://www.newscientist.com/article/2521611-the-iran-war-is-exposing-the-huge-risks-in-our-food-system/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-01 18:00",
       "summary": "No matter where you get your food from, a good chunk of your diet is ultimately reliant on fossil fuels. We already need to change..."
-    },
-    {
-      "title": "We may have seen a 'dirty fireball' star explosion for the first time",
-      "link": "https://www.newscientist.com/article/2522015-we-may-have-seen-a-dirty-fireball-star-explosion-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-03 14:00",
-      "summary": "An incredibly powerful flash of X-rays spotted by the Einstein Probe telescope appears to be a kind of explosion first theorised m..."
-    },
-    {
-      "title": "How worried should you be about an AI apocalypse?",
-      "link": "https://www.newscientist.com/article/2522019-how-worried-should-you-be-about-an-ai-apocalypse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-03 12:00",
-      "summary": "Fears that artificial intelligence could rise up to wipe out humanity are understandable given our steady diet of sci-fi stories d..."
-    },
-    {
-      "title": "Multipurpose anti-viral pill may treat colds, norovirus, flu and covid",
-      "link": "https://www.newscientist.com/article/2521670-multipurpose-anti-viral-pill-may-treat-colds-norovirus-flu-and-covid/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-03 09:00",
-      "summary": "AI predicted that a forgotten breast cancer drug could be repurposed to treat many respiratory and gastrointestinal viruses, and s..."
     }
   ]
 }
