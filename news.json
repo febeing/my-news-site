@@ -83,16 +83,16 @@
       "summary": "Softball Heads Out West to Face Santa Clara and No. 24 Stanford  seminoles.com..."
     },
     {
-      "title": "Go behind the science with Rodolfo Dirzo - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sanBlRzJYRHZvMEU4Sm9hdm83VmFzM2E0VzlTdUU1OEpfa01hTThvc2c0T2FiWFNDek5iVHNKNTNDWHpNdlFXU0FzVGNLb1FTY0kwQ084VlBWS3FzS1lIX3ZuQU9Pd0Y1Yk00Y3VR?oc=5",
-      "date": "2026-04-06 12:00",
-      "summary": "Go behind the science with Rodolfo Dirzo  Stanford University..."
-    },
-    {
       "title": "No. 3 Demon Deacons Drop Heartbreaker at Stanford - Wake Forest University Athletics",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOTA4Z2thUkZfaTY0STJHWHVmVzhza2J1LUFxNDgxNFltcHdlVlJVdll1WG94YWh4OFVfN2h2bmdDbVNxbWJqN0FjSVJwa0haei04YV9qYTVDZUwzTHRfZWxzekJiMU5LQm1idENyU3EzSkFmc0lwZmZkcmpWdWg5b2JTQ3FzV3VoVHI3OV9KUGp2UExuTkNsVFhn?oc=5",
       "date": "2026-04-04 05:06",
       "summary": "No. 3 Demon Deacons Drop Heartbreaker at Stanford  Wake Forest University Athletics..."
+    },
+    {
+      "title": "Huskies Fall To No. 24 Stanford - gohuskies.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGp5ZURIR2xTUlJPSWxmVnljYWF0QWNFdVNXcXNWd1BDam5lMGZ1V1V0SnVCdFRPUUtjcHRFM1B4d012TkdqUzQxUE5EQzlQNUpUSTdCekRLdTFiUDdZNndOVjFmQTFMQnFlYk1nbVJBcHlFVFhMREtTTC16Wi1IOA?oc=5",
+      "date": "2026-04-04 23:49",
+      "summary": "Huskies Fall To No. 24 Stanford  gohuskies.com..."
     }
   ],
   "Nature Careers": [
@@ -115,7 +115,7 @@
       "summary": "Nature, Published online: 06 April 2026; doi:10.1038/d41586-026-01027-4A goal-driven approach to medical research and development ..."
     },
     {
-      "title": "Moon fly-by live coverage: Artemis crew see intriguing colours on lunar surface",
+      "title": "Moon fly-by live coverage: Artemis crew enter ‘nail-biting’ phase as they lose comms",
       "link": "https://www.nature.com/articles/d41586-026-00989-9",
       "date": "2026-04-06 00:00",
       "summary": "Nature, Published online: 06 April 2026; doi:10.1038/d41586-026-00989-9Astronauts are flying by the Moon’s far side and setting re..."
@@ -199,6 +199,18 @@
       "summary": "AI is rewiring the world’s most prolific film industry  Reuters..."
     },
     {
+      "title": "Samsung flags eightfold jump in Q1 profit as AI chip demand drives up prices - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQkZHUl9QZHhISlR6WXVmbGZtODRtQW9rR1MyR04zOTNNT0dObkFnS1o3elFFVXZvZGc0R0RtSnZqYkZaTTk5NVdESXNGakFjUl9Hd2E5V0RObzRYZlpJRTBOOG9IblVVTlJIcFVyZ2dUYzA2UlhqaHRIRUFpNThSc21fRVJoYWVjajBDQS1iMUtYSnFaMVBiVFptQW5XaXlQQWVqZlhlQWpSd25JTU9Vd0FRNk1wU25tOFprUWY0TDdjMWhnUE9laDd6Qk92U3llaS0wVE1yN3NpQl9STWhGeDVtUkxxd3M?oc=5",
+      "date": "2026-04-06 23:03",
+      "summary": "Samsung flags eightfold jump in Q1 profit as AI chip demand drives up prices  Reuters..."
+    },
+    {
+      "title": "Broadcom signs long-term deal to develop Google’s custom AI chips - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmVpQ1hueFNRMkcwRXMzZHhrSnl1bUxTb0pscFZ5cmRZNmFtUUxiMWxReTdFcVZJQVlqQjRqVEdoZTQ2WGhhSm50OU9wYUUxbUpLZDIyNVNCRkhnZ3pOdjJhRW5Ud2kweUhoTWNBTTZyRVdtXzBRbWk1aUJCZ0lwSGtsdGRkU3lmd092b283WmpRelZnUGxicG8teTVFVWxzRzB0UU9CcEdfZw?oc=5",
+      "date": "2026-04-06 22:38",
+      "summary": "Broadcom signs long-term deal to develop Google’s custom AI chips  Reuters..."
+    },
+    {
       "title": "Indian IT firms face subdued fourth quarter as war, AI concerns persist; weak rupee helps earnings - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3VRNVhNUnExakZfLWl4dktJUUYzUDlXQ0Z1ZW1fU3czNTdnLUJPX1ZwUkRnN1lVZnJQUjdWZm1sU0FSNmxFdk5QUFNVQXFLczFxOEg2UXFvZUwyaS0zd0t0cUFtRXQxbkJJWEl2LTVCbEs2NnR3NUFmOVI1T0xGaXVIZks3TlppdkhCckU5RWk0VlNiMkZQU1p1OERUbEhIWFlfd1FfeG9IYVZpNWgyN2JFaXYzRXJvbmdmb01jWHIwdGNL?oc=5",
       "date": "2026-04-06 11:38",
@@ -209,53 +221,59 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlNHSDZHRDJkanNObFJFREVrUlpieTh0cGdXcmdYdTBsXzNXYnZBYnViZDRyVG03X0tIbGt5VDIxV0ZfTFIyN0dpWHNvb0ItdENnelpSTWFIekNjOTZiWWVEUkM4TmpOcjBVZUxobGYtRFN4bEZtVUlERFhTRFFOTXphR2t5cktaVURLaC1VWDhuWVdya0czWFJPaUdOZkhoV1o4eUMycDlTbk9Gd2plWldqTkxpSmQ5SkE?oc=5",
       "date": "2026-04-05 04:29",
       "summary": "Britain woos Anthropic expansion after US defence clash, FT says  Reuters..."
-    },
-    {
-      "title": "Broadcom signs long-term deal to develop Google’s custom AI chips - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmVpQ1hueFNRMkcwRXMzZHhrSnl1bUxTb0pscFZ5cmRZNmFtUUxiMWxReTdFcVZJQVlqQjRqVEdoZTQ2WGhhSm50OU9wYUUxbUpLZDIyNVNCRkhnZ3pOdjJhRW5Ud2kweUhoTWNBTTZyRVdtXzBRbWk1aUJCZ0lwSGtsdGRkU3lmd092b283WmpRelZnUGxicG8teTVFVWxzRzB0UU9CcEdfZw?oc=5",
-      "date": "2026-04-06 22:38",
-      "summary": "Broadcom signs long-term deal to develop Google’s custom AI chips  Reuters..."
-    },
-    {
-      "title": "Majority of US federal judges are using AI, study finds - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2JjaW9CWjltYUVVWExxbS13cHgyYTJTZVVOSWg0aUxNNzdoclUxQlFqR3hlUGRfQy1sS0l3bnJacWZxZHJrc3h6aGhDRTNOdFRoT21xYmdDRXEzU2JlUThtbGVkMGRRdU1nbGhpZkNoN2lYbW8ycWxpTDhlYzRKaC16YWI4b0ZQcGZKMms3U0VCOUZQb2EwdnVkSjF4Um9KWUFBdF9lQQ?oc=5",
-      "date": "2026-03-30 20:48",
-      "summary": "Majority of US federal judges are using AI, study finds  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "The one piece of data that could actually shed light on your job and AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNU1KczRpUWRzWk9Ccm85OG5IQnk1cUJpQldzUGh0SEtpR0ZmTV9ET2phODB3aEk2SDF0QTdSaGRRemVmUWNHVzBFNEI3akdPY0s1eWQwaHQ0NENXdFVzZDBoTWpUUWNhUTd6SlJOejNEbDFYd3ZRUnBUaWVsVXJIdi1hVUJtZHFNSEhFZC15Y3ltbDJ5ZGtZZnJyd2lPZlM5cHV2Zmk3ekU4bENwUVBGZlQ5RTktS1N0dnNROV9XSjByd9IBxwFBVV95cUxNdjJDQkZEVDVBNHlsb3Vkc1ViOVRscEI5WGtsdUo3WEZKZW9LVVFtMzUxTkozUXZsX2lINURKRDA2MThwMkc2c0dkSnIwQWdWdzhIclJ5ZXE2RTdsei0xWGNJbl8zcDFBNkY4Y0lGSWotVzR4cmV5cVl0WWJtZGRzQktMX3VZU0R4cjVFZkZ4MnpNNjY3WEVqcllVZ3ZjWXJ5M1ZRTEV1ZHZsbWp0UFd3cDEydkh0Wm1nbmhfTU9mRzZRQ2ZscUdn?oc=5",
-      "date": "2026-04-06 16:33",
-      "summary": "The one piece of data that could actually shed light on your job and AI  MIT Technology Review..."
-    },
-    {
-      "title": "AI is changing how small online sellers decide what to make - MIT Technology Review",
+      "title": "AI is changing how small online sellers decide what to make - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNW8ycWZpZl9mZERTQmlMR3pUNmJVQU1qVUZYaWhnS182S0c0UGV2VkdheERsYmRiMnE4UzlXb1oydHFKM2t2YW4tdmNaLU1RR1l5LVdKbjhjQ0wwQzRXaTBkNGUxS1loQ1o1VGZxZ0tQM3E3OHc5UHNobDhOcXNXc0ppOTZzUWtpQVM40gGQAUFVX3lxTFBPQ2MzOThGSzBfQ01aeGJlQjN1dXNRcWJpbWYwdlkwVEI1Q09vSnR5ZkExaFFSUnEybFozb1J4UklZNFc4ZzAwV1hZWHQwb0FRRlMzZXVoRE9oRGt5cWN2ZEZzMzNaTWZyU215ajhMUUUzOVBfdlBfTWE2NnE5QnBoYnhSb2hyR3h5V04tN20tSQ?oc=5",
       "date": "2026-04-06 11:00",
-      "summary": "AI is changing how small online sellers decide what to make  MIT Technology Review..."
+      "summary": "AI is changing how small online sellers decide what to make  technologyreview.com..."
     },
     {
-      "title": "The gig workers who are training humanoid robots at home - MIT Technology Review",
+      "title": "The one piece of data that could actually shed light on your job and AI - technologyreview.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNU1KczRpUWRzWk9Ccm85OG5IQnk1cUJpQldzUGh0SEtpR0ZmTV9ET2phODB3aEk2SDF0QTdSaGRRemVmUWNHVzBFNEI3akdPY0s1eWQwaHQ0NENXdFVzZDBoTWpUUWNhUTd6SlJOejNEbDFYd3ZRUnBUaWVsVXJIdi1hVUJtZHFNSEhFZC15Y3ltbDJ5ZGtZZnJyd2lPZlM5cHV2Zmk3ekU4bENwUVBGZlQ5RTktS1N0dnNROV9XSjByd9IBxwFBVV95cUxNdjJDQkZEVDVBNHlsb3Vkc1ViOVRscEI5WGtsdUo3WEZKZW9LVVFtMzUxTkozUXZsX2lINURKRDA2MThwMkc2c0dkSnIwQWdWdzhIclJ5ZXE2RTdsei0xWGNJbl8zcDFBNkY4Y0lGSWotVzR4cmV5cVl0WWJtZGRzQktMX3VZU0R4cjVFZkZ4MnpNNjY3WEVqcllVZ3ZjWXJ5M1ZRTEV1ZHZsbWp0UFd3cDEydkh0Wm1nbmhfTU9mRzZRQ2ZscUdn?oc=5",
+      "date": "2026-04-06 16:33",
+      "summary": "The one piece of data that could actually shed light on your job and AI  technologyreview.com..."
+    },
+    {
+      "title": "The gig workers who are training humanoid robots at home - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXpBZEJpS1hfTFl4SmtuSmszX0I2STJWOUs4Z1ktLVRENUljLUx4akZoVzJUNW5zUVpmWGpxNGdJZzY4a0sxMXRoaXdjSTE1SjJiNHMzLUhnMkpmSkVvdV91Nm5mQmwzY2JLZXNSOXlfaDZvRDQyc2ZPOHNJZUlxUUVXbDNrVFM1YnFXQXNHN3ZxTi1lUjd4cjR5aFRTbzhSTkxXX1hPTkl1Q0dkRlRQTUVsY1hfQmvSAbwBQVVfeXFMTVZfaUNoV2VUNHlSXzM3X1VBNXc3Mi1UcXhIeUUwWkgtOE44ZG5kWTJEZHhnUGJJSEZQWTBRb203WDhvTTNpTi15NmtjMm8yTm96YTc3bC0zeXJPRkNMZm1vVDZpd3BaOWNMT0xSMVRDalJOMl80b0xsb1hhNTN2ZWxBY1lnUVRJVnBUbzJoY0NfeEVBbGc4dmFDSXhIYUs5dWhFYTRSQ3c3MmI3ajdaWlhJVTZCWmpmMVUycVc?oc=5",
       "date": "2026-04-01 11:00",
-      "summary": "The gig workers who are training humanoid robots at home  MIT Technology Review..."
+      "summary": "The gig workers who are training humanoid robots at home  technologyreview.com..."
     },
     {
-      "title": "The Download: a battery pivot to AI, and rewriting math - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzN6Y1EydFB0QWxINVdrYUNtTFpuekdJVlppZ1NTMGRrQmpfcDVjZWVtUXdleEk1MG5jcXItRHB5WEdrTkNxSERRMEpGbXBQUUQ5Wm8zM2ZjUGhZZl94NWJ1ek4xS3FVdFJHa3BBU3NUZ05rRFJxMFVyRHpEeTVXN3NHeXFWQjFqejMzNkRGWVRtNEIzZGlHU2xXUXNjbGYt0gGmAUFVX3lxTE1BRXhSQ2J3NkJWeVlPbHI0MlROVllDdmRPT0otcElvTkRBVmw0c1BhSzk4ZF91dl9zdEd3Z0VvUUplT0RYa2xyREQ3NlFSd2pfSWdEOEJySDRnMFpRMHB0TklWM2FjelFCaExEb0hISlVjeXFKeThRMTdoU2wxdG1fRVk4bzVDRDdGZXB4eWZQZHl5S3BiQkNPRlVLN0lTc0RJMTJDY3c?oc=5",
-      "date": "2026-03-26 07:00",
-      "summary": "The Download: a battery pivot to AI, and rewriting math  MIT Technology Review..."
-    },
-    {
-      "title": "Four things we’d need to put data centers in space - MIT Technology Review",
+      "title": "Four things we’d need to put data centers in space - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUlRTUJSdlozb0JUdWdjWjlFQ2hVNmFNRklTZXU1OVhsR0Y2aS0xSU05d3lyd2pyT041QTdBeG1VYndOTkx6MEZwaWJWSkkyZTVKSDA4RFBUYWppcm5YdEFTOVNRcExsSGRiQXdtQUZHclA0Q3JDNFhNeXRILWtjS0gtaTBSdEhpU09NV0VBdl92RFJISkhOMHBGQkNWQzRvamtyTtIBqgFBVV95cUxPd21CU0lVOUdrNVZFZFVGSTc2eHdTWlF5WUY5UGRtOUdTU2p3VmVSYWFRM3EyWC1ESDFCSWduR1J4ekwza29tV2xJVE1tbTU0bTd2dGdiMlRNWlpXZmh2a1ZfUTEzSE10R3lZRGRlVktyc3dSUnMzUk5ubm90WlVPMlZjMG1CaFE4MlJqemQyUkRlVTJ3UGNKQ0QzbE92ZEEwckhSUlk3dU9wZw?oc=5",
       "date": "2026-04-03 17:03",
-      "summary": "Four things we’d need to put data centers in space  MIT Technology Review..."
+      "summary": "Four things we’d need to put data centers in space  technologyreview.com..."
+    },
+    {
+      "title": "Inside the stealthy startup that pitched brainless human clones - technologyreview.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjhOa2lfTk81X0JCd0VDY3BiWGN4Z1pza095UEdlakRqY1F1Y1hPckVHT0FObTZhM2RYdl9LbzhQbk80T3RNbFNTdFVwNVdJWWhweGRoeHBEbUNtb1BQZUdjcWtGVF9pQzE5WUNxQnpudW9tWko5M1ZndHpzRW1adDI1QndzeFF5UWxzZXJfa1JMVXRJRFZVUlhaazdCZmpnYmczYWJZLWpUMGxOZnR0NURGNjlwczhtYkJfMktLQTBnX3QwUmpUYzYxbnB6UHRZM3Rn0gHYAUFVX3lxTE4xTTduWDFMcHh3dmNVaWlZY2ctbTIxTUR1cmJBT1ZhSXUtd2RFV21leVZ3M2dEVXZ2T2NNaHpnQXBpa3pxRzVxTXFMY29MZHdDdVpPTmRwbDVyUWNidWkxVUp2Y0V2Nnc5cXhwWW1TOERwZWlibmJwVzcxczJRQmk0MFU5TVhsX0pRN0JESEZaUmF4eVBxY3VJX0g5U1hDQUJiQUl0X0pHeDlxV0Q4aTJ6M2hnOVY5YUYwVXgtcjNEVlplVGlJVzZBNG01OGh4ZGs5SVl5M09PdA?oc=5",
+      "date": "2026-03-30 09:00",
+      "summary": "Inside the stealthy startup that pitched brainless human clones  technologyreview.com..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "How an eye physician who translated classical Greek medicine into Arabic helped form Western medical thought",
+      "link": "https://phys.org/news/2026-04-eye-physician-classical-greek-medicine.html",
+      "date": "2026-04-07 01:30",
+      "summary": "A medieval ophthalmologist who translated Greek works by Galen, Hippocrates, and Plato into Arabic played a pivotal role in shapin..."
+    },
+    {
+      "title": "By age 7, most children quickly spot individuals' social biases toward social groups, study finds",
+      "link": "https://phys.org/news/2026-04-age-children-quickly-individuals-social.html",
+      "date": "2026-04-07 00:20",
+      "summary": "Most elementary school-aged children have a surprising cognitive ability: they can detect—nearly as well as adults—when someone tr..."
+    },
+    {
+      "title": "3D-printed 'spanlastics' could change how cancer drugs reach tumors",
+      "link": "https://phys.org/news/2026-04-3d-spanlastics-cancer-drugs-tumors.html",
+      "date": "2026-04-06 23:40",
+      "summary": "University of Mississippi research offers hope that cancer drug therapies packaged in 3D-printed carriers could deliver medication..."
+    },
     {
       "title": "Study finds 70% of remediated Los Angeles yards still exceed lead limit",
       "link": "https://phys.org/news/2026-04-remediated-los-angeles-yards-exceed.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-04-photocatalystbiocatalyst-semi-artificial-photosynthesis.html",
       "date": "2026-04-06 23:20",
       "summary": "A new review from Osaka Metropolitan University (OMU) summarizes the biocatalysts involved in semi-artificial photosynthesis, an e..."
-    },
-    {
-      "title": "Global warming may be a boon for this aggressive prairie plant",
-      "link": "https://phys.org/news/2026-04-global-boon-aggressive-prairie.html",
-      "date": "2026-04-06 23:00",
-      "summary": "Climate change may reduce yields of crops like corn and soybeans, but it can also give some plants an edge. That's one of the take..."
-    },
-    {
-      "title": "Water-repelling surfaces reveal surprising charging effects",
-      "link": "https://phys.org/news/2026-04-repelling-surfaces-reveal-effects.html",
-      "date": "2026-04-06 22:40",
-      "summary": "Materials that repel water are used in countless applications, including industrial separation processes, routine laboratory pipet..."
-    },
-    {
-      "title": "If life exists in Venus's atmosphere, it could have come from Earth",
-      "link": "https://phys.org/news/2026-04-life-venus-atmosphere-earth.html",
-      "date": "2026-04-06 22:30",
-      "summary": "The theory of panspermia holds that life is spread through the cosmos via asteroids, comets, and other objects. When the building ..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Riots over Star Ferry fare increase kill 1 as 1,800 arrested – SCMP archive",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3349129/riots-over-star-ferry-fare-increase-kill-1-1800-arrested-scmp-archive?utm_source=rss_feed",
+      "date": "2026-04-07 01:00",
+      "summary": "These articles were first published on April 8, 1966.\nQuiet day explodes into violence\nby SCMP reporter\nAfter a quiet but tense da..."
+    },
+    {
+      "title": "ESF among 8 international school operators that failed to meet non-local student targets",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3349156/esf-among-8-international-school-operators-failed-meet-non-local-student-targets?utm_source=rss_feed",
+      "date": "2026-04-07 00:30",
+      "summary": "Eight international school operators in Hong Kong, including the city’s largest group, failed to admit enough non-local students t..."
+    },
+    {
+      "title": "Stricter Chinese scrutiny of offshore vehicles a blow for tech and biotech IPO candidates",
+      "link": "https://www.scmp.com/business/banking-finance/article/3349166/stricter-chinese-scrutiny-offshore-vehicles-blow-tech-and-biotech-ipo-candidates?utm_source=rss_feed",
+      "date": "2026-04-07 00:00",
+      "summary": "US dollar-denominated funds could face more hurdles when investing in Chinese tech and biotech companies as Beijing adopts a stric..."
+    },
+    {
       "title": "Hong Kong hospital uses VR tour to ease children’s fears ahead of operations",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3349175/hong-kong-hospital-uses-vr-tour-ease-childrens-fears-ahead-operations?utm_source=rss_feed",
       "date": "2026-04-06 23:30",
@@ -331,24 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349162/hong-kong-restaurant-revenues-drop-over-easter-break-departures-outnumber-arrivals?utm_source=rss_feed",
       "date": "2026-04-06 11:30",
       "summary": "Hong Kong restaurants suffered a 6 to 7 per cent revenue drop over the Easter weekend, an industry source said, as gains from a 15..."
-    },
-    {
-      "title": "Hong Kong developers test homebuyers with modest price increases after sell-outs",
-      "link": "https://www.scmp.com/business/article/3349172/hong-kong-developers-test-homebuyers-modest-price-increases-after-sell-outs?utm_source=rss_feed",
-      "date": "2026-04-06 10:30",
-      "summary": "Hong Kong developers are raising prices of new homes this week following sold-out launches in recent days, further testing the app..."
-    },
-    {
-      "title": "Hong Kong bus firm scraps service cuts after warning from authorities",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3349168/tuen-mun-bus-operator-cuts-services-amid-soaring-fuel-prices-warns-closure?utm_source=rss_feed",
-      "date": "2026-04-06 10:06",
-      "summary": "A Hong Kong bus operator serving commuters in Tuen Mun has scrapped plans to reduce services amid soaring oil prices after transpo..."
-    },
-    {
-      "title": "Anxious days, sleepless nights for young Iranians in Hong Kong as war rages on",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3349165/anxious-days-sleepless-nights-young-iranians-hong-kong-war-rages?utm_source=rss_feed",
-      "date": "2026-04-06 09:30",
-      "summary": "Life for Hong Kong-based Iranian biomedical researcher Behzad Nasiri Ahmadabadi is filled with anxiety as he spends each day waiti..."
     }
   ],
   "New Scientist": [
