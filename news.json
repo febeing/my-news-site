@@ -71,16 +71,16 @@
       "summary": "Stanford unveils new cancer fighting machine  NBC Bay Area..."
     },
     {
-      "title": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List - Poets&Quants",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNnJlWnZoQUMxS1RsRDJnbzd1TnlaeERiQjNOamhGY2ZTdWR4NHNhLWpqZUdoeG5iQU1xd1ZhNWF0cFBIU3BFaVRsSC1HN2NoY2VPQ1NkT0ZDdm83dXIyWW5XS1pJN0pNdzVfbEVXWHZGNFlYYXREdklIS2ZBekVGNGIteVBPblZacE8xZXV0Z1JKMjNTNVZoU2x5dWJxckZBWHVaODQ4S2ItUDljZ0VSbWRNckxIdjVsaGNrU1lwY01WcGs?oc=5",
-      "date": "2026-04-07 07:50",
-      "summary": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List  Poets&Quants..."
-    },
-    {
       "title": "Stanford Ends Yale’s Reign As The #1 Law School - Original Jurisdiction | David Lat",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM1Jwc2l5d0o1S0FGQi1laE5iMlhoYjVnX3R1dlhqUjRPekxuTm12eDFKU19reG9LU3lrNWk4NzRReU9VZHhCUFRvSEo2Vkh0VlZJdnZQcjFLbFNGVFMxRkhYSHhfbURFdUE5Q0tCY2RUYUIxU2dELWMxMHl0ZWFvYmVfQTJ6RnNRbjdNQ29QalVKR1M3Q3lnUV9tbjVQQ0U?oc=5",
       "date": "2026-04-07 13:31",
       "summary": "Stanford Ends Yale’s Reign As The #1 Law School  Original Jurisdiction | David Lat..."
+    },
+    {
+      "title": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List - Poets&Quants",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNnJlWnZoQUMxS1RsRDJnbzd1TnlaeERiQjNOamhGY2ZTdWR4NHNhLWpqZUdoeG5iQU1xd1ZhNWF0cFBIU3BFaVRsSC1HN2NoY2VPQ1NkT0ZDdm83dXIyWW5XS1pJN0pNdzVfbEVXWHZGNFlYYXREdklIS2ZBekVGNGIteVBPblZacE8xZXV0Z1JKMjNTNVZoU2x5dWJxckZBWHVaODQ4S2ItUDljZ0VSbWRNckxIdjVsaGNrU1lwY01WcGs?oc=5",
+      "date": "2026-04-07 07:50",
+      "summary": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List  Poets&Quants..."
     },
     {
       "title": "Jensen Huang to Sam Altman: The guest list turning a Stanford AI class into a tech summit - Business Insider",
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "A journal named a sleuth in a correction. The sleuth says that was ‘ethical editorial malpractice’",
+      "link": "https://retractionwatch.com/2026/04/08/bmc-nephrology-journal-named-sleuth-correction-error/",
+      "date": "2026-04-08 21:16",
+      "summary": "As the publishing community debates the merits of naming sleuths in retraction or correction notices, one journal did so without t..."
+    },
+    {
       "title": "Publisher changes citation, registration policies following Retraction Watch investigation",
       "link": "https://retractionwatch.com/2026/04/07/wolters-kluwer-international-journal-surgery-changes-citation-registration-policies/",
       "date": "2026-04-07 12:12",
@@ -183,12 +189,6 @@
       "link": "https://retractionwatch.com/2026/04/03/guest-post-should-universities-investigate-questionable-papers-students-faculty-wrote-elsewhere/",
       "date": "2026-04-03 12:00",
       "summary": "I am a research ethicist and often get asked by my university to investigate when potential concerns are raised about our staff or..."
-    },
-    {
-      "title": "Judge tosses lawsuit over controversial Paxil ‘Study 329’",
-      "link": "https://retractionwatch.com/2026/04/02/judge-lawsuit-controversial-adolescents-paxil-study-329/",
-      "date": "2026-04-02 17:18",
-      "summary": "A judge has dismissed a legal challenge aimed at forcing Elsevier to retract a long-criticized study that concluded the antidepres..."
     }
   ],
   "Reuters AI": [
@@ -211,10 +211,10 @@
       "summary": "Grab to lean on scale, AI to navigate rising fuel costs, CEO says  Reuters..."
     },
     {
-      "title": "Anthropic touts AI cybersecurity project with Big Tech partners - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamU2ajFCQVpEZ0tQQzRSaF92ZG9UYzlkZmJDQXV4Ykc0Yy03OGVsX1U1bUNhMGxiZmVoS2xGVFZQcGRmd214a1JNZG9DcUNJUGpTZjBVbWNVNjIybGJvWWlDb3FuUU5vNHctbFF1M0JEZnZHOVAtWTFrSHdGYWZmSk80VzlpZE5icmtub0RtZDltQ3RhU3poVDlhQ0JiNlRJX3Z5WlFyVFkzTmxDaGJqU0hpYWZ2SUk?oc=5",
-      "date": "2026-04-07 19:04",
-      "summary": "Anthropic touts AI cybersecurity project with Big Tech partners  Reuters..."
+      "title": "Intel joins Musk's Terafab AI chip project to power humanoid, data center goals - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRTNIUzRxbUxZN05HekdrUkhvZXRaQVlLV1dtSkVybU1BUGo2VFU1UWtEdmRJQ2w0N2hzRGNRMXlQdkVZMFBTOVpkSW9iV1ZmNjNqOTR1dEZKcU1McjhpaWRNMkJSb1AzamdnQ29LNjY4X3ZMbW9EMlgwUVQ4RGZhbG9QdjYxV01BRlgzOXFQVlpLMHpyQmlZMlMxRjlXa3I0WlZSbGZfVS1Nbmc4ajE1WQ?oc=5",
+      "date": "2026-04-07 16:04",
+      "summary": "Intel joins Musk's Terafab AI chip project to power humanoid, data center goals  Reuters..."
     },
     {
       "title": "AI startups court law students in fight for lawyer market - Reuters",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "High Mountain Asia's melting glaciers may threaten future water security",
-      "link": "https://phys.org/news/2026-04-high-mountain-asia-glaciers-threaten.html",
-      "date": "2026-04-08 20:40",
-      "summary": "Glaciers in High Mountain Asia—a region encompassing the Tibetan Plateau and its surrounding mountain ranges—are shrinking rapidly..."
+      "title": "DNA evidence reveals a Stone Age population collapse in France",
+      "link": "https://phys.org/news/2026-04-dna-evidence-reveals-stone-age.html",
+      "date": "2026-04-08 21:40",
+      "summary": "By analyzing DNA of ancient skeletons at a Neolithic burial site near Paris, an international team of researchers has uncovered ev..."
     },
     {
-      "title": "City animals act in the same brazen ways around the world",
-      "link": "https://phys.org/news/2026-04-city-animals-brazen-ways-world.html",
-      "date": "2026-04-08 20:20",
-      "summary": "The urban monkeys in New Delhi are so bold they'll steal the lunch right off your plate. If you've spent time in New York, you've ..."
+      "title": "Buried bounty: Caribou survival depends on lichen and snow",
+      "link": "https://phys.org/news/2026-04-bounty-caribou-survival-lichen.html",
+      "date": "2026-04-08 21:40",
+      "summary": "A study by researchers at the SUNY College of Environmental Science and Forestry indicates that if lichen continues to decline acr..."
     },
     {
-      "title": "Robust against noise, geometric-phase swap gates bring stability to quantum operations",
-      "link": "https://phys.org/news/2026-04-robust-noise-geometric-phase-swap.html",
-      "date": "2026-04-08 20:20",
-      "summary": "Researchers at ETH Zurich have realized particularly stable quantum logical operations with qubits made of neutral atoms. Since th..."
+      "title": "An enzyme produced by fungus may replace chemicals in the paper industry",
+      "link": "https://phys.org/news/2026-04-enzyme-fungus-chemicals-paper-industry.html",
+      "date": "2026-04-08 21:30",
+      "summary": "A trio of researchers from the University of São Paulo (USP) and São Paulo State University (UNESP) in Brazil has developed a meth..."
     },
     {
-      "title": "Should emojis be used in workplace communications?",
-      "link": "https://phys.org/news/2026-04-emojis-workplace-communications.html",
-      "date": "2026-04-08 20:10",
-      "summary": "When people interact in person, subtle signals like facial expressions, body language, and tone of voice play a crucial role in co..."
+      "title": "Livestock may be rewriting elephants' gut microbiomes in Kenya's protected reserves",
+      "link": "https://phys.org/news/2026-04-livestock-rewriting-elephants-gut-microbiomes.html",
+      "date": "2026-04-08 21:30",
+      "summary": "Sharing habitat with livestock is changing elephants' gut bacteria in ways that could be harmful to their health, according to new..."
     },
     {
-      "title": "Mangrove crab outruns its namesake, expanding its range 200 miles north",
-      "link": "https://phys.org/news/2026-04-mangrove-crab-outruns-namesake-range.html",
-      "date": "2026-04-08 20:10",
-      "summary": "A crab named for mangrove forests is leaving them behind. New research from William & Mary's Batten School & VIMS shows that the A..."
+      "title": "Mussels and mistletoe inspire design for sustainable materials",
+      "link": "https://phys.org/news/2026-04-mussels-mistletoe-sustainable-materials.html",
+      "date": "2026-04-08 21:20",
+      "summary": "Taking inspiration from how mussels and mistletoe plants build natural fibers and adhesives, researchers at McGill University have..."
     }
   ],
   "The Guardian Edu": [
