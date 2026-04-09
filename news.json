@@ -65,16 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List - Poets&Quants",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNnJlWnZoQUMxS1RsRDJnbzd1TnlaeERiQjNOamhGY2ZTdWR4NHNhLWpqZUdoeG5iQU1xd1ZhNWF0cFBIU3BFaVRsSC1HN2NoY2VPQ1NkT0ZDdm83dXIyWW5XS1pJN0pNdzVfbEVXWHZGNFlYYXREdklIS2ZBekVGNGIteVBPblZacE8xZXV0Z1JKMjNTNVZoU2x5dWJxckZBWHVaODQ4S2ItUDljZ0VSbWRNckxIdjVsaGNrU1lwY01WcGs?oc=5",
-      "date": "2026-04-07 07:50",
-      "summary": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List  Poets&Quants..."
-    },
-    {
       "title": "‘Stanford expelled me for exposing the Chinese regime’s brutality’ - The Times",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdW4yZG5lSS1KVDBxdE5nYmdnX3VGTDA4bm9Wa2FSUGFzaWJQbWtFSUdYZ3RRSUk5TmF4MjRadXB3LUFUR050XzhtNTlCeWNERm1QenVNQ0ZXTThjQVZqRGZTbTZNMUU2RVphazFXTWpfRnAta29kZTI5MVZIdzVHaHd3cmd1UjZxcTNMa25Tc2RwY1BNaGhjNDJaOWo?oc=5",
       "date": "2026-04-07 14:49",
       "summary": "‘Stanford expelled me for exposing the Chinese regime’s brutality’  The Times..."
+    },
+    {
+      "title": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List - Poets&Quants",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNnJlWnZoQUMxS1RsRDJnbzd1TnlaeERiQjNOamhGY2ZTdWR4NHNhLWpqZUdoeG5iQU1xd1ZhNWF0cFBIU3BFaVRsSC1HN2NoY2VPQ1NkT0ZDdm83dXIyWW5XS1pJN0pNdzVfbEVXWHZGNFlYYXREdklIS2ZBekVGNGIteVBPblZacE8xZXV0Z1JKMjNTNVZoU2x5dWJxckZBWHVaODQ4S2ItUDljZ0VSbWRNckxIdjVsaGNrU1lwY01WcGs?oc=5",
+      "date": "2026-04-07 07:50",
+      "summary": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List  Poets&Quants..."
     },
     {
       "title": "Stanford unveils new cancer fighting machine - NBC Bay Area",
@@ -199,6 +199,12 @@
       "summary": "Meta unveils first AI model from costly superintelligence team  Reuters..."
     },
     {
+      "title": "Citigroup says AI helps speed account openings and systems upgrades - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR2RublRwOE5xMEg0aHVPbmpyY3N1RGo5Q3ZwbGZEc2pZV0phTWZhOHctRTZ5cnI3WktDb3F4bzc0T3BUbkhFaTdzclEzSVFJT18xSkxXOVZCMGd5X3JjVkgxbDlZcndNYjA5RFptT1F2M1pXR0pHVUM3UGpENkN6SlRmUUpyS0U2NUY0eFRUNkl2RTY3a1U1eW9jeXNjbVpxcWRpdU5aZkVyT3BycnJINlBBVkp1ZTg?oc=5",
+      "date": "2026-04-08 17:24",
+      "summary": "Citigroup says AI helps speed account openings and systems upgrades  Reuters..."
+    },
+    {
       "title": "Grab to lean on scale, AI to navigate rising fuel costs, CEO says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMDZWMXlsZS1iLWpTUl9iT05aR2lQYXp6cWhXVjNFdXFBS0JTSkJ2U1A4TzVNN3Z5VnR2NnJiTUNxMWJiUkVaR0dQOUFXR0p1ampSem43LWxWdmdQNVhORk44RWUtYXViTUlvcVIxWDRJQ2hwTEV3VmhhZGdzenotTWhxZkZYSFJUcmxDNUFmSDZQOEhldkRHSVVIdFFqXzQtZEtsRzNrZE5XYzFyTlE?oc=5",
       "date": "2026-04-08 10:39",
@@ -211,16 +217,10 @@
       "summary": "Anthropic may have closed the revenue gap on OpenAI. Here's what it means for their IPOs  Reuters..."
     },
     {
-      "title": "Intel joins Musk's Terafab AI chip project to power humanoid, data center goals - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRTNIUzRxbUxZN05HekdrUkhvZXRaQVlLV1dtSkVybU1BUGo2VFU1UWtEdmRJQ2w0N2hzRGNRMXlQdkVZMFBTOVpkSW9iV1ZmNjNqOTR1dEZKcU1McjhpaWRNMkJSb1AzamdnQ29LNjY4X3ZMbW9EMlgwUVQ4RGZhbG9QdjYxV01BRlgzOXFQVlpLMHpyQmlZMlMxRjlXa3I0WlZSbGZfVS1Nbmc4ajE1WQ?oc=5",
-      "date": "2026-04-07 16:04",
-      "summary": "Intel joins Musk's Terafab AI chip project to power humanoid, data center goals  Reuters..."
-    },
-    {
-      "title": "Citigroup says AI helps speed account openings and systems upgrades - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR2RublRwOE5xMEg0aHVPbmpyY3N1RGo5Q3ZwbGZEc2pZV0phTWZhOHctRTZ5cnI3WktDb3F4bzc0T3BUbkhFaTdzclEzSVFJT18xSkxXOVZCMGd5X3JjVkgxbDlZcndNYjA5RFptT1F2M1pXR0pHVUM3UGpENkN6SlRmUUpyS0U2NUY0eFRUNkl2RTY3a1U1eW9jeXNjbVpxcWRpdU5aZkVyT3BycnJINlBBVkp1ZTg?oc=5",
-      "date": "2026-04-08 17:24",
-      "summary": "Citigroup says AI helps speed account openings and systems upgrades  Reuters..."
+      "title": "Anthropic touts AI cybersecurity project with Big Tech partners - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamU2ajFCQVpEZ0tQQzRSaF92ZG9UYzlkZmJDQXV4Ykc0Yy03OGVsX1U1bUNhMGxiZmVoS2xGVFZQcGRmd214a1JNZG9DcUNJUGpTZjBVbWNVNjIybGJvWWlDb3FuUU5vNHctbFF1M0JEZnZHOVAtWTFrSHdGYWZmSk80VzlpZE5icmtub0RtZDltQ3RhU3poVDlhQ0JiNlRJX3Z5WlFyVFkzTmxDaGJqU0hpYWZ2SUk?oc=5",
+      "date": "2026-04-07 19:04",
+      "summary": "Anthropic touts AI cybersecurity project with Big Tech partners  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -249,10 +249,10 @@
       "summary": "The Download: a battery pivot to AI, and rewriting math  MIT Technology Review..."
     },
     {
-      "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa01fa2JBeHc5LWI4cF83MnRiZE1iZ0Y5eVFNUHplcTNSSlZubjRqa2FSajAwcUp4Z25pZXVWS2puRWNKV3J4SXhQM05zVnVXWEpkY0VtZXNiU1R5eVF4dnVkYVRVX2JsbFF5LWpQUVZtU1pybG10RURYTm5IYTloN0FqQjl3eHY2MmtlMm1VV3djVGxTaFd6bjM4aWczdFhUd2RqSlR1eS1qU0Q1Wnllckt4Sk1McHpE0gG-AUFVX3lxTFBFRXFuQXZXVDBGRWJYcnQtRGVxUUlYZVdxeW5NUDRyajBkdEYwZFZBQVRXNEdFR1EtYU5leV9lVDI0ejk5NlRDMG0ybFRsVW5iN25WeUpXMzM4bFYwS0VyWVBjRHBLZ1VlM2pDblRZeDh4MkhuYzRUOVVYaHFOOElSWjhlb2NTV3FWSGt4TjhtbXJlM09QVU9TX18wd0VobG1seF9tSDI1Njg1Q1ZXRmJQaXE5R0t6V1hCY2lQeXc?oc=5",
-      "date": "2026-04-08 12:10",
-      "summary": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make  MIT Technology Review..."
+      "title": "Enabling agent-first process redesign - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWNrZlkwQ0VpQm0tRTBQcnI2bWsxYU1aWHJsbXpEUHVaVjdIT0F6R29peThkZllfdUFDZDFRcUJzc1pQTldGYzJkOTloSVFVUDAxU0FDYmpid2dOQkl3QlBPLXVsd3lEMkxlanV5WkZyN3BsY054T2tiRENZTmNLcW5YeG9BazhXekNPYjVSVkhWMGJ60gGaAUFVX3lxTE5Oejh4SmtrMXhFOXZYZ1BSQzR3TVAtMDYwclhxYU4xQ0xqdERzZnhETTVoVUpWa0VVTGY3bkZQdEZlSXZDYjhzZExDNzhsLW5YRzBJWEhpNWhHdmxmbjR1bEpJS3ozb2YwaEdQRkl1WmlHUXpwMzlWTGhlZEw3Q2NpeWxnbjdXckJndHZCaS16b2RlNExIdE9XTUE?oc=5",
+      "date": "2026-04-07 14:00",
+      "summary": "Enabling agent-first process redesign  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Man jailed for 11 months for providing account used to defraud Tai Po fire donors",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3349493/man-jailed-11-months-giving-over-account-used-defraud-tai-po-fire-donors?utm_source=rss_feed",
+      "date": "2026-04-09 06:39",
+      "summary": "A Hong Kong man has been jailed for 11 months and fined HK$4,500 (US$574) for selling his digital wallet so it could be used by a ..."
+    },
+    {
+      "title": "10,000 suspected fake football jerseys seized in HK$64 million customs crackdown",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3349490/10000-suspected-fake-football-jerseys-seized-hk64-million-customs-crackdown?utm_source=rss_feed",
+      "date": "2026-04-09 06:30",
+      "summary": "Hong Kong customs has seized about 10,000 suspected counterfeit football jerseys and other unlicensed goods worth an estimated HK$..."
+    },
+    {
       "title": "Government turns down in situ redevelopment proposal by over 400 Tai Po fire victims",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3349468/government-turns-down-situ-redevelopment-proposal-over-400-tai-po-fire-victims?utm_source=rss_feed",
       "date": "2026-04-09 04:41",
@@ -333,22 +345,10 @@
       "summary": "A technical fault in the interconnection between Hong Kong’s two power providers caused a brief voltage dip on Thursday, resulting..."
     },
     {
-      "title": "Hong Kong to roll out relief measures for transport sector as fuel costs soar",
+      "title": "Hong Kong to roll out subsidies, fee waivers for transport sector as fuel costs soar",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349450/hong-kong-roll-out-relief-measures-transport-sector-fuel-costs-soar?utm_source=rss_feed",
       "date": "2026-04-09 02:57",
-      "summary": "Hong Kong is expected to introduce short-term relief measures for the transport sector that has been heavily affected by oil price..."
-    },
-    {
-      "title": "Antisocial media: Meta, Google liable in landmark case for mental health harm",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3349448/antisocial-media-meta-google-liable-landmark-case-mental-health-harm?utm_source=rss_feed",
-      "date": "2026-04-09 02:02",
-      "summary": "I’ve yet to meet a parent who wished their child had more screen time.\nThough just how far the problem can go was laid bare in the..."
-    },
-    {
-      "title": "Hong Kong’s global future depends on diverse talent",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3349169/hong-kongs-global-future-depends-diverse-talent?utm_source=rss_feed",
-      "date": "2026-04-09 01:30",
-      "summary": "Hong Kong’s identity as a world-leading international hub has never been static. It has been built over time through openness, ada..."
+      "summary": "Hong Kong will roll out short-term subsidies and fee waivers to ease pressures on the transport sector grappling with oil price fl..."
     }
   ],
   "New Scientist": [
