@@ -1,6 +1,24 @@
 {
   "MIT News": [
     {
+      "title": "Learning with audiobooks",
+      "link": "https://news.mit.edu/2026/learning-audiobooks-vocabulary-0409",
+      "date": "2026-04-09 18:00",
+      "summary": "A new study finds that audiobooks help students learn new words — especially when paired with one-on-one instruction...."
+    },
+    {
+      "title": "A philosophy of work",
+      "link": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
+      "date": "2026-04-09 18:00",
+      "summary": "As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is advancing dialogue, teaching, and research into the social and..."
+    },
+    {
+      "title": "Slice and dice",
+      "link": "https://news.mit.edu/2026/slice-and-dice-snipe-bacterial-defense-0409",
+      "date": "2026-04-09 18:00",
+      "summary": "SNIPE, a newly characterized defense system, directly protects bacteria by chopping up invading viral DNA...."
+    },
+    {
       "title": "A new type of electrically driven artificial muscle fiber",
       "link": "https://news.mit.edu/2026/new-type-electrically-driven-artificial-muscle-fiber-0409",
       "date": "2026-04-09 15:00",
@@ -11,24 +29,6 @@
       "link": "https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409",
       "date": "2026-04-09 13:00",
       "summary": "Researchers use control theory to shed unnecessary complexity from AI models during training, cutting compute costs without sacrif..."
-    },
-    {
-      "title": "Physicists zero in on the mass of the fundamental W boson particle",
-      "link": "https://news.mit.edu/2026/physicists-report-mass-fundamental-w-boson-particle-0408",
-      "date": "2026-04-08 16:00",
-      "summary": "The team’s ultra-precise measurement confirms the Standard Model’s predictions...."
-    },
-    {
-      "title": "Researchers develop molecular editing tool to relocate alcohol groups",
-      "link": "https://news.mit.edu/2026/molecular-editing-tool-relocate-alcohol-groups-0407",
-      "date": "2026-04-07 16:35",
-      "summary": "This new technique will allow chemists to efficiently fine-tune the chemical structure of an organic molecule...."
-    },
-    {
-      "title": "Study reveals “two-factor authentication” system that controls microRNA destruction",
-      "link": "https://news.mit.edu/2026/2fa-system-controls-microrna-destruction-0407",
-      "date": "2026-04-07 16:10",
-      "summary": "Researchers uncovered how cells selectively destroy certain microRNAs — key gene regulators — through a mechanism that requires tw..."
     }
   ],
   "Harvard Gazette": [
@@ -65,22 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List - Poets&Quants",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNnJlWnZoQUMxS1RsRDJnbzd1TnlaeERiQjNOamhGY2ZTdWR4NHNhLWpqZUdoeG5iQU1xd1ZhNWF0cFBIU3BFaVRsSC1HN2NoY2VPQ1NkT0ZDdm83dXIyWW5XS1pJN0pNdzVfbEVXWHZGNFlYYXREdklIS2ZBekVGNGIteVBPblZacE8xZXV0Z1JKMjNTNVZoU2x5dWJxckZBWHVaODQ4S2ItUDljZ0VSbWRNckxIdjVsaGNrU1lwY01WcGs?oc=5",
-      "date": "2026-04-07 07:50",
-      "summary": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List  Poets&Quants..."
-    },
-    {
       "title": "Stanford hit with federal complaint over race-exclusionary teacher training program - The College Fix",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWt3M1dIVzJPcl9SVmtiZTBid090djJQekxTRGNPUWY2YThlbC1qOVY0a1dLUUdPYWYySlZHODFpYkxackp5b21VcmJScERpeTlPWk5ZQVJmaHJIR2xxUXZtc1JuQnhNSkxFNXFhN2RBZmdaYnYwODYyRjJfWGZGSnJDbzdSdXNsb0tVeFZUVHlESDVCTjk5alhneW1SRm43eHJMeFVUWFdjZFVudkVKYV9EcEw?oc=5",
       "date": "2026-04-08 04:11",
       "summary": "Stanford hit with federal complaint over race-exclusionary teacher training program  The College Fix..."
     },
     {
-      "title": "Stanford unveils new cancer fighting machine - NBC Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdlJEUTdJbEh0ZERjRjI3ajdYR0Z4UDJ6cVd6SmtNUVp5Qy1XeHRfUXFBRW5tUnJFejNZLXR3Q05iNlFMeXJIWFl5S1FIbFQ4aWRaUGJfOWlXcUdVcE9JcjRHWHNoWC0yQUUxcUh6dUF4ZlFLbjZQNzI0OTdHVXJjWk1TU0dZQVgwanQwUm00TULSAZgBQVVfeXFMTTJWOFk0cFdMQndkclM3OEs5WFRkTDhubHdua0Faajkwbk5Xc2VQN2ljMDRfaEh1TVlmYXFaYnJrVEZLUzQ3ajY3dTU1TkxQdXYzTHRHT1NKLVFsd2x6TmNpeE5UM0ktVE1McEFyeTF1cC1OUHQwTVJ4M0xSN3ZneXh5T21XUmExWWp1cXphZmJTSGt0WFllUjA?oc=5",
-      "date": "2026-04-08 01:19",
-      "summary": "Stanford unveils new cancer fighting machine  NBC Bay Area..."
+      "title": "‘Stanford expelled me for exposing the Chinese regime’s brutality’ - The Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdW4yZG5lSS1KVDBxdE5nYmdnX3VGTDA4bm9Wa2FSUGFzaWJQbWtFSUdYZ3RRSUk5TmF4MjRadXB3LUFUR050XzhtNTlCeWNERm1QenVNQ0ZXTThjQVZqRGZTbTZNMUU2RVphazFXTWpfRnAta29kZTI5MVZIdzVHaHd3cmd1UjZxcTNMa25Tc2RwY1BNaGhjNDJaOWo?oc=5",
+      "date": "2026-04-07 14:49",
+      "summary": "‘Stanford expelled me for exposing the Chinese regime’s brutality’  The Times..."
     },
     {
       "title": "Stanford Law and GSB claim top spots in U.S. News rankings - The Stanford Daily",
@@ -89,10 +83,16 @@
       "summary": "Stanford Law and GSB claim top spots in U.S. News rankings  The Stanford Daily..."
     },
     {
-      "title": "Stanford Calls Bluff on Students Using Jain Faith To Dodge Meal Plan - The New York Sun",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZW9pT3UxY2VVMmdZQUhUa2R5WmxNNDNHY3QzRlROSDhaNEhrcDZVY3ptV3piRXh1THZEMU81YzNJUGNldmtTYkVaOENyVEZYWXdOU2dVTTZJal9RT25WS1hxeFdvQ1Zib3B2Z1Z0RVVILXJpX3dZZ3c1c1VwMDhBZHgzNXdKMDRYRHZMMkVobUN3NjBfcXBLSTNwNnpibmM?oc=5",
-      "date": "2026-04-09 10:13",
-      "summary": "Stanford Calls Bluff on Students Using Jain Faith To Dodge Meal Plan  The New York Sun..."
+      "title": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List - Poets&Quants",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNnJlWnZoQUMxS1RsRDJnbzd1TnlaeERiQjNOamhGY2ZTdWR4NHNhLWpqZUdoeG5iQU1xd1ZhNWF0cFBIU3BFaVRsSC1HN2NoY2VPQ1NkT0ZDdm83dXIyWW5XS1pJN0pNdzVfbEVXWHZGNFlYYXREdklIS2ZBekVGNGIteVBPblZacE8xZXV0Z1JKMjNTNVZoU2x5dWJxckZBWHVaODQ4S2ItUDljZ0VSbWRNckxIdjVsaGNrU1lwY01WcGs?oc=5",
+      "date": "2026-04-07 07:50",
+      "summary": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List  Poets&Quants..."
+    },
+    {
+      "title": "A New Era For Stanford Figure Skating - U.S. Figure Skating",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWk5wZHp5TGtnN08xMUNuN2NzdUhpZm9ZRXZvcGNQeEdwUjdGeGVGRVZuWF9Ic0NjYXhiTUNRZS0yR3oxYjFoeWhGQm5mZjJleE1hRzV2SUtvUzNLUVFnQURIQVBzYmxtNGFUb3dRUFRvdDNORlZHU0NoSE5DWHZDRXB3LUZxYXM4eExpdzFxNVFoYjRqNFZ5Rw?oc=5",
+      "date": "2026-04-08 14:32",
+      "summary": "A New Era For Stanford Figure Skating  U.S. Figure Skating..."
     }
   ],
   "Nature Careers": [
@@ -109,6 +109,12 @@
       "summary": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-01109-3High-speed cameras can observe the strange behaviour of a c..."
     },
     {
+      "title": "Your nose contains multitudes — of long-lived immune cells",
+      "link": "https://www.nature.com/articles/d41586-026-01111-9",
+      "date": "2026-04-09 00:00",
+      "summary": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-01111-9Nasal tissue harbours T cells that ‘remember’ a pathogen lo..."
+    },
+    {
       "title": "One woman, three autoimmune diseases: CAR-T therapy vanquishes ultra-rare disease trio",
       "link": "https://www.nature.com/articles/d41586-026-01108-4",
       "date": "2026-04-09 00:00",
@@ -119,15 +125,27 @@
       "link": "https://www.nature.com/articles/d41586-026-01120-8",
       "date": "2026-04-09 00:00",
       "summary": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-01120-8Small changes in the non-coding part of the genome have a k..."
-    },
-    {
-      "title": "How to thrive in science when you move abroad",
-      "link": "https://www.nature.com/articles/d41586-026-00550-8",
-      "date": "2026-04-09 00:00",
-      "summary": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-00550-8Sonali Majumdar offers a toolkit to support international s..."
     }
   ],
   "Science News": [
+    {
+      "title": "Roaming gangs of tumor cells help spread cancer. Can drugs break them up?",
+      "link": "https://www.science.org/content/article/roaming-gangs-tumor-cells-help-spread-cancer-can-drugs-break-them",
+      "date": "2026-04-09 02:00",
+      "summary": "To impede metastasis, researchers seek to develop novel treatments that disrupt tumor cell clusters..."
+    },
+    {
+      "title": "What plunged these chimps into civil war? A new study traces the breakdown",
+      "link": "https://www.science.org/content/article/what-plunged-these-chimps-civil-war-new-study-traces-breakdown",
+      "date": "2026-04-09 02:00",
+      "summary": "Decades of observations tracked the fraying of once-friendly relations among Ugandan chimpanzees..."
+    },
+    {
+      "title": "Did quantum sensors help find a U.S. pilot shot down in Iran? Experts doubt it",
+      "link": "https://www.science.org/content/article/did-quantum-sensors-help-find-u-s-pilot-shot-down-iran-experts-doubt-it",
+      "date": "2026-04-09 01:20",
+      "summary": "The heart’s faint magnetic signals can’t be detected at large distances, researchers say..."
+    },
     {
       "title": "Pesticides may wreak havoc on the gut microbiome",
       "link": "https://www.science.org/content/article/pesticides-may-wreak-havoc-gut-microbiome",
@@ -139,27 +157,15 @@
       "link": "https://www.science.org/content/article/department-energy-s-ai-push-squeezes-funding-research-grants",
       "date": "2026-04-07 04:30",
       "summary": "Tapping already strained budgets, Genesis Mission gives scientists just weeks to apply for first awards..."
-    },
-    {
-      "title": "Artemis II captures an ‘Earthset’ and stunning views of the Moon",
-      "link": "https://www.science.org/content/article/artemis-ii-captures-earthset-and-stunning-views-moon",
-      "date": "2026-04-07 03:20",
-      "summary": "First crewed Moon mission since 1972 caught extraordinary glimpses of lunar terrain..."
-    },
-    {
-      "title": "The hidden math behind satisfying can-crushing videos",
-      "link": "https://www.science.org/content/article/hidden-math-behind-satisfying-can-crushing-videos",
-      "date": "2026-04-07 02:50",
-      "summary": "Fluid-filled soda cans confirm a long-untested theory of pattern formation..."
-    },
-    {
-      "title": "As Japan warms, cherry blossom displays are fading",
-      "link": "https://www.science.org/content/article/japan-warms-cherry-blossom-displays-are-fading",
-      "date": "2026-04-07 01:10",
-      "summary": "Some trees in southern Japan are already failing to reach peak bloom—a trend researchers predict will move north in the coming dec..."
     }
   ],
   "Retraction Watch": [
+    {
+      "title": "Could a national database of scientific misconduct rulings stop repeat offenders?",
+      "link": "https://retractionwatch.com/2026/04/09/could-a-national-database-of-scientific-misconduct-rulings-stop-repeat-offenders/",
+      "date": "2026-04-09 18:00",
+      "summary": "In an editorial published today in Science, Michael Lauer and Mark Barnes call for greater transparency in investigations of scien..."
+    },
     {
       "title": "A journal named a sleuth in a correction. The sleuth says that was ‘ethical editorial malpractice’",
       "link": "https://retractionwatch.com/2026/04/08/bmc-nephrology-journal-named-sleuth-correction-error/",
@@ -183,12 +189,6 @@
       "link": "https://retractionwatch.com/2026/04/04/weekend-reads-half-social-science-doesnt-replicate-scientific-ghosts-multisensory-learning-paper-retracted/",
       "date": "2026-04-04 10:00",
       "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
-    },
-    {
-      "title": "Guest post: Should universities investigate questionable papers students and faculty wrote elsewhere?",
-      "link": "https://retractionwatch.com/2026/04/03/guest-post-should-universities-investigate-questionable-papers-students-faculty-wrote-elsewhere/",
-      "date": "2026-04-03 12:00",
-      "summary": "I am a research ethicist and often get asked by my university to investigate when potential concerns are raised about our staff or..."
     }
   ],
   "Reuters AI": [
@@ -205,6 +205,12 @@
       "summary": "Citigroup says AI helps speed account openings and systems upgrades  Reuters..."
     },
     {
+      "title": "Meta, CoreWeave deepen AI cloud partnership with fresh $21 billion deal - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTllDZkRPeFVaT0V2S2I2bVVyVURKaXFKWExaY2pTNUJhTWUtYzlaZ1cwYzdFdUtDaFJQOFJVcnA2d1kycW1zd2RyX1Y2amNFOTdsS3ZWRW5CQXB1OHl3dHVlMHhrcFBqdzNndVpDSGZLYlh0Q19QQUhVelN0cF9IYURHbEVNdGRWOVoyc0Q2cHV3QWZTWEd2bFJtWQ?oc=5",
+      "date": "2026-04-09 15:51",
+      "summary": "Meta, CoreWeave deepen AI cloud partnership with fresh $21 billion deal  Reuters..."
+    },
+    {
       "title": "Pentagon's ouster of Anthropic opens doors for small AI rivals - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ29kWnhpS2pMRlJ0UHNrcnFZZ1JLbzU0M3VxcU82NlhGZHRoSjBkVHM2UUFwR1MweWwwbmJOcC1hcm1Vd2M2ZWFHTmJ3eHdkX1JtZkRiRkoyM3JXMlVhR2RiWDJmR3F5dHRJNmJld1EzbE1jSGR5dVEtdkxVeVdLVUNuc1JZZEFHTDZ5eVZ6OUNKUUdtbGhEZVRNNGhBa1pkTFJqdVFvaFRUWlU?oc=5",
       "date": "2026-04-09 10:17",
@@ -215,12 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZUxHWVV0cGRVMmtoSHktNzNUNHpqTFVKLWhvYV9qRVY1RmQtRzR3MUFIRXp1b3k0ME9mLVVVNUZ1SjlYdkd1d2JTdTJQNGV1S3VIS0RES1AtWmxRTGhUa2ZoaDhfaGV4VmotSjcxOGU4eUFoekcxQTAxZE8xbFJHaXRJZFp2SWVodVBRMEc1dlE0Nmd2cVg1cjU1RjdESS13eWtLV2hVOElqWVhfQ2hqQUlUSEI0UVQ5TFlSR3BBbkxTQVl6eEt4WnBoUQ?oc=5",
       "date": "2026-04-09 16:27",
       "summary": "Amazon CEO reveals AI revenue, dismisses spending doubts in annual letter  Reuters..."
-    },
-    {
-      "title": "Intel and Google to double down on AI CPUs with expanded partnership - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUE4SWlVczQzaGdDemRPaXdnSkVtaEx5bE8tZkhUTWgxU0U1WDZDdlZYczVGbmRpVHdSRWxPMVVoaUhXb3NoZjlUN0ptSkNpWWNSNkpNZEtLQTFKSDY1SVdWSFNpdjQxZUxDc1V5bnRrUzg5RVlZQURYZDVjWFBwM0V0WWNTb2lONmg3TkJmRjNwd3lKdS05LUlKbDdNRVN6UmNYbnl3?oc=5",
-      "date": "2026-04-09 13:03",
-      "summary": "Intel and Google to double down on AI CPUs with expanded partnership  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -249,42 +249,42 @@
       "summary": "AI is changing how small online sellers decide what to make  MIT Technology Review..."
     },
     {
-      "title": "MIT Technology Review’s EmTech AI 2026: Leading in the Era of AI Integration - TNGlobal",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnVIWWYwNGhsUUI5STBCTUNiLV9xSS1peHdFMkZicGxlRzZxaXpTbWphMUFsdkNBOTZDNXIwZFFHSVJwOUxZWEtQb3hRdnZBQzAyM21xZ3FoM3RKdjhPYUpndGZGX1R0QVJsX0E5M0d3RkFxYk0tTS11dFZCZkpFVWVwaUYwN3pESlZVamM1REswS0dwQzVkYWYxQVpyakhvcTN5cE9KLUhoUEE?oc=5",
-      "date": "2026-04-09 15:54",
-      "summary": "MIT Technology Review’s EmTech AI 2026: Leading in the Era of AI Integration  TNGlobal..."
+      "title": "The Download: a battery pivot to AI, and rewriting math - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzN6Y1EydFB0QWxINVdrYUNtTFpuekdJVlppZ1NTMGRrQmpfcDVjZWVtUXdleEk1MG5jcXItRHB5WEdrTkNxSERRMEpGbXBQUUQ5Wm8zM2ZjUGhZZl94NWJ1ek4xS3FVdFJHa3BBU3NUZ05rRFJxMFVyRHpEeTVXN3NHeXFWQjFqejMzNkRGWVRtNEIzZGlHU2xXUXNjbGYt0gGmAUFVX3lxTE1BRXhSQ2J3NkJWeVlPbHI0MlROVllDdmRPT0otcElvTkRBVmw0c1BhSzk4ZF91dl9zdEd3Z0VvUUplT0RYa2xyREQ3NlFSd2pfSWdEOEJySDRnMFpRMHB0TklWM2FjelFCaExEb0hISlVjeXFKeThRMTdoU2wxdG1fRVk4bzVDRDdGZXB4eWZQZHl5S3BiQkNPRlVLN0lTc0RJMTJDY3c?oc=5",
+      "date": "2026-03-26 07:00",
+      "summary": "The Download: a battery pivot to AI, and rewriting math  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "How surface chemistry impacts the performance of malaria nets",
-      "link": "https://phys.org/news/2026-04-surface-chemistry-impacts-malaria-nets.html",
-      "date": "2026-04-09 17:00",
-      "summary": "Insecticide-treated bed nets remain one of the most effective tools in malaria prevention, acting both as a physical barrier and a..."
+      "title": "Study of Tommy Robinson's social media reveals how online influencers mobilize supporters without direct calls to action",
+      "link": "https://phys.org/news/2026-04-tommy-robinson-social-media-reveals.html",
+      "date": "2026-04-09 19:00",
+      "summary": "New research from the University of Bath reveals that online influencers can mobilize followers and legitimize harmful behaviors w..."
     },
     {
-      "title": "Artemis II crew will endure 3,000°C on re‑entry. A hypersonics expert explains how they will survive",
-      "link": "https://phys.org/news/2026-04-artemis-ii-crew-3000c-reentry.html",
-      "date": "2026-04-09 17:00",
-      "summary": "After successfully completing their mission to the moon, the Artemis II crew are about to return to Earth...."
+      "title": "A smarter way to build vaccines: Scientists harness AI to target emerging alphaviruses",
+      "link": "https://phys.org/news/2026-04-smarter-vaccines-scientists-harness-ai.html",
+      "date": "2026-04-09 19:00",
+      "summary": "A team of scientists at The University of Texas Medical Branch (UTMB), led by Nikos Vasilakis, Ph.D., and Peter McCaffrey, MD, has..."
     },
     {
-      "title": "No more giants, no more heavy handaxes: Why early humans downsized their stone tools",
-      "link": "https://phys.org/news/2026-04-giants-heavy-handaxes-early-humans.html",
-      "date": "2026-04-09 16:40",
-      "summary": "For more than 1 million years, early humans in the Levant region of the eastern Mediterranean used a range of heavy tools, such as..."
+      "title": "Study rethinks the dropout-crime connection",
+      "link": "https://phys.org/news/2026-04-rethinks-dropout-crime.html",
+      "date": "2026-04-09 18:40",
+      "summary": "Dropping out of high school has been linked to higher rates of delinquency and lower socioeconomic status, but thinking of high sc..."
     },
     {
-      "title": "A fixation with 'toxic leaders' ignores wider truth behind corporate scandals",
-      "link": "https://phys.org/news/2026-04-fixation-toxic-leaders-wider-truth.html",
-      "date": "2026-04-09 16:40",
-      "summary": "A new study, published in the British Journal of Management, examines the high-profile cases of Theranos, Purdue Pharma, Enron, an..."
+      "title": "Decoy molecules trick soil bacteria into attacking persistent pollutants without genetic engineering",
+      "link": "https://phys.org/news/2026-04-decoy-molecules-soil-bacteria-persistent.html",
+      "date": "2026-04-09 18:40",
+      "summary": "In a study published in the Journal of Materials Chemistry A, Nagoya University researchers demonstrated that native soil bacteria..."
     },
     {
-      "title": "Ant larvae control parental care by using odor signals",
-      "link": "https://phys.org/news/2026-04-ant-larvae-parental-odor.html",
-      "date": "2026-04-09 16:40",
-      "summary": "In the clonal raider ant (Ooceraea biroi), workers in a colony alternate between caring for larvae and laying eggs in a coordinate..."
+      "title": "This giant virus just gave up its atomic blueprint",
+      "link": "https://phys.org/news/2026-04-giant-virus-gave-atomic-blueprint.html",
+      "date": "2026-04-09 18:20",
+      "summary": "A research group has successfully determined, for the first time in the world, the capsid (outer shell) structure of Melbourneviru..."
     }
   ],
   "The Guardian Edu": [
@@ -353,6 +353,12 @@
   ],
   "New Scientist": [
     {
+      "title": "CAR T-cell therapy takes woman from bedridden to 'perfectly fine'",
+      "link": "https://www.newscientist.com/article/2522283-car-t-cell-therapy-takes-woman-from-bedridden-to-perfectly-fine/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-09 16:00",
+      "summary": "A woman with three different autoimmune conditions had all of them treated simultaneously by genetically modifying her immune cell..."
+    },
+    {
       "title": "Mysterious 'compound X' clears toxic Parkinson’s proteins from brain",
       "link": "https://www.newscientist.com/article/2522314-mysterious-compound-x-clears-toxic-parkinsons-proteins-from-brain/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-09 13:00",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2522100-quantum-entanglement-can-be-measured-in-solids-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-08 17:00",
       "summary": "A method that relies on hitting materials with neutrons can measure how much quantum entanglement hides within them, which could e..."
-    },
-    {
-      "title": "Why early humans radically changed their toolkits 200,000 years ago",
-      "link": "https://www.newscientist.com/article/2522425-why-early-humans-radically-changed-their-toolkits-200000-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-08 17:00",
-      "summary": "A decline in ancient megafauna in the Middle East coincided with a shift towards smaller, lighter toolkits in the archaeological r..."
     }
   ]
 }
