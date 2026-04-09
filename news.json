@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "A new type of electrically driven artificial muscle fiber",
+      "link": "https://news.mit.edu/2026/new-type-electrically-driven-artificial-muscle-fiber-0409",
+      "date": "2026-04-09 15:00",
+      "summary": "Electrofluidic fibers mimic how natural muscle fibers bundle, and could enable compact, silent robotic and prosthetic systems...."
+    },
+    {
       "title": "New technique makes AI models leaner and faster while they’re still learning",
       "link": "https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409",
       "date": "2026-04-09 13:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/2fa-system-controls-microrna-destruction-0407",
       "date": "2026-04-07 16:10",
       "summary": "Researchers uncovered how cells selectively destroy certain microRNAs — key gene regulators — through a mechanism that requires tw..."
-    },
-    {
-      "title": "How bacteria suppress immune defenses in stubborn wound infections",
-      "link": "https://news.mit.edu/2026/how-bacteria-suppress-immune-defenses-stubborn-wound-infections-0407",
-      "date": "2026-04-07 15:40",
-      "summary": "Study finds a common bacterium can suppress the body’s early warning system in wounds, causing infections to persist and create an..."
     }
   ],
   "Harvard Gazette": [
@@ -65,16 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List - Poets&Quants",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNnJlWnZoQUMxS1RsRDJnbzd1TnlaeERiQjNOamhGY2ZTdWR4NHNhLWpqZUdoeG5iQU1xd1ZhNWF0cFBIU3BFaVRsSC1HN2NoY2VPQ1NkT0ZDdm83dXIyWW5XS1pJN0pNdzVfbEVXWHZGNFlYYXREdklIS2ZBekVGNGIteVBPblZacE8xZXV0Z1JKMjNTNVZoU2x5dWJxckZBWHVaODQ4S2ItUDljZ0VSbWRNckxIdjVsaGNrU1lwY01WcGs?oc=5",
-      "date": "2026-04-07 07:50",
-      "summary": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List  Poets&Quants..."
-    },
-    {
       "title": "Stanford unveils new cancer fighting machine - NBC Bay Area",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdlJEUTdJbEh0ZERjRjI3ajdYR0Z4UDJ6cVd6SmtNUVp5Qy1XeHRfUXFBRW5tUnJFejNZLXR3Q05iNlFMeXJIWFl5S1FIbFQ4aWRaUGJfOWlXcUdVcE9JcjRHWHNoWC0yQUUxcUh6dUF4ZlFLbjZQNzI0OTdHVXJjWk1TU0dZQVgwanQwUm00TULSAZgBQVVfeXFMTTJWOFk0cFdMQndkclM3OEs5WFRkTDhubHdua0Faajkwbk5Xc2VQN2ljMDRfaEh1TVlmYXFaYnJrVEZLUzQ3ajY3dTU1TkxQdXYzTHRHT1NKLVFsd2x6TmNpeE5UM0ktVE1McEFyeTF1cC1OUHQwTVJ4M0xSN3ZneXh5T21XUmExWWp1cXphZmJTSGt0WFllUjA?oc=5",
       "date": "2026-04-08 01:19",
       "summary": "Stanford unveils new cancer fighting machine  NBC Bay Area..."
+    },
+    {
+      "title": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List - Poets&Quants",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNnJlWnZoQUMxS1RsRDJnbzd1TnlaeERiQjNOamhGY2ZTdWR4NHNhLWpqZUdoeG5iQU1xd1ZhNWF0cFBIU3BFaVRsSC1HN2NoY2VPQ1NkT0ZDdm83dXIyWW5XS1pJN0pNdzVfbEVXWHZGNFlYYXREdklIS2ZBekVGNGIteVBPblZacE8xZXV0Z1JKMjNTNVZoU2x5dWJxckZBWHVaODQ4S2ItUDljZ0VSbWRNckxIdjVsaGNrU1lwY01WcGs?oc=5",
+      "date": "2026-04-07 07:50",
+      "summary": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List  Poets&Quants..."
     },
     {
       "title": "A New Era For Stanford Figure Skating - U.S. Figure Skating",
@@ -103,6 +103,12 @@
       "summary": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-01109-3High-speed cameras can observe the strange behaviour of a c..."
     },
     {
+      "title": "Female mice grow testes after this single DNA tweak",
+      "link": "https://www.nature.com/articles/d41586-026-01120-8",
+      "date": "2026-04-09 00:00",
+      "summary": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-01120-8Small changes in the non-coding part of the genome have a k..."
+    },
+    {
       "title": "How to thrive in science when you move abroad",
       "link": "https://www.nature.com/articles/d41586-026-00550-8",
       "date": "2026-04-09 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10488-6",
       "date": "2026-04-08 00:00",
       "summary": "Nature, Published online: 08 April 2026; doi:10.1038/s41586-026-10488-6Author Correction: Oncogene ablation-resistant pancreatic c..."
-    },
-    {
-      "title": "Briefing Chat: The tongue trick that helps sunbirds suck",
-      "link": "https://www.nature.com/articles/d41586-026-01132-4",
-      "date": "2026-04-08 00:00",
-      "summary": "Nature, Published online: 08 April 2026; doi:10.1038/d41586-026-01132-4Nature staff discuss some of the week’s top science news...."
     }
   ],
   "Science News": [
@@ -193,16 +193,16 @@
   ],
   "Reuters AI": [
     {
+      "title": "Meta unveils first AI model from costly superintelligence team - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMGlQRHNjbkNMampHRlJWOVkxUTlLdmlUMWZoZTJOa05TZFgtNWppRVpBYk5XT0xVdVRBbHFqSlE2NDRQdHBEcGVaZ2p2dnFrZFhjZThBYjV4SlZFekNkdERsWHhhck1HU0NHUjdRNTY3OTg3TExWNXd2cVd4aldaV2tOVWVGZW5BYzRJYTNkWHJlcklfc3FkTmpOOWl3S3MzZTlOSktEVkFUXzZiU21SUUdXZ3J1UDNZaHIxR3RHQnNzR2VfYTZxRVVaQQ?oc=5",
+      "date": "2026-04-08 19:30",
+      "summary": "Meta unveils first AI model from costly superintelligence team  Reuters..."
+    },
+    {
       "title": "Citigroup says AI helps speed account openings and systems upgrades - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR2RublRwOE5xMEg0aHVPbmpyY3N1RGo5Q3ZwbGZEc2pZV0phTWZhOHctRTZ5cnI3WktDb3F4bzc0T3BUbkhFaTdzclEzSVFJT18xSkxXOVZCMGd5X3JjVkgxbDlZcndNYjA5RFptT1F2M1pXR0pHVUM3UGpENkN6SlRmUUpyS0U2NUY0eFRUNkl2RTY3a1U1eW9jeXNjbVpxcWRpdU5aZkVyT3BycnJINlBBVkp1ZTg?oc=5",
       "date": "2026-04-08 17:24",
       "summary": "Citigroup says AI helps speed account openings and systems upgrades  Reuters..."
-    },
-    {
-      "title": "Meta unveils first AI model from costly superintelligence team By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdkVFcWhULW9EN0x3TVRLaF91Ry1lNDhCb3VWMTNDYXUyXzdGek5HaDh2bmh2bkRZR2l1VE5ucE15ZzhjNjdxNHY1aFdacHgyaEdYcGJJYlhfZ25vMHg3RDJUMjF2ZGFkMWdrTGdpT0hMbnM4STVjTllGMmU4ZUpCTjBiOVVsbmNHLVd1Zno5MVcwcndDYk5UR1F2cTMyMGVDenpSXzFyVWZ2dkREVXBibFRR?oc=5",
-      "date": "2026-04-08 19:37",
-      "summary": "Meta unveils first AI model from costly superintelligence team By Reuters  Investing.com..."
     },
     {
       "title": "Pentagon's ouster of Anthropic opens doors for small AI rivals - Reuters",
@@ -217,10 +217,10 @@
       "summary": "Amazon cloud unit's annualized AI revenue exceeds $15 billion, CEO Jassy says  Reuters..."
     },
     {
-      "title": "Meta, CoreWeave deepen AI cloud partnership with fresh $21 billion deal - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTllDZkRPeFVaT0V2S2I2bVVyVURKaXFKWExaY2pTNUJhTWUtYzlaZ1cwYzdFdUtDaFJQOFJVcnA2d1kycW1zd2RyX1Y2amNFOTdsS3ZWRW5CQXB1OHl3dHVlMHhrcFBqdzNndVpDSGZLYlh0Q19QQUhVelN0cF9IYURHbEVNdGRWOVoyc0Q2cHV3QWZTWEd2bFJtWQ?oc=5",
-      "date": "2026-04-09 12:28",
-      "summary": "Meta, CoreWeave deepen AI cloud partnership with fresh $21 billion deal  Reuters..."
+      "title": "Intel and Google to double down on AI CPUs with expanded partnership - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUE4SWlVczQzaGdDemRPaXdnSkVtaEx5bE8tZkhUTWgxU0U1WDZDdlZYczVGbmRpVHdSRWxPMVVoaUhXb3NoZjlUN0ptSkNpWWNSNkpNZEtLQTFKSDY1SVdWSFNpdjQxZUxDc1V5bnRrUzg5RVlZQURYZDVjWFBwM0V0WWNTb2lONmg3TkJmRjNwd3lKdS05LUlKbDdNRVN6UmNYbnl3?oc=5",
+      "date": "2026-04-09 13:03",
+      "summary": "Intel and Google to double down on AI CPUs with expanded partnership  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -231,16 +231,16 @@
       "summary": "The Download: AstroTurf wars and exponential AI growth  MIT Technology Review..."
     },
     {
-      "title": "The one piece of data that could actually shed light on your job and AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNU1KczRpUWRzWk9Ccm85OG5IQnk1cUJpQldzUGh0SEtpR0ZmTV9ET2phODB3aEk2SDF0QTdSaGRRemVmUWNHVzBFNEI3akdPY0s1eWQwaHQ0NENXdFVzZDBoTWpUUWNhUTd6SlJOejNEbDFYd3ZRUnBUaWVsVXJIdi1hVUJtZHFNSEhFZC15Y3ltbDJ5ZGtZZnJyd2lPZlM5cHV2Zmk3ekU4bENwUVBGZlQ5RTktS1N0dnNROV9XSjByd9IBxwFBVV95cUxNdjJDQkZEVDVBNHlsb3Vkc1ViOVRscEI5WGtsdUo3WEZKZW9LVVFtMzUxTkozUXZsX2lINURKRDA2MThwMkc2c0dkSnIwQWdWdzhIclJ5ZXE2RTdsei0xWGNJbl8zcDFBNkY4Y0lGSWotVzR4cmV5cVl0WWJtZGRzQktMX3VZU0R4cjVFZkZ4MnpNNjY3WEVqcllVZ3ZjWXJ5M1ZRTEV1ZHZsbWp0UFd3cDEydkh0Wm1nbmhfTU9mRzZRQ2ZscUdn?oc=5",
-      "date": "2026-04-06 16:33",
-      "summary": "The one piece of data that could actually shed light on your job and AI  MIT Technology Review..."
-    },
-    {
       "title": "Desalination technology, by the numbers - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS09ZQlp6N3dnaGR1dWtCVzl3UnRrbFVNRmpKRzR6dnpiYmJpVEVZRTYyMDktbWdWUTRZVlJ0cmlJSGRPeXJxd1VydEVtd1ZKSl9HOUZ1YV9VcUFSS3h4aGV0MW1Na0R1bUxQZjYzZjZXQlRkcjBRc1RhRGpNWUg3eXBvdHFMcS1KLUs2YtIBkgFBVV95cUxQMUd5Y3BHVTRIYzhHT2dxT1I4RDRuME9pMXFOd0ZKZ1dBeEtnMXpjWkNqdVpaMWpVUEJiUUFCMV81SmNXcFRYYXBoek5tRkhGSEhwbDVHUGwwdXhUNWdaU0V6RnNzWV9zVUZZcXMybU1XMWNWcE9PYW5fZVhwcGMyWWNkckJwd0JFT1hvd1JtQWcxdw?oc=5",
       "date": "2026-04-09 10:00",
       "summary": "Desalination technology, by the numbers  MIT Technology Review..."
+    },
+    {
+      "title": "The one piece of data that could actually shed light on your job and AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNU1KczRpUWRzWk9Ccm85OG5IQnk1cUJpQldzUGh0SEtpR0ZmTV9ET2phODB3aEk2SDF0QTdSaGRRemVmUWNHVzBFNEI3akdPY0s1eWQwaHQ0NENXdFVzZDBoTWpUUWNhUTd6SlJOejNEbDFYd3ZRUnBUaWVsVXJIdi1hVUJtZHFNSEhFZC15Y3ltbDJ5ZGtZZnJyd2lPZlM5cHV2Zmk3ekU4bENwUVBGZlQ5RTktS1N0dnNROV9XSjByd9IBxwFBVV95cUxNdjJDQkZEVDVBNHlsb3Vkc1ViOVRscEI5WGtsdUo3WEZKZW9LVVFtMzUxTkozUXZsX2lINURKRDA2MThwMkc2c0dkSnIwQWdWdzhIclJ5ZXE2RTdsei0xWGNJbl8zcDFBNkY4Y0lGSWotVzR4cmV5cVl0WWJtZGRzQktMX3VZU0R4cjVFZkZ4MnpNNjY3WEVqcllVZ3ZjWXJ5M1ZRTEV1ZHZsbWp0UFd3cDEydkh0Wm1nbmhfTU9mRzZRQ2ZscUdn?oc=5",
+      "date": "2026-04-06 16:33",
+      "summary": "The one piece of data that could actually shed light on your job and AI  MIT Technology Review..."
     },
     {
       "title": "AI is changing how small online sellers decide what to make - MIT Technology Review",
@@ -249,42 +249,42 @@
       "summary": "AI is changing how small online sellers decide what to make  MIT Technology Review..."
     },
     {
-      "title": "Is fake grass a bad idea? The AstroTurf wars are far from over. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaHgwRlNSYjBWVHlzbC1mVmZfcTh0NXNBV0tCN2dPT1RaNmdkQ0wyMEs2S3h5QzFiVkVvU3B0eXZtM1RnRk9heWc1TzJ1a1hxM1dTMkhQMEMzbUpjLXN0NXZuWEJNTlp1eWlWR0ZVZnpWS1paMnlxbWIzZ0kzdUlYanpLc29mS0cxU1ZFNjdsY2tqUDNVZENQYTZLY3o1YW1x0gGmAUFVX3lxTE9sNGstQlpPQWhobDBFb3dIREUwVEpQSVpzTUhjQnRfVEJaZ01NeFpIMFVIWHlNOXFDOGJlamNYRGZ0ZDNMeTdlSXloSVJzOGl3Y2U1cVJyYnI0RzJZZ1Z1a2Y1RV80eTFEOHY2Z2EyRlRNTldtNHh2WldnYmhzU0hkbndZUWRtV3hScGdQamVIUTBPaDZ2ajlVYURsMHp0WUV1VnBMR0E?oc=5",
-      "date": "2026-04-09 10:00",
-      "summary": "Is fake grass a bad idea? The AstroTurf wars are far from over.  MIT Technology Review..."
+      "title": "The Download: a battery pivot to AI, and rewriting math - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzN6Y1EydFB0QWxINVdrYUNtTFpuekdJVlppZ1NTMGRrQmpfcDVjZWVtUXdleEk1MG5jcXItRHB5WEdrTkNxSERRMEpGbXBQUUQ5Wm8zM2ZjUGhZZl94NWJ1ek4xS3FVdFJHa3BBU3NUZ05rRFJxMFVyRHpEeTVXN3NHeXFWQjFqejMzNkRGWVRtNEIzZGlHU2xXUXNjbGYt0gGmAUFVX3lxTE1BRXhSQ2J3NkJWeVlPbHI0MlROVllDdmRPT0otcElvTkRBVmw0c1BhSzk4ZF91dl9zdEd3Z0VvUUplT0RYa2xyREQ3NlFSd2pfSWdEOEJySDRnMFpRMHB0TklWM2FjelFCaExEb0hISlVjeXFKeThRMTdoU2wxdG1fRVk4bzVDRDdGZXB4eWZQZHl5S3BiQkNPRlVLN0lTc0RJMTJDY3c?oc=5",
+      "date": "2026-03-26 07:00",
+      "summary": "The Download: a battery pivot to AI, and rewriting math  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Why treelines don't simply rise with the climate",
-      "link": "https://phys.org/news/2026-04-treelines-dont-simply-climate.html",
-      "date": "2026-04-09 13:40",
-      "summary": "A global study by the University of Basel, Switzerland, reveals a surprising picture: While 42% of treelines worldwide are shiftin..."
+      "title": "High levels of forever chemicals found in Svalbard reindeer",
+      "link": "https://phys.org/news/2026-04-high-chemicals-svalbard-reindeer.html",
+      "date": "2026-04-09 15:20",
+      "summary": "Svalbard reindeer live in a place so remote they have actually evolved to become a subspecies. But that remoteness isn't enough to..."
     },
     {
-      "title": "New Hampshire ski industry concerned about climate change",
-      "link": "https://phys.org/news/2026-04-hampshire-industry-climate.html",
-      "date": "2026-04-09 13:40",
-      "summary": "New research out of the University of New Hampshire reveals that the majority of New Hampshire ski industry professionals are conc..."
+      "title": "Researchers develop AI-driven air quality monitoring system",
+      "link": "https://phys.org/news/2026-04-ai-driven-air-quality.html",
+      "date": "2026-04-09 15:20",
+      "summary": "Johannesburg's air quality has never really been measured systematically. Like many other cities across the globe, scientists have..."
     },
     {
-      "title": "New AI method flags fluid flow tipping points before simulations break down",
-      "link": "https://phys.org/news/2026-04-ai-method-flags-fluid-simulations.html",
-      "date": "2026-04-09 13:00",
-      "summary": "David J. Silvester, a mathematics professor at the University of Manchester, has developed a novel machine-learning method to dete..."
+      "title": "Tiny plankton have big impact on harmful algal bloom predictions, data reveal",
+      "link": "https://phys.org/news/2026-04-tiny-plankton-big-impact-algal.html",
+      "date": "2026-04-09 15:11",
+      "summary": "As climate change intensifies harmful algal blooms worldwide, an international team led by Hiroshima University has developed a hy..."
     },
     {
-      "title": "Preventing the spread of a deadly virus to Pennsylvania's rabbits and hares",
-      "link": "https://phys.org/news/2026-04-deadly-virus-pennsylvania-rabbits-hares.html",
-      "date": "2026-04-09 12:40",
-      "summary": "Rabbit hemorrhagic disease virus type 2 is a terrible way for any animal to die, especially creatures as gentle as these. Highly c..."
+      "title": "Taming skyrmions: Atom-thin magnets point to ultra-dense, low-power memory",
+      "link": "https://phys.org/news/2026-04-skyrmions-atom-thin-magnets-ultra.html",
+      "date": "2026-04-09 15:00",
+      "summary": "Data is growing at a staggering pace, pushing charge-based microelectronics, such as smartphones and laptops, to their physical li..."
     },
     {
-      "title": "Scientists discover the antibacterial potential of 'hero' Korean skincare ingredient",
-      "link": "https://phys.org/news/2026-04-scientists-antibacterial-potential-hero-korean.html",
-      "date": "2026-04-09 12:20",
-      "summary": "Fans of Korean skincare may be familiar with \"hero ingredient\" Madecassic acid for its skin-soothing properties, but researchers a..."
+      "title": "From Asgard to Earth: Tiny tubes may reveal the moment complex life began",
+      "link": "https://phys.org/news/2026-04-asgard-earth-tiny-tubes-reveal.html",
+      "date": "2026-04-09 15:00",
+      "summary": "Stromatolites—and their close relatives, microbial mats—could be mistaken for what seems like a bunch of old dark rocks. But inste..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong spent HK$1.13 billion on Legco poll, up by 35% over figure for 2021",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3349559/hong-kong-spent-hk113-billion-legco-poll-35-over-figure-2021?utm_source=rss_feed",
+      "date": "2026-04-09 14:43",
+      "summary": "Hong Kong spent HK$1.13 billion (US$144.27 million) on the Legislative Council election last year, or nearly 35 per cent more than..."
+    },
+    {
       "title": "Ex-Hong Kong leader’s Chinese medicine platform to link mainland and global markets",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349546/ex-hong-kong-leaders-chinese-medicine-platform-link-mainland-and-global-markets?utm_source=rss_feed",
       "date": "2026-04-09 11:58",
@@ -343,15 +349,15 @@
       "link": "https://www.scmp.com/business/banking-finance/article/3349487/citic-tops-asia-pacific-banking-fees-mainland-china-and-hong-kong-ipos-surge?utm_source=rss_feed",
       "date": "2026-04-09 09:00",
       "summary": "Investment banking fees across Asia-Pacific excluding Japan reached US$5.3 billion in the first quarter of 2026, with China’s Citi..."
-    },
-    {
-      "title": "Minibus driver killed, 16 injured in 2 separate crashes on Hong Kong highway",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3349507/bus-driver-killed-16-injured-2-separate-crashes-hong-kong-highway?utm_source=rss_feed",
-      "date": "2026-04-09 07:42",
-      "summary": "A minibus driver has been killed and 16 others have been injured in two separate crashes involving eight vehicles within two hours..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Mysterious 'compound X' clears toxic Parkinson’s proteins from brain",
+      "link": "https://www.newscientist.com/article/2522314-mysterious-compound-x-clears-toxic-parkinsons-proteins-from-brain/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-09 13:00",
+      "summary": "A drug known only as compound X helped to remove the problematic proteins associated with Parkinson's disease from the brains of m..."
+    },
     {
       "title": "Emperor penguins added to endangered list after rapid decline",
       "link": "https://www.newscientist.com/article/2522508-emperor-penguins-added-to-endangered-list-after-rapid-decline/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2522425-why-early-humans-radically-changed-their-toolkits-200000-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-08 17:00",
       "summary": "A decline in ancient megafauna in the Middle East coincided with a shift towards smaller, lighter toolkits in the archaeological r..."
-    },
-    {
-      "title": "Particles seen emerging from empty space for first time",
-      "link": "https://www.newscientist.com/article/2522324-particles-seen-emerging-from-empty-space-for-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-08 12:00",
-      "summary": "By tracing the origins of an unusual, short-lived particle, researchers have gathered some of the strongest evidence yet that mass..."
     }
   ]
 }
