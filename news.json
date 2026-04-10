@@ -97,10 +97,22 @@
   ],
   "Nature Careers": [
     {
+      "title": "Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults",
+      "link": "https://www.nature.com/articles/s41586-026-10484-w",
+      "date": "2026-04-10 00:00",
+      "summary": "Nature, Published online: 10 April 2026; doi:10.1038/s41586-026-10484-wAuthor Correction: Multi-omic profiling reveals age-related..."
+    },
+    {
       "title": "How the butterfly got its name: Books in brief",
       "link": "https://www.nature.com/articles/d41586-026-01160-0",
       "date": "2026-04-10 00:00",
       "summary": "Nature, Published online: 10 April 2026; doi:10.1038/d41586-026-01160-0Andrew Robinson reviews five of the best science picks...."
+    },
+    {
+      "title": "Homelessness of the heart",
+      "link": "https://www.nature.com/articles/d41586-026-01063-0",
+      "date": "2026-04-10 00:00",
+      "summary": "Nature, Published online: 10 April 2026; doi:10.1038/d41586-026-01063-0The past is a foreign country...."
     },
     {
       "title": "Ambiphilic cross-coupling with aryl-bismuth reagents",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01112-8",
       "date": "2026-04-09 00:00",
       "summary": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-01112-83D-printed discs harness a previously overlooked feature of..."
-    },
-    {
-      "title": "Electric vehicles can ride to the grid’s rescue",
-      "link": "https://www.nature.com/articles/d41586-026-01110-w",
-      "date": "2026-04-09 00:00",
-      "summary": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-01110-wVehicle-to-grid technology, if installed properly, could al..."
-    },
-    {
-      "title": "Liquid or solid? Oobleck droplets are both",
-      "link": "https://www.nature.com/articles/d41586-026-01109-3",
-      "date": "2026-04-09 00:00",
-      "summary": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-01109-3High-speed cameras can observe the strange behaviour of a c..."
     }
   ],
   "Science News": [
@@ -199,10 +199,10 @@
       "summary": "Exclusive: Anthropic weighs building its own AI chips, sources say  Reuters..."
     },
     {
-      "title": "Intel and Google to double down on AI CPUs with expanded partnership - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUE4SWlVczQzaGdDemRPaXdnSkVtaEx5bE8tZkhUTWgxU0U1WDZDdlZYczVGbmRpVHdSRWxPMVVoaUhXb3NoZjlUN0ptSkNpWWNSNkpNZEtLQTFKSDY1SVdWSFNpdjQxZUxDc1V5bnRrUzg5RVlZQURYZDVjWFBwM0V0WWNTb2lONmg3TkJmRjNwd3lKdS05LUlKbDdNRVN6UmNYbnl3?oc=5",
-      "date": "2026-04-09 13:03",
-      "summary": "Intel and Google to double down on AI CPUs with expanded partnership  Reuters..."
+      "title": "Meta unveils first AI model from costly superintelligence team - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMGlQRHNjbkNMampHRlJWOVkxUTlLdmlUMWZoZTJOa05TZFgtNWppRVpBYk5XT0xVdVRBbHFqSlE2NDRQdHBEcGVaZ2p2dnFrZFhjZThBYjV4SlZFekNkdERsWHhhck1HU0NHUjdRNTY3OTg3TExWNXd2cVd4aldaV2tOVWVGZW5BYzRJYTNkWHJlcklfc3FkTmpOOWl3S3MzZTlOSktEVkFUXzZiU21SUUdXZ3J1UDNZaHIxR3RHQnNzR2VfYTZxRVVaQQ?oc=5",
+      "date": "2026-04-08 19:30",
+      "summary": "Meta unveils first AI model from costly superintelligence team  Reuters..."
     },
     {
       "title": "Anthropic weighs building its own AI chips: Reuters (ANTHRO:Private) - Seeking Alpha",
@@ -211,16 +211,16 @@
       "summary": "Anthropic weighs building its own AI chips: Reuters (ANTHRO:Private)  Seeking Alpha..."
     },
     {
+      "title": "How the AI boom derailed clean‑air efforts in one of America's most polluted cities - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUpZUkhfa0FGYUVhTm9xdmp2ZFBsQXB0Z19wMGNfSzVVOWI0a3ZWbi1iNjNBUnZZUWZvenpOanJzRTRXVmlPWWxQQjFSMEpZblBpaEMwb0lybDRrMl9qSDR6TGpVbTNuRTIwa2IyR0Y1ZDRMaU9qNnhkWXo0UHVKckluQXdHQnFQZGo3Qzl6YzNTZXRYUlo4bGtrZHp5MjhYWFFiS21DVW5nX0VFTGdxZldyTHNhNWJ2cVRZTTBTUkpvcm9KZ016V3oyT0p5YmpZaWFB?oc=5",
+      "date": "2026-04-10 10:24",
+      "summary": "How the AI boom derailed clean‑air efforts in one of America's most polluted cities  Reuters..."
+    },
+    {
       "title": "TSMC's first-quarter revenue surges as AI interest propels sales beyond market forecasts - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzk0RHdEN2J2UWc3VERKU2JXWnBVamg3UWtGclBxVWxoeFQ0dTExOVlRN1RNTlo4WmNPc0xBWlpxQUduVkQtTHZZYlRwNE43VzhMVjA4dUVRNlZ3a3dIa21rVFdjb3VIVlVIeXd1Z0NVQkxpVzdOM1JiYkN2Y0lNX3k1czBlTDZQZ2VfTU5DeVZkZUlPVTVSWndldkJjczVyWlhYTTI4Q3k?oc=5",
       "date": "2026-04-10 09:10",
       "summary": "TSMC's first-quarter revenue surges as AI interest propels sales beyond market forecasts  Reuters..."
-    },
-    {
-      "title": "Chinese startup ShengShu raises $293 million to advance artificial general intelligence - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkdpSnVHajVGdVFmY0l2X0F1T1Jia2pkY3Z4RnIzVGhBMkRuSzRKcWN1c2poQUNXb0FDZDdtcWtwS3pSckNPZzRCUVhnVW9xVjV1SnUtcTBYaHVWVlF3Y1JxcEprazRkcDR3NFJIb0VKSlMzRWZMV3VOa252bTFfTGYwWkZUSkxwZzJxbGVmUjhONlRkX3NPYzJLOUstbDlHRl9LVms4dEl3T2tDeWFWSDg3N18tTnZIUVNjckxFSGk3YWM?oc=5",
-      "date": "2026-04-10 01:31",
-      "summary": "Chinese startup ShengShu raises $293 million to advance artificial general intelligence  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,19 +243,31 @@
       "summary": "AI is changing how small online sellers decide what to make  MIT Technology Review..."
     },
     {
+      "title": "The Download: a battery pivot to AI, and rewriting math - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzN6Y1EydFB0QWxINVdrYUNtTFpuekdJVlppZ1NTMGRrQmpfcDVjZWVtUXdleEk1MG5jcXItRHB5WEdrTkNxSERRMEpGbXBQUUQ5Wm8zM2ZjUGhZZl94NWJ1ek4xS3FVdFJHa3BBU3NUZ05rRFJxMFVyRHpEeTVXN3NHeXFWQjFqejMzNkRGWVRtNEIzZGlHU2xXUXNjbGYt0gGmAUFVX3lxTE1BRXhSQ2J3NkJWeVlPbHI0MlROVllDdmRPT0otcElvTkRBVmw0c1BhSzk4ZF91dl9zdEd3Z0VvUUplT0RYa2xyREQ3NlFSd2pfSWdEOEJySDRnMFpRMHB0TklWM2FjelFCaExEb0hISlVjeXFKeThRMTdoU2wxdG1fRVk4bzVDRDdGZXB4eWZQZHl5S3BiQkNPRlVLN0lTc0RJMTJDY3c?oc=5",
+      "date": "2026-03-26 07:00",
+      "summary": "The Download: a battery pivot to AI, and rewriting math  MIT Technology Review..."
+    },
+    {
       "title": "MIT Technology Review's EmTech AI 2026: Leading in the Era of AI Integration - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcGpKaE1BalNvcGVnUDE2RUNwd3ltMm5Pbk4wSmJMaUJzYThwNElSWXk2OElTV3JaQzkyTHVKV2ZqeVlwTkU3MWpoVUdNMmxUSVZaclR5REY1N2FCTHJYQWYwR2xFUnN0Wng1UDhSMWo1ZFhUWGxaLWpUY204RURBY1hJWjBHczFXOHpuVTZ1cFkyVmRSckU3Y1VYb1BmYk5DNzhWcWNsemo0Zm85TGhkSHNvRjk1UHdwYWtWMVFxemppZnpMYkdlbzBR?oc=5",
       "date": "2026-04-09 14:18",
       "summary": "MIT Technology Review's EmTech AI 2026: Leading in the Era of AI Integration  PR Newswire..."
-    },
-    {
-      "title": "The Download: AstroTurf wars and exponential AI growth - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcV9tZEtuLUNVTkhQYVFFZ19VS1AwclpGMGpBWUk3NkVXWkxhNVNKMmRtZHROajVEdnFFT1paZ2ZXY2hUamVMTFpoalhkWVFBaFJjUDNyR2VFOE1BbjZfWjZsT1hzeWloRGNqWUsxd1I4WjZXMkpqYVdvTjB2Z0pwU2xudjJtQlozN3liM3ZlTlZJekZXOXdmRVpSYmJVTFFEUTNmcnIycFQwVU92WktYcGJlU0pabzlpd2ZwMTQ0WUvSAcYBQVVfeXFMTjRndXdCTm10MUw2d05oYlhYdWJ5X3Y4aml6b01meUhwdE5IRTdIRE11QmhPUlJnTzZQUVhtZWtJUzJlcUtLckdTYmc0elVUaUxWZG14a0NXcFYyOGFRekNWSFY4ejZOX1BscW9SczNFR2RTUVc2T1NEYmZERWJDN1FkVUJMOVZLWGhQbHJyT2RVT2JwWUVtOTduM2F2QkNJbDNuY1FSYm9rcHZ1cXg5NjBSUUJlZUxySWE0TTBuekRlVnlrd2VB?oc=5",
-      "date": "2026-04-09 12:25",
-      "summary": "The Download: AstroTurf wars and exponential AI growth  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Accounting expert says teams should avoid 'trading up' during NFL draft",
+      "link": "https://phys.org/news/2026-04-accounting-expert-teams-nfl.html",
+      "date": "2026-04-10 11:20",
+      "summary": "Ahead of the NFL Draft's arrival in Pittsburgh on April 23, a West Virginia University professor is challenging one of football's ..."
+    },
+    {
+      "title": "Why experts say now is the time to vaccinate US dairy cattle against bird flu",
+      "link": "https://phys.org/news/2026-04-experts-vaccinate-dairy-cattle-bird.html",
+      "date": "2026-04-10 11:00",
+      "summary": "Bird flu—specifically H5N1—is no longer just a poultry problem in Asia. What started as a major United States outbreak, first in w..."
+    },
     {
       "title": "Could your housemates be changing your gut bacteria? An island bird study suggests so",
       "link": "https://phys.org/news/2026-04-housemates-gut-bacteria-island-bird.html",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-04-artemis-astronauts-space-health.html",
       "date": "2026-04-10 08:08",
       "summary": "While the Artemis II astronauts have been protected from the icy vacuum of space on their journey, their bodies have nonetheless b..."
-    },
-    {
-      "title": "Medieval Japanese poetry and buried trees help elucidate volatile space weather",
-      "link": "https://phys.org/news/2026-04-medieval-japanese-poetry-trees-elucidate.html",
-      "date": "2026-04-10 03:00",
-      "summary": "On Earth, extreme solar activity often appears as beautiful, benign auroras. But venturing beyond the safety of the Earth's magnet..."
-    },
-    {
-      "title": "Bridging AI- and experimental-led materials discovery with better database architecture",
-      "link": "https://phys.org/news/2026-04-bridging-ai-experimental-materials-discovery.html",
-      "date": "2026-04-10 02:40",
-      "summary": "Materials databases lie at the heart of future data-driven discovery in energy-related fields, say researchers from Tohoku Univers..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Health chief hails tobacco control efforts as smoking rate falls to 8.5%",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3349681/health-chief-hails-tobacco-control-efforts-smoking-rate-falls-85?utm_source=rss_feed",
+      "date": "2026-04-10 11:30",
+      "summary": "Hong Kong’s smoking rate fell to 8.5 per cent last year, missing an ambitious target of 7.8 per cent, but health authorities have ..."
+    },
+    {
       "title": "Hong Kong animal groups urge HKTVmall boycott over life science experiments",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3349654/hong-kong-animal-groups-urge-hktvmall-boycott-over-life-science-experiments?utm_source=rss_feed",
       "date": "2026-04-10 10:30",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3349625/hong-kong-authorities-spend-hk34-million-tai-po-fire-recovery-works?utm_source=rss_feed",
       "date": "2026-04-10 06:41",
       "summary": "Hong Kong housing authorities have spent HK$34 million (US$4.3 million) on recovery efforts following the devastating fire at Wang..."
-    },
-    {
-      "title": "151 Hong Kong civil servants dismissed for misconduct, convictions in past 3 years",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3349620/151-hong-kong-civil-servants-dismissed-misconduct-convictions-past-3-years?utm_source=rss_feed",
-      "date": "2026-04-10 06:27",
-      "summary": "More than 150 Hong Kong civil servants were dismissed for serious misconduct or criminal convictions over the past three financial..."
     }
   ],
   "New Scientist": [
