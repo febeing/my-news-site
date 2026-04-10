@@ -16,7 +16,7 @@
       "title": "Slice and dice",
       "link": "https://news.mit.edu/2026/slice-and-dice-snipe-bacterial-defense-0409",
       "date": "2026-04-09 18:00",
-      "summary": "SNIPE, a newly characterized defense system, directly protects bacteria by chopping up invading viral DNA...."
+      "summary": "SNIPE, a newly characterized biological defense system, directly protects bacteria by chopping up invading viral DNA...."
     },
     {
       "title": "A new type of electrically driven artificial muscle fiber",
@@ -33,22 +33,16 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Anthropologist traces split between Homo sapiens and Neanderthals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QUnB1OG1jeGdHSzNKQkt0LVE3RnNyaDk1Y0R4bkRwM2JXLXZFaFJtcnVzWExySE83cE5IWks2OWY5YVdJaHJuS29hUVJHaGcySjk3bzJ0eUVsSVNoWFhsdlM4S2dCekRxc3dDVTZaVWgtQQ?oc=5",
-      "date": "2026-04-01 07:00",
-      "summary": "Anthropologist traces split between Homo sapiens and Neanderthals  Harvard Gazette..."
-    },
-    {
-      "title": "Economists weigh consequences of war, tariffs, AI - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT3g4NkF5QTdGMG1JRXd3YVJoQS00c3RIclh2LVp1eHZGUHlPbnEtT1dUUFQ2UWhQWC1PbFRWbUpXTlVGamRkWXFhWlJQUFJlajZ4RXJ6WTc2YUNDR19rWWhPWFVWNXVSSUcwblpreHFVbE5YaTN6OUFXLW1sTmZ2bjBNa2cyMmRhODk3U19TTFpHTld2ZE5CZ0otNA?oc=5",
-      "date": "2026-03-23 07:00",
-      "summary": "Economists weigh consequences of war, tariffs, AI  Harvard Gazette..."
-    },
-    {
       "title": "Wonder served him well - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHpkLV9RSGFGQnBBVjJxeDBMZmE2Nk5udkZjQjFtdExHSTZpcjM4b0pmWDhMYWZQeE9KZlI0QmU5d0tNMFBCZVhLMVNtYW13Rm1OaW9lLXMzLTd0bDVsd2NHSGxydVBFZ2pROVFBaUU0U0RWOXBBQnNCeXZYR0lRY2QydEpPYkg0bl9YNA?oc=5",
       "date": "2026-03-04 08:00",
       "summary": "Wonder served him well  Harvard Gazette..."
+    },
+    {
+      "title": "Anthropologist traces split between Homo sapiens and Neanderthals - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QUnB1OG1jeGdHSzNKQkt0LVE3RnNyaDk1Y0R4bkRwM2JXLXZFaFJtcnVzWExySE83cE5IWks2OWY5YVdJaHJuS29hUVJHaGcySjk3bzJ0eUVsSVNoWFhsdlM4S2dCekRxc3dDVTZaVWgtQQ?oc=5",
+      "date": "2026-04-01 07:00",
+      "summary": "Anthropologist traces split between Homo sapiens and Neanderthals  Harvard Gazette..."
     },
     {
       "title": "How academia can help America heal - Harvard Gazette",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
       "date": "2026-01-23 08:00",
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
+    },
+    {
+      "title": "How to help lift slumping American math scores - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
+      "date": "2026-01-26 08:00",
+      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -77,10 +77,10 @@
       "summary": "‘Stanford expelled me for exposing the Chinese regime’s brutality’  The Times..."
     },
     {
-      "title": "Russia Bans Stanford University as Latest ‘Undesirable’ Organization - Bloomberg",
+      "title": "Russia Bans Stanford University as Latest ‘Undesirable’ Organization - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPenpvZWV2WE1EMFgxRWdZMnYyTGsza212Y2NXR3NpdURxcU1SeENFRGFsblkzdm1xRDA2akVhRUhBRVptVWFheGN1eHFnOWg4cTd3QmtCN0FUSE1yOUlUdjRZVkhoWFItenc3eHJ6TEY4OUVCT1lodXZiTzJzeE1yUkpNUXJxT1ZNNlE0a1h3Zi1DV0Y2b0FYY2JuTEdrVWNfY29DRGhsdWZWSk5wbVE?oc=5",
       "date": "2026-04-10 14:33",
-      "summary": "Russia Bans Stanford University as Latest ‘Undesirable’ Organization  Bloomberg..."
+      "summary": "Russia Bans Stanford University as Latest ‘Undesirable’ Organization  Bloomberg.com..."
     },
     {
       "title": "First-of-its-kind proton therapy machine for cancer treatment unveiled at Stanford hospital - Palo Alto Online",
@@ -89,10 +89,10 @@
       "summary": "First-of-its-kind proton therapy machine for cancer treatment unveiled at Stanford hospital  Palo Alto Online..."
     },
     {
-      "title": "Stanford unveils new cancer fighting machine - NBC Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdlJEUTdJbEh0ZERjRjI3ajdYR0Z4UDJ6cVd6SmtNUVp5Qy1XeHRfUXFBRW5tUnJFejNZLXR3Q05iNlFMeXJIWFl5S1FIbFQ4aWRaUGJfOWlXcUdVcE9JcjRHWHNoWC0yQUUxcUh6dUF4ZlFLbjZQNzI0OTdHVXJjWk1TU0dZQVgwanQwUm00TULSAZgBQVVfeXFMTTJWOFk0cFdMQndkclM3OEs5WFRkTDhubHdua0Faajkwbk5Xc2VQN2ljMDRfaEh1TVlmYXFaYnJrVEZLUzQ3ajY3dTU1TkxQdXYzTHRHT1NKLVFsd2x6TmNpeE5UM0ktVE1McEFyeTF1cC1OUHQwTVJ4M0xSN3ZneXh5T21XUmExWWp1cXphZmJTSGt0WFllUjA?oc=5",
-      "date": "2026-04-08 01:19",
-      "summary": "Stanford unveils new cancer fighting machine  NBC Bay Area..."
+      "title": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List - Poets&Quants",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNnJlWnZoQUMxS1RsRDJnbzd1TnlaeERiQjNOamhGY2ZTdWR4NHNhLWpqZUdoeG5iQU1xd1ZhNWF0cFBIU3BFaVRsSC1HN2NoY2VPQ1NkT0ZDdm83dXIyWW5XS1pJN0pNdzVfbEVXWHZGNFlYYXREdklIS2ZBekVGNGIteVBPblZacE8xZXV0Z1JKMjNTNVZoU2x5dWJxckZBWHVaODQ4S2ItUDljZ0VSbWRNckxIdjVsaGNrU1lwY01WcGs?oc=5",
+      "date": "2026-04-07 07:50",
+      "summary": "Stanford Returns To No. 1 In 2026 U.S. News MBA Ranking As Volatility Ripples Across The List  Poets&Quants..."
     }
   ],
   "Nature Careers": [
@@ -199,10 +199,16 @@
       "summary": "Exclusive: Anthropic weighs building its own AI chips, sources say  Reuters..."
     },
     {
-      "title": "Meta, CoreWeave deepen AI cloud partnership with fresh $21 billion deal - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTllDZkRPeFVaT0V2S2I2bVVyVURKaXFKWExaY2pTNUJhTWUtYzlaZ1cwYzdFdUtDaFJQOFJVcnA2d1kycW1zd2RyX1Y2amNFOTdsS3ZWRW5CQXB1OHl3dHVlMHhrcFBqdzNndVpDSGZLYlh0Q19QQUhVelN0cF9IYURHbEVNdGRWOVoyc0Q2cHV3QWZTWEd2bFJtWQ?oc=5",
-      "date": "2026-04-09 15:51",
-      "summary": "Meta, CoreWeave deepen AI cloud partnership with fresh $21 billion deal  Reuters..."
+      "title": "Intel and Google to double down on AI CPUs with expanded partnership - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUE4SWlVczQzaGdDemRPaXdnSkVtaEx5bE8tZkhUTWgxU0U1WDZDdlZYczVGbmRpVHdSRWxPMVVoaUhXb3NoZjlUN0ptSkNpWWNSNkpNZEtLQTFKSDY1SVdWSFNpdjQxZUxDc1V5bnRrUzg5RVlZQURYZDVjWFBwM0V0WWNTb2lONmg3TkJmRjNwd3lKdS05LUlKbDdNRVN6UmNYbnl3?oc=5",
+      "date": "2026-04-09 13:03",
+      "summary": "Intel and Google to double down on AI CPUs with expanded partnership  Reuters..."
+    },
+    {
+      "title": "How the AI boom derailed clean‑air efforts in one of America's most polluted cities - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUpZUkhfa0FGYUVhTm9xdmp2ZFBsQXB0Z19wMGNfSzVVOWI0a3ZWbi1iNjNBUnZZUWZvenpOanJzRTRXVmlPWWxQQjFSMEpZblBpaEMwb0lybDRrMl9qSDR6TGpVbTNuRTIwa2IyR0Y1ZDRMaU9qNnhkWXo0UHVKckluQXdHQnFQZGo3Qzl6YzNTZXRYUlo4bGtrZHp5MjhYWFFiS21DVW5nX0VFTGdxZldyTHNhNWJ2cVRZTTBTUkpvcm9KZ016V3oyT0p5YmpZaWFB?oc=5",
+      "date": "2026-04-10 16:01",
+      "summary": "How the AI boom derailed clean‑air efforts in one of America's most polluted cities  Reuters..."
     },
     {
       "title": "Anthropic weighs building its own AI chips: Reuters (ANTHRO:Private) - Seeking Alpha",
@@ -211,16 +217,10 @@
       "summary": "Anthropic weighs building its own AI chips: Reuters (ANTHRO:Private)  Seeking Alpha..."
     },
     {
-      "title": "TSMC's first-quarter revenue surges as AI interest propels sales beyond market forecasts - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzk0RHdEN2J2UWc3VERKU2JXWnBVamg3UWtGclBxVWxoeFQ0dTExOVlRN1RNTlo4WmNPc0xBWlpxQUduVkQtTHZZYlRwNE43VzhMVjA4dUVRNlZ3a3dIa21rVFdjb3VIVlVIeXd1Z0NVQkxpVzdOM1JiYkN2Y0lNX3k1czBlTDZQZ2VfTU5DeVZkZUlPVTVSWndldkJjczVyWlhYTTI4Q3k?oc=5",
-      "date": "2026-04-10 05:36",
-      "summary": "TSMC's first-quarter revenue surges as AI interest propels sales beyond market forecasts  Reuters..."
-    },
-    {
-      "title": "Pentagon's ouster of Anthropic opens doors for small AI rivals - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ29kWnhpS2pMRlJ0UHNrcnFZZ1JLbzU0M3VxcU82NlhGZHRoSjBkVHM2UUFwR1MweWwwbmJOcC1hcm1Vd2M2ZWFHTmJ3eHdkX1JtZkRiRkoyM3JXMlVhR2RiWDJmR3F5dHRJNmJld1EzbE1jSGR5dVEtdkxVeVdLVUNuc1JZZEFHTDZ5eVZ6OUNKUUdtbGhEZVRNNGhBa1pkTFJqdVFvaFRUWlU?oc=5",
-      "date": "2026-04-09 10:17",
-      "summary": "Pentagon's ouster of Anthropic opens doors for small AI rivals  Reuters..."
+      "title": "Meta transfers top engineers into new AI tooling team - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWk5DRHBndjZYVklrdEpWY3NHRjdFS2NORjFJYW1yNFRLdF9scmhNSzRUaHdlVGFWb2pvU0tuc0hhT3RUYzdXRnI2MlJiNDBGQW1RUWJranR3TUVhYU9RMG1hcmo3RVU4d1lGVkFnY3BPd0prYnM0anc2bWFkWjlqM1ZKUS14bDNPV3ZUcmhLV2gxOVZiMFE2a1pQeDl4LTZ0ZGc?oc=5",
+      "date": "2026-04-09 22:31",
+      "summary": "Meta transfers top engineers into new AI tooling team  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Using menstrual blood-derived particles to treat osteoarthritis",
-      "link": "https://phys.org/news/2026-04-menstrual-blood-derived-particles-osteoarthritis.html",
-      "date": "2026-04-10 15:40",
-      "summary": "New research by an interdisciplinary team in Lithuania has revealed a promising and unconventional approach to cartilage regenerat..."
+      "title": "Defensive rewilding could turn wetlands and forests into border barriers",
+      "link": "https://phys.org/news/2026-04-defensive-rewilding-wetlands-forests-border.html",
+      "date": "2026-04-10 16:40",
+      "summary": "Restoring forests, wetlands and peatlands could help defend national borders as well as tackle climate change, according to new re..."
     },
     {
-      "title": "Back-to-back Amazon droughts trigger record forest stress",
-      "link": "https://phys.org/news/2026-04-amazon-droughts-trigger-forest-stress.html",
-      "date": "2026-04-10 15:20",
-      "summary": "Two back-to-back droughts in 2023 and 2024 caused the most severe decline in forest moisture and biomass (the total mass of living..."
+      "title": "Yellowstone's magma source may be closer than thought, reshaping hazard models",
+      "link": "https://phys.org/news/2026-04-yellowstone-magma-source-closer-thought.html",
+      "date": "2026-04-10 16:40",
+      "summary": "Supereruptions are extremely large volcanic eruptions that eject more than 1,000 cubic kilometers of magma, rock and ash. They are..."
     },
     {
-      "title": "The Cascadia Subduction Zone isn't shutting down—but it's more complicated than previously thought",
-      "link": "https://phys.org/news/2026-04-cascadia-subduction-zone-isnt-complicated.html",
-      "date": "2026-04-10 15:20",
-      "summary": "Recent seismic imaging off Vancouver Island has revealed something extraordinary: a tear in the subducting oceanic plate beneath t..."
+      "title": "Artemis II's grand moon finale is almost here with a Pacific splashdown to cap NASA's lunar comeback",
+      "link": "https://phys.org/news/2026-04-artemis-ii-grand-moon-pacific.html",
+      "date": "2026-04-10 16:23",
+      "summary": "Their dramatic grand finale fast approaching, Artemis II's astronauts aimed for a splashdown in the Pacific on Friday to close out..."
     },
     {
-      "title": "Peculiar core-collapse supernova breaks the mold with a long, dim plateau",
-      "link": "https://phys.org/news/2026-04-peculiar-core-collapse-supernova-mold.html",
-      "date": "2026-04-10 15:00",
-      "summary": "Astronomers from the Chinese Academy of Sciences (CAS) have employed the Lijiang 2.4-m telescope to perform optical photometric an..."
+      "title": "Bacteria from bumblebees can produce vitamin B₂ in soya drinks",
+      "link": "https://phys.org/news/2026-04-bacteria-bumblebees-vitamin-soya.html",
+      "date": "2026-04-10 16:20",
+      "summary": "Researchers at DTU have developed a new method that can reduce the time needed to find new bacteria for fermentation. They have no..."
     },
     {
-      "title": "Tropical cyclone Narelle struck three major reef systems in one epic trek",
-      "link": "https://phys.org/news/2026-04-tropical-cyclone-narelle-struck-major.html",
-      "date": "2026-04-10 15:00",
-      "summary": "Coral reefs are important in many ways, but they also play a major role in protecting much of the world's coastlines from erosion ..."
+      "title": "Compulsory sex-marking as a threat to personal autonomy",
+      "link": "https://phys.org/news/2026-04-compulsory-sex-threat-personal-autonomy.html",
+      "date": "2026-04-10 16:20",
+      "summary": "Do our norms around sex presentation uphold a constrictive gender regime? In a new article in Ethics, Ophelia Vedder writes that t..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Girl, 9, in a critical condition with meningococcal infection after holiday in Japan",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3349708/girl-9-critical-condition-meningococcal-infection-after-holiday-japan?utm_source=rss_feed",
+      "date": "2026-04-10 16:09",
+      "summary": "A nine-year-old Hong Kong girl has contracted a rare bacterial infection and is fighting for her life in hospital after visiting J..."
+    },
+    {
       "title": "Tai Po blaze: no fire risk checks done for HK$336 million estate renovation",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3349695/tai-po-blaze-no-fire-risk-checks-done-hk336-million-estate-renovation?utm_source=rss_feed",
       "date": "2026-04-10 13:43",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3349687/new-kai-tak-hospital-open-2-phases-october?utm_source=rss_feed",
       "date": "2026-04-10 12:34",
       "summary": "Hong Kong’s largest public hospital will open to patients in phases from October, with the new 2,400-bed facility in Kai Tak set t..."
-    },
-    {
-      "title": "Health chief hails tobacco control efforts as smoking rate falls to 8.5%",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3349681/health-chief-hails-tobacco-control-efforts-smoking-rate-falls-85?utm_source=rss_feed",
-      "date": "2026-04-10 11:30",
-      "summary": "Hong Kong’s smoking rate fell to 8.5 per cent last year, missing an ambitious target of 7.8 per cent, but health authorities have ..."
     }
   ],
   "New Scientist": [
