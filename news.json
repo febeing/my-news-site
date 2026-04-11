@@ -33,16 +33,22 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Wonder served him well - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHpkLV9RSGFGQnBBVjJxeDBMZmE2Nk5udkZjQjFtdExHSTZpcjM4b0pmWDhMYWZQeE9KZlI0QmU5d0tNMFBCZVhLMVNtYW13Rm1OaW9lLXMzLTd0bDVsd2NHSGxydVBFZ2pROVFBaUU0U0RWOXBBQnNCeXZYR0lRY2QydEpPYkg0bl9YNA?oc=5",
-      "date": "2026-03-04 08:00",
-      "summary": "Wonder served him well  Harvard Gazette..."
-    },
-    {
       "title": "Anthropologist traces split between Homo sapiens and Neanderthals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QUnB1OG1jeGdHSzNKQkt0LVE3RnNyaDk1Y0R4bkRwM2JXLXZFaFJtcnVzWExySE83cE5IWks2OWY5YVdJaHJuS29hUVJHaGcySjk3bzJ0eUVsSVNoWFhsdlM4S2dCekRxc3dDVTZaVWgtQQ?oc=5",
       "date": "2026-04-01 07:00",
       "summary": "Anthropologist traces split between Homo sapiens and Neanderthals  Harvard Gazette..."
+    },
+    {
+      "title": "Economists weigh consequences of war, tariffs, AI - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT3g4NkF5QTdGMG1JRXd3YVJoQS00c3RIclh2LVp1eHZGUHlPbnEtT1dUUFQ2UWhQWC1PbFRWbUpXTlVGamRkWXFhWlJQUFJlajZ4RXJ6WTc2YUNDR19rWWhPWFVWNXVSSUcwblpreHFVbE5YaTN6OUFXLW1sTmZ2bjBNa2cyMmRhODk3U19TTFpHTld2ZE5CZ0otNA?oc=5",
+      "date": "2026-03-23 07:00",
+      "summary": "Economists weigh consequences of war, tariffs, AI  Harvard Gazette..."
+    },
+    {
+      "title": "Wonder served him well - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHpkLV9RSGFGQnBBVjJxeDBMZmE2Nk5udkZjQjFtdExHSTZpcjM4b0pmWDhMYWZQeE9KZlI0QmU5d0tNMFBCZVhLMVNtYW13Rm1OaW9lLXMzLTd0bDVsd2NHSGxydVBFZ2pROVFBaUU0U0RWOXBBQnNCeXZYR0lRY2QydEpPYkg0bl9YNA?oc=5",
+      "date": "2026-03-04 08:00",
+      "summary": "Wonder served him well  Harvard Gazette..."
     },
     {
       "title": "How academia can help America heal - Harvard Gazette",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
       "date": "2026-01-23 08:00",
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
-    },
-    {
-      "title": "How to help lift slumping American math scores - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
-      "date": "2026-01-26 08:00",
-      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Researchers enhance original forestry decision-making software",
+      "link": "https://phys.org/news/2026-04-forestry-decision-software.html",
+      "date": "2026-04-11 10:31",
+      "summary": "Mississippi State researchers have developed an updated version of a widely used forestry decision-making tool, improving accessib..."
+    },
+    {
+      "title": "Top takeaways from the Artemis II mission",
+      "link": "https://phys.org/news/2026-04-takeaways-artemis-ii-mission.html",
+      "date": "2026-04-11 10:01",
+      "summary": "NASA's Artemis II mission sent four astronauts—three Americans and one Canadian—on the first lunar flyby in more than 50 years...."
+    },
+    {
       "title": "After Artemis II, NASA looks to SpaceX, Blue Origin for moon landings",
       "link": "https://phys.org/news/2026-04-artemis-ii-nasa-spacex-blue.html",
       "date": "2026-04-11 08:00",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-04-artemis-ii-journey-moon-splashdown.html",
       "date": "2026-04-11 05:50",
       "summary": "Artemis II's astronauts closed out humanity's first lunar voyage in more than half a century with a Pacific splashdown on Friday, ..."
-    },
-    {
-      "title": "Worsening ocean heat waves are 'supercharging' hurricane damage, study finds",
-      "link": "https://phys.org/news/2026-04-worsening-ocean-supercharging-hurricane.html",
-      "date": "2026-04-11 05:47",
-      "summary": "Marine heat waves are supercharging damage caused by hurricanes and tropical cyclones across the globe, a new study found...."
-    },
-    {
-      "title": "From bias to balance: How AI can reshape hiring decisions",
-      "link": "https://phys.org/news/2026-04-bias-ai-reshape-hiring-decisions.html",
-      "date": "2026-04-11 02:20",
-      "summary": "A study of HR professionals shows inclusion-focused AI can reduce disability discrimination and improve fairness in real-world rec..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Turtle found dead after apparent fall in Hong Kong’s Wong Tai Sin",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3349746/turtle-found-dead-after-apparent-fall-hong-kongs-wong-tai-sin?utm_source=rss_feed",
+      "date": "2026-04-11 10:00",
+      "summary": "A 10cm-long (4-inch) turtle has died after apparently falling in Hong Kong’s Wong Tai Sin.\nPolice said on Saturday that they were ..."
+    },
+    {
       "title": "Landlords of 5,557 subdivided homes seek 3-year grace period to fix flats",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3349745/landlords-5557-subdivided-homes-seek-3-year-grace-period-fix-flats?utm_source=rss_feed",
       "date": "2026-04-11 09:36",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3349740/hins-cheung-lead-arrested-2019-hong-kong-protesters-mainland-exchange-trips?utm_source=rss_feed",
       "date": "2026-04-11 08:37",
       "summary": "Cantopop singer Hins Cheung, who previously expressed support for social movements in Hong Kong, will lead young people arrested d..."
-    },
-    {
-      "title": "Hong Kong proposes mandatory renovation briefings to combat bid-rigging",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3349739/hong-kong-proposes-mandatory-renovation-briefings-combat-bid-rigging?utm_source=rss_feed",
-      "date": "2026-04-11 08:20",
-      "summary": "Hong Kong authorities have proposed a legal amendment requiring property owners to attend a mandatory briefing on major renovation..."
     }
   ],
   "New Scientist": [
