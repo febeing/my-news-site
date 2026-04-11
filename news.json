@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "No. 9 Softball Falls to No. 23 Stanford - seminoles.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzdWxDZ1FCS0ZGanJIRG9JSHVWRTN4eGRMREZheTZ2bTE1M2thYXItZ1BiMEg5MGducWo1eWtwOVdoc184bm0xdnhqSlBtX1V3ODJlbkRRSWVWTXJ1cW1LeXNEcWZPYWN5a3VFaW5pOHBTN3l6UVBMTGpMd0xMeEU?oc=5",
+      "date": "2026-04-11 05:12",
+      "summary": "No. 9 Softball Falls to No. 23 Stanford  seminoles.com..."
+    },
+    {
       "title": "Russia Bans Stanford University as Latest ‘Undesirable’ Organization - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPenpvZWV2WE1EMFgxRWdZMnYyTGsza212Y2NXR3NpdURxcU1SeENFRGFsblkzdm1xRDA2akVhRUhBRVptVWFheGN1eHFnOWg4cTd3QmtCN0FUSE1yOUlUdjRZVkhoWFItenc3eHJ6TEY4OUVCT1lodXZiTzJzeE1yUkpNUXJxT1ZNNlE0a1h3Zi1DV0Y2b0FYY2JuTEdrVWNfY29DRGhsdWZWSk5wbVE?oc=5",
       "date": "2026-04-10 14:33",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMlNtTDdMVEZ5Y3NXZVFDeVdPa05kVWhkQlFoS3hJdV82OUs1RVhhN216YUtFdXp3R1RqWGZPZzlIRWdIVExTZkZRVC10QlQ3QWF3SnhtMlB6cG9pRU1mY0cxdjBQeXV4ZGhwUWdiSzhpRnNtSU9lMFkxSlozeG83VjQ4eVB2NzVFa2RWYTRvcnZTY0tpRkpLMnRYTkpmZGVnQUow?oc=5",
       "date": "2026-04-10 15:06",
       "summary": "Russia Designates Stanford University as ‘Undesirable’  The Moscow Times..."
-    },
-    {
-      "title": "A New Era For Stanford Figure Skating - U.S. Figure Skating",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWk5wZHp5TGtnN08xMUNuN2NzdUhpZm9ZRXZvcGNQeEdwUjdGeGVGRVZuWF9Ic0NjYXhiTUNRZS0yR3oxYjFoeWhGQm5mZjJleE1hRzV2SUtvUzNLUVFnQURIQVBzYmxtNGFUb3dRUFRvdDNORlZHU0NoSE5DWHZDRXB3LUZxYXM4eExpdzFxNVFoYjRqNFZ5Rw?oc=5",
-      "date": "2026-04-08 14:32",
-      "summary": "A New Era For Stanford Figure Skating  U.S. Figure Skating..."
     },
     {
       "title": "New undergraduate education initiative launches - Stanford Report",
@@ -211,16 +211,16 @@
       "summary": "Breakingviews - AI struggles to model for angry Main Street mobs  Reuters..."
     },
     {
-      "title": "How the AI boom derailed clean‑air efforts in one of America's most polluted cities - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUpZUkhfa0FGYUVhTm9xdmp2ZFBsQXB0Z19wMGNfSzVVOWI0a3ZWbi1iNjNBUnZZUWZvenpOanJzRTRXVmlPWWxQQjFSMEpZblBpaEMwb0lybDRrMl9qSDR6TGpVbTNuRTIwa2IyR0Y1ZDRMaU9qNnhkWXo0UHVKckluQXdHQnFQZGo3Qzl6YzNTZXRYUlo4bGtrZHp5MjhYWFFiS21DVW5nX0VFTGdxZldyTHNhNWJ2cVRZTTBTUkpvcm9KZ016V3oyT0p5YmpZaWFB?oc=5",
-      "date": "2026-04-10 10:02",
-      "summary": "How the AI boom derailed clean‑air efforts in one of America's most polluted cities  Reuters..."
-    },
-    {
       "title": "Anthropic weighs building its own AI chips: Reuters (ANTHRO:Private) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaUppVFc0QXdpTkZ2THpQdVEtTzNpM01kd0NMeHI5YUllbjc4TXk5ek9OUnlrRnFVNDRBY0pqVUZwS3l1T2M3c3lUQ1RLTnlhSWlQSkYxbWpma2twRjgxX3BJeUhQbGR3RXlxVGFfSFBRVGFDdU84d2VPQlM1dTJmLVRtWHlSeGF6a3phNGN0SFVfUQ?oc=5",
       "date": "2026-04-10 04:42",
       "summary": "Anthropic weighs building its own AI chips: Reuters (ANTHRO:Private)  Seeking Alpha..."
+    },
+    {
+      "title": "CoreWeave strikes AI cloud deal with Anthropic, shares surge - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLXZwd1Q2eUVjeEE1cFFuLUxWMkZ4YmtYTG52UkQ5WTlhRnF5bFN3dDl5cjh1OHJGR1M2UC01MnZPYVhnNnNFaGtmQnRJX2hnS1BkTVE5N3ZnMjBpYWNpeW1TZTFoUThISHlXNHRWUkJxZ0ZFSXdkZGR0RG1tdGZmZE94MW9rdGx0TlhiWDRvNkFHZjV0QW1raWxZSkUzV1lmUnhpSlFrd2JGbkZOUDlBS1JTb3I?oc=5",
+      "date": "2026-04-10 15:14",
+      "summary": "CoreWeave strikes AI cloud deal with Anthropic, shares surge  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Artemis II's record-breaking journey around the moon ends with dramatic splashdown",
+      "link": "https://phys.org/news/2026-04-artemis-ii-journey-moon-splashdown.html",
+      "date": "2026-04-11 05:50",
+      "summary": "Artemis II's astronauts closed out humanity's first lunar voyage in more than half a century with a Pacific splashdown on Friday, ..."
+    },
+    {
+      "title": "Worsening ocean heat waves are 'supercharging' hurricane damage, study finds",
+      "link": "https://phys.org/news/2026-04-worsening-ocean-supercharging-hurricane.html",
+      "date": "2026-04-11 05:47",
+      "summary": "Marine heat waves are supercharging damage caused by hurricanes and tropical cyclones across the globe, a new study found...."
+    },
+    {
       "title": "From bias to balance: How AI can reshape hiring decisions",
       "link": "https://phys.org/news/2026-04-bias-ai-reshape-hiring-decisions.html",
       "date": "2026-04-11 02:20",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-04-habitat-paid-forest-st-louis.html",
       "date": "2026-04-11 00:20",
       "summary": "Over the past few decades, a collaboration of St. Louis regional groups have partnered to be good stewards of Forest Park, one of ..."
-    },
-    {
-      "title": "With drones, geophysics and artificial intelligence, researchers prepare to do battle against land mines",
-      "link": "https://phys.org/news/2026-04-drones-geophysics-artificial-intelligence.html",
-      "date": "2026-04-10 23:20",
-      "summary": "When Jasper Baur was a freshman at New York's Binghamton University, his interests centered on earth sciences. Then he got involve..."
-    },
-    {
-      "title": "Nicotine's last biosynthesis steps mapped in wild tobacco, ending a long mystery",
-      "link": "https://phys.org/news/2026-04-nicotine-biosynthesis-wild-tobacco-mystery.html",
-      "date": "2026-04-10 23:20",
-      "summary": "Nicotine, a potent insecticidal alkaloid unique to the nightshade family, has been employed in agriculture as a pesticide since 16..."
     }
   ],
   "The Guardian Edu": [
@@ -353,6 +353,12 @@
   ],
   "New Scientist": [
     {
+      "title": "NASA’s Artemis II mission was a historic success",
+      "link": "https://www.newscientist.com/article/2522636-nasas-artemis-ii-mission-was-a-historic-success/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-11 01:20",
+      "summary": "The astronauts of the Artemis II mission around the moon have made it home safely to Earth, marking the end of a triumphant missio..."
+    },
+    {
       "title": "Tweaking the smell of cat food can encourage fussy felines to eat",
       "link": "https://www.newscientist.com/article/2522781-tweaking-the-smell-of-cat-food-can-encourage-fussy-felines-to-eat/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-10 20:00",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2522404-quantum-batteries-could-be-charged-by-reversing-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-10 11:00",
       "summary": "Physicists have shown how time can effectively be reversed for some quantum systems, which would allow for new ways to harvest ene..."
-    },
-    {
-      "title": "Physicists resolve a long-standing puzzle over the size of a proton",
-      "link": "https://www.newscientist.com/article/2522294-physicists-resolve-a-long-standing-puzzle-over-the-size-of-a-proton/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-10 09:00",
-      "summary": "Two extremely precise experiments agree with a previously shocking measurement of just how big the proton is, which may help futur..."
     }
   ]
 }
