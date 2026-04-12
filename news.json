@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Economists weigh consequences of war, tariffs, AI - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT3g4NkF5QTdGMG1JRXd3YVJoQS00c3RIclh2LVp1eHZGUHlPbnEtT1dUUFQ2UWhQWC1PbFRWbUpXTlVGamRkWXFhWlJQUFJlajZ4RXJ6WTc2YUNDR19rWWhPWFVWNXVSSUcwblpreHFVbE5YaTN6OUFXLW1sTmZ2bjBNa2cyMmRhODk3U19TTFpHTld2ZE5CZ0otNA?oc=5",
-      "date": "2026-03-23 07:00",
-      "summary": "Economists weigh consequences of war, tariffs, AI  Harvard Gazette..."
-    },
-    {
       "title": "Wonder served him well - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHpkLV9RSGFGQnBBVjJxeDBMZmE2Nk5udkZjQjFtdExHSTZpcjM4b0pmWDhMYWZQeE9KZlI0QmU5d0tNMFBCZVhLMVNtYW13Rm1OaW9lLXMzLTd0bDVsd2NHSGxydVBFZ2pROVFBaUU0U0RWOXBBQnNCeXZYR0lRY2QydEpPYkg0bl9YNA?oc=5",
       "date": "2026-03-04 08:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
       "summary": "How to help lift slumping American math scores  Harvard Gazette..."
+    },
+    {
+      "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
+      "date": "2026-02-20 08:00",
+      "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -217,10 +217,10 @@
       "summary": "South Africa unveils draft AI policy, proposes new institutions and incentives  Reuters..."
     },
     {
-      "title": "How the AI boom derailed clean‑air efforts in one of America's most polluted cities - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUpZUkhfa0FGYUVhTm9xdmp2ZFBsQXB0Z19wMGNfSzVVOWI0a3ZWbi1iNjNBUnZZUWZvenpOanJzRTRXVmlPWWxQQjFSMEpZblBpaEMwb0lybDRrMl9qSDR6TGpVbTNuRTIwa2IyR0Y1ZDRMaU9qNnhkWXo0UHVKckluQXdHQnFQZGo3Qzl6YzNTZXRYUlo4bGtrZHp5MjhYWFFiS21DVW5nX0VFTGdxZldyTHNhNWJ2cVRZTTBTUkpvcm9KZ016V3oyT0p5YmpZaWFB?oc=5",
-      "date": "2026-04-10 10:02",
-      "summary": "How the AI boom derailed clean‑air efforts in one of America's most polluted cities  Reuters..."
+      "title": "Meta transfers top engineers into new AI tooling team - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWk5DRHBndjZYVklrdEpWY3NHRjdFS2NORjFJYW1yNFRLdF9scmhNSzRUaHdlVGFWb2pvU0tuc0hhT3RUYzdXRnI2MlJiNDBGQW1RUWJranR3TUVhYU9RMG1hcmo3RVU4d1lGVkFnY3BPd0prYnM0anc2bWFkWjlqM1ZKUS14bDNPV3ZUcmhLV2gxOVZiMFE2a1pQeDl4LTZ0ZGc?oc=5",
+      "date": "2026-04-09 22:31",
+      "summary": "Meta transfers top engineers into new AI tooling team  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,19 +243,37 @@
       "summary": "AI is changing how small online sellers decide what to make  MIT Technology Review..."
     },
     {
-      "title": "Enabling agent-first process redesign - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWNrZlkwQ0VpQm0tRTBQcnI2bWsxYU1aWHJsbXpEUHVaVjdIT0F6R29peThkZllfdUFDZDFRcUJzc1pQTldGYzJkOTloSVFVUDAxU0FDYmpid2dOQkl3QlBPLXVsd3lEMkxlanV5WkZyN3BsY054T2tiRENZTmNLcW5YeG9BazhXekNPYjVSVkhWMGJ60gGaAUFVX3lxTE5Oejh4SmtrMXhFOXZYZ1BSQzR3TVAtMDYwclhxYU4xQ0xqdERzZnhETTVoVUpWa0VVTGY3bkZQdEZlSXZDYjhzZExDNzhsLW5YRzBJWEhpNWhHdmxmbjR1bEpJS3ozb2YwaEdQRkl1WmlHUXpwMzlWTGhlZEw3Q2NpeWxnbjdXckJndHZCaS16b2RlNExIdE9XTUE?oc=5",
-      "date": "2026-04-07 14:00",
-      "summary": "Enabling agent-first process redesign  MIT Technology Review..."
-    },
-    {
       "title": "The Download: a battery pivot to AI, and rewriting math - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzN6Y1EydFB0QWxINVdrYUNtTFpuekdJVlppZ1NTMGRrQmpfcDVjZWVtUXdleEk1MG5jcXItRHB5WEdrTkNxSERRMEpGbXBQUUQ5Wm8zM2ZjUGhZZl94NWJ1ek4xS3FVdFJHa3BBU3NUZ05rRFJxMFVyRHpEeTVXN3NHeXFWQjFqejMzNkRGWVRtNEIzZGlHU2xXUXNjbGYt0gGmAUFVX3lxTE1BRXhSQ2J3NkJWeVlPbHI0MlROVllDdmRPT0otcElvTkRBVmw0c1BhSzk4ZF91dl9zdEd3Z0VvUUplT0RYa2xyREQ3NlFSd2pfSWdEOEJySDRnMFpRMHB0TklWM2FjelFCaExEb0hISlVjeXFKeThRMTdoU2wxdG1fRVk4bzVDRDdGZXB4eWZQZHl5S3BiQkNPRlVLN0lTc0RJMTJDY3c?oc=5",
       "date": "2026-03-26 07:00",
       "summary": "The Download: a battery pivot to AI, and rewriting math  MIT Technology Review..."
+    },
+    {
+      "title": "Enabling agent-first process redesign - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWNrZlkwQ0VpQm0tRTBQcnI2bWsxYU1aWHJsbXpEUHVaVjdIT0F6R29peThkZllfdUFDZDFRcUJzc1pQTldGYzJkOTloSVFVUDAxU0FDYmpid2dOQkl3QlBPLXVsd3lEMkxlanV5WkZyN3BsY054T2tiRENZTmNLcW5YeG9BazhXekNPYjVSVkhWMGJ60gGaAUFVX3lxTE5Oejh4SmtrMXhFOXZYZ1BSQzR3TVAtMDYwclhxYU4xQ0xqdERzZnhETTVoVUpWa0VVTGY3bkZQdEZlSXZDYjhzZExDNzhsLW5YRzBJWEhpNWhHdmxmbjR1bEpJS3ozb2YwaEdQRkl1WmlHUXpwMzlWTGhlZEw3Q2NpeWxnbjdXckJndHZCaS16b2RlNExIdE9XTUE?oc=5",
+      "date": "2026-04-07 14:00",
+      "summary": "Enabling agent-first process redesign  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "AI can design and run thousands of lab experiments without human hands. Humanity isn't ready",
+      "link": "https://phys.org/news/2026-04-ai-thousands-lab-human-humanity.html",
+      "date": "2026-04-12 15:30",
+      "summary": "Artificial intelligence is rapidly learning to autonomously design and run biological experiments, but the systems intended to gov..."
+    },
+    {
+      "title": "Electrode technology achieves 86% efficiency for converting CO₂ into plastic precursors",
+      "link": "https://phys.org/news/2026-04-electrode-technology-efficiency-plastic-precursors.html",
+      "date": "2026-04-12 15:00",
+      "summary": "In the process of converting carbon dioxide into useful chemicals such as ethylene—a key precursor for plastics—a major challenge ..."
+    },
+    {
+      "title": "Unlocking how dogs' fungal ear infections evade treatment",
+      "link": "https://phys.org/news/2026-04-dogs-fungal-ear-infections-evade.html",
+      "date": "2026-04-12 14:30",
+      "summary": "Mutations in a key protein make a yeast found in dogs with common outer ear infections more resistant to the topical antifungals u..."
+    },
     {
       "title": "Meet Orpheus—A hopper mission built to hunt for life in Martian volcanoes",
       "link": "https://phys.org/news/2026-04-orpheus-hopper-mission-built-life.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-04-space-telescopes-track-nearby-quasar.html",
       "date": "2026-04-12 13:00",
       "summary": "By analyzing the data from various space observatories, Chinese astronomers have inspected a nearby quasar designated SDSS J000532..."
-    },
-    {
-      "title": "New study targets cost hurdles in forest restoration",
-      "link": "https://phys.org/news/2026-04-hurdles-forest.html",
-      "date": "2026-04-12 12:00",
-      "summary": "As the West faces increasingly destructive wildfires, land managers rely on mechanical thinning to reduce hazardous fuels and rest..."
-    },
-    {
-      "title": "Artemis crew urges unity on 'lifeboat' Earth",
-      "link": "https://phys.org/news/2026-04-artemis-crew-urges-unity-lifeboat.html",
-      "date": "2026-04-12 08:22",
-      "summary": "Artemis II astronauts expressed awe on Saturday over their record-setting lunar flyby mission, urging unity on Earth after witness..."
-    },
-    {
-      "title": "Inquiry-based biomimicry course inspires students to design solutions by learning from nature",
-      "link": "https://phys.org/news/2026-04-inquiry-based-biomimicry-students-solutions.html",
-      "date": "2026-04-11 23:30",
-      "summary": "Research and innovation in Texas A&M University's biomedical engineering department often centers around clinical impact on patien..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong, mainland China sign ‘milestone’ MOU on promoting digital economy",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349815/hong-kong-mainland-china-sign-milestone-mou-promoting-digital-economy?utm_source=rss_feed",
+      "date": "2026-04-12 14:18",
+      "summary": "Hong Kong authorities have signed a memorandum of understanding (MOU) with mainland China’s top internet regulator to promote the ..."
+    },
+    {
       "title": "Progress hailed as Hong Kong, Shanghai link digital authentication systems",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349811/progress-hailed-hong-kong-shanghai-link-digital-authentication-systems?utm_source=rss_feed",
       "date": "2026-04-12 12:25",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3349800/why-cantopop-star-hins-cheungs-new-mentor-role-has-polarised-hong-kong-fans?utm_source=rss_feed",
       "date": "2026-04-12 10:11",
       "summary": "Hong Kong singer Hins Cheung’s new role as a mentor and volunteer for the Security Bureau’s youth rehabilitation programme has sen..."
-    },
-    {
-      "title": "Fire breaks out at Hong Kong columbarium, injuring 2 people",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3349798/fire-breaks-out-hong-kong-columbarium-injuring-2-people?utm_source=rss_feed",
-      "date": "2026-04-12 09:41",
-      "summary": "Heavy use of a joss paper burner led to a fire at a Hong Kong columbarium that sent ashes flying, injuring at least two people on ..."
     }
   ],
   "New Scientist": [
