@@ -33,10 +33,22 @@
   ],
   "Harvard Gazette": [
     {
+      "title": "Anthropologist traces split between Homo sapiens and Neanderthals - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QUnB1OG1jeGdHSzNKQkt0LVE3RnNyaDk1Y0R4bkRwM2JXLXZFaFJtcnVzWExySE83cE5IWks2OWY5YVdJaHJuS29hUVJHaGcySjk3bzJ0eUVsSVNoWFhsdlM4S2dCekRxc3dDVTZaVWgtQQ?oc=5",
+      "date": "2026-04-01 07:00",
+      "summary": "Anthropologist traces split between Homo sapiens and Neanderthals  Harvard Gazette..."
+    },
+    {
       "title": "Wonder served him well - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHpkLV9RSGFGQnBBVjJxeDBMZmE2Nk5udkZjQjFtdExHSTZpcjM4b0pmWDhMYWZQeE9KZlI0QmU5d0tNMFBCZVhLMVNtYW13Rm1OaW9lLXMzLTd0bDVsd2NHSGxydVBFZ2pROVFBaUU0U0RWOXBBQnNCeXZYR0lRY2QydEpPYkg0bl9YNA?oc=5",
       "date": "2026-03-04 08:00",
       "summary": "Wonder served him well  Harvard Gazette..."
+    },
+    {
+      "title": "Economists weigh consequences of war, tariffs, AI - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT3g4NkF5QTdGMG1JRXd3YVJoQS00c3RIclh2LVp1eHZGUHlPbnEtT1dUUFQ2UWhQWC1PbFRWbUpXTlVGamRkWXFhWlJQUFJlajZ4RXJ6WTc2YUNDR19rWWhPWFVWNXVSSUcwblpreHFVbE5YaTN6OUFXLW1sTmZ2bjBNa2cyMmRhODk3U19TTFpHTld2ZE5CZ0otNA?oc=5",
+      "date": "2026-03-23 07:00",
+      "summary": "Economists weigh consequences of war, tariffs, AI  Harvard Gazette..."
     },
     {
       "title": "How academia can help America heal - Harvard Gazette",
@@ -49,18 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
       "date": "2026-01-23 08:00",
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
-    },
-    {
-      "title": "How to help lift slumping American math scores - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
-      "date": "2026-01-26 08:00",
-      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
-    },
-    {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
-      "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -193,16 +193,16 @@
   ],
   "Reuters AI": [
     {
+      "title": "OpenAI's $852 billion valuation faces investor scrutiny amid strategy shift, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb0VMMXZWWVdWWUFVMkJUSVlaWHRub2E1V2lBZlZ1WjRvOWtvZEVzYnRJWlJYaXJYVk9NMFlpUWJrN0hKN0hHYlp1c0hKTEQ3V0ZQTkItUDh4YXk2TERkTnItQXdJaW14bGE0WFNsLXdrSmhZaXZ2VVFtZWFmU2NZdC1xMUZnX1ZNTVFWSFJuQ3FSR3NBNjRSRFNudXkwVFVSaF8tRW5kdWxpb2VRY1hicHlIdk5xWUhaMjVKX1VpYndYUUdXeHNvTEpR?oc=5",
+      "date": "2026-04-14 04:09",
+      "summary": "OpenAI's $852 billion valuation faces investor scrutiny amid strategy shift, FT reports  Reuters..."
+    },
+    {
       "title": "Chinese AI startup StepFun to unwind offshore structure to pave way for IPO, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdldCcU9ZUl9aZmplZ29ZRnU4NXJFWm9wVWZwcEpVNnJUNVZkOFNwNk5pTmU2UU5Sb2p3ZWFtdC1HT3ZDRENfbjVaa0ZrVVZkY3ZWWjdCNmFuT3dvR05aZ0thN0tDZW8zWm1Ca3A3LWVNbTRPemxHVzZxYzhpTDNjNHItS3hBanppME1FbF9XQUpCVkxSdTR2RUFOUmo1UUtKd000cXpVUUxoOUltTG9uNDFiSG9GcnhmRFFiQWtXWHZMR2s?oc=5",
       "date": "2026-04-13 06:58",
       "summary": "Chinese AI startup StepFun to unwind offshore structure to pave way for IPO, sources say  Reuters..."
-    },
-    {
-      "title": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjVQbGx0dTdPakwtSTdQYWk0YmFFWmRxYTlEZ1FRaWl5UkVaX2EzUGhETW9qOVlGYl9MMk9Va3BXOTJGWXhqbm10UGZFRlE5V19HTkhQMko5eGU0a05LRTRUOU1sZVJ6Q1ZNOTFKTEtiR3hJSUpQVWpCNVhnZldPbGtqSllFNE12NUpFZFNjTGZDMlZySldla0NZa0JlNG5XQVVxTmo2ZG1rUUNHbExiQzgtSlp2Wm1ucWU2cnc0b1Zidw?oc=5",
-      "date": "2026-04-13 12:15",
-      "summary": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing  Reuters..."
     },
     {
       "title": "OpenAI unveils GPT-5.4-Cyber a week after rival's announcement of AI model - Reuters",
@@ -211,10 +211,10 @@
       "summary": "OpenAI unveils GPT-5.4-Cyber a week after rival's announcement of AI model  Reuters..."
     },
     {
-      "title": "Meta inks deal with Broadcom for custom AI chips - Reuters",
+      "title": "Meta extends custom chips deal with Broadcom to power AI ambitions - Reuters",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNURIUzJlUG5yTm5uR21LUFdnX3ZkY1Ruc0lLdF9UREwxanVOLWJUY1NrRC0zQW9USkZVU1B4Y1BCMUFDSDh1dWxDQ2hob2xQMUVKTG5iOUNlbG4yMnJMQkhWUmVCT0NoTDB2Tm8wY0lBclRMa3lMNS1Gb1JCaWg4YnJyQ2NOV041SFFfdkhXNEdNQ2M?oc=5",
-      "date": "2026-04-14 21:40",
-      "summary": "Meta inks deal with Broadcom for custom AI chips  Reuters..."
+      "date": "2026-04-14 22:39",
+      "summary": "Meta extends custom chips deal with Broadcom to power AI ambitions  Reuters..."
     },
     {
       "title": "Amazon launches AI research tool to speed early-stage drug discovery - Reuters",
@@ -249,45 +249,51 @@
       "summary": "Why opinion on AI is so divided  MIT Technology Review..."
     },
     {
-      "title": "The problem with thinking you’re part Neanderthal - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGVKVzBzblh4ZmdQSkoxNHIyM1QwcWdrVHBOU01MS1hmdFl3djZvQ0VuSkZwNFFmcXphakx1TllsZkhCOXE5OXhPV3YwTGNpN09MSzZGLXZRMWJTaW1iYlpiMS1TU3pCT0dsWmktVG9JalhsMjU0akxsTVFSRlo4Wml1eHVNcXh6d1pZY2JDLURyMksyQmdtT1BtSFp0RlFnS0s2ctIBqgFBVV95cUxQek5mX2I5UEZBN1pKZWQxMmtTOVNQdVNTVFBUVXZrZ1RsWVhzRVUxYi1nd1VFNU1rbml6WVNyTFZjRjM2dW91MzBiQVprRlFFM3NpaXNNWEpiZVFva0lhUXBlQ0JkNnpuendxWnZMTFhJTGJBeGowcVIzc3JWQVdTOGVfRjNuUlhlUmlnRTZVa3N1czQydDNoOERWUTdZRmZuUE1mSlQ2VnpLZw?oc=5",
-      "date": "2026-04-14 10:00",
-      "summary": "The problem with thinking you’re part Neanderthal  MIT Technology Review..."
+      "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05TenVCM2RnemYzbnpKQTZiSnNOSWhFQndtSWtSVHlSdkFIdU1NMzdPQVdIT0dTVXFKVExRUnF6eTZuYXp5R1hOTG8yWmFCRFB6d29oUng2am1yOF96ZG5CLVBLY2dmVV83emR1Z3ZIaXc2UTdKR0xXREpFeXp4ZGtBaHpEQnJuUHVsZNIBkgFBVV95cUxNdEdEX2JIS3UycVhRQ1VmbndxWEJaMmROTWlEbUVwa0lFVGxqei1HRmpMSC1VcmNUQnVRUEtUZjROSVllOFJHMG1wZDlPRHFCTTJUODFWemV1S3lsRXhFNk1KaGo5Nmp2TzN1cXRPVi1adU9ialhQWFhLNmxlcWlNdTQ0TThEdkp0UkZaMEI1SE1idw?oc=5",
+      "date": "2026-04-14 12:04",
+      "summary": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "A simpler way to count cool roofs' climate payoff could reshape local carbon planning",
-      "link": "https://phys.org/news/2026-04-simpler-cool-roofs-climate-payoff.html",
-      "date": "2026-04-14 22:40",
-      "summary": "A new study by Hashem Akbari, a professor in the Department of Building, Civil and Environmental Engineering, offers a simplified ..."
+      "title": "New national framework in Australia strengthens antimicrobial stewardship in animal industries",
+      "link": "https://phys.org/news/2026-04-national-framework-australia-antimicrobial-stewardship.html",
+      "date": "2026-04-14 23:40",
+      "summary": "Australia's animal sectors now have a comprehensive framework to help strengthen the industry's response to antimicrobial resistan..."
     },
     {
-      "title": "Graphene as a charge mirror: Why water droplets 'see' graphene—but don't show it",
-      "link": "https://phys.org/news/2026-04-graphene-mirror-droplets-dont.html",
-      "date": "2026-04-14 22:40",
-      "summary": "Research on graphene has made great strides in recent years. However, to fully harness its potential in applications such as desal..."
+      "title": "Discovery of Addison's disease gene in dogs could help humans as well",
+      "link": "https://phys.org/news/2026-04-discovery-addison-disease-gene-dogs.html",
+      "date": "2026-04-14 23:40",
+      "summary": "Among dog breeds, Nova Scotia duck tolling retrievers (tollers) have an unusually high rate of Addison's disease, a condition in w..."
     },
     {
-      "title": "Catching distant gamma-ray explosions with precisely aligned X-ray optics",
-      "link": "https://phys.org/news/2026-04-distant-gamma-ray-explosions-precisely.html",
-      "date": "2026-04-14 22:30",
-      "summary": "Gamma-ray bursts (GRBs) rank among the most powerful explosions in the universe, releasing immense energy in intense flashes of ga..."
+      "title": "Q&A: How smarter forest practices could help protect British Columbia's forests from wildfire, climate stress",
+      "link": "https://phys.org/news/2026-04-qa-smarter-forest-british-columbia.html",
+      "date": "2026-04-14 23:20",
+      "summary": "New research from the UBC-based Mother Tree Project is shedding light on how forests respond to harvesting and climate stress, inc..."
     },
     {
-      "title": "Mushroom slime removes up to 98.4% of microplastics from water, researchers report",
-      "link": "https://phys.org/news/2026-04-mushroom-slime-microplastics.html",
-      "date": "2026-04-14 22:20",
-      "summary": "Microplastics and nanoplastics are tiny plastic particles that result from the breakdown of larger plastic products due to sunligh..."
+      "title": "Young stars dim quickly in their X-ray output, potentially benefiting orbiting planets",
+      "link": "https://phys.org/news/2026-04-young-stars-dim-quickly-ray.html",
+      "date": "2026-04-14 23:20",
+      "summary": "Scientists have found that young stellar cousins of our sun are calming down and dimming more quickly in their X-ray output than p..."
     },
     {
-      "title": "Using computed tomography to study DNA from ancient humans without destroying samples",
-      "link": "https://phys.org/news/2026-04-tomography-dna-ancient-humans-destroying.html",
-      "date": "2026-04-14 22:20",
-      "summary": "Research on ancient DNA is surging, but how can scientists ensure that human remains of irreplaceable significance are preserved? ..."
+      "title": "Birds that put more energy into parenthood age faster and die younger, research shows",
+      "link": "https://phys.org/news/2026-04-birds-energy-parenthood-age-faster.html",
+      "date": "2026-04-14 23:10",
+      "summary": "In a new study, appearing in Proceedings of the Royal Society B: Biological Sciences, scientists selectively bred Japanese quails ..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "‘An incalculable loss’: Hampshire College to close doors after fall semester",
+      "link": "https://www.theguardian.com/us-news/2026/apr/14/hampshire-college-massachusetts-closure",
+      "date": "2026-04-14 22:59",
+      "summary": "Massachusetts liberal arts college laments ‘heartbreaking reality’ and says financial pressures to blameA Massachusetts liberal ar..."
+    },
     {
       "title": "Surrounded by windfarms but out of work: the reality of the green jobs boom on England’s east coast",
       "link": "https://www.theguardian.com/environment/2026/apr/14/windfarm-reality-green-jobs-boom-englands-east-coast-unemployment",
@@ -311,12 +317,6 @@
       "link": "https://www.theguardian.com/money/2026/apr/11/student-loan-interest-rise-despite-uk-cap-rates-inflation",
       "date": "2026-04-11 08:03",
       "summary": "Temporary limit in England and Wales won’t stop many facing higher charges from autumn due to jump in inflation from Iran warGover..."
-    },
-    {
-      "title": "Weekend students at 15 universities in England told to return loans and grants",
-      "link": "https://www.theguardian.com/education/2026/apr/09/weekend-students-at-15-universities-in-england-told-to-return-loans-and-grants",
-      "date": "2026-04-09 15:49",
-      "summary": "Student Finance England tells about 22,000 students their universities wrongly told them they were eligibleMore than 20,000 univer..."
     }
   ],
   "SCMP Hong Kong": [
