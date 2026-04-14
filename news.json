@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Human-machine teaming dives underwater",
+      "link": "https://news.mit.edu/2026/human-machine-teaming-dives-underwater-0414",
+      "date": "2026-04-14 13:00",
+      "summary": "Researchers are developing hardware and algorithms to improve collaboration between divers and autonomous underwater vehicles enga..."
+    },
+    {
       "title": "Carbon removal project supports Maine’s blue economy, broader marine health",
       "link": "https://news.mit.edu/2026/carbon-removal-project-supports-maines-blue-economy-broader-marine-health-0414",
       "date": "2026-04-14 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/slice-and-dice-snipe-bacterial-defense-0409",
       "date": "2026-04-09 18:00",
       "summary": "SNIPE, a newly characterized biological defense system, directly protects bacteria by chopping up invading viral DNA...."
-    },
-    {
-      "title": "A new type of electrically driven artificial muscle fiber",
-      "link": "https://news.mit.edu/2026/new-type-electrically-driven-artificial-muscle-fiber-0409",
-      "date": "2026-04-09 15:00",
-      "summary": "Electrofluidic fibers mimic how natural muscle fibers bundle, and could enable compact, silent robotic and prosthetic systems...."
     }
   ],
   "Harvard Gazette": [
@@ -71,60 +71,60 @@
       "summary": "Inside the AI Index: 12 Takeaways from the 2026 Report  Stanford HAI..."
     },
     {
-      "title": "China has erased the US lead in AI, Stanford HAI’s 2026 AI index reveals - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU0I0RFZicU5nOGpnS2pqeFNRV2NJeTd1a1VmNDVVSXktMmNCajgzTV84QnpVUkpIV0steHE4cEc0YXRnSFVNRHFLMVJicTgzR21TNHpuTmxhUnRJZ19HOS14b2x1UEJYalBlYjBnZTJpTUdJV3lPRjJpbmptUS1xZFVtSF9zMThSRDY2YUIzYW5qNGRwbjhiVWRHNUpYaTk1bWZtX052YUlVUTJCRkFxdnMyY191RlN0Qmc?oc=5",
-      "date": "2026-04-13 13:00",
-      "summary": "China has erased the US lead in AI, Stanford HAI’s 2026 AI index reveals  SiliconANGLE..."
-    },
-    {
       "title": "Stanford Study: AI Experts Are Optimistic About AI. The Rest of Us … Not So Much - KQED",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEJJOXRjM1lCZUdWRGNPdFExNUl0MVpzaWhUdVFQc0s4dUxqSDQwX0J5SEpNdko3UlhNT210MG5vbnVoRk56V3JHdFNLdldQMUZMZG1ET08yc215LUc1ZVo3RnVjVG1kSDFzeUNDaWpkYXRsQ1dCTTdFbmNqUE1EcGN1ejQtdERXNG9Ba0hOWVBqWlVVNDJmY250dXJ1eng5THhmZHdfa0w3cGJPbDlWdg?oc=5",
       "date": "2026-04-13 16:57",
       "summary": "Stanford Study: AI Experts Are Optimistic About AI. The Rest of Us … Not So Much  KQED..."
     },
     {
+      "title": "China has erased the US lead in AI, Stanford HAI’s 2026 AI index reveals - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU0I0RFZicU5nOGpnS2pqeFNRV2NJeTd1a1VmNDVVSXktMmNCajgzTV84QnpVUkpIV0steHE4cEc0YXRnSFVNRHFLMVJicTgzR21TNHpuTmxhUnRJZ19HOS14b2x1UEJYalBlYjBnZTJpTUdJV3lPRjJpbmptUS1xZFVtSF9zMThSRDY2YUIzYW5qNGRwbjhiVWRHNUpYaTk1bWZtX052YUlVUTJCRkFxdnMyY191RlN0Qmc?oc=5",
+      "date": "2026-04-13 13:00",
+      "summary": "China has erased the US lead in AI, Stanford HAI’s 2026 AI index reveals  SiliconANGLE..."
+    },
+    {
+      "title": "India has 50K-strong AI talent pool but leads world in net outflows: Stanford University report - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTHVqdHRoSnVqMEx2c3hqc2NCbmt3QnQ5M3Z1WWV5Z3JfemhQZFJvRXBLbThHQzgyQWlCSU5tS1RJRDNGZ1hiSVVDTTQ5ZzB2Rk9Eb1Y4dTIyc2hrMDhza3pQSVllb0ZkNVRRMlNxTmNzTmFYeVM1aFZQckNlRWtRTWh3dURscFlLejRleW53bFBFS244ajhlbC1GV19WOTk2SHhvRWdUdnJRbGd5bkVKbXllVzFjb1Z5SjRkQVZoVmk2NXZCUGIxWnVCYkpMNUZnaUHSAdgBQVVfeXFMTXM3WUswd1NYOUJIZjFhZVhrWlNuclBvUFBoQkxna3otYjdMM2pVTFp1V2JRVkp6RXpMNzRpeWxpZExGN3ZNRi1WZmRXYUNXeXZVUV9TR0MzcElqbVcxdG5SV01SNTRwNXpkbVAyZi1sd1NHSF9SekExVE9Ba2YzZW1Sb2h5TFRfN0w4MlF4MzVhVVB6QnIzbHUtQ2JqODdTUXBPa2oyMlEzNWM4di1PbDVycHhkVE5FWDRvbnBTYUlhWWw1RjRtV210dmZPSHRmRG81QmExT0hF?oc=5",
+      "date": "2026-04-13 07:00",
+      "summary": "India has 50K-strong AI talent pool but leads world in net outflows: Stanford University report  The Indian Express..."
+    },
+    {
       "title": "Stanford report highlights growing disconnect between AI insiders and everyone else - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3NIU1VFS2xlYWp6ZllrckVmYUpsN0ZGRUJGR09OZ09WV0dIUXc2RURZNnRiWWRxRXpmQlJBclpPUkZrUTVDY1ZGUXB1c2UzSjNNTDdiZEdHaUpLS3llRkttOWVNSWtpa0FMNXBsMms1NmtyUVNZbXFYX2l4eF9nOVBGNFR5dy13WW5iTHY2Z1hUemlLS3djdFVIZHlYMURpZklQdDg3N3UxaDJiYndlUkYtVWVsN1AwM3c?oc=5",
       "date": "2026-04-13 18:55",
       "summary": "Stanford report highlights growing disconnect between AI insiders and everyone else  TechCrunch..."
-    },
-    {
-      "title": "No. 9 Softball Drops Game Two of the Series to No. 23 Stanford - seminoles.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnh3VmZMalZmbllqTW9ZamI5ZWg2SkQxdTE1UUJ6WGVkNUxJTlZOdVRXRkhJVFA0WkRsUkJ5dlJkb2dTMW9PUWk2ckhGcjE5X08taUxud0NGMUFrbHJ1SHJMZnhqalMyQ2ZsTUxpLWRtRW5HS3pUWlo2ei1QUF9aWU1RMXlkdk1uY2xseWN2dmNwZWVUWlprWDJCd1ljdw?oc=5",
-      "date": "2026-04-12 05:47",
-      "summary": "No. 9 Softball Drops Game Two of the Series to No. 23 Stanford  seminoles.com..."
     }
   ],
   "Nature Careers": [
     {
-      "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil",
-      "link": "https://www.nature.com/articles/d41586-026-01211-6",
-      "date": "2026-04-13 00:00",
-      "summary": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-01211-6The missing samples — reported to include chikungunya and d..."
+      "title": "Stop overlooking librarians’ expertise",
+      "link": "https://www.nature.com/articles/d41586-026-01217-0",
+      "date": "2026-04-14 00:00",
+      "summary": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01217-0Stop overlooking librarians’ expertise..."
     },
     {
-      "title": "14 things our PhD supervisors got right and why it mattered",
-      "link": "https://www.nature.com/articles/d41586-026-00853-w",
-      "date": "2026-04-13 00:00",
-      "summary": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-00853-wPhD students reflect on how their supervisors made a meanin..."
+      "title": "Deep-sea mining mustn’t go ahead until there are baseline data",
+      "link": "https://www.nature.com/articles/d41586-026-01215-2",
+      "date": "2026-04-14 00:00",
+      "summary": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01215-2Deep-sea mining mustn’t go ahead until there are baseline d..."
     },
     {
-      "title": "The ‘crazy rule-defying’ genes that determine sex",
-      "link": "https://www.nature.com/articles/d41586-026-01101-x",
-      "date": "2026-04-13 00:00",
-      "summary": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-01101-xA gripping account reveals the workings of the remarkable c..."
+      "title": "AI agents replicate human social dynamics in days",
+      "link": "https://www.nature.com/articles/d41586-026-01218-z",
+      "date": "2026-04-14 00:00",
+      "summary": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01218-zAI agents replicate human social dynamics in days..."
     },
     {
-      "title": "Human scientists trounce the best AI agents on complex tasks",
-      "link": "https://www.nature.com/articles/d41586-026-01199-z",
-      "date": "2026-04-13 00:00",
-      "summary": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-01199-zState-of-the-industry report finds that, despite the limita..."
+      "title": "China discontinues prominent journal ranking list",
+      "link": "https://www.nature.com/articles/d41586-026-01216-1",
+      "date": "2026-04-14 00:00",
+      "summary": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01216-1China discontinues prominent journal ranking list..."
     },
     {
-      "title": "How I harness research to inform humanitarian relief efforts",
-      "link": "https://www.nature.com/articles/d41586-026-00197-5",
-      "date": "2026-04-13 00:00",
-      "summary": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-00197-5As a social scientist at Médecins Sans Frontières, Beverley..."
+      "title": "The air is full of DNA — here’s what scientists are using it for",
+      "link": "https://www.nature.com/articles/d41586-026-01099-2",
+      "date": "2026-04-14 00:00",
+      "summary": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01099-2Airborne genetic material can be used to paint a picture of..."
     }
   ],
   "Science News": [
@@ -199,28 +199,28 @@
       "summary": "Chinese AI startup StepFun to unwind offshore structure to pave way for IPO, sources say  Reuters..."
     },
     {
-      "title": "UK regulators rush to assess risks of latest Anthropic AI model, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTE5WeEN6VnpyejdsUVA2OWlMNUZabmVPMGpLUkIzbDVMZXgyZ3JhWjBIU2dwODdZZzZpZThObkFQME9QMk8xX0Y2MXg3TVhBdzZsS3hPXzJJLVQ3aTY5SkxHTVBTWnBRRmVvbEhZcVBrVkswdWZLQlpYbWNZdFF1cW9PbzRRdHU0R3VmQ1NKRnZhSWZ3SGdCSThLdWdMZGNvNnRkQzJObUMtcTBUTWFXb3pNSkNfaE4yUmJrRkpUQWh1Zw?oc=5",
-      "date": "2026-04-12 11:55",
-      "summary": "UK regulators rush to assess risks of latest Anthropic AI model, FT reports  Reuters..."
+      "title": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjVQbGx0dTdPakwtSTdQYWk0YmFFWmRxYTlEZ1FRaWl5UkVaX2EzUGhETW9qOVlGYl9MMk9Va3BXOTJGWXhqbm10UGZFRlE5V19HTkhQMko5eGU0a05LRTRUOU1sZVJ6Q1ZNOTFKTEtiR3hJSUpQVWpCNVhnZldPbGtqSllFNE12NUpFZFNjTGZDMlZySldla0NZa0JlNG5XQVVxTmo2ZG1rUUNHbExiQzgtSlp2Wm1ucWU2cnc0b1Zidw?oc=5",
+      "date": "2026-04-13 12:15",
+      "summary": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing  Reuters..."
     },
     {
-      "title": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94RlB3dGJYT1hMSEw3SU85Q3JxODF0cmRxanltVzZ0ZE9RSmtSYmZZTjFyanlpR2FpdVd2aVdnMmRwQkdqZFZxWjd5dFVqaHczdFRIVm52c0Z3R3h5QWhVOENtdmxlVU14T3J4Y3ZJSEdtSmJrQl9MUA?oc=5",
-      "date": "2026-04-13 12:14",
-      "summary": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing  Yahoo News Canada..."
-    },
-    {
-      "title": "Korean AI chip startup DeepX prepares public share offering - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWNDcWx2b2VMTFgwWTRqUUJXeGNGU3JwOHFyamNySXFnQmlscVRaZm42QXZaYmN5WUplb3Y2SmVQcUwxTHhlQmZQN2VPQ3JhYzJ1V0wwMzZkQkxzeVhoWWJKSm1lVnBWTkpka2dqWElqWFR0VFE1ZmxKRE4yZ3NUMlFaVmo1bS1QNEZ5VGVTRnFxX0hiQkE5cElVdTdQcF9QMFVnTWd5MnFWY1pYYU5IS1RtTWZXOFpFWnc?oc=5",
-      "date": "2026-04-14 04:12",
-      "summary": "Korean AI chip startup DeepX prepares public share offering  Reuters..."
+      "title": "ASML investors bet on 'picks and shovels' of AI revolution - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmM0UDM5RHRkSHd3alFLcXdkSUktOWlFZ0FteHdkVFdkQ0wzMTFROHIxT1RFdVBHNXNtTDUyVHhzZzdSMHNWSVgwWU9lYWI1eC1IS2F3NEZ0SXdwQUpzX0tuSDhtUlN4b05ZVW5zdm5oSkxUcmk5dUlpR3BydjJKeEF0M3FQTFNNTElCVmc2N0IyYzc5ZUI4MjdLdE1IY1JZMy1z?oc=5",
+      "date": "2026-04-14 12:02",
+      "summary": "ASML investors bet on 'picks and shovels' of AI revolution  Reuters..."
     },
     {
       "title": "OpenAI's $852 billion valuation faces investor scrutiny amid strategy shift, FT reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb0VMMXZWWVdWWUFVMkJUSVlaWHRub2E1V2lBZlZ1WjRvOWtvZEVzYnRJWlJYaXJYVk9NMFlpUWJrN0hKN0hHYlp1c0hKTEQ3V0ZQTkItUDh4YXk2TERkTnItQXdJaW14bGE0WFNsLXdrSmhZaXZ2VVFtZWFmU2NZdC1xMUZnX1ZNTVFWSFJuQ3FSR3NBNjRSRFNudXkwVFVSaF8tRW5kdWxpb2VRY1hicHlIdk5xWUhaMjVKX1VpYndYUUdXeHNvTEpR?oc=5",
       "date": "2026-04-14 04:09",
       "summary": "OpenAI's $852 billion valuation faces investor scrutiny amid strategy shift, FT reports  Reuters..."
+    },
+    {
+      "title": "Korean AI chip startup DeepX prepares public share offering - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWNDcWx2b2VMTFgwWTRqUUJXeGNGU3JwOHFyamNySXFnQmlscVRaZm42QXZaYmN5WUplb3Y2SmVQcUwxTHhlQmZQN2VPQ3JhYzJ1V0wwMzZkQkxzeVhoWWJKSm1lVnBWTkpka2dqWElqWFR0VFE1ZmxKRE4yZ3NUMlFaVmo1bS1QNEZ5VGVTRnFxX0hiQkE5cElVdTdQcF9QMFVnTWd5MnFWY1pYYU5IS1RtTWZXOFpFWnc?oc=5",
+      "date": "2026-04-14 04:12",
+      "summary": "Korean AI chip startup DeepX prepares public share offering  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "The 'ungrateful lungfish': Study focuses on sustainable food sources for very hungry ancient fish",
-      "link": "https://phys.org/news/2026-04-ungrateful-lungfish-focuses-sustainable-food.html",
-      "date": "2026-04-14 11:00",
-      "summary": "Like a naughty pet Labrador, the Australian lungfish has little restraint when it comes to food. \"We had 360 sqm of aquatic plants..."
+      "title": "Bats on a break: Tracking the secret life of pond bats",
+      "link": "https://phys.org/news/2026-04-tracking-secret-life-pond.html",
+      "date": "2026-04-14 13:20",
+      "summary": "What do bats do at night when they're not hunting? Using tiny GPS trackers, Leiden researchers discovered that pond bats spend a s..."
     },
     {
-      "title": "No great equalizer: Young laborers were hit hardest by early modern plague",
-      "link": "https://phys.org/news/2026-04-great-equalizer-young-laborers-hardest.html",
-      "date": "2026-04-14 09:00",
-      "summary": "A multidisciplinary archaeological team has examined plague burials from a 17th-century monastery turned hospital in Basel, Switze..."
+      "title": "A 'blob' in a tank is helping scientists tease out the secrets of turbulence",
+      "link": "https://phys.org/news/2026-04-blob-tank-scientists-secrets-turbulence.html",
+      "date": "2026-04-14 13:00",
+      "summary": "In a tank on the bottom floor of a University of Chicago research laboratory, scientists summon \"The Blob\" into existence by firin..."
     },
     {
-      "title": "Contaminants, including ink, detected in meteorites suggest sample preparation needs improving",
-      "link": "https://phys.org/news/2026-04-contaminants-ink-meteorites-sample.html",
-      "date": "2026-04-14 08:13",
-      "summary": "The IBeA group of the EHU-University of the Basque Country is proposing new measures to safeguard the purity of extraterrestrial s..."
+      "title": "Whales go quiet during noisy underwater surveys",
+      "link": "https://phys.org/news/2026-04-whales-quiet-noisy-underwater-surveys.html",
+      "date": "2026-04-14 12:40",
+      "summary": "A new study has shown that whale calls are reduced by as much as 50% in response to seismic surveys, which are commonly used to fi..."
     },
     {
-      "title": "Ancient graves and DNA uncover family bonds that went beyond genetics",
-      "link": "https://phys.org/news/2026-04-ancient-graves-dna-uncover-family.html",
-      "date": "2026-04-14 07:00",
-      "summary": "You probably have a member of your family that you're not related to by blood—a step-parent, an adopted cousin, your mom's best fr..."
+      "title": "New research finds workers are leveraging AI for career mobility as employers struggle to keep pace",
+      "link": "https://phys.org/news/2026-04-workers-leveraging-ai-career-mobility.html",
+      "date": "2026-04-14 12:20",
+      "summary": "The University of Phoenix Career Institute has released its sixth annual Career Optimism Index, a recurring national workforce res..."
     },
     {
-      "title": "Information from starquakes provides theoretical evidence for 'fossilized' magnetism in stars",
-      "link": "https://phys.org/news/2026-04-starquakes-theoretical-evidence-fossilized-magnetism.html",
-      "date": "2026-04-14 07:00",
-      "summary": "For the first time, new theoretical models, published in Astronomy & Astrophysics, connect the magnetism at the surface of long-de..."
+      "title": "Logged forests burn more severely than old growth, Tasmanian study finds",
+      "link": "https://phys.org/news/2026-04-forests-severely-growth-tasmanian.html",
+      "date": "2026-04-14 12:00",
+      "summary": "Tasmania's logged forests burn significantly more severely in a bushfire than old growth, University of Tasmania scientists have f..."
     }
   ],
   "The Guardian Edu": [
@@ -321,34 +321,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Discovery Bay developer eyes longer taxi trial amid safety fears",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3350080/discovery-bay-developer-eyes-longer-taxi-trial-amid-safety-fears?utm_source=rss_feed",
+      "date": "2026-04-14 13:15",
+      "summary": "The developer of Hong Kong’s Discovery Bay is considering extending its trial period and limiting operating hours for cabbies to g..."
+    },
+    {
+      "title": "Hong Kong retiree gets 1 year in jail for seditious social media comments",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350072/hong-kong-retiree-gets-one-year-jail-seditious-social-media-comments?utm_source=rss_feed",
+      "date": "2026-04-14 12:12",
+      "summary": "A Hong Kong retiree has been jailed for a year under the domestic national security law over seditious remarks on social media, af..."
+    },
+    {
       "title": "Public universities admit 65 non-local DSE pupils last year, a fivefold jump since 2022",
       "link": "https://www.scmp.com/news/hong-kong/education/article/3350061/public-universities-admit-65-non-local-dse-pupils-last-year-fivefold-jump-2022?utm_source=rss_feed",
       "date": "2026-04-14 10:36",
-      "summary": "The number of non-local students admitted to Hong Kong’s public universities with Diploma of Secondary Education (DSE) qualificati..."
+      "summary": "The number of non-local students admitted to government-funded degree programmes at Hong Kong’s public universities with Diploma o..."
     },
     {
       "title": "New York’s Met to debut glittering global jewellery exhibition in Hong Kong",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3350059/met-museums-global-jewellery-exhibition-make-dazzling-hong-kong-debut?utm_source=rss_feed",
       "date": "2026-04-14 10:18",
-      "summary": "Diamond-studded necklaces, golden pectorals and ceremonial smallswords are among about 200 jewellery and decorative pieces, coveri..."
+      "summary": "Diamond-studded necklaces, golden pectorals and ceremonial small swords are among about 200 jewellery and decorative pieces, cover..."
     },
     {
       "title": "Advisory body to be given power to probe government department heads for serious offences",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3350052/advisory-body-be-given-power-probe-government-department-heads-serious-offences?utm_source=rss_feed",
       "date": "2026-04-14 09:47",
       "summary": "A statutory advisory body in Hong Kong will be given new powers as early as June to investigate government department heads over “..."
-    },
-    {
-      "title": "Hong Kong’s basketball betting U-turn ‘aligns with Beijing gambling clampdown’",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3350048/hong-kongs-basketball-betting-u-turn-aligns-beijing-gambling-clampdown?utm_source=rss_feed",
-      "date": "2026-04-14 09:31",
-      "summary": "Hong Kong’s sole legal betting operator and lawmakers were caught off guard by the government’s abrupt decision to suspend the rol..."
-    },
-    {
-      "title": "DSE citizenship exam tests students on social awareness and national principles",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3350036/dse-citizenship-exam-tests-students-social-awareness-and-national-principles?utm_source=rss_feed",
-      "date": "2026-04-14 08:54",
-      "summary": "Hong Kong students sitting the citizenship and social development paper in university entrance exams on Tuesday were tested on the..."
     }
   ],
   "New Scientist": [
