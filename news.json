@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "Inside the AI Index: 12 Takeaways from the 2026 Report - Stanford HAI",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGxZRERhMDlvSW91MG1td1hzeGNvZFRHTzRMWjhOczR2dmlTSU5fQzhfT1U2YW4wUUJlVHYycDZfME4xUHFkdDFkOUpKWVl1U1RDenVkSkFZZzIzWWJnZkhDQW10MEZUdVg5NUFJeXRhZXVBRHdhb09ZdnAxMGw0cHk5ZWVfbnNCRTVJ?oc=5",
+      "date": "2026-04-13 10:02",
+      "summary": "Inside the AI Index: 12 Takeaways from the 2026 Report  Stanford HAI..."
+    },
+    {
       "title": "China has erased the US lead in AI, Stanford HAI’s 2026 AI index reveals - SiliconANGLE",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU0I0RFZicU5nOGpnS2pqeFNRV2NJeTd1a1VmNDVVSXktMmNCajgzTV84QnpVUkpIV0steHE4cEc0YXRnSFVNRHFLMVJicTgzR21TNHpuTmxhUnRJZ19HOS14b2x1UEJYalBlYjBnZTJpTUdJV3lPRjJpbmptUS1xZFVtSF9zMThSRDY2YUIzYW5qNGRwbjhiVWRHNUpYaTk1bWZtX052YUlVUTJCRkFxdnMyY191RlN0Qmc?oc=5",
       "date": "2026-04-13 13:00",
@@ -75,12 +81,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnh3VmZMalZmbllqTW9ZamI5ZWg2SkQxdTE1UUJ6WGVkNUxJTlZOdVRXRkhJVFA0WkRsUkJ5dlJkb2dTMW9PUWk2ckhGcjE5X08taUxud0NGMUFrbHJ1SHJMZnhqalMyQ2ZsTUxpLWRtRW5HS3pUWlo2ei1QUF9aWU1RMXlkdk1uY2xseWN2dmNwZWVUWlprWDJCd1ljdw?oc=5",
       "date": "2026-04-12 05:47",
       "summary": "No. 9 Softball Drops Game Two of the Series to No. 23 Stanford  seminoles.com..."
-    },
-    {
-      "title": "Researchers use ultrasound to create light inside the body - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOWF3U3dSWkxrMzI5ak9OWk11VEs1d080TloxOEs3ZHJSc1VLbm1QZUdxZFRZV25fMk5meWQzUWI2dmtPMmdpdExXVEhLcEUwTXN2bzlVb3owcWtvVmtUUHVMN1VuTGZrazRnd1BRX1lhNFE1eGpWeGk4bkF2RFR0Y1JDLU9qMTZ0VnpTUTdBSXhNaVZabndCVmplQWNGYUhJZEE?oc=5",
-      "date": "2026-04-13 21:04",
-      "summary": "Researchers use ultrasound to create light inside the body  Stanford Report..."
     },
     {
       "title": "Russia labels Stanford University 'undesirable' in escalating crackdown on Western schools - The Kyiv Independent",
@@ -193,22 +193,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDlubVppNDRWVEVzemdMd3oydHYwRHZUYWJGdEdWMy1vSkR5VTU5M2hUeVdYc0c2c2MyNUVwb2FVNDRxNVVMNDFxbWxEV1gxUXBxa29BZnpCaUVUMFVRbDNLLWhZVGFVZ0toQnpJTWpETmllWDZOSGFnOVpIb1dXV1ZELUtnME5hQ2J2MVdGMGlYNHNzeTY4VmI2Z2VTcll6R01XOFY0b3pnR1pNd2ctRFBtdWlhc2FxT1k0aGZvbXl4dElvOFVnMGdtd09uQQ?oc=5",
-      "date": "2026-04-13 03:09",
-      "summary": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand  Reuters..."
-    },
-    {
       "title": "Chinese AI startup StepFun to unwind offshore structure to pave way for IPO, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdldCcU9ZUl9aZmplZ29ZRnU4NXJFWm9wVWZwcEpVNnJUNVZkOFNwNk5pTmU2UU5Sb2p3ZWFtdC1HT3ZDRENfbjVaa0ZrVVZkY3ZWWjdCNmFuT3dvR05aZ0thN0tDZW8zWm1Ca3A3LWVNbTRPemxHVzZxYzhpTDNjNHItS3hBanppME1FbF9XQUpCVkxSdTR2RUFOUmo1UUtKd000cXpVUUxoOUltTG9uNDFiSG9GcnhmRFFiQWtXWHZMR2s?oc=5",
       "date": "2026-04-13 06:56",
       "summary": "Chinese AI startup StepFun to unwind offshore structure to pave way for IPO, sources say  Reuters..."
     },
     {
-      "title": "China's export engine stutters as Iran war wipes out AI-driven gains - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLXhzMWhMLWxBWlF0NWZkb0RLQ3gtNXVYZmRVRng0MUw2clZ6dGVFbFdpeHR2UllHYmRmUHBWT29fNjA3aEQ2bDRzLUN6WGJTM19FVjdRMjQ3VGlLbjZKOEpLV1pRQmpJWnZ3ODRETWRvN2dqcHNYM1lCVUl4TVBEZ2t1SFAwbTd4RXVNVnZrOE9ZVnF4a0J3bnloNWJseGhWTGFJWEJtMnRGbmhX?oc=5",
-      "date": "2026-04-14 03:27",
-      "summary": "China's export engine stutters as Iran war wipes out AI-driven gains  Reuters..."
+      "title": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94RlB3dGJYT1hMSEw3SU85Q3JxODF0cmRxanltVzZ0ZE9RSmtSYmZZTjFyanlpR2FpdVd2aVdnMmRwQkdqZFZxWjd5dFVqaHczdFRIVm52c0Z3R3h5QWhVOENtdmxlVU14T3J4Y3ZJSEdtSmJrQl9MUA?oc=5",
+      "date": "2026-04-13 12:14",
+      "summary": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing  Yahoo News Canada..."
     },
     {
       "title": "Anthropic talking to the Trump administration about its next AI model, co-founder says - Reuters",
@@ -217,10 +211,16 @@
       "summary": "Anthropic talking to the Trump administration about its next AI model, co-founder says  Reuters..."
     },
     {
-      "title": "AI-boosted hacks with Anthropic’s Mythos could have dire consequences for banks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONkJ4X2xkUG9NUHg1WWQ0cmVod2VYclVmdWE3S3dueDM3Ymx3ZUJ4VHc0OHhoZkFuanF5TjlhVTlpY3huY180NzN0dC1HREJfOURaZF8xemprQlZVMFNSWE9lUS0wQU1hLTZXX05PNXhLNVliZDBOR090NDgxVks1UXZHYnh6MGI3WHpLZFBaSmMyY094OVZBUGhxb0NYVF9RUzFtNXZ5REl2MVNEb0JBLVgyNXVrVGdzcGNGNFNoWmFsa0ROakE?oc=5",
-      "date": "2026-04-13 18:13",
-      "summary": "AI-boosted hacks with Anthropic’s Mythos could have dire consequences for banks  Reuters..."
+      "title": "Nissan to trim global car lineup, boost use of AI driving tech - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc29WNThlOVBRVTcyWmloV3N5VDJWRUpJam1vSjFoSWNvbGFtSUhSZUlPT1RJZGJjc200Y3JQX1RBd1VJQ3RWN3VjRlM4QmpLRHB6WjVaVFFfcGs3c3owWFpBemJkaEVaV1hsdlhTV2F0NUJrN05wbml0akh6WUdqRk8zZVlJUWpMX0tqMDg5c1g2dWN0eHdwUnlZNUFLZ0ha?oc=5",
+      "date": "2026-04-14 01:32",
+      "summary": "Nissan to trim global car lineup, boost use of AI driving tech  Reuters..."
+    },
+    {
+      "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDlubVppNDRWVEVzemdMd3oydHYwRHZUYWJGdEdWMy1vSkR5VTU5M2hUeVdYc0c2c2MyNUVwb2FVNDRxNVVMNDFxbWxEV1gxUXBxa29BZnpCaUVUMFVRbDNLLWhZVGFVZ0toQnpJTWpETmllWDZOSGFnOVpIb1dXV1ZELUtnME5hQ2J2MVdGMGlYNHNzeTY4VmI2Z2VTcll6R01XOFY0b3pnR1pNd2ctRFBtdWlhc2FxT1k0aGZvbXl4dElvOFVnMGdtd09uQQ?oc=5",
+      "date": "2026-04-13 03:09",
+      "summary": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Ancient graves and DNA uncover family bonds that went beyond genetics",
+      "link": "https://phys.org/news/2026-04-ancient-graves-dna-uncover-family.html",
+      "date": "2026-04-14 07:00",
+      "summary": "You probably have a member of your family that you're not related to by blood—a step-parent, an adopted cousin, your mom's best fr..."
+    },
+    {
+      "title": "Information from starquakes provides theoretical evidence for 'fossilized' magnetism in stars",
+      "link": "https://phys.org/news/2026-04-starquakes-theoretical-evidence-fossilized-magnetism.html",
+      "date": "2026-04-14 07:00",
+      "summary": "For the first time, new theoretical models, published in Astronomy & Astrophysics, connect the magnetism at the surface of long-de..."
+    },
+    {
       "title": "When the boss burns out, the whole team loses energy, trust and performance",
       "link": "https://phys.org/news/2026-04-boss-team-energy.html",
       "date": "2026-04-14 04:10",
@@ -273,21 +285,15 @@
       "link": "https://phys.org/news/2026-04-unpredictable-resilient-crops-world.html",
       "date": "2026-04-14 01:40",
       "summary": "An unusually mild winter followed by a wet spring made last year one of the worst in a decade for Pennsylvania soybean growers. It..."
-    },
-    {
-      "title": "New research exposes the deadly exploitation of migrant fishers in poorly regulated waters",
-      "link": "https://phys.org/news/2026-04-exposes-deadly-exploitation-migrant-fishers.html",
-      "date": "2026-04-14 00:40",
-      "summary": "Isolated on a Taiwanese fishing vessel, eight days from the nearest landmass, 22-year-old Indonesian fisherman Sugiama was found d..."
-    },
-    {
-      "title": "Envisioning just futures: Framework can make distributive justice explicit in global emission scenarios",
-      "link": "https://phys.org/news/2026-04-envisioning-futures-framework-justice-explicit.html",
-      "date": "2026-04-14 00:20",
-      "summary": "Rising living costs, energy insecurity, widening inequality, and escalating climate impacts are fueling discussions on fairness an..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Surrounded by windfarms but out of work: the reality of the green jobs boom on England’s east coast",
+      "link": "https://www.theguardian.com/environment/2026/apr/14/windfarm-reality-green-jobs-boom-englands-east-coast-unemployment",
+      "date": "2026-04-14 07:00",
+      "summary": "The government hails the ‘green revolution’ as a solution to economic decline, but some young jobseekers say the rhetoric does not..."
+    },
     {
       "title": "Fried nuggets and steamed sponges off menu in school food overhaul in England",
       "link": "https://www.theguardian.com/education/2026/apr/12/school-food-overhaul-england-fried-nuggets-steamed-sponges",
@@ -311,15 +317,21 @@
       "link": "https://www.theguardian.com/education/2026/apr/09/weekend-students-at-15-universities-in-england-told-to-return-loans-and-grants",
       "date": "2026-04-09 15:49",
       "summary": "Student Finance England tells about 22,000 students their universities wrongly told them they were eligibleMore than 20,000 univer..."
-    },
-    {
-      "title": "‘Excessive’ financial risks threaten survival of many English universities, report warns",
-      "link": "https://www.theguardian.com/education/2026/apr/09/english-universities-excessive-financial-risks-survival-warns-thinktank",
-      "date": "2026-04-08 23:01",
-      "summary": "High levels of borrowing and rapid expansion among dangers identified by Higher Education Policy InstituteMany English universitie..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Crypto-based prediction markets popular but risky for Hong Kong users: experts",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3350014/crypto-based-prediction-markets-popular-risky-hong-kong-users-experts?utm_source=rss_feed",
+      "date": "2026-04-14 07:21",
+      "summary": "Prediction markets are surging in popularity as cryptocurrency-based gambling platforms offering diverse gameplay and attractive o..."
+    },
+    {
+      "title": "Hong Kong tram operator launches real-time app, pledges no fare rise this year",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350009/hong-kong-tram-operator-launches-real-time-app-pledges-no-fare-rise-year?utm_source=rss_feed",
+      "date": "2026-04-14 06:39",
+      "summary": "Hong Kong’s tram operator has launched a new mobile app that provides real-time arrival information while pledging not to raise fa..."
+    },
     {
       "title": "Hong Kong lawyer faces new charges after second victim accuses him of indecent assault",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3349993/hong-kong-lawyer-faces-new-charges-after-second-victim-accuses-him-indecent-assault?utm_source=rss_feed",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349954/hong-kong-taxpayers-face-hk28-billion-covid-bad-loan-burden-smes?utm_source=rss_feed",
       "date": "2026-04-14 00:30",
       "summary": "Hong Kong taxpayers may have to shoulder nearly HK$28 billion (US$3.57 billion) in bad loans from a now-defunct, fully government-..."
-    },
-    {
-      "title": "Hongkonger arrested on suspicion of underage sex and scamming girls of HK$33,000",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3349955/hongkonger-arrested-suspicion-underage-sex-and-scamming-girls-hk33000?utm_source=rss_feed",
-      "date": "2026-04-13 16:38",
-      "summary": "Hong Kong police have arrested a man on suspicion of having underage sex and conning teen girls out of more than HK$30,000 (US$3,8..."
-    },
-    {
-      "title": "Hong Kong puts launch of basketball betting on hold",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3349953/hong-kong-puts-launch-basketball-betting-hold?utm_source=rss_feed",
-      "date": "2026-04-13 15:53",
-      "summary": "Hong Kong authorities have put a plan to launch basketball betting on hold amid the rapid growth of the prediction market, seven m..."
     }
   ],
   "New Scientist": [
