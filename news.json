@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Carbon removal project supports Maine’s blue economy, broader marine health",
+      "link": "https://news.mit.edu/2026/carbon-removal-project-supports-maines-blue-economy-broader-marine-health-0414",
+      "date": "2026-04-14 04:00",
+      "summary": "A chemical-free approach to balancing ocean acidity protects marine life and could dramatically impact the global aquaculture mark..."
+    },
+    {
       "title": "Learning with audiobooks",
       "link": "https://news.mit.edu/2026/learning-audiobooks-vocabulary-0409",
       "date": "2026-04-09 18:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/new-type-electrically-driven-artificial-muscle-fiber-0409",
       "date": "2026-04-09 15:00",
       "summary": "Electrofluidic fibers mimic how natural muscle fibers bundle, and could enable compact, silent robotic and prosthetic systems...."
-    },
-    {
-      "title": "New technique makes AI models leaner and faster while they’re still learning",
-      "link": "https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409",
-      "date": "2026-04-09 13:00",
-      "summary": "Researchers use control theory to shed unnecessary complexity from AI models during training, cutting compute costs without sacrif..."
     }
   ],
   "Harvard Gazette": [
@@ -45,12 +45,6 @@
       "summary": "How academia can help America heal  Harvard University..."
     },
     {
-      "title": "Anthropologist traces split between Homo sapiens and Neanderthals - Harvard University",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QUnB1OG1jeGdHSzNKQkt0LVE3RnNyaDk1Y0R4bkRwM2JXLXZFaFJtcnVzWExySE83cE5IWks2OWY5YVdJaHJuS29hUVJHaGcySjk3bzJ0eUVsSVNoWFhsdlM4S2dCekRxc3dDVTZaVWgtQQ?oc=5",
-      "date": "2026-04-01 07:00",
-      "summary": "Anthropologist traces split between Homo sapiens and Neanderthals  Harvard University..."
-    },
-    {
       "title": "Harvard University Housing establishes new rents for 2026–2027 - Harvard University",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
       "date": "2026-01-23 08:00",
@@ -61,15 +55,15 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
       "summary": "How to help lift slumping American math scores  Harvard University..."
+    },
+    {
+      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard University",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
+      "date": "2025-10-28 07:00",
+      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard University..."
     }
   ],
   "Stanford News": [
-    {
-      "title": "Stanford's big AI report is out. Here are the most important takeaways - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JT01TLTJaZE1JbUdnUVU2UEVpbkJNNmlFT2dkU0RjTzdoZnIwa1FSWHhMVzlKaFJHdGpkbGZhQ1FxUUdCNklSS1NnRnh1QThvcTV0N2hGX0JlcVVpSEJvdzdxUkx6aXZPdDZ1TFpxOG44dw?oc=5",
-      "date": "2026-04-13 16:15",
-      "summary": "Stanford's big AI report is out. Here are the most important takeaways  qz.com..."
-    },
     {
       "title": "China has erased the US lead in AI, Stanford HAI’s 2026 AI index reveals - SiliconANGLE",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU0I0RFZicU5nOGpnS2pqeFNRV2NJeTd1a1VmNDVVSXktMmNCajgzTV84QnpVUkpIV0steHE4cEc0YXRnSFVNRHFLMVJicTgzR21TNHpuTmxhUnRJZ19HOS14b2x1UEJYalBlYjBnZTJpTUdJV3lPRjJpbmptUS1xZFVtSF9zMThSRDY2YUIzYW5qNGRwbjhiVWRHNUpYaTk1bWZtX052YUlVUTJCRkFxdnMyY191RlN0Qmc?oc=5",
@@ -83,16 +77,22 @@
       "summary": "No. 9 Softball Drops Game Two of the Series to No. 23 Stanford  seminoles.com..."
     },
     {
-      "title": "Lerone A. Martin named 2026 Baccalaureate speaker - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdkhIWkJSdXItWFM3VDNZWmR0WmVZRkhJM1RFTWpxSzFVQktxMFdNbVhiYjdkczhCbzJScUtqVUdSYVBacHVKenMzeXZrdjcydS1FeFBKeTlJTEdFaTFzME9kNnFkbE1EdFNjeWJxTFo0NTI2RTdWTVR6TjJDOW1TWmo2cw?oc=5",
-      "date": "2026-04-13 22:28",
-      "summary": "Lerone A. Martin named 2026 Baccalaureate speaker  Stanford Report..."
+      "title": "Researchers use ultrasound to create light inside the body - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOWF3U3dSWkxrMzI5ak9OWk11VEs1d080TloxOEs3ZHJSc1VLbm1QZUdxZFRZV25fMk5meWQzUWI2dmtPMmdpdExXVEhLcEUwTXN2bzlVb3owcWtvVmtUUHVMN1VuTGZrazRnd1BRX1lhNFE1eGpWeGk4bkF2RFR0Y1JDLU9qMTZ0VnpTUTdBSXhNaVZabndCVmplQWNGYUhJZEE?oc=5",
+      "date": "2026-04-13 21:04",
+      "summary": "Researchers use ultrasound to create light inside the body  Stanford Report..."
     },
     {
       "title": "Russia labels Stanford University 'undesirable' in escalating crackdown on Western schools - The Kyiv Independent",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDI1akdBd3B4YXZLVm9pNTRDTHlaTnlPRnFMcUJwNGxuOHRNUjNjMzJydUxTM0c0Z0ZkU0k4b01FZHhYakpyQ2o3VW16YkVVUmFPai02anI3c3B5MktTVmRzQnVQa2RoYmVTaXJNcUhialhrY0QtelhJWnN4UWFfU1VsTl9QWXk0LXF3eUR2MGxqVWJhb0tOMFFELUpyczg5MUsxanY0Q19NZmR1TS1MQ04xUjNkemlx?oc=5",
       "date": "2026-04-11 03:55",
       "summary": "Russia labels Stanford University 'undesirable' in escalating crackdown on Western schools  The Kyiv Independent..."
+    },
+    {
+      "title": "Stanford Hires Tyler Jones From Virginia to Serve as New AD/COO of Athletics - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYS1saVB6OXdtU0pFQmJTRlg1dGVLUU9fREtITDZrSmxGXzFBbWVjandwLWVZaENZdGZBdHVPY3pRekJjREVUaVprS2xVNE1OOWd3LUo0NmItM2JNb0ZvcFNhNnM4VDZBVWdoeE9QTnA1eDVPLU9lVkkwaENCTmloQmp4VVlvNk01Z01YbWhWQVlxQVNYT2dBNUNVQ3dzcFhHSDZyaFVrY0wtVUg3eExORzFuMU1CT3dsY1dVNTNB?oc=5",
+      "date": "2026-04-13 21:03",
+      "summary": "Stanford Hires Tyler Jones From Virginia to Serve as New AD/COO of Athletics  Sports Illustrated..."
     }
   ],
   "Nature Careers": [
@@ -193,22 +193,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "UK regulators rush to assess risks of latest Anthropic AI model, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTE5WeEN6VnpyejdsUVA2OWlMNUZabmVPMGpLUkIzbDVMZXgyZ3JhWjBIU2dwODdZZzZpZThObkFQME9QMk8xX0Y2MXg3TVhBdzZsS3hPXzJJLVQ3aTY5SkxHTVBTWnBRRmVvbEhZcVBrVkswdWZLQlpYbWNZdFF1cW9PbzRRdHU0R3VmQ1NKRnZhSWZ3SGdCSThLdWdMZGNvNnRkQzJObUMtcTBUTWFXb3pNSkNfaE4yUmJrRkpUQWh1Zw?oc=5",
-      "date": "2026-04-12 11:55",
-      "summary": "UK regulators rush to assess risks of latest Anthropic AI model, FT reports  Reuters..."
-    },
-    {
       "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDlubVppNDRWVEVzemdMd3oydHYwRHZUYWJGdEdWMy1vSkR5VTU5M2hUeVdYc0c2c2MyNUVwb2FVNDRxNVVMNDFxbWxEV1gxUXBxa29BZnpCaUVUMFVRbDNLLWhZVGFVZ0toQnpJTWpETmllWDZOSGFnOVpIb1dXV1ZELUtnME5hQ2J2MVdGMGlYNHNzeTY4VmI2Z2VTcll6R01XOFY0b3pnR1pNd2ctRFBtdWlhc2FxT1k0aGZvbXl4dElvOFVnMGdtd09uQQ?oc=5",
       "date": "2026-04-13 03:09",
       "summary": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand  Reuters..."
     },
     {
-      "title": "China's exports set to lose momentum as Iran war undercuts AI-driven boom: Reuters poll - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdERDRjNUTDdSVjN3VTNORUVPajA1eEVTLUU2UWdmN1BHblZkc2hnVGNwa0JtWS1ZSWtjWW9nZ1k3ckNXbkwzNFphMG9Wc3MxaDEySThzRk1BR1RHYXF5Q2pmMEotb3RQR1dkY3AzaWxlc0JRZzA1b2dxbjVrU0I3eDk2U1R6cU1EYXhZVldCOFA2UGNrbkNJbVNVM200TWo3aC14VEozWVhVSWRycWQ3OTIyQ00?oc=5",
-      "date": "2026-04-13 05:13",
-      "summary": "China's exports set to lose momentum as Iran war undercuts AI-driven boom: Reuters poll  Reuters..."
+      "title": "Chinese AI startup StepFun to unwind offshore structure to pave way for IPO, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdldCcU9ZUl9aZmplZ29ZRnU4NXJFWm9wVWZwcEpVNnJUNVZkOFNwNk5pTmU2UU5Sb2p3ZWFtdC1HT3ZDRENfbjVaa0ZrVVZkY3ZWWjdCNmFuT3dvR05aZ0thN0tDZW8zWm1Ca3A3LWVNbTRPemxHVzZxYzhpTDNjNHItS3hBanppME1FbF9XQUpCVkxSdTR2RUFOUmo1UUtKd000cXpVUUxoOUltTG9uNDFiSG9GcnhmRFFiQWtXWHZMR2s?oc=5",
+      "date": "2026-04-13 06:56",
+      "summary": "Chinese AI startup StepFun to unwind offshore structure to pave way for IPO, sources say  Reuters..."
+    },
+    {
+      "title": "China's export engine stutters as Iran war wipes out AI-driven gains - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLXhzMWhMLWxBWlF0NWZkb0RLQ3gtNXVYZmRVRng0MUw2clZ6dGVFbFdpeHR2UllHYmRmUHBWT29fNjA3aEQ2bDRzLUN6WGJTM19FVjdRMjQ3VGlLbjZKOEpLV1pRQmpJWnZ3ODRETWRvN2dqcHNYM1lCVUl4TVBEZ2t1SFAwbTd4RXVNVnZrOE9ZVnF4a0J3bnloNWJseGhWTGFJWEJtMnRGbmhX?oc=5",
+      "date": "2026-04-14 03:27",
+      "summary": "China's export engine stutters as Iran war wipes out AI-driven gains  Reuters..."
     },
     {
       "title": "Anthropic talking to the Trump administration about its next AI model, co-founder says - Reuters",
@@ -243,19 +243,31 @@
       "summary": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why  MIT Technology Review..."
     },
     {
-      "title": "You have no choice in reading this article—maybe - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORFdJMWw3SzBFY3E2TFdIYW1ER0ZpN3dSQ01wVnRzNmlCdHhHN0lkUjcydjNDY3lDSHFBTjJmT3pBT2xKc3lDSVQySG5lTnJsSHNSZlplUC1sVnVTVGQxQ29jb05NaEVyb3VpT3hCT0wwM2NjbXVWSDB1Rk1GYVdvUmtfZEJDbEl3eXfSAY8BQVVfeXFMUGJVQlBOWVZCVVBzYnBkLVdCV1dkc0pVdGdjRFowRDBKMzZHUk1BOU52Q0RNTkJjWTdPd1llSlVBME45UzRWdDd1Vmh3Y1EtVzRSTTFqQlI1VHhLVnpMQ2pRRDNsSy1CeWZOZy1PUUhOdUxCNEtwaGpXOC1XU0VjWlJkdWdURF8zN3FHUTdQaTA?oc=5",
-      "date": "2026-04-13 10:00",
-      "summary": "You have no choice in reading this article—maybe  MIT Technology Review..."
-    },
-    {
       "title": "The one piece of data that could actually shed light on your job and AI - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNU1KczRpUWRzWk9Ccm85OG5IQnk1cUJpQldzUGh0SEtpR0ZmTV9ET2phODB3aEk2SDF0QTdSaGRRemVmUWNHVzBFNEI3akdPY0s1eWQwaHQ0NENXdFVzZDBoTWpUUWNhUTd6SlJOejNEbDFYd3ZRUnBUaWVsVXJIdi1hVUJtZHFNSEhFZC15Y3ltbDJ5ZGtZZnJyd2lPZlM5cHV2Zmk3ekU4bENwUVBGZlQ5RTktS1N0dnNROV9XSjByd9IBxwFBVV95cUxNdjJDQkZEVDVBNHlsb3Vkc1ViOVRscEI5WGtsdUo3WEZKZW9LVVFtMzUxTkozUXZsX2lINURKRDA2MThwMkc2c0dkSnIwQWdWdzhIclJ5ZXE2RTdsei0xWGNJbl8zcDFBNkY4Y0lGSWotVzR4cmV5cVl0WWJtZGRzQktMX3VZU0R4cjVFZkZ4MnpNNjY3WEVqcllVZ3ZjWXJ5M1ZRTEV1ZHZsbWp0UFd3cDEydkh0Wm1nbmhfTU9mRzZRQ2ZscUdn?oc=5",
       "date": "2026-04-06 16:33",
       "summary": "The one piece of data that could actually shed light on your job and AI  MIT Technology Review..."
+    },
+    {
+      "title": "AI is changing how small online sellers decide what to make - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNW8ycWZpZl9mZERTQmlMR3pUNmJVQU1qVUZYaWhnS182S0c0UGV2VkdheERsYmRiMnE4UzlXb1oydHFKM2t2YW4tdmNaLU1RR1l5LVdKbjhjQ0wwQzRXaTBkNGUxS1loQ1o1VGZxZ0tQM3E3OHc5UHNobDhOcXNXc0ppOTZzUWtpQVM40gGQAUFVX3lxTFBPQ2MzOThGSzBfQ01aeGJlQjN1dXNRcWJpbWYwdlkwVEI1Q09vSnR5ZkExaFFSUnEybFozb1J4UklZNFc4ZzAwV1hZWHQwb0FRRlMzZXVoRE9oRGt5cWN2ZEZzMzNaTWZyU215ajhMUUUzOVBfdlBfTWE2NnE5QnBoYnhSb2hyR3h5V04tN20tSQ?oc=5",
+      "date": "2026-04-06 11:00",
+      "summary": "AI is changing how small online sellers decide what to make  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "When the boss burns out, the whole team loses energy, trust and performance",
+      "link": "https://phys.org/news/2026-04-boss-team-energy.html",
+      "date": "2026-04-14 04:10",
+      "summary": "The well-being of a supervisor is reflected through supervisor-subordinate relationships in employee motivation and performance, a..."
+    },
+    {
+      "title": "Free online lipid network aims to unite researchers and speed collaboration worldwide",
+      "link": "https://phys.org/news/2026-04-free-online-lipid-network-aims.html",
+      "date": "2026-04-14 02:40",
+      "summary": "Lipid research investigates the structure, function and metabolism of fats, covering their roles in industrial processes, the envi..."
+    },
     {
       "title": "Predictably unpredictable: Building resilient crops for a changing world",
       "link": "https://phys.org/news/2026-04-unpredictable-resilient-crops-world.html",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-04-envisioning-futures-framework-justice-explicit.html",
       "date": "2026-04-14 00:20",
       "summary": "Rising living costs, energy insecurity, widening inequality, and escalating climate impacts are fueling discussions on fairness an..."
-    },
-    {
-      "title": "How hidden soil fungi 'steal' bacterial DNA to control the rain",
-      "link": "https://phys.org/news/2026-04-hidden-soil-fungi-bacterial-dna.html",
-      "date": "2026-04-14 00:00",
-      "summary": "Tiny organisms on the ground—bacteria and fungi—have a \"superpower\" that allows them to reach up into the atmosphere and pull down..."
-    },
-    {
-      "title": "New 'molecular handle' uses common amino acid to build complex medicines",
-      "link": "https://phys.org/news/2026-04-molecular-common-amino-acid-complex.html",
-      "date": "2026-04-13 23:50",
-      "summary": "In a new study published in Nature Communications, a team of chemists has unveiled a radically simple way to attach a highly sough..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong lawyer faces new charges after second victim accuses him of indecent assault",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3349993/hong-kong-lawyer-faces-new-charges-after-second-victim-accuses-him-indecent-assault?utm_source=rss_feed",
+      "date": "2026-04-14 04:51",
+      "summary": "A Hong Kong barrister faces additional charges after a second victim accused him of indecent assault, joining a former pupil who l..."
+    },
+    {
+      "title": "Cheap tours blamed for coerced shopping in Hong Kong: tourism experts",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3349985/cheap-tours-blamed-coerced-shopping-hong-kong-tourism-experts?utm_source=rss_feed",
+      "date": "2026-04-14 03:58",
+      "summary": "Unreasonably low prices offered by some mainland Chinese tourist groups visiting Hong Kong are a major factor behind coerced shopp..."
+    },
+    {
       "title": "Hong Kong taxpayers face HK$28 billion Covid bad-loan burden from SMEs",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349954/hong-kong-taxpayers-face-hk28-billion-covid-bad-loan-burden-smes?utm_source=rss_feed",
       "date": "2026-04-14 00:30",
@@ -337,21 +349,15 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3349953/hong-kong-puts-launch-basketball-betting-hold?utm_source=rss_feed",
       "date": "2026-04-13 15:53",
       "summary": "Hong Kong authorities have put a plan to launch basketball betting on hold amid the rapid growth of the prediction market, seven m..."
-    },
-    {
-      "title": "Maisy Ho remembered as dedicated philanthropist and community servant",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349944/maisy-ho-remembered-dedicated-philanthropist-and-community-servant?utm_source=rss_feed",
-      "date": "2026-04-13 14:32",
-      "summary": "Heartfelt tributes continued to be paid to Maisy Ho Chiu-ha, remembered as a dedicated philanthropist, after the daughter of late ..."
-    },
-    {
-      "title": "Hong Kong’s Mirror star Keung To fined HK$2,200 for driving offences",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3349939/hong-kongs-mirror-star-keung-fined-hk2200-driving-offences?utm_source=rss_feed",
-      "date": "2026-04-13 12:47",
-      "summary": "Hong Kong Cantopop singer Keung To has been fined HK$2,200 (US$280) for careless driving, running a red light and failing to displ..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "The green solution to climate change isn't happening – and that's good",
+      "link": "https://www.newscientist.com/article/2522770-the-green-solution-to-climate-change-isnt-happening-and-thats-good/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-13 22:00",
+      "summary": "Removing CO2 from the atmosphere by capturing the carbon from burning biomass is supposed to save the planet, but it looks like th..."
+    },
     {
       "title": "Modern living may be causing big changes to our oestrogen levels",
       "link": "https://www.newscientist.com/article/2522701-modern-living-may-be-causing-big-changes-to-our-oestrogen-levels/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2522124-we-urgently-need-to-prepare-for-quantum-computers-breaking-encryption/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-08 18:00",
       "summary": "The maths problems that secure your online bank transactions and emails may soon be undermined by quantum technology. It’s imperat..."
-    },
-    {
-      "title": "The secret project to settle controversial maths proof with a computer",
-      "link": "https://www.newscientist.com/article/2522687-the-secret-project-to-settle-controversial-maths-proof-with-a-computer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-10 16:30",
-      "summary": "Working in secret for more than two years, a group of mathematicians has set out to resolve one of the longest and most bitter bat..."
     }
   ]
 }
