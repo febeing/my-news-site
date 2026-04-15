@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Multitasking quantum sensors can measure several properties at once",
+      "link": "https://news.mit.edu/2026/multitasking-quantum-sensors-can-measure-several-properties-0415",
+      "date": "2026-04-15 04:00",
+      "summary": "The devices represent a key step toward practical quantum sensing, with applications in biomedical sensing, materials characteriza..."
+    },
+    {
       "title": "Human-machine teaming dives underwater",
       "link": "https://news.mit.edu/2026/human-machine-teaming-dives-underwater-0414",
       "date": "2026-04-14 13:00",
@@ -23,15 +29,15 @@
       "link": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
       "date": "2026-04-09 18:00",
       "summary": "As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is advancing dialogue, teaching, and research into the social and..."
-    },
-    {
-      "title": "Slice and dice",
-      "link": "https://news.mit.edu/2026/slice-and-dice-snipe-bacterial-defense-0409",
-      "date": "2026-04-09 18:00",
-      "summary": "SNIPE, a newly characterized biological defense system, directly protects bacteria by chopping up invading viral DNA...."
     }
   ],
   "Harvard Gazette": [
+    {
+      "title": "Anthropologist traces split between Homo sapiens and Neanderthals - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QUnB1OG1jeGdHSzNKQkt0LVE3RnNyaDk1Y0R4bkRwM2JXLXZFaFJtcnVzWExySE83cE5IWks2OWY5YVdJaHJuS29hUVJHaGcySjk3bzJ0eUVsSVNoWFhsdlM4S2dCekRxc3dDVTZaVWgtQQ?oc=5",
+      "date": "2026-04-01 07:00",
+      "summary": "Anthropologist traces split between Homo sapiens and Neanderthals  Harvard Gazette..."
+    },
     {
       "title": "Wonder served him well - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHpkLV9RSGFGQnBBVjJxeDBMZmE2Nk5udkZjQjFtdExHSTZpcjM4b0pmWDhMYWZQeE9KZlI0QmU5d0tNMFBCZVhLMVNtYW13Rm1OaW9lLXMzLTd0bDVsd2NHSGxydVBFZ2pROVFBaUU0U0RWOXBBQnNCeXZYR0lRY2QydEpPYkg0bl9YNA?oc=5",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
       "summary": "How to help lift slumping American math scores  Harvard Gazette..."
-    },
-    {
-      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
-      "date": "2025-10-28 07:00",
-      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -77,10 +77,10 @@
       "summary": "Stanford Study: AI Experts Are Optimistic About AI. The Rest of Us … Not So Much  KQED..."
     },
     {
-      "title": "China leads in AI publications, patents: Stanford report - news.cgtn.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXNqaWZncDlSWS1uUm1KTFpfRWZZcElZMTkzcnk5TFNIcnJENGVaZlA4M3lfTWNocnI5Z0QyaUNlODVzSlBiZndIMmhLOHRKOGV4VFUtNFJJSk16Rl9CZF9FeDlkVm9xSFFDVnltWmdoZG8xRk1XQS1HN0R3Q2ZLS2NxQ2NPZU5tZ0FWYXZPLUlUY3dTVU5IdHdsYkNLazFnZ3B5b3U2UW9ESW5pVG4weA?oc=5",
-      "date": "2026-04-14 09:56",
-      "summary": "China leads in AI publications, patents: Stanford report  news.cgtn.com..."
+      "title": "China has erased the US lead in AI, Stanford HAI’s 2026 AI index reveals - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU0I0RFZicU5nOGpnS2pqeFNRV2NJeTd1a1VmNDVVSXktMmNCajgzTV84QnpVUkpIV0steHE4cEc0YXRnSFVNRHFLMVJicTgzR21TNHpuTmxhUnRJZ19HOS14b2x1UEJYalBlYjBnZTJpTUdJV3lPRjJpbmptUS1xZFVtSF9zMThSRDY2YUIzYW5qNGRwbjhiVWRHNUpYaTk1bWZtX052YUlVUTJCRkFxdnMyY191RlN0Qmc?oc=5",
+      "date": "2026-04-13 13:00",
+      "summary": "China has erased the US lead in AI, Stanford HAI’s 2026 AI index reveals  SiliconANGLE..."
     },
     {
       "title": "Stanford’s annual AI report finds a widening gap between AI insiders and everyone else - The Next Web",
@@ -89,13 +89,25 @@
       "summary": "Stanford’s annual AI report finds a widening gap between AI insiders and everyone else  The Next Web..."
     },
     {
-      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3NIU1VFS2xlYWp6ZllrckVmYUpsN0ZGRUJGR09OZ09WV0dIUXc2RURZNnRiWWRxRXpmQlJBclpPUkZrUTVDY1ZGUXB1c2UzSjNNTDdiZEdHaUpLS3llRkttOWVNSWtpa0FMNXBsMms1NmtyUVNZbXFYX2l4eF9nOVBGNFR5dy13WW5iTHY2Z1hUemlLS3djdFVIZHlYMURpZklQdDg3N3UxaDJiYndlUkYtVWVsN1AwM3c?oc=5",
-      "date": "2026-04-13 18:55",
-      "summary": "Stanford report highlights growing disconnect between AI insiders and everyone else  TechCrunch..."
+      "title": "China leads in AI publications, patents: Stanford report - news.cgtn.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXNqaWZncDlSWS1uUm1KTFpfRWZZcElZMTkzcnk5TFNIcnJENGVaZlA4M3lfTWNocnI5Z0QyaUNlODVzSlBiZndIMmhLOHRKOGV4VFUtNFJJSk16Rl9CZF9FeDlkVm9xSFFDVnltWmdoZG8xRk1XQS1HN0R3Q2ZLS2NxQ2NPZU5tZ0FWYXZPLUlUY3dTVU5IdHdsYkNLazFnZ3B5b3U2UW9ESW5pVG4weA?oc=5",
+      "date": "2026-04-14 09:56",
+      "summary": "China leads in AI publications, patents: Stanford report  news.cgtn.com..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Imaging interface-controlled bulk oxygen spillover",
+      "link": "https://www.nature.com/articles/s41586-026-10324-x",
+      "date": "2026-04-15 00:00",
+      "summary": "Nature, Published online: 15 April 2026; doi:10.1038/s41586-026-10324-xIn situ microscopic single-particle imaging demonstrates th..."
+    },
+    {
+      "title": "Dozens of AI disease-prediction models were trained on dubious data",
+      "link": "https://www.nature.com/articles/d41586-026-00697-4",
+      "date": "2026-04-15 00:00",
+      "summary": "Nature, Published online: 15 April 2026; doi:10.1038/d41586-026-00697-4The models are designed to predict someone’s risk of diabet..."
+    },
     {
       "title": "Polyclonal selection of immune checkpoint mutations in thyroid autoimmunity",
       "link": "https://www.nature.com/articles/s41586-026-10493-9",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-00914-0",
       "date": "2026-04-14 00:00",
       "summary": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-00914-0The quest to make fire-lighting less dangerous, and a propo..."
-    },
-    {
-      "title": "Stop overlooking librarians’ expertise",
-      "link": "https://www.nature.com/articles/d41586-026-01217-0",
-      "date": "2026-04-14 00:00",
-      "summary": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01217-0Stop overlooking librarians’ expertise..."
-    },
-    {
-      "title": "Deep-sea mining mustn’t go ahead until there are baseline data",
-      "link": "https://www.nature.com/articles/d41586-026-01215-2",
-      "date": "2026-04-14 00:00",
-      "summary": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01215-2Deep-sea mining mustn’t go ahead until there are baseline d..."
     }
   ],
   "Science News": [
@@ -205,12 +205,6 @@
       "summary": "OpenAI's $852 billion valuation faces investor scrutiny amid strategy shift, FT reports  Reuters..."
     },
     {
-      "title": "OpenAI unveils GPT-5.4-Cyber a week after rival's announcement of AI model - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFBrUjJkQU4zTEFJX0I1eWZiZUdNZ2VRTHdoaFZWVFFzcGpEZG1rSVVlTy1DZjJ4M1Z0bTBmZmYwSnhNNW5BM2NrWHQ5cnFPOTdoWlB1ZWFHZUZELXMyR2RLcWtXX2pqUFNhRUpnZmNHVHNmZllKcjU5MnZGVmxzd3I5SG04VzFnSHR6UnU5WkkyZXpOOGhoZ1VxYzhsMWxCSDAzbEY0aG1FTk9Ca29IVnR0TU4?oc=5",
-      "date": "2026-04-14 21:26",
-      "summary": "OpenAI unveils GPT-5.4-Cyber a week after rival's announcement of AI model  Reuters..."
-    },
-    {
       "title": "Meta extends custom chips deal with Broadcom to power AI ambitions - Reuters",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNURIUzJlUG5yTm5uR21LUFdnX3ZkY1Ruc0lLdF9UREwxanVOLWJUY1NrRC0zQW9USkZVU1B4Y1BCMUFDSDh1dWxDQ2hob2xQMUVKTG5iOUNlbG4yMnJMQkhWUmVCT0NoTDB2Tm8wY0lBclRMa3lMNS1Gb1JCaWg4YnJyQ2NOV041SFFfdkhXNEdNQ2M?oc=5",
       "date": "2026-04-14 22:39",
@@ -221,20 +215,26 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaFlYMTJlQzk0TWpDal9acThxOUs3VTVpY3AzTzRBZm05X0l2YUhlVmhIdE4tVVdtUjF6YjNUV1hyNWNEMlZlOWI5eG1hQzZEUTA3cExia1pGUVhJSGZBZ0JfOExpWUlUZXkwN0lhM3hCaUNkaDFyVUd3OE9NVUl6N3hvNHhURVJoRzdCbWl4WVhINy15X1RuOGpMOHZURlp5aDJVUl9xYjZEc1ZycmM3VWNnS3pNSko0UFhCWDN6WWVSMGdEcFNMRkxoYVVaNmtVWksw?oc=5",
       "date": "2026-04-14 18:44",
       "summary": "Amazon launches AI research tool to speed early-stage drug discovery  Reuters..."
+    },
+    {
+      "title": "AI-boosted hacks with Anthropic’s Mythos could have dire consequences for banks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONkJ4X2xkUG9NUHg1WWQ0cmVod2VYclVmdWE3S3dueDM3Ymx3ZUJ4VHc0OHhoZkFuanF5TjlhVTlpY3huY180NzN0dC1HREJfOURaZF8xemprQlZVMFNSWE9lUS0wQU1hLTZXX05PNXhLNVliZDBOR090NDgxVks1UXZHYnh6MGI3WHpLZFBaSmMyY094OVZBUGhxb0NYVF9RUzFtNXZ5REl2MVNEb0JBLVgyNXVrVGdzcGNGNFNoWmFsa0ROakE?oc=5",
+      "date": "2026-04-13 18:13",
+      "summary": "AI-boosted hacks with Anthropic’s Mythos could have dire consequences for banks  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "Want to understand the current state of AI? Check out these charts. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnpCUGt5aDlwdkJ1V1hXV3JKREE3LWY5WVNLOTIwSXZhMTUxVTFxSUM2d0JYVU0yRFVQWTBQdDZRWXFEVDJFYnJncUdwdWlueG9mNm1rZXU0V1NRUTdIcENyWHVZYXFLaHFzMklkc0hTRHNxT1VodHJ1SjNMMzVwX2pwcW9VYXl3Y2cyajhaU04tbzlxeG5CR1NKNlhsRi1mLXQzSEVsdHFtSDhrMTdNSndZWU9WemdQaVHSAb8BQVVfeXFMTTBUbHBETUlPRkR6cGFJdkh5bldseHJEaXRQQ0s3eTlUdTRTcnFMeXVSdnBBeW5ZRGJqTEFNVWw0Wk5hYnBGMTg3ZW1hYUdKaXN6ejllcUFLMWZRNWZFSjRjaFZDQ0NkN1ZNOTExWmkwRG1wQUZmMk9Td05GYlI3aG43dnc0VkdqR1IxdHkyMWtNb3FLSW8tRGhlLWdXR3g3UWZ1bzZrblJjY3BwY1VCRFpZdnhYVk13MFF4N2V1aFU?oc=5",
-      "date": "2026-04-13 13:00",
-      "summary": "Want to understand the current state of AI? Check out these charts.  MIT Technology Review..."
-    },
     {
       "title": "Redefining the future of software engineering - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEJIQmQ3QmlrZ3VVSV9TM1QxVzd3UWl2NzZpdGxfa0xmSU8tTkRyQUN4TTd4ZWVCQ2s0b1B3VmpEMWpNR195THdBUXdyZU1GNnZHeWc3N1BUS0JXaW1zUHpUb095aEdnMDBOYVRycFRiY0RUa0VqbkxMbm9iODU3WENYR2FUVXBKTTI0RGhMLUtrWmNpLTZLbzY5WDk2YnfSAaQBQVVfeXFMUDRfYmNMdER3UzN1MHRWZFJKM0h1QXRtQm9vNm9yaDVkSDlGOUtCYnVOWXlMY0hNb1kxalZ2NHJFcHpKRFRBdzRObFIzaGJFdy1HNXo5dkFaLUdZVEdlRE5iR19oQVdLdUxoSnRlQjlMMnNxVTlNeU5hWE5jeE50UjVOQjZkcURzNldqU0s3YWkya1VwcThkTENxUFZ5RGtfNFdjdWU?oc=5",
       "date": "2026-04-14 18:00",
       "summary": "Redefining the future of software engineering  MIT Technology Review..."
+    },
+    {
+      "title": "Want to understand the current state of AI? Check out these charts. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnpCUGt5aDlwdkJ1V1hXV3JKREE3LWY5WVNLOTIwSXZhMTUxVTFxSUM2d0JYVU0yRFVQWTBQdDZRWXFEVDJFYnJncUdwdWlueG9mNm1rZXU0V1NRUTdIcENyWHVZYXFLaHFzMklkc0hTRHNxT1VodHJ1SjNMMzVwX2pwcW9VYXl3Y2cyajhaU04tbzlxeG5CR1NKNlhsRi1mLXQzSEVsdHFtSDhrMTdNSndZWU9WemdQaVHSAb8BQVVfeXFMTTBUbHBETUlPRkR6cGFJdkh5bldseHJEaXRQQ0s3eTlUdTRTcnFMeXVSdnBBeW5ZRGJqTEFNVWw0Wk5hYnBGMTg3ZW1hYUdKaXN6ejllcUFLMWZRNWZFSjRjaFZDQ0NkN1ZNOTExWmkwRG1wQUZmMk9Td05GYlI3aG43dnc0VkdqR1IxdHkyMWtNb3FLSW8tRGhlLWdXR3g3UWZ1bzZrblJjY3BwY1VCRFpZdnhYVk13MFF4N2V1aFU?oc=5",
+      "date": "2026-04-13 13:00",
+      "summary": "Want to understand the current state of AI? Check out these charts.  MIT Technology Review..."
     },
     {
       "title": "Why opinion on AI is so divided - MIT Technology Review",
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Copper's 'gatekeeper' could unlock cleaner energy future",
+      "link": "https://phys.org/news/2026-04-copper-gatekeeper-cleaner-energy-future.html",
+      "date": "2026-04-15 05:00",
+      "summary": "A common mineral hiding in plain sight could hold the key to making copper production cleaner, faster and more efficient, just as ..."
+    },
+    {
+      "title": "Google promotes 'teacher approved' apps for kids. Here's what parents should know",
+      "link": "https://phys.org/news/2026-04-google-teacher-apps-kids-parents.html",
+      "date": "2026-04-15 02:40",
+      "summary": "As school holidays continue around Australia, many parents are looking for educational ways to keep their children entertained...."
+    },
+    {
       "title": "Following in the footsteps of Jane Goodall: A wildlife pathologist's story",
       "link": "https://phys.org/news/2026-04-footsteps-jane-goodall-wildlife-pathologist.html",
       "date": "2026-04-15 02:00",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-04-power-safe-astronauts-historic-orion.html",
       "date": "2026-04-15 00:40",
       "summary": "When NASA's Orion capsule splashed down in the Pacific Ocean April 10, completing a successful Artemis II mission milestone, a cri..."
-    },
-    {
-      "title": "The olive as a laboratory: New analytical approach predicts the quality of olive oil before it is extracted",
-      "link": "https://phys.org/news/2026-04-olive-laboratory-analytical-approach-quality.html",
-      "date": "2026-04-15 00:20",
-      "summary": "A method developed by the University of Córdoba (UCO) predicts the fatty acid, phenol, and volatile compound profile of extra virg..."
-    },
-    {
-      "title": "Flies found to be effective pollinators of berry crops",
-      "link": "https://phys.org/news/2026-04-flies-effective-pollinators-berry-crops.html",
-      "date": "2026-04-15 00:00",
-      "summary": "Researchers at the University of New England have identified two fly species as promising pollinators for berry crops, offering a ..."
     }
   ],
   "The Guardian Edu": [
@@ -321,34 +321,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Could the Middle East conflict dent turnout at Hong Kong Rugby Sevens?",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350121/could-middle-east-conflict-dent-turnout-hong-kong-rugby-sevens?utm_source=rss_feed",
+      "date": "2026-04-15 05:00",
+      "summary": "Attendance at Hong Kong’s flagship Rugby Sevens could be dampened by the latest conflict in the Middle East, as softer hotel booki..."
+    },
+    {
+      "title": "Number of Hong Kong secondary students with mental illness doubles over last 5 years",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3350120/number-hong-kong-secondary-students-mental-illness-doubles-over-last-5-years?utm_source=rss_feed",
+      "date": "2026-04-15 04:18",
+      "summary": "The number of secondary school students diagnosed with mental illness in Hong Kong has doubled over the last five academic years, ..."
+    },
+    {
+      "title": "‘Show patriotism through concrete actions,’ Xia Baolong tells Hong Kong businesspeople",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3350115/show-patriotism-through-concrete-actions-xia-baolong-tells-hong-kong-businesspeople?utm_source=rss_feed",
+      "date": "2026-04-15 03:34",
+      "summary": "Beijing’s point man on Hong Kong affairs has urged businesspeople to serve as the “main force” driving the city’s economic develop..."
+    },
+    {
+      "title": "Tai Po probe: woman trapped in blaze died after 999 call not passed to fire department",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350104/tai-po-probe-sees-ideal-progress-not-yet-time-commission-inquiry-chair?utm_source=rss_feed",
+      "date": "2026-04-15 02:28",
+      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+    },
+    {
       "title": "Call to check tech trends when drafting policies after basketball betting U-turn",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3350095/call-check-tech-trends-when-drafting-policies-after-basketball-betting-u-turn?utm_source=rss_feed",
       "date": "2026-04-15 00:01",
       "summary": "Hong Kong authorities should consider the impact of technological developments when drafting policies, observers have said, noting..."
-    },
-    {
-      "title": "How PayMe’s 3.3 million users and Hong Kong firms could start using stablecoins",
-      "link": "https://www.scmp.com/business/banking-finance/article/3350089/how-paymes-33-million-users-and-hong-kong-firms-could-start-using-stablecoins?utm_source=rss_feed",
-      "date": "2026-04-15 00:00",
-      "summary": "For Hong Kong’s 3.3 million PayMe users, everyday transactions such as buying coffee or splitting bills with friends could soon in..."
-    },
-    {
-      "title": "Hong Kong landlords face HK$17,000 inspection bill over ignored water seepage",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3350088/hong-kong-landlords-face-hk17000-inspection-bill-over-ignored-water-seepage?utm_source=rss_feed",
-      "date": "2026-04-14 14:40",
-      "summary": "Hong Kong landlords who fail to fix water seepage affecting flats below face a minimum inspection bill of HK$17,000 (US$2,170) if ..."
-    },
-    {
-      "title": "Wang Fuk Court resident reports suspected theft from fire-hit flat",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3350086/wang-fuk-court-resident-reports-suspected-theft-fire-hit-flat?utm_source=rss_feed",
-      "date": "2026-04-14 13:38",
-      "summary": "A resident of Hong Kong’s fire-ravaged Wang Fuk Court housing estate in Tai Po has said that a drawer in her flat had been rummage..."
-    },
-    {
-      "title": "Discovery Bay developer eyes longer taxi trial amid safety fears",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3350080/discovery-bay-developer-eyes-longer-taxi-trial-amid-safety-fears?utm_source=rss_feed",
-      "date": "2026-04-14 13:15",
-      "summary": "The developer of Hong Kong’s Discovery Bay is considering extending its trial period and limiting operating hours for cabbies to g..."
     }
   ],
   "New Scientist": [
