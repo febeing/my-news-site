@@ -65,12 +65,6 @@
   ],
   "Stanford News": [
     {
-      "title": "Inside the AI Index: 12 Takeaways from the 2026 Report - Stanford HAI",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGxZRERhMDlvSW91MG1td1hzeGNvZFRHTzRMWjhOczR2dmlTSU5fQzhfT1U2YW4wUUJlVHYycDZfME4xUHFkdDFkOUpKWVl1U1RDenVkSkFZZzIzWWJnZkhDQW10MEZUdVg5NUFJeXRhZXVBRHdhb09ZdnAxMGw0cHk5ZWVfbnNCRTVJ?oc=5",
-      "date": "2026-04-13 10:02",
-      "summary": "Inside the AI Index: 12 Takeaways from the 2026 Report  Stanford HAI..."
-    },
-    {
       "title": "Stanford Study: AI Experts Are Optimistic About AI. The Rest of Us … Not So Much - KQED",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEJJOXRjM1lCZUdWRGNPdFExNUl0MVpzaWhUdVFQc0s4dUxqSDQwX0J5SEpNdko3UlhNT210MG5vbnVoRk56V3JHdFNLdldQMUZMZG1ET08yc215LUc1ZVo3RnVjVG1kSDFzeUNDaWpkYXRsQ1dCTTdFbmNqUE1EcGN1ejQtdERXNG9Ba0hOWVBqWlVVNDJmY250dXJ1eng5THhmZHdfa0w3cGJPbDlWdg?oc=5",
       "date": "2026-04-13 16:57",
@@ -93,6 +87,12 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXNqaWZncDlSWS1uUm1KTFpfRWZZcElZMTkzcnk5TFNIcnJENGVaZlA4M3lfTWNocnI5Z0QyaUNlODVzSlBiZndIMmhLOHRKOGV4VFUtNFJJSk16Rl9CZF9FeDlkVm9xSFFDVnltWmdoZG8xRk1XQS1HN0R3Q2ZLS2NxQ2NPZU5tZ0FWYXZPLUlUY3dTVU5IdHdsYkNLazFnZ3B5b3U2UW9ESW5pVG4weA?oc=5",
       "date": "2026-04-14 09:56",
       "summary": "China leads in AI publications, patents: Stanford report  news.cgtn.com..."
+    },
+    {
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3NIU1VFS2xlYWp6ZllrckVmYUpsN0ZGRUJGR09OZ09WV0dIUXc2RURZNnRiWWRxRXpmQlJBclpPUkZrUTVDY1ZGUXB1c2UzSjNNTDdiZEdHaUpLS3llRkttOWVNSWtpa0FMNXBsMms1NmtyUVNZbXFYX2l4eF9nOVBGNFR5dy13WW5iTHY2Z1hUemlLS3djdFVIZHlYMURpZklQdDg3N3UxaDJiYndlUkYtVWVsN1AwM3c?oc=5",
+      "date": "2026-04-13 18:55",
+      "summary": "Stanford report highlights growing disconnect between AI insiders and everyone else  TechCrunch..."
     }
   ],
   "Nature Careers": [
@@ -193,10 +193,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjVQbGx0dTdPakwtSTdQYWk0YmFFWmRxYTlEZ1FRaWl5UkVaX2EzUGhETW9qOVlGYl9MMk9Va3BXOTJGWXhqbm10UGZFRlE5V19HTkhQMko5eGU0a05LRTRUOU1sZVJ6Q1ZNOTFKTEtiR3hJSUpQVWpCNVhnZldPbGtqSllFNE12NUpFZFNjTGZDMlZySldla0NZa0JlNG5XQVVxTmo2ZG1rUUNHbExiQzgtSlp2Wm1ucWU2cnc0b1Zidw?oc=5",
-      "date": "2026-04-13 12:15",
-      "summary": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing  Reuters..."
+      "title": "Meta extends custom chips deal with Broadcom to power AI ambitions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNURIUzJlUG5yTm5uR21LUFdnX3ZkY1Ruc0lLdF9UREwxanVOLWJUY1NrRC0zQW9USkZVU1B4Y1BCMUFDSDh1dWxDQ2hob2xQMUVKTG5iOUNlbG4yMnJMQkhWUmVCT0NoTDB2Tm8wY0lBclRMa3lMNS1Gb1JCaWg4YnJyQ2NOV041SFFfdkhXNEdNQ2M?oc=5",
+      "date": "2026-04-14 21:19",
+      "summary": "Meta extends custom chips deal with Broadcom to power AI ambitions  Reuters..."
+    },
+    {
+      "title": "ASML lifts 2026 forecast as surging AI demand boosts new orders for chip equipment - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEJGMi1ZX29NbzdBMURIdjBCY1NmeVZFWEZqNHgyT2xxZG45SmJzMjJrY211YVl6WVp3NUR5cURyRWswbmM2NlFyZEpwYnl0clZ0WHlScVZDYllKcDlmRWlFVWVwSDczdlBvUzlPanpwdF83QnhhQlJ0eDdmU2RuWHJ1TnFkd0N1cks0b2dCU2tRdzZUNVdB?oc=5",
+      "date": "2026-04-15 05:09",
+      "summary": "ASML lifts 2026 forecast as surging AI demand boosts new orders for chip equipment  Reuters..."
+    },
+    {
+      "title": "China's exports set to lose momentum as Iran war undercuts AI-driven boom: Reuters poll - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDRhcC0wVjVUNnI1bE5XU1d1YzhUd0MwV2tkN1BQdjEySG5pQ1lVbTRfZVV6RUIzZjJuT1BmaHpTRkY1YWRPNElVa1BnWVJVZl93aWtHeFJmYU5BeU5NOTdoV3dCWkVSclRkbHJzRWtVc3VnRWEweDZyOEkxVkJMU2hHb0Uzb2pZRHNCOWozOGxaQXZK?oc=5",
+      "date": "2026-04-13 05:13",
+      "summary": "China's exports set to lose momentum as Iran war undercuts AI-driven boom: Reuters poll  Yahoo Finance..."
     },
     {
       "title": "OpenAI's $852 billion valuation faces investor scrutiny amid strategy shift, FT reports - Reuters",
@@ -205,25 +217,19 @@
       "summary": "OpenAI's $852 billion valuation faces investor scrutiny amid strategy shift, FT reports  Reuters..."
     },
     {
-      "title": "Meta extends custom chips deal with Broadcom to power AI ambitions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNURIUzJlUG5yTm5uR21LUFdnX3ZkY1Ruc0lLdF9UREwxanVOLWJUY1NrRC0zQW9USkZVU1B4Y1BCMUFDSDh1dWxDQ2hob2xQMUVKTG5iOUNlbG4yMnJMQkhWUmVCT0NoTDB2Tm8wY0lBclRMa3lMNS1Gb1JCaWg4YnJyQ2NOV041SFFfdkhXNEdNQ2M?oc=5",
-      "date": "2026-04-14 22:39",
-      "summary": "Meta extends custom chips deal with Broadcom to power AI ambitions  Reuters..."
-    },
-    {
       "title": "Amazon launches AI research tool to speed early-stage drug discovery - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaFlYMTJlQzk0TWpDal9acThxOUs3VTVpY3AzTzRBZm05X0l2YUhlVmhIdE4tVVdtUjF6YjNUV1hyNWNEMlZlOWI5eG1hQzZEUTA3cExia1pGUVhJSGZBZ0JfOExpWUlUZXkwN0lhM3hCaUNkaDFyVUd3OE9NVUl6N3hvNHhURVJoRzdCbWl4WVhINy15X1RuOGpMOHZURlp5aDJVUl9xYjZEc1ZycmM3VWNnS3pNSko0UFhCWDN6WWVSMGdEcFNMRkxoYVVaNmtVWksw?oc=5",
       "date": "2026-04-14 18:44",
       "summary": "Amazon launches AI research tool to speed early-stage drug discovery  Reuters..."
-    },
-    {
-      "title": "AI-boosted hacks with Anthropic’s Mythos could have dire consequences for banks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONkJ4X2xkUG9NUHg1WWQ0cmVod2VYclVmdWE3S3dueDM3Ymx3ZUJ4VHc0OHhoZkFuanF5TjlhVTlpY3huY180NzN0dC1HREJfOURaZF8xemprQlZVMFNSWE9lUS0wQU1hLTZXX05PNXhLNVliZDBOR090NDgxVks1UXZHYnh6MGI3WHpLZFBaSmMyY094OVZBUGhxb0NYVF9RUzFtNXZ5REl2MVNEb0JBLVgyNXVrVGdzcGNGNFNoWmFsa0ROakE?oc=5",
-      "date": "2026-04-13 18:13",
-      "summary": "AI-boosted hacks with Anthropic’s Mythos could have dire consequences for banks  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "Building trust in the AI era with privacy-led UX - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaWtHeXJXd3JVSm5uYlNSQmxHNDZrSHV5WFBqUmU5WWJDM2FpcVYxN1pMOFVQNDdRaHhoRTJ0OGpFa20teGU1OElKMGdiazBIMWlNOGxIMmZtZUtEZDAzY3cycHRGYkU1QW81UlMwbXQ2OUVtdXk1eXgtY2NpNTJVTTJSSTNESndxZmRWWDA1UExGZHJyMnkxTGpCWjE5a2ZsVkVZ0gGoAUFVX3lxTE9xbzFWb19tNW1LRVdkV0ZjLS1IMk8zb2FwLUFmcHMtblVaczU5NHhmQ2pZVVAxZzV4ZmYtZjByd25GckxWLXNMUUp4Z0lXTzJ2Y2lkS3NwcHgzenlJWlNKaUxDOEpoTm94ZENMb1g4aTJIWUVYX0o4S0ZJd2I4dy00eFRIN3ZxLXc1TzlMTDRNMFN4bWhBMVRMZVZuRjhib2l4NjZmV3YyWA?oc=5",
+      "date": "2026-04-15 06:00",
+      "summary": "Building trust in the AI era with privacy-led UX  MIT Technology Review..."
+    },
     {
       "title": "Redefining the future of software engineering - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEJIQmQ3QmlrZ3VVSV9TM1QxVzd3UWl2NzZpdGxfa0xmSU8tTkRyQUN4TTd4ZWVCQ2s0b1B3VmpEMWpNR195THdBUXdyZU1GNnZHeWc3N1BUS0JXaW1zUHpUb095aEdnMDBOYVRycFRiY0RUa0VqbkxMbm9iODU3WENYR2FUVXBKTTI0RGhMLUtrWmNpLTZLbzY5WDk2YnfSAaQBQVVfeXFMUDRfYmNMdER3UzN1MHRWZFJKM0h1QXRtQm9vNm9yaDVkSDlGOUtCYnVOWXlMY0hNb1kxalZ2NHJFcHpKRFRBdzRObFIzaGJFdy1HNXo5dkFaLUdZVEdlRE5iR19oQVdLdUxoSnRlQjlMMnNxVTlNeU5hWE5jeE50UjVOQjZkcURzNldqU0s3YWkya1VwcThkTENxUFZ5RGtfNFdjdWU?oc=5",
@@ -241,12 +247,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTBRUHVUMzVUN21BYVVTVEk3ajRXTGNPd21LbHZNZUNaNW9wc2h3emV0T2REemVMSmQtVWFzUmlsRWg0aVZHSm1ydmdOa05ibC1EWG02dmZPbXdTNVpZT19nakc1XzZkYU5fWGZwVkhIcnh1MUNYN1pwY2R2WE5SQWxiMmY0SkdFT0hRb9IBkgFBVV95cUxQQkFpX1ZRSi14SFZtcXFPbF80TUY3Y1BIQ3RBd1BNUWk2SDV1aDhoOVRRdEx6YUlnd3pISThGVWhPdXI3d2ExTWJsYU9VWk5tR0tYRWtFZXRmRElpcTl3MXktY0kyOXN4NDN6Z2VaVVpTTDJCbEhjRC1GX3JFWDJJNlU1RldOQ0E3cVFYaF9ZLXlxQQ?oc=5",
       "date": "2026-04-13 15:48",
       "summary": "Why opinion on AI is so divided  MIT Technology Review..."
-    },
-    {
-      "title": "Coming soon: 10 Things That Matter in AI Right Now - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcUF6eGQ3eHdGSlhiWFhNb0hEUkpmT2dmMnJxSG14YTg0UEJCSm5tcW9leUJXVmFXNG1NWVhDdjZBU0otZFBRTFptMUVINXRWbnNzOVljQTUxVmxGWGo3SWJWUHptUzVSUE9VVWl4eUczY3RJNVZnTjlFalN4N043MHRWT2UwdkRJdDVVSGt3UWdOX0F3WDNQWVQ4Z0MwV08xa1Job9IBqgFBVV95cUxNNnFGd3AzbW03SEVZUXZEZGRmdGhaNWRSaHRHY1FWMVN6RDVBTXdWd08wYmt1Q1czTXJ2OUFJTW1OZ3lXMUR4MjlSVm9GRll1TGFYR3hfYmV4VTl1WWp2UUZ2bFQ3bjBwTXpmTE1GT1R6TW1NWUJpOWlJSThqdVEwdW1jSXBXMXhCUmxlU1dha2N3OTQzZGFhYkxtTWd0a0FwVEZXV05MR0VSZw?oc=5",
-      "date": "2026-04-14 11:00",
-      "summary": "Coming soon: 10 Things That Matter in AI Right Now  MIT Technology Review..."
     },
     {
       "title": "The one piece of data that could actually shed light on your job and AI - MIT Technology Review",
@@ -295,6 +295,12 @@
       "summary": "Massachusetts liberal arts college laments ‘heartbreaking reality’ and says financial pressures to blameA Massachusetts liberal ar..."
     },
     {
+      "title": "Reeves condemns Trump’s decision to launch war against Iran as ‘folly’– as it happened",
+      "link": "https://www.theguardian.com/politics/live/2026/apr/14/keir-starmer-defence-spending-labour-latest-news-updates",
+      "date": "2026-04-14 16:32",
+      "summary": "Chancellor ‘frustrated and angry’ at the effect on UK firms and families and says US went into war without a clear exit plan Q: Wh..."
+    },
+    {
       "title": "Surrounded by windfarms but out of work: the reality of the green jobs boom on England’s east coast",
       "link": "https://www.theguardian.com/environment/2026/apr/14/windfarm-reality-green-jobs-boom-englands-east-coast-unemployment",
       "date": "2026-04-14 07:00",
@@ -311,12 +317,6 @@
       "link": "https://www.theguardian.com/us-news/2026/apr/12/college-graduates-job-market-ai",
       "date": "2026-04-12 11:00",
       "summary": "Young American graduates expressed frustration over fewer job openings and longer searchesSign up for the Breaking News US email t..."
-    },
-    {
-      "title": "Student loan interest could rise despite cap on rates",
-      "link": "https://www.theguardian.com/money/2026/apr/11/student-loan-interest-rise-despite-uk-cap-rates-inflation",
-      "date": "2026-04-11 08:03",
-      "summary": "Temporary limit in England and Wales won’t stop many facing higher charges from autumn due to jump in inflation from Iran warGover..."
     }
   ],
   "SCMP Hong Kong": [
@@ -324,7 +324,7 @@
       "title": "Could the Middle East conflict dent turnout at Hong Kong Rugby Sevens?",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350121/could-middle-east-conflict-dent-turnout-hong-kong-rugby-sevens?utm_source=rss_feed",
       "date": "2026-04-15 05:00",
-      "summary": "Attendance at Hong Kong’s flagship Rugby Sevens could be dampened by the latest conflict in the Middle East, as softer hotel booki..."
+      "summary": "Attendance at Hong Kong’s flagship Rugby Sevens may take a hit from the conflict in the Middle East, as softer hotel bookings sugg..."
     },
     {
       "title": "Number of Hong Kong secondary students with mental illness doubles over last 5 years",
@@ -339,7 +339,7 @@
       "summary": "Beijing’s point man on Hong Kong affairs has urged businesspeople to serve as the “main force” driving the city’s economic develop..."
     },
     {
-      "title": "Tai Po probe: woman trapped in blaze died after 999 call not passed to fire department",
+      "title": "100‑metre ladders ‘unsuitable’ for narrow Hong Kong roads, Tai Po fire probe told",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350104/tai-po-probe-sees-ideal-progress-not-yet-time-commission-inquiry-chair?utm_source=rss_feed",
       "date": "2026-04-15 02:28",
       "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
