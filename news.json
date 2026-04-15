@@ -199,6 +199,12 @@
       "summary": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand  Reuters..."
     },
     {
+      "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2ZtWkI5VERwRTZkZDVXU3VuVUxiY2N6N3FfYlNpNUZ6OFViQVhvTmwtYVpTb1VjM1NCWWVfM2Q2dkI3YzdZb3NyTkR0VG5TNXNveWlQTGlrYWlqYmEwTWYxVk12TkRQbTlxYTlLaXJZbzU2UkFwVjZsSnlnT1RWVm5MdDU4RW56Rnc1cEZybnR4anQ0dGsyNTdwV0Vpay1TajV4d2RPZ0ZldzdfRmRMdHRoOFgtVVJfVFU2SnNteHdmSFVnZWc?oc=5",
+      "date": "2026-04-15 20:31",
+      "summary": "AI ruling prompts warnings from US lawyers: Your chats could be used against you  Reuters..."
+    },
+    {
       "title": "Snap to cut 1,000 jobs after activist pressure, bets on AI efficiency - Reuters",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXhCWnBQOUtZeEEyUmZXUzlfVFVYTFR1N1FmQkx5TVE3SThobUJxWG41YnJ2Wnd6MXVselBtT0t4NW1hQXVpX0VCNHBpQ2xTaUI4SnFkbnU4ZllCY0hSLXJDNm5HVmFFcTVSLTdsYWN4MlBHTGhPbFRxeWVJaWR4NnIyeGx5VUIzZ21STzNlcw?oc=5",
       "date": "2026-04-15 14:13",
@@ -207,7 +213,7 @@
     {
       "title": "Cadence, Nvidia working together on developing AI for robotics - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcW9FTG1SQ2ZEZVE0RzI0OU9vcUZLcFlWRG5ucHFiWkxnMlRVRVR5U3FnU0dLcWVSd2hjT0FaSE5HQ0kwQS05MHM0Smt4dnAtQTcwUWp4ck1jUUk5TklmYlBRTWY5QWdDenE1SFpaWV9WZjhtX3J1TWpSVWFsblNjdno2ZGlNb29RVjBlSUk3cklpcW5qZXMyb1ZmUlY3Y0lzZDQw?oc=5",
-      "date": "2026-04-15 21:22",
+      "date": "2026-04-15 21:42",
       "summary": "Cadence, Nvidia working together on developing AI for robotics  Reuters..."
     },
     {
@@ -215,12 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb0VMMXZWWVdWWUFVMkJUSVlaWHRub2E1V2lBZlZ1WjRvOWtvZEVzYnRJWlJYaXJYVk9NMFlpUWJrN0hKN0hHYlp1c0hKTEQ3V0ZQTkItUDh4YXk2TERkTnItQXdJaW14bGE0WFNsLXdrSmhZaXZ2VVFtZWFmU2NZdC1xMUZnX1ZNTVFWSFJuQ3FSR3NBNjRSRFNudXkwVFVSaF8tRW5kdWxpb2VRY1hicHlIdk5xWUhaMjVKX1VpYndYUUdXeHNvTEpR?oc=5",
       "date": "2026-04-14 04:09",
       "summary": "OpenAI's $852 billion valuation faces investor scrutiny amid strategy shift, FT reports  Reuters..."
-    },
-    {
-      "title": "Trump backs government AI safeguards in banking system, acknowledges risks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnB6bE1Wc3oyZ3ZyYWozWHgtNkgtWjRCTExPYXQzbE9HVURJWVFXQ3RxV2FPYjJZQW0zay1TdEZ6QVpZWFcyZzBQS2Q3eEwxNkx6REpCZnRZR3g2ZzBmZF9pbXRUd0p1NTU0THRPYWFxbDJ1d042SjBVZTZ4R0lfaVdwaE5nR0pBWjdqeUhHU0NMc1Q3VWROcEJCQW1GZlYxN1R2OFBFSWkxSVBXSWVkQXFR?oc=5",
-      "date": "2026-04-15 12:13",
-      "summary": "Trump backs government AI safeguards in banking system, acknowledges risks  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,37 +257,43 @@
   ],
   "Phys.org": [
     {
-      "title": "Planets need more water to support life than scientists previously thought",
-      "link": "https://phys.org/news/2026-04-planets-life-scientists-previously-thought.html",
-      "date": "2026-04-15 22:40",
-      "summary": "Unfortunately for science fiction fans, desert worlds outside our solar system are unlikely to host life, according to new researc..."
+      "title": "Gravity follows Newton and Einstein's rules, even at cosmic scales",
+      "link": "https://phys.org/news/2026-04-gravity-newton-einstein-cosmic-scales.html",
+      "date": "2026-04-15 23:40",
+      "summary": "Gravity, as most people understand it, is the familiar force that pulls a falling apple toward Earth. But for astronomers and theo..."
     },
     {
-      "title": "Plants' photosynthetic pathway type and rates of Rubisco dark inhibition may be linked",
-      "link": "https://phys.org/news/2026-04-photosynthetic-pathway-rubisco-dark-inhibition.html",
-      "date": "2026-04-15 22:40",
-      "summary": "In efforts to better understand how plant photosynthesis is regulated, scientists are studying how Rubisco activity responds to li..."
+      "title": "Crowd flow measurements reveal hidden slowdowns and standstills in dense public spaces",
+      "link": "https://phys.org/news/2026-04-crowd-reveal-hidden-slowdowns-standstills.html",
+      "date": "2026-04-15 23:40",
+      "summary": "How can public spaces remain safe when large crowds move through them? Engineers and researchers who study these environments ofte..."
     },
     {
-      "title": "Machine learning tool pinpoints optimal locations for tree planting, offering a powerful tool for climate mitigation",
-      "link": "https://phys.org/news/2026-04-machine-tool-optimal-tree-powerful.html",
-      "date": "2026-04-15 22:30",
-      "summary": "Afforestation—establishing forests on previously non-forested land, or where forests have not existed for a long time—is one of th..."
+      "title": "Next-generation CT scanner reveal new details inside 2,300-year-old Egyptian mummy remains",
+      "link": "https://phys.org/news/2026-04-generation-ct-scanner-reveal-year.html",
+      "date": "2026-04-15 23:30",
+      "summary": "Egyptian mummy remains were examined at Semmelweis University's Medical Imaging Center (OKK). The archaeological finds arriving fr..."
     },
     {
-      "title": "Stress-triggered protein clusters reveal how cells sort damaged cargo",
-      "link": "https://phys.org/news/2026-04-stress-triggered-protein-clusters-reveal.html",
-      "date": "2026-04-15 22:20",
-      "summary": "Inside every cell, a cleanup operation runs around the clock. Proteins are constantly damaged by wear and tear. Some can be repair..."
+      "title": "'Interstellar glaciers': NASA's SPHEREx maps vast galactic ice regions",
+      "link": "https://phys.org/news/2026-04-interstellar-glaciers-nasa-spherex-vast.html",
+      "date": "2026-04-15 23:20",
+      "summary": "NASA's SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) mission has mapped i..."
     },
     {
-      "title": "Astronomers crack a decades-old mystery, catching gas morphing into planet-building disks around newborn stars",
-      "link": "https://phys.org/news/2026-04-astronomers-decades-mystery-gas-morphing.html",
-      "date": "2026-04-15 22:20",
-      "summary": "An international team led by Dr. Indrani Das of Academia Sinica Institute of Astronomy and Astrophysics (ASIAA) has shown, for the..."
+      "title": "The giants of the reef: New citizen science project races to document centennial corals",
+      "link": "https://phys.org/news/2026-04-giants-reef-citizen-science-document.html",
+      "date": "2026-04-15 23:20",
+      "summary": "Coral reefs hide \"scientific treasures\" that have survived for centuries, yet many of these giant, ancient organisms remain largel..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "English councils need to hire 1,400 more educational psychologists, says report",
+      "link": "https://www.theguardian.com/education/2026/apr/16/english-councils-need-to-hire-1400-more-educational-psychologists-says-report",
+      "date": "2026-04-15 23:01",
+      "summary": "Rising demand from children with special needs means the £140m required could come from government grantsCouncils in England need ..."
+    },
     {
       "title": "Sri Lankan student could be deported from UK after one-day student fee delay",
       "link": "https://www.theguardian.com/education/2026/apr/15/sri-lankan-student-could-be-deported-from-uk-student-fee-delay-coventry-university",
@@ -311,15 +317,15 @@
       "link": "https://www.theguardian.com/politics/live/2026/apr/14/keir-starmer-defence-spending-labour-latest-news-updates",
       "date": "2026-04-14 16:32",
       "summary": "Chancellor ‘frustrated and angry’ at the effect on UK firms and families and says US went into war without a clear exit plan Q: Wh..."
-    },
-    {
-      "title": "Surrounded by windfarms but out of work: the reality of the green jobs boom on England’s east coast",
-      "link": "https://www.theguardian.com/environment/2026/apr/14/windfarm-reality-green-jobs-boom-englands-east-coast-unemployment",
-      "date": "2026-04-14 07:00",
-      "summary": "The government hails the ‘green revolution’ as a solution to economic decline, but some young jobseekers say the rhetoric does not..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Futu Securities opens coffee shop in branch as it adapts to changing client ‘lifestyles’",
+      "link": "https://www.scmp.com/business/article/3350205/futu-securities-opens-coffee-shop-branch-it-adapts-changing-client-lifestyles?utm_source=rss_feed",
+      "date": "2026-04-15 23:30",
+      "summary": "Futu Securities is the latest non-food and beverage retailer to sell coffee and other drinks in one of its outlets in Hong Kong as..."
+    },
     {
       "title": "When vitiligo is seen but not understood",
       "link": "https://www.scmp.com/presented/news/hong-kong/health-environment/topics/support-vitiligo-patients/article/3350117/when-vitiligo-seen-not-understood?utm_source=rss_feed",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350173/eu-budget-chief-pitches-collaboration-and-bonds-hong-kong-leg-asia-tour?utm_source=rss_feed",
       "date": "2026-04-15 13:00",
       "summary": "The European Union will remain open to capital from mainland China and Hong Kong even as the bloc pursues a “de-risking” strategy ..."
-    },
-    {
-      "title": "Tai Po blaze: Hong Kong official defends refusing mainland Chinese firefighters’ help",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3350191/hong-kong-official-defends-decision-decline-mainland-firefighters-help-tai-po-fire?utm_source=rss_feed",
-      "date": "2026-04-15 12:00",
-      "summary": "A Hong Kong fire services official has defended a decision to decline mainland Chinese firefighters’ help in combating the city’s ..."
     }
   ],
   "New Scientist": [
