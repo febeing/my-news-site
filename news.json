@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Light-activated gel could impact wearables, soft robotics, and more",
+      "link": "https://news.mit.edu/2026/light-activated-gel-could-impact-wearables-soft-robotics-more-0416",
+      "date": "2026-04-16 21:10",
+      "summary": "New MIT work advances the growing field of ionotronics, in which data are transferred through ions, potentially providing a bridge..."
+    },
+    {
       "title": "3 Questions: A running shoe that adapts to the runner",
       "link": "https://news.mit.edu/2026/3-questions-running-shoe-that-adapts-to-runner-0416",
       "date": "2026-04-16 15:25",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/mit-study-reveals-new-role-cell-membranes-0416",
       "date": "2026-04-16 04:00",
       "summary": "Long thought to be mainly a structural support, the cell membrane also influences how cells respond to signals and may contribute ..."
-    },
-    {
-      "title": "Waves hit different on other planets",
-      "link": "https://news.mit.edu/2026/waves-hit-different-on-other-planets-0416",
-      "date": "2026-04-16 04:00",
-      "summary": "From lazy ripples to towering breakers, waves should vary widely from one planet to another, according to a new model...."
     }
   ],
   "Harvard Gazette": [
@@ -65,22 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3NIU1VFS2xlYWp6ZllrckVmYUpsN0ZGRUJGR09OZ09WV0dIUXc2RURZNnRiWWRxRXpmQlJBclpPUkZrUTVDY1ZGUXB1c2UzSjNNTDdiZEdHaUpLS3llRkttOWVNSWtpa0FMNXBsMms1NmtyUVNZbXFYX2l4eF9nOVBGNFR5dy13WW5iTHY2Z1hUemlLS3djdFVIZHlYMURpZklQdDg3N3UxaDJiYndlUkYtVWVsN1AwM3c?oc=5",
-      "date": "2026-04-13 18:55",
-      "summary": "Stanford report highlights growing disconnect between AI insiders and everyone else  TechCrunch..."
+      "title": "Stanford Study: AI Experts Are Optimistic About AI. The Rest of Us … Not So Much - KQED",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEJJOXRjM1lCZUdWRGNPdFExNUl0MVpzaWhUdVFQc0s4dUxqSDQwX0J5SEpNdko3UlhNT210MG5vbnVoRk56V3JHdFNLdldQMUZMZG1ET08yc215LUc1ZVo3RnVjVG1kSDFzeUNDaWpkYXRsQ1dCTTdFbmNqUE1EcGN1ejQtdERXNG9Ba0hOWVBqWlVVNDJmY250dXJ1eng5THhmZHdfa0w3cGJPbDlWdg?oc=5",
+      "date": "2026-04-13 16:57",
+      "summary": "Stanford Study: AI Experts Are Optimistic About AI. The Rest of Us … Not So Much  KQED..."
     },
     {
       "title": "Stanford: China has 'nearly erased' U.S. AI lead as flow of tech experts to America slows - Fortune",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbk9HM1JsR0dLdExINEdpbERZNkluUm5DNFZ6OUdrZFk0Y0pPVzc0QnVlVjI2a1RYNDRaNkZJSVBpNzlpR01vRXU3SmNFVzBZdUxWYS0yZmJVTnFNS3UyOHA3LV94cENnV01LZm53eG4td3U4Q3BFbWI5X1RGZWJQRVpuUWtGRWs?oc=5",
       "date": "2026-04-16 18:43",
       "summary": "Stanford: China has 'nearly erased' U.S. AI lead as flow of tech experts to America slows  Fortune..."
-    },
-    {
-      "title": "Stanford Study: AI Experts Are Optimistic About AI. The Rest of Us … Not So Much - KQED",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEJJOXRjM1lCZUdWRGNPdFExNUl0MVpzaWhUdVFQc0s4dUxqSDQwX0J5SEpNdko3UlhNT210MG5vbnVoRk56V3JHdFNLdldQMUZMZG1ET08yc215LUc1ZVo3RnVjVG1kSDFzeUNDaWpkYXRsQ1dCTTdFbmNqUE1EcGN1ejQtdERXNG9Ba0hOWVBqWlVVNDJmY250dXJ1eng5THhmZHdfa0w3cGJPbDlWdg?oc=5",
-      "date": "2026-04-13 16:57",
-      "summary": "Stanford Study: AI Experts Are Optimistic About AI. The Rest of Us … Not So Much  KQED..."
     },
     {
       "title": "AI May Be Running Out Of Data, Stanford Report Warns - Forbes",
@@ -93,6 +87,12 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ka3d0ZXB4ZkJpMHltd2F4VTFmQWlsYnlmbXBoRHhMY1RVWnp1MFJRM3JsTFVBU1FaR3ZPOHdKWVYzczI1Z0JQYTVlNHpjUDNvQ3dkd1QwVHZJeXZibExyd3drY1cxSmR1cG05RFpvVnY0MzhIMVRDVUlpNjk?oc=5",
       "date": "2026-04-16 05:26",
       "summary": "Stanford’s Biomni-AD team wins $1 million prize for Alzheimer’s research tool  The Stanford Daily..."
+    },
+    {
+      "title": "Redwood City to study expansion of Stanford Medicine cancer center - San Mateo Daily Journal",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHhOUHFKUkFNelJIY1NLNC1uUmk1dlAyOEI5RzNIYlVpQnNldzdVSkZmVVRFZmF2bXI1bFpsa0xTWDcxM3RENURudGZjcXI4QnlHeVJud3FZNjNod25LNWRLMEhXUXptNGxXY1lYUWQ1XzUzZF9iOUJxZWp2emY1NWZVb2JOS3BtNVh6M2lZVFMxNkszLVhzai1xem5CTWhiT0pwYUEyR3JGdGJDNHhmek1wZGViSktrSURtM2kzenZlNVF3a0twMnktemgzOEVtZkE5RHdKNVFURllqMEpXWHZYbmpZeHZCREFUc09Naw?oc=5",
+      "date": "2026-04-15 12:15",
+      "summary": "Redwood City to study expansion of Stanford Medicine cancer center  San Mateo Daily Journal..."
     }
   ],
   "Nature Careers": [
@@ -193,12 +193,6 @@
   ],
   "Reuters AI": [
     {
-      "title": "OpenAI launches AI model GPT-Rosalind for life sciences research - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW1lVG9kQXRYc1hlRFZ4UVlGaWlUcENoRzRlUDNzYnJSWDN4bG9YbFhzaHdqY0R2Qmc5dEdYVTU5QlJBYVBFTXBUY2phS2dDQk9WeGdvUm1SLUlxMGhrTHZMQUJOQlMzZnl2Nmw5ZTJIdXg4bV9TVVh5V09VN0hFbFFIdlZsclNMUklKbkZaQVVFOXJKWThDVEFiYnFDNVR5REdGTmUyS0dveFEwcVhXZ3JWSXMtSWV2ZEFxWWZkUEVtc3d4UFZxdlpzTWQ?oc=5",
-      "date": "2026-04-16 19:26",
-      "summary": "OpenAI launches AI model GPT-Rosalind for life sciences research  Reuters..."
-    },
-    {
       "title": "Myseum takes flight after Allbirds in fresh AI rebrand wave - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOTFnNTAtSnJoVVExWkQ5OEk2cF9pNGdmYWlrNW9DSFBpNUYxSDJQTnF0OGhESW5qN0phanVkcGRVcEtNY0x2a1JoSk8yM21Nek1rQUl2QTZ3aGlKU2ljbFpnTFF0eDExdjZySVZWbDZUdVhQSVh4dzFLZHJjdDBQYWYzRm1VVS10WHpzcnBnUjhyZlFVTkpWaHl6WEpNTlF1OUxv?oc=5",
       "date": "2026-04-16 19:15",
@@ -221,9 +215,21 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWx5VjhYazEyT3dKb2NjOXRrYm53N0QzWEwzZjBka1JxVmZtMUdkN19xZTk1MUJmNzVzTEtIOHFTekFwRlJzV0Y4TzZ3ZnM0Z0xETklKVXd6TFNpY3FZeEVRTnFNQmdtejZUZEdvRENHRW10ZlI1Y0d1RWNDdWtlamp6aUlYTVI5ck5sR1FuZ1VLM3F2V3lsOV9Ua2xUS0FZaVMzYkFLNE9yeU5ZcXlBZi1uVEtQQmVVSll4NXJB?oc=5",
       "date": "2026-04-16 12:02",
       "summary": "Stellantis, Microsoft sign five-year partnership for AI push  Reuters..."
+    },
+    {
+      "title": "OpenAI launches AI model GPT-Rosalind for life sciences research - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW1lVG9kQXRYc1hlRFZ4UVlGaWlUcENoRzRlUDNzYnJSWDN4bG9YbFhzaHdqY0R2Qmc5dEdYVTU5QlJBYVBFTXBUY2phS2dDQk9WeGdvUm1SLUlxMGhrTHZMQUJOQlMzZnl2Nmw5ZTJIdXg4bV9TVVh5V09VN0hFbFFIdlZsclNMUklKbkZaQVVFOXJKWThDVEFiYnFDNVR5REdGTmUyS0dveFEwcVhXZ3JWSXMtSWV2ZEFxWWZkUEVtc3d4UFZxdlpzTWQ?oc=5",
+      "date": "2026-04-16 19:26",
+      "summary": "OpenAI launches AI model GPT-Rosalind for life sciences research  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "Treating enterprise AI as an operating layer - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0lVdHhGYjk1bFgyTS1BdEJaVWZwYy14Tm0za1BPVG5xaHdwRzk3MUZNa2I2SG92SEVPVWtqT09MTHB3SnpYTjRPRHc4U0pQSzFDNjJxV0FscUhsSkdGMDF0R3JfU0F5a291U3BWV2dhYmlMRDhMRlRKbDYxNVdGT21zMXZhNlZnTUNWczY4S0FKaTQ3VURnelVRcVVIZ9IBowFBVV95cUxPOVMzTkVueEhiWjhrRWNEbTIwUzlJeTAyVFRzelRISmxTYkw0MWFaTXNaSWV5dGJJTlFSaXpiSC1YNGRubDhhS1JVWnhEd1Y3bUkxQ0lFekhaX2FlSVRhR21oLUxfQ0RTNTc1SWljNXUzczljbF9QeEVaYTlLc1NMd0ZhS05id3JUSlF0cWktSU9Wb1ZXc0IwaWg4MWNMQlpFblVv?oc=5",
+      "date": "2026-04-16 13:00",
+      "summary": "Treating enterprise AI as an operating layer  MIT Technology Review..."
+    },
     {
       "title": "Is carbon removal in trouble? - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjdiT29fbjNoMFZwOS1YbVhic2tNM1l0M1NJTkZmQ3BoNHRPaHM4YTduY05mclFGazV5bzNzcXpLNkNNVG95ekJWRWNscm5kTVZNYnhTYUJLUzVSbW8wMGFoRUF1eTNMdXk3V3RLbG1jeWJhT1h1TUJnc1JocWIyLXFCY9IBiAFBVV95cUxPV2M0aG11VlQ0dFNtZ0ZhSkhuVDQ5VkZPd0dIdExDbm54T2VGZ1NITnl4OFVwam41bGFyM2VSU3hNY0QtaklFcFduWmxsQ3FMUk4tejlWN2trRlRXVlBEdDQ3aFRoOHdNSDhvN1VZbG9vR1hTMndUY2hmT1lBWEhNaXM2MWZqVHY1?oc=5",
@@ -247,44 +253,38 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLVY5YVo2dEl0alFJbUxQZVFaMEI1SUs2XzV1TmltYS1fU2lLT0x3cWpWdUxhUzR4cEh3R290SDJHWDh1WFJ4TVVBOXdLQ0xXeGpsMkxrTmkwSkExcjlqb0NESHpnZ01nNldXQS1oakV0dV9yNVJLZlZ2dGpvMHd0MXBYZ0psMDg1dTlzZXZYVDBqVmRwR0HSAZsBQVVfeXFMTWZSRmFieEtTVmJDTGRiaXhfS3BTUU15bzZKUEZudGtwazY4WGtmUWxKTUNOMjVVZXYxdDZOblJIVkMzel9aQ0JqNXhlVzNuWlh0eVVpZGRTQl9VelctT3oyd3lZU1Q5RktuVmdDRk9PRzNfVW9rODNCX3pKTVJJc0JtTjJCcHdKdlNXSVgtR2tGeFl5TTNGWUVNQVk?oc=5",
       "date": "2026-04-16 10:00",
       "summary": "The quest to measure our relationship with nature  MIT Technology Review..."
-    },
-    {
-      "title": "Why opinion on AI is so divided - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTBRUHVUMzVUN21BYVVTVEk3ajRXTGNPd21LbHZNZUNaNW9wc2h3emV0T2REemVMSmQtVWFzUmlsRWg0aVZHSm1ydmdOa05ibC1EWG02dmZPbXdTNVpZT19nakc1XzZkYU5fWGZwVkhIcnh1MUNYN1pwY2R2WE5SQWxiMmY0SkdFT0hRb9IBkgFBVV95cUxQQkFpX1ZRSi14SFZtcXFPbF80TUY3Y1BIQ3RBd1BNUWk2SDV1aDhoOVRRdEx6YUlnd3pISThGVWhPdXI3d2ExTWJsYU9VWk5tR0tYRWtFZXRmRElpcTl3MXktY0kyOXN4NDN6Z2VaVVpTTDJCbEhjRC1GX3JFWDJJNlU1RldOQ0E3cVFYaF9ZLXlxQQ?oc=5",
-      "date": "2026-04-13 15:48",
-      "summary": "Why opinion on AI is so divided  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Wild Canadian freshwater fish reveal opioid and antidepressant buildup downstream",
-      "link": "https://phys.org/news/2026-04-wild-canadian-freshwater-fish-reveal.html",
-      "date": "2026-04-16 20:40",
-      "summary": "Fish living downstream of wastewater treatment plants are accumulating antidepressants, opioids and other drugs of abuse in their ..."
+      "title": "Are aliens real? Scientists have been hunting for extraterrestrial life since the time of Aristotle",
+      "link": "https://phys.org/news/2026-04-aliens-real-scientists-extraterrestrial-life.html",
+      "date": "2026-04-16 21:40",
+      "summary": "Do aliens exist? Could Earth really be the only planet hosting intelligent life?..."
     },
     {
-      "title": "Sex pheromone of a sandgrain-sized insect deciphered",
-      "link": "https://phys.org/news/2026-04-sex-pheromone-sandgrain-sized-insect.html",
-      "date": "2026-04-16 20:40",
-      "summary": "Parasitic wasps of the genus Trichogramma are among the smallest insects in the world—yet they play an important role in natural e..."
+      "title": "Common Asian plant in Brazil shows potential for removing microplastics from water",
+      "link": "https://phys.org/news/2026-04-common-asian-brazil-potential-microplastics.html",
+      "date": "2026-04-16 21:40",
+      "summary": "A study conducted at the Institute of Science and Technology of São Paulo State University (ICT-UNESP) in São José dos Campos, Bra..."
     },
     {
-      "title": "Industrial chemical leaks could push ozone layer recovery back by 7 years",
-      "link": "https://phys.org/news/2026-04-industrial-chemical-leaks-ozone-layer.html",
-      "date": "2026-04-16 20:20",
-      "summary": "The recovery of the ozone layer in Earth's stratosphere could be delayed by several years, according to an international study led..."
+      "title": "Temperature shifts change plant proteins that power photosynthesis",
+      "link": "https://phys.org/news/2026-04-temperature-shifts-proteins-power-photosynthesis.html",
+      "date": "2026-04-16 21:30",
+      "summary": "Humans adjust to changes in temperature by putting on a sweater or taking off layers. Plants adjust to temperature changes, in par..."
     },
     {
-      "title": "Washington DC's 240 million‑gallon sewage spill is a symptom of nationwide trouble",
-      "link": "https://phys.org/news/2026-04-washington-dc-milliongallon-sewage-symptom.html",
-      "date": "2026-04-16 20:20",
-      "summary": "When 240 million gallons of raw sewage spilled into the Potomac River in Washington, D.C., starting in mid-January 2026 and runnin..."
+      "title": "Extensive faults beneath Nevada nuclear lab raise unanswered earthquake risks",
+      "link": "https://phys.org/news/2026-04-extensive-faults-beneath-nevada-nuclear.html",
+      "date": "2026-04-16 21:20",
+      "summary": "The underground laboratory in Nevada where the U.S. conducts nuclear subcritical experiments is riddled with faults. Researchers h..."
     },
     {
-      "title": "Laser method unlocks 3,000-Kelvin thin-film synthesis for quantum materials",
-      "link": "https://phys.org/news/2026-04-laser-method-kelvin-thin-synthesis.html",
-      "date": "2026-04-16 20:20",
-      "summary": "Thin films might not come up in conversation every day, but they are all around us. Take the metallic plastic films of chip bags, ..."
+      "title": "From sunsets to the night sky: How technology can help you to notice nature in new ways",
+      "link": "https://phys.org/news/2026-04-sunsets-night-sky-technology-nature.html",
+      "date": "2026-04-16 21:20",
+      "summary": "On a chilly yet beautifully clear evening last November, I sat on a video call with colleagues and happened to mention the live fe..."
     }
   ],
   "The Guardian Edu": [
