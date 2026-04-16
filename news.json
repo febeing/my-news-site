@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "With navigating nematodes, scientists map out how brains implement behaviors",
+      "link": "https://news.mit.edu/2026/navigating-nematodes-scientists-map-out-how-brains-implement-behaviors-0416",
+      "date": "2026-04-16 22:30",
+      "summary": "MIT scientists create a detailed map of exactly what happens in the brains of C. elegans worms when they “follow their nose” to sa..."
+    },
+    {
+      "title": "Understanding community effects of Asian immigrants’ US housing purchases",
+      "link": "https://news.mit.edu/2026/community-effects-asian-immigrants-us-housing-purchases-0416",
+      "date": "2026-04-16 22:00",
+      "summary": "Findings suggest that at the county level, rise in prices is due, in part, to the fact that new neighbors have a positive impact o..."
+    },
+    {
       "title": "Light-activated gel could impact wearables, soft robotics, and more",
       "link": "https://news.mit.edu/2026/light-activated-gel-could-impact-wearables-soft-robotics-more-0416",
       "date": "2026-04-16 21:10",
@@ -17,18 +29,6 @@
       "link": "https://news.mit.edu/2026/regulatory-loophole-could-delay-ozone-recovery-0416",
       "date": "2026-04-16 09:00",
       "summary": "Scientists say an exception in the Montreal Protocol for the use of ozone-depleting feedstocks could set the ozone recovery back s..."
-    },
-    {
-      "title": "Youth may increase vulnerability to a carcinogen found in contaminated water and some drugs",
-      "link": "https://news.mit.edu/2026/youth-may-increase-vulnerability-carcinogen-in-contaminated-water-0416",
-      "date": "2026-04-16 04:00",
-      "summary": "A new study suggests that the chemical NDMA is much more likely to cause cancerous mutations after exposure early in life...."
-    },
-    {
-      "title": "MIT study reveals a new role for cell membranes",
-      "link": "https://news.mit.edu/2026/mit-study-reveals-new-role-cell-membranes-0416",
-      "date": "2026-04-16 04:00",
-      "summary": "Long thought to be mainly a structural support, the cell membrane also influences how cells respond to signals and may contribute ..."
     }
   ],
   "Harvard Gazette": [
@@ -77,16 +77,16 @@
       "summary": "Stanford: China has 'nearly erased' U.S. AI lead as flow of tech experts to America slows  Fortune..."
     },
     {
-      "title": "AI May Be Running Out Of Data, Stanford Report Warns - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVjQ5ODlDdEx3UUFiQWZRcXJubllCN1NBZ0JrYk5jR0pmWXNYbU1hSUo1ZV9QRmxGQ0hySGg2WGg2U1ltUjRqdEF6SFMzNjNPWWVvaFNUM3dSOVMtNF9nQTNLT2Q0LXBxQXN3WUx5bDcydXU4MWFIM01nd0FCVXpzTkZjUWdqOGtEWGJiUlR6M0RMeVBpZS1jYmRkREFHaHNoMGVaSVRMSy05UQ?oc=5",
-      "date": "2026-04-14 15:44",
-      "summary": "AI May Be Running Out Of Data, Stanford Report Warns  Forbes..."
-    },
-    {
       "title": "Stanford’s Biomni-AD team wins $1 million prize for Alzheimer’s research tool - The Stanford Daily",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ka3d0ZXB4ZkJpMHltd2F4VTFmQWlsYnlmbXBoRHhMY1RVWnp1MFJRM3JsTFVBU1FaR3ZPOHdKWVYzczI1Z0JQYTVlNHpjUDNvQ3dkd1QwVHZJeXZibExyd3drY1cxSmR1cG05RFpvVnY0MzhIMVRDVUlpNjk?oc=5",
       "date": "2026-04-16 05:26",
       "summary": "Stanford’s Biomni-AD team wins $1 million prize for Alzheimer’s research tool  The Stanford Daily..."
+    },
+    {
+      "title": "AI May Be Running Out Of Data, Stanford Report Warns - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVjQ5ODlDdEx3UUFiQWZRcXJubllCN1NBZ0JrYk5jR0pmWXNYbU1hSUo1ZV9QRmxGQ0hySGg2WGg2U1ltUjRqdEF6SFMzNjNPWWVvaFNUM3dSOVMtNF9nQTNLT2Q0LXBxQXN3WUx5bDcydXU4MWFIM01nd0FCVXpzTkZjUWdqOGtEWGJiUlR6M0RMeVBpZS1jYmRkREFHaHNoMGVaSVRMSy05UQ?oc=5",
+      "date": "2026-04-14 15:44",
+      "summary": "AI May Be Running Out Of Data, Stanford Report Warns  Forbes..."
     },
     {
       "title": "Redwood City to study expansion of Stanford Medicine cancer center - San Mateo Daily Journal",
@@ -115,16 +115,16 @@
       "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01213-4Study of gene expression also finds age-related increases i..."
     },
     {
+      "title": "‘Science needs defending’: record number of researchers run for office in US mid-terms",
+      "link": "https://www.nature.com/articles/d41586-026-01134-2",
+      "date": "2026-04-16 00:00",
+      "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01134-2Many Democrats making the switch to politics are motivated ..."
+    },
+    {
       "title": "The nine-to-five PhD: mere myth or an achievable goal?",
       "link": "https://www.nature.com/articles/d41586-026-00509-9",
       "date": "2026-04-16 00:00",
       "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-00509-9Can you squeeze your graduate programme into a 40-hour work..."
-    },
-    {
-      "title": "Quantum computers take on health care: light-sensitive cancer drugs win US$2 million contest",
-      "link": "https://www.nature.com/articles/d41586-026-01236-x",
-      "date": "2026-04-16 00:00",
-      "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01236-xQuantum machines are making inroads into biology, but have ..."
     }
   ],
   "Science News": [
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "45 editors resign from math journal, former EIC calls Elsevier publisher a ‘mini-dictator’",
+      "link": "https://retractionwatch.com/2026/04/16/45-editors-resign-from-math-journal-former-eic-calls-elsevier-publisher-a-mini-dictator/",
+      "date": "2026-04-16 19:24",
+      "summary": "Forty-five of 48 members of the editorial board of the Journal of Approximation Theory resigned earlier this month for what they c..."
+    },
+    {
       "title": "Retraction Watch testifies in Congressional hearing on scientific publishing",
       "link": "https://retractionwatch.com/2026/04/15/retraction-watch-testifies-in-congressional-hearing-on-scientific-publishing/",
       "date": "2026-04-15 21:00",
@@ -183,12 +189,6 @@
       "link": "https://retractionwatch.com/2026/04/13/scientist-who-alleged-covid-cover-up-circulated-a-faked-nih-email-agency-says/",
       "date": "2026-04-13 11:34",
       "summary": "A scientist charged with research misconduct used a fake email communication with an NIH researcher’s address to support his claim..."
-    },
-    {
-      "title": "Weekend reads: LLMs ‘are not the problem’; Cash for peer review ‘doesn’t work,’ project finds; ‘Many Flaws, Few Retractions’ in vaping literature",
-      "link": "https://retractionwatch.com/2026/04/11/weekend-reads-llms-are-not-the-problem-cash-for-peer-review-doesnt-work-project-finds-many-flaws-few-retractions-in-vaping-literatur/",
-      "date": "2026-04-11 10:00",
-      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
     }
   ],
   "Reuters AI": [
@@ -213,14 +213,14 @@
     {
       "title": "Stellantis, Microsoft sign five-year partnership for AI push - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWx5VjhYazEyT3dKb2NjOXRrYm53N0QzWEwzZjBka1JxVmZtMUdkN19xZTk1MUJmNzVzTEtIOHFTekFwRlJzV0Y4TzZ3ZnM0Z0xETklKVXd6TFNpY3FZeEVRTnFNQmdtejZUZEdvRENHRW10ZlI1Y0d1RWNDdWtlamp6aUlYTVI5ck5sR1FuZ1VLM3F2V3lsOV9Ua2xUS0FZaVMzYkFLNE9yeU5ZcXlBZi1uVEtQQmVVSll4NXJB?oc=5",
-      "date": "2026-04-16 12:02",
+      "date": "2026-04-16 21:53",
       "summary": "Stellantis, Microsoft sign five-year partnership for AI push  Reuters..."
     },
     {
-      "title": "OpenAI launches AI model GPT-Rosalind for life sciences research - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW1lVG9kQXRYc1hlRFZ4UVlGaWlUcENoRzRlUDNzYnJSWDN4bG9YbFhzaHdqY0R2Qmc5dEdYVTU5QlJBYVBFTXBUY2phS2dDQk9WeGdvUm1SLUlxMGhrTHZMQUJOQlMzZnl2Nmw5ZTJIdXg4bV9TVVh5V09VN0hFbFFIdlZsclNMUklKbkZaQVVFOXJKWThDVEFiYnFDNVR5REdGTmUyS0dveFEwcVhXZ3JWSXMtSWV2ZEFxWWZkUEVtc3d4UFZxdlpzTWQ?oc=5",
-      "date": "2026-04-16 19:26",
-      "summary": "OpenAI launches AI model GPT-Rosalind for life sciences research  Reuters..."
+      "title": "AmEx to buy Altman-backed Hyper in push for AI-powered expense tools - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3dqYzdYRVlEcHVaOFZnMHVPd3RhUHBPa0tZcElNNEtWSkw2Zml1YTRnZmZVcHhxMUZkNlR0YUZGWnkwRFV2Z0ozUmxnNWwyajBqUnIxM0l5WHlDd1g3emNjT1QwRlBhNlhwMGdGaWg2Wk12T2ZPSVFRb0VPVl9tUTlmWWZWVTRUME80X1luOGxnMFg2dU9SSTZqOWl2ZDJVakdIVVFB?oc=5",
+      "date": "2026-04-16 14:38",
+      "summary": "AmEx to buy Altman-backed Hyper in push for AI-powered expense tools  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -237,16 +237,16 @@
       "summary": "Is carbon removal in trouble?  MIT Technology Review..."
     },
     {
-      "title": "Want to understand the current state of AI? Check out these charts. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnpCUGt5aDlwdkJ1V1hXV3JKREE3LWY5WVNLOTIwSXZhMTUxVTFxSUM2d0JYVU0yRFVQWTBQdDZRWXFEVDJFYnJncUdwdWlueG9mNm1rZXU0V1NRUTdIcENyWHVZYXFLaHFzMklkc0hTRHNxT1VodHJ1SjNMMzVwX2pwcW9VYXl3Y2cyajhaU04tbzlxeG5CR1NKNlhsRi1mLXQzSEVsdHFtSDhrMTdNSndZWU9WemdQaVHSAb8BQVVfeXFMTTBUbHBETUlPRkR6cGFJdkh5bldseHJEaXRQQ0s3eTlUdTRTcnFMeXVSdnBBeW5ZRGJqTEFNVWw0Wk5hYnBGMTg3ZW1hYUdKaXN6ejllcUFLMWZRNWZFSjRjaFZDQ0NkN1ZNOTExWmkwRG1wQUZmMk9Td05GYlI3aG43dnc0VkdqR1IxdHkyMWtNb3FLSW8tRGhlLWdXR3g3UWZ1bzZrblJjY3BwY1VCRFpZdnhYVk13MFF4N2V1aFU?oc=5",
-      "date": "2026-04-13 13:00",
-      "summary": "Want to understand the current state of AI? Check out these charts.  MIT Technology Review..."
-    },
-    {
       "title": "Why having “humans in the loop” in an AI war is an illusion - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTFIUEphWmpKRElaVThzdkVoZnVnd1g3SjNUMk1JSzdjVFA3eXczajZfT3QtTm5hVG9za3hmTUk5eGk0dmwydVRaS3V4LWpGVEViR2hkRkhTX203WFFpSmpHdVN3blVXZVczZlgta3dJUWtiMEhJR0FBUlp1V2YyU2lGT2ZFel9hREJIRE1uYWLSAZYBQVVfeXFMTkhiR2l4TXpCeFFwRUFZdVNZdzl5Uk8xRVZFTzZxOUxSTlZZeWUzSFQxMHdMd3ZLbktva3J1SDBaQUIzQmxic3VsS3ItbWp2VTZVdElKZmZnTFlKSFV6cndDUURkM2phM0F6TFJEanFvRVBmNmRXamo0ZzB3dVJTY2haNmFIYU96WnJQZkJqcGptQzcwREt3?oc=5",
       "date": "2026-04-16 12:00",
       "summary": "Why having “humans in the loop” in an AI war is an illusion  MIT Technology Review..."
+    },
+    {
+      "title": "Want to understand the current state of AI? Check out these charts. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnpCUGt5aDlwdkJ1V1hXV3JKREE3LWY5WVNLOTIwSXZhMTUxVTFxSUM2d0JYVU0yRFVQWTBQdDZRWXFEVDJFYnJncUdwdWlueG9mNm1rZXU0V1NRUTdIcENyWHVZYXFLaHFzMklkc0hTRHNxT1VodHJ1SjNMMzVwX2pwcW9VYXl3Y2cyajhaU04tbzlxeG5CR1NKNlhsRi1mLXQzSEVsdHFtSDhrMTdNSndZWU9WemdQaVHSAb8BQVVfeXFMTTBUbHBETUlPRkR6cGFJdkh5bldseHJEaXRQQ0s3eTlUdTRTcnFMeXVSdnBBeW5ZRGJqTEFNVWw0Wk5hYnBGMTg3ZW1hYUdKaXN6ejllcUFLMWZRNWZFSjRjaFZDQ0NkN1ZNOTExWmkwRG1wQUZmMk9Td05GYlI3aG43dnc0VkdqR1IxdHkyMWtNb3FLSW8tRGhlLWdXR3g3UWZ1bzZrblJjY3BwY1VCRFpZdnhYVk13MFF4N2V1aFU?oc=5",
+      "date": "2026-04-13 13:00",
+      "summary": "Want to understand the current state of AI? Check out these charts.  MIT Technology Review..."
     },
     {
       "title": "The quest to measure our relationship with nature - MIT Technology Review",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Are aliens real? Scientists have been hunting for extraterrestrial life since the time of Aristotle",
-      "link": "https://phys.org/news/2026-04-aliens-real-scientists-extraterrestrial-life.html",
-      "date": "2026-04-16 21:40",
-      "summary": "Do aliens exist? Could Earth really be the only planet hosting intelligent life?..."
+      "title": "Novel technique drills more detail into ice core records",
+      "link": "https://phys.org/news/2026-04-technique-drills-ice-core.html",
+      "date": "2026-04-16 22:30",
+      "summary": "Glaciers can reveal vast archives of information about Earth's environmental past, but deciphering the origins of the matter withi..."
     },
     {
-      "title": "Common Asian plant in Brazil shows potential for removing microplastics from water",
-      "link": "https://phys.org/news/2026-04-common-asian-brazil-potential-microplastics.html",
-      "date": "2026-04-16 21:40",
-      "summary": "A study conducted at the Institute of Science and Technology of São Paulo State University (ICT-UNESP) in São José dos Campos, Bra..."
+      "title": "Quantum bottleneck breaks wide open as one light beam carries 23 secure channels at the same time",
+      "link": "https://phys.org/news/2026-04-quantum-bottleneck-wide-channels.html",
+      "date": "2026-04-16 22:30",
+      "summary": "A new Bar-Ilan University study points to a major advance in quantum information processing, demonstrating a way to send, manipula..."
     },
     {
-      "title": "Temperature shifts change plant proteins that power photosynthesis",
-      "link": "https://phys.org/news/2026-04-temperature-shifts-proteins-power-photosynthesis.html",
-      "date": "2026-04-16 21:30",
-      "summary": "Humans adjust to changes in temperature by putting on a sweater or taking off layers. Plants adjust to temperature changes, in par..."
+      "title": "New laser method gives insight into radioactive atomic nuclei",
+      "link": "https://phys.org/news/2026-04-laser-method-insight-radioactive-atomic.html",
+      "date": "2026-04-16 22:20",
+      "summary": "By directing pulses of laser light at atoms, researchers can study how radioactive elements decay in a matter of seconds. The meth..."
     },
     {
-      "title": "Extensive faults beneath Nevada nuclear lab raise unanswered earthquake risks",
-      "link": "https://phys.org/news/2026-04-extensive-faults-beneath-nevada-nuclear.html",
-      "date": "2026-04-16 21:20",
-      "summary": "The underground laboratory in Nevada where the U.S. conducts nuclear subcritical experiments is riddled with faults. Researchers h..."
+      "title": "Gene discovery opens new path for disease-resistant rice breeding",
+      "link": "https://phys.org/news/2026-04-gene-discovery-path-disease-resistant.html",
+      "date": "2026-04-16 22:10",
+      "summary": "Bacterial blight (BB) is a serious plant disease that mainly affects rice plants, especially in warm, humid regions. Due to the se..."
     },
     {
-      "title": "From sunsets to the night sky: How technology can help you to notice nature in new ways",
-      "link": "https://phys.org/news/2026-04-sunsets-night-sky-technology-nature.html",
-      "date": "2026-04-16 21:20",
-      "summary": "On a chilly yet beautifully clear evening last November, I sat on a video call with colleagues and happened to mention the live fe..."
+      "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
+      "link": "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html",
+      "date": "2026-04-16 22:00",
+      "summary": "Monumental ship burials in Scandinavia may have started around a century earlier than previously thought, according to a paper pub..."
     }
   ],
   "The Guardian Edu": [
