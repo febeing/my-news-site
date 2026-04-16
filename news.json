@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "Venus’s impenetrable haze could be made of cosmic dust",
+      "link": "https://www.nature.com/articles/d41586-026-01212-5",
+      "date": "2026-04-16 00:00",
+      "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01212-5Modelling suggests that the layer beneath the planet’s acid..."
+    },
+    {
       "title": "Cytoplasmic lattices are megadalton storage complexes in mammalian oocytes",
       "link": "https://www.nature.com/articles/s41586-026-10513-8",
       "date": "2026-04-15 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10519-2",
       "date": "2026-04-15 00:00",
       "summary": "Nature, Published online: 15 April 2026; doi:10.1038/s41586-026-10519-2Author Correction: HER2 expression identifies dynamic funct..."
-    },
-    {
-      "title": "Carbonyl swapping converts cyclic ketones to saturated heterocycles",
-      "link": "https://www.nature.com/articles/s41586-026-10508-5",
-      "date": "2026-04-15 00:00",
-      "summary": "Nature, Published online: 15 April 2026; doi:10.1038/s41586-026-10508-5Carbonyl swapping converts cyclic ketones to saturated hete..."
     }
   ],
   "Science News": [
@@ -193,10 +193,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjVQbGx0dTdPakwtSTdQYWk0YmFFWmRxYTlEZ1FRaWl5UkVaX2EzUGhETW9qOVlGYl9MMk9Va3BXOTJGWXhqbm10UGZFRlE5V19HTkhQMko5eGU0a05LRTRUOU1sZVJ6Q1ZNOTFKTEtiR3hJSUpQVWpCNVhnZldPbGtqSllFNE12NUpFZFNjTGZDMlZySldla0NZa0JlNG5XQVVxTmo2ZG1rUUNHbExiQzgtSlp2Wm1ucWU2cnc0b1Zidw?oc=5",
-      "date": "2026-04-13 12:15",
-      "summary": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing  Reuters..."
+      "title": "ECB to quiz bankers about risks of Anthropic's new AI model, source says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR19YSmRjV2FWbXVVZ255YkwzWnR2enI4UWN3dDlGcDJkY1NLN3BBNzBYMy12RXNvWl9NdllUNzh3Vm0wYjZzWXZRZFdXZU9OVkdEc3d5Mk1JZFpqRVg3WGtidUI0UzgtTmp3b1JUUkNCY0tYRXlNMGF3Y25LWDUtQk5SZlY1OERvR2JKZnNFZExRSDk1MkhrTS1QRF9wa2FrUDdieQ?oc=5",
+      "date": "2026-04-15 19:56",
+      "summary": "ECB to quiz bankers about risks of Anthropic's new AI model, source says  Reuters..."
+    },
+    {
+      "title": "Strong ASML, TSMC forecasts signal AI spending boom is intact - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWdsakpJVzdMNzZYY0xnWnB4cnh1NWdRUmg3UHY2LUEzZlhVT3dpUUNjbnFDeXZTNEg0QzF2SUJxYzhmM1hWNDMwQmY4YTNwRnBGckNCR00tbHhUSnpweVpkVVRscFMtLWJqN3dveGlpME5NOTRTUWxOSWhhcUZwNW9PUUtSTkJOQUJ2cFUtWlNUMW4zOU5lVzZQOHVkM28xZEt2TmdJVms?oc=5",
+      "date": "2026-04-16 10:49",
+      "summary": "Strong ASML, TSMC forecasts signal AI spending boom is intact  Reuters..."
     },
     {
       "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you - Reuters",
@@ -205,25 +211,25 @@
       "summary": "AI ruling prompts warnings from US lawyers: Your chats could be used against you  Reuters..."
     },
     {
-      "title": "China's exports set to lose momentum as Iran war undercuts AI-driven boom: Reuters poll - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDRhcC0wVjVUNnI1bE5XU1d1YzhUd0MwV2tkN1BQdjEySG5pQ1lVbTRfZVV6RUIzZjJuT1BmaHpTRkY1YWRPNElVa1BnWVJVZl93aWtHeFJmYU5BeU5NOTdoV3dCWkVSclRkbHJzRWtVc3VnRWEweDZyOEkxVkJMU2hHb0Uzb2pZRHNCOWozOGxaQXZK?oc=5",
-      "date": "2026-04-13 05:13",
-      "summary": "China's exports set to lose momentum as Iran war undercuts AI-driven boom: Reuters poll  Yahoo Finance..."
+      "title": "Snap to cut 1,000 jobs after activist pressure, bets on AI efficiency - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXhCWnBQOUtZeEEyUmZXUzlfVFVYTFR1N1FmQkx5TVE3SThobUJxWG41YnJ2Wnd6MXVselBtT0t4NW1hQXVpX0VCNHBpQ2xTaUI4SnFkbnU4ZllCY0hSLXJDNm5HVmFFcTVSLTdsYWN4MlBHTGhPbFRxeWVJaWR4NnIyeGx5VUIzZ21STzNlcw?oc=5",
+      "date": "2026-04-15 14:13",
+      "summary": "Snap to cut 1,000 jobs after activist pressure, bets on AI efficiency  Reuters..."
     },
     {
       "title": "TSMC lifts revenue forecast, pledges more capital spending to meet AI chip demand - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmxNZ0N3R0hEZHl4N0FVYTFCUUxxaHJibVU2T1JaYkhKRnBzalh4dUxpVW90LTRvZkhLNUdra3M5QmRFMHYyN2VTOXBEdWoxc1VWR1Jpam5PRWdCamVEQWFJOVpnV0xXQ3I2MlRmek9sZVRwQkNOb3FtNWUyNkk0WmtxZXFwOS1qNzBlT1o0MlhGN0pVZ3VqMFhPS3VsT3dGVEZVT3puLUd2S0czTktyaGFjN2ZwSjlQTmVzcHc0R09IRTllQnBwek9oSk9BQQ?oc=5",
       "date": "2026-04-16 00:06",
       "summary": "TSMC lifts revenue forecast, pledges more capital spending to meet AI chip demand  Reuters..."
-    },
-    {
-      "title": "Snap to cut 1,000 jobs after activist pressure, bets on AI efficiency - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXhCWnBQOUtZeEEyUmZXUzlfVFVYTFR1N1FmQkx5TVE3SThobUJxWG41YnJ2Wnd6MXVselBtT0t4NW1hQXVpX0VCNHBpQ2xTaUI4SnFkbnU4ZllCY0hSLXJDNm5HVmFFcTVSLTdsYWN4MlBHTGhPbFRxeWVJaWR4NnIyeGx5VUIzZ21STzNlcw?oc=5",
-      "date": "2026-04-15 14:13",
-      "summary": "Snap to cut 1,000 jobs after activist pressure, bets on AI efficiency  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "Is carbon removal in trouble? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjdiT29fbjNoMFZwOS1YbVhic2tNM1l0M1NJTkZmQ3BoNHRPaHM4YTduY05mclFGazV5bzNzcXpLNkNNVG95ekJWRWNscm5kTVZNYnhTYUJLUzVSbW8wMGFoRUF1eTNMdXk3V3RLbG1jeWJhT1h1TUJnc1JocWIyLXFCY9IBiAFBVV95cUxPV2M0aG11VlQ0dFNtZ0ZhSkhuVDQ5VkZPd0dIdExDbm54T2VGZ1NITnl4OFVwam41bGFyM2VSU3hNY0QtaklFcFduWmxsQ3FMUk4tejlWN2trRlRXVlBEdDQ3aFRoOHdNSDhvN1VZbG9vR1hTMndUY2hmT1lBWEhNaXM2MWZqVHY1?oc=5",
+      "date": "2026-04-16 10:00",
+      "summary": "Is carbon removal in trouble?  MIT Technology Review..."
+    },
     {
       "title": "Want to understand the current state of AI? Check out these charts. - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnpCUGt5aDlwdkJ1V1hXV3JKREE3LWY5WVNLOTIwSXZhMTUxVTFxSUM2d0JYVU0yRFVQWTBQdDZRWXFEVDJFYnJncUdwdWlueG9mNm1rZXU0V1NRUTdIcENyWHVZYXFLaHFzMklkc0hTRHNxT1VodHJ1SjNMMzVwX2pwcW9VYXl3Y2cyajhaU04tbzlxeG5CR1NKNlhsRi1mLXQzSEVsdHFtSDhrMTdNSndZWU9WemdQaVHSAb8BQVVfeXFMTTBUbHBETUlPRkR6cGFJdkh5bldseHJEaXRQQ0s3eTlUdTRTcnFMeXVSdnBBeW5ZRGJqTEFNVWw0Wk5hYnBGMTg3ZW1hYUdKaXN6ejllcUFLMWZRNWZFSjRjaFZDQ0NkN1ZNOTExWmkwRG1wQUZmMk9Td05GYlI3aG43dnc0VkdqR1IxdHkyMWtNb3FLSW8tRGhlLWdXR3g3UWZ1bzZrblJjY3BwY1VCRFpZdnhYVk13MFF4N2V1aFU?oc=5",
@@ -247,12 +253,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNU1KczRpUWRzWk9Ccm85OG5IQnk1cUJpQldzUGh0SEtpR0ZmTV9ET2phODB3aEk2SDF0QTdSaGRRemVmUWNHVzBFNEI3akdPY0s1eWQwaHQ0NENXdFVzZDBoTWpUUWNhUTd6SlJOejNEbDFYd3ZRUnBUaWVsVXJIdi1hVUJtZHFNSEhFZC15Y3ltbDJ5ZGtZZnJyd2lPZlM5cHV2Zmk3ekU4bENwUVBGZlQ5RTktS1N0dnNROV9XSjByd9IBxwFBVV95cUxNdjJDQkZEVDVBNHlsb3Vkc1ViOVRscEI5WGtsdUo3WEZKZW9LVVFtMzUxTkozUXZsX2lINURKRDA2MThwMkc2c0dkSnIwQWdWdzhIclJ5ZXE2RTdsei0xWGNJbl8zcDFBNkY4Y0lGSWotVzR4cmV5cVl0WWJtZGRzQktMX3VZU0R4cjVFZkZ4MnpNNjY3WEVqcllVZ3ZjWXJ5M1ZRTEV1ZHZsbWp0UFd3cDEydkh0Wm1nbmhfTU9mRzZRQ2ZscUdn?oc=5",
       "date": "2026-04-06 16:33",
       "summary": "The one piece of data that could actually shed light on your job and AI  MIT Technology Review..."
-    },
-    {
-      "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZHVvY00zUVZBRWx0V3NqR0NudWMyb21tZ0dXSkxPa0oxXy1aTG5JcktUUGxXVXpmWUJjNFIzMnU0T2txVkZTYkFBeXphdWZPSUJaN3B0VDV3bFpwaDlUOURFalFuR1hRQzctQnc1X0ktV3YwNmxZNzRfcHVEdWRqLTJRSTg4YnBCcng2MTdSY3R4aUpk0gGaAUFVX3lxTE9PNTRoSkJ6Y2oyd0w5eFE5dTJfZGMtc2tVSWlFSzZqTlJjYjRDN3RJbmRxWHVLUFdMMlZPSG9JYXhCMUo0U25ibFFUSHVSMS01ajg0YTZ5bTljemxJcnBjLXZoTEoxR0h4X1pLdDEzaGZVMzJDSG01bHA4NXkyREdvemFJMV9OUmVtMXNtZlZ2SmVhazl5YnlvSUE?oc=5",
-      "date": "2026-04-15 11:26",
-      "summary": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -321,16 +321,22 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Rise in mental illness cases among Hong Kong students ‘reflects growing openness’",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3350299/rise-mental-illness-cases-among-hong-kong-students-reflects-growing-openness?utm_source=rss_feed",
+      "date": "2026-04-16 09:23",
+      "summary": "Hong Kong’s education minister has said the surge in students diagnosed with mental illness partly reflects parents’ growing accep..."
+    },
+    {
       "title": "We failed to check if workers smoked at Wang Fuk Court, firms tell fire hearing",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3350318/we-failed-check-if-workers-smoked-wang-fuk-court-firms-tell-fire-hearing?utm_source=rss_feed",
       "date": "2026-04-16 09:17",
-      "summary": "Two renovation subcontractors involved in a HK$336 million (US$42.9 million) project at a Hong Kong subsidised estate ravaged by t..."
+      "summary": "Two renovation subcontractors involved in a HK$336 million (US$42.9 million) project at a subsidised estate ravaged by Hong Kong’s..."
     },
     {
-      "title": "Hong Kong police bust beautician-led syndicate behind HK$410,000 credit card theft",
+      "title": "Hong Kong police smash beautician-led syndicate behind HK$410,000 credit card fraud",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350273/hong-kong-police-bust-beautician-led-syndicate-behind-hk410000-credit-card-scam?utm_source=rss_feed",
       "date": "2026-04-16 06:22",
-      "summary": "Hong Kong police have arrested a syndicate led by a beautician that allegedly stole credit cards from patrons of a beauty salon in..."
+      "summary": "Hong Kong police have broken up a syndicate led by a beautician that allegedly stole credit cards from patrons of a beauty salon i..."
     },
     {
       "title": "Greater Bay Airlines suspends Bangkok flights for over 4 months amid fuel price surge",
@@ -343,15 +349,15 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350265/hong-kong-reports-99-participation-young-2019-protest-convicts-rehab-project?utm_source=rss_feed",
       "date": "2026-04-16 05:50",
       "summary": "Nearly 1,800 young Hongkongers convicted of protest and national security-related offences have taken part in a rehabilitation pro..."
-    },
-    {
-      "title": "Macau finance minister steps down for ‘personal reasons’",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3350262/macau-finance-minister-steps-down-personal-reasons?utm_source=rss_feed",
-      "date": "2026-04-16 05:33",
-      "summary": "Macau’s finance minister has resigned over “personal reasons,” prompting the city’s chief executive to temporarily assume his duti..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Neanderthal infants were enormous compared with modern humans",
+      "link": "https://www.newscientist.com/article/2523132-neanderthal-infants-were-enormous-compared-with-modern-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-15 16:00",
+      "summary": "A detailed analysis of the best-preserved Neanderthal infant skeleton ever found suggests that our ancient relatives grew much fas..."
+    },
     {
       "title": "People are refusing transfusions from donors vaccinated against covid",
       "link": "https://www.newscientist.com/article/2523157-people-are-refusing-transfusions-from-donors-vaccinated-against-covid/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2522615-quantum-computers-could-usher-in-a-crisis-worse-than-y2k/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-14 14:00",
       "summary": "The day when a quantum computer manages to break common encryption, or Q-Day, is fast approaching, and the world is not close to b..."
-    },
-    {
-      "title": "Is a super El Niño imminent, and what could the impacts be?",
-      "link": "https://www.newscientist.com/article/2523034-is-a-super-el-nino-imminent-and-what-could-the-impacts-be/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-14 20:00",
-      "summary": "A planet-warming El Niño climate phase is now developing, and some models predict it could turn out to be the strongest on record..."
     }
   ]
 }
