@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "A regulatory loophole could delay ozone recovery by years",
+      "link": "https://news.mit.edu/2026/regulatory-loophole-could-delay-ozone-recovery-0416",
+      "date": "2026-04-16 09:00",
+      "summary": "Scientists say an exception in the Montreal Protocol for the use of ozone-depleting feedstocks could set the ozone recovery back s..."
+    },
+    {
       "title": "Youth may increase vulnerability to a carcinogen found in contaminated water and some drugs",
       "link": "https://news.mit.edu/2026/youth-may-increase-vulnerability-carcinogen-in-contaminated-water-0416",
       "date": "2026-04-16 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/multitasking-quantum-sensors-can-measure-several-properties-0415",
       "date": "2026-04-15 04:00",
       "summary": "The devices represent a key step toward practical quantum sensing, with applications in biomedical sensing, materials characteriza..."
-    },
-    {
-      "title": "Human-machine teaming dives underwater",
-      "link": "https://news.mit.edu/2026/human-machine-teaming-dives-underwater-0414",
-      "date": "2026-04-14 13:00",
-      "summary": "Researchers are developing hardware and algorithms to improve collaboration between divers and autonomous underwater vehicles enga..."
     }
   ],
   "Harvard Gazette": [
@@ -205,22 +205,22 @@
       "summary": "AI ruling prompts warnings from US lawyers: Your chats could be used against you  Reuters..."
     },
     {
+      "title": "China's exports set to lose momentum as Iran war undercuts AI-driven boom: Reuters poll - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDRhcC0wVjVUNnI1bE5XU1d1YzhUd0MwV2tkN1BQdjEySG5pQ1lVbTRfZVV6RUIzZjJuT1BmaHpTRkY1YWRPNElVa1BnWVJVZl93aWtHeFJmYU5BeU5NOTdoV3dCWkVSclRkbHJzRWtVc3VnRWEweDZyOEkxVkJMU2hHb0Uzb2pZRHNCOWozOGxaQXZK?oc=5",
+      "date": "2026-04-13 05:13",
+      "summary": "China's exports set to lose momentum as Iran war undercuts AI-driven boom: Reuters poll  Yahoo Finance..."
+    },
+    {
+      "title": "TSMC lifts revenue forecast, pledges more capital spending to meet AI chip demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmxNZ0N3R0hEZHl4N0FVYTFCUUxxaHJibVU2T1JaYkhKRnBzalh4dUxpVW90LTRvZkhLNUdra3M5QmRFMHYyN2VTOXBEdWoxc1VWR1Jpam5PRWdCamVEQWFJOVpnV0xXQ3I2MlRmek9sZVRwQkNOb3FtNWUyNkk0WmtxZXFwOS1qNzBlT1o0MlhGN0pVZ3VqMFhPS3VsT3dGVEZVT3puLUd2S0czTktyaGFjN2ZwSjlQTmVzcHc0R09IRTllQnBwek9oSk9BQQ?oc=5",
+      "date": "2026-04-16 00:06",
+      "summary": "TSMC lifts revenue forecast, pledges more capital spending to meet AI chip demand  Reuters..."
+    },
+    {
       "title": "Snap to cut 1,000 jobs after activist pressure, bets on AI efficiency - Reuters",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXhCWnBQOUtZeEEyUmZXUzlfVFVYTFR1N1FmQkx5TVE3SThobUJxWG41YnJ2Wnd6MXVselBtT0t4NW1hQXVpX0VCNHBpQ2xTaUI4SnFkbnU4ZllCY0hSLXJDNm5HVmFFcTVSLTdsYWN4MlBHTGhPbFRxeWVJaWR4NnIyeGx5VUIzZ21STzNlcw?oc=5",
       "date": "2026-04-15 14:13",
       "summary": "Snap to cut 1,000 jobs after activist pressure, bets on AI efficiency  Reuters..."
-    },
-    {
-      "title": "Cadence, Nvidia working together on developing AI for robotics - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcW9FTG1SQ2ZEZVE0RzI0OU9vcUZLcFlWRG5ucHFiWkxnMlRVRVR5U3FnU0dLcWVSd2hjT0FaSE5HQ0kwQS05MHM0Smt4dnAtQTcwUWp4ck1jUUk5TklmYlBRTWY5QWdDenE1SFpaWV9WZjhtX3J1TWpSVWFsblNjdno2ZGlNb29RVjBlSUk3cklpcW5qZXMyb1ZmUlY3Y0lzZDQw?oc=5",
-      "date": "2026-04-15 21:42",
-      "summary": "Cadence, Nvidia working together on developing AI for robotics  Reuters..."
-    },
-    {
-      "title": "Breakingviews - China's AI token obsession may be misguided - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVVZMTBLOW4zV1NJS1ZOVnFmN0NEZl8tSnZPVDNKUTBUQWVaRkg2bU9pdzFxLTNoZnZsWThjM0lpNExkQ3lSNHlWQWNOM2FQeF9MamdCYWtXUkpKaGZSRWIwV0Q2emRJVjVvQkU5UHlVMEFqSDdBQ1BPeGtKR3JnNk1ocklla0FBWDFjallLb0VJRjhGbVBsbldCclBmdER6eEtDNnNB?oc=5",
-      "date": "2026-04-15 22:00",
-      "summary": "Breakingviews - China's AI token obsession may be misguided  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,48 +243,48 @@
       "summary": "Building trust in the AI era with privacy-led UX  MIT Technology Review..."
     },
     {
-      "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZHVvY00zUVZBRWx0V3NqR0NudWMyb21tZ0dXSkxPa0oxXy1aTG5JcktUUGxXVXpmWUJjNFIzMnU0T2txVkZTYkFBeXphdWZPSUJaN3B0VDV3bFpwaDlUOURFalFuR1hRQzctQnc1X0ktV3YwNmxZNzRfcHVEdWRqLTJRSTg4YnBCcng2MTdSY3R4aUpk0gGaAUFVX3lxTE9PNTRoSkJ6Y2oyd0w5eFE5dTJfZGMtc2tVSWlFSzZqTlJjYjRDN3RJbmRxWHVLUFdMMlZPSG9JYXhCMUo0U25ibFFUSHVSMS01ajg0YTZ5bTljemxJcnBjLXZoTEoxR0h4X1pLdDEzaGZVMzJDSG01bHA4NXkyREdvemFJMV9OUmVtMXNtZlZ2SmVhazl5YnlvSUE?oc=5",
-      "date": "2026-04-15 11:26",
-      "summary": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  MIT Technology Review..."
-    },
-    {
       "title": "The one piece of data that could actually shed light on your job and AI - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNU1KczRpUWRzWk9Ccm85OG5IQnk1cUJpQldzUGh0SEtpR0ZmTV9ET2phODB3aEk2SDF0QTdSaGRRemVmUWNHVzBFNEI3akdPY0s1eWQwaHQ0NENXdFVzZDBoTWpUUWNhUTd6SlJOejNEbDFYd3ZRUnBUaWVsVXJIdi1hVUJtZHFNSEhFZC15Y3ltbDJ5ZGtZZnJyd2lPZlM5cHV2Zmk3ekU4bENwUVBGZlQ5RTktS1N0dnNROV9XSjByd9IBxwFBVV95cUxNdjJDQkZEVDVBNHlsb3Vkc1ViOVRscEI5WGtsdUo3WEZKZW9LVVFtMzUxTkozUXZsX2lINURKRDA2MThwMkc2c0dkSnIwQWdWdzhIclJ5ZXE2RTdsei0xWGNJbl8zcDFBNkY4Y0lGSWotVzR4cmV5cVl0WWJtZGRzQktMX3VZU0R4cjVFZkZ4MnpNNjY3WEVqcllVZ3ZjWXJ5M1ZRTEV1ZHZsbWp0UFd3cDEydkh0Wm1nbmhfTU9mRzZRQ2ZscUdn?oc=5",
       "date": "2026-04-06 16:33",
       "summary": "The one piece of data that could actually shed light on your job and AI  MIT Technology Review..."
+    },
+    {
+      "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZHVvY00zUVZBRWx0V3NqR0NudWMyb21tZ0dXSkxPa0oxXy1aTG5JcktUUGxXVXpmWUJjNFIzMnU0T2txVkZTYkFBeXphdWZPSUJaN3B0VDV3bFpwaDlUOURFalFuR1hRQzctQnc1X0ktV3YwNmxZNzRfcHVEdWRqLTJRSTg4YnBCcng2MTdSY3R4aUpk0gGaAUFVX3lxTE9PNTRoSkJ6Y2oyd0w5eFE5dTJfZGMtc2tVSWlFSzZqTlJjYjRDN3RJbmRxWHVLUFdMMlZPSG9JYXhCMUo0U25ibFFUSHVSMS01ajg0YTZ5bTljemxJcnBjLXZoTEoxR0h4X1pLdDEzaGZVMzJDSG01bHA4NXkyREdvemFJMV9OUmVtMXNtZlZ2SmVhazl5YnlvSUE?oc=5",
+      "date": "2026-04-15 11:26",
+      "summary": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "This drone reveals what lies beneath snow and soil",
-      "link": "https://phys.org/news/2026-04-drone-reveals-beneath-soil.html",
-      "date": "2026-04-16 04:20",
-      "summary": "Using self-developed drones and advanced sensors, researchers can now see both under the snow and into the ground. The scientists'..."
+      "title": "Ancient viruses serve as gene delivery couriers to help bacteria resist antibiotics",
+      "link": "https://phys.org/news/2026-04-ancient-viruses-gene-delivery-couriers.html",
+      "date": "2026-04-16 09:00",
+      "summary": "Research has shed important new light on the enemies-turned-allies that allow bacteria to exchange genes, including those linked t..."
     },
     {
-      "title": "Foxes and birds could be 'early warning system' to survey spread of antibiotic resistance into ecosystems",
-      "link": "https://phys.org/news/2026-04-foxes-birds-early-survey-antibiotic.html",
-      "date": "2026-04-16 04:00",
-      "summary": "Red foxes and birds regularly cross between human-dominated and natural ecosystems. For this reason, they may be heralds of spread..."
+      "title": "Cells have a secret 'courier system' that could open hard-to-reach targets for RNA and gene therapies",
+      "link": "https://phys.org/news/2026-04-cells-secret-courier-hard-rna.html",
+      "date": "2026-04-16 09:00",
+      "summary": "Researchers at University College Dublin have discovered a previously unknown \"courier system\" that cells use to deliver coherent ..."
     },
     {
-      "title": "From the air to the field: How nitrogen fertilizer helps feed the world—and why supply chains matter",
-      "link": "https://phys.org/news/2026-04-air-field-nitrogen-fertilizer-world.html",
-      "date": "2026-04-16 02:40",
-      "summary": "When lightning strikes a paddock, it does more than scorch grass and scare the cows. The electrical discharge breaks apart nitroge..."
+      "title": "A regulatory loophole could delay ozone recovery by years",
+      "link": "https://phys.org/news/2026-04-regulatory-loophole-delay-ozone-recovery.html",
+      "date": "2026-04-16 09:00",
+      "summary": "Often hailed as the most successful international environmental agreement of all time, the 1987 Montreal Protocol continues to suc..."
     },
     {
-      "title": "COVID-19 in mink farm reveals early lung damage",
-      "link": "https://phys.org/news/2026-04-covid-mink-farm-reveals-early.html",
-      "date": "2026-04-16 02:00",
-      "summary": "What happens inside the lungs before COVID-19 symptoms appear? Research in mink offers a rare window into the early stages of the ..."
+      "title": "African elephant genomes reveal a past of continental connectivity and a future of increasing isolation",
+      "link": "https://phys.org/news/2026-04-african-elephant-genomes-reveal-continental.html",
+      "date": "2026-04-16 09:00",
+      "summary": "In the largest genomic mapping of Africa's elephants to date, an international team of researchers shows that elephant history is ..."
     },
     {
-      "title": "Coordination gaps slow progress on Baltic Sea 'ghost gear'",
-      "link": "https://phys.org/news/2026-04-gaps-baltic-sea-ghost-gear.html",
-      "date": "2026-04-16 01:40",
-      "summary": "Conflicts of interest and unclear responsibilities are hampering efforts to recover lost and illegally discarded fishing gear in t..."
+      "title": "'Dancing jets' from black hole reveal an immense power equivalent to 10,000 suns",
+      "link": "https://phys.org/news/2026-04-jets-black-hole-reveal-immense.html",
+      "date": "2026-04-16 09:00",
+      "summary": "New Curtin University-led research has used a radio telescope that spans Earth to snap images that measure the immense power of je..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "We failed to check if workers smoked at Wang Fuk Court, firms tell fire hearing",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3350318/we-failed-check-if-workers-smoked-wang-fuk-court-firms-tell-fire-hearing?utm_source=rss_feed",
+      "date": "2026-04-16 09:17",
+      "summary": "Two renovation subcontractors involved in a HK$336 million (US$42.9 million) project at a Hong Kong subsidised estate ravaged by t..."
+    },
+    {
       "title": "Hong Kong police bust beautician-led syndicate behind HK$410,000 credit card theft",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350273/hong-kong-police-bust-beautician-led-syndicate-behind-hk410000-credit-card-scam?utm_source=rss_feed",
       "date": "2026-04-16 06:22",
@@ -343,18 +349,12 @@
       "link": "https://www.scmp.com/news/hong-kong/politics/article/3350262/macau-finance-minister-steps-down-personal-reasons?utm_source=rss_feed",
       "date": "2026-04-16 05:33",
       "summary": "Macau’s finance minister has resigned over “personal reasons,” prompting the city’s chief executive to temporarily assume his duti..."
-    },
-    {
-      "title": "Mark Mobius, pioneering emerging-market investor and China bull, dies at 89",
-      "link": "https://www.scmp.com/business/markets/article/3350250/mark-mobius-pioneering-emerging-market-investor-and-china-bull-dies-89?utm_source=rss_feed",
-      "date": "2026-04-16 04:30",
-      "summary": "Mark Mobius, who was known as the father of emerging markets and was among the first fund managers to invest in Hong Kong and main..."
     }
   ],
   "New Scientist": [
     {
-      "title": "Requests for blood from unvaccinated donors is harming patients",
-      "link": "https://www.newscientist.com/article/2523157-requests-for-blood-from-unvaccinated-donors-is-harming-patients/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "title": "People are refusing transfusions from donors vaccinated against covid",
+      "link": "https://www.newscientist.com/article/2523157-people-are-refusing-transfusions-from-donors-vaccinated-against-covid/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-15 18:24",
       "summary": "Patients are requesting that blood transfusions come from people who they know have not been vaccinated against covid-19, which ca..."
     },
@@ -371,16 +371,16 @@
       "summary": "The Dark Energy Spectroscopic Instrument (DESI) has finished the most detailed survey of the universe to date, and the resulting m..."
     },
     {
-      "title": "Neanderthal infants were enormous compared with modern humans",
-      "link": "https://www.newscientist.com/article/2523132-neanderthal-infants-were-enormous-compared-with-modern-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-15 16:00",
-      "summary": "A detailed analysis of the best-preserved Neanderthal infant skeleton ever found suggests that our ancient relatives grew much fas..."
-    },
-    {
       "title": "Quantum computers could usher in a crisis worse than Y2K",
       "link": "https://www.newscientist.com/article/2522615-quantum-computers-could-usher-in-a-crisis-worse-than-y2k/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-14 14:00",
       "summary": "The day when a quantum computer manages to break common encryption, or Q-Day, is fast approaching, and the world is not close to b..."
+    },
+    {
+      "title": "Is a super El Niño imminent, and what could the impacts be?",
+      "link": "https://www.newscientist.com/article/2523034-is-a-super-el-nino-imminent-and-what-could-the-impacts-be/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-14 20:00",
+      "summary": "A planet-warming El Niño climate phase is now developing, and some models predict it could turn out to be the strongest on record..."
     }
   ]
 }
