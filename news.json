@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "3 Questions: A running shoe that adapts to the runner",
+      "link": "https://news.mit.edu/2026/3-questions-running-shoe-that-adapts-to-runner-0416",
+      "date": "2026-04-16 15:25",
+      "summary": "Associate Professor Skylar Tibbits discusses a new technology that uses granular convection to deliver individualized performance...."
+    },
+    {
       "title": "A regulatory loophole could delay ozone recovery by years",
       "link": "https://news.mit.edu/2026/regulatory-loophole-could-delay-ozone-recovery-0416",
       "date": "2026-04-16 09:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/waves-hit-different-on-other-planets-0416",
       "date": "2026-04-16 04:00",
       "summary": "From lazy ripples to towering breakers, waves should vary widely from one planet to another, according to a new model...."
-    },
-    {
-      "title": "Multitasking quantum sensors can measure several properties at once",
-      "link": "https://news.mit.edu/2026/multitasking-quantum-sensors-can-measure-several-properties-0415",
-      "date": "2026-04-15 04:00",
-      "summary": "The devices represent a key step toward practical quantum sensing, with applications in biomedical sensing, materials characteriza..."
     }
   ],
   "Harvard Gazette": [
@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "As helium-3 runs scarce, researchers seek new ways to chill quantum computers",
+      "link": "https://www.science.org/content/article/helium-3-runs-scarce-researchers-seek-new-ways-chill-quantum-computers",
+      "date": "2026-04-16 10:00",
+      "summary": "Tight supplies of precious isotope are driving new approaches to ultracold tech..."
+    },
+    {
       "title": "First complete genome loaded onto a quantum computer",
       "link": "https://www.science.org/content/article/first-complete-genome-loaded-quantum-computer",
       "date": "2026-04-15 11:10",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/invisible-birds-spotted-thermal-imaging",
       "date": "2026-04-15 08:30",
       "summary": "Approach could help reveal which migrating species are most vulnerable to wind turbines and light pollution..."
-    },
-    {
-      "title": "Fog is a vital water resource. Could it disappear in a warming world?",
-      "link": "https://www.science.org/content/article/fog-vital-water-resource-could-it-disappear-warming-world",
-      "date": "2026-04-14 04:50",
-      "summary": "California program promises serious attention to an “underdog” area of research..."
     }
   ],
   "Retraction Watch": [
@@ -193,18 +193,6 @@
   ],
   "Reuters AI": [
     {
-      "title": "Myseum takes flight after Allbirds in fresh AI rebrand wave - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOTFnNTAtSnJoVVExWkQ5OEk2cF9pNGdmYWlrNW9DSFBpNUYxSDJQTnF0OGhESW5qN0phanVkcGRVcEtNY0x2a1JoSk8yM21Nek1rQUl2QTZ3aGlKU2ljbFpnTFF0eDExdjZySVZWbDZUdVhQSVh4dzFLZHJjdDBQYWYzRm1VVS10WHpzcnBnUjhyZlFVTkpWaHl6WEpNTlF1OUxv?oc=5",
-      "date": "2026-04-16 14:09",
-      "summary": "Myseum takes flight after Allbirds in fresh AI rebrand wave  Reuters..."
-    },
-    {
-      "title": "Google, Pentagon discuss classified AI deal, the Information reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVENMc0hadlZwYkJUeXpjUGUtLVcxVG05RkFDTHdXdV9SQlNsLWdlS3JpOUJxcTNzRFZDYzczMmRvb3pPdmRWZ1RqMmM5b0VySEg3MTJPWHpyOS1PUE1lbGVHcWNhbzdxUUEyYUx2YzhvQjNQd3hxWm0zcjgwM3ZSa21CZHRhX1pUbHZvaFZhTmkzamZHd1RjV0JRZFh2bklnamw2WlVHc3FZbmVyWFE?oc=5",
-      "date": "2026-04-16 13:29",
-      "summary": "Google, Pentagon discuss classified AI deal, the Information reports  Reuters..."
-    },
-    {
       "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2ZtWkI5VERwRTZkZDVXU3VuVUxiY2N6N3FfYlNpNUZ6OFViQVhvTmwtYVpTb1VjM1NCWWVfM2Q2dkI3YzdZb3NyTkR0VG5TNXNveWlQTGlrYWlqYmEwTWYxVk12TkRQbTlxYTlLaXJZbzU2UkFwVjZsSnlnT1RWVm5MdDU4RW56Rnc1cEZybnR4anQ0dGsyNTdwV0Vpay1TajV4d2RPZ0ZldzdfRmRMdHRoOFgtVVJfVFU2SnNteHdmSFVnZWc?oc=5",
       "date": "2026-04-15 20:31",
@@ -217,10 +205,22 @@
       "summary": "Stellantis, Microsoft sign five-year partnership for AI push  Reuters..."
     },
     {
+      "title": "Google, Pentagon discuss classified AI deal, the Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVENMc0hadlZwYkJUeXpjUGUtLVcxVG05RkFDTHdXdV9SQlNsLWdlS3JpOUJxcTNzRFZDYzczMmRvb3pPdmRWZ1RqMmM5b0VySEg3MTJPWHpyOS1PUE1lbGVHcWNhbzdxUUEyYUx2YzhvQjNQd3hxWm0zcjgwM3ZSa21CZHRhX1pUbHZvaFZhTmkzamZHd1RjV0JRZFh2bklnamw2WlVHc3FZbmVyWFE?oc=5",
+      "date": "2026-04-16 13:29",
+      "summary": "Google, Pentagon discuss classified AI deal, the Information reports  Reuters..."
+    },
+    {
       "title": "Strong ASML, TSMC forecasts signal AI spending boom is intact - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWdsakpJVzdMNzZYY0xnWnB4cnh1NWdRUmg3UHY2LUEzZlhVT3dpUUNjbnFDeXZTNEg0QzF2SUJxYzhmM1hWNDMwQmY4YTNwRnBGckNCR00tbHhUSnpweVpkVVRscFMtLWJqN3dveGlpME5NOTRTUWxOSWhhcUZwNW9PUUtSTkJOQUJ2cFUtWlNUMW4zOU5lVzZQOHVkM28xZEt2TmdJVms?oc=5",
       "date": "2026-04-16 13:59",
       "summary": "Strong ASML, TSMC forecasts signal AI spending boom is intact  Reuters..."
+    },
+    {
+      "title": "Snap to cut 1,000 jobs after activist pressure, bets on AI efficiency - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXhCWnBQOUtZeEEyUmZXUzlfVFVYTFR1N1FmQkx5TVE3SThobUJxWG41YnJ2Wnd6MXVselBtT0t4NW1hQXVpX0VCNHBpQ2xTaUI4SnFkbnU4ZllCY0hSLXJDNm5HVmFFcTVSLTdsYWN4MlBHTGhPbFRxeWVJaWR4NnIyeGx5VUIzZ21STzNlcw?oc=5",
+      "date": "2026-04-15 14:13",
+      "summary": "Snap to cut 1,000 jobs after activist pressure, bets on AI efficiency  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Tomato industry taking steps to stop spread of parasitic weed",
-      "link": "https://phys.org/news/2026-04-tomato-industry-parasitic-weed.html",
-      "date": "2026-04-16 15:20",
-      "summary": "California's processing tomato industry for the first time this past harvest season, agreed to voluntary equipment cleaning and no..."
+      "title": "Microscopic green pigment provides insights into how successive typhoons drive cumulative water and ecosystem changes",
+      "link": "https://phys.org/news/2026-04-microscopic-green-pigment-insights-successive.html",
+      "date": "2026-04-16 17:00",
+      "summary": "A microscopic green pigment can provide major insights into how severe tropical cyclones called typhoons impact water flow and eco..."
     },
     {
-      "title": "Solar flares' domino effect isn't limited to the sun, 16,000-star sweep reveals",
-      "link": "https://phys.org/news/2026-04-solar-flares-domino-effect-isnt.html",
-      "date": "2026-04-16 15:20",
-      "summary": "Our sun is a roiling mass of energy, with solar flares exploding on its surface, sending gas, plasma, and light that blasts across..."
+      "title": "Simulations generate thousands of cyclone scenarios to predict extreme flooding in Bay of Bengal",
+      "link": "https://phys.org/news/2026-04-simulations-generate-thousands-cyclone-scenarios.html",
+      "date": "2026-04-16 17:00",
+      "summary": "Powerful cyclones can push seawater miles inland, threatening densely populated communities and critical infrastructure built alon..."
     },
     {
-      "title": "Human sense of smell evolved with diets and lifestyle, genetic study suggests",
-      "link": "https://phys.org/news/2026-04-human-evolved-diets-lifestyle-genetic.html",
-      "date": "2026-04-16 15:00",
-      "summary": "From the ability to detect the smell of wet soil to the scent of ripe fruit, the human olfactory system has evolved over thousands..."
+      "title": "Feeling lonely? Try a walk in the great outdoors",
+      "link": "https://phys.org/news/2026-04-lonely-great-outdoors.html",
+      "date": "2026-04-16 16:40",
+      "summary": "Taking part in activities can make you less lonely, because you meet people, and because social gatherings are a positive thing. B..."
     },
     {
-      "title": "Managing risks when intervening to help coral reefs",
-      "link": "https://phys.org/news/2026-04-intervening-coral-reefs.html",
-      "date": "2026-04-16 15:00",
-      "summary": "A new tool to help scientists and reef managers consider the ecological risks of different coral reef interventions around the wor..."
+      "title": "Warmer winters and snow drought may threaten western US water by speeding flows",
+      "link": "https://phys.org/news/2026-04-warmer-winters-drought-threaten-western.html",
+      "date": "2026-04-16 16:40",
+      "summary": "As future shifts in climate lead to more rain and less snow in the western United States, new research finds that water will move ..."
     },
     {
-      "title": "Atlantic current system could be weakening faster than expected",
-      "link": "https://phys.org/news/2026-04-atlantic-current-weakening-faster.html",
-      "date": "2026-04-16 14:40",
-      "summary": "The Atlantic current system, or more formally the Atlantic Meridional Overturning Circulation (AMOC), is more likely to weaken tha..."
+      "title": "Quantum Fourier transform reaches 52 qubits, shattering the previous 27-qubit record",
+      "link": "https://phys.org/news/2026-04-quantum-fourier-qubits-shattering-previous.html",
+      "date": "2026-04-16 16:20",
+      "summary": "The spin-off company ParityQC has implemented the largest quantum Fourier transform ever reported using an IBM quantum computer, t..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Beijing’s point man on Hong Kong affairs meets city’s leaders in capital",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3350370/beijings-point-man-hong-kong-affairs-meets-citys-leaders-capital?utm_source=rss_feed",
+      "date": "2026-04-16 15:35",
+      "summary": "Beijing’s point man on Hong Kong affairs has met the city’s No 2 official and finance chief in the capital to discuss alignment wi..."
+    },
+    {
       "title": "Hong Kong leader John Lee, EU officials meet to discuss trade, cooperation",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350369/hong-kong-leader-john-lee-eu-officials-meet-discuss-trade-cooperation?utm_source=rss_feed",
       "date": "2026-04-16 15:19",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350360/hong-kongs-hospital-authority-bars-all-contractors-access-data-after-leak?utm_source=rss_feed",
       "date": "2026-04-16 13:40",
       "summary": "Hong Kong’s Hospital Authority has suspended all contractors’ access to patient data after a major leak affecting more than 56,000..."
-    },
-    {
-      "title": "Give officials more power to probe suspected animal cruelty cases: watchdog",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3350359/give-officials-more-power-probe-suspected-animal-cruelty-cases-watchdog?utm_source=rss_feed",
-      "date": "2026-04-16 13:22",
-      "summary": "Hong Kong’s ombudsman has urged the government to empower conservation officers to enter people’s homes to investigate suspected a..."
     }
   ],
   "New Scientist": [
