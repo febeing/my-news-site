@@ -1,6 +1,24 @@
 {
   "MIT News": [
     {
+      "title": "Youth may increase vulnerability to a carcinogen found in contaminated water and some drugs",
+      "link": "https://news.mit.edu/2026/youth-may-increase-vulnerability-carcinogen-in-contaminated-water-0416",
+      "date": "2026-04-16 04:00",
+      "summary": "A new study suggests that the chemical NDMA is much more likely to cause cancerous mutations after exposure early in life...."
+    },
+    {
+      "title": "MIT study reveals a new role for cell membranes",
+      "link": "https://news.mit.edu/2026/mit-study-reveals-new-role-cell-membranes-0416",
+      "date": "2026-04-16 04:00",
+      "summary": "Long thought to be mainly a structural support, the cell membrane also influences how cells respond to signals and may contribute ..."
+    },
+    {
+      "title": "Waves hit different on other planets",
+      "link": "https://news.mit.edu/2026/waves-hit-different-on-other-planets-0416",
+      "date": "2026-04-16 04:00",
+      "summary": "From lazy ripples to towering breakers, waves should vary widely from one planet to another, according to a new model...."
+    },
+    {
       "title": "Multitasking quantum sensors can measure several properties at once",
       "link": "https://news.mit.edu/2026/multitasking-quantum-sensors-can-measure-several-properties-0415",
       "date": "2026-04-15 04:00",
@@ -11,33 +29,9 @@
       "link": "https://news.mit.edu/2026/human-machine-teaming-dives-underwater-0414",
       "date": "2026-04-14 13:00",
       "summary": "Researchers are developing hardware and algorithms to improve collaboration between divers and autonomous underwater vehicles enga..."
-    },
-    {
-      "title": "Carbon removal project supports Maine’s blue economy, broader marine health",
-      "link": "https://news.mit.edu/2026/carbon-removal-project-supports-maines-blue-economy-broader-marine-health-0414",
-      "date": "2026-04-14 04:00",
-      "summary": "A chemical-free approach to balancing ocean acidity protects marine life and could dramatically impact the global aquaculture mark..."
-    },
-    {
-      "title": "Learning with audiobooks",
-      "link": "https://news.mit.edu/2026/learning-audiobooks-vocabulary-0409",
-      "date": "2026-04-09 18:00",
-      "summary": "A new study finds that audiobooks help students learn new words — especially when paired with one-on-one instruction...."
-    },
-    {
-      "title": "A philosophy of work",
-      "link": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
-      "date": "2026-04-09 18:00",
-      "summary": "As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is advancing dialogue, teaching, and research into the social and..."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "Anthropologist traces split between Homo sapiens and Neanderthals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QUnB1OG1jeGdHSzNKQkt0LVE3RnNyaDk1Y0R4bkRwM2JXLXZFaFJtcnVzWExySE83cE5IWks2OWY5YVdJaHJuS29hUVJHaGcySjk3bzJ0eUVsSVNoWFhsdlM4S2dCekRxc3dDVTZaVWgtQQ?oc=5",
-      "date": "2026-04-01 07:00",
-      "summary": "Anthropologist traces split between Homo sapiens and Neanderthals  Harvard Gazette..."
-    },
     {
       "title": "Wonder served him well - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHpkLV9RSGFGQnBBVjJxeDBMZmE2Nk5udkZjQjFtdExHSTZpcjM4b0pmWDhMYWZQeE9KZlI0QmU5d0tNMFBCZVhLMVNtYW13Rm1OaW9lLXMzLTd0bDVsd2NHSGxydVBFZ2pROVFBaUU0U0RWOXBBQnNCeXZYR0lRY2QydEpPYkg0bl9YNA?oc=5",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
       "summary": "How to help lift slumping American math scores  Harvard Gazette..."
+    },
+    {
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
+      "date": "2025-10-23 07:00",
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -193,6 +193,12 @@
   ],
   "Reuters AI": [
     {
+      "title": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjVQbGx0dTdPakwtSTdQYWk0YmFFWmRxYTlEZ1FRaWl5UkVaX2EzUGhETW9qOVlGYl9MMk9Va3BXOTJGWXhqbm10UGZFRlE5V19HTkhQMko5eGU0a05LRTRUOU1sZVJ6Q1ZNOTFKTEtiR3hJSUpQVWpCNVhnZldPbGtqSllFNE12NUpFZFNjTGZDMlZySldla0NZa0JlNG5XQVVxTmo2ZG1rUUNHbExiQzgtSlp2Wm1ucWU2cnc0b1Zidw?oc=5",
+      "date": "2026-04-13 12:15",
+      "summary": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing  Reuters..."
+    },
+    {
       "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2ZtWkI5VERwRTZkZDVXU3VuVUxiY2N6N3FfYlNpNUZ6OFViQVhvTmwtYVpTb1VjM1NCWWVfM2Q2dkI3YzdZb3NyTkR0VG5TNXNveWlQTGlrYWlqYmEwTWYxVk12TkRQbTlxYTlLaXJZbzU2UkFwVjZsSnlnT1RWVm5MdDU4RW56Rnc1cEZybnR4anQ0dGsyNTdwV0Vpay1TajV4d2RPZ0ZldzdfRmRMdHRoOFgtVVJfVFU2SnNteHdmSFVnZWc?oc=5",
       "date": "2026-04-15 20:31",
@@ -211,25 +217,13 @@
       "summary": "Cadence, Nvidia working together on developing AI for robotics  Reuters..."
     },
     {
-      "title": "TSMC set to post 50% quarterly profit jump, extend record earnings on insatiable AI demand - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmxNZ0N3R0hEZHl4N0FVYTFCUUxxaHJibVU2T1JaYkhKRnBzalh4dUxpVW90LTRvZkhLNUdra3M5QmRFMHYyN2VTOXBEdWoxc1VWR1Jpam5PRWdCamVEQWFJOVpnV0xXQ3I2MlRmek9sZVRwQkNOb3FtNWUyNkk0WmtxZXFwOS1qNzBlT1o0MlhGN0pVZ3VqMFhPS3VsT3dGVEZVT3puLUd2S0czTktyaGFjN2ZwSjlQTmVzcHc0R09IRTllQnBwek9oSk9BQQ?oc=5",
-      "date": "2026-04-16 00:06",
-      "summary": "TSMC set to post 50% quarterly profit jump, extend record earnings on insatiable AI demand  Reuters..."
-    },
-    {
-      "title": "OpenAI's $852 billion valuation faces investor scrutiny amid strategy shift, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb0VMMXZWWVdWWUFVMkJUSVlaWHRub2E1V2lBZlZ1WjRvOWtvZEVzYnRJWlJYaXJYVk9NMFlpUWJrN0hKN0hHYlp1c0hKTEQ3V0ZQTkItUDh4YXk2TERkTnItQXdJaW14bGE0WFNsLXdrSmhZaXZ2VVFtZWFmU2NZdC1xMUZnX1ZNTVFWSFJuQ3FSR3NBNjRSRFNudXkwVFVSaF8tRW5kdWxpb2VRY1hicHlIdk5xWUhaMjVKX1VpYndYUUdXeHNvTEpR?oc=5",
-      "date": "2026-04-14 04:09",
-      "summary": "OpenAI's $852 billion valuation faces investor scrutiny amid strategy shift, FT reports  Reuters..."
+      "title": "Breakingviews - China's AI token obsession may be misguided - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVVZMTBLOW4zV1NJS1ZOVnFmN0NEZl8tSnZPVDNKUTBUQWVaRkg2bU9pdzFxLTNoZnZsWThjM0lpNExkQ3lSNHlWQWNOM2FQeF9MamdCYWtXUkpKaGZSRWIwV0Q2emRJVjVvQkU5UHlVMEFqSDdBQ1BPeGtKR3JnNk1ocklla0FBWDFjallLb0VJRjhGbVBsbldCclBmdER6eEtDNnNB?oc=5",
+      "date": "2026-04-15 22:00",
+      "summary": "Breakingviews - China's AI token obsession may be misguided  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "Building trust in the AI era with privacy-led UX - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaWtHeXJXd3JVSm5uYlNSQmxHNDZrSHV5WFBqUmU5WWJDM2FpcVYxN1pMOFVQNDdRaHhoRTJ0OGpFa20teGU1OElKMGdiazBIMWlNOGxIMmZtZUtEZDAzY3cycHRGYkU1QW81UlMwbXQ2OUVtdXk1eXgtY2NpNTJVTTJSSTNESndxZmRWWDA1UExGZHJyMnkxTGpCWjE5a2ZsVkVZ0gGoAUFVX3lxTE9xbzFWb19tNW1LRVdkV0ZjLS1IMk8zb2FwLUFmcHMtblVaczU5NHhmQ2pZVVAxZzV4ZmYtZjByd25GckxWLXNMUUp4Z0lXTzJ2Y2lkS3NwcHgzenlJWlNKaUxDOEpoTm94ZENMb1g4aTJIWUVYX0o4S0ZJd2I4dy00eFRIN3ZxLXc1TzlMTDRNMFN4bWhBMVRMZVZuRjhib2l4NjZmV3YyWA?oc=5",
-      "date": "2026-04-15 06:00",
-      "summary": "Building trust in the AI era with privacy-led UX  MIT Technology Review..."
-    },
     {
       "title": "Want to understand the current state of AI? Check out these charts. - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnpCUGt5aDlwdkJ1V1hXV3JKREE3LWY5WVNLOTIwSXZhMTUxVTFxSUM2d0JYVU0yRFVQWTBQdDZRWXFEVDJFYnJncUdwdWlueG9mNm1rZXU0V1NRUTdIcENyWHVZYXFLaHFzMklkc0hTRHNxT1VodHJ1SjNMMzVwX2pwcW9VYXl3Y2cyajhaU04tbzlxeG5CR1NKNlhsRi1mLXQzSEVsdHFtSDhrMTdNSndZWU9WemdQaVHSAb8BQVVfeXFMTTBUbHBETUlPRkR6cGFJdkh5bldseHJEaXRQQ0s3eTlUdTRTcnFMeXVSdnBBeW5ZRGJqTEFNVWw0Wk5hYnBGMTg3ZW1hYUdKaXN6ejllcUFLMWZRNWZFSjRjaFZDQ0NkN1ZNOTExWmkwRG1wQUZmMk9Td05GYlI3aG43dnc0VkdqR1IxdHkyMWtNb3FLSW8tRGhlLWdXR3g3UWZ1bzZrblJjY3BwY1VCRFpZdnhYVk13MFF4N2V1aFU?oc=5",
@@ -237,10 +231,10 @@
       "summary": "Want to understand the current state of AI? Check out these charts.  MIT Technology Review..."
     },
     {
-      "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZHVvY00zUVZBRWx0V3NqR0NudWMyb21tZ0dXSkxPa0oxXy1aTG5JcktUUGxXVXpmWUJjNFIzMnU0T2txVkZTYkFBeXphdWZPSUJaN3B0VDV3bFpwaDlUOURFalFuR1hRQzctQnc1X0ktV3YwNmxZNzRfcHVEdWRqLTJRSTg4YnBCcng2MTdSY3R4aUpk0gGaAUFVX3lxTE9PNTRoSkJ6Y2oyd0w5eFE5dTJfZGMtc2tVSWlFSzZqTlJjYjRDN3RJbmRxWHVLUFdMMlZPSG9JYXhCMUo0U25ibFFUSHVSMS01ajg0YTZ5bTljemxJcnBjLXZoTEoxR0h4X1pLdDEzaGZVMzJDSG01bHA4NXkyREdvemFJMV9OUmVtMXNtZlZ2SmVhazl5YnlvSUE?oc=5",
-      "date": "2026-04-15 11:26",
-      "summary": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  MIT Technology Review..."
+      "title": "Building trust in the AI era with privacy-led UX - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaWtHeXJXd3JVSm5uYlNSQmxHNDZrSHV5WFBqUmU5WWJDM2FpcVYxN1pMOFVQNDdRaHhoRTJ0OGpFa20teGU1OElKMGdiazBIMWlNOGxIMmZtZUtEZDAzY3cycHRGYkU1QW81UlMwbXQ2OUVtdXk1eXgtY2NpNTJVTTJSSTNESndxZmRWWDA1UExGZHJyMnkxTGpCWjE5a2ZsVkVZ0gGoAUFVX3lxTE9xbzFWb19tNW1LRVdkV0ZjLS1IMk8zb2FwLUFmcHMtblVaczU5NHhmQ2pZVVAxZzV4ZmYtZjByd25GckxWLXNMUUp4Z0lXTzJ2Y2lkS3NwcHgzenlJWlNKaUxDOEpoTm94ZENMb1g4aTJIWUVYX0o4S0ZJd2I4dy00eFRIN3ZxLXc1TzlMTDRNMFN4bWhBMVRMZVZuRjhib2l4NjZmV3YyWA?oc=5",
+      "date": "2026-04-15 06:00",
+      "summary": "Building trust in the AI era with privacy-led UX  MIT Technology Review..."
     },
     {
       "title": "Why opinion on AI is so divided - MIT Technology Review",
@@ -249,13 +243,37 @@
       "summary": "Why opinion on AI is so divided  MIT Technology Review..."
     },
     {
-      "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10 - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMVo4a3RhaUtYemtBVzFpMjhLOWg3ZWRPaXhBYW1LRFJNYkZWeHBPYmlIN08xcDEyTTFGVF9RUkVJZ1Voc1ZnQkdRQkFaLTFEd25nc1ZUUlVlNDJWQ0FDMzU1TVIyQ1BKc1RWU3B0TnQ0RVpqekNSdnEwQWtLdTJoZWVGbkpvU25scEFzSEpVSzdaZDlVRUFYOWJGYkw0SkxNMHZUUmQ5V09CMktQcjMzR1JETzRMdVM0S01KS3ZkTlNMLWRIbzZLcFlBaXk4UVll0gHWAUFVX3lxTE45eXBNMzRkWlZUTlhQSi1ERWRLQVVSVmJVUGlWbk1ZbzFWbmwwZFR1bXNnNlNGTlctTWxYY2I1UmZKX3hQMkRxYTJoWGpxYk5fVzdnNFVtWUd1bWFEMGFqMGhKM0xzRThJM2dvSDQ2Z1BEdUxvVmlEWVpRcUJzdjdCMmJxeEFMSU9kSk1sZmZySkczREhRUFdJYXB4MDdIbTNhRm4tdEhZbERUQm9XdHJRZFhTbWQzTkNhamN2LXR3eHhYclotc0o0ZXhrblV6eVBVYmRxRVE?oc=5",
-      "date": "2026-04-15 12:10",
-      "summary": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10  MIT Technology Review..."
+      "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZHVvY00zUVZBRWx0V3NqR0NudWMyb21tZ0dXSkxPa0oxXy1aTG5JcktUUGxXVXpmWUJjNFIzMnU0T2txVkZTYkFBeXphdWZPSUJaN3B0VDV3bFpwaDlUOURFalFuR1hRQzctQnc1X0ktV3YwNmxZNzRfcHVEdWRqLTJRSTg4YnBCcng2MTdSY3R4aUpk0gGaAUFVX3lxTE9PNTRoSkJ6Y2oyd0w5eFE5dTJfZGMtc2tVSWlFSzZqTlJjYjRDN3RJbmRxWHVLUFdMMlZPSG9JYXhCMUo0U25ibFFUSHVSMS01ajg0YTZ5bTljemxJcnBjLXZoTEoxR0h4X1pLdDEzaGZVMzJDSG01bHA4NXkyREdvemFJMV9OUmVtMXNtZlZ2SmVhazl5YnlvSUE?oc=5",
+      "date": "2026-04-15 11:26",
+      "summary": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  MIT Technology Review..."
+    },
+    {
+      "title": "The one piece of data that could actually shed light on your job and AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNU1KczRpUWRzWk9Ccm85OG5IQnk1cUJpQldzUGh0SEtpR0ZmTV9ET2phODB3aEk2SDF0QTdSaGRRemVmUWNHVzBFNEI3akdPY0s1eWQwaHQ0NENXdFVzZDBoTWpUUWNhUTd6SlJOejNEbDFYd3ZRUnBUaWVsVXJIdi1hVUJtZHFNSEhFZC15Y3ltbDJ5ZGtZZnJyd2lPZlM5cHV2Zmk3ekU4bENwUVBGZlQ5RTktS1N0dnNROV9XSjByd9IBxwFBVV95cUxNdjJDQkZEVDVBNHlsb3Vkc1ViOVRscEI5WGtsdUo3WEZKZW9LVVFtMzUxTkozUXZsX2lINURKRDA2MThwMkc2c0dkSnIwQWdWdzhIclJ5ZXE2RTdsei0xWGNJbl8zcDFBNkY4Y0lGSWotVzR4cmV5cVl0WWJtZGRzQktMX3VZU0R4cjVFZkZ4MnpNNjY3WEVqcllVZ3ZjWXJ5M1ZRTEV1ZHZsbWp0UFd3cDEydkh0Wm1nbmhfTU9mRzZRQ2ZscUdn?oc=5",
+      "date": "2026-04-06 16:33",
+      "summary": "The one piece of data that could actually shed light on your job and AI  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "This drone reveals what lies beneath snow and soil",
+      "link": "https://phys.org/news/2026-04-drone-reveals-beneath-soil.html",
+      "date": "2026-04-16 04:20",
+      "summary": "Using self-developed drones and advanced sensors, researchers can now see both under the snow and into the ground. The scientists'..."
+    },
+    {
+      "title": "Foxes and birds could be 'early warning system' to survey spread of antibiotic resistance into ecosystems",
+      "link": "https://phys.org/news/2026-04-foxes-birds-early-survey-antibiotic.html",
+      "date": "2026-04-16 04:00",
+      "summary": "Red foxes and birds regularly cross between human-dominated and natural ecosystems. For this reason, they may be heralds of spread..."
+    },
+    {
+      "title": "From the air to the field: How nitrogen fertilizer helps feed the world—and why supply chains matter",
+      "link": "https://phys.org/news/2026-04-air-field-nitrogen-fertilizer-world.html",
+      "date": "2026-04-16 02:40",
+      "summary": "When lightning strikes a paddock, it does more than scorch grass and scare the cows. The electrical discharge breaks apart nitroge..."
+    },
     {
       "title": "COVID-19 in mink farm reveals early lung damage",
       "link": "https://phys.org/news/2026-04-covid-mink-farm-reveals-early.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-04-gaps-baltic-sea-ghost-gear.html",
       "date": "2026-04-16 01:40",
       "summary": "Conflicts of interest and unclear responsibilities are hampering efforts to recover lost and illegally discarded fishing gear in t..."
-    },
-    {
-      "title": "Spatiotemporal light pulses could secure optical communication by masking data",
-      "link": "https://phys.org/news/2026-04-spatiotemporal-pulses-optical-communication-masking.html",
-      "date": "2026-04-16 01:20",
-      "summary": "Researchers at Ben-Gurion University of the Negev have developed a new approach to secure optical communication that hides informa..."
-    },
-    {
-      "title": "Burning plus tree retention boosts natural forest regrowth in Finland after 11 years",
-      "link": "https://phys.org/news/2026-04-tree-retention-boosts-natural-forest.html",
-      "date": "2026-04-16 01:00",
-      "summary": "Prescribed burning, when combined with tree retention, can effectively support natural regeneration in managed boreal forests, new..."
-    },
-    {
-      "title": "Economic hardship tied to increased violence across California",
-      "link": "https://phys.org/news/2026-04-economic-hardship-violence-california.html",
-      "date": "2026-04-16 00:40",
-      "summary": "Economic instability—including job loss, food insecurity, eviction and homelessness—is strongly associated with higher rates of vi..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Mark Mobius, pioneering emerging-market investor and China bull, dies at 89",
+      "link": "https://www.scmp.com/business/markets/article/3350250/mark-mobius-pioneering-emerging-market-investor-and-china-bull-dies-89?utm_source=rss_feed",
+      "date": "2026-04-16 04:30",
+      "summary": "Mark Mobius, who was known as the father of emerging markets and was among the first fund managers to invest in Hong Kong and main..."
+    },
+    {
+      "title": "Tai Po fire probe: resident recalls deaths of 3 family members, domestic helper",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3350238/tai-po-fire-probe-resident-recalls-deaths-3-family-members-domestic-helper?utm_source=rss_feed",
+      "date": "2026-04-16 02:41",
+      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+    },
+    {
       "title": "Are special laws a quick fix for speeding up Hong Kong’s Northern Metropolis?",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350210/are-special-laws-quick-fix-speeding-hong-kongs-northern-metropolis?utm_source=rss_feed",
       "date": "2026-04-16 00:00",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/presented/news/hong-kong/health-environment/topics/support-vitiligo-patients/article/3350117/when-vitiligo-seen-not-understood?utm_source=rss_feed",
       "date": "2026-04-15 16:00",
       "summary": "[The content of this article has been produced by our advertising partner.]\nVitiligo is often noticed before it is understood. Whi..."
-    },
-    {
-      "title": "Hong Kong police hunt for man behind theft of 2 Pokemon cards worth HK$28,000",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350221/hong-kong-police-hunt-man-behind-theft-2-pokemon-cards-worth-hk28000?utm_source=rss_feed",
-      "date": "2026-04-15 15:56",
-      "summary": "A man snatched two Pokemon trading cards valued at about HK$28,000 (US$3,600) from a consignment shop in Hong Kong.\nThe tenant of ..."
-    },
-    {
-      "title": "Hong Kong police intercept Maserati, arrest 2 over suspected money laundering",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350207/hong-kong-police-intercept-maserati-arrest-2-over-suspected-money-laundering?utm_source=rss_feed",
-      "date": "2026-04-15 13:01",
-      "summary": "Hong Kong police intercepted a Maserati on a busy street in Mong Kok on Wednesday and arrested two people in connection with a sus..."
     }
   ],
   "New Scientist": [
