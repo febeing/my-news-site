@@ -103,6 +103,12 @@
       "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01263-8Nature staff discuss some of the week's top science news...."
     },
     {
+      "title": "Immune cells have a surprising role in exercise endurance",
+      "link": "https://www.nature.com/articles/d41586-026-01245-w",
+      "date": "2026-04-17 00:00",
+      "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01245-wStudy in mice suggests that B cells help regulate muscle pe..."
+    },
+    {
       "title": "New year, old me",
       "link": "https://www.nature.com/articles/d41586-026-01067-w",
       "date": "2026-04-17 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01210-7",
       "date": "2026-04-16 00:00",
       "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01210-7Most of the individuals in a seventeenth-century-Switzerlan..."
-    },
-    {
-      "title": "Ageing could prime women for autoimmune disorders",
-      "link": "https://www.nature.com/articles/d41586-026-01213-4",
-      "date": "2026-04-16 00:00",
-      "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01213-4Study of gene expression also finds age-related increases i..."
     }
   ],
   "Science News": [
@@ -193,16 +193,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "ECB to quiz bankers about risks of Anthropic's new AI model, source says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR19YSmRjV2FWbXVVZ255YkwzWnR2enI4UWN3dDlGcDJkY1NLN3BBNzBYMy12RXNvWl9NdllUNzh3Vm0wYjZzWXZRZFdXZU9OVkdEc3d5Mk1JZFpqRVg3WGtidUI0UzgtTmp3b1JUUkNCY0tYRXlNMGF3Y25LWDUtQk5SZlY1OERvR2JKZnNFZExRSDk1MkhrTS1QRF9wa2FrUDdieQ?oc=5",
-      "date": "2026-04-15 19:56",
-      "summary": "ECB to quiz bankers about risks of Anthropic's new AI model, source says  Reuters..."
-    },
-    {
       "title": "Strong ASML, TSMC forecasts signal AI spending boom is intact - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWdsakpJVzdMNzZYY0xnWnB4cnh1NWdRUmg3UHY2LUEzZlhVT3dpUUNjbnFDeXZTNEg0QzF2SUJxYzhmM1hWNDMwQmY4YTNwRnBGckNCR00tbHhUSnpweVpkVVRscFMtLWJqN3dveGlpME5NOTRTUWxOSWhhcUZwNW9PUUtSTkJOQUJ2cFUtWlNUMW4zOU5lVzZQOHVkM28xZEt2TmdJVms?oc=5",
       "date": "2026-04-16 13:59",
       "summary": "Strong ASML, TSMC forecasts signal AI spending boom is intact  Reuters..."
+    },
+    {
+      "title": "China's DeepSeek is raising funds at $10 billion valuation, The Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXQ0RWNIbHNtWkpWSFNMZnBYd1k1akNtRDdzQ2dzQ2kyem5QZlNNZDJwbVpESDZRNGVFRWl6c18tT2tDaTVQajBYLUdSWUZMaVU3NFZiaV9LaUFXeUtTR2ZFV1ZJWkpyYmt5NlJVRUxmWm16UC11WHdEcjdBSEltamFfRlljbGN5SkdRQTJEM2N3SHAxSGx0Vm1HY1lMYjNxbEdQT1REc0YzSTU4YzMzYkF3U2FwWUlDWVUxNjdB?oc=5",
+      "date": "2026-04-17 15:07",
+      "summary": "China's DeepSeek is raising funds at $10 billion valuation, The Information reports  Reuters..."
     },
     {
       "title": "Ericsson lags profit expectations as AI demand drives up chip bill - Reuters",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Researchers directly observe muonic molecules critical to muon catalyzed fusion",
-      "link": "https://phys.org/news/2026-04-muonic-molecules-critical-muon-catalyzed.html",
-      "date": "2026-04-17 15:40",
-      "summary": "Scientists have directly observed muonic molecules in resonance states for the first time, using a high-resolution X-ray detector,..."
+      "title": "Ocean bottom seismometers could improve earthquake warning times in Pacific Northwest",
+      "link": "https://phys.org/news/2026-04-ocean-bottom-seismometers-earthquake-pacific.html",
+      "date": "2026-04-17 17:00",
+      "summary": "If there is a magnitude 8 or 9 megathrust earthquake off the coast of the Pacific Northwest, data from ocean bottom seismometers (..."
     },
     {
-      "title": "Key gene enables tomato seed germination under high-temperature conditions",
-      "link": "https://phys.org/news/2026-04-key-gene-enables-tomato-seed.html",
-      "date": "2026-04-17 15:00",
-      "summary": "Researchers at University of Tsukuba have demonstrated that tomato mutants lacking the SlIAA9 gene, an auxin signaling repressor i..."
+      "title": "Smart irrigation rules could cut water use and raise farm profits",
+      "link": "https://phys.org/news/2026-04-smart-irrigation-farm-profits.html",
+      "date": "2026-04-17 16:40",
+      "summary": "As water supplies shrink and food demand grows, new interdisciplinary research from the University of Nebraska–Lincoln offers a pr..."
     },
     {
-      "title": "Saving coral reefs will require ruthless selection over generations to beat future heat waves",
-      "link": "https://phys.org/news/2026-04-coral-reefs-require-ruthless-generations.html",
-      "date": "2026-04-17 15:00",
-      "summary": "Assisted evolution could help corals survive future heat waves, but careful trait choice and strong repeated selection will be nee..."
+      "title": "AI-powered tool could speed treatments for antibiotic-resistant bacteria by pinpointing potent peptides",
+      "link": "https://phys.org/news/2026-04-ai-powered-tool-treatments-antibiotic.html",
+      "date": "2026-04-17 16:40",
+      "summary": "A newly designed AI-powered tool is effective in developing treatments to attack antibiotic-resistant bacteria by breaking down th..."
     },
     {
-      "title": "UN office's recovery plan advances flood relief efforts in Pakistan",
-      "link": "https://phys.org/news/2026-04-office-recovery-advances-relief-efforts.html",
-      "date": "2026-04-17 14:40",
-      "summary": "On the evening of July 6, 2025, a glacier lake outburst flood (GLOF) surged through the village of Hassanabad in Pakistan's Hunza ..."
+      "title": "First archaeological case of cleft lip identified in China reveals inclusive care in Qing dynasty community",
+      "link": "https://phys.org/news/2026-04-archaeological-case-cleft-lip-china.html",
+      "date": "2026-04-17 16:20",
+      "summary": "Orofacial clefts (OC; cleft lips and/or palates) require intense care immediately after birth and can lead to lifelong difficultie..."
     },
     {
-      "title": "As modern crops turn 'lazy' underground, old sorghum may hold key to future food security",
-      "link": "https://phys.org/news/2026-04-modern-crops-lazy-underground-sorghum.html",
-      "date": "2026-04-17 14:40",
-      "summary": "A greater focus on roots during plant breeding could ensure staple grain crops continue to feed the world as recycled nutrients su..."
+      "title": "Q&A: Will agentic AI replace human scientists?",
+      "link": "https://phys.org/news/2026-04-qa-agentic-ai-human-scientists.html",
+      "date": "2026-04-17 16:00",
+      "summary": "An emerging type of artificial intelligence, known as \"agentic\" AI, seems to do everything that biomedical scientists do—and often..."
     }
   ],
   "The Guardian Edu": [
