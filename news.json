@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Why bother with plausible deniability?",
+      "link": "https://news.mit.edu/2026/why-bother-plausible-deniability-0417",
+      "date": "2026-04-17 15:00",
+      "summary": "Philosopher Sam Berstler explains why we have social norms that let people engage in open deception...."
+    },
+    {
       "title": "With navigating nematodes, scientists map out how brains implement behaviors",
       "link": "https://news.mit.edu/2026/navigating-nematodes-scientists-map-out-how-brains-implement-behaviors-0416",
       "date": "2026-04-16 22:30",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/3-questions-running-shoe-that-adapts-to-runner-0416",
       "date": "2026-04-16 15:25",
       "summary": "Associate Professor Skylar Tibbits discusses a new technology that uses granular convection to deliver individualized performance...."
-    },
-    {
-      "title": "A regulatory loophole could delay ozone recovery by years",
-      "link": "https://news.mit.edu/2026/regulatory-loophole-could-delay-ozone-recovery-0416",
-      "date": "2026-04-16 09:00",
-      "summary": "Scientists say an exception in the Montreal Protocol for the use of ozone-depleting feedstocks could set the ozone recovery back s..."
     }
   ],
   "Harvard Gazette": [
@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "Briefing Chat: Penguins pick up PFAS pollution",
+      "link": "https://www.nature.com/articles/d41586-026-01263-8",
+      "date": "2026-04-17 00:00",
+      "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01263-8Nature staff discuss some of the week's top science news...."
+    },
+    {
       "title": "New year, old me",
       "link": "https://www.nature.com/articles/d41586-026-01067-w",
       "date": "2026-04-17 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01213-4",
       "date": "2026-04-16 00:00",
       "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01213-4Study of gene expression also finds age-related increases i..."
-    },
-    {
-      "title": "‘Science needs defending’: record number of researchers run for office in US mid-terms",
-      "link": "https://www.nature.com/articles/d41586-026-01134-2",
-      "date": "2026-04-16 00:00",
-      "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01134-2Many Democrats making the switch to politics are motivated ..."
     }
   ],
   "Science News": [
@@ -193,34 +193,34 @@
   ],
   "Reuters AI": [
     {
+      "title": "ECB to quiz bankers about risks of Anthropic's new AI model, source says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR19YSmRjV2FWbXVVZ255YkwzWnR2enI4UWN3dDlGcDJkY1NLN3BBNzBYMy12RXNvWl9NdllUNzh3Vm0wYjZzWXZRZFdXZU9OVkdEc3d5Mk1JZFpqRVg3WGtidUI0UzgtTmp3b1JUUkNCY0tYRXlNMGF3Y25LWDUtQk5SZlY1OERvR2JKZnNFZExRSDk1MkhrTS1QRF9wa2FrUDdieQ?oc=5",
+      "date": "2026-04-15 19:56",
+      "summary": "ECB to quiz bankers about risks of Anthropic's new AI model, source says  Reuters..."
+    },
+    {
+      "title": "Strong ASML, TSMC forecasts signal AI spending boom is intact - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWdsakpJVzdMNzZYY0xnWnB4cnh1NWdRUmg3UHY2LUEzZlhVT3dpUUNjbnFDeXZTNEg0QzF2SUJxYzhmM1hWNDMwQmY4YTNwRnBGckNCR00tbHhUSnpweVpkVVRscFMtLWJqN3dveGlpME5NOTRTUWxOSWhhcUZwNW9PUUtSTkJOQUJ2cFUtWlNUMW4zOU5lVzZQOHVkM28xZEt2TmdJVms?oc=5",
+      "date": "2026-04-16 13:59",
+      "summary": "Strong ASML, TSMC forecasts signal AI spending boom is intact  Reuters..."
+    },
+    {
+      "title": "Ericsson lags profit expectations as AI demand drives up chip bill - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTi1WWWdrcFZIRmpIbEh6VTNVUVZkUklnLVI4MGdPdTZRdW1pT2ktc1lEZm9vekdiRmxaTS1jTUxESjZQcnpmMmlJc3VIT3h0UnYwQXFnWHhyV1NDRzVIbHZvQTN4c0RuRWJUM1VOdVdsSk5Rd3lkZWFWc0MwcklMaWxLMG9lcm8yQWlpTmJjRW5hMWk4c3JQZ2tua1gtLWtYbUZxY21SMGpfZXM4RnM2Nm80eFRPZ1E0?oc=5",
+      "date": "2026-04-17 05:11",
+      "summary": "Ericsson lags profit expectations as AI demand drives up chip bill  Reuters..."
+    },
+    {
       "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2ZtWkI5VERwRTZkZDVXU3VuVUxiY2N6N3FfYlNpNUZ6OFViQVhvTmwtYVpTb1VjM1NCWWVfM2Q2dkI3YzdZb3NyTkR0VG5TNXNveWlQTGlrYWlqYmEwTWYxVk12TkRQbTlxYTlLaXJZbzU2UkFwVjZsSnlnT1RWVm5MdDU4RW56Rnc1cEZybnR4anQ0dGsyNTdwV0Vpay1TajV4d2RPZ0ZldzdfRmRMdHRoOFgtVVJfVFU2SnNteHdmSFVnZWc?oc=5",
       "date": "2026-04-15 20:31",
       "summary": "AI ruling prompts warnings from US lawyers: Your chats could be used against you  Reuters..."
     },
     {
-      "title": "Exclusive: Anthropic weighs building its own AI chips, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTV96eWtwaUtGOVNqbUNQNVdaYzVDZDlaLUNaZ1pKN3JfZExqcjNWSzlYX1NoLVdudVliX2xkUXlscGZDYUlLYnQyM1BYRmQ5bnhGZm9nOXhmX1pUcEJSaHJYNTcyVkV4c1pzMVUySTIyUTR0Xy1XMWQ3eVdGdk42WUNMbElUUlJWR19VaHN0elU5ZXc3cHJzZ3FfS3R2QUE?oc=5",
-      "date": "2026-04-09 07:00",
-      "summary": "Exclusive: Anthropic weighs building its own AI chips, sources say  Reuters..."
-    },
-    {
-      "title": "Citigroup says AI helps speed account openings and systems upgrades - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR2RublRwOE5xMEg0aHVPbmpyY3N1RGo5Q3ZwbGZEc2pZV0phTWZhOHctRTZ5cnI3WktDb3F4bzc0T3BUbkhFaTdzclEzSVFJT18xSkxXOVZCMGd5X3JjVkgxbDlZcndNYjA5RFptT1F2M1pXR0pHVUM3UGpENkN6SlRmUUpyS0U2NUY0eFRUNkl2RTY3a1U1eW9jeXNjbVpxcWRpdU5aZkVyT3BycnJINlBBVkp1ZTg?oc=5",
-      "date": "2026-04-08 07:00",
-      "summary": "Citigroup says AI helps speed account openings and systems upgrades  Reuters..."
-    },
-    {
-      "title": "US Supreme Court declines to hear dispute over copyrights for AI-generated material - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2JBcnZSUlRmdnlGM2xva3JqYVktMVlyckxUWk9YNEM2ZXlLQ19CRElkU29MRm01U0RzVUEyQ1ZUdUNiTkI3R2RuMmpiYWdtLUxBclFtM21ybkpzQm1KY0dTSEZUc094STFETTZHZHllS09tNEhwWV9KRThXTmlSZUJ3cDdPS0hsT3lnTUFtb2VrTWhDNUZ6N0lmQkN4VEZ0cVVFcDFxYURXMGFTVmF1UGZ6OXFTV1VHME80NW4xcjNMVmVKVUNkMg?oc=5",
-      "date": "2026-03-02 08:00",
-      "summary": "US Supreme Court declines to hear dispute over copyrights for AI-generated material  Reuters..."
-    },
-    {
-      "title": "Trump releases AI policy for Congress to pre-empt state rules - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWZpamJCdk1QQVpCa2xwRmxsUDBVZk91Q1pybV9kSHE1WTR2WTRlNEdxRHN4UlVULWEzR3NyQjZGaks1V2N1RXhSTzNZcG83SGtHa0pCR0dyWktGWUJMdVlpeVRYOE9WYTYwNjNPcTR1UFJDTUozaWxIazVQY2llcXFXcDdueVdMTEd4TGhrdXU?oc=5",
-      "date": "2026-03-20 07:00",
-      "summary": "Trump releases AI policy for Congress to pre-empt state rules  Reuters..."
+      "title": "OpenAI launches AI model GPT-Rosalind for life sciences research - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW1lVG9kQXRYc1hlRFZ4UVlGaWlUcENoRzRlUDNzYnJSWDN4bG9YbFhzaHdqY0R2Qmc5dEdYVTU5QlJBYVBFTXBUY2phS2dDQk9WeGdvUm1SLUlxMGhrTHZMQUJOQlMzZnl2Nmw5ZTJIdXg4bV9TVVh5V09VN0hFbFFIdlZsclNMUklKbkZaQVVFOXJKWThDVEFiYnFDNVR5REdGTmUyS0dveFEwcVhXZ3JWSXMtSWV2ZEFxWWZkUEVtc3d4UFZxdlpzTWQ?oc=5",
+      "date": "2026-04-16 19:01",
+      "summary": "OpenAI launches AI model GPT-Rosalind for life sciences research  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -237,6 +237,12 @@
       "summary": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion  MIT Technology Review..."
     },
     {
+      "title": "How robots learn: A brief, contemporary history - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWdtd3VOYTdNZWZqQ0RGcDdFSTl2RlpDSlhnZTEzeHZqZ3FYUVQ4Q0JPZ3hlNVBydTlDMFM4eE1Gc2U5N0hFQTFMQm5Da3NDYXNxSzczd09MRFlxdTNINkZGQ0c3Q2F6S1lpOEVlU0dmWW1JaEJ5dVpDWC1QSE8wMlVsZzN1M2FwNEt1WUNwMzZhTlRsc2d3Y3ZaZGTSAaIBQVVfeXFMTVY2dTE3QktJdWxhRGpuYk1vVlZwR0ZIWmxNcW0xQ0pzbHk4MEZVWjJxYTV0V0tSM1k2NkVJb3RrZlhqbEJRZWRyY1RZb0xSbk1ad3NQVWZCVi1jTnZyT01fUHNjWE5aaUJadVdwbE5pcUV3cGVDajhyeWYyV3BGc3RoLUNFOWVKTHotcGt2UklQNHB5S09WTGxWeWNsNDJZa3Rn?oc=5",
+      "date": "2026-04-17 10:00",
+      "summary": "How robots learn: A brief, contemporary history  MIT Technology Review..."
+    },
+    {
       "title": "The case for fixing everything - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDR1bjRZZTdicWFseFRtcWtnWnJpR28wcGpUMjJkOFJjUXhmZmo1Q3h4T1YtTGhZd3NnX0ZFYWVWNXJrSURxc3pPSjMyVzlqbFk2OXJZeHZwTklfUzlNZmdlNUlTMXNZeFJUbUVKNzRJVG8xZHFJV0t2WEVaOVM4SHR4N05uYzdPdWJ0NXZFMURQR0Y1RDZQRlB2MUxLTWNSOWp2RFdHSmpzMFFY0gGyAUFVX3lxTFBkYnpVQTBieXppYjZHeGhELU9UWFFFM3piaW1jY2hnX1BxRllPX1pDT3F4aUdtalFKUzFtSV9SWTF5VnZMVTRaLWQyemduVFBHVHpCWXE2TmdhNHNpSGlyeWNncGJjRVYtb0d6bXljRGt1SGdjaFV3SkxkbmJZZURDRENCYTltbXRHRFpTcmZkbU9iNkMyY1RFWWtwa3dTLTlNZmVYM1RXTnE5enZUc3dlaUE?oc=5",
       "date": "2026-04-17 10:00",
@@ -247,15 +253,27 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEJIQmQ3QmlrZ3VVSV9TM1QxVzd3UWl2NzZpdGxfa0xmSU8tTkRyQUN4TTd4ZWVCQ2s0b1B3VmpEMWpNR195THdBUXdyZU1GNnZHeWc3N1BUS0JXaW1zUHpUb095aEdnMDBOYVRycFRiY0RUa0VqbkxMbm9iODU3WENYR2FUVXBKTTI0RGhMLUtrWmNpLTZLbzY5WDk2YnfSAaQBQVVfeXFMUDRfYmNMdER3UzN1MHRWZFJKM0h1QXRtQm9vNm9yaDVkSDlGOUtCYnVOWXlMY0hNb1kxalZ2NHJFcHpKRFRBdzRObFIzaGJFdy1HNXo5dkFaLUdZVEdlRE5iR19oQVdLdUxoSnRlQjlMMnNxVTlNeU5hWE5jeE50UjVOQjZkcURzNldqU0s3YWkya1VwcThkTENxUFZ5RGtfNFdjdWU?oc=5",
       "date": "2026-04-14 18:00",
       "summary": "Redefining the future of software engineering  MIT Technology Review..."
-    },
-    {
-      "title": "Why opinion on AI is so divided - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTBRUHVUMzVUN21BYVVTVEk3ajRXTGNPd21LbHZNZUNaNW9wc2h3emV0T2REemVMSmQtVWFzUmlsRWg0aVZHSm1ydmdOa05ibC1EWG02dmZPbXdTNVpZT19nakc1XzZkYU5fWGZwVkhIcnh1MUNYN1pwY2R2WE5SQWxiMmY0SkdFT0hRb9IBkgFBVV95cUxQQkFpX1ZRSi14SFZtcXFPbF80TUY3Y1BIQ3RBd1BNUWk2SDV1aDhoOVRRdEx6YUlnd3pISThGVWhPdXI3d2ExTWJsYU9VWk5tR0tYRWtFZXRmRElpcTl3MXktY0kyOXN4NDN6Z2VaVVpTTDJCbEhjRC1GX3JFWDJJNlU1RldOQ0E3cVFYaF9ZLXlxQQ?oc=5",
-      "date": "2026-04-13 15:48",
-      "summary": "Why opinion on AI is so divided  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Researchers directly observe muonic molecules critical to muon catalyzed fusion",
+      "link": "https://phys.org/news/2026-04-muonic-molecules-critical-muon-catalyzed.html",
+      "date": "2026-04-17 15:40",
+      "summary": "Scientists have directly observed muonic molecules in resonance states for the first time, using a high-resolution X-ray detector,..."
+    },
+    {
+      "title": "Key gene enables tomato seed germination under high-temperature conditions",
+      "link": "https://phys.org/news/2026-04-key-gene-enables-tomato-seed.html",
+      "date": "2026-04-17 15:00",
+      "summary": "Researchers at University of Tsukuba have demonstrated that tomato mutants lacking the SlIAA9 gene, an auxin signaling repressor i..."
+    },
+    {
+      "title": "Saving coral reefs will require ruthless selection over generations to beat future heat waves",
+      "link": "https://phys.org/news/2026-04-coral-reefs-require-ruthless-generations.html",
+      "date": "2026-04-17 15:00",
+      "summary": "Assisted evolution could help corals survive future heat waves, but careful trait choice and strong repeated selection will be nee..."
+    },
     {
       "title": "UN office's recovery plan advances flood relief efforts in Pakistan",
       "link": "https://phys.org/news/2026-04-office-recovery-advances-relief-efforts.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-04-modern-crops-lazy-underground-sorghum.html",
       "date": "2026-04-17 14:40",
       "summary": "A greater focus on roots during plant breeding could ensure staple grain crops continue to feed the world as recycled nutrients su..."
-    },
-    {
-      "title": "Mosquitoes reach Iceland for the first time as the Arctic heats up",
-      "link": "https://phys.org/news/2026-04-mosquitoes-iceland-arctic.html",
-      "date": "2026-04-17 14:20",
-      "summary": "In what is possibly another sign of climate change, mosquitoes have landed in Iceland for the first time. For many years, the isla..."
-    },
-    {
-      "title": "The Colorado River disappeared from the geological record for 5 million years: Scientists now know where it went",
-      "link": "https://phys.org/news/2026-04-colorado-river-geological-million-years.html",
-      "date": "2026-04-17 14:00",
-      "summary": "Geologists have solved the mystery of the disappearance from the geological record, millions of years ago, of one of North America..."
-    },
-    {
-      "title": "DNA cracks nutmeg's hidden past, revealing a South Moluccas origin and a prehuman journey north",
-      "link": "https://phys.org/news/2026-04-dna-nutmeg-hidden-revealing-south.html",
-      "date": "2026-04-17 13:40",
-      "summary": "A sprinkle of nutmeg powder on baked goodies or mashed potatoes can immediately lift the flavor with its warm and sweet aroma. Eve..."
     }
   ],
   "The Guardian Edu": [
