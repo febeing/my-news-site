@@ -39,6 +39,12 @@
       "summary": "Wonder served him well  Harvard Gazette..."
     },
     {
+      "title": "Anthropologist traces split between Homo sapiens and Neanderthals - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QUnB1OG1jeGdHSzNKQkt0LVE3RnNyaDk1Y0R4bkRwM2JXLXZFaFJtcnVzWExySE83cE5IWks2OWY5YVdJaHJuS29hUVJHaGcySjk3bzJ0eUVsSVNoWFhsdlM4S2dCekRxc3dDVTZaVWgtQQ?oc=5",
+      "date": "2026-04-01 07:00",
+      "summary": "Anthropologist traces split between Homo sapiens and Neanderthals  Harvard Gazette..."
+    },
+    {
       "title": "How academia can help America heal - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
       "summary": "How to help lift slumping American math scores  Harvard Gazette..."
-    },
-    {
-      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
-      "date": "2025-10-28 07:00",
-      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -115,19 +115,25 @@
       "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01067-wA welcome change...."
     },
     {
+      "title": "US lawmakers intensify scrutiny of scientific-publishing practices",
+      "link": "https://www.nature.com/articles/d41586-026-01251-y",
+      "date": "2026-04-17 00:00",
+      "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01251-yA congressional hearing covered the rise of paper mills and..."
+    },
+    {
       "title": "Venus’s impenetrable haze could be made of cosmic dust",
       "link": "https://www.nature.com/articles/d41586-026-01212-5",
       "date": "2026-04-16 00:00",
       "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01212-5Modelling suggests that the layer beneath the planet’s acid..."
-    },
-    {
-      "title": "Graves reveal plague’s inequitable toll",
-      "link": "https://www.nature.com/articles/d41586-026-01210-7",
-      "date": "2026-04-16 00:00",
-      "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01210-7Most of the individuals in a seventeenth-century-Switzerlan..."
     }
   ],
   "Science News": [
+    {
+      "title": "Magnetic robots could help remove dangerous nanoplastics from water",
+      "link": "https://www.science.org/content/article/magnetic-robots-could-help-remove-dangerous-nanoplastics-water",
+      "date": "2026-04-17 01:55",
+      "summary": "Nanoscopic rods capture particles too small for conventional filters..."
+    },
     {
       "title": "Artificially engineered sea ice grows—but can’t withstand the thaw",
       "link": "https://www.science.org/content/article/artificially-engineered-sea-ice-grows-can-t-withstand-thaw",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/helium-3-runs-scarce-researchers-seek-new-ways-chill-quantum-computers",
       "date": "2026-04-16 10:00",
       "summary": "Tight supplies of precious isotope are driving new approaches to ultracold tech..."
-    },
-    {
-      "title": "First complete genome loaded onto a quantum computer",
-      "link": "https://www.science.org/content/article/first-complete-genome-loaded-quantum-computer",
-      "date": "2026-04-15 11:10",
-      "summary": "Researchers encode the tiny hepatitis D virus in an early step toward “quantum genomics”..."
     }
   ],
   "Retraction Watch": [
@@ -193,10 +193,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "Strong ASML, TSMC forecasts signal AI spending boom is intact - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWdsakpJVzdMNzZYY0xnWnB4cnh1NWdRUmg3UHY2LUEzZlhVT3dpUUNjbnFDeXZTNEg0QzF2SUJxYzhmM1hWNDMwQmY4YTNwRnBGckNCR00tbHhUSnpweVpkVVRscFMtLWJqN3dveGlpME5NOTRTUWxOSWhhcUZwNW9PUUtSTkJOQUJ2cFUtWlNUMW4zOU5lVzZQOHVkM28xZEt2TmdJVms?oc=5",
-      "date": "2026-04-16 13:59",
-      "summary": "Strong ASML, TSMC forecasts signal AI spending boom is intact  Reuters..."
+      "title": "Stellantis, Microsoft sign five-year partnership for AI push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWx5VjhYazEyT3dKb2NjOXRrYm53N0QzWEwzZjBka1JxVmZtMUdkN19xZTk1MUJmNzVzTEtIOHFTekFwRlJzV0Y4TzZ3ZnM0Z0xETklKVXd6TFNpY3FZeEVRTnFNQmdtejZUZEdvRENHRW10ZlI1Y0d1RWNDdWtlamp6aUlYTVI5ck5sR1FuZ1VLM3F2V3lsOV9Ua2xUS0FZaVMzYkFLNE9yeU5ZcXlBZi1uVEtQQmVVSll4NXJB?oc=5",
+      "date": "2026-04-16 21:53",
+      "summary": "Stellantis, Microsoft sign five-year partnership for AI push  Reuters..."
     },
     {
       "title": "China's DeepSeek is raising funds at $10 billion valuation, The Information reports - Reuters",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
+      "title": "Antioxidant glutathione discovered to play a key role in proper protein folding",
+      "link": "https://phys.org/news/2026-04-antioxidant-glutathione-play-key-role.html",
+      "date": "2026-04-17 20:00",
+      "summary": "In the past several years, Rockefeller University's Kivanç Birsoy and his team in the Laboratory of Metabolic Regulation and Genet..."
+    },
+    {
+      "title": "Two bacteria join forces to turn chemical signals into electricity, opening up low-cost sensing options",
+      "link": "https://phys.org/news/2026-04-bacteria-chemical-electricity-options.html",
+      "date": "2026-04-17 19:40",
+      "summary": "Bacterial sensors usually rely on emitting light to transfer information about what they're sensing, but that method isn't practic..."
+    },
+    {
+      "title": "Want to restore oyster reefs? Find a site where they don't wash away or become buried under the sand",
+      "link": "https://phys.org/news/2026-04-oyster-reefs-site-dont-sand.html",
+      "date": "2026-04-17 19:20",
+      "summary": "Restoring once abundant oyster reefs in temperate marginal seas such as the North Sea is a challenging task. New research by NIOZ ..."
+    },
+    {
+      "title": "Shrink, remove and modify: Team successfully 'trims' wheat chromosomes",
+      "link": "https://phys.org/news/2026-04-team-successfully-trims-wheat-chromosomes.html",
+      "date": "2026-04-17 19:00",
+      "summary": "For the first time, a research team at the Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) has succeeded in redu..."
+    },
+    {
       "title": "Indonesia's fire crisis comes into focus as high-resolution satellite maps expose 5.62 million hectares affected",
       "link": "https://phys.org/news/2026-04-indonesia-crisis-focus-high-resolution.html",
       "date": "2026-04-17 18:30",
       "summary": "Indonesia experiences massive forest fires as the dry season approaches. They are a major environmental challenge because they dam..."
-    },
-    {
-      "title": "Platinum-free catalyst splits hydrogen from water for energy, running 1,000 hours at industry standards",
-      "link": "https://phys.org/news/2026-04-platinum-free-catalyst-hydrogen-energy.html",
-      "date": "2026-04-17 18:20",
-      "summary": "Using a renewable energy source has multiple benefits, including reducing harmful emissions and dependence on fossil fuels while i..."
-    },
-    {
-      "title": "Quantum-informed AI improves long-term turbulence forecasts while using far less memory",
-      "link": "https://phys.org/news/2026-04-quantum-ai-term-turbulence-memory.html",
-      "date": "2026-04-17 18:00",
-      "summary": "An AI model informed by calculations from a quantum computer can better predict the behavior of a complex physical system over the..."
-    },
-    {
-      "title": "Parrots are not just mimicking words—they use proper names like humans to identify individuals",
-      "link": "https://phys.org/news/2026-04-parrots-mimicking-words-proper-humans.html",
-      "date": "2026-04-17 18:00",
-      "summary": "Like many animals, parrots make sounds that suggest they are talking with each other, maybe even calling out to a specific parrot...."
-    },
-    {
-      "title": "One of the world's rarest mouses is adapting to climate change",
-      "link": "https://phys.org/news/2026-04-world-rarest-mouses-climate.html",
-      "date": "2026-04-17 18:00",
-      "summary": "A new study on climate adaptation in the Pacific pocket mouse—North America's most endangered mouse has been published in Science ..."
     }
   ],
   "The Guardian Edu": [
