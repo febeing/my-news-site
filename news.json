@@ -39,12 +39,6 @@
       "summary": "Wonder served him well  Harvard Gazette..."
     },
     {
-      "title": "Anthropologist traces split between Homo sapiens and Neanderthals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QUnB1OG1jeGdHSzNKQkt0LVE3RnNyaDk1Y0R4bkRwM2JXLXZFaFJtcnVzWExySE83cE5IWks2OWY5YVdJaHJuS29hUVJHaGcySjk3bzJ0eUVsSVNoWFhsdlM4S2dCekRxc3dDVTZaVWgtQQ?oc=5",
-      "date": "2026-04-01 07:00",
-      "summary": "Anthropologist traces split between Homo sapiens and Neanderthals  Harvard Gazette..."
-    },
-    {
       "title": "How academia can help America heal - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
       "summary": "How to help lift slumping American math scores  Harvard Gazette..."
+    },
+    {
+      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
+      "date": "2025-10-28 07:00",
+      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -89,10 +89,10 @@
       "summary": "A Homecoming for Korean Studies: The Journal of Korean Studies Returns to Stanford  Stanford University..."
     },
     {
-      "title": "Stanford’s FutureLaw Explores What Comes Next as AI Reshapes the Law - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnpLd1ZJVi1FaUVRX0NJQ05wZjlCd3FXbzhsUHdGajl1dnJLMjZZd0dsLW5XTHBuS0tGUHdraWJPZ0dzUWZkUEdoYmZmUkFHM0xSQllubHlrMk5LcTE3TXFPOFZsbWdkLVRZNjh0VUNldWJyaHZ3R0pmNldfT19CX2hPcjdic0VKVjFYcXByRzJOMkx1NERFanFNZXJzVnFZ?oc=5",
-      "date": "2026-04-16 23:26",
-      "summary": "Stanford’s FutureLaw Explores What Comes Next as AI Reshapes the Law  Stanford Law School..."
+      "title": "Ph.D. candidates present research at annual Three Minute Thesis competition - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwNHlRaVNwRlM2UDB2X2pEUnhjVEluWXVEUU1UYnUtVkp5UzRaUnEtLS1BUzUxUjVneThSWkJCVWZEdmJ2NERrblpUMFFHTkNadVpiLUQwOTI0cjMzRjJWRFFtN3A5bE1lUE9PR3RaU2YyanFzcUlNdA?oc=5",
+      "date": "2026-04-17 07:02",
+      "summary": "Ph.D. candidates present research at annual Three Minute Thesis competition  The Stanford Daily..."
     }
   ],
   "Nature Careers": [
@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "After long wait, Trump nominates a CDC director",
+      "link": "https://www.science.org/content/article/after-long-wait-trump-nominates-cdc-director",
+      "date": "2026-04-17 03:20",
+      "summary": "White House taps physician and lawyer Erica Schwartz to lead struggling health agency..."
+    },
+    {
       "title": "Magnetic robots could help remove dangerous nanoplastics from water",
       "link": "https://www.science.org/content/article/magnetic-robots-could-help-remove-dangerous-nanoplastics-water",
       "date": "2026-04-17 01:55",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/grand-canyon-s-origin-resolved-ancient-lake-s-flood-may-have-etched-famed-gorge",
       "date": "2026-04-16 02:00",
       "summary": "Mineral grains show Colorado River filled a basin at the canyon’s head millions of years ago..."
-    },
-    {
-      "title": "As helium-3 runs scarce, researchers seek new ways to chill quantum computers",
-      "link": "https://www.science.org/content/article/helium-3-runs-scarce-researchers-seek-new-ways-chill-quantum-computers",
-      "date": "2026-04-16 10:00",
-      "summary": "Tight supplies of precious isotope are driving new approaches to ultracold tech..."
     }
   ],
   "Retraction Watch": [
@@ -193,10 +193,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "Stellantis, Microsoft sign five-year partnership for AI push - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWx5VjhYazEyT3dKb2NjOXRrYm53N0QzWEwzZjBka1JxVmZtMUdkN19xZTk1MUJmNzVzTEtIOHFTekFwRlJzV0Y4TzZ3ZnM0Z0xETklKVXd6TFNpY3FZeEVRTnFNQmdtejZUZEdvRENHRW10ZlI1Y0d1RWNDdWtlamp6aUlYTVI5ck5sR1FuZ1VLM3F2V3lsOV9Ua2xUS0FZaVMzYkFLNE9yeU5ZcXlBZi1uVEtQQmVVSll4NXJB?oc=5",
-      "date": "2026-04-16 21:53",
-      "summary": "Stellantis, Microsoft sign five-year partnership for AI push  Reuters..."
+      "title": "Strong ASML, TSMC forecasts signal AI spending boom is intact - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWdsakpJVzdMNzZYY0xnWnB4cnh1NWdRUmg3UHY2LUEzZlhVT3dpUUNjbnFDeXZTNEg0QzF2SUJxYzhmM1hWNDMwQmY4YTNwRnBGckNCR00tbHhUSnpweVpkVVRscFMtLWJqN3dveGlpME5NOTRTUWxOSWhhcUZwNW9PUUtSTkJOQUJ2cFUtWlNUMW4zOU5lVzZQOHVkM28xZEt2TmdJVms?oc=5",
+      "date": "2026-04-16 13:59",
+      "summary": "Strong ASML, TSMC forecasts signal AI spending boom is intact  Reuters..."
+    },
+    {
+      "title": "Nvidia rival Cerebras reveals US IPO filing as AI boom drives listings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWotMXdBZ2tfaWJuV25qNGlFSjE1ckpoTHdnRTc0QkpFOXQ5Y2lTenFXeXFFb0hRWHVBUzV0VmUtcElFWkNSeFFmVjVId0daX05EV2dKbXkxRHBOSUQyRWJoNEZCWnk3a0ozcTFwWUVJWDhyZGJ6OWc1S1ZscS1qOGxMc1Q5TE5ubl9LZ2MwVVNCLWtxdmxVTmpxSEpPSnNHaUl0V0thTk9hMG5HRkdKak9HYUM?oc=5",
+      "date": "2026-04-17 20:33",
+      "summary": "Nvidia rival Cerebras reveals US IPO filing as AI boom drives listings  Reuters..."
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei arrives at White House for talks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTGRzSHhnbEhCQjM5UWpyQllSNzBfRWhMdGFPQ2N2VmNDNVh1NFZoVnNqMEFyS19MZkZGTVBKelFuckZEc2x2Z2ZuVnFDallPR3Rmeng0em5tT1kzZC13YXhyZ0xZdlV2N2tJS1RhYVdEbjRPSWRpOTB2NVY1VWhqalZFRHpYMkNJZEs3Y0hXYmxvR2pENURpZnV3?oc=5",
+      "date": "2026-04-17 21:04",
+      "summary": "Anthropic CEO Dario Amodei arrives at White House for talks  Reuters..."
     },
     {
       "title": "China's DeepSeek is raising funds at $10 billion valuation, The Information reports - Reuters",
@@ -209,18 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTi1WWWdrcFZIRmpIbEh6VTNVUVZkUklnLVI4MGdPdTZRdW1pT2ktc1lEZm9vekdiRmxaTS1jTUxESjZQcnpmMmlJc3VIT3h0UnYwQXFnWHhyV1NDRzVIbHZvQTN4c0RuRWJUM1VOdVdsSk5Rd3lkZWFWc0MwcklMaWxLMG9lcm8yQWlpTmJjRW5hMWk4c3JQZ2tua1gtLWtYbUZxY21SMGpfZXM4RnM2Nm80eFRPZ1E0?oc=5",
       "date": "2026-04-17 05:11",
       "summary": "Ericsson lags profit expectations as AI demand drives up chip bill  Reuters..."
-    },
-    {
-      "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2ZtWkI5VERwRTZkZDVXU3VuVUxiY2N6N3FfYlNpNUZ6OFViQVhvTmwtYVpTb1VjM1NCWWVfM2Q2dkI3YzdZb3NyTkR0VG5TNXNveWlQTGlrYWlqYmEwTWYxVk12TkRQbTlxYTlLaXJZbzU2UkFwVjZsSnlnT1RWVm5MdDU4RW56Rnc1cEZybnR4anQ0dGsyNTdwV0Vpay1TajV4d2RPZ0ZldzdfRmRMdHRoOFgtVVJfVFU2SnNteHdmSFVnZWc?oc=5",
-      "date": "2026-04-15 20:31",
-      "summary": "AI ruling prompts warnings from US lawyers: Your chats could be used against you  Reuters..."
-    },
-    {
-      "title": "OpenAI launches AI model GPT-Rosalind for life sciences research - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW1lVG9kQXRYc1hlRFZ4UVlGaWlUcENoRzRlUDNzYnJSWDN4bG9YbFhzaHdqY0R2Qmc5dEdYVTU5QlJBYVBFTXBUY2phS2dDQk9WeGdvUm1SLUlxMGhrTHZMQUJOQlMzZnl2Nmw5ZTJIdXg4bV9TVVh5V09VN0hFbFFIdlZsclNMUklKbkZaQVVFOXJKWThDVEFiYnFDNVR5REdGTmUyS0dveFEwcVhXZ3JWSXMtSWV2ZEFxWWZkUEVtc3d4UFZxdlpzTWQ?oc=5",
-      "date": "2026-04-16 19:01",
-      "summary": "OpenAI launches AI model GPT-Rosalind for life sciences research  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,19 +243,31 @@
       "summary": "How robots learn: A brief, contemporary history  MIT Technology Review..."
     },
     {
+      "title": "Why having “humans in the loop” in an AI war is an illusion - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTFIUEphWmpKRElaVThzdkVoZnVnd1g3SjNUMk1JSzdjVFA3eXczajZfT3QtTm5hVG9za3hmTUk5eGk0dmwydVRaS3V4LWpGVEViR2hkRkhTX203WFFpSmpHdVN3blVXZVczZlgta3dJUWtiMEhJR0FBUlp1V2YyU2lGT2ZFel9hREJIRE1uYWLSAZYBQVVfeXFMTkhiR2l4TXpCeFFwRUFZdVNZdzl5Uk8xRVZFTzZxOUxSTlZZeWUzSFQxMHdMd3ZLbktva3J1SDBaQUIzQmxic3VsS3ItbWp2VTZVdElKZmZnTFlKSFV6cndDUURkM2phM0F6TFJEanFvRVBmNmRXamo0ZzB3dVJTY2haNmFIYU96WnJQZkJqcGptQzcwREt3?oc=5",
+      "date": "2026-04-16 12:00",
+      "summary": "Why having “humans in the loop” in an AI war is an illusion  MIT Technology Review..."
+    },
+    {
       "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRF9FaHowRlpiZGt1WXprN0FmWjl0ZjNxVHNXMktBdXpCbnk5Q0ROWnpTS083MVFyZlVydmEyZzVEcl80RS1vX2Zkc3lOZG9LcGdpeVlka3JvOVZmbVQ2YUd6dm1uSjZOeUtHRFhwYTdOemZfU2pSNFc0S2ZDdEowNVI0N3JNMF84cUd3ei1nenhYZmJnNDRaSy1VYVc4c3ZsTmNWNXIydXhzcktn0gGyAUFVX3lxTE1XMUxKcmxTVllaX0FJcTVuVnduWU1iQTJpTTg2VXp0azdvVUljTEdjUm9NTEw2RGtCRXZ4cktpVGRoNi01VTNUaEZCakxVcWhqMXFUWkVnRjVkSWdXckRuMGNZTk1pcGZmSHdmR05IdUVvejYySW5HOWZpcHNHcmcxbExZQkUxWlBKSGxpNG1NNmhSVVBNbnQ4bmVaemNpSVlOeHlCLUZuTWZ4QlpibnJ3MVE?oc=5",
       "date": "2026-04-17 12:10",
       "summary": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion  MIT Technology Review..."
-    },
-    {
-      "title": "Treating enterprise AI as an operating layer - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0lVdHhGYjk1bFgyTS1BdEJaVWZwYy14Tm0za1BPVG5xaHdwRzk3MUZNa2I2SG92SEVPVWtqT09MTHB3SnpYTjRPRHc4U0pQSzFDNjJxV0FscUhsSkdGMDF0R3JfU0F5a291U3BWV2dhYmlMRDhMRlRKbDYxNVdGT21zMXZhNlZnTUNWczY4S0FKaTQ3VURnelVRcVVIZ9IBowFBVV95cUxPOVMzTkVueEhiWjhrRWNEbTIwUzlJeTAyVFRzelRISmxTYkw0MWFaTXNaSWV5dGJJTlFSaXpiSC1YNGRubDhhS1JVWnhEd1Y3bUkxQ0lFekhaX2FlSVRhR21oLUxfQ0RTNTc1SWljNXUzczljbF9QeEVaYTlLc1NMd0ZhS05id3JUSlF0cWktSU9Wb1ZXc0IwaWg4MWNMQlpFblVv?oc=5",
-      "date": "2026-04-16 13:00",
-      "summary": "Treating enterprise AI as an operating layer  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Nanobody repairs misfolded CFTR inside cells, boosting function in cystic fibrosis",
+      "link": "https://phys.org/news/2026-04-nanobody-misfolded-cftr-cells-boosting.html",
+      "date": "2026-04-17 20:40",
+      "summary": "A tiny antibody component could fundamentally transform the treatment of cystic fibrosis: For the first time, researchers have suc..."
+    },
+    {
+      "title": "Out of sight, but not out of trouble: Groundwater contamination in NZ reveals a legacy of human pressure",
+      "link": "https://phys.org/news/2026-04-sight-groundwater-contamination-nz-reveals.html",
+      "date": "2026-04-17 20:20",
+      "summary": "The latest official stocktake of the state of New Zealand's freshwater carries many of the headline messages we have come to expec..."
+    },
     {
       "title": "Antioxidant glutathione discovered to play a key role in proper protein folding",
       "link": "https://phys.org/news/2026-04-antioxidant-glutathione-play-key-role.html",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-04-oyster-reefs-site-dont-sand.html",
       "date": "2026-04-17 19:20",
       "summary": "Restoring once abundant oyster reefs in temperate marginal seas such as the North Sea is a challenging task. New research by NIOZ ..."
-    },
-    {
-      "title": "Shrink, remove and modify: Team successfully 'trims' wheat chromosomes",
-      "link": "https://phys.org/news/2026-04-team-successfully-trims-wheat-chromosomes.html",
-      "date": "2026-04-17 19:00",
-      "summary": "For the first time, a research team at the Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) has succeeded in redu..."
-    },
-    {
-      "title": "Indonesia's fire crisis comes into focus as high-resolution satellite maps expose 5.62 million hectares affected",
-      "link": "https://phys.org/news/2026-04-indonesia-crisis-focus-high-resolution.html",
-      "date": "2026-04-17 18:30",
-      "summary": "Indonesia experiences massive forest fires as the dry season approaches. They are a major environmental challenge because they dam..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong is ageing, but the real question is where people age",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3350035/hong-kong-ageing-real-question-where-people-age?utm_source=rss_feed",
+      "date": "2026-04-17 21:30",
+      "summary": "In recent years, warnings about Hong Kong’s rapidly ageing population have become increasingly urgent. Long hospital waits, chroni..."
+    },
+    {
       "title": "HKEX proposes halving share settlement cycle in bid to boost Hong Kong’s financial profile",
       "link": "https://www.scmp.com/business/banking-finance/article/3350526/hkex-proposes-halving-share-settlement-cycle-bid-boost-hong-kongs-financial-profile?utm_source=rss_feed",
       "date": "2026-04-17 13:51",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350510/cathay-pacific-hk-express-passenger-counts-despite-impact-mideast-war?utm_source=rss_feed",
       "date": "2026-04-17 12:00",
       "summary": "Hong Kong flag carrier Cathay Pacific Airways and its budget arm carried more passengers in March than a year ago, despite the imp..."
-    },
-    {
-      "title": "Tai Po fire: owners’ group repeatedly protested against use of flammable materials",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3350494/tai-po-fire-owners-group-repeatedly-protested-use-flammable-materials?utm_source=rss_feed",
-      "date": "2026-04-17 10:41",
-      "summary": "The owners’ corporation of a Hong Kong housing complex devastated in the city’s deadliest fire in decades failed to convince renov..."
     }
   ],
   "New Scientist": [
