@@ -39,16 +39,16 @@
       "summary": "Wonder served him well  Harvard Gazette..."
     },
     {
+      "title": "Anthropologist traces split between Homo sapiens and Neanderthals - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QUnB1OG1jeGdHSzNKQkt0LVE3RnNyaDk1Y0R4bkRwM2JXLXZFaFJtcnVzWExySE83cE5IWks2OWY5YVdJaHJuS29hUVJHaGcySjk3bzJ0eUVsSVNoWFhsdlM4S2dCekRxc3dDVTZaVWgtQQ?oc=5",
+      "date": "2026-04-01 07:00",
+      "summary": "Anthropologist traces split between Homo sapiens and Neanderthals  Harvard Gazette..."
+    },
+    {
       "title": "How academia can help America heal - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
       "summary": "How academia can help America heal  Harvard Gazette..."
-    },
-    {
-      "title": "Harvard University Housing establishes new rents for 2026–2027 - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
-      "date": "2026-01-23 08:00",
-      "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
     },
     {
       "title": "How to help lift slumping American math scores - Harvard Gazette",
@@ -57,10 +57,10 @@
       "summary": "How to help lift slumping American math scores  Harvard Gazette..."
     },
     {
-      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
-      "date": "2025-10-28 07:00",
-      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
+      "title": "Harvard University Housing establishes new rents for 2026–2027 - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
+      "date": "2026-01-23 08:00",
+      "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "Severe malaria may affect children’s cognitive abilities more than a decade later",
+      "link": "https://www.science.org/content/article/severe-malaria-may-affect-children-s-cognitive-abilities-more-decade-later",
+      "date": "2026-04-18 07:30",
+      "summary": "Children who had cerebral malaria or severe malaria anemia have lower scores on tests measuring general cognition and math achieve..."
+    },
+    {
       "title": "After long wait, Trump nominates a CDC director",
       "link": "https://www.science.org/content/article/after-long-wait-trump-nominates-cdc-director",
       "date": "2026-04-17 03:20",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/scientists-stunned-fundamentally-new-way-life-produces-dna",
       "date": "2026-04-16 02:00",
       "summary": "Newly discovered bacterial defense system challenges genetic code’s central dogma..."
-    },
-    {
-      "title": "Grand canyon’s origin resolved? Ancient lake's flood may have etched famed gorge",
-      "link": "https://www.science.org/content/article/grand-canyon-s-origin-resolved-ancient-lake-s-flood-may-have-etched-famed-gorge",
-      "date": "2026-04-16 02:00",
-      "summary": "Mineral grains show Colorado River filled a basin at the canyon’s head millions of years ago..."
     }
   ],
   "Retraction Watch": [
@@ -211,16 +211,16 @@
       "summary": "Nvidia rival Cerebras discloses US IPO filing as AI boom drives listings  Reuters..."
     },
     {
-      "title": "Breakingviews - Allbirds lacks footing for dramatic AI pivot - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFJuS0cxTldQcGlhaU5HUi1aLTVhbnk2OC04V2Q0c2YtMnphd081QTRqWXZqdjVBZzdYYlNDVl9KelZaRGFxZTVkaUVPVDVndXhvQVRLQU9ZRHFZVDIzZkVzZ1dFZHpvNFR1aDJZakRuTEhkY0IyaHNRSTYydm0tMGdRRVlUbXU5S1hhcFFqdUlSMGtQNnZXN015UkJhTVVSR2VR?oc=5",
-      "date": "2026-04-15 19:05",
-      "summary": "Breakingviews - Allbirds lacks footing for dramatic AI pivot  Reuters..."
+      "title": "Google, Pentagon discuss classified AI deal, the Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVENMc0hadlZwYkJUeXpjUGUtLVcxVG05RkFDTHdXdV9SQlNsLWdlS3JpOUJxcTNzRFZDYzczMmRvb3pPdmRWZ1RqMmM5b0VySEg3MTJPWHpyOS1PUE1lbGVHcWNhbzdxUUEyYUx2YzhvQjNQd3hxWm0zcjgwM3ZSa21CZHRhX1pUbHZvaFZhTmkzamZHd1RjV0JRZFh2bklnamw2WlVHc3FZbmVyWFE?oc=5",
+      "date": "2026-04-16 17:31",
+      "summary": "Google, Pentagon discuss classified AI deal, the Information reports  Reuters..."
     },
     {
-      "title": "US companies that jumped ship to tech, AI businesses over the years - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUwzdXptOWlCUWw4WldJemhVbkd1aVkzV1Q3bVNQOTZDRmVOTWZRcmJrdmI1dm5XRHo1XzlxMzF5WUQ1M3dfLUhrQWFsVGd2bkR6WWE3dl95U3FnTm5rN1JCOU5iMno2bER5ZC1FNmJQa3dqY2N2aXBzYk5rc2dhM3ZKcV9sdUJESk9hM0VVOU1XaVdwcmxOdDF3MHNKNzlUWXNqbXBfYw?oc=5",
-      "date": "2026-04-16 17:47",
-      "summary": "US companies that jumped ship to tech, AI businesses over the years  Reuters..."
+      "title": "OpenAI launches AI model GPT-Rosalind for life sciences research - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW1lVG9kQXRYc1hlRFZ4UVlGaWlUcENoRzRlUDNzYnJSWDN4bG9YbFhzaHdqY0R2Qmc5dEdYVTU5QlJBYVBFTXBUY2phS2dDQk9WeGdvUm1SLUlxMGhrTHZMQUJOQlMzZnl2Nmw5ZTJIdXg4bV9TVVh5V09VN0hFbFFIdlZsclNMUklKbkZaQVVFOXJKWThDVEFiYnFDNVR5REdGTmUyS0dveFEwcVhXZ3JWSXMtSWV2ZEFxWWZkUEVtc3d4UFZxdlpzTWQ?oc=5",
+      "date": "2026-04-16 19:01",
+      "summary": "OpenAI launches AI model GPT-Rosalind for life sciences research  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,24 @@
   ],
   "Phys.org": [
     {
+      "title": "Bright quantum light emission achieved at room temperature in 2D semiconductors",
+      "link": "https://phys.org/news/2026-04-bright-quantum-emission-room-temperature.html",
+      "date": "2026-04-18 13:00",
+      "summary": "A joint research team led by Professor Park Kyoung-Duck and Associate Director Suh Yung Doug of the Center for Multidimensional Ca..."
+    },
+    {
+      "title": "Students expect their university will mishandle sexual misconduct, if they ever report it",
+      "link": "https://phys.org/news/2026-04-students-university-mishandle-sexual-misconduct.html",
+      "date": "2026-04-18 12:30",
+      "summary": "Sexual misconduct—including sexual harassment, stalking, intimate partner violence and sexual assault—is a common problem on U.S. ..."
+    },
+    {
+      "title": "Flat optics move toward market with 300-per-second metalens production",
+      "link": "https://phys.org/news/2026-04-flat-optics-metalens-production.html",
+      "date": "2026-04-18 12:00",
+      "summary": "A collaborative research group has developed a fully automated roll-to-roll manufacturing platform capable of producing large-area..."
+    },
+    {
       "title": "PFAS detected in dolphin milk may pass from mothers to calves",
       "link": "https://phys.org/news/2026-04-pfas-dolphin-mothers-calves.html",
       "date": "2026-04-18 11:04",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-04-earth-tectonic-elevator-hauls-ancient.html",
       "date": "2026-04-18 11:00",
       "summary": "In subduction zones, the sites of the world's largest earthquakes, tectonic activity may generate a \"pump\" that transports long-bu..."
-    },
-    {
-      "title": "Global N2Onet aims to cut farm nitrous oxide emissions with shared data",
-      "link": "https://phys.org/news/2026-04-global-n2onet-aims-farm-nitrous.html",
-      "date": "2026-04-18 11:00",
-      "summary": "Nitrogen (N) fertilizer supports global agriculture, but its use and overuse drive emissions of nitrous oxide (N2O), a potent and ..."
-    },
-    {
-      "title": "Rivers are driving a hidden permafrost meltdown, with thaw progressing 15% faster than expected",
-      "link": "https://phys.org/news/2026-04-rivers-hidden-permafrost-meltdown-faster.html",
-      "date": "2026-04-18 10:39",
-      "summary": "Thawing permafrost buried underneath rivers may be accelerating permafrost degradation faster than previously estimated in these i..."
-    },
-    {
-      "title": "Taiwan landslide's hidden motion comes into focus as fiber optics track deep slip",
-      "link": "https://phys.org/news/2026-04-taiwan-landslide-hidden-motion-focus.html",
-      "date": "2026-04-18 10:25",
-      "summary": "Placed within a borehole drilled deep through the layers of a landslide, a fiber optic cable captured tiny, periodic stick-slip ev..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong woman loses HK$4.9 million to bogus online ‘investment experts’",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350584/hong-kong-woman-loses-hk49-million-bogus-online-investment-experts?utm_source=rss_feed",
+      "date": "2026-04-18 12:13",
+      "summary": "A Hong Kong woman has lost nearly HK$4.9 million (US$625,800) in three months after being cheated by bogus “investment experts” in..."
+    },
+    {
+      "title": "Hong Kong Sevens at ‘pinnacle’ on 50th anniversary, pioneering coach Peter Duncan says",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3350582/hong-kong-sevens-pinnacle-50th-anniversary-pioneering-coach-peter-duncan-says?utm_source=rss_feed",
+      "date": "2026-04-18 11:57",
+      "summary": "Hong Kong rugby has reached a “pinnacle” as the city celebrates the 50th anniversary of its annual Sevens tournament, the man who ..."
+    },
+    {
       "title": "Hong Kong’s Mirror star Keung To urges public to learn from his driving mistakes",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350580/hong-kongs-mirror-star-keung-urges-public-learn-his-driving-mistakes?utm_source=rss_feed",
       "date": "2026-04-18 11:12",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3350574/hong-kong-housing-society-aims-boost-supply-subsidised-sale-flats?utm_source=rss_feed",
       "date": "2026-04-18 09:58",
       "summary": "Hong Kong’s second-biggest public housing provider will gradually expand the supply of its subsidised sale flats, aiming for them ..."
-    },
-    {
-      "title": "Hong Kong charity breeding Labrador with golden retriever to boost guide dog supply",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3350565/hong-kong-charity-breeding-labrador-golden-retriever-boost-guide-dog-supply?utm_source=rss_feed",
-      "date": "2026-04-18 08:00",
-      "summary": "A Hong Kong charity is attempting to fast-track the supply of guide dogs for the blind by breeding a Labrador with a golden retrie..."
-    },
-    {
-      "title": "Hong Kong wants to become a global gold vault. Does the Iran war create an opening?",
-      "link": "https://www.scmp.com/economy/global-economy/article/3350511/hong-kong-wants-become-global-gold-vault-does-iran-war-create-opening?utm_source=rss_feed",
-      "date": "2026-04-18 06:00",
-      "summary": "The US-Israeli war on Iran has unleashed sharp swings across global energy and financial markets, fuelling demand for safe-haven a..."
     }
   ],
   "New Scientist": [
