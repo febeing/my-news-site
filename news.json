@@ -45,16 +45,16 @@
       "summary": "How to help lift slumping American math scores  Harvard Gazette..."
     },
     {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
-      "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
-    },
-    {
       "title": "Harvard University Housing establishes new rents for 2026–2027 - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
       "date": "2026-01-23 08:00",
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
+    },
+    {
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
+      "date": "2025-10-23 07:00",
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     },
     {
       "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "This disabled parrot has become king by learning to ‘joust’",
+      "link": "https://www.science.org/content/article/disabled-parrot-has-become-king-learning-joust",
+      "date": "2026-04-20 11:00",
+      "summary": "Despite missing his entire upper beak, Bruce the kea is winning at life..."
+    },
+    {
       "title": "Severe malaria may affect children’s cognitive abilities more than a decade later",
       "link": "https://www.science.org/content/article/severe-malaria-may-affect-children-s-cognitive-abilities-more-decade-later",
       "date": "2026-04-18 07:30",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/artificially-engineered-sea-ice-grows-can-t-withstand-thaw",
       "date": "2026-04-17 01:05",
       "summary": "First Arctic trials show pumped seawater can bulk up ice, but results aren’t lasting—and may not scale..."
-    },
-    {
-      "title": "Scientists stunned by ‘fundamentally new way’ life produces DNA",
-      "link": "https://www.science.org/content/article/scientists-stunned-fundamentally-new-way-life-produces-dna",
-      "date": "2026-04-16 02:00",
-      "summary": "Newly discovered bacterial defense system challenges genetic code’s central dogma..."
     }
   ],
   "Retraction Watch": [
@@ -199,10 +199,10 @@
       "summary": "Marvell shares gain on report of deal talks with Google to develop two AI chips  Reuters..."
     },
     {
-      "title": "What do we know about Anthropic's Mythos amid rising concerns? - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0pxVnpPaC1ZS1dsUEFtbmpwUU5oOFljenVabmYwYlB3SHhsMXJlSnNUa2Fwbm5nMXNUTFFFVmUxaG1XQUFJYmRMdVBjZFl0amFpekZFbGxwNWxlWkEtZTFBdmZFSllla3I0UG1tR2tUdk1nZ1ZZU0MxTkxkdTVsUjd0UEFITEc3bjcwaFVKMjRfaFNRdWhEU2xsUGRiN29tRWJrRXpucmx6T3J5TzVRQnFMZw?oc=5",
-      "date": "2026-04-20 13:01",
-      "summary": "What do we know about Anthropic's Mythos amid rising concerns?  Reuters..."
+      "title": "Adobe launches AI suite for corporate clients as competition heats up - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcm9aNGpPVmo2N1laZGtNVEwyMzE0WGlNaF9oSVlSZU1nc1o0V3FWZkRMdDNyYUpDVGtnSjczUklnR2JwdW8zN3VCZS1aZTJIUW1ZbmdLendNZTIzTFdQUk4zaGhlQm9lMkFXaE1qQ1dSTHB1RWpJeUlkYzZUTFhYX2lrUFhPcXl1UFdKdkVxUUdtRGJFTlVGUmotcmhpQXRrQ3RRa2dKY1pKRkRvbDVYQ1ZqeklfVENyTGJFMDh6XzM?oc=5",
+      "date": "2026-04-20 14:13",
+      "summary": "Adobe launches AI suite for corporate clients as competition heats up  Reuters..."
     },
     {
       "title": "Morgan Stanley sees agentic AI widening chip spending beyond graphics processors to CPUs - Reuters",
@@ -211,16 +211,16 @@
       "summary": "Morgan Stanley sees agentic AI widening chip spending beyond graphics processors to CPUs  Reuters..."
     },
     {
+      "title": "What do we know about Anthropic's Mythos amid rising concerns? - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0pxVnpPaC1ZS1dsUEFtbmpwUU5oOFljenVabmYwYlB3SHhsMXJlSnNUa2Fwbm5nMXNUTFFFVmUxaG1XQUFJYmRMdVBjZFl0amFpekZFbGxwNWxlWkEtZTFBdmZFSllla3I0UG1tR2tUdk1nZ1ZZU0MxTkxkdTVsUjd0UEFITEc3bjcwaFVKMjRfaFNRdWhEU2xsUGRiN29tRWJrRXpucmx6T3J5TzVRQnFMZw?oc=5",
+      "date": "2026-04-20 13:01",
+      "summary": "What do we know about Anthropic's Mythos amid rising concerns?  Reuters..."
+    },
+    {
       "title": "Germany's Merz says industrial AI needs less stringent EU regulation - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUDRQSWFpczBwbHNaWHBwcHRuNWFfVFA3aHFZVzdCcTRtLXhtTW9DdXV1NV80ejk4VjNsVEk1UmZsa0drcmRSYTlCZFVTZWJFOXpQLU5TajctdmxQc2xGWmdmRUJVOFV1ZEJaclRXWjB0cE9zQkFST2dKTm5kWE9ZOWpzNC1uVUZXX2U3ZmZqcjJCaVM3bl9weXlYcTlYUlA0cUlTa0R3aWRxTy15M2pQeXl3?oc=5",
       "date": "2026-04-19 18:27",
       "summary": "Germany's Merz says industrial AI needs less stringent EU regulation  Reuters..."
-    },
-    {
-      "title": "Adobe launches AI suite for corporate clients as competition heats up - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcm9aNGpPVmo2N1laZGtNVEwyMzE0WGlNaF9oSVlSZU1nc1o0V3FWZkRMdDNyYUpDVGtnSjczUklnR2JwdW8zN3VCZS1aZTJIUW1ZbmdLendNZTIzTFdQUk4zaGhlQm9lMkFXaE1qQ1dSTHB1RWpJeUlkYzZUTFhYX2lrUFhPcXl1UFdKdkVxUUdtRGJFTlVGUmotcmhpQXRrQ3RRa2dKY1pKRkRvbDVYQ1ZqeklfVENyTGJFMDh6XzM?oc=5",
-      "date": "2026-04-20 14:13",
-      "summary": "Adobe launches AI suite for corporate clients as competition heats up  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "How maze-like magnetic patterns form and evolve in materials",
-      "link": "https://phys.org/news/2026-04-maze-magnetic-patterns-evolve-materials.html",
-      "date": "2026-04-20 14:40",
-      "summary": "The rapid increase in electric vehicle adoption in recent years has highlighted a crucial issue: the energy conversion efficiency ..."
+      "title": "What Canada, the UK and other G7 nations learned about building resilient education systems during the pandemic",
+      "link": "https://phys.org/news/2026-04-canada-uk-g7-nations-resilient.html",
+      "date": "2026-04-20 16:00",
+      "summary": "By a dictionary definition, the word resilient means an ability to recover from or adjust easily to misfortune or change. The key ..."
     },
     {
-      "title": "Engineers develop new plasma spray technique for tungsten–copper protective coatings",
-      "link": "https://phys.org/news/2026-04-plasma-spray-technique-tungstencopper-coatings.html",
-      "date": "2026-04-20 14:40",
-      "summary": "Engineers have developed a new high-performance tungsten–copper metallic coating in one step using plasma spray, for future high h..."
+      "title": "Hawaiian green sea turtles emerge as reef defenders against invasive algae",
+      "link": "https://phys.org/news/2026-04-hawaiian-green-sea-turtles-emerge.html",
+      "date": "2026-04-20 16:00",
+      "summary": "An invasive algae already well-established in the Northwestern Hawaiian Islands is raising concern among researchers as it threate..."
     },
     {
-      "title": "Brushstroke-mapping AI reopens a centuries-old mystery about one of El Greco's masterpieces",
-      "link": "https://phys.org/news/2026-04-brushstroke-ai-reopens-centuries-mystery.html",
-      "date": "2026-04-20 14:35",
-      "summary": "Spanish Renaissance master El Greco is often considered one of the greatest painters of all time, and many of his artworks are dis..."
+      "title": "Madagascar's ancient baobabs store 700 years of climate secrets—what they reveal",
+      "link": "https://phys.org/news/2026-04-madagascar-ancient-baobabs-years-climate.html",
+      "date": "2026-04-20 15:40",
+      "summary": "Madagascar is home to seven species of baobab trees, of which six are found nowhere else on the planet. Many of the trees have bee..."
     },
     {
-      "title": "A long-sought quantum computing milestone arrives as fermionic atom gates top 99% accuracy",
-      "link": "https://phys.org/news/2026-04-sought-quantum-milestone-fermionic-atom.html",
-      "date": "2026-04-20 14:30",
-      "summary": "Two independent research teams have each demonstrated collisional quantum gates using fermionic atoms: a long-sought milestone in ..."
+      "title": "Desmond Morris: from 'Naked Ape' to watching 'Big Brother'",
+      "link": "https://phys.org/news/2026-04-desmond-morris-naked-ape-big.html",
+      "date": "2026-04-20 15:40",
+      "summary": "Celebrated British zoologist Desmond Morris, who died Sunday aged 98, shook up the world in 1967 when his book \"The Naked Ape\" pos..."
     },
     {
-      "title": "Costly school uniforms a barrier to education for some Kiwi kids",
-      "link": "https://phys.org/news/2026-04-school-uniforms-barrier-kiwi-kids.html",
-      "date": "2026-04-20 14:20",
-      "summary": "The cost of school uniforms is proving a barrier to education for secondary students in Aotearoa, with some missing school because..."
+      "title": "'Tis the season: Sharing resources sustains ocean microbial biodiversity",
+      "link": "https://phys.org/news/2026-04-tis-season-resources-sustains-ocean.html",
+      "date": "2026-04-20 15:40",
+      "summary": "Oceanographers from the University of Hawai'i at Mānoa discovered that microbial communities—from the sunlit surface to extreme de..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "40 Hong Kong tour groups safe after magnitude 7.5 quake strikes Japan",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350777/40-hong-kong-tour-groups-safe-after-magnitude-75-quake-strikes-japan?utm_source=rss_feed",
+      "date": "2026-04-20 15:02",
+      "summary": "Hong Kong travellers in Japan were reported safe by at least one major tour operator while the Immigration Department said it was ..."
+    },
+    {
+      "title": "Teen driving Tesla arrested after knocking second vehicle through storefront",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350778/teen-driving-tesla-arrested-after-knocking-second-vehicle-through-storefront?utm_source=rss_feed",
+      "date": "2026-04-20 15:01",
+      "summary": "Hong Kong police have arrested a 16-year-old garage worker for allegedly driving without a licence after he lost control of a Tesl..."
+    },
+    {
       "title": "Hong Kong watchdog warns of undeclared gluten in Marks and Spencer yoghurt",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350774/hong-kong-watchdog-warns-undeclared-gluten-marks-and-spencer-yoghurt?utm_source=rss_feed",
       "date": "2026-04-20 13:49",
@@ -337,21 +349,15 @@
       "link": "https://www.scmp.com/business/article/3350761/hong-kongs-northern-metropolis-gains-momentum-key-project-attracts-8-bids?utm_source=rss_feed",
       "date": "2026-04-20 12:00",
       "summary": "Hong Kong’s MTR Corporation said on Monday that it had received eight bids for a commercial and residential development at one of ..."
-    },
-    {
-      "title": "Mainland Chinese to make 980,000 inbound trips to Hong Kong for Labour Day break",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350752/mainland-chinese-make-980000-inbound-trips-hong-kong-labour-day-break?utm_source=rss_feed",
-      "date": "2026-04-20 11:12",
-      "summary": "The number of inbound trips to Hong Kong by mainland Chinese visitors is expected to reach 980,000 for the coming Labour Day “gold..."
-    },
-    {
-      "title": "Chow Yun-fat nets 91% gain on Hong Kong flat after 31 years as prices rebound",
-      "link": "https://www.scmp.com/business/markets/article/3350739/chow-yun-fat-nets-91-gain-hong-kong-flat-after-31-years-prices-rebound?utm_source=rss_feed",
-      "date": "2026-04-20 11:00",
-      "summary": "Chow Yun-fat, the legendary Hong Kong actor, has sold a Mid-Levels flat after more than three decades, securing a roughly 91 per c..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "We might finally know how to use quantum computers to boost AI",
+      "link": "https://www.newscientist.com/article/2523443-we-might-finally-know-how-to-use-quantum-computers-to-boost-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-20 12:00",
+      "summary": "Pushing against years of scepticism, an analysis suggests quantum computers may offer real advantages for running machine learning..."
+    },
     {
       "title": "The biggest threat to Chernobyl is no longer radiation",
       "link": "https://www.newscientist.com/article/2522972-the-biggest-threat-to-chernobyl-is-no-longer-radiation/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2523071-our-dreams-become-more-emotive-and-symbolic-as-we-approach-death/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-16 13:00",
       "summary": "People who are terminally ill are commonly reunited with lost loved ones in their dreams and have visions of doors, stairways and ..."
-    },
-    {
-      "title": "How to spot the Lyrid meteor shower tonight",
-      "link": "https://www.newscientist.com/article/2523230-how-to-spot-the-lyrid-meteor-shower-tonight/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-16 11:24",
-      "summary": "The Lyrid meteor shower will soon hit its peak. Here's how to spot it, including by using the New Scientist stargazing companion..."
     }
   ]
 }
