@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "New study bridges the worlds of classical and quantum physics",
+      "link": "https://news.mit.edu/2026/new-study-bridges-classical-and-quantum-physics-0421",
+      "date": "2026-04-21 23:05",
+      "summary": "The weird quantum behavior of subatomic particles can be understood through everyday classical ideas, MIT researchers show...."
+    },
+    {
       "title": "Why bother with plausible deniability?",
       "link": "https://news.mit.edu/2026/why-bother-plausible-deniability-0417",
       "date": "2026-04-17 15:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/light-activated-gel-could-impact-wearables-soft-robotics-more-0416",
       "date": "2026-04-16 21:10",
       "summary": "New MIT work advances the growing field of ionotronics, in which data are transferred through ions, potentially providing a bridge..."
-    },
-    {
-      "title": "3 Questions: A running shoe that adapts to the runner",
-      "link": "https://news.mit.edu/2026/3-questions-running-shoe-that-adapts-to-runner-0416",
-      "date": "2026-04-16 15:25",
-      "summary": "Associate Professor Skylar Tibbits discusses a new technology that uses granular convection to deliver individualized performance...."
     }
   ],
   "Harvard Gazette": [
@@ -51,24 +51,36 @@
       "summary": "How to help lift slumping American math scores  Harvard Gazette..."
     },
     {
-      "title": "It’s time to get more comfortable with talking about dying - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUDJWWTkzY3ItYUctU2JPNUJxM2Jwa3k5SmI2WmN5UXFmLXc0Rzh0dG5jLXRiQ0x6bHBPdUhtMktYOXVHYkdIcXN5T2VYRmdVbExCZm1RZU94R2pFaVZlRlp4NXliYVNqdGNySjNxOE1CV1dpc0V3eWpiQjI2eUtkMUpEaHZiZ1Myc3pyY1kxR1ROc3FVZlM0akRnUVhtY01UeFZmM3hjQ1c?oc=5",
-      "date": "2026-02-03 08:00",
-      "summary": "It’s time to get more comfortable with talking about dying  Harvard Gazette..."
+      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
+      "date": "2025-10-28 07:00",
+      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     },
     {
-      "title": "Should U.S. be worried about AI bubble? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXJHZGlNTzJGWjNYclVPLXNXNDhoRk9PaTl4RmhaRkVjSjVtSjR6SGNCLXBNYmdvWFdrZUxYcUt1c0dFRklxTTRIZHRRNEJueFYwdUYtai1sanB2b25SQVZWNTRhbWJTTk5wWHBWNmZtNU05TnRYVGlvbVluR09zSElOZDFkaDNPR1NXWVl3?oc=5",
-      "date": "2025-12-15 08:00",
-      "summary": "Should U.S. be worried about AI bubble?  Harvard Gazette..."
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
+      "date": "2025-10-23 07:00",
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     }
   ],
   "Stanford News": [
+    {
+      "title": "Spring and Fall 2025 Stanford e-Japan Award Recipients Announced - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3RQQThsVUpEa3NQbzREWDE0X3A2V1Vrd2RsVFBVd0RlZGcxMi1YbnBidDdGVjRUaW5kTG5ZMlRBanpEMF9oOHNnNVBlN0xUTVJmTVB0VWpPelBQZnVEa2Nyam9WNWVYeUpiRUsxcXhSeWV3S2tsMGl1ZTBiUUZ6cHR5a2p1ZnFiSUJzckdxRktpMnhhSU1VeG54VTA0a0NpVVE?oc=5",
+      "date": "2026-04-21 12:00",
+      "summary": "Spring and Fall 2025 Stanford e-Japan Award Recipients Announced  Stanford University..."
+    },
     {
       "title": "Five Stanford scholars awarded Guggenheim Fellowship - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTB0djFVazAxRHdqZWVYNmlETnQ1Z1o1bnVNeHc2dXBQdG1nOFp2TjRfbE96UGgwQUx4ZHVaSlEzU0VaclU0eHNJWkV2eWpsUEttM013LVhtQ21aTDFxWHNCRnR0T1hDLW5qdXFNOS1HRy1pRWNVejkwcmxYZFhIb3NjZW5KNF9oaDVQTA?oc=5",
       "date": "2026-04-21 12:00",
       "summary": "Five Stanford scholars awarded Guggenheim Fellowship  Stanford University..."
+    },
+    {
+      "title": "Stanford center revives historic maps with digital tools - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObU5XdVZzSTdLZ1NWZ0NYZG84X29iR2FzNmtmZ1V6anl4eGVET2xhZDI3V1hnSnprUlI5X2Rxd2FkYV9pT3B6bjV3UExUTzhWSW1Yd1dONzhSMGMzRjBsQ0ZkdDExQmdVWVdrRE5VZnBhQ0FlODVwSHUyN21BQjVYYUtpSkpmSklfdGhrbkpScTR4QQ?oc=5",
+      "date": "2026-04-20 07:00",
+      "summary": "Stanford center revives historic maps with digital tools  Stanford Report..."
     },
     {
       "title": "When AI relationships trigger ‘delusional spirals’ - Stanford Report",
@@ -81,18 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemVhdXBBMzR0d1NRemNZNU43Rk5iRzBkLTdIWFpCamZvZFJXR0RzOFlCd3BBeWRxT2tyU2ZwQ3pqUXJQWkxrdzBVUWRrdVBlb2tFYW83Q1VuanhrYkZpdElUWXl4ZlY2Q2k0MTdTWjRPTWtYWE1BRVF3dV92RFp0OXF5Ykt5enRmVEpGVnBiVmZaWnFTN3FjN2taRGk5TGFDN19DekJVNWg?oc=5",
       "date": "2026-04-21 12:00",
       "summary": "Jorge Ruffinelli, leading scholar of Latin American literature and film, dies at 82  Stanford University..."
-    },
-    {
-      "title": "Frederick Richard romps to third all-around title, Stanford University regains team title at men’s NCAA Championships - International Gymnast Magazine Online",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRHdrWmRyTmNGbGZ1dG5lRmpzN0JwN1dJVDFpZTBpS2VZYXVHU2haamZUdlBiTnJVdUt0QzVJVENucF9uajRQR1RKOG9MYmFLVkpYWkRZTkx6TnB6b0E3TXNMLUN2WVFpZWZrWXkzcVd1QllpLXpSaEhLdF83a3EwQktuSkxMd0d5VGJSaF9XSkExNm1xWnJWWHBvZ1VObDJ6VUx0OU5YS0c1MC1jOUhWczRxb3diYWptOV9JZGhmUU5tX0gzSU4wNi12TVJYZHp4Z0Uwb1c2U3RvT29qaVVkRmFLOA?oc=5",
-      "date": "2026-04-19 03:17",
-      "summary": "Frederick Richard romps to third all-around title, Stanford University regains team title at men’s NCAA Championships  Internation..."
-    },
-    {
-      "title": "Pack Drops Series Finale at #20/19 Stanford - NC State University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSC14cVRRNHN2bzJBVnBNQUV2bGVVdWU4ZFJFUXFqZERkQXplU3pfUlVaLU9tb29yVXhRVFM5NFFkQ1EwYXlFbkxKVGpqbWloQnBkbXZESWtwbkItaUVaSDM4V25EQUczVzNKTEQzUXVxWF9FbnNNS3l6ZmlUVkV0dFRVbElBYm85ZExraDZB?oc=5",
-      "date": "2026-04-19 23:35",
-      "summary": "Pack Drops Series Finale at #20/19 Stanford  NC State University Athletics..."
     }
   ],
   "Nature Careers": [
@@ -217,10 +217,10 @@
       "summary": "Exclusive: SpaceX says unproven AI space data centers may not be commercially viable, filing shows  Reuters..."
     },
     {
-      "title": "Apple's Ternus era hints at renewed hardware focus, AI growth push - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVlDX01DSlhBZmtkSTZIX3J2TUZHVDU1emNoVkpNdVotdU9ldkNyQ2NOUjdBRkxQdEtpM0prOXpGTTJldmV1SWNpVFY1SEpEMDd5LVJSb0NLemE3aUxaWU9lSG9uY05sYzRMV0EtZzQxSEl4LWozSEd3Zi00cUk2V1BnWDhPTEZtLVpiQWNTR3ExbmNrTE5uV09aWG4ycTUxbmYtZFRoYjlGY1ZDWmE0Qg?oc=5",
-      "date": "2026-04-21 16:01",
-      "summary": "Apple's Ternus era hints at renewed hardware focus, AI growth push  Reuters..."
+      "title": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3ZKZ0F0V2lPYndVRXUtUDVoNW00LWdWV2trMUEweDY1c0hwNEVTLUhqVU9wcWcwdFd6VkNmdUNPbXZ1S2JaS2ZxUGxvZ0ZlYW52bnRaUUhsSl9mOVlsal90Qnd0NzN5VHJoQ2NiMXZnR3NFcHBUcGpFNUVXaGlQN2o4RHJJU01hQnhGVE1rNkhkajNYR2N1d3lZWUJSMmlWSzNkdzQ3SUpSYzlEejNWRUFKMk5BY2V0bU54RC1LTG9VUQ?oc=5",
+      "date": "2026-04-21 21:51",
+      "summary": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Cell membranes may store memories after electrical stimulation",
-      "link": "https://phys.org/news/2026-04-cell-membranes-memories-electrical.html",
-      "date": "2026-04-21 22:30",
-      "summary": "The science of memories has been pursued and studied since the days of ancient Greece and Aristotle. Today, research conducted by ..."
+      "title": "Self‑replicating circular RNA persists in extreme environments: Insights from hot spring microbiomes",
+      "link": "https://phys.org/news/2026-04-selfreplicating-circular-rna-persists-extreme.html",
+      "date": "2026-04-21 23:20",
+      "summary": "Although the genetic material of most living organisms is DNA, various self-replicating agents rely instead on RNA, including RNA ..."
     },
     {
-      "title": "Collagen analysis finds wider prey use by Neanderthals and modern humans",
-      "link": "https://phys.org/news/2026-04-collagen-analysis-wider-prey-neanderthals.html",
-      "date": "2026-04-21 22:20",
-      "summary": "The Centro Nacional de Investigación sobre la Evolución Humana (CENIEH) has taken part in a study published in the International J..."
+      "title": "Toxins from Great Salt Lake dust are absorbed by plants, soils and human bodies",
+      "link": "https://phys.org/news/2026-04-toxins-great-salt-lake-absorbed.html",
+      "date": "2026-04-21 23:20",
+      "summary": "Shrinking water levels at the Great Salt Lake are not just about Utah's water supply—they may pose a serious risk to public health..."
     },
     {
-      "title": "Some cancer drugs disrupt taste by changing the cells inside taste buds, study shows",
-      "link": "https://phys.org/news/2026-04-cancer-drugs-disrupt-cells-buds.html",
-      "date": "2026-04-21 22:20",
-      "summary": "Researchers at the University of Colorado Anschutz may have identified why many cancer patients say food suddenly tastes unpleasan..."
+      "title": "A few extra minutes of daily play can strengthen your bond with your dog in four weeks",
+      "link": "https://phys.org/news/2026-04-extra-minutes-daily-play-bond.html",
+      "date": "2026-04-21 23:10",
+      "summary": "Playing a little extra with your dog improves the emotional bond between owner and dog, according to a new study from Linköping Un..."
     },
     {
-      "title": "Rose pangenome maps 55,000 genes, opening new path for breeding",
-      "link": "https://phys.org/news/2026-04-rose-pangenome-genes-path.html",
-      "date": "2026-04-21 22:10",
-      "summary": "Roses are among the most economically significant ornamental plants worldwide, with widespread applications in the cut flowers, ga..."
+      "title": "Breathing new life into an ancient mystery: Unlocking the trilobite's respiratory secrets",
+      "link": "https://phys.org/news/2026-04-life-ancient-mystery-trilobite-respiratory.html",
+      "date": "2026-04-21 23:00",
+      "summary": "For more than 270 million years, trilobites were among the most successful and diverse creatures on Earth, with over 22,000 known ..."
     },
     {
-      "title": "Researchers develop, validate new scale to measure use of evidence in evidence-based management",
-      "link": "https://phys.org/news/2026-04-validate-scale-evidence-based.html",
-      "date": "2026-04-21 22:00",
-      "summary": "Evidence-based management is increasingly used by organizations to aid in decision-making, but research in this area is limited. I..."
+      "title": "Hurricanes devastated Florida's East Coast. Then seagrass made an unexpected comeback",
+      "link": "https://phys.org/news/2026-04-hurricanes-devastated-florida-east-coast.html",
+      "date": "2026-04-21 23:00",
+      "summary": "Florida's Indian River Lagoon has been an ecosystem in decline going back to 2011, when harmful algal blooms led to a severe decli..."
     }
   ],
   "The Guardian Edu": [
