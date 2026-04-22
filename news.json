@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Teaching AI models to say “I’m not sure”",
+      "link": "https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422",
+      "date": "2026-04-22 19:15",
+      "summary": "A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause..."
+    },
+    {
       "title": "Plants can sense the sound of rain, a new study finds",
       "link": "https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422",
       "date": "2026-04-22 09:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/navigating-nematodes-scientists-map-out-how-brains-implement-behaviors-0416",
       "date": "2026-04-16 22:30",
       "summary": "MIT scientists create a detailed map of exactly what happens in the brains of C. elegans worms when they “follow their nose” to sa..."
-    },
-    {
-      "title": "Understanding community effects of Asian immigrants’ US housing purchases",
-      "link": "https://news.mit.edu/2026/community-effects-asian-immigrants-us-housing-purchases-0416",
-      "date": "2026-04-16 22:00",
-      "summary": "Findings suggest that at the county level, rise in prices is due, in part, to the fact that new neighbors have a positive impact o..."
     }
   ],
   "Harvard Gazette": [
@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "When AI relationships trigger ‘delusional spirals’ - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnR1UmtkQnZDTy1WMngydGdQdjZjQVZhdjNSQzBOQXhvSGpPX1ZwS3JpdDl3eWJxRHBhdkxaZHNCWDFFMXBrOXhMZTB3ZzVMUmlleWpKZWtyVWk2dk43UWFxMmdDY3ZNZWV0eGMyWFVEMDZBdUtIVEIxMzFCaHVHc2lqVWZlaE12eUpNV0k0dFVYUDZudnc2TDQxTjlKUVpK?oc=5",
+      "date": "2026-04-20 21:42",
+      "summary": "When AI relationships trigger ‘delusional spirals’  Stanford Report..."
+    },
+    {
       "title": "Grad students face off in 3 Minute Thesis competition - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4ycDQtOTQ2aWhvaFVlWGd5empySktIaENxTnRXMUpjNFZYVW9GQzh1dW50LTNMSm1mUThReVlxeTRjWGY2bDFWdUtDODdsVzk1T3AxNzhBb2ZhZVlicGN3b2psTmRYd0J5RXJjYUstcElMZkJhRjgxLTA4WUY0Zw?oc=5",
       "date": "2026-04-21 23:36",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWJEcDdDWXE4UjhVb253V1N3ZFRoaGxoejJ4TmhWVmlLanpkVktqdUhHMFFFbFFGYVdGZy1qeGpmSXNjRmxEZnNCeEdwWFNmRHh1LXJUbnlHMDl6bmxrOXZWS3U4UktvTDFkejdMN011V2ZxUXFrSUw4aDJZYVdObEkzRU5yTnZtVEZFOGRwN2hDc053TTJMT2NDd3ctbUduX2lHTi1ZVXYwTmVWZW1SbVRpRF9Lclk?oc=5",
       "date": "2026-04-22 09:03",
       "summary": "Stanford Students Award Drag Group Five Times As Much Funding As Veterans Association  freebeacon.com..."
-    },
-    {
-      "title": "Pack Drops Series Finale at #20/19 Stanford - NC State University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSC14cVRRNHN2bzJBVnBNQUV2bGVVdWU4ZFJFUXFqZERkQXplU3pfUlVaLU9tb29yVXhRVFM5NFFkQ1EwYXlFbkxKVGpqbWloQnBkbXZESWtwbkItaUVaSDM4V25EQUczVzNKTEQzUXVxWF9FbnNNS3l6ZmlUVkV0dFRVbElBYm85ZExraDZB?oc=5",
-      "date": "2026-04-19 23:35",
-      "summary": "Pack Drops Series Finale at #20/19 Stanford  NC State University Athletics..."
     }
   ],
   "Nature Careers": [
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "A response to: Should universities investigate questionable papers students and faculty wrote elsewhere?",
+      "link": "https://retractionwatch.com/2026/04/22/response-should-universities-investigate-questionable-papers-students-and-faculty-wrote-elsewhere/",
+      "date": "2026-04-22 18:20",
+      "summary": "Editor’s note: We recently published a guest post on universities’ responsibility for investigating misconduct allegations related..."
+    },
+    {
       "title": "‘I asked him to stop’: Father adds daughter’s name to over 100 preprints without her permission",
       "link": "https://retractionwatch.com/2026/04/21/preprint-authorship-father-adds-daughter-name-without-permission/",
       "date": "2026-04-21 21:45",
@@ -183,19 +189,13 @@
       "link": "https://retractionwatch.com/2026/04/18/weekend-reads-alternative-impact-factor-china-clinical-trials-superretractors-retraction-watch-goes-to-capitol-hill/",
       "date": "2026-04-18 10:00",
       "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
-    },
-    {
-      "title": "45 editors resign from math journal, former EIC calls Elsevier publisher a ‘mini-dictator’",
-      "link": "https://retractionwatch.com/2026/04/16/45-editors-resign-from-math-journal-former-eic-calls-elsevier-publisher-a-mini-dictator/",
-      "date": "2026-04-16 19:24",
-      "summary": "Forty-five of 48 members of the editorial board of the Journal of Approximation Theory resigned earlier this month for what they c..."
     }
   ],
   "Reuters AI": [
     {
       "title": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOalZ5MS1JQUVHSTFGSjhCWFhVSW1HdkFvYzRNc0oyU2xaSGllSF9IYXBsNUU4Tmp2SG9wc0IwRlBRMjdQaHJKdUxUWUxqQWctZ2lRYVhoSHpOVDRjZTJZcXRSc1F2T2R0QmNXY0E0d2dXS3pyVWJ5UjFBaFgyWkxYMlRLeFBfWWFPTS1aMGFpVVlnS0twR3M0U2FtVklvY0hQSGJSWGhTdVRlY2NFNHAtdURESVY0N241VHhGazh4QVdVS1F1LXF5aUlSYzFKWTlNT29aZ1dZWV9qbWpuSlVzeXNvZw?oc=5",
-      "date": "2026-04-21 20:04",
+      "date": "2026-04-21 16:28",
       "summary": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data  Reuters..."
     },
     {
@@ -249,49 +249,49 @@
       "summary": "Los Angeles is finally going underground  MIT Technology Review..."
     },
     {
-      "title": "China’s open-source bet - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPejc0UUgwbUtidzlHVnh3cHBBX3FHVzBBTi0tQ2gzS0ljam5zOVlIV05XWGxyazRWSjh5dm1QbG1pQndvM3lWeUFSejlzNXQteDJPZXFiY2JPVjloLXFLUXhpTHIxb190T0hockp4YzNlZXNxSExDWUp1M2tjcHlKaGZuOTdiZFA3c0VnN0NldzlYRmtNVXAxZGZZWTNZSldua3I4Q2NMONIBrAFBVV95cUxNRnE0azV2NkV4RXg3TlhLMjBMMWhkdUNtMWljWXpSU19heUN3bnhBZXl4aEJDRjFmSmcxXzFDa2Z5SFd2bHJfdXBiQ0p1ZXAtczJIeEFlVlV6Vjd4ZTZTSkpJeXJGSkhUZkVhQVJublFzd3dpbnpZQTE5YXVZMDZQTEJDWXFDdlJXdXptSTBORTBSRUR3a1phaWN1R1FlVE9YRUttSTJoMkhyODFR?oc=5",
-      "date": "2026-04-21 20:45",
-      "summary": "China’s open-source bet  MIT Technology Review..."
+      "title": "Chinese tech workers are starting to train their AI doubles—and pushing back - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1VtUkYyWDM1bm5COTRWa1Q5UHltSEZ0eTV3cjc3TDJ0d2s3OVMxQkxIRkxJMS05S01kQWlURUJJVHR1dTFGXzB1V0JLZ2loQ0YxYWk1S0trdUNidEhCQWo3ZTRFZzVLWHJ6VFhhWjgyMU1HMEZ4d0VBblFjWVZRWENtdlV0MHc5Unp6YVpHbnDSAZYBQVVfeXFMT3VhYkVua2ZqNEJGSlJjSmZVS2tqUnl6OXJNRHE3ckx0Z1ZNcEtLMmNtbnB4Z2x4d2JWc3o1dk1uWEt6TFJHUFhTbWtBZ05xVTJNNDNUNVdXa01pR1ZQaEJPdi0zRWRBV0dxZGdkN0ZNOUo5UVdLQ0gwakxSZElYdFc5eTZqa1dRdHVnSF8tOVY2OXVLTWZ3?oc=5",
+      "date": "2026-04-20 09:00",
+      "summary": "Chinese tech workers are starting to train their AI doubles—and pushing back  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Beneath Arctic ice, a vast fossil fuel footprint is colliding with Indigenous lands and wildlife",
-      "link": "https://phys.org/news/2026-04-beneath-arctic-ice-vast-fossil.html",
-      "date": "2026-04-22 18:00",
-      "summary": "Arctic fossil fuel development shows significant overlaps with Indigenous communities and ecologically sensitive areas, which migh..."
+      "title": "Canada's parks may be protecting the wrong places as climate extremes reshape biodiversity",
+      "link": "https://phys.org/news/2026-04-canada-wrong-climate-extremes-reshape.html",
+      "date": "2026-04-22 20:00",
+      "summary": "Climate change is making Canada's seasons more erratic, its weather more extreme and its ecosystems less predictable—and UBC Okana..."
     },
     {
-      "title": "They promised climate action for years, but what these meat and dairy giants were really selling was something else",
-      "link": "https://phys.org/news/2026-04-climate-action-years-meat-dairy.html",
-      "date": "2026-04-22 18:00",
-      "summary": "The meat and dairy industry accounts for 57% of total global food production emissions and at least 16.5% of all global greenhouse..."
+      "title": "Quantum simulations that bypass resolution limits offer insights into high-temperature superconductivity",
+      "link": "https://phys.org/news/2026-04-quantum-simulations-bypass-resolution-limits.html",
+      "date": "2026-04-22 20:00",
+      "summary": "A new method developed at LMU overcomes fundamental resolution limits and may provide insights into high-temperature superconducti..."
     },
     {
-      "title": "For 74,000 years, one ancient killer quietly dictated where early humans could survive across Africa",
-      "link": "https://phys.org/news/2026-04-years-ancient-killer-quietly-dictated.html",
-      "date": "2026-04-22 18:00",
-      "summary": "Increasing evidence suggests that our species emerged through interactions between populations living in different parts of Africa..."
+      "title": "Engineered soil bacterial protein kills colorectal cancer cells by targeting their mitochondria",
+      "link": "https://phys.org/news/2026-04-soil-bacterial-protein-colorectal-cancer.html",
+      "date": "2026-04-22 19:40",
+      "summary": "Researchers at Umeå University have turned a protein from soil bacteria into a potential new weapon against colorectal cancer. The..."
     },
     {
-      "title": "Clearing crowded supermarket aisles lifts sales by 11.5% in field tests",
-      "link": "https://phys.org/news/2026-04-crowded-supermarket-aisles-sales-field.html",
-      "date": "2026-04-22 18:00",
-      "summary": "Additional product displays in supermarket aisles—so-called secondary placements—are intended to encourage impulse purchases. Howe..."
+      "title": "Bamboo plastic could help predict how long biodegradable products last in seawater",
+      "link": "https://phys.org/news/2026-04-bamboo-plastic-biodegradable-products-seawater.html",
+      "date": "2026-04-22 19:40",
+      "summary": "Biodegradable plastics are usually sought after for their ability to break down quickly. However, this does not tell us how safely..."
     },
     {
-      "title": "New study quantifies lake CO₂ emissions and their rising trend in China",
-      "link": "https://phys.org/news/2026-04-quantifies-lake-emissions-trend-china.html",
-      "date": "2026-04-22 18:00",
-      "summary": "Lakes are often described as \"hotspots\" in the global carbon cycle, yet quantifying their \"breath\"—the exchange of carbon dioxide ..."
+      "title": "Mapping microplastic movement in rivers and streams across Pennsylvania",
+      "link": "https://phys.org/news/2026-04-microplastic-movement-rivers-streams-pennsylvania.html",
+      "date": "2026-04-22 19:20",
+      "summary": "Microplastics can be found everywhere in nature—from drinking water to clouds in the atmosphere—but scientists have yet to fully u..."
     }
   ],
   "The Guardian Edu": [
     {
       "title": "Inquiry clears Bristol school of antisemitism for postponing Jewish MP’s visit",
       "link": "https://www.theguardian.com/news/2026/apr/22/no-evidence-of-antisemitism-at-bristol-brunel-academy-school-postponed-visit-by-jewish-mp-damien-egan-review-finds",
-      "date": "2026-04-22 14:04",
+      "date": "2026-04-22 19:34",
       "summary": "Independent review into Bristol Brunel academy finds Damien Egan visit was postponed over safeguarding concernsAn independent inqu..."
     },
     {
@@ -353,6 +353,12 @@
   ],
   "New Scientist": [
     {
+      "title": "98 per cent of meat and dairy sustainability pledges are greenwashing",
+      "link": "https://www.newscientist.com/article/2523798-98-per-cent-of-meat-and-dairy-sustainability-pledges-are-greenwashing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-22 18:00",
+      "summary": "The food industry has made big promises to reduce emissions and become more sustainable, but a review concludes that many of the p..."
+    },
+    {
       "title": "Table tennis-playing robot on track to becoming world champion",
       "link": "https://www.newscientist.com/article/2523918-table-tennis-playing-robot-on-track-to-becoming-world-champion/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-22 16:00",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2523722-titans-strange-plains-may-be-explained-by-unusual-weather/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-21 17:00",
       "summary": "Most of Titan’s surface is oddly flat and smooth, and it may be because it is coated by as much as a metre of fluffy organic mater..."
-    },
-    {
-      "title": "Game theory explains why the US's goals in Iran keep changing",
-      "link": "https://www.newscientist.com/article/2523786-game-theory-explains-why-the-uss-goals-in-iran-keep-changing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-21 14:57",
-      "summary": "The ongoing conflict around the Strait of Hormuz has become a situation in game theory known as a war of attrition. The maths behi..."
     }
   ]
 }
