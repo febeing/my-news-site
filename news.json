@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "Vaginal bacteria turn newborn skin into a beneficial ‘bioreactor’",
+      "link": "https://www.science.org/content/article/vaginal-bacteria-turn-newborn-skin-beneficial-bioreactor",
+      "date": "2026-04-22 04:50",
+      "summary": "A lipid synthesized on skin may promote brain development—and a swabbing with vaginal fluid can provide it to C-section babies, st..."
+    },
+    {
       "title": "South America—the last continent to be settled—was peopled in surprisingly complex way",
       "link": "https://www.science.org/content/article/people-settled-south-america-three-distinct-waves-surprising-genetic-diversity",
       "date": "2026-04-22 11:05",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/simple-house-may-help-prevent-multiple-fatal-diseases-african-children",
       "date": "2026-04-21 05:00",
       "summary": "Randomized, controlled trial shows the $8800 design can reduce cases of malaria, diarrhea, and respiratory infection..."
-    },
-    {
-      "title": "Early humans turned favored rock sites into toolmaking assembly lines",
-      "link": "https://www.science.org/content/article/early-humans-turned-favored-rock-sites-toolmaking-assembly-lines",
-      "date": "2026-04-20 03:15",
-      "summary": "Such prescient planning started 50,000 years earlier than thought, study finds..."
     }
   ],
   "Retraction Watch": [
@@ -249,42 +249,42 @@
       "summary": "Chinese tech workers are starting to train their AI doubles—and pushing back  MIT Technology Review..."
     },
     {
-      "title": "Los Angeles is finally going underground - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGJmdWstempxR0xPaDQ5RnBWQ2V5Z3F6ZkNUbzYyQ0Z1eTBMTlFMekhBZ1NuVEg1OWkwRXlVeDlRTWptVHQzVUVnSG9za0pmejNWclpGR1V4Q2pBN0xCUXJOd0pRNlJKLTBPQWpCMFFMVVhEMkdsSzBHMnhkWU5sSS1yOTNlTzQ0UlZmeFlUNTVDTzjSAZgBQVVfeXFMUGFVQXhDQzdwMmJWMmNvZnZEZkhPeUhLWG43SGxOeUltc2xFMXBoTldFalN3SHVZcU4tbEhZVkNPSElIOUlGMURkcDk1VXExa0xLS0xOMW9pZlRsOVRBZGswZDJNa05xMjNyTE5KZnF0TXNtMjdrQUhIT2tnTWE3VXBGd0hXYjFZUnE3Rzhkbldsb1BTVFlNRzc?oc=5",
-      "date": "2026-04-22 10:00",
-      "summary": "Los Angeles is finally going underground  MIT Technology Review..."
+      "title": "China’s open-source bet - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPejc0UUgwbUtidzlHVnh3cHBBX3FHVzBBTi0tQ2gzS0ljam5zOVlIV05XWGxyazRWSjh5dm1QbG1pQndvM3lWeUFSejlzNXQteDJPZXFiY2JPVjloLXFLUXhpTHIxb190T0hockp4YzNlZXNxSExDWUp1M2tjcHlKaGZuOTdiZFA3c0VnN0NldzlYRmtNVXAxZGZZWTNZSldua3I4Q2NMONIBrAFBVV95cUxNRnE0azV2NkV4RXg3TlhLMjBMMWhkdUNtMWljWXpSU19heUN3bnhBZXl4aEJDRjFmSmcxXzFDa2Z5SFd2bHJfdXBiQ0p1ZXAtczJIeEFlVlV6Vjd4ZTZTSkpJeXJGSkhUZkVhQVJublFzd3dpbnpZQTE5YXVZMDZQTEJDWXFDdlJXdXptSTBORTBSRUR3a1phaWN1R1FlVE9YRUttSTJoMkhyODFR?oc=5",
+      "date": "2026-04-21 20:45",
+      "summary": "China’s open-source bet  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "AI for molecular simulations may not need built-in physics to deliver strong results",
-      "link": "https://phys.org/news/2026-04-ai-molecular-simulations-built-physics.html",
-      "date": "2026-04-22 21:50",
-      "summary": "Simulating how atoms and molecules move over time is a central challenge in computational chemistry and materials science. Classic..."
+      "title": "The 'resource curse': Why natural resource abundance can be a double-edged sword",
+      "link": "https://phys.org/news/2026-04-resource-curse-natural-abundance-edged.html",
+      "date": "2026-04-22 22:40",
+      "summary": "Natural resources—such as fossil fuels, water, and minerals—are materials found in the environment that are essential for life and..."
     },
     {
-      "title": "Tiny satellites face big data limits: How foldable antennas could change CubeSat missions",
-      "link": "https://phys.org/news/2026-04-tiny-satellites-big-limits-foldable.html",
-      "date": "2026-04-22 21:40",
-      "summary": "An origami-inspired reflectarray antenna developed by researchers at Institute of Science Tokyo enables CubeSats to achieve high a..."
+      "title": "Measuring how stressed rocks 'sigh' before breaking could help predict geohazards",
+      "link": "https://phys.org/news/2026-04-stressed-geohazards.html",
+      "date": "2026-04-22 22:30",
+      "summary": "Too much stress can make even a rock crack. But before rocks reach their breaking point, they \"sigh\" a chemical warning by releasi..."
     },
     {
-      "title": "Ancient chicken bones reveal human management in Korea 2,000 years ago",
-      "link": "https://phys.org/news/2026-04-ancient-chicken-bones-reveal-human.html",
-      "date": "2026-04-22 21:40",
-      "summary": "Chickens and eggs are among the most common foods on modern Korean tables. Understanding their history can enrich our understandin..."
+      "title": "Rethinking augmented reality for children: Study finds key design gap",
+      "link": "https://phys.org/news/2026-04-rethinking-augmented-reality-children-key.html",
+      "date": "2026-04-22 22:20",
+      "summary": "For decades, technology in schools meant desktop computers and basic digital instruction. Today, more immersive tools are beginnin..."
     },
     {
-      "title": "Ancient amber reveals a true bug equipped with claws, a highly unusual feature",
-      "link": "https://phys.org/news/2026-04-ancient-amber-reveals-true-bug.html",
-      "date": "2026-04-22 21:30",
-      "summary": "Amber from the Kachin region of Myanmar has preserved a wealth of fossils, offering insights into the diversity of the Cretaceous ..."
+      "title": "This volcano that 'slept' for 100,000 years was never truly quiet",
+      "link": "https://phys.org/news/2026-04-volcano-slept-years-quiet.html",
+      "date": "2026-04-22 22:20",
+      "summary": "For more than 100,000 years, the Methana volcano in Greece appeared dormant. No lava, no explosions, no ash clouds. It appeared ex..."
     },
     {
-      "title": "Water to surge into drought-depleted Lake Powell but at costs elsewhere",
-      "link": "https://phys.org/news/2026-04-surge-drought-depleted-lake-powell.html",
-      "date": "2026-04-22 21:20",
-      "summary": "Canyons in eastern Utah will churn this spring with huge volumes of water—as much as 50,000 toilets flushing constantly at the sam..."
+      "title": "How a faster protein-screening tool could strengthen US rare-earth supply chains",
+      "link": "https://phys.org/news/2026-04-faster-protein-screening-tool-rare.html",
+      "date": "2026-04-22 22:10",
+      "summary": "To ensure a robust domestic supply chain in the U.S., Lawrence Livermore National Laboratory (LLNL) scientists are using bacterial..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "What Hong Kong’s conservative stablecoin licence roll-out reveals",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3350356/what-hong-kongs-conservative-stablecoin-licence-roll-out-reveals?utm_source=rss_feed",
+      "date": "2026-04-22 22:30",
+      "summary": "The most revealing fact about Hong Kong’s stablecoin launch is not that licences were issued. It is who got them, and who did not...."
+    },
+    {
       "title": "Families seek review of coroner’s findings in Lamma ferry disaster inquest",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351053/families-seek-review-coroners-findings-lamma-ferry-disaster-inquest?utm_source=rss_feed",
       "date": "2026-04-22 16:23",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/education/article/3351025/611-elderly-hongkongers-default-student-loans-owe-hk17400-each-average?utm_source=rss_feed",
       "date": "2026-04-22 10:51",
       "summary": "More than 600 Hongkongers aged 60 and above have failed to repay their student loans under five government schemes funding tertiar..."
-    },
-    {
-      "title": "‘Regulatory vacuum’: Hong Kong fire probe reveals confusion over safety roles",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3351019/confusion-over-government-agencies-roles-fire-oversight-tai-po-probe-reveals?utm_source=rss_feed",
-      "date": "2026-04-22 10:00",
-      "summary": "A public inquiry into Hong Kong’s deadliest fire in decades has exposed confusion among government agencies over their roles in su..."
     }
   ],
   "New Scientist": [
