@@ -65,10 +65,22 @@
   ],
   "Stanford News": [
     {
+      "title": "Researchers face off in Stanford’s Three Minute Thesis competition - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4ycDQtOTQ2aWhvaFVlWGd5empySktIaENxTnRXMUpjNFZYVW9GQzh1dW50LTNMSm1mUThReVlxeTRjWGY2bDFWdUtDODdsVzk1T3AxNzhBb2ZhZVlicGN3b2psTmRYd0J5RXJjYUstcElMZkJhRjgxLTA4WUY0Zw?oc=5",
+      "date": "2026-04-21 23:36",
+      "summary": "Researchers face off in Stanford’s Three Minute Thesis competition  Stanford Report..."
+    },
+    {
       "title": "Spring and Fall 2025 Stanford e-Japan Award Recipients Announced - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3RQQThsVUpEa3NQbzREWDE0X3A2V1Vrd2RsVFBVd0RlZGcxMi1YbnBidDdGVjRUaW5kTG5ZMlRBanpEMF9oOHNnNVBlN0xUTVJmTVB0VWpPelBQZnVEa2Nyam9WNWVYeUpiRUsxcXhSeWV3S2tsMGl1ZTBiUUZ6cHR5a2p1ZnFiSUJzckdxRktpMnhhSU1VeG54VTA0a0NpVVE?oc=5",
       "date": "2026-04-21 12:00",
       "summary": "Spring and Fall 2025 Stanford e-Japan Award Recipients Announced  Stanford University..."
+    },
+    {
+      "title": "When AI relationships trigger ‘delusional spirals’ - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnR1UmtkQnZDTy1WMngydGdQdjZjQVZhdjNSQzBOQXhvSGpPX1ZwS3JpdDl3eWJxRHBhdkxaZHNCWDFFMXBrOXhMZTB3ZzVMUmlleWpKZWtyVWk2dk43UWFxMmdDY3ZNZWV0eGMyWFVEMDZBdUtIVEIxMzFCaHVHc2lqVWZlaE12eUpNV0k0dFVYUDZudnc2TDQxTjlKUVpK?oc=5",
+      "date": "2026-04-20 21:42",
+      "summary": "When AI relationships trigger ‘delusional spirals’  Stanford Report..."
     },
     {
       "title": "Five Stanford scholars awarded Guggenheim Fellowship - Stanford University",
@@ -81,18 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObU5XdVZzSTdLZ1NWZ0NYZG84X29iR2FzNmtmZ1V6anl4eGVET2xhZDI3V1hnSnprUlI5X2Rxd2FkYV9pT3B6bjV3UExUTzhWSW1Yd1dONzhSMGMzRjBsQ0ZkdDExQmdVWVdrRE5VZnBhQ0FlODVwSHUyN21BQjVYYUtpSkpmSklfdGhrbkpScTR4QQ?oc=5",
       "date": "2026-04-20 07:00",
       "summary": "Stanford center revives historic maps with digital tools  Stanford Report..."
-    },
-    {
-      "title": "When AI relationships trigger ‘delusional spirals’ - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnR1UmtkQnZDTy1WMngydGdQdjZjQVZhdjNSQzBOQXhvSGpPX1ZwS3JpdDl3eWJxRHBhdkxaZHNCWDFFMXBrOXhMZTB3ZzVMUmlleWpKZWtyVWk2dk43UWFxMmdDY3ZNZWV0eGMyWFVEMDZBdUtIVEIxMzFCaHVHc2lqVWZlaE12eUpNV0k0dFVYUDZudnc2TDQxTjlKUVpK?oc=5",
-      "date": "2026-04-20 21:42",
-      "summary": "When AI relationships trigger ‘delusional spirals’  Stanford Report..."
-    },
-    {
-      "title": "Jorge Ruffinelli, leading scholar of Latin American literature and film, dies at 82 - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemVhdXBBMzR0d1NRemNZNU43Rk5iRzBkLTdIWFpCamZvZFJXR0RzOFlCd3BBeWRxT2tyU2ZwQ3pqUXJQWkxrdzBVUWRrdVBlb2tFYW83Q1VuanhrYkZpdElUWXl4ZlY2Q2k0MTdTWjRPTWtYWE1BRVF3dV92RFp0OXF5Ykt5enRmVEpGVnBiVmZaWnFTN3FjN2taRGk5TGFDN19DekJVNWg?oc=5",
-      "date": "2026-04-21 12:00",
-      "summary": "Jorge Ruffinelli, leading scholar of Latin American literature and film, dies at 82  Stanford University..."
     }
   ],
   "Nature Careers": [
@@ -199,16 +199,16 @@
       "summary": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data  Reuters..."
     },
     {
-      "title": "Marvell shares gain on report of deal talks with Google to develop two AI chips - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDQyQnRRNy0wTk0zdFRrZjFqY0NHQUVRT1BFb040cld0M2FwdUVySFdUcldXVEh6OFc3TmNERHp1MmNnMzAtbmtTZlBDMk9Dc0xtM09GU1dNRU83U0k3QmhnaGJQRU5fVkZjaGE5U0lhejNqNTdUSGdMWWlqcjZvbXl2cmlQM1pDT0N2TXE0b3piWTMydWM1NkZ6QVM2Y3FNZU4xcjNtTFdUcEhjZVowRDdaX2dDQQ?oc=5",
-      "date": "2026-04-20 14:19",
-      "summary": "Marvell shares gain on report of deal talks with Google to develop two AI chips  Reuters..."
-    },
-    {
       "title": "Meta plans large-scale job cuts beginning in May, says Reuters - Social Media Today",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmZzRU1leE90WkRWamRXTUxHZ1BwLXNCNVNsNmJETVhIWjF5TEdFQXNWQlA2YkdWY01fNVFqc2lINmhxN1dER1JNQjlqTkxKRVRUM19QLUdlTmFDVEp4VmJ6SzdSLXUybTJ0Z3o1b2xUbDNSMnBHVThkRDBia09aWUdHMUVLYlJWWDZLVVQ2VG4teF8tcjVQRDdVSUF1aU4yUkdFWFdDdHE0S00?oc=5",
       "date": "2026-04-21 05:44",
       "summary": "Meta plans large-scale job cuts beginning in May, says Reuters  Social Media Today..."
+    },
+    {
+      "title": "SpaceX says it has option to acquire startup Cursor for $60 billion - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUnFZeVhXWkh5amFjeHJyYTRFX09SZE5hZ2ROSWNCNURHMHNXMVNidjdUaGdscDBqN25oa0xPYzVMeldMd1RJUFhWLW1Zak9WcFBhRnpScWJZMlVIWVBHc0VtNXo2N1Q5OHRoNGFQUVZ2TmxsUnlkbDlrdVBXUXBOTi1uN0hLdDlwaUhkYnFvNXJHNGZaSDdLZ2xiWFBmZDEtbVBGa3dtajVmZw?oc=5",
+      "date": "2026-04-21 23:23",
+      "summary": "SpaceX says it has option to acquire startup Cursor for $60 billion  Reuters..."
     },
     {
       "title": "Exclusive: SpaceX says unproven AI space data centers may not be commercially viable, filing shows - Reuters",
@@ -217,24 +217,30 @@
       "summary": "Exclusive: SpaceX says unproven AI space data centers may not be commercially viable, filing shows  Reuters..."
     },
     {
-      "title": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3ZKZ0F0V2lPYndVRXUtUDVoNW00LWdWV2trMUEweDY1c0hwNEVTLUhqVU9wcWcwdFd6VkNmdUNPbXZ1S2JaS2ZxUGxvZ0ZlYW52bnRaUUhsSl9mOVlsal90Qnd0NzN5VHJoQ2NiMXZnR3NFcHBUcGpFNUVXaGlQN2o4RHJJU01hQnhGVE1rNkhkajNYR2N1d3lZWUJSMmlWSzNkdzQ3SUpSYzlEejNWRUFKMk5BY2V0bU54RC1LTG9VUQ?oc=5",
-      "date": "2026-04-21 21:51",
-      "summary": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports  Reuters..."
+      "title": "Apple's new CEO is a product perfectionist taking on the AI age - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdzV0bUx3UXMzZ2cxS0dsa296NXNOeGxYUWQyMGNZMlUwbVlfd0VrY3hNZkFrX1VNVFdoZGNlQk1rTmtLRkdobnlLN2hLbTJXdjVubnV4cGdhLTRDbDFYZmc0V3YtVXYyeHVWcktNYlRHclpfQXI0Njg4M1VDLWRROE80eTdsM0tmZE0wXzhGQlZrOW5DZ25JYUlPWHlOckk?oc=5",
+      "date": "2026-04-21 02:08",
+      "summary": "Apple's new CEO is a product perfectionist taking on the AI age  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "Building agent-first governance and security - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcjZjZHhIVGVWQkdBRVNTSnMzazQ4OTBfWThfUzJLQ2UxYkRuNWpiOG8xdzRRbl85aGtpRmtYMWxEMWdqeG5zMHJ1bGdDX1B4NWFNMm9tMFgyb1d4ckxWVU03TGk3MzFCTUxqMWxZbVREWml4UjAtZldwcFZiZXBrWGVjTlA5OHlfbkhlc3ZxLTZEdFVYOXdpSTdOdnJiZ9IBowFBVV95cUxOWDI1THduc2V5cy1oaW5hVEhYWHNfM3loVkFCaTdXbGdhcl9kYUxYZHRNZzYybTlvdjFzVU15Z3ZoVTktREtqbU9sOGVIRDF0OW96azcxLU40SWFRZERhTTI4VVpmNVRlbEFEQXpnRi1vMVN5YVdRcjctWm02ZUJVNEhnS2JlLWZWd1ZvU2FGR1dBSnFxdnNHR1RxUVRSdmN0MjlF?oc=5",
-      "date": "2026-04-21 17:22",
-      "summary": "Building agent-first governance and security  MIT Technology Review..."
+      "title": "World models - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjV5MDZkQ0NnQTc1QXBJdzBFak11RjRqemN2WTJGRlE3eDhFRkpCNmphS3NKcGdRSEg3YVZLZDNCVE9SZ1RfeUFSN1Y3ZjVtOG9RQW13WWE3Umw0aUNvLWFxNjNSZndUWVhOeXg1TmhZdzN6LUFjLWptQWZIRk12d1QxQ1lVTkZKSDNFRTdTdG9xMG91VmZr0gGcAUFVX3lxTFB4d0VoRmtwYnVjWjhRekJRZ3dfQXpYaXU3ZDVzMElKV1gwWnVrR1IwcXRna2RsS1QxYkdYQ3ZtRG1sTlN6RnU5OEZwYlN6Um85clJqN2ZvQzIxUzRoYzFfOWprUXBwajRXazdZbjFYazRjXzRCZC01YWJORHNmWWdIMVNVWUJkdF9UY0dLRUpOV0ZmQUh4eERqZWtFQw?oc=5",
+      "date": "2026-04-21 20:45",
+      "summary": "World models  MIT Technology Review..."
     },
     {
-      "title": "AI at MIT - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zOXAwNktuNmhGTWdLNjl3UVlxN19wcjlYVHQ2ckRjT0xRTHhueGtZSnZtRGU5NlROUDU4a2lZREMyeXh2eklYTElySEtoNVYwWEM2d0s3WkluYUtjOTlYdldvRC1TYnBYS2gtbl85VdIBdEFVX3lxTE9XRTdrcFpDZ2lTcEgwaDhHVjUxTHpnNUtRbzRKS3lfOUtiVlp0bWotbzdMTElpVEFES1laTHI5T29GS2diT1g1Z2ozM3pxaVJSZGpkOEhXaFlOY0lvNnFkd0d5SktZXzdobTcwRWd4eWpPNzVP?oc=5",
-      "date": "2026-04-21 21:00",
-      "summary": "AI at MIT  MIT Technology Review..."
+      "title": "China’s open-source bet - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPejc0UUgwbUtidzlHVnh3cHBBX3FHVzBBTi0tQ2gzS0ljam5zOVlIV05XWGxyazRWSjh5dm1QbG1pQndvM3lWeUFSejlzNXQteDJPZXFiY2JPVjloLXFLUXhpTHIxb190T0hockp4YzNlZXNxSExDWUp1M2tjcHlKaGZuOTdiZFA3c0VnN0NldzlYRmtNVXAxZGZZWTNZSldua3I4Q2NMONIBrAFBVV95cUxNRnE0azV2NkV4RXg3TlhLMjBMMWhkdUNtMWljWXpSU19heUN3bnhBZXl4aEJDRjFmSmcxXzFDa2Z5SFd2bHJfdXBiQ0p1ZXAtczJIeEFlVlV6Vjd4ZTZTSkpJeXJGSkhUZkVhQVJublFzd3dpbnpZQTE5YXVZMDZQTEJDWXFDdlJXdXptSTBORTBSRUR3a1phaWN1R1FlVE9YRUttSTJoMkhyODFR?oc=5",
+      "date": "2026-04-21 20:45",
+      "summary": "China’s open-source bet  MIT Technology Review..."
+    },
+    {
+      "title": "Agent orchestration - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2ZkUGw2alJOYl9kNFhSc2VjdEx3Q2dlYS0tNE5ZWEZMX3pHWVBKdjdvX1FNTFNYTENOMDVyWTNNUkZNZm93a1ZyZHIzSkJoSHF3eXA1aE13SlBxN24wbk90VVpCbGxOTkVZZGdrU00zb1hyVG41bWVDUTVaZ1pOR0k3bDZlU0RUa1hKX0pUNXprZHA1M0RzTFRoam5Pdnhl0gGmAUFVX3lxTE5IR3c2M3dxd0o3WnQ0a25YcFJWRGhQRzVuODFHdkg3NC1RRG5lazRtRWJyb1JaTUVVRGF6OTBkcUlvZk1BaTg0TEN4MzNIZGxPZXQzdmc0WTIxdzZlY1FJaUZXZzk3THNjSW9mWkh3cVNydGo1OU5sRXhPOWlVX0dUd2JCTXNObExkZmlPZVNBckUtUmxydFpmRU5kc3F4Nm55T1NKbWc?oc=5",
+      "date": "2026-04-21 20:45",
+      "summary": "Agent orchestration  MIT Technology Review..."
     },
     {
       "title": "LLMs+ - MIT Technology Review",
@@ -243,51 +249,51 @@
       "summary": "LLMs+  MIT Technology Review..."
     },
     {
-      "title": "Recent books from the MIT community - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYVdJVHhwOE1oZmdvamtheDIwSzlHU3hBVjlZMW55dkRvV21Lb3I5bzNHX09uWl9HelI3Y3RkU0lhZkhncFZpeURzNU9WV2U0OFZ4RTJ0WU95TkJWMHZuaXFiYko2MHZFYUc4WDdFMFEzV3VTWk9PcmRkS0VkZjFFTWxfMkNGQXZnczNLWEdOa2pKS3lNTnfSAZsBQVVfeXFMT18tSTdfWmhtWTUyRzV1Ml81azNTUll4RlROMU9UQVk5Z1U4bGdKNDROZHgyd2tqSWstaTZlNExXYk5BdlZrQ2llNzFHY2d1Tk14OHlKUUwyN3BPczlJOVRTZTBQc3NjT3l4OHk0OExRTHdtendzT1RnTy1PbGctbk40cDJrQThUclZVTVZObUlpcmhZc3lkQTI2Tnc?oc=5",
-      "date": "2026-04-21 21:00",
-      "summary": "Recent books from the MIT community  MIT Technology Review..."
-    },
-    {
-      "title": "World models - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjV5MDZkQ0NnQTc1QXBJdzBFak11RjRqemN2WTJGRlE3eDhFRkpCNmphS3NKcGdRSEg3YVZLZDNCVE9SZ1RfeUFSN1Y3ZjVtOG9RQW13WWE3Umw0aUNvLWFxNjNSZndUWVhOeXg1TmhZdzN6LUFjLWptQWZIRk12d1QxQ1lVTkZKSDNFRTdTdG9xMG91VmZr0gGcAUFVX3lxTFB4d0VoRmtwYnVjWjhRekJRZ3dfQXpYaXU3ZDVzMElKV1gwWnVrR1IwcXRna2RsS1QxYkdYQ3ZtRG1sTlN6RnU5OEZwYlN6Um85clJqN2ZvQzIxUzRoYzFfOWprUXBwajRXazdZbjFYazRjXzRCZC01YWJORHNmWWdIMVNVWUJkdF9UY0dLRUpOV0ZmQUh4eERqZWtFQw?oc=5",
-      "date": "2026-04-21 20:45",
-      "summary": "World models  MIT Technology Review..."
+      "title": "Building agent-first governance and security - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcjZjZHhIVGVWQkdBRVNTSnMzazQ4OTBfWThfUzJLQ2UxYkRuNWpiOG8xdzRRbl85aGtpRmtYMWxEMWdqeG5zMHJ1bGdDX1B4NWFNMm9tMFgyb1d4ckxWVU03TGk3MzFCTUxqMWxZbVREWml4UjAtZldwcFZiZXBrWGVjTlA5OHlfbkhlc3ZxLTZEdFVYOXdpSTdOdnJiZ9IBowFBVV95cUxOWDI1THduc2V5cy1oaW5hVEhYWHNfM3loVkFCaTdXbGdhcl9kYUxYZHRNZzYybTlvdjFzVU15Z3ZoVTktREtqbU9sOGVIRDF0OW96azcxLU40SWFRZERhTTI4VVpmNVRlbEFEQXpnRi1vMVN5YVdRcjctWm02ZUJVNEhnS2JlLWZWd1ZvU2FGR1dBSnFxdnNHR1RxUVRSdmN0MjlF?oc=5",
+      "date": "2026-04-21 17:22",
+      "summary": "Building agent-first governance and security  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Self‑replicating circular RNA persists in extreme environments: Insights from hot spring microbiomes",
-      "link": "https://phys.org/news/2026-04-selfreplicating-circular-rna-persists-extreme.html",
-      "date": "2026-04-21 23:20",
-      "summary": "Although the genetic material of most living organisms is DNA, various self-replicating agents rely instead on RNA, including RNA ..."
+      "title": "When a spouse starts a business, the other partner pays a hidden price",
+      "link": "https://phys.org/news/2026-04-spouse-business-partner-pays-hidden.html",
+      "date": "2026-04-22 02:20",
+      "summary": "When an entrepreneur leaves a salaried job to pursue a venture, the conversation nearly always centers on them: the risk they're t..."
     },
     {
-      "title": "Toxins from Great Salt Lake dust are absorbed by plants, soils and human bodies",
-      "link": "https://phys.org/news/2026-04-toxins-great-salt-lake-absorbed.html",
-      "date": "2026-04-21 23:20",
-      "summary": "Shrinking water levels at the Great Salt Lake are not just about Utah's water supply—they may pose a serious risk to public health..."
+      "title": "Improving scientific accuracy in journalism",
+      "link": "https://phys.org/news/2026-04-scientific-accuracy-journalism.html",
+      "date": "2026-04-22 02:00",
+      "summary": "Journalists bring scientific findings to the public, and to policymakers, who often rely on media reports rather than primary lite..."
     },
     {
-      "title": "A few extra minutes of daily play can strengthen your bond with your dog in four weeks",
-      "link": "https://phys.org/news/2026-04-extra-minutes-daily-play-bond.html",
-      "date": "2026-04-21 23:10",
-      "summary": "Playing a little extra with your dog improves the emotional bond between owner and dog, according to a new study from Linköping Un..."
+      "title": "As the world faces yet another crisis, why are leaders still resisting remote work?",
+      "link": "https://phys.org/news/2026-04-world-crisis-leaders-resisting-remote.html",
+      "date": "2026-04-22 01:40",
+      "summary": "At 9 p.m., shops, restaurants and cafes go dark across the city of Cairo, where a stringent curfew has been imposed to mitigate th..."
     },
     {
-      "title": "Breathing new life into an ancient mystery: Unlocking the trilobite's respiratory secrets",
-      "link": "https://phys.org/news/2026-04-life-ancient-mystery-trilobite-respiratory.html",
-      "date": "2026-04-21 23:00",
-      "summary": "For more than 270 million years, trilobites were among the most successful and diverse creatures on Earth, with over 22,000 known ..."
+      "title": "Rethinking energy transition participation: Why citizens are more than a box to tick",
+      "link": "https://phys.org/news/2026-04-rethinking-energy-transition-citizens.html",
+      "date": "2026-04-22 01:20",
+      "summary": "Citizen participation is widely seen as key to a successful energy transition. In practice, however, it often remains more of an i..."
     },
     {
-      "title": "Hurricanes devastated Florida's East Coast. Then seagrass made an unexpected comeback",
-      "link": "https://phys.org/news/2026-04-hurricanes-devastated-florida-east-coast.html",
-      "date": "2026-04-21 23:00",
-      "summary": "Florida's Indian River Lagoon has been an ecosystem in decline going back to 2011, when harmful algal blooms led to a severe decli..."
+      "title": "Q&A: IceCube Observatory upgrades improve search for elusive cosmic messenger",
+      "link": "https://phys.org/news/2026-04-qa-icecube-observatory-elusive-cosmic.html",
+      "date": "2026-04-22 01:00",
+      "summary": "Buried within the Antarctic ice are more than 5,000 light sensors that work together to detect some of the highest energy particle..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Texas can require public schools to display Ten Commandments, court rules",
+      "link": "https://www.theguardian.com/us-news/2026/apr/21/texas-public-schools-ten-commandments",
+      "date": "2026-04-21 23:49",
+      "summary": "Appeals court ruling is a victory for conservatives who have long sought to incorporate more religion into schoolsSign up for the ..."
+    },
     {
       "title": "‘Muslim kids are really underrepresented’: the animated movie where medieval maths meets eager young minds",
       "link": "https://www.theguardian.com/film/2026/apr/21/muslim-kids-are-really-underrepresented-the-animated-movie-where-medieval-maths-meets-eager-young-minds",
@@ -311,15 +317,21 @@
       "link": "https://www.theguardian.com/education/2026/apr/20/exam-obsessed-school-system-unprepared-work-alan-milburn",
       "date": "2026-04-20 05:00",
       "summary": "Former minister leading review into young people and work cites survey showing most teachers decry lack of ‘soft skills’ An “exam-..."
-    },
-    {
-      "title": "Teacher v chatbot: my journey into the classroom in the age of AI – podcast",
-      "link": "https://www.theguardian.com/news/audio/2026/apr/20/teacher-v-chatbot-classroom-age-of-ai-podcast",
-      "date": "2026-04-20 04:00",
-      "summary": "I was a newcomer, negotiating all of the usual classroom difficulties for the first time. Throwing AI into the mix felt like downi..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "How Hong Kong can actively shape the foreign policy debate",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3350702/how-hong-kong-can-actively-shape-foreign-policy-debate?utm_source=rss_feed",
+      "date": "2026-04-22 01:30",
+      "summary": "A year ago, after more than a decade in the United Kingdom and several years in the United States – including time working for the..."
+    },
+    {
+      "title": "Scammers trick overseas students out of gold in fake money-laundering probes",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350861/scammers-trick-overseas-students-out-gold-fake-money-laundering-probes?utm_source=rss_feed",
+      "date": "2026-04-22 00:30",
+      "summary": "Fraudsters have duped students studying abroad out of up to HK$1.5 million (US$191,531) each by accusing them of money laundering ..."
+    },
     {
       "title": "Number of Hong Kong school leavers seeking education elsewhere hits 14-year low",
       "link": "https://www.scmp.com/news/hong-kong/education/article/3350925/number-hong-kong-school-leavers-seeking-education-elsewhere-hits-14-year-low?utm_source=rss_feed",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350922/hong-kong-aiming-curb-illicit-fuel-trade-tougher-penalties-source?utm_source=rss_feed",
       "date": "2026-04-21 13:53",
       "summary": "Buyers of illicit fuel in Hong Kong could face a maximum penalty of HK$1 million (US$127,687) and one year in prison under propose..."
-    },
-    {
-      "title": "First AI driverless trucks deployed to tackle Hong Kong port labour shortage",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350914/first-ai-driverless-trucks-deployed-tackle-hong-kong-port-labour-shortage?utm_source=rss_feed",
-      "date": "2026-04-21 12:50",
-      "summary": "Hutchison Port Holdings Trust has deployed Hong Kong’s first AI-powered driverless trucks, a move the container terminal operator ..."
-    },
-    {
-      "title": "Tai Po blaze probe: temporary removal of fireproof windows ‘complied with rules’",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3350910/tai-po-blaze-probe-temporary-removal-fireproof-windows-complied-rules?utm_source=rss_feed",
-      "date": "2026-04-21 12:32",
-      "summary": "A Labour Department official has told an inquiry into Hong Kong’s deadly Tai Po inferno that the temporary removal of fireproof wi..."
     }
   ],
   "New Scientist": [
