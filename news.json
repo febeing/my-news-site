@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "New chip can protect wireless biomedical devices from quantum attacks",
+      "link": "https://news.mit.edu/2026/new-chip-can-protect-wireless-biomedical-devices-from-quantum-attacks-0423",
+      "date": "2026-04-23 04:00",
+      "summary": "Ultra-efficient chip design enables extremely strong cryptography algorithms to run on energy-constrained edge devices...."
+    },
+    {
       "title": "Teaching AI models to say “I’m not sure”",
       "link": "https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422",
       "date": "2026-04-22 19:15",
@@ -23,15 +29,15 @@
       "link": "https://news.mit.edu/2026/why-bother-plausible-deniability-0417",
       "date": "2026-04-17 15:00",
       "summary": "Philosopher Sam Berstler explains why we have social norms that let people engage in open deception...."
-    },
-    {
-      "title": "With navigating nematodes, scientists map out how brains implement behaviors",
-      "link": "https://news.mit.edu/2026/navigating-nematodes-scientists-map-out-how-brains-implement-behaviors-0416",
-      "date": "2026-04-16 22:30",
-      "summary": "MIT scientists create a detailed map of exactly what happens in the brains of C. elegans worms when they “follow their nose” to sa..."
     }
   ],
   "Harvard Gazette": [
+    {
+      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
+      "date": "2026-04-09 07:00",
+      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
+    },
     {
       "title": "How academia can help America heal - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
       "date": "2025-10-28 07:00",
       "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
-    },
-    {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
-      "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -77,6 +77,12 @@
       "summary": "Faculty elected to American Academy of Arts and Sciences  Stanford Report..."
     },
     {
+      "title": "Unearthed 128-year-old speech provides glimpse into Leland Stanford’s life - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTVzdRSmxHeXFfUXJZOURVUlA1Q01IcFBxTmE1bC1UbktCa293QzVWUVhlR2F0azczWXlhU3R3WUJxN1JZRVNtTS1ETkZHVmY0dHVYcjJpamJGUjl6allibTg1YjhMMVBBRTlyNzduelRzRW4wVFFneW1majZEdw?oc=5",
+      "date": "2026-04-23 02:36",
+      "summary": "Unearthed 128-year-old speech provides glimpse into Leland Stanford’s life  The Stanford Daily..."
+    },
+    {
       "title": "When AI relationships trigger ‘delusional spirals’ - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnR1UmtkQnZDTy1WMngydGdQdjZjQVZhdjNSQzBOQXhvSGpPX1ZwS3JpdDl3eWJxRHBhdkxaZHNCWDFFMXBrOXhMZTB3ZzVMUmlleWpKZWtyVWk2dk43UWFxMmdDY3ZNZWV0eGMyWFVEMDZBdUtIVEIxMzFCaHVHc2lqVWZlaE12eUpNV0k0dFVYUDZudnc2TDQxTjlKUVpK?oc=5",
       "date": "2026-04-20 21:42",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkcW9CVWxmY25PRm9NUW9OdktySDZpOGRZbUJVV1BOaGNFZWRfWWZ0Tl9zMFAycmZPZ29RcjY5M0VpOXlkUGFWUnpXQ2M0VmF5Uk9TbW1QR05Od2x4OGFmLUFoZWJ0UTZpTVE?oc=5",
       "date": "2026-04-22 23:03",
       "summary": "The Last Frontier: Why Stanford?  The Stanford Review..."
-    },
-    {
-      "title": "Annual photo contest highlights Earth’s wonders - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR1hzbkpRSE1YWEZEelBKOVlQQmtvbzd3VGQtYUY1Tk9YcnpaSHZpb0dSSWdhdXFfMDd3NXVyMzA3dmxUMnpLXzlyTzZYb2w0TFN1bHVTS1RSOE1WZ1RKOElTYm94RXZyUF8wdklrUzdfT2dkM2NlQnhTSXNzWjU5aHF4VzJkOGJJTWhZdQ?oc=5",
-      "date": "2026-04-22 21:09",
-      "summary": "Annual photo contest highlights Earth’s wonders  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -205,12 +205,6 @@
       "summary": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports  Reuters..."
     },
     {
-      "title": "Microsoft to invest $18 billion in Australia in AI push - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3lnb1RPbU5qNDJBMlpuYW9ta21xbTk1dGJiN3h1aW9jbWlBeXIweTRmQVFPeXJhZHdnYm5lNFNwekxPMGsybW85WVFlRWtMM0NUNFlRUkZGbVF3M3NYc3FRQ3lqZjlpVmE1SVpzbXlqUV9uZDNTQTNTTnI4aFV3WFY4Q25RNFNUeGRUdlR5N1ZjSV9oVVRZQXRZdXRyV3lfSnc?oc=5",
-      "date": "2026-04-23 01:00",
-      "summary": "Microsoft to invest $18 billion in Australia in AI push  Reuters..."
-    },
-    {
       "title": "Meta plans large-scale job cuts beginning in May, says Reuters - Social Media Today",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmZzRU1leE90WkRWamRXTUxHZ1BwLXNCNVNsNmJETVhIWjF5TEdFQXNWQlA2YkdWY01fNVFqc2lINmhxN1dER1JNQjlqTkxKRVRUM19QLUdlTmFDVEp4VmJ6SzdSLXUybTJ0Z3o1b2xUbDNSMnBHVThkRDBia09aWUdHMUVLYlJWWDZLVVQ2VG4teF8tcjVQRDdVSUF1aU4yUkdFWFdDdHE0S00?oc=5",
       "date": "2026-04-21 05:44",
@@ -221,6 +215,12 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQVQ3MHFteUExUWdrUFZyX1BIODRDYXUxeWVvUXF3ajdPbGhZT1kzcTdKRUtzSGtIZWRmR193dXZ5SDg2bHJvX2VKMFRLX1Z3RkNaMUtsZk9qbDYtcmdTTzRzX1dLYUNlTzVWWk4wMzlCcVVYYk9yc2oySllMc0FFSUFKUWV3M1Bpd0kydjNHRzUxaEd5amswODFURDlPN0diVHhDemk2dWVhUlNaQU1iYzdpQnlSYTJOSUg0YjV1NA?oc=5",
       "date": "2026-04-21 21:21",
       "summary": "Exclusive: SpaceX says unproven AI space data centers may not be commercially viable, filing shows  Reuters..."
+    },
+    {
+      "title": "Google puts AI agents at heart of its enterprise money-making push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaC1SX002a0pCeURJUGFrcmxHQmNlM2k2dldpYVFzTDgxQjhlaWp4NmJja1FHNS1sdkt3SzFFcWxpVlJJekVQUFdsTFJob3lLb1h1Rk1XSXpDRGR0VXVZWDI3UUhWVnFBelV4SVNYSVRtNkVta3dIMFNucGZCMGdSaERNTkU3Rk5TeTlpT1FsQ29PaXdwRDlIU2ZtamVSNGZYOFU0ZDdlMUU?oc=5",
+      "date": "2026-04-22 22:37",
+      "summary": "Google puts AI agents at heart of its enterprise money-making push  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -237,16 +237,16 @@
       "summary": "The Download: introducing the 10 Things That Matter in AI Right Now  MIT Technology Review..."
     },
     {
-      "title": "AI needs a strong data fabric to deliver business value - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFdueklmMDJRakVBbUVKVWtVbWhmTFR1Vk1kX1I2YlMxNmRVQTRBNEhQd25OcUlrUFFuSTlrY3JPbDYwZDVtcXB6MEcxTnV5QkI3WkVKM3A4Q3hKTGpIY1FpXzFSTllXVmZuaTNYRC01SngxZmtQQ1A4eFEtVzdYdVJEY19QdDA1T2Vqd2VNNDNMeW5qb3V5ZGdWUTA5cXRtVWRzRkgyMzFsUDVi0gGyAUFVX3lxTFBxWGRwN1FHSzJUU1JMdnJsM3ZFM0hQNzRtaWE0WlhQNFZTMHotS1lQWWs4VDRSZGRYbFR6ekgzYTBXOTZfTUxSQ2NWc3dNcHNOQ0Z4OXY3YzB4UFlxWnh4SDZkQ3dwNzFQV3VhZjF1WXpDTWhDYVF1SWs1OWl6OGpYZjZtVkdKZFZBbnVkbXhZaXNpSlBweVVHOHlVaFctdDVHSTBYRWlGV0dBZDBORW5DaFE?oc=5",
-      "date": "2026-04-22 10:05",
-      "summary": "AI needs a strong data fabric to deliver business value  MIT Technology Review..."
-    },
-    {
       "title": "Chinese tech workers are starting to train their AI doubles—and pushing back - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1VtUkYyWDM1bm5COTRWa1Q5UHltSEZ0eTV3cjc3TDJ0d2s3OVMxQkxIRkxJMS05S01kQWlURUJJVHR1dTFGXzB1V0JLZ2loQ0YxYWk1S0trdUNidEhCQWo3ZTRFZzVLWHJ6VFhhWjgyMU1HMEZ4d0VBblFjWVZRWENtdlV0MHc5Unp6YVpHbnDSAZYBQVVfeXFMT3VhYkVua2ZqNEJGSlJjSmZVS2tqUnl6OXJNRHE3ckx0Z1ZNcEtLMmNtbnB4Z2x4d2JWc3o1dk1uWEt6TFJHUFhTbWtBZ05xVTJNNDNUNVdXa01pR1ZQaEJPdi0zRWRBV0dxZGdkN0ZNOUo5UVdLQ0gwakxSZElYdFc5eTZqa1dRdHVnSF8tOVY2OXVLTWZ3?oc=5",
       "date": "2026-04-20 09:00",
       "summary": "Chinese tech workers are starting to train their AI doubles—and pushing back  MIT Technology Review..."
+    },
+    {
+      "title": "AI needs a strong data fabric to deliver business value - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFdueklmMDJRakVBbUVKVWtVbWhmTFR1Vk1kX1I2YlMxNmRVQTRBNEhQd25OcUlrUFFuSTlrY3JPbDYwZDVtcXB6MEcxTnV5QkI3WkVKM3A4Q3hKTGpIY1FpXzFSTllXVmZuaTNYRC01SngxZmtQQ1A4eFEtVzdYdVJEY19QdDA1T2Vqd2VNNDNMeW5qb3V5ZGdWUTA5cXRtVWRzRkgyMzFsUDVi0gGyAUFVX3lxTFBxWGRwN1FHSzJUU1JMdnJsM3ZFM0hQNzRtaWE0WlhQNFZTMHotS1lQWWs4VDRSZGRYbFR6ekgzYTBXOTZfTUxSQ2NWc3dNcHNOQ0Z4OXY3YzB4UFlxWnh4SDZkQ3dwNzFQV3VhZjF1WXpDTWhDYVF1SWs1OWl6OGpYZjZtVkdKZFZBbnVkbXhZaXNpSlBweVVHOHlVaFctdDVHSTBYRWlGV0dBZDBORW5DaFE?oc=5",
+      "date": "2026-04-22 10:05",
+      "summary": "AI needs a strong data fabric to deliver business value  MIT Technology Review..."
     },
     {
       "title": "World models - MIT Technology Review",
@@ -289,6 +289,12 @@
   ],
   "The Guardian Edu": [
     {
+      "title": "‘Apprenticeship penalty’ on benefits forces young people from poorer UK families to quit",
+      "link": "https://www.theguardian.com/education/2026/apr/23/apprenticeship-penalty-poorer-uk-families-benefits-young-people-quit-training",
+      "date": "2026-04-23 04:00",
+      "summary": "Government advisers call for review of rules that cause loss of household income when a child takes up job training Young people f..."
+    },
+    {
       "title": "Los Angeles school board votes to set limits on classroom screen time",
       "link": "https://www.theguardian.com/us-news/2026/apr/22/los-angeles-school-district-screen-time",
       "date": "2026-04-22 23:17",
@@ -311,15 +317,27 @@
       "link": "https://www.theguardian.com/us-news/2026/apr/21/texas-public-schools-ten-commandments",
       "date": "2026-04-21 23:49",
       "summary": "Appeals court ruling is a victory for conservatives who have long sought to incorporate more religion into schoolsSign up for the ..."
-    },
-    {
-      "title": "‘Muslim kids are really underrepresented’: the animated movie where medieval maths meets eager young minds",
-      "link": "https://www.theguardian.com/film/2026/apr/21/muslim-kids-are-really-underrepresented-the-animated-movie-where-medieval-maths-meets-eager-young-minds",
-      "date": "2026-04-21 08:34",
-      "summary": "Time Hoppers: The Silk Road is a time-travel adventure whose child heroes must save the legacy of Islamic scholars who shaped mode..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "AI-driven Hong Kong stock inflows from mainland China slow as investor options multiply",
+      "link": "https://www.scmp.com/business/china-business/article/3351090/ai-driven-hong-kong-stock-inflows-mainland-china-slow-investor-options-multiply?utm_source=rss_feed",
+      "date": "2026-04-23 04:49",
+      "summary": "Mainland Chinese investors have slowed their purchases of Hong Kong-listed shares this year after last year’s record inflows, as m..."
+    },
+    {
+      "title": "Why no disaster alarm was raised in Tai Po fire, probe hears",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351068/tai-po-probe-very-rare-damage-found-fallen-firefighters-breathing-apparatus?utm_source=rss_feed",
+      "date": "2026-04-23 03:11",
+      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+    },
+    {
+      "title": "Film on Manila hostage crisis sparks debate over ‘secondary trauma’ in Hong Kong",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3351071/film-manila-hostage-crisis-sparks-debate-over-secondary-trauma-hong-kong?utm_source=rss_feed",
+      "date": "2026-04-23 02:47",
+      "summary": "A Hong Kong film adapted from the 2010 Manila hostage crisis, which led to the deaths of eight Hongkongers, has stirred online deb..."
+    },
     {
       "title": "600 families seek second visit as residents return to worst-hit Wang Fuk Court tower",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3351067/600-families-seek-second-visit-residents-return-worst-hit-wang-fuk-court-tower?utm_source=rss_feed",
@@ -331,24 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351055/being-annoying-not-just-annoyance-its-harassment-under-tort-law?utm_source=rss_feed",
       "date": "2026-04-23 01:30",
       "summary": "The law of tort, from its Latin and Old French origin meaning “wrong”, saw a major development in Hong Kong at the beginning of th..."
-    },
-    {
-      "title": "Hong Kong’s education hub cannot be a one-market wonder",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3350074/hong-kongs-education-hub-cannot-be-one-market-wonder?utm_source=rss_feed",
-      "date": "2026-04-23 01:30",
-      "summary": "The numbers tell a revealing story. The city’s eight publicly funded universities, once primarily judged by academic output and gl..."
-    },
-    {
-      "title": "Travel scheme could allow Hong Kong, Macau yachts to sail to 6 Greater Bay Area ports",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3351051/travel-scheme-could-allow-hong-kong-macau-yachts-sail-6-greater-bay-area-ports?utm_source=rss_feed",
-      "date": "2026-04-23 00:30",
-      "summary": "A long-awaited cross-border solo travel scheme will allow yachts from Macau and Hong Kong to easily sail to about six designated p..."
-    },
-    {
-      "title": "What Hong Kong’s conservative stablecoin licence roll-out reveals",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3350356/what-hong-kongs-conservative-stablecoin-licence-roll-out-reveals?utm_source=rss_feed",
-      "date": "2026-04-22 22:30",
-      "summary": "The most revealing fact about Hong Kong’s stablecoin launch is not that licences were issued. It is who got them, and who did not...."
     }
   ],
   "New Scientist": [
