@@ -65,16 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "Faculty Senate votes to allow proctoring, amend Open Access Policy - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLTFVZUJLOFF2SC1zcGZOMDVreVE3UEgzYnhWaUVpblpDenVxbkpIZzhublNacWZhTkhTaEpDa1BRZHp1SDI4aVBNcEZfMFloTVhZaWtFNkd4TVZqd0RSRkNVXzFVZWlDUmdjVEo5Qk81MDBxZEFzVlJTWmxxbXlFWHNiWDRYMC10NlpTMVpWcw?oc=5",
-      "date": "2026-04-24 05:26",
-      "summary": "Faculty Senate votes to allow proctoring, amend Open Access Policy  Stanford University..."
-    },
-    {
       "title": "The Stanford Freshmen Who Want to Rule the World - The Atlantic",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZM1Etc1ZBUjNuclBBeVNVajIyRndtaVBQRlVnTEUxbkNNSGV1MzlEQVUwcUpvQkFDbjNkbFd5amI1MDBaOXFHSUZ2eUZLa04zYzlqeldQZV9lLWJlQjVYY0dwTmpObFZ5RFhGRV9DSG9EZEpuZ0lXWUY2TnN6dw?oc=5",
       "date": "2026-04-24 11:00",
       "summary": "The Stanford Freshmen Who Want to Rule the World  The Atlantic..."
+    },
+    {
+      "title": "Faculty Senate votes to allow proctoring, amend Open Access Policy - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLTFVZUJLOFF2SC1zcGZOMDVreVE3UEgzYnhWaUVpblpDenVxbkpIZzhublNacWZhTkhTaEpDa1BRZHp1SDI4aVBNcEZfMFloTVhZaWtFNkd4TVZqd0RSRkNVXzFVZWlDUmdjVEo5Qk81MDBxZEFzVlJTWmxxbXlFWHNiWDRYMC10NlpTMVpWcw?oc=5",
+      "date": "2026-04-24 05:26",
+      "summary": "Faculty Senate votes to allow proctoring, amend Open Access Policy  Stanford University..."
     },
     {
       "title": "When AI relationships trigger ‘delusional spirals’ - Stanford University",
@@ -89,10 +89,10 @@
       "summary": "Inside the new home of the Department of African and African American Studies  Stanford University..."
     },
     {
-      "title": "An AI Health Coach Could Change Your Mindset - Stanford HAI",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4T1VnNHRuSVFCWmc0aWdScGR1NXkxZGtJblc2MnNqalBLQkpDYW90YkFwOGY1WWtHUVJVQlMxcklWRTdrd3I3TmVLM0tDdWJJN0JyNjc2eXFNSXgtYXFpcWZCVlBRLWxIajZ6Nk5pNXBIdXc2d3FaSWhzV1NjM1U?oc=5",
-      "date": "2026-04-23 17:34",
-      "summary": "An AI Health Coach Could Change Your Mindset  Stanford HAI..."
+      "title": "Campus center to get makeover and new gathering spaces - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeFZlUDZHZE1iWTZoWFRRaGhGb0NzclVyZmdRdDFCZ1l1a2ZzeG5CVlZ3TlRkY05ocU5IbzdwV0hQcEVMcGNQZXJFMDY1SHVORVFZc1VwMllHdmtNem9hcWNNb2h4R0x6ZE52NjNCWnlXRFozZHpYcEo2M01iRFIwOEg3c2M1dExzT1Jr?oc=5",
+      "date": "2026-04-22 07:00",
+      "summary": "Campus center to get makeover and new gathering spaces  Stanford University..."
     }
   ],
   "Nature Careers": [
@@ -109,6 +109,12 @@
       "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01304-2Andrew Robinson reviews five of the best science picks...."
     },
     {
+      "title": "Brain tissue near tumours is loaded with plastic",
+      "link": "https://www.nature.com/articles/d41586-026-01281-6",
+      "date": "2026-04-24 00:00",
+      "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01281-6Relatively high levels of micro- and nanoplastics around br..."
+    },
+    {
       "title": "Hit a glitch in your research? Some ‘night science’ thinking could move it forward",
       "link": "https://www.nature.com/articles/d41586-026-01294-1",
       "date": "2026-04-24 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01071-0",
       "date": "2026-04-24 00:00",
       "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01071-0A taste of freedom...."
-    },
-    {
-      "title": "Closure of China’s influential journal ranking leaves academics reeling — what will take its place?",
-      "link": "https://www.nature.com/articles/d41586-026-01277-2",
-      "date": "2026-04-24 00:00",
-      "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01277-2Several other lists have been launched in the past year, bu..."
     }
   ],
   "Science News": [
@@ -205,22 +205,22 @@
       "summary": "White House accuses China of industrial-scale theft of AI technology  Reuters..."
     },
     {
+      "title": "US chipmakers hit record highs as Intel turbocharges AI rally - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1ZvUTlfazZUeXAwZ3IwOHdrU2xlM2NxTVNUR0RKWWFVckZJRlk0dWxxWFg0YnNZNU5xQURHenZ0bHYwM1J2TFRTTk1ZVzZUbVpJdzVuaG5KNk15bENkZTZPY0htR1VGVGdGdzRQUGM2bVVIVnRsTGxhd3hra1J6NlN1QlVCM3o5eWlTdERLc2U1d0lETGtYMF9wMTIxRVdvUzNXUU53?oc=5",
+      "date": "2026-04-24 14:23",
+      "summary": "US chipmakers hit record highs as Intel turbocharges AI rally  Reuters..."
+    },
+    {
       "title": "After call from Beijing, China's auto industry races to embed AI in just about everything - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYXdkaHV2WV8wRTFDNmN1amVieWpwZFNyT3cySlBoZkFKbkZacXJBVDgxalJHR29KSk9yZXJYWHhtdzVRbEliN0lOV19abi1fWHd3QjVRcnJRQUpWdjcwSHFIV3VlSHYtOW16MGJvYzJzUVBfbEF3SjNTR3QyVHRUZGM1WlNCNDVMZjFqcXAzM2lzQ1RGNWh1R0Y1UkN5bVg4bmxiNkNGaW5NeXJ6Z0dkQjEwTDY2d2c?oc=5",
       "date": "2026-04-24 06:11",
       "summary": "After call from Beijing, China's auto industry races to embed AI in just about everything  Reuters..."
     },
     {
-      "title": "At SpaceX, AI is burning the cash that Starlink earns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEc0dUVZdllFemdNaWlmQlRZOHN4NlpTOGQ4WnRIaVB2UThnVklVR3psX3FVV25FREZRODVtTGZ1RzlFd0h4V2hhUGFKRmxyQy1tZ3Vid3ZIaEJPbTY0SndOMk4xOW8tWV9pX2dHT2FZbmVieDAxZXRrNUNoRkg5VDBqMkZpT2lxa1RlSTZBd256S2c2UmhHRDc4TWVGck0?oc=5",
-      "date": "2026-04-24 11:32",
-      "summary": "At SpaceX, AI is burning the cash that Starlink earns  Reuters..."
-    },
-    {
-      "title": "DeepSeek previews new AI model adapted to run on Huawei chips - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVllcUNPUUdaaW1PZlVEblJFME5Ecnl3R1lvQmYwTVRUdUE2dng2cTdDNUFkTmVkRzNIcEk5WTRKdDJEX3BudElma2hGUjFTTDRTR2xNcndid2VzVmx6Y192Z0FmcDMwVm5nY3ZGY0k3VFVJZFM0dk9vYlhnTGNfU2tlbnRRLVJSbGpXS0J5X1k0MUh1LUZZSE54QUlXNzZLdDNyX3ZicVl0QzA?oc=5",
-      "date": "2026-04-24 03:11",
-      "summary": "DeepSeek previews new AI model adapted to run on Huawei chips  Reuters..."
+      "title": "Powered land and zombie projects: Real estate in the age of AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUxiVldMX0l3Z0lsWFZPbi1oazVkQzhDTk83T3VPZ2lBYkNDUUU5Ul9FeWp4Wnp3SEVCYXVLdmNvbC1DNGlfbEgzTEdFbElGMVVuMm92TzdTZlVMem11S0o2WWFucGJNVXoyRU9Mb2wwWDdnSV9sVzFsNHRPTGlyQ1R6a2J0Wk5yOFd2LXdNNkszLXNNWVFHVnM5UEI?oc=5",
+      "date": "2026-04-24 08:36",
+      "summary": "Powered land and zombie projects: Real estate in the age of AI  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -231,16 +231,16 @@
       "summary": "Health-care AI is here. We don’t know if it actually helps patients.  MIT Technology Review..."
     },
     {
-      "title": "Chinese tech workers are starting to train their AI doubles—and pushing back - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1VtUkYyWDM1bm5COTRWa1Q5UHltSEZ0eTV3cjc3TDJ0d2s3OVMxQkxIRkxJMS05S01kQWlURUJJVHR1dTFGXzB1V0JLZ2loQ0YxYWk1S0trdUNidEhCQWo3ZTRFZzVLWHJ6VFhhWjgyMU1HMEZ4d0VBblFjWVZRWENtdlV0MHc5Unp6YVpHbnDSAZYBQVVfeXFMT3VhYkVua2ZqNEJGSlJjSmZVS2tqUnl6OXJNRHE3ckx0Z1ZNcEtLMmNtbnB4Z2x4d2JWc3o1dk1uWEt6TFJHUFhTbWtBZ05xVTJNNDNUNVdXa01pR1ZQaEJPdi0zRWRBV0dxZGdkN0ZNOUo5UVdLQ0gwakxSZElYdFc5eTZqa1dRdHVnSF8tOVY2OXVLTWZ3?oc=5",
-      "date": "2026-04-20 09:00",
-      "summary": "Chinese tech workers are starting to train their AI doubles—and pushing back  MIT Technology Review..."
-    },
-    {
       "title": "AI needs a strong data fabric to deliver business value - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFdueklmMDJRakVBbUVKVWtVbWhmTFR1Vk1kX1I2YlMxNmRVQTRBNEhQd25OcUlrUFFuSTlrY3JPbDYwZDVtcXB6MEcxTnV5QkI3WkVKM3A4Q3hKTGpIY1FpXzFSTllXVmZuaTNYRC01SngxZmtQQ1A4eFEtVzdYdVJEY19QdDA1T2Vqd2VNNDNMeW5qb3V5ZGdWUTA5cXRtVWRzRkgyMzFsUDVi0gGyAUFVX3lxTFBxWGRwN1FHSzJUU1JMdnJsM3ZFM0hQNzRtaWE0WlhQNFZTMHotS1lQWWs4VDRSZGRYbFR6ekgzYTBXOTZfTUxSQ2NWc3dNcHNOQ0Z4OXY3YzB4UFlxWnh4SDZkQ3dwNzFQV3VhZjF1WXpDTWhDYVF1SWs1OWl6OGpYZjZtVkdKZFZBbnVkbXhZaXNpSlBweVVHOHlVaFctdDVHSTBYRWlGV0dBZDBORW5DaFE?oc=5",
       "date": "2026-04-22 10:05",
       "summary": "AI needs a strong data fabric to deliver business value  MIT Technology Review..."
+    },
+    {
+      "title": "Chinese tech workers are starting to train their AI doubles—and pushing back - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1VtUkYyWDM1bm5COTRWa1Q5UHltSEZ0eTV3cjc3TDJ0d2s3OVMxQkxIRkxJMS05S01kQWlURUJJVHR1dTFGXzB1V0JLZ2loQ0YxYWk1S0trdUNidEhCQWo3ZTRFZzVLWHJ6VFhhWjgyMU1HMEZ4d0VBblFjWVZRWENtdlV0MHc5Unp6YVpHbnDSAZYBQVVfeXFMT3VhYkVua2ZqNEJGSlJjSmZVS2tqUnl6OXJNRHE3ckx0Z1ZNcEtLMmNtbnB4Z2x4d2JWc3o1dk1uWEt6TFJHUFhTbWtBZ05xVTJNNDNUNVdXa01pR1ZQaEJPdi0zRWRBV0dxZGdkN0ZNOUo5UVdLQ0gwakxSZElYdFc5eTZqa1dRdHVnSF8tOVY2OXVLTWZ3?oc=5",
+      "date": "2026-04-20 09:00",
+      "summary": "Chinese tech workers are starting to train their AI doubles—and pushing back  MIT Technology Review..."
     },
     {
       "title": "China’s open-source bet - MIT Technology Review",
@@ -249,42 +249,42 @@
       "summary": "China’s open-source bet  MIT Technology Review..."
     },
     {
-      "title": "LLMs+ - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVRiZndzbGRZcHhfWndWU2VraFRZUEd4bTRQNGxUT0pQNC1NYnVFQ1lVT1N4V0czYmczV3NoaWxDenhFNWs1RWpyT2hvN2hNbWY3TnZ2TWtzTUFCUDJRd0E3Vzk0UTFWWld3SGh6aHpPNDh0aHlQeGJPMVFIOE1FN09IWkJvOHZY0gGOAUFVX3lxTE42WFA5eWVwbmM3YXJxR2RCeXktTXVoM2tOb0dqaDdOSTlnbGRPOEtSMVFCWHpDVjhpRkFLTy1JeFVDY3Y3R3RMdXpRajdEQlBHTWg5U2pyYXBFUDBPdWJmR3lBY0NFdDVOQVBIdUZCdy1MdkM1VE5zUVF3X0Rpcm1oQlhxMEZvSFRpaWN4SHc?oc=5",
-      "date": "2026-04-21 20:45",
-      "summary": "LLMs+  MIT Technology Review..."
+      "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlMxUE9aeFdIMU1DaGFLQ19OcTRKVmIzLUxXVFZzZkpZTEp0aU13WHhHQ1VoOUJOVUpFTDFNU3FXcXpIOVVsOGFGaS1QS05CLXlNN0JPdnhyTzhmTjlZM0NHNmgtM0pXZTNYUFo2cjluT0JLVllBaGZrQTFyVi1LVVpldGpNemkweDZMY3ZTS1RRLTBFazFSNFptYjc5TlZJTU50Y21OT1VHUmVqLUVWNHU1dFI3MEXSAbwBQVVfeXFMTVlBdzBXWk96U3QyODZxbUl1bXVVaXZDVUROajJZUTVnOUtpMFFpVW1FekMtVGlIMjFna3Bvc1lxZVFyTklrYWdOalZ6MDNrM1lGdEJsbWVXR1JVOWZJTXc4QzR6S3FIUTdieEZLOUp0YnlBNWZ2Zjc4SDFpQmhjc0FMV3lJV3VRUmNJSHo5LTNDV0VsRzlYSHlNOTRwdUlRRGZXWFZ2RGhwRWljQWpyYkpDV3FqSUxiOUpZdVg?oc=5",
+      "date": "2026-04-21 22:09",
+      "summary": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "This battered Jurassic sea giant held on against the odds, and its fossil hints at an unexpected survival strategy",
-      "link": "https://phys.org/news/2026-04-battered-jurassic-sea-giant-held.html",
-      "date": "2026-04-24 13:20",
-      "summary": "A fossil discovery in Mistelgau, Northern Bavaria, Germany, reveals that the last representatives of the giant ichthyosaurs of the..."
+      "title": "First gap-free peanut genomes reveal genes behind bigger seeds and better oils",
+      "link": "https://phys.org/news/2026-04-gap-free-peanut-genomes-reveal.html",
+      "date": "2026-04-24 15:00",
+      "summary": "An international team of researchers has produced complete, gap-free genome sequences for six peanut varieties, providing a compre..."
     },
     {
-      "title": "An agricultural mosaic in Taiwan",
-      "link": "https://phys.org/news/2026-04-agricultural-mosaic-taiwan.html",
-      "date": "2026-04-24 13:20",
-      "summary": "About 23 million people live in Taiwan, a Pacific island about the size of Maryland. Despite its size, the island produces a treme..."
+      "title": "New approach to detect ultra-rare part-per-sextillion isotopes could also sharpen dark matter searches",
+      "link": "https://phys.org/news/2026-04-approach-ultra-rare-sextillion-isotopes.html",
+      "date": "2026-04-24 14:40",
+      "summary": "The detection and study of isotopes, atoms of the same element that have different numbers of neutrons, could expand the scope of ..."
     },
     {
-      "title": "Some rays flash decoy eyes while others never do, as evolution's hidden trade-off comes into focus",
-      "link": "https://phys.org/news/2026-04-rays-decoy-eyes-evolution-hidden.html",
-      "date": "2026-04-24 13:00",
-      "summary": "From butterflies to peacocks, bold circular \"eyespots\" are among nature's most eye-catching patterns. But why do they appear in so..."
+      "title": "Warming El Nino set to return in mid-2026: UN",
+      "link": "https://phys.org/news/2026-04-el-nino-mid.html",
+      "date": "2026-04-24 14:40",
+      "summary": "The El Niño weather phenomenon, which pushed global temperatures to record highs the last time around, is expected to return in mi..."
     },
     {
-      "title": "Quantum 'dark modes' no longer block phonon control, opening new paths for scalable devices",
-      "link": "https://phys.org/news/2026-04-quantum-dark-modes-longer-block.html",
-      "date": "2026-04-24 13:00",
-      "summary": "Three RIKEN researchers have demonstrated a way to stop problematic \"dark modes\" from squelching intriguing effects in quantum sys..."
+      "title": "Could warming seas bring great white sharks back to the North Sea? A 5‑million‑year‑old shark tooth may provide clues",
+      "link": "https://phys.org/news/2026-04-seas-great-white-sharks-north.html",
+      "date": "2026-04-24 14:20",
+      "summary": "As Earth shifts to climates not seen for several hundred thousand years, we may need to look at ancient environments for clues abo..."
     },
     {
-      "title": "One-way phonon synchronization could survive noise and defects, theoretical physicists suggest",
-      "link": "https://phys.org/news/2026-04-phonon-synchronization-survive-noise-defects.html",
-      "date": "2026-04-24 12:40",
-      "summary": "A novel approach for realizing the one-way quantum synchronization of phonons has been proposed by three theoretical physicists at..."
+      "title": "Beavers leave a trail as they head into the Arctic and reshape the landscape",
+      "link": "https://phys.org/news/2026-04-beavers-trail-arctic-reshape-landscape.html",
+      "date": "2026-04-24 14:20",
+      "summary": "A study has provided new evidence of beavers' expansion into the Canadian Arctic by dating the changes they have made to the tundr..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Medical Council resumes disciplinary hearing that sparked public outcry",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3351376/medical-council-resumes-disciplinary-hearing-sparked-public-outcry?utm_source=rss_feed",
+      "date": "2026-04-24 14:46",
+      "summary": "Hong Kong’s Medical Council resumed a disciplinary inquiry on Friday over a suspected medical blunder that left a boy permanently ..."
+    },
+    {
       "title": "Departments must communicate better, fire chief tells Tai Po blaze hearing",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3351341/departments-must-communicate-better-fire-chief-tells-tai-po-blaze-hearing?utm_source=rss_feed",
       "date": "2026-04-24 13:00",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/business/banking-finance/article/3351327/life-insurance-sales-hong-kong-hit-record-amid-rise-millionaires?utm_source=rss_feed",
       "date": "2026-04-24 10:00",
       "summary": "Life insurance sales in Hong Kong rose 50.6 per cent to another record last year as affluent customers continued to buy policies i..."
-    },
-    {
-      "title": "Hong Kong CityU chief Freddy Boey quits post 2 years earlier than expected",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3351308/hong-kong-cityu-chief-freddy-boey-quits-post-2-years-earlier-expected?utm_source=rss_feed",
-      "date": "2026-04-24 09:10",
-      "summary": "The head of Hong Kong’s City University, Professor Freddy Boey Yin Chiang, has resigned with immediate effect for personal reasons..."
     }
   ],
   "New Scientist": [
