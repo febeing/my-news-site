@@ -65,16 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "The Stanford Freshmen Who Want to Rule the World - The Atlantic",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZM1Etc1ZBUjNuclBBeVNVajIyRndtaVBQRlVnTEUxbkNNSGV1MzlEQVUwcUpvQkFDbjNkbFd5amI1MDBaOXFHSUZ2eUZLa04zYzlqeldQZV9lLWJlQjVYY0dwTmpObFZ5RFhGRV9DSG9EZEpuZ0lXWUY2TnN6dw?oc=5",
-      "date": "2026-04-24 11:00",
-      "summary": "The Stanford Freshmen Who Want to Rule the World  The Atlantic..."
-    },
-    {
       "title": "Faculty Senate votes to allow proctoring, amend Open Access Policy - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLTFVZUJLOFF2SC1zcGZOMDVreVE3UEgzYnhWaUVpblpDenVxbkpIZzhublNacWZhTkhTaEpDa1BRZHp1SDI4aVBNcEZfMFloTVhZaWtFNkd4TVZqd0RSRkNVXzFVZWlDUmdjVEo5Qk81MDBxZEFzVlJTWmxxbXlFWHNiWDRYMC10NlpTMVpWcw?oc=5",
       "date": "2026-04-24 05:26",
       "summary": "Faculty Senate votes to allow proctoring, amend Open Access Policy  Stanford University..."
+    },
+    {
+      "title": "The Stanford Freshmen Who Want to Rule the World - The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZM1Etc1ZBUjNuclBBeVNVajIyRndtaVBQRlVnTEUxbkNNSGV1MzlEQVUwcUpvQkFDbjNkbFd5amI1MDBaOXFHSUZ2eUZLa04zYzlqeldQZV9lLWJlQjVYY0dwTmpObFZ5RFhGRV9DSG9EZEpuZ0lXWUY2TnN6dw?oc=5",
+      "date": "2026-04-24 11:00",
+      "summary": "The Stanford Freshmen Who Want to Rule the World  The Atlantic..."
     },
     {
       "title": "When AI relationships trigger ‘delusional spirals’ - Stanford University",
@@ -103,6 +103,12 @@
       "summary": "Nature, Published online: 24 April 2026; doi:10.1038/s41586-026-10518-3Author Correction: Commensal yeast promotes Salmonella Typh..."
     },
     {
+      "title": "Author Correction: A µ-opioid receptor superagonist analgesic with minimal adverse effects",
+      "link": "https://www.nature.com/articles/s41586-026-10552-1",
+      "date": "2026-04-24 00:00",
+      "summary": "Nature, Published online: 24 April 2026; doi:10.1038/s41586-026-10552-1Author Correction: A µ-opioid receptor superagonist analges..."
+    },
+    {
       "title": "From bats at dusk to asteroid quests: Books in brief",
       "link": "https://www.nature.com/articles/d41586-026-01304-2",
       "date": "2026-04-24 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01294-1",
       "date": "2026-04-24 00:00",
       "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01294-1Itai Yanai and Martin Lercher outline a creative thinking s..."
-    },
-    {
-      "title": "The memory dealer of Old Jeddah",
-      "link": "https://www.nature.com/articles/d41586-026-01071-0",
-      "date": "2026-04-24 00:00",
-      "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01071-0A taste of freedom...."
     }
   ],
   "Science News": [
@@ -205,10 +205,10 @@
       "summary": "White House accuses China of industrial-scale theft of AI technology  Reuters..."
     },
     {
-      "title": "US chipmakers hit record highs as Intel turbocharges AI rally - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1ZvUTlfazZUeXAwZ3IwOHdrU2xlM2NxTVNUR0RKWWFVckZJRlk0dWxxWFg0YnNZNU5xQURHenZ0bHYwM1J2TFRTTk1ZVzZUbVpJdzVuaG5KNk15bENkZTZPY0htR1VGVGdGdzRQUGM2bVVIVnRsTGxhd3hra1J6NlN1QlVCM3o5eWlTdERLc2U1d0lETGtYMF9wMTIxRVdvUzNXUU53?oc=5",
-      "date": "2026-04-24 14:23",
-      "summary": "US chipmakers hit record highs as Intel turbocharges AI rally  Reuters..."
+      "title": "At SpaceX, AI is burning the cash that Starlink earns - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEc0dUVZdllFemdNaWlmQlRZOHN4NlpTOGQ4WnRIaVB2UThnVklVR3psX3FVV25FREZRODVtTGZ1RzlFd0h4V2hhUGFKRmxyQy1tZ3Vid3ZIaEJPbTY0SndOMk4xOW8tWV9pX2dHT2FZbmVieDAxZXRrNUNoRkg5VDBqMkZpT2lxa1RlSTZBd256S2c2UmhHRDc4TWVGck0?oc=5",
+      "date": "2026-04-24 11:32",
+      "summary": "At SpaceX, AI is burning the cash that Starlink earns  Reuters..."
     },
     {
       "title": "After call from Beijing, China's auto industry races to embed AI in just about everything - Reuters",
@@ -217,10 +217,10 @@
       "summary": "After call from Beijing, China's auto industry races to embed AI in just about everything  Reuters..."
     },
     {
-      "title": "Powered land and zombie projects: Real estate in the age of AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUxiVldMX0l3Z0lsWFZPbi1oazVkQzhDTk83T3VPZ2lBYkNDUUU5Ul9FeWp4Wnp3SEVCYXVLdmNvbC1DNGlfbEgzTEdFbElGMVVuMm92TzdTZlVMem11S0o2WWFucGJNVXoyRU9Mb2wwWDdnSV9sVzFsNHRPTGlyQ1R6a2J0Wk5yOFd2LXdNNkszLXNNWVFHVnM5UEI?oc=5",
-      "date": "2026-04-24 08:36",
-      "summary": "Powered land and zombie projects: Real estate in the age of AI  Reuters..."
+      "title": "Intel soars on signs AI boom for CPUs is here - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTljTXlld2NZUEpMNUZ6RFlXS2VVNFJWcTd6UGQ5M3d5RkJJU1U3WEJnOXhnbVI5UmRIT09mdnNmQXk4QW9tcVVESzJyaU1KM3BQSndIdWowN19fSHdlY2ZWN1kxTTNId1VWTDZKRzlpUHB1MGNFbml0dWNqajNIVUg0Yl9nbG00RnNXbi1DeTBFU2dCOFZ2U0VZcHRWR3lDZkVVZE1FVWhqZEw0WXVV?oc=5",
+      "date": "2026-04-24 14:34",
+      "summary": "Intel soars on signs AI boom for CPUs is here  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "First gap-free peanut genomes reveal genes behind bigger seeds and better oils",
-      "link": "https://phys.org/news/2026-04-gap-free-peanut-genomes-reveal.html",
-      "date": "2026-04-24 15:00",
-      "summary": "An international team of researchers has produced complete, gap-free genome sequences for six peanut varieties, providing a compre..."
+      "title": "Sombrero Galaxy's vast halo emerges in rare detail 30 million light-years away",
+      "link": "https://phys.org/news/2026-04-sombrero-galaxy-vast-halo-emerges.html",
+      "date": "2026-04-24 16:50",
+      "summary": "Messier 104, nicknamed the Sombrero Galaxy, is a popular target for amateur observing and astronomical research. Its recognizable ..."
     },
     {
-      "title": "New approach to detect ultra-rare part-per-sextillion isotopes could also sharpen dark matter searches",
-      "link": "https://phys.org/news/2026-04-approach-ultra-rare-sextillion-isotopes.html",
-      "date": "2026-04-24 14:40",
-      "summary": "The detection and study of isotopes, atoms of the same element that have different numbers of neutrons, could expand the scope of ..."
+      "title": "'Aquila Booster' challenges theoretical limits of particle acceleration in pulsar wind nebulae",
+      "link": "https://phys.org/news/2026-04-aquila-booster-theoretical-limits-particle.html",
+      "date": "2026-04-24 16:40",
+      "summary": "The Large High Altitude Air Shower Observatory (LHAASO) has detected PeV (1015 eV) gamma-ray emission from a pulsar wind nebula po..."
     },
     {
-      "title": "Warming El Nino set to return in mid-2026: UN",
-      "link": "https://phys.org/news/2026-04-el-nino-mid.html",
-      "date": "2026-04-24 14:40",
-      "summary": "The El Niño weather phenomenon, which pushed global temperatures to record highs the last time around, is expected to return in mi..."
+      "title": "LAMOST maps open cluster NGC 1647, linking broad main sequence to differential reddening",
+      "link": "https://phys.org/news/2026-04-lamost-cluster-ngc-linking-broad.html",
+      "date": "2026-04-24 16:20",
+      "summary": "Using the Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST), astronomers have observed a nearby young open cluste..."
     },
     {
-      "title": "Could warming seas bring great white sharks back to the North Sea? A 5‑million‑year‑old shark tooth may provide clues",
-      "link": "https://phys.org/news/2026-04-seas-great-white-sharks-north.html",
-      "date": "2026-04-24 14:20",
-      "summary": "As Earth shifts to climates not seen for several hundred thousand years, we may need to look at ancient environments for clues abo..."
+      "title": "Gravity's subtle effect on light could improve groundwater, volcano and carbon storage monitoring",
+      "link": "https://phys.org/news/2026-04-gravity-subtle-effect-groundwater-volcano.html",
+      "date": "2026-04-24 16:00",
+      "summary": "A study by University of Wollongong (UOW) physicist Dr. Enbang Li has demonstrated that gravity can subtly influence the behavior ..."
     },
     {
-      "title": "Beavers leave a trail as they head into the Arctic and reshape the landscape",
-      "link": "https://phys.org/news/2026-04-beavers-trail-arctic-reshape-landscape.html",
-      "date": "2026-04-24 14:20",
-      "summary": "A study has provided new evidence of beavers' expansion into the Canadian Arctic by dating the changes they have made to the tundr..."
+      "title": "42 lost pages of the new testament manuscript discovered",
+      "link": "https://phys.org/news/2026-04-lost-pages-testament-manuscript.html",
+      "date": "2026-04-24 15:40",
+      "summary": "An international team of academics led by Professor Garrick Allen at the University of Glasgow has successfully recovered 42 lost ..."
     }
   ],
   "The Guardian Edu": [
@@ -321,7 +321,13 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Medical Council resumes disciplinary hearing that sparked public outcry",
+      "title": "Changes to fire services law with tougher penalties set for public consultation",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351380/changes-fire-services-law-tougher-penalties-set-public-consultation?utm_source=rss_feed",
+      "date": "2026-04-24 15:12",
+      "summary": "Hong Kong authorities are planning to launch a public consultation over a raft of new fire safety-related requirements and offence..."
+    },
+    {
+      "title": "Disciplinary inquiry resumes into doctor’s alleged baby blunder 16 years ago",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3351376/medical-council-resumes-disciplinary-hearing-sparked-public-outcry?utm_source=rss_feed",
       "date": "2026-04-24 14:46",
       "summary": "Hong Kong’s Medical Council resumed a disciplinary inquiry on Friday over a suspected medical blunder that left a boy permanently ..."
@@ -343,15 +349,15 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3351351/over-50-central-restaurants-shops-join-drive-boost-spending-lure-tourists?utm_source=rss_feed",
       "date": "2026-04-24 12:00",
       "summary": "More than 50 restaurants and shops have joined a “tourism everywhere” initiative to promote Hong Kong’s bustling Central district ..."
-    },
-    {
-      "title": "Life insurance sales in Hong Kong hit record amid ‘rise of millionaires’",
-      "link": "https://www.scmp.com/business/banking-finance/article/3351327/life-insurance-sales-hong-kong-hit-record-amid-rise-millionaires?utm_source=rss_feed",
-      "date": "2026-04-24 10:00",
-      "summary": "Life insurance sales in Hong Kong rose 50.6 per cent to another record last year as affluent customers continued to buy policies i..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Symptoms of early dementia reversed by bespoke treatment plans",
+      "link": "https://www.newscientist.com/article/2524198-symptoms-of-early-dementia-reversed-by-bespoke-treatment-plans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-24 12:33",
+      "summary": "People with cognitive decline or early-stage dementia saw their symptoms improve when given bespoke treatment plans that targeted ..."
+    },
     {
       "title": "QBox theory may offer glimpse of reality deeper than quantum realm",
       "link": "https://www.newscientist.com/article/2524032-qbox-theory-may-offer-glimpse-of-reality-deeper-than-quantum-realm/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2523882-exercise-advice-for-long-covid-may-be-doing-more-harm-than-good/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-22 14:23",
       "summary": "Exercise has been touted as a tool for managing and treating long covid, but much of the evidence has neglected one of its most de..."
-    },
-    {
-      "title": "Catching a cold can delay cancer from spreading to the lungs",
-      "link": "https://www.newscientist.com/article/2524114-catching-a-cold-can-delay-cancer-from-spreading-to-the-lungs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-23 17:00",
-      "summary": "Infecting mice with RSV, a common virus that causes cold-like symptoms, prevented breast cancer cells from reaching their lungs. T..."
     }
   ]
 }
