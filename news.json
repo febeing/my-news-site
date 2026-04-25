@@ -83,16 +83,16 @@
       "summary": "Stanford investigating after altercation between Israeli soldier and student during campus event  ABC7 San Francisco..."
     },
     {
-      "title": "FSU Edged at Stanford to Begin Series - seminoles.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFR2cVRFT0h3Z0gyaHVldVQzQTFzcUs2WThtMVVLbzc2TjdYMGp0YUZwc0NhMVVUNjF0RllwRHB2YVZ6cGV0WFhUZUpLcFd4dnhoMk5aNnB0ejVRcTIxc2N2a1pWSmJpVDhSdGxaS1BWZ3JIeXNKYVdrR0VUR3RBQll1WjV5WDRhWVFB?oc=5",
-      "date": "2026-04-25 05:39",
-      "summary": "FSU Edged at Stanford to Begin Series  seminoles.com..."
-    },
-    {
       "title": "Campus center to get makeover and new gathering spaces - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeFZlUDZHZE1iWTZoWFRRaGhGb0NzclVyZmdRdDFCZ1l1a2ZzeG5CVlZ3TlRkY05ocU5IbzdwV0hQcEVMcGNQZXJFMDY1SHVORVFZc1VwMllHdmtNem9hcWNNb2h4R0x6ZE52NjNCWnlXRFozZHpYcEo2M01iRFIwOEg3c2M1dExzT1Jr?oc=5",
       "date": "2026-04-22 07:00",
       "summary": "Campus center to get makeover and new gathering spaces  Stanford University..."
+    },
+    {
+      "title": "FSU Edged at Stanford to Begin Series - seminoles.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFR2cVRFT0h3Z0gyaHVldVQzQTFzcUs2WThtMVVLbzc2TjdYMGp0YUZwc0NhMVVUNjF0RllwRHB2YVZ6cGV0WFhUZUpLcFd4dnhoMk5aNnB0ejVRcTIxc2N2a1pWSmJpVDhSdGxaS1BWZ3JIeXNKYVdrR0VUR3RBQll1WjV5WDRhWVFB?oc=5",
+      "date": "2026-04-25 05:39",
+      "summary": "FSU Edged at Stanford to Begin Series  seminoles.com..."
     }
   ],
   "Nature Careers": [
@@ -132,7 +132,7 @@
       "title": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication",
       "link": "https://www.science.org/content/article/after-pulling-vaccine-study-bhattacharya-criticizes-long-running-cdc-publication",
       "date": "2026-04-24 05:30",
-      "summary": "Agency’s temporary director says Mortality and Morbidity Weekly Report needs external reviewers..."
+      "summary": "Agency’s temporary director says Morbidity and Mortality Weekly Report needs external reviewers..."
     },
     {
       "title": "Can Starship succeed where the space shuttle struggled?",
@@ -321,16 +321,22 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "What smokers need to know about Hong Kong’s new e-cigarette ban",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351426/what-smokers-need-know-about-hong-kongs-new-e-cigarette-ban?utm_source=rss_feed",
+      "date": "2026-04-25 11:15",
+      "summary": "Hong Kong’s new ban on possessing e-cigarettes, commonly known as vapes, and related products in public places will take effect on..."
+    },
+    {
       "title": "Reverend Derek Li, father of injured Hong Kong Mirror dancer Mo Li, dies",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3351424/reverend-derek-li-father-injured-hong-kong-dancer-mo-li-has-died?utm_source=rss_feed",
       "date": "2026-04-25 10:19",
       "summary": "The father of Mo Li Kai-yin, the dancer paralysed by a falling giant screen during a 2022 concert by popular Hong Kong boy band Mi..."
     },
     {
-      "title": "Wang Fuk Court resident cherishes chance to capture final photo of lost sea view",
+      "title": "Wang Fuk Court resident cherishes chance to capture final photo of sea from flat",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3351423/wang-fuk-court-resident-cherishes-chance-capture-final-photo-lost-sea-view?utm_source=rss_feed",
       "date": "2026-04-25 10:17",
-      "summary": "To Ian Chu, capturing one last image of the sea view from his home before it disappears was a final wish as he returned on Saturda..."
+      "summary": "For Ian Chu, capturing one last image of the sea from his home before it was gone forever was a final wish as he returned on Satur..."
     },
     {
       "title": "Hong Kong developers clear stock amid strong demand and shrinking supply",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351416/hong-kong-police-bust-motorcycle-theft-syndicate-arrest-5-over-14-cases?utm_source=rss_feed",
       "date": "2026-04-25 08:20",
       "summary": "Police have dismantled a motorcycle theft syndicate and arrested five people, believed to be linked to 14 cases across Hong Kong, ..."
-    },
-    {
-      "title": "SCMP scoops 74 awards, led by Hong Kong fencing infographic in design competition",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3351415/scmp-scoops-74-awards-led-hong-kong-fencing-infographic-design-competition?utm_source=rss_feed",
-      "date": "2026-04-25 08:14",
-      "summary": "The South China Morning Post has won 74 awards at the 47th edition of the Society for News Design’s Creative Competition, includin..."
     }
   ],
   "New Scientist": [
