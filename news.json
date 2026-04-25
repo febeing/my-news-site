@@ -39,6 +39,12 @@
       "summary": "How academia can help America heal  Harvard Gazette..."
     },
     {
+      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
+      "date": "2026-04-09 07:00",
+      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
+    },
+    {
       "title": "Crossing line between good and bad anxiety - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
       "date": "2025-09-30 07:00",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
       "date": "2026-01-23 08:00",
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
-    },
-    {
-      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
-      "date": "2025-10-28 07:00",
-      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -89,10 +89,10 @@
       "summary": "Baseball vs Stanford on 04/24/2026 - Box Score - Florida State University  seminoles.com..."
     },
     {
-      "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FZkExZGtiTnNiRTlIQ2xIMTg5MUNWMGthcGV1SEx1RWJ3a2N3M0RCVkYxaE1lUXVKQ21KdmZQNGU3TDEydDJiSzVTclhjLTM5UGlhTk9WQTFKYjk3V3NQTUo2RHJQZEJWUGhHN0FidmJXbXBpX3JJRlJjMzQ?oc=5",
-      "date": "2026-04-23 18:24",
-      "summary": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty  WIRED..."
+      "title": "Campus center to get makeover and new gathering spaces - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeFZlUDZHZE1iWTZoWFRRaGhGb0NzclVyZmdRdDFCZ1l1a2ZzeG5CVlZ3TlRkY05ocU5IbzdwV0hQcEVMcGNQZXJFMDY1SHVORVFZc1VwMllHdmtNem9hcWNNb2h4R0x6ZE52NjNCWnlXRFozZHpYcEo2M01iRFIwOEg3c2M1dExzT1Jr?oc=5",
+      "date": "2026-04-22 07:00",
+      "summary": "Campus center to get makeover and new gathering spaces  Stanford University..."
     }
   ],
   "Nature Careers": [
@@ -193,10 +193,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "Exclusive: SpaceX conquered the stars, now eyes bigger opportunity in AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYkU0MVV1QlJvMDZDT1BaaXlnS1VmdlcwYTdOLS1oZ0pQbmowbmpjLU53VV9nUGNSQ1NNNmR5RzU0dzlKd3NJYW54OWNTd1BreDdkRkU2WnhCTU5Nb3FRcXBBUVl1MjZmd050Y0QwSktlOWxHWHZMMDNhc2d0azc4QVZnMkJFN2QwZTVuNmt0dUZjWnhlV01YeDVXOA?oc=5",
-      "date": "2026-04-23 10:04",
-      "summary": "Exclusive: SpaceX conquered the stars, now eyes bigger opportunity in AI  Reuters..."
+      "title": "Google to invest up to $40 billion in AI rival Anthropic - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelhLSVpIR0hNMkd6LWcwM1BCeVk4SE9GOGk1MF9TajBfc1AzRWU4RFh2UzlBTkhLLWdsZEdlR3o5N19JMFk3TjMwbHpQWXBvdGVaNUpqdlRucFBJd1F6Mk9xY3lRRS10NVB1OFZTdWFwWnIyWC1oYmo1allMQ0lVQjV5b0FNREVqcUtWdGdzWXJQY3RXU1k2WHlpM19WdWtEUEpKUFJzbV83Y21vZGRObw?oc=5",
+      "date": "2026-04-24 18:07",
+      "summary": "Google to invest up to $40 billion in AI rival Anthropic  Reuters..."
     },
     {
       "title": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy - Reuters",
@@ -205,22 +205,22 @@
       "summary": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy  Reuters..."
     },
     {
+      "title": "At SpaceX, AI is burning the cash that Starlink earns - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEc0dUVZdllFemdNaWlmQlRZOHN4NlpTOGQ4WnRIaVB2UThnVklVR3psX3FVV25FREZRODVtTGZ1RzlFd0h4V2hhUGFKRmxyQy1tZ3Vid3ZIaEJPbTY0SndOMk4xOW8tWV9pX2dHT2FZbmVieDAxZXRrNUNoRkg5VDBqMkZpT2lxa1RlSTZBd256S2c2UmhHRDc4TWVGck0?oc=5",
+      "date": "2026-04-24 10:03",
+      "summary": "At SpaceX, AI is burning the cash that Starlink earns  Reuters..."
+    },
+    {
       "title": "Exclusive: US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVRVY1RiN1lqaW50bmtBZUFoUmdqU3JaNUdaenlmd21LT0NXQnFySjJBMzl2QzVQTjBCRlNEMG1OMWhtQU1PUmhkdlJrUXU4ZXZZUlZHZWwxNlYwSmdWV2ltbHNCU1pqQmprdXhHMXJ4MmdZbkFqMkRjWUhtYWwxNkRRZnRWZThrN0M3Y0VQNFhTdnl3cURCNlpxUUd6bzJNY3N3Q1pvMjhmZGpURjdaR1RleGlwSjRlaE1tRWFhajVIRjg?oc=5",
       "date": "2026-04-24 22:32",
       "summary": "Exclusive: US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms  Reuters..."
     },
     {
-      "title": "Google to invest up to $40 billion in AI rival Anthropic - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelhLSVpIR0hNMkd6LWcwM1BCeVk4SE9GOGk1MF9TajBfc1AzRWU4RFh2UzlBTkhLLWdsZEdlR3o5N19JMFk3TjMwbHpQWXBvdGVaNUpqdlRucFBJd1F6Mk9xY3lRRS10NVB1OFZTdWFwWnIyWC1oYmo1allMQ0lVQjV5b0FNREVqcUtWdGdzWXJQY3RXU1k2WHlpM19WdWtEUEpKUFJzbV83Y21vZGRObw?oc=5",
-      "date": "2026-04-24 18:07",
-      "summary": "Google to invest up to $40 billion in AI rival Anthropic  Reuters..."
-    },
-    {
-      "title": "At SpaceX, AI is burning the cash that Starlink earns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEc0dUVZdllFemdNaWlmQlRZOHN4NlpTOGQ4WnRIaVB2UThnVklVR3psX3FVV25FREZRODVtTGZ1RzlFd0h4V2hhUGFKRmxyQy1tZ3Vid3ZIaEJPbTY0SndOMk4xOW8tWV9pX2dHT2FZbmVieDAxZXRrNUNoRkg5VDBqMkZpT2lxa1RlSTZBd256S2c2UmhHRDc4TWVGck0?oc=5",
-      "date": "2026-04-24 10:03",
-      "summary": "At SpaceX, AI is burning the cash that Starlink earns  Reuters..."
+      "title": "Powered land and zombie projects: Real estate in the age of AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUxiVldMX0l3Z0lsWFZPbi1oazVkQzhDTk83T3VPZ2lBYkNDUUU5Ul9FeWp4Wnp3SEVCYXVLdmNvbC1DNGlfbEgzTEdFbElGMVVuMm92TzdTZlVMem11S0o2WWFucGJNVXoyRU9Mb2wwWDdnSV9sVzFsNHRPTGlyQ1R6a2J0Wk5yOFd2LXdNNkszLXNNWVFHVnM5UEI?oc=5",
+      "date": "2026-04-24 04:00",
+      "summary": "Powered land and zombie projects: Real estate in the age of AI  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Forty years on from the disaster, why there are foxes, bears and bison again around Chernobyl",
+      "link": "https://phys.org/news/2026-04-forty-years-disaster-foxes-bison.html",
+      "date": "2026-04-25 21:30",
+      "summary": "In the novel \"When There Are Wolves Again\" by E.J. Swift, the Chernobyl disaster and its legacy is extrapolated to a near future w..."
+    },
+    {
+      "title": "Fluorescent probe lights up centrioles and cilia in living cells across species",
+      "link": "https://phys.org/news/2026-04-fluorescent-probe-centrioles-cilia-cells.html",
+      "date": "2026-04-25 21:00",
+      "summary": "Scientists at EPFL have developed CenSpark, a fluorescent probe that makes centrioles and cilia visible inside living cells, helpi..."
+    },
+    {
       "title": "More shearwaters are washing up dead on Australian beaches. It's not due to 'natural' causes",
       "link": "https://phys.org/news/2026-04-shearwaters-dead-australian-beaches-due.html",
       "date": "2026-04-25 20:30",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-04-nyc-subway-riders-stay-home.html",
       "date": "2026-04-25 19:00",
       "summary": "On a sweltering August afternoon or in the teeth of a winter storm, New York City subway riders make a quiet calculation: Is the t..."
-    },
-    {
-      "title": "Catalysis App: Structured research data for developing sustainable catalysts",
-      "link": "https://phys.org/news/2026-04-catalysis-app-sustainable-catalysts.html",
-      "date": "2026-04-25 18:30",
-      "summary": "Catalysis—the reduction of activation energy in a chemical reaction by a catalyst—plays a key role in the chemical industry, as we..."
-    },
-    {
-      "title": "Before dinosaurs vanished, a hamster-sized mammal was already shaping what survived next on the Pacific Coast",
-      "link": "https://phys.org/news/2026-04-dinosaurs-hamster-sized-mammal-survived.html",
-      "date": "2026-04-25 18:00",
-      "summary": "Mammals and dinosaurs coexisted on Earth until a catastrophic event 66 million years ago killed 75% of life on the planet. Despite..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "To be the world No 2 financial centre, Hong Kong must be a rule maker",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3351042/be-world-no-2-financial-centre-hong-kong-must-be-rule-maker?utm_source=rss_feed",
+      "date": "2026-04-25 21:30",
+      "summary": "Hong Kong Financial Secretary Paul Chan Mo-po recently said the city could rise to become the world’s No 2 financial centre in 10-..."
+    },
+    {
       "title": "Photo of labourer smoking on scaffolding triggers anger after Tai Po blaze",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3351440/photo-labourer-smoking-scaffolding-triggers-anger-after-tai-po-blaze?utm_source=rss_feed",
       "date": "2026-04-25 15:48",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351426/what-smokers-need-know-about-hong-kongs-new-e-cigarette-ban?utm_source=rss_feed",
       "date": "2026-04-25 11:15",
       "summary": "Hong Kong’s new ban on possessing e-cigarettes, commonly known as vapes, and related products in public places will take effect on..."
-    },
-    {
-      "title": "Reverend Derek Li, father of injured Hong Kong Mirror dancer Mo Li, dies",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3351424/reverend-derek-li-father-injured-hong-kong-dancer-mo-li-has-died?utm_source=rss_feed",
-      "date": "2026-04-25 10:19",
-      "summary": "The father of Mo Li Kai-yin, the dancer paralysed by a falling giant screen during a 2022 concert by popular Hong Kong boy band Mi..."
     }
   ],
   "New Scientist": [
