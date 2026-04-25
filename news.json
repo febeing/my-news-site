@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Catalysis App: Structured research data for developing sustainable catalysts",
+      "link": "https://phys.org/news/2026-04-catalysis-app-sustainable-catalysts.html",
+      "date": "2026-04-25 18:30",
+      "summary": "Catalysis—the reduction of activation energy in a chemical reaction by a catalyst—plays a key role in the chemical industry, as we..."
+    },
+    {
+      "title": "Before dinosaurs vanished, a hamster-sized mammal was already shaping what survived next on the Pacific Coast",
+      "link": "https://phys.org/news/2026-04-dinosaurs-hamster-sized-mammal-survived.html",
+      "date": "2026-04-25 18:00",
+      "summary": "Mammals and dinosaurs coexisted on Earth until a catastrophic event 66 million years ago killed 75% of life on the planet. Despite..."
+    },
+    {
       "title": "Contribution to Artemis II Moon mission sees successful test of a space camera under cosmic ray conditions",
       "link": "https://phys.org/news/2026-04-contribution-artemis-ii-moon-mission.html",
       "date": "2026-04-25 17:30",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-04-legacy-college-diversity.html",
       "date": "2026-04-25 16:30",
       "summary": "At some highly selective colleges and universities, cohorts of mostly white, wealthy applicants have three to eight times greater ..."
-    },
-    {
-      "title": "This life‑threatening bacterium's hidden motor just gave medicine an unexpected opening to fight back",
-      "link": "https://phys.org/news/2026-04-lifethreatening-bacterium-hidden-motor-gave.html",
-      "date": "2026-04-25 16:00",
-      "summary": "Scientists have mapped in unprecedented detail the structure of Vibrio bacteria, which can cause life-threatening infections linke..."
-    },
-    {
-      "title": "Don't just plant trees, plant forests to restore biodiversity for the future",
-      "link": "https://phys.org/news/2026-04-dont-trees-forests-biodiversity-future.html",
-      "date": "2026-04-25 15:30",
-      "summary": "Around the world, people plan to plant more than 1 trillion trees this decade in an ambitious effort to slow climate change and re..."
     }
   ],
   "The Guardian Edu": [
@@ -349,38 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3351424/reverend-derek-li-father-injured-hong-kong-dancer-mo-li-has-died?utm_source=rss_feed",
       "date": "2026-04-25 10:19",
       "summary": "The father of Mo Li Kai-yin, the dancer paralysed by a falling giant screen during a 2022 concert by popular Hong Kong boy band Mi..."
-    }
-  ],
-  "New Scientist": [
-    {
-      "title": "Gravity's strength measured more reliably than ever before",
-      "link": "https://www.newscientist.com/article/2524194-gravitys-strength-measured-more-reliably-than-ever-before/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-24 18:00",
-      "summary": "Measuring the strength of gravity is extraordinarily difficult, and different experiments have always disagreed – but a new test i..."
-    },
-    {
-      "title": "Symptoms of early dementia reversed by bespoke treatment plans",
-      "link": "https://www.newscientist.com/article/2524198-symptoms-of-early-dementia-reversed-by-bespoke-treatment-plans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-24 12:33",
-      "summary": "People with cognitive decline or early-stage dementia saw their symptoms improve when given bespoke treatment plans that targeted ..."
-    },
-    {
-      "title": "QBox theory may offer glimpse of reality deeper than quantum realm",
-      "link": "https://www.newscientist.com/article/2524032-qbox-theory-may-offer-glimpse-of-reality-deeper-than-quantum-realm/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-24 10:00",
-      "summary": "Physicists have long suspected that there is a layer of physical reality beneath quantum theory and a new mathematical model unvei..."
-    },
-    {
-      "title": "Largest-ever octopus was great white shark of invertebrate predators",
-      "link": "https://www.newscientist.com/article/2524049-largest-ever-octopus-was-great-white-shark-of-invertebrate-predators/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-23 19:00",
-      "summary": "During the Cretaceous, 19-metre-long predatory octopuses swam the seas, and evidence from their fossilised remains suggest they ma..."
-    },
-    {
-      "title": "Do you need to worry about Mythos, Anthropic's computer-hacking AI?",
-      "link": "https://www.newscientist.com/article/2524008-do-you-need-to-worry-about-mythos-anthropics-computer-hacking-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-23 18:00",
-      "summary": "A powerful AI kept from public access because of its ability to hack computers with impunity is making headlines around the world...."
     }
   ]
 }
