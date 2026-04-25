@@ -199,16 +199,16 @@
       "summary": "Google to invest up to $40 billion in AI rival Anthropic  Reuters..."
     },
     {
-      "title": "Intel soars on signs AI boom for CPUs is here - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTljTXlld2NZUEpMNUZ6RFlXS2VVNFJWcTd6UGQ5M3d5RkJJU1U3WEJnOXhnbVI5UmRIT09mdnNmQXk4QW9tcVVESzJyaU1KM3BQSndIdWowN19fSHdlY2ZWN1kxTTNId1VWTDZKRzlpUHB1MGNFbml0dWNqajNIVUg0Yl9nbG00RnNXbi1DeTBFU2dCOFZ2U0VZcHRWR3lDZkVVZE1FVWhqZEw0WXVV?oc=5",
-      "date": "2026-04-24 09:28",
-      "summary": "Intel soars on signs AI boom for CPUs is here  Reuters..."
-    },
-    {
       "title": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVllcUNPUUdaaW1PZlVEblJFME5Ecnl3R1lvQmYwTVRUdUE2dng2cTdDNUFkTmVkRzNIcEk5WTRKdDJEX3BudElma2hGUjFTTDRTR2xNcndid2VzVmx6Y192Z0FmcDMwVm5nY3ZGY0k3VFVJZFM0dk9vYlhnTGNfU2tlbnRRLVJSbGpXS0J5X1k0MUh1LUZZSE54QUlXNzZLdDNyX3ZicVl0QzA?oc=5",
       "date": "2026-04-24 03:11",
       "summary": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy  Reuters..."
+    },
+    {
+      "title": "At SpaceX, AI is burning the cash that Starlink earns - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEc0dUVZdllFemdNaWlmQlRZOHN4NlpTOGQ4WnRIaVB2UThnVklVR3psX3FVV25FREZRODVtTGZ1RzlFd0h4V2hhUGFKRmxyQy1tZ3Vid3ZIaEJPbTY0SndOMk4xOW8tWV9pX2dHT2FZbmVieDAxZXRrNUNoRkg5VDBqMkZpT2lxa1RlSTZBd256S2c2UmhHRDc4TWVGck0?oc=5",
+      "date": "2026-04-24 10:03",
+      "summary": "At SpaceX, AI is burning the cash that Starlink earns  Reuters..."
     },
     {
       "title": "Exclusive: US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms - Reuters",
@@ -217,10 +217,10 @@
       "summary": "Exclusive: US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms  Reuters..."
     },
     {
-      "title": "At SpaceX, AI is burning the cash that Starlink earns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEc0dUVZdllFemdNaWlmQlRZOHN4NlpTOGQ4WnRIaVB2UThnVklVR3psX3FVV25FREZRODVtTGZ1RzlFd0h4V2hhUGFKRmxyQy1tZ3Vid3ZIaEJPbTY0SndOMk4xOW8tWV9pX2dHT2FZbmVieDAxZXRrNUNoRkg5VDBqMkZpT2lxa1RlSTZBd256S2c2UmhHRDc4TWVGck0?oc=5",
-      "date": "2026-04-24 10:03",
-      "summary": "At SpaceX, AI is burning the cash that Starlink earns  Reuters..."
+      "title": "Powered land and zombie projects: Real estate in the age of AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUxiVldMX0l3Z0lsWFZPbi1oazVkQzhDTk83T3VPZ2lBYkNDUUU5Ul9FeWp4Wnp3SEVCYXVLdmNvbC1DNGlfbEgzTEdFbElGMVVuMm92TzdTZlVMem11S0o2WWFucGJNVXoyRU9Mb2wwWDdnSV9sVzFsNHRPTGlyQ1R6a2J0Wk5yOFd2LXdNNkszLXNNWVFHVnM5UEI?oc=5",
+      "date": "2026-04-24 04:00",
+      "summary": "Powered land and zombie projects: Real estate in the age of AI  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Venice is sinking. We analyzed every plan to save it, and none would preserve the city as we know it",
+      "link": "https://phys.org/news/2026-04-venice-city.html",
+      "date": "2026-04-25 19:30",
+      "summary": "Venice has coexisted with the sea throughout its 1,500-year history, perhaps better than any other city on Earth. Yet over the pas..."
+    },
+    {
+      "title": "When the rain comes, some NYC subway riders stay home. Scientists are now mapping exactly who, and where",
+      "link": "https://phys.org/news/2026-04-nyc-subway-riders-stay-home.html",
+      "date": "2026-04-25 19:00",
+      "summary": "On a sweltering August afternoon or in the teeth of a winter storm, New York City subway riders make a quiet calculation: Is the t..."
+    },
+    {
       "title": "Catalysis App: Structured research data for developing sustainable catalysts",
       "link": "https://phys.org/news/2026-04-catalysis-app-sustainable-catalysts.html",
       "date": "2026-04-25 18:30",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-04-contribution-artemis-ii-moon-mission.html",
       "date": "2026-04-25 17:30",
       "summary": "The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribut..."
-    },
-    {
-      "title": "More activity means less response in active materials",
-      "link": "https://phys.org/news/2026-04-response-materials.html",
-      "date": "2026-04-25 17:00",
-      "summary": "For some time, researchers have assumed that solid materials could gain more useful properties by making their microscopic compone..."
-    },
-    {
-      "title": "Legacy preference bans may not increase college diversity, researchers say",
-      "link": "https://phys.org/news/2026-04-legacy-college-diversity.html",
-      "date": "2026-04-25 16:30",
-      "summary": "At some highly selective colleges and universities, cohorts of mostly white, wealthy applicants have three to eight times greater ..."
     }
   ],
   "The Guardian Edu": [
@@ -349,6 +349,38 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3351424/reverend-derek-li-father-injured-hong-kong-dancer-mo-li-has-died?utm_source=rss_feed",
       "date": "2026-04-25 10:19",
       "summary": "The father of Mo Li Kai-yin, the dancer paralysed by a falling giant screen during a 2022 concert by popular Hong Kong boy band Mi..."
+    }
+  ],
+  "New Scientist": [
+    {
+      "title": "Gravity's strength measured more reliably than ever before",
+      "link": "https://www.newscientist.com/article/2524194-gravitys-strength-measured-more-reliably-than-ever-before/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-24 18:00",
+      "summary": "Measuring the strength of gravity is extraordinarily difficult, and different experiments have always disagreed – but a new test i..."
+    },
+    {
+      "title": "Symptoms of early dementia reversed by bespoke treatment plans",
+      "link": "https://www.newscientist.com/article/2524198-symptoms-of-early-dementia-reversed-by-bespoke-treatment-plans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-24 12:33",
+      "summary": "People with cognitive decline or early-stage dementia saw their symptoms improve when given bespoke treatment plans that targeted ..."
+    },
+    {
+      "title": "QBox theory may offer glimpse of reality deeper than quantum realm",
+      "link": "https://www.newscientist.com/article/2524032-qbox-theory-may-offer-glimpse-of-reality-deeper-than-quantum-realm/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-24 10:00",
+      "summary": "Physicists have long suspected that there is a layer of physical reality beneath quantum theory and a new mathematical model unvei..."
+    },
+    {
+      "title": "Largest-ever octopus was great white shark of invertebrate predators",
+      "link": "https://www.newscientist.com/article/2524049-largest-ever-octopus-was-great-white-shark-of-invertebrate-predators/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-23 19:00",
+      "summary": "During the Cretaceous, 19-metre-long predatory octopuses swam the seas, and evidence from their fossilised remains suggest they ma..."
+    },
+    {
+      "title": "Do you need to worry about Mythos, Anthropic's computer-hacking AI?",
+      "link": "https://www.newscientist.com/article/2524008-do-you-need-to-worry-about-mythos-anthropics-computer-hacking-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-23 18:00",
+      "summary": "A powerful AI kept from public access because of its ability to hack computers with impunity is making headlines around the world...."
     }
   ]
 }
