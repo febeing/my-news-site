@@ -33,22 +33,22 @@
   ],
   "Harvard Gazette": [
     {
+      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
+      "date": "2026-04-09 07:00",
+      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
+    },
+    {
       "title": "How academia can help America heal - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
       "summary": "How academia can help America heal  Harvard Gazette..."
     },
     {
-      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
-      "date": "2025-09-30 07:00",
-      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
-    },
-    {
-      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
-      "date": "2026-04-09 07:00",
-      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
+      "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
+      "date": "2026-02-20 08:00",
+      "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
     },
     {
       "title": "How to help lift slumping American math scores - Harvard Gazette",
@@ -257,6 +257,24 @@
   ],
   "Phys.org": [
     {
+      "title": "Can warning videos blunt misinformation? What a 12-country test found",
+      "link": "https://phys.org/news/2026-04-videos-blunt-misinformation-country.html",
+      "date": "2026-04-26 13:00",
+      "summary": "The internet and social media platforms have given rise to a rising wave of misinformation, with many users now posting fake news,..."
+    },
+    {
+      "title": "Why did Clovis toolmakers choose difficult quartz crystal? New study offers clues",
+      "link": "https://phys.org/news/2026-04-clovis-toolmakers-difficult-quartz-crystal.html",
+      "date": "2026-04-26 12:00",
+      "summary": "Quartz crystals are difficult to knap due to size, hardness, and crystalline structure, making them a \"low-quality\" raw material. ..."
+    },
+    {
+      "title": "Paris has successfully cut noise pollution, but urban birds still can't sing at their natural pitch",
+      "link": "https://phys.org/news/2026-04-paris-successfully-noise-pollution-urban.html",
+      "date": "2026-04-26 12:00",
+      "summary": "When Rachel Carson wrote the environmental classic \"Silent Spring\" in 1962, she warned that unchecked human impacts might create a..."
+    },
+    {
       "title": "Bonuses can lower self-set goals and reduce performance, experiment suggests",
       "link": "https://phys.org/news/2026-04-bonuses-goals.html",
       "date": "2026-04-25 23:30",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-04-microfluidic-device-tracks-cell-squishiness.html",
       "date": "2026-04-25 22:40",
       "summary": "Researchers from Brown University and their collaborators have developed a new way to measure the properties of cells—an important..."
-    },
-    {
-      "title": "Australian farmers are battling another potential mouse plague—what is causing it?",
-      "link": "https://phys.org/news/2026-04-australian-farmers-potential-mouse-plague.html",
-      "date": "2026-04-25 22:30",
-      "summary": "Got a mouse in your house? That thought alone may terrify you. Now imagine if mice were scampering through your house, rummaging i..."
-    },
-    {
-      "title": "Forty years on from the disaster, why there are foxes, bears and bison again around Chernobyl",
-      "link": "https://phys.org/news/2026-04-forty-years-disaster-foxes-bison.html",
-      "date": "2026-04-25 21:30",
-      "summary": "In the novel \"When There Are Wolves Again\" by E.J. Swift, the Chernobyl disaster and its legacy is extrapolated to a near future w..."
-    },
-    {
-      "title": "Fluorescent probe lights up centrioles and cilia in living cells across species",
-      "link": "https://phys.org/news/2026-04-fluorescent-probe-centrioles-cilia-cells.html",
-      "date": "2026-04-25 21:00",
-      "summary": "Scientists at EPFL have developed CenSpark, a fluorescent probe that makes centrioles and cilia visible inside living cells, helpi..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Can parents and children playing video games together level up their relationship?",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3351491/can-parents-and-children-playing-video-games-together-level-their-relationship?utm_source=rss_feed",
+      "date": "2026-04-26 12:45",
+      "summary": "Parents and children who play video games together rate their relationships as 20 per cent stronger than those who do not, accordi..."
+    },
+    {
       "title": "First section of Fanling Bypass to open soon. So how will Hongkongers benefit?",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3351476/first-section-fanling-bypass-open-soon-so-how-will-hongkongers-benefit?utm_source=rss_feed",
       "date": "2026-04-26 09:34",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3351467/over-5000-guangdong-motorists-sign-hong-kongs-southbound-travel-scheme?utm_source=rss_feed",
       "date": "2026-04-26 08:01",
       "summary": "More than 5,000 Guangdong motorists have been approved to drive into Hong Kong’s urban areas under a southbound travel scheme as o..."
-    },
-    {
-      "title": "Hong Kong plans new trial of infecting male mosquitoes to halt offspring growth",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3351465/hong-kong-plans-new-mosquito-control-trial-after-first-dengue-case-2024?utm_source=rss_feed",
-      "date": "2026-04-26 07:25",
-      "summary": "Hong Kong will try out a “mosquito-to-control-mosquito” strategy next year, under which the insect males are infected with bacteri..."
     }
   ],
   "New Scientist": [
