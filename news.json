@@ -33,22 +33,16 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
-      "date": "2026-04-09 07:00",
-      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
-    },
-    {
       "title": "How academia can help America heal - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
       "summary": "How academia can help America heal  Harvard Gazette..."
     },
     {
-      "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
-      "date": "2026-02-20 08:00",
-      "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
+      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
+      "date": "2025-09-30 07:00",
+      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
     },
     {
       "title": "How to help lift slumping American math scores - Harvard Gazette",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
       "date": "2026-01-23 08:00",
       "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
+    },
+    {
+      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
+      "date": "2025-10-28 07:00",
+      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -71,10 +71,10 @@
       "summary": "The Stanford Freshmen Who Want to Rule the World  The Atlantic..."
     },
     {
-      "title": "Stanford Professor Targets $1 Billion Valuation For AI-for-Physiology Startup - Bloomberg.com",
+      "title": "Stanford Professor Targets $1 Billion Valuation For AI-for-Physiology Startup - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQWtza21DUy1pVkRDQ2RBMTN0QzdRTUxUSVNzbTlRalRiWVFzZzY0WUZ6eWtELXMwQW5idEFicjB2MHFESDZkT2RYQ2dHRnJnRzNvUUw5R0Y0WENjME02WXZiYUdDMkprQ2RDdmVhcHNIWVJJRlNjc3NoNzRJandnWkxFV0p2MWxmUm9DRjlfVTJIS1RmVGkxdDhNbU1XTnFaejBBLVRtcGxRdENFYWVSS2dNWnFTZS1jd0hPTXZxRVBLZlp2dlE?oc=5",
       "date": "2026-04-24 19:09",
-      "summary": "Stanford Professor Targets $1 Billion Valuation For AI-for-Physiology Startup  Bloomberg.com..."
+      "summary": "Stanford Professor Targets $1 Billion Valuation For AI-for-Physiology Startup  Bloomberg..."
     },
     {
       "title": "Stanford investigating after altercation between Israeli soldier and student during campus event - ABC7 San Francisco",
@@ -243,19 +243,37 @@
       "summary": "World models  MIT Technology Review..."
     },
     {
-      "title": "China’s open-source bet - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPejc0UUgwbUtidzlHVnh3cHBBX3FHVzBBTi0tQ2gzS0ljam5zOVlIV05XWGxyazRWSjh5dm1QbG1pQndvM3lWeUFSejlzNXQteDJPZXFiY2JPVjloLXFLUXhpTHIxb190T0hockp4YzNlZXNxSExDWUp1M2tjcHlKaGZuOTdiZFA3c0VnN0NldzlYRmtNVXAxZGZZWTNZSldua3I4Q2NMONIBrAFBVV95cUxNRnE0azV2NkV4RXg3TlhLMjBMMWhkdUNtMWljWXpSU19heUN3bnhBZXl4aEJDRjFmSmcxXzFDa2Z5SFd2bHJfdXBiQ0p1ZXAtczJIeEFlVlV6Vjd4ZTZTSkpJeXJGSkhUZkVhQVJublFzd3dpbnpZQTE5YXVZMDZQTEJDWXFDdlJXdXptSTBORTBSRUR3a1phaWN1R1FlVE9YRUttSTJoMkhyODFR?oc=5",
-      "date": "2026-04-21 20:45",
-      "summary": "China’s open-source bet  MIT Technology Review..."
-    },
-    {
       "title": "Why opinion on AI is so divided - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTBRUHVUMzVUN21BYVVTVEk3ajRXTGNPd21LbHZNZUNaNW9wc2h3emV0T2REemVMSmQtVWFzUmlsRWg0aVZHSm1ydmdOa05ibC1EWG02dmZPbXdTNVpZT19nakc1XzZkYU5fWGZwVkhIcnh1MUNYN1pwY2R2WE5SQWxiMmY0SkdFT0hRb9IBkgFBVV95cUxQQkFpX1ZRSi14SFZtcXFPbF80TUY3Y1BIQ3RBd1BNUWk2SDV1aDhoOVRRdEx6YUlnd3pISThGVWhPdXI3d2ExTWJsYU9VWk5tR0tYRWtFZXRmRElpcTl3MXktY0kyOXN4NDN6Z2VaVVpTTDJCbEhjRC1GX3JFWDJJNlU1RldOQ0E3cVFYaF9ZLXlxQQ?oc=5",
       "date": "2026-04-13 07:00",
       "summary": "Why opinion on AI is so divided  MIT Technology Review..."
+    },
+    {
+      "title": "China’s open-source bet - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPejc0UUgwbUtidzlHVnh3cHBBX3FHVzBBTi0tQ2gzS0ljam5zOVlIV05XWGxyazRWSjh5dm1QbG1pQndvM3lWeUFSejlzNXQteDJPZXFiY2JPVjloLXFLUXhpTHIxb190T0hockp4YzNlZXNxSExDWUp1M2tjcHlKaGZuOTdiZFA3c0VnN0NldzlYRmtNVXAxZGZZWTNZSldua3I4Q2NMONIBrAFBVV95cUxNRnE0azV2NkV4RXg3TlhLMjBMMWhkdUNtMWljWXpSU19heUN3bnhBZXl4aEJDRjFmSmcxXzFDa2Z5SFd2bHJfdXBiQ0p1ZXAtczJIeEFlVlV6Vjd4ZTZTSkpJeXJGSkhUZkVhQVJublFzd3dpbnpZQTE5YXVZMDZQTEJDWXFDdlJXdXptSTBORTBSRUR3a1phaWN1R1FlVE9YRUttSTJoMkhyODFR?oc=5",
+      "date": "2026-04-21 20:45",
+      "summary": "China’s open-source bet  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Universal patterns emerge across 22 languages, mapping how vocabularies evolve",
+      "link": "https://phys.org/news/2026-04-universal-patterns-emerge-languages-vocabularies.html",
+      "date": "2026-04-26 16:40",
+      "summary": "Human languages are known to have grown and changed considerably over the course of history, often reflecting technological, cultu..."
+    },
+    {
+      "title": "How emoji use at work can determine how competent your colleagues think you are",
+      "link": "https://phys.org/news/2026-04-emoji-colleagues.html",
+      "date": "2026-04-26 16:30",
+      "summary": "You've typed it, deleted it and typed it again. You need to let your colleague know there's a problem with a project at work. Shou..."
+    },
+    {
+      "title": "Extreme stability in ultrafast nanomagnetism aids the development of faster data storage",
+      "link": "https://phys.org/news/2026-04-extreme-stability-ultrafast-nanomagnetism-aids.html",
+      "date": "2026-04-26 16:00",
+      "summary": "For the first time, researchers have mapped how the boundaries of magnetic nanostructures behave on extremely short timescales. Th..."
+    },
     {
       "title": "The threat of light pollution puts the world's darkest skies in the Atacama Desert at risk",
       "link": "https://phys.org/news/2026-04-threat-pollution-world-darkest-skies.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-04-tool-ai-role-student-visible.html",
       "date": "2026-04-26 15:00",
       "summary": "Generative artificial intelligence (AI) has transformed college writing. As paper drafts are increasingly co-written with AI, prof..."
-    },
-    {
-      "title": "Ammonia as a clean fuel: 'Do not create a new nitrogen problem,' says researcher",
-      "link": "https://phys.org/news/2026-04-ammonia-fuel-nitrogen-problem.html",
-      "date": "2026-04-26 15:00",
-      "summary": "Ammonia has been feeding the world for decades as a fertilizer and is now rapidly emerging as a carbon-free fuel for shipping and ..."
-    },
-    {
-      "title": "Deep under Antarctic ice, a long-predicted cosmic whisper finally breaks through in 13 strange bursts",
-      "link": "https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html",
-      "date": "2026-04-26 14:00",
-      "summary": "A detector buried deep in Antarctic ice has captured the first experimental evidence of a predicted but never-before-seen phenomen..."
-    },
-    {
-      "title": "Reading shortcuts for children may be popular, but the research doesn't back them up",
-      "link": "https://phys.org/news/2026-04-shortcuts-children-popular-doesnt.html",
-      "date": "2026-04-26 13:30",
-      "summary": "This year marks the UK's National Year of Reading, which aims to rebuild good reading habits and enjoyment as child and adolescent..."
     }
   ],
   "The Guardian Edu": [
