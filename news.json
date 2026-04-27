@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Self-organizing “pencil beam” laser could help scientists design brain-targeted therapies",
+      "link": "https://news.mit.edu/2026/self-organizing-pencil-beam-laser-could-help-scientists-design-brain-targeted-therapies-0427",
+      "date": "2026-04-27 09:00",
+      "summary": "MIT researchers leveraged a surprise discovery to devise a faster and more precise biomedical imaging technique...."
+    },
+    {
       "title": "A faster way to estimate AI power consumption",
       "link": "https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427",
       "date": "2026-04-27 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422",
       "date": "2026-04-22 09:00",
       "summary": "Experiments by MIT engineers show rice seeds sprout faster to the sound of rain...."
-    },
-    {
-      "title": "New study bridges the worlds of classical and quantum physics",
-      "link": "https://news.mit.edu/2026/new-study-bridges-classical-and-quantum-physics-0421",
-      "date": "2026-04-21 23:05",
-      "summary": "The weird quantum behavior of subatomic particles can be understood through everyday classical ideas, MIT researchers show...."
     }
   ],
   "Harvard Gazette": [
@@ -77,6 +77,12 @@
       "summary": "Stanford Professor Targets $1 Billion Valuation For AI-for-Physiology Startup  Bloomberg..."
     },
     {
+      "title": "Stanford investigating after altercation between Israeli soldier and student during campus event - ABC7 San Francisco",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOC05bjlfLXBEdFZTZm1CRUN1YzdVVU9iZmFZcXVkbnlFM29SR1VqZFJMZXdWYVN6cW1OZ3lha2t1LTdVa2tBTnJOQTkzQXlLZGJQSVhSeXI5dS1Lal9LcVd2MlJGaF9xcjVEQUZkNmVMeklCWUd0blJLcTRKSmw3LXJIcjljc1VyeTNKc0dMVzdmaFB3dzAyZW15b3NhY2JyRWdSZkR0cmNYS2lEdExld2lxVjh4V3FtVXp5QjBfS2hld2vSAcgBQVVfeXFMTUZCc1hFWjhvVE93cTFWc0c1X1RNTENDZWUyTGluRlFoRGVPdS1fdFVjU2pILVQyRTdicHhxNUlQdkRpaFNBaWVjdWNfWlBOeDJCdVJSRE9OdTBjejZmV1RfSjQ2UTZOLTdiZ2JPc0JaS2hJY20yZV8zT055QXRNaFR4Nl9VVV9xVVZETTJ4bXdFMnpzcGtuQXhzNncyaGdURWRHUHBkM082Um9Hc2tDNkttS2FnLVNaVU5qMDVBRmtUTmNWdEZZcC0?oc=5",
+      "date": "2026-04-25 10:12",
+      "summary": "Stanford investigating after altercation between Israeli soldier and student during campus event  ABC7 San Francisco..."
+    },
+    {
       "title": "No. 2 Rowing’s First Eight wins at No. 1 Stanford - University of Texas Athletics",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS3VzLTFUWG1pQUpOVGRrMGpOVFNCdnlBY0lidUpmSUt1M1MtWXpJaHlSY3dQYk9TUUd4WUJZaE5rZlZxNk5qLTVVb29hVEYtZ18tdzRGSDlfekFJbUpDOGpRQ3B3aUsySFMtUlJLRU5kazNfNE82VGl1LVFyejFwX2Zfdk9ZbDFHb3hfemVxRmpGdw?oc=5",
       "date": "2026-04-26 00:15",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWxwLUJSRjQzSlZrbUhNWmJIR0xRZTdVYm1mWFJERjZzTGZjSFBEMGlOaXpQRWFkajNkU1lMM2JwUGJrRlZ6NXF3M3BtYTBiZ19QYjVwaVZxMnV4NEFMSVFSZWdaNzlhWUZSazhiai1sZU56cWYwVUE0NG9fM3llOUNzZUtxbE9KNEdzLVJSUEZTMDhLaEl2NEo5SWFtZV83UC1FVlMxZGpfMl9JY0xDeDNCMlBMaEFYcVJScXBSSjNRSkh5UXJ2VFBSQk8?oc=5",
       "date": "2026-04-26 22:00",
       "summary": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder  TechCrunch..."
-    },
-    {
-      "title": "Stanford investigating after altercation between Israeli soldier and student during campus event - ABC7 San Francisco",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOC05bjlfLXBEdFZTZm1CRUN1YzdVVU9iZmFZcXVkbnlFM29SR1VqZFJMZXdWYVN6cW1OZ3lha2t1LTdVa2tBTnJOQTkzQXlLZGJQSVhSeXI5dS1Lal9LcVd2MlJGaF9xcjVEQUZkNmVMeklCWUd0blJLcTRKSmw3LXJIcjljc1VyeTNKc0dMVzdmaFB3dzAyZW15b3NhY2JyRWdSZkR0cmNYS2lEdExld2lxVjh4V3FtVXp5QjBfS2hld2vSAcgBQVVfeXFMTUZCc1hFWjhvVE93cTFWc0c1X1RNTENDZWUyTGluRlFoRGVPdS1fdFVjU2pILVQyRTdicHhxNUlQdkRpaFNBaWVjdWNfWlBOeDJCdVJSRE9OdTBjejZmV1RfSjQ2UTZOLTdiZ2JPc0JaS2hJY20yZV8zT055QXRNaFR4Nl9VVV9xVVZETTJ4bXdFMnpzcGtuQXhzNncyaGdURWRHUHBkM082Um9Hc2tDNkttS2FnLVNaVU5qMDVBRmtUTmNWdEZZcC0?oc=5",
-      "date": "2026-04-25 10:12",
-      "summary": "Stanford investigating after altercation between Israeli soldier and student during campus event  ABC7 San Francisco..."
     }
   ],
   "Nature Careers": [
@@ -193,34 +193,34 @@
   ],
   "Reuters AI": [
     {
-      "title": "Intel soars on signs AI boom for CPUs is here - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTljTXlld2NZUEpMNUZ6RFlXS2VVNFJWcTd6UGQ5M3d5RkJJU1U3WEJnOXhnbVI5UmRIT09mdnNmQXk4QW9tcVVESzJyaU1KM3BQSndIdWowN19fSHdlY2ZWN1kxTTNId1VWTDZKRzlpUHB1MGNFbml0dWNqajNIVUg0Yl9nbG00RnNXbi1DeTBFU2dCOFZ2U0VZcHRWR3lDZkVVZE1FVWhqZEw0WXVV?oc=5",
-      "date": "2026-04-24 22:44",
-      "summary": "Intel soars on signs AI boom for CPUs is here  Reuters..."
+      "title": "Singapore emerging as neutral ground as AI firms navigate Sino-US rivalry - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3dqS3loMEw5OGZKWDhDbnYzY2NlV1Q0U0ZRbG5DMWVuUmU5S092b0hFSi1lSEJ4Q2ZxV2E3YTFfeXVnMlh4VVhrVmRBeDdWTzdLc2VHc2d2RjZFUk5WaTB4WFFjSTk2VFdJVFM3ZVhOenJDWGgxdWNIMWlXYWNrUEp4Zi1MYWMya1BWZnpnSWJ4Rmpsd3M0MnZ1dWlaZFhFRlJsMTJMTC1zZDZleHhfSTNWTkt5QQ?oc=5",
+      "date": "2026-04-24 00:38",
+      "summary": "Singapore emerging as neutral ground as AI firms navigate Sino-US rivalry  Reuters..."
     },
     {
-      "title": "China's DeepSeek slashes prices for new AI model - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYTFXalJZZE92UmRhTmtwaUoxaDIyQWU0QjFnZ3NCUDVnbmpHNGpDaFlEeG1ZTzJsaHVMeWk2SHkwWUlwQzZ4ZnJtblQ5dEgtZmJ1cG5SOUZNektfMTBoVmxIX3R5cGRGQWs2eTNqNTY2bnpuLTlRSHJPaWprTDFSMF9TMUdrcThsNnQySjZrS01QblFnNVE?oc=5",
-      "date": "2026-04-27 05:38",
-      "summary": "China's DeepSeek slashes prices for new AI model  Reuters..."
+      "title": "U.S. State Department orders global warning about alleged China AI thefts by DeepSeek, others: Reuters - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjJhb2VhdlFXWTBCVUZQa3ZLQ2ZfTjJFUE9lbzRQNmJGYzhFZXJFLTJ3RWdDb0NPT1hQZkdwcW5wMjFfalUzSHNzdWM2dkpLa25vbG1XMXd2Tmo0SmpFZWUxMkU5U2hCcy1xY1RpNmpSMUxPLURFaTZYVVFSUWlSU1dvUdIBiAFBVV95cUxOQ0kwYjI1eHhaVjRuaGtiNGRldGRNLVFLRXpaQnc1MVhlMkZodm1iRlQ2U2pyWndzUnJwRW5pS0hHTVpWR1puM0Z2dnN2clg1V19IeWFVbkZTWnR0eTRuV3g3Nm9iVXVQMnRrUUlMVDNzc0VpX1d2QXZoZEJCZGFnNjF0djVaTTZk?oc=5",
+      "date": "2026-04-25 10:03",
+      "summary": "U.S. State Department orders global warning about alleged China AI thefts by DeepSeek, others: Reuters  CNBC..."
     },
     {
-      "title": "At SpaceX, AI is burning the cash that Starlink earns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEc0dUVZdllFemdNaWlmQlRZOHN4NlpTOGQ4WnRIaVB2UThnVklVR3psX3FVV25FREZRODVtTGZ1RzlFd0h4V2hhUGFKRmxyQy1tZ3Vid3ZIaEJPbTY0SndOMk4xOW8tWV9pX2dHT2FZbmVieDAxZXRrNUNoRkg5VDBqMkZpT2lxa1RlSTZBd256S2c2UmhHRDc4TWVGck0?oc=5",
-      "date": "2026-04-24 17:32",
-      "summary": "At SpaceX, AI is burning the cash that Starlink earns  Reuters..."
+      "title": "China orders Meta to unwind $2 billion buy of AI startup Manus - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmstdDVmX2syX0pFbUJCb2RsSWFscnlOLWdYZjNfSk80LXpCdU5aN1V1aWI5R0tsUVpJdzgtN3FqNkxrc2d2cThmeHd1WWd6aVhDUUoxaXF1cURST09KSEd5ckR2YVA4VTcxRHVsLVBmVFRXeWY1TVpsdGFwamxsWTdxNkJNMTlHTy02aUVjM2JRNVpncTJPR01kWDBrdmFfblI5MjVWSQ?oc=5",
+      "date": "2026-04-27 10:56",
+      "summary": "China orders Meta to unwind $2 billion buy of AI startup Manus  Reuters..."
     },
     {
-      "title": "Google to invest up to $40 billion in AI rival Anthropic - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelhLSVpIR0hNMkd6LWcwM1BCeVk4SE9GOGk1MF9TajBfc1AzRWU4RFh2UzlBTkhLLWdsZEdlR3o5N19JMFk3TjMwbHpQWXBvdGVaNUpqdlRucFBJd1F6Mk9xY3lRRS10NVB1OFZTdWFwWnIyWC1oYmo1allMQ0lVQjV5b0FNREVqcUtWdGdzWXJQY3RXU1k2WHlpM19WdWtEUEpKUFJzbV83Y21vZGRObw?oc=5",
-      "date": "2026-04-24 18:07",
-      "summary": "Google to invest up to $40 billion in AI rival Anthropic  Reuters..."
+      "title": "DeepSeek's new AI model does not wow markets in fast-changing industry - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmhwV2MxZG42b05HZkZXa0VBNktwZVN5Rkp5WnJqQThpOW04MENqUV9SdFA4YlREUDlTeVpHcVhRbFpaUVllYjZGcnotUnVkNTFuMmN3dTVBQ1JfSmpQRXFpNUxrbDB6N1hRM0FDMWNKdVd0LTFlbXBPWG5DZ09jeUpqTHZZYjRsNEdtQlZPNkJEVnB1ZERKMDJmS2FwZ3JEclB2LXphY2s1Q3YydzUyREpYak4?oc=5",
+      "date": "2026-04-27 07:58",
+      "summary": "DeepSeek's new AI model does not wow markets in fast-changing industry  Reuters..."
     },
     {
-      "title": "DeepSeek-V4, the Chinese AI model adapted for Huawei chips - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHNGM0lqMWwzNGo5QXFCYjBNYzlKc0VWT05hOUg0RWVscnlHRnVVVWMtS1hEOWtuSzQ3SUVyT2hTZWJZR18tSkRSVXhzWnhsMnNuakM0ZmNHMzlmMGt6MDBWODhsdUZRWVR3eGRnZVJaS2t1Nl9hd200QUduM2ZMb0tEMWl4Tzd5dk8wQnE5OTJVaTU1TEk4bHlRNEZSUQ?oc=5",
-      "date": "2026-04-24 14:04",
-      "summary": "DeepSeek-V4, the Chinese AI model adapted for Huawei chips  Reuters..."
+      "title": "Google to build AI campus in South Korea, presidential office says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTHNXa2ZaRVI5TE9YSWR5TUlaUE8tdV9tcnFURjRXYkJ3T3RFdGphMGJmN2plLU9hUjJZSzN2Vl9WSDhiWGRsNDRrTHV1ajBUMDdkV1plMUxYR01TZjB6Yk5vWlM2eXMtcUc2YnFQV3BZN1dlQW43VERHeGhGRFltZVZwNnktRmVCX2M4dHhCVTFrYTMtRUV4cjNtLUxBR1Q3SWZzenVQNHdDQi1zZWdkYjlBUk8?oc=5",
+      "date": "2026-04-27 08:41",
+      "summary": "Google to build AI campus in South Korea, presidential office says  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,37 +257,43 @@
   ],
   "Phys.org": [
     {
+      "title": "DuctGPT demonstrates how AI can accelerate discovery of next-generation fusion materials",
+      "link": "https://phys.org/news/2026-04-ductgpt-ai-discovery-generation-fusion.html",
+      "date": "2026-04-27 11:00",
+      "summary": "Scientists at Ames National Laboratory developed a new artificial intelligence (AI) tool that accelerates discovery of materials n..."
+    },
+    {
+      "title": "Self-organizing 'pencil beam' laser could help scientists design brain-targeted therapies",
+      "link": "https://phys.org/news/2026-04-pencil-laser-scientists-brain-therapies.html",
+      "date": "2026-04-27 09:00",
+      "summary": "MIT researchers discovered a paradoxical phenomenon in optical physics that could enable a new bioimaging method that's faster and..."
+    },
+    {
+      "title": "A host of positive 'tipping points' can regenerate nature",
+      "link": "https://phys.org/news/2026-04-host-positive-regenerate-nature.html",
+      "date": "2026-04-27 09:00",
+      "summary": "A host of positive \"tipping points\" can spark rapid nature recovery, a leading expert says. Action to protect and restore nature m..."
+    },
+    {
+      "title": "Tandem superflare observations reveal origin of the stellar Fe Kα line",
+      "link": "https://phys.org/news/2026-04-tandem-superflare-reveal-stellar-fe.html",
+      "date": "2026-04-27 09:00",
+      "summary": "The Fe Kα line, or iron Kα line, is often used in astronomical research to understand the physical composition of astronomical obj..."
+    },
+    {
       "title": "Orangutan uses Indonesia canopy bridge in 'world first': NGO",
       "link": "https://phys.org/news/2026-04-orangutan-indonesia-canopy-bridge-world.html",
       "date": "2026-04-27 06:22",
       "summary": "A Sumatran orangutan has been filmed for the first time crossing a man-made canopy bridge constructed to help the endangered anima..."
-    },
-    {
-      "title": "Novel study maps changes in US immigration policy landscape since 9/11",
-      "link": "https://phys.org/news/2026-04-immigration-policy-landscape.html",
-      "date": "2026-04-27 04:00",
-      "summary": "In a comprehensive analysis of state and local sanctuary and anti-sanctuary policies, researchers have mapped the rapidly evolving..."
-    },
-    {
-      "title": "Fairer disaster aid arrives just as fast with a new routing algorithm",
-      "link": "https://phys.org/news/2026-04-fairer-disaster-aid-fast-routing.html",
-      "date": "2026-04-27 00:30",
-      "summary": "Researchers from Koç University and international collaborators have developed a new algorithm that enables faster and more equita..."
-    },
-    {
-      "title": "Crab shell by-products could help regulate the marine lifetime of biodegradable plastics",
-      "link": "https://phys.org/news/2026-04-crab-shell-products-marine-lifetime.html",
-      "date": "2026-04-27 00:00",
-      "summary": "Biodegradable plastics hold potential for reducing marine plastic pollution, but degrade too quickly, limiting their practical use..."
-    },
-    {
-      "title": "Chernobyl's wildlife: The real story isn't the presence of radiation, it's the absence of humans",
-      "link": "https://phys.org/news/2026-04-chernobyl-wildlife-real-story-isnt.html",
-      "date": "2026-04-26 23:00",
-      "summary": "\"Dogs at Chernobyl are now genetically distinct … thanks to years of exposure to ionizing radiation, study finds.\"..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "HSBC ‘reviewing’ private school perk for bankers in Hong Kong",
+      "link": "https://www.theguardian.com/business/2026/apr/27/hsbc-reviewing-private-school-perk-for-bankers-in-hong-kong",
+      "date": "2026-04-27 08:31",
+      "summary": "Hundreds of senior staff in territory benefit from nearly £30,000-a-year grant per child not available to staff in group’s other h..."
+    },
     {
       "title": "I’m out of a job after issues at the schools I worked for. Is it my fault? | Annalisa Barbieri",
       "link": "https://www.theguardian.com/lifeandstyle/2026/apr/26/out-of-job-after-conflicts-schools-where-worked-annalisa-barbieri",
@@ -311,47 +317,47 @@
       "link": "https://www.theguardian.com/science/2026/apr/23/brain-activity-tracked-secret-immersive-films",
       "date": "2026-04-23 14:00",
       "summary": "Bristol University project aims to help directors make better movies and take greater risks – with one already onboardAt first gla..."
-    },
-    {
-      "title": "Plan for healthier school meals in England will hit services, say caterers",
-      "link": "https://www.theguardian.com/education/2026/apr/23/plan-healthier-school-meals-england-services-caterers",
-      "date": "2026-04-23 12:00",
-      "summary": "Trade body warns that changes are likely to drive up costs and push pupils to find somewhere to buy junk food Business live – late..."
     }
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Beer and BBQ festivals possible under beach scheme to tap private sector operators",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3351547/beer-and-bbq-festivals-possible-under-beach-scheme-tap-private-sector-operators?utm_source=rss_feed",
-      "date": "2026-04-27 07:52",
-      "summary": "Hongkongers and visitors will be able to enjoy large-scale events such as beer and barbecue festivals at three public beaches unde..."
+      "title": "Prison officer admits brutal assault on inmate after baby powder bingo game",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351586/prison-officer-admits-brutal-assault-inmate-after-baby-powder-bingo-game?utm_source=rss_feed",
+      "date": "2026-04-27 10:42",
+      "summary": "A former Hong Kong prison officer has admitted severely wounding an inmate by repeatedly thrusting a stick into the man’s rectum a..."
     },
     {
-      "title": "China-Japan tensions a boon to Hong Kong tourism for ‘golden week’, expert says",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3351523/sino-japanese-tensions-boon-hong-kong-tourism-golden-week-expert-says?utm_source=rss_feed",
-      "date": "2026-04-27 04:33",
-      "summary": "The appreciating yuan and ongoing Sino-Japanese tensions have given Hong Kong tourism a boost ahead of mainland China’s Labour Day..."
+      "title": "Families of Indonesian helpers who died in Tai Po fire struggle to break news to kids",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3351582/families-indonesian-helpers-who-died-tai-po-fire-struggle-break-news-kids?utm_source=rss_feed",
+      "date": "2026-04-27 10:09",
+      "summary": "Grieving relatives of domestic helpers killed in the Tai Po fire have struggled to break the news to victims’ children while fendi..."
     },
     {
-      "title": "Claims of no foam material regulations ‘unacceptable’, Tai Po fire probe hears",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3351448/tai-po-fire-probe-higher-qualifications-supervision-required-repair-works?utm_source=rss_feed",
-      "date": "2026-04-27 03:07",
-      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+      "title": "Sole eatery on Hong Kong’s southernmost island may shut after 50 years in business",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3351575/sole-eatery-hong-kongs-southernmost-island-may-shut-after-50-years-business?utm_source=rss_feed",
+      "date": "2026-04-27 09:53",
+      "summary": "The sole restaurant on Hong Kong’s southernmost Po Toi Island may close after a half-century serving visiting hikers and boaters l..."
     },
     {
-      "title": "Hong Kong’s civil service accountability system will end buck-passing mentality",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3351331/hong-kongs-civil-service-accountability-system-will-end-buck-passing-mentality?utm_source=rss_feed",
-      "date": "2026-04-27 01:30",
-      "summary": "Kudos to the Secretary for the Civil Service Ingrid Yeung Ho Poi-yan for introducing a two-tier civil service accountability syste..."
+      "title": "Hong Kong marks 85th anniversary of Bruce Lee’s arrival with statue and exhibition",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3351574/hong-kong-marks-85th-anniversary-bruce-lees-arrival-statue-and-exhibition?utm_source=rss_feed",
+      "date": "2026-04-27 09:46",
+      "summary": "An entertainment company and an arts curator have unveiled a life-size statue of late kung fu legend Bruce Lee at his childhood ho..."
     },
     {
-      "title": "ESF reserves reach HK$3.75 billion, even as government subsidies shrink",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3351498/esf-reserves-reach-hk375-billion-even-government-subsidies-shrink?utm_source=rss_feed",
-      "date": "2026-04-27 00:30",
-      "summary": "The reserves of Hong Kong’s largest international school group have more than tripled to HK$3.75 billion (US$480.8 million) in ove..."
+      "title": "14 minors among 120 people arrested in operation targeting online sales of drugs",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351556/14-minors-among-120-people-arrested-operation-targeting-online-sale-drugs?utm_source=rss_feed",
+      "date": "2026-04-27 08:27",
+      "summary": "Hong Kong police have arrested 120 people, including 14 minors, and seized worth HK$26 million (US$3.31 million) in a month-long o..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "100-year-old assumption about the universe may soon be overturned",
+      "link": "https://www.newscientist.com/article/2524208-100-year-old-assumption-about-the-universe-may-soon-be-overturned/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-27 07:00",
+      "summary": "Physicists have long assumed that the universe is uniform at very large scales, but evidence is emerging this is wrong and suggest..."
+    },
     {
       "title": "Gravity's strength measured more reliably than ever before",
       "link": "https://www.newscientist.com/article/2524194-gravitys-strength-measured-more-reliably-than-ever-before/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2524049-largest-ever-octopus-was-great-white-shark-of-invertebrate-predators/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-23 19:00",
       "summary": "During the Cretaceous, 19-metre-long predatory octopuses swam the seas, and evidence from their fossilised remains suggest they ma..."
-    },
-    {
-      "title": "Do you need to worry about Mythos, Anthropic's computer-hacking AI?",
-      "link": "https://www.newscientist.com/article/2524008-do-you-need-to-worry-about-mythos-anthropics-computer-hacking-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-23 18:00",
-      "summary": "A powerful AI kept from public access because of its ability to hack computers with impunity is making headlines around the world...."
     }
   ]
 }
