@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "A faster way to estimate AI power consumption",
+      "link": "https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427",
+      "date": "2026-04-27 04:00",
+      "summary": "The “EnergAIzer” method generates reliable results in seconds, enabling data center operators to efficiently allocate resources an..."
+    },
+    {
       "title": "New chip can protect wireless biomedical devices from quantum attacks",
       "link": "https://news.mit.edu/2026/new-chip-can-protect-wireless-biomedical-devices-from-quantum-attacks-0423",
       "date": "2026-04-23 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/new-study-bridges-classical-and-quantum-physics-0421",
       "date": "2026-04-21 23:05",
       "summary": "The weird quantum behavior of subatomic particles can be understood through everyday classical ideas, MIT researchers show...."
-    },
-    {
-      "title": "Why bother with plausible deniability?",
-      "link": "https://news.mit.edu/2026/why-bother-plausible-deniability-0417",
-      "date": "2026-04-17 15:00",
-      "summary": "Philosopher Sam Berstler explains why we have social norms that let people engage in open deception...."
     }
   ],
   "Harvard Gazette": [
@@ -71,16 +71,16 @@
       "summary": "The Stanford Freshmen Who Want to Rule the World  The Atlantic..."
     },
     {
-      "title": "Stanford Professor Targets $1 Billion Valuation For AI-for-Physiology Startup - Bloomberg.com",
+      "title": "Stanford Professor Targets $1 Billion Valuation For AI-for-Physiology Startup - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQWtza21DUy1pVkRDQ2RBMTN0QzdRTUxUSVNzbTlRalRiWVFzZzY0WUZ6eWtELXMwQW5idEFicjB2MHFESDZkT2RYQ2dHRnJnRzNvUUw5R0Y0WENjME02WXZiYUdDMkprQ2RDdmVhcHNIWVJJRlNjc3NoNzRJandnWkxFV0p2MWxmUm9DRjlfVTJIS1RmVGkxdDhNbU1XTnFaejBBLVRtcGxRdENFYWVSS2dNWnFTZS1jd0hPTXZxRVBLZlp2dlE?oc=5",
       "date": "2026-04-24 19:09",
-      "summary": "Stanford Professor Targets $1 Billion Valuation For AI-for-Physiology Startup  Bloomberg.com..."
+      "summary": "Stanford Professor Targets $1 Billion Valuation For AI-for-Physiology Startup  Bloomberg..."
     },
     {
-      "title": "FSU Drops Series Finale at Stanford - seminoles.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEhDOHljUTJJMldaWUNHOGV5VTRrakZCM29uUnBjTjFnNmh0eThaRF9FZ3c5anl4X2RoMVNNOUxWemNxMTktT2t3Rk1HOGd5Qm5CYURTR3FiTDVYQl9oOWhSVnlJTk1ueXJfYWZLZnRUUzEwWk05OTZDcm1IQVVoS0p6aDFtSEZX?oc=5",
-      "date": "2026-04-27 00:49",
-      "summary": "FSU Drops Series Finale at Stanford  seminoles.com..."
+      "title": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWxwLUJSRjQzSlZrbUhNWmJIR0xRZTdVYm1mWFJERjZzTGZjSFBEMGlOaXpQRWFkajNkU1lMM2JwUGJrRlZ6NXF3M3BtYTBiZ19QYjVwaVZxMnV4NEFMSVFSZWdaNzlhWUZSazhiai1sZU56cWYwVUE0NG9fM3llOUNzZUtxbE9KNEdzLVJSUEZTMDhLaEl2NEo5SWFtZV83UC1FVlMxZGpfMl9JY0xDeDNCMlBMaEFYcVJScXBSSjNRSkh5UXJ2VFBSQk8?oc=5",
+      "date": "2026-04-26 22:00",
+      "summary": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder  TechCrunch..."
     },
     {
       "title": "No. 2 Rowing’s First Eight wins at No. 1 Stanford - University of Texas Athletics",
@@ -193,6 +193,18 @@
   ],
   "Reuters AI": [
     {
+      "title": "At SpaceX, AI is burning the cash that Starlink earns - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEc0dUVZdllFemdNaWlmQlRZOHN4NlpTOGQ4WnRIaVB2UThnVklVR3psX3FVV25FREZRODVtTGZ1RzlFd0h4V2hhUGFKRmxyQy1tZ3Vid3ZIaEJPbTY0SndOMk4xOW8tWV9pX2dHT2FZbmVieDAxZXRrNUNoRkg5VDBqMkZpT2lxa1RlSTZBd256S2c2UmhHRDc4TWVGck0?oc=5",
+      "date": "2026-04-24 17:32",
+      "summary": "At SpaceX, AI is burning the cash that Starlink earns  Reuters..."
+    },
+    {
+      "title": "SpaceX warns inquiries into sexually abusive AI imagery may hurt market access, Reuters reports - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMDZIWTJMSjRVYkJWNnNsTUtsOVBfejAxdHZFT2MwU0Ixb0JhbEEzMTBTZXNKUmFlb3NmSmpaMkk5b0pZa3ktcEFCaUlEQnhRS29xMldhNXJ3d0xiZmZiWXdmY1ZQWDdrUEV2OEhob292WExMVVBaZEhSazlxaUhxSUlYeTBRajE4eFVEY0p0M2xYbGRmaFZ4S1doT0lOSWNPVFNNNjhXNUVHcFRNWWU2RzhwZmxZUUdMZGV3dmFPVHdKX0FNb1RqYnF0OTI?oc=5",
+      "date": "2026-04-24 06:37",
+      "summary": "SpaceX warns inquiries into sexually abusive AI imagery may hurt market access, Reuters reports  Seeking Alpha..."
+    },
+    {
       "title": "Exclusive: US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVRVY1RiN1lqaW50bmtBZUFoUmdqU3JaNUdaenlmd21LT0NXQnFySjJBMzl2QzVQTjBCRlNEMG1OMWhtQU1PUmhkdlJrUXU4ZXZZUlZHZWwxNlYwSmdWV2ltbHNCU1pqQmprdXhHMXJ4MmdZbkFqMkRjWUhtYWwxNkRRZnRWZThrN0M3Y0VQNFhTdnl3cURCNlpxUUd6bzJNY3N3Q1pvMjhmZGpURjdaR1RleGlwSjRlaE1tRWFhajVIRjg?oc=5",
       "date": "2026-04-24 22:32",
@@ -203,18 +215,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelhLSVpIR0hNMkd6LWcwM1BCeVk4SE9GOGk1MF9TajBfc1AzRWU4RFh2UzlBTkhLLWdsZEdlR3o5N19JMFk3TjMwbHpQWXBvdGVaNUpqdlRucFBJd1F6Mk9xY3lRRS10NVB1OFZTdWFwWnIyWC1oYmo1allMQ0lVQjV5b0FNREVqcUtWdGdzWXJQY3RXU1k2WHlpM19WdWtEUEpKUFJzbV83Y21vZGRObw?oc=5",
       "date": "2026-04-24 18:07",
       "summary": "Google to invest up to $40 billion in AI rival Anthropic  Reuters..."
-    },
-    {
-      "title": "SpaceX warns inquiries into sexually abusive AI imagery may hurt market access, Reuters reports - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMDZIWTJMSjRVYkJWNnNsTUtsOVBfejAxdHZFT2MwU0Ixb0JhbEEzMTBTZXNKUmFlb3NmSmpaMkk5b0pZa3ktcEFCaUlEQnhRS29xMldhNXJ3d0xiZmZiWXdmY1ZQWDdrUEV2OEhob292WExMVVBaZEhSazlxaUhxSUlYeTBRajE4eFVEY0p0M2xYbGRmaFZ4S1doT0lOSWNPVFNNNjhXNUVHcFRNWWU2RzhwZmxZUUdMZGV3dmFPVHdKX0FNb1RqYnF0OTI?oc=5",
-      "date": "2026-04-24 06:37",
-      "summary": "SpaceX warns inquiries into sexually abusive AI imagery may hurt market access, Reuters reports  Seeking Alpha..."
-    },
-    {
-      "title": "China's DeepRoute.ai says over 300,000 vehicles use its advanced driving system - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLUhoU0xUU0JZUjdGd29xRlBGdGxRZ3BkMV9xeWdpNXFLT3o4LTZQRnhYVTdwbFBtZEYzOGxQVWNBM09SbmpuU2xjVlB4YkJtN1VZbzM5TjlQbVdfUDBlb0FXR2RLOEZFTE0wRVA4VGpLdXJwclJ0RUxjbWs1dVp0NmFhYkVYOXJFU1FRWnJ5dHVmR1NHUnRRcXppSi1IQnlLcFk4b2oxam1yY3pnck15QnNGTTRieS1IV1F0OHNsb2NoNVY0TnRrbWFzMA?oc=5",
-      "date": "2026-04-25 07:23",
-      "summary": "China's DeepRoute.ai says over 300,000 vehicles use its advanced driving system  Reuters..."
     },
     {
       "title": "Intel soars on signs AI boom for CPUs is here - Reuters",
@@ -237,16 +237,16 @@
       "summary": "World models  MIT Technology Review..."
     },
     {
-      "title": "AI needs a strong data fabric to deliver business value - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFdueklmMDJRakVBbUVKVWtVbWhmTFR1Vk1kX1I2YlMxNmRVQTRBNEhQd25OcUlrUFFuSTlrY3JPbDYwZDVtcXB6MEcxTnV5QkI3WkVKM3A4Q3hKTGpIY1FpXzFSTllXVmZuaTNYRC01SngxZmtQQ1A4eFEtVzdYdVJEY19QdDA1T2Vqd2VNNDNMeW5qb3V5ZGdWUTA5cXRtVWRzRkgyMzFsUDVi0gGyAUFVX3lxTFBxWGRwN1FHSzJUU1JMdnJsM3ZFM0hQNzRtaWE0WlhQNFZTMHotS1lQWWs4VDRSZGRYbFR6ekgzYTBXOTZfTUxSQ2NWc3dNcHNOQ0Z4OXY3YzB4UFlxWnh4SDZkQ3dwNzFQV3VhZjF1WXpDTWhDYVF1SWs1OWl6OGpYZjZtVkdKZFZBbnVkbXhZaXNpSlBweVVHOHlVaFctdDVHSTBYRWlGV0dBZDBORW5DaFE?oc=5",
-      "date": "2026-04-22 10:05",
-      "summary": "AI needs a strong data fabric to deliver business value  MIT Technology Review..."
-    },
-    {
       "title": "Health-care AI is here. We don’t know if it actually helps patients. - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGt2SFRCOF9nU2dqUFhDVWFSVy1jdDhkNUJtSDNKeUliM0RneXRuTC15TVM1TnBoZXI2dEF4ZWhGQTRidnE2TG5faWZpckhhS01lMG1XUTZ4ZGlWWTM1S1JZS3M0ZDR6d1lKcC1mOGNDdkRZUEp6WS1mUkhjNFI3ZWVoSm5Za1BWd0pUcDB1MEZXZk5uRmZIYS1PSXR0dm1oZ3ZF0gGoAUFVX3lxTFAtZXQ3b0dXbmw5VTE1a0l5LXY3N2JlSHlwV2o5ZmwyUXd2bEZRU1k3Z2dkMXpReHFDdEQ4ZzNDYksxTTlnZ0wyekxrSUNMYTJGWk44dDA1ajRvSlBJNlZYbHdlYm5WUkZHQjhnMWkzOU9GakE4cjJtOE1aVmZ5cHpXVm1uRFJFNGRkVUZIWURDdG1uNms3ZkktdXV2QVVzSkFmdDFrLVlFag?oc=5",
       "date": "2026-04-24 09:00",
       "summary": "Health-care AI is here. We don’t know if it actually helps patients.  MIT Technology Review..."
+    },
+    {
+      "title": "AI needs a strong data fabric to deliver business value - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFdueklmMDJRakVBbUVKVWtVbWhmTFR1Vk1kX1I2YlMxNmRVQTRBNEhQd25OcUlrUFFuSTlrY3JPbDYwZDVtcXB6MEcxTnV5QkI3WkVKM3A4Q3hKTGpIY1FpXzFSTllXVmZuaTNYRC01SngxZmtQQ1A4eFEtVzdYdVJEY19QdDA1T2Vqd2VNNDNMeW5qb3V5ZGdWUTA5cXRtVWRzRkgyMzFsUDVi0gGyAUFVX3lxTFBxWGRwN1FHSzJUU1JMdnJsM3ZFM0hQNzRtaWE0WlhQNFZTMHotS1lQWWs4VDRSZGRYbFR6ekgzYTBXOTZfTUxSQ2NWc3dNcHNOQ0Z4OXY3YzB4UFlxWnh4SDZkQ3dwNzFQV3VhZjF1WXpDTWhDYVF1SWs1OWl6OGpYZjZtVkdKZFZBbnVkbXhZaXNpSlBweVVHOHlVaFctdDVHSTBYRWlGV0dBZDBORW5DaFE?oc=5",
+      "date": "2026-04-22 10:05",
+      "summary": "AI needs a strong data fabric to deliver business value  MIT Technology Review..."
     },
     {
       "title": "Why opinion on AI is so divided - MIT Technology Review",
@@ -256,6 +256,12 @@
     }
   ],
   "Phys.org": [
+    {
+      "title": "Novel study maps changes in US immigration policy landscape since 9/11",
+      "link": "https://phys.org/news/2026-04-immigration-policy-landscape.html",
+      "date": "2026-04-27 04:00",
+      "summary": "In a comprehensive analysis of state and local sanctuary and anti-sanctuary policies, researchers have mapped the rapidly evolving..."
+    },
     {
       "title": "Fairer disaster aid arrives just as fast with a new routing algorithm",
       "link": "https://phys.org/news/2026-04-fairer-disaster-aid-fast-routing.html",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-04-fake-disease-internet.html",
       "date": "2026-04-26 21:30",
       "summary": "Until a few years ago, no one had heard of bixonimania. Then, in 2024, a group of scientists posted findings online announcing the..."
-    },
-    {
-      "title": "Microplastics have been found to interact with the gut microbiome. Here's what health effects they might have",
-      "link": "https://phys.org/news/2026-04-microplastics-interact-gut-microbiome-health.html",
-      "date": "2026-04-26 20:00",
-      "summary": "Through the air we breathe and the food we eat, we can't help but inhale and ingest tiny bits of plastic every day...."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "China-Japan tensions a boon to Hong Kong tourism for ‘golden week’, expert says",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3351523/sino-japanese-tensions-boon-hong-kong-tourism-golden-week-expert-says?utm_source=rss_feed",
+      "date": "2026-04-27 04:33",
+      "summary": "The appreciating yuan and ongoing Sino-Japanese tensions have given Hong Kong tourism a boost ahead of mainland China’s Labour Day..."
+    },
+    {
+      "title": "Window blocking ‘inappropriate’ but outside building authority’s remit, Tai Po probe told",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3351448/tai-po-fire-probe-higher-qualifications-supervision-required-repair-works?utm_source=rss_feed",
+      "date": "2026-04-27 03:07",
+      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+    },
+    {
       "title": "Hong Kong’s civil service accountability system will end buck-passing mentality",
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3351331/hong-kongs-civil-service-accountability-system-will-end-buck-passing-mentality?utm_source=rss_feed",
       "date": "2026-04-27 01:30",
@@ -337,18 +349,38 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3351495/doctor-long-delayed-hearing-over-blunder-says-he-thought-baby-was-choking?utm_source=rss_feed",
       "date": "2026-04-26 13:52",
       "summary": "A Hong Kong doctor accused of a blunder that left a boy permanently disabled 16 years ago said he did not return to the hospital t..."
+    }
+  ],
+  "New Scientist": [
+    {
+      "title": "Gravity's strength measured more reliably than ever before",
+      "link": "https://www.newscientist.com/article/2524194-gravitys-strength-measured-more-reliably-than-ever-before/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-24 18:00",
+      "summary": "Measuring the strength of gravity is extraordinarily difficult, and different experiments have always disagreed – but a new test i..."
     },
     {
-      "title": "Can parents and children playing video games together level up their relationship?",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3351491/can-parents-and-children-playing-video-games-together-level-their-relationship?utm_source=rss_feed",
-      "date": "2026-04-26 12:45",
-      "summary": "A Hong Kong survey has found a 20 percentage point gap in relationship scores between parents and children who play video games to..."
+      "title": "Symptoms of early dementia reversed by bespoke treatment plans",
+      "link": "https://www.newscientist.com/article/2524198-symptoms-of-early-dementia-reversed-by-bespoke-treatment-plans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-24 12:33",
+      "summary": "People with cognitive decline or early-stage dementia saw their symptoms improve when given bespoke treatment plans that targeted ..."
     },
     {
-      "title": "First section of Fanling Bypass to open soon. So how will Hongkongers benefit?",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3351476/first-section-fanling-bypass-open-soon-so-how-will-hongkongers-benefit?utm_source=rss_feed",
-      "date": "2026-04-26 09:34",
-      "summary": "The eastern section of Hong Kong’s new Fanling Bypass will be commissioned on May 3, marking the first major transport infrastruct..."
+      "title": "QBox theory may offer glimpse of reality deeper than quantum realm",
+      "link": "https://www.newscientist.com/article/2524032-qbox-theory-may-offer-glimpse-of-reality-deeper-than-quantum-realm/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-24 10:00",
+      "summary": "Physicists have long suspected that there is a layer of physical reality beneath quantum theory and a new mathematical model unvei..."
+    },
+    {
+      "title": "Largest-ever octopus was great white shark of invertebrate predators",
+      "link": "https://www.newscientist.com/article/2524049-largest-ever-octopus-was-great-white-shark-of-invertebrate-predators/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-23 19:00",
+      "summary": "During the Cretaceous, 19-metre-long predatory octopuses swam the seas, and evidence from their fossilised remains suggest they ma..."
+    },
+    {
+      "title": "Do you need to worry about Mythos, Anthropic's computer-hacking AI?",
+      "link": "https://www.newscientist.com/article/2524008-do-you-need-to-worry-about-mythos-anthropics-computer-hacking-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-23 18:00",
+      "summary": "A powerful AI kept from public access because of its ability to hack computers with impunity is making headlines around the world...."
     }
   ]
 }
