@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "With a swipe of a magnet, microscopic “magno-bots” perform complex maneuvers",
+      "link": "https://news.mit.edu/2026/microscopic-magno-bots-perform-complex-maneuvers-with-magnet-swipe-0428",
+      "date": "2026-04-28 15:00",
+      "summary": "MIT researchers’ new fabrication technique can produce soft, microscopic structures with magnetically activated moving parts...."
+    },
+    {
       "title": "Robotically assembled building blocks could make construction more efficient and sustainable",
       "link": "https://news.mit.edu/2026/robotically-assembled-building-blocks-makes-construction-more-efficient-and-sustainable-0428",
       "date": "2026-04-28 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427",
       "date": "2026-04-27 04:00",
       "summary": "The “EnergAIzer” method generates reliable results in seconds, enabling data center operators to efficiently allocate resources an..."
-    },
-    {
-      "title": "New chip can protect wireless biomedical devices from quantum attacks",
-      "link": "https://news.mit.edu/2026/new-chip-can-protect-wireless-biomedical-devices-from-quantum-attacks-0423",
-      "date": "2026-04-23 04:00",
-      "summary": "Ultra-efficient chip design enables extremely strong cryptography algorithms to run on energy-constrained edge devices...."
     }
   ],
   "Harvard Gazette": [
@@ -205,25 +205,31 @@
       "summary": "Breakingviews - Meta pokes holes in China's great AI firewall  Reuters..."
     },
     {
-      "title": "AI stocks slide after report sparks OpenAI growth concerns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzhBYkt1cUNmMmJzRWZxWGRTb3hNMm02LXN2Z2ZfMUN4dmNyTmV0ODNPRWRkVXlrM0pGNFBpZ3R4X3QzdVV5YW5vaWszSTl3R2IxaEtXaHBib09qMTNjUktjMEVzVjlrMkRVTGpjQldyQVVqekFuWWpQWGZfbVhjQlNtRkNvdFlpbWhhOWtfZTdZVUd6cWMtYnA5ZC0xNHc0eUNfLTlBYUxoUkt2OUpxY2V2NWF4SlNkN2xEN1dkOEpQRDdfM0RJ?oc=5",
-      "date": "2026-04-28 13:19",
-      "summary": "AI stocks slide after report sparks OpenAI growth concerns  Reuters..."
+      "title": "Amazon targets mass hiring with agentic software, goal to humanize AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjltYkhpMWN5UloyUnozV2cxT0gwdTdZdjBxa0FTV09YTEZ0cFVoMWdjMHNMeHdyRzBieXFjSTNybm1PRGVxTXlPQnlEd0x3MmxPUElRcDg2YXRvTy1vdU5tZUdtSFhvZkRvRE9Pb3AwaXM5X1F6Y1NkTWZOaENkV1N0VUF0VW1aVzZlcTk5ME40RXpwVkFGbEtXdFlIWnZDNWd4dHVpelpIbmdlY0cxQ0lpQnVOWkozZFQ1VFlubm9UZUdY?oc=5",
+      "date": "2026-04-28 16:06",
+      "summary": "Amazon targets mass hiring with agentic software, goal to humanize AI  Reuters..."
     },
     {
-      "title": "South Africa withdraws AI policy due to fake AI-generated sources - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYk9jYjh3eUZUVUEtY19HUFlDRXpZX2M0d19BM1FlenZhSHRTNXJHdlBmdndrU2w3TWxGMGNYNTNlZTRYSFFaejBEZWUzTEs4Y3BDYldNenpSYUZETHU0d2x0RVlXN1pNQ0VhU21WSUhnNkVFODM3bUlQUy03V3VrRG12Z2UyS3pGSjhsbURrUm5IMnhmY3VhZmhkMlJBZlVSOEUxLUxMSGpWcmFIbEFkbw?oc=5",
-      "date": "2026-04-27 10:53",
-      "summary": "South Africa withdraws AI policy due to fake AI-generated sources  Reuters..."
+      "title": "U.S. lawmakers take on AI chatbots, fraud in new bills - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWVBSkQySkc5Smh3dzdCNGZlcE0zU3ZobUhReGF2aW9jRXM4X2lEcUZfMjZLRmxkd2xCQm94UWdvNWVBM2psMVFXdnZwcE9vcFNXeWpnOEVhUlZZY09nWjRDdERyY0dKT3BWU2ZhSGhxX2N4SHc3cWtWbzNDSDJsUTJsR0xXaWVUWEN2SFdVclh4Nm9YMEQ3b3lvUG1qQWs?oc=5",
+      "date": "2026-04-28 15:42",
+      "summary": "U.S. lawmakers take on AI chatbots, fraud in new bills  Reuters..."
     },
     {
-      "title": "Taylor Swift files to trademark her voice, likeness to ward off AI deepfakes - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzBYWGlrOXJWMzM3ZmlzdmRMSGdDT3Nza0JPRTV5S3p3QnV2dENrRGc4TFd2aHdtMmdpNGRtcE5fRjliQWlsc3ljcFd6VERhZ0hnVDE0d1hTYXpoREE4VWRxdmFYcHI1cngzeS1rUGRqRnRCY2dIMHVsVmZlalc4ZjBMSUJqOVY5TVNRYUV1V2lYcHZfWUY0bWx5TFk4bWdsdG00bHhXcWY0Sl94bkFnZVVCenN6M1V3eDN3d3BWOA?oc=5",
-      "date": "2026-04-27 22:37",
-      "summary": "Taylor Swift files to trademark her voice, likeness to ward off AI deepfakes  Reuters..."
+      "title": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzhER0JjUGFMTFlWVFNCQjlGOHp6cHBlWEhVQkpoQkppazFKVVJRQVRqQ2hJTjl1OXQ1UThSeEJaR3N1QWhFS0M5MkRqQXlKWElWWWc1dUNnQnBrMDRucGVPcFdaT0x4enRCSXVYdUFpZVBCbUpuSEw0aUVhVG5nT2FkMTg0TGEwM2piMWdFdTNmUGxoWnJwcFI3SzktLS10SFJEdU5GbTVGdUFybFBYMVhYQkl5RG8?oc=5",
+      "date": "2026-04-28 03:10",
+      "summary": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "Rebuilding the data stack for AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVlLbENWY2JwYU0zRVhvRDdTSHYzeHlsNVdEb19tZm5UWVN5NnJPc2RMY2Q5ZnJ2MHFodVp4ak5lRzRLYUJGNG52RmNQemVrbjBhemhWeEhXVUx1ODNLb3I2WTQzZUpOX3NWdWJxdXBURDJrM0lPa1lsQ016MElsUC0yZElQWVZPVEdaSnRR0gGTAUFVX3lxTFAyUHJCMnZibHF0UkhZZy1kSHFfSjBEZER1bU1CcGhCaWNBTmhVQngwdjBfQUUzeHFqdldSSUMxUG81XzBiWVBmTHN1SDRTaDFCNWE0ZnRmN0R2RnY4dUtrMzVBdG12aGhJV0Z0T0NmYUhqeXhQNjlzendvdGppc1pJbWJSVWxXcE5Sd1dsZDVITm0wWQ?oc=5",
+      "date": "2026-04-27 13:00",
+      "summary": "Rebuilding the data stack for AI  MIT Technology Review..."
+    },
     {
       "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVB2eTlFanBoVlZnZ2hTSmZ4UjhJbDdkNU12Ukstd04waHJKSjdXX01YVXhaZEl1Z29RMHdyM05EcmNhNlIycllMQTNqNnVVcHlPZ0lKTkFuZHdnT3VoenhVaTFMUWJ5UWxrRUNuUkRHMVJRRjNMb2d5cmFuVXNYNTNzTklEMDl4NVJyQXFZZVhpV0JQY0lkaDhOZWFXUjZMNnduQ2JET1QxZm1xNk51VUROV2ktSknSAbwBQVVfeXFMTkpxZ3UwcEFVRUFWNll3bHJfYmVYZXBtcEJZMnpEcUkzWkE2RkRZQm1CbTlLSFE2SV92cTNISUdERXBieENDQzlwTzN4T0NrUEhtMHRJM1Ywc2s5c1BtUEo1UFIxSDBjbGxDU1hhaTBEZE1FSlN1ZDRWT1VubDdjZEFJV2t6dmNLeWdMREdTX25lUmxkNzVjb0FOd0toZWpZUUxZN2RvV3pKS2lCODU0SU11RmRacU0tTEJrTjA?oc=5",
@@ -247,44 +253,38 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGt2SFRCOF9nU2dqUFhDVWFSVy1jdDhkNUJtSDNKeUliM0RneXRuTC15TVM1TnBoZXI2dEF4ZWhGQTRidnE2TG5faWZpckhhS01lMG1XUTZ4ZGlWWTM1S1JZS3M0ZDR6d1lKcC1mOGNDdkRZUEp6WS1mUkhjNFI3ZWVoSm5Za1BWd0pUcDB1MEZXZk5uRmZIYS1PSXR0dm1oZ3ZF0gGoAUFVX3lxTFAtZXQ3b0dXbmw5VTE1a0l5LXY3N2JlSHlwV2o5ZmwyUXd2bEZRU1k3Z2dkMXpReHFDdEQ4ZzNDYksxTTlnZ0wyekxrSUNMYTJGWk44dDA1ajRvSlBJNlZYbHdlYm5WUkZHQjhnMWkzOU9GakE4cjJtOE1aVmZ5cHpXVm1uRFJFNGRkVUZIWURDdG1uNms3ZkktdXV2QVVzSkFmdDFrLVlFag?oc=5",
       "date": "2026-04-24 09:00",
       "summary": "Health-care AI is here. We don’t know if it actually helps patients.  MIT Technology Review..."
-    },
-    {
-      "title": "Rebuilding the data stack for AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVlLbENWY2JwYU0zRVhvRDdTSHYzeHlsNVdEb19tZm5UWVN5NnJPc2RMY2Q5ZnJ2MHFodVp4ak5lRzRLYUJGNG52RmNQemVrbjBhemhWeEhXVUx1ODNLb3I2WTQzZUpOX3NWdWJxdXBURDJrM0lPa1lsQ016MElsUC0yZElQWVZPVEdaSnRR0gGTAUFVX3lxTFAyUHJCMnZibHF0UkhZZy1kSHFfSjBEZER1bU1CcGhCaWNBTmhVQngwdjBfQUUzeHFqdldSSUMxUG81XzBiWVBmTHN1SDRTaDFCNWE0ZnRmN0R2RnY4dUtrMzVBdG12aGhJV0Z0T0NmYUhqeXhQNjlzendvdGppc1pJbWJSVWxXcE5Sd1dsZDVITm0wWQ?oc=5",
-      "date": "2026-04-27 13:00",
-      "summary": "Rebuilding the data stack for AI  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Passive acoustic monitoring reveals new insights on foraging activity of Hector's dolphins",
-      "link": "https://phys.org/news/2026-04-passive-acoustic-reveals-insights-foraging.html",
-      "date": "2026-04-28 14:00",
-      "summary": "Monitoring the sounds of an endangered dolphin species may provide clues to ensuring their survival, a new University of Otago—Ōtā..."
+      "title": "An anomaly in global sea level rise is explained by deep ocean heating",
+      "link": "https://phys.org/news/2026-04-anomaly-global-sea-deep-ocean.html",
+      "date": "2026-04-28 16:40",
+      "summary": "Climate scientists like to keep their accounting books neat and balanced. As climate change alters energy flows all across the pla..."
     },
     {
-      "title": "Research reveals why beavers are getting busy sooner in spring",
-      "link": "https://phys.org/news/2026-04-reveals-beavers-busy-sooner.html",
-      "date": "2026-04-28 14:00",
-      "summary": "A University of Alberta study has whittled down climate-related reasons beavers are emerging earlier onto the ice from their lodge..."
+      "title": "From pet to pest: Research warns invasive goldfish are reshaping freshwater ecosystems",
+      "link": "https://phys.org/news/2026-04-pet-pest-invasive-goldfish-reshaping.html",
+      "date": "2026-04-28 16:40",
+      "summary": "A new peer-reviewed study conducted by researchers at The University of Toledo and University of Missouri provides some of the fir..."
     },
     {
-      "title": "Why do high-speed particles bounce higher in wet collisions?",
-      "link": "https://phys.org/news/2026-04-high-particles-higher-collisions.html",
-      "date": "2026-04-28 13:40",
-      "summary": "Researchers have uncovered a counterintuitive phenomenon in collision dynamics: high-speed particles bounce back from wet walls mu..."
+      "title": "Researchers discover new reproductive method that will improve cattle production",
+      "link": "https://phys.org/news/2026-04-reproductive-method-cattle-production.html",
+      "date": "2026-04-28 16:20",
+      "summary": "There are sure signs of spring on the Canadian Prairies—snow melting, pelicans splashing down in the South Saskatchewan River, and..."
     },
     {
-      "title": "Image: Fiery fall color in southern Chile",
-      "link": "https://phys.org/news/2026-04-image-fiery-fall-southern-chile.html",
-      "date": "2026-04-28 13:40",
-      "summary": "The bright whites of mountain snow, muted browns of the arid plains, and gem-like blues and teals of glacial lakes typically domin..."
+      "title": "German rescuers launch new bid to free stranded whale",
+      "link": "https://phys.org/news/2026-04-german-rescuers-free-stranded-whale.html",
+      "date": "2026-04-28 16:00",
+      "summary": "German rescuers launched a fresh bid Tuesday to free a humpback whale stranded for a month off the country's coast, aiming to tran..."
     },
     {
-      "title": "Physics can be hard: Mindfulness may help, research suggests",
-      "link": "https://phys.org/news/2026-04-physics-hard-mindfulness.html",
-      "date": "2026-04-28 13:20",
-      "summary": "The high stakes and intimidating reputation of physics classes can lead to plenty of stress for students new to the discipline. In..."
+      "title": "Climbers open Everest route past dangerous ice block",
+      "link": "https://phys.org/news/2026-04-climbers-everest-route-dangerous-ice.html",
+      "date": "2026-04-28 15:40",
+      "summary": "Nepali guides on Tuesday opened the route past the icefall on Mount Everest, which was blocked for two weeks by a large chunk of d..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong star vows to be ‘companion, not mentor’ to protesters arrested in 2019",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3351757/hong-kong-star-vows-be-companion-not-mentor-protesters-arrested-2019?utm_source=rss_feed",
+      "date": "2026-04-28 16:24",
+      "summary": "Hong Kong singer Hins Cheung has pledged to be a companion rather than a mentor to youngsters arrested during the 2019 anti-govern..."
+    },
+    {
+      "title": "Helper arrested in Hong Kong for allegedly putting 2 young boys in dog cage",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351754/helper-arrested-hong-kong-allegedly-putting-2-young-boys-dog-cage?utm_source=rss_feed",
+      "date": "2026-04-28 15:12",
+      "summary": "Hong Kong police have arrested a domestic helper on suspicion of child abuse after she allegedly put two young boys inside a dog c..."
+    },
+    {
       "title": "MTR Corporation using AR technology to fast-track work on Northern Link station",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3351747/mtr-corporation-using-ar-technology-fast-track-work-northern-link-station?utm_source=rss_feed",
       "date": "2026-04-28 13:10",
@@ -337,21 +349,21 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351729/homeowner-redhill-peninsula-fined-nearly-hk1-million-illegal-structures?utm_source=rss_feed",
       "date": "2026-04-28 11:01",
       "summary": "A Hong Kong court has fined the owner of a luxury home at Redhill Peninsula nearly HK$1 million (US$173,938), the harshest penalty..."
-    },
-    {
-      "title": "Hong Kong urged to shift focus from tourist numbers to increasing spending",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3351731/hong-kong-urged-shift-focus-tourist-numbers-increasing-spending?utm_source=rss_feed",
-      "date": "2026-04-28 10:58",
-      "summary": "Researchers have urged Hong Kong to shift its focus from boosting visitor numbers to increasing tourist spending, as mainland Chin..."
-    },
-    {
-      "title": "Hong Kong’s ICAC charges police superintendent over HK$1 million bribe, misconduct",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351723/hong-kongs-icac-charges-police-superintendent-over-hk1-million-bribe-misconduct?utm_source=rss_feed",
-      "date": "2026-04-28 10:09",
-      "summary": "Hong Kong’s anti-corruption watchdog has charged a police superintendent over allegedly accepting a HK$1 million (US$127,599) brib..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "People are betting on measles outbreaks – and that might be useful",
+      "link": "https://www.newscientist.com/article/2524510-people-are-betting-on-measles-outbreaks-and-that-might-be-useful/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-28 16:00",
+      "summary": "Millions of dollars are being spent on wagers predicting measles outbreaks in the US, which could help researchers modelling the s..."
+    },
+    {
+      "title": "Humanoid robots may be about to break the 100-metre sprint record",
+      "link": "https://www.newscientist.com/article/2523906-humanoid-robots-may-be-about-to-break-the-100-metre-sprint-record/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-28 14:00",
+      "summary": "Robots can now run a half-marathon faster than humans and are rapidly homing in on the 100-metre sprint record. But why are compan..."
+    },
     {
       "title": "Coral reefs on a remote archipelago shrugged off a massive heatwave",
       "link": "https://www.newscientist.com/article/2524399-coral-reefs-on-a-remote-archipelago-shrugged-off-a-massive-heatwave/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -369,18 +381,6 @@
       "link": "https://www.newscientist.com/article/2524305-10000-new-planets-found-hidden-in-nasa-telescope-data/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-27 10:00",
       "summary": "NASA's Transiting Exoplanet Survey Satellite has been searching for exoplanets since its launch in 2018, and it turns out it may h..."
-    },
-    {
-      "title": "Why your opinion of used electric vehicles is probably wrong",
-      "link": "https://www.newscientist.com/article/mg27035922-600-why-your-opinion-of-used-electric-vehicles-is-probably-wrong/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-22 18:00",
-      "summary": "The idea that EV batteries age poorly is a misconception – and a new report has found they often outlive the cars themselves..."
-    },
-    {
-      "title": "100-year-old assumption about the universe may soon be overturned",
-      "link": "https://www.newscientist.com/article/2524208-100-year-old-assumption-about-the-universe-may-soon-be-overturned/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-27 07:00",
-      "summary": "Physicists have long assumed that the universe is uniform at very large scales, but evidence is emerging this is wrong and suggest..."
     }
   ]
 }
