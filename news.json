@@ -129,6 +129,18 @@
   ],
   "Science News": [
     {
+      "title": "Fauci aide indicted over federal records violations related to COVID-19",
+      "link": "https://www.science.org/content/article/fauci-aide-indicted-over-federal-records-violations-related-covid-19",
+      "date": "2026-04-28 06:40",
+      "summary": "David Morens could face prison time for allegedly concealing back-channel efforts to help nonprofit accused of starting pandemic..."
+    },
+    {
+      "title": "Famed Brazilian dinosaur fossil finally heads home",
+      "link": "https://www.science.org/content/article/famed-brazilian-spinosaurus-fossil-finally-heads-home",
+      "date": "2026-04-28 02:30",
+      "summary": "Germany and Brazil reach agreement over controversial spinosaurid fossil, heralding new collaboration between the two nations..."
+    },
+    {
       "title": "Bizarre Hawking radiation may smooth the jagged hearts of black holes",
       "link": "https://www.science.org/content/article/bizarre-hawking-radiation-may-smooth-jagged-hearts-black-holes",
       "date": "2026-04-27 04:45",
@@ -145,18 +157,6 @@
       "link": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
       "date": "2026-04-25 12:00",
       "summary": "Dismissal of the National Science Board is widely seen as latest move to erase NSF’s independence..."
-    },
-    {
-      "title": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication",
-      "link": "https://www.science.org/content/article/after-pulling-vaccine-study-bhattacharya-criticizes-long-running-cdc-publication",
-      "date": "2026-04-24 05:30",
-      "summary": "Agency’s temporary director says Morbidity and Mortality Weekly Report needs external reviewers..."
-    },
-    {
-      "title": "Can Starship succeed where the space shuttle struggled?",
-      "link": "https://www.science.org/content/article/can-starship-succeed-where-space-shuttle-struggled",
-      "date": "2026-04-24 03:30",
-      "summary": "As SpaceX readies its latest megarocket, engineer Stephen Whitmore explains why atmospheric reentry pushes materials to their limi..."
     }
   ],
   "Retraction Watch": [
@@ -201,7 +201,7 @@
     {
       "title": "Google signs classified AI deal with Pentagon, The Information reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0tiY2FGdlFmVGxXcnI4Wjl1VmdNcFgtOW9YOGZNenhfMW5ZSms0b0RJRG5NNlZYb2xPSC1JM3ZkenlicV8xMHYzLWtFb096WUJmMXg3LVJpTm1jRk1zcVV1YkZnR0NSZnpVYmpWOG12S1Q5OERtRE1MQjBQbWp2ekJtR2ZmampnZC1XNm4yMDd2eUxsZU5ZaUhkZlp6S3BEMlV2Y0ZFdHM5aUdlSk4yR2RB?oc=5",
-      "date": "2026-04-28 11:29",
+      "date": "2026-04-28 05:07",
       "summary": "Google signs classified AI deal with Pentagon, The Information reports  Reuters..."
     },
     {
@@ -249,45 +249,51 @@
       "summary": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem  MIT Technology Review..."
     },
     {
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVB2eTlFanBoVlZnZ2hTSmZ4UjhJbDdkNU12Ukstd04waHJKSjdXX01YVXhaZEl1Z29RMHdyM05EcmNhNlIycllMQTNqNnVVcHlPZ0lKTkFuZHdnT3VoenhVaTFMUWJ5UWxrRUNuUkRHMVJRRjNMb2d5cmFuVXNYNTNzTklEMDl4NVJyQXFZZVhpV0JQY0lkaDhOZWFXUjZMNnduQ2JET1QxZm1xNk51VUROV2ktSknSAbwBQVVfeXFMTkpxZ3UwcEFVRUFWNll3bHJfYmVYZXBtcEJZMnpEcUkzWkE2RkRZQm1CbTlLSFE2SV92cTNISUdERXBieENDQzlwTzN4T0NrUEhtMHRJM1Ywc2s5c1BtUEo1UFIxSDBjbGxDU1hhaTBEZE1FSlN1ZDRWT1VubDdjZEFJV2t6dmNLeWdMREdTX25lUmxkNzVjb0FOd0toZWpZUUxZN2RvV3pKS2lCODU0SU11RmRacU0tTEJrTjA?oc=5",
-      "date": "2026-04-27 22:52",
-      "summary": "Elon Musk and Sam Altman are going to court over OpenAI’s future  MIT Technology Review..."
+      "title": "Chinese tech workers are starting to train their AI doubles—and pushing back - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1VtUkYyWDM1bm5COTRWa1Q5UHltSEZ0eTV3cjc3TDJ0d2s3OVMxQkxIRkxJMS05S01kQWlURUJJVHR1dTFGXzB1V0JLZ2loQ0YxYWk1S0trdUNidEhCQWo3ZTRFZzVLWHJ6VFhhWjgyMU1HMEZ4d0VBblFjWVZRWENtdlV0MHc5Unp6YVpHbnDSAZYBQVVfeXFMT3VhYkVua2ZqNEJGSlJjSmZVS2tqUnl6OXJNRHE3ckx0Z1ZNcEtLMmNtbnB4Z2x4d2JWc3o1dk1uWEt6TFJHUFhTbWtBZ05xVTJNNDNUNVdXa01pR1ZQaEJPdi0zRWRBV0dxZGdkN0ZNOUo5UVdLQ0gwakxSZElYdFc5eTZqa1dRdHVnSF8tOVY2OXVLTWZ3?oc=5",
+      "date": "2026-04-20 09:00",
+      "summary": "Chinese tech workers are starting to train their AI doubles—and pushing back  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Atlantic Forest's top predator faces a hidden collapse, and protected areas are no longer enough",
+      "link": "https://phys.org/news/2026-04-atlantic-forest-predator-hidden-collapse.html",
+      "date": "2026-04-28 23:40",
+      "summary": "In addition to habitat loss and illegal hunting, the jaguar (Panthera onca) faces another threat that increases its risk of extinc..."
+    },
+    {
+      "title": "How hard-surface feeding unlocked a burst of reef fish evolution 50 million years ago",
+      "link": "https://phys.org/news/2026-04-hard-surface-reef-fish-evolution.html",
+      "date": "2026-04-28 23:20",
+      "summary": "Why are there so many species of coral reef fish? According to a new study, it's because about 50 million years ago, some fish fig..."
+    },
+    {
+      "title": "Team develops modulator for compact photonic integrated circuits",
+      "link": "https://phys.org/news/2026-04-team-modulator-compact-photonic-circuits.html",
+      "date": "2026-04-28 23:20",
+      "summary": "Researchers at Skoltech have developed an ultra-compact electro-optic modulator based on silicon photonics and plasmonics that ena..."
+    },
+    {
+      "title": "Scorpions' weapons are fortified with metal to suit their needs, research shows",
+      "link": "https://phys.org/news/2026-04-scorpions-weapons-fortified-metal.html",
+      "date": "2026-04-28 23:10",
+      "summary": "Scorpions wield some of the natural world's most formidable built-in weapons, from crushing pincers to venomous stingers. Scientis..."
+    },
     {
       "title": "Having a religious affiliation doesn't prevent betting on sports",
       "link": "https://phys.org/news/2026-04-religious-affiliation-doesnt-sports.html",
       "date": "2026-04-28 22:40",
       "summary": "Having a religious affiliation doesn't stop people from betting on sports in the United States, according to a new study. Results ..."
-    },
-    {
-      "title": "Flipping the K⁺ switch: First potassium-gated ion channel discovered in animal",
-      "link": "https://phys.org/news/2026-04-flipping-potassium-gated-ion-channel.html",
-      "date": "2026-04-28 22:40",
-      "summary": "Researchers from the National Institute for Physiological Sciences, Nagoya City University, and Tokyo Metropolitan Institute of Me..."
-    },
-    {
-      "title": "Decades-long study finds 'stable' soil carbon degrades",
-      "link": "https://phys.org/news/2026-04-decades-stable-soil-carbon-degrades.html",
-      "date": "2026-04-28 22:30",
-      "summary": "After nearly four decades, the world's longest-running soil warming experiment is revealing a surprising result: even \"stable\" car..."
-    },
-    {
-      "title": "New microscope reveals previously hidden differences in photosynthetic light-harvesting antennae",
-      "link": "https://phys.org/news/2026-04-microscope-reveals-previously-hidden-differences.html",
-      "date": "2026-04-28 22:20",
-      "summary": "How do photosynthetic organisms harvest light so efficiently? To help answer this question, researchers have developed an ultrafas..."
-    },
-    {
-      "title": "How a free flow of information can amplify incorrect ideas",
-      "link": "https://phys.org/news/2026-04-free-amplify-incorrect-ideas.html",
-      "date": "2026-04-28 22:10",
-      "summary": "The idea that information should flow freely is deeply embedded in the design of social media. The assumption is that the more inf..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Teaching in classes grouped by ability does not hamper progress of less able pupils, study finds",
+      "link": "https://www.theguardian.com/education/2026/apr/29/teaching-classes-by-ability-does-not-hamper-less-able-pupils-study-secondary-schools-england",
+      "date": "2026-04-28 23:01",
+      "summary": "Research on maths teaching in English secondary schools upends decades of debate over mixed-ability educationTeaching pupils in cl..."
+    },
     {
       "title": "Calls for ‘student premium’ to support disadvantaged young people after GCSEs",
       "link": "https://www.theguardian.com/society/2026/apr/28/calls-for-student-premium-to-support-disadvantaged-young-people-after-gcses",
@@ -311,15 +317,15 @@
       "link": "https://www.theguardian.com/business/2026/apr/27/hsbc-reviewing-private-school-perk-for-bankers-in-hong-kong",
       "date": "2026-04-27 08:31",
       "summary": "Hundreds of senior staff in territory benefit from nearly £30,000-a-year grant per child not available to staff in group’s other h..."
-    },
-    {
-      "title": "I’m out of a job after issues at the schools I worked for. Is it my fault? | Annalisa Barbieri",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/26/out-of-job-after-conflicts-schools-where-worked-annalisa-barbieri",
-      "date": "2026-04-26 05:00",
-      "summary": "It feels as if your work and your identity are fused. You’ll get through this, but you may have to use this time to consider other..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Pair of Hong Kong luxury homes sells for US$41m as market sizzle increases",
+      "link": "https://www.scmp.com/business/banking-finance/article/3351736/pair-hong-kong-luxury-homes-sells-us41m-market-sizzle-increases?utm_source=rss_feed",
+      "date": "2026-04-28 23:00",
+      "summary": "A wave of demand from mainland Chinese buyers is restoring liquidity to Hong Kong’s trophy home market, enabling owners who have h..."
+    },
     {
       "title": "Hong Kong star vows to be ‘companion, not mentor’ to protesters arrested in 2019",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3351757/hong-kong-star-vows-be-companion-not-mentor-protesters-arrested-2019?utm_source=rss_feed",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351743/hong-kong-police-arrest-man-after-fire-inside-sports-store-injures-staff-member?utm_source=rss_feed",
       "date": "2026-04-28 12:45",
       "summary": "A man has been arrested on suspicion of setting fire to clothing inside a Decathlon store in Hong Kong, injuring a shop worker who..."
-    },
-    {
-      "title": "Homeowner at Redhill Peninsula fined nearly HK$1 million for illegal structures",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351729/homeowner-redhill-peninsula-fined-nearly-hk1-million-illegal-structures?utm_source=rss_feed",
-      "date": "2026-04-28 11:01",
-      "summary": "A Hong Kong court has fined the owner of a luxury home at Redhill Peninsula nearly HK$1 million (US$173,938), the harshest penalty..."
     }
   ],
   "New Scientist": [
