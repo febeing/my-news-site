@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models",
+      "link": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
+      "date": "2026-04-29 21:40",
+      "summary": "A new debiasing technique called WRING avoids creating or amplifying biases that can occur with existing debiasing approaches...."
+    },
+    {
       "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
       "link": "https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429",
       "date": "2026-04-29 10:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/microscopic-magno-bots-perform-complex-maneuvers-with-magnet-swipe-0428",
       "date": "2026-04-28 15:00",
       "summary": "MIT researchers’ new fabrication technique can produce soft, microscopic structures with magnetically activated moving parts...."
-    },
-    {
-      "title": "Robotically assembled building blocks could make construction more efficient and sustainable",
-      "link": "https://news.mit.edu/2026/robotically-assembled-building-blocks-makes-construction-more-efficient-and-sustainable-0428",
-      "date": "2026-04-28 04:00",
-      "summary": "New research suggests constructing a simple building from interlocking subunits should be mechanically feasible and have a much sm..."
     }
   ],
   "Harvard Gazette": [
@@ -45,16 +45,16 @@
       "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     },
     {
-      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
-      "date": "2026-04-09 07:00",
-      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
-    },
-    {
       "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
       "date": "2026-02-20 08:00",
       "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
+    },
+    {
+      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
+      "date": "2026-04-09 07:00",
+      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
     },
     {
       "title": "Crossing line between good and bad anxiety - Harvard Gazette",
@@ -65,16 +65,22 @@
   ],
   "Stanford News": [
     {
+      "title": "Exclusive | Stanford University under federal investigation for DEI teacher program - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGV4czdDNlc3TDBPT3A1endqT0l1U1NJaFEzdkhXTkpSa2U1ZlQ2aWJhem1iclR6R0ZWQ3EwOTYyeldBN2w4UHk4ZmNLaG5zT3VxTEZ5azg3Rkotc2RVdm5NMThfYWZScUROdWVzQXg3MUhiZXhSVF9MVG93ZVRSMjk5LV84Vi10WWlnM1YtX1dGY2kxS0dRVVFSWmI0X2RJQ0hHX3RDWHpjclhMREZr?oc=5",
+      "date": "2026-04-29 21:08",
+      "summary": "Exclusive | Stanford University under federal investigation for DEI teacher program  New York Post..."
+    },
+    {
       "title": "Social scientists embrace the AI moment - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3hpMTJRQ1loeVQwZDVxYkw3bGhnbVc0Q21TU3hDX040d0FKN0pRMVhNOWRjalo2OWFXMHpuWmtyOVBMTkd0OVAyOWxiS0lBZWU4WjM5U29qektrVzBudW53Q2Q5WGZ5WXNIVVhZSlBEN1BZdy1ObHJfSWpOd0RaMzluV3E?oc=5",
       "date": "2026-04-24 07:00",
       "summary": "Social scientists embrace the AI moment  Stanford Report..."
     },
     {
-      "title": "Stanford ranked among worst experiences for college athletes: survey - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV21GS19WQnBid3loaFgyT015S2o0N2dKZEt1a0NSekdGOVh3Y0hpVVVoanItR3F5UmNpMmRCYXU2OENPTWpGUXFtN2I1cVBQQ1ZwWHNMc0k3RmE2Q1dnam1yNEt0SEhjY0x0X0NoRVEteFZjWDBxZXdROE92REhXTksxYWRfWHdSdU8xTjg4R3FHSUJ0N1kwNnVQNVZTUkUxaE5sNGVDZmZqWEE?oc=5",
-      "date": "2026-04-29 16:15",
-      "summary": "Stanford ranked among worst experiences for college athletes: survey  New York Post..."
+      "title": "Trump administration probes Stanford University over diversity practices - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1BNSm5NeUhua0xCdE9yNDY1QWx6eTlSWHp6TDRLYnBPaDNKdkllNjdaZERsZ0p6RTFrandtLVNGdkJtMDBKOW5YdmNlUkNubXpmMzJCVVlpdFhtcjJNZlE5THVlZFIwUndZOUlFa01QMU9kWDVoeVZEMVpwXzA4c1k2R1l2LXd5eXF0VElxUXRQVTJ5SGZQOTVweUYzdHc?oc=5",
+      "date": "2026-04-29 22:35",
+      "summary": "Trump administration probes Stanford University over diversity practices  Yahoo..."
     },
     {
       "title": "The Stanford freshmen who want to rule the world … will probably read this book and try even harder - TechCrunch",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNak1KcVhubkpjcnFxT25zOTB2UXZFSUc3RkY3UWNrdnlPLXFXZkJJaEZJWXRzQXdLbDRJZzM4dVExUVd6c1ZXUmhZbE5oam9rTV9ZcjA2T1doY2tUeVFNSHJ3UWVaR3pXeFN6V1dwOEZGaEVjSmhweGtiVVA5cXgtNU5iYnFyYmVmRDR6OXBfSQ?oc=5",
       "date": "2026-04-27 07:50",
       "summary": "Students protest IDF soldier’s presence on campus  The Stanford Daily..."
-    },
-    {
-      "title": "FSU Drops Series Finale at Stanford - seminoles.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEhDOHljUTJJMldaWUNHOGV5VTRrakZCM29uUnBjTjFnNmh0eThaRF9FZ3c5anl4X2RoMVNNOUxWemNxMTktT2t3Rk1HOGd5Qm5CYURTR3FiTDVYQl9oOWhSVnlJTk1ueXJfYWZLZnRUUzEwWk05OTZDcm1IQVVoS0p6aDFtSEZX?oc=5",
-      "date": "2026-04-27 00:49",
-      "summary": "FSU Drops Series Finale at Stanford  seminoles.com..."
     }
   ],
   "Nature Careers": [
@@ -205,22 +205,22 @@
       "summary": "Google signs classified AI deal with Pentagon, The Information reports  Reuters..."
     },
     {
-      "title": "Amazon beats quarterly cloud growth estimates on strong AI demand - Reuters",
+      "title": "Amazon tops cloud expectations on strong AI demand, shares dip - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUk9JdVVkT1VwYXNEM3Fqc1FXSHpRZ19neTZBTHZleG1jVFQ4ZVAtbTRGT0JGOXBKa3QtdmNvY3JDTGl5NEc0U2U0dHlUYWlBYjJIcmhvY1B2cjFEUDEweDJGbjJsbGVjbDRONkFCTjJ4SHN3MGFXcFJSa1JFTmhMZXdZb2VpR0ROR3JMR0tOY0RJZnFOUmNOcGRPNkVLa0pfQ3RQZHI5NXl2QQ?oc=5",
-      "date": "2026-04-29 20:25",
-      "summary": "Amazon beats quarterly cloud growth estimates on strong AI demand  Reuters..."
+      "date": "2026-04-29 21:02",
+      "summary": "Amazon tops cloud expectations on strong AI demand, shares dip  Reuters..."
     },
     {
-      "title": "DeepSeek bets on Huawei as China pushes to end reliance on Nvidia - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVmlUbkowZjAzNjMzMlN5SFdRTmN4VGlrTC1sVmc1dFlRbnBuOFdBdzBhX01SRmhDdHg0M20yRzlGU2dIQU5WUFBzOUl5ek9OVUpFY1lqQ21sbTN1NTJvUkE1cWNyVWktYTlfV0U2cGFjblVScHYzRmNiNnc2Zk01TVBJZXhTWU85U0xUWTJ3RnBoZ2lMQ3hqWjZhQmc3WE5acVR1NTBTVzNhdFc4bzJSM0JHdVFjT1kxUVFZUWJJNWpKdw?oc=5",
-      "date": "2026-04-29 20:00",
-      "summary": "DeepSeek bets on Huawei as China pushes to end reliance on Nvidia  Reuters..."
+      "title": "Meta lifts spending forecast, flags legal scrutiny, shares fall - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFNSQmtUam5teWJnNHNkcDVSSHVwbGl4d0luVzYwSUxaVnVpcVNmcW9LcXFGZ1IyWWxsZ1VPbmJ4N0FrR1ZXbkFfZG16cUJYQUFSdnhmdU95TUVXaUstaWF3M1drcXVDbHRjVlZVMTUwY3h0VnhhMVEycnRWbC1TNElfamZrNDlXQjNGbTg0dGN0MEN6ZDYwSDgtLUV6MW5HcXlDdlEtQmxJQQ?oc=5",
+      "date": "2026-04-29 21:12",
+      "summary": "Meta lifts spending forecast, flags legal scrutiny, shares fall  Reuters..."
     },
     {
-      "title": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2M0SGNsRTUwMHFfdDNFejNxNVBSOVlfRWc4Y0xGUDVPdDhqWU9YMVI1cTFfYWFCWGF1cU5CTVZvb3J4WHlzQk1udjFqdG9Dd0Zpb3NFcnBKU3FfQnVRdl9qSW9hMkh0RVFmTUZiek1BcTFHdjRrMXhSamdUb3hSYVhYZGZ1MFlBeURRaTZlTnYweG5fN0M2blB5OWhTT0RKSktnNVdZTkI3NnN3WlJhSG90TTBPbXBMQk5GQzZtWjFYNGI5?oc=5",
-      "date": "2026-04-28 20:22",
-      "summary": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns By Reuters  Investing.com..."
+      "title": "Alphabet revenue tops expectations on best-ever quarter for cloud unit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGtaR1g4ZGZaM1lyUzIxZDJlQU0tWDlHaC1SLU1fYmZnNC1ndEVKdWdLXzZDTzRGMDVVM25FTE0yd1ZOZHR5Q3NCcTNaSTN1TDhVVDVTNVpxeUhKaV93MzJ2WmlONk1fTnM5OVc3b0t1YjNWZklCQUZ5X29mZnkwYWNxYTMyM2todk9QVnh6dTBmYS12bFNKS21uRkhUOWZ2eEtobFpQSHJzLUJYYW8wc0dwQVA2LTQ?oc=5",
+      "date": "2026-04-29 21:45",
+      "summary": "Alphabet revenue tops expectations on best-ever quarter for cloud unit  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,48 +243,48 @@
       "summary": "Three reasons why DeepSeek’s new model matters  MIT Technology Review..."
     },
     {
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVB2eTlFanBoVlZnZ2hTSmZ4UjhJbDdkNU12Ukstd04waHJKSjdXX01YVXhaZEl1Z29RMHdyM05EcmNhNlIycllMQTNqNnVVcHlPZ0lKTkFuZHdnT3VoenhVaTFMUWJ5UWxrRUNuUkRHMVJRRjNMb2d5cmFuVXNYNTNzTklEMDl4NVJyQXFZZVhpV0JQY0lkaDhOZWFXUjZMNnduQ2JET1QxZm1xNk51VUROV2ktSknSAbwBQVVfeXFMTkpxZ3UwcEFVRUFWNll3bHJfYmVYZXBtcEJZMnpEcUkzWkE2RkRZQm1CbTlLSFE2SV92cTNISUdERXBieENDQzlwTzN4T0NrUEhtMHRJM1Ywc2s5c1BtUEo1UFIxSDBjbGxDU1hhaTBEZE1FSlN1ZDRWT1VubDdjZEFJV2t6dmNLeWdMREdTX25lUmxkNzVjb0FOd0toZWpZUUxZN2RvV3pKS2lCODU0SU11RmRacU0tTEJrTjA?oc=5",
-      "date": "2026-04-27 22:52",
-      "summary": "Elon Musk and Sam Altman are going to court over OpenAI’s future  MIT Technology Review..."
-    },
-    {
       "title": "It’s time to make a plan for nuclear waste - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNZXhNSXJUTVlmRmRDRUVpUWVNb0Q2Z2xRN2tfQ2U1blpJQjhEV2czU0VmMTU4REtUVklGWjNSSG5HbFBOQTJLbjRrNHdtWHUzaXBIOVUxN09FSF9BdHZKTVpIblBzamRHcjFHdlFYaXZqa1Ryb2VNSmtxb9IBgAFBVV95cUxQOUgyV3VoT2J1eFpzbVo5NndaeTJaLWlwZUlON1IyN2tLQ1dzeXpqc19rQnhUTDZfUUduZFpTNHpxYklnRFJyZGU1NG1aTFNmeWhPT3FQQ1lDbjg2UEF1bHpqVXZzMXBhWnFNalMtdGVTQm5UUXZzVUs1a080NUlSZw?oc=5",
       "date": "2026-04-29 08:00",
       "summary": "It’s time to make a plan for nuclear waste  MIT Technology Review..."
+    },
+    {
+      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVB2eTlFanBoVlZnZ2hTSmZ4UjhJbDdkNU12Ukstd04waHJKSjdXX01YVXhaZEl1Z29RMHdyM05EcmNhNlIycllMQTNqNnVVcHlPZ0lKTkFuZHdnT3VoenhVaTFMUWJ5UWxrRUNuUkRHMVJRRjNMb2d5cmFuVXNYNTNzTklEMDl4NVJyQXFZZVhpV0JQY0lkaDhOZWFXUjZMNnduQ2JET1QxZm1xNk51VUROV2ktSknSAbwBQVVfeXFMTkpxZ3UwcEFVRUFWNll3bHJfYmVYZXBtcEJZMnpEcUkzWkE2RkRZQm1CbTlLSFE2SV92cTNISUdERXBieENDQzlwTzN4T0NrUEhtMHRJM1Ywc2s5c1BtUEo1UFIxSDBjbGxDU1hhaTBEZE1FSlN1ZDRWT1VubDdjZEFJV2t6dmNLeWdMREdTX25lUmxkNzVjb0FOd0toZWpZUUxZN2RvV3pKS2lCODU0SU11RmRacU0tTEJrTjA?oc=5",
+      "date": "2026-04-27 22:52",
+      "summary": "Elon Musk and Sam Altman are going to court over OpenAI’s future  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Low-cost method could standardize microplastic extraction from soils worldwide",
-      "link": "https://phys.org/news/2026-04-method-standardize-microplastic-soils-worldwide.html",
-      "date": "2026-04-29 21:00",
-      "summary": "A new \"gold standard\" for soil analysis and microplastic extraction has been developed at the University of New England (UNE), unl..."
+      "title": "Drone radar reveals buried glaciers on Earth, guiding the search for water on Mars",
+      "link": "https://phys.org/news/2026-04-drone-radar-reveals-glaciers-earth.html",
+      "date": "2026-04-29 22:50",
+      "summary": "Understanding how to explore hidden glaciers on Mars begins not in a laboratory, but in remote field camps across Alaska and Wyomi..."
     },
     {
-      "title": "Why your pet reptile 'surfs' the glass or rubs against the barriers of their enclosure",
-      "link": "https://phys.org/news/2026-04-pet-reptile-surfs-glass-barriers.html",
-      "date": "2026-04-29 21:00",
-      "summary": "Every day, millions of people watch their pet reptiles run, dig, swim or climb up against the walls of their enclosure. Reptile ke..."
+      "title": "Beer waste may become sunscreen ingredient after spent hops show promising UV protection",
+      "link": "https://phys.org/news/2026-04-beer-sunscreen-ingredient-spent-uv.html",
+      "date": "2026-04-29 22:40",
+      "summary": "Research conducted at the University of São Paulo (USP) in Brazil revealed that hops (Humulus lupulus L.) industrial waste from th..."
     },
     {
-      "title": "Microbes sense neighbors and change jobs to reduce competition, offering clue to coexistence",
-      "link": "https://phys.org/news/2026-04-microbes-neighbors-jobs-competition-clue.html",
-      "date": "2026-04-29 20:50",
-      "summary": "New research from Ben-Gurion University of the Negev, published in Nature Microbiology, reveals that when microbes live together, ..."
+      "title": "Blooming surprise in upstate New York reveals first new flowering plant species in nearly ten years",
+      "link": "https://phys.org/news/2026-04-blooming-upstate-york-reveals-species.html",
+      "date": "2026-04-29 22:40",
+      "summary": "Justin Scholten '22 knows the plants growing on the forest floor around the Finger Lakes. There's the white baneberry, Actaea pach..."
     },
     {
-      "title": "Just a few species can drive a plant community's response to warming temperatures",
-      "link": "https://phys.org/news/2026-04-species-community-response-temperatures.html",
-      "date": "2026-04-29 20:40",
-      "summary": "A new analysis of experimental data led by the University of Michigan has unveiled insights into why and how plant communities are..."
+      "title": "Tiny flexible lasers enable force sensing inside living cells",
+      "link": "https://phys.org/news/2026-04-tiny-flexible-lasers-enable-cells.html",
+      "date": "2026-04-29 22:30",
+      "summary": "Researchers have developed tiny flexible lasers that can be used to measure forces inside living cells. The new lasers could help ..."
     },
     {
-      "title": "Companies disclose more on cybersecurity—but markets remain indifferent",
-      "link": "https://phys.org/news/2026-04-companies-disclose-cybersecurity-indifferent.html",
-      "date": "2026-04-29 20:40",
-      "summary": "U.S. companies are reporting on cybersecurity in greater detail, yet stock market reactions remain muted. A new study by the Unive..."
+      "title": "A new era for ultrafast photonics: 2D mercury-acetylide frameworks for near-infrared nonlinear optics",
+      "link": "https://phys.org/news/2026-04-era-ultrafast-photonics-2d-mercury.html",
+      "date": "2026-04-29 22:20",
+      "summary": "In the increasingly digital world, the demand for faster, more efficient and miniaturized optical devices is ever-growing. From hi..."
     }
   ],
   "The Guardian Edu": [
@@ -353,6 +353,12 @@
   ],
   "New Scientist": [
     {
+      "title": "Simple treatment tweak drastically reduces blood loss from severe cuts",
+      "link": "https://www.newscientist.com/article/2524800-simple-treatment-tweak-drastically-reduces-blood-loss-from-severe-cuts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-29 16:25",
+      "summary": "A procedure that could be done in half an hour, and prepared ahead of time, could seriously reduce blood loss from severe wounds, ..."
+    },
+    {
       "title": "Weird 'transdimensional' state of matter is neither 2D nor 3D",
       "link": "https://www.newscientist.com/article/2524690-weird-transdimensional-state-of-matter-is-neither-2d-nor-3d/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-29 16:00",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2524648-extreme-weather-in-2025-drove-record-wildfire-emissions-in-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-29 10:53",
       "summary": "Europe, the fastest-warming continent, saw unprecedented wildfires and heatwaves in 2025, including a three-week hot spell that hi..."
-    },
-    {
-      "title": "Cancer is increasing in young people and we still don't know why",
-      "link": "https://www.newscientist.com/article/2524515-cancer-is-increasing-in-young-people-and-we-still-dont-know-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-28 23:30",
-      "summary": "Obesity might be to blame for part of the increase in cancer among young people, a study in the UK has found, but the causes large..."
     }
   ]
 }
