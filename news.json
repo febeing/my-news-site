@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT engineers’ virtual violin produces realistic sounds",
+      "link": "https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429",
+      "date": "2026-04-29 09:00",
+      "summary": "Based on the physics of how the instrument produces sound, the model could help violin makers in the design process...."
+    },
+    {
       "title": "Enabling privacy-preserving AI training on everyday devices",
       "link": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
       "date": "2026-04-29 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/mapping-molecular-markers-of-physical-fitness-0428",
       "date": "2026-04-28 04:00",
       "summary": "A new study reveals cellular pathways that appear to underlie some differences in physical fitness...."
-    },
-    {
-      "title": "Self-organizing “pencil beam” laser could help scientists design brain-targeted therapies",
-      "link": "https://news.mit.edu/2026/self-organizing-pencil-beam-laser-could-help-scientists-design-brain-targeted-therapies-0427",
-      "date": "2026-04-27 09:00",
-      "summary": "MIT researchers leveraged a surprise discovery to devise a faster and more precise biomedical imaging technique...."
     }
   ],
   "Harvard Gazette": [
@@ -57,24 +57,30 @@
       "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
     },
     {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
-      "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
+      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
+      "date": "2025-09-30 07:00",
+      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
     }
   ],
   "Stanford News": [
     {
-      "title": "The Stanford freshmen who want to rule the world … will probably read this book and try even harder - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWxwLUJSRjQzSlZrbUhNWmJIR0xRZTdVYm1mWFJERjZzTGZjSFBEMGlOaXpQRWFkajNkU1lMM2JwUGJrRlZ6NXF3M3BtYTBiZ19QYjVwaVZxMnV4NEFMSVFSZWdaNzlhWUZSazhiai1sZU56cWYwVUE0NG9fM3llOUNzZUtxbE9KNEdzLVJSUEZTMDhLaEl2NEo5SWFtZV83UC1FVlMxZGpfMl9JY0xDeDNCMlBMaEFYcVJScXBSSjNRSkh5UXJ2VFBSQk8?oc=5",
-      "date": "2026-04-26 22:00",
-      "summary": "The Stanford freshmen who want to rule the world … will probably read this book and try even harder  TechCrunch..."
+      "title": "Social scientists embrace the AI moment - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3hpMTJRQ1loeVQwZDVxYkw3bGhnbVc0Q21TU3hDX040d0FKN0pRMVhNOWRjalo2OWFXMHpuWmtyOVBMTkd0OVAyOWxiS0lBZWU4WjM5U29qektrVzBudW53Q2Q5WGZ5WXNIVVhZSlBEN1BZdy1ObHJfSWpOd0RaMzluV3E?oc=5",
+      "date": "2026-04-24 07:00",
+      "summary": "Social scientists embrace the AI moment  Stanford Report..."
     },
     {
       "title": "Students protest IDF soldier’s presence on campus - The Stanford Daily",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNak1KcVhubkpjcnFxT25zOTB2UXZFSUc3RkY3UWNrdnlPLXFXZkJJaEZJWXRzQXdLbDRJZzM4dVExUVd6c1ZXUmhZbE5oam9rTV9ZcjA2T1doY2tUeVFNSHJ3UWVaR3pXeFN6V1dwOEZGaEVjSmhweGtiVVA5cXgtNU5iYnFyYmVmRDR6OXBfSQ?oc=5",
       "date": "2026-04-27 07:50",
       "summary": "Students protest IDF soldier’s presence on campus  The Stanford Daily..."
+    },
+    {
+      "title": "The Stanford freshmen who want to rule the world … will probably read this book and try even harder - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWxwLUJSRjQzSlZrbUhNWmJIR0xRZTdVYm1mWFJERjZzTGZjSFBEMGlOaXpQRWFkajNkU1lMM2JwUGJrRlZ6NXF3M3BtYTBiZ19QYjVwaVZxMnV4NEFMSVFSZWdaNzlhWUZSazhiai1sZU56cWYwVUE0NG9fM3llOUNzZUtxbE9KNEdzLVJSUEZTMDhLaEl2NEo5SWFtZV83UC1FVlMxZGpfMl9JY0xDeDNCMlBMaEFYcVJScXBSSjNRSkh5UXJ2VFBSQk8?oc=5",
+      "date": "2026-04-26 22:00",
+      "summary": "The Stanford freshmen who want to rule the world … will probably read this book and try even harder  TechCrunch..."
     },
     {
       "title": "FSU Drops Series Finale at Stanford - seminoles.com",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN0RuVlBWb21ObmhNczZvN2ttZ3FNbF9DMzZxU1J3ei01ZGhWRU52dU9CM0NnXzJ2cWgtYlR6cWhHZmJDcnk0N2NrVHFEV1ZwM1VDYVZJbk1udWIzVnk5YXZXYTB1RkNkSVVRam83OS1XVTZZcEptMWhJZWdpM0Q4ZEJkWnREekpKSVVaVUZxVlB6SEp3QWR1aFJfX05DN0p4V0pLUFJHX0VkUUpxSV8tU2tsOG1Pdw?oc=5",
       "date": "2026-04-27 01:10",
       "summary": "Ex-IDF Soldier Visiting Stanford With Miss Israel Accused of Putting Student In Chokehold  SFist..."
-    },
-    {
-      "title": "Leaders introduce new admits to the Stanford experience - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3ZYWGNDdk9WeVJ4ZmNjeEV4Nkdva2VuOXFjTFR5cHZLVERKTFFWTnYyWEhkNW9ZaUV2SjdaZ05nbGI3MDVGSVJLTFJXQzZ1c2RyYURRY0N0TTg3VXdJR3JqZ2p4SHlnUWpGUVVZWEpVRVEyT0FpMXo5dlRKVGdJWmV6NHpwRUNYMXhOSkZCOFFkcGtySEhuQ1JWcjk?oc=5",
-      "date": "2026-04-27 21:12",
-      "summary": "Leaders introduce new admits to the Stanford experience  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -199,10 +199,16 @@
       "summary": "Amazon targets mass hiring with agentic software, goal to humanize AI  Reuters..."
     },
     {
-      "title": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWNVVzdGMmUtRnY2VTJ5S0hkXzJtZGdNY0NBdlpPc0FlRnc2QkRXY2I2dEpndjJuUDl2cTN3ZkVnckNpYWZkT0c3cUNlWG1VS1JLQ1l6Wk5IQ003UUJjWEpKS25Qem85R1VncVlhXzh6djZ0UW12bUkyWFNJeGpSLW5PdGVRUjEwTWlUQjBEZ2huV2ZCRFVfWGlMNkpuWUVOSzMzMXVKa09EaWZNSl9YN0ZRR3Zad0lJUTNxWC1LVWtaZw?oc=5",
-      "date": "2026-04-28 11:09",
-      "summary": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion  Reuters..."
+      "title": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzhBYkt1cUNmMmJzRWZxWGRTb3hNMm02LXN2Z2ZfMUN4dmNyTmV0ODNPRWRkVXlrM0pGNFBpZ3R4X3QzdVV5YW5vaWszSTl3R2IxaEtXaHBib09qMTNjUktjMEVzVjlrMkRVTGpjQldyQVVqekFuWWpQWGZfbVhjQlNtRkNvdFlpbWhhOWtfZTdZVUd6cWMtYnA5ZC0xNHc0eUNfLTlBYUxoUkt2OUpxY2V2NWF4SlNkN2xEN1dkOEpQRDdfM0RJ?oc=5",
+      "date": "2026-04-28 20:19",
+      "summary": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns  Reuters..."
+    },
+    {
+      "title": "Exclusive: Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2k3eWk0STFfck5fbjZoWkMzRlg5OFRGR19BM0xXV3Vfb0dCX1NralZ2SDNVQ1RvU1Zpck1mVGhNT0FfRFIwcERIaFVmTHRJRTVRVlNOQlR1a0lyVE9iLW9OT0pYQTdZc3NqdVhPeTJhajhwWlJfZUpOeFdSZmd2M3QxZ2RraG12d2xFSkk1VXloOTNtSFJXS05wb3Y5Zk94VHJwQ2Z4d0V2X1BsbWlIWm1CVTBkYkVVS1hXSy1jR0JMVURZSmc?oc=5",
+      "date": "2026-04-29 07:01",
+      "summary": "Exclusive: Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say  Reuters..."
     },
     {
       "title": "Google signs classified AI deal with Pentagon, The Information reports By Reuters - Investing.com",
@@ -211,16 +217,10 @@
       "summary": "Google signs classified AI deal with Pentagon, The Information reports By Reuters  Investing.com..."
     },
     {
-      "title": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzhBYkt1cUNmMmJzRWZxWGRTb3hNMm02LXN2Z2ZfMUN4dmNyTmV0ODNPRWRkVXlrM0pGNFBpZ3R4X3QzdVV5YW5vaWszSTl3R2IxaEtXaHBib09qMTNjUktjMEVzVjlrMkRVTGpjQldyQVVqekFuWWpQWGZfbVhjQlNtRkNvdFlpbWhhOWtfZTdZVUd6cWMtYnA5ZC0xNHc0eUNfLTlBYUxoUkt2OUpxY2V2NWF4SlNkN2xEN1dkOEpQRDdfM0RJ?oc=5",
-      "date": "2026-04-28 20:19",
-      "summary": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns  Reuters..."
-    },
-    {
-      "title": "White House drafts guidance to bypass Anthropic's risk flag for new AI models, Axios reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORUZwakFjZGhSOUhxeVdyTkZPM1VLNmNvZTZiblpycWVXUGNwVUxTaXlBUmplVnlwOVk1b3V3cG8wX3lGRHFSTUxYT0hXS3lVSkdJazdqdkVUeDFmcmpCd1JCQXZ5VlJNWTJXQy0zdVRhLWZHWDJfc2sxMUhEcnFQX1R0U1YwZXFZYUduSzJIT1M2QV9Ydms2V2l5TzJkRE83MGh4TTNDTlBfemU2bEhoeHBZODExMWJ3ZUxuWHN1NkVpZXQ1dkVr?oc=5",
-      "date": "2026-04-29 02:06",
-      "summary": "White House drafts guidance to bypass Anthropic's risk flag for new AI models, Axios reports  Reuters..."
+      "title": "Breakingviews - Meta pokes holes in China's great AI firewall - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVZRNzNUTnh5d2dTNXkzWm5IanR6VnZ5WFJGMm40R180UnFBbWJPYldvSnJ2UG9qTkxGaDlrNXZGU3k2T2JjUWZVQzFla05ONGNjRi0xaVZiX2dBTk0wM3Yyb0Z6WG05WTlnQ3l6blBhcnp1NkVha2I1NUJhY3hjY1NJU1JreDdMbTkxTlllOEhmQkI2dkwtRjdiYnZGNGhGcUJGUg?oc=5",
+      "date": "2026-04-27 18:58",
+      "summary": "Breakingviews - Meta pokes holes in China's great AI firewall  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,19 +243,31 @@
       "summary": "Elon Musk and Sam Altman are going to court over OpenAI’s future  MIT Technology Review..."
     },
     {
+      "title": "It’s time to make a plan for nuclear waste - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNZXhNSXJUTVlmRmRDRUVpUWVNb0Q2Z2xRN2tfQ2U1blpJQjhEV2czU0VmMTU4REtUVklGWjNSSG5HbFBOQTJLbjRrNHdtWHUzaXBIOVUxN09FSF9BdHZKTVpIblBzamRHcjFHdlFYaXZqa1Ryb2VNSmtxbw?oc=5",
+      "date": "2026-04-29 08:00",
+      "summary": "It’s time to make a plan for nuclear waste  MIT Technology Review..."
+    },
+    {
       "title": "Health-care AI is here. We don’t know if it actually helps patients. - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGt2SFRCOF9nU2dqUFhDVWFSVy1jdDhkNUJtSDNKeUliM0RneXRuTC15TVM1TnBoZXI2dEF4ZWhGQTRidnE2TG5faWZpckhhS01lMG1XUTZ4ZGlWWTM1S1JZS3M0ZDR6d1lKcC1mOGNDdkRZUEp6WS1mUkhjNFI3ZWVoSm5Za1BWd0pUcDB1MEZXZk5uRmZIYS1PSXR0dm1oZ3ZF0gGoAUFVX3lxTFAtZXQ3b0dXbmw5VTE1a0l5LXY3N2JlSHlwV2o5ZmwyUXd2bEZRU1k3Z2dkMXpReHFDdEQ4ZzNDYksxTTlnZ0wyekxrSUNMYTJGWk44dDA1ajRvSlBJNlZYbHdlYm5WUkZHQjhnMWkzOU9GakE4cjJtOE1aVmZ5cHpXVm1uRFJFNGRkVUZIWURDdG1uNms3ZkktdXV2QVVzSkFmdDFrLVlFag?oc=5",
       "date": "2026-04-24 09:00",
       "summary": "Health-care AI is here. We don’t know if it actually helps patients.  MIT Technology Review..."
-    },
-    {
-      "title": "Chinese tech workers are starting to train their AI doubles—and pushing back - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1VtUkYyWDM1bm5COTRWa1Q5UHltSEZ0eTV3cjc3TDJ0d2s3OVMxQkxIRkxJMS05S01kQWlURUJJVHR1dTFGXzB1V0JLZ2loQ0YxYWk1S0trdUNidEhCQWo3ZTRFZzVLWHJ6VFhhWjgyMU1HMEZ4d0VBblFjWVZRWENtdlV0MHc5Unp6YVpHbnDSAZYBQVVfeXFMT3VhYkVua2ZqNEJGSlJjSmZVS2tqUnl6OXJNRHE3ckx0Z1ZNcEtLMmNtbnB4Z2x4d2JWc3o1dk1uWEt6TFJHUFhTbWtBZ05xVTJNNDNUNVdXa01pR1ZQaEJPdi0zRWRBV0dxZGdkN0ZNOUo5UVdLQ0gwakxSZElYdFc5eTZqa1dRdHVnSF8tOVY2OXVLTWZ3?oc=5",
-      "date": "2026-04-20 07:00",
-      "summary": "Chinese tech workers are starting to train their AI doubles—and pushing back  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Tropical forest loss eases after record year: researchers",
+      "link": "https://phys.org/news/2026-04-tropical-forest-loss-eases-year.html",
+      "date": "2026-04-29 08:10",
+      "summary": "The pace of tropical forest destruction slowed in 2025 after record losses the year before but remained at worrying levels equival..."
+    },
+    {
+      "title": "Rare earth mining is poisoning Mekong River tributaries, threatening 'the world's kitchen'",
+      "link": "https://phys.org/news/2026-04-rare-earth-poisoning-mekong-river.html",
+      "date": "2026-04-29 07:50",
+      "summary": "Perched on the bow of his long-tail fishing boat, 75-year-old Sukjai Yana untangled a handful of small fish from his net, disappoi..."
+    },
     {
       "title": "NASA's Artemis II moonship returns home to its launch site after historic voyage",
       "link": "https://phys.org/news/2026-04-nasa-artemis-ii-moonship-home.html",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-04-youd-paying-attention-manosphere-youre.html",
       "date": "2026-04-29 02:00",
       "summary": "As the United States and Israel launched their war on Iran in late February, the social media posts by some US national security a..."
-    },
-    {
-      "title": "Understanding how oxygen is delivered to tissues at the microscopic level",
-      "link": "https://phys.org/news/2026-04-oxygen-tissues-microscopic.html",
-      "date": "2026-04-29 01:00",
-      "summary": "Researchers at Kyushu University and Institute of Science Tokyo have developed a new computational model that can simulate the tra..."
-    },
-    {
-      "title": "Wingbeat radar signatures let AI sort bees, wasps and other insects",
-      "link": "https://phys.org/news/2026-04-wingbeat-radar-signatures-ai-bees.html",
-      "date": "2026-04-29 00:00",
-      "summary": "Pollinating insects are important for agriculture and ecological flourishing, but they are difficult to monitor, as identification..."
     }
   ],
   "The Guardian Edu": [
@@ -321,34 +321,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong surplus hits HK$11 billion as finance chief ‘monitors’ Mideast war",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3351838/hong-kong-surplus-hits-hk11-billion-finance-chief-monitors-mideast-war?utm_source=rss_feed",
+      "date": "2026-04-29 08:54",
+      "summary": "Hong Kong’s financial chief has revised the city’s fiscal surplus for the previous year to HK$11 billion (US$1.91 billion), nearly..."
+    },
+    {
+      "title": "Which hidden gems are mainland Chinese tourists chasing this Labour Day ‘golden week’?",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3351821/which-hidden-gems-are-mainland-chinese-tourists-chasing-labour-day-golden-week?utm_source=rss_feed",
+      "date": "2026-04-29 07:23",
+      "summary": "Hong Kong expects about 980,000 mainland Chinese visitors over the Labour Day “golden week” holiday from May 1 to 5, a 7 per cent ..."
+    },
+    {
+      "title": "Hong Kong to launch liquefied petroleum gas subsidy to support transport sector",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3351819/hong-kong-launch-liquefied-petroleum-gas-subsidy-support-transport-sector?utm_source=rss_feed",
+      "date": "2026-04-29 07:11",
+      "summary": "Hong Kong will introduce a two-month subsidy for liquefied petroleum gas (LPG) used by taxis, minibuses and school buses from May,..."
+    },
+    {
+      "title": "Hong Kong cook jailed 18 years for ‘evil’ sexual abuse of daughter",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351813/hong-kong-cook-jailed-18-years-evil-sexual-abuse-daughter?utm_source=rss_feed",
+      "date": "2026-04-29 06:39",
+      "summary": "A Hong Kong cook has been jailed for 18 years for persistently sexually abusing the daughter he shares with his mistress, with the..."
+    },
+    {
       "title": "HKEX posts record quarterly profit, topping forecast as listings and turnover surge",
       "link": "https://www.scmp.com/business/banking-finance/article/3351801/hkex-posts-record-quarterly-profit-topping-forecast-listings-and-turnover-surge?utm_source=rss_feed",
       "date": "2026-04-29 05:50",
       "summary": "Hong Kong Exchanges and Clearing (HKEX), operator of Asia’s third-largest stock market, reported a record quarterly profit in the ..."
-    },
-    {
-      "title": "Government vows action as landlord-tenant rows block access at Wang Fuk Court",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3351802/government-vows-action-landlord-tenant-rows-block-access-wang-fuk-court?utm_source=rss_feed",
-      "date": "2026-04-29 05:38",
-      "summary": "Hong Kong authorities have pledged to intervene in landlord-tenant disputes preventing residents from retrieving belongings from t..."
-    },
-    {
-      "title": "Amber rainstorm warning issued as thunderstorms hit Hong Kong",
-      "link": "https://www.scmp.com/weather/hong-kong/article/3351787/amber-rainstorm-warning-issued-thunderstorms-strong-gusts-hit-hong-kong?utm_source=rss_feed",
-      "date": "2026-04-29 04:22",
-      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
-    },
-    {
-      "title": "Challenges ahead for Wang Fuk Court homeowners who reject buy-back offer",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3351784/challenges-ahead-wang-fuk-court-homeowners-who-reject-buy-back-offer?utm_source=rss_feed",
-      "date": "2026-04-29 04:12",
-      "summary": "Homeowners of the only block undamaged in the deadly Wang Fuk Court inferno who decline the government’s buy-back offer will face ..."
-    },
-    {
-      "title": "‘No fundraising launched’ after father’s death, paralysed dancer Mo Li warns",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3351770/no-funds-raised-after-fathers-death-paralysed-hong-kong-dancer-mo-li-warns-scams?utm_source=rss_feed",
-      "date": "2026-04-29 00:57",
-      "summary": "A Hong Kong dancer left paralysed after being struck by a giant screen during a 2022 concert by popular boy band Mirror has clarif..."
     }
   ],
   "New Scientist": [
