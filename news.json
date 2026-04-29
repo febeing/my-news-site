@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Enabling privacy-preserving AI training on everyday devices",
+      "link": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
+      "date": "2026-04-29 04:00",
+      "summary": "A new method could bring more accurate and efficient AI models to high-stakes applications like health care and finance, even in u..."
+    },
+    {
       "title": "With a swipe of a magnet, microscopic “magno-bots” perform complex maneuvers",
       "link": "https://news.mit.edu/2026/microscopic-magno-bots-perform-complex-maneuvers-with-magnet-swipe-0428",
       "date": "2026-04-28 15:00",
@@ -23,15 +29,15 @@
       "link": "https://news.mit.edu/2026/self-organizing-pencil-beam-laser-could-help-scientists-design-brain-targeted-therapies-0427",
       "date": "2026-04-27 09:00",
       "summary": "MIT researchers leveraged a surprise discovery to devise a faster and more precise biomedical imaging technique...."
-    },
-    {
-      "title": "A faster way to estimate AI power consumption",
-      "link": "https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427",
-      "date": "2026-04-27 04:00",
-      "summary": "The “EnergAIzer” method generates reliable results in seconds, enabling data center operators to efficiently allocate resources an..."
     }
   ],
   "Harvard Gazette": [
+    {
+      "title": "How academia can help America heal - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
+      "date": "2026-02-13 08:00",
+      "summary": "How academia can help America heal  Harvard Gazette..."
+    },
     {
       "title": "Why are communities pushing back against data centers? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
@@ -39,10 +45,10 @@
       "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
     },
     {
-      "title": "How academia can help America heal - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
-      "date": "2026-02-13 08:00",
-      "summary": "How academia can help America heal  Harvard Gazette..."
+      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
+      "date": "2025-10-28 07:00",
+      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     },
     {
       "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
@@ -51,16 +57,10 @@
       "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
     },
     {
-      "title": "Harvard Impact Labs awards $1.4M to launch research projects to tackle urgent social problems - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN2JTWG1GVUJucGFJMzdOaDRWUkhiRkoxR18yWm9PdTRVU2E0Z1hnR3hLa25LSVY1Q3JBeFVXeXBRY0wyaUNMaUpCaGtCdkR4bkd0dk9PekV1WS1aRW93OE5CUWNJbGtSUHJ6dEFJNVF0dVpDZTh1WVdGRVFNQ0pVanhpZGljbVlvSDRRV1p3V0lBZDZZSS1yald3ekVyaTQzUnhQLV9fc1BVRzlQT0FkeWJwYnNhai1RNGxtQUR3bk5BVnhBSS1nUEFLWW81MUE4Wl91LXMxTHI?oc=5",
-      "date": "2026-01-29 08:00",
-      "summary": "Harvard Impact Labs awards $1.4M to launch research projects to tackle urgent social problems  Harvard Gazette..."
-    },
-    {
-      "title": "How to help lift slumping American math scores - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
-      "date": "2026-01-26 08:00",
-      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
+      "date": "2025-10-23 07:00",
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -71,10 +71,10 @@
       "summary": "The Stanford freshmen who want to rule the world … will probably read this book and try even harder  TechCrunch..."
     },
     {
-      "title": "Miss Israel and IDF soldier targeted by ‘hateful’ agitators at Stanford event - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUFUeFE3MkFkMEdkcXB1UnNlWlQwYmtWUmNtRGxKYVZvYlFtRi1FYW9PLVhORmxMX2JyVzg4Mmpjb3FjRmQtTzB1ang2dmlBcHlYRExwbEhaYU00cGFpZGJCVGlEbmR0QnMtNGFQanFqRl9Tdk5LeW5ncnYwMDN5TldxT0h0OUhYckk1aFM0S1RHVnhrUUlFdHJUbHpXS0FJREl6T3hlX2laODhaUXpjbHV0TDM?oc=5",
-      "date": "2026-04-25 17:01",
-      "summary": "Miss Israel and IDF soldier targeted by ‘hateful’ agitators at Stanford event  New York Post..."
+      "title": "Students protest IDF soldier’s presence on campus - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNak1KcVhubkpjcnFxT25zOTB2UXZFSUc3RkY3UWNrdnlPLXFXZkJJaEZJWXRzQXdLbDRJZzM4dVExUVd6c1ZXUmhZbE5oam9rTV9ZcjA2T1doY2tUeVFNSHJ3UWVaR3pXeFN6V1dwOEZGaEVjSmhweGtiVVA5cXgtNU5iYnFyYmVmRDR6OXBfSQ?oc=5",
+      "date": "2026-04-27 07:50",
+      "summary": "Students protest IDF soldier’s presence on campus  The Stanford Daily..."
     },
     {
       "title": "FSU Drops Series Finale at Stanford - seminoles.com",
@@ -83,10 +83,10 @@
       "summary": "FSU Drops Series Finale at Stanford  seminoles.com..."
     },
     {
-      "title": "Students protest IDF soldier’s presence on campus - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNak1KcVhubkpjcnFxT25zOTB2UXZFSUc3RkY3UWNrdnlPLXFXZkJJaEZJWXRzQXdLbDRJZzM4dVExUVd6c1ZXUmhZbE5oam9rTV9ZcjA2T1doY2tUeVFNSHJ3UWVaR3pXeFN6V1dwOEZGaEVjSmhweGtiVVA5cXgtNU5iYnFyYmVmRDR6OXBfSQ?oc=5",
-      "date": "2026-04-27 07:50",
-      "summary": "Students protest IDF soldier’s presence on campus  The Stanford Daily..."
+      "title": "Ex-IDF Soldier Visiting Stanford With Miss Israel Accused of Putting Student In Chokehold - SFist",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN0RuVlBWb21ObmhNczZvN2ttZ3FNbF9DMzZxU1J3ei01ZGhWRU52dU9CM0NnXzJ2cWgtYlR6cWhHZmJDcnk0N2NrVHFEV1ZwM1VDYVZJbk1udWIzVnk5YXZXYTB1RkNkSVVRam83OS1XVTZZcEptMWhJZWdpM0Q4ZEJkWnREekpKSVVaVUZxVlB6SEp3QWR1aFJfX05DN0p4V0pLUFJHX0VkUUpxSV8tU2tsOG1Pdw?oc=5",
+      "date": "2026-04-27 01:10",
+      "summary": "Ex-IDF Soldier Visiting Stanford With Miss Israel Accused of Putting Student In Chokehold  SFist..."
     },
     {
       "title": "Leaders introduce new admits to the Stanford experience - Stanford Report",
@@ -121,10 +121,10 @@
       "summary": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01366-2Gulf states must move from efficiency to resilience..."
     },
     {
-      "title": "Hungarian science has undergone rapid changes",
-      "link": "https://www.nature.com/articles/d41586-026-01367-1",
+      "title": "The politics of playful primates",
+      "link": "https://www.nature.com/articles/d41586-026-01352-8",
       "date": "2026-04-28 00:00",
-      "summary": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01367-1Hungarian science has undergone rapid changes..."
+      "summary": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01352-8Apes, monkeys and their relatives that live in despotic soc..."
     }
   ],
   "Science News": [
@@ -205,12 +205,6 @@
       "summary": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion  Reuters..."
     },
     {
-      "title": "Goldman Sachs bars Hong Kong bankers from Anthropic AI use, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXJ1Y25ZdEZWNGdILUF6TjdBeUpuWFBWREIteDVqUm9pUGZNbEN5ajdOMWZJV2JMSTM2QkRPTjZJc1pIRnhVc1JZeUptTk5fWEVVYWVxR0tOdVhfXzRLVjZJdTYxUGRXT29HTkUtb2Z5NkRlQUdaOG4tM3lsZ2t2RXI4dExyUm1vdUJPSnFKVUY5dnZYNEFoYWJ4ZzZ3R3pMcmxLVkZ1b21lQ0VRT2x2Wk5B?oc=5",
-      "date": "2026-04-29 00:54",
-      "summary": "Goldman Sachs bars Hong Kong bankers from Anthropic AI use, FT reports  Reuters..."
-    },
-    {
       "title": "Google signs classified AI deal with Pentagon, The Information reports By Reuters - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPazhjUE9yZWdWblZqcWNxdmhCdFB0SGlRSC1ZdmphaksweHpfeEF0SmlVR2xOd3FGaHBwYmRRdTlSbDRpU18wSUU3aTBuZHMtYjJQRW91Z2ZUcG42Qnk2Njd4UmNKZmJoTTZKT3NkZVFvaHhSQWc4eDh3WWtxbEdscDRVVWdNaDRsSlVtd1hnSDFyNUZJMjNOUnFDZUVqVFJBV0Ryd2NrajNPdGt1bWc0SFhSa0x1MjBhUUVUNWV1UGRMWmpN?oc=5",
       "date": "2026-04-28 12:02",
@@ -221,6 +215,12 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzhBYkt1cUNmMmJzRWZxWGRTb3hNMm02LXN2Z2ZfMUN4dmNyTmV0ODNPRWRkVXlrM0pGNFBpZ3R4X3QzdVV5YW5vaWszSTl3R2IxaEtXaHBib09qMTNjUktjMEVzVjlrMkRVTGpjQldyQVVqekFuWWpQWGZfbVhjQlNtRkNvdFlpbWhhOWtfZTdZVUd6cWMtYnA5ZC0xNHc0eUNfLTlBYUxoUkt2OUpxY2V2NWF4SlNkN2xEN1dkOEpQRDdfM0RJ?oc=5",
       "date": "2026-04-28 20:19",
       "summary": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns  Reuters..."
+    },
+    {
+      "title": "White House drafts guidance to bypass Anthropic's risk flag for new AI models, Axios reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORUZwakFjZGhSOUhxeVdyTkZPM1VLNmNvZTZiblpycWVXUGNwVUxTaXlBUmplVnlwOVk1b3V3cG8wX3lGRHFSTUxYT0hXS3lVSkdJazdqdkVUeDFmcmpCd1JCQXZ5VlJNWTJXQy0zdVRhLWZHWDJfc2sxMUhEcnFQX1R0U1YwZXFZYUduSzJIT1M2QV9Ydms2V2l5TzJkRE83MGh4TTNDTlBfemU2bEhoeHBZODExMWJ3ZUxuWHN1NkVpZXQ1dkVr?oc=5",
+      "date": "2026-04-29 02:06",
+      "summary": "White House drafts guidance to bypass Anthropic's risk flag for new AI models, Axios reports  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "NASA's Artemis II moonship returns home to its launch site after historic voyage",
+      "link": "https://phys.org/news/2026-04-nasa-artemis-ii-moonship-home.html",
+      "date": "2026-04-29 05:59",
+      "summary": "The spacecraft that flew four astronauts around the moon is back where its record-breaking journey began...."
+    },
+    {
+      "title": "A rush for critical minerals echoes oil extraction injustice as harms fall on world's most vulnerable, scientists warn",
+      "link": "https://phys.org/news/2026-04-critical-minerals-echoes-oil-injustice.html",
+      "date": "2026-04-29 04:10",
+      "summary": "Mining critical minerals such as lithium and cobalt fuels the \"green\" energy and digital transitions essential to meeting climate ..."
+    },
+    {
       "title": "You'd better start paying attention to the manosphere. You're living in it",
       "link": "https://phys.org/news/2026-04-youd-paying-attention-manosphere-youre.html",
       "date": "2026-04-29 02:00",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-04-wingbeat-radar-signatures-ai-bees.html",
       "date": "2026-04-29 00:00",
       "summary": "Pollinating insects are important for agriculture and ecological flourishing, but they are difficult to monitor, as identification..."
-    },
-    {
-      "title": "Atlantic Forest's top predator faces a hidden collapse, and protected areas are no longer enough",
-      "link": "https://phys.org/news/2026-04-atlantic-forest-predator-hidden-collapse.html",
-      "date": "2026-04-28 23:40",
-      "summary": "In addition to habitat loss and illegal hunting, the jaguar (Panthera onca) faces another threat that increases its risk of extinc..."
-    },
-    {
-      "title": "How hard-surface feeding unlocked a burst of reef fish evolution 50 million years ago",
-      "link": "https://phys.org/news/2026-04-hard-surface-reef-fish-evolution.html",
-      "date": "2026-04-28 23:20",
-      "summary": "Why are there so many species of coral reef fish? According to a new study, it's because about 50 million years ago, some fish fig..."
     }
   ],
   "The Guardian Edu": [
@@ -321,34 +321,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "‘No fundraising launched’ after father’s death, paralysed dancer Mo Li warns of scams",
+      "title": "HKEX posts record quarterly profit, topping forecast as listings and turnover surge",
+      "link": "https://www.scmp.com/business/banking-finance/article/3351801/hkex-posts-record-quarterly-profit-topping-forecast-listings-and-turnover-surge?utm_source=rss_feed",
+      "date": "2026-04-29 05:50",
+      "summary": "Hong Kong Exchanges and Clearing (HKEX), operator of Asia’s third-largest stock market, reported a record quarterly profit in the ..."
+    },
+    {
+      "title": "Government vows action as landlord-tenant rows block access at Wang Fuk Court",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3351802/government-vows-action-landlord-tenant-rows-block-access-wang-fuk-court?utm_source=rss_feed",
+      "date": "2026-04-29 05:38",
+      "summary": "Hong Kong authorities have pledged to intervene in landlord-tenant disputes preventing residents from retrieving belongings from t..."
+    },
+    {
+      "title": "Amber rainstorm warning issued as thunderstorms hit Hong Kong",
+      "link": "https://www.scmp.com/weather/hong-kong/article/3351787/amber-rainstorm-warning-issued-thunderstorms-strong-gusts-hit-hong-kong?utm_source=rss_feed",
+      "date": "2026-04-29 04:22",
+      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+    },
+    {
+      "title": "Challenges ahead for Wang Fuk Court homeowners who reject buy-back offer",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3351784/challenges-ahead-wang-fuk-court-homeowners-who-reject-buy-back-offer?utm_source=rss_feed",
+      "date": "2026-04-29 04:12",
+      "summary": "Homeowners of the only block undamaged in the deadly Wang Fuk Court inferno who decline the government’s buy-back offer will face ..."
+    },
+    {
+      "title": "‘No fundraising launched’ after father’s death, paralysed dancer Mo Li warns",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3351770/no-funds-raised-after-fathers-death-paralysed-hong-kong-dancer-mo-li-warns-scams?utm_source=rss_feed",
       "date": "2026-04-29 00:57",
       "summary": "A Hong Kong dancer left paralysed after being struck by a giant screen during a 2022 concert by popular boy band Mirror has clarif..."
-    },
-    {
-      "title": "Will Hong Kong vapers go underground as public possession ban kicks in?",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3351753/will-hong-kong-vapers-go-underground-public-possession-ban-kicks?utm_source=rss_feed",
-      "date": "2026-04-29 00:30",
-      "summary": "Twenty-two-year-old Hongkonger Elio* started smoking at the age of 16, when he was studying abroad in New Zealand.\nBut what starte..."
-    },
-    {
-      "title": "Pair of Hong Kong luxury homes sells for US$41m as market sizzle increases",
-      "link": "https://www.scmp.com/business/banking-finance/article/3351736/pair-hong-kong-luxury-homes-sells-us41m-market-sizzle-increases?utm_source=rss_feed",
-      "date": "2026-04-28 23:00",
-      "summary": "A wave of demand from mainland Chinese buyers is restoring liquidity to Hong Kong’s trophy home market, enabling owners who have h..."
-    },
-    {
-      "title": "Hong Kong star vows to be ‘companion, not mentor’ to protesters arrested in 2019",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3351757/hong-kong-star-vows-be-companion-not-mentor-protesters-arrested-2019?utm_source=rss_feed",
-      "date": "2026-04-28 16:24",
-      "summary": "Hong Kong singer Hins Cheung has pledged to be a companion rather than a mentor to youngsters arrested during the 2019 anti-govern..."
-    },
-    {
-      "title": "Helper arrested in Hong Kong for allegedly putting 2 young boys in dog cage",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351754/helper-arrested-hong-kong-allegedly-putting-2-young-boys-dog-cage?utm_source=rss_feed",
-      "date": "2026-04-28 15:12",
-      "summary": "Hong Kong police have arrested a domestic helper on suspicion of child abuse after she allegedly put two young boys inside a dog c..."
     }
   ],
   "New Scientist": [
