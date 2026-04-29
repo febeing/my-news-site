@@ -129,6 +129,24 @@
   ],
   "Science News": [
     {
+      "title": "To misinformation researchers, AI is a scourge—and a powerful new tool",
+      "link": "https://www.science.org/content/article/misinformation-researchers-ai-scourge-and-powerful-new-tool",
+      "date": "2026-04-29 03:00",
+      "summary": "Surge in generative AI is upending a field that was just finding its feet..."
+    },
+    {
+      "title": "A novel gene-therapy approach to ‘functionally cure’ HIV succeeds in some monkeys",
+      "link": "https://www.science.org/content/article/novel-gene-therapy-approach-functionally-cure-hiv-succeeds-some-monkeys",
+      "date": "2026-04-29 02:00",
+      "summary": "Six animals suppressed AIDS virus after one shot of treatment that makes cell-receptor antibody..."
+    },
+    {
+      "title": "House spending panel bumps up Trump’s request for NSF and NASA",
+      "link": "https://www.science.org/content/article/house-spending-panel-bumps-trump-s-request-nsf-and-nasa",
+      "date": "2026-04-29 01:55",
+      "summary": "Draft bill is an early sign that Congress again thinks Trump has gone too far in cutting research..."
+    },
+    {
       "title": "As foot-and-mouth disease explodes in South Africa, experts warn of threats in other countries",
       "link": "https://www.science.org/content/article/foot-and-mouth-disease-explodes-south-africa-experts-warn-threats-other-countries",
       "date": "2026-04-29 01:10",
@@ -139,24 +157,6 @@
       "link": "https://www.science.org/content/article/enigmatic-muscle-may-help-explain-penguin-s-signature-waddle",
       "date": "2026-04-29 11:20",
       "summary": "Find also reveals how the birds keep their bodies streamlined when underwater..."
-    },
-    {
-      "title": "Battle over DNA within fertilized eggs may explain why some IVF procedures fail",
-      "link": "https://www.science.org/content/article/battle-over-dna-within-fertilized-eggs-may-explain-why-some-ivf-procedures-fail",
-      "date": "2026-04-29 11:00",
-      "summary": "Temporarily keeping parents’ genetic contributions separate promotes normal development, mouse study suggests..."
-    },
-    {
-      "title": "‘Modern European family’ predates fall of Rome, DNA reveals",
-      "link": "https://www.science.org/content/article/modern-european-family-predates-fall-rome-dna-reveals",
-      "date": "2026-04-29 11:00",
-      "summary": "Painstaking pedigrees hint at origins and social norms of people living near Rome’s northern frontier..."
-    },
-    {
-      "title": "Scorpions reinforce their most lethal weapons with metal",
-      "link": "https://www.science.org/content/article/scorpions-reinforce-their-most-lethal-weapons-metal",
-      "date": "2026-04-28 07:01",
-      "summary": "Arachnids infuse zinc into their claws or stingers—whichever they depend on most while hunting..."
     }
   ],
   "Retraction Watch": [
@@ -205,22 +205,22 @@
       "summary": "Google signs classified AI deal with Pentagon, The Information reports  Reuters..."
     },
     {
+      "title": "Amazon beats quarterly cloud growth estimates on strong AI demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUk9JdVVkT1VwYXNEM3Fqc1FXSHpRZ19neTZBTHZleG1jVFQ4ZVAtbTRGT0JGOXBKa3QtdmNvY3JDTGl5NEc0U2U0dHlUYWlBYjJIcmhvY1B2cjFEUDEweDJGbjJsbGVjbDRONkFCTjJ4SHN3MGFXcFJSa1JFTmhMZXdZb2VpR0ROR3JMR0tOY0RJZnFOUmNOcGRPNkVLa0pfQ3RQZHI5NXl2QQ?oc=5",
+      "date": "2026-04-29 20:25",
+      "summary": "Amazon beats quarterly cloud growth estimates on strong AI demand  Reuters..."
+    },
+    {
+      "title": "DeepSeek bets on Huawei as China pushes to end reliance on Nvidia - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVmlUbkowZjAzNjMzMlN5SFdRTmN4VGlrTC1sVmc1dFlRbnBuOFdBdzBhX01SRmhDdHg0M20yRzlGU2dIQU5WUFBzOUl5ek9OVUpFY1lqQ21sbTN1NTJvUkE1cWNyVWktYTlfV0U2cGFjblVScHYzRmNiNnc2Zk01TVBJZXhTWU85U0xUWTJ3RnBoZ2lMQ3hqWjZhQmc3WE5acVR1NTBTVzNhdFc4bzJSM0JHdVFjT1kxUVFZUWJJNWpKdw?oc=5",
+      "date": "2026-04-29 20:00",
+      "summary": "DeepSeek bets on Huawei as China pushes to end reliance on Nvidia  Reuters..."
+    },
+    {
       "title": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns By Reuters - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2M0SGNsRTUwMHFfdDNFejNxNVBSOVlfRWc4Y0xGUDVPdDhqWU9YMVI1cTFfYWFCWGF1cU5CTVZvb3J4WHlzQk1udjFqdG9Dd0Zpb3NFcnBKU3FfQnVRdl9qSW9hMkh0RVFmTUZiek1BcTFHdjRrMXhSamdUb3hSYVhYZGZ1MFlBeURRaTZlTnYweG5fN0M2blB5OWhTT0RKSktnNVdZTkI3NnN3WlJhSG90TTBPbXBMQk5GQzZtWjFYNGI5?oc=5",
       "date": "2026-04-28 20:22",
       "summary": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns By Reuters  Investing.com..."
-    },
-    {
-      "title": "Goldman cuts access to Anthropic's Claude for Hong Kong bankers, source says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXJ1Y25ZdEZWNGdILUF6TjdBeUpuWFBWREIteDVqUm9pUGZNbEN5ajdOMWZJV2JMSTM2QkRPTjZJc1pIRnhVc1JZeUptTk5fWEVVYWVxR0tOdVhfXzRLVjZJdTYxUGRXT29HTkUtb2Z5NkRlQUdaOG4tM3lsZ2t2RXI4dExyUm1vdUJPSnFKVUY5dnZYNEFoYWJ4ZzZ3R3pMcmxLVkZ1b21lQ0VRT2x2Wk5B?oc=5",
-      "date": "2026-04-29 00:53",
-      "summary": "Goldman cuts access to Anthropic's Claude for Hong Kong bankers, source says  Reuters..."
-    },
-    {
-      "title": "Exclusive: Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2k3eWk0STFfck5fbjZoWkMzRlg5OFRGR19BM0xXV3Vfb0dCX1NralZ2SDNVQ1RvU1Zpck1mVGhNT0FfRFIwcERIaFVmTHRJRTVRVlNOQlR1a0lyVE9iLW9OT0pYQTdZc3NqdVhPeTJhajhwWlJfZUpOeFdSZmd2M3QxZ2RraG12d2xFSkk1VXloOTNtSFJXS05wb3Y5Zk94VHJwQ2Z4d0V2X1BsbWlIWm1CVTBkYkVVS1hXSy1jR0JMVURZSmc?oc=5",
-      "date": "2026-04-29 06:36",
-      "summary": "Exclusive: Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -231,16 +231,16 @@
       "summary": "The Download: storing nuclear waste and orchestrating agents  MIT Technology Review..."
     },
     {
-      "title": "Three reasons why DeepSeek’s new model matters - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzNrdWNGN1EyM2pNR1pBUnhaT3hHYk1nZXhXMzVKUXB3T09za2dCTXZYMDRvdVpEUnZRUnRhYnRwdV9OTFpST3VQbTktdndyYklBWjk3M2RicUx2MnJUaWtGMkUzQS1qZjNXWmI2cFZ5bEVnUk00WHRJN3I5R3FfeWs2VdIBiAFBVV95cUxNTk4tcnJDa0tDV2s2cGlnZGdJZXBNUnFXajFhUjJpVjQ5NzA2UWJUaVZwTEZtd0k0d3dRdEl0MVNHS0R1MElBNHQxWjdzS2VnX0VFQVQyM1lqX05tOVNmU2djTEY2WTM3Ujk3bXBTZ2pmNE9KekVrWWVqa2hUTjhncEZ1bEw4MjJs?oc=5",
-      "date": "2026-04-24 21:40",
-      "summary": "Three reasons why DeepSeek’s new model matters  MIT Technology Review..."
-    },
-    {
       "title": "Rebuilding the data stack for AI - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVlLbENWY2JwYU0zRVhvRDdTSHYzeHlsNVdEb19tZm5UWVN5NnJPc2RMY2Q5ZnJ2MHFodVp4ak5lRzRLYUJGNG52RmNQemVrbjBhemhWeEhXVUx1ODNLb3I2WTQzZUpOX3NWdWJxdXBURDJrM0lPa1lsQ016MElsUC0yZElQWVZPVEdaSnRR0gGTAUFVX3lxTFAyUHJCMnZibHF0UkhZZy1kSHFfSjBEZER1bU1CcGhCaWNBTmhVQngwdjBfQUUzeHFqdldSSUMxUG81XzBiWVBmTHN1SDRTaDFCNWE0ZnRmN0R2RnY4dUtrMzVBdG12aGhJV0Z0T0NmYUhqeXhQNjlzendvdGppc1pJbWJSVWxXcE5Sd1dsZDVITm0wWQ?oc=5",
       "date": "2026-04-27 13:00",
       "summary": "Rebuilding the data stack for AI  MIT Technology Review..."
+    },
+    {
+      "title": "Three reasons why DeepSeek’s new model matters - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzNrdWNGN1EyM2pNR1pBUnhaT3hHYk1nZXhXMzVKUXB3T09za2dCTXZYMDRvdVpEUnZRUnRhYnRwdV9OTFpST3VQbTktdndyYklBWjk3M2RicUx2MnJUaWtGMkUzQS1qZjNXWmI2cFZ5bEVnUk00WHRJN3I5R3FfeWs2VdIBiAFBVV95cUxNTk4tcnJDa0tDV2s2cGlnZGdJZXBNUnFXajFhUjJpVjQ5NzA2UWJUaVZwTEZtd0k0d3dRdEl0MVNHS0R1MElBNHQxWjdzS2VnX0VFQVQyM1lqX05tOVNmU2djTEY2WTM3Ujk3bXBTZ2pmNE9KekVrWWVqa2hUTjhncEZ1bEw4MjJs?oc=5",
+      "date": "2026-04-24 21:40",
+      "summary": "Three reasons why DeepSeek’s new model matters  MIT Technology Review..."
     },
     {
       "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future - MIT Technology Review",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Roman cup unearthed in Spain may have been a keepsake representing a soldier's time at the Hadrian Wall",
-      "link": "https://phys.org/news/2026-04-roman-cup-unearthed-spain-keepsake.html",
-      "date": "2026-04-29 19:20",
-      "summary": "Archaeologists recently analyzed a broken, decorative cup found unexpectedly on a Spanish farm. The cup appears to represent Hadri..."
+      "title": "Low-cost method could standardize microplastic extraction from soils worldwide",
+      "link": "https://phys.org/news/2026-04-method-standardize-microplastic-soils-worldwide.html",
+      "date": "2026-04-29 21:00",
+      "summary": "A new \"gold standard\" for soil analysis and microplastic extraction has been developed at the University of New England (UNE), unl..."
     },
     {
-      "title": "Is the SEC slow-releasing market-moving information?",
-      "link": "https://phys.org/news/2026-04-sec.html",
-      "date": "2026-04-29 19:20",
-      "summary": "IPOs are headline-grabbing events. But public companies raise even more capital through post-IPO issuances of shares, also known a..."
+      "title": "Why your pet reptile 'surfs' the glass or rubs against the barriers of their enclosure",
+      "link": "https://phys.org/news/2026-04-pet-reptile-surfs-glass-barriers.html",
+      "date": "2026-04-29 21:00",
+      "summary": "Every day, millions of people watch their pet reptiles run, dig, swim or climb up against the walls of their enclosure. Reptile ke..."
     },
     {
-      "title": "Puerto Rico's forests recovered in unexpected ways post-Hurricane Maria, research finds",
-      "link": "https://phys.org/news/2026-04-puerto-rico-forests-recovered-unexpected.html",
-      "date": "2026-04-29 19:00",
-      "summary": "When Hurricane Maria made its ferocious landfall on the U.S. territory of Puerto Rico in September 2017, the loss extended beyond ..."
+      "title": "Microbes sense neighbors and change jobs to reduce competition, offering clue to coexistence",
+      "link": "https://phys.org/news/2026-04-microbes-neighbors-jobs-competition-clue.html",
+      "date": "2026-04-29 20:50",
+      "summary": "New research from Ben-Gurion University of the Negev, published in Nature Microbiology, reveals that when microbes live together, ..."
     },
     {
-      "title": "Revolving doors and efficient engines: How proteins escape a molecular tangle",
-      "link": "https://phys.org/news/2026-04-revolving-doors-efficient-proteins-molecular.html",
-      "date": "2026-04-29 19:00",
-      "summary": "Trying to untangle a knot in a mess of strings can be frustrating and time-consuming. But not so for molecular machines—molecules ..."
+      "title": "Just a few species can drive a plant community's response to warming temperatures",
+      "link": "https://phys.org/news/2026-04-species-community-response-temperatures.html",
+      "date": "2026-04-29 20:40",
+      "summary": "A new analysis of experimental data led by the University of Michigan has unveiled insights into why and how plant communities are..."
     },
     {
-      "title": "Developing countries are writing AI laws they cannot enforce",
-      "link": "https://phys.org/news/2026-04-countries-ai-laws.html",
-      "date": "2026-04-29 18:40",
-      "summary": "Imagine that a government builds a five-star airport without any roads leading to it. The terminal is immaculate, the runway is re..."
+      "title": "Companies disclose more on cybersecurity—but markets remain indifferent",
+      "link": "https://phys.org/news/2026-04-companies-disclose-cybersecurity-indifferent.html",
+      "date": "2026-04-29 20:40",
+      "summary": "U.S. companies are reporting on cybersecurity in greater detail, yet stock market reactions remain muted. A new study by the Unive..."
     }
   ],
   "The Guardian Edu": [
