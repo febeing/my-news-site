@@ -97,6 +97,18 @@
   ],
   "Nature Careers": [
     {
+      "title": "Cephalopods deserve higher welfare standards in research",
+      "link": "https://www.nature.com/articles/d41586-026-01320-2",
+      "date": "2026-04-29 00:00",
+      "summary": "Nature, Published online: 29 April 2026; doi:10.1038/d41586-026-01320-2These highly sentient creatures have weak protections for t..."
+    },
+    {
+      "title": "Do octopus brains work like humans’ — or is there another way to be smart?",
+      "link": "https://www.nature.com/articles/d41586-026-01302-4",
+      "date": "2026-04-29 00:00",
+      "summary": "Nature, Published online: 29 April 2026; doi:10.1038/d41586-026-01302-4Just like vertebrates, cephalopods — such as octopuses and ..."
+    },
+    {
       "title": "Author Correction: Quantum error correction below the surface code threshold",
       "link": "https://www.nature.com/articles/s41586-026-10559-8",
       "date": "2026-04-28 00:00",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01368-0",
       "date": "2026-04-28 00:00",
       "summary": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01368-0To hire good scientists, look at their peer-reviewing recor..."
-    },
-    {
-      "title": "Gulf states must move from efficiency to resilience",
-      "link": "https://www.nature.com/articles/d41586-026-01366-2",
-      "date": "2026-04-28 00:00",
-      "summary": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01366-2Gulf states must move from efficiency to resilience..."
-    },
-    {
-      "title": "The politics of playful primates",
-      "link": "https://www.nature.com/articles/d41586-026-01352-8",
-      "date": "2026-04-28 00:00",
-      "summary": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01352-8Apes, monkeys and their relatives that live in despotic soc..."
     }
   ],
   "Science News": [
@@ -193,48 +193,42 @@
   ],
   "Reuters AI": [
     {
-      "title": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWNVVzdGMmUtRnY2VTJ5S0hkXzJtZGdNY0NBdlpPc0FlRnc2QkRXY2I2dEpndjJuUDl2cTN3ZkVnckNpYWZkT0c3cUNlWG1VS1JLQ1l6Wk5IQ003UUJjWEpKS25Qem85R1VncVlhXzh6djZ0UW12bUkyWFNJeGpSLW5PdGVRUjEwTWlUQjBEZ2huV2ZCRFVfWGlMNkpuWUVOSzMzMXVKa09EaWZNSl9YN0ZRR3Zad0lJUTNxWC1LVWtaZw?oc=5",
-      "date": "2026-04-28 11:09",
-      "summary": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion  Reuters..."
+      "title": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzhBYkt1cUNmMmJzRWZxWGRTb3hNMm02LXN2Z2ZfMUN4dmNyTmV0ODNPRWRkVXlrM0pGNFBpZ3R4X3QzdVV5YW5vaWszSTl3R2IxaEtXaHBib09qMTNjUktjMEVzVjlrMkRVTGpjQldyQVVqekFuWWpQWGZfbVhjQlNtRkNvdFlpbWhhOWtfZTdZVUd6cWMtYnA5ZC0xNHc0eUNfLTlBYUxoUkt2OUpxY2V2NWF4SlNkN2xEN1dkOEpQRDdfM0RJ?oc=5",
+      "date": "2026-04-28 20:19",
+      "summary": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns  Reuters..."
     },
     {
-      "title": "Nasdaq, S&P 500 end lower on renewed AI growth worries ahead of big tech earnings - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXExM3g2OXNDemZveUU2enJ0MGEtbks1blpqeXVtUWFDeGhpcHRMUlNVYWpHYUduXzFUNU05Q0RDb3Jxc2hIZXdBUG04UHdhUHpKbUEtQjA2OXU0b3VvVmY3ZVZMei0ySGwxNW8tRkVnMFVPaS1DcVpsYzkwQ2NKVjJ3bnJ1MHVOY0hoMjF0aUFZNHdTTndISElXb1JkWi1BT2lsU2RBU3hZRVRRRF9PekhYcHJLcUU?oc=5",
-      "date": "2026-04-28 22:18",
-      "summary": "Nasdaq, S&P 500 end lower on renewed AI growth worries ahead of big tech earnings  Reuters..."
+      "title": "Google signs classified AI deal with Pentagon, The Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0tiY2FGdlFmVGxXcnI4Wjl1VmdNcFgtOW9YOGZNenhfMW5ZSms0b0RJRG5NNlZYb2xPSC1JM3ZkenlicV8xMHYzLWtFb096WUJmMXg3LVJpTm1jRk1zcVV1YkZnR0NSZnpVYmpWOG12S1Q5OERtRE1MQjBQbWp2ekJtR2ZmampnZC1XNm4yMDd2eUxsZU5ZaUhkZlp6S3BEMlV2Y0ZFdHM5aUdlSk4yR2RB?oc=5",
+      "date": "2026-04-28 05:07",
+      "summary": "Google signs classified AI deal with Pentagon, The Information reports  Reuters..."
     },
     {
-      "title": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2M0SGNsRTUwMHFfdDNFejNxNVBSOVlfRWc4Y0xGUDVPdDhqWU9YMVI1cTFfYWFCWGF1cU5CTVZvb3J4WHlzQk1udjFqdG9Dd0Zpb3NFcnBKU3FfQnVRdl9qSW9hMkh0RVFmTUZiek1BcTFHdjRrMXhSamdUb3hSYVhYZGZ1MFlBeURRaTZlTnYweG5fN0M2blB5OWhTT0RKSktnNVdZTkI3NnN3WlJhSG90TTBPbXBMQk5GQzZtWjFYNGI5?oc=5",
-      "date": "2026-04-28 20:22",
-      "summary": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns By Reuters  Investing.com..."
-    },
-    {
-      "title": "Exclusive: Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2k3eWk0STFfck5fbjZoWkMzRlg5OFRGR19BM0xXV3Vfb0dCX1NralZ2SDNVQ1RvU1Zpck1mVGhNT0FfRFIwcERIaFVmTHRJRTVRVlNOQlR1a0lyVE9iLW9OT0pYQTdZc3NqdVhPeTJhajhwWlJfZUpOeFdSZmd2M3QxZ2RraG12d2xFSkk1VXloOTNtSFJXS05wb3Y5Zk94VHJwQ2Z4d0V2X1BsbWlIWm1CVTBkYkVVS1hXSy1jR0JMVURZSmc?oc=5",
-      "date": "2026-04-29 06:36",
-      "summary": "Exclusive: Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say  Reuters..."
+      "title": "Hyperscaler results pose major test for AI-driven US stock market - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGVBLU5Oekh0b3BLUllQdTFmTVcwekNYd2NDdDJEZmRMVU1EcTdiN01UUzUzeFhpODZEYWxtVGZKZ0NWTjFSTG83RkZzMDJOQWpXdl8wMnVlNElFd3pFUGRLdnRHeERoYzlROTN6N3BDM2otNmZDR2ZPYzJLei1PWi1ibTVoWWxtR3ZObGhwYmhQWmVURXZJczNEaUN3bkpZcTZKdmt1TWZmM09WM091R3NybGRxa1hwVGhocFlOVQ?oc=5",
+      "date": "2026-04-29 10:32",
+      "summary": "Hyperscaler results pose major test for AI-driven US stock market  Reuters..."
     },
     {
       "title": "Breakingviews - Meta pokes holes in China's great AI firewall - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVZRNzNUTnh5d2dTNXkzWm5IanR6VnZ5WFJGMm40R180UnFBbWJPYldvSnJ2UG9qTkxGaDlrNXZGU3k2T2JjUWZVQzFla05ONGNjRi0xaVZiX2dBTk0wM3Yyb0Z6WG05WTlnQ3l6blBhcnp1NkVha2I1NUJhY3hjY1NJU1JreDdMbTkxTlllOEhmQkI2dkwtRjdiYnZGNGhGcUJGUg?oc=5",
-      "date": "2026-04-27 18:58",
+      "date": "2026-04-28 10:23",
       "summary": "Breakingviews - Meta pokes holes in China's great AI firewall  Reuters..."
+    },
+    {
+      "title": "Exclusive: Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2k3eWk0STFfck5fbjZoWkMzRlg5OFRGR19BM0xXV3Vfb0dCX1NralZ2SDNVQ1RvU1Zpck1mVGhNT0FfRFIwcERIaFVmTHRJRTVRVlNOQlR1a0lyVE9iLW9OT0pYQTdZc3NqdVhPeTJhajhwWlJfZUpOeFdSZmd2M3QxZ2RraG12d2xFSkk1VXloOTNtSFJXS05wb3Y5Zk94VHJwQ2Z4d0V2X1BsbWlIWm1CVTBkYkVVS1hXSy1jR0JMVURZSmc?oc=5",
+      "date": "2026-04-29 07:01",
+      "summary": "Exclusive: Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "It’s time to make a plan for nuclear waste - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNZXhNSXJUTVlmRmRDRUVpUWVNb0Q2Z2xRN2tfQ2U1blpJQjhEV2czU0VmMTU4REtUVklGWjNSSG5HbFBOQTJLbjRrNHdtWHUzaXBIOVUxN09FSF9BdHZKTVpIblBzamRHcjFHdlFYaXZqa1Ryb2VNSmtxbw?oc=5",
-      "date": "2026-04-29 08:00",
-      "summary": "It’s time to make a plan for nuclear waste  MIT Technology Review..."
-    },
-    {
-      "title": "Rebuilding the data stack for AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVlLbENWY2JwYU0zRVhvRDdTSHYzeHlsNVdEb19tZm5UWVN5NnJPc2RMY2Q5ZnJ2MHFodVp4ak5lRzRLYUJGNG52RmNQemVrbjBhemhWeEhXVUx1ODNLb3I2WTQzZUpOX3NWdWJxdXBURDJrM0lPa1lsQ016MElsUC0yZElQWVZPVEdaSnRR0gGTAUFVX3lxTFAyUHJCMnZibHF0UkhZZy1kSHFfSjBEZER1bU1CcGhCaWNBTmhVQngwdjBfQUUzeHFqdldSSUMxUG81XzBiWVBmTHN1SDRTaDFCNWE0ZnRmN0R2RnY4dUtrMzVBdG12aGhJV0Z0T0NmYUhqeXhQNjlzendvdGppc1pJbWJSVWxXcE5Sd1dsZDVITm0wWQ?oc=5",
-      "date": "2026-04-27 13:00",
-      "summary": "Rebuilding the data stack for AI  MIT Technology Review..."
+      "title": "The Download: storing nuclear waste and orchestrating agents - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORjl2VWwySWw2Z1ZVa0dDWWYyU0lMNE1tYXpBejBpZzQ1UmE1TGR4OXdDM1NFSHVaelZRcDRFTGhkdlRKNUV4SFF2c0NnT183WUwyRURIWV9TanVSUEpHb3dvWXpOSXhWRFZWb3RhQ1dkWGJ5bEVaY2gwM3JkVk5FTFlRYUlhTTNta2NMZldQLXZRbXU1VENIcUJZY1pqa0tGOEhkV9IBqgFBVV95cUxNZFpWb1M0d3hfR3cySkpKaXdPYWY4N3VxTFlzd1Q5WlNNaFpmb0ttN05NOWdoVTFxbDhEX1hQd21MZGF3cDRPbThVZUJkLW1qT3JSY3VOWmJKZC1HdldzZU1pdTZWOUYzd0dNMnZxNzFwUlVpQ3RQdkZfTEx3MGMtV0M5RlJybDRqSXdFYldxVFY0TjRSQVpVc045a3djdGJVbkRsWl9CeDJDZw?oc=5",
+      "date": "2026-04-29 12:10",
+      "summary": "The Download: storing nuclear waste and orchestrating agents  MIT Technology Review..."
     },
     {
       "title": "Three reasons why DeepSeek’s new model matters - MIT Technology Review",
@@ -243,48 +237,54 @@
       "summary": "Three reasons why DeepSeek’s new model matters  MIT Technology Review..."
     },
     {
+      "title": "Rebuilding the data stack for AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVlLbENWY2JwYU0zRVhvRDdTSHYzeHlsNVdEb19tZm5UWVN5NnJPc2RMY2Q5ZnJ2MHFodVp4ak5lRzRLYUJGNG52RmNQemVrbjBhemhWeEhXVUx1ODNLb3I2WTQzZUpOX3NWdWJxdXBURDJrM0lPa1lsQ016MElsUC0yZElQWVZPVEdaSnRR0gGTAUFVX3lxTFAyUHJCMnZibHF0UkhZZy1kSHFfSjBEZER1bU1CcGhCaWNBTmhVQngwdjBfQUUzeHFqdldSSUMxUG81XzBiWVBmTHN1SDRTaDFCNWE0ZnRmN0R2RnY4dUtrMzVBdG12aGhJV0Z0T0NmYUhqeXhQNjlzendvdGppc1pJbWJSVWxXcE5Sd1dsZDVITm0wWQ?oc=5",
+      "date": "2026-04-27 13:00",
+      "summary": "Rebuilding the data stack for AI  MIT Technology Review..."
+    },
+    {
+      "title": "It’s time to make a plan for nuclear waste - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNZXhNSXJUTVlmRmRDRUVpUWVNb0Q2Z2xRN2tfQ2U1blpJQjhEV2czU0VmMTU4REtUVklGWjNSSG5HbFBOQTJLbjRrNHdtWHUzaXBIOVUxN09FSF9BdHZKTVpIblBzamRHcjFHdlFYaXZqa1Ryb2VNSmtxbw?oc=5",
+      "date": "2026-04-29 08:00",
+      "summary": "It’s time to make a plan for nuclear waste  MIT Technology Review..."
+    },
+    {
       "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVB2eTlFanBoVlZnZ2hTSmZ4UjhJbDdkNU12Ukstd04waHJKSjdXX01YVXhaZEl1Z29RMHdyM05EcmNhNlIycllMQTNqNnVVcHlPZ0lKTkFuZHdnT3VoenhVaTFMUWJ5UWxrRUNuUkRHMVJRRjNMb2d5cmFuVXNYNTNzTklEMDl4NVJyQXFZZVhpV0JQY0lkaDhOZWFXUjZMNnduQ2JET1QxZm1xNk51VUROV2ktSknSAbwBQVVfeXFMTkpxZ3UwcEFVRUFWNll3bHJfYmVYZXBtcEJZMnpEcUkzWkE2RkRZQm1CbTlLSFE2SV92cTNISUdERXBieENDQzlwTzN4T0NrUEhtMHRJM1Ywc2s5c1BtUEo1UFIxSDBjbGxDU1hhaTBEZE1FSlN1ZDRWT1VubDdjZEFJV2t6dmNLeWdMREdTX25lUmxkNzVjb0FOd0toZWpZUUxZN2RvV3pKS2lCODU0SU11RmRacU0tTEJrTjA?oc=5",
       "date": "2026-04-27 22:52",
       "summary": "Elon Musk and Sam Altman are going to court over OpenAI’s future  MIT Technology Review..."
-    },
-    {
-      "title": "Health-care AI is here. We don’t know if it actually helps patients. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGt2SFRCOF9nU2dqUFhDVWFSVy1jdDhkNUJtSDNKeUliM0RneXRuTC15TVM1TnBoZXI2dEF4ZWhGQTRidnE2TG5faWZpckhhS01lMG1XUTZ4ZGlWWTM1S1JZS3M0ZDR6d1lKcC1mOGNDdkRZUEp6WS1mUkhjNFI3ZWVoSm5Za1BWd0pUcDB1MEZXZk5uRmZIYS1PSXR0dm1oZ3ZF0gGoAUFVX3lxTFAtZXQ3b0dXbmw5VTE1a0l5LXY3N2JlSHlwV2o5ZmwyUXd2bEZRU1k3Z2dkMXpReHFDdEQ4ZzNDYksxTTlnZ0wyekxrSUNMYTJGWk44dDA1ajRvSlBJNlZYbHdlYm5WUkZHQjhnMWkzOU9GakE4cjJtOE1aVmZ5cHpXVm1uRFJFNGRkVUZIWURDdG1uNms3ZkktdXV2QVVzSkFmdDFrLVlFag?oc=5",
-      "date": "2026-04-24 09:00",
-      "summary": "Health-care AI is here. We don’t know if it actually helps patients.  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "AI can simulate the dead—but should it?",
-      "link": "https://phys.org/news/2026-04-ai-simulate-dead.html",
-      "date": "2026-04-29 11:20",
-      "summary": "Artificial intelligence is moving into one of the most intimate areas of human life: grief. Tools that can simulate a deceased per..."
+      "title": "'Ruthless predator' of red tide plankton reveals unusual bioluminescence",
+      "link": "https://phys.org/news/2026-04-ruthless-predator-red-tide-plankton.html",
+      "date": "2026-04-29 13:40",
+      "summary": "Scientists at UC San Diego's Scripps Institution of Oceanography have uncovered new insights into the bioluminescence of a unique ..."
     },
     {
-      "title": "Europe climate report signals rising extremes",
-      "link": "https://phys.org/news/2026-04-europe-climate-extremes.html",
-      "date": "2026-04-29 11:00",
-      "summary": "Europe endured a historic heatwave across Nordic countries, shrinking glaciers and record sea temperatures in 2025 as the fast-war..."
+      "title": "New study details changing US irrigated agriculture, viability strategies",
+      "link": "https://phys.org/news/2026-04-irrigated-agriculture-viability-strategies.html",
+      "date": "2026-04-29 13:40",
+      "summary": "A new study by researchers at the Daugherty Water for Food Global Institute at the University of Nebraska offers a comprehensive n..."
     },
     {
-      "title": "Radioactive imaging reveals ants' secret food networks",
-      "link": "https://phys.org/news/2026-04-radioactive-imaging-reveals-ants-secret.html",
-      "date": "2026-04-29 11:00",
-      "summary": "Researchers at the National Institutes for Quantum Science and Technology (QST) and the University of the Ryukyus have developed a..."
+      "title": "No brain required: This is how the single-celled Stentor learns",
+      "link": "https://phys.org/news/2026-04-brain-required-celled-stentor.html",
+      "date": "2026-04-29 13:20",
+      "summary": "Scientists have known for more than a century that a single-celled organism with no nerve cells—much less a brain—can behave in wa..."
     },
     {
-      "title": "Tropical forest loss eases after record year: researchers",
-      "link": "https://phys.org/news/2026-04-tropical-forest-loss-eases-year.html",
-      "date": "2026-04-29 08:10",
-      "summary": "The pace of tropical forest destruction slowed in 2025 after record losses the year before but remained at worrying levels equival..."
+      "title": "Levitated nano-ferromagnet confirms a 160-year-old physical prediction",
+      "link": "https://phys.org/news/2026-04-levitated-nano-ferromagnet-year-physical.html",
+      "date": "2026-04-29 12:40",
+      "summary": "Ferromagnets, such as iron, cobalt, and nickel, are materials with a strong, spontaneous, and permanent magnetic field. Over 150 y..."
     },
     {
-      "title": "Rare earth mining is poisoning Mekong River tributaries, threatening 'the world's kitchen'",
-      "link": "https://phys.org/news/2026-04-rare-earth-poisoning-mekong-river.html",
-      "date": "2026-04-29 07:50",
-      "summary": "Perched on the bow of his long-tail fishing boat, 75-year-old Sukjai Yana untangled a handful of small fish from his net, disappoi..."
+      "title": "Newly confirmed supernova remnant is one of the faintest ever detected",
+      "link": "https://phys.org/news/2026-04-newly-supernova-remnant-faintest.html",
+      "date": "2026-04-29 12:10",
+      "summary": "An international team of astronomers reports the discovery of a new supernova remnant (SNR) using radio observations. The newfound..."
     }
   ],
   "The Guardian Edu": [
@@ -292,7 +292,7 @@
       "title": "Sussex University overturns £585,000 fine as high court rejects free speech breach claim",
       "link": "https://www.theguardian.com/education/2026/apr/29/sussex-university-overturns-fine-free-speech-kathleen-stock",
       "date": "2026-04-29 10:50",
-      "summary": "Ruling is blow to Office for Students after it issued fine for handling of protests over professor’s trans rights viewsSussex Univ..."
+      "summary": "Ruling is blow to Office for Students after it issued record fine for allegations over professor’s trans rights viewsSussex Univer..."
     },
     {
       "title": "Teaching in classes grouped by ability does not hamper progress of less able pupils, study finds",
@@ -321,37 +321,49 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Guangdong to ‘actively align’ with Hong Kong’s Northern Metropolis push",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3351893/guangdong-actively-align-hong-kongs-northern-metropolis-push?utm_source=rss_feed",
+      "date": "2026-04-29 13:15",
+      "summary": "Guangdong will “actively align” with Hong Kong’s strategy for the Northern Metropolis megaproject and highlight areas of collabora..."
+    },
+    {
+      "title": "Hong Kong education portal under fire for low readership among teachers, students",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3351889/hong-kong-education-portal-under-fire-low-readership-among-teachers-students?utm_source=rss_feed",
+      "date": "2026-04-29 12:35",
+      "summary": "A Hong Kong government-funded online portal that provides resources for teachers and school students has failed to meet its user n..."
+    },
+    {
+      "title": "Hong Kong Law Society closes firm linked to crash-for-cash scams",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351885/hong-kong-law-society-closes-firm-linked-crash-cash-scams?utm_source=rss_feed",
+      "date": "2026-04-29 11:56",
+      "summary": "Hong Kong’s Law Society has ordered the closure of a solicitors’ firm under investigation for its alleged role in a series of “cra..."
+    },
+    {
+      "title": "Hong Kong penthouse sells for US$54m to mainland Chinese buyer as luxury demand spikes",
+      "link": "https://www.scmp.com/business/article/3351873/hong-kong-penthouse-sells-us54m-mainland-chinese-buyer-luxury-demand-spikes?utm_source=rss_feed",
+      "date": "2026-04-29 11:30",
+      "summary": "A top-floor residence at High Peak in Hong Kong’s Mid-Levels West neighbourhood has sold for HK$420 million (US$53.7 million) as a..."
+    },
+    {
       "title": "Hong Kong throws SMEs lifeline with raft of measures, HK$450 billion in loans",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3351880/hong-kong-throws-smes-lifeline-raft-measures-hk450-billion-loans?utm_source=rss_feed",
       "date": "2026-04-29 11:17",
       "summary": "Hong Kong authorities have rolled out a fresh package of measures to support small and medium-sized enterprises (SMEs) reeling fro..."
-    },
-    {
-      "title": "2 months jail for Hong Kong security guard who shared post urging Legco poll boycott",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351876/2-months-jail-hong-kong-security-guard-who-shared-post-urging-legco-poll-boycott?utm_source=rss_feed",
-      "date": "2026-04-29 11:02",
-      "summary": "A Hong Kong man has been jailed for two months for sharing a social media post urging residents to shun last year’s Legislative Co..."
-    },
-    {
-      "title": "Watchdog urges Hong Kong Observatory to better explain typhoon warning decisions",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3351869/watchdog-urges-hong-kong-observatory-better-explain-typhoon-warning-decisions?utm_source=rss_feed",
-      "date": "2026-04-29 10:38",
-      "summary": "The Hong Kong Observatory should step up efforts to explain decisions for issuing typhoon warnings to address public concerns amid..."
-    },
-    {
-      "title": "Hong Kong auditor takes aim at fire services over delayed safety hazard prosecutions",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3351857/hong-kong-auditor-takes-aim-fire-services-over-delayed-safety-hazard-prosecutions?utm_source=rss_feed",
-      "date": "2026-04-29 09:39",
-      "summary": "Hong Kong’s Fire Services Department has yet to launch prosecutions in 34 cases involving mini-storage premises that failed to com..."
-    },
-    {
-      "title": "Youth hostel scheme falls short as only 44% of expected flats offered: audit",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3351848/youth-hostel-scheme-falls-short-only-44-expected-flats-offered-audit?utm_source=rss_feed",
-      "date": "2026-04-29 09:13",
-      "summary": "Hong Kong authorities have failed to meet targets on the supply and construction of youth hostels, with the number of flats offere..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Scorpions reinforce their claws and stingers with metals",
+      "link": "https://www.newscientist.com/article/2524699-scorpions-reinforce-their-claws-and-stingers-with-metals/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-29 12:18",
+      "summary": "Many scorpion species use blends of iron, zinc and manganese to enhance the toughness of their deadly weaponry..."
+    },
+    {
+      "title": "Extreme weather in 2025 drove record wildfire emissions in Europe",
+      "link": "https://www.newscientist.com/article/2524648-extreme-weather-in-2025-drove-record-wildfire-emissions-in-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-29 10:53",
+      "summary": "Europe, the fastest-warming continent, saw unprecedented wildfires and heatwaves in 2025, including a three-week hot spell that hi..."
+    },
     {
       "title": "Cancer is increasing in young people and we still don't know why",
       "link": "https://www.newscientist.com/article/2524515-cancer-is-increasing-in-young-people-and-we-still-dont-know-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -369,18 +381,6 @@
       "link": "https://www.newscientist.com/article/2523906-humanoid-robots-may-be-about-to-break-the-100-metre-sprint-record/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-28 14:00",
       "summary": "Robots can now run a half-marathon faster than humans and are rapidly homing in on the 100-metre sprint record. But why are compan..."
-    },
-    {
-      "title": "Coral reefs on a remote archipelago shrugged off a massive heatwave",
-      "link": "https://www.newscientist.com/article/2524399-coral-reefs-on-a-remote-archipelago-shrugged-off-a-massive-heatwave/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-27 16:00",
-      "summary": "Scientists were shocked to find that the Houtman Abrolhos Islands’ coral reefs survived a prolonged extreme heatwave in 2025 virtu..."
-    },
-    {
-      "title": "Giant Arctic continent launched dinosaurs to world domination",
-      "link": "https://www.newscientist.com/article/2524366-giant-arctic-continent-launched-dinosaurs-to-world-domination/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-27 12:00",
-      "summary": "Coincident with the rise of the dinosaurs, a large landmass filled most of the Arctic circle, potentially contributing to global c..."
     }
   ]
 }
