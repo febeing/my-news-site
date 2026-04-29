@@ -39,16 +39,16 @@
       "summary": "How academia can help America heal  Harvard Gazette..."
     },
     {
-      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
-      "date": "2026-04-09 07:00",
-      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
-    },
-    {
       "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
       "date": "2025-10-28 07:00",
       "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
+    },
+    {
+      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
+      "date": "2026-04-09 07:00",
+      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
     },
     {
       "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
@@ -97,10 +97,22 @@
   ],
   "Nature Careers": [
     {
+      "title": "Author Correction: Broadly stable atmospheric CO<sub>2</sub> and CH<sub>4</sub> levels over the past 3 million years",
+      "link": "https://www.nature.com/articles/s41586-026-10600-w",
+      "date": "2026-04-29 00:00",
+      "summary": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10600-wAuthor Correction: Broadly stable atmospheric CO2 and CH4 l..."
+    },
+    {
       "title": "Cephalopods deserve higher welfare standards in research",
       "link": "https://www.nature.com/articles/d41586-026-01320-2",
       "date": "2026-04-29 00:00",
       "summary": "Nature, Published online: 29 April 2026; doi:10.1038/d41586-026-01320-2These highly sentient creatures have weak protections for t..."
+    },
+    {
+      "title": "In the flesh",
+      "link": "https://www.nature.com/articles/d41586-026-01073-y",
+      "date": "2026-04-29 00:00",
+      "summary": "Nature, Published online: 29 April 2026; doi:10.1038/d41586-026-01073-yCyberspace can’t fulfil every need...."
     },
     {
       "title": "Do octopus brains work like humans’ — or is there another way to be smart?",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10559-8",
       "date": "2026-04-28 00:00",
       "summary": "Nature, Published online: 28 April 2026; doi:10.1038/s41586-026-10559-8Author Correction: Quantum error correction below the surfa..."
-    },
-    {
-      "title": "The equity paradox of environmental DNA for biodiversity monitoring",
-      "link": "https://www.nature.com/articles/d41586-026-01349-3",
-      "date": "2026-04-28 00:00",
-      "summary": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01349-3The equity paradox of environmental DNA for biodiversity mo..."
-    },
-    {
-      "title": "To hire good scientists, look at their peer-reviewing records",
-      "link": "https://www.nature.com/articles/d41586-026-01368-0",
-      "date": "2026-04-28 00:00",
-      "summary": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01368-0To hire good scientists, look at their peer-reviewing recor..."
     }
   ],
   "Science News": [
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Researcher claims his case report was stolen by someone else at his hospital",
+      "link": "https://retractionwatch.com/2026/04/29/researcher-claims-his-case-report-was-stolen-by-someone-else-at-his-hospital/",
+      "date": "2026-04-29 15:20",
+      "summary": "A researcher claims a case report he coauthored was plagiarized by doctors at the same institution three years later — a paper he ..."
+    },
+    {
       "title": "Black marks on published papers don’t change citation rates, new study finds",
       "link": "https://retractionwatch.com/2026/04/27/citation-rates-retracted-corrected-articles-asemi-clinical-trials/",
       "date": "2026-04-27 18:34",
@@ -183,20 +189,14 @@
       "link": "https://retractionwatch.com/2026/04/23/eric-topol-ellinger-publishing-media-journal-digital-health-impersonation/",
       "date": "2026-04-23 19:29",
       "summary": "Within hours of researchers from prestigious institutions discovering they were listed as authors on a fabricated paper, the websi..."
-    },
-    {
-      "title": "Another retraction and two investigations for chemist",
-      "link": "https://retractionwatch.com/2026/04/23/maximilian-lackner-chemist-retraction-two-investigations/",
-      "date": "2026-04-23 10:30",
-      "summary": "A chemist in Austria who earned a retraction earlier this year is under investigation by his former university, a national researc..."
     }
   ],
   "Reuters AI": [
     {
-      "title": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzhBYkt1cUNmMmJzRWZxWGRTb3hNMm02LXN2Z2ZfMUN4dmNyTmV0ODNPRWRkVXlrM0pGNFBpZ3R4X3QzdVV5YW5vaWszSTl3R2IxaEtXaHBib09qMTNjUktjMEVzVjlrMkRVTGpjQldyQVVqekFuWWpQWGZfbVhjQlNtRkNvdFlpbWhhOWtfZTdZVUd6cWMtYnA5ZC0xNHc0eUNfLTlBYUxoUkt2OUpxY2V2NWF4SlNkN2xEN1dkOEpQRDdfM0RJ?oc=5",
-      "date": "2026-04-28 20:19",
-      "summary": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns  Reuters..."
+      "title": "Hyperscaler results pose major test for AI-driven US stock market - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGVBLU5Oekh0b3BLUllQdTFmTVcwekNYd2NDdDJEZmRMVU1EcTdiN01UUzUzeFhpODZEYWxtVGZKZ0NWTjFSTG83RkZzMDJOQWpXdl8wMnVlNElFd3pFUGRLdnRHeERoYzlROTN6N3BDM2otNmZDR2ZPYzJLei1PWi1ibTVoWWxtR3ZObGhwYmhQWmVURXZJczNEaUN3bkpZcTZKdmt1TWZmM09WM091R3NybGRxa1hwVGhocFlOVQ?oc=5",
+      "date": "2026-04-29 10:32",
+      "summary": "Hyperscaler results pose major test for AI-driven US stock market  Reuters..."
     },
     {
       "title": "Google signs classified AI deal with Pentagon, The Information reports - Reuters",
@@ -205,10 +205,10 @@
       "summary": "Google signs classified AI deal with Pentagon, The Information reports  Reuters..."
     },
     {
-      "title": "Hyperscaler results pose major test for AI-driven US stock market - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGVBLU5Oekh0b3BLUllQdTFmTVcwekNYd2NDdDJEZmRMVU1EcTdiN01UUzUzeFhpODZEYWxtVGZKZ0NWTjFSTG83RkZzMDJOQWpXdl8wMnVlNElFd3pFUGRLdnRHeERoYzlROTN6N3BDM2otNmZDR2ZPYzJLei1PWi1ibTVoWWxtR3ZObGhwYmhQWmVURXZJczNEaUN3bkpZcTZKdmt1TWZmM09WM091R3NybGRxa1hwVGhocFlOVQ?oc=5",
-      "date": "2026-04-29 10:32",
-      "summary": "Hyperscaler results pose major test for AI-driven US stock market  Reuters..."
+      "title": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns By Reuters - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2M0SGNsRTUwMHFfdDNFejNxNVBSOVlfRWc4Y0xGUDVPdDhqWU9YMVI1cTFfYWFCWGF1cU5CTVZvb3J4WHlzQk1udjFqdG9Dd0Zpb3NFcnBKU3FfQnVRdl9qSW9hMkh0RVFmTUZiek1BcTFHdjRrMXhSamdUb3hSYVhYZGZ1MFlBeURRaTZlTnYweG5fN0M2blB5OWhTT0RKSktnNVdZTkI3NnN3WlJhSG90TTBPbXBMQk5GQzZtWjFYNGI5?oc=5",
+      "date": "2026-04-28 20:22",
+      "summary": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns By Reuters  Investing.com..."
     },
     {
       "title": "Breakingviews - Meta pokes holes in China's great AI firewall - Reuters",
@@ -219,7 +219,7 @@
     {
       "title": "Exclusive: Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2k3eWk0STFfck5fbjZoWkMzRlg5OFRGR19BM0xXV3Vfb0dCX1NralZ2SDNVQ1RvU1Zpck1mVGhNT0FfRFIwcERIaFVmTHRJRTVRVlNOQlR1a0lyVE9iLW9OT0pYQTdZc3NqdVhPeTJhajhwWlJfZUpOeFdSZmd2M3QxZ2RraG12d2xFSkk1VXloOTNtSFJXS05wb3Y5Zk94VHJwQ2Z4d0V2X1BsbWlIWm1CVTBkYkVVS1hXSy1jR0JMVURZSmc?oc=5",
-      "date": "2026-04-29 07:01",
+      "date": "2026-04-29 06:36",
       "summary": "Exclusive: Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say  Reuters..."
     }
   ],
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "'Ruthless predator' of red tide plankton reveals unusual bioluminescence",
-      "link": "https://phys.org/news/2026-04-ruthless-predator-red-tide-plankton.html",
-      "date": "2026-04-29 13:40",
-      "summary": "Scientists at UC San Diego's Scripps Institution of Oceanography have uncovered new insights into the bioluminescence of a unique ..."
+      "title": "Marigold flowers show potential as a source of plant-based protein",
+      "link": "https://phys.org/news/2026-04-marigold-potential-source-based-protein.html",
+      "date": "2026-04-29 15:40",
+      "summary": "Our current fascination with high-protein foods means plant-based protein now shows up in many food products. But rather than grow..."
     },
     {
-      "title": "New study details changing US irrigated agriculture, viability strategies",
-      "link": "https://phys.org/news/2026-04-irrigated-agriculture-viability-strategies.html",
-      "date": "2026-04-29 13:40",
-      "summary": "A new study by researchers at the Daugherty Water for Food Global Institute at the University of Nebraska offers a comprehensive n..."
+      "title": "AI speeds chemists' search for better disinfectants",
+      "link": "https://phys.org/news/2026-04-ai-chemists-disinfectants.html",
+      "date": "2026-04-29 15:40",
+      "summary": "Chemists and computer scientists tapped AI to find new disinfectants to combat the growing threat of dangerous \"superbugs.\" Their ..."
     },
     {
-      "title": "No brain required: This is how the single-celled Stentor learns",
-      "link": "https://phys.org/news/2026-04-brain-required-celled-stentor.html",
-      "date": "2026-04-29 13:20",
-      "summary": "Scientists have known for more than a century that a single-celled organism with no nerve cells—much less a brain—can behave in wa..."
+      "title": "The 'tail' of the shrinking dog brain: Study reveals they began getting smaller 5,000 years ago",
+      "link": "https://phys.org/news/2026-04-tail-dog-brain-reveals-began.html",
+      "date": "2026-04-29 15:20",
+      "summary": "Dogs have long been known to have smaller brains than the wolves they descended from. But when they started to shrink has been a m..."
     },
     {
-      "title": "Levitated nano-ferromagnet confirms a 160-year-old physical prediction",
-      "link": "https://phys.org/news/2026-04-levitated-nano-ferromagnet-year-physical.html",
-      "date": "2026-04-29 12:40",
-      "summary": "Ferromagnets, such as iron, cobalt, and nickel, are materials with a strong, spontaneous, and permanent magnetic field. Over 150 y..."
+      "title": "More than fashion: Uncovering the psychology behind the activewear trend",
+      "link": "https://phys.org/news/2026-04-fashion-uncovering-psychology-activewear-trend.html",
+      "date": "2026-04-29 15:20",
+      "summary": "Activewear has become an everyday staple for many Australian women, but new Edith Cowan University (ECU) research suggests it may ..."
     },
     {
-      "title": "Newly confirmed supernova remnant is one of the faintest ever detected",
-      "link": "https://phys.org/news/2026-04-newly-supernova-remnant-faintest.html",
-      "date": "2026-04-29 12:10",
-      "summary": "An international team of astronomers reports the discovery of a new supernova remnant (SNR) using radio observations. The newfound..."
+      "title": "AI discovery reveals DNA isn't locked away in cells after all",
+      "link": "https://phys.org/news/2026-04-ai-discovery-reveals-dna-isnt.html",
+      "date": "2026-04-29 15:00",
+      "summary": "Every cell in the human body squeezes over six feet of DNA into a minuscule speck invisible to the naked eye—like compressing a wh..."
     }
   ],
   "The Guardian Edu": [
@@ -348,10 +348,16 @@
       "title": "Hong Kong throws SMEs lifeline with raft of measures, HK$450 billion in loans",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3351880/hong-kong-throws-smes-lifeline-raft-measures-hk450-billion-loans?utm_source=rss_feed",
       "date": "2026-04-29 11:17",
-      "summary": "Hong Kong authorities have rolled out a fresh package of measures to support small and medium-sized enterprises (SMEs) reeling fro..."
+      "summary": "Hong Kong authorities have rolled out fresh measures to support small and medium-sized enterprises (SMEs) reeling from the global ..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "The chips in your phone are probably broken – and that's a good thing",
+      "link": "https://www.newscientist.com/article/2523909-the-chips-in-your-phone-are-probably-broken-and-thats-a-good-thing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-29 14:00",
+      "summary": "Reports suggest that Apple is using defective chips originally destined for high-end devices to create its latest affordable lapto..."
+    },
     {
       "title": "Scorpions reinforce their claws and stingers with metals",
       "link": "https://www.newscientist.com/article/2524699-scorpions-reinforce-their-claws-and-stingers-with-metals/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -371,16 +377,10 @@
       "summary": "Obesity might be to blame for part of the increase in cancer among young people, a study in the UK has found, but the causes large..."
     },
     {
-      "title": "People are betting on measles outbreaks – and that might be useful",
-      "link": "https://www.newscientist.com/article/2524510-people-are-betting-on-measles-outbreaks-and-that-might-be-useful/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "title": "Gamblers are betting millions of dollars on measles outbreaks",
+      "link": "https://www.newscientist.com/article/2524510-gamblers-are-betting-millions-of-dollars-on-measles-outbreaks/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-28 16:00",
-      "summary": "Millions of dollars are being spent on wagers predicting measles outbreaks in the US, which could help researchers modelling the s..."
-    },
-    {
-      "title": "Humanoid robots may be about to break the 100-metre sprint record",
-      "link": "https://www.newscientist.com/article/2523906-humanoid-robots-may-be-about-to-break-the-100-metre-sprint-record/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-28 14:00",
-      "summary": "Robots can now run a half-marathon faster than humans and are rapidly homing in on the 100-metre sprint record. But why are compan..."
+      "summary": "People are increasingly placing bets that predict measles outbreaks in the US, which could help researchers modelling the spread o..."
     }
   ]
 }
