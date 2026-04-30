@@ -1,34 +1,34 @@
 {
   "MIT News": [
     {
+      "title": "Study: Gene circuits reshape DNA folding and affect how genes are expressed",
+      "link": "https://news.mit.edu/2026/study-gene-circuits-reshape-dna-folding-and-affect-gene-expression-0430",
+      "date": "2026-04-30 18:00",
+      "summary": "When genes are transcribed, they suppress or activate their neighbors, coupling expression between the two genes...."
+    },
+    {
+      "title": "The hidden structure behind a widely used class of materials",
+      "link": "https://news.mit.edu/2026/hidden-structure-behind-widely-used-class-materials-0430",
+      "date": "2026-04-30 18:00",
+      "summary": "Relaxor ferroelectrics have been used in electronics and sensors for decades, but the source of their unique properties was a myst..."
+    },
+    {
+      "title": "How neurons sense bacteria in the gut",
+      "link": "https://news.mit.edu/2026/how-neurons-sense-gut-bacteria-0430",
+      "date": "2026-04-30 17:30",
+      "summary": "Neural interaction with bacteria has important effects on animal brains. A new study investigates how neurons sense bacteria by re..."
+    },
+    {
+      "title": "A materials scientist’s playground",
+      "link": "https://news.mit.edu/2026/materials-scientists-playground-0430",
+      "date": "2026-04-30 17:20",
+      "summary": "New system at MIT.nano will support quantum technology research...."
+    },
+    {
       "title": "Making the case for curiosity-driven science",
       "link": "https://news.mit.edu/2026/making-case-curiosity-driven-science",
       "date": "2026-04-30 04:00",
       "summary": "President Sally Kornbluth spoke in front of a packed crowd about growing challenges to the U.S. research ecosystem as funding for ..."
-    },
-    {
-      "title": "Study: Immigrants help address the US eldercare shortage",
-      "link": "https://news.mit.edu/2026/study-immigrants-help-address-us-eldercare-shortage-0430",
-      "date": "2026-04-30 04:00",
-      "summary": "Economists find that in metro areas with more immigration, nurses are spending more time with elderly patients...."
-    },
-    {
-      "title": "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models",
-      "link": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
-      "date": "2026-04-29 21:40",
-      "summary": "A new debiasing technique called WRING avoids creating or amplifying biases that can occur with existing debiasing approaches...."
-    },
-    {
-      "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
-      "link": "https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429",
-      "date": "2026-04-29 10:00",
-      "summary": "Building on a long-standing MIT–IBM collaboration, the new lab will chart the convergence of AI, algorithms, and quantum computing..."
-    },
-    {
-      "title": "MIT engineers’ virtual violin produces realistic sounds",
-      "link": "https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429",
-      "date": "2026-04-29 09:00",
-      "summary": "Based on the physics of how the instrument produces sound, the model could help violin makers in the design process...."
     }
   ],
   "Harvard Gazette": [
@@ -57,13 +57,25 @@
       "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
     },
     {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
-      "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
+      "title": "Harvard Impact Labs awards $1.4M to launch research projects to tackle urgent social problems - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN2JTWG1GVUJucGFJMzdOaDRWUkhiRkoxR18yWm9PdTRVU2E0Z1hnR3hLa25LSVY1Q3JBeFVXeXBRY0wyaUNMaUpCaGtCdkR4bkd0dk9PekV1WS1aRW93OE5CUWNJbGtSUHJ6dEFJNVF0dVpDZTh1WVdGRVFNQ0pVanhpZGljbVlvSDRRV1p3V0lBZDZZSS1yald3ekVyaTQzUnhQLV9fc1BVRzlQT0FkeWJwYnNhai1RNGxtQUR3bk5BVnhBSS1nUEFLWW81MUE4Wl91LXMxTHI?oc=5",
+      "date": "2026-01-29 08:00",
+      "summary": "Harvard Impact Labs awards $1.4M to launch research projects to tackle urgent social problems  Harvard Gazette..."
     }
   ],
   "Stanford News": [
+    {
+      "title": "Trump administration probes Stanford University over diversity practices - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVQydFZzYldhS21LMENTenJWZENwT3lwNlNfaEQ3U0pod29ycVpMT3hORVFzaVQzR2NZdm5wY1J5aVNBUVpXb2pkOF8xUkN2X3ZXU2IxdTh1OFVTb0Q0M3VXWV9obmdjY0llSjk1TEg1VVdRNUNxbW5nLWs0OF8zT1Y1TThZcmhUdE1ETHM5TmJwSFhPbjVhdEEyeGVxbGswUkZYY0Z5eGdrMHdJaGxUVGhYc0I?oc=5",
+      "date": "2026-04-29 23:55",
+      "summary": "Trump administration probes Stanford University over diversity practices  Reuters..."
+    },
+    {
+      "title": "ED Launches Civil Rights Investigation Into Stanford - Inside Higher Ed",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnV3cUlueWYxY3V6LTRRTVd0eC1ybkJKTnI1TV9BWkkxYms2akFUYlV6TVRQVjd0cFktQm1LMzQ2WUROZWxOeEhJUWFHQUVvQ1F3WDJLYW1WbnZnVXpITXNMQ0lRUUtVeE5GbkNkVl8yWFg3enVsdzI2UEJmMG45N0l1TzF1a2M5ZVRoOVFBcGxTWEdtX2FKYm13WlRyMUhyaGRtTDlWZm84QQ?oc=5",
+      "date": "2026-04-30 12:30",
+      "summary": "ED Launches Civil Rights Investigation Into Stanford  Inside Higher Ed..."
+    },
     {
       "title": "Exclusive | Stanford University under federal investigation for DEI teacher program - New York Post",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGV4czdDNlc3TDBPT3A1endqT0l1U1NJaFEzdkhXTkpSa2U1ZlQ2aWJhem1iclR6R0ZWQ3EwOTYyeldBN2w4UHk4ZmNLaG5zT3VxTEZ5azg3Rkotc2RVdm5NMThfYWZScUROdWVzQXg3MUhiZXhSVF9MVG93ZVRSMjk5LV84Vi10WWlnM1YtX1dGY2kxS0dRVVFSWmI0X2RJQ0hHX3RDWHpjclhMREZr?oc=5",
@@ -77,25 +89,19 @@
       "summary": "Social scientists embrace the AI moment  Stanford Report..."
     },
     {
-      "title": "Trump administration probes Stanford University over diversity practices - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVQydFZzYldhS21LMENTenJWZENwT3lwNlNfaEQ3U0pod29ycVpMT3hORVFzaVQzR2NZdm5wY1J5aVNBUVpXb2pkOF8xUkN2X3ZXU2IxdTh1OFVTb0Q0M3VXWV9obmdjY0llSjk1TEg1VVdRNUNxbW5nLWs0OF8zT1Y1TThZcmhUdE1ETHM5TmJwSFhPbjVhdEEyeGVxbGswUkZYY0Z5eGdrMHdJaGxUVGhYc0I?oc=5",
-      "date": "2026-04-29 23:55",
-      "summary": "Trump administration probes Stanford University over diversity practices  Reuters..."
-    },
-    {
-      "title": "Students protest IDF soldier’s presence on campus - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNak1KcVhubkpjcnFxT25zOTB2UXZFSUc3RkY3UWNrdnlPLXFXZkJJaEZJWXRzQXdLbDRJZzM4dVExUVd6c1ZXUmhZbE5oam9rTV9ZcjA2T1doY2tUeVFNSHJ3UWVaR3pXeFN6V1dwOEZGaEVjSmhweGtiVVA5cXgtNU5iYnFyYmVmRDR6OXBfSQ?oc=5",
-      "date": "2026-04-27 07:50",
-      "summary": "Students protest IDF soldier’s presence on campus  The Stanford Daily..."
-    },
-    {
-      "title": "Rhodes scholar from Arlington honors influential teacher at Stanford ceremony - ARLnow",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZkhCcmhLZzlhOVZrZDNjblBWQW5CS2dueEw5UWNOQk1nOG0wUjF2elBmVUhMY3Q2cGw2NDFkdWdKcjBJeFhVQWhnampTMEpNRXBsalA2RjBVZ2QzTWdRR2NUU2tFRXAtT18wVndaQ0UxVk1aS1dnS2ZKTHlvT1BaaWFoVjVUek1hOUU2bWZGMUVSTkM4TnN0ZzFVa3VxVmtaOHcyZnM0UlBkTXp1VHlNbDFn?oc=5",
-      "date": "2026-04-29 19:45",
-      "summary": "Rhodes scholar from Arlington honors influential teacher at Stanford ceremony  ARLnow..."
+      "title": "Your golden ticket into Stanford - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jbnA3bE10SDVFcV90LUFUZEN6Y2dPUFVMT3JYNlRhay12QnhnYnlfbHc0dFBjMS13b2gtcnlUbHAwZzdxVG9EVkdBRWY3UjVVMGk1VE5PbzBlVFQybDhNV0FZbXVIYXV4Z1Nvc3EzZXRiZFN0T3V3M2ZR?oc=5",
+      "date": "2026-04-30 08:12",
+      "summary": "Your golden ticket into Stanford  The Stanford Daily..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Continuously graded-doped SnO<sub>2</sub> for efficient n–i–p perovskite solar cells",
+      "link": "https://www.nature.com/articles/s41586-026-10587-4",
+      "date": "2026-04-30 00:00",
+      "summary": "Nature, Published online: 30 April 2026; doi:10.1038/s41586-026-10587-4Continuously graded-doped SnO2 for efficient n–i–p perovski..."
+    },
     {
       "title": "An electrifying test to find a good coffee",
       "link": "https://www.nature.com/articles/d41586-026-01289-y",
@@ -103,63 +109,63 @@
       "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01289-yTechnique determines roast level and strength by applying v..."
     },
     {
-      "title": "Genome pioneer Craig Venter dies: here’s how he transformed science",
-      "link": "https://www.nature.com/articles/d41586-026-01226-z",
+      "title": "Wild-meat consumption estimated across Central Africa",
+      "link": "https://www.nature.com/articles/d41586-026-01306-0",
       "date": "2026-04-30 00:00",
-      "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01226-zVenter redrew the boundaries of biology — sequencing DNA at..."
+      "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01306-0A regional analysis brought together data on wild-animal co..."
     },
     {
-      "title": "Why preprint servers are increasing moderation — and what that means for researchers",
-      "link": "https://www.nature.com/articles/d41586-026-01203-6",
+      "title": "‘Make Pluto a planet again’? NASA chief revives debate that divides astronomers",
+      "link": "https://www.nature.com/articles/d41586-026-01421-y",
       "date": "2026-04-30 00:00",
-      "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01203-6Repositories are adapting in response to AI-generated conte..."
+      "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01421-yResearchers respond to NASA head’s claim to be ready to “es..."
     },
     {
-      "title": "Scientists to return to Fukushima — this time to study disaster recovery",
-      "link": "https://www.nature.com/articles/d41586-026-01345-7",
+      "title": "Long-lived immune cells show promise against cancer in world-first trial",
+      "link": "https://www.nature.com/articles/d41586-026-01398-8",
       "date": "2026-04-30 00:00",
-      "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01345-7A new research centre could help to reassure the public tha..."
-    },
-    {
-      "title": "Saving sharks and rays, one catch at a time — in photos",
-      "link": "https://www.nature.com/articles/d41586-026-01145-z",
-      "date": "2026-04-30 00:00",
-      "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01145-zWorking alongside fishers in a biodiverse gulf in Greece, R..."
+      "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01398-8Blood cancer goes into remission for some people treated wi..."
     }
   ],
   "Science News": [
     {
-      "title": "Guns and bulletproof vests: How federal agents arrested Fauci aide",
-      "link": "https://www.science.org/content/article/guns-and-bulletproof-vests-how-federal-agents-arrested-fauci-aide",
-      "date": "2026-04-29 08:40",
-      "summary": "David Morens, 78, was stripped and handcuffed for email violations..."
+      "title": "Tiny probes make sense of abnormal bursts in the epileptic brain",
+      "link": "https://www.science.org/content/article/tiny-probes-make-sense-abnormal-bursts-epileptic-brain",
+      "date": "2026-04-30 02:25",
+      "summary": "“Spikes” hijack neurons involved in cognition—and can be predicted up to 1 second in advance..."
     },
     {
-      "title": "To misinformation researchers, AI is a scourge—and a powerful new tool",
-      "link": "https://www.science.org/content/article/misinformation-researchers-ai-scourge-and-powerful-new-tool",
-      "date": "2026-04-29 03:00",
-      "summary": "Surge in generative AI is upending a field that was just finding its feet..."
+      "title": "AI helps create bacterium that’s partially missing a universal amino acid",
+      "link": "https://www.science.org/content/article/ai-helps-create-bacterium-s-partially-missing-universal-amino-acid",
+      "date": "2026-04-30 02:00",
+      "summary": "Advance could suggest new ways to synthesize proteins with bespoke functions in medicine and biotechnology..."
     },
     {
-      "title": "A novel gene-therapy approach to ‘functionally cure’ HIV succeeds in some monkeys",
-      "link": "https://www.science.org/content/article/novel-gene-therapy-approach-functionally-cure-hiv-succeeds-some-monkeys",
-      "date": "2026-04-29 02:00",
-      "summary": "Six animals suppressed AIDS virus after one shot of treatment that makes cell-receptor antibody..."
+      "title": "AI is starting to beat doctors at making correct diagnoses",
+      "link": "https://www.science.org/content/article/ai-starting-beat-doctors-making-correct-diagnoses",
+      "date": "2026-04-30 02:00",
+      "summary": "Large language model excels at clinical decisions, even in fast pace of a simulated ER..."
     },
     {
-      "title": "House spending panel bumps up Trump’s request for NSF and NASA",
-      "link": "https://www.science.org/content/article/house-spending-panel-bumps-trump-s-request-nsf-and-nasa",
-      "date": "2026-04-29 01:55",
-      "summary": "Draft bill is an early sign that Congress again thinks Trump has gone too far in cutting research..."
+      "title": "Deepfakes are everywhere. The godfather of digital forensics is fighting back",
+      "link": "https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back",
+      "date": "2026-04-30 02:00",
+      "summary": "Hany Farid, who's spent his career building tools to detect fake images, is facing his biggest challenge yet: AI..."
     },
     {
-      "title": "As foot-and-mouth disease explodes in South Africa, experts warn of threats in other countries",
-      "link": "https://www.science.org/content/article/foot-and-mouth-disease-explodes-south-africa-experts-warn-threats-other-countries",
-      "date": "2026-04-29 01:10",
-      "summary": "A viral strain originating in wild buffalo in Kruger National Park is spreading rapidly in cattle..."
+      "title": "Measles explodes in Bangladesh after vaccination breakdown, killing hundreds of children",
+      "link": "https://www.science.org/content/article/measles-explodes-bangladesh-after-vaccination-breakdown-killing-hundreds-children",
+      "date": "2026-04-30 07:25",
+      "summary": "Changes to government’s vaccine purchase system after 2024 revolution led to nationwide shortages, gaps in immunity..."
     }
   ],
   "Retraction Watch": [
+    {
+      "title": "Are AI chatbots infiltrating online survey data? Not yet, says new study",
+      "link": "https://retractionwatch.com/2026/04/30/are-ai-chatbots-infiltrating-online-survey-data-not-yet-says-new-study/",
+      "date": "2026-04-30 18:02",
+      "summary": "Despite concerns some have raised about potentially compromised data, AI chatbots aren’t yet completing online research surveys wi..."
+    },
     {
       "title": "Researcher claims his case report was stolen by someone else at his hospital",
       "link": "https://retractionwatch.com/2026/04/29/researcher-claims-his-case-report-was-stolen-by-someone-else-at-his-hospital/",
@@ -183,12 +189,6 @@
       "link": "https://retractionwatch.com/2026/04/23/paper-mill-authorship-cost-advertisements-buytheby-dataset/",
       "date": "2026-04-23 21:19",
       "summary": "The market for fake authorship on a research paper has prices to match every budget, according to a new dataset compiled from thou..."
-    },
-    {
-      "title": "Journal goes dark after impersonating Eric Topol and others",
-      "link": "https://retractionwatch.com/2026/04/23/eric-topol-ellinger-publishing-media-journal-digital-health-impersonation/",
-      "date": "2026-04-23 19:29",
-      "summary": "Within hours of researchers from prestigious institutions discovering they were listed as authors on a fabricated paper, the websi..."
     }
   ],
   "Reuters AI": [
@@ -199,16 +199,16 @@
       "summary": "Meta shares fall on concerns over AI spending, legal scrutiny  Reuters..."
     },
     {
-      "title": "Hyperscaler results pose major test for AI-driven US stock market - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGVBLU5Oekh0b3BLUllQdTFmTVcwekNYd2NDdDJEZmRMVU1EcTdiN01UUzUzeFhpODZEYWxtVGZKZ0NWTjFSTG83RkZzMDJOQWpXdl8wMnVlNElFd3pFUGRLdnRHeERoYzlROTN6N3BDM2otNmZDR2ZPYzJLei1PWi1ibTVoWWxtR3ZObGhwYmhQWmVURXZJczNEaUN3bkpZcTZKdmt1TWZmM09WM091R3NybGRxa1hwVGhocFlOVQ?oc=5",
-      "date": "2026-04-29 10:32",
-      "summary": "Hyperscaler results pose major test for AI-driven US stock market  Reuters..."
+      "title": "Amazon tops cloud expectations on strong AI demand, shares rise - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUk9JdVVkT1VwYXNEM3Fqc1FXSHpRZ19neTZBTHZleG1jVFQ4ZVAtbTRGT0JGOXBKa3QtdmNvY3JDTGl5NEc0U2U0dHlUYWlBYjJIcmhvY1B2cjFEUDEweDJGbjJsbGVjbDRONkFCTjJ4SHN3MGFXcFJSa1JFTmhMZXdZb2VpR0ROR3JMR0tOY0RJZnFOUmNOcGRPNkVLa0pfQ3RQZHI5NXl2QQ?oc=5",
+      "date": "2026-04-29 23:12",
+      "summary": "Amazon tops cloud expectations on strong AI demand, shares rise  Reuters..."
     },
     {
-      "title": "Meta's fall shows punters crave clearer AI payoff - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVFMdmpNWFo1NWZNQm11azk3OXlTVDB1NTRyVFFiSThmWE9sMmt6ZWlFS2NVYmdsaDFyV0xOc05iaGVLeUQxVXhKcDZVMDBSTnJyYzN2QS0wZEtKN1I1WVZ2blJ6UFBwYnRzMUt6SEx1OGZvWDVvU0dfclRXdHVYRXVhMm45aE1OUUxyZ0tDeWJ4dWVwMDBhRGZJS1BXNzFDTHNz?oc=5",
-      "date": "2026-04-30 15:58",
-      "summary": "Meta's fall shows punters crave clearer AI payoff  Reuters..."
+      "title": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0t2QzA2cTBhTEYzXzR5ZWlQRjNGbTczUlEzX1hDYzcwdE44S2d6YTRsZ1FMdDlVb1lyOTVycURTMm81b0RmcF9OYUJlakxESDVGT3E4TkJIcTY0ZTM0VmNCeU1LVXBGcjdnbW82Q1QyMHV2ZWhmWEhWekN4NS1kVTRxYTFHQWQ1Qk82TUg0ZDlVQkpiTUFYMHo4dGp4Z3VWNHB1enpFOXNCQ0ZPSUd2MzdMbWI?oc=5",
+      "date": "2026-04-30 18:33",
+      "summary": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock  Bloomberg.com..."
     },
     {
       "title": "Meta lifts capital expenditure forecast, doubling down on AI push By Reuters - Investing.com",
@@ -249,42 +249,42 @@
       "summary": "Elon Musk and Sam Altman are going to court over OpenAI’s future  MIT Technology Review..."
     },
     {
-      "title": "Health-care AI is here. We don’t know if it actually helps patients. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGt2SFRCOF9nU2dqUFhDVWFSVy1jdDhkNUJtSDNKeUliM0RneXRuTC15TVM1TnBoZXI2dEF4ZWhGQTRidnE2TG5faWZpckhhS01lMG1XUTZ4ZGlWWTM1S1JZS3M0ZDR6d1lKcC1mOGNDdkRZUEp6WS1mUkhjNFI3ZWVoSm5Za1BWd0pUcDB1MEZXZk5uRmZIYS1PSXR0dm1oZ3ZF0gGoAUFVX3lxTFAtZXQ3b0dXbmw5VTE1a0l5LXY3N2JlSHlwV2o5ZmwyUXd2bEZRU1k3Z2dkMXpReHFDdEQ4ZzNDYksxTTlnZ0wyekxrSUNMYTJGWk44dDA1ajRvSlBJNlZYbHdlYm5WUkZHQjhnMWkzOU9GakE4cjJtOE1aVmZ5cHpXVm1uRFJFNGRkVUZIWURDdG1uNms3ZkktdXV2QVVzSkFmdDFrLVlFag?oc=5",
-      "date": "2026-04-24 09:00",
-      "summary": "Health-care AI is here. We don’t know if it actually helps patients.  MIT Technology Review..."
+      "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU1pHcEZraS1vSHh2VGtKRk5LZ21NUmctRm15YXRDTkIxRUJ1eHl2czVwNmtVNksycXBxaXNLcWpUYmxHUlBSZUoySUNxajgwM18wX1Y0T3AtNHFRU1RMcFZjYVdCVEUxRk90RGNTcVpfNUFhTmxKa1Z1VTV1Q2V4R2RFQVd6ZmhfUGYtWnVsOHZTVk1WX2Fqbm9sZ2tOcXU0WEpUcklRdWg5ZFBROXloajV5dnVNMENJTS1tcmd2ZTZjWUdicFl3UllhRm8?oc=5",
+      "date": "2026-04-30 18:42",
+      "summary": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Massive reef expansion 20 million years ago may explain modern coral life's origins",
-      "link": "https://phys.org/news/2026-04-massive-reef-expansion-million-years.html",
-      "date": "2026-04-30 17:00",
-      "summary": "New research published in Science Advances reveals that the largest expansion of coral reefs in the past 100 million years happene..."
+      "title": "Compound in ginger and turmeric may disarm drug-resistant bacteria",
+      "link": "https://phys.org/news/2026-04-compound-ginger-turmeric-drug-resistant.html",
+      "date": "2026-04-30 19:10",
+      "summary": "Every year, antibiotic-resistant Staphylococcus aureus, commonly known as staph, causes serious infections and outbreaks in hospit..."
     },
     {
-      "title": "'I don't believe no screens is possible': How parents manage devices and little kids",
-      "link": "https://phys.org/news/2026-04-dont-screens-parents-devices-kids.html",
-      "date": "2026-04-30 17:00",
-      "summary": "Parents are told to avoid screens altogether in the first two years of a child's life...."
+      "title": "Feeding shift may have steered 55 pilot whales toward Scotland mass stranding",
+      "link": "https://phys.org/news/2026-04-shift-whales-scotland-mass-stranding.html",
+      "date": "2026-04-30 19:00",
+      "summary": "New research, focused on the feeding behavior of long-finned pilot whales, has shed light on one of Scotland's largest mass strand..."
     },
     {
-      "title": "Rare Tyrian purple reveals elite Roman infant burials in York",
-      "link": "https://phys.org/news/2026-04-rare-tyrian-purple-reveals-elite.html",
-      "date": "2026-04-30 16:40",
-      "summary": "Two infants buried in Roman York were laid to rest in costly purple cloth normally reserved for emperors and members of the aristo..."
+      "title": "Emoji scale shows reliable preschool social skills screening",
+      "link": "https://phys.org/news/2026-04-emoji-scale-reliable-preschool-social.html",
+      "date": "2026-04-30 19:00",
+      "summary": "A new test that uses emojis can check the social skills of preschoolers. A vocabulary test is underway...."
     },
     {
-      "title": "Our study looked at teens' social media behavior—those from disadvantaged backgrounds face greater harms",
-      "link": "https://phys.org/news/2026-04-teens-social-media-behavior-disadvantaged.html",
-      "date": "2026-04-30 16:40",
-      "summary": "As social media becomes a central part of young people's lives, concerns are growing about its impact on their mental health. Yet ..."
+      "title": "Fungi utilize ancient antimicrobial proteins to attack hosts and their microbiomes, plant researchers discover",
+      "link": "https://phys.org/news/2026-04-fungi-ancient-antimicrobial-proteins-hosts.html",
+      "date": "2026-04-30 18:40",
+      "summary": "An international research team led by Cologne-based plant scientist Professor Dr. Bart Thomma from the Institute for Plant Science..."
     },
     {
-      "title": "A lost galaxy called 'Loki' may be hiding inside the Milky Way",
-      "link": "https://phys.org/news/2026-04-lost-galaxy-loki-milky.html",
-      "date": "2026-04-30 16:40",
-      "summary": "The Milky Way galaxy grew into its current form with the help of smaller galaxies over time, which it has \"consumed\" or merged wit..."
+      "title": "Blue carbon: Unearthing the ocean's own climate fix",
+      "link": "https://phys.org/news/2026-04-blue-carbon-unearthing-ocean-climate.html",
+      "date": "2026-04-30 18:40",
+      "summary": "It's a common misconception that rainforests are the lungs of Earth. Our oceans produce most of the oxygen we consume and are more..."
     }
   ],
   "The Guardian Edu": [
@@ -353,6 +353,18 @@
   ],
   "New Scientist": [
     {
+      "title": "Your oral microbiome could affect your weight, liver and diabetes risk",
+      "link": "https://www.newscientist.com/article/2524866-your-oral-microbiome-could-affect-your-weight-liver-and-diabetes-risk/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-30 17:00",
+      "summary": "An ambitious study has explored how the oral microbiome may affect our metabolic health, raising hopes that conditions like pre-di..."
+    },
+    {
+      "title": "We have figured out a new way to send messages into the past",
+      "link": "https://www.newscientist.com/article/2524371-we-have-figured-out-a-new-way-to-send-messages-into-the-past/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-04-30 10:00",
+      "summary": "A technique inspired by the film Interstellar suggests a new way of communicating backwards in time, but it could help improve con..."
+    },
+    {
       "title": "Human heads have changed shape a lot in the past 100 years",
       "link": "https://www.newscientist.com/article/2524895-human-heads-have-changed-shape-a-lot-in-the-past-100-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-30 15:00",
@@ -369,18 +381,6 @@
       "link": "https://www.newscientist.com/article/2524928-the-rich-but-complicated-legacy-of-genome-pioneer-craig-venter/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-30 11:54",
       "summary": "Craig Venter has died aged 79. He was at the forefront of sequencing the human genome and of synthetic biology, but divided opinio..."
-    },
-    {
-      "title": "Simple treatment tweak drastically reduces blood loss from severe cuts",
-      "link": "https://www.newscientist.com/article/2524800-simple-treatment-tweak-drastically-reduces-blood-loss-from-severe-cuts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-29 16:25",
-      "summary": "A procedure that could be done in half an hour, and prepared ahead of time, could seriously reduce blood loss from severe wounds, ..."
-    },
-    {
-      "title": "Weird 'transdimensional' state of matter is neither 2D nor 3D",
-      "link": "https://www.newscientist.com/article/2524690-weird-transdimensional-state-of-matter-is-neither-2d-nor-3d/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-29 16:00",
-      "summary": "An experiment with a carbon material in a magnetic field has revealed a novel way for electrons to move, which doesn't fully belon..."
     }
   ]
 }
