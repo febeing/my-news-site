@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Study: Immigrants help address the US eldercare shortage",
+      "link": "https://news.mit.edu/2026/study-immigrants-help-address-us-eldercare-shortage-0430",
+      "date": "2026-04-30 04:00",
+      "summary": "Economists find that in metro areas with more immigration, nurses are spending more time with elderly patients...."
+    },
+    {
       "title": "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models",
       "link": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
       "date": "2026-04-29 21:40",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
       "date": "2026-04-29 04:00",
       "summary": "A new method could bring more accurate and efficient AI models to high-stakes applications like health care and finance, even in u..."
-    },
-    {
-      "title": "With a swipe of a magnet, microscopic “magno-bots” perform complex maneuvers",
-      "link": "https://news.mit.edu/2026/microscopic-magno-bots-perform-complex-maneuvers-with-magnet-swipe-0428",
-      "date": "2026-04-28 15:00",
-      "summary": "MIT researchers’ new fabrication technique can produce soft, microscopic structures with magnetically activated moving parts...."
     }
   ],
   "Harvard Gazette": [
@@ -57,10 +57,10 @@
       "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
     },
     {
-      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
-      "date": "2026-04-09 07:00",
-      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
+      "date": "2025-10-23 07:00",
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "An electrifying test to find a good coffee",
+      "link": "https://www.nature.com/articles/d41586-026-01289-y",
+      "date": "2026-04-30 00:00",
+      "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01289-yTechnique determines roast level and strength by applying v..."
+    },
+    {
       "title": "Author Correction: Broadly stable atmospheric CO<sub>2</sub> and CH<sub>4</sub> levels over the past 3 million years",
       "link": "https://www.nature.com/articles/s41586-026-10600-w",
       "date": "2026-04-29 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01406-x",
       "date": "2026-04-29 00:00",
       "summary": "Nature, Published online: 29 April 2026; doi:10.1038/d41586-026-01406-xEating a meal could lead to T cells springing into action m..."
-    },
-    {
-      "title": "Decarboxylative alkylation of alkenes",
-      "link": "https://www.nature.com/articles/s41586-026-10463-1",
-      "date": "2026-04-29 00:00",
-      "summary": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10463-1A Pd-catalysed method enables regio- and diastereoselective..."
     }
   ],
   "Science News": [
@@ -201,8 +201,14 @@
     {
       "title": "Google signs classified AI deal with Pentagon, The Information reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0tiY2FGdlFmVGxXcnI4Wjl1VmdNcFgtOW9YOGZNenhfMW5ZSms0b0RJRG5NNlZYb2xPSC1JM3ZkenlicV8xMHYzLWtFb096WUJmMXg3LVJpTm1jRk1zcVV1YkZnR0NSZnpVYmpWOG12S1Q5OERtRE1MQjBQbWp2ekJtR2ZmampnZC1XNm4yMDd2eUxsZU5ZaUhkZlp6S3BEMlV2Y0ZFdHM5aUdlSk4yR2RB?oc=5",
-      "date": "2026-04-28 05:07",
+      "date": "2026-04-28 05:12",
       "summary": "Google signs classified AI deal with Pentagon, The Information reports  Reuters..."
+    },
+    {
+      "title": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns By Reuters - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2M0SGNsRTUwMHFfdDNFejNxNVBSOVlfRWc4Y0xGUDVPdDhqWU9YMVI1cTFfYWFCWGF1cU5CTVZvb3J4WHlzQk1udjFqdG9Dd0Zpb3NFcnBKU3FfQnVRdl9qSW9hMkh0RVFmTUZiek1BcTFHdjRrMXhSamdUb3hSYVhYZGZ1MFlBeURRaTZlTnYweG5fN0M2blB5OWhTT0RKSktnNVdZTkI3NnN3WlJhSG90TTBPbXBMQk5GQzZtWjFYNGI5?oc=5",
+      "date": "2026-04-28 20:22",
+      "summary": "Oracle, CoreWeave lead AI selloff on OpenAI growth concerns By Reuters  Investing.com..."
     },
     {
       "title": "Alphabet revenue tops expectations on record quarter for cloud unit - Reuters",
@@ -215,26 +221,20 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFNSQmtUam5teWJnNHNkcDVSSHVwbGl4d0luVzYwSUxaVnVpcVNmcW9LcXFGZ1IyWWxsZ1VPbmJ4N0FrR1ZXbkFfZG16cUJYQUFSdnhmdU95TUVXaUstaWF3M1drcXVDbHRjVlZVMTUwY3h0VnhhMVEycnRWbC1TNElfamZrNDlXQjNGbTg0dGN0MEN6ZDYwSDgtLUV6MW5HcXlDdlEtQmxJQQ?oc=5",
       "date": "2026-04-29 20:05",
       "summary": "Meta shares fall on concerns over AI spending, legal scrutiny  Reuters..."
-    },
-    {
-      "title": "Goldman cuts access to Anthropic's Claude for Hong Kong bankers, source says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXJ1Y25ZdEZWNGdILUF6TjdBeUpuWFBWREIteDVqUm9pUGZNbEN5ajdOMWZJV2JMSTM2QkRPTjZJc1pIRnhVc1JZeUptTk5fWEVVYWVxR0tOdVhfXzRLVjZJdTYxUGRXT29HTkUtb2Z5NkRlQUdaOG4tM3lsZ2t2RXI4dExyUm1vdUJPSnFKVUY5dnZYNEFoYWJ4ZzZ3R3pMcmxLVkZ1b21lQ0VRT2x2Wk5B?oc=5",
-      "date": "2026-04-29 00:53",
-      "summary": "Goldman cuts access to Anthropic's Claude for Hong Kong bankers, source says  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "The Download: storing nuclear waste and orchestrating agents - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORjl2VWwySWw2Z1ZVa0dDWWYyU0lMNE1tYXpBejBpZzQ1UmE1TGR4OXdDM1NFSHVaelZRcDRFTGhkdlRKNUV4SFF2c0NnT183WUwyRURIWV9TanVSUEpHb3dvWXpOSXhWRFZWb3RhQ1dkWGJ5bEVaY2gwM3JkVk5FTFlRYUlhTTNta2NMZldQLXZRbXU1VENIcUJZY1pqa0tGOEhkV9IBqgFBVV95cUxNZFpWb1M0d3hfR3cySkpKaXdPYWY4N3VxTFlzd1Q5WlNNaFpmb0ttN05NOWdoVTFxbDhEX1hQd21MZGF3cDRPbThVZUJkLW1qT3JSY3VOWmJKZC1HdldzZU1pdTZWOUYzd0dNMnZxNzFwUlVpQ3RQdkZfTEx3MGMtV0M5RlJybDRqSXdFYldxVFY0TjRSQVpVc045a3djdGJVbkRsWl9CeDJDZw?oc=5",
-      "date": "2026-04-29 12:10",
-      "summary": "The Download: storing nuclear waste and orchestrating agents  MIT Technology Review..."
-    },
     {
       "title": "Rebuilding the data stack for AI - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVlLbENWY2JwYU0zRVhvRDdTSHYzeHlsNVdEb19tZm5UWVN5NnJPc2RMY2Q5ZnJ2MHFodVp4ak5lRzRLYUJGNG52RmNQemVrbjBhemhWeEhXVUx1ODNLb3I2WTQzZUpOX3NWdWJxdXBURDJrM0lPa1lsQ016MElsUC0yZElQWVZPVEdaSnRR0gGTAUFVX3lxTFAyUHJCMnZibHF0UkhZZy1kSHFfSjBEZER1bU1CcGhCaWNBTmhVQngwdjBfQUUzeHFqdldSSUMxUG81XzBiWVBmTHN1SDRTaDFCNWE0ZnRmN0R2RnY4dUtrMzVBdG12aGhJV0Z0T0NmYUhqeXhQNjlzendvdGppc1pJbWJSVWxXcE5Sd1dsZDVITm0wWQ?oc=5",
       "date": "2026-04-27 13:00",
       "summary": "Rebuilding the data stack for AI  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: storing nuclear waste and orchestrating agents - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORjl2VWwySWw2Z1ZVa0dDWWYyU0lMNE1tYXpBejBpZzQ1UmE1TGR4OXdDM1NFSHVaelZRcDRFTGhkdlRKNUV4SFF2c0NnT183WUwyRURIWV9TanVSUEpHb3dvWXpOSXhWRFZWb3RhQ1dkWGJ5bEVaY2gwM3JkVk5FTFlRYUlhTTNta2NMZldQLXZRbXU1VENIcUJZY1pqa0tGOEhkV9IBqgFBVV95cUxNZFpWb1M0d3hfR3cySkpKaXdPYWY4N3VxTFlzd1Q5WlNNaFpmb0ttN05NOWdoVTFxbDhEX1hQd21MZGF3cDRPbThVZUJkLW1qT3JSY3VOWmJKZC1HdldzZU1pdTZWOUYzd0dNMnZxNzFwUlVpQ3RQdkZfTEx3MGMtV0M5RlJybDRqSXdFYldxVFY0TjRSQVpVc045a3djdGJVbkRsWl9CeDJDZw?oc=5",
+      "date": "2026-04-29 12:10",
+      "summary": "The Download: storing nuclear waste and orchestrating agents  MIT Technology Review..."
     },
     {
       "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future - MIT Technology Review",
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Image: A gently glowing galaxy",
+      "link": "https://phys.org/news/2026-04-image-gently-galaxy.html",
+      "date": "2026-04-30 05:00",
+      "summary": "A luminous swirl set against the deep black of space, the barred spiral galaxy IC 486 glows with a soft, ethereal light in this NA..."
+    },
+    {
+      "title": "Seals get their hearts racing to detox after foraging trips at sea",
+      "link": "https://phys.org/news/2026-04-hearts-detox-foraging-sea.html",
+      "date": "2026-04-30 04:00",
+      "summary": "Diving is physiologically challenging for marine animals. Long and deep dives can trigger \"anaerobic\" (oxygen-less) metabolism in ..."
+    },
+    {
       "title": "Mining critical materials is creating 'sacrifice zones' that harm water and health of world's poor",
       "link": "https://phys.org/news/2026-04-critical-materials-sacrifice-zones-health.html",
       "date": "2026-04-30 02:40",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-04-highly-efficient-durable-catalyst-chlor.html",
       "date": "2026-04-30 02:00",
       "summary": "Efficient and durable catalysts for the chlorine evolution reaction (CER) are critical for chlor-alkali and related brine electrol..."
-    },
-    {
-      "title": "New 'Roadmap' highlights surface acoustic wave technologies",
-      "link": "https://phys.org/news/2026-04-roadmap-highlights-surface-acoustic-technologies.html",
-      "date": "2026-04-30 01:40",
-      "summary": "With the involvement of scientists from the Paul Drude Institute for Solid State Electronics in Berlin and the Universities of Aug..."
-    },
-    {
-      "title": "Defect engineering lifts chalcopyrite thermoelectrics to record performance",
-      "link": "https://phys.org/news/2026-04-defect-chalcopyrite-thermoelectrics.html",
-      "date": "2026-04-30 01:20",
-      "summary": "A research team led by Prof. Zhang Jian at the Institute of Solid State Physics, Hefei Institutes of Physical Science, Chinese Aca..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Stealth vaping continues despite new Hong Kong ban, 2 penalised",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3351941/2-hongkongers-penalised-new-public-vaping-ban-takes-effect?utm_source=rss_feed",
+      "date": "2026-04-30 03:53",
+      "summary": "Some Hong Kong residents are still vaping in hidden corners despite a new ban on the public use of alternative tobacco products, t..."
+    },
+    {
+      "title": "Tai Po fire probe: URA’s lack of price checks opened door to ‘unscrupulous consultants’",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351931/tai-po-fire-probe-uras-lack-price-checks-opened-door-unscrupulous-consultants?utm_source=rss_feed",
+      "date": "2026-04-30 03:21",
+      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+    },
+    {
+      "title": "Elderly man drowns during morning swim at Hong Kong’s Lung Mei Beach",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3351936/elderly-man-drowns-during-morning-swim-hong-kongs-lung-mei-beach?utm_source=rss_feed",
+      "date": "2026-04-30 03:00",
+      "summary": "An elderly man drowned while swimming at Lung Mei Beach in Hong Kong’s Tai Po on Thursday morning.\nPolice said they received a rep..."
+    },
+    {
       "title": "Hong Kong tour groups to mainland China surge by up to 40% for Labour Day weekend",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3351916/hong-kong-tour-groups-mainland-china-surge-40-labour-day-weekend?utm_source=rss_feed",
       "date": "2026-04-30 02:30",
@@ -331,24 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351855/should-law-treat-autonomous-ai-agents-legal-persons?utm_source=rss_feed",
       "date": "2026-04-30 01:30",
       "summary": "Almost everyone has heard of OpenClaw, the late-2025 agentic AI release which takes artificial intelligence technology one step fu..."
-    },
-    {
-      "title": "Will top Hong Kong civil servants pay price for blunders under new system?",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3351906/will-top-hong-kong-civil-servants-pay-price-blunders-under-new-system?utm_source=rss_feed",
-      "date": "2026-04-30 00:30",
-      "summary": "Where exactly does the buck stop? Senior Hong Kong civil servants are asking themselves that question after the unveiling of a new..."
-    },
-    {
-      "title": "HKMA holds base interest rate at 4%, following Fed as war inflation worries persist",
-      "link": "https://www.scmp.com/business/banking-finance/article/3351921/hkma-holds-base-interest-rate-4-following-fed-war-inflation-worries-persist?utm_source=rss_feed",
-      "date": "2026-04-29 23:27",
-      "summary": "Hong Kong’s monetary authority has held its base interest rate steady, following the lead of the US Federal Reserve, as analysts s..."
-    },
-    {
-      "title": "Guangdong to ‘actively align’ with Hong Kong’s Northern Metropolis push",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3351893/guangdong-actively-align-hong-kongs-northern-metropolis-push?utm_source=rss_feed",
-      "date": "2026-04-29 13:15",
-      "summary": "Guangdong will “actively align” with Hong Kong’s strategy for the Northern Metropolis megaproject and highlight areas of collabora..."
     }
   ],
   "New Scientist": [
