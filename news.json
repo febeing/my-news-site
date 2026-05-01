@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells",
+      "link": "https://www.nature.com/articles/d41586-026-01439-2",
+      "date": "2026-05-01 00:00",
+      "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01439-2Nature staff discuss some of the week's top science news...."
+    },
+    {
       "title": "The imperfect legacy",
       "link": "https://www.nature.com/articles/d41586-026-01075-w",
       "date": "2026-05-01 00:00",
@@ -119,15 +125,15 @@
       "link": "https://www.nature.com/articles/d41586-026-01290-5",
       "date": "2026-05-01 00:00",
       "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01290-5Species recovery, cancer-preventing vaccines and progress in ..."
-    },
-    {
-      "title": "European funder must increase capacity to meet the ambition of scientists",
-      "link": "https://www.nature.com/articles/d41586-026-01411-0",
-      "date": "2026-05-01 00:00",
-      "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01411-0To avoid sabotaging science, the European Research Council ne..."
     }
   ],
   "Science News": [
+    {
+      "title": "Deep-Earth map reveals a lost U.S. continent",
+      "link": "https://www.science.org/content/article/deep-earth-map-reveals-lost-u-s-continent",
+      "date": "2026-05-01 10:14",
+      "summary": "Sensor array traces how rocks conduct electricity, exposing ancient continental fragments, mineral targets, and grid hazards..."
+    },
     {
       "title": "Tiny probes make sense of abnormal bursts in the epileptic brain",
       "link": "https://www.science.org/content/article/tiny-probes-make-sense-abnormal-bursts-epileptic-brain",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back",
       "date": "2026-04-30 02:00",
       "summary": "Hany Farid, who's spent his career building tools to detect fake images, is facing his biggest challenge yet: AI..."
-    },
-    {
-      "title": "Measles explodes in Bangladesh after vaccination breakdown, killing hundreds of children",
-      "link": "https://www.science.org/content/article/measles-explodes-bangladesh-after-vaccination-breakdown-killing-hundreds-children",
-      "date": "2026-04-30 07:25",
-      "summary": "Changes to government’s vaccine purchase system after 2024 revolution led to nationwide shortages, gaps in immunity..."
     }
   ],
   "Retraction Watch": [
@@ -193,10 +193,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "Pentagon reaches agreements with top AI companies, but not Anthropic - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1lWcjNQNDY2aERXM3BnMTFFZllkWVZCNTFTY2Y0c0d4Nk1mY2UyQ0JNRVBMUVRNQnZiRlBNQnYzOWJaOFFUTTktZWpDWmNia2VpbWpreVU1dG1HSUo1T1JrWm12UVJ1R0ZxaUZIUXZrMXBDLUx4bXpUTE95ZFA1bHdGUXloZ0ZNc1ZfRm1SVGZGNnZUTWlrcVE0QzRsa3lHQzFPZURLTENMckd6UFpuWXRMd0I?oc=5",
-      "date": "2026-05-01 14:00",
-      "summary": "Pentagon reaches agreements with top AI companies, but not Anthropic  Reuters..."
+      "title": "Huawei expects AI chip revenue to jump at least 60% this year, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUNrbk1aeXBSM2cxc1d0TW1vXzYtRFFTejVKSnBhTFpuV3RFM3lPaFZqNnpSWGhnRll5eUZTbGJpd2xMeWV6VzZEUzlnSjlZV3UxaVkzSmVRQkpsdU93ZWhlZnYyb2tTV192QlNpaEhNc3VuSVUyYXN4c3R5cGxPTWlxdzVwOVhDbktDcnlNZHdvZ3o0TkV2dktKY2t0S0x0VVRiUF9CTFI4TTJvWF9BR2JlRQ?oc=5",
+      "date": "2026-05-01 00:51",
+      "summary": "Huawei expects AI chip revenue to jump at least 60% this year, FT reports  Reuters..."
+    },
+    {
+      "title": "Google Cloud pulls ahead as Big Tech's AI bet swells to $700 billion - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVNydmRzT0dCVEZ3OEkzVDdnWW4tZFZJMU5zVTRMSE9ZNS1kRF9BTFFVbjJaMUItbnJZZEdyTjFUT014RmFVRUIzTkltdHljaFRiUHdnRHZDdjN6Z1NRbTVQMmFqMXE1d2dEN0hfdmw0SEl4Y2RrQmdGTnZHYUhjMFBNUzBJaFhES2RBcEtEbmpLVHVkR3VkZkFsb1dDQ1U5dFJ0dW9lVnh3VHhUNWZWN212a3pjS3UtM2gwd2ln?oc=5",
+      "date": "2026-04-30 14:51",
+      "summary": "Google Cloud pulls ahead as Big Tech's AI bet swells to $700 billion  Reuters..."
+    },
+    {
+      "title": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0t2QzA2cTBhTEYzXzR5ZWlQRjNGbTczUlEzX1hDYzcwdE44S2d6YTRsZ1FMdDlVb1lyOTVycURTMm81b0RmcF9OYUJlakxESDVGT3E4TkJIcTY0ZTM0VmNCeU1LVXBGcjdnbW82Q1QyMHV2ZWhmWEhWekN4NS1kVTRxYTFHQWQ1Qk82TUg0ZDlVQkpiTUFYMHo4dGp4Z3VWNHB1enpFOXNCQ0ZPSUd2MzdMbWI?oc=5",
+      "date": "2026-04-30 18:33",
+      "summary": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock  Bloomberg.com..."
     },
     {
       "title": "US Navy turns to AI firm Domino for options to counter Iranian mines - Reuters",
@@ -205,36 +217,30 @@
       "summary": "US Navy turns to AI firm Domino for options to counter Iranian mines  Reuters..."
     },
     {
-      "title": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0t2QzA2cTBhTEYzXzR5ZWlQRjNGbTczUlEzX1hDYzcwdE44S2d6YTRsZ1FMdDlVb1lyOTVycURTMm81b0RmcF9OYUJlakxESDVGT3E4TkJIcTY0ZTM0VmNCeU1LVXBGcjdnbW82Q1QyMHV2ZWhmWEhWekN4NS1kVTRxYTFHQWQ1Qk82TUg0ZDlVQkpiTUFYMHo4dGp4Z3VWNHB1enpFOXNCQ0ZPSUd2MzdMbWI?oc=5",
-      "date": "2026-04-30 18:33",
-      "summary": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock  Bloomberg..."
-    },
-    {
-      "title": "Meta lifts capital expenditure forecast, doubling down on AI push By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSEpkYklJRUF6UlhIcXdINWdLX2tLZG9YWVJKS3dVaUVaVUhLMVhsSUF4anJ4YS1zQks3OGNQdXd3SnlKNXpnT3p4ck9tQWM5dlBFWVBwcm1VTTFOS2NjbVJiVV9YZ2NDZzZMc1hQWmp5MUZ0aGpWeGkwU0UweXBuV21YdnZFeTRUMWs0T2JWeW83N09aYlhaeGUwRUVoM0trS1kwZnkyZG1RQ0FzaGZSVWFINnNQZnZQbE55TzJ3?oc=5",
-      "date": "2026-04-29 20:10",
-      "summary": "Meta lifts capital expenditure forecast, doubling down on AI push By Reuters  Investing.com..."
-    },
-    {
-      "title": "Huawei expects AI chip revenue to jump at least 60% this year, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUNrbk1aeXBSM2cxc1d0TW1vXzYtRFFTejVKSnBhTFpuV3RFM3lPaFZqNnpSWGhnRll5eUZTbGJpd2xMeWV6VzZEUzlnSjlZV3UxaVkzSmVRQkpsdU93ZWhlZnYyb2tTV192QlNpaEhNc3VuSVUyYXN4c3R5cGxPTWlxdzVwOVhDbktDcnlNZHdvZ3o0TkV2dktKY2t0S0x0VVRiUF9CTFI4TTJvWF9BR2JlRQ?oc=5",
-      "date": "2026-05-01 00:51",
-      "summary": "Huawei expects AI chip revenue to jump at least 60% this year, FT reports  Reuters..."
+      "title": "Reddit rallies as AI‑driven ad growth fuels strong revenue outlook - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdk5ZUGZOM1ZEeVhva3ZsTEVadW1OWFMzcU16Mkdfb3p1VUZ1WTJkeE9VYU9wdkctVkp0UGc4YkNST3BWWWFzTkpsQ0wyeWIzTklPUnlQTnRnT1l1MVpkMktJbG9DSmZYc2JUX1V1S1NnUFh1dXY1bkpqOUJQaDRsaUVlU09HQVViZ01EYk5vcjBrRHFjd1ItREtHZ1Q1a2NjcmptX3ZSaUVua1hWQVJJald1NHd1R3ZJWndkNUJR?oc=5",
+      "date": "2026-05-01 14:00",
+      "summary": "Reddit rallies as AI‑driven ad growth fuels strong revenue outlook  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSEhMR01fZ3ljTFc1X3IwX0d5Znc3eF9IdlFJamZHeHpVOEpjNUFmQXhCQzVJOGhma05kMFo1aWxoSERUb2NubVpFSXNZLVRxX1djaXoxVlZiR0Qxd2V5X2ZuX0prdmZwdDZYWDlwblVaNkljcmhfdktFcXRYWVZkVkxCeW5JemRkOF9fWlZaR1BveVc2RGhkSEZGVzh5TXV1REhSSjB0d1FWRW5nWnBKWHU2ZTVrRUVhYWZyTUFsNkdxZ9IBxwFBVV95cUxOWDNlYlp5U25mcG5fOFAxd3hEbUVZVWVwTnRZLTVJMDB1c1NZN3JMME95ODd6cDk1dDR3dHVxZE9kUkpySHdLVUZBVm91U1pjdHJhUlAxMEI2cF85MTFWbVBickxUaWpCamJBX29oMkJhTk13Y1lxUHVDWU1xZERfbDZZSkdUUlZ3VExmV2drUHFndXh6cG54OVE2UGoyaHdhVFJtcVl3WVh5THQ0b0VhZ1BKa3ZoQnFnUXY2ZXhuZ1dTeHlkYnVF?oc=5",
-      "date": "2026-04-30 15:59",
-      "summary": "This startup’s new mechanistic interpretability tool lets you debug LLMs  MIT Technology Review..."
+      "title": "Operationalizing AI for Scale and Sovereignty - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlZmbnZIdFU2R1Bsclh4VWw5VDN6OThraUtnWlFlRFh6SDR0SVI1dDhxYnVrMjQ1UFFjbXVHaFl1Q25CZ0FnbUFFYWhyOUIzWkxVTnN4c2ZWdGhCdmlhOElHWkNWLS1iVG9jUGtneWVFaTlseWI3cDd3V3dUaXBqRlFVUko0ci03cHBIOXl2YW5pbEsyMW5qeDlUZWlGMDDSAaQBQVVfeXFMUGxvN0xFWnEtZ0R1NWJ1NGJmaWd3dlRFUW5ncG55YV9rNUJPS0w4T2xoN3V2XzhjR0pwMXlrUlZ3NlVMa3hnLWx4Tk9CaXZKYk02QjVaYUtZaWVfYmRvUGNtUmpfM040QUIxcnhyNWRPMExjUjBGc1J2czAyVHIxQ19lSlRrcUpYYXdMN0oxVi13NVRWcEg1UlZ4YmxGZ0QwYVZwaGI?oc=5",
+      "date": "2026-05-01 15:31",
+      "summary": "Operationalizing AI for Scale and Sovereignty  MIT Technology Review..."
     },
     {
       "title": "The Download: a new Christian phone network, and debugging LLMs - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXZrM1hlbFRCMnBKTUM1Y1pkbDlUeFlEa2RqdElReXVvb3FZRWNSV0k5UnVPWEZsNy02U3hnU1E5dnlYdXlqM09fMG14ZnJaSXB0TFZ4b0ZZdmgydWtkMGRGaUtBbXdXaVFFRGhJRnRGUkxZZzJ2b2laYzhvemNuenJGOXFpbmxGaTNqREhhVEZnNXhybW8xQmVFU0lkV2UxTklVd25Za9IBrAFBVV95cUxQZHN0QWxpQmFUMFU0OGxFd0RvNXhRZ2pSSHJUcmg4YXBtUU5XRnk4V1RUWHNvV0lWdDVyQ3FiQndJLWM3ZmlZRjRWNkxlVWUxaHdrZTJvV1dVSm9JOG1wTkhhODAzUmhoalFwaFA1OUJDODc3VUxvelpFNk0yV2VMWG16SnZIQWptWFlRUzR4NDQ1Z3ZBelVRV3dTSGUtRVoxd0lzeGNObVp4emJN?oc=5",
       "date": "2026-05-01 12:10",
       "summary": "The Download: a new Christian phone network, and debugging LLMs  MIT Technology Review..."
+    },
+    {
+      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSEhMR01fZ3ljTFc1X3IwX0d5Znc3eF9IdlFJamZHeHpVOEpjNUFmQXhCQzVJOGhma05kMFo1aWxoSERUb2NubVpFSXNZLVRxX1djaXoxVlZiR0Qxd2V5X2ZuX0prdmZwdDZYWDlwblVaNkljcmhfdktFcXRYWVZkVkxCeW5JemRkOF9fWlZaR1BveVc2RGhkSEZGVzh5TXV1REhSSjB0d1FWRW5nWnBKWHU2ZTVrRUVhYWZyTUFsNkdxZ9IBxwFBVV95cUxOWDNlYlp5U25mcG5fOFAxd3hEbUVZVWVwTnRZLTVJMDB1c1NZN3JMME95ODd6cDk1dDR3dHVxZE9kUkpySHdLVUZBVm91U1pjdHJhUlAxMEI2cF85MTFWbVBickxUaWpCamJBX29oMkJhTk13Y1lxUHVDWU1xZERfbDZZSkdUUlZ3VExmV2drUHFndXh6cG54OVE2UGoyaHdhVFJtcVl3WVh5THQ0b0VhZ1BKa3ZoQnFnUXY2ZXhuZ1dTeHlkYnVF?oc=5",
+      "date": "2026-04-30 15:59",
+      "summary": "This startup’s new mechanistic interpretability tool lets you debug LLMs  MIT Technology Review..."
     },
     {
       "title": "A new US phone network for Christians aims to block porn and gender-related content - MIT Technology Review",
@@ -247,44 +253,38 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQREFqYy1uZmFzM0I5ZHo4WTRlWExfU2JSQjdQR2RaX1FobUxjMmViTW15VTFLWnppMFJWRTdCWXFzS3NWaV9zVVIyMTJaTlR2ZTJIVDgtQVU2aEdvV2ZyeE51dWY1a1ZjaHphdTRydS0xeklBT1JrNTNLVUxfb1BScHRCZHA1UHJEUVItQ3EzVDdNUFpOUlQ5NzdmY0RrcDZuSUhhanltRTZXd9IBrwFBVV95cUxQRW56cnpkWTk1N3FzNHZpRzhQWndobExWOXJvdnY3S0p6TXhNYnNsNkdPcHJwMVZ6aXloUnNjdG0zd09pOWdOSngtcHFBTFA1SVZONGRRTTA1MTJjcmFINGFGU0pud3VjT1VWbUVKQjYzNmZKRTNxZ0RBSFN5Zk5MWHNDUnpEa2FvNUtBdXljaTZiVUFZNVVSYTBWcURIS0x5V2JLYTRYYjRrdnFFaFFF?oc=5",
       "date": "2026-05-01 09:00",
       "summary": "With mass firing, Trump deals a fresh blow to American science  MIT Technology Review..."
-    },
-    {
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVB2eTlFanBoVlZnZ2hTSmZ4UjhJbDdkNU12Ukstd04waHJKSjdXX01YVXhaZEl1Z29RMHdyM05EcmNhNlIycllMQTNqNnVVcHlPZ0lKTkFuZHdnT3VoenhVaTFMUWJ5UWxrRUNuUkRHMVJRRjNMb2d5cmFuVXNYNTNzTklEMDl4NVJyQXFZZVhpV0JQY0lkaDhOZWFXUjZMNnduQ2JET1QxZm1xNk51VUROV2ktSknSAbwBQVVfeXFMTkpxZ3UwcEFVRUFWNll3bHJfYmVYZXBtcEJZMnpEcUkzWkE2RkRZQm1CbTlLSFE2SV92cTNISUdERXBieENDQzlwTzN4T0NrUEhtMHRJM1Ywc2s5c1BtUEo1UFIxSDBjbGxDU1hhaTBEZE1FSlN1ZDRWT1VubDdjZEFJV2t6dmNLeWdMREdTX25lUmxkNzVjb0FOd0toZWpZUUxZN2RvV3pKS2lCODU0SU11RmRacU0tTEJrTjA?oc=5",
-      "date": "2026-04-27 22:52",
-      "summary": "Elon Musk and Sam Altman are going to court over OpenAI’s future  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Should politics influence science, and vice versa? National Science Board's ousting resurrects an existential debate",
-      "link": "https://phys.org/news/2026-05-politics-science-vice-versa-national.html",
-      "date": "2026-05-01 14:40",
-      "summary": "\"On behalf of President Donald J. Trump,\" read 22 emails sent from the White House Presidential Personnel Office on Friday afterno..."
+      "title": "Explosive evaporation unlocks new possibilities in 3D printing and chemical analysis",
+      "link": "https://phys.org/news/2026-05-explosive-evaporation-possibilities-3d-chemical.html",
+      "date": "2026-05-01 15:40",
+      "summary": "Water droplets might seem simple at first. But when nearing evaporation, a desperate power struggle of competing physical forces c..."
     },
     {
-      "title": "When the Schuylkill swallowed the city: Lessons from Hurricane Ida's historic flood",
-      "link": "https://phys.org/news/2026-05-schuylkill-swallowed-city-lessons-hurricane.html",
-      "date": "2026-05-01 14:40",
-      "summary": "New Penn research shows that Hurricane Ida wasn't a once-in-a-century anomaly but a preview of how climate change, urbanization, a..."
+      "title": "Sentinel-1D goes live: A milestone for Europe's radar mission",
+      "link": "https://phys.org/news/2026-05-sentinel-1d-milestone-europe-radar.html",
+      "date": "2026-05-01 15:40",
+      "summary": "The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical ..."
     },
     {
-      "title": "After flames strip hillsides bare, the next storm can unleash something far more destructive downstream",
-      "link": "https://phys.org/news/2026-05-flames-hillsides-storm-unleash-destructive.html",
-      "date": "2026-05-01 14:20",
-      "summary": "Wildfires can increase flooding risks in and downstream of burned areas by removing vegetation and disturbing hydrologic processes..."
+      "title": "AI tackles one of math's most brutal problems: Inverse PDEs",
+      "link": "https://phys.org/news/2026-05-ai-tackles-math-brutal-problems.html",
+      "date": "2026-05-01 15:20",
+      "summary": "Penn Engineers have developed a new way to use AI to solve inverse partial differential equations (PDEs), a particularly challengi..."
     },
     {
-      "title": "How to talk to children when terrorist attacks and violence dominate the news",
-      "link": "https://phys.org/news/2026-05-children-terrorist-violence-dominate-news.html",
-      "date": "2026-05-01 14:20",
-      "summary": "When a man stabbed Jewish people in Golders Green, London, in what police declared a terrorist incident, the story spread fast—thr..."
+      "title": "'A study showed…' isn't enough—scientific knowledge builds incrementally as researchers revisit questions",
+      "link": "https://phys.org/news/2026-05-isnt-scientific-knowledge-incrementally-revisit.html",
+      "date": "2026-05-01 15:20",
+      "summary": "Your goofy but lovable cousin just told you that you should stop eating eggs because he read somewhere that a study showed they ar..."
     },
     {
-      "title": "Intimate partner violence is a hidden contributor to women's suicide",
-      "link": "https://phys.org/news/2026-05-intimate-partner-violence-hidden-contributor.html",
-      "date": "2026-05-01 14:00",
-      "summary": "Australians are familiar with the disturbing statistics of intimate partner homicide: one Australian woman is killed every 11 days..."
+      "title": "Long-term study of COVID lockdown and family life shows unexpected, lasting effects on fatherhood",
+      "link": "https://phys.org/news/2026-05-term-covid-lockdown-family-life.html",
+      "date": "2026-05-01 15:00",
+      "summary": "In the years following the COVID-19 pandemic, much has been said about how the lockdowns created conditions for dual-parent famili..."
     }
   ],
   "The Guardian Edu": [
