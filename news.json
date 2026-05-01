@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "The exotic particles that could finally break the Standard Model",
+      "link": "https://www.nature.com/articles/d41586-026-01387-x",
+      "date": "2026-05-01 00:00",
+      "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01387-x‘Penguin’ decays from CERN’s latest Large Hadron Collider exp..."
+    },
+    {
       "title": "This organoid can menstruate — and shows how tissue can repair itself",
       "link": "https://www.nature.com/articles/d41586-026-01428-5",
       "date": "2026-05-01 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01288-z",
       "date": "2026-04-30 00:00",
       "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01288-zDamage by certain insects and fungi tends to be greatest in..."
-    },
-    {
-      "title": "An electrifying test to find a good coffee",
-      "link": "https://www.nature.com/articles/d41586-026-01289-y",
-      "date": "2026-04-30 00:00",
-      "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01289-yTechnique determines roast level and strength by applying v..."
     }
   ],
   "Science News": [
@@ -211,10 +211,10 @@
       "summary": "Meta lifts capital expenditure forecast, doubling down on AI push By Reuters  Investing.com..."
     },
     {
-      "title": "Western Digital forecasts quarterly revenue above estimates on AI storage demand - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORGZRa0oycWlMaXFEakh0LUIxRnFfRTI5R3pZQXNXZXJmSzNhSXpIcWJTRmgyUkZ2THY0VzVWeUJDT180RXlBdTUzYzdwWGxVTGIxczN3LVM1aWxxMS1JdDQzYXNRQ2NOTnIwY0RtZkpudkthUjhxbzVXbzR6dzhaQXBqczBWaVl3bVgtSk14Ty1BR082cGxBQ21COGp0a2IxdjE2NDlldjh6SUFXSXAyejlxRWh0Y2Jfd3VDY1c1NA?oc=5",
-      "date": "2026-04-30 22:23",
-      "summary": "Western Digital forecasts quarterly revenue above estimates on AI storage demand  Reuters..."
+      "title": "Sandisk joins Western Digital, Seagate in signaling strong AI storage demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVk9WM0NFMUdRa19kelhOQl9udlFCV3lybzVfNmtYTzNQbnQyZHlyajFOZHM1WXZpcFczSjJiejRqaXA2bm9sWF9TSEtUMjk0dml3WkpvLVRVY295RmNxdHJvczBiOU93TzdmRk45TTVDYVVjbzRYdG0xQ3h3U1R5VHJlblpvNThSX0pBV1JBMzhULTR0WUhXSmZMU0hwLVF0Q1I4VjlrX193b0laUnpFYTl5VUVFYmYz?oc=5",
+      "date": "2026-04-30 22:22",
+      "summary": "Sandisk joins Western Digital, Seagate in signaling strong AI storage demand  Reuters..."
     },
     {
       "title": "Huawei expects AI chip revenue to jump at least 60% this year, FT reports - Reuters",
@@ -231,6 +231,12 @@
       "summary": "This startup’s new mechanistic interpretability tool lets you debug LLMs  MIT Technology Review..."
     },
     {
+      "title": "With mass firing, Trump deals a fresh blow to American science - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQREFqYy1uZmFzM0I5ZHo4WTRlWExfU2JSQjdQR2RaX1FobUxjMmViTW15VTFLWnppMFJWRTdCWXFzS3NWaV9zVVIyMTJaTlR2ZTJIVDgtQVU2aEdvV2ZyeE51dWY1a1ZjaHphdTRydS0xeklBT1JrNTNLVUxfb1BScHRCZHA1UHJEUVItQ3EzVDdNUFpOUlQ5NzdmY0RrcDZuSUhhanltRTZXd9IBrwFBVV95cUxQRW56cnpkWTk1N3FzNHZpRzhQWndobExWOXJvdnY3S0p6TXhNYnNsNkdPcHJwMVZ6aXloUnNjdG0zd09pOWdOSngtcHFBTFA1SVZONGRRTTA1MTJjcmFINGFGU0pud3VjT1VWbUVKQjYzNmZKRTNxZ0RBSFN5Zk5MWHNDUnpEa2FvNUtBdXljaTZiVUFZNVVSYTBWcURIS0x5V2JLYTRYYjRrdnFFaFFF?oc=5",
+      "date": "2026-05-01 09:00",
+      "summary": "With mass firing, Trump deals a fresh blow to American science  MIT Technology Review..."
+    },
+    {
       "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVB2eTlFanBoVlZnZ2hTSmZ4UjhJbDdkNU12Ukstd04waHJKSjdXX01YVXhaZEl1Z29RMHdyM05EcmNhNlIycllMQTNqNnVVcHlPZ0lKTkFuZHdnT3VoenhVaTFMUWJ5UWxrRUNuUkRHMVJRRjNMb2d5cmFuVXNYNTNzTklEMDl4NVJyQXFZZVhpV0JQY0lkaDhOZWFXUjZMNnduQ2JET1QxZm1xNk51VUROV2ktSknSAbwBQVVfeXFMTkpxZ3UwcEFVRUFWNll3bHJfYmVYZXBtcEJZMnpEcUkzWkE2RkRZQm1CbTlLSFE2SV92cTNISUdERXBieENDQzlwTzN4T0NrUEhtMHRJM1Ywc2s5c1BtUEo1UFIxSDBjbGxDU1hhaTBEZE1FSlN1ZDRWT1VubDdjZEFJV2t6dmNLeWdMREdTX25lUmxkNzVjb0FOd0toZWpZUUxZN2RvV3pKS2lCODU0SU11RmRacU0tTEJrTjA?oc=5",
       "date": "2026-04-27 22:52",
@@ -243,19 +249,19 @@
       "summary": "Three reasons why DeepSeek’s new model matters  MIT Technology Review..."
     },
     {
-      "title": "The Download: the North Pole’s future and humanoid data - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTUEwa3FYWjR3ejBJUWlxRFhmTHJ2ZGNPemRUQ2ZUdFBvUk04ZEpVNUlKN3hwdWwwQWVaS1FyNjJHazQxaGxkSnNlOFpyZDhqeFJITHlSdDgtU1o3S1pBbnU2cnk1c3l1ZGtleFJVSzd4T0QxVkxPU3NOeTF1VGpnSVE2Q3JvaU53eVNxb1FoZlZaSUNqSDdNN0s4MU9kZ9IBowFBVV95cUxQZjE4anpEYVF1VW1TaDNlU2trNDd3VFlBOWFGWWtvOU1jYmhpaTF0YVFSbTdvbk56S1pxSzhmNDU5T19LZnA5S0ZJRFVPNFE3MkpjVzBOY2pTZnhrQ1V4dkw4cFFiYjdJZzZhZXA3SkczTDFmNWZvdXQybmx0S09abkVyMFZwMDRpdXcyelRMalBIWmc0MTNDcTROb3REVm9FLXZ3?oc=5",
-      "date": "2026-04-30 12:10",
-      "summary": "The Download: the North Pole’s future and humanoid data  MIT Technology Review..."
-    },
-    {
-      "title": "Health-care AI is here. We don’t know if it actually helps patients. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGt2SFRCOF9nU2dqUFhDVWFSVy1jdDhkNUJtSDNKeUliM0RneXRuTC15TVM1TnBoZXI2dEF4ZWhGQTRidnE2TG5faWZpckhhS01lMG1XUTZ4ZGlWWTM1S1JZS3M0ZDR6d1lKcC1mOGNDdkRZUEp6WS1mUkhjNFI3ZWVoSm5Za1BWd0pUcDB1MEZXZk5uRmZIYS1PSXR0dm1oZ3ZF0gGoAUFVX3lxTFAtZXQ3b0dXbmw5VTE1a0l5LXY3N2JlSHlwV2o5ZmwyUXd2bEZRU1k3Z2dkMXpReHFDdEQ4ZzNDYksxTTlnZ0wyekxrSUNMYTJGWk44dDA1ajRvSlBJNlZYbHdlYm5WUkZHQjhnMWkzOU9GakE4cjJtOE1aVmZ5cHpXVm1uRFJFNGRkVUZIWURDdG1uNms3ZkktdXV2QVVzSkFmdDFrLVlFag?oc=5",
-      "date": "2026-04-24 09:00",
-      "summary": "Health-care AI is here. We don’t know if it actually helps patients.  MIT Technology Review..."
+      "title": "The missing step between hype and profit - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVY4WHVDWWMzNWZVTV9yUWl3QW45OEVMUHplalc5VzNhLU9NZ18tX0lzQVkxUWxJY1otc1ZoYjJlQ0U5M0EzV01DWU50SWZkR0hOeHlqY05LVmVJQmh1N29EWjMxX1hpTjhBMG9xZ3dKSXlfQXlBVmxNZ3hOVXlmVFVEcVM3eW1CS0FhaFNSN0hsaWQ3ZjNEV9IBngFBVV95cUxPSndmRW54dF84b2xvdGRKZU9GZ19fR19oNHl6RW5rNUV0ajhPTDhwdDFPOUNKcWU0R21YM09vQkVhejR0RnVhQ3QxWVhmQXlzX2lldnFiSkJVNmVsVEhVQUdUVGVrYUVkQnlKVF90Tzd3SGNMc3VpNzBFelpkaWVWbkx1R2E3SzNGMlRfdUpoWmQ2VzRNTG04X19kNE4xUQ?oc=5",
+      "date": "2026-04-27 16:13",
+      "summary": "The missing step between hype and profit  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "How oak trees outwit their predators",
+      "link": "https://phys.org/news/2026-04-oak-trees-outwit-predators.html",
+      "date": "2026-05-01 09:00",
+      "summary": "Spring in the forest: Many insects, particularly caterpillars, hatch just when the trees' nutrient-rich leaves are still young and..."
+    },
     {
       "title": "India's cows offer biogas alternative to Mideast energy crunch",
       "link": "https://phys.org/news/2026-05-india-cows-biogas-alternative-mideast.html",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-04-rich-ai-exposing-digital.html",
       "date": "2026-05-01 04:10",
       "summary": "The widespread adoption of artificial intelligence (AI)—particularly in \"hidden\" everyday applications—is creating a new and disti..."
-    },
-    {
-      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
-      "link": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
-      "date": "2026-05-01 02:40",
-      "summary": "One of the most powerful radar systems ever launched into space has mapped the ground moving beneath one of the fastest subsiding ..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Man arrested in Hong Kong after police seize HK$800,000 of suspected heroin",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352154/man-arrested-hong-kong-after-police-seized-hk800000-worth-suspected-heroin?utm_source=rss_feed",
+      "date": "2026-05-01 09:41",
+      "summary": "Hong Kong police have arrested a 44-year-old man for allegedly trafficking more than HK$800,000 (US$102,110) of suspected heroin.\n..."
+    },
+    {
+      "title": "Online sales of e-cigarettes persist in Hong Kong despite ban",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3352152/hong-kong-steps-enforcement-online-e-cigarette-sales-continue-despite-ban?utm_source=rss_feed",
+      "date": "2026-05-01 09:30",
+      "summary": "Sales of vaping products persist on some online platforms delivering to Hong Kong despite a ban on the import, sale and public use..."
+    },
+    {
       "title": "Hong Kong’s East Dam draws thousands for ‘golden week’ as lawmaker floats entry fee",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352145/hong-kongs-east-dam-draws-thousands-golden-week-lawmaker-floats-entry-fee?utm_source=rss_feed",
       "date": "2026-05-01 08:56",
@@ -333,25 +345,19 @@
       "summary": "Hong Kong residents flocked to Shenzhen on Friday, drawn by ‘better service’ at restaurants and family-friendly attractions as the..."
     },
     {
-      "title": "‘Never knew there were corals,’ visitors say after learning about Sharp Island’s reefs",
+      "title": "Visitors warned over removing crabs, shells from Hong Kong’s Sharp Island",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352121/labour-day-tourists-gain-deeper-awareness-corals-amid-government-promotion-push?utm_source=rss_feed",
       "date": "2026-05-01 05:52",
-      "summary": "Mainland Chinese tourists may have come for the tombolo on Sharp Island in Sai Kung but left with a deeper understanding of Hong K..."
-    },
-    {
-      "title": "Mainland Chinese tourists make 76,056 trips to Hong Kong on Labour Day morning",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3352119/golden-week-opens-76056-mainland-visitors-flooding-hong-kong-hikes-city-walks?utm_source=rss_feed",
-      "date": "2026-05-01 05:40",
-      "summary": "Hong Kong recorded more than 76,000 trips by mainland Chinese visitors on the first morning of the five-day Labour Day “golden wee..."
-    },
-    {
-      "title": "Gold, cruises and Dior: how Hong Kong lenders are enticing wealthy mainland China visitors",
-      "link": "https://www.scmp.com/business/banking-finance/article/3352097/gold-cruises-and-dior-how-hong-kong-lenders-are-enticing-wealthy-mainland-china-visitors?utm_source=rss_feed",
-      "date": "2026-05-01 05:30",
-      "summary": "Gold bars, cruises, Dior beauty services and Rosewood Hong Kong vouchers are just some of the incentives Hong Kong’s major lenders..."
+      "summary": "About a dozen visitors were seen removing small crabs and shells from a tombolo on Hong Kong’s Sharp Island on Friday, the first d..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "The rings of Uranus are even stranger than we thought",
+      "link": "https://www.newscientist.com/article/2524832-the-rings-of-uranus-are-even-stranger-than-we-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-01 08:00",
+      "summary": "Uranus’s outermost two rings are surprisingly dissimilar, which opens up a mystery about the tiny moons and moonlets that form the..."
+    },
     {
       "title": "'Green' cryptocurrency uses 18 times more energy than makers claim",
       "link": "https://www.newscientist.com/article/2523912-green-cryptocurrency-uses-18-times-more-energy-than-makers-claim/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2524895-human-heads-have-changed-shape-a-lot-in-the-past-100-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-04-30 15:00",
       "summary": "Since the early 20th century, people’s skulls have got rounder and their jaws have got wider, probably because of changes in healt..."
-    },
-    {
-      "title": "Doubts cast over 'wild' claim that magnetic control can turn on genes",
-      "link": "https://www.newscientist.com/article/2524432-doubts-cast-over-wild-claim-that-magnetic-control-can-turn-on-genes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-04-30 12:00",
-      "summary": "Researchers in South Korea say they have made a major advance by turning on genes with an electromagnetic signal, but critics say ..."
     }
   ]
 }
