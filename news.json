@@ -45,12 +45,6 @@
       "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     },
     {
-      "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
-      "date": "2026-02-20 08:00",
-      "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
-    },
-    {
       "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
       "date": "2025-10-23 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
       "date": "2025-09-30 07:00",
       "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
+    },
+    {
+      "title": "Harvard Impact Labs awards $1.4M to launch research projects to tackle urgent social problems - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN2JTWG1GVUJucGFJMzdOaDRWUkhiRkoxR18yWm9PdTRVU2E0Z1hnR3hLa25LSVY1Q3JBeFVXeXBRY0wyaUNMaUpCaGtCdkR4bkd0dk9PekV1WS1aRW93OE5CUWNJbGtSUHJ6dEFJNVF0dVpDZTh1WVdGRVFNQ0pVanhpZGljbVlvSDRRV1p3V0lBZDZZSS1yald3ekVyaTQzUnhQLV9fc1BVRzlQT0FkeWJwYnNhai1RNGxtQUR3bk5BVnhBSS1nUEFLWW81MUE4Wl91LXMxTHI?oc=5",
+      "date": "2026-01-29 08:00",
+      "summary": "Harvard Impact Labs awards $1.4M to launch research projects to tackle urgent social problems  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -83,10 +83,10 @@
       "summary": "Exclusive | Stanford University under federal investigation for DEI teacher program  New York Post..."
     },
     {
-      "title": "Social scientists embrace the AI moment - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3hpMTJRQ1loeVQwZDVxYkw3bGhnbVc0Q21TU3hDX040d0FKN0pRMVhNOWRjalo2OWFXMHpuWmtyOVBMTkd0OVAyOWxiS0lBZWU4WjM5U29qektrVzBudW53Q2Q5WGZ5WXNIVVhZSlBEN1BZdy1ObHJfSWpOd0RaMzluV3E?oc=5",
-      "date": "2026-04-24 07:00",
-      "summary": "Social scientists embrace the AI moment  Stanford Report..."
+      "title": "Visionary philanthropist Steven Denning has died - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BcjgtSE1iZlU4bV9wd3dSNzY2QmxmMjd2ODl2QTQzQzdOMjU2M1RaT1BxZ2MxdElGVXdObW9NZ19tQXFhSjJGQlNGSk4tS1pNLUFqMjc2c0o3aFVaOGJYT2NYVEowSU1rUmI4NjlwNEx0bms?oc=5",
+      "date": "2026-04-29 22:40",
+      "summary": "Visionary philanthropist Steven Denning has died  Stanford Report..."
     },
     {
       "title": "Giovanni Tempesta, whose Italian classes were a top draw at Stanford for decades, dies at 76 - San Francisco Chronicle",
@@ -193,22 +193,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "Amazon tops cloud expectations on strong AI demand, shares rise - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUk9JdVVkT1VwYXNEM3Fqc1FXSHpRZ19neTZBTHZleG1jVFQ4ZVAtbTRGT0JGOXBKa3QtdmNvY3JDTGl5NEc0U2U0dHlUYWlBYjJIcmhvY1B2cjFEUDEweDJGbjJsbGVjbDRONkFCTjJ4SHN3MGFXcFJSa1JFTmhMZXdZb2VpR0ROR3JMR0tOY0RJZnFOUmNOcGRPNkVLa0pfQ3RQZHI5NXl2QQ?oc=5",
-      "date": "2026-04-29 23:12",
-      "summary": "Amazon tops cloud expectations on strong AI demand, shares rise  Reuters..."
+      "title": "Meta's fall shows punters crave clearer AI payoff - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVFMdmpNWFo1NWZNQm11azk3OXlTVDB1NTRyVFFiSThmWE9sMmt6ZWlFS2NVYmdsaDFyV0xOc05iaGVLeUQxVXhKcDZVMDBSTnJyYzN2QS0wZEtKN1I1WVZ2blJ6UFBwYnRzMUt6SEx1OGZvWDVvU0dfclRXdHVYRXVhMm45aE1OUUxyZ0tDeWJ4dWVwMDBhRGZJS1BXNzFDTHNz?oc=5",
+      "date": "2026-04-30 18:41",
+      "summary": "Meta's fall shows punters crave clearer AI payoff  Reuters..."
     },
     {
-      "title": "Meta shares fall on concerns over AI spending, legal scrutiny - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFNSQmtUam5teWJnNHNkcDVSSHVwbGl4d0luVzYwSUxaVnVpcVNmcW9LcXFGZ1IyWWxsZ1VPbmJ4N0FrR1ZXbkFfZG16cUJYQUFSdnhmdU95TUVXaUstaWF3M1drcXVDbHRjVlZVMTUwY3h0VnhhMVEycnRWbC1TNElfamZrNDlXQjNGbTg0dGN0MEN6ZDYwSDgtLUV6MW5HcXlDdlEtQmxJQQ?oc=5",
-      "date": "2026-04-29 20:05",
-      "summary": "Meta shares fall on concerns over AI spending, legal scrutiny  Reuters..."
+      "title": "Alphabet revenue tops expectations on record quarter for cloud unit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGtaR1g4ZGZaM1lyUzIxZDJlQU0tWDlHaC1SLU1fYmZnNC1ndEVKdWdLXzZDTzRGMDVVM25FTE0yd1ZOZHR5Q3NCcTNaSTN1TDhVVDVTNVpxeUhKaV93MzJ2WmlONk1fTnM5OVc3b0t1YjNWZklCQUZ5X29mZnkwYWNxYTMyM2todk9QVnh6dTBmYS12bFNKS21uRkhUOWZ2eEtobFpQSHJzLUJYYW8wc0dwQVA2LTQ?oc=5",
+      "date": "2026-04-29 23:13",
+      "summary": "Alphabet revenue tops expectations on record quarter for cloud unit  Reuters..."
     },
     {
-      "title": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock - Bloomberg.com",
+      "title": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0t2QzA2cTBhTEYzXzR5ZWlQRjNGbTczUlEzX1hDYzcwdE44S2d6YTRsZ1FMdDlVb1lyOTVycURTMm81b0RmcF9OYUJlakxESDVGT3E4TkJIcTY0ZTM0VmNCeU1LVXBGcjdnbW82Q1QyMHV2ZWhmWEhWekN4NS1kVTRxYTFHQWQ1Qk82TUg0ZDlVQkpiTUFYMHo4dGp4Z3VWNHB1enpFOXNCQ0ZPSUd2MzdMbWI?oc=5",
       "date": "2026-04-30 18:33",
-      "summary": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock  Bloomberg.com..."
+      "summary": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock  Bloomberg..."
     },
     {
       "title": "Meta lifts capital expenditure forecast, doubling down on AI push By Reuters - Investing.com",
@@ -217,10 +217,10 @@
       "summary": "Meta lifts capital expenditure forecast, doubling down on AI push By Reuters  Investing.com..."
     },
     {
-      "title": "Google Cloud pulls ahead as Big Tech's AI bet swells to $700 billion - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVNydmRzT0dCVEZ3OEkzVDdnWW4tZFZJMU5zVTRMSE9ZNS1kRF9BTFFVbjJaMUItbnJZZEdyTjFUT014RmFVRUIzTkltdHljaFRiUHdnRHZDdjN6Z1NRbTVQMmFqMXE1d2dEN0hfdmw0SEl4Y2RrQmdGTnZHYUhjMFBNUzBJaFhES2RBcEtEbmpLVHVkR3VkZkFsb1dDQ1U5dFJ0dW9lVnh3VHhUNWZWN212a3pjS3UtM2gwd2ln?oc=5",
-      "date": "2026-04-30 14:51",
-      "summary": "Google Cloud pulls ahead as Big Tech's AI bet swells to $700 billion  Reuters..."
+      "title": "Sandisk joins Western Digital, Seagate in signaling strong AI storage demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVk9WM0NFMUdRa19kelhOQl9udlFCV3lybzVfNmtYTzNQbnQyZHlyajFOZHM1WXZpcFczSjJiejRqaXA2bm9sWF9TSEtUMjk0dml3WkpvLVRVY295RmNxdHJvczBiOU93TzdmRk45TTVDYVVjbzRYdG0xQ3h3U1R5VHJlblpvNThSX0pBV1JBMzhULTR0WUhXSmZMU0hwLVF0Q1I4VjlrX193b0laUnpFYTl5VUVFYmYz?oc=5",
+      "date": "2026-04-30 22:22",
+      "summary": "Sandisk joins Western Digital, Seagate in signaling strong AI storage demand  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -249,13 +249,31 @@
       "summary": "Elon Musk and Sam Altman are going to court over OpenAI’s future  MIT Technology Review..."
     },
     {
-      "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU1pHcEZraS1vSHh2VGtKRk5LZ21NUmctRm15YXRDTkIxRUJ1eHl2czVwNmtVNksycXBxaXNLcWpUYmxHUlBSZUoySUNxajgwM18wX1Y0T3AtNHFRU1RMcFZjYVdCVEUxRk90RGNTcVpfNUFhTmxKa1Z1VTV1Q2V4R2RFQVd6ZmhfUGYtWnVsOHZTVk1WX2Fqbm9sZ2tOcXU0WEpUcklRdWg5ZFBROXloajV5dnVNMENJTS1tcmd2ZTZjWUdicFl3UllhRm8?oc=5",
-      "date": "2026-04-30 18:42",
-      "summary": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones  MIT Technology Review..."
+      "title": "Three reasons why DeepSeek’s new model matters - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzNrdWNGN1EyM2pNR1pBUnhaT3hHYk1nZXhXMzVKUXB3T09za2dCTXZYMDRvdVpEUnZRUnRhYnRwdV9OTFpST3VQbTktdndyYklBWjk3M2RicUx2MnJUaWtGMkUzQS1qZjNXWmI2cFZ5bEVnUk00WHRJN3I5R3FfeWs2VdIBiAFBVV95cUxNTk4tcnJDa0tDV2s2cGlnZGdJZXBNUnFXajFhUjJpVjQ5NzA2UWJUaVZwTEZtd0k0d3dRdEl0MVNHS0R1MElBNHQxWjdzS2VnX0VFQVQyM1lqX05tOVNmU2djTEY2WTM3Ujk3bXBTZ2pmNE9KekVrWWVqa2hUTjhncEZ1bEw4MjJs?oc=5",
+      "date": "2026-04-24 21:40",
+      "summary": "Three reasons why DeepSeek’s new model matters  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
+      "link": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
+      "date": "2026-05-01 02:40",
+      "summary": "One of the most powerful radar systems ever launched into space has mapped the ground moving beneath one of the fastest subsiding ..."
+    },
+    {
+      "title": "Overcoming the algorithmic gender bias in AI‑driven personal finance",
+      "link": "https://phys.org/news/2026-04-algorithmic-gender-bias-aidriven-personal.html",
+      "date": "2026-05-01 01:40",
+      "summary": "Artificial intelligence is transforming our world and financial services are no exception. AI is reshaping the personal banking se..."
+    },
+    {
+      "title": "From smoking to stigma: How screen stories influence health",
+      "link": "https://phys.org/news/2026-04-stigma-screen-stories-health.html",
+      "date": "2026-05-01 00:40",
+      "summary": "What people see on screen can shape what they do off it. When actors such as James Dean and Marlon Brando lit cigarettes in 1950s ..."
+    },
     {
       "title": "Twisting water reveals hidden order across four molecular layers at air-water interface",
       "link": "https://phys.org/news/2026-04-reveals-hidden-molecular-layers-air.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-04-real-teamwork-dashboards-backfire-collaboration.html",
       "date": "2026-04-30 23:40",
       "summary": "As digital tools become more common in teamwork, many organizations hope they can help teams collaborate more effectively. But a n..."
-    },
-    {
-      "title": "Integrated land planning could ease food, energy and biodiversity conflicts worldwide",
-      "link": "https://phys.org/news/2026-04-ease-food-energy-biodiversity-conflicts.html",
-      "date": "2026-04-30 23:20",
-      "summary": "While the world is a big place, humans are making greater and greater demands on the same areas of land. \"This means that, unless ..."
-    },
-    {
-      "title": "Heat and cold alter how animals fight disease. As the climate changes, this knowledge may be vital",
-      "link": "https://phys.org/news/2026-04-cold-animals-disease-climate-knowledge.html",
-      "date": "2026-04-30 23:00",
-      "summary": "Each animal species has an optimal temperature at which it can metabolize food and its immune system can best fight off pathogens...."
-    },
-    {
-      "title": "DAMPE satellite reveals cosmic rays share spectral break near 15 teravolts",
-      "link": "https://phys.org/news/2026-04-dampe-satellite-reveals-cosmic-rays.html",
-      "date": "2026-04-30 22:40",
-      "summary": "A century after their discovery, cosmic rays—particles of extreme energy originating from the far reaches of the universe—remain a..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong slams attempts to sugarcoat Jimmy Lai’s criminal acts in press freedom index",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3352096/hong-kong-slams-attempts-sugarcoat-jimmy-lais-criminal-acts-press-freedom-index?utm_source=rss_feed",
+      "date": "2026-05-01 02:55",
+      "summary": "The Hong Kong government has condemned attempts by anti-China forces and foreign media to sugarcoat the criminal acts of jailed fo..."
+    },
+    {
+      "title": "Why governments beyond Hong Kong are wary of prediction markets",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3351875/why-governments-beyond-hong-kong-are-wary-prediction-markets?utm_source=rss_feed",
+      "date": "2026-05-01 01:30",
+      "summary": "After winning legislative backing for the Hong Kong Jockey Club to offer basketball betting – an initiative aimed at drawing punte..."
+    },
+    {
+      "title": "Yacht tourists, hikers drive ‘golden week’ optimism for Hong Kong eateries",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352073/yacht-tourists-hikers-drive-golden-week-optimism-hong-kong-eateries?utm_source=rss_feed",
+      "date": "2026-05-01 00:30",
+      "summary": "Hong Kong’s catering sector and hoteliers are expecting a business boost during the Labour Day “golden week” holiday from May 1 to..."
+    },
+    {
       "title": "Hong Kong public hospitals to extend time for daily visits from 5 to 9 hours by July 31",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3352044/hong-kong-public-hospitals-extend-time-daily-visits-5-9-hours-july-31?utm_source=rss_feed",
       "date": "2026-04-30 23:00",
@@ -331,24 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3352067/tai-po-fire-tendering-system-cant-stop-firms-manipulating-market-inquiry-hears?utm_source=rss_feed",
       "date": "2026-04-30 13:04",
       "summary": "An official tendering system designed to curb anti-competitive conduct is powerless to combat engineering firms colluding to manip..."
-    },
-    {
-      "title": "Hong Kong homebuyers flock to new launches as flats sell out swiftly",
-      "link": "https://www.scmp.com/business/article/3352063/hong-kong-homebuyers-flock-new-launches-flats-sell-out-swiftly?utm_source=rss_feed",
-      "date": "2026-04-30 12:35",
-      "summary": "Hong Kong homebuyers snapped up most of the new flats released on Thursday, with developers beginning to ramp up new construction ..."
-    },
-    {
-      "title": "A world adrift looks to China for institutional anchors. Enter Hong Kong",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3351722/world-adrift-looks-china-institutional-anchors-enter-hong-kong?utm_source=rss_feed",
-      "date": "2026-04-30 12:30",
-      "summary": "The international order is under mounting strain. In recent years, unilateralism, protectionism and the selective application of i..."
-    },
-    {
-      "title": "Former executive of Hong Kong’s insurance regulator acquitted of misconduct",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352057/former-executive-hong-kongs-insurance-regulator-acquitted-misconduct?utm_source=rss_feed",
-      "date": "2026-04-30 11:36",
-      "summary": "A former executive director of Hong Kong’s Insurance Authority has been acquitted of misconduct after she was alleged to have coer..."
     }
   ],
   "New Scientist": [
