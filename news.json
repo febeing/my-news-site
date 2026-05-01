@@ -51,16 +51,16 @@
       "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
     },
     {
+      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
+      "date": "2026-04-09 07:00",
+      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
+    },
+    {
       "title": "Crossing line between good and bad anxiety - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
       "date": "2025-09-30 07:00",
       "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
-    },
-    {
-      "title": "Harvard Impact Labs awards $1.4M to launch research projects to tackle urgent social problems - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN2JTWG1GVUJucGFJMzdOaDRWUkhiRkoxR18yWm9PdTRVU2E0Z1hnR3hLa25LSVY1Q3JBeFVXeXBRY0wyaUNMaUpCaGtCdkR4bkd0dk9PekV1WS1aRW93OE5CUWNJbGtSUHJ6dEFJNVF0dVpDZTh1WVdGRVFNQ0pVanhpZGljbVlvSDRRV1p3V0lBZDZZSS1yald3ekVyaTQzUnhQLV9fc1BVRzlQT0FkeWJwYnNhai1RNGxtQUR3bk5BVnhBSS1nUEFLWW81MUE4Wl91LXMxTHI?oc=5",
-      "date": "2026-01-29 08:00",
-      "summary": "Harvard Impact Labs awards $1.4M to launch research projects to tackle urgent social problems  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -97,6 +97,18 @@
   ],
   "Nature Careers": [
     {
+      "title": "The imperfect legacy",
+      "link": "https://www.nature.com/articles/d41586-026-01075-w",
+      "date": "2026-05-01 00:00",
+      "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01075-wNot a bug, but a feature...."
+    },
+    {
+      "title": "US faculty members report high levels of anxiety",
+      "link": "https://www.nature.com/articles/d41586-026-01252-x",
+      "date": "2026-05-01 00:00",
+      "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01252-xSurveys show the importance of social, familial and structura..."
+    },
+    {
       "title": "The exotic particles that could finally break the Standard Model",
       "link": "https://www.nature.com/articles/d41586-026-01387-x",
       "date": "2026-05-01 00:00",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10587-4",
       "date": "2026-04-30 00:00",
       "summary": "Nature, Published online: 30 April 2026; doi:10.1038/s41586-026-10587-4Continuously graded-doped SnO2 for efficient n–i–p perovski..."
-    },
-    {
-      "title": "Blood test hints at breast-tumour response to treatment",
-      "link": "https://www.nature.com/articles/d41586-026-01353-7",
-      "date": "2026-04-30 00:00",
-      "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01353-7A biomarker shows which people with certain types of breast..."
-    },
-    {
-      "title": "Forest pests hit trees hard as temperatures rise",
-      "link": "https://www.nature.com/articles/d41586-026-01288-z",
-      "date": "2026-04-30 00:00",
-      "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01288-zDamage by certain insects and fungi tends to be greatest in..."
     }
   ],
   "Science News": [
@@ -193,48 +193,54 @@
   ],
   "Reuters AI": [
     {
+      "title": "Hyperscaler results pose major test for AI-driven US stock market - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGVBLU5Oekh0b3BLUllQdTFmTVcwekNYd2NDdDJEZmRMVU1EcTdiN01UUzUzeFhpODZEYWxtVGZKZ0NWTjFSTG83RkZzMDJOQWpXdl8wMnVlNElFd3pFUGRLdnRHeERoYzlROTN6N3BDM2otNmZDR2ZPYzJLei1PWi1ibTVoWWxtR3ZObGhwYmhQWmVURXZJczNEaUN3bkpZcTZKdmt1TWZmM09WM091R3NybGRxa1hwVGhocFlOVQ?oc=5",
+      "date": "2026-04-29 10:32",
+      "summary": "Hyperscaler results pose major test for AI-driven US stock market  Reuters..."
+    },
+    {
+      "title": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0t2QzA2cTBhTEYzXzR5ZWlQRjNGbTczUlEzX1hDYzcwdE44S2d6YTRsZ1FMdDlVb1lyOTVycURTMm81b0RmcF9OYUJlakxESDVGT3E4TkJIcTY0ZTM0VmNCeU1LVXBGcjdnbW82Q1QyMHV2ZWhmWEhWekN4NS1kVTRxYTFHQWQ1Qk82TUg0ZDlVQkpiTUFYMHo4dGp4Z3VWNHB1enpFOXNCQ0ZPSUd2MzdMbWI?oc=5",
+      "date": "2026-04-30 18:33",
+      "summary": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock  Bloomberg.com..."
+    },
+    {
+      "title": "Pentagon reaches agreements with leading AI companies By Reuters - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT183b0VNcDBnOUxmOHFWVVF5OUxDN0tUR2gtaFdfR2h5M2I5bk9xaTYxT01USUVFYkxham1ud3BLZkVhbG1velZiNlZ0ZzRJSlVCRnMybUlUeVVueGJFRnZmNHRoOTlrbG9zU3l0UXgxa2JQVDhHN2s4NnNYMFJwMDNyU0dBUWlmazRuTHZpWmJxOFc2aS1QZkpiMVdNSDEtejFoV280MnJmVVVhWWcw?oc=5",
+      "date": "2026-05-01 12:45",
+      "summary": "Pentagon reaches agreements with leading AI companies By Reuters  Investing.com..."
+    },
+    {
+      "title": "US Navy turns to AI firm Domino for options to counter Iranian mines - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM2R2Y3hKbjZCenhTOG44Ukk0SFJBS080RHZTa0wyMVUtQnN6cWphU180akg5MVNFMTAxdTlFbkNqZ3B6d1NoWC1VVllMSzFPbDV1bEk4cVJwTnZYM3ZBZVJuTVY5cl9mTXMyM1htbmVVejh1VFpGWlUwOERKUjRHMFFRX1pqWlBtOF9yV2dXOFdPRnZBT1FxSHpSaVNIOUtlOU1xa0pHcTI2VGJXZHZ3eU5B?oc=5",
+      "date": "2026-05-01 10:16",
+      "summary": "US Navy turns to AI firm Domino for options to counter Iranian mines  Reuters..."
+    },
+    {
       "title": "Huawei expects AI chip revenue to jump at least 60% this year, FT reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUNrbk1aeXBSM2cxc1d0TW1vXzYtRFFTejVKSnBhTFpuV3RFM3lPaFZqNnpSWGhnRll5eUZTbGJpd2xMeWV6VzZEUzlnSjlZV3UxaVkzSmVRQkpsdU93ZWhlZnYyb2tTV192QlNpaEhNc3VuSVUyYXN4c3R5cGxPTWlxdzVwOVhDbktDcnlNZHdvZ3o0TkV2dktKY2t0S0x0VVRiUF9CTFI4TTJvWF9BR2JlRQ?oc=5",
       "date": "2026-05-01 00:51",
       "summary": "Huawei expects AI chip revenue to jump at least 60% this year, FT reports  Reuters..."
-    },
-    {
-      "title": "Meta's fall shows punters crave clearer AI payoff - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVFMdmpNWFo1NWZNQm11azk3OXlTVDB1NTRyVFFiSThmWE9sMmt6ZWlFS2NVYmdsaDFyV0xOc05iaGVLeUQxVXhKcDZVMDBSTnJyYzN2QS0wZEtKN1I1WVZ2blJ6UFBwYnRzMUt6SEx1OGZvWDVvU0dfclRXdHVYRXVhMm45aE1OUUxyZ0tDeWJ4dWVwMDBhRGZJS1BXNzFDTHNz?oc=5",
-      "date": "2026-04-30 18:41",
-      "summary": "Meta's fall shows punters crave clearer AI payoff  Reuters..."
-    },
-    {
-      "title": "Reddit rallies as AI‑driven ad growth fuels strong revenue outlook - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdk5ZUGZOM1ZEeVhva3ZsTEVadW1OWFMzcU16Mkdfb3p1VUZ1WTJkeE9VYU9wdkctVkp0UGc4YkNST3BWWWFzTkpsQ0wyeWIzTklPUnlQTnRnT1l1MVpkMktJbG9DSmZYc2JUX1V1S1NnUFh1dXY1bkpqOUJQaDRsaUVlU09HQVViZ01EYk5vcjBrRHFjd1ItREtHZ1Q1a2NjcmptX3ZSaUVua1hWQVJJald1NHd1R3ZJWndkNUJR?oc=5",
-      "date": "2026-05-01 09:24",
-      "summary": "Reddit rallies as AI‑driven ad growth fuels strong revenue outlook  Reuters..."
-    },
-    {
-      "title": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0t2QzA2cTBhTEYzXzR5ZWlQRjNGbTczUlEzX1hDYzcwdE44S2d6YTRsZ1FMdDlVb1lyOTVycURTMm81b0RmcF9OYUJlakxESDVGT3E4TkJIcTY0ZTM0VmNCeU1LVXBGcjdnbW82Q1QyMHV2ZWhmWEhWekN4NS1kVTRxYTFHQWQ1Qk82TUg0ZDlVQkpiTUFYMHo4dGp4Z3VWNHB1enpFOXNCQ0ZPSUd2MzdMbWI?oc=5",
-      "date": "2026-04-30 18:33",
-      "summary": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock  Bloomberg..."
-    },
-    {
-      "title": "Meta lifts capital expenditure forecast, doubling down on AI push By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSEpkYklJRUF6UlhIcXdINWdLX2tLZG9YWVJKS3dVaUVaVUhLMVhsSUF4anJ4YS1zQks3OGNQdXd3SnlKNXpnT3p4ck9tQWM5dlBFWVBwcm1VTTFOS2NjbVJiVV9YZ2NDZzZMc1hQWmp5MUZ0aGpWeGkwU0UweXBuV21YdnZFeTRUMWs0T2JWeW83N09aYlhaeGUwRUVoM0trS1kwZnkyZG1RQ0FzaGZSVWFINnNQZnZQbE55TzJ3?oc=5",
-      "date": "2026-04-29 20:10",
-      "summary": "Meta lifts capital expenditure forecast, doubling down on AI push By Reuters  Investing.com..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "A new T-Mobile network for Christians aims to block porn and gender-related content - MIT Technology Review",
+      "title": "A new US phone network for Christians aims to block porn and gender-related content - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHU0Z0NrdEN5bE5ZNjU0d2xNTUMwRkg0UVVaZVJtQV9GcC1veUhiRTZZdGlZVEZZMk1DLWM4WXNXWUFwYmxZOF80RTRFb08waFY1dVZaQkFIWENUa0FuelJPVjFLTnFCdVRmQVhkaXJzbDNaZ01aOEs4TVhqRWxpRlAzZ1RIcWlENFc3OWdOSDg0YnkwTl9hMzVhSDduTlY2R3hKd3JCT3ItcUlGcXFUX21KVWlHUDNWWGsxRHNIZ0pOSm5FQmRWZ2RpYVdlS0RsVHfSAdcBQVVfeXFMUEVRM01UdTVxVVM3NXlsUURqaEVkdTB3UDNiSjJqbzh4YzdJR3NqRnJ1SWxaOEYtd09KcXJJSVZpMmI2QXNFU3RJcFRDMGx0MG9vaHNEaFlKcUc4MmlUZ2lUUVlEd0FBd0VaQ2hSeURvYXVsdU1TVHZfQkhsbU9UNXJ3dmhkMWdrak5vSGJMTTF4RjNSSGhlaU9nRkFLQjJZYzc3b0tNa2ZPc3RVWGs2cVBDYmtyeFNjekY5cjNpN09ORHdSTUpScTlfRFlrc05pUTVtRU5BYjg?oc=5",
       "date": "2026-05-01 09:00",
-      "summary": "A new T-Mobile network for Christians aims to block porn and gender-related content  MIT Technology Review..."
+      "summary": "A new US phone network for Christians aims to block porn and gender-related content  MIT Technology Review..."
     },
     {
       "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSEhMR01fZ3ljTFc1X3IwX0d5Znc3eF9IdlFJamZHeHpVOEpjNUFmQXhCQzVJOGhma05kMFo1aWxoSERUb2NubVpFSXNZLVRxX1djaXoxVlZiR0Qxd2V5X2ZuX0prdmZwdDZYWDlwblVaNkljcmhfdktFcXRYWVZkVkxCeW5JemRkOF9fWlZaR1BveVc2RGhkSEZGVzh5TXV1REhSSjB0d1FWRW5nWnBKWHU2ZTVrRUVhYWZyTUFsNkdxZ9IBxwFBVV95cUxOWDNlYlp5U25mcG5fOFAxd3hEbUVZVWVwTnRZLTVJMDB1c1NZN3JMME95ODd6cDk1dDR3dHVxZE9kUkpySHdLVUZBVm91U1pjdHJhUlAxMEI2cF85MTFWbVBickxUaWpCamJBX29oMkJhTk13Y1lxUHVDWU1xZERfbDZZSkdUUlZ3VExmV2drUHFndXh6cG54OVE2UGoyaHdhVFJtcVl3WVh5THQ0b0VhZ1BKa3ZoQnFnUXY2ZXhuZ1dTeHlkYnVF?oc=5",
       "date": "2026-04-30 15:59",
       "summary": "This startup’s new mechanistic interpretability tool lets you debug LLMs  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: a new Christian phone network, and debugging LLMs - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXZrM1hlbFRCMnBKTUM1Y1pkbDlUeFlEa2RqdElReXVvb3FZRWNSV0k5UnVPWEZsNy02U3hnU1E5dnlYdXlqM09fMG14ZnJaSXB0TFZ4b0ZZdmgydWtkMGRGaUtBbXdXaVFFRGhJRnRGUkxZZzJ2b2laYzhvemNuenJGOXFpbmxGaTNqREhhVEZnNXhybW8xQmVFU0lkV2UxTklVd25Za9IBrAFBVV95cUxQZHN0QWxpQmFUMFU0OGxFd0RvNXhRZ2pSSHJUcmg4YXBtUU5XRnk4V1RUWHNvV0lWdDVyQ3FiQndJLWM3ZmlZRjRWNkxlVWUxaHdrZTJvV1dVSm9JOG1wTkhhODAzUmhoalFwaFA1OUJDODc3VUxvelpFNk0yV2VMWG16SnZIQWptWFlRUzR4NDQ1Z3ZBelVRV3dTSGUtRVoxd0lzeGNObVp4emJN?oc=5",
+      "date": "2026-05-01 12:10",
+      "summary": "The Download: a new Christian phone network, and debugging LLMs  MIT Technology Review..."
     },
     {
       "title": "With mass firing, Trump deals a fresh blow to American science - MIT Technology Review",
@@ -247,44 +253,38 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVB2eTlFanBoVlZnZ2hTSmZ4UjhJbDdkNU12Ukstd04waHJKSjdXX01YVXhaZEl1Z29RMHdyM05EcmNhNlIycllMQTNqNnVVcHlPZ0lKTkFuZHdnT3VoenhVaTFMUWJ5UWxrRUNuUkRHMVJRRjNMb2d5cmFuVXNYNTNzTklEMDl4NVJyQXFZZVhpV0JQY0lkaDhOZWFXUjZMNnduQ2JET1QxZm1xNk51VUROV2ktSknSAbwBQVVfeXFMTkpxZ3UwcEFVRUFWNll3bHJfYmVYZXBtcEJZMnpEcUkzWkE2RkRZQm1CbTlLSFE2SV92cTNISUdERXBieENDQzlwTzN4T0NrUEhtMHRJM1Ywc2s5c1BtUEo1UFIxSDBjbGxDU1hhaTBEZE1FSlN1ZDRWT1VubDdjZEFJV2t6dmNLeWdMREdTX25lUmxkNzVjb0FOd0toZWpZUUxZN2RvV3pKS2lCODU0SU11RmRacU0tTEJrTjA?oc=5",
       "date": "2026-04-27 22:52",
       "summary": "Elon Musk and Sam Altman are going to court over OpenAI’s future  MIT Technology Review..."
-    },
-    {
-      "title": "The missing step between hype and profit - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVY4WHVDWWMzNWZVTV9yUWl3QW45OEVMUHplalc5VzNhLU9NZ18tX0lzQVkxUWxJY1otc1ZoYjJlQ0U5M0EzV01DWU50SWZkR0hOeHlqY05LVmVJQmh1N29EWjMxX1hpTjhBMG9xZ3dKSXlfQXlBVmxNZ3hOVXlmVFVEcVM3eW1CS0FhaFNSN0hsaWQ3ZjNEV9IBngFBVV95cUxPSndmRW54dF84b2xvdGRKZU9GZ19fR19oNHl6RW5rNUV0ajhPTDhwdDFPOUNKcWU0R21YM09vQkVhejR0RnVhQ3QxWVhmQXlzX2lldnFiSkJVNmVsVEhVQUdUVGVrYUVkQnlKVF90Tzd3SGNMc3VpNzBFelpkaWVWbkx1R2E3SzNGMlRfdUpoWmQ2VzRNTG04X19kNE4xUQ?oc=5",
-      "date": "2026-04-27 16:13",
-      "summary": "The missing step between hype and profit  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Children's voices overlooked in research consent processes, experts warn",
-      "link": "https://phys.org/news/2026-05-children-voices-overlooked-consent-experts.html",
-      "date": "2026-05-01 11:40",
-      "summary": "Researchers from The University of Manchester are calling for urgent changes to how children and young people are asked to take pa..."
+      "title": "Hunting the elusive Eta Aquariid meteors",
+      "link": "https://phys.org/news/2026-05-elusive-eta-aquariid-meteors.html",
+      "date": "2026-05-01 13:40",
+      "summary": "Early May is a good time to watch for a powerful yet often elusive meteor shower, the annual Eta Aquariids. They're a prolific, ye..."
     },
     {
-      "title": "What celebrity worship says about self-worth",
-      "link": "https://phys.org/news/2026-05-celebrity-worship-worth.html",
-      "date": "2026-05-01 11:20",
-      "summary": "In today's celebrity‑ and influencer‑driven culture, psychologists are increasingly interested in why people form strong emotional..."
+      "title": "Under crushing hypergravity, fruit flies adapt—and recover",
+      "link": "https://phys.org/news/2026-05-hypergravity-fruit-flies-recover.html",
+      "date": "2026-05-01 13:40",
+      "summary": "Expose an animal to extreme physical stress, and the expectation is simple: It will break down. But when UC Riverside scientists s..."
     },
     {
-      "title": "How do close binary stars form?",
-      "link": "https://phys.org/news/2026-05-binary-stars.html",
-      "date": "2026-05-01 11:00",
-      "summary": "Our sun is a bit of an outlier in the general stellar population. We typically think of stars as being solitary wanderers througho..."
+      "title": "AI-powered forecasts sharpen early warning for destructive crop pest",
+      "link": "https://phys.org/news/2026-05-ai-powered-sharpen-early-destructive.html",
+      "date": "2026-05-01 13:20",
+      "summary": "What if farmers could see a pest outbreak coming before the insect ever had a chance to damage their crop? New research from Texas..."
     },
     {
-      "title": "How oak trees outwit their predators",
-      "link": "https://phys.org/news/2026-04-oak-trees-outwit-predators.html",
-      "date": "2026-05-01 09:00",
-      "summary": "Spring in the forest: Many insects, particularly caterpillars, hatch just when the trees' nutrient-rich leaves are still young and..."
+      "title": "Physicists achieve first-ever 'quadsqueezing' quantum interaction",
+      "link": "https://phys.org/news/2026-05-physicists-quadsqueezing-quantum-interaction.html",
+      "date": "2026-05-01 13:20",
+      "summary": "Researchers at the University of Oxford have demonstrated a new type of quantum interaction using a single trapped ion. By creatin..."
     },
     {
-      "title": "India's cows offer biogas alternative to Mideast energy crunch",
-      "link": "https://phys.org/news/2026-05-india-cows-biogas-alternative-mideast.html",
-      "date": "2026-05-01 08:20",
-      "summary": "Across much of India, an energy crunch caused by the Iran war has prompted long queues for cooking gas cyclinders. That's not a pr..."
+      "title": "Study reveals why food waste rises, falls as incomes grow",
+      "link": "https://phys.org/news/2026-05-reveals-food-falls-incomes.html",
+      "date": "2026-05-01 13:00",
+      "summary": "A new study by a Texas A&M AgriLife Research agricultural economist offers fresh insight into a global problem hiding in plain sig..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong police investigate ‘suspicious’ fire after man dies in fall",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352183/hong-kong-police-investigate-suspicious-fire-after-man-dies-fall?utm_source=rss_feed",
+      "date": "2026-05-01 13:31",
+      "summary": "Hong Kong authorities are investigating a suspicious fire that broke out in a residential flat, after a man died when he fell from..."
+    },
+    {
+      "title": "More Hongkongers can drive to Macau under expanded travel scheme",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3352181/more-hongkongers-can-drive-macau-under-expanded-travel-scheme?utm_source=rss_feed",
+      "date": "2026-05-01 12:58",
+      "summary": "More Hong Kong permanent residents will soon be able to drive to Macau for work, sightseeing, family visits and business as the tw..."
+    },
+    {
       "title": "Hong Kong taxi driver arrested for dangerous driving, hitting speeds of 160km/h",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352170/hong-kong-taxi-driver-arrested-dangerous-driving-hitting-speeds-160km/h?utm_source=rss_feed",
       "date": "2026-05-01 11:46",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352164/hong-kong-seizes-hk16-million-counterfeit-goods-joint-cross-border-operation?utm_source=rss_feed",
       "date": "2026-05-01 10:54",
       "summary": "Hong Kong authorities uncovered 23 cross-boundary and transshipment counterfeiting cases in a joint operation with mainland China ..."
-    },
-    {
-      "title": "Man arrested in Hong Kong after police seize HK$800,000 of suspected heroin",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352154/man-arrested-hong-kong-after-police-seized-hk800000-worth-suspected-heroin?utm_source=rss_feed",
-      "date": "2026-05-01 09:41",
-      "summary": "Hong Kong police have arrested a 44-year-old man for allegedly trafficking in more than HK$800,000 (US$102,110) of suspected heroi..."
-    },
-    {
-      "title": "Online sales of e-cigarettes persist in Hong Kong despite ban",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3352152/hong-kong-steps-enforcement-online-e-cigarette-sales-continue-despite-ban?utm_source=rss_feed",
-      "date": "2026-05-01 09:30",
-      "summary": "Sales of vaping products persist on some online platforms delivering to Hong Kong despite a ban on the import, sale and public use..."
     }
   ],
   "New Scientist": [
