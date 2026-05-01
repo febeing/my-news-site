@@ -65,12 +65,6 @@
   ],
   "Stanford News": [
     {
-      "title": "AI is coming for jobs, and ‘We’re not ready,’ labor expert says - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02S2VLNnpMZy1RbzZhZDVYb3hXOXMxV3MxZWJ6V1ZTM1lyWjIxM3JPRUxLWWwtZVlOMlZUSlRkOG5NSnpvQzYtWi1LTC1jNHpWQkt5cWc0aEtaMzdBbTM3Wkg1cWFHUTlNcmJDMVRDdjBQZ9IBd0FVX3lxTE9IYTZYdTFRNmpEeERwS2UzN3BMdjdZX1prbVkzVU9QYXNuUUR6ckR5a29GZ2JQQV9tQ2NxZEFwaXdaSUtWNjFQZzlsNEJLc28tcDg1NzNLeDRYV0hrRHQxLUFKenpuaGJLUkhPZ2NOTjNBdGU4WEd3?oc=5",
-      "date": "2026-05-01 13:00",
-      "summary": "AI is coming for jobs, and ‘We’re not ready,’ labor expert says  The Mercury News..."
-    },
-    {
       "title": "Visionary philanthropist Steven Denning has died - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BcjgtSE1iZlU4bV9wd3dSNzY2QmxmMjd2ODl2QTQzQzdOMjU2M1RaT1BxZ2MxdElGVXdObW9NZ19tQXFhSjJGQlNGSk4tS1pNLUFqMjc2c0o3aFVaOGJYT2NYVEowSU1rUmI4NjlwNEx0bms?oc=5",
       "date": "2026-04-29 22:40",
@@ -93,6 +87,12 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGV4czdDNlc3TDBPT3A1endqT0l1U1NJaFEzdkhXTkpSa2U1ZlQ2aWJhem1iclR6R0ZWQ3EwOTYyeldBN2w4UHk4ZmNLaG5zT3VxTEZ5azg3Rkotc2RVdm5NMThfYWZScUROdWVzQXg3MUhiZXhSVF9MVG93ZVRSMjk5LV84Vi10WWlnM1YtX1dGY2kxS0dRVVFSWmI0X2RJQ0hHX3RDWHpjclhMREZr?oc=5",
       "date": "2026-04-29 21:08",
       "summary": "Exclusive | Stanford University under federal investigation for DEI teacher program  New York Post..."
+    },
+    {
+      "title": "Giovanni Tempesta, whose Italian classes were a top draw at Stanford for decades, dies at 76 - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb3NfYVFJMVZrWjY1TzBzRUkzNF9aNjdzNTQ1eXlfUXJGWDdwV3JQbTlEaXVDT1FjNEFDUE5UZTNJb1cyekdJUktxMk1CZ0hOUXR4ZF9xWHJvbWFpTGY5XzFWdzBiZUpBLTN5Rk9HRTB5YWRaRGV3bE41c3UxT0tpcFNCT0NTN3Q4eFRSbUJzZ1RmUUJHMFJ6WE5EMjV4YWJwQl9HcFM2QWM?oc=5",
+      "date": "2026-04-30 21:20",
+      "summary": "Giovanni Tempesta, whose Italian classes were a top draw at Stanford for decades, dies at 76  San Francisco Chronicle..."
     }
   ],
   "Nature Careers": [
@@ -193,16 +193,16 @@
   ],
   "Reuters AI": [
     {
+      "title": "Pentagon reaches agreements with top AI companies, but not Anthropic - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1lWcjNQNDY2aERXM3BnMTFFZllkWVZCNTFTY2Y0c0d4Nk1mY2UyQ0JNRVBMUVRNQnZiRlBNQnYzOWJaOFFUTTktZWpDWmNia2VpbWpreVU1dG1HSUo1T1JrWm12UVJ1R0ZxaUZIUXZrMXBDLUx4bXpUTE95ZFA1bHdGUXloZ0ZNc1ZfRm1SVGZGNnZUTWlrcVE0QzRsa3lHQzFPZURLTENMckd6UFpuWXRMd0I?oc=5",
+      "date": "2026-05-01 17:15",
+      "summary": "Pentagon reaches agreements with top AI companies, but not Anthropic  Reuters..."
+    },
+    {
       "title": "Huawei expects AI chip revenue to jump at least 60% this year, FT reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUNrbk1aeXBSM2cxc1d0TW1vXzYtRFFTejVKSnBhTFpuV3RFM3lPaFZqNnpSWGhnRll5eUZTbGJpd2xMeWV6VzZEUzlnSjlZV3UxaVkzSmVRQkpsdU93ZWhlZnYyb2tTV192QlNpaEhNc3VuSVUyYXN4c3R5cGxPTWlxdzVwOVhDbktDcnlNZHdvZ3o0TkV2dktKY2t0S0x0VVRiUF9CTFI4TTJvWF9BR2JlRQ?oc=5",
       "date": "2026-05-01 00:51",
       "summary": "Huawei expects AI chip revenue to jump at least 60% this year, FT reports  Reuters..."
-    },
-    {
-      "title": "Google Cloud pulls ahead as Big Tech's AI bet swells to $700 billion - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVNydmRzT0dCVEZ3OEkzVDdnWW4tZFZJMU5zVTRMSE9ZNS1kRF9BTFFVbjJaMUItbnJZZEdyTjFUT014RmFVRUIzTkltdHljaFRiUHdnRHZDdjN6Z1NRbTVQMmFqMXE1d2dEN0hfdmw0SEl4Y2RrQmdGTnZHYUhjMFBNUzBJaFhES2RBcEtEbmpLVHVkR3VkZkFsb1dDQ1U5dFJ0dW9lVnh3VHhUNWZWN212a3pjS3UtM2gwd2ln?oc=5",
-      "date": "2026-04-30 14:51",
-      "summary": "Google Cloud pulls ahead as Big Tech's AI bet swells to $700 billion  Reuters..."
     },
     {
       "title": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock - Bloomberg.com",
@@ -225,16 +225,16 @@
   ],
   "MIT Tech Review": [
     {
-      "title": "Operationalizing AI for Scale and Sovereignty - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlZmbnZIdFU2R1Bsclh4VWw5VDN6OThraUtnWlFlRFh6SDR0SVI1dDhxYnVrMjQ1UFFjbXVHaFl1Q25CZ0FnbUFFYWhyOUIzWkxVTnN4c2ZWdGhCdmlhOElHWkNWLS1iVG9jUGtneWVFaTlseWI3cDd3V3dUaXBqRlFVUko0ci03cHBIOXl2YW5pbEsyMW5qeDlUZWlGMDDSAaQBQVVfeXFMUGxvN0xFWnEtZ0R1NWJ1NGJmaWd3dlRFUW5ncG55YV9rNUJPS0w4T2xoN3V2XzhjR0pwMXlrUlZ3NlVMa3hnLWx4Tk9CaXZKYk02QjVaYUtZaWVfYmRvUGNtUmpfM040QUIxcnhyNWRPMExjUjBGc1J2czAyVHIxQ19lSlRrcUpYYXdMN0oxVi13NVRWcEg1UlZ4YmxGZ0QwYVZwaGI?oc=5",
-      "date": "2026-05-01 15:31",
-      "summary": "Operationalizing AI for Scale and Sovereignty  MIT Technology Review..."
-    },
-    {
       "title": "Cyber-Insecurity in the AI Era - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY0Y2OHA1RHNMVFJQS3ZMVnpsRzJUQTg3Yl9XM3lvcjlyVHBiNWJ1YUdDVm4xbmdUR2NkLVlKR0RfQUlZeUVBREZfU1V3VEFNSHB2dEhldklPZWdzclBzaEpNbmo5TUo2YWJXNVVYU1hiZXdTYmNxaXdORFQyS25qSjc2ZzJxOGIyWkRB0gGQAUFVX3lxTE5UM2VHTUx5Q2lqLTRhb3Jhc2c5SjROdE9Nc0R1UEhVZFVZZk1QVXRMNHhENXVqS2NoZ3dfbmZwVmtLWmI3VmtoZ2xJWmdkR3BES3VlUTRsNkNDaXA2U2U3NF9RSmhiTlZlXzRscTYyZjMyZjFSTmxXV2pLZWg5Q3E3NXJYdHh4Nlh2SUZHZUVJQQ?oc=5",
       "date": "2026-05-01 15:54",
       "summary": "Cyber-Insecurity in the AI Era  MIT Technology Review..."
+    },
+    {
+      "title": "Operationalizing AI for Scale and Sovereignty - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlZmbnZIdFU2R1Bsclh4VWw5VDN6OThraUtnWlFlRFh6SDR0SVI1dDhxYnVrMjQ1UFFjbXVHaFl1Q25CZ0FnbUFFYWhyOUIzWkxVTnN4c2ZWdGhCdmlhOElHWkNWLS1iVG9jUGtneWVFaTlseWI3cDd3V3dUaXBqRlFVUko0ci03cHBIOXl2YW5pbEsyMW5qeDlUZWlGMDDSAaQBQVVfeXFMUGxvN0xFWnEtZ0R1NWJ1NGJmaWd3dlRFUW5ncG55YV9rNUJPS0w4T2xoN3V2XzhjR0pwMXlrUlZ3NlVMa3hnLWx4Tk9CaXZKYk02QjVaYUtZaWVfYmRvUGNtUmpfM040QUIxcnhyNWRPMExjUjBGc1J2czAyVHIxQ19lSlRrcUpYYXdMN0oxVi13NVRWcEg1UlZ4YmxGZ0QwYVZwaGI?oc=5",
+      "date": "2026-05-01 15:31",
+      "summary": "Operationalizing AI for Scale and Sovereignty  MIT Technology Review..."
     },
     {
       "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs - MIT Technology Review",
@@ -249,42 +249,42 @@
       "summary": "The Download: a new Christian phone network, and debugging LLMs  MIT Technology Review..."
     },
     {
-      "title": "With mass firing, Trump deals a fresh blow to American science - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQREFqYy1uZmFzM0I5ZHo4WTRlWExfU2JSQjdQR2RaX1FobUxjMmViTW15VTFLWnppMFJWRTdCWXFzS3NWaV9zVVIyMTJaTlR2ZTJIVDgtQVU2aEdvV2ZyeE51dWY1a1ZjaHphdTRydS0xeklBT1JrNTNLVUxfb1BScHRCZHA1UHJEUVItQ3EzVDdNUFpOUlQ5NzdmY0RrcDZuSUhhanltRTZXd9IBrwFBVV95cUxQRW56cnpkWTk1N3FzNHZpRzhQWndobExWOXJvdnY3S0p6TXhNYnNsNkdPcHJwMVZ6aXloUnNjdG0zd09pOWdOSngtcHFBTFA1SVZONGRRTTA1MTJjcmFINGFGU0pud3VjT1VWbUVKQjYzNmZKRTNxZ0RBSFN5Zk5MWHNDUnpEa2FvNUtBdXljaTZiVUFZNVVSYTBWcURIS0x5V2JLYTRYYjRrdnFFaFFF?oc=5",
-      "date": "2026-05-01 09:00",
-      "summary": "With mass firing, Trump deals a fresh blow to American science  MIT Technology Review..."
+      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVB2eTlFanBoVlZnZ2hTSmZ4UjhJbDdkNU12Ukstd04waHJKSjdXX01YVXhaZEl1Z29RMHdyM05EcmNhNlIycllMQTNqNnVVcHlPZ0lKTkFuZHdnT3VoenhVaTFMUWJ5UWxrRUNuUkRHMVJRRjNMb2d5cmFuVXNYNTNzTklEMDl4NVJyQXFZZVhpV0JQY0lkaDhOZWFXUjZMNnduQ2JET1QxZm1xNk51VUROV2ktSknSAbwBQVVfeXFMTkpxZ3UwcEFVRUFWNll3bHJfYmVYZXBtcEJZMnpEcUkzWkE2RkRZQm1CbTlLSFE2SV92cTNISUdERXBieENDQzlwTzN4T0NrUEhtMHRJM1Ywc2s5c1BtUEo1UFIxSDBjbGxDU1hhaTBEZE1FSlN1ZDRWT1VubDdjZEFJV2t6dmNLeWdMREdTX25lUmxkNzVjb0FOd0toZWpZUUxZN2RvV3pKS2lCODU0SU11RmRacU0tTEJrTjA?oc=5",
+      "date": "2026-04-27 22:52",
+      "summary": "Elon Musk and Sam Altman are going to court over OpenAI’s future  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "5th-century Belgian burial with 'scrap metal' may reveal missing link between Roman and Merovingian monetary systems",
-      "link": "https://phys.org/news/2026-05-5th-century-belgian-burial-scrap.html",
-      "date": "2026-05-01 16:40",
-      "summary": "A study published in the journal Britannia analyzed coins and metal items found in an early 5th-century AD burial in Oudenburg, Be..."
+      "title": "Seeing an eclipse from Earth is awe‑inspiring—for astronauts in space, the scene was even more grand",
+      "link": "https://phys.org/news/2026-05-eclipse-earth-aweinspiring-astronauts-space.html",
+      "date": "2026-05-01 18:00",
+      "summary": "The astronauts on Artemis II's trip to the moon in April 2026 didn't just have an amazing journey through space. They also saw som..."
     },
     {
-      "title": "Dolls beat screens for building children's social skills, study finds",
-      "link": "https://phys.org/news/2026-05-dolls-screens-children-social-skills.html",
-      "date": "2026-05-01 16:40",
-      "summary": "What's the point of play? Is it simply a way to keep children occupied, or something more? For some, it's about learning literacy ..."
+      "title": "How photosynthetic bacteria pass light along: Two major energy pathways identified",
+      "link": "https://phys.org/news/2026-05-photosynthetic-bacteria-major-energy-pathways.html",
+      "date": "2026-05-01 18:00",
+      "summary": "RIKEN researchers have found out how light energy harvested by pigments besides chlorophyll is transferred to the molecular site w..."
     },
     {
-      "title": "New lithium-plasma engine passes key Mars propulsion test",
-      "link": "https://phys.org/news/2026-05-lithium-plasma-key-mars-propulsion.html",
-      "date": "2026-05-01 16:20",
-      "summary": "You're on the fourth human mission to Mars, and you're told the Odyssey spacecraft designed to take you there will be the smoothes..."
+      "title": "The way a cell fails to divide after copying its DNA can determine its fate",
+      "link": "https://phys.org/news/2026-05-cell-dna-fate.html",
+      "date": "2026-05-01 17:40",
+      "summary": "Cell division is one of the most fundamental and complex processes underpinning life. In human cells, thousands of molecules coord..."
     },
     {
-      "title": "How genetic information helps cells resist chaos and stay alive",
-      "link": "https://phys.org/news/2026-05-genetic-cells-resist-chaos-stay.html",
-      "date": "2026-05-01 16:20",
-      "summary": "A Moffitt Cancer Center researcher has introduced a new model that addresses one of biology's most fundamental questions: How does..."
+      "title": "Policies intended to protect trade secrets may limit late-career wages",
+      "link": "https://phys.org/news/2026-05-policies-secrets-limit-late-career.html",
+      "date": "2026-05-01 17:40",
+      "summary": "Labor market policies intended to protect trade secrets and spur research and development may instead limit late-career wages and ..."
     },
     {
-      "title": "Living near a gas station raises childhood cancer risk, study shows",
-      "link": "https://phys.org/news/2026-05-gas-station-childhood-cancer.html",
-      "date": "2026-05-01 16:00",
-      "summary": "Childhood cancers are devastating. Even when the disease is not fatal, its long-term effects can be severe. Not enough is known ab..."
+      "title": "A new way to plan trajectories to asteroids",
+      "link": "https://phys.org/news/2026-05-trajectories-asteroids.html",
+      "date": "2026-05-01 17:20",
+      "summary": "There are tens of thousands of near-Earth objects (NEOs) that represent some of the most easily accessible resources in the solar ..."
     }
   ],
   "The Guardian Edu": [
