@@ -65,12 +65,6 @@
   ],
   "Stanford News": [
     {
-      "title": "Visionary philanthropist Steven Denning has died - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BcjgtSE1iZlU4bV9wd3dSNzY2QmxmMjd2ODl2QTQzQzdOMjU2M1RaT1BxZ2MxdElGVXdObW9NZ19tQXFhSjJGQlNGSk4tS1pNLUFqMjc2c0o3aFVaOGJYT2NYVEowSU1rUmI4NjlwNEx0bms?oc=5",
-      "date": "2026-04-29 22:40",
-      "summary": "Visionary philanthropist Steven Denning has died  Stanford Report..."
-    },
-    {
       "title": "Trump administration investigates Stanford University for racial discrimination - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3BrX1owLTB4TFR2bV9IcWlEM2I4d2pZdzZBTUw5bEkxYm9SUVhzRm9Pa2FQYWh0bnIxdHh2ZzR3RV9USkp6S2NRWEpkWVp5d2ZOUElaSWpmM19QeDNVYUEzOEd2X0l4WWhleGVmTFFGUE5mYzRSdXlmNXdseTB5LVJtNzRoUVg1TGZHXzNYRFB5ekxlRU1zNmRFZHRkemliVHhDOHBXb1NvUzAwRmxtV2dkaUMxbURBWlZF0gHAAUFVX3lxTFAyTkpyaFdrb1AybW9rTWcxNFY1d1FQTnQ0Y1FISHhIbkhqamlRaFh5S0xsUU9WNVJ5eEcwYXp0WVFVMXV0X1g0NDdwdkZRNFBKdXFTUlUzYzlUdTBWTll0Q3lvYlBoRUJoS29DVjU2MTlpSEVsbS15QXk5OTBfcGYtSlNGQVY2YktnYXJvZklCdXFLb2Z6Tnc0dE00V1RPNUduZEd6VlRIUUUzbU10WTFGTFdza0pEelV5SFM2anFWVQ?oc=5",
       "date": "2026-05-01 11:00",
@@ -87,6 +81,12 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVQydFZzYldhS21LMENTenJWZENwT3lwNlNfaEQ3U0pod29ycVpMT3hORVFzaVQzR2NZdm5wY1J5aVNBUVpXb2pkOF8xUkN2X3ZXU2IxdTh1OFVTb0Q0M3VXWV9obmdjY0llSjk1TEg1VVdRNUNxbW5nLWs0OF8zT1Y1TThZcmhUdE1ETHM5TmJwSFhPbjVhdEEyeGVxbGswUkZYY0Z5eGdrMHdJaGxUVGhYc0I?oc=5",
       "date": "2026-04-29 23:55",
       "summary": "Trump administration probes Stanford University over diversity practices  Reuters..."
+    },
+    {
+      "title": "Exclusive | Stanford University under federal investigation for DEI teacher program - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGV4czdDNlc3TDBPT3A1endqT0l1U1NJaFEzdkhXTkpSa2U1ZlQ2aWJhem1iclR6R0ZWQ3EwOTYyeldBN2w4UHk4ZmNLaG5zT3VxTEZ5azg3Rkotc2RVdm5NMThfYWZScUROdWVzQXg3MUhiZXhSVF9MVG93ZVRSMjk5LV84Vi10WWlnM1YtX1dGY2kxS0dRVVFSWmI0X2RJQ0hHX3RDWHpjclhMREZr?oc=5",
+      "date": "2026-04-29 21:08",
+      "summary": "Exclusive | Stanford University under federal investigation for DEI teacher program  New York Post..."
     },
     {
       "title": "Giovanni Tempesta, whose Italian classes were a top draw at Stanford for decades, dies at 76 - San Francisco Chronicle",
@@ -193,12 +193,6 @@
   ],
   "Reuters AI": [
     {
-      "title": "US Navy turns to AI firm Domino for options to counter Iranian mines - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM2R2Y3hKbjZCenhTOG44Ukk0SFJBS080RHZTa0wyMVUtQnN6cWphU180akg5MVNFMTAxdTlFbkNqZ3B6d1NoWC1VVllMSzFPbDV1bEk4cVJwTnZYM3ZBZVJuTVY5cl9mTXMyM1htbmVVejh1VFpGWlUwOERKUjRHMFFRX1pqWlBtOF9yV2dXOFdPRnZBT1FxSHpSaVNIOUtlOU1xa0pHcTI2VGJXZHZ3eU5B?oc=5",
-      "date": "2026-05-01 10:16",
-      "summary": "US Navy turns to AI firm Domino for options to counter Iranian mines  Reuters..."
-    },
-    {
       "title": "Huawei expects AI chip revenue to jump at least 60% this year, FT reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUNrbk1aeXBSM2cxc1d0TW1vXzYtRFFTejVKSnBhTFpuV3RFM3lPaFZqNnpSWGhnRll5eUZTbGJpd2xMeWV6VzZEUzlnSjlZV3UxaVkzSmVRQkpsdU93ZWhlZnYyb2tTV192QlNpaEhNc3VuSVUyYXN4c3R5cGxPTWlxdzVwOVhDbktDcnlNZHdvZ3o0TkV2dktKY2t0S0x0VVRiUF9CTFI4TTJvWF9BR2JlRQ?oc=5",
       "date": "2026-05-01 00:51",
@@ -217,24 +211,30 @@
       "summary": "Pentagon reaches agreements with top AI companies, but not Anthropic By Reuters  Investing.com..."
     },
     {
-      "title": "Exclusive: US officials weigh cutting deadlines to fix digital flaws amid worries over AI-powered hacking, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGN6dXV0LU43a3VDd0JFTE1oYkVkZVBqVDhLalNKMExITzZfNWpuLUlaWXVKWVJZZDk1aTlmLVlIVTZqbDhISXpTMHc3N3k3QXlCZU0xSERVdFB6TW5WRW1oMVJrM3JPanEzeVBNV1R1ZXNjR2tmV0ZGUS1WRTZNRXREcWdyQ3BlVUlCZkdsRVdsNmtBTXYteFA1cUI3OVJsSmdxcW85Y0JrYm0zUkx4YkdfZExlRVRRR3JjYUZRc09aSGZUQm44?oc=5",
-      "date": "2026-05-01 21:58",
-      "summary": "Exclusive: US officials weigh cutting deadlines to fix digital flaws amid worries over AI-powered hacking, sources say  Reuters..."
+      "title": "US Navy turns to AI firm Domino for options to counter Iranian mines - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM2R2Y3hKbjZCenhTOG44Ukk0SFJBS080RHZTa0wyMVUtQnN6cWphU180akg5MVNFMTAxdTlFbkNqZ3B6d1NoWC1VVllMSzFPbDV1bEk4cVJwTnZYM3ZBZVJuTVY5cl9mTXMyM1htbmVVejh1VFpGWlUwOERKUjRHMFFRX1pqWlBtOF9yV2dXOFdPRnZBT1FxSHpSaVNIOUtlOU1xa0pHcTI2VGJXZHZ3eU5B?oc=5",
+      "date": "2026-05-01 10:16",
+      "summary": "US Navy turns to AI firm Domino for options to counter Iranian mines  Reuters..."
+    },
+    {
+      "title": "Sandisk has thumping quarter on AI boom, secures long-term contracts and unveils big buyback - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTAtem15UE5MRC1ya0M4cTNIbmFWX2Y4QkdaZ3NYekYwMlU4UVEyQWJ2TjF4VnBvVHRUWVpPRldOMkhPYTYxQkpsZmFTSnpWVnpmbWtHNHd5T0RiWUppMTdtQjRFeGNvNGhmN29DeF9vQ0ljYlQ4NXNjY0ZYWDBjMnBmM3lVN0d6YUliMlRTejJ2QnJrMTlweElKbUlwREQ2Z0o1dWh1d3pGY1c0RDFfTk9ETnRVQlFmbF9ydTdR?oc=5",
+      "date": "2026-05-01 02:10",
+      "summary": "Sandisk has thumping quarter on AI boom, secures long-term contracts and unveils big buyback  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "A new US phone network for Christians aims to block porn and gender-related content - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHU0Z0NrdEN5bE5ZNjU0d2xNTUMwRkg0UVVaZVJtQV9GcC1veUhiRTZZdGlZVEZZMk1DLWM4WXNXWUFwYmxZOF80RTRFb08waFY1dVZaQkFIWENUa0FuelJPVjFLTnFCdVRmQVhkaXJzbDNaZ01aOEs4TVhqRWxpRlAzZ1RIcWlENFc3OWdOSDg0YnkwTl9hMzVhSDduTlY2R3hKd3JCT3ItcUlGcXFUX21KVWlHUDNWWGsxRHNIZ0pOSm5FQmRWZ2RpYVdlS0RsVHfSAdcBQVVfeXFMUEVRM01UdTVxVVM3NXlsUURqaEVkdTB3UDNiSjJqbzh4YzdJR3NqRnJ1SWxaOEYtd09KcXJJSVZpMmI2QXNFU3RJcFRDMGx0MG9vaHNEaFlKcUc4MmlUZ2lUUVlEd0FBd0VaQ2hSeURvYXVsdU1TVHZfQkhsbU9UNXJ3dmhkMWdrak5vSGJMTTF4RjNSSGhlaU9nRkFLQjJZYzc3b0tNa2ZPc3RVWGs2cVBDYmtyeFNjekY5cjNpN09ORHdSTUpScTlfRFlrc05pUTVtRU5BYjg?oc=5",
-      "date": "2026-05-01 09:00",
-      "summary": "A new US phone network for Christians aims to block porn and gender-related content  MIT Technology Review..."
-    },
     {
       "title": "Operationalizing AI for Scale and Sovereignty - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlZmbnZIdFU2R1Bsclh4VWw5VDN6OThraUtnWlFlRFh6SDR0SVI1dDhxYnVrMjQ1UFFjbXVHaFl1Q25CZ0FnbUFFYWhyOUIzWkxVTnN4c2ZWdGhCdmlhOElHWkNWLS1iVG9jUGtneWVFaTlseWI3cDd3V3dUaXBqRlFVUko0ci03cHBIOXl2YW5pbEsyMW5qeDlUZWlGMDDSAaQBQVVfeXFMUGxvN0xFWnEtZ0R1NWJ1NGJmaWd3dlRFUW5ncG55YV9rNUJPS0w4T2xoN3V2XzhjR0pwMXlrUlZ3NlVMa3hnLWx4Tk9CaXZKYk02QjVaYUtZaWVfYmRvUGNtUmpfM040QUIxcnhyNWRPMExjUjBGc1J2czAyVHIxQ19lSlRrcUpYYXdMN0oxVi13NVRWcEg1UlZ4YmxGZ0QwYVZwaGI?oc=5",
       "date": "2026-05-01 15:31",
       "summary": "Operationalizing AI for Scale and Sovereignty  MIT Technology Review..."
+    },
+    {
+      "title": "A new US phone network for Christians aims to block porn and gender-related content - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHU0Z0NrdEN5bE5ZNjU0d2xNTUMwRkg0UVVaZVJtQV9GcC1veUhiRTZZdGlZVEZZMk1DLWM4WXNXWUFwYmxZOF80RTRFb08waFY1dVZaQkFIWENUa0FuelJPVjFLTnFCdVRmQVhkaXJzbDNaZ01aOEs4TVhqRWxpRlAzZ1RIcWlENFc3OWdOSDg0YnkwTl9hMzVhSDduTlY2R3hKd3JCT3ItcUlGcXFUX21KVWlHUDNWWGsxRHNIZ0pOSm5FQmRWZ2RpYVdlS0RsVHfSAdcBQVVfeXFMUEVRM01UdTVxVVM3NXlsUURqaEVkdTB3UDNiSjJqbzh4YzdJR3NqRnJ1SWxaOEYtd09KcXJJSVZpMmI2QXNFU3RJcFRDMGx0MG9vaHNEaFlKcUc4MmlUZ2lUUVlEd0FBd0VaQ2hSeURvYXVsdU1TVHZfQkhsbU9UNXJ3dmhkMWdrak5vSGJMTTF4RjNSSGhlaU9nRkFLQjJZYzc3b0tNa2ZPc3RVWGs2cVBDYmtyeFNjekY5cjNpN09ORHdSTUpScTlfRFlrc05pUTVtRU5BYjg?oc=5",
+      "date": "2026-05-01 09:00",
+      "summary": "A new US phone network for Christians aims to block porn and gender-related content  MIT Technology Review..."
     },
     {
       "title": "Cyber-Insecurity in the AI Era - MIT Technology Review",
@@ -249,13 +249,19 @@
       "summary": "This startup’s new mechanistic interpretability tool lets you debug LLMs  MIT Technology Review..."
     },
     {
-      "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZU91QVNfTnF3M1VITnY2VTZtSXF3bGl4ak8ycTR2d2s5a21WWjZsY1NsdldDNWdXeFZPWDVoMEVmZ1R2TDNwYUNvR2lrWFZnUTYwZlVEbkFsNUZ6NzZjX01xV3Y1elRqNXVYOENDWGxyUnphdXhyN1ZJa0Z6dURmRUhBSGxtbTc4TGd5YWJZTkhmTl9KM1ZEOFg4UzNGOHBObTZlWERNR3UyTkwyUHppY3lYeVlSZ25XSWN0dDdkeWo0c1ZRUXd3TERZVk5ISVnSAdQBQVVfeXFMUGJZbkEwR0Z1ekM0cUloTHdtNWpYZG5Ib1R3Sk9LdEE1S2FidGFMZTRMa2hKdlVpcEIxN2RFS0x3Z2YyRGdKblFJSUREdEN5MzdvYW9jMDc0V0NHd0hNN1B6X1loVUFPVUJxUEZta213bWJTM3FaMzczTjhaYXpnbjNValh0a1JyS2V1VjFpOFFWMmpzU1RnUG9TbHdOX21ISUllLWZRcVBiSlFzcG9KQktDVHl3MENKQXlQM2ZMRVVSZXFoQy1hNlUxWUZQeXNZT1FiSzE?oc=5",
-      "date": "2026-05-01 10:00",
-      "summary": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining  MIT Technology Review..."
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTi1jZkhwbUdsMmxOd0dvVk43VXpsXzJ1U2s1eUhUdGVxTVNBa1JpV1Z1NDEtMzBXTVpSZ1J3eXN6WVEzLW96aVdfOUd5QnA4U3d2aGdlWjBncndJMFE3VWxPSThEQy0zQjVhbWdiZU5kc0dDZXJiRjUtcGN6TW9zT3p2NnRBOG5OUTFGZDFhaUdOOG5EVjVNMkhBeUc2bm5MZjZPWG1FSElqMkVhTHc5a1FYZ2szSU9yYzNIT0hDQ3oweUprQ2lNWmxOTnkyRTg0OUtRZ2lTamVkZy1xVk9ySF9jMEJVT21KYTJNc21PWG5mR2llSTBncVhBWdIBgAJBVV95cUxNMElkY1hLcHZMS1p4Q1J5WG1XMTdpZlExSVR6eUZNSmptbVN0aks1UkkzNDE0ZGJpMkhXUzd5cWtfZjJaMGFHWklqY0xJTzlpLTE5ZUVMc3dCRUQxd2thRV9PNjRnbzllbDEzSGxrdnM2ZTVaTnFSWW1vNGx6SnRnUlo4YnFVZ2Nqd2NTMlUxZ2tVT2ZDT1JQVG90QUhucVZ6Y3N0Z3RYS25NTjVmT0IxcG05VDRJXzkxd0d6MmN1UkhUT2plVW9vYnB2cWtjRlBralZreVhaUDNXRE9UUHVDN2tLWnVvdzc3WGZLS1IteG1YSlpqdWJZZ05xU3FxNUQ2?oc=5",
+      "date": "2026-05-01 22:08",
+      "summary": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models  MIT ..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "NASA Laser Terminal enhances views during Artemis II mission",
+      "link": "https://phys.org/news/2026-05-nasa-laser-terminal-views-artemis.html",
+      "date": "2026-05-02 00:40",
+      "summary": "Millions of people watched the historic launch of Artemis II and were captivated by the mission's 10-day journey around the moon a..."
+    },
     {
       "title": "Widespread genetic exchange in disease-causing parasites revealed",
       "link": "https://phys.org/news/2026-05-widespread-genetic-exchange-disease-parasites.html",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-05-qa-legal-opium-global-opioid.html",
       "date": "2026-05-01 19:00",
       "summary": "The rare earths so essential to our modern technology have become a new diplomatic weapon—used to leverage influence and wield pow..."
-    },
-    {
-      "title": "A leading journal finds that AI is flooding academic publishing with lower quality work",
-      "link": "https://phys.org/news/2026-05-journal-ai-academic-publishing-quality.html",
-      "date": "2026-05-01 18:40",
-      "summary": "Artificial intelligence can undoubtedly help scientists with their academic papers by summarizing research and helping to improve ..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "What to leave behind? Returning Wang Fuk Court residents stuck with tough decisions",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3352189/what-leave-behind-returning-wang-fuk-court-residents-stuck-tough-decisions?utm_source=rss_feed",
+      "date": "2026-05-02 01:00",
+      "summary": "Residents of Hong Kong’s Wang Fuk Court are wrestling with a fresh sense of loss after returning to their former homes damaged in ..."
+    },
+    {
       "title": "Hong Kong’s population policy is still trapped in a city state mindset",
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3351750/hong-kongs-population-policy-still-trapped-city-state-mindset?utm_source=rss_feed",
       "date": "2026-05-01 21:30",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3352181/more-hongkongers-can-drive-macau-under-expanded-travel-scheme?utm_source=rss_feed",
       "date": "2026-05-01 12:58",
       "summary": "More Hong Kong permanent residents will soon be able to drive to Macau for work, sightseeing, family visits and business as the tw..."
-    },
-    {
-      "title": "Hong Kong taxi driver arrested for dangerous driving, hitting speeds of 160km/h",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352170/hong-kong-taxi-driver-arrested-dangerous-driving-hitting-speeds-160km/h?utm_source=rss_feed",
-      "date": "2026-05-01 11:46",
-      "summary": "Hong Kong police have arrested a taxi driver for dangerous driving on the first of the five-day mainland Chinese Labour Day “golde..."
     }
   ],
   "New Scientist": [
