@@ -65,12 +65,6 @@
   ],
   "Stanford News": [
     {
-      "title": "Visionary philanthropist Steven Denning has died - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BcjgtSE1iZlU4bV9wd3dSNzY2QmxmMjd2ODl2QTQzQzdOMjU2M1RaT1BxZ2MxdElGVXdObW9NZ19tQXFhSjJGQlNGSk4tS1pNLUFqMjc2c0o3aFVaOGJYT2NYVEowSU1rUmI4NjlwNEx0bms?oc=5",
-      "date": "2026-04-29 22:40",
-      "summary": "Visionary philanthropist Steven Denning has died  Stanford Report..."
-    },
-    {
       "title": "Is the ‘dead internet’ theory coming true? New Stanford research calculates exactly how far we are—and it’s alarming - Fast Company",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnZyZzVwLWxnamNpd2VoWVVrS2Z3ZWtyR1kxZ0h3RjFta2dZdi1CbEpvT3NDclRQYUpXRE9yVWxDR29hSk1OSHZuOHhIZE1WWF9vdElFZFpET25mVU9rdlM0RFdQYWppWTY3NFAyd1kwTkZkTjRfc3RRWHFQSnFmQVZaeFlDbFlpLWs5allqTTNtSGRCVzhxbHlDNHBOa0ZwejNRNXVYYllMNXQxUURIbEZ0OHU2dw?oc=5",
       "date": "2026-05-01 21:54",
@@ -93,6 +87,12 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVQydFZzYldhS21LMENTenJWZENwT3lwNlNfaEQ3U0pod29ycVpMT3hORVFzaVQzR2NZdm5wY1J5aVNBUVpXb2pkOF8xUkN2X3ZXU2IxdTh1OFVTb0Q0M3VXWV9obmdjY0llSjk1TEg1VVdRNUNxbW5nLWs0OF8zT1Y1TThZcmhUdE1ETHM5TmJwSFhPbjVhdEEyeGVxbGswUkZYY0Z5eGdrMHdJaGxUVGhYc0I?oc=5",
       "date": "2026-04-29 23:55",
       "summary": "Trump administration probes Stanford University over diversity practices  Reuters..."
+    },
+    {
+      "title": "Giovanni Tempesta, whose Italian classes were a top draw at Stanford for decades, dies at 76 - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb3NfYVFJMVZrWjY1TzBzRUkzNF9aNjdzNTQ1eXlfUXJGWDdwV3JQbTlEaXVDT1FjNEFDUE5UZTNJb1cyekdJUktxMk1CZ0hOUXR4ZF9xWHJvbWFpTGY5XzFWdzBiZUpBLTN5Rk9HRTB5YWRaRGV3bE41c3UxT0tpcFNCT0NTN3Q4eFRSbUJzZ1RmUUJHMFJ6WE5EMjV4YWJwQl9HcFM2QWM?oc=5",
+      "date": "2026-04-30 21:20",
+      "summary": "Giovanni Tempesta, whose Italian classes were a top draw at Stanford for decades, dies at 76  San Francisco Chronicle..."
     }
   ],
   "Nature Careers": [
@@ -193,22 +193,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "Meta shares fall on concerns over AI spending, legal scrutiny - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFNSQmtUam5teWJnNHNkcDVSSHVwbGl4d0luVzYwSUxaVnVpcVNmcW9LcXFGZ1IyWWxsZ1VPbmJ4N0FrR1ZXbkFfZG16cUJYQUFSdnhmdU95TUVXaUstaWF3M1drcXVDbHRjVlZVMTUwY3h0VnhhMVEycnRWbC1TNElfamZrNDlXQjNGbTg0dGN0MEN6ZDYwSDgtLUV6MW5HcXlDdlEtQmxJQQ?oc=5",
-      "date": "2026-04-29 20:05",
-      "summary": "Meta shares fall on concerns over AI spending, legal scrutiny  Reuters..."
+      "title": "Pentagon reaches agreements with top AI companies, but not Anthropic - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1lWcjNQNDY2aERXM3BnMTFFZllkWVZCNTFTY2Y0c0d4Nk1mY2UyQ0JNRVBMUVRNQnZiRlBNQnYzOWJaOFFUTTktZWpDWmNia2VpbWpreVU1dG1HSUo1T1JrWm12UVJ1R0ZxaUZIUXZrMXBDLUx4bXpUTE95ZFA1bHdGUXloZ0ZNc1ZfRm1SVGZGNnZUTWlrcVE0QzRsa3lHQzFPZURLTENMckd6UFpuWXRMd0I?oc=5",
+      "date": "2026-05-01 17:15",
+      "summary": "Pentagon reaches agreements with top AI companies, but not Anthropic  Reuters..."
     },
     {
       "title": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0t2QzA2cTBhTEYzXzR5ZWlQRjNGbTczUlEzX1hDYzcwdE44S2d6YTRsZ1FMdDlVb1lyOTVycURTMm81b0RmcF9OYUJlakxESDVGT3E4TkJIcTY0ZTM0VmNCeU1LVXBGcjdnbW82Q1QyMHV2ZWhmWEhWekN4NS1kVTRxYTFHQWQ1Qk82TUg0ZDlVQkpiTUFYMHo4dGp4Z3VWNHB1enpFOXNCQ0ZPSUd2MzdMbWI?oc=5",
-      "date": "2026-05-01 18:21",
+      "date": "2026-04-30 18:33",
       "summary": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock  Bloomberg.com..."
     },
     {
-      "title": "Pentagon reaches agreements with top AI companies, but not Anthropic By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT183b0VNcDBnOUxmOHFWVVF5OUxDN0tUR2gtaFdfR2h5M2I5bk9xaTYxT01USUVFYkxham1ud3BLZkVhbG1velZiNlZ0ZzRJSlVCRnMybUlUeVVueGJFRnZmNHRoOTlrbG9zU3l0UXgxa2JQVDhHN2s4NnNYMFJwMDNyU0dBUWlmazRuTHZpWmJxOFc2aS1QZkpiMVdNSDEtejFoV280MnJmVVVhWWcw?oc=5",
-      "date": "2026-05-01 18:56",
-      "summary": "Pentagon reaches agreements with top AI companies, but not Anthropic By Reuters  Investing.com..."
+      "title": "Meta lifts capital expenditure forecast, doubling down on AI push By Reuters - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSEpkYklJRUF6UlhIcXdINWdLX2tLZG9YWVJKS3dVaUVaVUhLMVhsSUF4anJ4YS1zQks3OGNQdXd3SnlKNXpnT3p4ck9tQWM5dlBFWVBwcm1VTTFOS2NjbVJiVV9YZ2NDZzZMc1hQWmp5MUZ0aGpWeGkwU0UweXBuV21YdnZFeTRUMWs0T2JWeW83N09aYlhaeGUwRUVoM0trS1kwZnkyZG1RQ0FzaGZSVWFINnNQZnZQbE55TzJ3?oc=5",
+      "date": "2026-04-29 20:10",
+      "summary": "Meta lifts capital expenditure forecast, doubling down on AI push By Reuters  Investing.com..."
     },
     {
       "title": "AI actors and writers will be ineligible for Oscars - Reuters",
@@ -231,18 +231,6 @@
       "summary": "This startup’s new mechanistic interpretability tool lets you debug LLMs  MIT Technology Review..."
     },
     {
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTi1jZkhwbUdsMmxOd0dvVk43VXpsXzJ1U2s1eUhUdGVxTVNBa1JpV1Z1NDEtMzBXTVpSZ1J3eXN6WVEzLW96aVdfOUd5QnA4U3d2aGdlWjBncndJMFE3VWxPSThEQy0zQjVhbWdiZU5kc0dDZXJiRjUtcGN6TW9zT3p2NnRBOG5OUTFGZDFhaUdOOG5EVjVNMkhBeUc2bm5MZjZPWG1FSElqMkVhTHc5a1FYZ2szSU9yYzNIT0hDQ3oweUprQ2lNWmxOTnkyRTg0OUtRZ2lTamVkZy1xVk9ySF9jMEJVT21KYTJNc21PWG5mR2llSTBncVhBWdIBgAJBVV95cUxNMElkY1hLcHZMS1p4Q1J5WG1XMTdpZlExSVR6eUZNSmptbVN0aks1UkkzNDE0ZGJpMkhXUzd5cWtfZjJaMGFHWklqY0xJTzlpLTE5ZUVMc3dCRUQxd2thRV9PNjRnbzllbDEzSGxrdnM2ZTVaTnFSWW1vNGx6SnRnUlo4YnFVZ2Nqd2NTMlUxZ2tVT2ZDT1JQVG90QUhucVZ6Y3N0Z3RYS25NTjVmT0IxcG05VDRJXzkxd0d6MmN1UkhUT2plVW9vYnB2cWtjRlBralZreVhaUDNXRE9UUHVDN2tLWnVvdzc3WGZLS1IteG1YSlpqdWJZZ05xU3FxNUQ2?oc=5",
-      "date": "2026-05-01 22:08",
-      "summary": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models  MIT ..."
-    },
-    {
-      "title": "Operationalizing AI for Scale and Sovereignty - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlZmbnZIdFU2R1Bsclh4VWw5VDN6OThraUtnWlFlRFh6SDR0SVI1dDhxYnVrMjQ1UFFjbXVHaFl1Q25CZ0FnbUFFYWhyOUIzWkxVTnN4c2ZWdGhCdmlhOElHWkNWLS1iVG9jUGtneWVFaTlseWI3cDd3V3dUaXBqRlFVUko0ci03cHBIOXl2YW5pbEsyMW5qeDlUZWlGMDDSAaQBQVVfeXFMUGxvN0xFWnEtZ0R1NWJ1NGJmaWd3dlRFUW5ncG55YV9rNUJPS0w4T2xoN3V2XzhjR0pwMXlrUlZ3NlVMa3hnLWx4Tk9CaXZKYk02QjVaYUtZaWVfYmRvUGNtUmpfM040QUIxcnhyNWRPMExjUjBGc1J2czAyVHIxQ19lSlRrcUpYYXdMN0oxVi13NVRWcEg1UlZ4YmxGZ0QwYVZwaGI?oc=5",
-      "date": "2026-05-01 15:31",
-      "summary": "Operationalizing AI for Scale and Sovereignty  MIT Technology Review..."
-    },
-    {
       "title": "A new US phone network for Christians aims to block porn and gender-related content - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHU0Z0NrdEN5bE5ZNjU0d2xNTUMwRkg0UVVaZVJtQV9GcC1veUhiRTZZdGlZVEZZMk1DLWM4WXNXWUFwYmxZOF80RTRFb08waFY1dVZaQkFIWENUa0FuelJPVjFLTnFCdVRmQVhkaXJzbDNaZ01aOEs4TVhqRWxpRlAzZ1RIcWlENFc3OWdOSDg0YnkwTl9hMzVhSDduTlY2R3hKd3JCT3ItcUlGcXFUX21KVWlHUDNWWGsxRHNIZ0pOSm5FQmRWZ2RpYVdlS0RsVHfSAdcBQVVfeXFMUEVRM01UdTVxVVM3NXlsUURqaEVkdTB3UDNiSjJqbzh4YzdJR3NqRnJ1SWxaOEYtd09KcXJJSVZpMmI2QXNFU3RJcFRDMGx0MG9vaHNEaFlKcUc4MmlUZ2lUUVlEd0FBd0VaQ2hSeURvYXVsdU1TVHZfQkhsbU9UNXJ3dmhkMWdrak5vSGJMTTF4RjNSSGhlaU9nRkFLQjJZYzc3b0tNa2ZPc3RVWGs2cVBDYmtyeFNjekY5cjNpN09ORHdSTUpScTlfRFlrc05pUTVtRU5BYjg?oc=5",
       "date": "2026-05-01 09:00",
@@ -253,9 +241,27 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY0Y2OHA1RHNMVFJQS3ZMVnpsRzJUQTg3Yl9XM3lvcjlyVHBiNWJ1YUdDVm4xbmdUR2NkLVlKR0RfQUlZeUVBREZfU1V3VEFNSHB2dEhldklPZWdzclBzaEpNbmo5TUo2YWJXNVVYU1hiZXdTYmNxaXdORFQyS25qSjc2ZzJxOGIyWkRB0gGQAUFVX3lxTE5UM2VHTUx5Q2lqLTRhb3Jhc2c5SjROdE9Nc0R1UEhVZFVZZk1QVXRMNHhENXVqS2NoZ3dfbmZwVmtLWmI3VmtoZ2xJWmdkR3BES3VlUTRsNkNDaXA2U2U3NF9RSmhiTlZlXzRscTYyZjMyZjFSTmxXV2pLZWg5Q3E3NXJYdHh4Nlh2SUZHZUVJQQ?oc=5",
       "date": "2026-05-01 15:54",
       "summary": "Cyber-Insecurity in the AI Era  MIT Technology Review..."
+    },
+    {
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTi1jZkhwbUdsMmxOd0dvVk43VXpsXzJ1U2s1eUhUdGVxTVNBa1JpV1Z1NDEtMzBXTVpSZ1J3eXN6WVEzLW96aVdfOUd5QnA4U3d2aGdlWjBncndJMFE3VWxPSThEQy0zQjVhbWdiZU5kc0dDZXJiRjUtcGN6TW9zT3p2NnRBOG5OUTFGZDFhaUdOOG5EVjVNMkhBeUc2bm5MZjZPWG1FSElqMkVhTHc5a1FYZ2szSU9yYzNIT0hDQ3oweUprQ2lNWmxOTnkyRTg0OUtRZ2lTamVkZy1xVk9ySF9jMEJVT21KYTJNc21PWG5mR2llSTBncVhBWdIBgAJBVV95cUxNMElkY1hLcHZMS1p4Q1J5WG1XMTdpZlExSVR6eUZNSmptbVN0aks1UkkzNDE0ZGJpMkhXUzd5cWtfZjJaMGFHWklqY0xJTzlpLTE5ZUVMc3dCRUQxd2thRV9PNjRnbzllbDEzSGxrdnM2ZTVaTnFSWW1vNGx6SnRnUlo4YnFVZ2Nqd2NTMlUxZ2tVT2ZDT1JQVG90QUhucVZ6Y3N0Z3RYS25NTjVmT0IxcG05VDRJXzkxd0d6MmN1UkhUT2plVW9vYnB2cWtjRlBralZreVhaUDNXRE9UUHVDN2tLWnVvdzc3WGZLS1IteG1YSlpqdWJZZ05xU3FxNUQ2?oc=5",
+      "date": "2026-05-01 22:08",
+      "summary": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models  MIT ..."
+    },
+    {
+      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVB2eTlFanBoVlZnZ2hTSmZ4UjhJbDdkNU12Ukstd04waHJKSjdXX01YVXhaZEl1Z29RMHdyM05EcmNhNlIycllMQTNqNnVVcHlPZ0lKTkFuZHdnT3VoenhVaTFMUWJ5UWxrRUNuUkRHMVJRRjNMb2d5cmFuVXNYNTNzTklEMDl4NVJyQXFZZVhpV0JQY0lkaDhOZWFXUjZMNnduQ2JET1QxZm1xNk51VUROV2ktSknSAbwBQVVfeXFMTkpxZ3UwcEFVRUFWNll3bHJfYmVYZXBtcEJZMnpEcUkzWkE2RkRZQm1CbTlLSFE2SV92cTNISUdERXBieENDQzlwTzN4T0NrUEhtMHRJM1Ywc2s5c1BtUEo1UFIxSDBjbGxDU1hhaTBEZE1FSlN1ZDRWT1VubDdjZEFJV2t6dmNLeWdMREdTX25lUmxkNzVjb0FOd0toZWpZUUxZN2RvV3pKS2lCODU0SU11RmRacU0tTEJrTjA?oc=5",
+      "date": "2026-04-27 22:52",
+      "summary": "Elon Musk and Sam Altman are going to court over OpenAI’s future  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Green alley effectiveness depends on design and purpose, study finds",
+      "link": "https://phys.org/news/2026-04-green-alley-effectiveness-purpose.html",
+      "date": "2026-05-02 18:30",
+      "summary": "Green alleys—residential laneways redesigned to enhance residents' quality of life, boost social cohesion and improve biodiversity..."
+    },
     {
       "title": "Locked in stone for 210 million years, this newly identified crocodile cousin was built to crush larger prey",
       "link": "https://phys.org/news/2026-04-stone-million-years-newly-crocodile.html",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-04-hidden-molecules-stronger-ebola-covid.html",
       "date": "2026-05-02 15:00",
       "summary": "Scientists at the Université de Montréal's affiliated Montreal Clinical Research Institute (IRCM) have identified a new family of ..."
-    },
-    {
-      "title": "Flooded fields across Midwest spur push for farm-tested solutions",
-      "link": "https://phys.org/news/2026-04-fields-midwest-spur-farm-solutions.html",
-      "date": "2026-05-02 14:00",
-      "summary": "Larry Dallas's farm in Central Illinois's Douglas County is as flat as it gets. That's a good thing for planting straight rows and..."
     }
   ],
   "The Guardian Edu": [
