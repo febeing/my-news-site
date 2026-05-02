@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Why Eurovision stays unpredictable after 70 years of copycats and rule changes",
+      "link": "https://phys.org/news/2026-04-eurovision-stays-unpredictable-years-copycats.html",
+      "date": "2026-05-02 20:00",
+      "summary": "The Eurovision Song Contest (ESC) has been attracting millions of fans every year since it was launched back in 1956. At the same ..."
+    },
+    {
+      "title": "A new interface to study RNA biology",
+      "link": "https://phys.org/news/2026-04-interface-rna-biology.html",
+      "date": "2026-05-02 20:00",
+      "summary": "Scientists at Université de Montréal's Institute for Research in Immunology and Cancer have developed a new database that integrat..."
+    },
+    {
       "title": "Gold digging is not exclusive to women: New study uncovers common attributes",
       "link": "https://phys.org/news/2026-05-gold-exclusive-women-uncovers-common.html",
       "date": "2026-05-02 19:30",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-04-stone-million-years-newly-crocodile.html",
       "date": "2026-05-02 16:50",
       "summary": "On a fateful day 210 million years ago, two crocodile cousins about the size of jackals stood side-by-side amid the low ferns of a..."
-    },
-    {
-      "title": "Plant-based diets cut climate impact by more than half, randomized clinical trial shows",
-      "link": "https://phys.org/news/2026-04-based-diets-climate-impact-randomized.html",
-      "date": "2026-05-02 16:30",
-      "summary": "As climate change accelerates and global temperatures continue to rise, a new randomized clinical trial provides compelling eviden..."
-    },
-    {
-      "title": "Deadly feline coronavirus variant has been present in the US for more than a decade",
-      "link": "https://phys.org/news/2026-04-deadly-feline-coronavirus-variant-decade.html",
-      "date": "2026-05-02 15:00",
-      "summary": "Cornell researchers have discovered that a lethal variant of feline coronavirus, previously thought to be limited to a devastating..."
     }
   ],
   "The Guardian Edu": [
@@ -349,6 +349,38 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3352225/300-verbal-warnings-issued-sharp-island-visitors-labour-day?utm_source=rss_feed",
       "date": "2026-05-02 10:40",
       "summary": "Hong Kong authorities issued 300 verbal warnings to people visiting Sharp Island on the first day of mainland China’s Labour Day “..."
+    }
+  ],
+  "New Scientist": [
+    {
+      "title": "2026 will be the hottest year on record, leading scientist predicts",
+      "link": "https://www.newscientist.com/article/2525229-2026-will-be-the-hottest-year-on-record-leading-scientist-predicts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-01 17:24",
+      "summary": "The second half of this year will almost certainly see the start of an El Niño phase that could lead to extreme heat across much o..."
+    },
+    {
+      "title": "NHS England rushes to hide software over AI hacking fears",
+      "link": "https://www.newscientist.com/article/2524962-nhs-england-rushes-to-hide-software-over-ai-hacking-fears/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-01 12:32",
+      "summary": "National Health Service rules state that all software created with public money should be publicly available, but fears of compute..."
+    },
+    {
+      "title": "Oak trees use delaying tactics to thwart hungry caterpillars",
+      "link": "https://www.newscientist.com/article/2524968-oak-trees-use-delaying-tactics-to-thwart-hungry-caterpillars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-01 10:00",
+      "summary": "An infestation of caterpillars can make an oak tree postpone when it opens its leaves next year by three days, wrong-footing the i..."
+    },
+    {
+      "title": "Will Colombia summit kick-start the end of the fossil fuel era?",
+      "link": "https://www.newscientist.com/article/2525033-will-colombia-summit-kick-start-the-end-of-the-fossil-fuel-era/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-01 09:58",
+      "summary": "With progress at COP climate meetings stalling, 57 countries took part in the first of a new series of conferences aiming to devel..."
+    },
+    {
+      "title": "The rings of Uranus are even stranger than we thought",
+      "link": "https://www.newscientist.com/article/2524832-the-rings-of-uranus-are-even-stranger-than-we-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-01 08:00",
+      "summary": "Uranus’s outermost two rings are surprisingly dissimilar, which opens up a mystery about the tiny moons and moonlets that form the..."
     }
   ]
 }
