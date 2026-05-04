@@ -1,6 +1,24 @@
 {
   "MIT News": [
     {
+      "title": "Rett syndrome study highlights potential for personalized treatments",
+      "link": "https://news.mit.edu/2026/rett-syndrome-study-highlights-potential-personalized-treatments-0504",
+      "date": "2026-05-04 18:00",
+      "summary": "Using advanced human cell cultures, MIT researchers tracked how two different mutations alter neural circuit development, and how ..."
+    },
+    {
+      "title": "Powering 160,000 hours of discovery at MIT.nano",
+      "link": "https://news.mit.edu/2026/powering-160000-hours-discovery-at-mitnano-0504",
+      "date": "2026-05-04 17:50",
+      "summary": "NanoFab Equipment Management and Operations (NEMO) system streamlines shared facilities management via tool trainings, reservation..."
+    },
+    {
+      "title": "It took 40 years for technology to catch up to this zipper design",
+      "link": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+      "date": "2026-05-04 17:45",
+      "summary": "An old patent from MIT Professor Bill Freeman inspired the new “Y-zipper,” a three-sided fastener that snaps gear, robots, and art..."
+    },
+    {
       "title": "How chromatin movement helps control gene expression",
       "link": "https://news.mit.edu/2026/how-chromatin-movement-helps-control-gene-expression-0504",
       "date": "2026-05-04 09:00",
@@ -11,24 +29,6 @@
       "link": "https://news.mit.edu/2026/study-gene-circuits-reshape-dna-folding-and-affect-gene-expression-0430",
       "date": "2026-04-30 18:00",
       "summary": "When genes are transcribed, they suppress or activate their neighbors, coupling expression between the two genes...."
-    },
-    {
-      "title": "The hidden structure behind a widely used class of materials",
-      "link": "https://news.mit.edu/2026/hidden-structure-behind-widely-used-class-materials-0430",
-      "date": "2026-04-30 18:00",
-      "summary": "Relaxor ferroelectrics have been used in electronics and sensors for decades, but the source of their unique properties was a myst..."
-    },
-    {
-      "title": "How neurons sense bacteria in the gut",
-      "link": "https://news.mit.edu/2026/how-neurons-sense-gut-bacteria-0430",
-      "date": "2026-04-30 17:30",
-      "summary": "Neural interaction with bacteria has important effects on animal brains. A new study investigates how neurons sense bacteria by re..."
-    },
-    {
-      "title": "A materials scientist’s playground",
-      "link": "https://news.mit.edu/2026/materials-scientists-playground-0430",
-      "date": "2026-04-30 17:20",
-      "summary": "New system at MIT.nano will support quantum technology research...."
     }
   ],
   "Harvard Gazette": [
@@ -77,22 +77,22 @@
       "summary": "‘AI is changing the way we do biology’  Stanford Report..."
     },
     {
-      "title": "Stanford cuts ribbon on new home of Department of African and African American Studies - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lUHZyUGJrbzBpSmtqejNvcVlub0JCUnhKZldNcXVpeGtqQjFSQzZlZk4tN3ZYdTJRN3l1bkFXSEIzd25JaHNIVXVQbkxJOXZ0c3dtdjZCUTlfd01ieFRGNEpOMG4tNThzV2Y2MzR6dDlDWjdBanBybl9heV8?oc=5",
-      "date": "2026-05-04 06:42",
-      "summary": "Stanford cuts ribbon on new home of Department of African and African American Studies  The Stanford Daily..."
+      "title": "Four H&S scholars named 2026 Guggenheim Fellows - Stanford School of Humanities and Sciences",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd18ydUJ5bnAxcDN2dlUybERMd0FWSFR3SkJwVjE2ekVTQlZ6c3BYRTB6RW1MYjFuWF95UU9HQWtnZ2wzeXRWOWlYSWdwa3kzTHpWNzQ0MGJxN2ktSVlENWN3Tm5xcWV1eUdBb0dGZllKRWt4UWRwb18xdV8yRzVkTS1WbkxvNGk4SEE?oc=5",
+      "date": "2026-05-04 17:47",
+      "summary": "Four H&S scholars named 2026 Guggenheim Fellows  Stanford School of Humanities and Sciences..."
     },
     {
-      "title": "International Students at Boston University, Stanford Say This Is How to Network During Your LL.M. - LLM Guide",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQakxRZ3A4MXc4bkF6NW9nWGdJeHlRTHNUSE9hV3hMdFA2Z0lPYWdJanR5SWVWdnM4QVM0WW9PV1g2ME4wQnVpTkZCX3RLYWVJZ2ZOY1UyMEJibjVvRkxoYURGQ2FPU2NyOUh2N2c4LTRMOFBGV25GbDJTVHJnUVNWRm1lNU9tV2xCTE02RG5XY1J6WGZvRjJ6Ul9ocjZoYW1MM1ExUHE0VTBqWnVZbURSSFEzZjJsdzlxSDhTUWUzR240bVVn?oc=5",
-      "date": "2026-05-03 22:00",
-      "summary": "International Students at Boston University, Stanford Say This Is How to Network During Your LL.M.  LLM Guide..."
+      "title": "Bringing global histories of gender, race, and citizenship to the AI age - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNjdNUjJ5ak1PRW0yVndhSTFRUVQ2Y3Nrd3JaVmhMZnJiaFZ3SDJnWncwMDNMUGFVSlpmU2RrU3FMYXU5a09uSE5IclAyN242M0d3ZWJkUlh0QjlsYkJGcEZPYjNrdGFGTHhSQkJ4Q1hEOXFhSHU4SHJHVm5MN0FtRl93eEVIeURQbnVDbzRBV24zRjBn?oc=5",
+      "date": "2026-05-04 12:00",
+      "summary": "Bringing global histories of gender, race, and citizenship to the AI age  Stanford University..."
     },
     {
-      "title": "UPDATE: Feds investigate Stanford’s program supporting teachers of color - EdSource",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDVjU1ZPd1VoU1cxbTRXb29pNnBKYWJOV3NEYl9NZlZyWDR1eEdjVkV3N254NzNNallzOU1lMW52c3dRWHR5UUQ2TVpfTEo4WlBkTHpsTFA0a3NJM0pBb2NHVnpwRUhIcUl0R2hjc2hpbkVJOGJvV2d6N0kxLXFDSTAzOXVqNUZNbS1tZmhCYjdSQk9HU1JtN0NGclVQQQ?oc=5",
-      "date": "2026-05-01 17:57",
-      "summary": "UPDATE: Feds investigate Stanford’s program supporting teachers of color  EdSource..."
+      "title": "Peer to Peer: The Class of 1995 Connects with the Class of 2025 - Stanford Graduate School of Business",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeE54NEwycjMtWG1CMTdPWldDRVZacVNQMF83Sk50X1d5eFNoc1Y3T1oyazNGZnFQZ0pWZXVMTDRhSDdfVHc1b0JoNnA3czQtUGY4cERnZFZuQ29HRW1JQ3lxT1p4QnRrTVRsTkZ2aVA2VkdkUHdVRkNxbzFRYWJXcVB1NXJocGZ2ZjZmZTF4NzNBaE5jalAxcQ?oc=5",
+      "date": "2026-05-04 16:38",
+      "summary": "Peer to Peer: The Class of 1995 Connects with the Class of 2025  Stanford Graduate School of Business..."
     }
   ],
   "Nature Careers": [
@@ -101,6 +101,12 @@
       "link": "https://www.nature.com/articles/d41586-026-01410-1",
       "date": "2026-05-04 00:00",
       "summary": "Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01410-1By accelerating the identification of DNA sequences that cont..."
+    },
+    {
+      "title": "'Heartbreaking': Iranian scientists on losing labs, libraries and liberty",
+      "link": "https://www.nature.com/articles/d41586-026-01394-y",
+      "date": "2026-05-04 00:00",
+      "summary": "Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01394-yBombing of Iran's civilian infrastructure has damaged univers..."
     },
     {
       "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01075-w",
       "date": "2026-05-01 00:00",
       "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01075-wNot a bug, but a feature...."
-    },
-    {
-      "title": "US faculty members report high levels of anxiety",
-      "link": "https://www.nature.com/articles/d41586-026-01252-x",
-      "date": "2026-05-01 00:00",
-      "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01252-xSurveys show the importance of social, familial and structura..."
     }
   ],
   "Science News": [
@@ -199,16 +199,16 @@
       "summary": "Anthropic nears $1.5 billion AI joint venture with Wall Street firms, WSJ reports  Reuters..."
     },
     {
-      "title": "Pentagon reaches agreements with top AI companies, but not Anthropic By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT183b0VNcDBnOUxmOHFWVVF5OUxDN0tUR2gtaFdfR2h5M2I5bk9xaTYxT01USUVFYkxham1ud3BLZkVhbG1velZiNlZ0ZzRJSlVCRnMybUlUeVVueGJFRnZmNHRoOTlrbG9zU3l0UXgxa2JQVDhHN2s4NnNYMFJwMDNyU0dBUWlmazRuTHZpWmJxOFc2aS1QZkpiMVdNSDEtejFoV280MnJmVVVhWWcw?oc=5",
-      "date": "2026-05-01 18:56",
-      "summary": "Pentagon reaches agreements with top AI companies, but not Anthropic By Reuters  Investing.com..."
-    },
-    {
       "title": "As Formula One evolves, AI becomes part of the race - Reuters",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjlIX0JUZjhLMGdrRzc0cmt6b2JxcndUYjVRa1JsRl9rbFFDNnR0UmM0MGxSRURrc0NMaWRIZWExQ3k2UjJXNmNDVENhVm9UUzE4aHZrRmN1ME5Sb1VaTE51R3gtY2NNcVhZckdhbjdaeU5mVG5NVDk1UWVDSG9RTHhZMWY3SldWRDVhNXF4Q3I?oc=5",
       "date": "2026-05-04 14:51",
       "summary": "As Formula One evolves, AI becomes part of the race  Reuters..."
+    },
+    {
+      "title": "SK Hynix shares rally 13% after US tech firms signal strong AI spending plans - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcm50RTdIRWJBZHVlUFQ5Sld2WURZZUhDUTJzRHI3YTlYR3Z3cmFtQTRTNE9UdTBhVmwwYkN1b0Fvc2RMTTlSTFBLUUhvekpUUE15a0NMVTZHc3kwaW1lakZqVXNUZmhiTUtYZlhzOURUVHJCSFVHajJqUTZfQ1hFWEdORUluU0I1ekZGVkNZWWhOSS03S3VqbTNnUnhUdUtFak5OVTZFZWIzUHZDSU5XdF9JYmE3R3FOY3dOXzN5WktzMUIxNWVLcU9n?oc=5",
+      "date": "2026-05-04 06:15",
+      "summary": "SK Hynix shares rally 13% after US tech firms signal strong AI spending plans  Reuters..."
     },
     {
       "title": "India's markets regulator to soon issue advisory on emerging AI risks - Reuters",
@@ -217,10 +217,10 @@
       "summary": "India's markets regulator to soon issue advisory on emerging AI risks  Reuters..."
     },
     {
-      "title": "SK Hynix shares rally 13% after US tech firms signal strong AI spending plans - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcm50RTdIRWJBZHVlUFQ5Sld2WURZZUhDUTJzRHI3YTlYR3Z3cmFtQTRTNE9UdTBhVmwwYkN1b0Fvc2RMTTlSTFBLUUhvekpUUE15a0NMVTZHc3kwaW1lakZqVXNUZmhiTUtYZlhzOURUVHJCSFVHajJqUTZfQ1hFWEdORUluU0I1ekZGVkNZWWhOSS03S3VqbTNnUnhUdUtFak5OVTZFZWIzUHZDSU5XdF9JYmE3R3FOY3dOXzN5WktzMUIxNWVLcU9n?oc=5",
-      "date": "2026-05-04 06:15",
-      "summary": "SK Hynix shares rally 13% after US tech firms signal strong AI spending plans  Reuters..."
+      "title": "Exclusive: US officials weigh cutting deadlines to fix digital flaws amid worries over AI-powered hacking, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGN6dXV0LU43a3VDd0JFTE1oYkVkZVBqVDhLalNKMExITzZfNWpuLUlaWXVKWVJZZDk1aTlmLVlIVTZqbDhISXpTMHc3N3k3QXlCZU0xSERVdFB6TW5WRW1oMVJrM3JPanEzeVBNV1R1ZXNjR2tmV0ZGUS1WRTZNRXREcWdyQ3BlVUlCZkdsRVdsNmtBTXYteFA1cUI3OVJsSmdxcW85Y0JrYm0zUkx4YkdfZExlRVRRR3JjYUZRc09aSGZUQm44?oc=5",
+      "date": "2026-05-01 21:58",
+      "summary": "Exclusive: US officials weigh cutting deadlines to fix digital flaws amid worries over AI-powered hacking, sources say  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Louisiana's shrinking coast may offer world early guide to climate adaptation",
-      "link": "https://phys.org/news/2026-05-louisiana-coast-world-early-climate.html",
-      "date": "2026-05-04 16:00",
-      "summary": "A Tulane University-led team of interdisciplinary researchers says coastal Louisiana's climate-driven land loss and population shi..."
+      "title": "No more guesswork in drug design—atomic-resolution method exposes what trial and error keep missing",
+      "link": "https://phys.org/news/2026-05-guesswork-drug-atomic-resolution-method.html",
+      "date": "2026-05-04 18:00",
+      "summary": "Drug discovery still too often relies on expensive trial and error. Researchers from ICTER show there is another way—building mole..."
     },
     {
-      "title": "Social media use may reflect stress relief and belonging more than habit",
-      "link": "https://phys.org/news/2026-05-social-media-stress-relief-habit.html",
-      "date": "2026-05-04 16:00",
-      "summary": "There is an assumption that social media use is mainly habitual or driven by addiction-like mechanisms, but findings published in ..."
+      "title": "The COVID‑19 pandemic exposed the load mothers carry—a burden that's still being ignored today",
+      "link": "https://phys.org/news/2026-05-covid19-pandemic-exposed-mothers-burden.html",
+      "date": "2026-05-04 18:00",
+      "summary": "The COVID-19 pandemic exacerbated and brought into focus the ongoing disproportionate burden on mothers when it comes to household..."
     },
     {
-      "title": "Climate change is rewriting winter lakes in a way that looks completely backward at first glance",
-      "link": "https://phys.org/news/2026-05-climate-rewriting-winter-lakes-glance.html",
-      "date": "2026-05-04 15:40",
-      "summary": "Climate change undoubtedly affects lakes and the functioning of their ecosystems, but seasonal impacts are not always straightforw..."
+      "title": "Why keeping collaborative remote work environment options open is key for business innovation",
+      "link": "https://phys.org/news/2026-05-collaborative-remote-environment-options-key.html",
+      "date": "2026-05-04 17:40",
+      "summary": "At a time when remote work is increasingly up for debate among companies, it remains an often underestimated lever for fostering o..."
     },
     {
-      "title": "Honeybees may be helping spread tree‑killing myrtle rust—new research",
-      "link": "https://phys.org/news/2026-05-honeybees-treekilling-myrtle-rust.html",
-      "date": "2026-05-04 15:40",
-      "summary": "We know introduced honeybees as the ever-busy helpers of our gardens, farms and orchards...."
+      "title": "Scientists unlock new way to engineer next-generation glass",
+      "link": "https://phys.org/news/2026-05-scientists-generation-glass.html",
+      "date": "2026-05-04 17:40",
+      "summary": "Scientists have adapted a centuries-old principle of chemistry to fine-tune a new type of glass made from metal–organic frameworks..."
     },
     {
-      "title": "Beam-splitting approach reveals hidden changes in vitamin B12",
-      "link": "https://phys.org/news/2026-05-approach-reveals-hidden-vitamin-b12.html",
-      "date": "2026-05-04 15:20",
-      "summary": "Researchers at European XFEL have developed a way to study liquid samples that are too dilute for many existing X-ray experiments...."
+      "title": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules",
+      "link": "https://phys.org/news/2026-05-symmetry-crystal-vibrations-exotic-quantum.html",
+      "date": "2026-05-04 17:20",
+      "summary": "Symmetry is one of the most fundamental principles in nature. It describes the rules that make an object look unchanged after a ro..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Uzbek PM Abdulla Aripov to join ‘milestone’ 200-member delegation in Hong Kong",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352411/uzbek-pm-abdulla-aripov-join-milestone-200-member-delegation-hong-kong?utm_source=rss_feed",
+      "date": "2026-05-04 16:06",
+      "summary": "Uzbek Prime Minister Abdulla Aripov will visit Hong Kong two days after a 200-strong delegation from the Central Asian country arr..."
+    },
+    {
       "title": "‘Golden week’: Hong Kong draws more mainland Chinese visitors but spending uneven",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352395/golden-week-hong-kong-draws-more-mainland-chinese-visitors-spending-uneven?utm_source=rss_feed",
       "date": "2026-05-04 12:51",
@@ -339,16 +345,10 @@
       "summary": "A bird watcher saw people landing on an uninhabited island in southern Hong Kong waters known to be a regular breeding site for te..."
     },
     {
-      "title": "Lift technician dies after 10-metre fall down shaft at Hong Kong luxury estate",
+      "title": "Lift technician killed by falling metal inside shaft at Hong Kong luxury estate",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3352392/lift-technician-dies-after-10-metre-fall-down-shaft-hong-kong-luxury-estate?utm_source=rss_feed",
       "date": "2026-05-04 12:02",
-      "summary": "A worker died after falling 10 metres (33 feet) down a lift shaft he was repairing at a luxury estate in Hong Kong on Monday.\nA se..."
-    },
-    {
-      "title": "Yan Huichang to step down as head of Hong Kong Chinese Orchestra after 30-year run",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3352386/yan-huichang-step-down-head-hong-kong-chinese-orchestra-after-30-year-run?utm_source=rss_feed",
-      "date": "2026-05-04 11:10",
-      "summary": "Yan Huichang will step down as the artistic director of the Hong Kong Chinese Orchestra in July 2027 after three decades at the he..."
+      "summary": "A lift technician has died after being struck by a large piece of falling metal while carrying out maintenance work inside a shaft..."
     }
   ],
   "New Scientist": [
