@@ -65,22 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "Institute to focus on leadership in increasingly complex world - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVgzaW9QdDR0QW11WjlkeS1wZ3RBY3pfRDJDcjVVeHZDTHE1a3AtZmhfZVg2SGlQNlhseDNGYUNSRHktT0x5eExEWkVYV0lfdVFXYW9nbE52MjdKbk9SOVgxWm9QRUN2MkRsZUxBTW1GNVRPbkhWc0x4RWE5MmNiRQ?oc=5",
-      "date": "2026-05-04 13:03",
-      "summary": "Institute to focus on leadership in increasingly complex world  Stanford Report..."
-    },
-    {
-      "title": "‘AI is changing the way we do biology’ - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9udmNqUEh2azhVaEYzOGJpUXdEUDJXemJMeXBGSDBnbjRBTTBMU2g5ZVhfQWUyWGZ4ZVhiMl93b0ctUDRZRXl3STNUcFFOQmkwT3MyZkl3TjhId2Y3c3dkN1JnaHcwR0NrQ1dHWjBHWDBBcjBHUC10ZF81Ql8?oc=5",
-      "date": "2026-05-04 13:03",
-      "summary": "‘AI is changing the way we do biology’  Stanford Report..."
-    },
-    {
       "title": "Four H&S scholars named 2026 Guggenheim Fellows - Stanford School of Humanities and Sciences",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd18ydUJ5bnAxcDN2dlUybERMd0FWSFR3SkJwVjE2ekVTQlZ6c3BYRTB6RW1MYjFuWF95UU9HQWtnZ2wzeXRWOWlYSWdwa3kzTHpWNzQ0MGJxN2ktSVlENWN3Tm5xcWV1eUdBb0dGZllKRWt4UWRwb18xdV8yRzVkTS1WbkxvNGk4SEE?oc=5",
       "date": "2026-05-04 17:47",
       "summary": "Four H&S scholars named 2026 Guggenheim Fellows  Stanford School of Humanities and Sciences..."
+    },
+    {
+      "title": "Four Stanford undergraduates named Goldwater Scholars - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcW5sZHVKd2dpdnctN1pNVG4tM1pBS1VINEI5SVVLSlJsajQ2NlROdTM1TkhibkQ1TlZ6b3F4bDdxeUZPUHU2QVBsZWpRZGxSZm9DbUR0aHNpZVF3YzVEQU1MdFFXUVB2TTlZaEstb2pOdmRwQW5NZWVqaXk1Wnh3Qy04c0otZzIw?oc=5",
+      "date": "2026-05-04 19:34",
+      "summary": "Four Stanford undergraduates named Goldwater Scholars  Stanford Report..."
     },
     {
       "title": "Bringing global histories of gender, race, and citizenship to the AI age - Stanford University",
@@ -93,6 +87,12 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeE54NEwycjMtWG1CMTdPWldDRVZacVNQMF83Sk50X1d5eFNoc1Y3T1oyazNGZnFQZ0pWZXVMTDRhSDdfVHc1b0JoNnA3czQtUGY4cERnZFZuQ29HRW1JQ3lxT1p4QnRrTVRsTkZ2aVA2VkdkUHdVRkNxbzFRYWJXcVB1NXJocGZ2ZjZmZTF4NzNBaE5jalAxcQ?oc=5",
       "date": "2026-05-04 16:38",
       "summary": "Peer to Peer: The Class of 1995 Connects with the Class of 2025  Stanford Graduate School of Business..."
+    },
+    {
+      "title": "Stanford cuts ribbon on new home of Department of African and African American Studies - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lUHZyUGJrbzBpSmtqejNvcVlub0JCUnhKZldNcXVpeGtqQjFSQzZlZk4tN3ZYdTJRN3l1bkFXSEIzd25JaHNIVXVQbkxJOXZ0c3dtdjZCUTlfd01ieFRGNEpOMG4tNThzV2Y2MzR6dDlDWjdBanBybl9heV8?oc=5",
+      "date": "2026-05-04 06:42",
+      "summary": "Stanford cuts ribbon on new home of Department of African and African American Studies  The Stanford Daily..."
     }
   ],
   "Nature Careers": [
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "ORI announces 15-year debarment against former Rice University scientist",
+      "link": "https://retractionwatch.com/2026/05/04/ori-announces-15-year-debarment-against-former-rice-university-scientist/",
+      "date": "2026-05-04 18:31",
+      "summary": "The U.S Office of Research Integrity has formally announced a 15-year funding debarment against a former Rice University scientist..."
+    },
+    {
       "title": "Weekend reads: A retraction for top cancer researcher; paper mill ads paired to IEEE proceedings; about that study on ChatGPT and learning",
       "link": "https://retractionwatch.com/2026/05/02/weekend-reads-retraction-cancer-researcher-paper-mill-ads-ieee-proceedings-study-chatgpt-learning/",
       "date": "2026-05-02 10:00",
@@ -183,12 +189,6 @@
       "link": "https://retractionwatch.com/2026/04/29/researcher-claims-his-case-report-was-stolen-by-someone-else-at-his-hospital/",
       "date": "2026-04-29 15:20",
       "summary": "A researcher claims a case report he coauthored was plagiarized by doctors at the same institution three years later — a paper he ..."
-    },
-    {
-      "title": "Black marks on published papers don’t change citation rates, new study finds",
-      "link": "https://retractionwatch.com/2026/04/27/citation-rates-retracted-corrected-articles-asemi-clinical-trials/",
-      "date": "2026-04-27 18:34",
-      "summary": "Neither retractions, expressions of concern, nor other editorial notices seem to keep authors from continuing to cite problematic ..."
     }
   ],
   "Reuters AI": [
@@ -199,28 +199,28 @@
       "summary": "Anthropic nears $1.5 billion AI joint venture with Wall Street firms, WSJ reports  Reuters..."
     },
     {
+      "title": "White House Considers Vetting AI Models Before They Are Released, NYT Reports - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaEg4OF9pV1V1eDRVY1JHMnpCRGZhaXFocGdjVjVVbDZkUDBQckgwdkZPU2ZQS3lQOGFWVnhTN2hvWllVQzN1U0x6aU1IUlpKRHdabktZSmFUUWt2NTJFUFk0b0llS05YSTI1U0hoWnJkbkpvd2tPQ0dwcG9INmFGZk5nZlhJM2tQTzJMYklEMjgxREl4VGdiUkpyVG1Bc0NEa3NtYUtYQjFSTWx5MzB3SnJVX1ItQkpLSHNmbEo1T0xpd2dPdjh2Zl9vdVNFZw?oc=5",
+      "date": "2026-05-04 19:44",
+      "summary": "White House Considers Vetting AI Models Before They Are Released, NYT Reports  U.S. News & World Report..."
+    },
+    {
+      "title": "Long Lake to buy Amex GBT for $6.3 billion in AI travel bet - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUNIUXBSYTl0ZFUzdXZmX015ZzFHYzhSQTVyUUcydHhUNnVCMzlCYXAtTkt3RzZBWnBGWW5tcnpfc000T3VFWmIxc0QxaUQxTERZN0NFNDhyTmwtdlRCVDJzNnhaRi1RcW9qb0pNTXoycVV5NHliM1hIX3hOenBWZHBTQjJQemF1SjNmcjVPMUFzdmJscFlkakxhNTk2czNIOVBBVGV5S1RLcTkwT2V6SQ?oc=5",
+      "date": "2026-05-04 15:03",
+      "summary": "Long Lake to buy Amex GBT for $6.3 billion in AI travel bet  Reuters..."
+    },
+    {
       "title": "As Formula One evolves, AI becomes part of the race - Reuters",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjlIX0JUZjhLMGdrRzc0cmt6b2JxcndUYjVRa1JsRl9rbFFDNnR0UmM0MGxSRURrc0NMaWRIZWExQ3k2UjJXNmNDVENhVm9UUzE4aHZrRmN1ME5Sb1VaTE51R3gtY2NNcVhZckdhbjdaeU5mVG5NVDk1UWVDSG9RTHhZMWY3SldWRDVhNXF4Q3I?oc=5",
-      "date": "2026-05-04 14:51",
+      "date": "2026-05-04 18:58",
       "summary": "As Formula One evolves, AI becomes part of the race  Reuters..."
     },
     {
-      "title": "SK Hynix shares rally 13% after US tech firms signal strong AI spending plans - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcm50RTdIRWJBZHVlUFQ5Sld2WURZZUhDUTJzRHI3YTlYR3Z3cmFtQTRTNE9UdTBhVmwwYkN1b0Fvc2RMTTlSTFBLUUhvekpUUE15a0NMVTZHc3kwaW1lakZqVXNUZmhiTUtYZlhzOURUVHJCSFVHajJqUTZfQ1hFWEdORUluU0I1ekZGVkNZWWhOSS03S3VqbTNnUnhUdUtFak5OVTZFZWIzUHZDSU5XdF9JYmE3R3FOY3dOXzN5WktzMUIxNWVLcU9n?oc=5",
-      "date": "2026-05-04 06:15",
-      "summary": "SK Hynix shares rally 13% after US tech firms signal strong AI spending plans  Reuters..."
-    },
-    {
-      "title": "India's markets regulator to soon issue advisory on emerging AI risks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXZ2ZThpMmZmcWx0bWNvY3hYRjE5bXVSOGRJYmtHSjBROTlaNVNSNVdiSC1MWThlMWk3YXc4MFFKSXZvTk4yS0g3Mk83TFBPaG9ybDRaeDV2N0hCZDVJZ3E4RU1zcDJ2eHp4d2JpS2Y3ZElLZjVnOEMydF9lYUFWVWZjYjVVa0plcnFvaEw4MU9jd2JBTVFEVnRsYjZGNTJaeDBNME1ISU5YZ2c1VDdiSjloVkFHZw?oc=5",
-      "date": "2026-05-04 05:07",
-      "summary": "India's markets regulator to soon issue advisory on emerging AI risks  Reuters..."
-    },
-    {
-      "title": "Exclusive: US officials weigh cutting deadlines to fix digital flaws amid worries over AI-powered hacking, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGN6dXV0LU43a3VDd0JFTE1oYkVkZVBqVDhLalNKMExITzZfNWpuLUlaWXVKWVJZZDk1aTlmLVlIVTZqbDhISXpTMHc3N3k3QXlCZU0xSERVdFB6TW5WRW1oMVJrM3JPanEzeVBNV1R1ZXNjR2tmV0ZGUS1WRTZNRXREcWdyQ3BlVUlCZkdsRVdsNmtBTXYteFA1cUI3OVJsSmdxcW85Y0JrYm0zUkx4YkdfZExlRVRRR3JjYUZRc09aSGZUQm44?oc=5",
-      "date": "2026-05-01 21:58",
-      "summary": "Exclusive: US officials weigh cutting deadlines to fix digital flaws amid worries over AI-powered hacking, sources say  Reuters..."
+      "title": "Pentagon reaches agreements with top AI companies, but not Anthropic By Reuters - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT183b0VNcDBnOUxmOHFWVVF5OUxDN0tUR2gtaFdfR2h5M2I5bk9xaTYxT01USUVFYkxham1ud3BLZkVhbG1velZiNlZ0ZzRJSlVCRnMybUlUeVVueGJFRnZmNHRoOTlrbG9zU3l0UXgxa2JQVDhHN2s4NnNYMFJwMDNyU0dBUWlmazRuTHZpWmJxOFc2aS1QZkpiMVdNSDEtejFoV280MnJmVVVhWWcw?oc=5",
+      "date": "2026-05-01 18:56",
+      "summary": "Pentagon reaches agreements with top AI companies, but not Anthropic By Reuters  Investing.com..."
     }
   ],
   "MIT Tech Review": [
@@ -237,12 +237,6 @@
       "summary": "This startup’s new mechanistic interpretability tool lets you debug LLMs  MIT Technology Review..."
     },
     {
-      "title": "MIT Technology Review outlines 10 key AI trends shaping the future - digitimes",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85VEc1a3pTZ0Y4S2ZnWFhTRnFrSE9NWFk5aVVRRVNpU2VxMEd0T3dVa09yM3RwOUxFQmpMZm54YkZtTDdMMmJ5SXI0dnJveGdyaXBER1ZCN1RnZjUxZXg4YWRlSHJ0YXZxTC1kTG43Sm55a1lMZ0pr?oc=5",
-      "date": "2026-05-03 22:14",
-      "summary": "MIT Technology Review outlines 10 key AI trends shaping the future  digitimes..."
-    },
-    {
       "title": "Operationalizing AI for Scale and Sovereignty - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlZmbnZIdFU2R1Bsclh4VWw5VDN6OThraUtnWlFlRFh6SDR0SVI1dDhxYnVrMjQ1UFFjbXVHaFl1Q25CZ0FnbUFFYWhyOUIzWkxVTnN4c2ZWdGhCdmlhOElHWkNWLS1iVG9jUGtneWVFaTlseWI3cDd3V3dUaXBqRlFVUko0ci03cHBIOXl2YW5pbEsyMW5qeDlUZWlGMDDSAaQBQVVfeXFMUGxvN0xFWnEtZ0R1NWJ1NGJmaWd3dlRFUW5ncG55YV9rNUJPS0w4T2xoN3V2XzhjR0pwMXlrUlZ3NlVMa3hnLWx4Tk9CaXZKYk02QjVaYUtZaWVfYmRvUGNtUmpfM040QUIxcnhyNWRPMExjUjBGc1J2czAyVHIxQ19lSlRrcUpYYXdMN0oxVi13NVRWcEg1UlZ4YmxGZ0QwYVZwaGI?oc=5",
       "date": "2026-05-01 15:31",
@@ -253,38 +247,44 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY0Y2OHA1RHNMVFJQS3ZMVnpsRzJUQTg3Yl9XM3lvcjlyVHBiNWJ1YUdDVm4xbmdUR2NkLVlKR0RfQUlZeUVBREZfU1V3VEFNSHB2dEhldklPZWdzclBzaEpNbmo5TUo2YWJXNVVYU1hiZXdTYmNxaXdORFQyS25qSjc2ZzJxOGIyWkRB0gGQAUFVX3lxTE5UM2VHTUx5Q2lqLTRhb3Jhc2c5SjROdE9Nc0R1UEhVZFVZZk1QVXRMNHhENXVqS2NoZ3dfbmZwVmtLWmI3VmtoZ2xJWmdkR3BES3VlUTRsNkNDaXA2U2U3NF9RSmhiTlZlXzRscTYyZjMyZjFSTmxXV2pLZWg5Q3E3NXJYdHh4Nlh2SUZHZUVJQQ?oc=5",
       "date": "2026-05-01 15:54",
       "summary": "Cyber-Insecurity in the AI Era  MIT Technology Review..."
+    },
+    {
+      "title": "MIT Technology Review outlines 10 key AI trends shaping the future - digitimes",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85VEc1a3pTZ0Y4S2ZnWFhTRnFrSE9NWFk5aVVRRVNpU2VxMEd0T3dVa09yM3RwOUxFQmpMZm54YkZtTDdMMmJ5SXI0dnJveGdyaXBER1ZCN1RnZjUxZXg4YWRlSHJ0YXZxTC1kTG43Sm55a1lMZ0pr?oc=5",
+      "date": "2026-05-03 22:14",
+      "summary": "MIT Technology Review outlines 10 key AI trends shaping the future  digitimes..."
     }
   ],
   "Phys.org": [
     {
-      "title": "No more guesswork in drug design—atomic-resolution method exposes what trial and error keep missing",
-      "link": "https://phys.org/news/2026-05-guesswork-drug-atomic-resolution-method.html",
-      "date": "2026-05-04 18:00",
-      "summary": "Drug discovery still too often relies on expensive trial and error. Researchers from ICTER show there is another way—building mole..."
+      "title": "Buried electrical pathways across the US reveal new clues about Earth's interior and power grid risks",
+      "link": "https://phys.org/news/2026-05-electrical-pathways-reveal-clues-earth.html",
+      "date": "2026-05-04 20:00",
+      "summary": "A solar storm like the one that caused a nine-hour blackout across Quebec in 1989 could have even more dramatic effects if it stru..."
     },
     {
-      "title": "The COVID‑19 pandemic exposed the load mothers carry—a burden that's still being ignored today",
-      "link": "https://phys.org/news/2026-05-covid19-pandemic-exposed-mothers-burden.html",
-      "date": "2026-05-04 18:00",
-      "summary": "The COVID-19 pandemic exacerbated and brought into focus the ongoing disproportionate burden on mothers when it comes to household..."
+      "title": "Lockable phone pouches in schools can improve student well-being over time, not test scores or bullying",
+      "link": "https://phys.org/news/2026-05-lockable-pouches-schools-student-scores.html",
+      "date": "2026-05-04 20:00",
+      "summary": "A popular device for restricting cell phone use in middle and high schools is effective at achieving that aim, leading to short-te..."
     },
     {
-      "title": "Why keeping collaborative remote work environment options open is key for business innovation",
-      "link": "https://phys.org/news/2026-05-collaborative-remote-environment-options-key.html",
-      "date": "2026-05-04 17:40",
-      "summary": "At a time when remote work is increasingly up for debate among companies, it remains an often underestimated lever for fostering o..."
+      "title": "Chemists capture light-matter hybrid particles traveling long distances",
+      "link": "https://phys.org/news/2026-05-chemists-capture-hybrid-particles-distances.html",
+      "date": "2026-05-04 19:40",
+      "summary": "To capture a crisp image of a hummingbird in flight, which can flap its wings up to 200 times per second, a photographer needs a c..."
     },
     {
-      "title": "Scientists unlock new way to engineer next-generation glass",
-      "link": "https://phys.org/news/2026-05-scientists-generation-glass.html",
-      "date": "2026-05-04 17:40",
-      "summary": "Scientists have adapted a centuries-old principle of chemistry to fine-tune a new type of glass made from metal–organic frameworks..."
+      "title": "Study finds benefits in being older college student while working",
+      "link": "https://phys.org/news/2026-05-benefits-older-college-student.html",
+      "date": "2026-05-04 19:40",
+      "summary": "The number of students in higher education who don't come straight from high school is rapidly increasing across the country. Yet ..."
     },
     {
-      "title": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules",
-      "link": "https://phys.org/news/2026-05-symmetry-crystal-vibrations-exotic-quantum.html",
-      "date": "2026-05-04 17:20",
-      "summary": "Symmetry is one of the most fundamental principles in nature. It describes the rules that make an object look unchanged after a ro..."
+      "title": "'Re-meandered' rivers can slow flows while widening wildlife habitat",
+      "link": "https://phys.org/news/2026-05-meandered-rivers-widening-wildlife-habitat.html",
+      "date": "2026-05-04 19:20",
+      "summary": "A major river restoration project in Cumbria has shown that reconnecting rivers to their floodplains can slow the movement of wate..."
     }
   ],
   "The Guardian Edu": [
@@ -353,6 +353,12 @@
   ],
   "New Scientist": [
     {
+      "title": "Tiny frozen world unexpectedly appears to have an atmosphere",
+      "link": "https://www.newscientist.com/article/2525175-tiny-frozen-world-unexpectedly-appears-to-have-an-atmosphere/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-04 16:00",
+      "summary": "A 500-kilometre-wide object in a similar orbit to Pluto challenges our assumptions about small bodies in the outer solar system..."
+    },
+    {
       "title": "300-year-old experiment could become world's best dark matter detector",
       "link": "https://www.newscientist.com/article/2524958-300-year-old-experiment-could-become-worlds-best-dark-matter-detector/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-04 13:00",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2525229-2026-will-be-the-hottest-year-on-record-leading-scientist-predicts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-01 17:24",
       "summary": "The second half of this year will almost certainly see the start of an El Niño phase that could lead to extreme heat across much o..."
-    },
-    {
-      "title": "NHS England rushes to hide software over AI hacking fears",
-      "link": "https://www.newscientist.com/article/2524962-nhs-england-rushes-to-hide-software-over-ai-hacking-fears/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-01 12:32",
-      "summary": "National Health Service rules state that all software created with public money should be publicly available, but fears of compute..."
     }
   ]
 }
