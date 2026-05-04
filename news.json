@@ -71,16 +71,16 @@
       "summary": "Stanford merges AI and data science efforts under single institute  Stanford Report..."
     },
     {
-      "title": "Why Stanford is restructuring for AI’s next era - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUIxU0ZldEVvdXl3eG8xaE91N0FieFRQQ3VCdG42V0N5cVpXeWZYZldOeDBkOGdkMXV3QzhZODFQUjE4UXNCYWRvakpzVjQ0dDZGMFAweGtKc2RJUXdJRkNqRklvREpjNzBJWk1nR0owS1YwdmJEUm1IejZPb3V0N0p2bllPVDZPSzN5TkxGTlJ4eC00S0NKcA?oc=5",
-      "date": "2026-05-04 21:19",
-      "summary": "Why Stanford is restructuring for AI’s next era  Stanford Report..."
-    },
-    {
       "title": "National study of school cellphone bans shows benefits are not immediate - Stanford School of Humanities and Sciences",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQi13NGY2WXQ0NVJZY3RQTENBcUFTamt1emFuQTU1Vm1fbFZudVZ2R0t3NFFSNzc3M2R3TDQ0aTlrOWVmTVZtSGY5VG1zRnVHXzFZSFFualZINWFTQ2g3OENlUTh0TzBibzA2dnc2V3NwckRMa1Q2dngxYU1aVm11V2t6YUxvSEZFRVFOa0lNRk0wSWtGUUlacE9DWDRZSG5sUXc3SndfOE8?oc=5",
       "date": "2026-05-04 20:57",
       "summary": "National study of school cellphone bans shows benefits are not immediate  Stanford School of Humanities and Sciences..."
+    },
+    {
+      "title": "Why Stanford Is Restructuring For AI’s Next Era - Stanford HAI",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0ZDSEtGYW53NEtzNE1iSXl4OGNfUkZZZ3NKWWdENzNicFlfbGxDNFlPWnpwREVueks0VW51ZmduclBNTTEzSkhaQVl2MURLR3JvQWQyWUg3aHJHWGl1U29RbTB2cHVoZFMtT3N1eEZhLWdTa2xkOHBEN20zeWNQZF9R?oc=5",
+      "date": "2026-05-04 22:39",
+      "summary": "Why Stanford Is Restructuring For AI’s Next Era  Stanford HAI..."
     },
     {
       "title": "Built in a Day: Stanford Law Students Create Award-Winning Copyright Tool at Codex Hackathon - Stanford Law School",
@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "Have archaeologists found the long-lost Maya city of Sac Balam?",
+      "link": "https://www.science.org/content/article/have-archaeologists-found-long-lost-maya-city-sac-balam",
+      "date": "2026-05-04 05:40",
+      "summary": "Architectural and geographic details match historic descriptions of the colonial, centuries-old jungle refuge..."
+    },
+    {
       "title": "Chaotic whale rescue shocks marine biologists",
       "link": "https://www.science.org/content/article/chaotic-whale-rescue-shocks-marine-biologists",
       "date": "2026-05-04 05:05",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/deep-earth-map-reveals-lost-u-s-continent",
       "date": "2026-05-01 10:15",
       "summary": "Sensor array traces how rocks conduct electricity, exposing ancient continental fragments, mineral targets, and grid hazards..."
-    },
-    {
-      "title": "Tiny probes make sense of abnormal bursts in the epileptic brain",
-      "link": "https://www.science.org/content/article/tiny-probes-make-sense-abnormal-bursts-epileptic-brain",
-      "date": "2026-04-30 02:25",
-      "summary": "“Spikes” hijack neurons involved in cognition—and can be predicted up to 1 second in advance..."
     }
   ],
   "Retraction Watch": [
@@ -199,10 +199,10 @@
       "summary": "Anthropic nears $1.5 billion AI joint venture with Wall Street firms, WSJ reports  Reuters..."
     },
     {
-      "title": "White House Considers Vetting AI Models Before They Are Released, NYT Reports - U.S. News & World Report",
+      "title": "White House Considers Government Reviews for AI Models, NYT Reports - U.S. News & World Report",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaEg4OF9pV1V1eDRVY1JHMnpCRGZhaXFocGdjVjVVbDZkUDBQckgwdkZPU2ZQS3lQOGFWVnhTN2hvWllVQzN1U0x6aU1IUlpKRHdabktZSmFUUWt2NTJFUFk0b0llS05YSTI1U0hoWnJkbkpvd2tPQ0dwcG9INmFGZk5nZlhJM2tQTzJMYklEMjgxREl4VGdiUkpyVG1Bc0NEa3NtYUtYQjFSTWx5MzB3SnJVX1ItQkpLSHNmbEo1T0xpd2dPdjh2Zl9vdVNFZw?oc=5",
       "date": "2026-05-04 19:44",
-      "summary": "White House Considers Vetting AI Models Before They Are Released, NYT Reports  U.S. News & World Report..."
+      "summary": "White House Considers Government Reviews for AI Models, NYT Reports  U.S. News & World Report..."
     },
     {
       "title": "Long Lake to buy Amex GBT for $6.3 billion in AI travel bet - Reuters",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Climate change increases spillover risk of rodent-borne arenaviruses, study warns",
-      "link": "https://phys.org/news/2026-05-climate-spillover-rodent-borne-arenaviruses.html",
-      "date": "2026-05-04 21:40",
-      "summary": "Climate change is likely to drive rodent-borne arenaviruses into parts of South America that have never faced these diseases, putt..."
+      "title": "We might have massively underestimated Io's thermal output",
+      "link": "https://phys.org/news/2026-05-massively-underestimated-io-thermal-output.html",
+      "date": "2026-05-04 22:40",
+      "summary": "Io is a world of extremes. It is by far the most volcanically active world in our solar system. Being continually squeezed in the ..."
     },
     {
-      "title": "Hidden risk pushes 459 Northwest communities higher on wildfire danger scale",
-      "link": "https://phys.org/news/2026-05-reveals-wildfire-communities-northwest.html",
-      "date": "2026-05-04 21:40",
-      "summary": "A new wildfire risk assessment tool that takes social vulnerability into account indicates that more than 400 communities in the P..."
+      "title": "Politicians are not ignoring you, statistical analysis suggests",
+      "link": "https://phys.org/news/2026-05-politicians-statistical-analysis.html",
+      "date": "2026-05-04 22:40",
+      "summary": "If you're registered to vote in the United States and you're not among the richest of the rich, political scientist Peter K. Enns ..."
     },
     {
-      "title": "Is it wrong to pay incarcerated people in jail? This Pennsylvania county says no",
-      "link": "https://phys.org/news/2026-05-wrong-pay-incarcerated-people-pennsylvania.html",
-      "date": "2026-05-04 21:20",
-      "summary": "Allegheny County, Pennsylvania, is experimenting with a policy that has drawn national attention and local skepticism: providing c..."
+      "title": "Want to predict wildfire severity? Research says look to the state of vegetation",
+      "link": "https://phys.org/news/2026-05-wildfire-severity-state-vegetation.html",
+      "date": "2026-05-04 22:20",
+      "summary": "Urbanization, climate change, and fire suppression practices are contributing to increased wildfire risk at the densely populated ..."
     },
     {
-      "title": "New insight could change how we break down 'forever chemicals'",
-      "link": "https://phys.org/news/2026-05-insight-chemicals.html",
-      "date": "2026-05-04 21:20",
-      "summary": "PFAS, often called \"forever chemicals,\" are notoriously difficult to remove from the environment. Their extreme chemical stability..."
+      "title": "AI-powered lab discovers brighter lead-free nanomaterials in 12 hours",
+      "link": "https://phys.org/news/2026-05-ai-powered-lab-brighter-free.html",
+      "date": "2026-05-04 22:20",
+      "summary": "A new autonomous laboratory recently navigated through billions of potential material synthesis recipes to identify brighter, lead..."
     },
     {
-      "title": "Invisible at the curb: New 3D model maps reveal hidden ultrafine traffic particle hotspots",
-      "link": "https://phys.org/news/2026-05-invisible-curb-3d-reveal-hidden.html",
-      "date": "2026-05-04 21:00",
-      "summary": "A National Taiwan University study shows that traffic particles can create sharply localized exposure hotspots near busy roads, in..."
+      "title": "Giving voice to older homeless women navigating streets and shelters",
+      "link": "https://phys.org/news/2026-05-voice-older-homeless-women-streets.html",
+      "date": "2026-05-04 22:00",
+      "summary": "For women in their 50s experiencing homelessness, daily life means far more than finding a place to sleep. It means navigating dan..."
     }
   ],
   "The Guardian Edu": [
