@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "How chromatin movement helps control gene expression",
+      "link": "https://news.mit.edu/2026/how-chromatin-movement-helps-control-gene-expression-0504",
+      "date": "2026-05-04 09:00",
+      "summary": "By monitoring these chromosomal structures over many timescales, MIT researchers found that chromatin helps bring genes closer to ..."
+    },
+    {
       "title": "Study: Gene circuits reshape DNA folding and affect how genes are expressed",
       "link": "https://news.mit.edu/2026/study-gene-circuits-reshape-dna-folding-and-affect-gene-expression-0430",
       "date": "2026-04-30 18:00",
@@ -23,20 +29,14 @@
       "link": "https://news.mit.edu/2026/materials-scientists-playground-0430",
       "date": "2026-04-30 17:20",
       "summary": "New system at MIT.nano will support quantum technology research...."
-    },
-    {
-      "title": "Making the case for curiosity-driven science",
-      "link": "https://news.mit.edu/2026/making-case-curiosity-driven-science",
-      "date": "2026-04-30 04:00",
-      "summary": "President Sally Kornbluth spoke in front of a packed crowd about growing challenges to the U.S. research ecosystem as funding for ..."
     }
   ],
   "Harvard Gazette": [
     {
-      "title": "How academia can help America heal - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
-      "date": "2026-02-13 08:00",
-      "summary": "How academia can help America heal  Harvard Gazette..."
+      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
+      "date": "2026-04-09 07:00",
+      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
     },
     {
       "title": "Plan to rein in inflated grading explained - Harvard Gazette",
@@ -45,16 +45,16 @@
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
     },
     {
-      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
-      "date": "2025-10-28 07:00",
-      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
+      "title": "How academia can help America heal - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
+      "date": "2026-02-13 08:00",
+      "summary": "How academia can help America heal  Harvard Gazette..."
     },
     {
-      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
-      "date": "2025-09-30 07:00",
-      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
+      "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
+      "date": "2026-02-20 08:00",
+      "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
     },
     {
       "title": "Harvard Impact Labs awards $1.4M to launch research projects to tackle urgent social problems - Harvard Gazette",
@@ -69,6 +69,12 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNklHXy1ucWhqX2FENUxhMVBneTI1T09wYW1SSVVvUjBmbklobnY3dkJMOGJjQ2tfd21VWEV6UVdGWU8yTlR3ekFZZGJuZHNJWUdwUll6Y2NwelpDbkplRzNhdmxsb09JWnpkUmRnN0J4Z2UtdWdobFZzT09TbEVfSS1zZUV5VVFpWnZBbmZpWS1nNy03MGJjcWdnYVJQQmJBRElkNFZuanB6TThtU3V1QlUxaF9YYXFv?oc=5",
       "date": "2026-04-29 23:29",
       "summary": "Stanford faces Education Department probe over racial discrimination allegations  Higher Ed Dive..."
+    },
+    {
+      "title": "Stanford cuts ribbon on new home of Department of African and African American Studies - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lUHZyUGJrbzBpSmtqejNvcVlub0JCUnhKZldNcXVpeGtqQjFSQzZlZk4tN3ZYdTJRN3l1bkFXSEIzd25JaHNIVXVQbkxJOXZ0c3dtdjZCUTlfd01ieFRGNEpOMG4tNThzV2Y2MzR6dDlDWjdBanBybl9heV8?oc=5",
+      "date": "2026-05-04 06:42",
+      "summary": "Stanford cuts ribbon on new home of Department of African and African American Studies  The Stanford Daily..."
     },
     {
       "title": "International Students at Boston University, Stanford Say This Is How to Network During Your LL.M. - LLM Guide",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDVjU1ZPd1VoU1cxbTRXb29pNnBKYWJOV3NEYl9NZlZyWDR1eEdjVkV3N254NzNNallzOU1lMW52c3dRWHR5UUQ2TVpfTEo4WlBkTHpsTFA0a3NJM0pBb2NHVnpwRUhIcUl0R2hjc2hpbkVJOGJvV2d6N0kxLXFDSTAzOXVqNUZNbS1tZmhCYjdSQk9HU1JtN0NGclVQQQ?oc=5",
       "date": "2026-05-01 17:57",
       "summary": "UPDATE: Feds investigate Stanford’s program supporting teachers of color  EdSource..."
-    },
-    {
-      "title": "Visionary philanthropist Steven Denning has died - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BcjgtSE1iZlU4bV9wd3dSNzY2QmxmMjd2ODl2QTQzQzdOMjU2M1RaT1BxZ2MxdElGVXdObW9NZ19tQXFhSjJGQlNGSk4tS1pNLUFqMjc2c0o3aFVaOGJYT2NYVEowSU1rUmI4NjlwNEx0bms?oc=5",
-      "date": "2026-04-29 22:40",
-      "summary": "Visionary philanthropist Steven Denning has died  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -195,7 +195,7 @@
     {
       "title": "Anthropic nears $1.5 billion AI joint venture with Wall Street firms, WSJ reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVE1KSnhHTjJYWGNSUEpEdDRFZlFoMTJXRzE3TE9XeDBlUzAySUNMTVFyWHhzaWo4aEs1YVJYSEZQNDRJYzh5OHRCdjZuSng1eEU2cmJaQTB5NVlndmRJT2V5TkZHb1Qxbmh2VlFzTUZyenZGUlg4bDJlNEJ2ZzBnNTBUaGZzRFVOVTNNMzE0dkdqdG1jdkloU0h0NjhVeUxhMU1kRm9Ma0gwMnhUNC10RHlzUkYySU5QSTVVRkZkbDhNbThpaHNtQThDY2hkM3c?oc=5",
-      "date": "2026-05-04 02:40",
+      "date": "2026-05-04 02:35",
       "summary": "Anthropic nears $1.5 billion AI joint venture with Wall Street firms, WSJ reports  Reuters..."
     },
     {
@@ -205,22 +205,22 @@
       "summary": "Pentagon reaches agreements with top AI companies, but not Anthropic By Reuters  Investing.com..."
     },
     {
+      "title": "India's markets regulator to soon issue advisory on emerging AI risks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXZ2ZThpMmZmcWx0bWNvY3hYRjE5bXVSOGRJYmtHSjBROTlaNVNSNVdiSC1MWThlMWk3YXc4MFFKSXZvTk4yS0g3Mk83TFBPaG9ybDRaeDV2N0hCZDVJZ3E4RU1zcDJ2eHp4d2JpS2Y3ZElLZjVnOEMydF9lYUFWVWZjYjVVa0plcnFvaEw4MU9jd2JBTVFEVnRsYjZGNTJaeDBNME1ISU5YZ2c1VDdiSjloVkFHZw?oc=5",
+      "date": "2026-05-04 05:07",
+      "summary": "India's markets regulator to soon issue advisory on emerging AI risks  Reuters..."
+    },
+    {
+      "title": "SK Hynix shares rally 12% after US tech firms signal strong spending on AI data centers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcm50RTdIRWJBZHVlUFQ5Sld2WURZZUhDUTJzRHI3YTlYR3Z3cmFtQTRTNE9UdTBhVmwwYkN1b0Fvc2RMTTlSTFBLUUhvekpUUE15a0NMVTZHc3kwaW1lakZqVXNUZmhiTUtYZlhzOURUVHJCSFVHajJqUTZfQ1hFWEdORUluU0I1ekZGVkNZWWhOSS03S3VqbTNnUnhUdUtFak5OVTZFZWIzUHZDSU5XdF9JYmE3R3FOY3dOXzN5WktzMUIxNWVLcU9n?oc=5",
+      "date": "2026-05-04 06:15",
+      "summary": "SK Hynix shares rally 12% after US tech firms signal strong spending on AI data centers  Reuters..."
+    },
+    {
       "title": "Exclusive: US officials weigh cutting deadlines to fix digital flaws amid worries over AI-powered hacking, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGN6dXV0LU43a3VDd0JFTE1oYkVkZVBqVDhLalNKMExITzZfNWpuLUlaWXVKWVJZZDk1aTlmLVlIVTZqbDhISXpTMHc3N3k3QXlCZU0xSERVdFB6TW5WRW1oMVJrM3JPanEzeVBNV1R1ZXNjR2tmV0ZGUS1WRTZNRXREcWdyQ3BlVUlCZkdsRVdsNmtBTXYteFA1cUI3OVJsSmdxcW85Y0JrYm0zUkx4YkdfZExlRVRRR3JjYUZRc09aSGZUQm44?oc=5",
       "date": "2026-05-01 21:58",
       "summary": "Exclusive: US officials weigh cutting deadlines to fix digital flaws amid worries over AI-powered hacking, sources say  Reuters..."
-    },
-    {
-      "title": "Sandisk has thumping quarter on AI boom, secures long-term contracts and unveils big buyback - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTAtem15UE5MRC1ya0M4cTNIbmFWX2Y4QkdaZ3NYekYwMlU4UVEyQWJ2TjF4VnBvVHRUWVpPRldOMkhPYTYxQkpsZmFTSnpWVnpmbWtHNHd5T0RiWUppMTdtQjRFeGNvNGhmN29DeF9vQ0ljYlQ4NXNjY0ZYWDBjMnBmM3lVN0d6YUliMlRTejJ2QnJrMTlweElKbUlwREQ2Z0o1dWh1d3pGY1c0RDFfTk9ETnRVQlFmbF9ydTdR?oc=5",
-      "date": "2026-05-01 02:10",
-      "summary": "Sandisk has thumping quarter on AI boom, secures long-term contracts and unveils big buyback  Reuters..."
-    },
-    {
-      "title": "AI actors and writers will be ineligible for Oscars - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYTI3MFkzbUwzUkR3YjhuYTNNMXI1aVliTmVjeVNRSE42akNtQy1ieTI2MU9aRnFRNDVmMDRQQVZBWk1vUHpwbE00THNJZ2RUeDFJM1VKZlFLMDBUWF90MkNNS1JON1l0dFY4U2JrMnN0NnAzOG5PcXViQWY0V0hRNi0wdHZjTzhQaDh0c25QLTdhZWM?oc=5",
-      "date": "2026-05-01 18:04",
-      "summary": "AI actors and writers will be ineligible for Oscars  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Astronomers explore the surface composition of a nearby super-Earth",
+      "link": "https://phys.org/news/2026-05-astronomers-explore-surface-composition-nearby.html",
+      "date": "2026-05-04 09:00",
+      "summary": "Using MIRI (Mid-Infrared Instrument) on board the James Webb Space Telescope (JWST), a team of researchers led by former MPIA (Max..."
+    },
+    {
+      "title": "Novel wheat hybrids increase resistance to major fungal disease by up to 70%",
+      "link": "https://phys.org/news/2026-05-wheat-hybrids-resistance-major-fungal.html",
+      "date": "2026-05-04 08:00",
+      "summary": "A new experimental study has identified a novel genetic locus in a common agricultural weed, Elymus repens, that provides signific..."
+    },
+    {
       "title": "They look like healthy motivation, but these viral posts may do more harm than good for young adults",
       "link": "https://phys.org/news/2026-05-healthy-viral-good-young-adults.html",
       "date": "2026-05-04 04:10",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-04-canine-distemper-virus-summer.html",
       "date": "2026-05-03 21:00",
       "summary": "With longer days, warmer weather and a little more breathing room in the schedule, summer often feels like the perfect time to bri..."
-    },
-    {
-      "title": "Deadly droughts and floods wipe out young California salmon en route to Pacific",
-      "link": "https://phys.org/news/2026-04-deadly-droughts-young-california-salmon.html",
-      "date": "2026-05-03 20:00",
-      "summary": "Salmon are becoming river \"ghosts\" as brutal droughts and violent floods cause unprecedented losses on their treacherous journey t..."
-    },
-    {
-      "title": "Study warns cost-cutting use of generative AI could increase cyber-attack risks",
-      "link": "https://phys.org/news/2026-04-generative-ai-cyber.html",
-      "date": "2026-05-03 18:30",
-      "summary": "Newly published research from a leading computer scientist warns that the use of generative AI to design, train, or perform steps ..."
     }
   ],
   "The Guardian Edu": [
@@ -321,37 +321,43 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Ultra-low-priced tours exploiting mainland Chinese visitors survive despite crackdown",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3352290/ultra-low-priced-tours-exploiting-mainland-chinese-visitors-survive-despite-crackdown?utm_source=rss_feed",
-      "date": "2026-05-04 03:00",
-      "summary": "Ultra-low-priced Hong Kong tour packages reliant on commissions and pushing mainland Chinese visitors to make additional purchases..."
+      "title": "Hong Kong residential property upturn drives recovery in office, retail: Morgan Stanley",
+      "link": "https://www.scmp.com/business/article/3352357/hong-kong-residential-property-upturn-drives-recovery-office-retail-morgan-stanley?utm_source=rss_feed",
+      "date": "2026-05-04 09:15",
+      "summary": "Hong Kong’s property market is poised for a broad-based recovery as a strong upturn in the residential segment spills over to the ..."
     },
     {
-      "title": "Hong Kong Exchange Fund records smallest gain in 5 quarters amid Middle East crisis",
-      "link": "https://www.scmp.com/business/markets/article/3352304/hong-kong-exchange-fund-records-smallest-gain-5-quarters-amid-middle-east-crisis?utm_source=rss_feed",
-      "date": "2026-05-04 02:12",
-      "summary": "Hong Kong’s Exchange Fund, the war chest used to defend the local currency, reported its smallest investment gain in five quarters..."
+      "title": "Hong Kong tax revenue jumps 22% to HK$458 billion",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352356/hong-kong-tax-revenue-rises-22-hk458-billion?utm_source=rss_feed",
+      "date": "2026-05-04 08:40",
+      "summary": "Hong Kong’s overall tax revenue rose 22 per cent to HK$458.3 billion (US$58.5 billion) last year, driven by a buoyant stock market..."
     },
     {
-      "title": "Paul Chan should welcome lawmakers’ budget scrutiny, not dismiss it",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3352150/paul-chan-should-welcome-lawmakers-budget-scrutiny-not-dismiss-it?utm_source=rss_feed",
-      "date": "2026-05-04 01:30",
-      "summary": "Congratulations to Financial Secretary Paul Chan Mo-po for getting the city’s budget to sail through the Legislative Council. It w..."
+      "title": "Driver arrested after wife killed in crash at Hong Kong border checkpoint",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352354/driver-arrested-after-wife-killed-crash-hong-kong-border-checkpoint?utm_source=rss_feed",
+      "date": "2026-05-04 08:35",
+      "summary": "A 67-year-old driver has been arrested after his vehicle reportedly lost control at a border checkpoint in a traffic accident that..."
     },
     {
-      "title": "Former police spokesman John Tse set for top government media role",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3352301/police-turned-pr-adviser-john-tse-set-top-government-media-role?utm_source=rss_feed",
-      "date": "2026-05-04 01:02",
-      "summary": "A Hong Kong policeman turned public relations adviser will be promoted to lead the government’s Information Services Department, t..."
+      "title": "Hong Kong media outlet cleared of tax evasion faces ‘unfair’ HK$40,000 costs",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3352350/hong-kong-media-outlet-cleared-tax-evasion-faces-unfair-hk40000-costs?utm_source=rss_feed",
+      "date": "2026-05-04 08:11",
+      "summary": "A local online media outlet has been cleared of tax evasion after a year-long review, but the process still cost HK$40,000 (US$5,1..."
     },
     {
-      "title": "Why CY Leung thinks Hong Kong needs to strengthen maritime-related sectors",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352289/why-cy-leung-thinks-hong-kong-needs-strengthen-maritime-related-sectors?utm_source=rss_feed",
-      "date": "2026-05-04 00:30",
-      "summary": "Hong Kong should develop its shipping insurance and management capabilities, among other areas, to strengthen its status as a glob..."
+      "title": "Beautician convicted of blackmailing ‘cash machine’ ex-lover for HK$2.6 million",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352343/beautician-convicted-blackmailing-cash-machine-ex-lover-hk26-million?utm_source=rss_feed",
+      "date": "2026-05-04 07:28",
+      "summary": "A Hong Kong court has convicted a beautician of doxxing and blackmail after she uploaded intimate photos and the personal details ..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Smart underwear detects lactose intolerance by tracking your farts",
+      "link": "https://www.newscientist.com/article/2525189-smart-underwear-detects-lactose-intolerance-by-tracking-your-farts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-04 06:00",
+      "summary": "A device you attach to your underwear reveals how often you really break wind – and it’s probably more frequently than you think..."
+    },
     {
       "title": "2026 will be the hottest year on record, leading scientist predicts",
       "link": "https://www.newscientist.com/article/2525229-2026-will-be-the-hottest-year-on-record-leading-scientist-predicts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2525033-will-colombia-summit-kick-start-the-end-of-the-fossil-fuel-era/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-01 09:58",
       "summary": "With progress at COP climate meetings stalling, 57 countries took part in the first of a new series of conferences aiming to devel..."
-    },
-    {
-      "title": "The rings of Uranus are even stranger than we thought",
-      "link": "https://www.newscientist.com/article/2524832-the-rings-of-uranus-are-even-stranger-than-we-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-01 08:00",
-      "summary": "Uranus’s outermost two rings are surprisingly dissimilar, which opens up a mystery about the tiny moons and moonlets that form the..."
     }
   ]
 }
