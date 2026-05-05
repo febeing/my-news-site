@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "Adam Bonica named a 2026 Andrew Carnegie Fellow - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ucU9sM0QxQjNmNkRSdFdxMmZLc0ZpRzUwem00dDZaNUVDbHp5NWF1dWZGLTltaHM2N05MOUMtRjhIaWxJdzNCSVAzRm1oY2k5NG9VVnpXRWZKMmd6WHFUbkxrM3NFRXBUT3VFdEJtaVRUblNZMmZCbg?oc=5",
+      "date": "2026-05-05 10:20",
+      "summary": "Adam Bonica named a 2026 Andrew Carnegie Fellow  Stanford Report..."
+    },
+    {
       "title": "Stanford Merges AI and Data Science Efforts Under Single Institute - Stanford HAI",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUVsV0twYlFoWDRtRTFaTFJnNHdFbUZrMllWXzR4b3JhRGQ1eWxCY1JDT2RfZ2NoaVNTczB0TFE4WGs3Rk9acGp1dFBjYU51aE1BQlhzRGtGWl80OEtzcFdBLVV0MXE3U2lINlUwYnFLaklzM0hpYXhtby16a1ZiSDVzMDlFc1JVb3VIS2pqX1BXeFBKbVhYMHRDblQ?oc=5",
       "date": "2026-05-04 21:54",
@@ -87,44 +93,38 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9udmNqUEh2azhVaEYzOGJpUXdEUDJXemJMeXBGSDBnbjRBTTBMU2g5ZVhfQWUyWGZ4ZVhiMl93b0ctUDRZRXl3STNUcFFOQmkwT3MyZkl3TjhId2Y3c3dkN1JnaHcwR0NrQ1dHWjBHWDBBcjBHUC10ZF81Ql8?oc=5",
       "date": "2026-05-04 20:36",
       "summary": "‘AI is changing the way we do biology’  Stanford Report..."
-    },
-    {
-      "title": "Built in a Day: Stanford Law Students Create Award-Winning Copyright Tool at Codex Hackathon - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcEpLQklKbVFfYzRwTm9yRklOcXhmNUhtcDNveFFNb3NVd2d3VVBuZHVZMVlvRmQtWFNQMWhJTDZuM20wdTQxOXVPSzNRdGRWdGc1OGt2dnp5b2VwSUlYRnJnU0tFbmpJMFVtQkxoNjdnOS1lSDI2M0xsTk8wYjViRTNfeXRoVnROcHhEN0hsZmRVbU1sSVZwR2s4dHd5ZkFob2VYc0dnaTdJNzk0NG5jT2p4Yl9TbXc0QjNuNk4tVXBkTFNSZkduQTVMRzdON1hUeDJXWkdLUlpnUQ?oc=5",
-      "date": "2026-05-04 21:21",
-      "summary": "Built in a Day: Stanford Law Students Create Award-Winning Copyright Tool at Codex Hackathon  Stanford Law School..."
     }
   ],
   "Nature Careers": [
     {
-      "title": "Powerful tools are revealing the ‘control knobs’ of the genome",
-      "link": "https://www.nature.com/articles/d41586-026-01410-1",
-      "date": "2026-05-04 00:00",
-      "summary": "Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01410-1By accelerating the identification of DNA sequences that cont..."
+      "title": "Precision medicine without equity is just stratified inequality",
+      "link": "https://www.nature.com/articles/d41586-026-01442-7",
+      "date": "2026-05-05 00:00",
+      "summary": "Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01442-7Precision medicine without equity is just stratified inequali..."
     },
     {
-      "title": "Hantavirus crops up on a cruise ship — what scientists are watching",
-      "link": "https://www.nature.com/articles/d41586-026-01450-7",
-      "date": "2026-05-04 00:00",
-      "summary": "Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01450-7The group of rodent viruses can cause disease in humans, but ..."
+      "title": "AI agents in research: when productivity comes at the cost of apprenticeship",
+      "link": "https://www.nature.com/articles/d41586-026-01440-9",
+      "date": "2026-05-05 00:00",
+      "summary": "Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01440-9AI agents in research: when productivity comes at the cost of..."
     },
     {
-      "title": "'Heartbreaking': Iranian scientists on losing labs, libraries and liberty",
-      "link": "https://www.nature.com/articles/d41586-026-01394-y",
-      "date": "2026-05-04 00:00",
-      "summary": "Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01394-yBombing of Iran's civilian infrastructure has damaged univers..."
+      "title": "Thymic health under the microscope",
+      "link": "https://www.nature.com/articles/d41586-026-01443-6",
+      "date": "2026-05-05 00:00",
+      "summary": "Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01443-6Thymic health under the microscope..."
     },
     {
-      "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
-      "link": "https://www.nature.com/articles/s41586-026-10601-9",
-      "date": "2026-05-01 00:00",
-      "summary": "Nature, Published online: 01 May 2026; doi:10.1038/s41586-026-10601-9Author Correction: Titration of RAS alters senescent state an..."
+      "title": "Legal rights for insects: a global imperative for stingless-bee conservation",
+      "link": "https://www.nature.com/articles/d41586-026-01441-8",
+      "date": "2026-05-05 00:00",
+      "summary": "Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01441-8Legal rights for insects: a global imperative for stingless-b..."
     },
     {
-      "title": "Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells",
-      "link": "https://www.nature.com/articles/d41586-026-01439-2",
-      "date": "2026-05-01 00:00",
-      "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01439-2Nature staff discuss some of the week's top science news...."
+      "title": "Testosterone therapy is trending. Who really needs it, and why?",
+      "link": "https://www.nature.com/articles/d41586-026-01408-9",
+      "date": "2026-05-05 00:00",
+      "summary": "Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01408-9Some clinicians are pushing to broaden testosterone use, but ..."
     }
   ],
   "Science News": [
@@ -205,12 +205,6 @@
       "summary": "Anthropic nears $1.5 billion AI joint venture with Wall Street firms, WSJ reports  Reuters..."
     },
     {
-      "title": "Long Lake to buy Amex GBT for $6.3 billion in AI travel bet - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUNIUXBSYTl0ZFUzdXZmX015ZzFHYzhSQTVyUUcydHhUNnVCMzlCYXAtTkt3RzZBWnBGWW5tcnpfc000T3VFWmIxc0QxaUQxTERZN0NFNDhyTmwtdlRCVDJzNnhaRi1RcW9qb0pNTXoycVV5NHliM1hIX3hOenBWZHBTQjJQemF1SjNmcjVPMUFzdmJscFlkakxhNTk2czNIOVBBVGV5S1RLcTkwT2V6SQ?oc=5",
-      "date": "2026-05-04 15:03",
-      "summary": "Long Lake to buy Amex GBT for $6.3 billion in AI travel bet  Reuters..."
-    },
-    {
       "title": "Intel appoints Qualcomm executive to lead PC and physical AI business - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQldKc3AxNXltRkY5UWFEVnRmbGtUWVNrNjFicmN3U2JNZV9JMHlxWGJHaTFfeHZ4MkVlNmRxbkg2RHdFMzFGeGVzRG1fTExlNndWdFQydFJ4Y3RXdkt4TV9kQXY5RS01ZVNkVVpINXdvRHNzYUJHMFhGa2ljOFFwaEJJOXl4V0NHX21tRFN3Nm1DVGZvYjVUelUtMWIyT2JOeVlxd3JrX3JYLTA?oc=5",
       "date": "2026-05-04 21:51",
@@ -221,6 +215,12 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjlIX0JUZjhLMGdrRzc0cmt6b2JxcndUYjVRa1JsRl9rbFFDNnR0UmM0MGxSRURrc0NMaWRIZWExQ3k2UjJXNmNDVENhVm9UUzE4aHZrRmN1ME5Sb1VaTE51R3gtY2NNcVhZckdhbjdaeU5mVG5NVDk1UWVDSG9RTHhZMWY3SldWRDVhNXF4Q3I?oc=5",
       "date": "2026-05-04 18:58",
       "summary": "As Formula One evolves, AI becomes part of the race  Reuters..."
+    },
+    {
+      "title": "QUOTE BOX Global finance leaders flag shifting capital flows, AI impact at Milken - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUZOUDFqbnJ5TGd5elpwQjdJUkgwTmI4Nm9CbHZnUkRLMF9LbWwzQndhcXhaQzFsa1lsTGtIRXRDU2h6dlJwTncxVlQwSTU3aTdIUTNjQlNVdW10WVdjc2tYTzd1M3J0aV9tamhCak84RzlyQ0dsUlZseXM5eTVvY0ZkVlNob1pmRGJCU2hoanJnbXN2VktKclhxTGtGNFU5c0Vib042LU0zRE1sZUV4cDJfUzU0M0dYdXk5U0RMV1dQUHVtMHhCUXBwQURrUQ?oc=5",
+      "date": "2026-05-04 22:31",
+      "summary": "QUOTE BOX Global finance leaders flag shifting capital flows, AI impact at Milken  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -229,6 +229,12 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ2tRck40ZkhuZXBRVUptMEVjcmFzejBSMEY4RFFaS2RraWZiYmZxOTI0MFlyTy1GUUZ2M2d5M3lPU1Nvdk9haVpwWjYzMWxyLWJfZVZ6YXp1dXludkl6NHdFMDhjZWwtTDFVZllBREdGd0RJN0hNSTd5cktyR0hjTHhsbTNFY2s0SGJIQmh4eTI2ZHI0d3dVZlVVTzB0SnNzSlUzNXRkUWNmWmh5MmtldVp0MHJqYXNV0gG-AUFVX3lxTE1HTzZHcVZxeHhtZjdRcmtuNDRiVVljS0ZvM0lDQkZJRlhQVkdpSlVMek1TaXR5d1FoQTRTZWRNWkQ0dFNncHFDWTFUVFNXcUMxRzRCUzRHQmxQNnJSY3U3RzBFd1oxWTF6OV80aS13QnNEUmEwbXdmQ05xajFMSXBPRkZhbk11WEpjbFZ1WUx1cThDZno1bnRaMmNBOEczbEQ4R3YtQjE1M0JmVGxRNk1lYUhCXzFxQmsyMGc1NUE?oc=5",
       "date": "2026-05-04 15:51",
       "summary": "Week one of the Musk v. Altman trial: What it was like in the room  MIT Technology Review..."
+    },
+    {
+      "title": "A blueprint for using AI to strengthen democracy - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUVCOVYyOHZiMGJDcWdWeE9ldjVtTnRDSFcyRFc0MVZjU1YyRHlSOHJXS1MzZVh5dEd6emRhRzY1RF9rZVhUNXM5TUdNWGU2Njc4TE1XaUZoRGRQMlNoRnBTc1pMdG1ZV3F2cC1Ocy10SFZtNlBnVTN1T3RkakdNUdIBhgFBVV95cUxOOS03MWRNWDRxSXNpalFsam1zdi11dUNGUlFZM3VhVS1jNVdPbHQtaTJTVFhzdFBIRm9tRVFDUmFHRGxBbGlTTk81QVRuMzRjTXFOUUF4M3JVbENxTjczLUxFYmxxcUdvMVNZOEd0SExVeFhXRFFoajBRZk5DMXFPdTVWOG1sZw?oc=5",
+      "date": "2026-05-05 09:00",
+      "summary": "A blueprint for using AI to strengthen democracy  MIT Technology Review..."
     },
     {
       "title": "Tailoring AI solutions for health care needs - MIT Technology Review",
@@ -247,15 +253,21 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHU0Z0NrdEN5bE5ZNjU0d2xNTUMwRkg0UVVaZVJtQV9GcC1veUhiRTZZdGlZVEZZMk1DLWM4WXNXWUFwYmxZOF80RTRFb08waFY1dVZaQkFIWENUa0FuelJPVjFLTnFCdVRmQVhkaXJzbDNaZ01aOEs4TVhqRWxpRlAzZ1RIcWlENFc3OWdOSDg0YnkwTl9hMzVhSDduTlY2R3hKd3JCT3ItcUlGcXFUX21KVWlHUDNWWGsxRHNIZ0pOSm5FQmRWZ2RpYVdlS0RsVHfSAdcBQVVfeXFMUEVRM01UdTVxVVM3NXlsUURqaEVkdTB3UDNiSjJqbzh4YzdJR3NqRnJ1SWxaOEYtd09KcXJJSVZpMmI2QXNFU3RJcFRDMGx0MG9vaHNEaFlKcUc4MmlUZ2lUUVlEd0FBd0VaQ2hSeURvYXVsdU1TVHZfQkhsbU9UNXJ3dmhkMWdrak5vSGJMTTF4RjNSSGhlaU9nRkFLQjJZYzc3b0tNa2ZPc3RVWGs2cVBDYmtyeFNjekY5cjNpN09ORHdSTUpScTlfRFlrc05pUTVtRU5BYjg?oc=5",
       "date": "2026-05-01 09:00",
       "summary": "A new US phone network for Christians aims to block porn and gender-related content  MIT Technology Review..."
-    },
-    {
-      "title": "Operationalizing AI for Scale and Sovereignty - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlZmbnZIdFU2R1Bsclh4VWw5VDN6OThraUtnWlFlRFh6SDR0SVI1dDhxYnVrMjQ1UFFjbXVHaFl1Q25CZ0FnbUFFYWhyOUIzWkxVTnN4c2ZWdGhCdmlhOElHWkNWLS1iVG9jUGtneWVFaTlseWI3cDd3V3dUaXBqRlFVUko0ci03cHBIOXl2YW5pbEsyMW5qeDlUZWlGMDDSAaQBQVVfeXFMUGxvN0xFWnEtZ0R1NWJ1NGJmaWd3dlRFUW5ncG55YV9rNUJPS0w4T2xoN3V2XzhjR0pwMXlrUlZ3NlVMa3hnLWx4Tk9CaXZKYk02QjVaYUtZaWVfYmRvUGNtUmpfM040QUIxcnhyNWRPMExjUjBGc1J2czAyVHIxQ19lSlRrcUpYYXdMN0oxVi13NVRWcEg1UlZ4YmxGZ0QwYVZwaGI?oc=5",
-      "date": "2026-05-01 15:31",
-      "summary": "Operationalizing AI for Scale and Sovereignty  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Relamination: A mechanism that has been shaping continents for billions of years",
+      "link": "https://phys.org/news/2026-05-relamination-mechanism-continents-billions-years.html",
+      "date": "2026-05-05 09:00",
+      "summary": "An international team led by researchers from the National Museum of Natural Sciences (MNCN-CSIC) has identified a key mechanism t..."
+    },
+    {
+      "title": "Nutrient imbalance may drive coral disease more than heat stress",
+      "link": "https://phys.org/news/2026-05-nutrient-imbalance-coral-disease-stress.html",
+      "date": "2026-05-05 09:00",
+      "summary": "Scientists led by the University of Southampton have revealed that an imbalance of nutrients in seawater can cause coral disease—p..."
+    },
     {
       "title": "Saving chocolate while restoring rainforests? Rock dust boosts soil nutrition and supports farmers",
       "link": "https://phys.org/news/2026-05-chocolate-rainforests-boosts-soil-nutrition.html",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-05-states-wildfire-prone-western-ai.html",
       "date": "2026-05-05 02:00",
       "summary": "On a March afternoon, artificial intelligence detected something resembling smoke on a camera feed from Arizona's Coconino Nationa..."
-    },
-    {
-      "title": "Why endless scrolling gets harder to stop: Three drivers of problematic internet use revealed",
-      "link": "https://phys.org/news/2026-05-endless-scrolling-harder-drivers-problematic.html",
-      "date": "2026-05-05 01:20",
-      "summary": "Why do so many people lose control over their internet use? While age limits for social media are being debated, many adults also ..."
-    },
-    {
-      "title": "What's stopping kids from learning useful skills? Short answer: Exams",
-      "link": "https://phys.org/news/2026-05-kids-skills-short-exams.html",
-      "date": "2026-05-04 23:40",
-      "summary": "Across Africa and beyond, education systems are shifting to curricula designed to build critical thinking and problem-solving skil..."
     }
   ],
   "The Guardian Edu": [
@@ -321,34 +321,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong home sales surge to 2-year high, boosting overall transactions",
+      "link": "https://www.scmp.com/business/article/3352506/hong-kong-home-sales-surge-2-year-high-boosting-overall-transactions?utm_source=rss_feed",
+      "date": "2026-05-05 10:45",
+      "summary": "Hong Kong property transactions surged to a four-month high in April, while the value and volume of home sales hit their highest l..."
+    },
+    {
+      "title": "Hong Kong researchers develop ‘world-first’ nasal spray for rapid stroke aid",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3352496/hong-kong-researchers-develop-world-first-nasal-spray-rapid-stroke-aid?utm_source=rss_feed",
+      "date": "2026-05-05 09:25",
+      "summary": "Researchers at the University of Hong Kong (HKU) say they have developed a world-first nasal spray that delivers neurotherapeutic ..."
+    },
+    {
+      "title": "Hong Kong posts strongest quarterly economic growth in almost 5 years at 5.9%",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352495/hong-kong-posts-strongest-quarterly-economic-growth-almost-5-years-59?utm_source=rss_feed",
+      "date": "2026-05-05 09:00",
+      "summary": "Hong Kong has recorded its fastest quarterly economic growth in nearly five years, hitting 5.9 per cent on the back of strong expo..."
+    },
+    {
+      "title": "More than 240 Wang Fuk Court homeowners petition administrator to hold meeting",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3352490/more-240-wang-fuk-court-homeowners-petition-administrator-hold-meeting?utm_source=rss_feed",
+      "date": "2026-05-05 08:49",
+      "summary": "More than 240 owners representing over 12 per cent of households at Hong Kong’s fire-ravaged Wang Fuk Court petitioned the governm..."
+    },
+    {
       "title": "Tourist’s photos with removed Hong Kong trail sign draw backlash online",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3352480/tourists-photos-removed-hong-kong-trail-sign-draw-backlash-online?utm_source=rss_feed",
       "date": "2026-05-05 07:42",
       "summary": "A tourist has shared photos of herself holding a MacLehose Trail sign apparently removed from its metal stand during the Labour Da..."
-    },
-    {
-      "title": "Hong Kong boy, 12, arrested for allegedly making explosives, posting process online",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352470/hong-kong-boy-12-arrested-allegedly-making-explosives-posting-process-online?utm_source=rss_feed",
-      "date": "2026-05-05 07:09",
-      "summary": "A 12-year-old boy in Hong Kong has been arrested on suspicion of manufacturing explosives and posting about the process online, th..."
-    },
-    {
-      "title": "Hong Kong corruption watchdog arrests 7 over rigged maintenance project tender",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352469/hong-kong-corruption-watchdog-arrests-7-over-rigged-maintenance-project-tender?utm_source=rss_feed",
-      "date": "2026-05-05 07:07",
-      "summary": "Hong Kong’s anti-corruption watchdog has arrested seven people linked to a syndicate that allegedly targeted large maintenance pro..."
-    },
-    {
-      "title": "Ex-Hong Kong police inspector with HK$2 million debt jailed for lying to colleagues",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352460/ex-hong-kong-police-inspector-hk2-million-debt-jailed-lying-colleagues?utm_source=rss_feed",
-      "date": "2026-05-05 06:21",
-      "summary": "A former senior Hong Kong police inspector has been jailed for six weeks after lying to colleagues to borrow HK$140,000 (US$17,871..."
-    },
-    {
-      "title": "HSBC profit flat as Middle East provisions offset wealth growth",
-      "link": "https://www.scmp.com/business/banking-finance/article/3352456/hsbc-profit-flat-middle-east-provisions-offset-wealth-growth?utm_source=rss_feed",
-      "date": "2026-05-05 06:06",
-      "summary": "HSBC, Hong Kong’s largest lender, reported broadly flat first-quarter profit as lower interest rates and provisions linked to the ..."
     }
   ],
   "New Scientist": [
@@ -362,7 +362,7 @@
       "title": "Quantum computers simulated their biggest molecule yet – with help",
       "link": "https://www.newscientist.com/article/2525277-quantum-computers-simulated-their-biggest-molecule-yet-with-help/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-05 05:01",
-      "summary": "Two quantum computers and two supercomputers teamed up to break the record on the biggest molecule yet to be simulated using quant..."
+      "summary": "Two quantum computers and two supercomputers teamed up to break the record for the biggest molecule yet to be simulated using quan..."
     },
     {
       "title": "Tiny frozen world unexpectedly appears to have an atmosphere",
