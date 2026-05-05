@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "Astronomers pin down the origins of a planetary odd couple",
+      "link": "https://news.mit.edu/2026/astronomers-pin-down-origins-planetary-odd-couple-0505",
+      "date": "2026-05-05 04:00",
+      "summary": "New measurements of a hot Jupiter and its mini-Neptune companion suggest both planets formed surprisingly far away from their host..."
+    },
+    {
+      "title": "The tech revolution that wasn’t",
+      "link": "https://news.mit.edu/2026/tech-revolution-that-wasnt-dwai-banerjee-book-0505",
+      "date": "2026-05-05 04:00",
+      "summary": "Dwai Banerjee’s new book examines the visionaries who wanted to turn India into a world power at making computers...."
+    },
+    {
       "title": "Rett syndrome study highlights potential for personalized treatments",
       "link": "https://news.mit.edu/2026/rett-syndrome-study-highlights-potential-personalized-treatments-0504",
       "date": "2026-05-04 18:00",
@@ -17,32 +29,20 @@
       "link": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
       "date": "2026-05-04 17:45",
       "summary": "An old patent from MIT Professor Bill Freeman inspired the new “Y-zipper,” a three-sided fastener that snaps gear, robots, and art..."
-    },
-    {
-      "title": "How chromatin movement helps control gene expression",
-      "link": "https://news.mit.edu/2026/how-chromatin-movement-helps-control-gene-expression-0504",
-      "date": "2026-05-04 09:00",
-      "summary": "By monitoring these chromosomal structures over many timescales, MIT researchers found that chromatin helps bring genes closer to ..."
-    },
-    {
-      "title": "Study: Gene circuits reshape DNA folding and affect how genes are expressed",
-      "link": "https://news.mit.edu/2026/study-gene-circuits-reshape-dna-folding-and-affect-gene-expression-0430",
-      "date": "2026-04-30 18:00",
-      "summary": "When genes are transcribed, they suppress or activate their neighbors, coupling expression between the two genes...."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "How academia can help America heal - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
-      "date": "2026-02-13 08:00",
-      "summary": "How academia can help America heal  Harvard Gazette..."
-    },
     {
       "title": "Plan to rein in inflated grading explained - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
       "date": "2026-03-26 07:00",
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+    },
+    {
+      "title": "How academia can help America heal - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
+      "date": "2026-02-13 08:00",
+      "summary": "How academia can help America heal  Harvard Gazette..."
     },
     {
       "title": "Crossing line between good and bad anxiety - Harvard Gazette",
@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford merges AI and data science efforts under single institute - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sNElMbGp3aEQ1T05VNzdlMFAxS3Zldm0yNTY0Zkh0bjZZbk1jVndoVDFNWDJwRnJaZXBac3NsaHROOEluYTNRZFRSNWhDem1LSHVjTUtaRlJQSl9lYk1CNjF0MzN3RC15Y0pWYXlidmpPRVUwRE9PYTdmWTJKdUU?oc=5",
-      "date": "2026-05-04 21:29",
-      "summary": "Stanford merges AI and data science efforts under single institute  Stanford Report..."
+      "title": "Stanford Merges AI and Data Science Efforts Under Single Institute - Stanford HAI",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUVsV0twYlFoWDRtRTFaTFJnNHdFbUZrMllWXzR4b3JhRGQ1eWxCY1JDT2RfZ2NoaVNTczB0TFE4WGs3Rk9acGp1dFBjYU51aE1BQlhzRGtGWl80OEtzcFdBLVV0MXE3U2lINlUwYnFLaklzM0hpYXhtby16a1ZiSDVzMDlFc1JVb3VIS2pqX1BXeFBKbVhYMHRDblQ?oc=5",
+      "date": "2026-05-04 21:54",
+      "summary": "Stanford Merges AI and Data Science Efforts Under Single Institute  Stanford HAI..."
     },
     {
       "title": "Institute to focus on leadership in increasingly complex world - Stanford Report",
@@ -211,16 +211,16 @@
       "summary": "Long Lake to buy Amex GBT for $6.3 billion in AI travel bet  Reuters..."
     },
     {
-      "title": "As Formula One evolves, AI becomes part of the race - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjlIX0JUZjhLMGdrRzc0cmt6b2JxcndUYjVRa1JsRl9rbFFDNnR0UmM0MGxSRURrc0NMaWRIZWExQ3k2UjJXNmNDVENhVm9UUzE4aHZrRmN1ME5Sb1VaTE51R3gtY2NNcVhZckdhbjdaeU5mVG5NVDk1UWVDSG9RTHhZMWY3SldWRDVhNXF4Q3I?oc=5",
-      "date": "2026-05-04 18:58",
-      "summary": "As Formula One evolves, AI becomes part of the race  Reuters..."
+      "title": "Intel appoints Qualcomm executive to lead PC and physical AI business - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQldKc3AxNXltRkY5UWFEVnRmbGtUWVNrNjFicmN3U2JNZV9JMHlxWGJHaTFfeHZ4MkVlNmRxbkg2RHdFMzFGeGVzRG1fTExlNndWdFQydFJ4Y3RXdkt4TV9kQXY5RS01ZVNkVVpINXdvRHNzYUJHMFhGa2ljOFFwaEJJOXl4V0NHX21tRFN3Nm1DVGZvYjVUelUtMWIyT2JOeVlxd3JrX3JYLTA?oc=5",
+      "date": "2026-05-04 21:51",
+      "summary": "Intel appoints Qualcomm executive to lead PC and physical AI business  Reuters..."
     },
     {
-      "title": "India's markets regulator to soon issue advisory on emerging AI risks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXZ2ZThpMmZmcWx0bWNvY3hYRjE5bXVSOGRJYmtHSjBROTlaNVNSNVdiSC1MWThlMWk3YXc4MFFKSXZvTk4yS0g3Mk83TFBPaG9ybDRaeDV2N0hCZDVJZ3E4RU1zcDJ2eHp4d2JpS2Y3ZElLZjVnOEMydF9lYUFWVWZjYjVVa0plcnFvaEw4MU9jd2JBTVFEVnRsYjZGNTJaeDBNME1ISU5YZ2c1VDdiSjloVkFHZw?oc=5",
-      "date": "2026-05-04 05:07",
-      "summary": "India's markets regulator to soon issue advisory on emerging AI risks  Reuters..."
+      "title": "Trump calls Xi meeting important trip, says US leads in AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQTd2WW1STVYycUpncXA0QnZGZHg1WHBzRHpmRXVrTUVOSlFjTXkxVkY4UU1VZjA4MWFlYXI4STljMWpVWXQ1SlB3WXE0NnNkdmdLdTJkZ2lvZWZJVGpWWHpZWDNYZkpsYjZuWDUwTG1FYzRnYjZNc29yeXlIMkZOUXpxYmgyYk9fMVk5M1dUQ3BtcmkwR3VEb3J3bWgxWmx1V1k5aEJ0S2pmRmVLTEE?oc=5",
+      "date": "2026-05-04 20:06",
+      "summary": "Trump calls Xi meeting important trip, says US leads in AI  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,19 +243,25 @@
       "summary": "This startup’s new mechanistic interpretability tool lets you debug LLMs  MIT Technology Review..."
     },
     {
+      "title": "A new US phone network for Christians aims to block porn and gender-related content - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHU0Z0NrdEN5bE5ZNjU0d2xNTUMwRkg0UVVaZVJtQV9GcC1veUhiRTZZdGlZVEZZMk1DLWM4WXNXWUFwYmxZOF80RTRFb08waFY1dVZaQkFIWENUa0FuelJPVjFLTnFCdVRmQVhkaXJzbDNaZ01aOEs4TVhqRWxpRlAzZ1RIcWlENFc3OWdOSDg0YnkwTl9hMzVhSDduTlY2R3hKd3JCT3ItcUlGcXFUX21KVWlHUDNWWGsxRHNIZ0pOSm5FQmRWZ2RpYVdlS0RsVHfSAdcBQVVfeXFMUEVRM01UdTVxVVM3NXlsUURqaEVkdTB3UDNiSjJqbzh4YzdJR3NqRnJ1SWxaOEYtd09KcXJJSVZpMmI2QXNFU3RJcFRDMGx0MG9vaHNEaFlKcUc4MmlUZ2lUUVlEd0FBd0VaQ2hSeURvYXVsdU1TVHZfQkhsbU9UNXJ3dmhkMWdrak5vSGJMTTF4RjNSSGhlaU9nRkFLQjJZYzc3b0tNa2ZPc3RVWGs2cVBDYmtyeFNjekY5cjNpN09ORHdSTUpScTlfRFlrc05pUTVtRU5BYjg?oc=5",
+      "date": "2026-05-01 09:00",
+      "summary": "A new US phone network for Christians aims to block porn and gender-related content  MIT Technology Review..."
+    },
+    {
       "title": "Operationalizing AI for Scale and Sovereignty - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlZmbnZIdFU2R1Bsclh4VWw5VDN6OThraUtnWlFlRFh6SDR0SVI1dDhxYnVrMjQ1UFFjbXVHaFl1Q25CZ0FnbUFFYWhyOUIzWkxVTnN4c2ZWdGhCdmlhOElHWkNWLS1iVG9jUGtneWVFaTlseWI3cDd3V3dUaXBqRlFVUko0ci03cHBIOXl2YW5pbEsyMW5qeDlUZWlGMDDSAaQBQVVfeXFMUGxvN0xFWnEtZ0R1NWJ1NGJmaWd3dlRFUW5ncG55YV9rNUJPS0w4T2xoN3V2XzhjR0pwMXlrUlZ3NlVMa3hnLWx4Tk9CaXZKYk02QjVaYUtZaWVfYmRvUGNtUmpfM040QUIxcnhyNWRPMExjUjBGc1J2czAyVHIxQ19lSlRrcUpYYXdMN0oxVi13NVRWcEg1UlZ4YmxGZ0QwYVZwaGI?oc=5",
       "date": "2026-05-01 15:31",
       "summary": "Operationalizing AI for Scale and Sovereignty  MIT Technology Review..."
-    },
-    {
-      "title": "Cyber-Insecurity in the AI Era - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY0Y2OHA1RHNMVFJQS3ZMVnpsRzJUQTg3Yl9XM3lvcjlyVHBiNWJ1YUdDVm4xbmdUR2NkLVlKR0RfQUlZeUVBREZfU1V3VEFNSHB2dEhldklPZWdzclBzaEpNbmo5TUo2YWJXNVVYU1hiZXdTYmNxaXdORFQyS25qSjc2ZzJxOGIyWkRB0gGQAUFVX3lxTE5UM2VHTUx5Q2lqLTRhb3Jhc2c5SjROdE9Nc0R1UEhVZFVZZk1QVXRMNHhENXVqS2NoZ3dfbmZwVmtLWmI3VmtoZ2xJWmdkR3BES3VlUTRsNkNDaXA2U2U3NF9RSmhiTlZlXzRscTYyZjMyZjFSTmxXV2pLZWg5Q3E3NXJYdHh4Nlh2SUZHZUVJQQ?oc=5",
-      "date": "2026-05-01 15:54",
-      "summary": "Cyber-Insecurity in the AI Era  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Burned stone, child's bones, and lost jewelry hint at prehistoric mining camp high in the Pyrenees",
+      "link": "https://phys.org/news/2026-05-stone-child-bones-lost-jewelry.html",
+      "date": "2026-05-05 04:00",
+      "summary": "In the past, scientists thought that prehistoric peoples only traveled briefly through high-altitude mountain areas, rather than s..."
+    },
     {
       "title": "States across the wildfire-prone Western US are using AI for early detection",
       "link": "https://phys.org/news/2026-05-states-wildfire-prone-western-ai.html",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-05-massively-underestimated-io-thermal-output.html",
       "date": "2026-05-04 22:40",
       "summary": "Io is a world of extremes. It is by far the most volcanically active world in our solar system. Being continually squeezed in the ..."
-    },
-    {
-      "title": "Politicians are not ignoring you, statistical analysis suggests",
-      "link": "https://phys.org/news/2026-05-politicians-statistical-analysis.html",
-      "date": "2026-05-04 22:40",
-      "summary": "If you're registered to vote in the United States and you're not among the richest of the rich, political scientist Peter K. Enns ..."
     }
   ],
   "The Guardian Edu": [
@@ -321,7 +321,25 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Golden Week crush shows Hong Kong needs top-down ecotourism policy, experts say",
+      "title": "EcoCeres to invest HK$10 billion in sustainable aviation fuel plants in Greater Bay Area",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352453/ecoceres-invest-hk10-billion-sustainable-aviation-fuel-plants-greater-bay-area?utm_source=rss_feed",
+      "date": "2026-05-05 05:38",
+      "summary": "A biofuel company backed by the family office of tycoon Peter Lee Ka-kit will invest HK$10 billion (US$1.3 billion) in sustainable..."
+    },
+    {
+      "title": "Fee, prize caps proposed for claw machines amid ‘deceptive design’ concerns",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352447/fee-prize-caps-proposed-claw-machines-amid-deceptive-design-concerns?utm_source=rss_feed",
+      "date": "2026-05-05 05:01",
+      "summary": "The operation of claw and pinball machines could be regulated by capping fees and prize values as a first step to curb addiction t..."
+    },
+    {
+      "title": "1 of 2 Hong Kong hikers rescued from Japan’s Northern Alps, search continues",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3352445/japanese-police-search-northern-alps-2-missing-climbers-1-hongkonger?utm_source=rss_feed",
+      "date": "2026-05-05 04:38",
+      "summary": "Japanese authorities have rescued one of two Hong Kong hikers stranded on treacherous slopes in the country’s Northern Alps.\nGifu ..."
+    },
+    {
+      "title": "‘Golden week’ crush shows Hong Kong needs top-down ecotourism policy, experts say",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3352409/golden-week-crush-shows-hong-kong-needs-top-down-ecotourism-policy-experts-say?utm_source=rss_feed",
       "date": "2026-05-05 02:30",
       "summary": "Hong Kong should adopt a top-down, comprehensive ecotourism policy to safeguard the city’s natural attractions, with a designated ..."
@@ -331,24 +349,6 @@
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3351996/hong-kong-should-study-how-singapore-awards-infrastructure-contracts?utm_source=rss_feed",
       "date": "2026-05-05 01:30",
       "summary": "As Hong Kong prepares for another major push in public works, one question deserves far more attention than it has received: are w..."
-    },
-    {
-      "title": "What the public inquiry into deadly Tai Po blaze has revealed so far",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3352423/what-public-inquiry-deadly-tai-po-blaze-has-revealed-so-far?utm_source=rss_feed",
-      "date": "2026-05-05 00:30",
-      "summary": "The independent committee tasked with investigating Hong Kong’s deadly Tai Po blaze has finished 21 sessions of evidential hearing..."
-    },
-    {
-      "title": "Uzbek PM Abdulla Aripov to join ‘milestone’ 200-member delegation in Hong Kong",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352411/uzbek-pm-abdulla-aripov-join-milestone-200-member-delegation-hong-kong?utm_source=rss_feed",
-      "date": "2026-05-04 16:06",
-      "summary": "Uzbek Prime Minister Abdulla Aripov will visit Hong Kong two days after a 200-strong delegation from the Central Asian country arr..."
-    },
-    {
-      "title": "‘Golden week’: Hong Kong draws more mainland Chinese visitors but spending uneven",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352395/golden-week-hong-kong-draws-more-mainland-chinese-visitors-spending-uneven?utm_source=rss_feed",
-      "date": "2026-05-04 12:51",
-      "summary": "Hong Kong recorded a 4.8 per cent increase in mainland Chinese visitors in the first three days of their Labour Day “golden week” ..."
     }
   ],
   "New Scientist": [
