@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Method for stress-testing cloud computing algorithms helps avoid network failures",
+      "link": "https://news.mit.edu/2026/method-stress-testing-cloud-computing-algorithms-helps-avoid-network-failures-0506",
+      "date": "2026-05-06 04:00",
+      "summary": "The “MetaEase” technique provides a heads-up to potential scenarios that could cause long wait-times or outages...."
+    },
+    {
       "title": "Astronomers pin down the origins of a planetary odd couple",
       "link": "https://news.mit.edu/2026/astronomers-pin-down-origins-planetary-odd-couple-0505",
       "date": "2026-05-05 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/powering-160000-hours-discovery-at-mitnano-0504",
       "date": "2026-05-04 17:50",
       "summary": "NanoFab Equipment Management and Operations (NEMO) system streamlines shared facilities management via tool trainings, reservation..."
-    },
-    {
-      "title": "It took 40 years for technology to catch up to this zipper design",
-      "link": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
-      "date": "2026-05-04 17:45",
-      "summary": "An old patent from MIT Professor Bill Freeman inspired the new “Y-zipper,” a three-sided fastener that snaps gear, robots, and art..."
     }
   ],
   "Harvard Gazette": [
@@ -51,16 +51,16 @@
       "summary": "How academia can help America heal  Harvard Gazette..."
     },
     {
-      "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
-      "date": "2026-02-20 08:00",
-      "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
-    },
-    {
       "title": "How to help lift slumping American math scores - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
       "summary": "How to help lift slumping American math scores  Harvard Gazette..."
+    },
+    {
+      "title": "Harvard University Housing establishes new rents for 2026–2027 - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWZSUVN5WDhwT3M4M1lqOEMwc21BUUtoMkN0eG1yaW5lWFJaeElaajdHUmkzREtGSC0tell6NC1DWDBtbzk0eEtaMDB2Zm5CWGhBd1RXeTVKU2NwZEt0TlU2SmVjNUYwS0xWU0NyU2x4ZzY5c3p4MUk1cXNEQV9jdkpfR0x0UlhWTHV4c0dFb2pUTFBERmVfY256NGN6bnlSOGYxb1FHX1dDUU1qQ2JR?oc=5",
+      "date": "2026-01-23 08:00",
+      "summary": "Harvard University Housing establishes new rents for 2026–2027  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Winning science fair project in Vietnam beset by misconduct allegations as major high school competition looms",
+      "link": "https://retractionwatch.com/2026/05/05/winning-science-fair-project-in-vietnam-beset-by-misconduct-allegations-as-major-high-school-competition-looms/",
+      "date": "2026-05-05 22:16",
+      "summary": "A science competition for middle and high school students in Vietnam is embroiled in controversy as its winners head to next week’..."
+    },
+    {
       "title": "Court orders historian to repay grant funding for “pattern of plagiarism” in books",
       "link": "https://retractionwatch.com/2026/05/05/court-orders-historian-to-repay-grant-funding-for-pattern-of-plagiarism-in-books/",
       "date": "2026-05-05 14:30",
@@ -183,26 +189,20 @@
       "link": "https://retractionwatch.com/2026/05/01/nejm-retracts-case-study-for-ai-manipulated-imagery/",
       "date": "2026-05-01 14:49",
       "summary": "The New England Journal of Medicine has retracted a clinical image with a picture the authors admit was manipulated with artificia..."
-    },
-    {
-      "title": "Are AI chatbots infiltrating online survey data? Not yet, says new study",
-      "link": "https://retractionwatch.com/2026/04/30/are-ai-chatbots-infiltrating-online-survey-data-not-yet-says-new-study/",
-      "date": "2026-04-30 18:02",
-      "summary": "Despite concerns some have raised about potentially compromised data, AI chatbots aren’t yet completing online research surveys wi..."
     }
   ],
   "Reuters AI": [
     {
-      "title": "Anthropic deepens finance push as CEO Amodei warns of software disruption - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYnNUSm00b1o1NmpMVTNvTHgzdnZOYjZFRnh3MjdiaFo5WU5uMDBUZVczc2t2elFoSzBvTV8ydVp5eldIMGlxRE9fbXlRVjFEVGpaWkktZEo2MkRzTGVla0M3UklmbGVPLTVicUtUWU5hRlktUzFER2R0dkdOYWkxdmtkMHBQOWZFbTh2aUxsbGNtVURfbFdIclpoTmRNdWtEQUx6WkFkcHBsT3YtSVVVUEc5ZW9BZVpuNlZxbg?oc=5",
-      "date": "2026-05-05 17:32",
-      "summary": "Anthropic deepens finance push as CEO Amodei warns of software disruption  Reuters..."
+      "title": "Freshworks to cut 11% jobs as AI reshapes software industry - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWE1VnJ3aWJoZXE2d1VpWkR2YkpyaGJJSklzcmNybGJDRjJjS09jajNuOEtvaVM4YUF2T1BUdWNjd3JyeV9hZFZZYzc5WUxCZkZEWDZscjV3bk14M0dBbWJ1QVZTdjZXY3JfM25mWHI0d1YxeEpkQTF1RzlMNFdKRWlGX3NaSlZxSFhpa2xLRF9QdnNwUzdqMk5PYw?oc=5",
+      "date": "2026-05-05 21:59",
+      "summary": "Freshworks to cut 11% jobs as AI reshapes software industry  Reuters..."
     },
     {
-      "title": "White House considers government reviews for AI models, NYT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWGlZa1RoakVfZmdhdU9fUnIwcHlvZWxNM09ZM2VEVmJ1Y2tBU0kycVFSMnN3UFFDUmJLUlMxb2Q4alg2dzRlNV9IVi1INTY4VlB4ZlZpczdEOWZyLWtGWmZYNVR1UDlVMGFUamFyUW5oYUpfcU40SVk4R3Zoc3NjbTZ0Tl9GRjU0eVZDZFh5RHJucHpIakFWWklhUE83Vzg5bk9HZFJvV2Y5NWg5NVFMb2c4TmRkNjNjUGc?oc=5",
-      "date": "2026-05-04 21:19",
-      "summary": "White House considers government reviews for AI models, NYT reports  Reuters..."
+      "title": "Flex to spin off AI data-center infrastructure unit into listed company - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTdDZjBkbzRYMmZxMXZmYVNpLVJObWF4d1luZzByYkdwV3p1NURuMWpzVElJLTNnUUczTkZyZV81d3hjWndVa1FyWkdIWlpWN1lSN29QYnhtbzJJejhNQW5GUjlRS1Z3UkhFeHh2czN3eUdyVkE1ZmhlTnBKQ2hibU9GcGthakJVbm1vbVRzOGFIUkNmWUIyTHZCMXVVM0laZjRNakd1ajc5YUtyeGg5Y3lKcw?oc=5",
+      "date": "2026-05-05 20:10",
+      "summary": "Flex to spin off AI data-center infrastructure unit into listed company  Reuters..."
     },
     {
       "title": "Fresh AI Disruption Selloff Hits Thomson Reuters Despite Strong Results - Bloomberg.com",
@@ -211,10 +211,10 @@
       "summary": "Fresh AI Disruption Selloff Hits Thomson Reuters Despite Strong Results  Bloomberg.com..."
     },
     {
-      "title": "What we know about US stress tests of Google, xAI and Microsoft AI models - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUGllVGc2b1dwV0tKNHNRc25vVmlpdTFwd2ttR3lfb2NoSS1wQldqVzNCYTVLNFFDQ2lNSjI5T3NZQjFqZnV3U0lFWXlaZHFTc1BjLXRNYV96d2F1akxqZUhkUFdxUVo5TUhuNTRoNFdreFpaRHJnU2V1X25NaHBuay1CVndPZG1TNWQzdmM4bzVHYnd4OGZlUUF0ZFF3WkVVV1hKUnhYbm9ja0VOU3VPYlJmTTcxWXF4ZFE?oc=5",
-      "date": "2026-05-05 22:07",
-      "summary": "What we know about US stress tests of Google, xAI and Microsoft AI models  Reuters..."
+      "title": "AMD forecasts revenue above expectations on strong AI demand, shares jump 12% - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzRfRTFOZjVpVkJVNzFyMHpBdWFZa0p4eDV4SkJjSFdPNTMtQ2lRcl9Banl0My1vS083cjNCcmFzU2pPOHNHRHpTNzlkMmJ4ekRnZVlHVXlYSHZ6NW8xTjRlMnY4U3VnNjA2ODlhQTJkbVU0bzQxRkx0TzRtcUFVUHhPZkZCVVotc05Za09RbGs3VEk3OEVOZlVCR0M2ZWU5RzYzVS1yeEtSbU8xYjMyd0hwVnEwUzNqWUR4aEliTFU?oc=5",
+      "date": "2026-05-05 22:28",
+      "summary": "AMD forecasts revenue above expectations on strong AI demand, shares jump 12%  Reuters..."
     },
     {
       "title": "Super Micro bets on AI server demand to provide upbeat forecast, shares soar - Reuters",
@@ -225,22 +225,22 @@
   ],
   "MIT Tech Review": [
     {
-      "title": "A blueprint for using AI to strengthen democracy - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUVCOVYyOHZiMGJDcWdWeE9ldjVtTnRDSFcyRFc0MVZjU1YyRHlSOHJXS1MzZVh5dEd6emRhRzY1RF9rZVhUNXM5TUdNWGU2Njc4TE1XaUZoRGRQMlNoRnBTc1pMdG1ZV3F2cC1Ocy10SFZtNlBnVTN1T3RkakdNUdIBhgFBVV95cUxOOS03MWRNWDRxSXNpalFsam1zdi11dUNGUlFZM3VhVS1jNVdPbHQtaTJTVFhzdFBIRm9tRVFDUmFHRGxBbGlTTk81QVRuMzRjTXFOUUF4M3JVbENxTjczLUxFYmxxcUdvMVNZOEd0SExVeFhXRFFoajBRZk5DMXFPdTVWOG1sZw?oc=5",
-      "date": "2026-05-05 09:00",
-      "summary": "A blueprint for using AI to strengthen democracy  MIT Technology Review..."
-    },
-    {
       "title": "Week one of the Musk v. Altman trial: What it was like in the room - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ2tRck40ZkhuZXBRVUptMEVjcmFzejBSMEY4RFFaS2RraWZiYmZxOTI0MFlyTy1GUUZ2M2d5M3lPU1Nvdk9haVpwWjYzMWxyLWJfZVZ6YXp1dXludkl6NHdFMDhjZWwtTDFVZllBREdGd0RJN0hNSTd5cktyR0hjTHhsbTNFY2s0SGJIQmh4eTI2ZHI0d3dVZlVVTzB0SnNzSlUzNXRkUWNmWmh5MmtldVp0MHJqYXNV0gG-AUFVX3lxTE1HTzZHcVZxeHhtZjdRcmtuNDRiVVljS0ZvM0lDQkZJRlhQVkdpSlVMek1TaXR5d1FoQTRTZWRNWkQ0dFNncHFDWTFUVFNXcUMxRzRCUzRHQmxQNnJSY3U3RzBFd1oxWTF6OV80aS13QnNEUmEwbXdmQ05xajFMSXBPRkZhbk11WEpjbFZ1WUx1cThDZno1bnRaMmNBOEczbEQ4R3YtQjE1M0JmVGxRNk1lYUhCXzFxQmsyMGc1NUE?oc=5",
       "date": "2026-05-04 15:51",
       "summary": "Week one of the Musk v. Altman trial: What it was like in the room  MIT Technology Review..."
     },
     {
-      "title": "The Download: inside the Musk v. Altman trial, and AI for democracy - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFRyYmNLN25JcERfc1FEM1BRWlBMR3k2LVJBYlVkcFFndDZkcTh3RVRlNFFhcHpvNEtpRGE1cUhaa2ZiVnl1VFpVMmhwZDJRQWYxbVUtUzNHb1hHTXdPdUx5d0cxakp2NHpPT3dWQ1NSNDdLaTY1MEZCRExpZ1NVUTZNbzg1MEZPZDRaU2ZoNmtjQkFUWC1GMDRvX3N1UnpramxVWG5n0gGrAUFVX3lxTFB0UktuTmVuMWJqWFNMM2xWZGxyWTktcVBGVUlzbzFYOWZMSndnZC1jVE9LRFg2cGxoVmE0bXp1dl9mSWFQY3dxRUJmSFVnRUNOaXQ4cHE0aHY2QkRxdDJPSkVqTlAxNDQ4NXJ2RU5vZGZabWNZazJOdkdLVVJiVjk4OWV0d2hxOFNOb2dmMURkQlUxZFJRV1NfTGJLXzdfekc0TGZ2aGdVTlFHNA?oc=5",
-      "date": "2026-05-05 12:10",
-      "summary": "The Download: inside the Musk v. Altman trial, and AI for democracy  MIT Technology Review..."
+      "title": "Tailoring AI solutions for health care needs - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLUJnRDFCekFia3daeFFYb3hJcGhGcjBUVXhtaTUwZmF3UnlHWmFnVGE2TjM4blJoeURIeGpBS3pfbzJPWUxEcmJvaEIyUEN6bC03VldMM3FHUDJKUlRDUldueVJBSG5xenNQUTh0MkpXLU1IS3R5MnJ6Mkh0c0RHWjVzdHo0Q2J4cXJjQmtXbXpQa2U1ei1IT0pDWDVEUdIBowFBVV95cUxPcjZ6clZvWWJHOEtSMElGZVV1MWhVMnMtb0E1cGJEY1FhV0JYNmFiQ0J2UUs5WjlqMzI4eThtNWtFM2FkVXlWMEhMdHF1dEwxYkhwZ1E4VEY5RjNtMWVBN2Y2MTNOSXkta0YyRnVHRFVQaE52MW1wRzFrTUFJbmI5bUVSQkMzTjJpTkNJSkhyQ3dZTWJSR1c0eUdRLURKRFlaRi1n?oc=5",
+      "date": "2026-05-04 13:00",
+      "summary": "Tailoring AI solutions for health care needs  MIT Technology Review..."
+    },
+    {
+      "title": "A blueprint for using AI to strengthen democracy - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUVCOVYyOHZiMGJDcWdWeE9ldjVtTnRDSFcyRFc0MVZjU1YyRHlSOHJXS1MzZVh5dEd6emRhRzY1RF9rZVhUNXM5TUdNWGU2Njc4TE1XaUZoRGRQMlNoRnBTc1pMdG1ZV3F2cC1Ocy10SFZtNlBnVTN1T3RkakdNUdIBhgFBVV95cUxOOS03MWRNWDRxSXNpalFsam1zdi11dUNGUlFZM3VhVS1jNVdPbHQtaTJTVFhzdFBIRm9tRVFDUmFHRGxBbGlTTk81QVRuMzRjTXFOUUF4M3JVbENxTjczLUxFYmxxcUdvMVNZOEd0SExVeFhXRFFoajBRZk5DMXFPdTVWOG1sZw?oc=5",
+      "date": "2026-05-05 09:00",
+      "summary": "A blueprint for using AI to strengthen democracy  MIT Technology Review..."
     },
     {
       "title": "A new US phone network for Christians aims to block porn and gender-related content - MIT Technology Review",
@@ -249,13 +249,19 @@
       "summary": "A new US phone network for Christians aims to block porn and gender-related content  MIT Technology Review..."
     },
     {
-      "title": "Tailoring AI solutions for health care needs - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLUJnRDFCekFia3daeFFYb3hJcGhGcjBUVXhtaTUwZmF3UnlHWmFnVGE2TjM4blJoeURIeGpBS3pfbzJPWUxEcmJvaEIyUEN6bC03VldMM3FHUDJKUlRDUldueVJBSG5xenNQUTh0MkpXLU1IS3R5MnJ6Mkh0c0RHWjVzdHo0Q2J4cXJjQmtXbXpQa2U1ei1IT0pDWDVEUdIBowFBVV95cUxPcjZ6clZvWWJHOEtSMElGZVV1MWhVMnMtb0E1cGJEY1FhV0JYNmFiQ0J2UUs5WjlqMzI4eThtNWtFM2FkVXlWMEhMdHF1dEwxYkhwZ1E4VEY5RjNtMWVBN2Y2MTNOSXkta0YyRnVHRFVQaE52MW1wRzFrTUFJbmI5bUVSQkMzTjJpTkNJSkhyQ3dZTWJSR1c0eUdRLURKRFlaRi1n?oc=5",
-      "date": "2026-05-04 13:00",
-      "summary": "Tailoring AI solutions for health care needs  MIT Technology Review..."
+      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSEhMR01fZ3ljTFc1X3IwX0d5Znc3eF9IdlFJamZHeHpVOEpjNUFmQXhCQzVJOGhma05kMFo1aWxoSERUb2NubVpFSXNZLVRxX1djaXoxVlZiR0Qxd2V5X2ZuX0prdmZwdDZYWDlwblVaNkljcmhfdktFcXRYWVZkVkxCeW5JemRkOF9fWlZaR1BveVc2RGhkSEZGVzh5TXV1REhSSjB0d1FWRW5nWnBKWHU2ZTVrRUVhYWZyTUFsNkdxZ9IBxwFBVV95cUxOWDNlYlp5U25mcG5fOFAxd3hEbUVZVWVwTnRZLTVJMDB1c1NZN3JMME95ODd6cDk1dDR3dHVxZE9kUkpySHdLVUZBVm91U1pjdHJhUlAxMEI2cF85MTFWbVBickxUaWpCamJBX29oMkJhTk13Y1lxUHVDWU1xZERfbDZZSkdUUlZ3VExmV2drUHFndXh6cG54OVE2UGoyaHdhVFJtcVl3WVh5THQ0b0VhZ1BKa3ZoQnFnUXY2ZXhuZ1dTeHlkYnVF?oc=5",
+      "date": "2026-04-30 15:59",
+      "summary": "This startup’s new mechanistic interpretability tool lets you debug LLMs  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Space junk falls to Earth faster when sunspots peak, reshaping satellite collision forecasts",
+      "link": "https://phys.org/news/2026-04-space-junk-falls-earth-faster.html",
+      "date": "2026-05-06 05:00",
+      "summary": "Solar emissions exert 'drag' on space junk orbiting Earth. From historical measurements across a period of 36 years, researchers h..."
+    },
     {
       "title": "Reducing social inequality: Why the scope of measures is crucial",
       "link": "https://phys.org/news/2026-05-social-inequality-scope-crucial.html",
@@ -279,15 +285,15 @@
       "link": "https://phys.org/news/2026-05-male-coyote-swam-miles-alcatraz.html",
       "date": "2026-05-05 23:40",
       "summary": "A lone coyote stunned biologists and others when it paddled its way to remote Alcatraz Island earlier this year, a former federal ..."
-    },
-    {
-      "title": "CPR simulator for space use tracks the differences of blood flow in reduced gravity",
-      "link": "https://phys.org/news/2026-05-cpr-simulator-space-tracks-differences.html",
-      "date": "2026-05-05 23:40",
-      "summary": "The new focus on manned missions to the moon and Mars presents countless pressing challenges, including keeping humans alive in ho..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Palestinian ambassador protests to Foreign Office over ’erasure’ by British Museum",
+      "link": "https://www.theguardian.com/world/2026/may/06/palestinian-ambassador-protest-foreign-office-british-museum",
+      "date": "2026-05-06 05:00",
+      "summary": "Objection after museum removes word ‘Palestine’ from list of countries of ancient Levant and Egypt and from some explanatory panel..."
+    },
     {
       "title": "‘Close to zero impact’: US study casts doubt on effect of phone ban in schools",
       "link": "https://www.theguardian.com/politics/2026/may/05/mobile-phone-ban-schools-us-study",
@@ -311,15 +317,27 @@
       "link": "https://www.theguardian.com/world/2026/may/02/israeli-militants-attack-west-bank-schools-settler-violence",
       "date": "2026-05-02 11:00",
       "summary": "Education is being targeted across Palestine, with the murder of 14-year-old Aws al-Naasan only the latest in a spree of violenceT..."
-    },
-    {
-      "title": "Ofsted inspections pushing headteachers to ‘point of destruction’, union chief says",
-      "link": "https://www.theguardian.com/education/2026/may/01/ofsted-inspections-destruction-criticised-union-head-paul-whiteman-naht",
-      "date": "2026-05-01 16:32",
-      "summary": "NAHT leader says schools watchdog for England does not raise standards, amid opposition to ‘Nando’s-style’ scoringSchool leaders a..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Hong Kong Legco issues warning to lawmaker Judy Chan over traffic offence",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352564/hong-kong-legco-issues-warning-lawmaker-judy-chan-over-traffic-offence?utm_source=rss_feed",
+      "date": "2026-05-06 04:11",
+      "summary": "Hong Kong’s legislature has issued a written warning to lawmaker Judy Chan Kapui for driving on the wrong side of the road, urging..."
+    },
+    {
+      "title": "Tai Po fire probe: Housing Bureau’s checking unit failed to follow up on safety issues",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3352299/tai-po-fire-probe-housing-bureaus-checking-unit-failed-follow-safety-issues?utm_source=rss_feed",
+      "date": "2026-05-06 04:03",
+      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+    },
+    {
+      "title": "‘May can give a false sense of safety,’ expert warns after Hong Kong hiker dies in Japan",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3352558/may-can-give-false-sense-safety-expert-warns-after-hong-kong-hiker-dies-japan?utm_source=rss_feed",
+      "date": "2026-05-06 03:22",
+      "summary": "Hikers should not underestimate the risks of climbing in Japan during the volatile spring transition in May, a mountaineering expe..."
+    },
     {
       "title": "Will Hong Kong’s lending clampdown wean helpers off debt – and save their dreams?",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3352536/will-hong-kongs-clamp-lending-wean-helpers-debt-and-save-their-dreams?utm_source=rss_feed",
@@ -331,56 +349,6 @@
       "link": "https://www.scmp.com/article/3351726/part-3-accountability?utm_source=rss_feed",
       "date": "2026-05-05 23:00",
       "summary": "点击查看原文..."
-    },
-    {
-      "title": "How China-Gulf ties can turn energy vulnerability into sustainability",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3352077/how-china-gulf-ties-can-turn-energy-vulnerability-sustainability?utm_source=rss_feed",
-      "date": "2026-05-05 21:30",
-      "summary": "For decades, the Strait of Hormuz has been a narrow passage with a big footprint. Whenever it comes under tension, the world is re..."
-    },
-    {
-      "title": "Fire services to be ‘gatekeepers’ for safety, Hong Kong security chief vows",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3352537/fire-services-be-gatekeepers-safety-hong-kong-security-chief-vows?utm_source=rss_feed",
-      "date": "2026-05-05 15:01",
-      "summary": "Hong Kong’s security chief has reaffirmed that fire services will act as the gatekeeper for safety after a legal vacuum was expose..."
-    },
-    {
-      "title": "Will Hong Kong’s claw machine regulations curb gaming habits and gambling risks?",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3352534/will-hong-kongs-claw-machine-regulations-curb-gaming-habits-and-gambling-risks?utm_source=rss_feed",
-      "date": "2026-05-05 14:04",
-      "summary": "After years of debate over whether claw and pinball machines encourage high-stakes gambling, Hong Kong has finally proposed strict..."
-    }
-  ],
-  "New Scientist": [
-    {
-      "title": "Backlash builds over NHS plan to hide source code from AI hacking risk",
-      "link": "https://www.newscientist.com/article/2525315-backlash-builds-over-nhs-plan-to-hide-source-code-from-ai-hacking-risk/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-05 16:00",
-      "summary": "NHS England is pulling its open-source software from the internet because of fears around computer-hacking AI models like Mythos. ..."
-    },
-    {
-      "title": "Hantavirus: Where has the deadly cruise ship outbreak come from?",
-      "link": "https://www.newscientist.com/article/2525328-hantavirus-where-has-the-deadly-cruise-ship-outbreak-come-from/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-05 13:20",
-      "summary": "Three people have died on board the cruise ship MV Hondius due to an outbreak of hantavirus, a rare illness transmitted by rodents..."
-    },
-    {
-      "title": "Woman in cancer remission without treatment in highly unusual case",
-      "link": "https://www.newscientist.com/article/2525186-woman-in-cancer-remission-without-treatment-in-highly-unusual-case/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-05 10:00",
-      "summary": "A biopsy of a woman's cancer seems to have triggered an immune response against the tumour, putting her into remission..."
-    },
-    {
-      "title": "Man destined to get Alzheimer’s saved by accidental heat therapy",
-      "link": "https://www.newscientist.com/article/2524632-man-destined-to-get-alzheimers-saved-by-accidental-heat-therapy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-05 07:00",
-      "summary": "Doug Whitney has a genetic mutation that means he should have developed Alzheimer’s disease decades ago, but his long-term work in..."
-    },
-    {
-      "title": "Quantum computers simulated their biggest molecule yet – with help",
-      "link": "https://www.newscientist.com/article/2525277-quantum-computers-simulated-their-biggest-molecule-yet-with-help/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-05 05:01",
-      "summary": "Two quantum computers and two supercomputers teamed up to break the record for the biggest molecule yet to be simulated using quan..."
     }
   ]
 }
