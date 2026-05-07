@@ -65,10 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "‘AI is changing the way we do biology’ - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9udmNqUEh2azhVaEYzOGJpUXdEUDJXemJMeXBGSDBnbjRBTTBMU2g5ZVhfQWUyWGZ4ZVhiMl93b0ctUDRZRXl3STNUcFFOQmkwT3MyZkl3TjhId2Y3c3dkN1JnaHcwR0NrQ1dHWjBHWDBBcjBHUC10ZF81Ql8?oc=5",
-      "date": "2026-05-04 20:36",
-      "summary": "‘AI is changing the way we do biology’  Stanford Report..."
+      "title": "Why Stanford Is Restructuring For AI’s Next Era - Stanford HAI",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0ZDSEtGYW53NEtzNE1iSXl4OGNfUkZZZ3NKWWdENzNicFlfbGxDNFlPWnpwREVueks0VW51ZmduclBNTTEzSkhaQVl2MURLR3JvQWQyWUg3aHJHWGl1U29RbTB2cHVoZFMtT3N1eEZhLWdTa2xkOHBEN20zeWNQZF9R?oc=5",
+      "date": "2026-05-04 22:39",
+      "summary": "Why Stanford Is Restructuring For AI’s Next Era  Stanford HAI..."
+    },
+    {
+      "title": "Columbia, Stanford Report Online Outages Amid Cyber Incident - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX3dwczZwcGwyQ2ZXY3JYZmtpVjBycGJrYnd2RlI4RXFyUXRLYkpJVklGSmF2UTN6VWVkN0xCZWcwV3REM3ZsdWhtZFZLcGdEZURqZHJ2TkdlSlZzcW9NandoYW4tWVZfQ29NeUh2Sl9DWk1iSHlPUmpEdUc3YnNMeHhpMVFXbENuOWN0WE0wV3dvU2tlYmhxdEd3TGlpSXhEUkRDdVU3UEVobTNwNW1z?oc=5",
+      "date": "2026-05-07 22:49",
+      "summary": "Columbia, Stanford Report Online Outages Amid Cyber Incident  Bloomberg.com..."
     },
     {
       "title": "Landmark Stanford research finds California’s education system lacks coherence - EdSource",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlZTYmx1TUNELS1aODM3M1psZzhCTlZMNmNnTG1paXFWRXMyQ29oUnJnSnFiRUpWYnVsSkdCMlFhZFc0TFRta0lraWd1a0hNa0VpSUxCbm1jMkdlTEFwRk9oaXFmNXNseHRLV2hLcjNzU0NaMGdyUXV6b1l6LWNJZXM2QnMwMGJIRzlCNXRHNy1MYWhpUHFrQTNn?oc=5",
       "date": "2026-05-07 16:36",
       "summary": "Stanford Releases Alarming Research on Dead Internet Theory  inc.com..."
-    },
-    {
-      "title": "Healthy Aging conference at Stanford urges seniors to focus on fun - Palo Alto Online",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObTQxNjlpU3hOLXVxb2pnV0I5NVZqQU5sRGxfUHVsVTNTbzhtZVlVOWFYS1ZNSTFZZVRqSS10WFNLdGw5R1ZzZGNWT1ljRUZEWHhnR2JTNkw1RWZsVnNfa21YaDIxdUszaEk1LVBlVVVZVTBTd2NaV3k4d2ZadWdiQ3BVZWx3dnpZU2YyMFdqMFdPdkRydjBvTExxN3g3eHdCNDZITHEzdWMxckdETGZ5U0pIWjFPM0FR?oc=5",
-      "date": "2026-05-06 13:39",
-      "summary": "Healthy Aging conference at Stanford urges seniors to focus on fun  Palo Alto Online..."
     }
   ],
   "Nature Careers": [
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "One in 277 PubMed-indexed papers in 2026 shows fabricated references, says analysis",
+      "link": "https://retractionwatch.com/2026/05/07/one-in-277-pubmed-indexed-papers-in-2026-shows-fabricated-references-says-analysis/",
+      "date": "2026-05-07 22:30",
+      "summary": "Fabricated citations in the biomedical literature have increased 12-fold in two years, according to an audit of nearly 2.5 million..."
+    },
+    {
       "title": "Russian news outlets hailed a cancer breakthrough, but the retraction went unnoticed",
       "link": "https://retractionwatch.com/2026/05/06/russian-news-outlets-hailed-a-cancer-breakthrough-but-the-retraction-went-unnoticed/",
       "date": "2026-05-06 14:56",
@@ -183,12 +189,6 @@
       "link": "https://retractionwatch.com/2026/05/04/ori-announces-15-year-debarment-against-former-rice-university-scientist/",
       "date": "2026-05-04 18:31",
       "summary": "The U.S Office of Research Integrity has formally announced a 15-year funding debarment against a former Rice University scientist..."
-    },
-    {
-      "title": "Weekend reads: A retraction for top cancer researcher; paper mill ads paired to IEEE proceedings; about that study on ChatGPT and learning",
-      "link": "https://retractionwatch.com/2026/05/02/weekend-reads-retraction-cancer-researcher-paper-mill-ads-ieee-proceedings-study-chatgpt-learning/",
-      "date": "2026-05-02 10:00",
-      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
     }
   ],
   "Reuters AI": [
@@ -197,12 +197,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzBhaFk5eGwzWkpjRkk4aVBpS0JnX3huMTZkeENYT09wano1ekdiSXE3NkRDWnF3UlQ2ZlRUSmI1el81c0RGWm5lMFBoaU1jcVdfSDlTSHFlN25uODQwdTBZLWkxb1FfeS1vUEpDZ0NBaG5qNW90dERtMGx0MHBIZUc3d3pGcTFtcGlNY3FOTEFTVTNJcFdMRW5oaG85WEFCWGNTaURtWTA?oc=5",
       "date": "2026-05-07 00:17",
       "summary": "US, China weigh launch of official discussions on AI, WSJ reports  Reuters..."
-    },
-    {
-      "title": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFZhSnhTN3pkLVhxNVBraXhnZG5UTjdnQ2g0bUltN3VzQmRXN1hzb21iR3ZFRlRIR1FEdndNdHJoV1pIN0daSnJvVWMwbWtxME9hWVhRdnpoZDJ5Mk5wcXZPTG5DdE1oWGtacldZQjlUWmpZQ3pZaVhQaHBTeUJud3QzYW1ZQXdkdS0yRnpfZ0xlRGl0M1JJSHZtcFdNYlAxZkhKcVBQVUUtdDA?oc=5",
-      "date": "2026-05-05 16:16",
-      "summary": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say  Reuters..."
     },
     {
       "title": "Fresh AI Disruption Selloff Hits Thomson Reuters Despite Strong Results - Bloomberg.com",
@@ -215,6 +209,12 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUNTRTY3V3hFX2F2cUJLdEYwSEdTb01FaV9wLW95RTV1TFZwQXBZb2tmQVNuZ2tSM0pxbmtmZmdYdW5wbzRVNjdkTVRheVhjZGI0eWRTZXV0T0E1dm82bmZjUEM5eXJBYmpWX0pHbHdKTVp4cVRsejlmeDRubjc1ZktnRWlnRXdRQnFSV1JscGhzOEppeERkMzVpaHN3cVpaaDhMMy1FQkRGbWxadjJN?oc=5",
       "date": "2026-05-07 02:48",
       "summary": "EU countries, lawmakers clinch provisional deal on watered-down AI rules  Reuters..."
+    },
+    {
+      "title": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFZhSnhTN3pkLVhxNVBraXhnZG5UTjdnQ2g0bUltN3VzQmRXN1hzb21iR3ZFRlRIR1FEdndNdHJoV1pIN0daSnJvVWMwbWtxME9hWVhRdnpoZDJ5Mk5wcXZPTG5DdE1oWGtacldZQjlUWmpZQ3pZaVhQaHBTeUJud3QzYW1ZQXdkdS0yRnpfZ0xlRGl0M1JJSHZtcFdNYlAxZkhKcVBQVUUtdDA?oc=5",
+      "date": "2026-05-05 16:16",
+      "summary": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say  Reuters..."
     },
     {
       "title": "Corning partners with Nvidia to expand US fiber optic output for AI growth - Reuters",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "The 'nostalgia effect': Scientists produce less disruptive work as they age",
-      "link": "https://phys.org/news/2026-05-nostalgia-effect-scientists-disruptive-age.html",
-      "date": "2026-05-07 21:50",
-      "summary": "You probably know that Einstein changed the face of physics with his theory of relativity in his twenties. What you may not know i..."
+      "title": "For years, reading struggles seemed obvious. This massive analysis points to a very different cause",
+      "link": "https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html",
+      "date": "2026-05-07 23:00",
+      "summary": "For decades, the common explanation for why children struggle to read has stayed remarkably consistent. Smart kids read well. Kids..."
     },
     {
-      "title": "How soil bacteria help plants defend themselves against disease",
-      "link": "https://phys.org/news/2026-05-soil-bacteria-defend-disease.html",
-      "date": "2026-05-07 21:40",
-      "summary": "A study led by researchers at the University of Liège reveals the mechanism by which surfactin, a molecule produced by beneficial ..."
+      "title": "Sharper brains switch to a 'not what you know, but who you know' mindset online and on social media, study shows",
+      "link": "https://phys.org/news/2026-05-sharper-brains-mindset-online-social.html",
+      "date": "2026-05-07 22:40",
+      "summary": "Forming social connections online and via social media reduces how much people engage with and learn from the content posted but s..."
     },
     {
-      "title": "Novel nanoparticle therapy using manganese could improve cancer treatment",
-      "link": "https://phys.org/news/2026-05-nanoparticle-therapy-manganese-cancer-treatment.html",
-      "date": "2026-05-07 21:30",
-      "summary": "A research team led by the University of Michigan College of Pharmacy and the University of Texas MD Anderson Cancer Center has de..."
+      "title": "Mechanical method unlocks sunlight-driven wastewater cleanup",
+      "link": "https://phys.org/news/2026-05-mechanical-method-sunlight-driven-wastewater.html",
+      "date": "2026-05-07 22:30",
+      "summary": "University of Birmingham researchers have demonstrated a new method to break down toxic pollutants in wastewater, using sunlight a..."
     },
     {
-      "title": "Ultrasound waves rupture COVID-19 and flu viruses without damaging cells",
-      "link": "https://phys.org/news/2026-05-ultrasound-rupture-covid-flu-viruses.html",
-      "date": "2026-05-07 21:20",
-      "summary": "Researchers at the University of São Paulo (USP) in Brazil have discovered that high-frequency ultrasound waves similar to those u..."
+      "title": "Harmless viruses trap Salmonella on flexible polymer in portable microfluidic sensor",
+      "link": "https://phys.org/news/2026-05-harmless-viruses-salmonella-flexible-polymer.html",
+      "date": "2026-05-07 22:20",
+      "summary": "Researchers at Worcester Polytechnic Institute (WPI) have developed a solid polymer coated with harmless viruses to detect the bac..."
     },
     {
-      "title": "A targeted 'off switch' in a plant's egg cell speeds up the breeding process",
-      "link": "https://phys.org/news/2026-05-egg-cell.html",
-      "date": "2026-05-07 21:20",
-      "summary": "An international research team led by the IPK Leibniz Institute has succeeded in generating haploids in the model plant Arabidopsi..."
+      "title": "Scientists uncover hidden parasite diversity in barb fish from the Sea of Galilee",
+      "link": "https://phys.org/news/2026-05-scientists-uncover-hidden-parasite-diversity.html",
+      "date": "2026-05-07 22:00",
+      "summary": "When most people think about biodiversity in lakes and rivers, they imagine fish, plants, or perhaps birds and amphibians. But ben..."
     }
   ],
   "The Guardian Edu": [
