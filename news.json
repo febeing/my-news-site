@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Study: Firms often use automation to control certain workers’ wages",
+      "link": "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507",
+      "date": "2026-05-07 04:00",
+      "summary": "MIT economists found US companies tend to target employees earning a “wage premium,” which increases inequality but not necessaril..."
+    },
+    {
       "title": "Method for stress-testing cloud computing algorithms helps avoid network failures",
       "link": "https://news.mit.edu/2026/method-stress-testing-cloud-computing-algorithms-helps-avoid-network-failures-0506",
       "date": "2026-05-06 04:00",
@@ -23,15 +29,15 @@
       "link": "https://news.mit.edu/2026/rett-syndrome-study-highlights-potential-personalized-treatments-0504",
       "date": "2026-05-04 18:00",
       "summary": "Using advanced human cell cultures, MIT researchers tracked how two different mutations alter neural circuit development, and how ..."
-    },
-    {
-      "title": "Powering 160,000 hours of discovery at MIT.nano",
-      "link": "https://news.mit.edu/2026/powering-160000-hours-discovery-at-mitnano-0504",
-      "date": "2026-05-04 17:50",
-      "summary": "NanoFab Equipment Management and Operations (NEMO) system streamlines shared facilities management via tool trainings, reservation..."
     }
   ],
   "Harvard Gazette": [
+    {
+      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
+      "date": "2026-04-09 07:00",
+      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
+    },
     {
       "title": "Plan to rein in inflated grading explained - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
@@ -45,22 +51,16 @@
       "summary": "How academia can help America heal  Harvard Gazette..."
     },
     {
-      "title": "Crossing line between good and bad anxiety - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
-      "date": "2025-09-30 07:00",
-      "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
+      "title": "Harvard Impact Labs awards $1.4M to launch research projects to tackle urgent social problems - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN2JTWG1GVUJucGFJMzdOaDRWUkhiRkoxR18yWm9PdTRVU2E0Z1hnR3hLa25LSVY1Q3JBeFVXeXBRY0wyaUNMaUpCaGtCdkR4bkd0dk9PekV1WS1aRW93OE5CUWNJbGtSUHJ6dEFJNVF0dVpDZTh1WVdGRVFNQ0pVanhpZGljbVlvSDRRV1p3V0lBZDZZSS1yald3ekVyaTQzUnhQLV9fc1BVRzlQT0FkeWJwYnNhai1RNGxtQUR3bk5BVnhBSS1nUEFLWW81MUE4Wl91LXMxTHI?oc=5",
+      "date": "2026-01-29 08:00",
+      "summary": "Harvard Impact Labs awards $1.4M to launch research projects to tackle urgent social problems  Harvard Gazette..."
     },
     {
-      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
-      "date": "2025-10-28 07:00",
-      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
-    },
-    {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
-      "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
+      "title": "How to help lift slumping American math scores - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
+      "date": "2026-01-26 08:00",
+      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -77,16 +77,16 @@
       "summary": "Stanford’s new chip boosts light 100x with surprisingly low energy  ScienceDaily..."
     },
     {
-      "title": "Stanford cuts ribbon on new home of Department of African and African American Studies - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lUHZyUGJrbzBpSmtqejNvcVlub0JCUnhKZldNcXVpeGtqQjFSQzZlZk4tN3ZYdTJRN3l1bkFXSEIzd25JaHNIVXVQbkxJOXZ0c3dtdjZCUTlfd01ieFRGNEpOMG4tNThzV2Y2MzR6dDlDWjdBanBybl9heV8?oc=5",
-      "date": "2026-05-04 06:42",
-      "summary": "Stanford cuts ribbon on new home of Department of African and African American Studies  The Stanford Daily..."
-    },
-    {
       "title": "Healthy Aging conference at Stanford urges seniors to focus on fun - Palo Alto Online",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObTQxNjlpU3hOLXVxb2pnV0I5NVZqQU5sRGxfUHVsVTNTbzhtZVlVOWFYS1ZNSTFZZVRqSS10WFNLdGw5R1ZzZGNWT1ljRUZEWHhnR2JTNkw1RWZsVnNfa21YaDIxdUszaEk1LVBlVVVZVTBTd2NaV3k4d2ZadWdiQ3BVZWx3dnpZU2YyMFdqMFdPdkRydjBvTExxN3g3eHdCNDZITHEzdWMxckdETGZ5U0pIWjFPM0FR?oc=5",
       "date": "2026-05-06 13:39",
       "summary": "Healthy Aging conference at Stanford urges seniors to focus on fun  Palo Alto Online..."
+    },
+    {
+      "title": "Stanford cuts ribbon on new home of Department of African and African American Studies - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lUHZyUGJrbzBpSmtqejNvcVlub0JCUnhKZldNcXVpeGtqQjFSQzZlZk4tN3ZYdTJRN3l1bkFXSEIzd25JaHNIVXVQbkxJOXZ0c3dtdjZCUTlfd01ieFRGNEpOMG4tNThzV2Y2MzR6dDlDWjdBanBybl9heV8?oc=5",
+      "date": "2026-05-04 06:42",
+      "summary": "Stanford cuts ribbon on new home of Department of African and African American Studies  The Stanford Daily..."
     },
     {
       "title": "Stanford study finds regular people fear AI, but experts don’t. Why the gap? - The Mercury News",
@@ -199,10 +199,16 @@
       "summary": "Meta plans advanced 'agentic' AI assistant for users, FT reports  Reuters..."
     },
     {
-      "title": "Freshworks to cut 11% jobs as AI reshapes software industry - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWE1VnJ3aWJoZXE2d1VpWkR2YkpyaGJJSklzcmNybGJDRjJjS09jajNuOEtvaVM4YUF2T1BUdWNjd3JyeV9hZFZZYzc5WUxCZkZEWDZscjV3bk14M0dBbWJ1QVZTdjZXY3JfM25mWHI0d1YxeEpkQTF1RzlMNFdKRWlGX3NaSlZxSFhpa2xLRF9QdnNwUzdqMk5PYw?oc=5",
-      "date": "2026-05-05 21:59",
-      "summary": "Freshworks to cut 11% jobs as AI reshapes software industry  Reuters..."
+      "title": "Apple to let users choose rival AI models across iOS 27 features, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlNjTEJLOEpCU29oNTBDTVdFaWRGV2NVMG8xdnI2aF9KTlV5SERYRWl3aTdEdDdLenBqdFVfTzhWQ3ZXVndfZkJDYnlhbm5saTJsYWRKd3N3N18ybHY0elFhUlhVOUgwWXJSMzNyTjE0V19RZG9rOWZYeUo5ejhhUnJTRXVpbEFvc0hjUU4yalRIM1cxajJMMEttM1N0NGV1dWJjRTVYQTdyWk9oeHl1cHItc2JLTHZreHd0QV9QNkQ?oc=5",
+      "date": "2026-05-05 18:11",
+      "summary": "Apple to let users choose rival AI models across iOS 27 features, Bloomberg News reports  Reuters..."
+    },
+    {
+      "title": "Morning Bid: No stopping AI frenzy in Asia - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNanRNQTUzY09FR25vUlJLT1h2SEJZN0dpX3pYdWMtZUwxY1NCd2xJZENNYlVyd2I3a2VHWDE4Vy1FWkpXUEd2VWVRQTRnQUVUMzlGSmFwOTkzWk5UaWl2MlJHTUFDUUU2MGFMaGEyMFVMRzdmSDVDNjJyMmxpRWF5b3psOTFqR2pI?oc=5",
+      "date": "2026-05-07 04:32",
+      "summary": "Morning Bid: No stopping AI frenzy in Asia  Reuters..."
     },
     {
       "title": "Corning partners with Nvidia to expand US fiber optic output for AI growth - Reuters",
@@ -211,16 +217,10 @@
       "summary": "Corning partners with Nvidia to expand US fiber optic output for AI growth  Reuters..."
     },
     {
-      "title": "DeepSeek could be valued at up to $50 billion in first fundraising, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdGZBZEktVUYyd3YyNmlKaHVhYW9nczhYQ2NSX3ZlSXA4T3ZBX3Z3U0s3NlQyZklQci1WTjFCdUJzbEl0ZENGUTJ1dWVDWkZXZnM0c1JIQTA1NU4tZFFyTDNxenRjRXJHU2thZm1lc0FvaDN2ZHdGRkJGaVpDSTU0UV9uTGZjSjBLN1RCakFpd29uejd5U1p1ZU9EZ0NDRDNXMnFMeUJfZkZGdXlRMHV0dXJNQU8xbGlfUDVaWFh6LVB5UXlmY3NPMlFySC0?oc=5",
-      "date": "2026-05-06 05:56",
-      "summary": "DeepSeek could be valued at up to $50 billion in first fundraising, sources say  Reuters..."
-    },
-    {
-      "title": "Flex to spin off AI data-center infrastructure unit into listed company - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTdDZjBkbzRYMmZxMXZmYVNpLVJObWF4d1luZzByYkdwV3p1NURuMWpzVElJLTNnUUczTkZyZV81d3hjWndVa1FyWkdIWlpWN1lSN29QYnhtbzJJejhNQW5GUjlRS1Z3UkhFeHh2czN3eUdyVkE1ZmhlTnBKQ2hibU9GcGthakJVbm1vbVRzOGFIUkNmWUIyTHZCMXVVM0laZjRNakd1ajc5YUtyeGg5Y3lKcw?oc=5",
-      "date": "2026-05-05 20:10",
-      "summary": "Flex to spin off AI data-center infrastructure unit into listed company  Reuters..."
+      "title": "Anthropic strikes SpaceX data center deal as it plows ahead on AI coding - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZVdlUV96SVZwQ3BPZTVOYjlMN3NRWDN5OGFSSGZGWWhhaUZ4TmNFaUVvVEJkZ1RMYWlUSGdHbjJjVlV5SDVnd09UQVJHQjd0MzdCeXIxV2NqcG1qVVBERWdiZy1lMWZJMWZ6Q0pZaE1tT2RxcmZ3dHBROXZ0RHlOZy12Q0QySUZrbU5jRDU4UGtkTmdqdjgtbWszd2o2ZVJIejFGRE9kbUloLUpReVA3amh3ZlYwVGl5YjBiM3lpcjRWTGkzMnc?oc=5",
+      "date": "2026-05-06 19:32",
+      "summary": "Anthropic strikes SpaceX data center deal as it plows ahead on AI coding  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -229,12 +229,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLUJnRDFCekFia3daeFFYb3hJcGhGcjBUVXhtaTUwZmF3UnlHWmFnVGE2TjM4blJoeURIeGpBS3pfbzJPWUxEcmJvaEIyUEN6bC03VldMM3FHUDJKUlRDUldueVJBSG5xenNQUTh0MkpXLU1IS3R5MnJ6Mkh0c0RHWjVzdHo0Q2J4cXJjQmtXbXpQa2U1ei1IT0pDWDVEUdIBowFBVV95cUxPcjZ6clZvWWJHOEtSMElGZVV1MWhVMnMtb0E1cGJEY1FhV0JYNmFiQ0J2UUs5WjlqMzI4eThtNWtFM2FkVXlWMEhMdHF1dEwxYkhwZ1E4VEY5RjNtMWVBN2Y2MTNOSXkta0YyRnVHRFVQaE52MW1wRzFrTUFJbmI5bUVSQkMzTjJpTkNJSkhyQ3dZTWJSR1c0eUdRLURKRFlaRi1n?oc=5",
       "date": "2026-05-04 13:00",
       "summary": "Tailoring AI solutions for health care needs  MIT Technology Review..."
-    },
-    {
-      "title": "The Download: seafloor science and military chatbots - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGVGR21QWnNUeVEwTmVyUm1ON0o2WENEQnByZ1dZUzVDZG4xNm8wdTJ2QUhHbUQxR3JwT0JiT3JUNmhBYVFyOFF0eHdEczBRYng2SDllTU85bWlFMG1GUE11UkdBT0FTMFNPS2Z0M3ZZREw4ZmFBazZiMVFGTWNVX3JtcVFDSlIxUGJ6U29zNTd0V2ptcmhyV1VuV1BCaDI3QU8yejdR0gGrAUFVX3lxTE4zdFR0Y1NMRVhoXzl4bHNwekFobHlzMG9tZFg1S2dHbjRTcFlLTVU2NlAzRkN2dDk2YWRHM1lwT3FUZWFUVm9PY05GZmNlT2x1a1J5ZDY1aGNURzN6RnhOR0NoVHJoYzViRzJNVjBVLVRwWWs5QmZKYkxhOEc2SUlrUl9YYmVLSV94d1VMZjdJOVRtaEF4ZGEycVdYeURDb29GY2dOc3RIVEtvOA?oc=5",
-      "date": "2026-05-06 12:10",
-      "summary": "The Download: seafloor science and military chatbots  MIT Technology Review..."
     },
     {
       "title": "Week one of the Musk v. Altman trial: What it was like in the room - MIT Technology Review",
@@ -253,6 +247,12 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUVCOVYyOHZiMGJDcWdWeE9ldjVtTnRDSFcyRFc0MVZjU1YyRHlSOHJXS1MzZVh5dEd6emRhRzY1RF9rZVhUNXM5TUdNWGU2Njc4TE1XaUZoRGRQMlNoRnBTc1pMdG1ZV3F2cC1Ocy10SFZtNlBnVTN1T3RkakdNUdIBhgFBVV95cUxOOS03MWRNWDRxSXNpalFsam1zdi11dUNGUlFZM3VhVS1jNVdPbHQtaTJTVFhzdFBIRm9tRVFDUmFHRGxBbGlTTk81QVRuMzRjTXFOUUF4M3JVbENxTjczLUxFYmxxcUdvMVNZOEd0SExVeFhXRFFoajBRZk5DMXFPdTVWOG1sZw?oc=5",
       "date": "2026-05-05 09:00",
       "summary": "A blueprint for using AI to strengthen democracy  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: seafloor science and military chatbots - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGVGR21QWnNUeVEwTmVyUm1ON0o2WENEQnByZ1dZUzVDZG4xNm8wdTJ2QUhHbUQxR3JwT0JiT3JUNmhBYVFyOFF0eHdEczBRYng2SDllTU85bWlFMG1GUE11UkdBT0FTMFNPS2Z0M3ZZREw4ZmFBazZiMVFGTWNVX3JtcVFDSlIxUGJ6U29zNTd0V2ptcmhyV1VuV1BCaDI3QU8yejdR0gGrAUFVX3lxTE4zdFR0Y1NMRVhoXzl4bHNwekFobHlzMG9tZFg1S2dHbjRTcFlLTVU2NlAzRkN2dDk2YWRHM1lwT3FUZWFUVm9PY05GZmNlT2x1a1J5ZDY1aGNURzN6RnhOR0NoVHJoYzViRzJNVjBVLVRwWWs5QmZKYkxhOEc2SUlrUl9YYmVLSV94d1VMZjdJOVRtaEF4ZGEycVdYeURDb29GY2dOc3RIVEtvOA?oc=5",
+      "date": "2026-05-06 12:10",
+      "summary": "The Download: seafloor science and military chatbots  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Tai Po probe: missed checks at Wang Fuk Court due to late notice of new guidelines – as it happened",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3352680/high-risk-wang-fuk-court-renovation-works-treated-low-risk-tai-po-probe-hears?utm_source=rss_feed",
+      "date": "2026-05-07 03:26",
+      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+    },
+    {
       "title": "Motorcyclist, 58, killed in Eastern Harbour Crossing crash, police investigate",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3352685/motorcyclist-58-killed-eastern-harbour-crossing-crash-police-investigate?utm_source=rss_feed",
       "date": "2026-05-07 02:08",
@@ -330,7 +336,7 @@
       "title": "Traffic accidents involving animals in Hong Kong surge 11-fold in 4 years",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3352667/traffic-accidents-involving-animals-hong-kong-surge-11-fold-4-years?utm_source=rss_feed",
       "date": "2026-05-07 00:30",
-      "summary": "Traffic accidents involving animals in Hong Kong have skyrocketed more than 11-fold over the past four years, with advocacy groups..."
+      "summary": "Traffic accidents involving animals in Hong Kong have surged more than 11-fold over the past four years, with advocacy groups blam..."
     },
     {
       "title": "Hong Kong college’s finance director arrested over HK$770,000 embezzlement",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352653/hong-kong-teen-lured-4-victims-gang-rob-and-blackmail-court-hears?utm_source=rss_feed",
       "date": "2026-05-06 14:19",
       "summary": "A young woman has been accused of helping to rob four people as a teenager by luring them to a remote area in Hong Kong where her ..."
-    },
-    {
-      "title": "Tai Po fire: inspectors failed to anticipate firms’ deception, inquiry hears",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3352656/tai-po-fire-inspectors-failed-anticipate-firms-deception-inquiry-hears?utm_source=rss_feed",
-      "date": "2026-05-06 13:58",
-      "summary": "Government inspectors did not foresee engineering firms colluding to deceive authorities over the use of substandard renovation ma..."
     }
   ],
   "New Scientist": [
