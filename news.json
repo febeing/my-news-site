@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Rethinking how our brains use categories to make sense of the world",
+      "link": "https://news.mit.edu/2026/rethinking-how-our-brains-use-categories-0507",
+      "date": "2026-05-07 14:55",
+      "summary": "Researchers propose a challenge to the traditional view of how the brain uses its ability to categorize...."
+    },
+    {
       "title": "Photonics advance could enable compact, high-performance lidar sensors",
       "link": "https://news.mit.edu/2026/photonics-advance-could-enable-compact-high-performance-lidar-sensors-0507",
       "date": "2026-05-07 09:00",
@@ -23,26 +29,20 @@
       "link": "https://news.mit.edu/2026/astronomers-pin-down-origins-planetary-odd-couple-0505",
       "date": "2026-05-05 04:00",
       "summary": "New measurements of a hot Jupiter and its mini-Neptune companion suggest both planets formed surprisingly far away from their host..."
-    },
-    {
-      "title": "The tech revolution that wasn’t",
-      "link": "https://news.mit.edu/2026/tech-revolution-that-wasnt-dwai-banerjee-book-0505",
-      "date": "2026-05-05 04:00",
-      "summary": "Associate Professor Dwai Banerjee’s new book examines the visionaries who wanted to turn India into a world power at making comput..."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
-      "date": "2026-04-09 07:00",
-      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
-    },
     {
       "title": "Plan to rein in inflated grading explained - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
       "date": "2026-03-26 07:00",
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+    },
+    {
+      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
+      "date": "2026-04-09 07:00",
+      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
     },
     {
       "title": "How academia can help America heal - Harvard Gazette",
@@ -77,6 +77,12 @@
       "summary": "Stanford’s new chip boosts light 100x with surprisingly low energy  ScienceDaily..."
     },
     {
+      "title": "Is the Dead Internet Theory Coming True? New Stanford Research Calculates Exactly How Far We Are—and It’s Alarming - inc.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlZTYmx1TUNELS1aODM3M1psZzhCTlZMNmNnTG1paXFWRXMyQ29oUnJnSnFiRUpWYnVsSkdCMlFhZFc0TFRta0lraWd1a0hNa0VpSUxCbm1jMkdlTEFwRk9oaXFmNXNseHRLV2hLcjNzU0NaMGdyUXV6b1l6LWNJZXM2QnMwMGJIRzlCNXRHNy1MYWhpUHFrQTNn?oc=5",
+      "date": "2026-05-07 14:07",
+      "summary": "Is the Dead Internet Theory Coming True? New Stanford Research Calculates Exactly How Far We Are—and It’s Alarming  inc.com..."
+    },
+    {
       "title": "Healthy Aging conference at Stanford urges seniors to focus on fun - Palo Alto Online",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObTQxNjlpU3hOLXVxb2pnV0I5NVZqQU5sRGxfUHVsVTNTbzhtZVlVOWFYS1ZNSTFZZVRqSS10WFNLdGw5R1ZzZGNWT1ljRUZEWHhnR2JTNkw1RWZsVnNfa21YaDIxdUszaEk1LVBlVVVZVTBTd2NaV3k4d2ZadWdiQ3BVZWx3dnpZU2YyMFdqMFdPdkRydjBvTExxN3g3eHdCNDZITHEzdWMxckdETGZ5U0pIWjFPM0FR?oc=5",
       "date": "2026-05-06 13:39",
@@ -87,15 +93,15 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lUHZyUGJrbzBpSmtqejNvcVlub0JCUnhKZldNcXVpeGtqQjFSQzZlZk4tN3ZYdTJRN3l1bkFXSEIzd25JaHNIVXVQbkxJOXZ0c3dtdjZCUTlfd01ieFRGNEpOMG4tNThzV2Y2MzR6dDlDWjdBanBybl9heV8?oc=5",
       "date": "2026-05-04 06:42",
       "summary": "Stanford cuts ribbon on new home of Department of African and African American Studies  The Stanford Daily..."
-    },
-    {
-      "title": "Stanford study finds regular people fear AI, but experts don’t. Why the gap? - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV3hLNklxZjZQT21BVWFZRGtYX2pycDJPc0h5V2ltT0xPQTRva2dmaWdlLTJ0bnhtMjFibUk1T2h0a20xd2ZIUFQxYXBuejdfcUY1aGZ2Uk10OFZENEtsOVBTV0tWbHVlaHpUbDJRLVpFRzAxa3dIQzhVM0dGRXV2UlZDUzVDQUl5eVHSAY8BQVVfeXFMTTNXX1JHSFFNd3NYcUVhcTdnODdEZ2taUUlzdGxob0UyM0ZNdVJyb3ltUEtmZmxOaEQxc0NSUXZXNFJoaENRekphNGhJYVVBSnFLaGZRTFFKbk5fSW9MdFBnMDk0dXoyOVRINEg1R2RjSXVKdFlkMDNjQVdMUnctT05lNE5zVnpJV1NFX3JBMk0?oc=5",
-      "date": "2026-05-04 12:00",
-      "summary": "Stanford study finds regular people fear AI, but experts don’t. Why the gap?  The Mercury News..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "There is no vaccine for deadly hantavirus: what that means for future outbreaks",
+      "link": "https://www.nature.com/articles/d41586-026-01494-9",
+      "date": "2026-05-07 00:00",
+      "summary": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01494-9Virologist Jay Hooper is developing a vaccine for the rare ro..."
+    },
     {
       "title": "OpenAI is under criminal investigation — why chatbots don’t always follow the law",
       "link": "https://www.nature.com/articles/d41586-026-01405-y",
@@ -119,15 +125,21 @@
       "link": "https://www.nature.com/articles/d41586-026-01480-1",
       "date": "2026-05-06 00:00",
       "summary": "Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-01480-1Neuronal recordings taken during surgery reveal that the brai..."
-    },
-    {
-      "title": "Two-qubit logic and teleportation with mobile spin qubits in silicon",
-      "link": "https://www.nature.com/articles/s41586-026-10423-9",
-      "date": "2026-05-06 00:00",
-      "summary": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10423-9A device architecture comprising silicon-based mobile qubits ..."
     }
   ],
   "Science News": [
+    {
+      "title": "Ancient ice core could help explain mysterious shift in Earth’s ice ages",
+      "link": "https://www.science.org/content/article/ancient-ice-core-could-help-explain-mysterious-shift-earth-s-ice-ages",
+      "date": "2026-05-07 11:45",
+      "summary": "Record-setting Antarctic archive reveals sharp swings in carbon dioxide 1 million years ago..."
+    },
+    {
+      "title": "Magic mushroom compound shows promise against cocaine addiction",
+      "link": "https://www.science.org/content/article/magic-mushroom-compound-shows-promise-against-cocaine-addiction",
+      "date": "2026-05-07 11:15",
+      "summary": "Small study that prioritized Black and low-income participants yields “remarkable” results..."
+    },
     {
       "title": "AI agents may be skilled researchers—but not always honest ones",
       "link": "https://www.science.org/content/article/ai-agents-may-be-skilled-researchers-not-always-honest-ones",
@@ -145,18 +157,6 @@
       "link": "https://www.science.org/content/article/core-solar-system-s-largest-moon-may-still-be-forming",
       "date": "2026-05-06 02:00",
       "summary": "Ganymede discovery could force rethink of how worlds power their magnetic fields..."
-    },
-    {
-      "title": "CDC leader calls for new journal to ‘elevate scientific rigor’",
-      "link": "https://www.science.org/content/article/cdc-leader-calls-new-journal-elevate-scientific-rigor",
-      "date": "2026-05-05 05:15",
-      "summary": "Bhattacharya publicly slams vaccine study he pulled from agency’s flagship publication..."
-    },
-    {
-      "title": "Cruise ship’s hantavirus outbreak puts researchers in uncharted territory",
-      "link": "https://www.science.org/content/article/cruise-ship-s-hantavirus-outbreak-puts-researchers-uncharted-territory",
-      "date": "2026-05-05 11:00",
-      "summary": "Questions about the culprit virus and its route of spread remain as health officials make plans for stranded passengers..."
     }
   ],
   "Retraction Watch": [
@@ -193,10 +193,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "SpaceX to give Anthropic access to its massive AI supercomputer - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2E2MHBib3dHR2hPQ25FbzZMbVZUVDc2RklDQUdlLUE3SjllczhkdWNuUG5TMVhSZUk3Vk1qYlUtcjU1cGhWQ0JUc240N09vNkhZRmhvbjk2djlObDRzeXlUM2NCRjBTTWdtVExucXFrVG15Vkplc3pZa3l0SjNDQ3BmeHZCSm5hZmtCdktxbG5ydXdMTUFuakhWVlloYVZ5UG5aN1pB?oc=5",
-      "date": "2026-05-06 16:32",
-      "summary": "SpaceX to give Anthropic access to its massive AI supercomputer  Reuters..."
+      "title": "EU countries, lawmakers clinch provisional deal on watered-down AI rules - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUNTRTY3V3hFX2F2cUJLdEYwSEdTb01FaV9wLW95RTV1TFZwQXBZb2tmQVNuZ2tSM0pxbmtmZmdYdW5wbzRVNjdkTVRheVhjZGI0eWRTZXV0T0E1dm82bmZjUEM5eXJBYmpWX0pHbHdKTVp4cVRsejlmeDRubjc1ZktnRWlnRXdRQnFSV1JscGhzOEppeERkMzVpaHN3cVpaaDhMMy1FQkRGbWxadjJN?oc=5",
+      "date": "2026-05-07 02:48",
+      "summary": "EU countries, lawmakers clinch provisional deal on watered-down AI rules  Reuters..."
     },
     {
       "title": "US, China weigh launch of official discussions on AI, WSJ reports - Reuters",
@@ -205,10 +205,10 @@
       "summary": "US, China weigh launch of official discussions on AI, WSJ reports  Reuters..."
     },
     {
-      "title": "EU countries, lawmakers clinch provisional deal on watered-down AI rules - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUNTRTY3V3hFX2F2cUJLdEYwSEdTb01FaV9wLW95RTV1TFZwQXBZb2tmQVNuZ2tSM0pxbmtmZmdYdW5wbzRVNjdkTVRheVhjZGI0eWRTZXV0T0E1dm82bmZjUEM5eXJBYmpWX0pHbHdKTVp4cVRsejlmeDRubjc1ZktnRWlnRXdRQnFSV1JscGhzOEppeERkMzVpaHN3cVpaaDhMMy1FQkRGbWxadjJN?oc=5",
-      "date": "2026-05-07 02:48",
-      "summary": "EU countries, lawmakers clinch provisional deal on watered-down AI rules  Reuters..."
+      "title": "Fresh AI Disruption Selloff Hits Thomson Reuters Despite Strong Results - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONDBlQlFYQ1RkNzZLT3dUSkZRaGpKcWdpNWVseFdaR0lmMVZNcWgyOXIzazBqLU9HWWNNeklWeU11cnpwdEN5UTRVSERNeVViUWpLdEZOTnJ0N08ydGNfRWxlNXZhNlo4blRLRzZaZ0ZZbmFLU01SZlJPbjlVT3hENFduTHBXcHlST1FjTTR6TVRMbUxtcE1PVDZ4U3hWNjBTYjVWODkzUUZHc1B3dllSamVoMVFkYURzTTdnYTFBUQ?oc=5",
+      "date": "2026-05-05 20:34",
+      "summary": "Fresh AI Disruption Selloff Hits Thomson Reuters Despite Strong Results  Bloomberg.com..."
     },
     {
       "title": "Corning partners with Nvidia to expand US fiber optic output for AI growth - Reuters",
@@ -257,37 +257,43 @@
   ],
   "Phys.org": [
     {
-      "title": "Recreational fishing in the US catches far more fish than previously estimated",
-      "link": "https://phys.org/news/2026-05-recreational-fishing-fish-previously.html",
-      "date": "2026-05-07 14:00",
-      "summary": "One of the United States' largest fisheries is hiding in plain sight. Recreational freshwater anglers in the lower 48 states catch..."
+      "title": "How cells 'back up' DNA replication to survive severe damage",
+      "link": "https://phys.org/news/2026-05-cells-dna-replication-survive-severe.html",
+      "date": "2026-05-07 16:40",
+      "summary": "Every time a cell divides, it must copy its DNA with extraordinary precision. But this process is constantly challenged by DNA dam..."
     },
     {
-      "title": "Archaeologists unearth evidence of dogs being traded within Mayan societies",
-      "link": "https://phys.org/news/2026-05-archaeologists-unearth-evidence-dogs-mayan.html",
-      "date": "2026-05-07 14:00",
-      "summary": "A University of Calgary archaeologist has found evidence that the Classic Period Maya were trading live dogs over long distances b..."
+      "title": "How evolution sculpts the facial shapes of birds and mammals",
+      "link": "https://phys.org/news/2026-05-evolution-sculpts-facial-birds-mammals.html",
+      "date": "2026-05-07 16:20",
+      "summary": "Shapes of beaks and snouts come in an extraordinary range of forms, reflecting adaptations to different lifestyles and environment..."
     },
     {
-      "title": "Study seeks to stave off mitochondrial dysfunction believed to cause aging",
-      "link": "https://phys.org/news/2026-05-stave-mitochondrial-dysfunction-believed-aging.html",
-      "date": "2026-05-07 13:40",
-      "summary": "Dysfunction resulting from mitochondrial DNA mutations has been implicated in multiple human pathologies, including neurodegenerat..."
+      "title": "Mobile qubits on a chip move us a step closer to everyday quantum computers",
+      "link": "https://phys.org/news/2026-05-mobile-qubits-chip-closer-everyday.html",
+      "date": "2026-05-07 16:00",
+      "summary": "For years, quantum computers have lived under a huge bubble of hype, promising to revolutionize numerous fields, from medicine and..."
     },
     {
-      "title": "Streetlights trigger bizarre 'death spirals' in thousands of isopods, scientists find",
-      "link": "https://phys.org/news/2026-05-streetlights-trigger-bizarre-death-spirals.html",
-      "date": "2026-05-07 13:40",
-      "summary": "A new study led by Ph.D. student Idan Sheizaf, under the guidance of Prof. Ariel Chipman from The Hebrew University of Jerusalem, ..."
+      "title": "Photonics advance could enable compact, high-performance lidar sensors",
+      "link": "https://phys.org/news/2026-05-photonics-advance-enable-compact-high.html",
+      "date": "2026-05-07 15:40",
+      "summary": "Lidar systems use pulses of infrared light to measure distance and map a 3D scene with high resolution, allowing autonomous vehicl..."
     },
     {
-      "title": "Tree communities shape hidden energy flows under European forests",
-      "link": "https://phys.org/news/2026-05-tree-communities-hidden-energy-european.html",
-      "date": "2026-05-07 13:20",
-      "summary": "Mixing tree species can lead to better growth in the forest—at least above ground. A new study published in Nature shows that mixe..."
+      "title": "When faith meets a melting point: New study warns Hajj pilgrimage is breaching human survivability limits",
+      "link": "https://phys.org/news/2026-05-faith-hajj-pilgrimage-breaching-human.html",
+      "date": "2026-05-07 15:30",
+      "summary": "A new study warns that climate change is creating serious and growing risks for millions of pilgrims performing Hajj, with extreme..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Mo Farah urges against possible £120m cut to school sports in England",
+      "link": "https://www.theguardian.com/education/2026/may/07/mo-farah-against-cut-school-sports-england",
+      "date": "2026-05-07 16:09",
+      "summary": "Athlete and sport bodies call for rethink after health and education departments each propose £60m funding cutsMo Farah and more t..."
+    },
     {
       "title": "Palestinian ambassador protests to Foreign Office over ’erasure’ by British Museum",
       "link": "https://www.theguardian.com/world/2026/may/06/palestinian-ambassador-protest-foreign-office-british-museum",
@@ -311,15 +317,21 @@
       "link": "https://www.theguardian.com/news/audio/2026/may/04/where-duolingo-falls-down-how-i-learned-to-speak-welsh-with-my-mother-podcast",
       "date": "2026-05-04 04:00",
       "summary": "Once violently defended from extinction, Welsh is still a part of daily life. By learning my family’s language, I hoped to join th..."
-    },
-    {
-      "title": "‘Go inside, he will kill you’: Israeli militants step up West Bank school attacks",
-      "link": "https://www.theguardian.com/world/2026/may/02/israeli-militants-attack-west-bank-schools-settler-violence",
-      "date": "2026-05-02 11:00",
-      "summary": "Education is being targeted across Palestine, with the murder of 14-year-old Aws al-Naasan only the latest in a spree of violenceT..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "UK court convicts 2 men linked to Hong Kong trade office of spying",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352809/uk-court-convicts-2-men-linked-hong-kong-trade-office-spying?utm_source=rss_feed",
+      "date": "2026-05-07 16:18",
+      "summary": "A British court has convicted two men linked to an Hong Kong Economic and Trade Office (HKETO) of spying on activists from the cit..."
+    },
+    {
+      "title": "Hong Kong school ordered to submit report after national flag hung upside down",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3352803/hong-kong-school-ordered-submit-report-after-national-flag-hung-upside-down?utm_source=rss_feed",
+      "date": "2026-05-07 14:41",
+      "summary": "Hong Kong education authorities have ordered a primary school to submit a report after a national flag was found hanging upside do..."
+    },
     {
       "title": "Hong Kong seeks more details from WHO on hantavirus outbreak on cruise ship",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3352801/hong-kong-seeks-more-details-who-hantavirus-outbreak-cruise-ship?utm_source=rss_feed",
@@ -337,21 +349,21 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352784/appeals-court-overturns-murder-conviction-man-who-killed-girlfriend-orders-retrial?utm_source=rss_feed",
       "date": "2026-05-07 11:15",
       "summary": "A Hong Kong appellate court has quashed the murder conviction of a jobless man who allegedly beat his girlfriend to death and hid ..."
-    },
-    {
-      "title": "Hong Kong restaurants can apply from May 18 to become dog-friendly venues",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352776/hong-kong-open-applications-restaurant-dog-friendly-licences-may-18?utm_source=rss_feed",
-      "date": "2026-05-07 10:54",
-      "summary": "Hong Kong restaurants will be able to apply for licences from May 18 to allow dogs under a new scheme, with the first designated v..."
-    },
-    {
-      "title": "Inspector failed to spot illegal alterations, Hong Kong fire probe hears",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3352766/inspector-failed-spot-illegal-alterations-hong-kong-fire-probe-hears?utm_source=rss_feed",
-      "date": "2026-05-07 10:50",
-      "summary": "A Hong Kong building inspector mistook illegal alterations to emergency staircases at a housing estate ravaged in a deadly fire fo..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Coffee's mood-boosting effects aren't just down to caffeine",
+      "link": "https://www.newscientist.com/article/2525685-coffees-mood-boosting-effects-arent-just-down-to-caffeine/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-07 15:00",
+      "summary": "A comprehensive study exploring coffee’s physiological effects finds that some of its benefits are down to polyphenols and their i..."
+    },
+    {
+      "title": "Where has the deadly hantavirus come from and how does it spread?",
+      "link": "https://www.newscientist.com/article/2525328-where-has-the-deadly-hantavirus-come-from-and-how-does-it-spread/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-05 13:20",
+      "summary": "Three passengers on the cruise ship MV Hondius have died due to an outbreak of hantavirus, a rare illness transmitted by rodents..."
+    },
     {
       "title": "Pressure from individual particles measured for the first time",
       "link": "https://www.newscientist.com/article/2525386-pressure-from-individual-particles-measured-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -369,18 +381,6 @@
       "link": "https://www.newscientist.com/article/2525361-bronze-age-britons-fashioned-copper-mining-tools-out-of-old-bones/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-06 18:00",
       "summary": "An analysis of 150 artefacts from a site in Wales shows that the ancient practice of making tools out of bone persisted even after..."
-    },
-    {
-      "title": "Deforestation could trigger Amazon tipping point in the 2030s",
-      "link": "https://www.newscientist.com/article/2525542-deforestation-could-trigger-amazon-tipping-point-in-the-2030s/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-06 16:00",
-      "summary": "At least 15 per cent of the Amazon has already been lost, and further destruction could unleash widespread rainforest dieback with..."
-    },
-    {
-      "title": "Huge landslide in Alaska caused 481m-high tsunami",
-      "link": "https://www.newscientist.com/article/2525438-huge-landslide-in-alaska-caused-481m-high-tsunami/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-06 13:00",
-      "summary": "When the slope of a mountain above Tracy Arm fjord, in Alaska, gave way on 10 August 2025, 64 million cubic metres of rock fell in..."
     }
   ]
 }
