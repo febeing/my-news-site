@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Photonics advance could enable compact, high-performance lidar sensors",
+      "link": "https://news.mit.edu/2026/photonics-advance-could-enable-compact-high-performance-lidar-sensors-0507",
+      "date": "2026-05-07 09:00",
+      "summary": "With a novel design, MIT researchers overcame a stubborn problem that has limited the effectiveness of chip-based systems for lida..."
+    },
+    {
       "title": "Study: Firms often use automation to control certain workers’ wages",
       "link": "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507",
       "date": "2026-05-07 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/tech-revolution-that-wasnt-dwai-banerjee-book-0505",
       "date": "2026-05-05 04:00",
       "summary": "Associate Professor Dwai Banerjee’s new book examines the visionaries who wanted to turn India into a world power at making comput..."
-    },
-    {
-      "title": "Rett syndrome study highlights potential for personalized treatments",
-      "link": "https://news.mit.edu/2026/rett-syndrome-study-highlights-potential-personalized-treatments-0504",
-      "date": "2026-05-04 18:00",
-      "summary": "Using advanced human cell cultures, MIT researchers tracked how two different mutations alter neural circuit development, and how ..."
     }
   ],
   "Harvard Gazette": [
@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford merges AI and data science efforts under single institute - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sNElMbGp3aEQ1T05VNzdlMFAxS3Zldm0yNTY0Zkh0bjZZbk1jVndoVDFNWDJwRnJaZXBac3NsaHROOEluYTNRZFRSNWhDem1LSHVjTUtaRlJQSl9lYk1CNjF0MzN3RC15Y0pWYXlidmpPRVUwRE9PYTdmWTJKdUU?oc=5",
-      "date": "2026-05-04 21:29",
-      "summary": "Stanford merges AI and data science efforts under single institute  Stanford Report..."
+      "title": "Institute to focus on leadership in increasingly complex world - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVgzaW9QdDR0QW11WjlkeS1wZ3RBY3pfRDJDcjVVeHZDTHE1a3AtZmhfZVg2SGlQNlhseDNGYUNSRHktT0x5eExEWkVYV0lfdVFXYW9nbE52MjdKbk9SOVgxWm9QRUN2MkRsZUxBTW1GNVRPbkhWc0x4RWE5MmNiRQ?oc=5",
+      "date": "2026-05-04 13:03",
+      "summary": "Institute to focus on leadership in increasingly complex world  Stanford Report..."
     },
     {
       "title": "Stanford’s new chip boosts light 100x with surprisingly low energy - ScienceDaily",
@@ -193,22 +193,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "Meta plans advanced 'agentic' AI assistant for users, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3ZtblEwZm16d2hyNkcwMjRjTUtwVkd6bzJYQ1N4QnJvRXBZY3ZPeWo2WkpmSXpDY2xEZi1ZeVN5Q0lOeHF5TzllM05fZ19jLUtiT1A4SWZoNnV2U3lyUzY3OFQ4eVh3MDdiLWxLai1VbDI3LXRTOERqaWVhb3c2eVJXSjBMSHR4YklZdW5KQUM4SnYyV1hibkZzTnAwVzMyeHhRbw?oc=5",
-      "date": "2026-05-05 23:10",
-      "summary": "Meta plans advanced 'agentic' AI assistant for users, FT reports  Reuters..."
+      "title": "US, China weigh launch of official discussions on AI, WSJ reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzBhaFk5eGwzWkpjRkk4aVBpS0JnX3huMTZkeENYT09wano1ekdiSXE3NkRDWnF3UlQ2ZlRUSmI1el81c0RGWm5lMFBoaU1jcVdfSDlTSHFlN25uODQwdTBZLWkxb1FfeS1vUEpDZ0NBaG5qNW90dERtMGx0MHBIZUc3d3pGcTFtcGlNY3FOTEFTVTNJcFdMRW5oaG85WEFCWGNTaURtWTA?oc=5",
+      "date": "2026-05-07 00:17",
+      "summary": "US, China weigh launch of official discussions on AI, WSJ reports  Reuters..."
     },
     {
-      "title": "Apple to let users choose rival AI models across iOS 27 features, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlNjTEJLOEpCU29oNTBDTVdFaWRGV2NVMG8xdnI2aF9KTlV5SERYRWl3aTdEdDdLenBqdFVfTzhWQ3ZXVndfZkJDYnlhbm5saTJsYWRKd3N3N18ybHY0elFhUlhVOUgwWXJSMzNyTjE0V19RZG9rOWZYeUo5ejhhUnJTRXVpbEFvc0hjUU4yalRIM1cxajJMMEttM1N0NGV1dWJjRTVYQTdyWk9oeHl1cHItc2JLTHZreHd0QV9QNkQ?oc=5",
-      "date": "2026-05-05 18:11",
-      "summary": "Apple to let users choose rival AI models across iOS 27 features, Bloomberg News reports  Reuters..."
+      "title": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFZhSnhTN3pkLVhxNVBraXhnZG5UTjdnQ2g0bUltN3VzQmRXN1hzb21iR3ZFRlRIR1FEdndNdHJoV1pIN0daSnJvVWMwbWtxME9hWVhRdnpoZDJ5Mk5wcXZPTG5DdE1oWGtacldZQjlUWmpZQ3pZaVhQaHBTeUJud3QzYW1ZQXdkdS0yRnpfZ0xlRGl0M1JJSHZtcFdNYlAxZkhKcVBQVUUtdDA?oc=5",
+      "date": "2026-05-05 16:16",
+      "summary": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say  Reuters..."
     },
     {
-      "title": "Morning Bid: No stopping AI frenzy in Asia - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNanRNQTUzY09FR25vUlJLT1h2SEJZN0dpX3pYdWMtZUwxY1NCd2xJZENNYlVyd2I3a2VHWDE4Vy1FWkpXUEd2VWVRQTRnQUVUMzlGSmFwOTkzWk5UaWl2MlJHTUFDUUU2MGFMaGEyMFVMRzdmSDVDNjJyMmxpRWF5b3psOTFqR2pI?oc=5",
-      "date": "2026-05-07 04:32",
-      "summary": "Morning Bid: No stopping AI frenzy in Asia  Reuters..."
+      "title": "EU countries, lawmakers clinch provisional deal on watered-down AI rules - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUNTRTY3V3hFX2F2cUJLdEYwSEdTb01FaV9wLW95RTV1TFZwQXBZb2tmQVNuZ2tSM0pxbmtmZmdYdW5wbzRVNjdkTVRheVhjZGI0eWRTZXV0T0E1dm82bmZjUEM5eXJBYmpWX0pHbHdKTVp4cVRsejlmeDRubjc1ZktnRWlnRXdRQnFSV1JscGhzOEppeERkMzVpaHN3cVpaaDhMMy1FQkRGbWxadjJN?oc=5",
+      "date": "2026-05-07 02:48",
+      "summary": "EU countries, lawmakers clinch provisional deal on watered-down AI rules  Reuters..."
     },
     {
       "title": "Corning partners with Nvidia to expand US fiber optic output for AI growth - Reuters",
@@ -217,10 +217,10 @@
       "summary": "Corning partners with Nvidia to expand US fiber optic output for AI growth  Reuters..."
     },
     {
-      "title": "Anthropic strikes SpaceX data center deal as it plows ahead on AI coding - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZVdlUV96SVZwQ3BPZTVOYjlMN3NRWDN5OGFSSGZGWWhhaUZ4TmNFaUVvVEJkZ1RMYWlUSGdHbjJjVlV5SDVnd09UQVJHQjd0MzdCeXIxV2NqcG1qVVBERWdiZy1lMWZJMWZ6Q0pZaE1tT2RxcmZ3dHBROXZ0RHlOZy12Q0QySUZrbU5jRDU4UGtkTmdqdjgtbWszd2o2ZVJIejFGRE9kbUloLUpReVA3amh3ZlYwVGl5YjBiM3lpcjRWTGkzMnc?oc=5",
-      "date": "2026-05-06 19:32",
-      "summary": "Anthropic strikes SpaceX data center deal as it plows ahead on AI coding  Reuters..."
+      "title": "Morning Bid: No stopping AI frenzy in Asia - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNanRNQTUzY09FR25vUlJLT1h2SEJZN0dpX3pYdWMtZUwxY1NCd2xJZENNYlVyd2I3a2VHWDE4Vy1FWkpXUEd2VWVRQTRnQUVUMzlGSmFwOTkzWk5UaWl2MlJHTUFDUUU2MGFMaGEyMFVMRzdmSDVDNjJyMmxpRWF5b3psOTFqR2pI?oc=5",
+      "date": "2026-05-07 04:32",
+      "summary": "Morning Bid: No stopping AI frenzy in Asia  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -231,16 +231,16 @@
       "summary": "Tailoring AI solutions for health care needs  MIT Technology Review..."
     },
     {
+      "title": "What’s next for IVF - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVC1uVElkNnIxUVBnQU9nQWpIZnNsd19yTDgwTkpQZ2lvZHl6WDdsd0RxSkR4MGw0TGJ4RzRUQmlLclppdVQyVFFoekQ3R1lZMjRBc1RNVWFkemhxcHNiRGliMVlrR1VlTGtNcVN3UGlwMzg2cldNRU5iUzVJX1lNOWxsbG0xSEVDNzVlTWhhZmZLMnNLa0RoWDcyRWY3QdIBowFBVV95cUxNUVFtSkxLeUJkOV9WVjFLUG9XWkV2MHZndExWbnVSRlRfcDhLOUQ4VHZIc0hCSEVQNDZQbC11TC1pTXZ0OElqNTFDWWVacXBNTXhfOVo5RUg5a0JzbHZTM3A3RHFLQUR0VlJ0VWd3NTl6cXZCb1F4a2VBcEZRUVRpSy0tYzBNd1NxM2Q1bEZfN2x1bklLWXVpQ0p0V2haTklTQTQw?oc=5",
+      "date": "2026-05-07 09:04",
+      "summary": "What’s next for IVF  MIT Technology Review..."
+    },
+    {
       "title": "Week one of the Musk v. Altman trial: What it was like in the room - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ2tRck40ZkhuZXBRVUptMEVjcmFzejBSMEY4RFFaS2RraWZiYmZxOTI0MFlyTy1GUUZ2M2d5M3lPU1Nvdk9haVpwWjYzMWxyLWJfZVZ6YXp1dXludkl6NHdFMDhjZWwtTDFVZllBREdGd0RJN0hNSTd5cktyR0hjTHhsbTNFY2s0SGJIQmh4eTI2ZHI0d3dVZlVVTzB0SnNzSlUzNXRkUWNmWmh5MmtldVp0MHJqYXNV0gG-AUFVX3lxTE1HTzZHcVZxeHhtZjdRcmtuNDRiVVljS0ZvM0lDQkZJRlhQVkdpSlVMek1TaXR5d1FoQTRTZWRNWkQ0dFNncHFDWTFUVFNXcUMxRzRCUzRHQmxQNnJSY3U3RzBFd1oxWTF6OV80aS13QnNEUmEwbXdmQ05xajFMSXBPRkZhbk11WEpjbFZ1WUx1cThDZno1bnRaMmNBOEczbEQ4R3YtQjE1M0JmVGxRNk1lYUhCXzFxQmsyMGc1NUE?oc=5",
       "date": "2026-05-04 15:51",
       "summary": "Week one of the Musk v. Altman trial: What it was like in the room  MIT Technology Review..."
-    },
-    {
-      "title": "A new US phone network for Christians aims to block porn and gender-related content - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHU0Z0NrdEN5bE5ZNjU0d2xNTUMwRkg0UVVaZVJtQV9GcC1veUhiRTZZdGlZVEZZMk1DLWM4WXNXWUFwYmxZOF80RTRFb08waFY1dVZaQkFIWENUa0FuelJPVjFLTnFCdVRmQVhkaXJzbDNaZ01aOEs4TVhqRWxpRlAzZ1RIcWlENFc3OWdOSDg0YnkwTl9hMzVhSDduTlY2R3hKd3JCT3ItcUlGcXFUX21KVWlHUDNWWGsxRHNIZ0pOSm5FQmRWZ2RpYVdlS0RsVHfSAdcBQVVfeXFMUEVRM01UdTVxVVM3NXlsUURqaEVkdTB3UDNiSjJqbzh4YzdJR3NqRnJ1SWxaOEYtd09KcXJJSVZpMmI2QXNFU3RJcFRDMGx0MG9vaHNEaFlKcUc4MmlUZ2lUUVlEd0FBd0VaQ2hSeURvYXVsdU1TVHZfQkhsbU9UNXJ3dmhkMWdrak5vSGJMTTF4RjNSSGhlaU9nRkFLQjJZYzc3b0tNa2ZPc3RVWGs2cVBDYmtyeFNjekY5cjNpN09ORHdSTUpScTlfRFlrc05pUTVtRU5BYjg?oc=5",
-      "date": "2026-05-01 09:00",
-      "summary": "A new US phone network for Christians aims to block porn and gender-related content  MIT Technology Review..."
     },
     {
       "title": "A blueprint for using AI to strengthen democracy - MIT Technology Review",
@@ -249,13 +249,31 @@
       "summary": "A blueprint for using AI to strengthen democracy  MIT Technology Review..."
     },
     {
-      "title": "The Download: seafloor science and military chatbots - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGVGR21QWnNUeVEwTmVyUm1ON0o2WENEQnByZ1dZUzVDZG4xNm8wdTJ2QUhHbUQxR3JwT0JiT3JUNmhBYVFyOFF0eHdEczBRYng2SDllTU85bWlFMG1GUE11UkdBT0FTMFNPS2Z0M3ZZREw4ZmFBazZiMVFGTWNVX3JtcVFDSlIxUGJ6U29zNTd0V2ptcmhyV1VuV1BCaDI3QU8yejdR0gGrAUFVX3lxTE4zdFR0Y1NMRVhoXzl4bHNwekFobHlzMG9tZFg1S2dHbjRTcFlLTVU2NlAzRkN2dDk2YWRHM1lwT3FUZWFUVm9PY05GZmNlT2x1a1J5ZDY1aGNURzN6RnhOR0NoVHJoYzViRzJNVjBVLVRwWWs5QmZKYkxhOEc2SUlrUl9YYmVLSV94d1VMZjdJOVRtaEF4ZGEycVdYeURDb29GY2dOc3RIVEtvOA?oc=5",
-      "date": "2026-05-06 12:10",
-      "summary": "The Download: seafloor science and military chatbots  MIT Technology Review..."
+      "title": "A new US phone network for Christians aims to block porn and gender-related content - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHU0Z0NrdEN5bE5ZNjU0d2xNTUMwRkg0UVVaZVJtQV9GcC1veUhiRTZZdGlZVEZZMk1DLWM4WXNXWUFwYmxZOF80RTRFb08waFY1dVZaQkFIWENUa0FuelJPVjFLTnFCdVRmQVhkaXJzbDNaZ01aOEs4TVhqRWxpRlAzZ1RIcWlENFc3OWdOSDg0YnkwTl9hMzVhSDduTlY2R3hKd3JCT3ItcUlGcXFUX21KVWlHUDNWWGsxRHNIZ0pOSm5FQmRWZ2RpYVdlS0RsVHfSAdcBQVVfeXFMUEVRM01UdTVxVVM3NXlsUURqaEVkdTB3UDNiSjJqbzh4YzdJR3NqRnJ1SWxaOEYtd09KcXJJSVZpMmI2QXNFU3RJcFRDMGx0MG9vaHNEaFlKcUc4MmlUZ2lUUVlEd0FBd0VaQ2hSeURvYXVsdU1TVHZfQkhsbU9UNXJ3dmhkMWdrak5vSGJMTTF4RjNSSGhlaU9nRkFLQjJZYzc3b0tNa2ZPc3RVWGs2cVBDYmtyeFNjekY5cjNpN09ORHdSTUpScTlfRFlrc05pUTVtRU5BYjg?oc=5",
+      "date": "2026-05-01 09:00",
+      "summary": "A new US phone network for Christians aims to block porn and gender-related content  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Rapidly melting Antarctic ice shelves may cause global sea levels to rise far faster than expected",
+      "link": "https://phys.org/news/2026-05-rapidly-antarctic-ice-shelves-global.html",
+      "date": "2026-05-07 09:00",
+      "summary": "Global sea levels may rise faster than previously expected, suggests a new study in Nature Communications. The reason is that warm..."
+    },
+    {
+      "title": "These monster black holes did not form the usual way—their history of violence is written into spacetime ripples",
+      "link": "https://phys.org/news/2026-05-monster-black-holes-usual-history.html",
+      "date": "2026-05-07 09:00",
+      "summary": "The most massive black holes in the universe detected by the ripples they make in spacetime were not born directly from collapsing..."
+    },
+    {
+      "title": "Troubled waters: Jakarta battles deadly, invasive suckerfish",
+      "link": "https://phys.org/news/2026-05-jakarta-deadly-invasive-suckerfish.html",
+      "date": "2026-05-07 07:44",
+      "summary": "Mounds of slimy carcasses pile up on a riverbank in Jakarta where authorities are fighting an uphill battle against a fast-breedin..."
+    },
     {
       "title": "College students are noticing their AI‑smoothed writing sounds strong—and not like them",
       "link": "https://phys.org/news/2026-05-college-students-aismoothed-strong.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-05-magnetic-super-lenses-window-high.html",
       "date": "2026-05-06 23:40",
       "summary": "An international research team, including scientists from the Helmholtz-Zentrum Dresden-Rossendorf (HZDR), has achieved a methodol..."
-    },
-    {
-      "title": "Hourglass nanographenes unlock strong, robust multi-spin entanglement",
-      "link": "https://phys.org/news/2026-05-hourglass-nanographenes-strong-robust-multi.html",
-      "date": "2026-05-06 23:30",
-      "summary": "Researchers from the National University of Singapore (NUS) and collaborators have developed a predictive design strategy for crea..."
-    },
-    {
-      "title": "Antimalarial drug hunt uncovers enzyme target with potent new inhibitors",
-      "link": "https://phys.org/news/2026-05-antimalarial-drug-uncovers-enzyme-potent.html",
-      "date": "2026-05-06 23:20",
-      "summary": "Researchers from the Universities of Bath and Leeds (UK) have made a significant advance in the fight against malaria by uncoverin..."
-    },
-    {
-      "title": "Sound waves create mist that can act like 'plant sunscreen'",
-      "link": "https://phys.org/news/2026-05-mist-sunscreen.html",
-      "date": "2026-05-06 23:10",
-      "summary": "RMIT University researchers have developed a new way to coat fragile surfaces, including living plant leaves, using high‑frequency..."
     }
   ],
   "The Guardian Edu": [
@@ -321,37 +321,43 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Tai Po probe: missed checks at Wang Fuk Court due to late notice of new guidelines – as it happened",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3352680/high-risk-wang-fuk-court-renovation-works-treated-low-risk-tai-po-probe-hears?utm_source=rss_feed",
-      "date": "2026-05-07 03:26",
-      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+      "title": "Hong Kong recalls Zwilling electric kettle over handle defect and scalding risk",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3352741/hong-kong-recalls-zwilling-electric-kettles-over-handle-defect-and-scalding-risk?utm_source=rss_feed",
+      "date": "2026-05-07 08:59",
+      "summary": "Hong Kong authorities have urged the public to stop using a certain model of Zwilling electric kettle over concerns that the handl..."
     },
     {
-      "title": "Motorcyclist, 58, killed in Eastern Harbour Crossing crash, police investigate",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3352685/motorcyclist-58-killed-eastern-harbour-crossing-crash-police-investigate?utm_source=rss_feed",
-      "date": "2026-05-07 02:08",
-      "summary": "A Hong Kong motorcyclist has been killed after reportedly losing control of his vehicle and overturning inside the Eastern Harbour..."
+      "title": "Police investigate alleged indecent assault of boy, 4, at international school",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352740/police-investigate-alleged-sexual-abuse-boy-4-international-school?utm_source=rss_feed",
+      "date": "2026-05-07 08:58",
+      "summary": "Hong Kong police are investigating an allegation that a four-year-old boy was indecently assaulted at an international school in S..."
     },
     {
-      "title": "Traffic accidents involving animals in Hong Kong surge 11-fold in 4 years",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3352667/traffic-accidents-involving-animals-hong-kong-surge-11-fold-4-years?utm_source=rss_feed",
-      "date": "2026-05-07 00:30",
-      "summary": "Traffic accidents involving animals in Hong Kong have surged more than 11-fold over the past four years, with advocacy groups blam..."
+      "title": "The Weeknd to return to Hong Kong after 8 years with Kai Tak show in October",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352729/weeknd-return-hong-kong-after-8-years-kai-tak-show-october?utm_source=rss_feed",
+      "date": "2026-05-07 08:02",
+      "summary": "Canadian singer-songwriter The Weeknd will perform in Hong Kong for the first time in eight years as part of the final leg of his ..."
     },
     {
-      "title": "Hong Kong college’s finance director arrested over HK$770,000 embezzlement",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352660/hong-kong-colleges-finance-director-arrested-over-hk770000-embezzlement?utm_source=rss_feed",
-      "date": "2026-05-06 14:26",
-      "summary": "The finance director of Hong Kong Chu Hai College has been arrested on suspicion of embezzling HK$770,000 (US$98,262) after the he..."
+      "title": "Australian lawyer fined for fleeing Hong Kong restaurant, massage parlour without paying",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352728/australian-lawyer-fined-fleeing-hong-kong-restaurant-massage-parlour-without-paying?utm_source=rss_feed",
+      "date": "2026-05-07 08:01",
+      "summary": "A Hong Kong court has fined an Australian lawyer HK$3,000 (US$383) after he admitted to fleeing a restaurant and a massage parlour..."
     },
     {
-      "title": "Hong Kong teen lured 4 victims for gang to rob and blackmail, court hears",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352653/hong-kong-teen-lured-4-victims-gang-rob-and-blackmail-court-hears?utm_source=rss_feed",
-      "date": "2026-05-06 14:19",
-      "summary": "A young woman has been accused of helping to rob four people as a teenager by luring them to a remote area in Hong Kong where her ..."
+      "title": "Death of elderly pair in Sau Mau Ping flat deemed murder-suicide, police say",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352713/death-elderly-pair-sau-mau-ping-flat-case-murder-suicide-police-say?utm_source=rss_feed",
+      "date": "2026-05-07 06:28",
+      "summary": "An elderly man in Hong Kong is believed to have killed his ex-wife before hanging himself at a public housing estate, as he report..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Pressure from individual particles measured for the first time",
+      "link": "https://www.newscientist.com/article/2525386-pressure-from-individual-particles-measured-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-07 06:00",
+      "summary": "A device made using a tiny bead floating in a beam of light can measure extremely small pressures and could help find a mysterious..."
+    },
     {
       "title": "Dating over 50 is probably on the rise – but we know little about it",
       "link": "https://www.newscientist.com/article/2525520-dating-over-50-is-probably-on-the-rise-but-we-know-little-about-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2525438-huge-landslide-in-alaska-caused-481m-high-tsunami/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-06 13:00",
       "summary": "When the slope of a mountain above Tracy Arm fjord, in Alaska, gave way on 10 August 2025, 64 million cubic metres of rock fell in..."
-    },
-    {
-      "title": "Hantavirus: Where has the deadly cruise ship outbreak come from?",
-      "link": "https://www.newscientist.com/article/2525328-hantavirus-where-has-the-deadly-cruise-ship-outbreak-come-from/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-05 13:20",
-      "summary": "Three people have died on board the cruise ship MV Hondius due to an outbreak of hantavirus, a rare illness transmitted by rodents..."
     }
   ]
 }
