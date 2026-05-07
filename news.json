@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "OpenAI is under criminal investigation — why chatbots don’t always follow the law",
+      "link": "https://www.nature.com/articles/d41586-026-01405-y",
+      "date": "2026-05-07 00:00",
+      "summary": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01405-yA person accused of murder in Florida allegedly sought ChatGP..."
+    },
+    {
       "title": "Author Correction: Enteric neurons increase maternal food intake during reproduction",
       "link": "https://www.nature.com/articles/s41586-026-10201-7",
       "date": "2026-05-06 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10423-9",
       "date": "2026-05-06 00:00",
       "summary": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10423-9A device architecture comprising silicon-based mobile qubits ..."
-    },
-    {
-      "title": "Expanding the human proteome with microproteins and peptideins",
-      "link": "https://www.nature.com/articles/s41586-026-10459-x",
-      "date": "2026-05-06 00:00",
-      "summary": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10459-xA large-scale proteomics analysis of the dark proteome by the..."
     }
   ],
   "Science News": [
@@ -193,16 +193,22 @@
   ],
   "Reuters AI": [
     {
+      "title": "SpaceX to give Anthropic access to its massive AI supercomputer - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2E2MHBib3dHR2hPQ25FbzZMbVZUVDc2RklDQUdlLUE3SjllczhkdWNuUG5TMVhSZUk3Vk1qYlUtcjU1cGhWQ0JUc240N09vNkhZRmhvbjk2djlObDRzeXlUM2NCRjBTTWdtVExucXFrVG15Vkplc3pZa3l0SjNDQ3BmeHZCSm5hZmtCdktxbG5ydXdMTUFuakhWVlloYVZ5UG5aN1pB?oc=5",
+      "date": "2026-05-06 16:32",
+      "summary": "SpaceX to give Anthropic access to its massive AI supercomputer  Reuters..."
+    },
+    {
+      "title": "US, China weigh launch of official discussions on AI, WSJ reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzBhaFk5eGwzWkpjRkk4aVBpS0JnX3huMTZkeENYT09wano1ekdiSXE3NkRDWnF3UlQ2ZlRUSmI1el81c0RGWm5lMFBoaU1jcVdfSDlTSHFlN25uODQwdTBZLWkxb1FfeS1vUEpDZ0NBaG5qNW90dERtMGx0MHBIZUc3d3pGcTFtcGlNY3FOTEFTVTNJcFdMRW5oaG85WEFCWGNTaURtWTA?oc=5",
+      "date": "2026-05-07 00:17",
+      "summary": "US, China weigh launch of official discussions on AI, WSJ reports  Reuters..."
+    },
+    {
       "title": "EU countries, lawmakers clinch provisional deal on watered-down AI rules - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUNTRTY3V3hFX2F2cUJLdEYwSEdTb01FaV9wLW95RTV1TFZwQXBZb2tmQVNuZ2tSM0pxbmtmZmdYdW5wbzRVNjdkTVRheVhjZGI0eWRTZXV0T0E1dm82bmZjUEM5eXJBYmpWX0pHbHdKTVp4cVRsejlmeDRubjc1ZktnRWlnRXdRQnFSV1JscGhzOEppeERkMzVpaHN3cVpaaDhMMy1FQkRGbWxadjJN?oc=5",
       "date": "2026-05-07 02:48",
       "summary": "EU countries, lawmakers clinch provisional deal on watered-down AI rules  Reuters..."
-    },
-    {
-      "title": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFZhSnhTN3pkLVhxNVBraXhnZG5UTjdnQ2g0bUltN3VzQmRXN1hzb21iR3ZFRlRIR1FEdndNdHJoV1pIN0daSnJvVWMwbWtxME9hWVhRdnpoZDJ5Mk5wcXZPTG5DdE1oWGtacldZQjlUWmpZQ3pZaVhQaHBTeUJud3QzYW1ZQXdkdS0yRnpfZ0xlRGl0M1JJSHZtcFdNYlAxZkhKcVBQVUUtdDA?oc=5",
-      "date": "2026-05-05 16:16",
-      "summary": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say  Reuters..."
     },
     {
       "title": "Corning partners with Nvidia to expand US fiber optic output for AI growth - Reuters",
@@ -215,15 +221,15 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNanRNQTUzY09FR25vUlJLT1h2SEJZN0dpX3pYdWMtZUwxY1NCd2xJZENNYlVyd2I3a2VHWDE4Vy1FWkpXUEd2VWVRQTRnQUVUMzlGSmFwOTkzWk5UaWl2MlJHTUFDUUU2MGFMaGEyMFVMRzdmSDVDNjJyMmxpRWF5b3psOTFqR2pI?oc=5",
       "date": "2026-05-07 04:32",
       "summary": "Morning Bid: No stopping AI frenzy in Asia  Reuters..."
-    },
-    {
-      "title": "DeepSeek could be valued at up to $50 billion in first fundraising, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdGZBZEktVUYyd3YyNmlKaHVhYW9nczhYQ2NSX3ZlSXA4T3ZBX3Z3U0s3NlQyZklQci1WTjFCdUJzbEl0ZENGUTJ1dWVDWkZXZnM0c1JIQTA1NU4tZFFyTDNxenRjRXJHU2thZm1lc0FvaDN2ZHdGRkJGaVpDSTU0UV9uTGZjSjBLN1RCakFpd29uejd5U1p1ZU9EZ0NDRDNXMnFMeUJfZkZGdXlRMHV0dXJNQU8xbGlfUDVaWFh6LVB5UXlmY3NPMlFySC0?oc=5",
-      "date": "2026-05-06 05:56",
-      "summary": "DeepSeek could be valued at up to $50 billion in first fundraising, sources say  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "What’s next for IVF - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVC1uVElkNnIxUVBnQU9nQWpIZnNsd19yTDgwTkpQZ2lvZHl6WDdsd0RxSkR4MGw0TGJ4RzRUQmlLclppdVQyVFFoekQ3R1lZMjRBc1RNVWFkemhxcHNiRGliMVlrR1VlTGtNcVN3UGlwMzg2cldNRU5iUzVJX1lNOWxsbG0xSEVDNzVlTWhhZmZLMnNLa0RoWDcyRWY3QdIBowFBVV95cUxNUVFtSkxLeUJkOV9WVjFLUG9XWkV2MHZndExWbnVSRlRfcDhLOUQ4VHZIc0hCSEVQNDZQbC11TC1pTXZ0OElqNTFDWWVacXBNTXhfOVo5RUg5a0JzbHZTM3A3RHFLQUR0VlJ0VWd3NTl6cXZCb1F4a2VBcEZRUVRpSy0tYzBNd1NxM2Q1bEZfN2x1bklLWXVpQ0p0V2haTklTQTQw?oc=5",
+      "date": "2026-05-07 09:04",
+      "summary": "What’s next for IVF  MIT Technology Review..."
+    },
     {
       "title": "The balcony solar boom is coming to the US - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JcUZnRjVteVF1V01tTFBtcjBDY1JrcE5aU0VfanVxbWMxSExSbENxY2hHTkdQQ0tOdzBDcGhCQVlwQUd3ZDdmQjlFc0xZQ3Njb1dwSEk0Y01mcFRXUExWTERWamFFQ3R0cjJMRDRMNUVDUzlFaVdFSjNaQdIBgAFBVV95cUxNM1FaeDJLWVFkbWI5RWxwbnBkc2JvZnk3WE5OWEVKeU1sMmE0NnBRazRfX0l5dm5TYW1ETGhqeWlmSkFGV1BleVVPVjYwUko4UzNta1d3MHhFSXVrTGVNZ3UyTld5X1g1ZW4wR2JYRXJibEM1U2JtR0VvLXdQWnZ2Uw?oc=5",
@@ -235,12 +241,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLUJnRDFCekFia3daeFFYb3hJcGhGcjBUVXhtaTUwZmF3UnlHWmFnVGE2TjM4blJoeURIeGpBS3pfbzJPWUxEcmJvaEIyUEN6bC03VldMM3FHUDJKUlRDUldueVJBSG5xenNQUTh0MkpXLU1IS3R5MnJ6Mkh0c0RHWjVzdHo0Q2J4cXJjQmtXbXpQa2U1ei1IT0pDWDVEUdIBowFBVV95cUxPcjZ6clZvWWJHOEtSMElGZVV1MWhVMnMtb0E1cGJEY1FhV0JYNmFiQ0J2UUs5WjlqMzI4eThtNWtFM2FkVXlWMEhMdHF1dEwxYkhwZ1E4VEY5RjNtMWVBN2Y2MTNOSXkta0YyRnVHRFVQaE52MW1wRzFrTUFJbmI5bUVSQkMzTjJpTkNJSkhyQ3dZTWJSR1c0eUdRLURKRFlaRi1n?oc=5",
       "date": "2026-05-04 13:00",
       "summary": "Tailoring AI solutions for health care needs  MIT Technology Review..."
-    },
-    {
-      "title": "What’s next for IVF - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVC1uVElkNnIxUVBnQU9nQWpIZnNsd19yTDgwTkpQZ2lvZHl6WDdsd0RxSkR4MGw0TGJ4RzRUQmlLclppdVQyVFFoekQ3R1lZMjRBc1RNVWFkemhxcHNiRGliMVlrR1VlTGtNcVN3UGlwMzg2cldNRU5iUzVJX1lNOWxsbG0xSEVDNzVlTWhhZmZLMnNLa0RoWDcyRWY3QdIBowFBVV95cUxNUVFtSkxLeUJkOV9WVjFLUG9XWkV2MHZndExWbnVSRlRfcDhLOUQ4VHZIc0hCSEVQNDZQbC11TC1pTXZ0OElqNTFDWWVacXBNTXhfOVo5RUg5a0JzbHZTM3A3RHFLQUR0VlJ0VWd3NTl6cXZCb1F4a2VBcEZRUVRpSy0tYzBNd1NxM2Q1bEZfN2x1bklLWXVpQ0p0V2haTklTQTQw?oc=5",
-      "date": "2026-05-07 09:04",
-      "summary": "What’s next for IVF  MIT Technology Review..."
     },
     {
       "title": "Week one of the Musk v. Altman trial: What it was like in the room - MIT Technology Review",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Properly crediting employees for their ideas is key to building a strong workplace culture, research finds",
-      "link": "https://phys.org/news/2026-05-properly-crediting-employees-ideas-key.html",
-      "date": "2026-05-07 11:40",
-      "summary": "Making sure that employees are properly credited for their ideas can go a long way toward improving workplace culture, a Universit..."
+      "title": "Recreational fishing in the US catches far more fish than previously estimated",
+      "link": "https://phys.org/news/2026-05-recreational-fishing-fish-previously.html",
+      "date": "2026-05-07 14:00",
+      "summary": "One of the United States' largest fisheries is hiding in plain sight. Recreational freshwater anglers in the lower 48 states catch..."
     },
     {
-      "title": "Chilean wasp named in honor of Sir David Attenborough's 100th birthday",
-      "link": "https://phys.org/news/2026-05-chilean-wasp-honor-sir-david.html",
-      "date": "2026-05-07 11:10",
-      "summary": "Scientists from the Natural History Museum, London have described a new genus and species of parasitic wasp found within the Museu..."
+      "title": "Archaeologists unearth evidence of dogs being traded within Mayan societies",
+      "link": "https://phys.org/news/2026-05-archaeologists-unearth-evidence-dogs-mayan.html",
+      "date": "2026-05-07 14:00",
+      "summary": "A University of Calgary archaeologist has found evidence that the Classic Period Maya were trading live dogs over long distances b..."
     },
     {
-      "title": "Ice Age butcher's tools are a sign of ancient humans' creativity during hard times",
-      "link": "https://phys.org/news/2026-05-ice-age-butcher-tools-ancient.html",
-      "date": "2026-05-07 11:00",
-      "summary": "In central China, scientists have spent over a decade excavating and studying an archaeological site where ancient humans butchere..."
+      "title": "Study seeks to stave off mitochondrial dysfunction believed to cause aging",
+      "link": "https://phys.org/news/2026-05-stave-mitochondrial-dysfunction-believed-aging.html",
+      "date": "2026-05-07 13:40",
+      "summary": "Dysfunction resulting from mitochondrial DNA mutations has been implicated in multiple human pathologies, including neurodegenerat..."
     },
     {
-      "title": "Rapidly melting Antarctic ice shelves may cause global sea levels to rise far faster than expected",
-      "link": "https://phys.org/news/2026-05-rapidly-antarctic-ice-shelves-global.html",
-      "date": "2026-05-07 09:00",
-      "summary": "Global sea levels may rise faster than previously expected, suggests a new study in Nature Communications. The reason is that warm..."
+      "title": "Streetlights trigger bizarre 'death spirals' in thousands of isopods, scientists find",
+      "link": "https://phys.org/news/2026-05-streetlights-trigger-bizarre-death-spirals.html",
+      "date": "2026-05-07 13:40",
+      "summary": "A new study led by Ph.D. student Idan Sheizaf, under the guidance of Prof. Ariel Chipman from The Hebrew University of Jerusalem, ..."
     },
     {
-      "title": "These monster black holes did not form the usual way—their history of violence is written into spacetime ripples",
-      "link": "https://phys.org/news/2026-05-monster-black-holes-usual-history.html",
-      "date": "2026-05-07 09:00",
-      "summary": "The most massive black holes in the universe detected by the ripples they make in spacetime were not born directly from collapsing..."
+      "title": "Tree communities shape hidden energy flows under European forests",
+      "link": "https://phys.org/news/2026-05-tree-communities-hidden-energy-european.html",
+      "date": "2026-05-07 13:20",
+      "summary": "Mixing tree species can lead to better growth in the forest—at least above ground. A new study published in Nature shows that mixe..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong seeks more details from WHO on hantavirus outbreak on cruise ship",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3352801/hong-kong-seeks-more-details-who-hantavirus-outbreak-cruise-ship?utm_source=rss_feed",
+      "date": "2026-05-07 14:03",
+      "summary": "Hong Kong health authorities are seeking more information from the World Health Organization (WHO) on an outbreak of a deadly hant..."
+    },
+    {
+      "title": "Gold futures set for Hong Kong comeback as mainland China’s appetite for the metal grows",
+      "link": "https://www.scmp.com/business/banking-finance/article/3352800/gold-futures-set-hong-kong-comeback-mainland-chinas-appetite-metal-grows?utm_source=rss_feed",
+      "date": "2026-05-07 14:03",
+      "summary": "The Hong Kong Exchanges and Clearing (HKEX) is pressing ahead with the relaunch of gold futures as mainland China’s appetite for t..."
+    },
+    {
       "title": "Appeals court overturns murder conviction of man who killed girlfriend, orders retrial",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352784/appeals-court-overturns-murder-conviction-man-who-killed-girlfriend-orders-retrial?utm_source=rss_feed",
       "date": "2026-05-07 11:15",
@@ -336,19 +348,7 @@
       "title": "Inspector failed to spot illegal alterations, Hong Kong fire probe hears",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3352766/inspector-failed-spot-illegal-alterations-hong-kong-fire-probe-hears?utm_source=rss_feed",
       "date": "2026-05-07 10:50",
-      "summary": "A Hong Kong building inspector mistook illegal alterations to emergency staircases at a housing estate ravaged in a deadly fire as..."
-    },
-    {
-      "title": "Alleged Gundam figurine thief injured after jumping from building in Hong Kong",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352765/alleged-gundam-figurine-thief-injured-after-jumping-building-hong-kong?utm_source=rss_feed",
-      "date": "2026-05-07 10:22",
-      "summary": "A Hong Kong man who allegedly stole HK$50,000 (US$6,380) worth of Gundam models was injured while leaping from a building in To Kw..."
-    },
-    {
-      "title": "Hong Kong recalls Zwilling electric kettle over handle defect and scalding risk",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3352741/hong-kong-recalls-zwilling-electric-kettles-over-handle-defect-and-scalding-risk?utm_source=rss_feed",
-      "date": "2026-05-07 08:59",
-      "summary": "Hong Kong authorities have urged the public to stop using a certain model of Zwilling electric kettle over concerns that the handl..."
+      "summary": "A Hong Kong building inspector mistook illegal alterations to emergency staircases at a housing estate ravaged in a deadly fire fo..."
     }
   ],
   "New Scientist": [
