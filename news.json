@@ -193,12 +193,6 @@
   ],
   "Reuters AI": [
     {
-      "title": "EU countries, lawmakers clinch provisional deal on watered-down AI rules - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUNTRTY3V3hFX2F2cUJLdEYwSEdTb01FaV9wLW95RTV1TFZwQXBZb2tmQVNuZ2tSM0pxbmtmZmdYdW5wbzRVNjdkTVRheVhjZGI0eWRTZXV0T0E1dm82bmZjUEM5eXJBYmpWX0pHbHdKTVp4cVRsejlmeDRubjc1ZktnRWlnRXdRQnFSV1JscGhzOEppeERkMzVpaHN3cVpaaDhMMy1FQkRGbWxadjJN?oc=5",
-      "date": "2026-05-07 22:40",
-      "summary": "EU countries, lawmakers clinch provisional deal on watered-down AI rules  Reuters..."
-    },
-    {
       "title": "Alibaba to integrate Qwen AI with Taobao, launch agentic shopping, source says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVk0TDBSTlAtY3Bib0xTcHBRb1FLOVg2UXFKd3JjZWlWRURvUThTSFp4YWkzaXliRDhwOExpWDdUNjB6VlVsc0pIV2YtVkpzR0k4RmRNYWRpRUZIeGU5WWVoYVhsc3pKVTZ6eDVGVjVKdk5JQlZFMEl5NVk3eENkekVBSGxZUExCQXVkdUtOVGdCeHlGV2lpVC1fekU1UEk2T0FGOGtreGxPNlAyWm41LXhhb3ZVMHFIMXU1WlpidEQ2ZFJlX2xN?oc=5",
       "date": "2026-05-10 01:43",
@@ -221,6 +215,12 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRWh0a2p2a3dybEdNaXVMdEtRaU5TYVlYY0FlNFUwN20xNGtXVTdQbVlYVHRjby1aamRNWWxzVGJEUTdaUHNrcjI2RXdLS1NWbHZIdVVnVWpQMW9fcFVGQUh0T1d0MnVoVUlKNlJOdGRmMEN6UzdfSG14VGlkU0lsNHdZamZJVWJWM1U4TWNFMWdQeDBhdDJiTWRCTm94WnpkcEI3U0lUNEI4M0hwcklJR0lSZzhkU1N5TnFtYQ?oc=5",
       "date": "2026-05-08 18:52",
       "summary": "Anthropic signs $1.8 billion AI cloud deal with Akamai, Bloomberg News reports  Reuters..."
+    },
+    {
+      "title": "Cloudflare's slowing growth disappoints investors betting on AI boost - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkYxM3l0WnlzTTdCbGlPY3hNVloxQmVNbWtldEdUT1U5OVB3akJBRnIzRHM3ZE53ODllTFZlc2E1bUtsOHp4MzhaQ1NOd0xPS1kwYTB4TkNyVGFaM1JXTVFhRXEyaGJ4eFd3NXNOUHRTSlBzdzJpS3pjZl9LUXd0NUFJUnJ3NXpqWkpqeV9LWkxONFB3OFV5LWdtaE1UQkRkalN4eVI0alJzNTdreDRN?oc=5",
+      "date": "2026-05-08 12:15",
+      "summary": "Cloudflare's slowing growth disappoints investors betting on AI boost  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,12 @@
   ],
   "Phys.org": [
     {
+      "title": "2026 global report shows retailers still falling short on sustainable chocolate",
+      "link": "https://phys.org/news/2026-05-global-retailers-falling-short-sustainable.html",
+      "date": "2026-05-10 14:30",
+      "summary": "A global report into the chocolate industry has found that while some companies are improving their sustainability practices, many..."
+    },
+    {
       "title": "Do we absorb information better on paper, rather than screens? It depends on the screen",
       "link": "https://phys.org/news/2026-05-absorb-paper-screens-screen.html",
       "date": "2026-05-10 13:00",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-05-biodegradable-pesticides-fruit-fresh-longer.html",
       "date": "2026-05-10 00:30",
       "summary": "Many grocery shoppers know the routine: bring fruit and vegetables home, rinse them, dry them and hope they stay fresh long enough..."
-    },
-    {
-      "title": "Conspiracy theories meet real news: How QAnon tries to hijack the Internet",
-      "link": "https://phys.org/news/2026-05-conspiracy-theories-real-news-qanon.html",
-      "date": "2026-05-09 23:00",
-      "summary": "\"When people think of extremists, they tend to think of neo-Nazis,\" said Francesco Campisi, a lecturer at Université de Montréal's..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Small grocers’ neighbourhood links can help them beat price war, experts say",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353063/small-grocers-neighbourhood-links-can-help-them-beat-price-war-experts-say?utm_source=rss_feed",
+      "date": "2026-05-10 14:18",
+      "summary": "Hong Kong’s smaller grocers are bracing for pressure amid a fresh wave of price cuts by supermarkets and big retail chains, but so..."
+    },
+    {
+      "title": "Ex-owner of bankrupt bakery dies after chasing thief and falling off building",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3353060/hong-kong-man-dies-after-chasing-thief-and-falling-industrial-building?utm_source=rss_feed",
+      "date": "2026-05-10 13:22",
+      "summary": "The former owner of a Hong Kong bakery chain that went out of business has died after chasing a suspected thief and falling from a..."
+    },
+    {
       "title": "AI app to detect drunk drivers through Cantonese speech analysis in the works",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3353059/ai-app-detect-drunk-drivers-through-cantonese-speech-analysis-works?utm_source=rss_feed",
       "date": "2026-05-10 13:12",
@@ -337,50 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3353051/forfeiture-rights-hong-kong-villagers-slam-rushed-northern-metropolis-evictions?utm_source=rss_feed",
       "date": "2026-05-10 11:43",
       "summary": "When Law Yin-ping moved into a village house in Yick Yuen Tsuen in northwest Hong Kong’s Lam Tei more than a decade ago with her g..."
-    },
-    {
-      "title": "Hong Kong Mother’s Day dining shifts from traditional banquets to casual meals",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3353050/hong-kong-mothers-day-dining-shifts-traditional-banquets-casual-meals?utm_source=rss_feed",
-      "date": "2026-05-10 11:21",
-      "summary": "Mother’s Day business at many traditional Chinese banquet restaurants in Hong Kong has been weaker than last year, with diners inc..."
-    },
-    {
-      "title": "Shenzhen nuclear power plant glitch posed no safety risk, Hong Kong authorities say",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3353039/shenzhen-nuclear-power-plant-glitch-posed-no-safety-risk-hong-kong-authorities-say?utm_source=rss_feed",
-      "date": "2026-05-10 09:51",
-      "summary": "Hong Kong authorities have stressed that an operational glitch at a nuclear plant in neighbouring Shenzhen involving the closure o..."
-    }
-  ],
-  "New Scientist": [
-    {
-      "title": "Tiny 'metajets' could use light to steer sails for interstellar travel",
-      "link": "https://www.newscientist.com/article/2525802-tiny-metajets-could-use-light-to-steer-sails-for-interstellar-travel/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-10 07:00",
-      "summary": "Minuscule silicon wafers propelled by lasers could be used to steer light sails, helping them travel beyond the solar system..."
-    },
-    {
-      "title": "There has been a sudden increase in the rate of sea level rise",
-      "link": "https://www.newscientist.com/article/2525773-there-has-been-a-sudden-increase-in-the-rate-of-sea-level-rise/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-08 14:08",
-      "summary": "Satellite measurements show that in the early 2010s sea level rise suddenly accelerated to a rate of 4.1 millimetres per year, pos..."
-    },
-    {
-      "title": "A vast dam across the Bering Strait could stop the AMOC collapsing",
-      "link": "https://www.newscientist.com/article/2525888-a-vast-dam-across-the-bering-strait-could-stop-the-amoc-collapsing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-09 07:00",
-      "summary": "If a key ocean current collapses it could plunge northern Europe into a big freeze. Now researchers are weighing up a drastic inte..."
-    },
-    {
-      "title": "Neanderthal 'kneeprint' found next to mysterious stalagmite circle",
-      "link": "https://www.newscientist.com/article/2525539-neanderthal-kneeprint-found-next-to-mysterious-stalagmite-circle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-08 10:11",
-      "summary": "An impression made in clay around 175,000 years ago could be a kneeprint left by one of the builders of a strange stalagmite circl..."
-    },
-    {
-      "title": "US government releases huge batch of UFO files",
-      "link": "https://www.newscientist.com/article/2525984-us-government-releases-huge-batch-of-ufo-files/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-08 18:33",
-      "summary": "The US Department of Defense has released hundreds of documents and photographs related to UFOs, some of which have been declassif..."
     }
   ]
 }
