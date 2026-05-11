@@ -97,6 +97,18 @@
   ],
   "Nature Careers": [
     {
+      "title": "Publisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome",
+      "link": "https://www.nature.com/articles/s41586-026-10578-5",
+      "date": "2026-05-11 00:00",
+      "summary": "Nature, Published online: 11 May 2026; doi:10.1038/s41586-026-10578-5Publisher Correction: Presymptomatic training mitigates funct..."
+    },
+    {
+      "title": "The sleep paradox: why do humans sleep so little when we need it so much?",
+      "link": "https://www.nature.com/articles/d41586-026-01478-9",
+      "date": "2026-05-11 00:00",
+      "summary": "Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01478-9A new book brings together ethnography, neurobiology and prim..."
+    },
+    {
       "title": "Radioactive rain and proving relativity: Books in brief",
       "link": "https://www.nature.com/articles/d41586-026-01500-0",
       "date": "2026-05-08 00:00",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01501-z",
       "date": "2026-05-08 00:00",
       "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01501-zUniversities that run the National Center for Atmospheric Res..."
-    },
-    {
-      "title": "Goodbye GDP? 31 ways to replace the world's favourite measure of economic health",
-      "link": "https://www.nature.com/articles/d41586-026-01511-x",
-      "date": "2026-05-08 00:00",
-      "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01511-xProposed UN progress indicators include greenhouse gas emissi..."
-    },
-    {
-      "title": "Surge in fake citations uncovered by audit of 2.5 million biomedical science papers",
-      "link": "https://www.nature.com/articles/d41586-026-00748-w",
-      "date": "2026-05-08 00:00",
-      "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-00748-wAn analysis of 97 million citations has found that rates of f..."
     }
   ],
   "Science News": [
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Elsevier retracts the least and reinstates the most, new analysis finds",
+      "link": "https://retractionwatch.com/2026/05/11/elsevier-retracts-the-least-and-reinstates-the-most-new-analysis-finds/",
+      "date": "2026-05-11 12:00",
+      "summary": "While Elsevier outcompetes other publishers in terms of sheer volume, it also has the lowest retraction rate and highest rate of r..."
+    },
+    {
       "title": "Weekend reads: FDA blocked vaccine findings; ‘Frankencitations Ravage the Academic Countryside’; ‘Publish and Perish’",
       "link": "https://retractionwatch.com/2026/05/09/weekend-reads-fda-blocked-vaccine-findings-frankencitations-ravage-the-academic-countryside-publish-and-perish/",
       "date": "2026-05-09 10:00",
@@ -183,108 +189,102 @@
       "link": "https://retractionwatch.com/2026/05/06/russian-news-outlets-hailed-a-cancer-breakthrough-but-the-retraction-went-unnoticed/",
       "date": "2026-05-06 14:56",
       "summary": "In August 2021, several news outlets in Russia reported a cancer breakthrough: Researchers at the chemistry and biophysics institu..."
-    },
-    {
-      "title": "Winning science fair project in Vietnam beset by misconduct allegations as major high school competition looms",
-      "link": "https://retractionwatch.com/2026/05/05/winning-science-fair-project-in-vietnam-beset-by-misconduct-allegations-as-major-high-school-competition-looms/",
-      "date": "2026-05-05 22:16",
-      "summary": "A science competition for middle and high school students in Vietnam is embroiled in controversy as its winners head to next week’..."
     }
   ],
   "Reuters AI": [
     {
-      "title": "Anthropic signs $1.8 billion AI cloud deal with Akamai, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRWh0a2p2a3dybEdNaXVMdEtRaU5TYVlYY0FlNFUwN20xNGtXVTdQbVlYVHRjby1aamRNWWxzVGJEUTdaUHNrcjI2RXdLS1NWbHZIdVVnVWpQMW9fcFVGQUh0T1d0MnVoVUlKNlJOdGRmMEN6UzdfSG14VGlkU0lsNHdZamZJVWJWM1U4TWNFMWdQeDBhdDJiTWRCTm94WnpkcEI3U0lUNEI4M0hwcklJR0lSZzhkU1N5TnFtYQ?oc=5",
-      "date": "2026-05-08 18:52",
-      "summary": "Anthropic signs $1.8 billion AI cloud deal with Akamai, Bloomberg News reports  Reuters..."
+      "title": "EU Commission in talks with OpenAI and Anthropic over AI models - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmMycEVRUGxZV2VUU05oZ0JzMC14Q0JnS2lCZkg1Z1BJSEwzRW52OXVBcFJRdzJLSEYzWGpyQlk5X2x2TC1IalZTdGctLW9RNDdQeHdURG5meFRSU3B3TmVaYTBRTEFuVDlHS3NUMzNiczBSWFlMYmxnYUxiZWJnTF9TZXpOSkZPamZ2bEtsMHN0T3dfdDB4XzQycy1qNmkyd3JfNjVfRl9OVm40U1BDQlp4RGtwVmp2R3o0cloyTzN3OXB6ZHFVdEZRTGk?oc=5",
+      "date": "2026-05-11 10:53",
+      "summary": "EU Commission in talks with OpenAI and Anthropic over AI models  Reuters..."
+    },
+    {
+      "title": "Hackers pushing innovation in AI-enabled hacking operations, Google says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmx3aHF5WThIVEpsUnpPNXkxUGZOamt6MTlvMXFhYm5WbUZNUG11V21qb2ZSQkZpSFZNYkRZcDhobGxQeXhlUkpBanY2YXhmMXhFM0otcEd4ZWU5Rl9CSVhLU2lSV0N0cGZYdl9IYjlnOGVFQ3JBZTF3el9EZE1SX0w4azl0ejlXM1V3RnNsTVM0cEE0RzdlR00xVlJoUGZmQ3M5TUlmY0Z6TTlGQmVlZmY4VDV1Nkd4aVgzb29B?oc=5",
+      "date": "2026-05-11 13:04",
+      "summary": "Hackers pushing innovation in AI-enabled hacking operations, Google says  Reuters..."
+    },
+    {
+      "title": "OpenAI creates new unit with $4 billion investment to aid corporate AI push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzBVZGx1c2JvQTRJeWZ2d1FPQU1GTnhSaEZONVV0YmpaRnI4WE50Q25udWxlNC1LbVR0ZkJnTzJYM0dRekdNZWVVempHSEZJT1ZTS1Q3bDI0NHJRdW5lOURaUmNPX0UtQVNnUXNyQUhXQnhvd1lYT1JZdXl5dWtiNk9CblcxV1FHQmdoSGpiekJjX3kwSlZSeHVOcE93ZHY1VU92bldWRTZqb2NKck1yUlRqWjkzRk0?oc=5",
+      "date": "2026-05-11 13:01",
+      "summary": "OpenAI creates new unit with $4 billion investment to aid corporate AI push  Reuters..."
+    },
+    {
+      "title": "Alphabet considers first yen bond sale to fund AI goals - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1VEZEpXRmh4OFM3RGgxX1Z1cjBPaHlWMTZqa3lwbklEcXNSN0VnWVowUFZ1ZEp2LUpUTFpLazFuSngtS2pyMHI2Q283Z0NybFdkTTJGNEtxcHEtX1kxTjIzS1hjTVNOUi1GeDVNRnFjVzFXWHJDRmJnMmN0VUJsUGJrdi1LeUUtbVNtdjZjMjRwaW94SlpaS2lSazRqa1dDX1M4SXUtQWk?oc=5",
+      "date": "2026-05-11 11:58",
+      "summary": "Alphabet considers first yen bond sale to fund AI goals  Reuters..."
     },
     {
       "title": "Alibaba to integrate Qwen AI with Taobao, launch agentic shopping, source says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVk0TDBSTlAtY3Bib0xTcHBRb1FLOVg2UXFKd3JjZWlWRURvUThTSFp4YWkzaXliRDhwOExpWDdUNjB6VlVsc0pIV2YtVkpzR0k4RmRNYWRpRUZIeGU5WWVoYVhsc3pKVTZ6eDVGVjVKdk5JQlZFMEl5NVk3eENkekVBSGxZUExCQXVkdUtOVGdCeHlGV2lpVC1fekU1UEk2T0FGOGtreGxPNlAyWm41LXhhb3ZVMHFIMXU1WlpidEQ2ZFJlX2xN?oc=5",
-      "date": "2026-05-10 01:44",
+      "date": "2026-05-10 01:43",
       "summary": "Alibaba to integrate Qwen AI with Taobao, launch agentic shopping, source says  Reuters..."
-    },
-    {
-      "title": "Sony, Nintendo grapple with memory price surge as AI boom constrains supply - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUTVYazlKQ0J5M0dtZjk4WHBSakUySFQ2bU96aTAyTi10cHBQZ2RGc0duUzRBcFI1NC1HQzlCUkgtNGxSZ1dXYUJIWjU2NlZwUTVZeFRUdnlSUm9QaVduN3NRRGhYbUlidzBqVXBBR3l4TkFveUtmV2NfYnRURllNRGVXRFNuc1ZuZmx4b0JMUmQ1b0FadmlXSlhGOGtTNElpZTNuT0xCQS1Rb0JTRlAxV1hldm13eTA5TmQ3NktHY3hmZDhr?oc=5",
-      "date": "2026-05-08 14:15",
-      "summary": "Sony, Nintendo grapple with memory price surge as AI boom constrains supply  Reuters..."
-    },
-    {
-      "title": "AI labs should pass safety review to get US government contracts, group says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVTFMUlljVDZyUXczUFVJZjMxVVVfUW9jTmZJNU1Edk55R1lYSnhCT3RpNTBiR3dTU1h5ckpvbHlUUEZuM0ZqMmtBcWFpc3BqUHh5YzhnUjJzSHR1S3BwVHpEeDNldmtTQ19HV0YtOXpYRHlySG9oYVFKdFJNcS1oRlVxc1NZdTlINk9fYWJLX3dXczBFWnNQa2t6aXBOZXNIeGZHS3BSN25rbV9JUDdHTWtnY0RZOHpMSGJOTlJsUFVNblk?oc=5",
-      "date": "2026-05-11 10:04",
-      "summary": "AI labs should pass safety review to get US government contracts, group says  Reuters..."
-    },
-    {
-      "title": "Communist-run Vietnam eyes influencers, AI to spruce up propaganda, documents show - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVHEtVC0zRkltTTlkN2w0cDh1eS1KYmNzR0pVdTRkQ2FnUWdVY0FEMzlUWm9tZTQ1bUZJbHpxYjhJYzVPRkZpLURyWTRLYldNOUY1N3AtMFpKcjFlQU4xXzhWdWlhU3J3cEFDYnlXQW5Ia1VpTXppYWNicmN2cS03OUdLWmluWHpvSVpwQXNESElLWGI3V0JYdzVTVTRfU2paU2tNa2tOV1NDMEZiNHJ2Umw3QmlQa1BfcHY5ZzZfejVUcllyVU1vTFZKclh0c1lKVXFJcl9jS2JvX2c?oc=5",
-      "date": "2026-05-08 01:08",
-      "summary": "Communist-run Vietnam eyes influencers, AI to spruce up propaganda, documents show  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "Fostering breakthrough AI innovation through customer-back engineering - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNemU3WmZhdEQ5TlBGejBHeWlqSmlDTjd0dFpRUGR2bnladlNaZDZxRUxLLVhiaElPTWR4aWZBRzN2U1c3VTJVbU42ZGZCb1A1LS1va013aG1VeUlwZFRHZE9mNE1LVTkzcWJtRG5LSTBSNmdXNThIZGNrSkxTUjVkUkxDNzlBbVJ2T05kbzh4dWRZVVFDcjdJU21EZXUwQTFyZ0hnbGhaS3lwRWhNSDJKeVl2Zzh2OFJkb3cxRmxReU7SAcYBQVVfeXFMUHlORkMycUt2OXZ0ZHhMZ0lITDdlZ1hOcmxzcXh1VVk5b2NLV2trdW5FMmRHWW5sY1hqdWZjVnVjSlpPZHVpM0RuUGFfd19wVWNNLTlfdmdPUl94NENkcTFsaFRmMS1HZmNhLVduUG9mMFBuTmxBZlptY2hEclNxSzVWemJtbU5fWmY1TzhCT1ZQa2o1aDFJX0VsVnVvcEJDc1IxMG0wZXVpVUU5MXAyaHFYZzU0aUNMSklLSEh4V0NzMUtOMG93?oc=5",
+      "date": "2026-05-11 13:33",
+      "summary": "Fostering breakthrough AI innovation through customer-back engineering  MIT Technology Review..."
+    },
+    {
+      "title": "Implementing advanced AI technologies in finance - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSm5QY29abThYWHpZVGFmRk5zTlU4N1FNZ2p1bjBmZUc2N0xHdlNOTmF0NDVZZFZDYzlqUEM3N1JhTDhFakcyTGkzRE1tYWFQd3o5dkxZc3doa0Q4Y0JVS2FtZmZoOUdqODhFQVpOQkExXzVQam54R2pNVHB1TTVxYVZoam0tRFRQWEJTcHkzQWF0SlBDcm5HWXo0QWVZUEtVcmVr0gGoAUFVX3lxTE85M3pkLXd5YVp1eDdXeldQcG4xODV2TldqY0VIOWxVSWV5enJqQ3ZQemI2clFTR0UydThOdmdCazFjSkdxdlUtaHpHNGt4U2tKdzFDNlhycHpzR25ILThUYTBJSk9Xci1Kb050T2tsMGkzMW40T1RlME1ieFhMc01zVHEyYWQtOEQ4NlRzUmRhV1hYUEJBNzh5UHRvQVZNT3Z2YmlIb3lVbQ?oc=5",
+      "date": "2026-05-11 13:00",
+      "summary": "Implementing advanced AI technologies in finance  MIT Technology Review..."
+    },
+    {
+      "title": "Innovation abounds in device charging - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcjh2eVNOdVR1cTNEeGRIN2RzQzdINW1YUWRIVENadU1WZ01FQ3FDdGNhYmxUMlVQZk9aeFFPT19Mb0tXQmlZLW5XUl96b2tqbGU4SUdVYnNybFd4QktFXzdoaDZ4WGFVLUtuSmlsNmVHQWJmOUM3THlWQUIzaWpPZFRqcWw3UUpuZGsyOHoyb3I2RW9w0gGaAUFVX3lxTE9HV1VyZXdpYlhPNkE4OFJJVTBwY3RtWTE2cHRPcExIcHh6SGFSY0RHdHhqU01kdy0tOXlHYUJURC16TkZGR0hmdnA4aDg0cmtxTWZCZ25jQzJIOHVILXZiMV9vWlg3SEpBVkRHNU9lOTNfWGgyWWRpV0R6SDNfVVhmdXlJdHBQREI5M2sxdFAzNWlXZXhNcExPdEE?oc=5",
+      "date": "2026-05-11 13:00",
+      "summary": "Innovation abounds in device charging  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2 - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2lkOUpxZDZaOUI3dV9fODF5RWFwQjJUVzQ5cVBFNzNMeVpXUG41OXJHQlhmZWlhLTNKU1FLc1FMWW5JYzZZeVIyQnl4ZDVYVFhuVUUwRDF5eHNVeTNiYUhxRWZqLW9yZUpRdnQ2NllPSVdQLVo4b1FnbUhrM0JubV9WVk9XalZTRVczX3dKbkJrY1JuRlFYcTQzbk9xbXp0UWM4Z0ln0gGrAUFVX3lxTE00Qkl3WkR2RFROVzNJazdVSDNMY0FBaUdpaXY2UXIwOHpWc0VTeVczc0pZaU9MRXJjSWdEZEtYX21jdUR1YkQ5UDQtZmlDTldDVkk4QkZhSkFJUnZMNjdnNWh5SzBCa1lyUEpZbUlUSm1xb09tMDh2WWxkR1hNa3pXMFByUFBUOVpxWXBPU1ZwLTNucHZQcGYwWjBOX1hBbTFrYThhZXpabHJtRQ?oc=5",
+      "date": "2026-05-11 12:10",
+      "summary": "The Download: the hantavirus outbreak and Musk v. Altman week 2  MIT Technology Review..."
+    },
     {
       "title": "What’s next for IVF - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVC1uVElkNnIxUVBnQU9nQWpIZnNsd19yTDgwTkpQZ2lvZHl6WDdsd0RxSkR4MGw0TGJ4RzRUQmlLclppdVQyVFFoekQ3R1lZMjRBc1RNVWFkemhxcHNiRGliMVlrR1VlTGtNcVN3UGlwMzg2cldNRU5iUzVJX1lNOWxsbG0xSEVDNzVlTWhhZmZLMnNLa0RoWDcyRWY3QdIBowFBVV95cUxNUVFtSkxLeUJkOV9WVjFLUG9XWkV2MHZndExWbnVSRlRfcDhLOUQ4VHZIc0hCSEVQNDZQbC11TC1pTXZ0OElqNTFDWWVacXBNTXhfOVo5RUg5a0JzbHZTM3A3RHFLQUR0VlJ0VWd3NTl6cXZCb1F4a2VBcEZRUVRpSy0tYzBNd1NxM2Q1bEZfN2x1bklLWXVpQ0p0V2haTklTQTQw?oc=5",
       "date": "2026-05-07 09:04",
       "summary": "What’s next for IVF  MIT Technology Review..."
-    },
-    {
-      "title": "The missing step between hype and profit - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVY4WHVDWWMzNWZVTV9yUWl3QW45OEVMUHplalc5VzNhLU9NZ18tX0lzQVkxUWxJY1otc1ZoYjJlQ0U5M0EzV01DWU50SWZkR0hOeHlqY05LVmVJQmh1N29EWjMxX1hpTjhBMG9xZ3dKSXlfQXlBVmxNZ3hOVXlmVFVEcVM3eW1CS0FhaFNSN0hsaWQ3ZjNEV9IBngFBVV95cUxPSndmRW54dF84b2xvdGRKZU9GZ19fR19oNHl6RW5rNUV0ajhPTDhwdDFPOUNKcWU0R21YM09vQkVhejR0RnVhQ3QxWVhmQXlzX2lldnFiSkJVNmVsVEhVQUdUVGVrYUVkQnlKVF90Tzd3SGNMc3VpNzBFelpkaWVWbkx1R2E3SzNGMlRfdUpoWmQ2VzRNTG04X19kNE4xUQ?oc=5",
-      "date": "2026-04-27 07:00",
-      "summary": "The missing step between hype and profit  MIT Technology Review..."
-    },
-    {
-      "title": "The balcony solar boom is coming to the US - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JcUZnRjVteVF1V01tTFBtcjBDY1JrcE5aU0VfanVxbWMxSExSbENxY2hHTkdQQ0tOdzBDcGhCQVlwQUd3ZDdmQjlFc0xZQ3Njb1dwSEk0Y01mcFRXUExWTERWamFFQ3R0cjJMRDRMNUVDUzlFaVdFSjNaQdIBgAFBVV95cUxNM1FaeDJLWVFkbWI5RWxwbnBkc2JvZnk3WE5OWEVKeU1sMmE0NnBRazRfX0l5dm5TYW1ETGhqeWlmSkFGV1BleVVPVjYwUko4UzNta1d3MHhFSXVrTGVNZ3UyTld5X1g1ZW4wR2JYRXJibEM1U2JtR0VvLXdQWnZ2Uw?oc=5",
-      "date": "2026-05-07 10:00",
-      "summary": "The balcony solar boom is coming to the US  MIT Technology Review..."
-    },
-    {
-      "title": "Here’s how technology transformed babymaking - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUXdGVDl1TmdCTnVJZkx3WndRc0YyaWhTekVTZDZiS2FmUEtsMUEtWVpKdXpCMnZCMmhrZVpLTk9VcEp4N2wwTzdlMWh5TkVOWE9LVEJvYW9XUXNhb2dGMFFaWTlkQUhPVkp6am5heWkwbXdZWmUzS1dWZVpuVEdZbk11OWRlZkVQM0ZwQVpLS3RRSVhKdXR5LTFGMURNMVMyT0HSAacBQVVfeXFMUDBmSVdiRkJnNnlXUzd3ODkycnlMUk9ibW1QTmd0VjlWUUdtMzBUT01zZEc1U2M0ajZJX3JJN1lkS2hUNERuNXlMMjVEX3YwNDU1Rlc2SjhYSVZrczVIUFh3YnNQYWdiNDBrVlYzQzNOcEdZazVoYVRzUW1nenc0dk9Kak5GQnpDS3RnV2g0SGhHaHRkRjhYS0c5Z3B0cWV2cFhESS13RUU?oc=5",
-      "date": "2026-05-08 09:00",
-      "summary": "Here’s how technology transformed babymaking  MIT Technology Review..."
-    },
-    {
-      "title": "A blueprint for using AI to strengthen democracy - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUVCOVYyOHZiMGJDcWdWeE9ldjVtTnRDSFcyRFc0MVZjU1YyRHlSOHJXS1MzZVh5dEd6emRhRzY1RF9rZVhUNXM5TUdNWGU2Njc4TE1XaUZoRGRQMlNoRnBTc1pMdG1ZV3F2cC1Ocy10SFZtNlBnVTN1T3RkakdNUdIBhgFBVV95cUxOOS03MWRNWDRxSXNpalFsam1zdi11dUNGUlFZM3VhVS1jNVdPbHQtaTJTVFhzdFBIRm9tRVFDUmFHRGxBbGlTTk81QVRuMzRjTXFOUUF4M3JVbENxTjczLUxFYmxxcUdvMVNZOEd0SExVeFhXRFFoajBRZk5DMXFPdTVWOG1sZw?oc=5",
-      "date": "2026-05-05 09:00",
-      "summary": "A blueprint for using AI to strengthen democracy  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "War‑driven sea detours are reshaping shipping routes, putting whales off South Africa in sudden peril",
-      "link": "https://phys.org/news/2026-05-wardriven-sea-detours-reshaping-shipping.html",
-      "date": "2026-05-11 08:50",
-      "summary": "Conflicts in the Middle East are increasing dangers for whales off South Africa by shifting sea traffic into their habitats and he..."
+      "title": "How social science helps keep bugs off corn",
+      "link": "https://phys.org/news/2026-05-social-science-bugs-corn.html",
+      "date": "2026-05-11 13:40",
+      "summary": "A new study suggests broad systemic problems play a significant role in disincentivizing corn growers from planting the refuge cor..."
     },
     {
-      "title": "Deep beneath Swiss Alps, researchers trigger 8,000 tiny quakes in controlled test",
-      "link": "https://phys.org/news/2026-05-deep-beneath-swiss-alps-trigger.html",
-      "date": "2026-05-11 08:26",
-      "summary": "Researchers have made the ground shake in southern Switzerland, triggering thousands of tiny earthquakes in a monitored setting, a..."
+      "title": "The National Science Board purge, explained",
+      "link": "https://phys.org/news/2026-05-national-science-board-purge.html",
+      "date": "2026-05-11 13:20",
+      "summary": "Amid the many attention-grabbing headlines of 2026, there is a recent one that may have flown under the radar but shouldn't have. ..."
     },
     {
-      "title": "Q&A: How jellyfish bycatch could be a valuable collagen source for cosmetics and biotech",
-      "link": "https://phys.org/news/2026-05-qa-jellyfish-bycatch-valuable-collagen.html",
-      "date": "2026-05-11 04:00",
-      "summary": "Dr. Ainara Ballesteros is a Juan de la Cierva postdoctoral researcher at the Institute of Environment and Marine Science Research ..."
+      "title": "Old plant populations offer new clues to climate resilience",
+      "link": "https://phys.org/news/2026-05-populations-clues-climate-resilience.html",
+      "date": "2026-05-11 13:00",
+      "summary": "When scientists think about how plants will respond to climate change, they often look north. As temperatures rise, many species a..."
     },
     {
-      "title": "Beneath seagrass meadows, a shift in warming seas could decide which underwater habitats survive",
-      "link": "https://phys.org/news/2026-05-beneath-seagrass-meadows-shift-seas.html",
-      "date": "2026-05-10 22:30",
-      "summary": "On the western side of Lake Macquarie in New South Wales, Australia, sits Myuna Bay, a quiet bay with meadows of seagrass waving b..."
+      "title": "When uncertainty spikes, chasing rewards backfires and a more informed strategy pulls ahead",
+      "link": "https://phys.org/news/2026-05-uncertainty-spikes-rewards-backfires-strategy.html",
+      "date": "2026-05-11 12:00",
+      "summary": "Humans and other animals are constantly required to make decisions under uncertain conditions or while in rapidly changing environ..."
     },
     {
-      "title": "When retailers wait to reveal prices, shoppers fill in the blanks",
-      "link": "https://phys.org/news/2026-05-retailers-reveal-prices-shoppers-blanks.html",
-      "date": "2026-05-10 21:00",
-      "summary": "Sometimes the price wasn't missing; its disclosure was just delayed. That's what Minzhe Xu, assistant professor of marketing in Io..."
+      "title": "Complex habitat crucial to brush-tailed rock-wallaby survival",
+      "link": "https://phys.org/news/2026-05-complex-habitat-crucial-tailed-wallaby.html",
+      "date": "2026-05-11 11:20",
+      "summary": "Brush-tailed rock-wallaby populations have dwindled for more than a century due to historical hunting for the European fur trade a..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "No hotpot: Hong Kong dog-friendly restaurants face menu and layout limits",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3353178/no-hotpot-hong-kong-dog-friendly-restaurants-face-menu-and-layout-limits?utm_source=rss_feed",
+      "date": "2026-05-11 12:54",
+      "summary": "Hong Kong restaurants applying for a licence that allows dogs to enter their premises will have to remove hotpot from their menus ..."
+    },
+    {
+      "title": "Hong Kong firm eyes untapped market with launch of tailor-made electric minibus",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353169/hong-kong-firm-eyes-untapped-market-launch-tailor-made-electric-minibus?utm_source=rss_feed",
+      "date": "2026-05-11 11:56",
+      "summary": "A Hong Kong electric commercial vehicle solutions company has teamed up with a mainland Chinese manufacturer to launch an electric..."
+    },
+    {
+      "title": "Ferry passengers stranded over an hour after vessel hits typhoon shelter barrier",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3353164/ferry-passengers-stranded-over-hour-after-vessel-hits-typhoon-shelter-barrier?utm_source=rss_feed",
+      "date": "2026-05-11 11:12",
+      "summary": "An outlying island ferry struck a barrier at a typhoon shelter in Hong Kong shortly after midnight on Monday, with passengers reca..."
+    },
+    {
       "title": "Hong Kong urged to expand role in national medical research, breakthroughs",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3353160/hong-kong-urged-expand-role-national-medical-research-breakthroughs?utm_source=rss_feed",
       "date": "2026-05-11 09:54",
@@ -331,24 +349,38 @@
       "link": "https://www.scmp.com/business/article/3353134/hong-kongs-tsim-sha-tsui-tops-asia-luxury-retail-rents-bond-street-worlds-priciest?utm_source=rss_feed",
       "date": "2026-05-11 08:35",
       "summary": "Hong Kong’s Tsim Sha Tsui has retained its title as Asia’s priciest luxury retail strip, commanding £16,160 (US$22,000) per square..."
+    }
+  ],
+  "New Scientist": [
+    {
+      "title": "Tiny 'metajets' could use light to steer sails for interstellar travel",
+      "link": "https://www.newscientist.com/article/2525802-tiny-metajets-could-use-light-to-steer-sails-for-interstellar-travel/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-10 07:00",
+      "summary": "Minuscule silicon wafers propelled by lasers could be used to steer light sails, helping them travel beyond the solar system..."
     },
     {
-      "title": "Hong Kong’s property recovery could be more robust than many think",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3353092/hong-kongs-property-recovery-could-be-more-robust-many-think?utm_source=rss_feed",
-      "date": "2026-05-11 08:30",
-      "summary": "A wave of bullishness is sweeping through Hong Kong’s real estate market. A report by S&P Global Ratings on May 5 said an “upside ..."
+      "title": "There has been a sudden increase in the rate of sea level rise",
+      "link": "https://www.newscientist.com/article/2525773-there-has-been-a-sudden-increase-in-the-rate-of-sea-level-rise/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-08 14:08",
+      "summary": "Satellite measurements show that in the early 2010s sea level rise suddenly accelerated to a rate of 4.1 millimetres per year, pos..."
     },
     {
-      "title": "Private sector will be invited to run new elderly care centres for middle class",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3353126/hong-kong-have-privately-run-care-services-under-new-scheme-middle-class-elderly?utm_source=rss_feed",
-      "date": "2026-05-11 07:21",
-      "summary": "Hong Kong authorities plan to lease out government-built day care facilities for the elderly to the private sector under a pilot p..."
+      "title": "A vast dam across the Bering Strait could stop the AMOC collapsing",
+      "link": "https://www.newscientist.com/article/2525888-a-vast-dam-across-the-bering-strait-could-stop-the-amoc-collapsing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-09 07:00",
+      "summary": "If a key ocean current collapses it could plunge northern Europe into a big freeze. Now researchers are weighing up a drastic inte..."
     },
     {
-      "title": "The Weeknd reveals dates for Hong Kong concerts at Kai Tak Stadium",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353119/weeknd-stage-2-hong-kong-concerts-october-kai-tak-stadium?utm_source=rss_feed",
-      "date": "2026-05-11 06:59",
-      "summary": "Canadian singer-songwriter The Weeknd will perform two concerts at Hong Kong’s Kai Tak Stadium in October as part of the final leg..."
+      "title": "Neanderthal 'kneeprint' found next to mysterious stalagmite circle",
+      "link": "https://www.newscientist.com/article/2525539-neanderthal-kneeprint-found-next-to-mysterious-stalagmite-circle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-08 10:11",
+      "summary": "An impression made in clay around 175,000 years ago could be a kneeprint left by one of the builders of a strange stalagmite circl..."
+    },
+    {
+      "title": "US government releases huge batch of UFO files",
+      "link": "https://www.newscientist.com/article/2525984-us-government-releases-huge-batch-of-ufo-files/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-08 18:33",
+      "summary": "The US Department of Defense has released hundreds of documents and photographs related to UFOs, some of which have been declassif..."
     }
   ]
 }
