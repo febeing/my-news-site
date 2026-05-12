@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "For most US drivers, EVs offer emissions benefits and cost savings",
+      "link": "https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512",
+      "date": "2026-05-12 04:00",
+      "summary": "When it comes to emissions, individual driving patterns matter as much as how “green” the regional electricity mix is, MIT researc..."
+    },
+    {
       "title": "Rethinking how our brains use categories to make sense of the world",
       "link": "https://news.mit.edu/2026/rethinking-how-our-brains-use-categories-0507",
       "date": "2026-05-07 14:55",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/method-stress-testing-cloud-computing-algorithms-helps-avoid-network-failures-0506",
       "date": "2026-05-06 04:00",
       "summary": "The “MetaEase” technique provides a heads-up to potential scenarios that could cause long wait-times or outages...."
-    },
-    {
-      "title": "Astronomers pin down the origins of a planetary odd couple",
-      "link": "https://news.mit.edu/2026/astronomers-pin-down-origins-planetary-odd-couple-0505",
-      "date": "2026-05-05 04:00",
-      "summary": "New measurements of a hot Jupiter and its mini-Neptune companion suggest both planets formed surprisingly far away from their host..."
     }
   ],
   "Harvard Gazette": [
@@ -51,19 +51,31 @@
       "summary": "How academia can help America heal  Harvard Gazette..."
     },
     {
-      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
-      "date": "2025-10-28 07:00",
-      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
-    },
-    {
       "title": "Crossing line between good and bad anxiety - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNhbHdQcmRyWE1IWnhpZms5YmZCWVhJVlpKVksxbXpVSFRtbUNoNi1FbUhLWk1lNVd6MzVFSDBJUVlXcXlyN3pNeW5WYVYtX01QY0I1RmdRRlQzWGZnRUZ5Uzdtc2lyUzgwaGxPVVkydERtYjJZMlR4Vjk3cTZzWkl2YWNURWdoVjZWd1ptdkFjanU3?oc=5",
       "date": "2025-09-30 07:00",
       "summary": "Crossing line between good and bad anxiety  Harvard Gazette..."
+    },
+    {
+      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
+      "date": "2025-10-28 07:00",
+      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     }
   ],
   "Stanford News": [
+    {
+      "title": "Wolfpack Overcomes Five-Run Deficit to Even Series with Stanford - NC State University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdW9Ua0ptTGFmcXNZQ0RqaEc4VnJ4Vnd6UjdaZUNwOFBYYXdMMWNPaFljWnViZWJZZ2VmbTEzWUx5OEMyenNYem5lT0NZXzUzTWR4Q3BscHlsYkxuQ0tHajMxSUFfVFdKYkNKMEI3ZHhtWW1OWXZTUjg5a0doLXpCN3pWZ0lVNlpRTjNPYTMyZWdtWTFnSWxzS3YxTFNNZC1TeDZXLWVwVHhnZw?oc=5",
+      "date": "2026-05-10 02:19",
+      "summary": "Wolfpack Overcomes Five-Run Deficit to Even Series with Stanford  NC State University Athletics..."
+    },
+    {
+      "title": "Jewish groups protest removal of Jewish DA from Stanford protest case - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mcDJ6Umc3TGtZRS1kRVJ4RlBDRkNFUE54VUZQUW1TcDNfYVdPbEpNd1lZNDEwNjE2eWMzRXF2QTROSHVwTVR2U280c01NTEV4cE10ODd4TUM4UDF5Vm1J?oc=5",
+      "date": "2026-05-12 04:20",
+      "summary": "Jewish groups protest removal of Jewish DA from Stanford protest case  The Jerusalem Post..."
+    },
     {
       "title": "Stanford Law Faculty Helping to Guide Hoover Institution’s Project on Democracy, Law, and Global Change - Stanford Law School",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0FCYlduUmYwd3JJeWFnUUVWeE1OUWVMc1JwR2tXTFRRRV9uUHlaYzFEWW9STlFLZUhXUVllVzloUi16Sy1LYWY1NDkxekdKbk0tQ1JvOUJHcmstQ1hJeHJUUERPZDU3TUdiT3BvdTJ3NlpYWHNlZTdhQlFxUTlBTGd0UFhwZ0hGNE9BUndLMWNVMXk0WDRSck0ybng5bS16bjZFb0c1ck1yVWg2OEdzRVkwR0JhMlpSNklOQXRJR1hCYnBjNG9TVjJEWkI?oc=5",
@@ -71,28 +83,16 @@
       "summary": "Stanford Law Faculty Helping to Guide Hoover Institution’s Project on Democracy, Law, and Global Change  Stanford Law School..."
     },
     {
-      "title": "Chair of Stanford University Board of Trustees Lily Sarafan to speak at the School of Medicine graduation - Stanford Medicine",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR2M3dWVVTnd5cDRZdms0bHczRXR2SHVGdVZ4dVN1OTFfS3FUeU5fNHhlOE5HbjRrS0gwZmNrOVBrMi1lOTUwSl9abnlTVllhWEtSMnRGaXExUkhoVHdBNnJXYy1yWU1KSFczTjBZTmN0NWVWenFxTHJ4YlZLRGlnWHY4b0VCQi1lQU1V?oc=5",
-      "date": "2026-05-07 19:24",
-      "summary": "Chair of Stanford University Board of Trustees Lily Sarafan to speak at the School of Medicine graduation  Stanford Medicine..."
+      "title": "Stanford's David Esquer Reaches 300 Wins with Program - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS0VWaENaVnpPWjVYRXlHb182SXBTQmxOcktKU3hsTUVCQ0JOc3ozUW5nRDJkSm9LZzBvVmJWbFhHZGtoZUVzd0ZMTGNpbzFhQkVIVHl3NFdtV1FIdy1mdXE4N3ZhYnEtci1RdnlEbG9uczB4THdOQW1Bd2k2NFd1dmZ4bkZqN21ka3ljZm0ySEV2WmJPdFM5M2xGalhKNVRGcnNXaFZqWlA5ZG8?oc=5",
+      "date": "2026-05-11 23:10",
+      "summary": "Stanford's David Esquer Reaches 300 Wins with Program  Sports Illustrated..."
     },
     {
-      "title": "Stanford scholar elected to the American Philosophical Society - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZUhGQkFJdEQ2SmJKRHpXS1V5YnM1TFRoanJzdDNNaWhwSjZXUUlWLUo4cW9fTTlQaV9ULVlKeWxHNVp2ejl1RkJNNWwycFQxTzlLaTRHbXd1TUFfUklsb19sOG9ObXZqQUhzWWhKeWNlSUNDM1Iwc2gwNklwUXlaN2hPdjk2d0FoSWtOcWptdkg?oc=5",
-      "date": "2026-05-11 21:21",
-      "summary": "Stanford scholar elected to the American Philosophical Society  Stanford Report..."
-    },
-    {
-      "title": "Landmark Stanford research finds California’s education system lacks coherence - The Mendocino Voice",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORlFialFkQUgyMUVhUW1zdWY4aUNxdmlmQ2VRczFEZmlYaTJzXzFRVG94REk3ZlNMYjVubHdSNVdmQ0JZdnBJdTJmRDJxYlUzbEI2b1FmQmk4NS0xX25pNnBRR0tiUUxGY0JVZi1FaGdIWXVTWTQtMlNZUGdvOUdKWHpZN2hWNTFJblloeVFIcGRTT0VOd3FTWGFHRWtuTktFVFdhTjZWMnVnOGtXUlE?oc=5",
-      "date": "2026-05-11 17:41",
-      "summary": "Landmark Stanford research finds California’s education system lacks coherence  The Mendocino Voice..."
-    },
-    {
-      "title": "Gabriella Safran named as next director of Stanford Global Studies - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjVEYVo0eml5QVFKTWZWdV8xOTNNZ0pEam5mOUtEdmRpQ0lhcjc1YWhHdzF5N0o5VG1UODMwYzBsWFhNbDFYXzZIY1pyV1N2bkhVVDdZSThISk5nTVJPZ2hnU0VOWmR5OE1UVjNuNnk0NDExQnU3MkthX3NqVWg0dW9oaWV3T0dFTHdrOW53b1JUSk1W?oc=5",
-      "date": "2026-05-11 12:00",
-      "summary": "Gabriella Safran named as next director of Stanford Global Studies  Stanford University..."
+      "title": "The Stanford affiliates shaping the Trump administration - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lYnprSXFhM1dKeWxyTXZXUnpCNE55NGNNd1BkaV9JeGowVFdBVzlDbUJiSGdaSjNHekkzS2tSXy16bWgtNVJuckRIakRvYUp1d1BVYWl0bkdpVWg1Z0FlbU02Y29XR294MUxkMmV3eV9aQQ?oc=5",
+      "date": "2026-05-11 08:50",
+      "summary": "The Stanford affiliates shaping the Trump administration  The Stanford Daily..."
     }
   ],
   "Nature Careers": [
@@ -205,12 +205,6 @@
       "summary": "Trading Day: AI beats Iran impasse  Reuters..."
     },
     {
-      "title": "Ex-OpenAI exec Sutskever says he spent a year gathering proof of alleged Altman dishonesty - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejRjVEZaWTlmSWZJQkRSWDhNYkFqNm51UXNxTmNsVjFueEhEeTUwZUpvYkpPYjZLMGR5NGVYblpuZFo1cmJsLTNkVXk4OVFpdmwzS005N0hLWDRuNy1OcXhSVkFHT1FxcXBFa09GV2VqaGkxM3hPb2ltak1YU05jdVc3S2dUOGhMZGRiWHJFcnlGS2FCeEotQ0dPYWpPb2JneFpVSlhtZ181TmdZTEhEUEduU1BtWEs5X1B3?oc=5",
-      "date": "2026-05-11 19:49",
-      "summary": "Ex-OpenAI exec Sutskever says he spent a year gathering proof of alleged Altman dishonesty  Reuters..."
-    },
-    {
       "title": "Alphabet, Amazon tap overseas debt markets to fund AI infrastructure push - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1VEZEpXRmh4OFM3RGgxX1Z1cjBPaHlWMTZqa3lwbklEcXNSN0VnWVowUFZ1ZEp2LUpUTFpLazFuSngtS2pyMHI2Q283Z0NybFdkTTJGNEtxcHEtX1kxTjIzS1hjTVNOUi1GeDVNRnFjVzFXWHJDRmJnMmN0VUJsUGJrdi1LeUUtbVNtdjZjMjRwaW94SlpaS2lSazRqa1dDX1M4SXUtQWk?oc=5",
       "date": "2026-05-11 17:48",
@@ -221,20 +215,26 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmx3aHF5WThIVEpsUnpPNXkxUGZOamt6MTlvMXFhYm5WbUZNUG11V21qb2ZSQkZpSFZNYkRZcDhobGxQeXhlUkpBanY2YXhmMXhFM0otcEd4ZWU5Rl9CSVhLU2lSV0N0cGZYdl9IYjlnOGVFQ3JBZTF3el9EZE1SX0w4azl0ejlXM1V3RnNsTVM0cEE0RzdlR00xVlJoUGZmQ3M5TUlmY0Z6TTlGQmVlZmY4VDV1Nkd4aVgzb29B?oc=5",
       "date": "2026-05-11 20:55",
       "summary": "Hackers pushing innovation in AI-enabled hacking operations, Google says  Reuters..."
+    },
+    {
+      "title": "EU says OpenAI offers to open access to cybersecurity model, Anthropic not there yet - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmMycEVRUGxZV2VUU05oZ0JzMC14Q0JnS2lCZkg1Z1BJSEwzRW52OXVBcFJRdzJLSEYzWGpyQlk5X2x2TC1IalZTdGctLW9RNDdQeHdURG5meFRSU3B3TmVaYTBRTEFuVDlHS3NUMzNiczBSWFlMYmxnYUxiZWJnTF9TZXpOSkZPamZ2bEtsMHN0T3dfdDB4XzQycy1qNmkyd3JfNjVfRl9OVm40U1BDQlp4RGtwVmp2R3o0cloyTzN3OXB6ZHFVdEZRTGk?oc=5",
+      "date": "2026-05-11 17:31",
+      "summary": "EU says OpenAI offers to open access to cybersecurity model, Anthropic not there yet  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "Three things in AI to watch, according to a Nobel-winning economist - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVpMTjNNa1E1eU01WmEyb0lnOU5qYlRETUdyWVFHbzJacHVoR0lVeFQ5NGZNM1A0a3dGX2ZxaENVVTJtT2RWSDlQTDBqTE5NVk96NTN0dWhYb3Vma041cFFzZDR1cWVWYkVrcnQ3TThpdFdXZnl5bEtlMTlBNHY3cGMzUXI1aWNYUWZHTk4yZ0tUb1F4S1E4bC1relo3T1VQRnFncFlSS1FvSnRrbWRPYmZ2M082Ylc3bGo00gHAAUFVX3lxTFBQcDhWUDdTOXJYX0dXVEdBMmVObVlacGNJb0JYcUJCS2wxWkNXbEFFUXdFem9jYzRfUm5NTllaOFRXZ0JiSnhzQ2REQ2Y5UUg3R2lEMGNFcGU2YUlxRmp1ZmdFcVRLWUFtb3N4cE9feG8xUWVvVGluSXpmMXVuMVl3Q3FCU1phcENuMmwxQWVjWURXVk9heXh1cFVOblFmc3JVVmtOcHhMZ2xtbGxCTko4M2w0WDlxSEdHOXpCekllcA?oc=5",
-      "date": "2026-05-11 17:35",
-      "summary": "Three things in AI to watch, according to a Nobel-winning economist  MIT Technology Review..."
-    },
     {
       "title": "Implementing advanced AI technologies in finance - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSm5QY29abThYWHpZVGFmRk5zTlU4N1FNZ2p1bjBmZUc2N0xHdlNOTmF0NDVZZFZDYzlqUEM3N1JhTDhFakcyTGkzRE1tYWFQd3o5dkxZc3doa0Q4Y0JVS2FtZmZoOUdqODhFQVpOQkExXzVQam54R2pNVHB1TTVxYVZoam0tRFRQWEJTcHkzQWF0SlBDcm5HWXo0QWVZUEtVcmVr0gGoAUFVX3lxTE85M3pkLXd5YVp1eDdXeldQcG4xODV2TldqY0VIOWxVSWV5enJqQ3ZQemI2clFTR0UydThOdmdCazFjSkdxdlUtaHpHNGt4U2tKdzFDNlhycHpzR25ILThUYTBJSk9Xci1Kb050T2tsMGkzMW40T1RlME1ieFhMc01zVHEyYWQtOEQ4NlRzUmRhV1hYUEJBNzh5UHRvQVZNT3Z2YmlIb3lVbQ?oc=5",
       "date": "2026-05-11 13:00",
       "summary": "Implementing advanced AI technologies in finance  MIT Technology Review..."
+    },
+    {
+      "title": "Three things in AI to watch, according to a Nobel-winning economist - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVpMTjNNa1E1eU01WmEyb0lnOU5qYlRETUdyWVFHbzJacHVoR0lVeFQ5NGZNM1A0a3dGX2ZxaENVVTJtT2RWSDlQTDBqTE5NVk96NTN0dWhYb3Vma041cFFzZDR1cWVWYkVrcnQ3TThpdFdXZnl5bEtlMTlBNHY3cGMzUXI1aWNYUWZHTk4yZ0tUb1F4S1E4bC1relo3T1VQRnFncFlSS1FvSnRrbWRPYmZ2M082Ylc3bGo00gHAAUFVX3lxTFBQcDhWUDdTOXJYX0dXVEdBMmVObVlacGNJb0JYcUJCS2wxWkNXbEFFUXdFem9jYzRfUm5NTllaOFRXZ0JiSnhzQ2REQ2Y5UUg3R2lEMGNFcGU2YUlxRmp1ZmdFcVRLWUFtb3N4cE9feG8xUWVvVGluSXpmMXVuMVl3Q3FCU1phcENuMmwxQWVjWURXVk9heXh1cFVOblFmc3JVVmtOcHhMZ2xtbGxCTko4M2w0WDlxSEdHOXpCekllcA?oc=5",
+      "date": "2026-05-11 17:35",
+      "summary": "Three things in AI to watch, according to a Nobel-winning economist  MIT Technology Review..."
     },
     {
       "title": "Fostering breakthrough AI innovation through customer-back engineering - MIT Technology Review",
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "New tectonic plate boundary could be forming in Zambia, scientists say",
+      "link": "https://phys.org/news/2026-05-tectonic-plate-boundary-zambia-scientists.html",
+      "date": "2026-05-12 04:00",
+      "summary": "Isotope analysis of gas from geothermal springs in Zambia could show that a new continental rift is forming, scientists say. Unexp..."
+    },
+    {
+      "title": "New model finds the lower size limit for habitable exoplanets",
+      "link": "https://phys.org/news/2026-05-size-limit-habitable-exoplanets.html",
+      "date": "2026-05-12 03:40",
+      "summary": "The search for Earth 2.0 has begun in earnest. But there's a huge variety of exoplanets out there, so narrowing down the search to..."
+    },
+    {
       "title": "Birds of prey in South Africa are in trouble—a study analyzes data from 16 years of road counts",
       "link": "https://phys.org/news/2026-05-birds-prey-south-africa-years.html",
       "date": "2026-05-12 03:20",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-05-generative-ai-significantly-animal.html",
       "date": "2026-05-12 01:40",
       "summary": "In early phases of drug development, new active substances are tested in animals—alongside numerous other experimental methods. Re..."
-    },
-    {
-      "title": "Scurvy's skeletal fingerprint found in California's Late Holocene archaeological sites",
-      "link": "https://phys.org/news/2026-05-scurvy-skeletal-fingerprint-california-late.html",
-      "date": "2026-05-12 01:20",
-      "summary": "A recent study published in the International Journal of Osteoarchaeology documented skeletal changes linked to scurvy in Late Hol..."
-    },
-    {
-      "title": "Chip-scale photonic approach achieves ultralow-noise microwave and millimeter-wave signal generation",
-      "link": "https://phys.org/news/2026-05-chip-scale-photonic-approach-ultralow.html",
-      "date": "2026-05-12 00:40",
-      "summary": "Researchers led by Dr. Changmin Ahn and Prof. Jungwon Kim at KAIST, in collaboration with Prof. Hansuek Lee, have demonstrated a c..."
     }
   ],
   "The Guardian Edu": [
@@ -321,34 +321,66 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Over 72,000 Hongkongers hit as HKUST, PolyU among institutions in global Canvas hack",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3353233/over-72000-hongkongers-hit-hkust-polyu-among-institutions-global-canvas-hack?utm_source=rss_feed",
+      "date": "2026-05-12 06:11",
+      "summary": "A global data leak involving learning platform Canvas has exposed the personal information of more than 72,000 students and staff ..."
+    },
+    {
+      "title": "Community service for pair in their 60s who had sex at Hong Kong pier",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3353229/community-service-pair-their-60s-who-had-sex-hong-kong-pier?utm_source=rss_feed",
+      "date": "2026-05-12 05:58",
+      "summary": "A woman and a man have been sentenced to community service by a Hong Kong court for committing sexual acts in the open at an outly..."
+    },
+    {
+      "title": "Hong Kong couple who took children storm chasing during typhoon spared criminal sentence",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3353219/bind-over-hong-kong-couple-who-took-children-storm-chasing-during-typhoon-ragasa?utm_source=rss_feed",
+      "date": "2026-05-12 03:57",
+      "summary": "A Hong Kong couple have been spared a criminal conviction for storm chasing with their children during Super Typhoon Ragasa last y..."
+    },
+    {
       "title": "10 injured in truck-bus crash outside Hong Kong shopping centre",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3353207/10-injured-truck-bus-crash-outside-hong-kong-shopping-centre?utm_source=rss_feed",
       "date": "2026-05-12 01:16",
       "summary": "Ten people have been injured in a crash involving a truck and a bus outside a shopping centre in Hong Kong’s Kwun Tong.\nPolice sai..."
     },
     {
-      "title": "How many ride-hailing permits should Hong Kong allow? That depends on who you ask",
+      "title": "How many ride-hailing permits should Hong Kong allow? It depends on who you ask",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3353204/how-many-ride-hailing-permits-should-hong-kong-allow-depends-who-you-ask?utm_source=rss_feed",
       "date": "2026-05-12 00:30",
-      "summary": "Hong Kong taxi trade leaders and Uber have both expressed concerns over a looming quota for ride-hailing vehicles, despite transpo..."
+      "summary": "Hong Kong taxi industry leaders and Uber have both voiced concerns over a looming quota for ride-hailing vehicles, even as transpo..."
+    }
+  ],
+  "New Scientist": [
+    {
+      "title": "Can floating data centres meet AI's huge energy demand?",
+      "link": "https://www.newscientist.com/article/2526029-can-floating-data-centres-meet-ais-huge-energy-demand/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-11 18:00",
+      "summary": "A US start-up is putting autonomous data centres in the ocean, powered by wave energy, but experts warn that the harsh environment..."
     },
     {
-      "title": "‘Art of the deal’: UK telecoms exit fits Li family’s trademark timing for selling at top",
-      "link": "https://www.scmp.com/business/banking-finance/article/3353185/art-deal-uk-telecoms-exit-fits-li-familys-trademark-timing-selling-top?utm_source=rss_feed",
-      "date": "2026-05-11 23:00",
-      "summary": "CK Hutchison Holdings’ shares climbed to their highest level since 2020 after the conglomerate announced plans to exit the UK mobi..."
+      "title": "Huge study of ancient British DNA reveals only minor Roman influence",
+      "link": "https://www.newscientist.com/article/2525923-huge-study-of-ancient-british-dna-reveals-only-minor-roman-influence/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-11 12:00",
+      "summary": "Genetic analysis of 1039 people buried in Britain between the Bronze Age and the Norman conquest highlights the impact of the Roma..."
     },
     {
-      "title": "Hong Kong braces for typhoon season with 50,000 sandbags, flood barriers",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3353182/hong-kong-braces-typhoon-season-50000-sandbags-flood-barriers?utm_source=rss_feed",
-      "date": "2026-05-11 13:55",
-      "summary": "Hong Kong authorities have prepared 50,000 sandbags and several sets of water-filled flood barriers to brace for the coming typhoo..."
+      "title": "Tiny 'metajets' could use light to steer sails for interstellar travel",
+      "link": "https://www.newscientist.com/article/2525802-tiny-metajets-could-use-light-to-steer-sails-for-interstellar-travel/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-10 07:00",
+      "summary": "Minuscule silicon wafers propelled by lasers could be used to steer light sails, helping them travel beyond the solar system..."
     },
     {
-      "title": "No hotpot: Hong Kong dog-friendly restaurants face menu and layout limits",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3353178/no-hotpot-hong-kong-dog-friendly-restaurants-face-menu-and-layout-limits?utm_source=rss_feed",
-      "date": "2026-05-11 12:54",
-      "summary": "Hong Kong restaurants applying for a licence that allows dogs will have to remove any hotpot from their menus and change their lay..."
+      "title": "There has been a sudden increase in the rate of sea level rise",
+      "link": "https://www.newscientist.com/article/2525773-there-has-been-a-sudden-increase-in-the-rate-of-sea-level-rise/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-08 14:08",
+      "summary": "Satellite measurements show that in the early 2010s sea level rise suddenly accelerated to a rate of 4.1 millimetres per year, pos..."
+    },
+    {
+      "title": "A vast dam across the Bering Strait could stop the AMOC collapsing",
+      "link": "https://www.newscientist.com/article/2525888-a-vast-dam-across-the-bering-strait-could-stop-the-amoc-collapsing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-09 07:00",
+      "summary": "If a key ocean current collapses it could plunge northern Europe into a big freeze. Now researchers are weighing up a drastic inte..."
     }
   ]
 }
