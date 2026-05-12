@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "Virologist accused of starting COVID-19 will fight U.S. ban on funding",
+      "link": "https://www.science.org/content/article/virologist-accused-starting-covid-19-will-fight-u-s-ban-funding",
+      "date": "2026-05-12 06:35",
+      "summary": "HHS memo says Ralph Baric had a “pattern of deception” in describing virus studies long before pandemic..."
+    },
+    {
       "title": "Most dementia patients have multiple brain diseases. How should they be treated?",
       "link": "https://www.science.org/content/article/most-dementia-patients-have-multiple-brain-diseases-how-should-they-be-treated",
       "date": "2026-05-12 05:05",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/democratic-lawmakers-demand-trump-explain-and-reverse-termination-nsf-s-governing-board",
       "date": "2026-05-12 12:00",
       "summary": "Letters from Senate and House of Representatives question purge of the National Science Board..."
-    },
-    {
-      "title": "Scientists ID ‘corkscrew killer’ behind gruesome seal deaths",
-      "link": "https://www.science.org/content/article/scientists-id-corkscrew-killer-behind-gruesome-seal-deaths",
-      "date": "2026-05-11 09:30",
-      "summary": "Bizarre injuries were not caused by sharks or boat propellers, but a more surprising culprit..."
     }
   ],
   "Retraction Watch": [
@@ -193,6 +193,12 @@
   ],
   "Reuters AI": [
     {
+      "title": "Investors say they want Trump and Xi to stay out of AI's way - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObFB6YVhTbkxmMkJ3c01WSUx6cTMzcFlRQnlIZlFrbWlrRm9TM3hHR3dveWduRkQzbTY3eFNEN1Jmb3NjV3RBUDE3S281ZjAweVdVZG9HYW9FRzBHdm41OUVXU3VOWlZBa1ZENUFjTldhNURYTUhGWHE0YWNRazM3YTFUaUxGTUhKRHdjd1FLbjE3VnQySF9CZlJtYWszdw?oc=5",
+      "date": "2026-05-12 13:54",
+      "summary": "Investors say they want Trump and Xi to stay out of AI's way  Reuters..."
+    },
+    {
       "title": "OpenAI creates new unit with $4 billion investment to aid corporate AI push - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzBVZGx1c2JvQTRJeWZ2d1FPQU1GTnhSaEZONVV0YmpaRnI4WE50Q25udWxlNC1LbVR0ZkJnTzJYM0dRekdNZWVVempHSEZJT1ZTS1Q3bDI0NHJRdW5lOURaUmNPX0UtQVNnUXNyQUhXQnhvd1lYT1JZdXl5dWtiNk9CblcxV1FHQmdoSGpiekJjX3kwSlZSeHVOcE93ZHY1VU92bldWRTZqb2NKck1yUlRqWjkzRk0?oc=5",
       "date": "2026-05-11 13:59",
@@ -215,12 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5",
       "date": "2026-05-12 19:48",
       "summary": "Anthropic expands Claude's AI tools for law firms, lawyers  Reuters..."
-    },
-    {
-      "title": "Google-backed Isomorphic raises $2.1 billion to scale AI-driven drug discovery - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVGRLQTBxRHVVMUNsX05aYmd5akMtUmhuVzcxN0lEbF9yLW5CNmtSVFZVT2pCWDV5bS1zM3BobDd3dVU3cXJSdjhyTkZSWW1fNGpKYlhReFg3M3I3Zy14VE9WMWpnNDQ4QWt3Q0h0enZOcUNuX01HTVNrRkFZTlNTVUlqLWczZUlMbnBhWDRJY3drN3BuVDlQMm5tUEJuNTZwRTNsWk1mZlhqdTdwcXJ1eVYzQU9QUENMVGJrS0hSLW1IYjRy?oc=5",
-      "date": "2026-05-12 16:23",
-      "summary": "Google-backed Isomorphic raises $2.1 billion to scale AI-driven drug discovery  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,48 +243,48 @@
       "summary": "Three things in AI to watch, according to a Nobel-winning economist  MIT Technology Review..."
     },
     {
-      "title": "What’s next for IVF - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVC1uVElkNnIxUVBnQU9nQWpIZnNsd19yTDgwTkpQZ2lvZHl6WDdsd0RxSkR4MGw0TGJ4RzRUQmlLclppdVQyVFFoekQ3R1lZMjRBc1RNVWFkemhxcHNiRGliMVlrR1VlTGtNcVN3UGlwMzg2cldNRU5iUzVJX1lNOWxsbG0xSEVDNzVlTWhhZmZLMnNLa0RoWDcyRWY3QdIBowFBVV95cUxNUVFtSkxLeUJkOV9WVjFLUG9XWkV2MHZndExWbnVSRlRfcDhLOUQ4VHZIc0hCSEVQNDZQbC11TC1pTXZ0OElqNTFDWWVacXBNTXhfOVo5RUg5a0JzbHZTM3A3RHFLQUR0VlJ0VWd3NTl6cXZCb1F4a2VBcEZRUVRpSy0tYzBNd1NxM2Q1bEZfN2x1bklLWXVpQ0p0V2haTklTQTQw?oc=5",
-      "date": "2026-05-07 09:04",
-      "summary": "What’s next for IVF  MIT Technology Review..."
-    },
-    {
       "title": "Fostering breakthrough AI innovation through customer-back engineering - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNemU3WmZhdEQ5TlBGejBHeWlqSmlDTjd0dFpRUGR2bnladlNaZDZxRUxLLVhiaElPTWR4aWZBRzN2U1c3VTJVbU42ZGZCb1A1LS1va013aG1VeUlwZFRHZE9mNE1LVTkzcWJtRG5LSTBSNmdXNThIZGNrSkxTUjVkUkxDNzlBbVJ2T05kbzh4dWRZVVFDcjdJU21EZXUwQTFyZ0hnbGhaS3lwRWhNSDJKeVl2Zzh2OFJkb3cxRmxReU7SAcYBQVVfeXFMUHlORkMycUt2OXZ0ZHhMZ0lITDdlZ1hOcmxzcXh1VVk5b2NLV2trdW5FMmRHWW5sY1hqdWZjVnVjSlpPZHVpM0RuUGFfd19wVWNNLTlfdmdPUl94NENkcTFsaFRmMS1HZmNhLVduUG9mMFBuTmxBZlptY2hEclNxSzVWemJtbU5fWmY1TzhCT1ZQa2o1aDFJX0VsVnVvcEJDc1IxMG0wZXVpVUU5MXAyaHFYZzU0aUNMSklLSEh4V0NzMUtOMG93?oc=5",
       "date": "2026-05-11 13:33",
       "summary": "Fostering breakthrough AI innovation through customer-back engineering  MIT Technology Review..."
+    },
+    {
+      "title": "The balcony solar boom is coming to the US - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JcUZnRjVteVF1V01tTFBtcjBDY1JrcE5aU0VfanVxbWMxSExSbENxY2hHTkdQQ0tOdzBDcGhCQVlwQUd3ZDdmQjlFc0xZQ3Njb1dwSEk0Y01mcFRXUExWTERWamFFQ3R0cjJMRDRMNUVDUzlFaVdFSjNaQdIBgAFBVV95cUxNM1FaeDJLWVFkbWI5RWxwbnBkc2JvZnk3WE5OWEVKeU1sMmE0NnBRazRfX0l5dm5TYW1ETGhqeWlmSkFGV1BleVVPVjYwUko4UzNta1d3MHhFSXVrTGVNZ3UyTld5X1g1ZW4wR2JYRXJibEM1U2JtR0VvLXdQWnZ2Uw?oc=5",
+      "date": "2026-05-07 10:00",
+      "summary": "The balcony solar boom is coming to the US  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "The fog is alive: Droplets host bacteria that clear toxins from our air",
-      "link": "https://phys.org/news/2026-05-fog-alive-droplets-host-bacteria.html",
-      "date": "2026-05-12 21:10",
-      "summary": "What if fog isn't just misty air, but a living ecosystem? This question hung over cloud researcher Thi Thuong Thuong Cao. As a Ph...."
+      "title": "How temperature changes light: New model could guide smarter LEDs, sensors and photonic devices",
+      "link": "https://phys.org/news/2026-05-temperature-smarter-sensors-photonic-devices.html",
+      "date": "2026-05-12 22:40",
+      "summary": "Technion researchers have developed, for the first time, a comprehensive physical model explaining how the properties of a radiati..."
     },
     {
-      "title": "TIME instrument unlocks faint signals from early galaxies across vast stretches of sky",
-      "link": "https://phys.org/news/2026-05-instrument-faint-early-galaxies-vast.html",
-      "date": "2026-05-12 21:00",
-      "summary": "Cornell astronomers are deploying a new instrument that grants them, for the first time, a better view of the universe's earliest ..."
+      "title": "Study uses microphones to eavesdrop on the secret lives of birds",
+      "link": "https://phys.org/news/2026-05-microphones-eavesdrop-secret-birds.html",
+      "date": "2026-05-12 22:40",
+      "summary": "Scientists have discovered that they can eavesdrop on the secret lives of birds using networks of inexpensive microphones, reveali..."
     },
     {
-      "title": "Authors of book about classroom AI say loss of foundational knowledge is biggest threat",
-      "link": "https://phys.org/news/2026-05-authors-classroom-ai-loss-foundational.html",
-      "date": "2026-05-12 21:00",
-      "summary": "Educators should teach students how to use AI tools but with an emphasis on the ethics, social impact, and potential biases of the..."
+      "title": "Swapping molecular building blocks one by one reveals how receptors tell adrenaline from dopamine",
+      "link": "https://phys.org/news/2026-05-swapping-molecular-blocks-reveals-receptors.html",
+      "date": "2026-05-12 22:20",
+      "summary": "Different receptors respond to different neurotransmitters or hormones, such as adrenaline involved in the fight-or-flight respons..."
     },
     {
-      "title": "Scientists dispute hypothesis that climate change will unleash massive agricultural pest populations",
-      "link": "https://phys.org/news/2026-05-scientists-dispute-hypothesis-climate-unleash.html",
-      "date": "2026-05-12 20:50",
-      "summary": "The widespread hypothesis that climate warming will result in unprecedented agricultural pest populations and cause food insecurit..."
+      "title": "One graph attempts to connect every object in the universe",
+      "link": "https://phys.org/news/2026-05-graph-universe.html",
+      "date": "2026-05-12 22:20",
+      "summary": "If you've ever taken an introductory astronomy class, you've probably seen the Hertzsprung-Russell (HR) diagram. This graph maps o..."
     },
     {
-      "title": "Western Australia is edging toward desertification",
-      "link": "https://phys.org/news/2026-05-western-australia-edging-desertification.html",
-      "date": "2026-05-12 20:40",
-      "summary": "Australia is the driest inhabited continent on Earth. Somehow, it feels like it's getting hotter and drier every day...."
+      "title": "Soil food webs grow more varied in farmland and tropics, global analysis reveals",
+      "link": "https://phys.org/news/2026-05-soil-food-webs-varied-farmland.html",
+      "date": "2026-05-12 22:00",
+      "summary": "Soils are home to some of the most diverse animal communities on Earth. These animals—including nematodes, springtails, mites, ear..."
     }
   ],
   "The Guardian Edu": [
@@ -349,38 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/politics/article/3353308/china-backs-hong-kong-courts-spurns-calls-free-jimmy-lai-ahead-trump-visit?utm_source=rss_feed",
       "date": "2026-05-12 13:06",
       "summary": "China’s Ministry of Foreign Affairs has reaffirmed its “firm support” for Hong Kong’s judicial authorities when asked whether Beij..."
-    }
-  ],
-  "New Scientist": [
-    {
-      "title": "Carbon credits are flawed, but they can still help save forests",
-      "link": "https://www.newscientist.com/article/2525921-carbon-credits-are-flawed-but-they-can-still-help-save-forests/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-12 12:00",
-      "summary": "Carbon credits bought by companies to offset their emissions really have reduced deforestation, but not by as much as credit devel..."
-    },
-    {
-      "title": "A new tectonic plate boundary could be forming in southern Africa",
-      "link": "https://www.newscientist.com/article/2526136-a-new-tectonic-plate-boundary-could-be-forming-in-southern-africa/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-12 05:00",
-      "summary": "Gases collected from boiling mineral springs in Zambia contain the chemical signature of having come directly from the Earth’s man..."
-    },
-    {
-      "title": "Can floating data centres meet AI's huge energy demand?",
-      "link": "https://www.newscientist.com/article/2526029-can-floating-data-centres-meet-ais-huge-energy-demand/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-11 18:00",
-      "summary": "A US start-up is putting autonomous data centres in the ocean, powered by wave energy, but experts warn that the harsh environment..."
-    },
-    {
-      "title": "Huge study of ancient British DNA reveals only minor Roman influence",
-      "link": "https://www.newscientist.com/article/2525923-huge-study-of-ancient-british-dna-reveals-only-minor-roman-influence/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-11 12:00",
-      "summary": "Genetic analysis of 1039 people buried in Britain between the Bronze Age and the Norman conquest highlights the impact of the Roma..."
-    },
-    {
-      "title": "Tiny 'metajets' could use light to steer sails for interstellar travel",
-      "link": "https://www.newscientist.com/article/2525802-tiny-metajets-could-use-light-to-steer-sails-for-interstellar-travel/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-10 07:00",
-      "summary": "Minuscule silicon wafers propelled by lasers could be used to steer light sails, helping them travel beyond the solar system..."
     }
   ]
 }
