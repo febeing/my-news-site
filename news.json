@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT chemists discover and isolate a new boron-oxygen molecule",
+      "link": "https://news.mit.edu/2026/mit-chemists-discover-isolate-boron-oxygen-molecule-0513",
+      "date": "2026-05-13 18:25",
+      "summary": "The discovery of dioxaborirane could expand the chemistry of boron-based reagents, providing new tools for oxidation reactions in ..."
+    },
+    {
       "title": "Researchers “reprogram” materials by quickly rearranging their atoms",
       "link": "https://news.mit.edu/2026/researchers-reprogram-materials-quickly-rearranging-their-atoms-0513",
       "date": "2026-05-13 15:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/powerful-shrinking-technique-could-enable-devices-compute-light-0512",
       "date": "2026-05-12 09:00",
       "summary": "MIT researchers created tiny 3D photonic devices with features small enough to channel visible light...."
-    },
-    {
-      "title": "Improving the reliability of circuits for quantum computers",
-      "link": "https://news.mit.edu/2026/improving-circuit-reliability-quantum-computers-0512",
-      "date": "2026-05-12 09:00",
-      "summary": "A new technique helps scientists measure a phenomenon that can cause quantum circuits to perform differently than expected, increa..."
     }
   ],
   "Harvard Gazette": [
@@ -77,6 +77,12 @@
       "summary": "Researchers Worldwide Compete to Shape the Future of AI in Organizations  Stanford HAI..."
     },
     {
+      "title": "Knights give $90 million to Stanford for brain research - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQekJSWTBNNUZMTVFFTmoxRm12VlZYeVRDUVRYenNEWG94LVpFU3V3MXM4VHpkTUV5d05NUV9EbVlsTWxaSGNtRkktZXdFOTJaTTVNVFBwSkt1TE5DRVU3X1ZuTkJjV1pVcjY3RGdNT1ZyMlNSVVNzMzJla0J4UjAxZW54RC1LZTk1ZWwzQzhFRHQtWUFXcEpLcHl4bzJZN0JmUHFGWVlB0gG6AUFVX3lxTFA0WWhYTloxSy1xQkNFdlZqcXFyVmU0dkV5ZWVqU0syQ0RSZEZxcXVLQlFwYlVSQ1RfTWhDY3Z1bmtSUkZNYlN3dkRnc3lzNmNTWXF4UVdhc3o2Tk03Z3hWcUxlWUF2VHRLU1NJZFJJWFgyeWktYV9DaXlZaWZnUjNDOEhaWDIwalM1SnljOWJiWTdSMDg2RTNTaUx1X3lsa0VKSHZiUnpUczl1WmV3SkVlUEQ3NTJrT1J1Zw?oc=5",
+      "date": "2026-05-13 18:09",
+      "summary": "Knights give $90 million to Stanford for brain research  OregonLive.com..."
+    },
+    {
       "title": "Musical legends who played the Farm - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQend4bTVjUTV2UGZxRXVuOGgwSmk3VkQtX0szb09rRWR6bFl6dncxbmhPS0dwRFU3b2d2S044M0NKMFpLVTFDSG04bXRZN0RxRzZNV1Z2V2JKMlNjRW9EQ3pJZEVJU2NIaXJIVUIycU1UUURMRTlQNEZkNUt1LW03Vk5ZYTFMYUNYM3M4MVpOci0?oc=5",
       "date": "2026-05-12 20:20",
@@ -87,44 +93,38 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FUEVscWY4c2RyeFVNbFo5VXQ5VUU1aElXWjZ2c25jdkhqQVVaWDFBNmk0SFBvVGtUUGlUbWZlZ0trcjRxaTR3cTczVHNrWVNtU2EzMHV6SWpyd0RyTm9yamc5ZVhKcjRiYjM2ZjY2T1VYZlJS?oc=5",
       "date": "2026-05-12 23:10",
       "summary": "Stanford Live’s new season celebrates past, present, and future  Stanford Report..."
-    },
-    {
-      "title": "China Scholars Program Accepting Applications for Fall 2026 - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ3JLSUktUERkem00VE5rSjhRTlUwOFlOcG5ZdmNjYmNRR0tpNGg0a1o1VkFONnpLUUdWSlJJN2RWd051NE9ORWp0Slpac2VpRjVVTzVydHZKeW1OOFMyaGRFc0RvbTNITFdSVGxUUGJOeEs5cW0zNWFPUUV6bjBkRFltMk1BRTI3T1M3cm5GWXBCMTB2Nmc?oc=5",
-      "date": "2026-05-12 12:00",
-      "summary": "China Scholars Program Accepting Applications for Fall 2026  Stanford University..."
     }
   ],
   "Nature Careers": [
     {
-      "title": "Can AI tools assess coding assignments?",
-      "link": "https://www.nature.com/articles/d41586-026-01139-x",
+      "title": "Stereoelectronic manipulation of ligands for perovskite solar cells",
+      "link": "https://www.nature.com/articles/s41586-026-10626-0",
       "date": "2026-05-13 00:00",
-      "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01139-xYulu Hou and her partner experimented with using ChatGPT to a..."
+      "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10626-0Stereoelectronic manipulation of ligands for perovskite solar..."
     },
     {
-      "title": "AI can design viruses, toxins and other bioweapons. How worried should we be?",
-      "link": "https://www.nature.com/articles/d41586-026-01476-x",
+      "title": "The hunt for the next antibiotics",
+      "link": "https://www.nature.com/articles/d41586-026-01424-9",
       "date": "2026-05-13 00:00",
-      "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01476-xScientists are debating whether to limit biological AI softwa..."
+      "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01424-9To battle antibiotic resistance, researchers are leaving no s..."
     },
     {
-      "title": "The futile beauty of flightless birds",
-      "link": "https://www.nature.com/articles/d41586-026-01081-y",
+      "title": "An ultra-faint, chemically primitive galaxy forming in the reionization era",
+      "link": "https://www.nature.com/articles/s41586-026-10374-1",
       "date": "2026-05-13 00:00",
-      "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01081-yNavigating by the stars...."
+      "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10374-1LAP1-B—an ultra-faint and tiny galaxy that formed in the reio..."
     },
     {
-      "title": "Author Correction: Predictive coding of reward in the hippocampus",
-      "link": "https://www.nature.com/articles/s41586-026-10615-3",
-      "date": "2026-05-12 00:00",
-      "summary": "Nature, Published online: 12 May 2026; doi:10.1038/s41586-026-10615-3Author Correction: Predictive coding of reward in the hippoca..."
+      "title": "More concentrated precipitation decreases terrestrial water storage",
+      "link": "https://www.nature.com/articles/s41586-026-10487-7",
+      "date": "2026-05-13 00:00",
+      "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10487-7Concentration of precipitation in large events decreases land..."
     },
     {
-      "title": "Author Correction: A mechanical ratchet drives unilateral cytokinesis",
-      "link": "https://www.nature.com/articles/s41586-026-10618-0",
-      "date": "2026-05-12 00:00",
-      "summary": "Nature, Published online: 12 May 2026; doi:10.1038/s41586-026-10618-0Author Correction: A mechanical ratchet drives unilateral cyt..."
+      "title": "Efficient robot navigation inspired by honeybee learning flights",
+      "link": "https://www.nature.com/articles/s41586-026-10461-3",
+      "date": "2026-05-13 00:00",
+      "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10461-3A highly efficient navigation strategy taking inspiration fro..."
     }
   ],
   "Science News": [
@@ -195,26 +195,26 @@
     {
       "title": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5",
-      "date": "2026-05-12 19:48",
+      "date": "2026-05-12 17:02",
       "summary": "Anthropic expands Claude's AI tools for law firms, lawyers  Reuters..."
     },
     {
-      "title": "OpenAI gives European companies access to its latest models to bolster resilience - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ1haZU5WMkFTcXJ2QW5iS24ydEZMYkNMN3owRmE0UVRkQWpoWW53b1JlbXVGdTdSOWt2bjhQcFpDNGlNOER5NElsSmE1bGlzandNcEpmcmlZUWJRa3lEZFBwX1l3MDR5cWJYNF9EbWhuc2FsVmF6N2xlbG4xSC0wQ0R3eXBaVFRWbHVRRWZyOV9YdUE0Uml2ZHUxSGZ2d3QwdnYwQ2s1RnZ3LVN0Qk8xaXRWanNEendGQ1Z0akFKUjNYZVdNM2s3WTVWZmlPV2N4UkNOVUtlWUtyZ1RPQnAwOEZDanNrUQ?oc=5",
-      "date": "2026-05-12 14:50",
-      "summary": "OpenAI gives European companies access to its latest models to bolster resilience  Reuters..."
+      "title": "Investors say they want Trump and Xi to stay out of AI's way - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObFB6YVhTbkxmMkJ3c01WSUx6cTMzcFlRQnlIZlFrbWlrRm9TM3hHR3dveWduRkQzbTY3eFNEN1Jmb3NjV3RBUDE3S281ZjAweVdVZG9HYW9FRzBHdm41OUVXU3VOWlZBa1ZENUFjTldhNURYTUhGWHE0YWNRazM3YTFUaUxGTUhKRHdjd1FLbjE3VnQySF9CZlJtYWszdw?oc=5",
+      "date": "2026-05-12 21:43",
+      "summary": "Investors say they want Trump and Xi to stay out of AI's way  Reuters..."
     },
     {
-      "title": "Thomson Reuters boss says AI licensing deals only involve archive text - Press Gazette",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkVma2JDRWUwS1ZrNm9zVWpGRkhKb0loc0pQVGptZ3RTamQzWVFrTE9TMjhUTjlGaGhDajhYOHEtbnNMbE5Sc1BpSGgtai11UnRrUExtTzJJUlNUR18tRGt2M285M3B2X0ZQLXk1X1ZmLTA2OXZ0ZDNuT3c5YmlJLV9PMjE5djBWQ2oxTzJsSWo1d1VYV2JXNFVGbjd6U1lJYXV6b1Y3SnJDVlRZOVRGXzM3cEU2Wi1XUFJsQ3ZZNHBwbkJSZzc0?oc=5",
-      "date": "2026-05-12 08:59",
-      "summary": "Thomson Reuters boss says AI licensing deals only involve archive text  Press Gazette..."
+      "title": "AI cloud firm Nebius reports near eightfold revenue surge, shares jump - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVVdNeS11cTNCNHpEbWVQbFlIWDVzdlVLZDFiRW15VzlwRnNiLWFOLTJERHJzcS1ZQkQ3SUU5Wk5FYkR2T1JnRnJFN3FGT3NQZzkwM1dKS3pPWjRwQ0duUFJ2TXFoVFAzMDNldGJMRHJ6S3pkMUVQNXp3MmZlSjAtMENOcXQxNEt2RlR3ZG5NaDJGbHB3OVZ1Y19qQTZwNHJKeElZU1Vn?oc=5",
+      "date": "2026-05-13 13:42",
+      "summary": "AI cloud firm Nebius reports near eightfold revenue surge, shares jump  Reuters..."
     },
     {
-      "title": "Tech rivalry, distrust sap summit hopes for Trump-Xi AI push - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUJtM1JTcTFZOC11QVp1OU83REJBV2FzMzZTRVZSSk9Ia3JfSTlSY3lVVklWYzE4ZlVLQkMxR3AzMTFVeFc0SEhTOFlzbjRaNjluWWlsMnFpbUprNnEwYVQ0QWwzanRHbXlmeXQ1OGJSWGgwMU1FMWxOeFBOa3BoSzNpYkFaWkl3NnJEWk1Id0ZUbmRFVGJDOTJjbmhOS1MwXzFsY3R3?oc=5",
-      "date": "2026-05-13 07:40",
-      "summary": "Tech rivalry, distrust sap summit hopes for Trump-Xi AI push  Reuters..."
+      "title": "Meta to launch 'Incognito Chat' for private AI conversations on WhatsApp - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkQzSW82LXkwRFlGc25qSFl6bzA5MXJZN2xiX1UwRmJ1cHRSYndHM19tUUktMjl5Vm1JQ1czeEZOWmxOZnJ0R1BZNXpaMFZ0ZFpwckM4Qnhsd0htZ1g5eHFyOE45M0RGMHhCcjItWndVYzBRSkp3Y29Cd2ZaRm8xblZoMWtBRUxyVnMwMno1Z2l5Q0E1ZmplLUxLMlkzZks3RERvdkpZMU5SNTJZNW1XTkdlRQ?oc=5",
+      "date": "2026-05-13 14:20",
+      "summary": "Meta to launch 'Incognito Chat' for private AI conversations on WhatsApp  Reuters..."
     },
     {
       "title": "Alibaba's AI spending to exceed goals on signs of payoff, says margin 'secondary' - Reuters",
@@ -227,8 +227,14 @@
     {
       "title": "A plan to make drugs in orbit is going commercial - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkhZRUhKbFZmM3pQWms0SkF4WlhuMlEtUkQ0eE05Tlh3VU5UNHM1VEo4bjVTQVlJemxoZ3VRMGZfZ0ZvRmJXU0xEZS0xd25sd2VBTEpPem5PTnZvYWRGYk91S25HRnhGRHBzMjZrTkZZajhsekhiZVAzTWpyMjUtWWpONlJycVNrcXdqNmJkMEwwWnY1SU5iR3d1OXpjdHRaMzJlUXk0LS0yd9IBrwFBVV95cUxNUlk5d2MyT1U2VmN1aF9sLW9jNVIyRzFuVjROaWVnX21wS0RERmZ3ZEhmazFwMzVvYXRJQ1hHaDVMUEwzb3hKUmlMaS1QUUJCS2JXM3Z2UU0wTHRJZ1Z5bnU4STUtMnoxaEg5RnZfUURqQVNzYkZ1eHNic3BhdHdUNEVJUWpfTi1uVFVvc0IxQWowWVhRdTZzM0dvWkpCaV9UNWZqeEx3ZExNVnN2X0w4?oc=5",
-      "date": "2026-05-13 14:53",
+      "date": "2026-05-13 10:00",
       "summary": "A plan to make drugs in orbit is going commercial  MIT Technology Review..."
+    },
+    {
+      "title": "AI chatbots are giving out people’s real phone numbers - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJYU2ZXb2RNSXM4UkhOZzFrNTVEYU50WHlRVlp5T1cyNXFoUXBoNl9XX0ZXTWNsZjAyWTNSRF9YQnJ5UUxCR19HeTFpdGxCNVNiZFQzdHpwVUU2SFVXeHUxd0UwM0ZfeGpwYzZxUEtONHREX0dhLUVydmd2SVdBVVoyOGFhR0Y1akxXdjZ3UENJUF9CMHRzM21EX2RKajRqTmhVRTZGck9kUdIBrwFBVV95cUxNd0pHWnh4aEU3elVyWDBocEtIR2lJMDJONUJoU2kxeV92cEY3dGREVlVCWURuOEdzZVFSNXpVSW15alBveFhpQU5FTXZveFFhc2dJXzZkaGRzUzhoMnhGZldWa3ZJdkRLTE1mZnJLM000UE0tNmJ3bmQwWmZ6djl4UVBfZGZxWmhSMGlqNDYyU0p3cjVxX1ZKV194bGYyME8ybVJLMlhiT2R4Q1FKTmlJ?oc=5",
+      "date": "2026-05-13 18:09",
+      "summary": "AI chatbots are giving out people’s real phone numbers  MIT Technology Review..."
     },
     {
       "title": "World Models: 10 Things That Matter in AI Right Now - MIT Technology Review",
@@ -237,57 +243,57 @@
       "summary": "World Models: 10 Things That Matter in AI Right Now  MIT Technology Review..."
     },
     {
-      "title": "Implementing advanced AI technologies in finance - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSm5QY29abThYWHpZVGFmRk5zTlU4N1FNZ2p1bjBmZUc2N0xHdlNOTmF0NDVZZFZDYzlqUEM3N1JhTDhFakcyTGkzRE1tYWFQd3o5dkxZc3doa0Q4Y0JVS2FtZmZoOUdqODhFQVpOQkExXzVQam54R2pNVHB1TTVxYVZoam0tRFRQWEJTcHkzQWF0SlBDcm5HWXo0QWVZUEtVcmVr0gGoAUFVX3lxTE85M3pkLXd5YVp1eDdXeldQcG4xODV2TldqY0VIOWxVSWV5enJqQ3ZQemI2clFTR0UydThOdmdCazFjSkdxdlUtaHpHNGt4U2tKdzFDNlhycHpzR25ILThUYTBJSk9Xci1Kb050T2tsMGkzMW40T1RlME1ieFhMc01zVHEyYWQtOEQ4NlRzUmRhV1hYUEJBNzh5UHRvQVZNT3Z2YmlIb3lVbQ?oc=5",
-      "date": "2026-05-11 13:00",
-      "summary": "Implementing advanced AI technologies in finance  MIT Technology Review..."
-    },
-    {
       "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbF9oc3ZOTW1SSFV2LUR4THA4dFRVeDR2eFBnYkllSE5YOTh2NkhJdWFXTHlFQVJ5TTk5YW5Hel9EQkxTU2FSOGdKMGh2aEpFSnlQcE1RWHJCTUtMNWVfMGphcmR2QkR2czNwUGtVNlNaQ1Q2YVlLOUI4M2xncl9ENXdLVWxuRkpOVnllRGlibEI0cmhqWTBqR3daM0dhTUZQaE5LZk9yTdIBrAFBVV95cUxQZ0FHNjExaVduRzdrZi1fak9GbnB6a2FYSGdrRWVQaGNuYkZOMk9wV3VFLUxhT3A4R19jY3EzTXJGdGlXVUZTZzc5ejk5dG4xOU1NWlVMNXY3ZFE3V3V6Qm1Qd01lRkJydnRkeG5Xa2RZaGFWWnpGMVExOHk2eEdxOFhhajVJNlRQSE04dUhDY1FBRWkxMWRkVEJjWWJKWl94ZGhjN09MMTVTVzhh?oc=5",
       "date": "2026-05-13 12:10",
       "summary": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft  MIT Technology Review..."
     },
     {
-      "title": "Three things in AI to watch, according to a Nobel-winning economist - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVpMTjNNa1E1eU01WmEyb0lnOU5qYlRETUdyWVFHbzJacHVoR0lVeFQ5NGZNM1A0a3dGX2ZxaENVVTJtT2RWSDlQTDBqTE5NVk96NTN0dWhYb3Vma041cFFzZDR1cWVWYkVrcnQ3TThpdFdXZnl5bEtlMTlBNHY3cGMzUXI1aWNYUWZHTk4yZ0tUb1F4S1E4bC1relo3T1VQRnFncFlSS1FvSnRrbWRPYmZ2M082Ylc3bGo00gHAAUFVX3lxTFBQcDhWUDdTOXJYX0dXVEdBMmVObVlacGNJb0JYcUJCS2wxWkNXbEFFUXdFem9jYzRfUm5NTllaOFRXZ0JiSnhzQ2REQ2Y5UUg3R2lEMGNFcGU2YUlxRmp1ZmdFcVRLWUFtb3N4cE9feG8xUWVvVGluSXpmMXVuMVl3Q3FCU1phcENuMmwxQWVjWURXVk9heXh1cFVOblFmc3JVVmtOcHhMZ2xtbGxCTko4M2w0WDlxSEdHOXpCekllcA?oc=5",
-      "date": "2026-05-11 17:35",
-      "summary": "Three things in AI to watch, according to a Nobel-winning economist  MIT Technology Review..."
+      "title": "Implementing advanced AI technologies in finance - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSm5QY29abThYWHpZVGFmRk5zTlU4N1FNZ2p1bjBmZUc2N0xHdlNOTmF0NDVZZFZDYzlqUEM3N1JhTDhFakcyTGkzRE1tYWFQd3o5dkxZc3doa0Q4Y0JVS2FtZmZoOUdqODhFQVpOQkExXzVQam54R2pNVHB1TTVxYVZoam0tRFRQWEJTcHkzQWF0SlBDcm5HWXo0QWVZUEtVcmVr0gGoAUFVX3lxTE85M3pkLXd5YVp1eDdXeldQcG4xODV2TldqY0VIOWxVSWV5enJqQ3ZQemI2clFTR0UydThOdmdCazFjSkdxdlUtaHpHNGt4U2tKdzFDNlhycHpzR25ILThUYTBJSk9Xci1Kb050T2tsMGkzMW40T1RlME1ieFhMc01zVHEyYWQtOEQ4NlRzUmRhV1hYUEJBNzh5UHRvQVZNT3Z2YmlIb3lVbQ?oc=5",
+      "date": "2026-05-11 13:00",
+      "summary": "Implementing advanced AI technologies in finance  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "What a list of Black Death survivors reveals about the way people recovered from plague",
-      "link": "https://phys.org/news/2026-05-black-death-survivors-reveals-people.html",
-      "date": "2026-05-13 16:17",
-      "summary": "In our research in the British Library's medieval collections, we have identified a previously unnoticed document that provides fr..."
+      "title": "Small seabirds rely on crosswinds to navigate the open ocean",
+      "link": "https://phys.org/news/2026-05-small-seabirds-crosswinds-ocean.html",
+      "date": "2026-05-13 18:46",
+      "summary": "Storm petrels are among the smallest and most mysterious seabirds. Until recently, the use of biologgers to track their movements ..."
     },
     {
-      "title": "Most people don't know what they don't know, but think they do",
-      "link": "https://phys.org/news/2026-05-people-dont.html",
-      "date": "2026-05-13 16:16",
-      "summary": "Do you know what the Apple logo looks like? Chances are, you think you do. It's ubiquitous and iconic. How could you not know it? ..."
+      "title": "A history of containers, an ancient technology hundreds of thousands of years in the making",
+      "link": "https://phys.org/news/2026-05-history-ancient-technology-hundreds-thousands.html",
+      "date": "2026-05-13 18:40",
+      "summary": "We hardly give them a second thought, but everyday objects like bags and backpacks belong to a long technological tradition that m..."
     },
     {
-      "title": "Bottom trawling is scraping oceans of wildlife",
-      "link": "https://phys.org/news/2026-05-bottom-trawling-oceans-wildlife.html",
-      "date": "2026-05-13 16:13",
-      "summary": "Bottom trawlers extract one-quarter of the world's fisheries catches by weight and raise significant ecological, economic and soci..."
+      "title": "Dual spacecraft capture both hemispheres of interstellar comet 3I/ATLAS at once",
+      "link": "https://phys.org/news/2026-05-dual-spacecraft-capture-hemispheres-interstellar.html",
+      "date": "2026-05-13 18:20",
+      "summary": "The Southwest Research Institute-led Ultraviolet Spectrograph (UVS) instruments aboard ESA's Jupiter Icy Moons Explorer (Juice) sp..."
     },
     {
-      "title": "Mostly empty foam overturns assumptions of electron beam stopping",
-      "link": "https://phys.org/news/2026-05-foam-overturns-assumptions-electron.html",
-      "date": "2026-05-13 16:00",
-      "summary": "When physicists fire beams of fast electrons at materials, they often need to know exactly how much energy those electrons will lo..."
+      "title": "More selective breeding might help flat-faced dogs to breathe easier",
+      "link": "https://phys.org/news/2026-05-flat-dogs-easier.html",
+      "date": "2026-05-13 18:00",
+      "summary": "Breeding programs could alter heritable dog characteristics to reduce the rates of brachycephalic obstructive airway syndrome (BOA..."
     },
     {
-      "title": "Beluga calls deciphered to bolster conservation efforts",
-      "link": "https://phys.org/news/2026-05-beluga-deciphered-bolster-efforts.html",
-      "date": "2026-05-13 15:55",
-      "summary": "Alaska's Cook Inlet was home to nearly 1,300 beluga whales in the late 1970s, but today the population hovers around 300. Despite ..."
+      "title": "Slower winds help grasslands enhance carbon gain while saving water, study finds",
+      "link": "https://phys.org/news/2026-05-slower-grasslands-carbon-gain.html",
+      "date": "2026-05-13 18:00",
+      "summary": "Grasslands, covering 40% of Earth's vegetated surface, play a crucial role in the global carbon balance but are increasingly threa..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "The south London community where ‘pioneering’ scholarship choristers are made",
+      "link": "https://www.theguardian.com/uk-news/2026/may/13/south-london-community-choir-pioneering-scholarship-choral-programme-st-john-the-divine-kennington",
+      "date": "2026-05-13 18:29",
+      "summary": "St John the Divine, Kennington has built one of UK’s largest youth choral programmes in area marked by deprivation St Paul’s Cathe..."
+    },
     {
       "title": "US university’s commencement speaker reveals he will pay off students’ final-year loans",
       "link": "https://www.theguardian.com/us-news/2026/may/12/north-carolina-state-commencement-speaker-paying-off-student-loans",
@@ -311,12 +317,6 @@
       "link": "https://www.theguardian.com/education/2026/may/12/birmingham-city-university-urged-not-to-axe-black-studies-ma",
       "date": "2026-05-11 23:01",
       "summary": "More than 100 figures sign open letter criticising closure, just months after MA was launchedMore than 100 academics, writers and ..."
-    },
-    {
-      "title": "Cambridge University seeks deal with Saudi defence ministry despite rights concerns",
-      "link": "https://www.theguardian.com/education/2026/may/11/cambridge-university-judge-business-school-saudi-defence-ministry",
-      "date": "2026-05-11 05:00",
-      "summary": "Senior academics describe the Judge business school’s proposal to provide services and training as ‘horrifying’Cambridge Universit..."
     }
   ],
   "SCMP Hong Kong": [
@@ -353,34 +353,34 @@
   ],
   "New Scientist": [
     {
+      "title": "Arctic fires are releasing carbon stored for thousands of years",
+      "link": "https://www.newscientist.com/article/2526362-arctic-fires-are-releasing-carbon-stored-for-thousands-of-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-13 18:00",
+      "summary": "A study of soils around the Arctic and boreal forests has found that some wildfires are releasing carbon stored over millennia, me..."
+    },
+    {
+      "title": "Asteroid to miss Earth by a quarter of the length from us to the moon",
+      "link": "https://www.newscientist.com/article/2526328-asteroid-to-miss-earth-by-a-quarter-of-the-length-from-us-to-the-moon/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-13 16:08",
+      "summary": "Asteroid 2026JH2 will zoom past Earth at a distance of only 90,000 kilometres next week. It has enough mass to wipe out a city, bu..."
+    },
+    {
+      "title": "Ancient teeth hint at links between Denisovans and Homo erectus",
+      "link": "https://www.newscientist.com/article/2526391-ancient-teeth-hint-at-links-between-denisovans-and-homo-erectus/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-13 16:00",
+      "summary": "Six teeth roughly 400,000 years old have yielded some of the first ancient proteins thought to belong to Homo erectus, providing m..."
+    },
+    {
+      "title": "Natural sunscreen found in fish eggs can be made by E. coli factories",
+      "link": "https://www.newscientist.com/article/2525693-natural-sunscreen-found-in-fish-eggs-can-be-made-by-e-coli-factories/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-13 16:00",
+      "summary": "Genetically altered bacteria can synthesise gadusol, a naturally occurring compound found in zebrafish eggs that could be develope..."
+    },
+    {
       "title": "New rules confirm public has a right to see how UK government uses AI",
       "link": "https://www.newscientist.com/article/2526397-new-rules-confirm-public-has-a-right-to-see-how-uk-government-uses-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-13 12:00",
       "summary": "Government departments and other public bodies in the UK must consider requests to release information about AI-produced content, ..."
-    },
-    {
-      "title": "Carbon credits are flawed, but they can still help save forests",
-      "link": "https://www.newscientist.com/article/2525921-carbon-credits-are-flawed-but-they-can-still-help-save-forests/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-12 12:00",
-      "summary": "Carbon credits bought by companies to offset their emissions really have reduced deforestation, but not by as much as credit devel..."
-    },
-    {
-      "title": "A new tectonic plate boundary could be forming in southern Africa",
-      "link": "https://www.newscientist.com/article/2526136-a-new-tectonic-plate-boundary-could-be-forming-in-southern-africa/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-12 05:00",
-      "summary": "Gases collected from boiling mineral springs in Zambia contain the chemical signature of having come directly from the Earth’s man..."
-    },
-    {
-      "title": "Can floating data centres meet AI's huge energy demand?",
-      "link": "https://www.newscientist.com/article/2526029-can-floating-data-centres-meet-ais-huge-energy-demand/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-11 18:00",
-      "summary": "A US start-up is putting autonomous data centres in the ocean, powered by wave energy, but experts warn that the harsh environment..."
-    },
-    {
-      "title": "Huge study of ancient British DNA reveals only minor Roman influence",
-      "link": "https://www.newscientist.com/article/2525923-huge-study-of-ancient-british-dna-reveals-only-minor-roman-influence/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-11 12:00",
-      "summary": "Genetic analysis of 1039 people buried in Britain between the Bronze Age and the Norman conquest highlights the impact of the Roma..."
     }
   ]
 }
