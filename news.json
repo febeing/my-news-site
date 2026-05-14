@@ -65,12 +65,6 @@
   ],
   "Stanford News": [
     {
-      "title": "BTS brings Stanford and Bay Area together for three sold-out shows - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVhlNjF4X2hYXzNLaUtHaHhrci1hQ29wRWRWMzl0ZGdRc2MyNXFiRFNJbzJldmI0a3ZnUEVYV1Z0eUVQc2h5NkRoTWpFOGRmWnhENHBEejZvOXgtZGs0QnFLRGNUUDVGVXhONkttUUtVYmM1bGpPRkZxbjdKQk5RS09WTERkRFRDa1Zxa2JvVQ?oc=5",
-      "date": "2026-05-14 00:21",
-      "summary": "BTS brings Stanford and Bay Area together for three sold-out shows  Stanford Report..."
-    },
-    {
       "title": "BTS fans to flood Stanford this weekend for return tour - Palo Alto Online",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcEZmc3VCOEUzZUgwNjRwVXc5QjdDdU0xVzgwQVFPRm9ueGxwNHZzOFppcHNmeWRrOE9TQ0EzM2hnMWhjYkJMc2hJa2gtaWRKckIyX3ZtV19GSl94MGZWVlJrYjN3ZUZpemFYNnQyeWNWdnBvbjdqUVlJRTBONHRUMGUxQnVPbjc3STgxRGt5SUkxWkcyMERXN0FnYmhCMmtUdlVz?oc=5",
       "date": "2026-05-13 18:16",
@@ -89,10 +83,16 @@
       "summary": "Judge bars Jewish DA from trying Stanford anti-Israel protesters, alleging conflict  The Times of Israel..."
     },
     {
-      "title": "In Brief: Ten from Harvard College named 2026 Knight-Hennessy Scholars - Harvard College",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeGFtVlZmUU95S3c0ZUs1OGJUOWgtVzR6QzFkd2tzY1kzYWwwWGdQYXZJVXhiMUhRdmNQUEhXbDdSR1prUk43RXFHUC00UGwxbVFKMW5nWENPdVR1elUxeGN4RTQzUkNoeFc4VFV1VHI0ODVDeUpnSXYwQ0N6cV9PbXYwNHhkQXZyZjJfWmg2OXZJNVltSGxMWUNhNS13ZTFCZnc?oc=5",
-      "date": "2026-05-12 18:46",
-      "summary": "In Brief: Ten from Harvard College named 2026 Knight-Hennessy Scholars  Harvard College..."
+      "title": "Eliza Haines heads to Stanford University as Knight-Hennessy Scholar - Clemson News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3llWkFVZTJZeWlSQ2R2bDBjS0hwQ0U3RjhFOWFGYUdxNGRQZFA3MEh0RkV5Wm9Nbm03ZHhGb2ZuaFNGQ0MtRHloblRJbDdaQzZacjhGMVV1SGlvd2MtVDZKRHRXU0VxMllOZVFoVGlMVnhHV282Um80RDRSZVR1TEJmNW5HSExiWTdKZ2haaG9BV29BVktPVlh3?oc=5",
+      "date": "2026-05-12 16:14",
+      "summary": "Eliza Haines heads to Stanford University as Knight-Hennessy Scholar  Clemson News..."
+    },
+    {
+      "title": "Remembering Stanford philanthropist Doris Fisher - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lTmtFT1dZV1dleTBUR3Uyb0xTTzNBbVNPT19hdlFya19Za1lCQXpwanQ2NG1GWXQtWEt3MjJmcXc1cjdtWmhPNko3YkN3UWN2bEJzOWpjYVBBY3d3dUo1ejF0VkVRVGZ4NFJKVXVHTDE?oc=5",
+      "date": "2026-05-13 20:45",
+      "summary": "Remembering Stanford philanthropist Doris Fisher  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -205,6 +205,12 @@
       "summary": "Thomson Reuters boss says AI licensing deals only involve archive text  Press Gazette..."
     },
     {
+      "title": "TSMC says global chip market to hit $1.5 trillion by 2030 as AI drives growth - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVUh3UjVGTi1HbGJ6WC1hSmtfTkx6dU5BMEpsQkpsSlZWeGVYanJZencxb0dCX2JLTkZISmF0WXFNZUpjNUxVd0F3S3haZWRRX2NOdjZzNUlRY1MxcWxicDlpUnRIcTRJWE9ieTctT3N2WDlFNFUzZzhTU2JQQ05uSmZqcEh5NFVFTVNPS1RzWVdvamt0NGJsbmJFOHNsUjZzN2Z5b2F2eHBIYWxjWk1NOXFzVTlHYUk0LUFkYlR0T3NjUQ?oc=5",
+      "date": "2026-05-14 02:06",
+      "summary": "TSMC says global chip market to hit $1.5 trillion by 2030 as AI drives growth  Reuters..."
+    },
+    {
       "title": "Cisco to cut about 4,000 jobs in AI-focused restructuring as orders surge - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU21ycmNvZ1V4WXMzSHd2b01CdzdCdWhoRmRRUFprZkc4b1VXMXBLdXdOUUVPRUtPOVcwdTZDbGp5ZldCdzZ5T2tQRlFxdXJ0QkRvS2VGMjgwUzJReUV4N0JQV3NEcklMSzNyRTU0UWZ2TGFoNWZVR2pwbFl0VXd5SFZmTzBmYWNpZ3Zr?oc=5",
       "date": "2026-05-13 22:28",
@@ -215,47 +221,47 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeURJY1NBWmQxU1FxbHluOFhnTDY5SlgwUnh1bmZaRDVmMU5DT2pXNV9qLTFIUHFCOWt3X2JsZHBxdF9MZ0FSYWZXMGhOdGNmeHBQdGVEQl9LeHVqVlEwV1FqOUNtOV9KRW5Gd2E3QWFKRWJkNVYtRHRFQUxtcHpEUDJOdDNhYXJnaURVZ3F3c2lHWG5HeS1UTkxtbEdFa1c3dmt6SHJjR0M?oc=5",
       "date": "2026-05-14 02:48",
       "summary": "AI boom puts SK Hynix on cusp of $1 trillion market value  Reuters..."
-    },
-    {
-      "title": "TSMC says global chip market to hit $1.5 trillion by 2030 as AI drives growth - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVUh3UjVGTi1HbGJ6WC1hSmtfTkx6dU5BMEpsQkpsSlZWeGVYanJZencxb0dCX2JLTkZISmF0WXFNZUpjNUxVd0F3S3haZWRRX2NOdjZzNUlRY1MxcWxicDlpUnRIcTRJWE9ieTctT3N2WDlFNFUzZzhTU2JQQ05uSmZqcEh5NFVFTVNPS1RzWVdvamt0NGJsbmJFOHNsUjZzN2Z5b2F2eHBIYWxjWk1NOXFzVTlHYUk0LUFkYlR0T3NjUQ?oc=5",
-      "date": "2026-05-14 02:06",
-      "summary": "TSMC says global chip market to hit $1.5 trillion by 2030 as AI drives growth  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "AI chatbots are giving out people’s real phone numbers - MIT Technology Review",
+      "title": "AI chatbots are giving out people’s real phone numbers - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJYU2ZXb2RNSXM4UkhOZzFrNTVEYU50WHlRVlp5T1cyNXFoUXBoNl9XX0ZXTWNsZjAyWTNSRF9YQnJ5UUxCR19HeTFpdGxCNVNiZFQzdHpwVUU2SFVXeHUxd0UwM0ZfeGpwYzZxUEtONHREX0dhLUVydmd2SVdBVVoyOGFhR0Y1akxXdjZ3UENJUF9CMHRzM21EX2RKajRqTmhVRTZGck9kUdIBrwFBVV95cUxNd0pHWnh4aEU3elVyWDBocEtIR2lJMDJONUJoU2kxeV92cEY3dGREVlVCWURuOEdzZVFSNXpVSW15alBveFhpQU5FTXZveFFhc2dJXzZkaGRzUzhoMnhGZldWa3ZJdkRLTE1mZnJLM000UE0tNmJ3bmQwWmZ6djl4UVBfZGZxWmhSMGlqNDYyU0p3cjVxX1ZKV194bGYyME8ybVJLMlhiT2R4Q1FKTmlJ?oc=5",
       "date": "2026-05-13 18:09",
-      "summary": "AI chatbots are giving out people’s real phone numbers  MIT Technology Review..."
+      "summary": "AI chatbots are giving out people’s real phone numbers  technologyreview.com..."
     },
     {
-      "title": "A plan to make drugs in orbit is going commercial - MIT Technology Review",
+      "title": "A plan to make drugs in orbit is going commercial - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkhZRUhKbFZmM3pQWms0SkF4WlhuMlEtUkQ0eE05Tlh3VU5UNHM1VEo4bjVTQVlJemxoZ3VRMGZfZ0ZvRmJXU0xEZS0xd25sd2VBTEpPem5PTnZvYWRGYk91S25HRnhGRHBzMjZrTkZZajhsekhiZVAzTWpyMjUtWWpONlJycVNrcXdqNmJkMEwwWnY1SU5iR3d1OXpjdHRaMzJlUXk0LS0yd9IBrwFBVV95cUxNUlk5d2MyT1U2VmN1aF9sLW9jNVIyRzFuVjROaWVnX21wS0RERmZ3ZEhmazFwMzVvYXRJQ1hHaDVMUEwzb3hKUmlMaS1QUUJCS2JXM3Z2UU0wTHRJZ1Z5bnU4STUtMnoxaEg5RnZfUURqQVNzYkZ1eHNic3BhdHdUNEVJUWpfTi1uVFVvc0IxQWowWVhRdTZzM0dvWkpCaV9UNWZqeEx3ZExNVnN2X0w4?oc=5",
       "date": "2026-05-13 10:00",
-      "summary": "A plan to make drugs in orbit is going commercial  MIT Technology Review..."
+      "summary": "A plan to make drugs in orbit is going commercial  technologyreview.com..."
     },
     {
-      "title": "World Models: 10 Things That Matter in AI Right Now - MIT Technology Review",
+      "title": "World Models: 10 Things That Matter in AI Right Now - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHFGclotQ3FkT2NKeUJ3WXRmZFdXYXo5Sm55em90Yk5GSEg3enpGbUZSVzM5c1NqYUZJc29zeUNhZFg2VXZ4c3JUeVVmdll2ejltRXowOW9ibzhBLWM4RTFrSWNuRkdva3ZqaXZ0SUNINXNxTFJmaDlYb0JHQ0xxaXNmY0JYdkotbDE0X3l1WU9la0VLNTIyNjc0eHh2Vkg4YmkxN0ZB0gGrAUFVX3lxTE94VkNiTzNTeFFzdkJmQzlyNU9VcV9nWmpMYmFac3d1SGtoNGJwVm51cFRjd01MemdkekF5b3BodTE2eEQ4VkNjTXdzZkxPRzQ5WkU3amFzTURfUzF4dXQwZjVOVDBEN3l1SEJYOFdGTTNIOE8tcTAyQ0V4TXMwQWpqSUNYeVcyOGVsNU5scEFWdUF4MEh3VEJWU0ZZc1BjenYtcXNrX3hSQkl1SQ?oc=5",
       "date": "2026-05-12 16:33",
-      "summary": "World Models: 10 Things That Matter in AI Right Now  MIT Technology Review..."
+      "summary": "World Models: 10 Things That Matter in AI Right Now  technologyreview.com..."
     },
     {
-      "title": "Three things in AI to watch, according to a Nobel-winning economist - MIT Technology Review",
+      "title": "The Tesla Semi could be a big deal for electric trucking - technologyreview.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcTFwRzN3Wml2Yjl2VVV5TUt2M3NXS05mQnhJMFM3YnZROXY4bEI3QnZhMWx0QjVSeFlLRVRTajBtSmQzSFloTGduY2dzeWVFNmJKMFNBVGdYeExYNkM4V1FfczU2elNKeXpyLXFvWFVGNjM3UTctUlQ1MEZCT29fU3lxYy1wS1Jt0gGOAUFVX3lxTE5jSnI0anY5dGYyRzU0R2pydUZySi1maUEwamM0X1k4VEcwOHkwaVlZRnFlbTZMU1V0UXhYUUl3UENaeUdrajMtY3dOTkcyQlZGdzUzRUVFWFdGVWcyYWJLM0ZhcWRXVi15NjlfOHBybk5haV9PWjhJdXh5ZC13Q0NtdG1NZ2JneDU4cjd5UGc?oc=5",
+      "date": "2026-05-14 10:00",
+      "summary": "The Tesla Semi could be a big deal for electric trucking  technologyreview.com..."
+    },
+    {
+      "title": "Three things in AI to watch, according to a Nobel-winning economist - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVpMTjNNa1E1eU01WmEyb0lnOU5qYlRETUdyWVFHbzJacHVoR0lVeFQ5NGZNM1A0a3dGX2ZxaENVVTJtT2RWSDlQTDBqTE5NVk96NTN0dWhYb3Vma041cFFzZDR1cWVWYkVrcnQ3TThpdFdXZnl5bEtlMTlBNHY3cGMzUXI1aWNYUWZHTk4yZ0tUb1F4S1E4bC1relo3T1VQRnFncFlSS1FvSnRrbWRPYmZ2M082Ylc3bGo00gHAAUFVX3lxTFBQcDhWUDdTOXJYX0dXVEdBMmVObVlacGNJb0JYcUJCS2wxWkNXbEFFUXdFem9jYzRfUm5NTllaOFRXZ0JiSnhzQ2REQ2Y5UUg3R2lEMGNFcGU2YUlxRmp1ZmdFcVRLWUFtb3N4cE9feG8xUWVvVGluSXpmMXVuMVl3Q3FCU1phcENuMmwxQWVjWURXVk9heXh1cFVOblFmc3JVVmtOcHhMZ2xtbGxCTko4M2w0WDlxSEdHOXpCekllcA?oc=5",
       "date": "2026-05-11 17:35",
-      "summary": "Three things in AI to watch, according to a Nobel-winning economist  MIT Technology Review..."
-    },
-    {
-      "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbF9oc3ZOTW1SSFV2LUR4THA4dFRVeDR2eFBnYkllSE5YOTh2NkhJdWFXTHlFQVJ5TTk5YW5Hel9EQkxTU2FSOGdKMGh2aEpFSnlQcE1RWHJCTUtMNWVfMGphcmR2QkR2czNwUGtVNlNaQ1Q2YVlLOUI4M2xncl9ENXdLVWxuRkpOVnllRGlibEI0cmhqWTBqR3daM0dhTUZQaE5LZk9yTdIBrAFBVV95cUxQZ0FHNjExaVduRzdrZi1fak9GbnB6a2FYSGdrRWVQaGNuYkZOMk9wV3VFLUxhT3A4R19jY3EzTXJGdGlXVUZTZzc5ejk5dG4xOU1NWlVMNXY3ZFE3V3V6Qm1Qd01lRkJydnRkeG5Xa2RZaGFWWnpGMVExOHk2eEdxOFhhajVJNlRQSE04dUhDY1FBRWkxMWRkVEJjWWJKWl94ZGhjN09MMTVTVzhh?oc=5",
-      "date": "2026-05-13 12:10",
-      "summary": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft  MIT Technology Review..."
+      "summary": "Three things in AI to watch, according to a Nobel-winning economist  technologyreview.com..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Study provides detailed assessment of shifts in toxin producing phytoplankton abundance",
+      "link": "https://phys.org/news/2026-05-shifts-toxin-phytoplankton-abundance.html",
+      "date": "2026-05-14 09:52",
+      "summary": "Researchers in the UK have shown how the distributions of two phytoplankton groups—known to produce natural toxins that can halt s..."
+    },
     {
       "title": "Meltwater flushed methane from Greenland seabed during ice-sheet retreat, researchers reveal",
       "link": "https://phys.org/news/2026-05-meltwater-flushed-methane-greenland-seabed.html",
@@ -279,15 +285,15 @@
       "link": "https://phys.org/news/2026-05-baby-bugs-play-game-roulette.html",
       "date": "2026-05-14 04:00",
       "summary": "Symbiosis, or the interaction of two unalike species, is common and often necessary for survival. In insects, symbiotic microbes o..."
-    },
-    {
-      "title": "Wristwatch-like device enables assessment of health risks for astronauts on mission to the moon",
-      "link": "https://phys.org/news/2026-05-wristwatch-device-enables-health-astronauts.html",
-      "date": "2026-05-14 03:40",
-      "summary": "Just a few hours before the Orion spacecraft crossed the sky en route to the moon on April 1, mechatronics engineer Rodrigo Trevis..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Privately educated CEOs seen as ‘safer bet’ by investors, study finds",
+      "link": "https://www.theguardian.com/education/2026/may/14/privately-educated-ceos-safer-bet-investors-class-bias-study",
+      "date": "2026-05-14 11:09",
+      "summary": "Privilege being mistaken for competence as study reveals no evidence to suggest companies run by state-educated peers underperform..."
+    },
     {
       "title": "The south London community where ‘pioneering’ scholarship choristers are made",
       "link": "https://www.theguardian.com/uk-news/2026/may/13/south-london-community-choir-pioneering-scholarship-choral-programme-st-john-the-divine-kennington",
@@ -311,17 +317,17 @@
       "link": "https://www.theguardian.com/politics/2026/may/12/youth-mobility-scheme-disagreement-hampering-reset-uk-eu-relations",
       "date": "2026-05-12 10:28",
       "summary": "Deal was expected by end of month but talks hit buffers over cap on number of people entering UK and tuition feesSignificant gaps ..."
-    },
-    {
-      "title": "Birmingham City University urged not to axe Black studies MA",
-      "link": "https://www.theguardian.com/education/2026/may/12/birmingham-city-university-urged-not-to-axe-black-studies-ma",
-      "date": "2026-05-11 23:01",
-      "summary": "More than 100 figures sign open letter criticising closure, just months after MA was launchedMore than 100 academics, writers and ..."
     }
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Hong Kong court freezes HK$9 billion in assets, properties linked to Chen Zhi",
+      "title": "Why Hong Kong scientists think GLP-1 weight-loss drugs can help stroke patients",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3353588/why-hong-kong-scientists-think-glp-1-weight-loss-drugs-can-help-stroke-patients?utm_source=rss_feed",
+      "date": "2026-05-14 11:28",
+      "summary": "Popular weight-loss injections have the potential to help patients recover from severe strokes when used alongside a surgical proc..."
+    },
+    {
+      "title": "Hong Kong court freezes HK$9 billion in assets and properties tied to Chen Zhi",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3353556/hong-kong-court-freezes-hk9-billion-assets-properties-linked-chen-zhi?utm_source=rss_feed",
       "date": "2026-05-14 08:53",
       "summary": "A Hong Kong court has ordered the freezing of properties and assets worth more than HK$9 billion (US$1.15 billion) held by detaine..."
@@ -333,25 +339,25 @@
       "summary": "Hong Kong police have arrested three men and seized more than half a tonne of suspected cannabis buds worth about HK$100 million (..."
     },
     {
-      "title": "3 charged over military drills under Hong Kong’s domestic national security law",
+      "title": "3 suspects arrested over military drills appear in court on subversion charges",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3353546/three-men-charged-over-illegal-military-style-drills-hong-kong?utm_source=rss_feed",
       "date": "2026-05-14 08:36",
-      "summary": "Hong Kong police have brought more defendants to court from the city’s first arrests over alleged illegal drills under its domesti..."
+      "summary": "Hong Kong police have brought more defendants to court from the city’s first arrests over alleged illegal drills, charging three m..."
     },
     {
       "title": "Hong Kong’s economic figures look good but business unease is rising",
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3353431/hong-kongs-economic-figures-look-good-business-unease-rising?utm_source=rss_feed",
       "date": "2026-05-14 08:30",
       "summary": "Hong Kong’s latest quarterly figures look better than many observers expected. Despite the disruption caused by the war in the Mid..."
-    },
-    {
-      "title": "Cathay Pacific moves forward Hong Kong boarding gate closure times by 5 minutes",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3353538/cathay-pacific-shortens-hong-kong-boarding-gate-closure-times-5-minutes?utm_source=rss_feed",
-      "date": "2026-05-14 07:36",
-      "summary": "Hong Kong flag carrier Cathay Pacific Airways will move forward its boarding gate closure times by five minutes and will start boa..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Melting of Greenland ice sheet could release large stores of methane",
+      "link": "https://www.newscientist.com/article/2526620-melting-of-greenland-ice-sheet-could-release-large-stores-of-methane/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-14 10:00",
+      "summary": "Seismic surveys and sediment cores suggest that dozens of deep pockmarks on the sea floor were created when Arctic methane stores ..."
+    },
     {
       "title": "Neanderthals treated a dental cavity by drilling into the tooth",
       "link": "https://www.newscientist.com/article/2526440-neanderthals-treated-a-dental-cavity-by-drilling-into-the-tooth/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -365,22 +371,16 @@
       "summary": "A study of soils around the Arctic and boreal forests has found that some wildfires are releasing carbon stored over millennia, me..."
     },
     {
-      "title": "Asteroid to miss Earth by a quarter of the length from us to the moon",
-      "link": "https://www.newscientist.com/article/2526328-asteroid-to-miss-earth-by-a-quarter-of-the-length-from-us-to-the-moon/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "title": "Asteroid set to fly very close to Earth",
+      "link": "https://www.newscientist.com/article/2526328-asteroid-set-to-fly-very-close-to-earth/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-13 16:08",
-      "summary": "Asteroid 2026JH2 will zoom past Earth at a distance of only 90,000 kilometres next week. It has enough mass to wipe out a city, bu..."
+      "summary": "Asteroid 2026JH2 has enough mass to wipe out a city and will zoom past Earth next week..."
     },
     {
       "title": "Ancient teeth hint at links between Denisovans and Homo erectus",
       "link": "https://www.newscientist.com/article/2526391-ancient-teeth-hint-at-links-between-denisovans-and-homo-erectus/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-13 16:00",
       "summary": "Six teeth roughly 400,000 years old have yielded some of the first ancient proteins thought to belong to Homo erectus, providing m..."
-    },
-    {
-      "title": "Natural sunscreen found in fish eggs can be made by E. coli factories",
-      "link": "https://www.newscientist.com/article/2525693-natural-sunscreen-found-in-fish-eggs-can-be-made-by-e-coli-factories/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-13 16:00",
-      "summary": "Genetically altered bacteria can synthesise gadusol, a naturally occurring compound found in zebrafish eggs that could be develope..."
     }
   ]
 }
