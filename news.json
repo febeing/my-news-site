@@ -103,6 +103,18 @@
       "summary": "Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10620-6Author Correction: Postprandial lipid metabolism durably enha..."
     },
     {
+      "title": "Author Correction: The AIM2 inflammasome exacerbates atherosclerosis in clonal haematopoiesis",
+      "link": "https://www.nature.com/articles/s41586-026-10573-w",
+      "date": "2026-05-14 00:00",
+      "summary": "Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10573-wAuthor Correction: The AIM2 inflammasome exacerbates atherosc..."
+    },
+    {
+      "title": "NIH staffing shortage could slash number of new grants issued this year",
+      "link": "https://www.nature.com/articles/d41586-026-01537-1",
+      "date": "2026-05-14 00:00",
+      "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01537-1Some units at the US funding giant are so understaffed, they ..."
+    },
+    {
       "title": "Are we really headed for a ‘super’ El Niño? What the science says",
       "link": "https://www.nature.com/articles/d41586-026-01538-0",
       "date": "2026-05-14 00:00",
@@ -113,21 +125,15 @@
       "link": "https://www.nature.com/articles/d41586-026-01545-1",
       "date": "2026-05-14 00:00",
       "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01545-1More than 140,000 fake citations across four research reposit..."
-    },
-    {
-      "title": "Immune cells in the blood drive cognitive ageing — blocking them improves memory",
-      "link": "https://www.nature.com/articles/d41586-026-01531-7",
-      "date": "2026-05-14 00:00",
-      "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01531-7Old T cells secrete an enzyme that can impair brain function ..."
-    },
-    {
-      "title": "Mental-health research is too often invisible — it is time to change that",
-      "link": "https://www.nature.com/articles/d41586-026-01550-4",
-      "date": "2026-05-14 00:00",
-      "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01550-4Mental illness needs visibility more urgently than almost any..."
     }
   ],
   "Science News": [
+    {
+      "title": "In unreleased document, fired U.S. science board issues stark warning about keeping pace with China",
+      "link": "https://www.science.org/content/article/unreleased-document-fired-u-s-science-board-issues-stark-warning-about-keeping-pace",
+      "date": "2026-05-14 02:15",
+      "summary": "The National Science Board urges robust response to China’s rise in cover letter to its biennial report on the global research ent..."
+    },
     {
       "title": "Did this scientist go too far trying to save Ecuador’s wildlife?",
       "link": "https://www.science.org/content/article/did-scientist-go-too-far-trying-save-ecuador-s-wildlife",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/gotcha-odd-language-mistakes-may-help-identify-fake-papers",
       "date": "2026-05-13 02:25",
       "summary": "A small investigation found identical errors and phrases across more than 200 papers, suggesting they were produced by paper mills..."
-    },
-    {
-      "title": "Ghost of long-extinct ancestor lives on in people today",
-      "link": "https://www.science.org/content/article/ghost-long-extinct-ancestor-lives-people-today",
-      "date": "2026-05-13 11:00",
-      "summary": "Ancient Homo erectus teeth from China yield protein variants seen in Denisovans—and us..."
     }
   ],
   "Retraction Watch": [
@@ -193,22 +193,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "AI boom puts SK Hynix on cusp of $1 trillion market value - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeURJY1NBWmQxU1FxbHluOFhnTDY5SlgwUnh1bmZaRDVmMU5DT2pXNV9qLTFIUHFCOWt3X2JsZHBxdF9MZ0FSYWZXMGhOdGNmeHBQdGVEQl9LeHVqVlEwV1FqOUNtOV9KRW5Gd2E3QWFKRWJkNVYtRHRFQUxtcHpEUDJOdDNhYXJnaURVZ3F3c2lHWG5HeS1UTkxtbEdFa1c3dmt6SHJjR0M?oc=5",
-      "date": "2026-05-14 02:48",
-      "summary": "AI boom puts SK Hynix on cusp of $1 trillion market value  Reuters..."
-    },
-    {
-      "title": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5",
-      "date": "2026-05-12 17:02",
-      "summary": "Anthropic expands Claude's AI tools for law firms, lawyers  Reuters..."
+      "title": "Cerebras shares skyrocket in debut as AI mania grips markets - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0RWNkR1ZVo1bF9Eem0xdEdhT080RURtem5xNVpDalRuZUMwTDZ6V19YQW41QXVaLW5tT2Y5SFZjdHNjR1JMWTBybW1xekJvajAxZXB0OW9vYk1pemN6UnFQeXRfRHFEX2FFNlNqdVdPcXJWVmxwOFk4S2diN1BaZFdTQ1V0MG9sajNpdnp2SW9PQm5IOXhDaVg3NzlzOENVVFZ4Sk42TV94bHc?oc=5",
+      "date": "2026-05-14 19:00",
+      "summary": "Cerebras shares skyrocket in debut as AI mania grips markets  Reuters..."
     },
     {
       "title": "OpenAI explores legal options against Apple, Bloomberg News reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlZZbWlPQmhLZEJnNXM3Yy1rLTdsUkg2NE5KMVhOejMyUERySElSNlVaVTMyeGQ5bTRTWEt3M2lManU0U2p0a2tVaVZVdGQzSC0yV0ozY0E3REN0QWpRTzRPbVdndTlael9JVW0yaGVXOFo1RnJSbm0weHZBaHBIaTFlQXRfbGVHY2MyRW5RdGRJZF9nU1VXeC16V3Z5RXQ3QTFEMDFOd1l1V0NjdDlTbA?oc=5",
-      "date": "2026-05-14 17:05",
+      "date": "2026-05-14 18:07",
       "summary": "OpenAI explores legal options against Apple, Bloomberg News reports  Reuters..."
+    },
+    {
+      "title": "AI boom puts SK Hynix on cusp of $1 trillion market value - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeURJY1NBWmQxU1FxbHluOFhnTDY5SlgwUnh1bmZaRDVmMU5DT2pXNV9qLTFIUHFCOWt3X2JsZHBxdF9MZ0FSYWZXMGhOdGNmeHBQdGVEQl9LeHVqVlEwV1FqOUNtOV9KRW5Gd2E3QWFKRWJkNVYtRHRFQUxtcHpEUDJOdDNhYXJnaURVZ3F3c2lHWG5HeS1UTkxtbEdFa1c3dmt6SHJjR0M?oc=5",
+      "date": "2026-05-14 02:48",
+      "summary": "AI boom puts SK Hynix on cusp of $1 trillion market value  Reuters..."
     },
     {
       "title": "Cisco to cut about 4,000 jobs in AI-focused restructuring as orders surge - Reuters",
@@ -249,42 +249,42 @@
       "summary": "A plan to make drugs in orbit is going commercial  technologyreview.com..."
     },
     {
-      "title": "Sovereignty Is the New Operating System for Agentic AI, New MIT Technology Review Insights Report Finds - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZkxYbWZmWHBreEVaRXY1RVYxeXpOUGdObjdKT1laaUVtZjBXWHdfV25pMmZDRXVLR0lZOTJJcTRYa0NoZU9EYnV3bzE4MlBMZkNTdFdhSDZhWVhZVkFfSGh3dGhKWWFuRkJuU2Z5dFBPLXdDa2RyNHBNbUhGM1VIWG9aNkdqQTJ4YkNkbnVHWHRRejVrSWdsRHY5dUZrN2tKcG1Qd3dQb1B5U0txMDgwdnMzZXB0eTlNb3k1SVo3MU5jbFVMempjOFRkNVQ5LUlBX1kybHZZYkVJT0E2dUhiaXJfUGp4bU1rQUg1SGZySQ?oc=5",
-      "date": "2026-05-14 12:36",
-      "summary": "Sovereignty Is the New Operating System for Agentic AI, New MIT Technology Review Insights Report Finds  PR Newswire..."
+      "title": "World Models: 10 Things That Matter in AI Right Now - technologyreview.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHFGclotQ3FkT2NKeUJ3WXRmZFdXYXo5Sm55em90Yk5GSEg3enpGbUZSVzM5c1NqYUZJc29zeUNhZFg2VXZ4c3JUeVVmdll2ejltRXowOW9ibzhBLWM4RTFrSWNuRkdva3ZqaXZ0SUNINXNxTFJmaDlYb0JHQ0xxaXNmY0JYdkotbDE0X3l1WU9la0VLNTIyNjc0eHh2Vkg4YmkxN0ZB0gGrAUFVX3lxTE94VkNiTzNTeFFzdkJmQzlyNU9VcV9nWmpMYmFac3d1SGtoNGJwVm51cFRjd01MemdkekF5b3BodTE2eEQ4VkNjTXdzZkxPRzQ5WkU3amFzTURfUzF4dXQwZjVOVDBEN3l1SEJYOFdGTTNIOE8tcTAyQ0V4TXMwQWpqSUNYeVcyOGVsNU5scEFWdUF4MEh3VEJWU0ZZc1BjenYtcXNrX3hSQkl1SQ?oc=5",
+      "date": "2026-05-12 16:33",
+      "summary": "World Models: 10 Things That Matter in AI Right Now  technologyreview.com..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Childhood disadvantage can limit the social benefits of intelligence later in life, new research shows",
-      "link": "https://phys.org/news/2026-05-childhood-disadvantage-limit-social-benefits.html",
-      "date": "2026-05-14 18:52",
-      "summary": "Children who grow up in disadvantaged households may receive fewer social benefits from their intelligence in adulthood than those..."
+      "title": "A new model for predicting plant resistance can help prepare for climate change",
+      "link": "https://phys.org/news/2026-05-resistance-climate.html",
+      "date": "2026-05-14 20:37",
+      "summary": "A recent Minnesota Pollution Control Agency report found that climate change could cost Minnesotans more than $20 billion a year b..."
     },
     {
-      "title": "Webb discovers one of the universe's first galaxies",
-      "link": "https://phys.org/news/2026-05-webb-universe-galaxies.html",
-      "date": "2026-05-14 18:20",
-      "summary": "Scientists have discovered a galaxy as it was 13 billion years ago, 800 million years after the Big Bang. It contains possible evi..."
+      "title": "Digital environments can generate moderate levels of psychological overload among university students",
+      "link": "https://phys.org/news/2026-05-digital-environments-generate-moderate-psychological.html",
+      "date": "2026-05-14 20:35",
+      "summary": "An international research team, led by the University of Warwick and the Universitat Autònoma de Barcelona (UAB), in collaboration..."
     },
     {
-      "title": "A new method could help Washington shellfish farmers control a pesky shrimp",
-      "link": "https://phys.org/news/2026-05-method-washington-shellfish-farmers-pesky.html",
-      "date": "2026-05-14 18:11",
-      "summary": "Burrowing shrimp are small marine excavators native to Washington. They make their homes deep in the sediment by digging, turning ..."
+      "title": "Physics in uncharted waters: The mysteries of marine snow",
+      "link": "https://phys.org/news/2026-05-physics-uncharted-mysteries-marine.html",
+      "date": "2026-05-14 20:30",
+      "summary": "Can \"snow\" fall in the ocean and influence the climate of the entire planet? It turns out that it can. Research conducted by scien..."
     },
     {
-      "title": "Mathematical analysis reveals a hidden 'golden rule' in abstract art",
-      "link": "https://phys.org/news/2026-05-mathematical-analysis-reveals-hidden-golden.html",
-      "date": "2026-05-14 18:00",
-      "summary": "A mathematical method borrowed from topology can reveal structural properties of visual art that correspond to how people perceive..."
+      "title": "Engineered proteins store digital files with 30 times density at one-tenth cost",
+      "link": "https://phys.org/news/2026-05-proteins-digital-density-tenth.html",
+      "date": "2026-05-14 20:28",
+      "summary": "Massive volumes of digital data are generated every day from AI training, big data analytics and smart devices. As conventional ha..."
     },
     {
-      "title": "Summers are getting longer each year, and it isn't all fun and games",
-      "link": "https://phys.org/news/2026-05-summers-longer-year-isnt-fun.html",
-      "date": "2026-05-14 17:43",
-      "summary": "Do you have the sense that summers feel different than when you were younger? That they start earlier, arrive quickly and remain i..."
+      "title": "Hyperspectral imaging to map Gran Dolina's oldest sediments and fossils in infrared",
+      "link": "https://phys.org/news/2026-05-hyperspectral-imaging-gran-dolina-oldest.html",
+      "date": "2026-05-14 20:23",
+      "summary": "The Centro Nacional de Investigación sobre la Evolución Humana (CENIEH) and the Instituto Tecnológico de Castilla y León (ITCL) ha..."
     }
   ],
   "The Guardian Edu": [
