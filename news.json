@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "Mental-health research is too often invisible — it is time to change that",
+      "link": "https://www.nature.com/articles/d41586-026-01550-4",
+      "date": "2026-05-14 00:00",
+      "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01550-4Mental illness needs visibility more urgently than almost any..."
+    },
+    {
       "title": "Stereoelectronic manipulation of ligands for perovskite solar cells",
       "link": "https://www.nature.com/articles/s41586-026-10626-0",
       "date": "2026-05-13 00:00",
@@ -119,15 +125,15 @@
       "link": "https://www.nature.com/articles/d41586-026-01505-9",
       "date": "2026-05-13 00:00",
       "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01505-9Rare isotopes hint at when the Solar System entered the Local..."
-    },
-    {
-      "title": "An ultra-faint, chemically primitive galaxy forming in the reionization era",
-      "link": "https://www.nature.com/articles/s41586-026-10374-1",
-      "date": "2026-05-13 00:00",
-      "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10374-1LAP1-B—an ultra-faint and tiny galaxy that formed in the reio..."
     }
   ],
   "Science News": [
+    {
+      "title": "Molecules emerge as a new kind of building block for quantum computers",
+      "link": "https://www.science.org/content/article/molecules-emerge-new-kind-building-block-quantum-computers",
+      "date": "2026-05-14 11:52",
+      "summary": "Storing quantum information in designer molecules could hold advantages over atoms, ions, and other kinds of qubits..."
+    },
     {
       "title": "Boy’s brain tumor tied to gene therapy",
       "link": "https://www.science.org/content/article/boy-s-brain-tumor-tied-gene-therapy",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/fluffy-ice-could-imperil-spacecraft-landings-ocean-moons",
       "date": "2026-05-13 10:35",
       "summary": "Water erupted from cryovolcanoes may freeze into thick but fragile layers on Europa and Enceladus..."
-    },
-    {
-      "title": "Virologist accused of starting COVID-19 will fight U.S. ban on funding",
-      "link": "https://www.science.org/content/article/virologist-accused-starting-covid-19-will-fight-u-s-ban-funding",
-      "date": "2026-05-12 06:35",
-      "summary": "HHS memo says Ralph Baric had a “pattern of deception” in describing virus studies long before pandemic..."
     }
   ],
   "Retraction Watch": [
@@ -199,16 +199,16 @@
       "summary": "AI boom puts SK Hynix on cusp of $1 trillion market value  Reuters..."
     },
     {
-      "title": "Exclusive: Microsoft eyeing startup deals for life after OpenAI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2VyeEVUTWlmTUQtd0tKanlmR2l5ZmxPMXp5UFdnTGljWnlZX1ZhRGFBZVZjZU44U3dZS2dKQVFHcVpncVp6VUJIVFpicWpxMUxEZ1cwTTdyUl9xZVNES3NiVnZNTUp2czFKWkNWSW5EVVFBV2tZOG9laDdDVU42cFZDeUtpbFJjWnhWT2xMOEg4QU1D?oc=5",
-      "date": "2026-05-13 20:52",
-      "summary": "Exclusive: Microsoft eyeing startup deals for life after OpenAI  Reuters..."
-    },
-    {
       "title": "Thomson Reuters boss says AI licensing deals only involve archive text - Press Gazette",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkVma2JDRWUwS1ZrNm9zVWpGRkhKb0loc0pQVGptZ3RTamQzWVFrTE9TMjhUTjlGaGhDajhYOHEtbnNMbE5Sc1BpSGgtai11UnRrUExtTzJJUlNUR18tRGt2M285M3B2X0ZQLXk1X1ZmLTA2OXZ0ZDNuT3c5YmlJLV9PMjE5djBWQ2oxTzJsSWo1d1VYV2JXNFVGbjd6U1lJYXV6b1Y3SnJDVlRZOVRGXzM3cEU2Wi1XUFJsQ3ZZNHBwbkJSZzc0?oc=5",
       "date": "2026-05-12 08:59",
       "summary": "Thomson Reuters boss says AI licensing deals only involve archive text  Press Gazette..."
+    },
+    {
+      "title": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmFZS3BkVlpLam83ekJJNVQ2N0ZBVERuU2R3Y0R5VWZMZzgtdk0zaHZPdWoyc1hpVTNOZElZdGRma0lIeFZWWGpjaFIzUG5ORUtnWFVpUmFEazkyblRiVHNLVlpXTFdKaVZrS3Q5LXdGeEg4QW9ycDV4M0pNNEpCb2xVNjRVdV9XNDVnYXFram9QRWg1YTNGZ193bE44UzR2QUdPamV3Z0JSb285c0M0U09RN29ZdGR0TTdvcEZkcmNJeHFmOENrLXNkMjJzUHFBc2NaSA?oc=5",
+      "date": "2026-05-14 15:04",
+      "summary": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education  Reuters..."
     },
     {
       "title": "Cisco to cut about 4,000 jobs in AI-focused restructuring as orders surge - Reuters",
@@ -225,12 +225,6 @@
   ],
   "MIT Tech Review": [
     {
-      "title": "AI chatbots are giving out people’s real phone numbers - technologyreview.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJYU2ZXb2RNSXM4UkhOZzFrNTVEYU50WHlRVlp5T1cyNXFoUXBoNl9XX0ZXTWNsZjAyWTNSRF9YQnJ5UUxCR19HeTFpdGxCNVNiZFQzdHpwVUU2SFVXeHUxd0UwM0ZfeGpwYzZxUEtONHREX0dhLUVydmd2SVdBVVoyOGFhR0Y1akxXdjZ3UENJUF9CMHRzM21EX2RKajRqTmhVRTZGck9kUdIBrwFBVV95cUxNd0pHWnh4aEU3elVyWDBocEtIR2lJMDJONUJoU2kxeV92cEY3dGREVlVCWURuOEdzZVFSNXpVSW15alBveFhpQU5FTXZveFFhc2dJXzZkaGRzUzhoMnhGZldWa3ZJdkRLTE1mZnJLM000UE0tNmJ3bmQwWmZ6djl4UVBfZGZxWmhSMGlqNDYyU0p3cjVxX1ZKV194bGYyME8ybVJLMlhiT2R4Q1FKTmlJ?oc=5",
-      "date": "2026-05-13 18:09",
-      "summary": "AI chatbots are giving out people’s real phone numbers  technologyreview.com..."
-    },
-    {
       "title": "Data readiness for agentic AI in financial services - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnlPMzhWQ3FpMTVDaHlFUzVpMlZicktTREtjMXJRQlZGTzNULXVhSFdxMHN3ZVA5azlDMlpIa1RuUzYyRFQ2eHg0ajVEeWRIcEtub2F2N2V6b08yYUxXQ1kyTUN0ZFZLWEtrRXhsbTF3RzlQcW13aXlfNFRqZ3E2UDh5dXZmcVFhMHY5T0NvR0k1a1JpcHJoVmU4X3hMdENXcHFucHhxNNIBrAFBVV95cUxQbGxsSDBTUkk3Y1k4WEprTjRMUmJhSXNENFJUczhueHowM0lFb09Xc1pCaU9qTGl5TTlxMXFDeThzaWkxZkoteW41eHNLUTF1S2xwR3Y5bXBZRi1fVmR4SUtrWUVKZk9QT0k4YjNnSWxQczRPaEZsRUVUVWY2UmdYY0EyZ1VRSGZhck1DRm56UWZ2UEJZeDlMaHpzYklXUnl4Q25uUGhZSGhMc1BZ?oc=5",
       "date": "2026-05-14 13:00",
@@ -243,48 +237,54 @@
       "summary": "Establishing AI and data sovereignty in the age of autonomous systems  technologyreview.com..."
     },
     {
+      "title": "AI chatbots are giving out people’s real phone numbers - technologyreview.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJYU2ZXb2RNSXM4UkhOZzFrNTVEYU50WHlRVlp5T1cyNXFoUXBoNl9XX0ZXTWNsZjAyWTNSRF9YQnJ5UUxCR19HeTFpdGxCNVNiZFQzdHpwVUU2SFVXeHUxd0UwM0ZfeGpwYzZxUEtONHREX0dhLUVydmd2SVdBVVoyOGFhR0Y1akxXdjZ3UENJUF9CMHRzM21EX2RKajRqTmhVRTZGck9kUdIBrwFBVV95cUxNd0pHWnh4aEU3elVyWDBocEtIR2lJMDJONUJoU2kxeV92cEY3dGREVlVCWURuOEdzZVFSNXpVSW15alBveFhpQU5FTXZveFFhc2dJXzZkaGRzUzhoMnhGZldWa3ZJdkRLTE1mZnJLM000UE0tNmJ3bmQwWmZ6djl4UVBfZGZxWmhSMGlqNDYyU0p3cjVxX1ZKV194bGYyME8ybVJLMlhiT2R4Q1FKTmlJ?oc=5",
+      "date": "2026-05-13 18:09",
+      "summary": "AI chatbots are giving out people’s real phone numbers  technologyreview.com..."
+    },
+    {
+      "title": "Sovereignty Is the New Operating System for Agentic AI, New MIT Technology Review Insights Report Finds - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZkxYbWZmWHBreEVaRXY1RVYxeXpOUGdObjdKT1laaUVtZjBXWHdfV25pMmZDRXVLR0lZOTJJcTRYa0NoZU9EYnV3bzE4MlBMZkNTdFdhSDZhWVhZVkFfSGh3dGhKWWFuRkJuU2Z5dFBPLXdDa2RyNHBNbUhGM1VIWG9aNkdqQTJ4YkNkbnVHWHRRejVrSWdsRHY5dUZrN2tKcG1Qd3dQb1B5U0txMDgwdnMzZXB0eTlNb3k1SVo3MU5jbFVMempjOFRkNVQ5LUlBX1kybHZZYkVJT0E2dUhiaXJfUGp4bU1rQUg1SGZySQ?oc=5",
+      "date": "2026-05-14 12:36",
+      "summary": "Sovereignty Is the New Operating System for Agentic AI, New MIT Technology Review Insights Report Finds  PR Newswire..."
+    },
+    {
       "title": "A plan to make drugs in orbit is going commercial - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkhZRUhKbFZmM3pQWms0SkF4WlhuMlEtUkQ0eE05Tlh3VU5UNHM1VEo4bjVTQVlJemxoZ3VRMGZfZ0ZvRmJXU0xEZS0xd25sd2VBTEpPem5PTnZvYWRGYk91S25HRnhGRHBzMjZrTkZZajhsekhiZVAzTWpyMjUtWWpONlJycVNrcXdqNmJkMEwwWnY1SU5iR3d1OXpjdHRaMzJlUXk0LS0yd9IBrwFBVV95cUxNUlk5d2MyT1U2VmN1aF9sLW9jNVIyRzFuVjROaWVnX21wS0RERmZ3ZEhmazFwMzVvYXRJQ1hHaDVMUEwzb3hKUmlMaS1QUUJCS2JXM3Z2UU0wTHRJZ1Z5bnU4STUtMnoxaEg5RnZfUURqQVNzYkZ1eHNic3BhdHdUNEVJUWpfTi1uVFVvc0IxQWowWVhRdTZzM0dvWkpCaV9UNWZqeEx3ZExNVnN2X0w4?oc=5",
       "date": "2026-05-13 10:00",
       "summary": "A plan to make drugs in orbit is going commercial  technologyreview.com..."
-    },
-    {
-      "title": "Sovereignty Is the New Operating System for Agentic AI, New MIT Technology Review Insights Report Finds - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRV9ndU0zOTZiTmViUzI4bTVnak5nTXZyUXNpSUFyVy1mN1ZxS1VVejZwQjFQOWhZc244SF9Oa19Tb1ZObjRHVzRCc3ZyclhtVU5YT2NjWWJFaExOVlZ5c1NWNWlWTEpLNkpFS29QYWM1UUtEMUpUNlNBUVNVQ1JQYzg3eWxTbG9vSExzQTFBSWlYMWYxX3ZtQVFMNWJFX0lrVTVZN1M4N1ZWRzFW?oc=5",
-      "date": "2026-05-14 12:36",
-      "summary": "Sovereignty Is the New Operating System for Agentic AI, New MIT Technology Review Insights Report Finds  Yahoo Finance..."
     }
   ],
   "Phys.org": [
     {
-      "title": "'Learning recession' in US schools predates pandemic: Report",
-      "link": "https://phys.org/news/2026-05-recession-schools-predates-pandemic.html",
-      "date": "2026-05-14 13:33",
-      "summary": "A new analysis of student test scores reveals that American schools were in a \"learning recession\" for seven years before the COVI..."
+      "title": "Combinations of climate extremes may prompt carbon budget rethink",
+      "link": "https://phys.org/news/2026-05-combinations-climate-extremes-prompt-carbon.html",
+      "date": "2026-05-14 16:57",
+      "summary": "Combined extreme climate events are likely to become more common in the future if carbon emissions continue to rise, a paper in Na..."
     },
     {
-      "title": "The high‑tech shipbuilding methods that helped Vikings dominate the seas",
-      "link": "https://phys.org/news/2026-05-hightech-shipbuilding-methods-vikings-dominate.html",
-      "date": "2026-05-14 13:24",
-      "summary": "Images of the sleek keels, elegant planks, and dragon-headed prows of Viking longships have been reproduced countless times on pos..."
+      "title": "Discovery of antimicrobial peptides in ant venom has far-reaching implications",
+      "link": "https://phys.org/news/2026-05-discovery-antimicrobial-peptides-ant-venom.html",
+      "date": "2026-05-14 16:53",
+      "summary": "In addition to serving as biochemical weapons for offense and defense, the venoms produced by ants in the subfamily Formicinae als..."
     },
     {
-      "title": "Hairy new fish species discovered in the Great Barrier Reef",
-      "link": "https://phys.org/news/2026-05-hairy-fish-species-great-barrier.html",
-      "date": "2026-05-14 13:20",
-      "summary": "Swimming among the corals of the Great Barrier Reef is a fish that could be a doppelganger for the famous Sesame Street character ..."
+      "title": "Large-scale eDNA survey reveals hidden factors that affect regional fish communities",
+      "link": "https://phys.org/news/2026-05-large-scale-edna-survey-reveals.html",
+      "date": "2026-05-14 16:49",
+      "summary": "As climate change and human activities continually ramp up, fish are forced to find ways to adapt. As fish move around to find mor..."
     },
     {
-      "title": "Privately educated CEOs seen as 'safer bets' despite no evidence they are",
-      "link": "https://phys.org/news/2026-05-privately-ceos-safer-evidence.html",
-      "date": "2026-05-14 13:16",
-      "summary": "Investors may be mistaking privilege for competence, rewarding privately educated CEOs with lower perceived risk despite no eviden..."
+      "title": "Mathematicians prove existence of Kaleidocycles then unlock their exact motion",
+      "link": "https://phys.org/news/2026-05-mathematicians-kaleidocycles-exact-motion.html",
+      "date": "2026-05-14 16:36",
+      "summary": "Kaleidocycles are flexible polyhedral structures composed of rigid tetrahedra connected along their edges to form rotating rings. ..."
     },
     {
-      "title": "'PrincipalGPT' creates a new AI blueprint for legal literacy in the classroom",
-      "link": "https://phys.org/news/2026-05-principalgpt-ai-blueprint-legal-literacy.html",
-      "date": "2026-05-14 13:14",
-      "summary": "Moving legal studies from the textbook to the digital arena, a new AI-based model for K-12 learning is taking shape at the Univers..."
+      "title": "Astrophysicists use 'space archaeology' to trace the history of a spiral galaxy",
+      "link": "https://phys.org/news/2026-05-astrophysicists-space-archaeology-history-spiral.html",
+      "date": "2026-05-14 16:28",
+      "summary": "Billions of years ago, a young spiral galaxy began to grow in a crowded part of the universe. It pulled in gas and small companion..."
     }
   ],
   "The Guardian Edu": [
@@ -321,13 +321,19 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Truck driver arrested after accident leaves 1 highway worker dead, 5 others hurt",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3353609/truck-driver-arrested-after-accident-leaves-1-highway-worker-dead-5-others-hurt?utm_source=rss_feed",
+      "date": "2026-05-14 16:17",
+      "summary": "Hong Kong police arrested a driver after his truck hit a parked vehicle and killed a worker on a closed section of the Cheung Tsin..."
+    },
+    {
       "title": "Medical blunder probe opened over death linked to improperly sealed catheter",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3353601/medical-blunder-probe-opened-over-death-linked-improperly-sealed-catheter?utm_source=rss_feed",
       "date": "2026-05-14 13:23",
       "summary": "Hong Kong health authorities have opened an investigation into a suspected medical blunder involving an improperly sealed catheter..."
     },
     {
-      "title": "Hong Kong project helps turn around lives of special needs children and their parents",
+      "title": "Broke with autistic son, she thought about suicide. A charity changed their lives",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3353596/hong-kong-project-helps-turn-around-lives-special-needs-children-and-their-parents?utm_source=rss_feed",
       "date": "2026-05-14 13:00",
       "summary": "Wrestling with mounting financial difficulties and the challenges of caring for a child with autism, Hong Kong mother Chau Ting-ti..."
@@ -343,15 +349,21 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3353588/why-hong-kong-scientists-think-glp-1-weight-loss-drugs-can-help-stroke-patients?utm_source=rss_feed",
       "date": "2026-05-14 11:28",
       "summary": "Popular weight-loss injections have the potential to help patients recover from severe strokes when used alongside a surgical proc..."
-    },
-    {
-      "title": "Hong Kong court freezes HK$9 billion in assets and properties tied to Chen Zhi",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3353556/hong-kong-court-freezes-hk9-billion-assets-properties-linked-chen-zhi?utm_source=rss_feed",
-      "date": "2026-05-14 08:53",
-      "summary": "A Hong Kong court has ordered the freezing of properties and assets worth more than HK$9 billion (US$1.15 billion) held by detaine..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Vocal fry is more common in men, actually, find scientists",
+      "link": "https://www.newscientist.com/article/2526201-vocal-fry-is-more-common-in-men-actually-find-scientists/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-14 15:40",
+      "summary": "The creaky noise known as vocal fry that people generally associate with young women – and some find irritating – is actually more..."
+    },
+    {
+      "title": "Will burying dead trees after a wildfire keep their carbon locked up?",
+      "link": "https://www.newscientist.com/article/2526532-will-burying-dead-trees-after-a-wildfire-keep-their-carbon-locked-up/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-14 14:00",
+      "summary": "Partially burnt trees still standing after a wildfire are typically felled and burned, but a US start-up claims burying them inste..."
+    },
     {
       "title": "Rebooting stem cells builds aged muscles and assists injury recovery",
       "link": "https://www.newscientist.com/article/2526626-rebooting-stem-cells-builds-aged-muscles-and-assists-injury-recovery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -359,8 +371,8 @@
       "summary": "Muscle stem cells, which are crucial for building new muscle, don’t work as well as we get older, but giving them an artificial bo..."
     },
     {
-      "title": "Melting of Greenland ice sheet could release large stores of methane",
-      "link": "https://www.newscientist.com/article/2526620-melting-of-greenland-ice-sheet-could-release-large-stores-of-methane/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "title": "Melting of Greenland ice sheet could release methane 'fire ice'",
+      "link": "https://www.newscientist.com/article/2526620-melting-of-greenland-ice-sheet-could-release-methane-fire-ice/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-14 10:00",
       "summary": "Seismic surveys and sediment cores suggest that dozens of deep pockmarks on the sea floor were created when Arctic methane stores ..."
     },
@@ -369,18 +381,6 @@
       "link": "https://www.newscientist.com/article/2526440-neanderthals-treated-a-dental-cavity-by-drilling-into-the-tooth/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-13 19:00",
       "summary": "A Neanderthal tooth shows clear signs of human intervention to treat bacterial decay, showing that the earliest dentistry began at..."
-    },
-    {
-      "title": "Arctic fires are releasing carbon stored for thousands of years",
-      "link": "https://www.newscientist.com/article/2526362-arctic-fires-are-releasing-carbon-stored-for-thousands-of-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-13 18:00",
-      "summary": "A study of soils around the Arctic and boreal forests has found that some wildfires are releasing carbon stored over millennia, me..."
-    },
-    {
-      "title": "Asteroid set to fly very close to Earth",
-      "link": "https://www.newscientist.com/article/2526328-asteroid-set-to-fly-very-close-to-earth/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-13 16:08",
-      "summary": "Asteroid 2026JH2 has enough mass to wipe out a city and will zoom past Earth next week..."
     }
   ]
 }
