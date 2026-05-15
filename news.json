@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "CDC plan to retire lab monkeys to Texas sanctuary draws ire",
+      "link": "https://www.science.org/content/article/cdc-plan-retire-lab-monkeys-texas-sanctuary-draws-ire",
+      "date": "2026-05-15 05:30",
+      "summary": "Critics say proposal was rushed and could endanger the animals..."
+    },
+    {
       "title": "Rare seals spotted snoozing in an underwater ‘bubble cave’",
       "link": "https://www.science.org/content/article/rare-seals-spotted-snoozing-underwater-bubble-cave",
       "date": "2026-05-15 12:25",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/chinese-european-mission-reveal-shape-earth-s-magnetic-shield",
       "date": "2026-05-15 10:00",
       "summary": "SMILE orbiter will use x-rays to map how the solar wind batters the magnetosphere..."
-    },
-    {
-      "title": "In unreleased document, fired U.S. science board issues stark warning about keeping pace with China",
-      "link": "https://www.science.org/content/article/unreleased-document-fired-u-s-science-board-issues-stark-warning-about-keeping-pace",
-      "date": "2026-05-14 02:15",
-      "summary": "The National Science Board urges robust response to China’s rise in cover letter to its biennial report on the global research ent..."
     }
   ],
   "Retraction Watch": [
@@ -217,10 +217,10 @@
       "summary": "Institutional investors boosted holdings of AI infrastructure plays during first quarter  Reuters..."
     },
     {
-      "title": "At Cannes, filmmakers shift towards cautious acceptance of AI's inevitability - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmZOMzNGc0xYWm1RUG9OQndDUWxPeGZlSVM0T1hiR1ViRmFfMFhvTWVqUlB2RlgxQ0FSdjRWTVNzZWpXSXc3QmZxSzFRazBibExDXzlva29UcXJPWlhNNzVmdFExc0FEY1hkZlN5X3dhVW9Wa1NyWjVuMDNwUEdRSnZuUUhUSkt2cmljWTBxdUdrcEhCNG1fenJtNXFmTjZmTFNUaDhuNDNQZmVxdFdHZ2NpVmppUQ?oc=5",
-      "date": "2026-05-15 12:05",
-      "summary": "At Cannes, filmmakers shift towards cautious acceptance of AI's inevitability  Reuters..."
+      "title": "No lawyer? No money? More Americans are suing with AI help - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXgyLU9wTEFzVE5zOTVoZWtiMXRtMlFYcVpFdWgtNnlXeHUyRHRJNUtRTjhYRmZsMTE0NWN4VzFMelBzN3FCZERJMWplTk9EMWUyREVTdjB3ZFpmNExVX0dZa19tUzh4d1RKc2JWZ3dtTlhnUnJ3ZGFfVGI1eHBLdEo1T1V6V0lXLXRJZFZWajd4R2pGQXNvTHl5Z0dXTTVYNkNVWjJQYUpvMm1ZeXc?oc=5",
+      "date": "2026-05-15 18:31",
+      "summary": "No lawyer? No money? More Americans are suing with AI help  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -231,16 +231,16 @@
       "summary": "The world is on track to miss its health targets  MIT Technology Review..."
     },
     {
-      "title": "How Chinese short dramas became AI content machines - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0pCQW0wLXNiYjREWDFHMjNpY01pazdJRjFDeV9lejNzY2R0V0xucUJHb0pvbEsxQ1dtaU84RjFEZDhuejhNd2Joc0lBSXZaUUtVUWcwRHZKb1lJUEo1REl1SDdBSmVudG95OGVCX3poSlB4R1R4T1J5dUhmMnNDS1B30gGHAUFVX3lxTE5MUkhQTmRYaHM3dEdXS1FvQXQ3VndEVUR6Q0VkT1gzVGtpVE1WS1llVlR4WjJTTko0ZFdIeGdoUlk1eFM0R0VMM1liYjRVeE1DV3psMlIzV2VrM1gtNWl1bGJONU90STFjY2xwR1A1M29ZOWlaM0VRWXRvejhIcWE1RlhTYmhmSQ?oc=5",
-      "date": "2026-05-15 09:00",
-      "summary": "How Chinese short dramas became AI content machines  MIT Technology Review..."
-    },
-    {
       "title": "A plan to make drugs in orbit is going commercial - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkhZRUhKbFZmM3pQWms0SkF4WlhuMlEtUkQ0eE05Tlh3VU5UNHM1VEo4bjVTQVlJemxoZ3VRMGZfZ0ZvRmJXU0xEZS0xd25sd2VBTEpPem5PTnZvYWRGYk91S25HRnhGRHBzMjZrTkZZajhsekhiZVAzTWpyMjUtWWpONlJycVNrcXdqNmJkMEwwWnY1SU5iR3d1OXpjdHRaMzJlUXk0LS0yd9IBrwFBVV95cUxNUlk5d2MyT1U2VmN1aF9sLW9jNVIyRzFuVjROaWVnX21wS0RERmZ3ZEhmazFwMzVvYXRJQ1hHaDVMUEwzb3hKUmlMaS1QUUJCS2JXM3Z2UU0wTHRJZ1Z5bnU4STUtMnoxaEg5RnZfUURqQVNzYkZ1eHNic3BhdHdUNEVJUWpfTi1uVFVvc0IxQWowWVhRdTZzM0dvWkpCaV9UNWZqeEx3ZExNVnN2X0w4?oc=5",
       "date": "2026-05-13 10:00",
       "summary": "A plan to make drugs in orbit is going commercial  MIT Technology Review..."
+    },
+    {
+      "title": "How Chinese short dramas became AI content machines - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0pCQW0wLXNiYjREWDFHMjNpY01pazdJRjFDeV9lejNzY2R0V0xucUJHb0pvbEsxQ1dtaU84RjFEZDhuejhNd2Joc0lBSXZaUUtVUWcwRHZKb1lJUEo1REl1SDdBSmVudG95OGVCX3poSlB4R1R4T1J5dUhmMnNDS1B30gGHAUFVX3lxTE5MUkhQTmRYaHM3dEdXS1FvQXQ3VndEVUR6Q0VkT1gzVGtpVE1WS1llVlR4WjJTTko0ZFdIeGdoUlk1eFM0R0VMM1liYjRVeE1DV3psMlIzV2VrM1gtNWl1bGJONU90STFjY2xwR1A1M29ZOWlaM0VRWXRvejhIcWE1RlhTYmhmSQ?oc=5",
+      "date": "2026-05-15 09:00",
+      "summary": "How Chinese short dramas became AI content machines  MIT Technology Review..."
     },
     {
       "title": "AI chatbots are giving out people’s real phone numbers - MIT Technology Review",
@@ -256,6 +256,12 @@
     }
   ],
   "Phys.org": [
+    {
+      "title": "RNA's first letter may shape antiviral alarms, with A outpacing G",
+      "link": "https://phys.org/news/2026-05-rna-letter-antiviral-alarms-outpacing.html",
+      "date": "2026-05-15 22:20",
+      "summary": "Researchers at the International Institute of Molecular and Cell Biology in Warsaw (IIMCB), led by Prof. Gracjan Michlewski, have ..."
+    },
     {
       "title": "Sustainable chemistry: Iron substitutes noble metals in catalytic reactions",
       "link": "https://phys.org/news/2026-05-sustainable-chemistry-iron-substitutes-noble.html",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-05-scientists-hidden-antarctic-ice-loss.html",
       "date": "2026-05-15 18:40",
       "summary": "For years, scientists have warned that melting Antarctic ice could push sea levels dangerously higher by the end of this century. ..."
-    },
-    {
-      "title": "Single-molecule RNA mapping may reveal how shape shifts steer health and disease",
-      "link": "https://phys.org/news/2026-05-molecule-rna-reveal-shifts-health.html",
-      "date": "2026-05-15 18:20",
-      "summary": "Researchers from A*STAR Genome Institute of Singapore (A*STAR GIS) have developed a new method to study individual RNA molecules a..."
     }
   ],
   "The Guardian Edu": [
