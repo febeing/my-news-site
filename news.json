@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "Major outbreak of rare Ebola virus species in northern Congo alarms scientists",
+      "link": "https://www.science.org/content/article/major-outbreak-rare-ebola-virus-species-northern-congo-alarms-scientists",
+      "date": "2026-05-16 11:00",
+      "summary": "No vaccines exist for Ebola Bundibugyo, which has caused 80 suspected deaths in the Democratic Republic of the Congo and one in Ug..."
+    },
+    {
       "title": "CDC plan to retire lab monkeys to Texas sanctuary draws ire",
       "link": "https://www.science.org/content/article/cdc-plan-retire-lab-monkeys-texas-sanctuary-draws-ire",
       "date": "2026-05-15 05:30",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/making-eyes-photosynthetic-could-treat-common-vision-problem",
       "date": "2026-05-15 11:00",
       "summary": "Relocating plants’ light-capturing structures to the eye may fight damage from dry eye..."
-    },
-    {
-      "title": "Chinese-European mission to reveal shape of Earth’s magnetic shield",
-      "link": "https://www.science.org/content/article/chinese-european-mission-reveal-shape-earth-s-magnetic-shield",
-      "date": "2026-05-15 10:00",
-      "summary": "SMILE orbiter will use x-rays to map how the solar wind batters the magnetosphere..."
     }
   ],
   "Retraction Watch": [
@@ -243,19 +243,37 @@
       "summary": "How Chinese short dramas became AI content machines  MIT Technology Review..."
     },
     {
+      "title": "World Models: 10 Things That Matter in AI Right Now - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHFGclotQ3FkT2NKeUJ3WXRmZFdXYXo5Sm55em90Yk5GSEg3enpGbUZSVzM5c1NqYUZJc29zeUNhZFg2VXZ4c3JUeVVmdll2ejltRXowOW9ibzhBLWM4RTFrSWNuRkdva3ZqaXZ0SUNINXNxTFJmaDlYb0JHQ0xxaXNmY0JYdkotbDE0X3l1WU9la0VLNTIyNjc0eHh2Vkg4YmkxN0ZB0gGrAUFVX3lxTE94VkNiTzNTeFFzdkJmQzlyNU9VcV9nWmpMYmFac3d1SGtoNGJwVm51cFRjd01MemdkekF5b3BodTE2eEQ4VkNjTXdzZkxPRzQ5WkU3amFzTURfUzF4dXQwZjVOVDBEN3l1SEJYOFdGTTNIOE8tcTAyQ0V4TXMwQWpqSUNYeVcyOGVsNU5scEFWdUF4MEh3VEJWU0ZZc1BjenYtcXNrX3hSQkl1SQ?oc=5",
+      "date": "2026-05-12 16:33",
+      "summary": "World Models: 10 Things That Matter in AI Right Now  MIT Technology Review..."
+    },
+    {
       "title": "Three things in AI to watch, according to a Nobel-winning economist - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVpMTjNNa1E1eU01WmEyb0lnOU5qYlRETUdyWVFHbzJacHVoR0lVeFQ5NGZNM1A0a3dGX2ZxaENVVTJtT2RWSDlQTDBqTE5NVk96NTN0dWhYb3Vma041cFFzZDR1cWVWYkVrcnQ3TThpdFdXZnl5bEtlMTlBNHY3cGMzUXI1aWNYUWZHTk4yZ0tUb1F4S1E4bC1relo3T1VQRnFncFlSS1FvSnRrbWRPYmZ2M082Ylc3bGo00gHAAUFVX3lxTFBQcDhWUDdTOXJYX0dXVEdBMmVObVlacGNJb0JYcUJCS2wxWkNXbEFFUXdFem9jYzRfUm5NTllaOFRXZ0JiSnhzQ2REQ2Y5UUg3R2lEMGNFcGU2YUlxRmp1ZmdFcVRLWUFtb3N4cE9feG8xUWVvVGluSXpmMXVuMVl3Q3FCU1phcENuMmwxQWVjWURXVk9heXh1cFVOblFmc3JVVmtOcHhMZ2xtbGxCTko4M2w0WDlxSEdHOXpCekllcA?oc=5",
       "date": "2026-05-11 17:35",
       "summary": "Three things in AI to watch, according to a Nobel-winning economist  MIT Technology Review..."
-    },
-    {
-      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sQkpHelE1QXdqbm85ejBObFZzU19qbjBodXNqMVcyQkZyblUxbzctZ3pMRElqR2R3alhzSzNMbEhnTTkzb0VJclhoUE02QkVTb21La041T1hXMmNlVUtkRHh1SUJvdURzbzFFMWhqeEdGMjRfbFJGbm5LR2xLZ9IBgwFBVV95cUxQcS1IZzBWQ0tjdm1nSmVCRnhvSTd5MjBIRHNsM2Jpd01kOGpqRGlGUUh0cFYxblhsM3VYS0dxUlBscjU1QVlySzJ5NVRCdFIxOTdKRXlzSXoyTEpiWF90b1ltcVFYUWhnWmF3VWhOM3dEUkMybFJESXMzYmVCblVadGx5aw?oc=5",
-      "date": "2026-05-15 23:39",
-      "summary": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.  MIT Technology ..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Common cancer protein may be therapeutic target, study finds",
+      "link": "https://phys.org/news/2026-05-common-cancer-protein-therapeutic.html",
+      "date": "2026-05-16 17:00",
+      "summary": "A protein doctors routinely use to measure how aggressively tumors are growing may also help prevent the chromosome errors that dr..."
+    },
+    {
+      "title": "Why some water fleas suddenly grow helmets: Key receptors reveal how predator warnings trigger defense",
+      "link": "https://phys.org/news/2026-05-fleas-suddenly-helmets-key-receptors.html",
+      "date": "2026-05-16 16:00",
+      "summary": "Daphnia, commonly known as water fleas, are tiny crustaceans that live in freshwater ponds and lakes. When they sense predators in..."
+    },
+    {
+      "title": "If AI can translate instantly, why learn another language?",
+      "link": "https://phys.org/news/2026-05-ai-instantly-language.html",
+      "date": "2026-05-16 16:00",
+      "summary": "From live speech translation in video calls to auto-dubbing on TikTok, the technology to dissolve language barriers has arrived. R..."
+    },
     {
       "title": "New recyclable protein textiles could cut microplastic pollution and lower clothing waste",
       "link": "https://phys.org/news/2026-05-recyclable-protein-textiles-microplastic-pollution.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-05-multi-actor-collaboration-landscape-approaches.html",
       "date": "2026-05-16 14:30",
       "summary": "A comprehensive scoping review reveals that participatory practices are central to the success of multi-actor collaboration in lan..."
-    },
-    {
-      "title": "Lobster embryo microbiomes remain resilient in future ocean conditions, sequencing reveals",
-      "link": "https://phys.org/news/2026-05-lobster-embryo-microbiomes-resilient-future.html",
-      "date": "2026-05-16 14:00",
-      "summary": "As ocean temperatures rise and marine ecosystems change, scientists are working to understand how valuable species like the Americ..."
-    },
-    {
-      "title": "Saturday Citations: Prehistoric dentistry; sleep and aging; our photogenic sun",
-      "link": "https://phys.org/news/2026-05-saturday-citations-prehistoric-dentistry-aging.html",
-      "date": "2026-05-16 13:00",
-      "summary": "This week in science news: Are you a mosquito magnet? Here's why. Researchers using topological mathematics have uncovered a hidde..."
-    },
-    {
-      "title": "Medieval teeth open a new perspective on leprosy care and toxic medicine",
-      "link": "https://phys.org/news/2026-05-medieval-teeth-perspective-leprosy-toxic.html",
-      "date": "2026-05-16 12:10",
-      "summary": "A recent study published in the Journal of Archaeological Science, led by Dr. Elena Fiorin and her colleagues investigated the pot..."
     }
   ],
   "The Guardian Edu": [
@@ -349,6 +349,38 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3353818/man-infected-rat-hepatitis-e-hong-kongs-first-case-year?utm_source=rss_feed",
       "date": "2026-05-16 10:03",
       "summary": "Health authorities are investigating a human case of rat hepatitis E – the first recorded in Hong Kong this year – and have urged ..."
+    }
+  ],
+  "New Scientist": [
+    {
+      "title": "Himalayan wolf-dog hybrids emerge as a threat to wolves and people",
+      "link": "https://www.newscientist.com/article/2526663-himalayan-wolf-dog-hybrids-emerge-as-a-threat-to-wolves-and-people/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-16 08:00",
+      "summary": "In Ladakh, Himalayan wolves are increasingly breeding with feral dogs, giving rise to a new animal known as khipshang that could i..."
+    },
+    {
+      "title": "First test of CO2 removal with green sand finds no harm to marine life",
+      "link": "https://www.newscientist.com/article/2526197-first-test-of-co2-removal-with-green-sand-finds-no-harm-to-marine-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-15 15:41",
+      "summary": "Adding olivine to the ocean could remove CO2 from the atmosphere, and a pilot project in New York state found no signs of adverse ..."
+    },
+    {
+      "title": "SpaceX is about to launch tallest and most powerful rocket in history",
+      "link": "https://www.newscientist.com/article/2526402-spacex-is-about-to-launch-tallest-and-most-powerful-rocket-in-history/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-15 15:00",
+      "summary": "A record-breaking new version of Starship, due to launch within days, could form the basis of NASA's ambitious Artemis programme t..."
+    },
+    {
+      "title": "Cleaning up air pollution could weaken vital AMOC ocean current",
+      "link": "https://www.newscientist.com/article/2526785-cleaning-up-air-pollution-could-weaken-vital-amoc-ocean-current/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-15 14:40",
+      "summary": "Global warming already threatens to destabilise the Atlantic Meridional Overturning Circulation, and new research shows that regio..."
+    },
+    {
+      "title": "CAR T-cell therapy bolstered by stiffening up cancer cells first",
+      "link": "https://www.newscientist.com/article/2526673-car-t-cell-therapy-bolstered-by-stiffening-up-cancer-cells-first/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-15 10:00",
+      "summary": "CAR T-cell therapy has been hugely successful in treating certain types of tumours, and stiffening up cancer cells beforehand coul..."
     }
   ]
 }
