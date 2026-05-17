@@ -39,12 +39,6 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
-    },
-    {
       "title": "The questions that keep scientists up at night - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
       "date": "2026-04-07 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
       "date": "2026-03-26 07:00",
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+    },
+    {
+      "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -217,10 +217,10 @@
       "summary": "OpenAI explores legal options against Apple, source says  Reuters..."
     },
     {
-      "title": "AI is not replacing workers on a large scale so far, says Bank of Canada - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNk1YNGluNkRha0pRWTBwdUFzNVltbE9IaVNES3JxcVkzSnVFTURlMXRBc1JHNGFpbnFHbk1heFpzUWFHdUVlSmRKOWpnVXhORHNsSHdkUkZRdWRKZDlUbUN2V2FiVHZpR21BSXh2azkxd0xMT0hseG1vM3dhQmdwRERDaXpxandOYXlDaU9wYXNRQ19iR243UDNBbFpQVGxkWTlZYVFxUkhHQmlTT0ZrWE1uRGc?oc=5",
-      "date": "2026-05-15 13:43",
-      "summary": "AI is not replacing workers on a large scale so far, says Bank of Canada  Reuters..."
+      "title": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmFZS3BkVlpLam83ekJJNVQ2N0ZBVERuU2R3Y0R5VWZMZzgtdk0zaHZPdWoyc1hpVTNOZElZdGRma0lIeFZWWGpjaFIzUG5ORUtnWFVpUmFEazkyblRiVHNLVlpXTFdKaVZrS3Q5LXdGeEg4QW9ycDV4M0pNNEpCb2xVNjRVdV9XNDVnYXFram9QRWg1YTNGZ193bE44UzR2QUdPamV3Z0JSb285c0M0U09RN29ZdGR0TTdvcEZkcmNJeHFmOENrLXNkMjJzUHFBc2NaSA?oc=5",
+      "date": "2026-05-14 18:03",
+      "summary": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,24 @@
   ],
   "Phys.org": [
     {
+      "title": "Musk wants SpaceX to go public. Here's how it works",
+      "link": "https://phys.org/news/2026-05-musk-spacex.html",
+      "date": "2026-05-17 15:20",
+      "summary": "Hundreds of companies raised a combined $70 billion by selling shares to the public in the United States last year...."
+    },
+    {
+      "title": "New spacecraft will watch Earth's shield take the hit as solar storms come roaring in",
+      "link": "https://phys.org/news/2026-05-spacecraft-earth-shield-solar-storms.html",
+      "date": "2026-05-17 15:20",
+      "summary": "A joint European-Chinese spacecraft is set to blast off Tuesday to investigate what happens when extreme winds and giant explosion..."
+    },
+    {
+      "title": "We tested the new World Cup ball. This is what you need to know about how it will fly, dip and swerve",
+      "link": "https://phys.org/news/2026-05-world-cup-ball-fly-dip.html",
+      "date": "2026-05-17 15:00",
+      "summary": "Every four years, the men's World Cup delivers some certainties. The pitch dimensions are tightly regulated, offside is signaled w..."
+    },
+    {
       "title": "Hidden cell networks emerge in 3D as new nanoscopy tracks living bridges",
       "link": "https://phys.org/news/2026-05-hidden-cell-networks-emerge-3d.html",
       "date": "2026-05-17 14:00",
@@ -267,27 +285,15 @@
       "link": "https://phys.org/news/2026-05-neutrino-flavor-flips-key-triggering.html",
       "date": "2026-05-17 12:40",
       "summary": "Despite being so elusive, neutrinos are produced in abundance in some of the most violent events in the universe. One of their str..."
-    },
-    {
-      "title": "A massive kraken-like octopus may have prowled the seas during the age of dinosaurs",
-      "link": "https://phys.org/news/2026-04-massive-kraken-octopus-prowled-seas.html",
-      "date": "2026-05-17 12:00",
-      "summary": "The top predator prowling the seas during the age of the dinosaurs 100 million years ago may have been the octopus...."
-    },
-    {
-      "title": "AI guardians: Bridging digital innovation and sustainability for cleaner water",
-      "link": "https://phys.org/news/2026-05-ai-guardians-bridging-digital-sustainability.html",
-      "date": "2026-05-16 23:00",
-      "summary": "Researchers have developed a new framework that uses artificial intelligence to monitor wastewater treatment in real time, ensurin..."
-    },
-    {
-      "title": "Consumers willing to pay more for lobster harvested with ropeless technology, study finds",
-      "link": "https://phys.org/news/2026-05-consumers-pay-lobster-harvested-ropeless.html",
-      "date": "2026-05-16 21:30",
-      "summary": "U.S. consumers are willing to pay more for lobster harvested using ropeless fishing technology designed to reduce whale entangleme..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Sons of jailed Saudi scholars urge Cambridge to drop plans to train Riyadh staff",
+      "link": "https://www.theguardian.com/education/2026/may/17/sons-scholars-facing-death-penalty-cambrige-judge-business-school-saudi-defence-ministry",
+      "date": "2026-05-17 15:30",
+      "summary": "Exclusive: Families of men facing death penalty join opposition to proposals to run courses for defence ministryThe families of tw..."
+    },
     {
       "title": "La Gradiva review – stunning coming-of-age story of young love and sexual tension",
       "link": "https://www.theguardian.com/film/2026/may/16/la-gradiva-review-stunning-coming-of-age-story-of-young-love-and-sexual-tension",
@@ -311,12 +317,6 @@
       "link": "https://www.theguardian.com/education/2026/may/14/kings-college-london-to-merge-with-cranfield-university",
       "date": "2026-05-14 11:18",
       "summary": "Merged institution will become second largest mainstream university in UK with about 47,000 studentsKing’s College London has agre..."
-    },
-    {
-      "title": "Privately educated CEOs seen as ‘safer bet’ by investors, study finds",
-      "link": "https://www.theguardian.com/education/2026/may/14/privately-educated-ceos-safer-bet-investors-class-bias-study",
-      "date": "2026-05-14 11:09",
-      "summary": "Privilege being mistaken for competence as study reveals no evidence to suggest companies run by state-educated peers underperform..."
     }
   ],
   "SCMP Hong Kong": [
