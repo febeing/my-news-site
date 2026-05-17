@@ -39,6 +39,12 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
+      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+    },
+    {
       "title": "The questions that keep scientists up at night - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
       "date": "2026-04-07 07:00",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
       "date": "2026-03-26 07:00",
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
-    },
-    {
-      "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -257,6 +257,12 @@
   ],
   "Phys.org": [
     {
+      "title": "People overestimate how confident AI systems are in their responses, experiments reveal",
+      "link": "https://phys.org/news/2026-05-people-overestimate-confident-ai-responses.html",
+      "date": "2026-05-17 16:00",
+      "summary": "Artificial intelligence (AI) systems, particularly conversational agents such as ChatGPT or Gemini, are now used daily by a growin..."
+    },
+    {
       "title": "Musk wants SpaceX to go public. Here's how it works",
       "link": "https://phys.org/news/2026-05-musk-spacex.html",
       "date": "2026-05-17 15:20",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-05-hidden-cell-networks-emerge-3d.html",
       "date": "2026-05-17 14:00",
       "summary": "A new nanoscopy technique developed at The Australian National University (ANU) has uncovered hidden networks used for communicati..."
-    },
-    {
-      "title": "Neutrino flavor flips could be key to triggering supernovae",
-      "link": "https://phys.org/news/2026-05-neutrino-flavor-flips-key-triggering.html",
-      "date": "2026-05-17 12:40",
-      "summary": "Despite being so elusive, neutrinos are produced in abundance in some of the most violent events in the universe. One of their str..."
     }
   ],
   "The Guardian Edu": [
