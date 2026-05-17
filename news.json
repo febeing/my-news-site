@@ -45,12 +45,6 @@
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     },
     {
-      "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
-    },
-    {
       "title": "The questions that keep scientists up at night - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
       "date": "2026-04-07 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHpkLV9RSGFGQnBBVjJxeDBMZmE2Nk5udkZjQjFtdExHSTZpcjM4b0pmWDhMYWZQeE9KZlI0QmU5d0tNMFBCZVhLMVNtYW13Rm1OaW9lLXMzLTd0bDVsd2NHSGxydVBFZ2pROVFBaUU0U0RWOXBBQnNCeXZYR0lRY2QydEpPYkg0bl9YNA?oc=5",
       "date": "2026-03-04 08:00",
       "summary": "Wonder served him well  Harvard Gazette..."
+    },
+    {
+      "title": "Plan to rein in inflated grading explained - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
+      "date": "2026-03-26 07:00",
+      "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -243,19 +243,31 @@
       "summary": "How Chinese short dramas became AI content machines  MIT Technology Review..."
     },
     {
+      "title": "World Models: 10 Things That Matter in AI Right Now - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHFGclotQ3FkT2NKeUJ3WXRmZFdXYXo5Sm55em90Yk5GSEg3enpGbUZSVzM5c1NqYUZJc29zeUNhZFg2VXZ4c3JUeVVmdll2ejltRXowOW9ibzhBLWM4RTFrSWNuRkdva3ZqaXZ0SUNINXNxTFJmaDlYb0JHQ0xxaXNmY0JYdkotbDE0X3l1WU9la0VLNTIyNjc0eHh2Vkg4YmkxN0ZB0gGrAUFVX3lxTE94VkNiTzNTeFFzdkJmQzlyNU9VcV9nWmpMYmFac3d1SGtoNGJwVm51cFRjd01MemdkekF5b3BodTE2eEQ4VkNjTXdzZkxPRzQ5WkU3amFzTURfUzF4dXQwZjVOVDBEN3l1SEJYOFdGTTNIOE8tcTAyQ0V4TXMwQWpqSUNYeVcyOGVsNU5scEFWdUF4MEh3VEJWU0ZZc1BjenYtcXNrX3hSQkl1SQ?oc=5",
+      "date": "2026-05-12 16:33",
+      "summary": "World Models: 10 Things That Matter in AI Right Now  MIT Technology Review..."
+    },
+    {
       "title": "Data readiness for agentic AI in financial services - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnlPMzhWQ3FpMTVDaHlFUzVpMlZicktTREtjMXJRQlZGTzNULXVhSFdxMHN3ZVA5azlDMlpIa1RuUzYyRFQ2eHg0ajVEeWRIcEtub2F2N2V6b08yYUxXQ1kyTUN0ZFZLWEtrRXhsbTF3RzlQcW13aXlfNFRqZ3E2UDh5dXZmcVFhMHY5T0NvR0k1a1JpcHJoVmU4X3hMdENXcHFucHhxNNIBrAFBVV95cUxQbGxsSDBTUkk3Y1k4WEprTjRMUmJhSXNENFJUczhueHowM0lFb09Xc1pCaU9qTGl5TTlxMXFDeThzaWkxZkoteW41eHNLUTF1S2xwR3Y5bXBZRi1fVmR4SUtrWUVKZk9QT0k4YjNnSWxQczRPaEZsRUVUVWY2UmdYY0EyZ1VRSGZhck1DRm56UWZ2UEJZeDlMaHpzYklXUnl4Q25uUGhZSGhMc1BZ?oc=5",
       "date": "2026-05-14 13:00",
       "summary": "Data readiness for agentic AI in financial services  MIT Technology Review..."
-    },
-    {
-      "title": "Three things in AI to watch, according to a Nobel-winning economist - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVpMTjNNa1E1eU01WmEyb0lnOU5qYlRETUdyWVFHbzJacHVoR0lVeFQ5NGZNM1A0a3dGX2ZxaENVVTJtT2RWSDlQTDBqTE5NVk96NTN0dWhYb3Vma041cFFzZDR1cWVWYkVrcnQ3TThpdFdXZnl5bEtlMTlBNHY3cGMzUXI1aWNYUWZHTk4yZ0tUb1F4S1E4bC1relo3T1VQRnFncFlSS1FvSnRrbWRPYmZ2M082Ylc3bGo00gHAAUFVX3lxTFBQcDhWUDdTOXJYX0dXVEdBMmVObVlacGNJb0JYcUJCS2wxWkNXbEFFUXdFem9jYzRfUm5NTllaOFRXZ0JiSnhzQ2REQ2Y5UUg3R2lEMGNFcGU2YUlxRmp1ZmdFcVRLWUFtb3N4cE9feG8xUWVvVGluSXpmMXVuMVl3Q3FCU1phcENuMmwxQWVjWURXVk9heXh1cFVOblFmc3JVVmtOcHhMZ2xtbGxCTko4M2w0WDlxSEdHOXpCekllcA?oc=5",
-      "date": "2026-05-11 17:35",
-      "summary": "Three things in AI to watch, according to a Nobel-winning economist  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Falling space debris poses an escalating risk as spacecraft get stronger and more heat resistant",
+      "link": "https://phys.org/news/2026-05-falling-space-debris-poses-escalating.html",
+      "date": "2026-05-17 21:00",
+      "summary": "When it comes to space debris, what goes up is coming down more often—and not safely...."
+    },
+    {
+      "title": "When politics enter the picture, credentials take a back seat",
+      "link": "https://phys.org/news/2026-05-politics-picture-credentials-seat.html",
+      "date": "2026-05-17 21:00",
+      "summary": "Most Americans know what a real expert's credentials look like: relevant degree, years of experience, and respect from peers. The ..."
+    },
     {
       "title": "eROSITA discovers a 'changing-look' Seyfert galaxy",
       "link": "https://phys.org/news/2026-05-erosita-seyfert-galaxy.html",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-05-short-videos-aid-small-maintenance.html",
       "date": "2026-05-17 18:00",
       "summary": "The 1974 novel \"Zen and the Art of Motorcycle Maintenance\" offered a simple but enduring idea: Working on machines should not be a..."
-    },
-    {
-      "title": "People overestimate how confident AI systems are in their responses, experiments reveal",
-      "link": "https://phys.org/news/2026-05-people-overestimate-confident-ai-responses.html",
-      "date": "2026-05-17 16:00",
-      "summary": "Artificial intelligence (AI) systems, particularly conversational agents such as ChatGPT or Gemini, are now used daily by a growin..."
-    },
-    {
-      "title": "Musk wants SpaceX to go public. Here's how it works",
-      "link": "https://phys.org/news/2026-05-musk-spacex.html",
-      "date": "2026-05-17 15:20",
-      "summary": "Hundreds of companies raised a combined $70 billion by selling shares to the public in the United States last year...."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Why set a limit for Hong Kong’s ride-hailing services?",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3353552/why-set-limit-hong-kongs-ride-hailing-services?utm_source=rss_feed",
+      "date": "2026-05-17 21:30",
+      "summary": "Hong Kong should not limit the number of vehicles licensed to provide ride-hailing services. In particular, every owner of an elec..."
+    },
+    {
       "title": "Hong Kong ramps up health checks for travellers from Africa after Ebola outbreak",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3353895/hong-kong-ramps-health-checks-travellers-africa-after-ebola-outbreak?utm_source=rss_feed",
       "date": "2026-05-17 13:46",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/business/banking-finance/article/3353860/hong-kong-high-court-hear-evergrande-liquidators-lawsuit-against-pwc-monday?utm_source=rss_feed",
       "date": "2026-05-17 11:00",
       "summary": "The liquidators of China Evergrande Group’s lawsuit against PricewaterhouseCoopers (PwC) International will have their case heard ..."
-    },
-    {
-      "title": "Estate residents step up cleaning after city’s first rat hepatitis case this year",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3353870/estate-residents-step-cleaning-after-citys-first-rat-hepatitis-case-year?utm_source=rss_feed",
-      "date": "2026-05-17 08:13",
-      "summary": "Residents at a private housing estate in Hong Kong have stepped up pest prevention measures as authorities investigate the city’s ..."
     }
   ],
   "New Scientist": [
