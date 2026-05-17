@@ -39,12 +39,6 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
-    },
-    {
       "title": "The questions that keep scientists up at night - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
       "date": "2026-04-07 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
       "date": "2026-03-26 07:00",
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+    },
+    {
+      "title": "Universities need to ‘vindicate our public purpose,’ Sandel says - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlwREczU3FYanlPa3U0d2t1OTk2em9NcnAtaTBrMEw5RGFRdFl2WXhFdHFUeW9iTWpwczNtWHRVaGJmUUI0X3BwMU9yQ19kMGRiQTh2UVVGWWNKTlhWX0ViOG5XTjVwZmFXbW9vMGo0aWY4T0xLU1dnR19wSWZHaXpJWFRHb3M0ak1VWVVCR2ZrbEpXZHpGN29NSURORl80Q0sweW5WeV9ldzFOT1E?oc=5",
+      "date": "2025-10-28 07:00",
+      "summary": "Universities need to ‘vindicate our public purpose,’ Sandel says  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -257,6 +257,12 @@
   ],
   "Phys.org": [
     {
+      "title": "Roadmap charts three paths to room-temperature quantum materials for cooler computing",
+      "link": "https://phys.org/news/2026-05-roadmap-paths-room-temperature-quantum.html",
+      "date": "2026-05-17 22:40",
+      "summary": "Imagine a laptop that never gets hot, a phone that holds its charge for days, or a computer memory chip designed to permanently re..."
+    },
+    {
       "title": "Falling space debris poses an escalating risk as spacecraft get stronger and more heat resistant",
       "link": "https://phys.org/news/2026-05-falling-space-debris-poses-escalating.html",
       "date": "2026-05-17 21:00",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-05-stardust-antarctic-ice-cores-earth.html",
       "date": "2026-05-17 19:20",
       "summary": "Our solar system is currently passing through the Local Interstellar Cloud, a region of highly diluted gas and dust between the st..."
-    },
-    {
-      "title": "How short-form videos may aid the teaching of small-engine maintenance",
-      "link": "https://phys.org/news/2026-05-short-videos-aid-small-maintenance.html",
-      "date": "2026-05-17 18:00",
-      "summary": "The 1974 novel \"Zen and the Art of Motorcycle Maintenance\" offered a simple but enduring idea: Working on machines should not be a..."
     }
   ],
   "The Guardian Edu": [
