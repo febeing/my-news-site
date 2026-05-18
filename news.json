@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Language development in the brain",
+      "link": "https://news.mit.edu/2026/language-development-brain-0518",
+      "date": "2026-05-18 19:15",
+      "summary": "The brain’s language network is still evolving in adolescence. But by age 4, language processing is already handled by the left si..."
+    },
+    {
       "title": "MIT chemists discover and isolate a new boron-oxygen molecule",
       "link": "https://news.mit.edu/2026/mit-chemists-discover-isolate-boron-oxygen-molecule-0513",
       "date": "2026-05-13 18:25",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/new-way-spot-signs-dark-matter-0512",
       "date": "2026-05-12 17:00",
       "summary": "Gravitational waves emitted by colliding black holes may bear imprints of dark matter, which physicists could detect with a new mo..."
-    },
-    {
-      "title": "Powerful shrinking technique could enable devices that compute with light",
-      "link": "https://news.mit.edu/2026/powerful-shrinking-technique-could-enable-devices-compute-light-0512",
-      "date": "2026-05-12 09:00",
-      "summary": "MIT researchers created tiny 3D photonic devices with features small enough to channel visible light...."
     }
   ],
   "Harvard Gazette": [
@@ -71,22 +71,22 @@
       "summary": "Opinion | What A.I. Did to My College Class  The New York Times..."
     },
     {
-      "title": "Party of None: Inside Stanford’s War on Fun - Vanity Fair",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tdHlMNEplMjhPRUw4T1VxXzlBMkNNNk9ZOWlRNDliYng0ZXRVcElveWxobk9tbmlZYlFoZXdESldLN3FIMnVUSXVlSjNDU01YRGp2NWlrMFROUmotQllfeGFaZFdzXzFpcTVxeQ?oc=5",
-      "date": "2026-05-18 14:25",
-      "summary": "Party of None: Inside Stanford’s War on Fun  Vanity Fair..."
-    },
-    {
-      "title": "BTS tour lands in Bay Area for sold-out Stanford shows - KRON4",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZVVTeXhOd2t3R0I0cWpWWXp6QXdmdGNWRXl0dWR2RVFqbnA0cXp6TS1rWTFydkgtTFJTYkRDajVwSWRTX2ZUOFRrYzdNTGhCMXNfUWJRSTUwcnpoMElGYV9mLXF3SmQxV2ROUnVvVkFqRy1JTzJVTmhTek5mb2RXYnA0R0JFdmhLU1o1bmZRZE1EOURobTE5Y0JVa9IBoAFBVV95cUxOMVZBUzJjU0t6czZCSnhXWkY4eWlRRmR4VjlxVnNfaFhzdGY1bnRFNTJSOF9xOC1QbTA2X0JZSDlrckVoM0p4ZG1uQnlQS21HR0RwXzcxUGdPSnhFVWRJMzREbVhKQ3hVWXo0NktWMVBhbnc5NTlWTjNGY1Q2dEVjYVJjbFFYcTBkenZNRnlpOU9oVWtmWDJUc0hVMGxCQkxV?oc=5",
-      "date": "2026-05-15 20:41",
-      "summary": "BTS tour lands in Bay Area for sold-out Stanford shows  KRON4..."
+      "title": "The Secret Elite One Freshman Discovered at Stanford - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1ppZ3JuNm9raFl5VTZ3VU8tMVh5d0xXd2w5LWFSOVAwRUVaZ0pKMGpMWEZZYXM1UDhBdTYyTGVTa0FveTBtQ0NuV09wbHV2TkpVS05Ncl9oUFg1OVNRQ2N6MHF3NXFKX2x6RWhNV0M4OHFYT3dxbGRLMnZXa0EtNEc3SHFQMS10cHpMTG93?oc=5",
+      "date": "2026-05-18 09:00",
+      "summary": "The Secret Elite One Freshman Discovered at Stanford  The New York Times..."
     },
     {
       "title": "The Stanford billionaire boys’ club and the Gen Z whistleblower - The Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUxiMkNCajc2Y1ByWkJjcWxjQlF3c0FqTkJHVkM5LWVnaWFrb1pVN0RTOF9OR1VyQ2lhWEdlTG84SWwtNlRlWjBNWFZWNlNpRG5WaXFwWWl5bEFCaVpRX3RWb3VFbDlFVGRqVkNYcGlBTUR1N3FMcUFBMThaamZBSERhc3l3WkFWUGh4RHRvZ19sczZpZkh2ejQ1MEF4allRWmtJb193Q1lFOUR0Tnl2VHVidUdiNEV4U0xfczB3Zw?oc=5",
       "date": "2026-05-15 19:00",
       "summary": "The Stanford billionaire boys’ club and the Gen Z whistleblower  The Times..."
+    },
+    {
+      "title": "BTS tour lands in Bay Area for sold-out Stanford shows - KRON4",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZVVTeXhOd2t3R0I0cWpWWXp6QXdmdGNWRXl0dWR2RVFqbnA0cXp6TS1rWTFydkgtTFJTYkRDajVwSWRTX2ZUOFRrYzdNTGhCMXNfUWJRSTUwcnpoMElGYV9mLXF3SmQxV2ROUnVvVkFqRy1JTzJVTmhTek5mb2RXYnA0R0JFdmhLU1o1bmZRZE1EOURobTE5Y0JVa9IBoAFBVV95cUxOMVZBUzJjU0t6czZCSnhXWkY4eWlRRmR4VjlxVnNfaFhzdGY1bnRFNTJSOF9xOC1QbTA2X0JZSDlrckVoM0p4ZG1uQnlQS21HR0RwXzcxUGdPSnhFVWRJMzREbVhKQ3hVWXo0NktWMVBhbnc5NTlWTjNGY1Q2dEVjYVJjbFFYcTBkenZNRnlpOU9oVWtmWDJUc0hVMGxCQkxV?oc=5",
+      "date": "2026-05-15 20:41",
+      "summary": "BTS tour lands in Bay Area for sold-out Stanford shows  KRON4..."
     },
     {
       "title": "Theo Baker took down Stanford’s president. His memoir takes aim at the school’s whole culture - San Francisco Chronicle",
@@ -193,28 +193,28 @@
   ],
   "Reuters AI": [
     {
-      "title": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaE96UFNSbUJBTS12SUdiU3NZTHNiVU92TmNuZVhuOHQwSFFnQngtZjQ4Qi04WTN1T1lzU2RlLUFEZnZBQlFNVnlpZzIwdDdsM29TVks5aVpiTUkxZkdLVndheWxmLU51TXFwSWFRb1EtRFhNMDRUc3FDZUUzZExiUDlLbklWa3V1dFRrUUFNcGZxWE1CN0dFTlprS1JwUFBxZzJpb2Rhdm54aTl5TXZGNWdGeE9vSEUzdzdsZGd3?oc=5",
-      "date": "2026-05-18 04:18",
-      "summary": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports  Reuters..."
-    },
-    {
-      "title": "As chip industry chases AI, U.S. national labs look to newcomers for supercomputers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0hfaDc2NVRGcEpWTXRqMHB1UlQzeXhOVkp6dG8xUVZpNDZGc2VEYlBNSklIcTZCc1ZUa3lIVWVQQzJNTDZfVkhrdTMtT3gtWF9PQU5TZEdQNlZYSERiS0tZdW9WNzgtTVphX3dDS0Z0UkhUZ0tYYzZTNlNfSTN0dk43d1l1NFlvWW1JQW9LalBfclEtSnBNZnhfcTdLaWh4amFBMWVReVFPaTc1aXNPejh0eVFsNXYw?oc=5",
-      "date": "2026-05-18 10:06",
-      "summary": "As chip industry chases AI, U.S. national labs look to newcomers for supercomputers  Reuters..."
-    },
-    {
       "title": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2FfNVN5cmZ5SWF4WFBlOWluNFRfdEpkdVVwNXpKZUNyanhWN3RvZURrQkVNWFFILWptTzlkVGFpSlg2V1FKbWZIUlhGSXdJc3g4TmdQUEM1QkpsM2ctVjFWTjUxcUhvTS0teFFxekE0YnhhQ0tLZWNwNUdZZTQ5VFB2cF96STV0ZWQ2N2ladko0N1NXbzVLRWlHMnFQdHlheXlfVDJDUDE?oc=5",
       "date": "2026-05-16 10:31",
       "summary": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus  Reuters..."
     },
     {
+      "title": "As chip industry chases AI, U.S. national labs look to newcomers for supercomputers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0hfaDc2NVRGcEpWTXRqMHB1UlQzeXhOVkp6dG8xUVZpNDZGc2VEYlBNSklIcTZCc1ZUa3lIVWVQQzJNTDZfVkhrdTMtT3gtWF9PQU5TZEdQNlZYSERiS0tZdW9WNzgtTVphX3dDS0Z0UkhUZ0tYYzZTNlNfSTN0dk43d1l1NFlvWW1JQW9LalBfclEtSnBNZnhfcTdLaWh4amFBMWVReVFPaTc1aXNPejh0eVFsNXYw?oc=5",
+      "date": "2026-05-18 18:21",
+      "summary": "As chip industry chases AI, U.S. national labs look to newcomers for supercomputers  Reuters..."
+    },
+    {
       "title": "Pope Leo to address rise of AI in first major text on May 25 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa185T205VjBkUXY4VUZBc2VaLVZoUjhjdjZTZEdaOFNpbXVNN0dHR21HZHRfS196blE1c0VubWREdDZqU1RZUlJieVJ5TjVrOVBhdllQZGZBYWtOWnotd2Znbnp4QWFiX29ERER4RlUzaEs1c2JaOXBmZlgzYXk0Vjhwel9tdUJ5SWk5aURUeHd5OGdnMGp1bnVNMU1kUGt4OFpz?oc=5",
       "date": "2026-05-18 13:13",
       "summary": "Pope Leo to address rise of AI in first major text on May 25  Reuters..."
+    },
+    {
+      "title": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaE96UFNSbUJBTS12SUdiU3NZTHNiVU92TmNuZVhuOHQwSFFnQngtZjQ4Qi04WTN1T1lzU2RlLUFEZnZBQlFNVnlpZzIwdDdsM29TVks5aVpiTUkxZkdLVndheWxmLU51TXFwSWFRb1EtRFhNMDRUc3FDZUUzZExiUDlLbklWa3V1dFRrUUFNcGZxWE1CN0dFTlprS1JwUFBxZzJpb2Rhdm54aTl5TXZGNWdGeE9vSEUzdzdsZGd3?oc=5",
+      "date": "2026-05-18 04:18",
+      "summary": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports  Reuters..."
     },
     {
       "title": "Fact Check: Google AI-generated image of crowd miscaptioned as London immigration rally - Reuters",
@@ -225,16 +225,16 @@
   ],
   "MIT Tech Review": [
     {
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0FCLWVXb1RXakI1YVFaUDFpUkNMNHpiSEpJNktvYkJ1TnF5M1NvR2wwQnVlWjZtbVIwc2Vrd00yZU9PM1RtTGFYOGV1b0xzMThXdzUza19RRVdLejVvczRDMlRTNmlkMlExb3BPZkx2alE3Z2trVlJReWRFSmRwTDFhTFV0ZG1TRmstd3A5LWlDLU5NR1ljMHRncUdGc1hHaDBLRHB6U2xULVJxU2Ezc2NidEFMM1Jx0gG-AUFVX3lxTE5GOFVNQ1JIcjBrWWxfZXdnRS1tTkN2UUFWdEZEcHdsaXYtYXdnZnJqMjhJMXMwZkpsdXNoSWxKZHZqMGxqeU1JQjAxNUN6VWh6WEFpeENxYkJUdGNFSWtkTnBodm1tRENSOGhTZmFDNXNPVlpJTFhXc3R6Wk5BTWc5SlpXczBDWThNN3lndE9MbWgxWUhpalpSeEFiakUzVzRxbnNjMFAxU1JMemk5N181M21xdkN4ME5RQzFsRVE?oc=5",
-      "date": "2026-05-18 16:01",
-      "summary": "Inside Anduril and Meta’s quest to make smart glasses for warfare  MIT Technology Review..."
-    },
-    {
       "title": "What to expect from Google this week - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXl2OVBoeE4wVVdjSWMwUjhaNFpQOXZHYWpRUXdrdnR5azdnT20wNUhVbmVhWWdfS2ZraW1jVEVhQ2hJYXJmcTVnTV82Umh3amZMRFJGUmktY19nWi11X3lWWG9IcVVVOG1pZG5nbDNjVzhibzd1ZmU0RUVLRkJCZU5YX0lSdGVUbmJFM3FJVUUxMXPSAZgBQVVfeXFMT1ItNzF5SjAxeDlYTFF4OXJ6WERNakRMbHEtOE1CYjVxel9nNWQtNzlLZ3A4N3FrX1FWUXZNRXVGejhnTGI0OUlzWkZNYVJRWVBhd3kybEcxcWxhdHhST08tbUpOYkx2U0taSERGUzk5amZiUXFJQmlnNGZEZkozSm50dHJ1Z3ZYZFZpTnFvXzZGTzlEdVlpdzM?oc=5",
       "date": "2026-05-18 17:35",
       "summary": "What to expect from Google this week  MIT Technology Review..."
+    },
+    {
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0FCLWVXb1RXakI1YVFaUDFpUkNMNHpiSEpJNktvYkJ1TnF5M1NvR2wwQnVlWjZtbVIwc2Vrd00yZU9PM1RtTGFYOGV1b0xzMThXdzUza19RRVdLejVvczRDMlRTNmlkMlExb3BPZkx2alE3Z2trVlJReWRFSmRwTDFhTFV0ZG1TRmstd3A5LWlDLU5NR1ljMHRncUdGc1hHaDBLRHB6U2xULVJxU2Ezc2NidEFMM1Jx0gG-AUFVX3lxTE5GOFVNQ1JIcjBrWWxfZXdnRS1tTkN2UUFWdEZEcHdsaXYtYXdnZnJqMjhJMXMwZkpsdXNoSWxKZHZqMGxqeU1JQjAxNUN6VWh6WEFpeENxYkJUdGNFSWtkTnBodm1tRENSOGhTZmFDNXNPVlpJTFhXc3R6Wk5BTWc5SlpXczBDWThNN3lndE9MbWgxWUhpalpSeEFiakUzVzRxbnNjMFAxU1JMemk5N181M21xdkN4ME5RQzFsRVE?oc=5",
+      "date": "2026-05-18 16:01",
+      "summary": "Inside Anduril and Meta’s quest to make smart glasses for warfare  MIT Technology Review..."
     },
     {
       "title": "AI chatbots are giving out people’s real phone numbers - MIT Technology Review",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "How hidden viruses wake up inside seaweed and pass on to future generations",
-      "link": "https://phys.org/news/2026-05-hidden-viruses-seaweed-future-generations.html",
-      "date": "2026-05-18 18:40",
-      "summary": "Researchers at the Max Planck Institute for Biology Tübingen have shown that giant viruses long thought to exist only as fleeting,..."
+      "title": "New economics study finds that ICE activity has upended the US childcare workforce",
+      "link": "https://phys.org/news/2026-05-economics-ice-upended-childcare-workforce.html",
+      "date": "2026-05-18 20:22",
+      "summary": "When U.S. Immigration and Customs Enforcement (ICE) operations come to town, it can create a landscape of fear, chilling commerce ..."
     },
     {
-      "title": "Cricket nuggets? Caterpillar cookies? Canadians would consider eating insects if they can't see them",
-      "link": "https://phys.org/news/2026-05-cricket-nuggets-caterpillar-cookies-canadians.html",
-      "date": "2026-05-18 18:40",
-      "summary": "Lobster had one of the greatest reputation makeovers in food history. Once treated as \"food for the poor,\" it is now served in exp..."
+      "title": "Ultrafast switching device unlocks low-power optical-to-electrical conversion for AI hardware",
+      "link": "https://phys.org/news/2026-05-ultrafast-device-power-optical-electrical.html",
+      "date": "2026-05-18 20:20",
+      "summary": "Modern energy demands are soaring as technologies like AI and IoT become more common, and researchers have been working hard to de..."
     },
     {
-      "title": "Companies are hyping AI the same way they talked up sustainability, but there are ways to fix that",
-      "link": "https://phys.org/news/2026-05-companies-hyping-ai-sustainability-ways.html",
-      "date": "2026-05-18 18:20",
-      "summary": "Across corporate earnings calls, investor presentations and marketing pitches, \"artificial intelligence\" has become the buzzword o..."
+      "title": "Bizarre Venus surface formations puzzle planetary scientists",
+      "link": "https://phys.org/news/2026-05-bizarre-venus-surface-formations-puzzle.html",
+      "date": "2026-05-18 20:20",
+      "summary": "Bizarre Venus surface formations (or coronae) are likely key to understanding our twin planet's heretofore inscrutable interior. U..."
     },
     {
-      "title": "Galactic collision may have reset Milky Way disk 11 billion years ago",
-      "link": "https://phys.org/news/2026-05-galactic-collision-reset-milky-disk.html",
-      "date": "2026-05-18 18:20",
-      "summary": "A new study led by researchers at the Institute of Cosmos Sciences of the University of Barcelona (ICCUB) and the Institute of Spa..."
+      "title": "Southern Ocean intermediate waters may hold key to Earth's carbon dioxide history",
+      "link": "https://phys.org/news/2026-05-southern-ocean-intermediate-key-earth.html",
+      "date": "2026-05-18 20:00",
+      "summary": "Researchers at National Taiwan University and partner institutions have uncovered new evidence that Antarctic Intermediate Water (..."
     },
     {
-      "title": "Dark lunar craters could host ultrastable lasers for moon navigation",
-      "link": "https://phys.org/news/2026-05-dark-lunar-craters-host-ultrastable.html",
-      "date": "2026-05-18 18:09",
-      "summary": "They rank among the darkest and coldest places in the solar system: Hundreds of lunar craters, many of them at the moon's south po..."
+      "title": "Big AI's control of narrative and regulation poses significant threat to rule of law",
+      "link": "https://phys.org/news/2026-05-big-ai-narrative-poses-significant.html",
+      "date": "2026-05-18 20:00",
+      "summary": "New research led by Trinity College Dublin's AI Accountability Lab pinpoints the growing threat posed by the influence AI companie..."
     }
   ],
   "The Guardian Edu": [
