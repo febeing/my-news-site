@@ -65,16 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "Opinion | What A.I. Did to My College Class - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXdaM3BjTnVXRkJmbGx4TWNGM3pwUG94dUY4VEFYNDAxNnczbEUySHhyaHF4VEpBd0hkWFlMN3hwWklNVTR4Sl9TSVlpLVBMcXdEN2ZwT3lnbjNPeVhwSXVhQ0NBQkRleV9xaEZYOUVfTTRqTGlOWmJVc0h1eUFVaC1KU3NHOWwtTWpkOQ?oc=5",
-      "date": "2026-05-17 05:00",
-      "summary": "Opinion | What A.I. Did to My College Class  The New York Times..."
-    },
-    {
       "title": "The Secret Elite One Freshman Discovered at Stanford - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1ppZ3JuNm9raFl5VTZ3VU8tMVh5d0xXd2w5LWFSOVAwRUVaZ0pKMGpMWEZZYXM1UDhBdTYyTGVTa0FveTBtQ0NuV09wbHV2TkpVS05Ncl9oUFg1OVNRQ2N6MHF3NXFKX2x6RWhNV0M4OHFYT3dxbGRLMnZXa0EtNEc3SHFQMS10cHpMTG93?oc=5",
       "date": "2026-05-18 09:00",
       "summary": "The Secret Elite One Freshman Discovered at Stanford  The New York Times..."
+    },
+    {
+      "title": "Opinion | What A.I. Did to My College Class - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXdaM3BjTnVXRkJmbGx4TWNGM3pwUG94dUY4VEFYNDAxNnczbEUySHhyaHF4VEpBd0hkWFlMN3hwWklNVTR4Sl9TSVlpLVBMcXdEN2ZwT3lnbjNPeVhwSXVhQ0NBQkRleV9xaEZYOUVfTTRqTGlOWmJVc0h1eUFVaC1KU3NHOWwtTWpkOQ?oc=5",
+      "date": "2026-05-17 05:00",
+      "summary": "Opinion | What A.I. Did to My College Class  The New York Times..."
     },
     {
       "title": "The Stanford billionaire boys’ club and the Gen Z whistleblower - The Times",
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "New rule in Peru restricts authors with retractions from getting special bonuses",
+      "link": "https://retractionwatch.com/2026/05/18/peru-rule-retractions-special-bonuses-decreto-supremo/",
+      "date": "2026-05-18 10:00",
+      "summary": "In an ongoing effort to combat scientific misconduct, Peru has passed new rules that bar research faculty at public universities t..."
+    },
+    {
       "title": "Weekend reads: Autism-vaccine researcher arraigned; ‘accidental watermarks’ in medical literature; mass resignations and zombie journals",
       "link": "https://retractionwatch.com/2026/05/16/weekend-reads-autism-vaccine-researcher-arraigned-accidental-watermarks-in-medical-literature-mass-resignations-and-zombie-journals/",
       "date": "2026-05-16 10:00",
@@ -183,12 +189,6 @@
       "link": "https://retractionwatch.com/2026/05/12/reviewer-finds-top-pharmaceutical-scientist-has-a-self-citation-problem/",
       "date": "2026-05-12 15:43",
       "summary": "Daniel Bar-Shalom, a pharmacist at the University of Copenhagen, was incensed. He’d been asked to review a manuscript by Muhammad ..."
-    },
-    {
-      "title": "Elsevier retracts the least and reinstates the most, new analysis finds",
-      "link": "https://retractionwatch.com/2026/05/11/elsevier-retracts-the-least-and-reinstates-the-most-new-analysis-finds/",
-      "date": "2026-05-11 12:00",
-      "summary": "While Elsevier outcompetes other publishers in terms of sheer volume, it also has the lowest retraction rate and highest rate of r..."
     }
   ],
   "Reuters AI": [
@@ -213,7 +213,7 @@
     {
       "title": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaE96UFNSbUJBTS12SUdiU3NZTHNiVU92TmNuZVhuOHQwSFFnQngtZjQ4Qi04WTN1T1lzU2RlLUFEZnZBQlFNVnlpZzIwdDdsM29TVks5aVpiTUkxZkdLVndheWxmLU51TXFwSWFRb1EtRFhNMDRUc3FDZUUzZExiUDlLbklWa3V1dFRrUUFNcGZxWE1CN0dFTlprS1JwUFBxZzJpb2Rhdm54aTl5TXZGNWdGeE9vSEUzdzdsZGd3?oc=5",
-      "date": "2026-05-18 04:18",
+      "date": "2026-05-18 14:43",
       "summary": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports  Reuters..."
     },
     {
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "New economics study finds that ICE activity has upended the US childcare workforce",
-      "link": "https://phys.org/news/2026-05-economics-ice-upended-childcare-workforce.html",
-      "date": "2026-05-18 20:22",
-      "summary": "When U.S. Immigration and Customs Enforcement (ICE) operations come to town, it can create a landscape of fear, chilling commerce ..."
+      "title": "Counting the overlooked 'hidden homeless'",
+      "link": "https://phys.org/news/2026-05-overlooked-hidden-homeless.html",
+      "date": "2026-05-18 22:00",
+      "summary": "A person asking for change on the corner or living in a makeshift dwelling outside is easy to identify as homeless or unhoused. Bu..."
     },
     {
-      "title": "Ultrafast switching device unlocks low-power optical-to-electrical conversion for AI hardware",
-      "link": "https://phys.org/news/2026-05-ultrafast-device-power-optical-electrical.html",
-      "date": "2026-05-18 20:20",
-      "summary": "Modern energy demands are soaring as technologies like AI and IoT become more common, and researchers have been working hard to de..."
+      "title": "A physicist's fresh look at the 'prisoner's dilemma' reveals hope for cooperation",
+      "link": "https://phys.org/news/2026-05-physicist-fresh-prisoner-dilemma-reveals.html",
+      "date": "2026-05-18 22:00",
+      "summary": "The \"prisoner's dilemma\" is one of the most famous ideas in game theory. For decades, this game has been used to explain why selfi..."
     },
     {
-      "title": "Bizarre Venus surface formations puzzle planetary scientists",
-      "link": "https://phys.org/news/2026-05-bizarre-venus-surface-formations-puzzle.html",
-      "date": "2026-05-18 20:20",
-      "summary": "Bizarre Venus surface formations (or coronae) are likely key to understanding our twin planet's heretofore inscrutable interior. U..."
+      "title": "Elongated canopy gaps may best support the natural regeneration of oak forest",
+      "link": "https://phys.org/news/2026-05-elongated-canopy-gaps-natural-regeneration.html",
+      "date": "2026-05-18 21:50",
+      "summary": "As climate change intensifies, one of the key challenges facing forestry is how to balance efficient timber production with the pr..."
     },
     {
-      "title": "Southern Ocean intermediate waters may hold key to Earth's carbon dioxide history",
-      "link": "https://phys.org/news/2026-05-southern-ocean-intermediate-key-earth.html",
-      "date": "2026-05-18 20:00",
-      "summary": "Researchers at National Taiwan University and partner institutions have uncovered new evidence that Antarctic Intermediate Water (..."
+      "title": "You are what you eat: Cichlid fish reveal how food sources drive evolution of digestive system",
+      "link": "https://phys.org/news/2026-05-cichlid-fish-reveal-food-sources.html",
+      "date": "2026-05-18 21:40",
+      "summary": "Different beak and jaw shapes are illustrative examples of how animal species have adapted to different food sources. In a new stu..."
     },
     {
-      "title": "Big AI's control of narrative and regulation poses significant threat to rule of law",
-      "link": "https://phys.org/news/2026-05-big-ai-narrative-poses-significant.html",
-      "date": "2026-05-18 20:00",
-      "summary": "New research led by Trinity College Dublin's AI Accountability Lab pinpoints the growing threat posed by the influence AI companie..."
+      "title": "A newly rediscovered moth species in Florida may already be at risk",
+      "link": "https://phys.org/news/2026-05-newly-rediscovered-moth-species-florida.html",
+      "date": "2026-05-18 21:40",
+      "summary": "To the untrained eye, the Florida scrub ecosystem isn't much to look at. Scattered in patches around coastal and inland Florida, t..."
     }
   ],
   "The Guardian Edu": [
@@ -353,6 +353,12 @@
   ],
   "New Scientist": [
     {
+      "title": "Floatation tanks deployed to combat PTSD after devastating wildfires",
+      "link": "https://www.newscientist.com/article/2526918-floatation-tanks-deployed-to-combat-ptsd-after-devastating-wildfires/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-18 17:00",
+      "summary": "Maui in Hawaii experienced some of the worst wildfires in US history in 2023. Amid concerns of a PTSD epidemic, floatation tanks a..."
+    },
+    {
       "title": "What is love? Even a meeting on the subject can't find the answer",
       "link": "https://www.newscientist.com/article/2526751-what-is-love-even-a-meeting-on-the-subject-cant-find-the-answer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-18 16:00",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2526726-your-body-clock-has-seasonal-rhythms-and-it-matters-for-vaccines/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-18 12:00",
       "summary": "We think of our body clock ticking over on a 24-hour cycle, but evidence is growing that it has seasonal rhythms, which could affe..."
-    },
-    {
-      "title": "Himalayan wolf-dog hybrids emerge as a threat to wolves and people",
-      "link": "https://www.newscientist.com/article/2526663-himalayan-wolf-dog-hybrids-emerge-as-a-threat-to-wolves-and-people/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-16 08:00",
-      "summary": "In Ladakh, Himalayan wolves are increasingly breeding with feral dogs, giving rise to a new animal known as khipshang that could i..."
     }
   ]
 }
