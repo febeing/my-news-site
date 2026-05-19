@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "Can extra snoozing reverse the health hazards of a bad night’s sleep?",
+      "link": "https://www.science.org/content/article/can-extra-snoozing-reverse-health-hazards-bad-night-s-sleep",
+      "date": "2026-05-19 05:00",
+      "summary": "Catching more z’s the day after a shortened slumber appears to reduce risk of early death..."
+    },
+    {
       "title": "A new genetically modified rice could improve children’s health. But will it be grown?",
       "link": "https://www.science.org/content/article/new-genetically-modified-rice-could-improve-children-s-health-will-it-be-grown",
       "date": "2026-05-19 03:45",
@@ -149,17 +155,17 @@
     {
       "title": "BREAKING: WHO declares major outbreak of rare Ebola virus species an international emergency",
       "link": "https://www.science.org/content/article/major-outbreak-rare-ebola-virus-species-northern-congo-alarms-scientists",
-      "date": "2026-05-16 11:00",
+      "date": "2026-05-16 10:00",
       "summary": "No vaccines or treatments exist for Ebola Bundibugyo, which has caused hundreds of suspected cases and 80 deaths in Congo and Ugan..."
-    },
-    {
-      "title": "CDC plan to retire lab monkeys to Texas sanctuary draws ire",
-      "link": "https://www.science.org/content/article/cdc-plan-retire-lab-monkeys-texas-sanctuary-draws-ire",
-      "date": "2026-05-15 05:30",
-      "summary": "Critics say proposal was rushed and could endanger the animals..."
     }
   ],
   "Retraction Watch": [
+    {
+      "title": "Feud between physicists ends in defamation verdict",
+      "link": "https://retractionwatch.com/2026/05/19/feud-between-physicists-ends-in-defamation-verdict/",
+      "date": "2026-05-19 12:00",
+      "summary": "A prolonged feud between two physicists in Italy that has played out for years in journal letters and blog posts has resulted in a..."
+    },
     {
       "title": "‘Comically bad’ datasets used to train clinical models for stroke and diabetes",
       "link": "https://retractionwatch.com/2026/05/18/kaggle-dataset-clinical-models-stroke-diabetes/",
@@ -183,26 +189,20 @@
       "link": "https://retractionwatch.com/2026/05/14/nine-years-after-journalist-raised-concerns-bmj-group-journal-retracts-stent-paper/",
       "date": "2026-05-14 12:00",
       "summary": "A BMJ Group journal has retracted a paper nearly nine years after a journalist raised concerns about undisclosed conflicts of inte..."
-    },
-    {
-      "title": "Elsevier journal removes two 42-year-old papers on cesium as a cancer treatment",
-      "link": "https://retractionwatch.com/2026/05/13/elsevier-journal-removes-two-42-year-old-papers-on-cesium-as-a-cancer-treatment/",
-      "date": "2026-05-13 12:00",
-      "summary": "An Elsevier journal has removed two papers on a discredited alternative treatment for cancer nearly half a century after they were..."
     }
   ],
   "Reuters AI": [
     {
-      "title": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaE96UFNSbUJBTS12SUdiU3NZTHNiVU92TmNuZVhuOHQwSFFnQngtZjQ4Qi04WTN1T1lzU2RlLUFEZnZBQlFNVnlpZzIwdDdsM29TVks5aVpiTUkxZkdLVndheWxmLU51TXFwSWFRb1EtRFhNMDRUc3FDZUUzZExiUDlLbklWa3V1dFRrUUFNcGZxWE1CN0dFTlprS1JwUFBxZzJpb2Rhdm54aTl5TXZGNWdGeE9vSEUzdzdsZGd3?oc=5",
-      "date": "2026-05-18 04:18",
-      "summary": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports  Reuters..."
-    },
-    {
       "title": "StanChart to cut over 7,000 jobs, boost AI to replace 'lower-value human capital' - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXJQZk93RWZSZTBqb1VETW85REtQeE5ycmdtZXMxUnFXejBxMnFfNjJxM21PZHRxWHdLWXM0a0tMU2x6Tk9qYmNNU1dzdl9pUHZEaE5yT1pPb2dSWXRpVUk1ejAzRzRORlg4S2RWUGdxdy02V3pSUDloaUZuXzhLV1IzNHpyd3hBTjUtdDBSc2R4WGJVNUhURGxxNndpMWlLbE8wOW1iWkZJMmFrYmwwUS0weVU1UFBjRHc?oc=5",
-      "date": "2026-05-19 15:38",
+      "date": "2026-05-19 06:09",
       "summary": "StanChart to cut over 7,000 jobs, boost AI to replace 'lower-value human capital'  Reuters..."
+    },
+    {
+      "title": "Mistral AI buys Austrian physics AI startup in industrial push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXRKTnVyTWU0dmVpMGlxUnRzTi1TY1lwaURmZ0gyUGFLWWVNVHJfQkFNNmdVLUtuaDFPdEZLMlZXYVJHUjdySk1reDZZd0I5SjNJdTE4NjQySWpSeE9BZUJEWV9handpNU13RGdoMnZ5OW5MQm5SVFJxMkk1cURFYVZwUnUycy1hM2pDU19KWUFPQVJlSnlRR0ZtcUY5YzloQmEya21vRGRkYjNUS1RnOE9DTmFoQjdFdnFUQ2pLM1JOMmc?oc=5",
+      "date": "2026-05-19 19:47",
+      "summary": "Mistral AI buys Austrian physics AI startup in industrial push  Reuters..."
     },
     {
       "title": "OpenAI co-founder and former Tesla AI executive Karpathy joins Anthropic - Reuters",
@@ -211,15 +211,15 @@
       "summary": "OpenAI co-founder and former Tesla AI executive Karpathy joins Anthropic  Reuters..."
     },
     {
-      "title": "Mistral AI buys Austrian physics AI startup in industrial push - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXRKTnVyTWU0dmVpMGlxUnRzTi1TY1lwaURmZ0gyUGFLWWVNVHJfQkFNNmdVLUtuaDFPdEZLMlZXYVJHUjdySk1reDZZd0I5SjNJdTE4NjQySWpSeE9BZUJEWV9handpNU13RGdoMnZ5OW5MQm5SVFJxMkk1cURFYVZwUnUycy1hM2pDU19KWUFPQVJlSnlRR0ZtcUY5YzloQmEya21vRGRkYjNUS1RnOE9DTmFoQjdFdnFUQ2pLM1JOMmc?oc=5",
-      "date": "2026-05-19 06:01",
-      "summary": "Mistral AI buys Austrian physics AI startup in industrial push  Reuters..."
+      "title": "US lawmakers seek to undercut Chinese AI and tech sales abroad - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWdKamxhT1lHdFREQmpUNmMzSmduR1ViUGFLMENZVXlIOU9Ob3lwdGRfeW9DalFtSlZxaWlkR1dreTVNcld5cnV6NlJQSGdRcVJrUUdzakwxZ1Zwbjdjby15dkNweWl2UHZMR1loaGY5eFVuWnhNX0VJcS0xQllxcW9vZDZTLXhGaTdfbHlGNE1iUW9Rb0REV1B3VWVHRDVQS2lHQ2w4TUE2TGlw?oc=5",
+      "date": "2026-05-19 19:35",
+      "summary": "US lawmakers seek to undercut Chinese AI and tech sales abroad  Reuters..."
     },
     {
       "title": "Google, Blackstone to launch AI cloud venture to meet data centre demand - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3BSTU96Y2NQdlNRMTdlYlJkOU5TYVU0bWdvM1NiRVdabzhGNlppWjRXWGwzdnFHaFlJUzh5QVVpcnZRZl9GMDR5Tkg3VVNoS19vUlB1X2VXWTdwdWtjLVp1dHpRQ0EwLTlsT2RkWHdlVEZyRHBFcTUxYk12X0xFcXpLNWtUbWpMNEtaNlFxb0JPdlhldTNMZ2NhR09qSkliNF9jUw?oc=5",
-      "date": "2026-05-19 00:13",
+      "date": "2026-05-19 02:41",
       "summary": "Google, Blackstone to launch AI cloud venture to meet data centre demand  Reuters..."
     }
   ],
@@ -227,7 +227,7 @@
     {
       "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTUo2X0tDSWx3Z0ZXT0ZrQWlzVGhCc1NQOThHRVp5Y29vdnFZc0w1VTA2ZDRNUTI0Q2g3STFCSG9hWFJWUExXTEpiek5lR3h4QmJZbFg5TUdSbklMRndUY2lmT0dHalJkdlBLczZTVWZwTUQzalB5OFE3QnRDMk9CZVJURUJ4UE5LbXFOakJqd1NyY2Zma0Rfak16cTBhWEstbEpxNFRVTFRrYVY0LVFGWXNDaWMyc2xPUWZR0gHAAUFVX3lxTE84RF9ETy1CVERVdTBkTndUbHpVVlhmZWlaMmViSkgwa1RsSS1uY1J4WFVhZVdQS2R1SlJIREZLeVE4dThPeWFDN1lmMkRkYzVTMmxvNmNUdWV0MFV3dU1zTm9vblhGajNyZXpmWGMzNThaVFNNVHJ4VTROU1pvRUhJSTBEVnZIcWM3cng4TG9od0dSc0NHbnJybUNHQWJEal94N01lU0lpemxvb21hemxXblphX2drUzFkUTBfb3pMZQ?oc=5",
-      "date": "2026-05-19 18:11",
+      "date": "2026-05-19 12:00",
       "summary": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell  MIT Technology Review..."
     },
     {
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Persistent violence gaps hit Black and multiracial women hardest in California, analysis shows",
-      "link": "https://phys.org/news/2026-05-persistent-violence-gaps-black-multiracial.html",
-      "date": "2026-05-19 20:40",
-      "summary": "Rates of violence against women have remained largely unchanged in California for nearly two decades, with Black and multiracial w..."
+      "title": "Integrated solar reactor paves way to make 'clean' chemicals, plastics and food using solar energy",
+      "link": "https://phys.org/news/2026-05-solar-reactor-paves-chemicals-plastics.html",
+      "date": "2026-05-19 22:00",
+      "summary": "A new study led by Dr. Lin Su of Queen Mary University of London, published today in the Journal of the American Chemical Society,..."
     },
     {
-      "title": "Field-ready tool identifies rare and zoonotic parasitic worms missed by standard tests",
-      "link": "https://phys.org/news/2026-05-field-ready-tool-rare-zoonotic.html",
-      "date": "2026-05-19 20:40",
-      "summary": "Parasitic nematodes (commonly known as roundworms) are a large, diverse and poorly studied group of disease-causing organisms that..."
+      "title": "Mainstream anime moments can create big business opportunities",
+      "link": "https://phys.org/news/2026-05-mainstream-anime-moments-big-business.html",
+      "date": "2026-05-19 22:00",
+      "summary": "Anime has gone mainstream in the United States, drawing millions of fans who spend big money on conventions, streaming, gaming, an..."
     },
     {
-      "title": "Hybrid projector delivers super-resolution images across extended depth with 16-fold gain",
-      "link": "https://phys.org/news/2026-05-hybrid-projector-super-resolution-images.html",
-      "date": "2026-05-19 20:20",
-      "summary": "Researchers at the University of California, Los Angeles (UCLA) have developed a novel image projection system that delivers super..."
+      "title": "Laser processes to enable robust, miniaturized beam sources for quantum technology",
+      "link": "https://phys.org/news/2026-05-laser-enable-robust-miniaturized-sources.html",
+      "date": "2026-05-19 21:40",
+      "summary": "In the HiPEQ project, a consortium of industry and research partners has developed new laser-based approaches to enable miniaturiz..."
     },
     {
-      "title": "Chemists use sea sponge bacteria to create new molecules for drug discovery",
-      "link": "https://phys.org/news/2026-05-chemists-sea-sponge-bacteria-molecules.html",
-      "date": "2026-05-19 20:20",
-      "summary": "Florida State University chemists have synthesized new molecules derived from bacteria found in a Pacific Ocean sea sponge, a brea..."
+      "title": "Protected areas that help wildlife often do little for the soil fungi on which plants depend",
+      "link": "https://phys.org/news/2026-05-areas-wildlife-soil-fungi.html",
+      "date": "2026-05-19 21:40",
+      "summary": "Governments around the world conserve plants and animals in part by setting aside land. Whether as wilderness reserves or as resou..."
     },
     {
-      "title": "TriPcides target MRSA, suppress infection and kill dormant bacteria to open a new front against antibiotic resistance",
-      "link": "https://phys.org/news/2026-05-tripcides-mrsa-suppress-infection-dormant.html",
-      "date": "2026-05-19 20:00",
-      "summary": "In a new study, researchers show how so‑called TriPcides can target the bacterium Staphylococcus aureus, including antibiotic‑resi..."
+      "title": "Radar polarimetry: Time machine to glacial ice and rising sea levels",
+      "link": "https://phys.org/news/2026-05-radar-polarimetry-machine-glacial-ice.html",
+      "date": "2026-05-19 21:20",
+      "summary": "A review paper led by researchers from the University of St Andrews highlights the transformative potential in the use of radar in..."
     }
   ],
   "The Guardian Edu": [
