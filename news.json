@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "New research enables a robot to chart a better course",
+      "link": "https://news.mit.edu/2026/new-research-enables-robot-to-chart-better-course-0519",
+      "date": "2026-05-19 04:00",
+      "summary": "By rapidly generating a smooth path plan that cuts travel time and avoids obstacles, the open-source “MIGHTY” system could streaml..."
+    },
+    {
       "title": "Language development in the brain",
       "link": "https://news.mit.edu/2026/language-development-brain-0518",
       "date": "2026-05-18 19:15",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/new-approach-cancer-vaccination-yields-more-powerful-t-cells-0513",
       "date": "2026-05-13 09:00",
       "summary": "Using immune-remodeling mRNA molecules, researchers generated T cells that can slow tumor growth and, in some cases, eradicate tum..."
-    },
-    {
-      "title": "A new way to spot signs of dark matter",
-      "link": "https://news.mit.edu/2026/new-way-spot-signs-dark-matter-0512",
-      "date": "2026-05-12 17:00",
-      "summary": "Gravitational waves emitted by colliding black holes may bear imprints of dark matter, which physicists could detect with a new mo..."
     }
   ],
   "Harvard Gazette": [
@@ -77,15 +77,15 @@
       "summary": "Party of None: Inside Stanford’s War on Fun  Vanity Fair..."
     },
     {
-      "title": "Theo Baker took down Stanford’s president. His memoir takes aim at the school’s whole culture - San Francisco Chronicle",
+      "title": "Theo Baker took down Stanford University’s president. His memoir takes aim at the school’s whole culture - San Francisco Chronicle",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmlRQmZ3VEMxNjlqakozYk94TG14eXJiTUlGNkE5am9neXctOU9HSGlQWG1GQTNuQ1ZHNFhUckdkbnViWm1WMThFMi1oc1pSUGM3VV9iS2w4Y2Z6dVgtUHBDYW5UaUI2eFAxaWM5MVlpUFcwbms1Wmo1QzI5TnU0TW00bkhpSl9Xc2pVVFdveFlYWVZRS0RySmdQOA?oc=5",
-      "date": "2026-05-18 11:07",
-      "summary": "Theo Baker took down Stanford’s president. His memoir takes aim at the school’s whole culture  San Francisco Chronicle..."
+      "date": "2026-05-19 01:06",
+      "summary": "Theo Baker took down Stanford University’s president. His memoir takes aim at the school’s whole culture  San Francisco Chronicle..."
     },
     {
       "title": "Book Review: ‘How to Rule the World,’ by Theo Baker - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1ppZ3JuNm9raFl5VTZ3VU8tMVh5d0xXd2w5LWFSOVAwRUVaZ0pKMGpMWEZZYXM1UDhBdTYyTGVTa0FveTBtQ0NuV09wbHV2TkpVS05Ncl9oUFg1OVNRQ2N6MHF3NXFKX2x6RWhNV0M4OHFYT3dxbGRLMnZXa0EtNEc3SHFQMS10cHpMTG93?oc=5",
-      "date": "2026-05-18 15:52",
+      "date": "2026-05-18 09:00",
       "summary": "Book Review: ‘How to Rule the World,’ by Theo Baker  The New York Times..."
     },
     {
@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "Scientists play catch-up to startling Ebola outbreak",
+      "link": "https://www.science.org/content/article/scientists-play-catch-startling-ebola-outbreak",
+      "date": "2026-05-18 07:30",
+      "summary": "Testing, sequencing, and clinical trial efforts spring to life as Bundibugyo virus spreads..."
+    },
+    {
       "title": "¿Este científico fue demasiado lejos en su intento por salvar la vida silvestre de Ecuador?",
       "link": "https://www.science.org/content/article/este-científico-fue-demasiado-lejos-intento-por-salvar-la-vida-silvestre-de-ecuador",
       "date": "2026-05-18 08:00",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/rare-seals-spotted-snoozing-underwater-bubble-cave",
       "date": "2026-05-15 12:25",
       "summary": "Hidden chambers may provide Mediterranean monk seals refuge from tourists..."
-    },
-    {
-      "title": "Murder, monsters, occupational hazards: Why movie geologists die so often",
-      "link": "https://www.science.org/content/article/murder-monsters-occupational-hazards-why-movie-geologists-die-so-often",
-      "date": "2026-05-15 12:25",
-      "summary": "Cinematic geologists are usually good guys—sometimes gals—but they have a one in three fatality rate, a film analysis show..."
     }
   ],
   "Retraction Watch": [
@@ -193,22 +193,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2FfNVN5cmZ5SWF4WFBlOWluNFRfdEpkdVVwNXpKZUNyanhWN3RvZURrQkVNWFFILWptTzlkVGFpSlg2V1FKbWZIUlhGSXdJc3g4TmdQUEM1QkpsM2ctVjFWTjUxcUhvTS0teFFxekE0YnhhQ0tLZWNwNUdZZTQ5VFB2cF96STV0ZWQ2N2ladko0N1NXbzVLRWlHMnFQdHlheXlfVDJDUDE?oc=5",
-      "date": "2026-05-16 10:31",
-      "summary": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus  Reuters..."
+      "title": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaE96UFNSbUJBTS12SUdiU3NZTHNiVU92TmNuZVhuOHQwSFFnQngtZjQ4Qi04WTN1T1lzU2RlLUFEZnZBQlFNVnlpZzIwdDdsM29TVks5aVpiTUkxZkdLVndheWxmLU51TXFwSWFRb1EtRFhNMDRUc3FDZUUzZExiUDlLbklWa3V1dFRrUUFNcGZxWE1CN0dFTlprS1JwUFBxZzJpb2Rhdm54aTl5TXZGNWdGeE9vSEUzdzdsZGd3?oc=5",
+      "date": "2026-05-18 04:18",
+      "summary": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports  Reuters..."
     },
     {
-      "title": "Elon Musk loses his lawsuit against OpenAI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rNV82WVlEQUV5QzhyNzFadER3UzREaDhNemFQa3AxTVlWa2RiS0FVSnVvTkJUaENmYVYzRFNEVjROSmcxNmM4M3ZKSkU1UUkyeHl4UGwtNVpQZ1VnZzFHNDZsWG04dw?oc=5",
-      "date": "2026-05-18 23:46",
-      "summary": "Elon Musk loses his lawsuit against OpenAI  Reuters..."
-    },
-    {
-      "title": "Exclusive: Meta lays out details of May 20 restructuring in internal document - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU9uWEUtam15N0pKQzdxSGZBOGVhZG84V3BETV9USHJsSjhmSThFSE5Cd3FfeGMzeUZneWxyemRqNjF4Sjc4clRPeDdMUzBud19OYzBnWENaLVQwRnBiNUZTYUlNU01qd1NYdFNqZk5MZW1QTXRCdWwxLTdndTdyTm1lR2dCRmtrYl9ybEVacXV4dDRhQ1kwcUdqeXBxeEkwYVNKWjJlSkRMWVBscnhpQndJUQ?oc=5",
-      "date": "2026-05-18 22:43",
-      "summary": "Exclusive: Meta lays out details of May 20 restructuring in internal document  Reuters..."
+      "title": "Google, Blackstone to launch AI cloud venture to meet data centre demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3BSTU96Y2NQdlNRMTdlYlJkOU5TYVU0bWdvM1NiRVdabzhGNlppWjRXWGwzdnFHaFlJUzh5QVVpcnZRZl9GMDR5Tkg3VVNoS19vUlB1X2VXWTdwdWtjLVp1dHpRQ0EwLTlsT2RkWHdlVEZyRHBFcTUxYk12X0xFcXpLNWtUbWpMNEtaNlFxb0JPdlhldTNMZ2NhR09qSkliNF9jUw?oc=5",
+      "date": "2026-05-19 00:13",
+      "summary": "Google, Blackstone to launch AI cloud venture to meet data centre demand  Reuters..."
     },
     {
       "title": "Pope Leo to address rise of AI in first major text on May 25 - Reuters",
@@ -221,6 +215,12 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0hfaDc2NVRGcEpWTXRqMHB1UlQzeXhOVkp6dG8xUVZpNDZGc2VEYlBNSklIcTZCc1ZUa3lIVWVQQzJNTDZfVkhrdTMtT3gtWF9PQU5TZEdQNlZYSERiS0tZdW9WNzgtTVphX3dDS0Z0UkhUZ0tYYzZTNlNfSTN0dk43d1l1NFlvWW1JQW9LalBfclEtSnBNZnhfcTdLaWh4amFBMWVReVFPaTc1aXNPejh0eVFsNXYw?oc=5",
       "date": "2026-05-18 22:23",
       "summary": "As chip industry chases AI, U.S. national labs look to newcomers for supercomputers  Reuters..."
+    },
+    {
+      "title": "Global centres in India slow hiring as AI reshapes work, ANSR CEO says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWHJuRUE5U1lDaFhsMVdfbVd0NUplb1MtazhjWDJEUmhtdlRaUW1na0JDdzJuay1TWk9PZ1o4RE9VdVhjSzhEbWR3NUg3eXlQc1pCZzdCUkJjdWhINFg0Y3lwUTJDUFN1ak44QURQc0tWaXQzY0oxck9kTk1zWVZ1OFZBWm9ibHU1MkdIeUtIVW1US0ZMWDFUck9nUFRZSkVoMzFmRi1SZUtPdHo2MkVuY3Z0VExyWXBwbnYzbTlEOA?oc=5",
+      "date": "2026-05-18 15:12",
+      "summary": "Global centres in India slow hiring as AI reshapes work, ANSR CEO says  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,48 +243,48 @@
       "summary": "AI chatbots are giving out people’s real phone numbers  MIT Technology Review..."
     },
     {
+      "title": "Here’s why Elon Musk lost his suit against OpenAI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVVRDYVVTS0thY0lTMXpFZXd3YWNyNGREazczZW5WbmIzVGFDUFkyLU5PbzI1a3ZLV0ZuSkh1c3ltalBSUEk5R1h5NW1aSk5YbmlLaks4eS03dmpibkRTeW5zVDM0UElsSTcxdlo4TWNjUDF3Q2hUN3FDM0pXbUVnWjY2VVBIX3MxVVHSAY8BQVVfeXFMTlZhOURMMUFKY3BTSGlLUFI1ZGRZY3pfb0EwcDZXQ1FXTURxaURaeExEYll0RnRPZjkwbXBXMFc2cG50b1VLRkdLNVp2SnRpTEp4aTVtZUI4OUZyNV9tZXFPU0IwUnY5OVdiV0RsVnhpOF9HS1ZuSTV2Nk9xOW5yR3hhMFFFSFozRmdFSDB1cVU?oc=5",
+      "date": "2026-05-19 00:53",
+      "summary": "Here’s why Elon Musk lost his suit against OpenAI  MIT Technology Review..."
+    },
+    {
       "title": "A plan to make drugs in orbit is going commercial - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkhZRUhKbFZmM3pQWms0SkF4WlhuMlEtUkQ0eE05Tlh3VU5UNHM1VEo4bjVTQVlJemxoZ3VRMGZfZ0ZvRmJXU0xEZS0xd25sd2VBTEpPem5PTnZvYWRGYk91S25HRnhGRHBzMjZrTkZZajhsekhiZVAzTWpyMjUtWWpONlJycVNrcXdqNmJkMEwwWnY1SU5iR3d1OXpjdHRaMzJlUXk0LS0yd9IBrwFBVV95cUxNUlk5d2MyT1U2VmN1aF9sLW9jNVIyRzFuVjROaWVnX21wS0RERmZ3ZEhmazFwMzVvYXRJQ1hHaDVMUEwzb3hKUmlMaS1QUUJCS2JXM3Z2UU0wTHRJZ1Z5bnU4STUtMnoxaEg5RnZfUURqQVNzYkZ1eHNic3BhdHdUNEVJUWpfTi1uVFVvc0IxQWowWVhRdTZzM0dvWkpCaV9UNWZqeEx3ZExNVnN2X0w4?oc=5",
       "date": "2026-05-13 10:00",
       "summary": "A plan to make drugs in orbit is going commercial  MIT Technology Review..."
-    },
-    {
-      "title": "How Chinese short dramas became AI content machines - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0pCQW0wLXNiYjREWDFHMjNpY01pazdJRjFDeV9lejNzY2R0V0xucUJHb0pvbEsxQ1dtaU84RjFEZDhuejhNd2Joc0lBSXZaUUtVUWcwRHZKb1lJUEo1REl1SDdBSmVudG95OGVCX3poSlB4R1R4T1J5dUhmMnNDS1B30gGHAUFVX3lxTE5MUkhQTmRYaHM3dEdXS1FvQXQ3VndEVUR6Q0VkT1gzVGtpVE1WS1llVlR4WjJTTko0ZFdIeGdoUlk1eFM0R0VMM1liYjRVeE1DV3psMlIzV2VrM1gtNWl1bGJONU90STFjY2xwR1A1M29ZOWlaM0VRWXRvejhIcWE1RlhTYmhmSQ?oc=5",
-      "date": "2026-05-15 09:00",
-      "summary": "How Chinese short dramas became AI content machines  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Microbes for health: New way to feel 'at one' with nature",
-      "link": "https://phys.org/news/2026-05-microbes-health-nature.html",
-      "date": "2026-05-19 00:00",
-      "summary": "Can you imagine feeling good about your body being home to trillions of bacteria and viruses—as well as life-giving \"invisible fri..."
+      "title": "Urban life makes animals bolder, more aggressive across 133 species, analysis finds",
+      "link": "https://phys.org/news/2026-05-urban-life-animals-bolder-aggressive.html",
+      "date": "2026-05-19 04:00",
+      "summary": "A global analysis has found that urban animals are bolder and more aggressive, exploratory and active than their rural counterpart..."
     },
     {
-      "title": "Mapping how 'Big AI' influences AI laws and oversight",
-      "link": "https://phys.org/news/2026-05-big-ai-laws-oversight.html",
-      "date": "2026-05-19 00:00",
-      "summary": "Artificial intelligence (AI) companies influence policy and regulation using similar techniques to Big Tobacco, Big Pharma and Big..."
+      "title": "DNA floating in seawater is now enough to let scientists monitor the health of America's dolphin populations",
+      "link": "https://phys.org/news/2026-05-dna-seawater-scientists-health-america.html",
+      "date": "2026-05-19 04:00",
+      "summary": "DNA is everywhere in the world's oceans—not only packaged inside cells from skin, scales, mucus, feces, and blood, but also floati..."
     },
     {
-      "title": "Would a $1 rideshare fee affect wealthier or working‑class Philadelphians more? 2 Chicago studies offer some perspective",
-      "link": "https://phys.org/news/2026-05-rideshare-fee-affect-wealthier-workingclass.html",
-      "date": "2026-05-18 23:40",
-      "summary": "Philadelphia Mayor Cherelle Parker has proposed a US$1 fee on all Uber, Lyft and other rideshare trips in the city to begin in 202..."
+      "title": "Economic impact report examines the value of open biodata infrastructure",
+      "link": "https://phys.org/news/2026-05-economic-impact-biodata-infrastructure.html",
+      "date": "2026-05-19 04:00",
+      "summary": "Public infrastructures like roads and electricity are so essential to society that people almost take their value for granted. A n..."
     },
     {
-      "title": "Bioengineers condense protein engineering and testing to a single day",
-      "link": "https://phys.org/news/2026-05-bioengineers-condense-protein-day.html",
-      "date": "2026-05-18 23:40",
-      "summary": "Proteins are critical to life—and to industry. There are countless proteins that could be engineered to treat and even cure seriou..."
+      "title": "Video: Preparing Smile for space",
+      "link": "https://phys.org/news/2026-05-video-space.html",
+      "date": "2026-05-19 03:20",
+      "summary": "Before Smile can begin studying how Earth responds to the streams of particles and bursts of radiation from the sun, the spacecraf..."
     },
     {
-      "title": "Phase-contrast microtomography reveals vascular colonization of tomato roots by Fusarium oxysporum",
-      "link": "https://phys.org/news/2026-05-phase-contrast-microtomography-reveals-vascular.html",
-      "date": "2026-05-18 23:20",
-      "summary": "Soil-borne fungal pathogens are responsible for major agricultural losses worldwide, yet the way they invade and spread inside pla..."
+      "title": "Cryo-EM reveals the structural basis of functional diversity in alcohol oxidase isozymes",
+      "link": "https://phys.org/news/2026-05-cryo-em-reveals-basis-functional.html",
+      "date": "2026-05-19 02:40",
+      "summary": "As the global push toward a carbon-neutral society accelerates, understanding how microorganisms metabolize methanol with high eff..."
     }
   ],
   "The Guardian Edu": [
@@ -321,37 +321,43 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong set to benefit as Xi-Trump summit signals ‘more stability’, John Lee says",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3354047/hong-kong-set-benefit-xi-trump-summit-signals-more-stability-john-lee-says?utm_source=rss_feed",
+      "date": "2026-05-19 04:23",
+      "summary": "Hong Kong’s economy and trade with the United States will benefit from greater stability and certainty brought by the summit betwe..."
+    },
+    {
+      "title": "John Lee to visit Kazakhstan, Uzbekistan, taking largest-ever delegation overseas",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3354036/john-lee-lead-administrations-largest-delegation-kazakhstan-uzbekistan-june?utm_source=rss_feed",
+      "date": "2026-05-19 02:13",
+      "summary": "Hong Kong’s leader will travel to Kazakhstan and Uzbekistan early next month to explore and seize new business opportunities, maki..."
+    },
+    {
+      "title": "What Hong Kong can learn from the Yangtze’s conservation success",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3353307/what-hong-kong-can-learn-yangtzes-conservation-success?utm_source=rss_feed",
+      "date": "2026-05-19 01:30",
+      "summary": "In February, a landmark study in the journal Science delivered rare good news for conservation: a five-year fishing ban in the Yan..."
+    },
+    {
+      "title": "Hong Kong finance chief woos French wealth managers as European tour kicks off",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3354014/hong-kong-finance-chief-woos-french-wealth-managers-european-tour-kicks?utm_source=rss_feed",
+      "date": "2026-05-19 00:30",
+      "summary": "Hong Kong’s finance chief has begun a five-day European tour, starting in France, as part of the city’s latest push to attract glo..."
+    },
+    {
       "title": "Hong Kong property upswing poised to hold despite interest rates risk: Moody’s",
       "link": "https://www.scmp.com/business/article/3354005/hong-kong-property-upswing-poised-hold-despite-interest-rates-risk-moodys?utm_source=rss_feed",
       "date": "2026-05-18 23:00",
       "summary": "Hong Kong’s residential property market recovery is unlikely to be derailed by a potential increase in interest rates amid the Mid..."
-    },
-    {
-      "title": "Hospital body to use 18285 and 18286 phone numbers to help people identify calls",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3354015/hospital-body-use-18285-and-18286-phone-numbers-help-people-identify-calls?utm_source=rss_feed",
-      "date": "2026-05-18 16:28",
-      "summary": "Hong Kong’s Hospital Authority will begin using standard prefixes for telephone numbers to make it easier for people to recognise ..."
-    },
-    {
-      "title": "CIC revamps Sustainable Construction Award to accelerate decarbonisation",
-      "link": "https://www.scmp.com/presented/news/hong-kong/topics/cic-sustainable-construction-award/article/3353925/cic-revamps-sustainable-construction-award-accelerate-decarbonisation?utm_source=rss_feed",
-      "date": "2026-05-18 16:00",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nAs Hong Kong pushes towards carbon neutrality by 2050,..."
-    },
-    {
-      "title": "A new model for urban regeneration demonstrated in practice",
-      "link": "https://www.scmp.com/presented/news/hong-kong/topics/new-model-urban-regeneration-demonstrated-practice/article/3351641/new-model-urban-regeneration-demonstrated-practice?utm_source=rss_feed",
-      "date": "2026-05-18 16:00",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nRonald Lu & Partners (RLP Asia) has won first prize of..."
-    },
-    {
-      "title": "Hong Kong’s dog-friendly restaurant scheme receives 700 applications on first day",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3354012/hong-kongs-dog-friendly-restaurant-scheme-fills-70-quota-first-day?utm_source=rss_feed",
-      "date": "2026-05-18 14:32",
-      "summary": "A licensing scheme allowing dogs into Hong Kong restaurants has attracted strong initial interest, with 70 per cent of the 1,000-p..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Mystery of the ancient giant stone jars of Laos may have been solved",
+      "link": "https://www.newscientist.com/article/2527089-mystery-of-the-ancient-giant-stone-jars-of-laos-may-have-been-solved/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-19 00:01",
+      "summary": "In central Laos, the landscape is littered with enormous stone jars, some 3 metres high, and we may be closer to understanding how..."
+    },
     {
       "title": "Floatation tanks deployed to combat PTSD after devastating wildfires",
       "link": "https://www.newscientist.com/article/2526918-floatation-tanks-deployed-to-combat-ptsd-after-devastating-wildfires/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2527072-the-ebola-emergency-shines-a-light-on-the-urgent-need-for-new-vaccines/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-18 13:11",
       "summary": "A little-known strain of Ebola virus is behind an ongoing health emergency, prompting researchers to call for the acceleration of ..."
-    },
-    {
-      "title": "Your body clock has seasonal rhythms and it matters for vaccines",
-      "link": "https://www.newscientist.com/article/2526726-your-body-clock-has-seasonal-rhythms-and-it-matters-for-vaccines/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-18 12:00",
-      "summary": "We think of our body clock ticking over on a 24-hour cycle, but evidence is growing that it has seasonal rhythms, which could affe..."
     }
   ]
 }
