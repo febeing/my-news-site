@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Some democracies are struggling to ensure safe drinking water",
+      "link": "https://news.mit.edu/2026/some-democracies-struggle-to-ensure-safe-drinking-water-0521",
+      "date": "2026-05-21 17:30",
+      "summary": "Countries with developing economies provide at least some public water, but safety may lag because it’s less visible, researchers ..."
+    },
+    {
       "title": "Technology usually creates jobs for young, skilled workers. Will AI do the same?",
       "link": "https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521",
       "date": "2026-05-21 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/single-molecule-tracker-illuminates-cancer-related-proteins-0519",
       "date": "2026-05-19 15:35",
       "summary": "Researchers can now use custom-built microscopy and nanotechnology to tag and follow the activity of individual proteins in real-t..."
-    },
-    {
-      "title": "New research enables a robot to chart a better course",
-      "link": "https://news.mit.edu/2026/new-research-enables-robot-to-chart-better-course-0519",
-      "date": "2026-05-19 04:00",
-      "summary": "By rapidly generating a smooth path plan that cuts travel time and avoids obstacles, the open-source “MIGHTY” system could streaml..."
     }
   ],
   "Harvard Gazette": [
@@ -65,18 +65,6 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford Deep Lab opens new frontiers in nanotech - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXS1VPT3daSkZJOVRUdFY5NW9yNVo2akhYV2NZLTl4UHA4cVFqSE84Ui1IbTBUOExPWmZEZHVJNWtmc1IzMG5QTnZPT0tSaG1FcTkxWGRvaUVWaThhcXFLVnhKRThkLTFhSE02MWJDeVhsNnVMZ2x5RWRCak1aZw?oc=5",
-      "date": "2026-05-19 20:01",
-      "summary": "Stanford Deep Lab opens new frontiers in nanotech  Stanford Report..."
-    },
-    {
-      "title": "Party of None: Inside Stanford’s War on Fun - Vanity Fair",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tdHlMNEplMjhPRUw4T1VxXzlBMkNNNk9ZOWlRNDliYng0ZXRVcElveWxobk9tbmlZYlFoZXdESldLN3FIMnVUSXVlSjNDU01YRGp2NWlrMFROUmotQllfeGFaZFdzXzFpcTVxeQ?oc=5",
-      "date": "2026-05-18 14:25",
-      "summary": "Party of None: Inside Stanford’s War on Fun  Vanity Fair..."
-    },
-    {
       "title": "Inside the rotten heart of Stanford, Silicon Valley’s favourite recruiting ground - The Times",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVZ5UUxsT3pmVWNXUWFsTHJ5a1g3bmJ6WjJsQllhUF94RnBBWGFLa1pwXzdLbW9mUk5ST3lNblFONTRPTUJPU1JTU1cyNU9JYlNGaHFpZE5sYjloVjJES0tySHd4VzZWOTg2YzFvNXFabzR0c19DcFhSeWxQWkhkZ1BwNy1BMXR2MXFBeEdsYlNiY1Q2VDB3THhURXdSdFFBWXVDbWp2dnhReW05Q3RQRmpkUHVXTldaVmdMT05OOXN3V2xHZGxj?oc=5",
       "date": "2026-05-19 16:00",
@@ -93,14 +81,38 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1ppZ3JuNm9raFl5VTZ3VU8tMVh5d0xXd2w5LWFSOVAwRUVaZ0pKMGpMWEZZYXM1UDhBdTYyTGVTa0FveTBtQ0NuV09wbHV2TkpVS05Ncl9oUFg1OVNRQ2N6MHF3NXFKX2x6RWhNV0M4OHFYT3dxbGRLMnZXa0EtNEc3SHFQMS10cHpMTG93?oc=5",
       "date": "2026-05-18 09:00",
       "summary": "The Secret Elite One Freshman Discovered at Stanford  The New York Times..."
+    },
+    {
+      "title": "Fear and Loathing in Palo Alto - Washington Monthly",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPaFN2OE16Y0I0SUpVTE5aTlo2SVZnV2ZXMjk1YXpkODQ1NUQ2NVFKRlgybUd0VVpud0NRWUYzMkhkR0Y0TU9YUkloa0pZWUJwNktPTjhDdkdhcjgtMlhPVmp0dHRobVlHcllSbWgxR3Fac1psVkVyb2RjcXM?oc=5",
+      "date": "2026-05-19 09:00",
+      "summary": "Fear and Loathing in Palo Alto  Washington Monthly..."
+    },
+    {
+      "title": "Stanford Deep Lab opens new frontiers in nanotech - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXS1VPT3daSkZJOVRUdFY5NW9yNVo2akhYV2NZLTl4UHA4cVFqSE84Ui1IbTBUOExPWmZEZHVJNWtmc1IzMG5QTnZPT0tSaG1FcTkxWGRvaUVWaThhcXFLVnhKRThkLTFhSE02MWJDeVhsNnVMZ2x5RWRCak1aZw?oc=5",
+      "date": "2026-05-19 20:01",
+      "summary": "Stanford Deep Lab opens new frontiers in nanotech  Stanford Report..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "De novo design of miniproteins targeting GPCRs",
+      "link": "https://www.nature.com/articles/s41586-026-10656-8",
+      "date": "2026-05-21 00:00",
+      "summary": "Nature, Published online: 21 May 2026; doi:10.1038/s41586-026-10656-8De novo design of miniproteins targeting GPCRs..."
+    },
     {
       "title": "A star gone rogue tears through the Galaxy",
       "link": "https://www.nature.com/articles/d41586-026-01591-9",
       "date": "2026-05-21 00:00",
       "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01591-9The black hole at the Milky Way’s centre catapulted a Sun-lik..."
+    },
+    {
+      "title": "Ebola outbreak spirals out of control: how might it have started?",
+      "link": "https://www.nature.com/articles/d41586-026-01645-y",
+      "date": "2026-05-21 00:00",
+      "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01645-yPublic-health researcher James Baguma has studied the interac..."
     },
     {
       "title": "Should I get a dog? What to know about pet ownership as a scientist",
@@ -109,22 +121,10 @@
       "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-00198-4Animal companions can be a lot of work, and are difficult to ..."
     },
     {
-      "title": "Spinal neuromotor rehabilitation using a portable isokinetic training robot",
-      "link": "https://www.nature.com/articles/s41586-026-10642-0",
-      "date": "2026-05-20 00:00",
-      "summary": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10642-0Spinal neuromotor rehabilitation using a portable isokinetic ..."
-    },
-    {
-      "title": "Author Correction: Inactivating <i>SnRK1β1A</i> promotes broad-spectrum disease resistance in rice",
-      "link": "https://www.nature.com/articles/s41586-026-10659-5",
-      "date": "2026-05-20 00:00",
-      "summary": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10659-5Author Correction: Inactivating SnRK1β1A promotes broad-spect..."
-    },
-    {
-      "title": "Nearly half of the world’s Nature Index chemistry research is now done in China",
-      "link": "https://www.nature.com/articles/d41586-026-00431-0",
-      "date": "2026-05-20 00:00",
-      "summary": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-00431-0A breakdown of leading countries and institutions highlights ..."
+      "title": "How we’re using AI tools to improve psychedelic-drug research",
+      "link": "https://www.nature.com/articles/d41586-026-01467-y",
+      "date": "2026-05-21 00:00",
+      "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01467-yFélix Schoeller’s team built a realistic artificial-intellige..."
     }
   ],
   "Science News": [
@@ -205,22 +205,22 @@
       "summary": "The AI bots are coming and the young are booing, not applauding  Reuters..."
     },
     {
-      "title": "Major takeaways from Magnificent Seven's AI-fueled earnings - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemJheXNhZnFjeV9PYS1vT0IyUXBGQ2lxYzEybGZIQndURXp6MFdJa3hkaXpRUGNBTVlvUE93UGdUVUlsaTNnaDk2WlQyM1JFUHhPbzBaRXM3ZHpaYzltUktzd1RPNW5mOGpLazBHWW9CVncyaWJEaTNhSzQ2SnpxSDYxRTNKQkFBRmhtQk5yemlZd1FfS1M4dnJRZm5WUlU?oc=5",
-      "date": "2026-05-21 13:04",
-      "summary": "Major takeaways from Magnificent Seven's AI-fueled earnings  Reuters..."
+      "title": "Spotify strikes deal with Universal Music to let premium users create AI covers, remixes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHh0djRiMGwtYnVIdm0yZ0FWZzRUVDFkU01kZGk3TW4ybEZQU0txZVZMUzZKcUhRVFEwcWlrUno4eHBmWTZZWWVfZWg2MGJJOXNsdmpjZDd4OUFsUDM1ckF3MTY5cUp6dFFCdnNlLUJ6czZMUHFUZ3RfXzA4X1pWV1VsWlNjR2UzNTNTVXVQaFRiWDlaUzZMX21XOFZjOEUtNXQ2UlV0S2ZlcTRYR1FwX1gzYW91RjJGYVZXeUpuVGtCeTBycTdpZw?oc=5",
+      "date": "2026-05-21 15:48",
+      "summary": "Spotify strikes deal with Universal Music to let premium users create AI covers, remixes  Reuters..."
     },
     {
-      "title": "Mistral AI buys Austrian physics AI startup in industrial push By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS05ITUp4dEgtZnpRUVlONGNvMzc5cU5LVjBfSWRpWDEydGNUZXFtUXZGdE5NU3lYR0dZd3M5cmpzV0YzUlZaakw3Y2Fud3hxaHhfbzZhOFlGU0JZYkVaMzIwNDNCd3JtUnpzbUVrYWdJbDJudFd3TC1yWVpkOEdObW83SXhZdENpT2tCbUFKSXVKcjlLU3NESVpqazRHaVJIUmt4Z1NPWW9vb2NsUkphVnVsUXNFOF91clAw?oc=5",
-      "date": "2026-05-19 06:14",
-      "summary": "Mistral AI buys Austrian physics AI startup in industrial push By Reuters  Investing.com..."
+      "title": "White House postpones Trump's AI signing ceremony, say sources - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzNjeDgtUzFjMXB6Z1A2MHNKWERwUm9GMXM2SjJSNnNwY2NKMjdIQy1VY25tZkxGOTl3YWlUZ241WGYzR1hVRnc0Y1Zmdm1XbGV6RkpzNDQ5dGZmTno1ZU82NHhXeUl0NWoySmhTUFQ0NkVVMk52cF83Mms4WmQxTkNISFk2a2t1aUJPVFVxZ2tyT3l3ck1sZGo3Y1dZR0lCU1cxb3ZoMkdvNm1lY1pNS3VhRzg1T2QzNHF5LQ?oc=5",
+      "date": "2026-05-21 15:53",
+      "summary": "White House postpones Trump's AI signing ceremony, say sources  Reuters..."
     },
     {
-      "title": "Trump administration seeks to supercharge US AI exports with billions in financing, document shows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQlJTU0QwWHg1blgyRXJEX2hfRm1VN243VHJja21LNk5qeVd0dlNOTHdQc1dYWkUwMjFuMmxtbW1rc1psTXpPTUNJN1A3R01FTVRNRXQ5dm5NTTJNRWdNUFBiNVZSbU1nbWhKeFBiNHdTTjhxREFRcVlHX3pmRmNIT2FZUnhfZ0o3RDlSTzNJZWxtcE9falZOSDNpbnFHRUpwa3gxNHlPMG5OcTNGZy1iMjUxaE80MlhocWs5WkhydEtyYmdLRENMNm9KVQ?oc=5",
-      "date": "2026-05-21 09:55",
-      "summary": "Trump administration seeks to supercharge US AI exports with billions in financing, document shows  Reuters..."
+      "title": "Exclusive: Modal Labs valued at $4.65 billion as AI coding takes off - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTVnSjdhUW1qa1dLaXBJTHFQQS0wdXFYMnhtdWhqRzFhRGt5bm5FcUVjbFhkc0FzZENKTWRTZ1FlNDlJaDBlTllWNVJ0ZnZDSGpwdzFCTFlBR1VucmhGUDZqU1ZHdnBpVU5rMVRkbW1iTkVPWlN0MW1LR01zbkswSkNTcjJmTDFyZE44Uk1mSTB5aTVxeXlkUklR?oc=5",
+      "date": "2026-05-21 17:03",
+      "summary": "Exclusive: Modal Labs valued at $4.65 billion as AI coding takes off  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -231,10 +231,10 @@
       "summary": "The Download: online safety’s future and climate tech’s big pivot  MIT Technology Review..."
     },
     {
-      "title": "Climate tech companies are pivoting to critical minerals - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOTU2aEdSdzc3aEdOc2h2SE1NeDU0dl9tNzFBd1pENVpOcnZoUnJFOVhPMmNkNmdmZWlTVjlBRXE4RXhHZ2NPMGJMRC0tVWlvNXlLMzRPbnYzazgyeTRhS2pEZGNuMG1ERi0teFcyTWJ5aUVjeW1hbnNxZ0VqbEZENXFReTdRMXpoenVoLW4ya3dfZDDSAZgBQVVfeXFMTjhBUmlvWFFaUXl2WHdJQVZaZE1VSDRJWlFLdnBvVUx3THg4T29mLUdMUlVxUkVqSjZhSkpvQ2JPY1VLS1BlaU8zQlh1Z1luVjhKbWJDZkFaN1pMeDdpTnZJTDJCak9laEkwb2E0UUt4dFVUYnNvX1BiQnltaU1DbGNrUE9BN2ljUWhZNG9yMGNGREY2QjNOQ3Q?oc=5",
-      "date": "2026-05-21 10:00",
-      "summary": "Climate tech companies are pivoting to critical minerals  MIT Technology Review..."
+      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGdXclcyUEQzd0dFQkdfd1N5WVA3MHpUak1xdFhpMTBrTGdsbTBIZUtnVklKTTY4YUpOZ3loc3MyNmYxeXk3NkNvb19pck1DNlZWeGRHb2lEaUl6ZUpwM3REbHh5VnVPRlJVWE10TGd5d0JEZUFXdW9BRWRfVUl3eGZsaUhMM1JWNktHbWN6alBrZmF6aDRBcUxNVHNtVktUTUoxNVNrdVVWUHpXeUhVU19RNXh6M1EwcWVnSVUwc1oyenhSWVc3LTZrd1dkUdIB0wFBVV95cUxOclZ6R21XcEJVS1RWcGFRU1F0V3JDWkJaaUtfVENQUUlQV0VpT0JtY2I5REpQX3BSMUM4MkZ4Rm5RdlFkbmNGMUUxanVWaDdrTlRQTGpYMDd1Q3pEYm1nN3V6SmcydGdVUXllUERYNkdScjRwc2FGLWQtTWl3TnJfQ1dUSkNVSGVlR1pRdDB1a0FSek9ZWnRDajh4VGFkQUJtMEhQWTZTcU5QcnNHTmhKVVB6QXBVNlhkeUh2YXBBeWpPOXd5cFJBZ2xXdjJ0N1BvSzlr?oc=5",
+      "date": "2026-05-21 14:30",
+      "summary": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not  MIT Technology Review..."
     },
     {
       "title": "What to expect from Google this week - MIT Technology Review",
@@ -243,48 +243,48 @@
       "summary": "What to expect from Google this week  MIT Technology Review..."
     },
     {
+      "title": "Climate tech companies are pivoting to critical minerals - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOTU2aEdSdzc3aEdOc2h2SE1NeDU0dl9tNzFBd1pENVpOcnZoUnJFOVhPMmNkNmdmZWlTVjlBRXE4RXhHZ2NPMGJMRC0tVWlvNXlLMzRPbnYzazgyeTRhS2pEZGNuMG1ERi0teFcyTWJ5aUVjeW1hbnNxZ0VqbEZENXFReTdRMXpoenVoLW4ya3dfZDDSAZgBQVVfeXFMTjhBUmlvWFFaUXl2WHdJQVZaZE1VSDRJWlFLdnBvVUx3THg4T29mLUdMUlVxUkVqSjZhSkpvQ2JPY1VLS1BlaU8zQlh1Z1luVjhKbWJDZkFaN1pMeDdpTnZJTDJCak9laEkwb2E0UUt4dFVUYnNvX1BiQnltaU1DbGNrUE9BN2ljUWhZNG9yMGNGREY2QjNOQ3Q?oc=5",
+      "date": "2026-05-21 10:00",
+      "summary": "Climate tech companies are pivoting to critical minerals  MIT Technology Review..."
+    },
+    {
       "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0FCLWVXb1RXakI1YVFaUDFpUkNMNHpiSEpJNktvYkJ1TnF5M1NvR2wwQnVlWjZtbVIwc2Vrd00yZU9PM1RtTGFYOGV1b0xzMThXdzUza19RRVdLejVvczRDMlRTNmlkMlExb3BPZkx2alE3Z2trVlJReWRFSmRwTDFhTFV0ZG1TRmstd3A5LWlDLU5NR1ljMHRncUdGc1hHaDBLRHB6U2xULVJxU2Ezc2NidEFMM1Jx0gG-AUFVX3lxTE5GOFVNQ1JIcjBrWWxfZXdnRS1tTkN2UUFWdEZEcHdsaXYtYXdnZnJqMjhJMXMwZkpsdXNoSWxKZHZqMGxqeU1JQjAxNUN6VWh6WEFpeENxYkJUdGNFSWtkTnBodm1tRENSOGhTZmFDNXNPVlpJTFhXc3R6Wk5BTWc5SlpXczBDWThNN3lndE9MbWgxWUhpalpSeEFiakUzVzRxbnNjMFAxU1JMemk5N181M21xdkN4ME5RQzFsRVE?oc=5",
       "date": "2026-05-18 16:01",
       "summary": "Inside Anduril and Meta’s quest to make smart glasses for warfare  MIT Technology Review..."
-    },
-    {
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGdXclcyUEQzd0dFQkdfd1N5WVA3MHpUak1xdFhpMTBrTGdsbTBIZUtnVklKTTY4YUpOZ3loc3MyNmYxeXk3NkNvb19pck1DNlZWeGRHb2lEaUl6ZUpwM3REbHh5VnVPRlJVWE10TGd5d0JEZUFXdW9BRWRfVUl3eGZsaUhMM1JWNktHbWN6alBrZmF6aDRBcUxNVHNtVktUTUoxNVNrdVVWUHpXeUhVU19RNXh6M1EwcWVnSVUwc1oyenhSWVc3LTZrd1dkUdIB0wFBVV95cUxOclZ6R21XcEJVS1RWcGFRU1F0V3JDWkJaaUtfVENQUUlQV0VpT0JtY2I5REpQX3BSMUM4MkZ4Rm5RdlFkbmNGMUUxanVWaDdrTlRQTGpYMDd1Q3pEYm1nN3V6SmcydGdVUXllUERYNkdScjRwc2FGLWQtTWl3TnJfQ1dUSkNVSGVlR1pRdDB1a0FSek9ZWnRDajh4VGFkQUJtMEhQWTZTcU5QcnNHTmhKVVB6QXBVNlhkeUh2YXBBeWpPOXd5cFJBZ2xXdjJ0N1BvSzlr?oc=5",
-      "date": "2026-05-21 14:30",
-      "summary": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Rare 567‑million‑year‑old fossils refine our understanding of early animal evolution",
-      "link": "https://phys.org/news/2026-05-rare-567millionyearold-fossils-refine-early.html",
-      "date": "2026-05-21 15:20",
-      "summary": "From butterflies to blue whales, corals and worms, Earth is home to an incredible diversity of animals. How all of these animals e..."
+      "title": "Cell movement in the embryo: Zebrafish study shows that without keratin, nothing moves",
+      "link": "https://phys.org/news/2026-05-cell-movement-embryo-zebrafish-keratin.html",
+      "date": "2026-05-21 17:40",
+      "summary": "Hair, nails, and horns, all made up of keratin, are some of the hardest and most resilient structures in animals. Inside zebrafish..."
     },
     {
-      "title": "Saturn-sized exoplanet with Earth-like temperature reveals methane-rich atmosphere",
-      "link": "https://phys.org/news/2026-05-saturn-sized-exoplanet-earth-temperature.html",
-      "date": "2026-05-21 15:20",
-      "summary": "A planet that is about the size of Saturn, but with a temperature more like Earth's, has an atmosphere rich in methane, according ..."
+      "title": "AI can design cities, but can it understand what matters to people? 10 ways to keep humans in control",
+      "link": "https://phys.org/news/2026-05-ai-cities-people-ways-humans.html",
+      "date": "2026-05-21 17:40",
+      "summary": "Generative AI (GenAI) is a type of artificial intelligence that creates new content—like text, images, or ideas—by learning patter..."
     },
     {
-      "title": "Extraterrestrial life may be slipping past space missions, astrobiologists warn",
-      "link": "https://phys.org/news/2026-05-extraterrestrial-life-space-missions-astrobiologists.html",
-      "date": "2026-05-21 15:00",
-      "summary": "Suppose there are signs of extraterrestrial life and we have not yet been able to detect them. What does that mean? In Nature Astr..."
+      "title": "Black holes may avoid singularities when charge and Hawking radiation combine, theoretical physicist argues",
+      "link": "https://phys.org/news/2026-05-black-holes-singularities-hawking-combine.html",
+      "date": "2026-05-21 17:36",
+      "summary": "Black holes are regions in space where gravity is so strong that nothing, even light, can escape. Einstein's theory of general rel..."
     },
     {
-      "title": "AI-designed miniproteins switch key cell receptors on and off",
-      "link": "https://phys.org/news/2026-05-ai-miniproteins-key-cell-receptors.html",
-      "date": "2026-05-21 15:00",
-      "summary": "G protein-coupled receptors, or GPCRs, sit in the plasma membrane, the boundary that defines the inside and outside of a living ce..."
+      "title": "New kind of dark tourism emerging in online 'Backrooms,' study shows",
+      "link": "https://phys.org/news/2026-05-kind-dark-tourism-emerging-online.html",
+      "date": "2026-05-21 17:20",
+      "summary": "Digital culture is reshaping people's experiences of fear, curiosity and belonging, according to new findings from Lancaster Unive..."
     },
     {
-      "title": "Research team awakens 'hidden oxygen' to produce green hydrogen",
-      "link": "https://phys.org/news/2026-05-team-awakens-hidden-oxygen-green.html",
-      "date": "2026-05-21 15:00",
-      "summary": "A joint research team led by Professor Hyung Mo Jeong from the School of Mechanical Engineering at Sungkyunkwan University (SKKU) ..."
+      "title": "When noisy decision-making becomes a strategic advantage",
+      "link": "https://phys.org/news/2026-05-noisy-decision-strategic-advantage.html",
+      "date": "2026-05-21 17:20",
+      "summary": "A new study shows that apparently erratic or \"sloppy\" behavior in strategic situations is not necessarily a mistake. Under certain..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Historic Legco trip to Beijing to include tech sector tours, seminars and visits",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3354425/historic-legco-trip-beijing-include-tech-sector-tours-seminars-and-visits?utm_source=rss_feed",
+      "date": "2026-05-21 15:57",
+      "summary": "All 90 Hong Kong lawmakers are set to head to Beijing for a historic “national affairs study visit” in July, attending seminars, v..."
+    },
+    {
+      "title": "Hong Kong mobile ice cream vendor told to stop selling product due to bacteria",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3354424/mobile-ice-cream-vendor-central-told-stop-selling-product-due-bacteria?utm_source=rss_feed",
+      "date": "2026-05-21 15:54",
+      "summary": "Hong Kong authorities have ordered a licensed mobile ice cream vendor in Central to stop selling soft ice cream after a sample was..."
+    },
+    {
       "title": "Operation targeting fire safety in old Hong Kong buildings extended for 2 years",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3354416/operation-targeting-fire-safety-old-hong-kong-buildings-extended-2-years?utm_source=rss_feed",
       "date": "2026-05-21 14:37",
@@ -337,21 +349,21 @@
       "link": "https://www.scmp.com/presented/news/hong-kong/topics/sino-land-ranks-top-1-china-esg/article/3354310/sino-land-strengthens-commitment-sustainability-global-recognition?utm_source=rss_feed",
       "date": "2026-05-21 11:44",
       "summary": "[The content of this article has been produced by our advertising partner.]\nSino Group’s sustained efforts in environmental and so..."
-    },
-    {
-      "title": "Hong Kong issues red travel alert for DR Congo as deadly Ebola outbreak spreads",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3354395/hong-kong-issues-red-travel-alert-dr-congo-deadly-ebola-outbreak-spreads?utm_source=rss_feed",
-      "date": "2026-05-21 11:15",
-      "summary": "Hong Kong has issued a red travel alert for the Democratic Republic of Congo as Ebola outbreaks escalate in Central Africa, with a..."
-    },
-    {
-      "title": "Hong Kong airport records 13% year-on-year rise in passengers, flights up 5.1%",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3354391/hong-kong-airport-records-13-year-year-rise-passengers-flights-51?utm_source=rss_feed",
-      "date": "2026-05-21 10:52",
-      "summary": "Hong Kong International Airport has recorded a 13 per cent year-on-year increase in passenger traffic in the first four months of ..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Mathematicians stunned by AI's biggest breakthrough in mathematics yet",
+      "link": "https://www.newscientist.com/article/2527564-mathematicians-stunned-by-ais-biggest-breakthrough-in-mathematics-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-21 16:13",
+      "summary": "Artificial intelligence built by OpenAI has cracked a decades-old conjecture by Paul Erdős, which mathematicians have hailed as a ..."
+    },
+    {
+      "title": "Epic dreaming is leaving people exhausted and distressed",
+      "link": "https://www.newscientist.com/article/2527495-epic-dreaming-is-leaving-people-exhausted-and-distressed/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-21 15:00",
+      "summary": "Some people experience vivid, incessant dreams that leave them feeling exhausted the next day, with researchers calling for this \"..."
+    },
     {
       "title": "Women’s better memories may delay Alzheimer’s diagnosis by years",
       "link": "https://www.newscientist.com/article/2526378-womens-better-memories-may-delay-alzheimers-diagnosis-by-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -369,18 +381,6 @@
       "link": "https://www.newscientist.com/article/2527336-putting-co2-into-rocks-and-getting-hydrogen-out-is-climate-double-win/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-20 17:00",
       "summary": "Storing carbon dioxide in rocks while producing hydrogen from them - and perhaps even geothermal power too - could be a double win..."
-    },
-    {
-      "title": "We may finally know why dinosaurs like T. rex evolved tiny arms",
-      "link": "https://www.newscientist.com/article/2527282-we-may-finally-know-why-dinosaurs-like-t-rex-evolved-tiny-arms/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-20 00:01",
-      "summary": "Five different groups of predatory dinosaurs independently evolved disproportionately small arms, and it seems they did so because..."
-    },
-    {
-      "title": "Solar farm on the ocean outperforms land-based solar in Taiwan",
-      "link": "https://www.newscientist.com/article/2527155-solar-farm-on-the-ocean-outperforms-land-based-solar-in-taiwan/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-19 16:00",
-      "summary": "A solar farm in a tidal bay has generated more electricity and profits than a nearby coastal solar farm, but challenges could aris..."
     }
   ]
 }
