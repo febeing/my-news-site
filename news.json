@@ -71,6 +71,12 @@
       "summary": "Stanford Deep Lab opens new frontiers in nanotech  Stanford Report..."
     },
     {
+      "title": "Party of None: Inside Stanford’s War on Fun - Vanity Fair",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tdHlMNEplMjhPRUw4T1VxXzlBMkNNNk9ZOWlRNDliYng0ZXRVcElveWxobk9tbmlZYlFoZXdESldLN3FIMnVUSXVlSjNDU01YRGp2NWlrMFROUmotQllfeGFaZFdzXzFpcTVxeQ?oc=5",
+      "date": "2026-05-18 14:25",
+      "summary": "Party of None: Inside Stanford’s War on Fun  Vanity Fair..."
+    },
+    {
       "title": "Inside the rotten heart of Stanford, Silicon Valley’s favourite recruiting ground - The Times",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVZ5UUxsT3pmVWNXUWFsTHJ5a1g3bmJ6WjJsQllhUF94RnBBWGFLa1pwXzdLbW9mUk5ST3lNblFONTRPTUJPU1JTU1cyNU9JYlNGaHFpZE5sYjloVjJES0tySHd4VzZWOTg2YzFvNXFabzR0c19DcFhSeWxQWkhkZ1BwNy1BMXR2MXFBeEdsYlNiY1Q2VDB3THhURXdSdFFBWXVDbWp2dnhReW05Q3RQRmpkUHVXTldaVmdMT05OOXN3V2xHZGxj?oc=5",
       "date": "2026-05-19 16:00",
@@ -87,15 +93,21 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1ppZ3JuNm9raFl5VTZ3VU8tMVh5d0xXd2w5LWFSOVAwRUVaZ0pKMGpMWEZZYXM1UDhBdTYyTGVTa0FveTBtQ0NuV09wbHV2TkpVS05Ncl9oUFg1OVNRQ2N6MHF3NXFKX2x6RWhNV0M4OHFYT3dxbGRLMnZXa0EtNEc3SHFQMS10cHpMTG93?oc=5",
       "date": "2026-05-18 09:00",
       "summary": "The Secret Elite One Freshman Discovered at Stanford  The New York Times..."
-    },
-    {
-      "title": "The AI Boom Is Rewarding Stanford’s Worst Instincts - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHdXSjVUenh0LVcwdVpQVGh4YUF6Yzdmbk9xQzUxZFFZRXgwS0duZVhQQ1Atd1NDbXpCSmJLdHM1YnIwQThDc0JabWU0NHAxWnlrWFJLUnhNZmFqbXAxVF9vNVJfWDVFSVlwc1M5V3VTaUIwLTNOZmR6TUdUSWh5bk10dVBjRUpRWUdjOU1Rc0xQSG12aklDbnBUWHFYNHJ2WTBHTVd0aHZGSVZtVEtodk9TTThrNXo4VFNDVE9FWWVCQkE?oc=5",
-      "date": "2026-05-20 09:52",
-      "summary": "The AI Boom Is Rewarding Stanford’s Worst Instincts  Bloomberg.com..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "A star gone rogue tears through the Galaxy",
+      "link": "https://www.nature.com/articles/d41586-026-01591-9",
+      "date": "2026-05-21 00:00",
+      "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01591-9The black hole at the Milky Way’s centre catapulted a Sun-lik..."
+    },
+    {
+      "title": "Should I get a dog? What to know about pet ownership as a scientist",
+      "link": "https://www.nature.com/articles/d41586-026-00198-4",
+      "date": "2026-05-21 00:00",
+      "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-00198-4Animal companions can be a lot of work, and are difficult to ..."
+    },
     {
       "title": "Spinal neuromotor rehabilitation using a portable isokinetic training robot",
       "link": "https://www.nature.com/articles/s41586-026-10642-0",
@@ -113,21 +125,15 @@
       "link": "https://www.nature.com/articles/d41586-026-00431-0",
       "date": "2026-05-20 00:00",
       "summary": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-00431-0A breakdown of leading countries and institutions highlights ..."
-    },
-    {
-      "title": "Red light therapy: the science behind the hype",
-      "link": "https://www.nature.com/articles/d41586-026-01643-0",
-      "date": "2026-05-20 00:00",
-      "summary": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01643-0From glowing red face masks to fibre optic needles, we explor..."
-    },
-    {
-      "title": "AI ‘scientists’ promise to accelerate research — how do they work?",
-      "link": "https://www.nature.com/articles/d41586-026-01627-0",
-      "date": "2026-05-20 00:00",
-      "summary": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01627-0Systems generate hypotheses and ways to test them — plus, how..."
     }
   ],
   "Science News": [
+    {
+      "title": "Have astronomers spotted an exploding primordial star?",
+      "link": "https://www.science.org/content/article/have-astronomers-spotted-exploding-primordial-star",
+      "date": "2026-05-21 10:00",
+      "summary": "Puzzling JWST observation could instead be one of the universe's first galaxies—or something more mundane..."
+    },
     {
       "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
       "link": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/new-study-strengthens-idea-humans-evolved-knuckle-walking-ancestors",
       "date": "2026-05-19 07:01",
       "summary": "Analysis charts evolution of the joint that made our species so nimble..."
-    },
-    {
-      "title": "Vaccine experts debate options to combat outbreak of unusual Ebola strain",
-      "link": "https://www.science.org/content/article/vaccine-experts-debate-options-combat-outbreak-unusual-ebola-strain",
-      "date": "2026-05-19 05:40",
-      "summary": "Small monkey experiments raise some hopes—and many questions..."
     }
   ],
   "Retraction Watch": [
@@ -193,22 +193,22 @@
   ],
   "Reuters AI": [
     {
+      "title": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVBeG83TF9qcjAxRjBDQ3FLR25nNUxtLUFFMmI3S01nSm5obzhLS2FMTDA3MDZTeEpRdGg0TWlCOERydWI4RWlaZVJYRVM4YmN3TVEzRkFBbmtxa2NwWm9OT0xJVjJPQnl3NEZFZzRsOUdGUU13MGNLVFRqTXJZcW93dGk5SGZORExyNjJiX2s3V0tab3Zra21XbGdkaGFiUU9ydFZfaGg?oc=5",
+      "date": "2026-05-21 12:39",
+      "summary": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story  Reuters..."
+    },
+    {
       "title": "The AI bots are coming and the young are booing, not applauding - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYnl5QkVudDBpNm1oMGNmNC1uTEVDRnFQYXF0QWxOMjNXT19BZ1ZFN05DWlVZWjVXZDhCRlJ3QW81UjBPVDAyVDUtOVVLNlBiWlJVd1dSU2RacTJYeGI5LUI0a2szeFVLM0xCVTdhb1pjQVA3anlsSkpDeFpPM3d5R1dLOW9EaGlLMnF4Q2pnNm9MSXlxc1hzZS1YQXRoVmJSU0lpSWNHbnBPX3lLMXc?oc=5",
       "date": "2026-05-20 05:05",
       "summary": "The AI bots are coming and the young are booing, not applauding  Reuters..."
     },
     {
-      "title": "US lawmakers seek to undercut Chinese AI and tech sales abroad - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWdKamxhT1lHdFREQmpUNmMzSmduR1ViUGFLMENZVXlIOU9Ob3lwdGRfeW9DalFtSlZxaWlkR1dreTVNcld5cnV6NlJQSGdRcVJrUUdzakwxZ1Zwbjdjby15dkNweWl2UHZMR1loaGY5eFVuWnhNX0VJcS0xQllxcW9vZDZTLXhGaTdfbHlGNE1iUW9Rb0REV1B3VWVHRDVQS2lHQ2w4TUE2TGlw?oc=5",
-      "date": "2026-05-19 19:35",
-      "summary": "US lawmakers seek to undercut Chinese AI and tech sales abroad  Reuters..."
-    },
-    {
-      "title": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVBeG83TF9qcjAxRjBDQ3FLR25nNUxtLUFFMmI3S01nSm5obzhLS2FMTDA3MDZTeEpRdGg0TWlCOERydWI4RWlaZVJYRVM4YmN3TVEzRkFBbmtxa2NwWm9OT0xJVjJPQnl3NEZFZzRsOUdGUU13MGNLVFRqTXJZcW93dGk5SGZORExyNjJiX2s3V0tab3Zra21XbGdkaGFiUU9ydFZfaGg?oc=5",
-      "date": "2026-05-21 10:06",
-      "summary": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story  Reuters..."
+      "title": "Major takeaways from Magnificent Seven's AI-fueled earnings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemJheXNhZnFjeV9PYS1vT0IyUXBGQ2lxYzEybGZIQndURXp6MFdJa3hkaXpRUGNBTVlvUE93UGdUVUlsaTNnaDk2WlQyM1JFUHhPbzBaRXM3ZHpaYzltUktzd1RPNW5mOGpLazBHWW9CVncyaWJEaTNhSzQ2SnpxSDYxRTNKQkFBRmhtQk5yemlZd1FfS1M4dnJRZm5WUlU?oc=5",
+      "date": "2026-05-21 13:04",
+      "summary": "Major takeaways from Magnificent Seven's AI-fueled earnings  Reuters..."
     },
     {
       "title": "Mistral AI buys Austrian physics AI startup in industrial push By Reuters - Investing.com",
@@ -217,24 +217,18 @@
       "summary": "Mistral AI buys Austrian physics AI startup in industrial push By Reuters  Investing.com..."
     },
     {
-      "title": "SpaceX IPO filing lays bare losses and Musk control as it stakes future on AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlR3NWs3NEx2ZFdFRTh3VEVtX3JSQnQ5VW0zaEdIY1JKTlVWd1RPX1ZES3Z1d29ZWGZHTVNFaGFsVnB6c2tDN3UyVU1qcHpfR3JYTEMyMTJxM2lZajl6ZVdBNXNDbjMzU2o4MFk3OU4zVlFfdVA2MXpfM0dDZF9nZkNtTTFJRy01X2hldXByLU9ZckRTUGRDRXd2N2daR3hCSURhcUxmNnNvbldIMGpnMjZKanFRUQ?oc=5",
-      "date": "2026-05-20 20:47",
-      "summary": "SpaceX IPO filing lays bare losses and Musk control as it stakes future on AI  Reuters..."
+      "title": "Trump administration seeks to supercharge US AI exports with billions in financing, document shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQlJTU0QwWHg1blgyRXJEX2hfRm1VN243VHJja21LNk5qeVd0dlNOTHdQc1dYWkUwMjFuMmxtbW1rc1psTXpPTUNJN1A3R01FTVRNRXQ5dm5NTTJNRWdNUFBiNVZSbU1nbWhKeFBiNHdTTjhxREFRcVlHX3pmRmNIT2FZUnhfZ0o3RDlSTzNJZWxtcE9falZOSDNpbnFHRUpwa3gxNHlPMG5OcTNGZy1iMjUxaE80MlhocWs5WkhydEtyYmdLRENMNm9KVQ?oc=5",
+      "date": "2026-05-21 09:55",
+      "summary": "Trump administration seeks to supercharge US AI exports with billions in financing, document shows  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0FCLWVXb1RXakI1YVFaUDFpUkNMNHpiSEpJNktvYkJ1TnF5M1NvR2wwQnVlWjZtbVIwc2Vrd00yZU9PM1RtTGFYOGV1b0xzMThXdzUza19RRVdLejVvczRDMlRTNmlkMlExb3BPZkx2alE3Z2trVlJReWRFSmRwTDFhTFV0ZG1TRmstd3A5LWlDLU5NR1ljMHRncUdGc1hHaDBLRHB6U2xULVJxU2Ezc2NidEFMM1Jx0gG-AUFVX3lxTE5GOFVNQ1JIcjBrWWxfZXdnRS1tTkN2UUFWdEZEcHdsaXYtYXdnZnJqMjhJMXMwZkpsdXNoSWxKZHZqMGxqeU1JQjAxNUN6VWh6WEFpeENxYkJUdGNFSWtkTnBodm1tRENSOGhTZmFDNXNPVlpJTFhXc3R6Wk5BTWc5SlpXczBDWThNN3lndE9MbWgxWUhpalpSeEFiakUzVzRxbnNjMFAxU1JMemk5N181M21xdkN4ME5RQzFsRVE?oc=5",
-      "date": "2026-05-18 16:01",
-      "summary": "Inside Anduril and Meta’s quest to make smart glasses for warfare  MIT Technology Review..."
-    },
-    {
-      "title": "What to expect from Google this week - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXl2OVBoeE4wVVdjSWMwUjhaNFpQOXZHYWpRUXdrdnR5azdnT20wNUhVbmVhWWdfS2ZraW1jVEVhQ2hJYXJmcTVnTV82Umh3amZMRFJGUmktY19nWi11X3lWWG9IcVVVOG1pZG5nbDNjVzhibzd1ZmU0RUVLRkJCZU5YX0lSdGVUbmJFM3FJVUUxMXPSAZgBQVVfeXFMT1ItNzF5SjAxeDlYTFF4OXJ6WERNakRMbHEtOE1CYjVxel9nNWQtNzlLZ3A4N3FrX1FWUXZNRXVGejhnTGI0OUlzWkZNYVJRWVBhd3kybEcxcWxhdHhST08tbUpOYkx2U0taSERGUzk5amZiUXFJQmlnNGZEZkozSm50dHJ1Z3ZYZFZpTnFvXzZGTzlEdVlpdzM?oc=5",
-      "date": "2026-05-18 17:35",
-      "summary": "What to expect from Google this week  MIT Technology Review..."
+      "title": "The Download: online safety’s future and climate tech’s big pivot - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObDEtemFGSjl5VnRxXzIwbktXc3lRMHFJYkVZSkk5V1F0X2EwNDRwam0zd3BCdFdYTTNyM2xkaEdkZ0UwTXFfUk5KZWx6TWVGREkwelJuQUVQQ1NYaXh4ZGltWDlCUE0xOTRqb3BCOFpFcGVRNXc5X2Y3TGVSazlCSkhlOFRjVzRGYkFVSE1YYVJ2YlNra0twS0plTkxERXPSAaQBQVVfeXFMT0g4ZzV6aE5tX1ZOUnBlUmU5QWRMNEZ1S3JUTU14c3VKN2loeUNXVkZvQ05TVkVWTk41bGhfSVNTY0tLXzZyTTZOOFMxckVkQnNKY2tnM0syRGxfQm0wbmpHTVk5czNGaWJGVmNJTE02cTJ5a1V4ajhWSjNHXzZDaW9MR1BReDJmS1BRQVBYOWw2RjVCRjVQMlNncjR0N2hWemZhdjc?oc=5",
+      "date": "2026-05-21 12:10",
+      "summary": "The Download: online safety’s future and climate tech’s big pivot  MIT Technology Review..."
     },
     {
       "title": "Climate tech companies are pivoting to critical minerals - MIT Technology Review",
@@ -243,51 +237,63 @@
       "summary": "Climate tech companies are pivoting to critical minerals  MIT Technology Review..."
     },
     {
-      "title": "AI chatbots are giving out people’s real phone numbers - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJYU2ZXb2RNSXM4UkhOZzFrNTVEYU50WHlRVlp5T1cyNXFoUXBoNl9XX0ZXTWNsZjAyWTNSRF9YQnJ5UUxCR19HeTFpdGxCNVNiZFQzdHpwVUU2SFVXeHUxd0UwM0ZfeGpwYzZxUEtONHREX0dhLUVydmd2SVdBVVoyOGFhR0Y1akxXdjZ3UENJUF9CMHRzM21EX2RKajRqTmhVRTZGck9kUdIBrwFBVV95cUxNd0pHWnh4aEU3elVyWDBocEtIR2lJMDJONUJoU2kxeV92cEY3dGREVlVCWURuOEdzZVFSNXpVSW15alBveFhpQU5FTXZveFFhc2dJXzZkaGRzUzhoMnhGZldWa3ZJdkRLTE1mZnJLM000UE0tNmJ3bmQwWmZ6djl4UVBfZGZxWmhSMGlqNDYyU0p3cjVxX1ZKV194bGYyME8ybVJLMlhiT2R4Q1FKTmlJ?oc=5",
-      "date": "2026-05-13 18:09",
-      "summary": "AI chatbots are giving out people’s real phone numbers  MIT Technology Review..."
+      "title": "What to expect from Google this week - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXl2OVBoeE4wVVdjSWMwUjhaNFpQOXZHYWpRUXdrdnR5azdnT20wNUhVbmVhWWdfS2ZraW1jVEVhQ2hJYXJmcTVnTV82Umh3amZMRFJGUmktY19nWi11X3lWWG9IcVVVOG1pZG5nbDNjVzhibzd1ZmU0RUVLRkJCZU5YX0lSdGVUbmJFM3FJVUUxMXPSAZgBQVVfeXFMT1ItNzF5SjAxeDlYTFF4OXJ6WERNakRMbHEtOE1CYjVxel9nNWQtNzlLZ3A4N3FrX1FWUXZNRXVGejhnTGI0OUlzWkZNYVJRWVBhd3kybEcxcWxhdHhST08tbUpOYkx2U0taSERGUzk5amZiUXFJQmlnNGZEZkozSm50dHJ1Z3ZYZFZpTnFvXzZGTzlEdVlpdzM?oc=5",
+      "date": "2026-05-18 17:35",
+      "summary": "What to expect from Google this week  MIT Technology Review..."
     },
     {
-      "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTUo2X0tDSWx3Z0ZXT0ZrQWlzVGhCc1NQOThHRVp5Y29vdnFZc0w1VTA2ZDRNUTI0Q2g3STFCSG9hWFJWUExXTEpiek5lR3h4QmJZbFg5TUdSbklMRndUY2lmT0dHalJkdlBLczZTVWZwTUQzalB5OFE3QnRDMk9CZVJURUJ4UE5LbXFOakJqd1NyY2Zma0Rfak16cTBhWEstbEpxNFRVTFRrYVY0LVFGWXNDaWMyc2xPUWZR0gHAAUFVX3lxTE84RF9ETy1CVERVdTBkTndUbHpVVlhmZWlaMmViSkgwa1RsSS1uY1J4WFVhZVdQS2R1SlJIREZLeVE4dThPeWFDN1lmMkRkYzVTMmxvNmNUdWV0MFV3dU1zTm9vblhGajNyZXpmWGMzNThaVFNNVHJ4VTROU1pvRUhJSTBEVnZIcWM3cng4TG9od0dSc0NHbnJybUNHQWJEal94N01lU0lpemxvb21hemxXblphX2drUzFkUTBfb3pMZQ?oc=5",
-      "date": "2026-05-19 12:00",
-      "summary": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell  MIT Technology Review..."
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0FCLWVXb1RXakI1YVFaUDFpUkNMNHpiSEpJNktvYkJ1TnF5M1NvR2wwQnVlWjZtbVIwc2Vrd00yZU9PM1RtTGFYOGV1b0xzMThXdzUza19RRVdLejVvczRDMlRTNmlkMlExb3BPZkx2alE3Z2trVlJReWRFSmRwTDFhTFV0ZG1TRmstd3A5LWlDLU5NR1ljMHRncUdGc1hHaDBLRHB6U2xULVJxU2Ezc2NidEFMM1Jx0gG-AUFVX3lxTE5GOFVNQ1JIcjBrWWxfZXdnRS1tTkN2UUFWdEZEcHdsaXYtYXdnZnJqMjhJMXMwZkpsdXNoSWxKZHZqMGxqeU1JQjAxNUN6VWh6WEFpeENxYkJUdGNFSWtkTnBodm1tRENSOGhTZmFDNXNPVlpJTFhXc3R6Wk5BTWc5SlpXczBDWThNN3lndE9MbWgxWUhpalpSeEFiakUzVzRxbnNjMFAxU1JMemk5N181M21xdkN4ME5RQzFsRVE?oc=5",
+      "date": "2026-05-18 16:01",
+      "summary": "Inside Anduril and Meta’s quest to make smart glasses for warfare  MIT Technology Review..."
+    },
+    {
+      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGdXclcyUEQzd0dFQkdfd1N5WVA3MHpUak1xdFhpMTBrTGdsbTBIZUtnVklKTTY4YUpOZ3loc3MyNmYxeXk3NkNvb19pck1DNlZWeGRHb2lEaUl6ZUpwM3REbHh5VnVPRlJVWE10TGd5d0JEZUFXdW9BRWRfVUl3eGZsaUhMM1JWNktHbWN6alBrZmF6aDRBcUxNVHNtVktUTUoxNVNrdVVWUHpXeUhVU19RNXh6M1EwcWVnSVUwc1oyenhSWVc3LTZrd1dkUdIB0wFBVV95cUxOclZ6R21XcEJVS1RWcGFRU1F0V3JDWkJaaUtfVENQUUlQV0VpT0JtY2I5REpQX3BSMUM4MkZ4Rm5RdlFkbmNGMUUxanVWaDdrTlRQTGpYMDd1Q3pEYm1nN3V6SmcydGdVUXllUERYNkdScjRwc2FGLWQtTWl3TnJfQ1dUSkNVSGVlR1pRdDB1a0FSek9ZWnRDajh4VGFkQUJtMEhQWTZTcU5QcnNHTmhKVVB6QXBVNlhkeUh2YXBBeWpPOXd5cFJBZ2xXdjJ0N1BvSzlr?oc=5",
+      "date": "2026-05-21 14:30",
+      "summary": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Astronomers may have discovered the tiniest odd radio circle",
-      "link": "https://phys.org/news/2026-05-astronomers-tiniest-odd-radio-circle.html",
-      "date": "2026-05-21 11:20",
-      "summary": "Astronomers have identified a possible new member of one of astronomy's strangest classes of objects: Odd radio circles (ORCs), en..."
+      "title": "Rare 567‑million‑year‑old fossils refine our understanding of early animal evolution",
+      "link": "https://phys.org/news/2026-05-rare-567millionyearold-fossils-refine-early.html",
+      "date": "2026-05-21 15:20",
+      "summary": "From butterflies to blue whales, corals and worms, Earth is home to an incredible diversity of animals. How all of these animals e..."
     },
     {
-      "title": "Do you know how cynical your friends are?",
-      "link": "https://phys.org/news/2026-05-cynical-friends.html",
-      "date": "2026-05-21 11:20",
-      "summary": "New research from Michigan State University finds that people often project their own levels of cynicism—the belief that people ar..."
+      "title": "Saturn-sized exoplanet with Earth-like temperature reveals methane-rich atmosphere",
+      "link": "https://phys.org/news/2026-05-saturn-sized-exoplanet-earth-temperature.html",
+      "date": "2026-05-21 15:20",
+      "summary": "A planet that is about the size of Saturn, but with a temperature more like Earth's, has an atmosphere rich in methane, according ..."
     },
     {
-      "title": "SpaceX, the sprawling company targeting the stars, Mars and an IPO",
-      "link": "https://phys.org/news/2026-05-spacex-sprawling-company-stars-mars.html",
-      "date": "2026-05-21 11:10",
-      "summary": "Elon Musk founded SpaceX in 2002 with the lofty goal of ferrying humans to Mars and colonizing Earth's neighboring planet...."
+      "title": "Extraterrestrial life may be slipping past space missions, astrobiologists warn",
+      "link": "https://phys.org/news/2026-05-extraterrestrial-life-space-missions-astrobiologists.html",
+      "date": "2026-05-21 15:00",
+      "summary": "Suppose there are signs of extraterrestrial life and we have not yet been able to detect them. What does that mean? In Nature Astr..."
     },
     {
-      "title": "Soil science: How AI could help scientists secure a vital global resource",
-      "link": "https://phys.org/news/2026-05-soil-science-ai-scientists-vital.html",
-      "date": "2026-05-21 09:00",
-      "summary": "Soils store carbon, sustain ecosystems, and underpin global food and water systems. A new Frontiers in Science paper details how A..."
+      "title": "AI-designed miniproteins switch key cell receptors on and off",
+      "link": "https://phys.org/news/2026-05-ai-miniproteins-key-cell-receptors.html",
+      "date": "2026-05-21 15:00",
+      "summary": "G protein-coupled receptors, or GPCRs, sit in the plasma membrane, the boundary that defines the inside and outside of a living ce..."
     },
     {
-      "title": "Developing seed atlas uncovers active genes tied to crop resilience and nutrition",
-      "link": "https://phys.org/news/2026-05-seed-atlas-uncovers-genes-crop.html",
-      "date": "2026-05-21 09:00",
-      "summary": "Seeds like wheat, rice, and corn are at the center of the global food supply and provide most of the daily calories consumed world..."
+      "title": "Research team awakens 'hidden oxygen' to produce green hydrogen",
+      "link": "https://phys.org/news/2026-05-team-awakens-hidden-oxygen-green.html",
+      "date": "2026-05-21 15:00",
+      "summary": "A joint research team led by Professor Hyung Mo Jeong from the School of Mechanical Engineering at Sungkyunkwan University (SKKU) ..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "‘It’s put the joy levels up’: the flood-prone London school with a climate-adapted playground",
+      "link": "https://www.theguardian.com/environment/2026/may/21/flood-prone-london-school-climate-adapted-playground",
+      "date": "2026-05-21 14:00",
+      "summary": "When pupils could no longer play outside, St John’s school in Barnet decided to act, enlisting Trees for Cities to help rethink it..."
+    },
     {
       "title": "Schools are ‘pipeline’ to joblessness for many people, says ex-Labour adviser",
       "link": "https://www.theguardian.com/business/2026/may/21/schools-unemployment-young-people-neets-peter-hyman",
@@ -311,15 +317,27 @@
       "link": "https://www.theguardian.com/education/2026/may/20/attainment-at-all-costs-approach-send-changes-schools-england",
       "date": "2026-05-20 05:00",
       "summary": "Union says emphasis on academic goals conflicts with proposed measures on special educational needs provisionChanges to special ed..."
-    },
-    {
-      "title": "Children’s reading should prioritise pleasure over learning, says laureate",
-      "link": "https://www.theguardian.com/society/2026/may/19/childrens-reading-should-prioritise-pleasure-over-learning-says-laureate",
-      "date": "2026-05-19 14:23",
-      "summary": "Frank Cottrell-Boyce tells MPs to focus on early-years reading, with more support for parents and nursery workersThe children’s la..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Operation targeting fire safety in old Hong Kong buildings extended for 2 years",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3354416/operation-targeting-fire-safety-old-hong-kong-buildings-extended-2-years?utm_source=rss_feed",
+      "date": "2026-05-21 14:37",
+      "summary": "Hong Kong authorities are extending an operation targeting poorly maintained fire safety equipment for another two years, aiming t..."
+    },
+    {
+      "title": "Police to investigate suspected airgun damage to window of Yuen Long flat",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3354412/hong-kong-police-probe-suspected-airgun-damage-window-yuen-long-flat?utm_source=rss_feed",
+      "date": "2026-05-21 13:40",
+      "summary": "A Hong Kong resident has reported suspected airgun damage to her flat window in Yuen Long, with a district councillor warning that..."
+    },
+    {
+      "title": "Sino Land strengthens commitment to sustainability with global recognition",
+      "link": "https://www.scmp.com/presented/news/hong-kong/topics/sino-land-ranks-top-1-china-esg/article/3354310/sino-land-strengthens-commitment-sustainability-global-recognition?utm_source=rss_feed",
+      "date": "2026-05-21 11:44",
+      "summary": "[The content of this article has been produced by our advertising partner.]\nSino Group’s sustained efforts in environmental and so..."
+    },
     {
       "title": "Hong Kong issues red travel alert for DR Congo as deadly Ebola outbreak spreads",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3354395/hong-kong-issues-red-travel-alert-dr-congo-deadly-ebola-outbreak-spreads?utm_source=rss_feed",
@@ -331,27 +349,15 @@
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3354391/hong-kong-airport-records-13-year-year-rise-passengers-flights-51?utm_source=rss_feed",
       "date": "2026-05-21 10:52",
       "summary": "Hong Kong International Airport has recorded a 13 per cent year-on-year increase in passenger traffic in the first four months of ..."
-    },
-    {
-      "title": "Man falls to death from flat amid dispute with wife, son over education expenses",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3354390/man-falls-death-flat-amid-dispute-wife-son-over-education-expenses?utm_source=rss_feed",
-      "date": "2026-05-21 10:51",
-      "summary": "A man plunged to his death from the balcony of his public housing flat in Hong Kong on Wednesday night after a dispute with his wi..."
-    },
-    {
-      "title": "Labourer remanded after admitting he tossed seditious messages from flat",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3354383/labourer-remanded-after-admitting-he-tossed-seditious-messages-flat?utm_source=rss_feed",
-      "date": "2026-05-21 10:17",
-      "summary": "A Hong Kong construction worker has been remanded in custody pending sentencing after pleading guilty to tossing 59 pieces of pape..."
-    },
-    {
-      "title": "‘No ParknShop sale’: Li Ka-shing’s CK Hutchison rules out supermarket merger with Wellcome",
-      "link": "https://www.scmp.com/business/article/3354370/no-parknshop-sale-li-ka-shings-ck-hutchison-rules-out-supermarket-merger-wellcome?utm_source=rss_feed",
-      "date": "2026-05-21 09:32",
-      "summary": "CK Hutchison Holdings, one of the flagship companies of billionaire Li Ka-shing, has no plans to sell ParknShop in Hong Kong to on..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Women’s better memories may delay Alzheimer’s diagnosis by years",
+      "link": "https://www.newscientist.com/article/2526378-womens-better-memories-may-delay-alzheimers-diagnosis-by-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-21 12:00",
+      "summary": "Women appear cognitively normal for almost three years longer than men after their brains start to develop Alzheimer’s disease, ma..."
+    },
     {
       "title": "Women’s body temperature rises from age 18 to 42 but we don’t know why",
       "link": "https://www.newscientist.com/article/2527312-womens-body-temperature-rises-from-age-18-to-42-but-we-dont-know-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -359,8 +365,8 @@
       "summary": "Women experience a steady rise in body temperature from their teens to midlife, which may be useful for monitoring ageing and over..."
     },
     {
-      "title": "We could generate hydrogen from rocks while storing CO2 in them",
-      "link": "https://www.newscientist.com/article/2527336-we-could-generate-hydrogen-from-rocks-while-storing-co2-in-them/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "title": "Putting CO2 into rocks and getting hydrogen out is climate double win",
+      "link": "https://www.newscientist.com/article/2527336-putting-co2-into-rocks-and-getting-hydrogen-out-is-climate-double-win/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-20 17:00",
       "summary": "Storing carbon dioxide in rocks while producing hydrogen from them - and perhaps even geothermal power too - could be a double win..."
     },
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2527155-solar-farm-on-the-ocean-outperforms-land-based-solar-in-taiwan/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-19 16:00",
       "summary": "A solar farm in a tidal bay has generated more electricity and profits than a nearby coastal solar farm, but challenges could aris..."
-    },
-    {
-      "title": "Wind-assisted cargo ships could more than halve shipping emissions",
-      "link": "https://www.newscientist.com/article/2526648-wind-assisted-cargo-ships-could-more-than-halve-shipping-emissions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-19 13:00",
-      "summary": "If wind-assisted cargo ships chose routes based entirely on where the winds are better, their fuel use could be cut in half or eve..."
     }
   ]
 }
