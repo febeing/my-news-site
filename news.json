@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "Party of None: Inside Stanford’s War on Fun - Vanity Fair",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tdHlMNEplMjhPRUw4T1VxXzlBMkNNNk9ZOWlRNDliYng0ZXRVcElveWxobk9tbmlZYlFoZXdESldLN3FIMnVUSXVlSjNDU01YRGp2NWlrMFROUmotQllfeGFaZFdzXzFpcTVxeQ?oc=5",
+      "date": "2026-05-18 14:25",
+      "summary": "Party of None: Inside Stanford’s War on Fun  Vanity Fair..."
+    },
+    {
       "title": "Inside the rotten heart of Stanford, Silicon Valley’s favourite recruiting ground - The Times",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVZ5UUxsT3pmVWNXUWFsTHJ5a1g3bmJ6WjJsQllhUF94RnBBWGFLa1pwXzdLbW9mUk5ST3lNblFONTRPTUJPU1JTU1cyNU9JYlNGaHFpZE5sYjloVjJES0tySHd4VzZWOTg2YzFvNXFabzR0c19DcFhSeWxQWkhkZ1BwNy1BMXR2MXFBeEdsYlNiY1Q2VDB3THhURXdSdFFBWXVDbWp2dnhReW05Q3RQRmpkUHVXTldaVmdMT05OOXN3V2xHZGxj?oc=5",
       "date": "2026-05-19 16:00",
@@ -83,16 +89,10 @@
       "summary": "The Secret Elite One Freshman Discovered at Stanford  The New York Times..."
     },
     {
-      "title": "Fear and Loathing in Palo Alto - Washington Monthly",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPaFN2OE16Y0I0SUpVTE5aTlo2SVZnV2ZXMjk1YXpkODQ1NUQ2NVFKRlgybUd0VVpud0NRWUYzMkhkR0Y0TU9YUkloa0pZWUJwNktPTjhDdkdhcjgtMlhPVmp0dHRobVlHcllSbWgxR3Fac1psVkVyb2RjcXM?oc=5",
-      "date": "2026-05-19 09:00",
-      "summary": "Fear and Loathing in Palo Alto  Washington Monthly..."
-    },
-    {
-      "title": "Stanford Deep Lab opens new frontiers in nanotech - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXS1VPT3daSkZJOVRUdFY5NW9yNVo2akhYV2NZLTl4UHA4cVFqSE84Ui1IbTBUOExPWmZEZHVJNWtmc1IzMG5QTnZPT0tSaG1FcTkxWGRvaUVWaThhcXFLVnhKRThkLTFhSE02MWJDeVhsNnVMZ2x5RWRCak1aZw?oc=5",
-      "date": "2026-05-19 20:01",
-      "summary": "Stanford Deep Lab opens new frontiers in nanotech  Stanford Report..."
+      "title": "The AI Boom Is Rewarding Stanford’s Worst Instincts - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHdXSjVUenh0LVcwdVpQVGh4YUF6Yzdmbk9xQzUxZFFZRXgwS0duZVhQQ1Atd1NDbXpCSmJLdHM1YnIwQThDc0JabWU0NHAxWnlrWFJLUnhNZmFqbXAxVF9vNVJfWDVFSVlwc1M5V3VTaUIwLTNOZmR6TUdUSWh5bk10dVBjRUpRWUdjOU1Rc0xQSG12aklDbnBUWHFYNHJ2WTBHTVd0aHZGSVZtVEtodk9TTThrNXo4VFNDVE9FWWVCQkE?oc=5",
+      "date": "2026-05-20 09:52",
+      "summary": "The AI Boom Is Rewarding Stanford’s Worst Instincts  Bloomberg.com..."
     }
   ],
   "Nature Careers": [
@@ -121,13 +121,25 @@
       "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-00198-4Animal companions can be a lot of work, and are difficult to ..."
     },
     {
-      "title": "How we’re using AI tools to improve psychedelic-drug research",
-      "link": "https://www.nature.com/articles/d41586-026-01467-y",
+      "title": "Will this Ebola outbreak be the biggest yet?",
+      "link": "https://www.nature.com/articles/d41586-026-01646-x",
       "date": "2026-05-21 00:00",
-      "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01467-yFélix Schoeller’s team built a realistic artificial-intellige..."
+      "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01646-xThe size of the outbreak in its initial days is worrying rese..."
     }
   ],
   "Science News": [
+    {
+      "title": "Ancient wars between microbes gave us key immune defenses",
+      "link": "https://www.science.org/content/article/ancient-wars-between-microbes-gave-us-key-immune-defenses",
+      "date": "2026-05-21 02:00",
+      "summary": "A better understanding of battles between bacteria and viruses could inspire new medicines..."
+    },
+    {
+      "title": "Can one parent silence the other’s genes? Natural ‘paramutations’ found in mice",
+      "link": "https://www.science.org/content/article/can-one-parent-silence-other-s-genes-natural-paramutations-found-mice",
+      "date": "2026-05-21 01:15",
+      "summary": "Odd phenomenon first seen in plants could explain puzzling disease inheritance patterns..."
+    },
     {
       "title": "Have astronomers spotted an exploding primordial star?",
       "link": "https://www.science.org/content/article/have-astronomers-spotted-exploding-primordial-star",
@@ -145,18 +157,6 @@
       "link": "https://www.science.org/content/article/microbiologist-wins-georgia-primary-u-s-house-seat",
       "date": "2026-05-20 02:35",
       "summary": "Jasmine Clark is set to become the first Black congresswoman with a science Ph.D...."
-    },
-    {
-      "title": "Not alive, but not dead: disembodied human brains used for drug testing",
-      "link": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
-      "date": "2026-05-20 11:40",
-      "summary": "By restoring some functions to intact brains from deceased donors, the startup Bexorg hopes to create a better drug development te..."
-    },
-    {
-      "title": "New study strengthens idea that humans evolved from knuckle-walking ancestors",
-      "link": "https://www.science.org/content/article/new-study-strengthens-idea-humans-evolved-knuckle-walking-ancestors",
-      "date": "2026-05-19 07:01",
-      "summary": "Analysis charts evolution of the joint that made our species so nimble..."
     }
   ],
   "Retraction Watch": [
@@ -205,25 +205,31 @@
       "summary": "The AI bots are coming and the young are booing, not applauding  Reuters..."
     },
     {
-      "title": "Spotify strikes deal with Universal Music to let premium users create AI covers, remixes - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHh0djRiMGwtYnVIdm0yZ0FWZzRUVDFkU01kZGk3TW4ybEZQU0txZVZMUzZKcUhRVFEwcWlrUno4eHBmWTZZWWVfZWg2MGJJOXNsdmpjZDd4OUFsUDM1ckF3MTY5cUp6dFFCdnNlLUJ6czZMUHFUZ3RfXzA4X1pWV1VsWlNjR2UzNTNTVXVQaFRiWDlaUzZMX21XOFZjOEUtNXQ2UlV0S2ZlcTRYR1FwX1gzYW91RjJGYVZXeUpuVGtCeTBycTdpZw?oc=5",
-      "date": "2026-05-21 15:48",
-      "summary": "Spotify strikes deal with Universal Music to let premium users create AI covers, remixes  Reuters..."
+      "title": "Exclusive: Starbucks scraps AI inventory tool across North America - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkRIYm00Z1V2eGlJRXVkbkhuVU9NcFEzRUoxZXFvbUp2Z0QzQXZZTVh5TTFXUzRZcFZvQXhKV29PblB4MnFSNVN4ejgxbUNzYVJ3Z09YUVMzQVJSMHAzT3REb0tSSUpoOV92S3dRdmlWWk5hTXRRdDBIaWxLcTA5a201SXR3VTZmTlZNdXRRVWtDMC1jVElXcmJ5Mnp3QzVMNEE?oc=5",
+      "date": "2026-05-21 18:59",
+      "summary": "Exclusive: Starbucks scraps AI inventory tool across North America  Reuters..."
     },
     {
-      "title": "White House postpones Trump's AI signing ceremony, say sources - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzNjeDgtUzFjMXB6Z1A2MHNKWERwUm9GMXM2SjJSNnNwY2NKMjdIQy1VY25tZkxGOTl3YWlUZ241WGYzR1hVRnc0Y1Zmdm1XbGV6RkpzNDQ5dGZmTno1ZU82NHhXeUl0NWoySmhTUFQ0NkVVMk52cF83Mms4WmQxTkNISFk2a2t1aUJPVFVxZ2tyT3l3ck1sZGo3Y1dZR0lCU1cxb3ZoMkdvNm1lY1pNS3VhRzg1T2QzNHF5LQ?oc=5",
-      "date": "2026-05-21 15:53",
-      "summary": "White House postpones Trump's AI signing ceremony, say sources  Reuters..."
+      "title": "Cox Media fined for claiming it used AI to track consumer conversations - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2NubnZvTl80SnlFV1ljcEFFQl9TVTBMcHYzWUxuc2RuUFlFLXVxc1FJazZTNWZEOVBkR3ptbkFmLXlLNkgwZ2J5dTJScDJwWEpra2lxM1hQRDdYN0VvellueUsyYm02SGRBVnlEU0dYaDlKVU9pVkRubnl6X2trdjZvX3pEZU93TFBpMWVsYlIwSWNvWVBpcjRlYzYwS013SHNfOHV1YUdyekNmME5OR3lwdnMwVzgt?oc=5",
+      "date": "2026-05-21 19:52",
+      "summary": "Cox Media fined for claiming it used AI to track consumer conversations  Reuters..."
     },
     {
-      "title": "Exclusive: Modal Labs valued at $4.65 billion as AI coding takes off - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTVnSjdhUW1qa1dLaXBJTHFQQS0wdXFYMnhtdWhqRzFhRGt5bm5FcUVjbFhkc0FzZENKTWRTZ1FlNDlJaDBlTllWNVJ0ZnZDSGpwdzFCTFlBR1VucmhGUDZqU1ZHdnBpVU5rMVRkbW1iTkVPWlN0MW1LR01zbkswSkNTcjJmTDFyZE44Uk1mSTB5aTVxeXlkUklR?oc=5",
-      "date": "2026-05-21 17:03",
-      "summary": "Exclusive: Modal Labs valued at $4.65 billion as AI coding takes off  Reuters..."
+      "title": "Mistral AI buys Austrian physics AI startup in industrial push By Reuters - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS05ITUp4dEgtZnpRUVlONGNvMzc5cU5LVjBfSWRpWDEydGNUZXFtUXZGdE5NU3lYR0dZd3M5cmpzV0YzUlZaakw3Y2Fud3hxaHhfbzZhOFlGU0JZYkVaMzIwNDNCd3JtUnpzbUVrYWdJbDJudFd3TC1yWVpkOEdObW83SXhZdENpT2tCbUFKSXVKcjlLU3NESVpqazRHaVJIUmt4Z1NPWW9vb2NsUkphVnVsUXNFOF91clAw?oc=5",
+      "date": "2026-05-19 06:14",
+      "summary": "Mistral AI buys Austrian physics AI startup in industrial push By Reuters  Investing.com..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "Scaling creativity in the age of AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2dUYm5wYkllcHNvdG1QTXZIeWtTbHkxN1lmT0tVMC0xNXk1ekJEcEJOczVVRGpJRnZSLURybHA3SFRJOUxUSEtMZGNuNUJLS3IySFhlRzVGRVZUQi11M2R4MXJxTEN0Z0M0YV9aT0tfRnU3Q1B1RWl0Ul9qU3BRZ1VhX2E2R2w1U0VWdWJiQ3JUZ9IBlwFBVV95cUxQRWl4b3A0Q19uSnM3MVJUX3MyZDlqb2VlcVNSZ2FkRUFTSDliVWhNODNuYTBsUW1aTmJYZHhZbFY3bnRfcWdKb0d2SGhaMDR3VjJOcHhOejRRZVE1TGR6Y3NkLWRId2Z5Tmh4ZzhPcklJMmZnM0ZKa0lxVkNscXU4eURDUGtVOXZUdEdJazNjbjdueEt5aTZF?oc=5",
+      "date": "2026-05-21 19:16",
+      "summary": "Scaling creativity in the age of AI  MIT Technology Review..."
+    },
     {
       "title": "The Download: online safety’s future and climate tech’s big pivot - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObDEtemFGSjl5VnRxXzIwbktXc3lRMHFJYkVZSkk5V1F0X2EwNDRwam0zd3BCdFdYTTNyM2xkaEdkZ0UwTXFfUk5KZWx6TWVGREkwelJuQUVQQ1NYaXh4ZGltWDlCUE0xOTRqb3BCOFpFcGVRNXc5X2Y3TGVSazlCSkhlOFRjVzRGYkFVSE1YYVJ2YlNra0twS0plTkxERXPSAaQBQVVfeXFMT0g4ZzV6aE5tX1ZOUnBlUmU5QWRMNEZ1S3JUTU14c3VKN2loeUNXVkZvQ05TVkVWTk41bGhfSVNTY0tLXzZyTTZOOFMxckVkQnNKY2tnM0syRGxfQm0wbmpHTVk5czNGaWJGVmNJTE02cTJ5a1V4ajhWSjNHXzZDaW9MR1BReDJmS1BRQVBYOWw2RjVCRjVQMlNncjR0N2hWemZhdjc?oc=5",
@@ -237,54 +243,48 @@
       "summary": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not  MIT Technology Review..."
     },
     {
-      "title": "What to expect from Google this week - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXl2OVBoeE4wVVdjSWMwUjhaNFpQOXZHYWpRUXdrdnR5azdnT20wNUhVbmVhWWdfS2ZraW1jVEVhQ2hJYXJmcTVnTV82Umh3amZMRFJGUmktY19nWi11X3lWWG9IcVVVOG1pZG5nbDNjVzhibzd1ZmU0RUVLRkJCZU5YX0lSdGVUbmJFM3FJVUUxMXPSAZgBQVVfeXFMT1ItNzF5SjAxeDlYTFF4OXJ6WERNakRMbHEtOE1CYjVxel9nNWQtNzlLZ3A4N3FrX1FWUXZNRXVGejhnTGI0OUlzWkZNYVJRWVBhd3kybEcxcWxhdHhST08tbUpOYkx2U0taSERGUzk5amZiUXFJQmlnNGZEZkozSm50dHJ1Z3ZYZFZpTnFvXzZGTzlEdVlpdzM?oc=5",
-      "date": "2026-05-18 17:35",
-      "summary": "What to expect from Google this week  MIT Technology Review..."
-    },
-    {
       "title": "Climate tech companies are pivoting to critical minerals - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOTU2aEdSdzc3aEdOc2h2SE1NeDU0dl9tNzFBd1pENVpOcnZoUnJFOVhPMmNkNmdmZWlTVjlBRXE4RXhHZ2NPMGJMRC0tVWlvNXlLMzRPbnYzazgyeTRhS2pEZGNuMG1ERi0teFcyTWJ5aUVjeW1hbnNxZ0VqbEZENXFReTdRMXpoenVoLW4ya3dfZDDSAZgBQVVfeXFMTjhBUmlvWFFaUXl2WHdJQVZaZE1VSDRJWlFLdnBvVUx3THg4T29mLUdMUlVxUkVqSjZhSkpvQ2JPY1VLS1BlaU8zQlh1Z1luVjhKbWJDZkFaN1pMeDdpTnZJTDJCak9laEkwb2E0UUt4dFVUYnNvX1BiQnltaU1DbGNrUE9BN2ljUWhZNG9yMGNGREY2QjNOQ3Q?oc=5",
       "date": "2026-05-21 10:00",
       "summary": "Climate tech companies are pivoting to critical minerals  MIT Technology Review..."
     },
     {
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0FCLWVXb1RXakI1YVFaUDFpUkNMNHpiSEpJNktvYkJ1TnF5M1NvR2wwQnVlWjZtbVIwc2Vrd00yZU9PM1RtTGFYOGV1b0xzMThXdzUza19RRVdLejVvczRDMlRTNmlkMlExb3BPZkx2alE3Z2trVlJReWRFSmRwTDFhTFV0ZG1TRmstd3A5LWlDLU5NR1ljMHRncUdGc1hHaDBLRHB6U2xULVJxU2Ezc2NidEFMM1Jx0gG-AUFVX3lxTE5GOFVNQ1JIcjBrWWxfZXdnRS1tTkN2UUFWdEZEcHdsaXYtYXdnZnJqMjhJMXMwZkpsdXNoSWxKZHZqMGxqeU1JQjAxNUN6VWh6WEFpeENxYkJUdGNFSWtkTnBodm1tRENSOGhTZmFDNXNPVlpJTFhXc3R6Wk5BTWc5SlpXczBDWThNN3lndE9MbWgxWUhpalpSeEFiakUzVzRxbnNjMFAxU1JMemk5N181M21xdkN4ME5RQzFsRVE?oc=5",
-      "date": "2026-05-18 16:01",
-      "summary": "Inside Anduril and Meta’s quest to make smart glasses for warfare  MIT Technology Review..."
+      "title": "What to expect from Google this week - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXl2OVBoeE4wVVdjSWMwUjhaNFpQOXZHYWpRUXdrdnR5azdnT20wNUhVbmVhWWdfS2ZraW1jVEVhQ2hJYXJmcTVnTV82Umh3amZMRFJGUmktY19nWi11X3lWWG9IcVVVOG1pZG5nbDNjVzhibzd1ZmU0RUVLRkJCZU5YX0lSdGVUbmJFM3FJVUUxMXPSAZgBQVVfeXFMT1ItNzF5SjAxeDlYTFF4OXJ6WERNakRMbHEtOE1CYjVxel9nNWQtNzlLZ3A4N3FrX1FWUXZNRXVGejhnTGI0OUlzWkZNYVJRWVBhd3kybEcxcWxhdHhST08tbUpOYkx2U0taSERGUzk5amZiUXFJQmlnNGZEZkozSm50dHJ1Z3ZYZFZpTnFvXzZGTzlEdVlpdzM?oc=5",
+      "date": "2026-05-18 17:35",
+      "summary": "What to expect from Google this week  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Cell movement in the embryo: Zebrafish study shows that without keratin, nothing moves",
-      "link": "https://phys.org/news/2026-05-cell-movement-embryo-zebrafish-keratin.html",
-      "date": "2026-05-21 17:40",
-      "summary": "Hair, nails, and horns, all made up of keratin, are some of the hardest and most resilient structures in animals. Inside zebrafish..."
+      "title": "Historic plant collections offer a window into genetic change",
+      "link": "https://phys.org/news/2026-05-historic-window-genetic.html",
+      "date": "2026-05-21 19:40",
+      "summary": "Pressed plant specimens collected centuries ago and stored in herbaria around the world could play a key role in facilitating the ..."
     },
     {
-      "title": "AI can design cities, but can it understand what matters to people? 10 ways to keep humans in control",
-      "link": "https://phys.org/news/2026-05-ai-cities-people-ways-humans.html",
-      "date": "2026-05-21 17:40",
-      "summary": "Generative AI (GenAI) is a type of artificial intelligence that creates new content—like text, images, or ideas—by learning patter..."
+      "title": "Coupled DNA nanopores control molecular traffic inside synthetic cell microreactors",
+      "link": "https://phys.org/news/2026-05-coupled-dna-nanopores-molecular-traffic.html",
+      "date": "2026-05-21 19:40",
+      "summary": "Living systems such as cells rely on membrane pores and channels to transport molecules, exchange signals, and organize biochemica..."
     },
     {
-      "title": "Black holes may avoid singularities when charge and Hawking radiation combine, theoretical physicist argues",
-      "link": "https://phys.org/news/2026-05-black-holes-singularities-hawking-combine.html",
-      "date": "2026-05-21 17:36",
-      "summary": "Black holes are regions in space where gravity is so strong that nothing, even light, can escape. Einstein's theory of general rel..."
+      "title": "Dual-atom fuel cell catalysts break single-peak rule, exposing two optima",
+      "link": "https://phys.org/news/2026-05-dual-atom-fuel-cell-catalysts.html",
+      "date": "2026-05-21 19:20",
+      "summary": "Researchers have uncovered a new principle that could accelerate the development of cheaper and more efficient fuel cells by revea..."
     },
     {
-      "title": "New kind of dark tourism emerging in online 'Backrooms,' study shows",
-      "link": "https://phys.org/news/2026-05-kind-dark-tourism-emerging-online.html",
-      "date": "2026-05-21 17:20",
-      "summary": "Digital culture is reshaping people's experiences of fear, curiosity and belonging, according to new findings from Lancaster Unive..."
+      "title": "Why digital literacy needs constant updates to help protect teens online",
+      "link": "https://phys.org/news/2026-05-digital-literacy-constant-teens-online.html",
+      "date": "2026-05-21 19:20",
+      "summary": "A new longitudinal study by the Education University of Hong Kong (EdUHK) has uncovered a nuanced relationship between digital lit..."
     },
     {
-      "title": "When noisy decision-making becomes a strategic advantage",
-      "link": "https://phys.org/news/2026-05-noisy-decision-strategic-advantage.html",
-      "date": "2026-05-21 17:20",
-      "summary": "A new study shows that apparently erratic or \"sloppy\" behavior in strategic situations is not necessarily a mistake. Under certain..."
+      "title": "Why some antibiotics fail in the body—pH conditions can dramatically change how bacteria respond",
+      "link": "https://phys.org/news/2026-05-antibiotics-body-ph-conditions-bacteria.html",
+      "date": "2026-05-21 19:00",
+      "summary": "When researchers test whether an antibiotic will work, they usually do so in a controlled laboratory environment. But when an infe..."
     }
   ],
   "The Guardian Edu": [
