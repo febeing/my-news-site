@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT students study plasma physics beneath Alaska’s aurora",
+      "link": "https://news.mit.edu/2026/mit-students-study-plasma-physics-beneath-alaska-aurora-0522",
+      "date": "2026-05-22 13:00",
+      "summary": "Student-led expeditions use distributed instruments to observe auroral structures and probe space plasma in real-world conditions...."
+    },
+    {
       "title": "The rules neurons follow to make sense of what we see",
       "link": "https://news.mit.edu/2026/rules-neurons-follow-to-make-sense-of-what-we-see-0521",
       "date": "2026-05-21 20:50",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/four-from-mit-named-searle-scholars-0520",
       "date": "2026-05-20 20:00",
       "summary": "Computational neuroscientist Sven Dorkenwald and cell biologist Whitney Henry, along with two MIT alumni, are recognized for their..."
-    },
-    {
-      "title": "The Haystack 37m Telescope: A new era of astrophysical research",
-      "link": "https://news.mit.edu/2026/haystack-37m-telescope-new-era-astrophysical-research-0519",
-      "date": "2026-05-19 17:25",
-      "summary": "The legendary radio astronomy telescope returns to its science and educational mission at MIT Haystack Observatory...."
     }
   ],
   "Harvard Gazette": [
@@ -37,6 +37,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+    },
+    {
+      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     },
     {
       "title": "The questions that keep scientists up at night - Harvard Gazette",
@@ -51,16 +57,10 @@
       "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
     },
     {
-      "title": "Plan to rein in inflated grading explained - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
-      "date": "2026-03-26 07:00",
-      "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
-    },
-    {
-      "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
-      "date": "2026-02-20 08:00",
-      "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
+      "title": "How academia can help America heal - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
+      "date": "2026-02-13 08:00",
+      "summary": "How academia can help America heal  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -83,10 +83,10 @@
       "summary": "‘Theo Baker Is a F**king Menace!’  The Chronicle of Higher Education..."
     },
     {
-      "title": "The AI Boom Is Rewarding Stanford’s Worst Instincts - Bloomberg.com",
+      "title": "The AI Boom Is Rewarding Stanford’s Worst Instincts - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHdXSjVUenh0LVcwdVpQVGh4YUF6Yzdmbk9xQzUxZFFZRXgwS0duZVhQQ1Atd1NDbXpCSmJLdHM1YnIwQThDc0JabWU0NHAxWnlrWFJLUnhNZmFqbXAxVF9vNVJfWDVFSVlwc1M5V3VTaUIwLTNOZmR6TUdUSWh5bk10dVBjRUpRWUdjOU1Rc0xQSG12aklDbnBUWHFYNHJ2WTBHTVd0aHZGSVZtVEtodk9TTThrNXo4VFNDVE9FWWVCQkE?oc=5",
       "date": "2026-05-20 09:52",
-      "summary": "The AI Boom Is Rewarding Stanford’s Worst Instincts  Bloomberg.com..."
+      "summary": "The AI Boom Is Rewarding Stanford’s Worst Instincts  Bloomberg..."
     },
     {
       "title": "Inside the rotten heart of Stanford, Silicon Valley’s favourite recruiting ground - The Times",
@@ -96,6 +96,18 @@
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Vanishing tongues and life on Mars: Books in brief",
+      "link": "https://www.nature.com/articles/d41586-026-01655-w",
+      "date": "2026-05-22 00:00",
+      "summary": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01655-wAndrew Robinson reviews five of the best science picks...."
+    },
+    {
+      "title": "Neuroflix",
+      "link": "https://www.nature.com/articles/d41586-026-01087-6",
+      "date": "2026-05-22 00:00",
+      "summary": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01087-6It’s just a game — isn’t it?..."
+    },
     {
       "title": "De novo design of miniproteins targeting GPCRs",
       "link": "https://www.nature.com/articles/s41586-026-10656-8",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01608-3",
       "date": "2026-05-21 00:00",
       "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01608-3James Webb Space Telescope reveals weather patterns from how ..."
-    },
-    {
-      "title": "A star gone rogue tears through the Galaxy",
-      "link": "https://www.nature.com/articles/d41586-026-01591-9",
-      "date": "2026-05-21 00:00",
-      "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01591-9The black hole at the Milky Way’s centre catapulted a Sun-lik..."
-    },
-    {
-      "title": "Ebola outbreak spirals out of control: how might it have started?",
-      "link": "https://www.nature.com/articles/d41586-026-01645-y",
-      "date": "2026-05-21 00:00",
-      "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01645-yPublic-health researcher James Baguma has studied the interac..."
     }
   ],
   "Science News": [
@@ -193,16 +193,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVBeG83TF9qcjAxRjBDQ3FLR25nNUxtLUFFMmI3S01nSm5obzhLS2FMTDA3MDZTeEpRdGg0TWlCOERydWI4RWlaZVJYRVM4YmN3TVEzRkFBbmtxa2NwWm9OT0xJVjJPQnl3NEZFZzRsOUdGUU13MGNLVFRqTXJZcW93dGk5SGZORExyNjJiX2s3V0tab3Zra21XbGdkaGFiUU9ydFZfaGg?oc=5",
-      "date": "2026-05-21 10:02",
-      "summary": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story  Reuters..."
-    },
-    {
       "title": "Trump postpones AI executive order, cites need to compete with China - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzNjeDgtUzFjMXB6Z1A2MHNKWERwUm9GMXM2SjJSNnNwY2NKMjdIQy1VY25tZkxGOTl3YWlUZ241WGYzR1hVRnc0Y1Zmdm1XbGV6RkpzNDQ5dGZmTno1ZU82NHhXeUl0NWoySmhTUFQ0NkVVMk52cF83Mms4WmQxTkNISFk2a2t1aUJPVFVxZ2tyT3l3ck1sZGo3Y1dZR0lCU1cxb3ZoMkdvNm1lY1pNS3VhRzg1T2QzNHF5LQ?oc=5",
       "date": "2026-05-21 15:44",
       "summary": "Trump postpones AI executive order, cites need to compete with China  Reuters..."
+    },
+    {
+      "title": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVBeG83TF9qcjAxRjBDQ3FLR25nNUxtLUFFMmI3S01nSm5obzhLS2FMTDA3MDZTeEpRdGg0TWlCOERydWI4RWlaZVJYRVM4YmN3TVEzRkFBbmtxa2NwWm9OT0xJVjJPQnl3NEZFZzRsOUdGUU13MGNLVFRqTXJZcW93dGk5SGZORExyNjJiX2s3V0tab3Zra21XbGdkaGFiUU9ydFZfaGg?oc=5",
+      "date": "2026-05-21 10:02",
+      "summary": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story  Reuters..."
     },
     {
       "title": "Exclusive: Starbucks scraps AI inventory tool across North America - Reuters",
@@ -211,16 +211,16 @@
       "summary": "Exclusive: Starbucks scraps AI inventory tool across North America  Reuters..."
     },
     {
-      "title": "Europe's AI stocks shine through gloom of Iran war - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSkJmUXNhaXlNbFNrbGVQdTRldWdZbXI0UVFvQkx5UHd1YWVWc0lOTENwbDVCa0tyQjJ1NHVMV21MVVc1ejJBcGZ2eW9IakUzNTNxa2RBNWhfUmc5N0pOSUMwNmFlMDZtMVpETkUyLVZGWV9xY2p6YkZxMXpBdUVmOWFtRG8yLVE0Nmh5SDlyYURlNGR1Ql9Na3JB?oc=5",
-      "date": "2026-05-22 05:06",
-      "summary": "Europe's AI stocks shine through gloom of Iran war  Reuters..."
-    },
-    {
       "title": "Mistral AI buys Austrian physics AI startup in industrial push By Reuters - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS05ITUp4dEgtZnpRUVlONGNvMzc5cU5LVjBfSWRpWDEydGNUZXFtUXZGdE5NU3lYR0dZd3M5cmpzV0YzUlZaakw3Y2Fud3hxaHhfbzZhOFlGU0JZYkVaMzIwNDNCd3JtUnpzbUVrYWdJbDJudFd3TC1yWVpkOEdObW83SXhZdENpT2tCbUFKSXVKcjlLU3NESVpqazRHaVJIUmt4Z1NPWW9vb2NsUkphVnVsUXNFOF91clAw?oc=5",
       "date": "2026-05-19 06:14",
       "summary": "Mistral AI buys Austrian physics AI startup in industrial push By Reuters  Investing.com..."
+    },
+    {
+      "title": "Regulators question StanChart following CEO Winters' AI comments amid job cuts, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObmJsTXRsV3ZUR2lvam5tbjZxQ3lheW1IM1J3WGc5MGVkaW5OVndsNzV4d1lUYzF5MTg0RG01cGJsMTkyb2JpVndzbFItVk9GY3ozSlZrLWlJSlh0QjdQb1BoZ3poVFdxZGsyRzRWSWxZTzJvZWw3S3g0MkNRLUhSNjJwbTZEWjBuT1dnby1oSjJQVzVJeFUtVjJNV3hPX3lwWWYxbk1vSkx4NWFCOUZvZkR0bHhLRHBYN3hCaktXcFdCRGdhWjdfMmZB?oc=5",
+      "date": "2026-05-21 12:59",
+      "summary": "Regulators question StanChart following CEO Winters' AI comments amid job cuts, Bloomberg News reports  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -231,10 +231,10 @@
       "summary": "Scaling creativity in the age of AI  MIT Technology Review..."
     },
     {
-      "title": "What to expect from Google this week - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXl2OVBoeE4wVVdjSWMwUjhaNFpQOXZHYWpRUXdrdnR5azdnT20wNUhVbmVhWWdfS2ZraW1jVEVhQ2hJYXJmcTVnTV82Umh3amZMRFJGUmktY19nWi11X3lWWG9IcVVVOG1pZG5nbDNjVzhibzd1ZmU0RUVLRkJCZU5YX0lSdGVUbmJFM3FJVUUxMXPSAZgBQVVfeXFMT1ItNzF5SjAxeDlYTFF4OXJ6WERNakRMbHEtOE1CYjVxel9nNWQtNzlLZ3A4N3FrX1FWUXZNRXVGejhnTGI0OUlzWkZNYVJRWVBhd3kybEcxcWxhdHhST08tbUpOYkx2U0taSERGUzk5amZiUXFJQmlnNGZEZkozSm50dHJ1Z3ZYZFZpTnFvXzZGTzlEdVlpdzM?oc=5",
-      "date": "2026-05-18 17:35",
-      "summary": "What to expect from Google this week  MIT Technology Review..."
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0FCLWVXb1RXakI1YVFaUDFpUkNMNHpiSEpJNktvYkJ1TnF5M1NvR2wwQnVlWjZtbVIwc2Vrd00yZU9PM1RtTGFYOGV1b0xzMThXdzUza19RRVdLejVvczRDMlRTNmlkMlExb3BPZkx2alE3Z2trVlJReWRFSmRwTDFhTFV0ZG1TRmstd3A5LWlDLU5NR1ljMHRncUdGc1hHaDBLRHB6U2xULVJxU2Ezc2NidEFMM1Jx0gG-AUFVX3lxTE5GOFVNQ1JIcjBrWWxfZXdnRS1tTkN2UUFWdEZEcHdsaXYtYXdnZnJqMjhJMXMwZkpsdXNoSWxKZHZqMGxqeU1JQjAxNUN6VWh6WEFpeENxYkJUdGNFSWtkTnBodm1tRENSOGhTZmFDNXNPVlpJTFhXc3R6Wk5BTWc5SlpXczBDWThNN3lndE9MbWgxWUhpalpSeEFiakUzVzRxbnNjMFAxU1JMemk5N181M21xdkN4ME5RQzFsRVE?oc=5",
+      "date": "2026-05-18 16:01",
+      "summary": "Inside Anduril and Meta’s quest to make smart glasses for warfare  MIT Technology Review..."
     },
     {
       "title": "Google I/O showed how the path for AI-driven science is shifting - MIT Technology Review",
@@ -243,10 +243,10 @@
       "summary": "Google I/O showed how the path for AI-driven science is shifting  MIT Technology Review..."
     },
     {
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0FCLWVXb1RXakI1YVFaUDFpUkNMNHpiSEpJNktvYkJ1TnF5M1NvR2wwQnVlWjZtbVIwc2Vrd00yZU9PM1RtTGFYOGV1b0xzMThXdzUza19RRVdLejVvczRDMlRTNmlkMlExb3BPZkx2alE3Z2trVlJReWRFSmRwTDFhTFV0ZG1TRmstd3A5LWlDLU5NR1ljMHRncUdGc1hHaDBLRHB6U2xULVJxU2Ezc2NidEFMM1Jx0gG-AUFVX3lxTE5GOFVNQ1JIcjBrWWxfZXdnRS1tTkN2UUFWdEZEcHdsaXYtYXdnZnJqMjhJMXMwZkpsdXNoSWxKZHZqMGxqeU1JQjAxNUN6VWh6WEFpeENxYkJUdGNFSWtkTnBodm1tRENSOGhTZmFDNXNPVlpJTFhXc3R6Wk5BTWc5SlpXczBDWThNN3lndE9MbWgxWUhpalpSeEFiakUzVzRxbnNjMFAxU1JMemk5N181M21xdkN4ME5RQzFsRVE?oc=5",
-      "date": "2026-05-18 16:01",
-      "summary": "Inside Anduril and Meta’s quest to make smart glasses for warfare  MIT Technology Review..."
+      "title": "What to expect from Google this week - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXl2OVBoeE4wVVdjSWMwUjhaNFpQOXZHYWpRUXdrdnR5azdnT20wNUhVbmVhWWdfS2ZraW1jVEVhQ2hJYXJmcTVnTV82Umh3amZMRFJGUmktY19nWi11X3lWWG9IcVVVOG1pZG5nbDNjVzhibzd1ZmU0RUVLRkJCZU5YX0lSdGVUbmJFM3FJVUUxMXPSAZgBQVVfeXFMT1ItNzF5SjAxeDlYTFF4OXJ6WERNakRMbHEtOE1CYjVxel9nNWQtNzlLZ3A4N3FrX1FWUXZNRXVGejhnTGI0OUlzWkZNYVJRWVBhd3kybEcxcWxhdHhST08tbUpOYkx2U0taSERGUzk5amZiUXFJQmlnNGZEZkozSm50dHJ1Z3ZYZFZpTnFvXzZGTzlEdVlpdzM?oc=5",
+      "date": "2026-05-18 17:35",
+      "summary": "What to expect from Google this week  MIT Technology Review..."
     },
     {
       "title": "AI chatbots are giving out people’s real phone numbers - MIT Technology Review",
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "FIFA's huge World Cup to generate unprecedented cash and CO₂",
-      "link": "https://phys.org/news/2026-05-fifa-huge-world-cup-generate.html",
-      "date": "2026-05-22 09:30",
-      "summary": "The biggest and most lucrative ever World Cup this summer will also set a record for the most-polluting sporting event in history,..."
+      "title": "Researchers collaborate on effort to map biodiversity on Indonesia's unexplored seamounts",
+      "link": "https://phys.org/news/2026-05-collaborate-effort-biodiversity-indonesia-unexplored.html",
+      "date": "2026-05-22 13:20",
+      "summary": "Researchers from the University of Rhode Island are contributing to an international effort to document life on Indonesia's remote..."
     },
     {
-      "title": "Atlas reveals rocks with rare earth element potential, helping pinpoint new deposits",
-      "link": "https://phys.org/news/2026-05-atlas-reveals-rare-earth-element.html",
-      "date": "2026-05-22 09:00",
-      "summary": "A new atlas charts the global distribution of unusual, critical-metal-bearing igneous rocks, finding that they often form near the..."
+      "title": "Superconducting vortices moonlight as controllable qubits, turning a disruption into a resource",
+      "link": "https://phys.org/news/2026-05-superconducting-vortices-moonlight-qubits-disruption.html",
+      "date": "2026-05-22 13:20",
+      "summary": "Vortices in superconductors have so far been considered a disruption, as they can impair the superconducting properties. Researche..."
     },
     {
-      "title": "With record-low snow, Colorado preps for wildfire onslaught",
-      "link": "https://phys.org/news/2026-05-colorado-preps-wildfire-onslaught.html",
-      "date": "2026-05-22 09:00",
-      "summary": "Larry Graves pulled up to a home tucked into a Colorado mountainside. His radio was crackling, as was the wildfire burning beyond ..."
+      "title": "Midwest flamingos and 'hurricane toads': Wildlife's strange storm stories",
+      "link": "https://phys.org/news/2026-05-midwest-flamingos-hurricane-toads-wildlife.html",
+      "date": "2026-05-22 13:00",
+      "summary": "Hurricanes can be a devastating force—leveling trees, erasing beaches and damaging homes. But what do they do to wildlife? The ans..."
     },
     {
-      "title": "Ancient DNA reveals web of marriage and migration in Peru centuries before Inca rule",
-      "link": "https://phys.org/news/2026-05-ancient-dna-reveals-web-marriage.html",
-      "date": "2026-05-22 09:00",
-      "summary": "Long-distance migration along Peru's Pacific coast began at least 800 years ago, centuries before the rise of the Inca Empire and ..."
+      "title": "Lost elephant calf reunites with family after researchers track herd across Samburu reserve",
+      "link": "https://phys.org/news/2026-05-lost-elephant-calf-reunites-family.html",
+      "date": "2026-05-22 12:40",
+      "summary": "Colorado State University Professor George Wittemyer and his research team reunited a 4-month-old elephant calf with her family af..."
     },
     {
-      "title": "Trump eases curbs on planet-warming gases used in refrigerants",
-      "link": "https://phys.org/news/2026-05-trump-eases-curbs-planet-gases.html",
-      "date": "2026-05-22 09:00",
-      "summary": "US President Donald Trump on Thursday announced the easing of curbs on a group of powerful greenhouse gases that drive climate cha..."
+      "title": "New tool helps accurately assemble notoriously difficult bird genomes",
+      "link": "https://phys.org/news/2026-05-tool-accurately-notoriously-difficult-bird.html",
+      "date": "2026-05-22 12:40",
+      "summary": "A new computational program, MicroFinder, enables faster and more accurate assembly of bird genomes. Improved genome assemblies wi..."
     }
   ],
   "The Guardian Edu": [
@@ -321,34 +321,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Revamped Terminal 2 will boost Hong Kong’s aviation hub status: Airport Authority",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3354569/launch-terminal-2-will-boost-hong-kongs-aviation-hub-status-airport-authority?utm_source=rss_feed",
+      "date": "2026-05-22 13:02",
+      "summary": "The expanded second passenger terminal at Hong Kong International Airport will be crucial to the city’s role as a global aviation ..."
+    },
+    {
+      "title": "HK Electric customers set for steeper bills in June over volatile oil prices",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3354568/hk-electric-customers-set-steeper-bills-june-over-volatile-oil-prices?utm_source=rss_feed",
+      "date": "2026-05-22 12:47",
+      "summary": "HK Electric customers are set to fork out more for their energy bills next month after the Hong Kong firm announced a 20.4 per cen..."
+    },
+    {
+      "title": "‘I am sorry’: Standard Chartered CEO Bill Winters apologises for comments over job cuts",
+      "link": "https://www.scmp.com/business/banking-finance/article/3354558/i-am-sorry-standard-chartered-ceo-bill-winters-apologises-comments-over-job-cuts?utm_source=rss_feed",
+      "date": "2026-05-22 11:09",
+      "summary": "Standard Chartered global CEO Bill Winters on Friday said he was “sorry” for comments describing “lower-value” workers, made while..."
+    },
+    {
       "title": "K-pop stars BTS to hold 3 concerts at Hong Kong’s Kai Tak Stadium in 2027",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3354540/k-pop-stars-bts-hold-3-concerts-hong-kongs-kai-tak-stadium-2027?utm_source=rss_feed",
       "date": "2026-05-22 10:15",
       "summary": "K-pop boy band BTS will perform at Hong Kong’s Kai Tak Stadium for three days in March next year as part of their comeback tour, w..."
     },
     {
-      "title": "Hong Kong producer Raymond Wong found guilty of HK$1 million insider trading",
+      "title": "Hong Kong producer Raymond Wong found guilty of insider trading",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3354517/hong-kong-producer-raymond-wong-found-guilty-hk1-million-insider-trading?utm_source=rss_feed",
       "date": "2026-05-22 08:50",
       "summary": "Hong Kong film producer and actor Raymond Wong Pak-ming has been found guilty of sharing insider information with his sister to tr..."
-    },
-    {
-      "title": "Hong Kong trade office in London can continue ‘legitimate activity’: UK official",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3354483/hong-kong-trade-office-can-continue-legitimate-activity-uk-official-tells-critical-mps?utm_source=rss_feed",
-      "date": "2026-05-22 06:18",
-      "summary": "The Hong Kong Economic and Trade Office (HKETO) in London can continue its “legitimate activity”, the UK government has said, desp..."
-    },
-    {
-      "title": "Hong Kong’s ICAC charges woman over alleged HK$10,000 bribe in custody case",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3354476/hong-kongs-icac-charges-woman-over-alleged-hk10000-bribe-custody-case?utm_source=rss_feed",
-      "date": "2026-05-22 05:35",
-      "summary": "Hong Kong’s anti-corruption watchdog has charged a 62-year-old woman with allegedly offering a bribe to a Legal Aid Department cle..."
-    },
-    {
-      "title": "Australia’s Linda McGill makes first swim around Hong Kong Island in 1976 – from the SCMP archive",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3354073/australias-linda-mcgill-makes-first-swim-around-hong-kong-island-1976-scmp-archive?utm_source=rss_feed",
-      "date": "2026-05-22 05:30",
-      "summary": "This article was first published on May 23, 1976.\nAustralia’s long distance swimming heroine, Linda McGill, staggered ashore at cr..."
     }
   ],
   "New Scientist": [
