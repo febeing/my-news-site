@@ -33,6 +33,12 @@
   ],
   "Harvard Gazette": [
     {
+      "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
+    },
+    {
       "title": "The questions that keep scientists up at night - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
       "date": "2026-04-07 07:00",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
       "summary": "How to help lift slumping American math scores  Harvard Gazette..."
-    },
-    {
-      "title": "A potential quantum leap - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
-      "date": "2025-11-12 08:00",
-      "summary": "A potential quantum leap  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -193,16 +193,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "Trump postpones AI executive order, cites need to compete with China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzNjeDgtUzFjMXB6Z1A2MHNKWERwUm9GMXM2SjJSNnNwY2NKMjdIQy1VY25tZkxGOTl3YWlUZ241WGYzR1hVRnc0Y1Zmdm1XbGV6RkpzNDQ5dGZmTno1ZU82NHhXeUl0NWoySmhTUFQ0NkVVMk52cF83Mms4WmQxTkNISFk2a2t1aUJPVFVxZ2tyT3l3ck1sZGo3Y1dZR0lCU1cxb3ZoMkdvNm1lY1pNS3VhRzg1T2QzNHF5LQ?oc=5",
-      "date": "2026-05-21 15:44",
-      "summary": "Trump postpones AI executive order, cites need to compete with China  Reuters..."
-    },
-    {
       "title": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVBeG83TF9qcjAxRjBDQ3FLR25nNUxtLUFFMmI3S01nSm5obzhLS2FMTDA3MDZTeEpRdGg0TWlCOERydWI4RWlaZVJYRVM4YmN3TVEzRkFBbmtxa2NwWm9OT0xJVjJPQnl3NEZFZzRsOUdGUU13MGNLVFRqTXJZcW93dGk5SGZORExyNjJiX2s3V0tab3Zra21XbGdkaGFiUU9ydFZfaGg?oc=5",
       "date": "2026-05-21 10:02",
       "summary": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story  Reuters..."
+    },
+    {
+      "title": "China's DeepSeek to make permanent 75% price cut on flagship V4‑Pro AI model - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM3Q5LUNUSDdncjRsXzJUaDFubjZGRm1SVDh5bkx0Z0pGNUVfZzZOdGQ1UThpTFFQdGg4d1ZaMFpGZ2Jxb0xuUmxMY0NQQkZBOTAtTjdxRnEtNmNMdXBWc3YwLWVfendsczJINk5jeEE0M21IWjdpMFRtbkFwU1B5ZkdDenhoMmhZVVpjU3VsZWtHWVJSR05zLVQ3dW9xU0Z0aDJEX3YtdkVWUTdkMVRzTEJnVUlfdw?oc=5",
+      "date": "2026-05-23 13:33",
+      "summary": "China's DeepSeek to make permanent 75% price cut on flagship V4‑Pro AI model  Reuters..."
     },
     {
       "title": "Exclusive: Starbucks scraps AI inventory tool across North America - Reuters",
@@ -217,10 +217,10 @@
       "summary": "Novo Nordisk uses AI to fast-track drug launches, expand India role  Reuters..."
     },
     {
-      "title": "Judge says lawyers' AI use risks ‘career-altering’ consequences - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmM4Y2pQODVaVElTdG9fR3dKR2pKaEw3UDFXOG42aW85c3c5cTVhWC1sTVVIRkxYZGJjMW13WDBKTWJLRWtwNkhQZG1SNl9VcjRJd1VCU3Nhd2Rqd19jMWhXcjdCT280S0hkemQxVk5LLWtQVkVUQUg1RU9YUldnSWtvUkFpRGhPV2ZJX3BQTEk4RUV2U0dIM1YyNmpodGJQVzl5Y2JmTy1NdTA0ZWtiaUtxaw?oc=5",
-      "date": "2026-05-22 17:45",
-      "summary": "Judge says lawyers' AI use risks ‘career-altering’ consequences  Reuters..."
+      "title": "Trump postpones AI executive order, cites need to compete with China - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzNjeDgtUzFjMXB6Z1A2MHNKWERwUm9GMXM2SjJSNnNwY2NKMjdIQy1VY25tZkxGOTl3YWlUZ241WGYzR1hVRnc0Y1Zmdm1XbGV6RkpzNDQ5dGZmTno1ZU82NHhXeUl0NWoySmhTUFQ0NkVVMk52cF83Mms4WmQxTkNISFk2a2t1aUJPVFVxZ2tyT3l3ck1sZGo3Y1dZR0lCU1cxb3ZoMkdvNm1lY1pNS3VhRzg1T2QzNHF5LQ?oc=5",
+      "date": "2026-05-21 15:44",
+      "summary": "Trump postpones AI executive order, cites need to compete with China  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,24 @@
   ],
   "Phys.org": [
     {
+      "title": "Extreme 8.5-minute orbit reveals white dwarf being torn apart by its binary companion",
+      "link": "https://phys.org/news/2026-05-extreme-minute-orbit-reveals-white.html",
+      "date": "2026-05-23 14:20",
+      "summary": "A team of U.S. astronomers has observed a binary pair of white dwarfs where one star is actively devouring material from the other..."
+    },
+    {
+      "title": "Atlantic seaweed blooms may be predictable, opening path to carbon removal and biofuels",
+      "link": "https://phys.org/news/2026-05-atlantic-seaweed-blooms-path-carbon.html",
+      "date": "2026-05-23 14:00",
+      "summary": "Across the Caribbean, Gulf of Mexico and West African coasts, massive arrivals of Sargassum seaweed have become an annual crisis. ..."
+    },
+    {
+      "title": "De‑extinction company says it's made an artificial egg—if true, it could help save living species",
+      "link": "https://phys.org/news/2026-05-deextinction-company-artificial-egg-true.html",
+      "date": "2026-05-23 13:30",
+      "summary": "Today's announcement by Texas-based de-extinction company Colossal Biosciences about a successful hatching of chicks from an artif..."
+    },
+    {
       "title": "Saturday citations: Two T. rexes and new exercise guidance that scientists are not calling 'easy'",
       "link": "https://phys.org/news/2026-05-saturday-citations-rexes-guidance-scientists.html",
       "date": "2026-05-23 12:50",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-05-ai-cameras-thermal-sensors-ships.html",
       "date": "2026-05-23 12:30",
       "summary": "Researchers from UC Santa Barbara's Benioff Ocean Science Laboratory (BOSL) and local partners in San Francisco have unveiled new ..."
-    },
-    {
-      "title": "Hope boosts climate problem-solving, new experiments suggest",
-      "link": "https://phys.org/news/2026-05-boosts-climate-problem.html",
-      "date": "2026-05-23 12:00",
-      "summary": "A new study has shown that messages of hope can be effective in promoting creative problem-solving around sustainability. Experts ..."
-    },
-    {
-      "title": "Emergence of new cavefish species challenges evolutionary dead-end idea",
-      "link": "https://phys.org/news/2026-05-emergence-cavefish-species-evolutionary-dead.html",
-      "date": "2026-05-23 12:00",
-      "summary": "A new Yale study identifies a distinct species of eyeless cavefish, a discovery that challenges long-held conventional wisdom that..."
-    },
-    {
-      "title": "China set for latest space launch, with Hong Kong astronaut aboard",
-      "link": "https://phys.org/news/2026-05-china-latest-space-hong-kong.html",
-      "date": "2026-05-23 09:20",
-      "summary": "A Hong Kong astronaut will join a Chinese space mission for the first time as part of a three-person crew launching on Sunday, as ..."
     }
   ],
   "The Guardian Edu": [
@@ -353,6 +353,12 @@
   ],
   "New Scientist": [
     {
+      "title": "Women’s better memories may delay Alzheimer’s diagnosis by years",
+      "link": "https://www.newscientist.com/article/2526378-womens-better-memories-may-delay-alzheimers-diagnosis-by-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-21 12:00",
+      "summary": "Women appear cognitively normal for almost three years longer than men after their brains start to develop Alzheimer’s disease, ma..."
+    },
+    {
       "title": "Mercury may have gained all of its unexpected water in a single day",
       "link": "https://www.newscientist.com/article/2527597-mercury-may-have-gained-all-of-its-unexpected-water-in-a-single-day/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-22 18:00",
@@ -375,12 +381,6 @@
       "link": "https://www.newscientist.com/article/2527614-political-anger-affects-the-body-differently-to-other-forms-of-anger/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-22 14:00",
       "summary": "We all feel emotions like anger and disgust from time to time, but they seem to cause stronger bodily sensations when they're poli..."
-    },
-    {
-      "title": "Australia is battling its largest diphtheria outbreak in living memory",
-      "link": "https://www.newscientist.com/article/2527469-australia-is-battling-its-largest-diphtheria-outbreak-in-living-memory/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-22 12:00",
-      "summary": "Vaccine misinformation, nurse and doctor shortages and crowded living arrangements may be behind soaring rates of diphtheria in re..."
     }
   ]
 }
