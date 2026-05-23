@@ -83,10 +83,10 @@
       "summary": "Stanford to begin exam proctoring following pilot program  The Stanford Daily..."
     },
     {
-      "title": "The AI Boom Is Rewarding Stanford’s Worst Instincts - Bloomberg.com",
+      "title": "The AI Boom Is Rewarding Stanford’s Worst Instincts - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHdXSjVUenh0LVcwdVpQVGh4YUF6Yzdmbk9xQzUxZFFZRXgwS0duZVhQQ1Atd1NDbXpCSmJLdHM1YnIwQThDc0JabWU0NHAxWnlrWFJLUnhNZmFqbXAxVF9vNVJfWDVFSVlwc1M5V3VTaUIwLTNOZmR6TUdUSWh5bk10dVBjRUpRWUdjOU1Rc0xQSG12aklDbnBUWHFYNHJ2WTBHTVd0aHZGSVZtVEtodk9TTThrNXo4VFNDVE9FWWVCQkE?oc=5",
       "date": "2026-05-20 09:52",
-      "summary": "The AI Boom Is Rewarding Stanford’s Worst Instincts  Bloomberg.com..."
+      "summary": "The AI Boom Is Rewarding Stanford’s Worst Instincts  Bloomberg..."
     },
     {
       "title": "Annual Academic Council meeting charts positive future amid rapid change - Stanford Report",
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Weekend reads: arXiv to ban researchers with hallucinated references; U.S. restrictions on foreign coauthors; retracted papers by Max Planck",
+      "link": "https://retractionwatch.com/2026/05/23/weekend-reads-arxiv-ban-hallucinated-references-us-restrictions-foreign-coauthors-retracted-papers-max-planck/",
+      "date": "2026-05-23 10:00",
+      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
+    },
+    {
       "title": "Widely criticized keto diet study retracted",
       "link": "https://retractionwatch.com/2026/05/22/widely-criticized-keto-diet-study-retracted/",
       "date": "2026-05-22 10:00",
@@ -183,26 +189,20 @@
       "link": "https://retractionwatch.com/2026/05/18/kaggle-dataset-clinical-models-stroke-diabetes/",
       "date": "2026-05-18 21:00",
       "summary": "Scrolling through an online image dataset, Adrian Barnett, a statistician at the Queensland University of Technology in Australia,..."
-    },
-    {
-      "title": "New rule in Peru restricts authors with retractions from getting special bonuses",
-      "link": "https://retractionwatch.com/2026/05/18/peru-rule-retractions-special-bonuses-decreto-supremo/",
-      "date": "2026-05-18 10:00",
-      "summary": "In an ongoing effort to combat scientific misconduct, Peru has passed new rules that bar research faculty at public universities t..."
     }
   ],
   "Reuters AI": [
+    {
+      "title": "Trump postpones AI executive order, cites need to compete with China - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzNjeDgtUzFjMXB6Z1A2MHNKWERwUm9GMXM2SjJSNnNwY2NKMjdIQy1VY25tZkxGOTl3YWlUZ241WGYzR1hVRnc0Y1Zmdm1XbGV6RkpzNDQ5dGZmTno1ZU82NHhXeUl0NWoySmhTUFQ0NkVVMk52cF83Mms4WmQxTkNISFk2a2t1aUJPVFVxZ2tyT3l3ck1sZGo3Y1dZR0lCU1cxb3ZoMkdvNm1lY1pNS3VhRzg1T2QzNHF5LQ?oc=5",
+      "date": "2026-05-21 15:44",
+      "summary": "Trump postpones AI executive order, cites need to compete with China  Reuters..."
+    },
     {
       "title": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVBeG83TF9qcjAxRjBDQ3FLR25nNUxtLUFFMmI3S01nSm5obzhLS2FMTDA3MDZTeEpRdGg0TWlCOERydWI4RWlaZVJYRVM4YmN3TVEzRkFBbmtxa2NwWm9OT0xJVjJPQnl3NEZFZzRsOUdGUU13MGNLVFRqTXJZcW93dGk5SGZORExyNjJiX2s3V0tab3Zra21XbGdkaGFiUU9ydFZfaGg?oc=5",
       "date": "2026-05-21 10:02",
       "summary": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story  Reuters..."
-    },
-    {
-      "title": "Exclusive: Modal Labs valued at $4.65 billion as AI coding takes off - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTVnSjdhUW1qa1dLaXBJTHFQQS0wdXFYMnhtdWhqRzFhRGt5bm5FcUVjbFhkc0FzZENKTWRTZ1FlNDlJaDBlTllWNVJ0ZnZDSGpwdzFCTFlBR1VucmhGUDZqU1ZHdnBpVU5rMVRkbW1iTkVPWlN0MW1LR01zbkswSkNTcjJmTDFyZE44Uk1mSTB5aTVxeXlkUklR?oc=5",
-      "date": "2026-05-21 17:03",
-      "summary": "Exclusive: Modal Labs valued at $4.65 billion as AI coding takes off  Reuters..."
     },
     {
       "title": "Exclusive: Starbucks scraps AI inventory tool across North America - Reuters",
@@ -211,16 +211,16 @@
       "summary": "Exclusive: Starbucks scraps AI inventory tool across North America  Reuters..."
     },
     {
+      "title": "Exclusive: Modal Labs valued at $4.65 billion as AI coding takes off - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTVnSjdhUW1qa1dLaXBJTHFQQS0wdXFYMnhtdWhqRzFhRGt5bm5FcUVjbFhkc0FzZENKTWRTZ1FlNDlJaDBlTllWNVJ0ZnZDSGpwdzFCTFlBR1VucmhGUDZqU1ZHdnBpVU5rMVRkbW1iTkVPWlN0MW1LR01zbkswSkNTcjJmTDFyZE44Uk1mSTB5aTVxeXlkUklR?oc=5",
+      "date": "2026-05-21 17:03",
+      "summary": "Exclusive: Modal Labs valued at $4.65 billion as AI coding takes off  Reuters..."
+    },
+    {
       "title": "Novo Nordisk uses AI to fast-track drug launches, expand India role - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0s1azdmX1MzM1paZUJMNXN5c1pKUmVqeGZreWdBWVByN2VGcXRER0NvQVRSRHdIUWZ3Y3RudzY0blRQRVpabXM1Sk1XWGpTUDVoeEdON0pnNl9kUnU3dmdEem9aUlpuOEJEak5WVGpXdGpZWHlGWlBUalQwQUtlTW42Tm1fX1pWaEhiemN3bnhGcTJSVG0yR09vVTY5bXVyWHM0amRmT1didEo0Z25pMTJudGFsLVk?oc=5",
       "date": "2026-05-22 13:13",
       "summary": "Novo Nordisk uses AI to fast-track drug launches, expand India role  Reuters..."
-    },
-    {
-      "title": "CEO Dimon says JPMorgan to hire more AI staff, fewer bankers, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUmxYYXEycDFOMXVUMlp6YUMyWnhmVFFod1JPRmFycGZjSE04Qi1JcjNGMldQemRjTWxad0hGMy1DM0o5b3k2WHhZZlViTDRBVERqajlqUVRUOE1pOGVDVFJiY1Y5LWphOFp1QXA1ZldxWWRxNDdjRVl4OXY3cjFjQzlJQll1Z1pVLWpQSm54RzgzaG1ZR1pabGxua2o4V1VnNFlNRlU2VFdZb1ZKV2pPUFV4MUFZeExualQyS2hpd2kzaTcycTFJQVFqZS1JeVdfT1NLaw?oc=5",
-      "date": "2026-05-21 09:25",
-      "summary": "CEO Dimon says JPMorgan to hire more AI staff, fewer bankers, Bloomberg News reports  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -321,6 +321,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong’s justice department rejects ‘despicable’ claims targeting prosecutors",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3354630/hong-kongs-justice-department-rejects-despicable-claims-targeting-prosecutors?utm_source=rss_feed",
+      "date": "2026-05-23 10:44",
+      "summary": "Hong Kong’s justice department has rejected online accusations involving the newly promoted public prosecutions director and a col..."
+    },
+    {
+      "title": "Nearly 10,000 Hongkongers granted permanent UK residence under BN(O) scheme",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3354629/nearly-10000-hongkongers-granted-permanent-uk-residence-under-bno-scheme?utm_source=rss_feed",
+      "date": "2026-05-23 10:40",
+      "summary": "Nearly 10,000 Hongkongers have been granted permanent residence in the UK under a bespoke British immigration pathway launched in ..."
+    },
+    {
+      "title": "New pay model for native English-speaking teachers risks lowering standards: group",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3354625/new-pay-model-native-english-speaking-teachers-risks-lowering-standards-group?utm_source=rss_feed",
+      "date": "2026-05-23 10:00",
+      "summary": "An association representing native English-speaking teachers (NETs) in Hong Kong has warned that less-attractive pay offered under..."
+    },
+    {
       "title": "Dignity for the dead: 6 Hongkongers form city’s first corpse restoration team",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3354619/dignity-dead-6-hongkongers-form-citys-first-corpse-restoration-team?utm_source=rss_feed",
       "date": "2026-05-23 08:32",
@@ -331,24 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3354614/fatal-subdivided-flat-fire-highlights-need-tackle-substandard-homes-minister?utm_source=rss_feed",
       "date": "2026-05-23 07:06",
       "summary": "A fatal fire at a subdivided flat on Thursday has highlighted the need to eradicate substandard housing in Hong Kong, the housing ..."
-    },
-    {
-      "title": "Law change could require claw machines to display odds and licensee details",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3354609/new-law-could-require-displaying-odds-licensee-info-claw-machines-minister?utm_source=rss_feed",
-      "date": "2026-05-23 05:59",
-      "summary": "Hong Kong authorities will consider requiring claw machine operators to display the odds of winning, while remaining open to incre..."
-    },
-    {
-      "title": "Screams amid ‘drop tower’ turbulence on Cathay Pacific flight from Brisbane, 10 injured",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3354606/10-injured-severe-turbulence-cathay-pacific-flight-brisbane-hong-kong?utm_source=rss_feed",
-      "date": "2026-05-23 04:18",
-      "summary": "Ten passengers and crew members were injured when a Cathay Pacific Airways flight from Brisbane to Hong Kong was hit by severe tur..."
-    },
-    {
-      "title": "How can Hong Kong help mothers of infants reverse falling breastfeeding rate?",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3354583/how-can-hong-kong-help-mothers-infants-reverse-falling-breastfeeding-rate?utm_source=rss_feed",
-      "date": "2026-05-23 04:00",
-      "summary": "For Hongkonger Annyee Chan, the decision to stop breastfeeding her son at eight months was a pragmatic response to a city that oft..."
     }
   ],
   "New Scientist": [
