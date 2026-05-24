@@ -33,18 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
-      "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
-    },
-    {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
-    },
-    {
       "title": "The questions that keep scientists up at night - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
       "date": "2026-04-07 07:00",
@@ -61,6 +49,18 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
+    },
+    {
+      "title": "Plan to rein in inflated grading explained - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
+      "date": "2026-03-26 07:00",
+      "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+    },
+    {
+      "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
+      "date": "2026-02-20 08:00",
+      "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -71,16 +71,16 @@
       "summary": "How Stanford sold its soul to Silicon Valley  The San Francisco Standard..."
     },
     {
-      "title": "‘I think you can inculcate innovation without enabling fraud’ – Stanford student’s remarkable Silicon Valley takedown in How to Rule the World - Irish Independent",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQMDQ1MXQwTVpGSkc3blo3dVh0aXdhYjdzeFNQcm5PbHV2emxxTTV3UGM3MzZzWkQ5TFY5Y3hDWEY4RnJHUGRDaVRKbVR3ODdRc0ViV3d2dTNwZTA0bnJsQVdFR280cDZIRHByNGVVaEFsNXY1ajFINnVyVVdFZlp3TUR1bUZndEFUS25iTWVMUGtwcHdPVnJUUm13X3ZuQjFsTDk3QXJrUDVHbFFCNk1BLU85Z3ZiRXctV2dFUVpkdGdGbFlUM2F0d2pmaEVHQUV5MjlJSV91M2ZqallUNDdoX1BES3pIWjI4d2RRWkkzeVRFNzRYdWVtUTdWQXhvQ2FUVTZWbTgxZmpWVy1BVUJZQTA4RGRmS2tEYlhjMmU4dTVUZGZXajh4LVJZNlpCN1N4clBQY3MwRXNIQQ?oc=5",
-      "date": "2026-05-22 14:30",
-      "summary": "‘I think you can inculcate innovation without enabling fraud’ – Stanford student’s remarkable Silicon Valley takedown in How to Ru..."
-    },
-    {
       "title": "Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files - CBS News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXNJa3h5MmFDaGZrVFJpRGE4QWhvYVZHMWVkMWllMHJFSGtxZnJEVnFseDhYX3hKd1pjWUl2a0xpbzd4aFJrTWRaTFlEbVdINS1zaUR4VjFEcUFNTy1oQnJwek1ibFlOSm13VUlCLXppWWhrZE12NXpRV0x1aFVicGJSb0RJOERvZVFBRGxpVkdqbTE0U2JMUWhLTGphazVGZTg2T0FGNFU1VlpyZ2lZ?oc=5",
       "date": "2026-05-22 20:22",
       "summary": "Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files  CBS News..."
+    },
+    {
+      "title": "‘I think you can inculcate innovation without enabling fraud’ – Stanford student’s remarkable Silicon Valley takedown in How to Rule the World - Irish Independent",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQMDQ1MXQwTVpGSkc3blo3dVh0aXdhYjdzeFNQcm5PbHV2emxxTTV3UGM3MzZzWkQ5TFY5Y3hDWEY4RnJHUGRDaVRKbVR3ODdRc0ViV3d2dTNwZTA0bnJsQVdFR280cDZIRHByNGVVaEFsNXY1ajFINnVyVVdFZlp3TUR1bUZndEFUS25iTWVMUGtwcHdPVnJUUm13X3ZuQjFsTDk3QXJrUDVHbFFCNk1BLU85Z3ZiRXctV2dFUVpkdGdGbFlUM2F0d2pmaEVHQUV5MjlJSV91M2ZqallUNDdoX1BES3pIWjI4d2RRWkkzeVRFNzRYdWVtUTdWQXhvQ2FUVTZWbTgxZmpWVy1BVUJZQTA4RGRmS2tEYlhjMmU4dTVUZGZXajh4LVJZNlpCN1N4clBQY3MwRXNIQQ?oc=5",
+      "date": "2026-05-22 14:30",
+      "summary": "‘I think you can inculcate innovation without enabling fraud’ – Stanford student’s remarkable Silicon Valley takedown in How to Ru..."
     },
     {
       "title": "Annual Academic Council meeting charts positive future amid rapid change - Stanford Report",
@@ -257,6 +257,12 @@
   ],
   "Phys.org": [
     {
+      "title": "Graphene quantum dots show promise in targeting Parkinson's-related protein clumping",
+      "link": "https://phys.org/news/2026-05-graphene-quantum-dots-parkinson-protein.html",
+      "date": "2026-05-24 22:30",
+      "summary": "The buildup of a protein called 𝛂-synuclein (ASN) into toxic clumps is a hallmark of synucleinopathies, a group of neurodegenerati..."
+    },
+    {
       "title": "Fear silences women politicians in public debate, surveys suggest",
       "link": "https://phys.org/news/2026-05-silences-women-politicians-debate-surveys.html",
       "date": "2026-05-24 21:00",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-05-ai-scientists-reveal-fundamental-limits.html",
       "date": "2026-05-24 19:00",
       "summary": "Many of the most exciting discoveries in science involve highly specialized knowledge and making connections between far-flung fac..."
-    },
-    {
-      "title": "Not just a fun hobby: Board games can help build connections and reduce stress",
-      "link": "https://phys.org/news/2026-05-fun-hobby-board-games-stress.html",
-      "date": "2026-05-24 18:00",
-      "summary": "Researchers at the University of Plymouth recently confirmed what board game fans and role-playing game (RPG) enthusiasts have kno..."
     }
   ],
   "The Guardian Edu": [
