@@ -33,18 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
-      "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
-    },
-    {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
-    },
-    {
       "title": "The questions that keep scientists up at night - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
       "date": "2026-04-07 07:00",
@@ -61,6 +49,18 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
       "date": "2026-02-13 08:00",
       "summary": "How academia can help America heal  Harvard Gazette..."
+    },
+    {
+      "title": "Plan to rein in inflated grading explained - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
+      "date": "2026-03-26 07:00",
+      "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+    },
+    {
+      "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
+      "date": "2026-02-20 08:00",
+      "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -89,10 +89,10 @@
       "summary": "UT Undergrads Win the 2026 Stanford Center on Longevity’s Design Challenge  UT Austin News..."
     },
     {
-      "title": "Stanford journalist's new book explores dark side of university's relationship with Silicon Valley - The Almanac",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSXRFbTd6SmRDZ1FJdHJLRFFPMDd3dHNSY2VncW5MQXFoRlFIQXcwSU9SMVlCd3ZISkp2el9WSTVvWlRqZmlGYzQtbHZEaVg0U2ZCMTdDeDhUc2d6ZVR5SzNxcVZfYjgzTHI3bjFPckZ0ajBIR3VCZEdhVVlOY1ByZzBvZjJUSllEenhzMkRfYlNHY0lIR3pleHBVLVlPSHpLcXJKTGx5dUFvaTVFRF9yNVZ3UjMxMmMxUi1HZURRVzVvenJoYXdCMnZIdUNhQlpwNWxDX0xyX1psQnM?oc=5",
-      "date": "2026-05-22 02:50",
-      "summary": "Stanford journalist's new book explores dark side of university's relationship with Silicon Valley  The Almanac..."
+      "title": "Vietnamese health economist with Johns Hopkins, Harvard posts joins Stanford's most-cited list for 7th consecutive year - VnExpress International",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVmstMldDaGhkTWJMcjhaMy1IczB6R1NPbURmdWZqNElzT0hQRjBQTGdFY25IV0JOYUVZMDlCTU1ab05qaXBRYUt5S0w3OUY0ZzF1Vnk3TVBZU1drblNVNDBzOGRrRzRHYXF6c3ZFWU9NYUVxbXZWZkc1NkM4QVFBdU9mNjhxMXlhc1B4UU5SMW9ad0h2MkwxUGpyTGU2TEF6SjhYMHFBcm5DSUwxcW9OdzhPaUtxRDViSFRheFhkdElLZ0duWkk5NUVuS2NhUjRpcnVjNVY3b0tqYWNFaDV5Q2drSHp3VTJPU09maGhzR1p0UHFzSXBtX0JHQ2NibGZ2b3pvZzlR?oc=5",
+      "date": "2026-05-23 03:00",
+      "summary": "Vietnamese health economist with Johns Hopkins, Harvard posts joins Stanford's most-cited list for 7th consecutive year  VnExpress..."
     }
   ],
   "Nature Careers": [
@@ -211,16 +211,16 @@
       "summary": "Exclusive: Starbucks scraps AI inventory tool across North America  Reuters..."
     },
     {
-      "title": "Morning Bid: Brittle bonds and AI boom face off - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlhDaWF2MVZ3OFdKNDVmZFpCR1pHSGV1Z3FlZ0RhYVNzRkxJVE9QM0Jub1NvQzJHVE9JMjhnTXJvY056YnNaWG1RdUVkd2tLT3Z4Rmk4SFBMcThrcTdBNk5NWWRjdHlMdENFeVJnQ0hkYmRHNG1DUUVjbFRoeUZia2V0OVBhYnQtcHFEVG01RnU3SDl2YUZr?oc=5",
-      "date": "2026-05-22 10:45",
-      "summary": "Morning Bid: Brittle bonds and AI boom face off  Reuters..."
+      "title": "Trump postpones AI executive order, cites need to compete with China - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzNjeDgtUzFjMXB6Z1A2MHNKWERwUm9GMXM2SjJSNnNwY2NKMjdIQy1VY25tZkxGOTl3YWlUZ241WGYzR1hVRnc0Y1Zmdm1XbGV6RkpzNDQ5dGZmTno1ZU82NHhXeUl0NWoySmhTUFQ0NkVVMk52cF83Mms4WmQxTkNISFk2a2t1aUJPVFVxZ2tyT3l3ck1sZGo3Y1dZR0lCU1cxb3ZoMkdvNm1lY1pNS3VhRzg1T2QzNHF5LQ?oc=5",
+      "date": "2026-05-21 15:44",
+      "summary": "Trump postpones AI executive order, cites need to compete with China  Reuters..."
     },
     {
-      "title": "Novo Nordisk uses AI to fast-track drug launches, expand India role - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0s1azdmX1MzM1paZUJMNXN5c1pKUmVqeGZreWdBWVByN2VGcXRER0NvQVRSRHdIUWZ3Y3RudzY0blRQRVpabXM1Sk1XWGpTUDVoeEdON0pnNl9kUnU3dmdEem9aUlpuOEJEak5WVGpXdGpZWHlGWlBUalQwQUtlTW42Tm1fX1pWaEhiemN3bnhGcTJSVG0yR09vVTY5bXVyWHM0amRmT1didEo0Z25pMTJudGFsLVk?oc=5",
-      "date": "2026-05-22 13:13",
-      "summary": "Novo Nordisk uses AI to fast-track drug launches, expand India role  Reuters..."
+      "title": "StanChart CEO apologises for 'upset caused' by AI comments - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSl9oS25LSkZrQnVPT0FVZnh6SjRjVkxHV09lLVVQTm9QbnV4UHA3cEJJelZPdTc3U2I0WmRBb1FMeTZrcEtsQW5ZSnp2SGhTMFh5X1pqTTBCSGxyaWM3VmNieFJmOVY2dzBXNUhkWE9BdzhUelNCSzFsbEVWemJpdlg3b2ZUTUl0NnFmQ0RsX25SZVI4ejA0TnhCQXUwTmFGUmZxYU0xOU1uWVVG?oc=5",
+      "date": "2026-05-22 09:21",
+      "summary": "StanChart CEO apologises for 'upset caused' by AI comments  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -249,13 +249,19 @@
       "summary": "Scaling creativity in the age of AI  MIT Technology Review..."
     },
     {
-      "title": "AI chatbots are giving out people’s real phone numbers - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJYU2ZXb2RNSXM4UkhOZzFrNTVEYU50WHlRVlp5T1cyNXFoUXBoNl9XX0ZXTWNsZjAyWTNSRF9YQnJ5UUxCR19HeTFpdGxCNVNiZFQzdHpwVUU2SFVXeHUxd0UwM0ZfeGpwYzZxUEtONHREX0dhLUVydmd2SVdBVVoyOGFhR0Y1akxXdjZ3UENJUF9CMHRzM21EX2RKajRqTmhVRTZGck9kUdIBrwFBVV95cUxNd0pHWnh4aEU3elVyWDBocEtIR2lJMDJONUJoU2kxeV92cEY3dGREVlVCWURuOEdzZVFSNXpVSW15alBveFhpQU5FTXZveFFhc2dJXzZkaGRzUzhoMnhGZldWa3ZJdkRLTE1mZnJLM000UE0tNmJ3bmQwWmZ6djl4UVBfZGZxWmhSMGlqNDYyU0p3cjVxX1ZKV194bGYyME8ybVJLMlhiT2R4Q1FKTmlJ?oc=5",
-      "date": "2026-05-13 07:00",
-      "summary": "AI chatbots are giving out people’s real phone numbers  MIT Technology Review..."
+      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGdXclcyUEQzd0dFQkdfd1N5WVA3MHpUak1xdFhpMTBrTGdsbTBIZUtnVklKTTY4YUpOZ3loc3MyNmYxeXk3NkNvb19pck1DNlZWeGRHb2lEaUl6ZUpwM3REbHh5VnVPRlJVWE10TGd5d0JEZUFXdW9BRWRfVUl3eGZsaUhMM1JWNktHbWN6alBrZmF6aDRBcUxNVHNtVktUTUoxNVNrdVVWUHpXeUhVU19RNXh6M1EwcWVnSVUwc1oyenhSWVc3LTZrd1dkUdIB0wFBVV95cUxOclZ6R21XcEJVS1RWcGFRU1F0V3JDWkJaaUtfVENQUUlQV0VpT0JtY2I5REpQX3BSMUM4MkZ4Rm5RdlFkbmNGMUUxanVWaDdrTlRQTGpYMDd1Q3pEYm1nN3V6SmcydGdVUXllUERYNkdScjRwc2FGLWQtTWl3TnJfQ1dUSkNVSGVlR1pRdDB1a0FSek9ZWnRDajh4VGFkQUJtMEhQWTZTcU5QcnNHTmhKVVB6QXBVNlhkeUh2YXBBeWpPOXd5cFJBZ2xXdjJ0N1BvSzlr?oc=5",
+      "date": "2026-05-21 14:30",
+      "summary": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Indonesia says its giant sea wall will stop flooding. Is this climate adaptation or a costly folly?",
+      "link": "https://phys.org/news/2026-05-indonesia-giant-sea-wall-climate.html",
+      "date": "2026-05-24 00:30",
+      "summary": "Indonesia plans to build a \"giant sea wall,\" more than 500 kilometers long, to defend Java's north coast from rising sea levels...."
+    },
     {
       "title": "Early locust warning systems are key to minimizing natural disasters, returning up to 680 times investment",
       "link": "https://phys.org/news/2026-05-early-locust-key-minimizing-natural.html",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-05-reveal-nuclear-fallout-particles.html",
       "date": "2026-05-23 20:00",
       "summary": "In less than a millionth of a second after a nuclear detonation or a severe nuclear reactor accident, an enormous burst of energy ..."
-    },
-    {
-      "title": "After the flames, wildfires pollute drinking water for years",
-      "link": "https://phys.org/news/2026-05-flames-wildfires-pollute-years.html",
-      "date": "2026-05-23 20:00",
-      "summary": "When people think about wildfires, they usually think about flames, smoke and evacuations. However, for many communities, some of ..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Mainland brands power Hong Kong retail recovery as F&B is joined by fashion and beauty",
+      "link": "https://www.scmp.com/business/article/3354612/mainland-brands-power-hong-kong-retail-recovery-fb-joined-fashion-and-beauty?utm_source=rss_feed",
+      "date": "2026-05-24 03:30",
+      "summary": "Hong Kong is likely to attract more mainland Chinese retail brands, but unlike the previous wave, non food and beverage (F&B) reta..."
+    },
+    {
+      "title": "Is Hong Kong following Beijing’s lead and ousting Western tech?",
+      "link": "https://www.scmp.com/tech/policy/article/3354527/hong-kong-following-beijings-lead-and-ousting-western-tech?utm_source=rss_feed",
+      "date": "2026-05-24 03:00",
+      "summary": "Hong Kong’s technology infrastructure is undergoing a major transformation as local government and businesses replace Western prod..."
+    },
+    {
+      "title": "Hong Kong holds off on annual LGBTQ publicity drive. Is a community being forgotten?",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3354639/hong-kong-holds-annual-lgbtq-publicity-drive-community-being-forgotten?utm_source=rss_feed",
+      "date": "2026-05-24 01:00",
+      "summary": "For the first time in a decade, a Hong Kong government task force did not conduct any publicity campaign covering gender identity ..."
+    },
+    {
       "title": "Hong Kong can turn Hung Shui Kiu into a northwest stronghold",
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3354226/hong-kong-can-turn-hung-shui-kiu-northwest-stronghold?utm_source=rss_feed",
       "date": "2026-05-23 21:30",
@@ -331,24 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3354648/lets-give-it-try-motion-sickness-no-barrier-hong-kongs-first-astronaut?utm_source=rss_feed",
       "date": "2026-05-23 16:04",
       "summary": "Lai Ka-ying suffers from motion sickness, cannot stand hot weather, was not a top student and did not speak Mandarin – all of whic..."
-    },
-    {
-      "title": "Hong Kong’s astronaut to gather data using observatory created by local teams",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3354636/hong-kongs-astronaut-gather-data-using-observatory-created-local-teams?utm_source=rss_feed",
-      "date": "2026-05-23 12:13",
-      "summary": "Hong Kong’s first astronaut will operate a locally developed observatory that monitors key sources of greenhouse gas emissions on ..."
-    },
-    {
-      "title": "Hong Kong’s justice department rejects ‘despicable’ claims targeting prosecutors",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3354630/hong-kongs-justice-department-rejects-despicable-claims-targeting-prosecutors?utm_source=rss_feed",
-      "date": "2026-05-23 10:44",
-      "summary": "Hong Kong’s justice department has rejected online accusations about the newly promoted public prosecutions director and a colleag..."
-    },
-    {
-      "title": "Nearly 10,000 Hongkongers granted permanent UK residence under BN(O) scheme",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3354629/nearly-10000-hongkongers-granted-permanent-uk-residence-under-bno-scheme?utm_source=rss_feed",
-      "date": "2026-05-23 10:40",
-      "summary": "Nearly 10,000 Hongkongers have been granted permanent residence in the UK under a bespoke British immigration pathway launched in ..."
     }
   ],
   "New Scientist": [
