@@ -39,12 +39,6 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
-    },
-    {
       "title": "The questions that keep scientists up at night - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
       "date": "2026-04-07 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
+    },
+    {
+      "title": "Plan to rein in inflated grading explained - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
+      "date": "2026-03-26 07:00",
+      "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -201,20 +201,20 @@
     {
       "title": "StanChart CEO apologises for 'upset caused' by AI comments - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSl9oS25LSkZrQnVPT0FVZnh6SjRjVkxHV09lLVVQTm9QbnV4UHA3cEJJelZPdTc3U2I0WmRBb1FMeTZrcEtsQW5ZSnp2SGhTMFh5X1pqTTBCSGxyaWM3VmNieFJmOVY2dzBXNUhkWE9BdzhUelNCSzFsbEVWemJpdlg3b2ZUTUl0NnFmQ0RsX25SZVI4ejA0TnhCQXUwTmFGUmZxYU0xOU1uWVVG?oc=5",
-      "date": "2026-05-22 09:21",
+      "date": "2026-05-23 07:00",
       "summary": "StanChart CEO apologises for 'upset caused' by AI comments  Reuters..."
+    },
+    {
+      "title": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVBeG83TF9qcjAxRjBDQ3FLR25nNUxtLUFFMmI3S01nSm5obzhLS2FMTDA3MDZTeEpRdGg0TWlCOERydWI4RWlaZVJYRVM4YmN3TVEzRkFBbmtxa2NwWm9OT0xJVjJPQnl3NEZFZzRsOUdGUU13MGNLVFRqTXJZcW93dGk5SGZORExyNjJiX2s3V0tab3Zra21XbGdkaGFiUU9ydFZfaGg?oc=5",
+      "date": "2026-05-21 10:02",
+      "summary": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story  Reuters..."
     },
     {
       "title": "Judge says lawyers' AI use risks ‘career-altering’ consequences - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmM4Y2pQODVaVElTdG9fR3dKR2pKaEw3UDFXOG42aW85c3c5cTVhWC1sTVVIRkxYZGJjMW13WDBKTWJLRWtwNkhQZG1SNl9VcjRJd1VCU3Nhd2Rqd19jMWhXcjdCT280S0hkemQxVk5LLWtQVkVUQUg1RU9YUldnSWtvUkFpRGhPV2ZJX3BQTEk4RUV2U0dIM1YyNmpodGJQVzl5Y2JmTy1NdTA0ZWtiaUtxaw?oc=5",
       "date": "2026-05-22 17:45",
       "summary": "Judge says lawyers' AI use risks ‘career-altering’ consequences  Reuters..."
-    },
-    {
-      "title": "Exclusive: Starbucks scraps AI inventory tool across North America - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkRIYm00Z1V2eGlJRXVkbkhuVU9NcFEzRUoxZXFvbUp2Z0QzQXZZTVh5TTFXUzRZcFZvQXhKV29PblB4MnFSNVN4ejgxbUNzYVJ3Z09YUVMzQVJSMHAzT3REb0tSSUpoOV92S3dRdmlWWk5hTXRRdDBIaWxLcTA5a201SXR3VTZmTlZNdXRRVWtDMC1jVElXcmJ5Mnp3QzVMNEE?oc=5",
-      "date": "2026-05-21 19:32",
-      "summary": "Exclusive: Starbucks scraps AI inventory tool across North America  Reuters..."
     },
     {
       "title": "Trump postpones AI executive order, cites need to compete with China - Reuters",
@@ -231,16 +231,16 @@
       "summary": "What to expect from Google this week  MIT Technology Review..."
     },
     {
-      "title": "Scaling creativity in the age of AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2dUYm5wYkllcHNvdG1QTXZIeWtTbHkxN1lmT0tVMC0xNXk1ekJEcEJOczVVRGpJRnZSLURybHA3SFRJOUxUSEtMZGNuNUJLS3IySFhlRzVGRVZUQi11M2R4MXJxTEN0Z0M0YV9aT0tfRnU3Q1B1RWl0Ul9qU3BRZ1VhX2E2R2w1U0VWdWJiQ3JUZ9IBlwFBVV95cUxQRWl4b3A0Q19uSnM3MVJUX3MyZDlqb2VlcVNSZ2FkRUFTSDliVWhNODNuYTBsUW1aTmJYZHhZbFY3bnRfcWdKb0d2SGhaMDR3VjJOcHhOejRRZVE1TGR6Y3NkLWRId2Z5Tmh4ZzhPcklJMmZnM0ZKa0lxVkNscXU4eURDUGtVOXZUdEdJazNjbjdueEt5aTZF?oc=5",
-      "date": "2026-05-21 19:16",
-      "summary": "Scaling creativity in the age of AI  MIT Technology Review..."
-    },
-    {
       "title": "AI chatbots are giving out people’s real phone numbers - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJYU2ZXb2RNSXM4UkhOZzFrNTVEYU50WHlRVlp5T1cyNXFoUXBoNl9XX0ZXTWNsZjAyWTNSRF9YQnJ5UUxCR19HeTFpdGxCNVNiZFQzdHpwVUU2SFVXeHUxd0UwM0ZfeGpwYzZxUEtONHREX0dhLUVydmd2SVdBVVoyOGFhR0Y1akxXdjZ3UENJUF9CMHRzM21EX2RKajRqTmhVRTZGck9kUdIBrwFBVV95cUxNd0pHWnh4aEU3elVyWDBocEtIR2lJMDJONUJoU2kxeV92cEY3dGREVlVCWURuOEdzZVFSNXpVSW15alBveFhpQU5FTXZveFFhc2dJXzZkaGRzUzhoMnhGZldWa3ZJdkRLTE1mZnJLM000UE0tNmJ3bmQwWmZ6djl4UVBfZGZxWmhSMGlqNDYyU0p3cjVxX1ZKV194bGYyME8ybVJLMlhiT2R4Q1FKTmlJ?oc=5",
       "date": "2026-05-13 07:00",
       "summary": "AI chatbots are giving out people’s real phone numbers  MIT Technology Review..."
+    },
+    {
+      "title": "Scaling creativity in the age of AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2dUYm5wYkllcHNvdG1QTXZIeWtTbHkxN1lmT0tVMC0xNXk1ekJEcEJOczVVRGpJRnZSLURybHA3SFRJOUxUSEtMZGNuNUJLS3IySFhlRzVGRVZUQi11M2R4MXJxTEN0Z0M0YV9aT0tfRnU3Q1B1RWl0Ul9qU3BRZ1VhX2E2R2w1U0VWdWJiQ3JUZ9IBlwFBVV95cUxQRWl4b3A0Q19uSnM3MVJUX3MyZDlqb2VlcVNSZ2FkRUFTSDliVWhNODNuYTBsUW1aTmJYZHhZbFY3bnRfcWdKb0d2SGhaMDR3VjJOcHhOejRRZVE1TGR6Y3NkLWRId2Z5Tmh4ZzhPcklJMmZnM0ZKa0lxVkNscXU4eURDUGtVOXZUdEdJazNjbjdueEt5aTZF?oc=5",
+      "date": "2026-05-21 19:16",
+      "summary": "Scaling creativity in the age of AI  MIT Technology Review..."
     },
     {
       "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare - MIT Technology Review",
@@ -257,6 +257,24 @@
   ],
   "Phys.org": [
     {
+      "title": "Not just a fun hobby: Board games can help build connections and reduce stress",
+      "link": "https://phys.org/news/2026-05-fun-hobby-board-games-stress.html",
+      "date": "2026-05-24 18:00",
+      "summary": "Researchers at the University of Plymouth recently confirmed what board game fans and role-playing game (RPG) enthusiasts have kno..."
+    },
+    {
+      "title": "Gold-coated optical fiber rapidly gathers microscopic targets for faster, more sensitive detection",
+      "link": "https://phys.org/news/2026-05-gold-coated-optical-fiber-rapidly.html",
+      "date": "2026-05-24 17:00",
+      "summary": "Osaka Metropolitan University researchers have developed a light-driven technique that quickly amasses thousands of bacteria into ..."
+    },
+    {
+      "title": "Study shows how sunspot activity speeds up reentries",
+      "link": "https://phys.org/news/2026-05-sunspot-reentries.html",
+      "date": "2026-05-24 17:00",
+      "summary": "It's getting crowded up there. Over the past few years, the advent of SpaceX's Starlink and other players in the mega-satellite co..."
+    },
+    {
       "title": "Mathematicians solve decades-old mystery about the hidden order in high-dimensional randomness",
       "link": "https://phys.org/news/2026-05-mathematicians-decades-mystery-hidden-high.html",
       "date": "2026-05-24 16:20",
@@ -267,27 +285,15 @@
       "link": "https://phys.org/news/2026-05-impact-microplastics-ocean-carbon-uptake.html",
       "date": "2026-05-24 16:00",
       "summary": "Marine microplastics affect algae's ability to grow and photosynthesize. Researchers have now calculated what impact this has on t..."
-    },
-    {
-      "title": "Hydrous mantle minerals reveal possible source of seismic anisotropy in stagnant slabs",
-      "link": "https://phys.org/news/2026-05-hydrous-mantle-minerals-reveal-source.html",
-      "date": "2026-05-24 14:30",
-      "summary": "Seismic waves traveling through Earth's interior often propagate at different speeds depending on their direction, a phenomenon kn..."
-    },
-    {
-      "title": "Hotels strive to be found as AI models conduct travel search",
-      "link": "https://phys.org/news/2026-05-hotels-ai.html",
-      "date": "2026-05-24 14:00",
-      "summary": "With people increasingly adopting AI to help plan their vacations, hotels are working to make sure that you check them out—and che..."
-    },
-    {
-      "title": "'Patchwork families' existed more than 5,000 years ago, Neolithic DNA reveals",
-      "link": "https://phys.org/news/2026-05-patchwork-families-years-neolithic-dna.html",
-      "date": "2026-05-24 14:00",
-      "summary": "Children from previous relationships growing up as siblings in a new family, couples adopting or fostering children: So-called pat..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Bridget Phillipson orders review of hidden childcare charges hitting parents",
+      "link": "https://www.theguardian.com/education/2026/may/24/bridget-phillipson-orders-review-hidden-childcare-charges",
+      "date": "2026-05-24 17:31",
+      "summary": "Education secretary asks UK watchdog to look into nursery practices, including non-refundable depositsBridget Phillipson, the educ..."
+    },
     {
       "title": "Pioneering study aims to find out how repeated blows to head in women’s rugby affects brain",
       "link": "https://www.theguardian.com/education/2026/may/24/pioneering-study-aims-to-find-out-how-repeated-blows-to-head-in-womens-rugby-affects-brain",
@@ -311,20 +317,14 @@
       "link": "https://www.theguardian.com/technology/2026/may/21/meta-social-media-addiction-kentucky-schools",
       "date": "2026-05-21 21:43",
       "summary": "Kentucky is one of about 1,200 school districts across the US that have each sued Meta, TikTok, Snap and YouTubeMeta agreed to set..."
-    },
-    {
-      "title": "‘It’s put the joy levels up’: the flood-prone London school with a climate-adapted playground",
-      "link": "https://www.theguardian.com/environment/2026/may/21/flood-prone-london-school-climate-adapted-playground",
-      "date": "2026-05-21 14:00",
-      "summary": "When pupils could no longer play outside, St John’s school in Barnet decided to act, enlisting Trees for Cities to help rethink it..."
     }
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Hongkongers praise astronaut Lai Ka-ying at send-off ceremony in Jiuquan",
+      "title": "Cheers as Hong Kong’s first astronaut lifts off on historic mission",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3354696/hongkongers-praise-astronaut-lai-ka-ying-send-ceremony-jiuquan?utm_source=rss_feed",
       "date": "2026-05-24 15:08",
-      "summary": "Hongkongers who gathered to witness the historic launch of the Shenzhou-23 mission hailed the city’s first astronaut, Lai Ka-ying,..."
+      "summary": "An electric atmosphere swept from the edge of the Gobi Desert all the way back to Hong Kong on Sunday night, as thrilled residents..."
     },
     {
       "title": "Hong Kong police investigate suspected cat mutilation and poisoning",
