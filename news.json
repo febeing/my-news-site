@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Brighter MRI signals",
+      "link": "https://news.mit.edu/2026/brighter-mri-signals-0527",
+      "date": "2026-05-27 20:40",
+      "summary": "New MRI sensors developed at MIT sensitively detect target molecules in the brain and body...."
+    },
+    {
       "title": "MIT students study plasma physics beneath Alaska’s aurora",
       "link": "https://news.mit.edu/2026/mit-students-study-plasma-physics-beneath-alaska-aurora-0522",
       "date": "2026-05-22 13:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521",
       "date": "2026-05-21 04:00",
       "summary": "A new study of the postwar U.S. shows which kinds of workers historically filled new tech-enabled jobs...."
-    },
-    {
-      "title": "Four from MIT named 2026 Searle Scholars",
-      "link": "https://news.mit.edu/2026/four-from-mit-named-searle-scholars-0520",
-      "date": "2026-05-20 20:00",
-      "summary": "Computational neuroscientist Sven Dorkenwald and cell biologist Whitney Henry, along with two MIT alumni, are recognized for their..."
     }
   ],
   "Harvard Gazette": [
@@ -39,10 +39,10 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+      "title": "The questions that keep scientists up at night - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
+      "date": "2026-04-07 07:00",
+      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
     },
     {
       "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
@@ -51,16 +51,16 @@
       "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
     },
     {
-      "title": "The questions that keep scientists up at night - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
-      "date": "2026-04-07 07:00",
-      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
-    },
-    {
       "title": "Plan to rein in inflated grading explained - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
       "date": "2026-03-26 07:00",
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+    },
+    {
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
+      "date": "2025-10-23 07:00",
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -69,6 +69,12 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcjBBa2xsWXowTF9UT3lzUEVORG9rbWVPZE53QWtfdlFwMW9jejY5b2RPRnBPVll5S1l5MGhEdVM1a0ZXSkR6NnpXM2YyOGdOX0c5d3pZRHhISWxKMExkNERnY1NZTDBkdUFxdzdfOV9QNHFrTVgzTXNONUo0VnU4MUtYYmNQUUhBQ0lmM1BYcFRoVlRHaU5wTFNnWlVNbkh4VFlRR1N6YlpfWXdXNUw0SS03NlcxSXhlSFlfcFNzQmdrUkVsa3M5NGhTN1Qwam1acVRnSS1TWmpsaDNKbWc?oc=5",
       "date": "2026-05-26 15:11",
       "summary": "Stanford student government outraged after university makes mandatory 'Beyond Sex Ed' consent program optional  Campus Reform..."
+    },
+    {
+      "title": "Stanford Was Once a Cradle of Innovation. What It’s Turned Into Is Something Else Entirely. - Slate",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNWdwX3NROThMRU5hckFyMHNCUlBFU3ExZXpsdGtoQ2ZjeVE4SnMxX1oxT2hZb24yMWkycm1FUHh6Qmt3dzBVTmlBVm9vbXRRSmFIY3dBTXg1WFM3aHB3U3lBXzhuMWVfVzY5bG5BVDBRamR4WTBWamhDcTNGZDYtQW1lV0ZocWwzbjRsUzRXZHV6dndCdWNqMFFVVkx1RmptWWZNLTVOMXBXWmdiU21TUjVsZW5oeVRUaXpPakxhQkZ2a3J2cnJQRDdyUDcyQVNqam9YVW10OA?oc=5",
+      "date": "2026-05-27 19:41",
+      "summary": "Stanford Was Once a Cradle of Innovation. What It’s Turned Into Is Something Else Entirely.  Slate..."
     },
     {
       "title": "Transformative gift advances biomedical ethics at Stanford Medicine - Stanford Medicine",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0taZVJGbGZseXM2S3NzeGZ4aXNRT3Z5Z2VNTFNNSWk2SVpXd0lQblBIRS1GSkh5ZFBZd3l4MC05VmxhLTZNT2ZBS0dUcS1maG1sRmdkdzgxZ1pXTmprLS0wcGwtY1J1LWQzMXE4azRDYTROOU54bWhLQnZnRDJBSnpicjZVZHk5RmFjaDBR?oc=5",
       "date": "2026-05-27 08:09",
       "summary": "“The most commercialized university in the world”: Theo Baker '26 criticizes campus culture in talk on book debut  The Stanford Da..."
-    },
-    {
-      "title": "Disagree with Your Professor! - National Review",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tclhTdDREQkZnNTBOMzJtUEhfVWVwSTdSdHQwTU44ZDYxdmVnY2VJenRmd3JUaEpUbDNJSkcxMk91S2xoYWRCck5GNmZ0bkE4bWVwU3VHWV9pQ0JEa0NRQ2dEUk9vWVlsYi14TGlhY3Q0STFLN1HSAXtBVV95cUxPU3dNVzZBQWs4MFVfaW03enZGSFc1MFM2ajdlajczQlNJVHhZOV9neDQ2REdWd2FmYmI1c1pRQXZkanJOWUhjTUVrVVlxcUtDNm1fQk5WNmJCbVNsWDBDcEdYY2Fnb0NUSjJWNnd3WjRpamc1T3BqWl9OUDg?oc=5",
-      "date": "2026-05-26 23:43",
-      "summary": "Disagree with Your Professor!  National Review..."
     }
   ],
   "Nature Careers": [
@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "Some spinosaurs cried salty tears to thrive in brackish waters",
+      "link": "https://www.science.org/content/article/some-spinosaurs-cried-salty-tears-thrive-brackish-waters",
+      "date": "2026-05-27 04:38",
+      "summary": "Fossil evidence suggests some predatory dinosaurs could expel salt from their bloodstream like modern birds and crocodiles do..."
+    },
+    {
       "title": "Surveys capture the pulsing of mantle plumes—a potential cause of mass extinctions",
       "link": "https://www.science.org/content/article/surveys-capture-pulsing-mantle-plumes-potential-cause-mass-extinctions",
       "date": "2026-05-27 12:40",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/outdoor-lights-may-be-making-mosquito-season-longer",
       "date": "2026-05-26 04:25",
       "summary": "Artificial light at night delays winter “shutdown” of mosquitoes carrying disease..."
-    },
-    {
-      "title": "Can fast, nimble clinical trials deliver a drug for the new Ebola outbreak?",
-      "link": "https://www.science.org/content/article/can-fast-nimble-clinical-trials-deliver-drug-halt-new-ebola-outbreak",
-      "date": "2026-05-26 03:50",
-      "summary": "Past outbreaks spawned clever strategies for testing antivirals and antibodies, but researchers will still face major challenges o..."
     }
   ],
   "Retraction Watch": [
@@ -199,6 +199,18 @@
       "summary": "Investors hunt for AI winners in small-cap US tech stocks  Reuters..."
     },
     {
+      "title": "Snowflake raises annual product revenue forecast, strikes $6 billion AWS deal - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjJkazBmd0FfVzM5THdEZEo5U3JWLTRvM3E2UWdMTzBxVVp6bVp4MEUzdUN1Mk1wOUZEQ2lEbXZnVnpVTWMtRlpHWmRjRFFMV3JmdXNBLXhyUTZscFR0VFNJYXI5dmN4X2JEUUZ1c2ZNMWFnZ1EwNjFKM0UxRmROZXozVXF0dFV6bWx2clFJR3VnVm9NMEw2RVgzZzZyR3BjX2tKdW1teDcyQjQ3VmFCUU5pUmJEZ2c?oc=5",
+      "date": "2026-05-27 20:31",
+      "summary": "Snowflake raises annual product revenue forecast, strikes $6 billion AWS deal  Reuters..."
+    },
+    {
+      "title": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkxPWWY5YlBZTlZrLVRySEdkV3dXUDNrNjJwOVBPbHVsUXNOWTNOenVnSjRVNTBGal84QXkycF9FeUVReTFGWENWYVVvNzhIcEdhM19WU1J3YkFMNlhfbzNUX2xSSGw1SWhhY21wclFzQ0NyMW1CMzFmQkRza0ZPX18xMHRzMG95TlVOUmRfLU12MmhzNDVzNTN2OW5KZ2xNaDhtT0VRTjY0WjJ0UGprQ0dzTlljVHJM?oc=5",
+      "date": "2026-05-27 15:07",
+      "summary": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption  Reuters..."
+    },
+    {
       "title": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse' - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVNETTY1N294NHRGb08waFRWLWVJOG1VVkdUZkpLSXBuNlUxMUxRX3BfVmt3WFNEWThfM2VSYnJSblRTdUVHNU9JM0tjcjQtWjREYmR4RFJxalhQMTAyZ010QVYzZ0JTRjRBcjdhQ3RpcUxWeEFLS2JDN2tNdEZsazdvTmR4RE9yQXZmX25zQndHTmxOTU1IM1ZYSnFZcEVYQ1ExTVJqckZGZ2M?oc=5",
       "date": "2026-05-26 14:20",
@@ -209,18 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTUFlcWNqNXljc292cXA0bjd4UlNxTEhHZ3FnNjZZemdxV2wyN1hWVFpvbHFYODktMjBZcHZ2ME85S0xLUHRWZld0ZE5ELWhhb2tYUmVJSWYyRVhtb0E4M0lCZGZTd0paUnpab2k3UnlmaC1CNFlOUksxVmFybzFBSWRUWjZNNF9JZ25sbzVXeEV3U3JUNktLUWlPeGdOZEhmSTZVdUFIY3lRWHdYeWc?oc=5",
       "date": "2026-05-27 12:44",
       "summary": "Robinhood opens platform to AI agents for trading, credit card purchases  Reuters..."
-    },
-    {
-      "title": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkxPWWY5YlBZTlZrLVRySEdkV3dXUDNrNjJwOVBPbHVsUXNOWTNOenVnSjRVNTBGal84QXkycF9FeUVReTFGWENWYVVvNzhIcEdhM19WU1J3YkFMNlhfbzNUX2xSSGw1SWhhY21wclFzQ0NyMW1CMzFmQkRza0ZPX18xMHRzMG95TlVOUmRfLU12MmhzNDVzNTN2OW5KZ2xNaDhtT0VRTjY0WjJ0UGprQ0dzTlljVHJM?oc=5",
-      "date": "2026-05-27 15:07",
-      "summary": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption  Reuters..."
-    },
-    {
-      "title": "With AI manifesto, Leo joins pantheon of popes who urged world to change - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX1dPMlpTM1h1V1paY3pubzlaeHFQWWFzRFVRX1Z6QlMzaHFhUVZ2ZzdKQU1HOW8xclJDeV9iQ24xOUpCUXNzbFB4X3piXzdiMS1MaGF2WmppNjQ5N3NJT3pSYWNxQXVubTBZcFNJYWVsNnV3US11cHlocGlpVC11TFRmYWxfSnE1STFMajB5aDRnWFlpUFprMFh2NVV2QkRESkQ2ZEplYWhsUGFMWjdZaldBU2N1Y1YxRXcyY2hGdWl1QQ?oc=5",
-      "date": "2026-05-25 15:02",
-      "summary": "With AI manifesto, Leo joins pantheon of popes who urged world to change  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "New biosynthesis platform could enable bioactive compounds to be labeled, targeted and released on demand",
-      "link": "https://phys.org/news/2026-05-biosynthesis-platform-enable-bioactive-compounds.html",
-      "date": "2026-05-27 19:20",
-      "summary": "Many medically important drugs originate from natural sources. Microorganisms produce these compounds using highly sophisticated a..."
+      "title": "Metamaterials enable control of heat transfer at nanoscale, potentially transforming energy and electronics",
+      "link": "https://phys.org/news/2026-05-metamaterials-enable-nanoscale-potentially-energy.html",
+      "date": "2026-05-27 21:40",
+      "summary": "Heat behaves in predictable ways: a hot cup of coffee cools, a laptop warms your hands, the sun heats Earth. But at scales thousan..."
     },
     {
-      "title": "Q&A: How researchers are building next-gen quantum computers",
-      "link": "https://phys.org/news/2026-05-qa-gen-quantum.html",
-      "date": "2026-05-27 19:20",
-      "summary": "Quantum computers have the potential to transform science, accelerating breakthroughs in drug development, cosmology, materials sc..."
+      "title": "Where are all the intermediate mass black holes? Microlensing fast radio bursts might reveal them",
+      "link": "https://phys.org/news/2026-05-intermediate-mass-black-holes-microlensing.html",
+      "date": "2026-05-27 21:40",
+      "summary": "Astrophysicists think that black hole masses are hierarchical. The largest are supermassive black holes (SMBH) like the one at the..."
     },
     {
-      "title": "Gutweed successfully grown in full life cycle within brackish conditions in Baltic Sea",
-      "link": "https://phys.org/news/2026-05-gutweed-successfully-grown-full-life.html",
-      "date": "2026-05-27 19:00",
-      "summary": "Gutweed could become a future crop in the Baltic Sea. This is shown in a new study from the University of Gothenburg, where resear..."
+      "title": "Are the chemicals around you safe? Researchers are using AI to find out",
+      "link": "https://phys.org/news/2026-05-chemicals-safe-ai.html",
+      "date": "2026-05-27 21:20",
+      "summary": "People are exposed to thousands of chemicals every day—through the products they use, the food they eat and the environments they ..."
     },
     {
-      "title": "A giant warm wave is crossing the Pacific, signaling an El Niño that could alter weather worldwide this year",
-      "link": "https://phys.org/news/2026-05-giant-pacific-el-nio-weather.html",
-      "date": "2026-05-27 19:00",
-      "summary": "Waves of higher, warmer water move eastward across the Pacific Ocean a few months before an El Niño emerges. Several have shown up..."
+      "title": "Early childhood educators change how they speak to toddlers depending on gender, finds study",
+      "link": "https://phys.org/news/2026-05-early-childhood-toddlers-gender.html",
+      "date": "2026-05-27 21:20",
+      "summary": "Early childhood educators speak differently to boys compared to girls in toddler classrooms, University of Queensland research has..."
     },
     {
-      "title": "Trust and patience link to higher happiness across 76 countries",
-      "link": "https://phys.org/news/2026-05-patience-link-higher-happiness-countries.html",
-      "date": "2026-05-27 18:40",
-      "summary": "A study covering 76 countries has found that people who are more trusting, patient, altruistic and cooperative tend to report high..."
+      "title": "Analysis of more than 10,000 cities reveals hidden details governments can use to better support their people",
+      "link": "https://phys.org/news/2026-05-analysis-cities-reveals-hidden-people.html",
+      "date": "2026-05-27 21:10",
+      "summary": "The world's urban population increased by 785 million people between 2000 and 2020, but that tells only part of the story. Now, a ..."
     }
   ],
   "The Guardian Edu": [
