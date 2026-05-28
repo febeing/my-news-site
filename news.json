@@ -1,6 +1,24 @@
 {
   "MIT News": [
     {
+      "title": "MIT researchers develop a low-cost technique to get lithium out of rocks",
+      "link": "https://news.mit.edu/2026/mit-researchers-develop-low-cost-technique-lithium-from-rocks-0528",
+      "date": "2026-05-28 18:00",
+      "summary": "The low-temperature process could unlock cleaner lithium from America’s abundant hard rock while minimizing waste...."
+    },
+    {
+      "title": "A new sensor could enable earlier detection of bladder cancer",
+      "link": "https://news.mit.edu/2026/new-sensor-could-enable-earlier-detection-bladder-cancer-0528",
+      "date": "2026-05-28 16:00",
+      "summary": "Using a catheter coated with carbon nanotubes, researchers can detect biomarkers produced by cancer cells in the bladder...."
+    },
+    {
+      "title": "Media Advisory: MIT to establish regional quantum hub",
+      "link": "https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub",
+      "date": "2026-05-28 16:00",
+      "summary": "With $25 million investment from the Commonwealth of Massachusetts, MIT to build a new shared-use facility to serve as a statewide..."
+    },
+    {
       "title": "Brighter MRI signals",
       "link": "https://news.mit.edu/2026/brighter-mri-signals-0527",
       "date": "2026-05-27 20:40",
@@ -11,24 +29,6 @@
       "link": "https://news.mit.edu/2026/mit-students-study-plasma-physics-beneath-alaska-aurora-0522",
       "date": "2026-05-22 13:00",
       "summary": "Student-led expeditions use distributed instruments to observe auroral structures and probe space plasma in real-world conditions...."
-    },
-    {
-      "title": "The rules neurons follow to make sense of what we see",
-      "link": "https://news.mit.edu/2026/rules-neurons-follow-to-make-sense-of-what-we-see-0521",
-      "date": "2026-05-21 20:50",
-      "summary": "Brain cells take in many signals through thousands of circuit connections. A new study discerns the rules that turn inputs into a ..."
-    },
-    {
-      "title": "Some democracies are struggling to ensure safe drinking water",
-      "link": "https://news.mit.edu/2026/some-democracies-struggle-to-ensure-safe-drinking-water-0521",
-      "date": "2026-05-21 17:30",
-      "summary": "Countries with developing economies provide at least some public water, but safety may lag because it’s less visible, researchers ..."
-    },
-    {
-      "title": "Technology usually creates jobs for young, skilled workers. Will AI do the same?",
-      "link": "https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521",
-      "date": "2026-05-21 04:00",
-      "summary": "A new study of the postwar U.S. shows which kinds of workers historically filled new tech-enabled jobs...."
     }
   ],
   "Harvard Gazette": [
@@ -37,6 +37,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+    },
+    {
+      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     },
     {
       "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
       "date": "2026-03-26 07:00",
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
-    },
-    {
-      "title": "How academia can help America heal - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
-      "date": "2026-02-13 08:00",
-      "summary": "How academia can help America heal  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -77,16 +77,16 @@
       "summary": "Stanford student government outraged after university makes mandatory 'Beyond Sex Ed' consent program optional  Campus Reform..."
     },
     {
-      "title": "Transformative gift advances biomedical ethics at Stanford Medicine - Stanford Medicine",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0waVZ2V3pRLVZrbFZ4Mm9vS3lnNzdUd1JoUWhDU1RjSHJrMkVoZFotVF9WYWZ6Ti1hT2hSc0Z6cEdoNnh3UklSeWtJdUJaaGJCaS1PY3BrRm1FNU9SRGR3aWNISVVsOFJQMS05a25ONmZmWXc?oc=5",
-      "date": "2026-05-26 16:03",
-      "summary": "Transformative gift advances biomedical ethics at Stanford Medicine  Stanford Medicine..."
-    },
-    {
       "title": "How Stanford patients help expose ‘fault lines’ in health AI adoption - statnews.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNFJDb3BkVGdqZzUzV2xCemVEdGRHdlE5NWpmZE5UQkNtbVRKZEpKQ0FCWTFLUlA4WURHbGhsVFhrZjNmeVkxUGJkVEtJM0Iwb3Z5TlJCT3BqY3hKbGlWSEl6NmpmTzNzNnpkaHY5NHJSaXlXVV9XNXpHOExsdDlrWEd5aDkzX2E1TXVLTU1OOENueXA2T3hiR0sydw?oc=5",
       "date": "2026-05-27 08:31",
       "summary": "How Stanford patients help expose ‘fault lines’ in health AI adoption  statnews.com..."
+    },
+    {
+      "title": "One New Thing: Stanford’s AI Tutor CoPilot Proves Tech Can Enhance Human Teaching - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb29HdlYtWU5oRHdCM0RiQ3c5YWkzOXd1N1FUOWhFVUdwR25wa2VvOGhKckhlTGdnNjVUazRNY3RGQnZBbHQ4MkdjWl9PMGs5VXVvalF5TThtVFBKZzRIU0M4dVpicmFIcXdfSThHRGFlTVJLeVJtX3FMSHp5alU5T0RrRmNTb3Bud3k3RU4wTEpUQW12UWlMLVhjeGk4Y0NNRGNkTmNDMA?oc=5",
+      "date": "2026-05-28 18:11",
+      "summary": "One New Thing: Stanford’s AI Tutor CoPilot Proves Tech Can Enhance Human Teaching  U.S. News & World Report..."
     },
     {
       "title": "Stanford to proctor exams for first time in 105 years as cheating nearly triples - VnExpress International",
@@ -96,6 +96,12 @@
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Share the highs and lows of your career in science: take <i>Nature</i>’s global survey",
+      "link": "https://www.nature.com/articles/d41586-026-01589-3",
+      "date": "2026-05-28 00:00",
+      "summary": "Nature, Published online: 28 May 2026; doi:10.1038/d41586-026-01589-3Science and society are undergoing rapid change. Nature wants..."
+    },
     {
       "title": "Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models",
       "link": "https://www.nature.com/articles/s41586-026-10700-7",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10450-6",
       "date": "2026-05-27 00:00",
       "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10450-6Bohmian mechanics remains unchallenged by tunnelling experime..."
-    },
-    {
-      "title": "β-Arrestin condensates regulate G-protein-coupled receptor function",
-      "link": "https://www.nature.com/articles/s41586-026-10539-y",
-      "date": "2026-05-27 00:00",
-      "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10539-yβ-Arrestins, multifunctional adaptor proteins that regulate G..."
     }
   ],
   "Retraction Watch": [
@@ -161,10 +161,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkxPWWY5YlBZTlZrLVRySEdkV3dXUDNrNjJwOVBPbHVsUXNOWTNOenVnSjRVNTBGal84QXkycF9FeUVReTFGWENWYVVvNzhIcEdhM19WU1J3YkFMNlhfbzNUX2xSSGw1SWhhY21wclFzQ0NyMW1CMzFmQkRza0ZPX18xMHRzMG95TlVOUmRfLU12MmhzNDVzNTN2OW5KZ2xNaDhtT0VRTjY0WjJ0UGprQ0dzTlljVHJM?oc=5",
-      "date": "2026-05-27 15:07",
-      "summary": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption  Reuters..."
+      "title": "Snowflake boosts forecast, signs $6 billion AWS deal as enterprise AI adoption grows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjJkazBmd0FfVzM5THdEZEo5U3JWLTRvM3E2UWdMTzBxVVp6bVp4MEUzdUN1Mk1wOUZEQ2lEbXZnVnpVTWMtRlpHWmRjRFFMV3JmdXNBLXhyUTZscFR0VFNJYXI5dmN4X2JEUUZ1c2ZNMWFnZ1EwNjFKM0UxRmROZXozVXF0dFV6bWx2clFJR3VnVm9NMEw2RVgzZzZyR3BjX2tKdW1teDcyQjQ3VmFCUU5pUmJEZ2c?oc=5",
+      "date": "2026-05-27 22:23",
+      "summary": "Snowflake boosts forecast, signs $6 billion AWS deal as enterprise AI adoption grows  Reuters..."
     },
     {
       "title": "Global firms use AI at Indian hubs to bring more ad work in-house - Reuters",
@@ -179,10 +179,10 @@
       "summary": "Exclusive: China works on AI token futures market, sources say, in race with US  Reuters..."
     },
     {
-      "title": "Snowflake signs $6 billion deal with AWS tied to AI infrastructure - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaUg2YTdLWWllSEZpejJGaXJSZTdTOG9sR2lLcGVtT0Y0NkUydWtnaEl6ZTdqZXJNQmxoWExfTEswbUxycXNsNy1BWHFTVXd1SmtKTUl3akRzU3hCNndqV3ZMd0dEank2czhzeWdQaXNVSWwxRjBDUlNhNHBLU0VmRVItajdhZUFjWEFYNm1ZSGEweXRKbGVSOEZjMjZaUnpZYU9SSDc1UjNTNTBGLUJGZU1VOXBranpYbE45enltOWc?oc=5",
-      "date": "2026-05-27 20:17",
-      "summary": "Snowflake signs $6 billion deal with AWS tied to AI infrastructure  Reuters..."
+      "title": "Microsoft to release new coding model next week, the Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkl5RWJpbU1EMWV2ZkU5S1FKVWNWeG8tcmFBMUlLWWhuUUM1bmtVUlVTdnlmRDdFNmtaVVp2TUo1dFJrelVpRDhZa1p6Vi1KTDJQWmdSTnFuU1l4b2xrdS02dWx0YlBUQzd4NE1lMTZUckJhVGR2ZUY0TkZPdWhUSlVDQzA4WDAyV1B2Y3RWZzNjX0NtUGpRdm8yRWNXUmFQQjFPYVNkU3FfSVEyNnc?oc=5",
+      "date": "2026-05-28 16:05",
+      "summary": "Microsoft to release new coding model next week, the Information reports  Reuters..."
     },
     {
       "title": "Exclusive: ByteDance developing custom CPU chips to support AI rollout, sources say - Reuters",
@@ -199,16 +199,16 @@
       "summary": "Climate tech companies are going public. What’s next?  MIT Technology Review..."
     },
     {
-      "title": "The AI Hype Index: AI gets booed in graduation season - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlNhOE5Fd3pIcGtvQjk0TmFqdW5Sd2tMSkpoUjlyLVV5YUExdFFEdzhTbmhremZzemVwdjZmVC1NSmVIUkU2eDNabklYNFZBa0hRcm9uZ1NlalVKSlE2TEtqR3RLdzJibUx1ZlVFNW05S0VSQXFaeFI3ODlCdXhSSklBY3liT1FGTEtuLVVHY0dudVl0dmlRUHhBM2NXRHN3VVpLN1BWNVQ?oc=5",
-      "date": "2026-05-28 09:51",
-      "summary": "The AI Hype Index: AI gets booed in graduation season  MIT Technology Review..."
-    },
-    {
       "title": "It’s time to address the looming crisis in entry-level work. - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXdpNU5ubngyMmhJSXZIcndFQ1F3Y3F5VG50dkduSFZ2THhQR3N0Q3VFalZlaEUxZlVIdDQ1ZmxTUm15RmNrMDlDVVdwUUxXdEVaV09xWjhyN3UyMjB3ekR5eVRucGV3aFpxVjREcTM2TGdHZXVwYzdsOWFwbFJ1cjJ4WE9mVjBOVXVkS01DbFc4SGRwT2RZNmxHT3R6RDU5eHpkN09idjF1OWNLQXd5c9IBtgFBVV95cUxOd2dVUzh5bHJsVFVJYmNwMzZyM3pmUDVWS290Q2FvSGV6U3duNWF2SnVtR1ZraVNJSGZNcURyZXdJT3hMUXNXcEVfTTZ4WWdvQjhyWlVFWUprbzgwYmtNSHZLRjE5bmp6dlJWanpBNFp1bWpaWkt3aVJlSFFRdXM3ekh5YmRLdm1QcHRiZkNWTDJ2VWxDSHFEbXY2MXVXZUNkQjRGcTJ1aXhQejZfOVl0QXV5dHdmQQ?oc=5",
       "date": "2026-05-26 09:00",
       "summary": "It’s time to address the looming crisis in entry-level work.  MIT Technology Review..."
+    },
+    {
+      "title": "The AI Hype Index: AI gets booed in graduation season - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlNhOE5Fd3pIcGtvQjk0TmFqdW5Sd2tMSkpoUjlyLVV5YUExdFFEdzhTbmhremZzemVwdjZmVC1NSmVIUkU2eDNabklYNFZBa0hRcm9uZ1NlalVKSlE2TEtqR3RLdzJibUx1ZlVFNW05S0VSQXFaeFI3ODlCdXhSSklBY3liT1FGTEtuLVVHY0dudVl0dmlRUHhBM2NXRHN3VVpLN1BWNVQ?oc=5",
+      "date": "2026-05-28 09:51",
+      "summary": "The AI Hype Index: AI gets booed in graduation season  MIT Technology Review..."
     },
     {
       "title": "A reality check on the AI jobs hysteria - MIT Technology Review",
@@ -225,37 +225,49 @@
   ],
   "Phys.org": [
     {
-      "title": "Introduced wild pigs linked to fewer invasive plants, while native deer show the opposite pattern",
-      "link": "https://phys.org/news/2026-05-wild-pigs-linked-invasive-native.html",
-      "date": "2026-05-28 15:40",
-      "summary": "Wild pigs are generally considered among the world's most problematic invasive mammals. But a major new study from Aarhus Universi..."
+      "title": "Electrical pulses reverse aging in sea squirts, offering clues for extending human longevity",
+      "link": "https://phys.org/news/2026-05-electrical-pulses-reverse-aging-sea.html",
+      "date": "2026-05-28 18:20",
+      "summary": "A tiny sea creature might hold the secret to reversing the aging process. When treated with a brief series of electrical pulses, s..."
     },
     {
-      "title": "Study finds soils can naturally suppress major crop diseases",
-      "link": "https://phys.org/news/2026-05-soils-naturally-suppress-major-crop.html",
-      "date": "2026-05-28 15:40",
-      "summary": "Curtin University researchers have discovered some agricultural soils can naturally suppress one of Australia's most damaging broa..."
+      "title": "Smartphones dominate 400 minutes daily, but young adults spend just seven on news",
+      "link": "https://phys.org/news/2026-05-smartphones-dominate-minutes-daily-young.html",
+      "date": "2026-05-28 18:20",
+      "summary": "UZH media researcher Mark Eisenegger led a study as part of NRP 77 on the importance of journalism for the digital information beh..."
     },
     {
-      "title": "Cobalt honeycombs open a new path to quantum computing",
-      "link": "https://phys.org/news/2026-05-cobalt-honeycombs-path-quantum.html",
-      "date": "2026-05-28 15:20",
-      "summary": "Honeycombs are famous for their elegant design, but now they may have found a new application: quantum computing. To collect knowl..."
+      "title": "Electromagnetic noise can send migrating bats off course, with effects lasting hours",
+      "link": "https://phys.org/news/2026-05-electromagnetic-noise-migrating-effects-hours.html",
+      "date": "2026-05-28 18:00",
+      "summary": "New research has unearthed new insights into the disruptive and detrimental effects that human-produced electromagnetic noise can ..."
     },
     {
-      "title": "Bare supercontinent may have tipped ancient Earth into 'Snowball' phase",
-      "link": "https://phys.org/news/2026-05-supercontinent-ancient-earth-snowball-phase.html",
-      "date": "2026-05-28 15:20",
-      "summary": "About a billion years ago, Earth started to come into its own. It was past the awkwardness of its younger years full of growing pa..."
+      "title": "Pigeons navigate using magnetic sensors in their livers, say researchers",
+      "link": "https://phys.org/news/2026-05-pigeons-magnetic-sensors-livers.html",
+      "date": "2026-05-28 18:00",
+      "summary": "How pigeons fly hundreds of kilometers and still find their way home has long fascinated people. Now, researchers say a surprising..."
     },
     {
-      "title": "Teen sex survey highlights violence concerns",
-      "link": "https://phys.org/news/2026-05-teen-sex-survey-highlights-violence.html",
-      "date": "2026-05-28 15:20",
-      "summary": "Australian teens are experiencing high rates of intimate partner violence, one in 10 are relying on the withdrawal method for cont..."
+      "title": "Is my brain wired to never see a ghost? A psychologist on three factors that make a paranormal experience more likely",
+      "link": "https://phys.org/news/2026-05-brain-wired-ghost-psychologist-factors.html",
+      "date": "2026-05-28 18:00",
+      "summary": "Around 1 in 5 Americans say they've seen a ghost. I'm not one of them, and I probably never will be. I blame my brain...."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "'Lost generation’: why can’t young people get jobs? – The Latest",
+      "link": "https://www.theguardian.com/news/video/2026/may/28/lost-generation-why-cant-young-people-get-jobs-the-latest",
+      "date": "2026-05-28 16:38",
+      "summary": "A landmark government-backed report has warned that the UK risks a ‘lost generation’ of young people, as new figures show that mor..."
+    },
+    {
+      "title": "‘Lost generation’: why can’t young people get jobs? – The Latest",
+      "link": "https://www.theguardian.com/news/audio/2026/may/28/youth-unemployment-jobs-crisis-report-the-latest",
+      "date": "2026-05-28 16:12",
+      "summary": "A landmark report has warned that the UK risks a ‘lost generation’ of young people, as new figures show that more than 1 million 1..."
+    },
     {
       "title": "Feeding the future of France: Rollout of €1 meals an attempt to help struggling students",
       "link": "https://www.theguardian.com/world/2026/may/28/feeding-the-future-of-france-rollout-of-1-meals-an-attempt-to-help-struggling-students",
@@ -273,18 +285,6 @@
       "link": "https://www.theguardian.com/society/2026/may/28/a-record-of-failure-whats-in-the-first-part-of-alan-milburns-neet-report",
       "date": "2026-05-28 10:00",
       "summary": "The former minister paints damning picture of structural issues affecting 1 million young people in the UKAlan Milburn, the Blair-..."
-    },
-    {
-      "title": "‘Standing up for our children’: parents divided over London teachers’ strikes",
-      "link": "https://www.theguardian.com/education/2026/may/28/standing-up-for-our-children-parents-divided-over-london-teachers-strikes",
-      "date": "2026-05-28 06:00",
-      "summary": "Waltham Forest in the east of the capital has seen a wave of industrial action in schools, with more to come The gates to South Gr..."
-    },
-    {
-      "title": "Student loans inquiry responses show ‘massive scale of frustration and upset’",
-      "link": "https://www.theguardian.com/money/2026/may/27/tax-on-ambition-graduates-tell-all-to-student-loans-inquiry",
-      "date": "2026-05-27 16:01",
-      "summary": "More than 52,000 people respond to Commons committee’s call for evidence amid criticism of loan termsThousands of graduates have t..."
     }
   ],
   "SCMP Hong Kong": [
