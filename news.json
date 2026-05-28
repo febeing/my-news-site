@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "New laboratory at MIT aims to advance quantum research for the nation",
+      "link": "https://news.mit.edu/2026/new-laboratory-aims-to-advance-quantum-research-nation-0528",
+      "date": "2026-05-28 21:20",
+      "summary": "The Quantum Systems Laboratory will catalyze quantum innovation and be open to government, academic, and industry researchers...."
+    },
+    {
       "title": "MIT researchers develop a low-cost technique to get lithium out of rocks",
       "link": "https://news.mit.edu/2026/mit-researchers-develop-low-cost-technique-lithium-from-rocks-0528",
       "date": "2026-05-28 18:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/brighter-mri-signals-0527",
       "date": "2026-05-27 20:40",
       "summary": "New MRI sensors developed at MIT sensitively detect target molecules in the brain and body...."
-    },
-    {
-      "title": "MIT students study plasma physics beneath Alaska’s aurora",
-      "link": "https://news.mit.edu/2026/mit-students-study-plasma-physics-beneath-alaska-aurora-0522",
-      "date": "2026-05-22 13:00",
-      "summary": "Student-led expeditions use distributed instruments to observe auroral structures and probe space plasma in real-world conditions...."
     }
   ],
   "Harvard Gazette": [
@@ -83,16 +83,16 @@
       "summary": "How Stanford patients help expose ‘fault lines’ in health AI adoption  statnews.com..."
     },
     {
-      "title": "One New Thing: Stanford’s AI Tutor CoPilot Proves Tech Can Enhance Human Teaching - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb29HdlYtWU5oRHdCM0RiQ3c5YWkzOXd1N1FUOWhFVUdwR25wa2VvOGhKckhlTGdnNjVUazRNY3RGQnZBbHQ4MkdjWl9PMGs5VXVvalF5TThtVFBKZzRIU0M4dVpicmFIcXdfSThHRGFlTVJLeVJtX3FMSHp5alU5T0RrRmNTb3Bud3k3RU4wTEpUQW12UWlMLVhjeGk4Y0NNRGNkTmNDMA?oc=5",
-      "date": "2026-05-28 18:11",
-      "summary": "One New Thing: Stanford’s AI Tutor CoPilot Proves Tech Can Enhance Human Teaching  U.S. News & World Report..."
+      "title": "Stanford dropouts raise nearly $10M to launch AI-driven dating app - NBC Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdEw2SXRXR0pGcU54eVlwS0tZN2lZVkVUQTVpcTB3VHpjTjZVWmZINVljckVyZUUwN1dZWU5IejRvUjJxV1JkNUpoaG1fMWNuN0VtWW43UzdDZVpuY19NbDFMV0RHUVJYMFVqU0RETGNxS2k3UDI0Y1FrZE5DY3Vlc9IBiAFBVV95cUxNd3BRSEdVOWpkbTFFMm0yUE8zQmw4TWhsSkNTOFc2dGpyeE1uUk90bFlIbFpaYXRsT2xQVU5aUGh0S1NWaVFMRkJFZmNZbXZoQjRoREpHQVhqTjJpMW1KRWpkX1hmNUV4cXdYTFhzeXBhWXl2WVMyUUZhbjN0NGFCTzNIYVFwNUtY?oc=5",
+      "date": "2026-05-28 22:31",
+      "summary": "Stanford dropouts raise nearly $10M to launch AI-driven dating app  NBC Bay Area..."
     },
     {
-      "title": "Transformative gift advances biomedical ethics at Stanford Medicine - Stanford Medicine",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0waVZ2V3pRLVZrbFZ4Mm9vS3lnNzdUd1JoUWhDU1RjSHJrMkVoZFotVF9WYWZ6Ti1hT2hSc0Z6cEdoNnh3UklSeWtJdUJaaGJCaS1PY3BrRm1FNU9SRGR3aWNISVVsOFJQMS05a25ONmZmWXc?oc=5",
-      "date": "2026-05-26 16:03",
-      "summary": "Transformative gift advances biomedical ethics at Stanford Medicine  Stanford Medicine..."
+      "title": "'The most commercialized university in the world': Theo Baker '26 criticizes campus culture in talk on book debut - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0taZVJGbGZseXM2S3NzeGZ4aXNRT3Z5Z2VNTFNNSWk2SVpXd0lQblBIRS1GSkh5ZFBZd3l4MC05VmxhLTZNT2ZBS0dUcS1maG1sRmdkdzgxZ1pXTmprLS0wcGwtY1J1LWQzMXE4azRDYTROOU54bWhLQnZnRDJBSnpicjZVZHk5RmFjaDBR?oc=5",
+      "date": "2026-05-27 08:09",
+      "summary": "'The most commercialized university in the world': Theo Baker '26 criticizes campus culture in talk on book debut  The Stanford Da..."
     }
   ],
   "Nature Careers": [
@@ -109,6 +109,12 @@
       "summary": "Nature, Published online: 28 May 2026; doi:10.1038/d41586-026-01733-zAs a director of the Wellcome Trust and charity founder, the ..."
     },
     {
+      "title": "Gene therapies to fix failing hearts gain steam after years in the doldrums",
+      "link": "https://www.nature.com/articles/d41586-026-01598-2",
+      "date": "2026-05-28 00:00",
+      "summary": "Nature, Published online: 28 May 2026; doi:10.1038/d41586-026-01598-2Treatments aim to bulk up failing hearts to restore their vig..."
+    },
+    {
       "title": "Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models",
       "link": "https://www.nature.com/articles/s41586-026-10700-7",
       "date": "2026-05-27 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10553-0",
       "date": "2026-05-27 00:00",
       "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10553-0Author Correction: Satellite megaconstellations will threaten..."
-    },
-    {
-      "title": "Could a pill prevent the world’s deadliest cancer?",
-      "link": "https://www.nature.com/articles/d41586-026-01382-2",
-      "date": "2026-05-27 00:00",
-      "summary": "Nature, Published online: 27 May 2026; doi:10.1038/d41586-026-01382-2‘Interception’ drug trials hope to stop lung cancer before it..."
     }
   ],
   "Retraction Watch": [
@@ -161,16 +161,16 @@
   ],
   "Reuters AI": [
     {
+      "title": "Exclusive: China works on AI token futures market, sources say, in race with US - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2htMEhYNVR5MlRObmtjRDFKMTJxelQxTklVT2c4YXIyUDBMY3FBcXRIT3lYX0RpX3dxTDlCcVJBNnRGb0MyN2luWF9RTldzNW1yWWNkdVhESHQ3d3Fwdzg3bzRGZ1paUG5LZ2N3NnpvemFRRFhaTXFocVBpYWM0OXRWWXhHNk9WR3haZGRmRVN1cXlzRDFrNklWQ2o5X2lvQkZmaUFFQ05nU3k2?oc=5",
+      "date": "2026-05-28 09:54",
+      "summary": "Exclusive: China works on AI token futures market, sources say, in race with US  Reuters..."
+    },
+    {
       "title": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkxPWWY5YlBZTlZrLVRySEdkV3dXUDNrNjJwOVBPbHVsUXNOWTNOenVnSjRVNTBGal84QXkycF9FeUVReTFGWENWYVVvNzhIcEdhM19WU1J3YkFMNlhfbzNUX2xSSGw1SWhhY21wclFzQ0NyMW1CMzFmQkRza0ZPX18xMHRzMG95TlVOUmRfLU12MmhzNDVzNTN2OW5KZ2xNaDhtT0VRTjY0WjJ0UGprQ0dzTlljVHJM?oc=5",
       "date": "2026-05-27 15:07",
       "summary": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption  Reuters..."
-    },
-    {
-      "title": "Snowflake boosts forecast, signs $6 billion AWS deal as enterprise AI adoption grows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjJkazBmd0FfVzM5THdEZEo5U3JWLTRvM3E2UWdMTzBxVVp6bVp4MEUzdUN1Mk1wOUZEQ2lEbXZnVnpVTWMtRlpHWmRjRFFMV3JmdXNBLXhyUTZscFR0VFNJYXI5dmN4X2JEUUZ1c2ZNMWFnZ1EwNjFKM0UxRmROZXozVXF0dFV6bWx2clFJR3VnVm9NMEw2RVgzZzZyR3BjX2tKdW1teDcyQjQ3VmFCUU5pUmJEZ2c?oc=5",
-      "date": "2026-05-27 22:23",
-      "summary": "Snowflake boosts forecast, signs $6 billion AWS deal as enterprise AI adoption grows  Reuters..."
     },
     {
       "title": "Microsoft to release new coding model next week, the Information reports - Reuters",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "The human gaze speaks to children, who remain insensitive to the gaze of humanoid robots",
-      "link": "https://phys.org/news/2026-05-human-children-insensitive-humanoid-robots.html",
-      "date": "2026-05-28 21:00",
-      "summary": "Very young children (even as young as 3 years old) can read intention and preferences in the eyes of a person, but they do not rec..."
+      "title": "Heron-like, fish-eating dinosaur from 70 million years ago discovered in Argentina",
+      "link": "https://phys.org/news/2026-05-heron-fish-dinosaur-million-years.html",
+      "date": "2026-05-28 23:10",
+      "summary": "A new raptor-like dinosaur from some 70 million years ago that ate fish and behaved like modern herons has been unearthed from sou..."
     },
     {
-      "title": "A 'Balrog' in the tunnels: Scientists discover a new cave cricket species on the tiny island of Kastellorizo, Greece",
-      "link": "https://phys.org/news/2026-05-balrog-tunnels-scientists-cave-cricket.html",
-      "date": "2026-05-28 21:00",
-      "summary": "Despite the intensity of modern exploration, the eastern Mediterranean continues to yield unexpected discoveries. On the small Gre..."
+      "title": "Ultrafast holographic imaging reveals electron and magnetic dynamics inside next-generation materials",
+      "link": "https://phys.org/news/2026-05-ultrafast-holographic-imaging-reveals-electron.html",
+      "date": "2026-05-28 23:10",
+      "summary": "An extremely fast microscopy method to research the interaction of light and matter makes it possible to study optical processes o..."
     },
     {
-      "title": "Why the most massive galaxies in the early universe stopped forming stars prematurely",
-      "link": "https://phys.org/news/2026-05-massive-galaxies-early-universe-stars.html",
-      "date": "2026-05-28 21:00",
-      "summary": "Astronomical observations show that the most massive galaxies in the early universe formed approximately three to four billion yea..."
+      "title": "AI and drones can help improve early warning systems for Vibrio bacteria in the Baltic Sea",
+      "link": "https://phys.org/news/2026-05-ai-drones-early-vibrio-bacteria.html",
+      "date": "2026-05-28 23:00",
+      "summary": "The presence of the marine bacterium Vibrio vulnificus, which is potentially dangerous to humans, can now be predicted up to five ..."
     },
     {
-      "title": "New Gulf Coast plan uses ocean technology to trap carbon dioxide",
-      "link": "https://phys.org/news/2026-05-gulf-coast-ocean-technology-carbon.html",
-      "date": "2026-05-28 20:40",
-      "summary": "The motion of the ocean may be the key to removing carbon dioxide from the atmosphere, so University of Houston researchers set ou..."
+      "title": "Quantum entanglement provides a new framework for understanding chemical bonding",
+      "link": "https://phys.org/news/2026-05-quantum-entanglement-framework-chemical-bonding.html",
+      "date": "2026-05-28 22:50",
+      "summary": "Chemical bonding is one of the central organizing principles of the microscopic world. It determines how atoms combine and thereby..."
     },
     {
-      "title": "Turtles finally have a place in the tree of life thanks to an X‑ray study of South African fossils",
-      "link": "https://phys.org/news/2026-05-turtles-tree-life-xray-south.html",
-      "date": "2026-05-28 20:40",
-      "summary": "The origin of turtles has always been a bit of a puzzle for scientists who study the evolution of animals. To this day, where they..."
+      "title": "Shock waves show how baby stars' cradles get their radial shape in 3D simulations",
+      "link": "https://phys.org/news/2026-05-baby-stars-cradles-radial-3d.html",
+      "date": "2026-05-28 22:40",
+      "summary": "The universe is full of fascinating structures, and some of the most striking take shape inside the giant clouds where stars are b..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong well placed to help Central Asia grow yuan trade, leading banker says",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355218/hong-kong-well-placed-help-central-asia-grow-yuan-trade-leading-banker-says?utm_source=rss_feed",
+      "date": "2026-05-28 23:00",
+      "summary": "Hong Kong has the “most complete renminbi financial ecosystem” and is well placed to serve as a hub for Central Asian countries se..."
+    },
+    {
       "title": "Man jailed for 40 years to life for killing 4 sleeping on New York’s Chinatown streets",
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3355228/man-jailed-40-years-life-killing-4-sleeping-new-yorks-chinatown-streets?utm_source=rss_feed",
       "date": "2026-05-28 20:50",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3355207/hong-kong-bus-driver-suspended-after-video-shows-him-hands-free-wheel?utm_source=rss_feed",
       "date": "2026-05-28 13:03",
       "summary": "A Hong Kong franchised bus operator has suspended a driver after video footage surfaced online showing him operating a vehicle wit..."
-    },
-    {
-      "title": "El Nino could turn 4-7 tropical cyclones this year into super typhoons: Observatory",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3355209/el-nino-may-turn-coming-tropical-cyclones-super-typhoons-observatory?utm_source=rss_feed",
-      "date": "2026-05-28 13:02",
-      "summary": "The El Nino weather phenomenon could turn the four to seven tropical cyclones predicted to hit Hong Kong this year into super typh..."
     }
   ],
   "New Scientist": [
