@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford Was Once a Cradle of Innovation. What It’s Turned Into Is Something Else Entirely. - Slate",
+      "title": "Stanford Was Once a Cradle of Innovation. What It’s Turned Into Is Something Else Entirely. - Slate Magazine",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNWdwX3NROThMRU5hckFyMHNCUlBFU3ExZXpsdGtoQ2ZjeVE4SnMxX1oxT2hZb24yMWkycm1FUHh6Qmt3dzBVTmlBVm9vbXRRSmFIY3dBTXg1WFM3aHB3U3lBXzhuMWVfVzY5bG5BVDBRamR4WTBWamhDcTNGZDYtQW1lV0ZocWwzbjRsUzRXZHV6dndCdWNqMFFVVkx1RmptWWZNLTVOMXBXWmdiU21TUjVsZW5oeVRUaXpPakxhQkZ2a3J2cnJQRDdyUDcyQVNqam9YVW10OA?oc=5",
       "date": "2026-05-27 19:41",
-      "summary": "Stanford Was Once a Cradle of Innovation. What It’s Turned Into Is Something Else Entirely.  Slate..."
+      "summary": "Stanford Was Once a Cradle of Innovation. What It’s Turned Into Is Something Else Entirely.  Slate Magazine..."
     },
     {
       "title": "Stanford student government outraged after university makes mandatory 'Beyond Sex Ed' consent program optional - Campus Reform",
@@ -167,31 +167,37 @@
       "summary": "Investors hunt for AI winners in small-cap US tech stocks  Reuters..."
     },
     {
+      "title": "Global firms use AI at Indian hubs to bring more ad work in-house - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1ZDRU5na3FKOEZTNGdBdGZ2Q1U0WTEzRzZpMkNrOUpXOFE3cHpIT2djS2hFMTJOMmxjUzRzaGVmaWdlTjdYNmFlYTl3aVc1RDJldlBRTFY4WGFwNUJ6V1VzdHU1ZlB6UllSQkt5Nk0yMkxXRzc5QTVDZnVucFhpMEtYMUlEcmZVbGNJR2FxdHFQYWN5ek03MEFobm1CZjF2ZzNiZjBCNG55akwtX1UtcUlJVmZrU3pybVE?oc=5",
+      "date": "2026-05-27 21:12",
+      "summary": "Global firms use AI at Indian hubs to bring more ad work in-house  Reuters..."
+    },
+    {
       "title": "Huawei looks beyond Moore's Law - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGx1TWVoSzFZYm05dy1YM1RiMHVFTkxWQnl1c284ZHk5ZXZEd0VGT00wVnJWQjdVckNJbGR6REYtdy1RMHlQdGUwWE5CNFpKaU5GMEY3OC1mUUE2TG9rdXdXWjVLRFNuak5YaVBXaGZZSmxmT0pyanhtWk9MRkxkYzlFR1U2V3VQM1ZQU3U1c1JZaWZBb01BY25UTHdDZjJucjVj?oc=5",
       "date": "2026-05-27 19:00",
       "summary": "Huawei looks beyond Moore's Law  Reuters..."
     },
     {
-      "title": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkxPWWY5YlBZTlZrLVRySEdkV3dXUDNrNjJwOVBPbHVsUXNOWTNOenVnSjRVNTBGal84QXkycF9FeUVReTFGWENWYVVvNzhIcEdhM19WU1J3YkFMNlhfbzNUX2xSSGw1SWhhY21wclFzQ0NyMW1CMzFmQkRza0ZPX18xMHRzMG95TlVOUmRfLU12MmhzNDVzNTN2OW5KZ2xNaDhtT0VRTjY0WjJ0UGprQ0dzTlljVHJM?oc=5",
-      "date": "2026-05-27 15:07",
-      "summary": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption  Reuters..."
+      "title": "Fed's Goolsbee says oil shock could exacerbate inflationary impulse of AI hype - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObDJ1d0Nvb3VHbjFycUJ6QmFGWUE1bDYzRWdVcjBpSk83MlA2eDZIUWxmN0VhMlFITi16MXgwSFpSVnZIS3VERi05VVVWaGpKRHFfZWJDbmlDZnkwYU05VUk2RGc1NGpGUnRZSThIRFBDM0xzUHdSTzlqQUVIXzBKX25JSjVzVWRhd1ZPS1ZkcWpjWHJxc00zVXIyeFQ0c1lLTm9fekJ4UnI1UzNRdWFaWU5JVWpvT2VUdHFj?oc=5",
+      "date": "2026-05-28 02:27",
+      "summary": "Fed's Goolsbee says oil shock could exacerbate inflationary impulse of AI hype  Reuters..."
     },
     {
       "title": "Salesforce revenue forecast disappoints amid AI disruption fears - Reuters",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkhJSHBtSndfN25MekplUUlqWkFqSEd5MDlDR2swa2dZX2RSVkxFc3ZDYllaby1LLTROYU1NQ3RZSkVlZmg2bHRKYWtXVEx2RE0zd2FXRk95THlRcUViZWJGRmxjbnlEblN4MGQ4X0NPNGg0N0dPZFVNdUlWaFNPdllDZmRXVGRiQmR2S0JrZU9sM2VSb0xlSg?oc=5",
       "date": "2026-05-27 22:58",
       "summary": "Salesforce revenue forecast disappoints amid AI disruption fears  Reuters..."
-    },
-    {
-      "title": "Global firms use AI at Indian hubs to bring more ad work in-house - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1ZDRU5na3FKOEZTNGdBdGZ2Q1U0WTEzRzZpMkNrOUpXOFE3cHpIT2djS2hFMTJOMmxjUzRzaGVmaWdlTjdYNmFlYTl3aVc1RDJldlBRTFY4WGFwNUJ6V1VzdHU1ZlB6UllSQkt5Nk0yMkxXRzc5QTVDZnVucFhpMEtYMUlEcmZVbGNJR2FxdHFQYWN5ek03MEFobm1CZjF2ZzNiZjBCNG55akwtX1UtcUlJVmZrU3pybVE?oc=5",
-      "date": "2026-05-27 21:12",
-      "summary": "Global firms use AI at Indian hubs to bring more ad work in-house  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "It’s time to address the looming crisis in entry-level work. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXdpNU5ubngyMmhJSXZIcndFQ1F3Y3F5VG50dkduSFZ2THhQR3N0Q3VFalZlaEUxZlVIdDQ1ZmxTUm15RmNrMDlDVVdwUUxXdEVaV09xWjhyN3UyMjB3ekR5eVRucGV3aFpxVjREcTM2TGdHZXVwYzdsOWFwbFJ1cjJ4WE9mVjBOVXVkS01DbFc4SGRwT2RZNmxHT3R6RDU5eHpkN09idjF1OWNLQXd5c9IBtgFBVV95cUxOd2dVUzh5bHJsVFVJYmNwMzZyM3pmUDVWS290Q2FvSGV6U3duNWF2SnVtR1ZraVNJSGZNcURyZXdJT3hMUXNXcEVfTTZ4WWdvQjhyWlVFWUprbzgwYmtNSHZLRjE5bmp6dlJWanpBNFp1bWpaWkt3aVJlSFFRdXM3ekh5YmRLdm1QcHRiZkNWTDJ2VWxDSHFEbXY2MXVXZUNkQjRGcTJ1aXhQejZfOVl0QXV5dHdmQQ?oc=5",
+      "date": "2026-05-26 09:00",
+      "summary": "It’s time to address the looming crisis in entry-level work.  MIT Technology Review..."
+    },
     {
       "title": "A reality check on the AI jobs hysteria - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmp2Rjg2VVdYZU45YnpSNXZ0QklkSkxyUVZHaHl6MmlwME53ZDR1WVpoZF9wOUhfVHg1Zlh5SjJtZXRrSjdIbzdUSEoyZ0FUd0hfbzhDNTJXU1pId2JjVHBaQW1QZVkxTEVKM0NLeTJtcVFiT3lPTjdDOUQzUHJ6ZVZ6UEg3RHBGUGhOUzhaZU9XVlp5ay1z?oc=5",
@@ -205,22 +211,16 @@
       "summary": "Rethinking organizational design in the age of agentic AI  MIT Technology Review..."
     },
     {
-      "title": "It’s time to address the looming crisis in entry-level work. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXdpNU5ubngyMmhJSXZIcndFQ1F3Y3F5VG50dkduSFZ2THhQR3N0Q3VFalZlaEUxZlVIdDQ1ZmxTUm15RmNrMDlDVVdwUUxXdEVaV09xWjhyN3UyMjB3ekR5eVRucGV3aFpxVjREcTM2TGdHZXVwYzdsOWFwbFJ1cjJ4WE9mVjBOVXVkS01DbFc4SGRwT2RZNmxHT3R6RDU5eHpkN09idjF1OWNLQXd5c9IBtgFBVV95cUxOd2dVUzh5bHJsVFVJYmNwMzZyM3pmUDVWS290Q2FvSGV6U3duNWF2SnVtR1ZraVNJSGZNcURyZXdJT3hMUXNXcEVfTTZ4WWdvQjhyWlVFWUprbzgwYmtNSHZLRjE5bmp6dlJWanpBNFp1bWpaWkt3aVJlSFFRdXM3ekh5YmRLdm1QcHRiZkNWTDJ2VWxDSHFEbXY2MXVXZUNkQjRGcTJ1aXhQejZfOVl0QXV5dHdmQQ?oc=5",
-      "date": "2026-05-26 09:00",
-      "summary": "It’s time to address the looming crisis in entry-level work.  MIT Technology Review..."
+      "title": "The Download: keeping up with AI, and the future of IVF - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2FIX05pQWJLYWY4YU12eWVyQlprZldhMF9KY2J0b0praHU5dl84dDE0c0xRTzd2djdrQm9TXzJwbHVwU3lfM3dtSkxXY3FvaHFzUTEwQ1E0c2NjVTdnUzBHcGdZQkQ1aHQyZWtYTjhhcjFDNkNpSTh0d2hjUFgtVzRTTC1SS01HTFZBMjNkT0RRQ3Vs0gGaAUFVX3lxTE1NUjFaZjFMVmU0ZDVvTDBoSjNNWHJVTk5MT2NJUnlzNDk0YzZ1REpNb19LSGJjalAyeU5KY25SWXRNRHB4Q0p3ZFUyazZ2dkhuaDJTblBxVFpraGpERDAtNnlneVM5TnFDMFg0X2gtcFg4U2F3OVZYZmJfbGt2cy1UU1AxX21nZUFLeXQ1OEJaRkJQYU54RWNkWHc?oc=5",
+      "date": "2026-05-27 12:10",
+      "summary": "The Download: keeping up with AI, and the future of IVF  MIT Technology Review..."
     },
     {
       "title": "AI chatbots are giving out people’s real phone numbers - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJYU2ZXb2RNSXM4UkhOZzFrNTVEYU50WHlRVlp5T1cyNXFoUXBoNl9XX0ZXTWNsZjAyWTNSRF9YQnJ5UUxCR19HeTFpdGxCNVNiZFQzdHpwVUU2SFVXeHUxd0UwM0ZfeGpwYzZxUEtONHREX0dhLUVydmd2SVdBVVoyOGFhR0Y1akxXdjZ3UENJUF9CMHRzM21EX2RKajRqTmhVRTZGck9kUdIBrwFBVV95cUxNd0pHWnh4aEU3elVyWDBocEtIR2lJMDJONUJoU2kxeV92cEY3dGREVlVCWURuOEdzZVFSNXpVSW15alBveFhpQU5FTXZveFFhc2dJXzZkaGRzUzhoMnhGZldWa3ZJdkRLTE1mZnJLM000UE0tNmJ3bmQwWmZ6djl4UVBfZGZxWmhSMGlqNDYyU0p3cjVxX1ZKV194bGYyME8ybVJLMlhiT2R4Q1FKTmlJ?oc=5",
       "date": "2026-05-13 07:00",
       "summary": "AI chatbots are giving out people’s real phone numbers  MIT Technology Review..."
-    },
-    {
-      "title": "What to expect from Google this week - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXl2OVBoeE4wVVdjSWMwUjhaNFpQOXZHYWpRUXdrdnR5azdnT20wNUhVbmVhWWdfS2ZraW1jVEVhQ2hJYXJmcTVnTV82Umh3amZMRFJGUmktY19nWi11X3lWWG9IcVVVOG1pZG5nbDNjVzhibzd1ZmU0RUVLRkJCZU5YX0lSdGVUbmJFM3FJVUUxMXPSAZgBQVVfeXFMT1ItNzF5SjAxeDlYTFF4OXJ6WERNakRMbHEtOE1CYjVxel9nNWQtNzlLZ3A4N3FrX1FWUXZNRXVGejhnTGI0OUlzWkZNYVJRWVBhd3kybEcxcWxhdHhST08tbUpOYkx2U0taSERGUzk5amZiUXFJQmlnNGZEZkozSm50dHJ1Z3ZYZFZpTnFvXzZGTzlEdVlpdzM?oc=5",
-      "date": "2026-05-18 17:35",
-      "summary": "What to expect from Google this week  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -257,6 +257,12 @@
   ],
   "The Guardian Edu": [
     {
+      "title": "‘Standing up for our children’: parents divided over London teachers’ strikes",
+      "link": "https://www.theguardian.com/education/2026/may/28/standing-up-for-our-children-parents-divided-over-london-teachers-strikes",
+      "date": "2026-05-28 06:00",
+      "summary": "Waltham Forest in the east of the capital has seen a wave of industrial action in schools, with more to come The gates to South Gr..."
+    },
+    {
       "title": "Student loans inquiry responses show ‘massive scale of frustration and upset’",
       "link": "https://www.theguardian.com/money/2026/may/27/tax-on-ambition-graduates-tell-all-to-student-loans-inquiry",
       "date": "2026-05-27 16:01",
@@ -279,15 +285,27 @@
       "link": "https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault",
       "date": "2026-05-25 05:00",
       "summary": "Paris police looking into more than 100 allegations of mistreatment by ‘monitors’ after parents’ groups said they had fought for y..."
-    },
-    {
-      "title": "UK universities warn of cuts for impoverished students if dire funding issues continue",
-      "link": "https://www.theguardian.com/education/2026/may/25/uk-universities-cuts-impoverished-students-funding",
-      "date": "2026-05-24 23:01",
-      "summary": "Nearly a third of vice-chancellors would cut hardship support if necessary over next three years, according to pollVice-chancellor..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Hong Kong sets up international commercial court to tackle major cross-border disputes",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3355138/hong-kong-sets-international-commercial-court-tackle-major-cross-border-disputes?utm_source=rss_feed",
+      "date": "2026-05-28 06:40",
+      "summary": "Hong Kong has established an international commercial court specialising in adjudicating major cross-border disputes, with the jus..."
+    },
+    {
+      "title": "Merge Hong Kong’s 2 cross-boundary ferry piers to optimise capacity, lawmakers urge",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355133/merge-hong-kongs-2-cross-boundary-ferry-piers-optimise-capacity-lawmakers-urge?utm_source=rss_feed",
+      "date": "2026-05-28 06:10",
+      "summary": "Lawmakers have urged transport authorities to merge Hong Kong’s two cross-boundary ferry piers to optimise capacity and cater to t..."
+    },
+    {
+      "title": "Hong Kong civil servants could see pay rise of up to 4.12%, survey shows",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3355122/hong-kong-civil-servants-could-see-pay-rise-412-survey-shows?utm_source=rss_feed",
+      "date": "2026-05-28 04:21",
+      "summary": "Hong Kong civil servants could receive a salary rise of up to 4.12 per cent this year, according to preliminary pay trend survey r..."
+    },
     {
       "title": "Hong Kong drainage project suspended after worker struck by chain hoist dies",
       "link": "https://www.scmp.com/news/hong-kong/article/3355102/hong-kong-drainage-project-suspended-after-worker-struck-chain-hoist-dies?utm_source=rss_feed",
@@ -299,24 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3355099/evolution-hong-kongs-independent-common-law?utm_source=rss_feed",
       "date": "2026-05-28 01:30",
       "summary": "It is very often said that the common law is one of Hong Kong’s greatest assets. It provides us with a corpus of law which shares ..."
-    },
-    {
-      "title": "Hong Kong’s golden window to renew ageing housing estates is now",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3354175/hong-kongs-golden-window-renew-ageing-housing-estates-now?utm_source=rss_feed",
-      "date": "2026-05-28 01:30",
-      "summary": "Hong Kong’s public housing conversation is often dominated by a single anxious question: how long do you have to wait for a home? ..."
-    },
-    {
-      "title": "Leveraging Hong Kong’s Unique Advantages to Expedite an International Innovation and Technology Centre— The Support from CICC for Hong Kong’s Leap into Innovation",
-      "link": "https://www.scmp.com/presented/news/hong-kong/topics/cicc-supports-hong-kongs-leap-innovation/article/3355011/leveraging-hong-kongs-unique-advantages-expedite-international-innovation-and-technology-centre?utm_source=rss_feed",
-      "date": "2026-05-28 01:00",
-      "summary": "[The content of this article has been produced by our advertising partner.]\n\nIn 2026, China embarks on its 15th Five-Year Plan. At..."
-    },
-    {
-      "title": "Hong Kong eyes Central Asian listings as HKEX CEO pitches city’s deep liquidity",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355077/hong-kong-eyes-central-asian-listings-hkex-ceo-pitches-citys-deep-liquidity?utm_source=rss_feed",
-      "date": "2026-05-28 00:30",
-      "summary": "Hong Kong is an excellent option for Central Asian companies considering secondary listings to raise funds for expansion due to it..."
     }
   ],
   "New Scientist": [
