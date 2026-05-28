@@ -39,12 +39,6 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
-    },
-    {
       "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
       "date": "2026-05-01 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
       "date": "2026-03-26 07:00",
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+    },
+    {
+      "title": "How academia can help America heal - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
+      "date": "2026-02-13 08:00",
+      "summary": "How academia can help America heal  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -89,10 +89,10 @@
       "summary": "How Stanford patients help expose ‘fault lines’ in health AI adoption  statnews.com..."
     },
     {
-      "title": "“The most commercialized university in the world”: Theo Baker '26 criticizes campus culture in talk on book debut - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0taZVJGbGZseXM2S3NzeGZ4aXNRT3Z5Z2VNTFNNSWk2SVpXd0lQblBIRS1GSkh5ZFBZd3l4MC05VmxhLTZNT2ZBS0dUcS1maG1sRmdkdzgxZ1pXTmprLS0wcGwtY1J1LWQzMXE4azRDYTROOU54bWhLQnZnRDJBSnpicjZVZHk5RmFjaDBR?oc=5",
-      "date": "2026-05-27 08:09",
-      "summary": "“The most commercialized university in the world”: Theo Baker '26 criticizes campus culture in talk on book debut  The Stanford Da..."
+      "title": "Stanford to proctor exams for first time in 105 years as cheating nearly triples - VnExpress International",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3IyeTYtY1h6eHhHTnlzT0dLU3RmQTRPOVJwbWc2d3JqVkJ1OTAzSDhTV0dsX2Y1ZVpETGhtb2EyTEtDM2xscFFmWnBuX2R2MG1iOUhCMndoQWhjMXNBR0NkUXJtZUtJLWhmeFBrLTA4RDJrdlZIaXpnMXpxRjM3MVJab2FpMlFKQTRjMkV3S3NsWmlQQ1lHd05aUHVyUl8xdHhJRVhmRXhXbmNFbGpGVnNlQVZUWGhRd05PSkpMMVBUWi1lQzlxQnN0aDJ2RDMzVDBF?oc=5",
+      "date": "2026-05-28 06:35",
+      "summary": "Stanford to proctor exams for first time in 105 years as cheating nearly triples  VnExpress International..."
     }
   ],
   "Nature Careers": [
@@ -161,16 +161,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "Investors hunt for AI winners in small-cap US tech stocks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFdBRGM1U3NfTDNZcmpzYjZVdF8tOXVIX2Rhbm53cmotQUZDMk56eWowdzRTMEphWk9RN0VSTnY0SWRFOTgtdUJabUNUNjhCUVl3clA3R3Q4eE8zVExSX0NMdUM4NC1uS3NRc3R5VkZZUnZrX204OWc4d1VkZmc4ZXhjNDNnMmRreVZ0d3VTcFhjZ2N2LWJaRGZxaw?oc=5",
-      "date": "2026-05-27 10:28",
-      "summary": "Investors hunt for AI winners in small-cap US tech stocks  Reuters..."
-    },
-    {
-      "title": "Exclusive: China works on AI token futures market, sources say, in race with US - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2htMEhYNVR5MlRObmtjRDFKMTJxelQxTklVT2c4YXIyUDBMY3FBcXRIT3lYX0RpX3dxTDlCcVJBNnRGb0MyN2luWF9RTldzNW1yWWNkdVhESHQ3d3Fwdzg3bzRGZ1paUG5LZ2N3NnpvemFRRFhaTXFocVBpYWM0OXRWWXhHNk9WR3haZGRmRVN1cXlzRDFrNklWQ2o5X2lvQkZmaUFFQ05nU3k2?oc=5",
-      "date": "2026-05-28 09:54",
-      "summary": "Exclusive: China works on AI token futures market, sources say, in race with US  Reuters..."
+      "title": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkxPWWY5YlBZTlZrLVRySEdkV3dXUDNrNjJwOVBPbHVsUXNOWTNOenVnSjRVNTBGal84QXkycF9FeUVReTFGWENWYVVvNzhIcEdhM19WU1J3YkFMNlhfbzNUX2xSSGw1SWhhY21wclFzQ0NyMW1CMzFmQkRza0ZPX18xMHRzMG95TlVOUmRfLU12MmhzNDVzNTN2OW5KZ2xNaDhtT0VRTjY0WjJ0UGprQ0dzTlljVHJM?oc=5",
+      "date": "2026-05-27 15:07",
+      "summary": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption  Reuters..."
     },
     {
       "title": "Global firms use AI at Indian hubs to bring more ad work in-house - Reuters",
@@ -179,10 +173,16 @@
       "summary": "Global firms use AI at Indian hubs to bring more ad work in-house  Reuters..."
     },
     {
-      "title": "Huawei looks beyond Moore's Law - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGx1TWVoSzFZYm05dy1YM1RiMHVFTkxWQnl1c284ZHk5ZXZEd0VGT00wVnJWQjdVckNJbGR6REYtdy1RMHlQdGUwWE5CNFpKaU5GMEY3OC1mUUE2TG9rdXdXWjVLRFNuak5YaVBXaGZZSmxmT0pyanhtWk9MRkxkYzlFR1U2V3VQM1ZQU3U1c1JZaWZBb01BY25UTHdDZjJucjVj?oc=5",
-      "date": "2026-05-27 19:00",
-      "summary": "Huawei looks beyond Moore's Law  Reuters..."
+      "title": "Exclusive: China works on AI token futures market, sources say, in race with US - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2htMEhYNVR5MlRObmtjRDFKMTJxelQxTklVT2c4YXIyUDBMY3FBcXRIT3lYX0RpX3dxTDlCcVJBNnRGb0MyN2luWF9RTldzNW1yWWNkdVhESHQ3d3Fwdzg3bzRGZ1paUG5LZ2N3NnpvemFRRFhaTXFocVBpYWM0OXRWWXhHNk9WR3haZGRmRVN1cXlzRDFrNklWQ2o5X2lvQkZmaUFFQ05nU3k2?oc=5",
+      "date": "2026-05-28 09:54",
+      "summary": "Exclusive: China works on AI token futures market, sources say, in race with US  Reuters..."
+    },
+    {
+      "title": "Snowflake signs $6 billion deal with AWS tied to AI infrastructure - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaUg2YTdLWWllSEZpejJGaXJSZTdTOG9sR2lLcGVtT0Y0NkUydWtnaEl6ZTdqZXJNQmxoWExfTEswbUxycXNsNy1BWHFTVXd1SmtKTUl3akRzU3hCNndqV3ZMd0dEank2czhzeWdQaXNVSWwxRjBDUlNhNHBLU0VmRVItajdhZUFjWEFYNm1ZSGEweXRKbGVSOEZjMjZaUnpZYU9SSDc1UjNTNTBGLUJGZU1VOXBranpYbE45enltOWc?oc=5",
+      "date": "2026-05-27 20:17",
+      "summary": "Snowflake signs $6 billion deal with AWS tied to AI infrastructure  Reuters..."
     },
     {
       "title": "Exclusive: ByteDance developing custom CPU chips to support AI rollout, sources say - Reuters",
@@ -193,16 +193,16 @@
   ],
   "MIT Tech Review": [
     {
-      "title": "The AI Hype Index: AI gets booed in graduation season - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlNhOE5Fd3pIcGtvQjk0TmFqdW5Sd2tMSkpoUjlyLVV5YUExdFFEdzhTbmhremZzemVwdjZmVC1NSmVIUkU2eDNabklYNFZBa0hRcm9uZ1NlalVKSlE2TEtqR3RLdzJibUx1ZlVFNW05S0VSQXFaeFI3ODlCdXhSSklBY3liT1FGTEtuLVVHY0dudVl0dmlRUHhBM2NXRHN3VVpLN1BWNVQ?oc=5",
-      "date": "2026-05-28 09:51",
-      "summary": "The AI Hype Index: AI gets booed in graduation season  MIT Technology Review..."
-    },
-    {
       "title": "Climate tech companies are going public. What’s next? - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1odEpScVM3MWJuNHUxSU1nOHVYcmhMZUtMTUtyYzAxRXNPQkFWRXFGUm9xcWpWb2QtTmJxTk0zZmJxM090SGZUdmNPWW1YTENpcURxQXBKUHl0X3I0em9hUFN6dEVJbVF0WFhGamhxRGZWZkVFVmcwYTBn0gF_QVVfeXFMTTBkQmtBVjJiVlAzOWxBSVdmTGZTTzhFNDlYeHB2WEVyNllMUk1uUnNYVm1WdUpnN0Z4NTlYNnVzMFY4MzI3ejNLMExFNTVvRlYzMUVaUGlvNGxxRzZiQVRfNG9uZ2ItZV9SY1ZjZFZEdmlwZ1pueUdULWFMNEtZRQ?oc=5",
       "date": "2026-05-28 10:00",
       "summary": "Climate tech companies are going public. What’s next?  MIT Technology Review..."
+    },
+    {
+      "title": "The AI Hype Index: AI gets booed in graduation season - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlNhOE5Fd3pIcGtvQjk0TmFqdW5Sd2tMSkpoUjlyLVV5YUExdFFEdzhTbmhremZzemVwdjZmVC1NSmVIUkU2eDNabklYNFZBa0hRcm9uZ1NlalVKSlE2TEtqR3RLdzJibUx1ZlVFNW05S0VSQXFaeFI3ODlCdXhSSklBY3liT1FGTEtuLVVHY0dudVl0dmlRUHhBM2NXRHN3VVpLN1BWNVQ?oc=5",
+      "date": "2026-05-28 09:51",
+      "summary": "The AI Hype Index: AI gets booed in graduation season  MIT Technology Review..."
     },
     {
       "title": "It’s time to address the looming crisis in entry-level work. - MIT Technology Review",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Adequate potassium management is key to maximizing cotton yield and fiber quality, researchers reiterate",
-      "link": "https://phys.org/news/2026-05-adequate-potassium-key-maximizing-cotton.html",
-      "date": "2026-05-28 11:20",
-      "summary": "With the 2026 cotton planting season in full swing, research out of the Arkansas Agricultural Experiment Station provides a fresh ..."
+      "title": "Introduced wild pigs linked to fewer invasive plants, while native deer show the opposite pattern",
+      "link": "https://phys.org/news/2026-05-wild-pigs-linked-invasive-native.html",
+      "date": "2026-05-28 15:40",
+      "summary": "Wild pigs are generally considered among the world's most problematic invasive mammals. But a major new study from Aarhus Universi..."
     },
     {
-      "title": "The generation of massive Schrödinger cat states using ultracold atoms",
-      "link": "https://phys.org/news/2026-05-generation-massive-schrdinger-cat-states.html",
-      "date": "2026-05-28 11:10",
-      "summary": "Quantum mechanics is a physics framework that describes how matter and energy behave at an extremely small scale, specifically at ..."
+      "title": "Study finds soils can naturally suppress major crop diseases",
+      "link": "https://phys.org/news/2026-05-soils-naturally-suppress-major-crop.html",
+      "date": "2026-05-28 15:40",
+      "summary": "Curtin University researchers have discovered some agricultural soils can naturally suppress one of Australia's most damaging broa..."
     },
     {
-      "title": "New fences can save restored saltmarsh, research suggests",
-      "link": "https://phys.org/news/2026-05-saltmarsh.html",
-      "date": "2026-05-28 11:00",
-      "summary": "Saltmarsh is disappearing from coastlines around the world, and while brushwood fencing can help bring it back, a new study has fo..."
+      "title": "Cobalt honeycombs open a new path to quantum computing",
+      "link": "https://phys.org/news/2026-05-cobalt-honeycombs-path-quantum.html",
+      "date": "2026-05-28 15:20",
+      "summary": "Honeycombs are famous for their elegant design, but now they may have found a new application: quantum computing. To collect knowl..."
     },
     {
-      "title": "Scientists unlock evolution of gigantism in Scottish island wrens",
-      "link": "https://phys.org/news/2026-05-scientists-evolution-gigantism-scottish-island.html",
-      "date": "2026-05-28 10:00",
-      "summary": "A new study of British wrens has provided new insights into the inner workings of \"island syndromes,\" according to research led by..."
+      "title": "Bare supercontinent may have tipped ancient Earth into 'Snowball' phase",
+      "link": "https://phys.org/news/2026-05-supercontinent-ancient-earth-snowball-phase.html",
+      "date": "2026-05-28 15:20",
+      "summary": "About a billion years ago, Earth started to come into its own. It was past the awkwardness of its younger years full of growing pa..."
     },
     {
-      "title": "Happy, who taught researchers that elephants can recognize themselves, is euthanized at Bronx Zoo",
-      "link": "https://phys.org/news/2026-05-happy-taught-elephants-euthanized-bronx.html",
-      "date": "2026-05-28 09:10",
-      "summary": "Happy, a Bronx Zoo elephant who gave researchers new insight into the animal's behavior and became the crux of a closely watched a..."
+      "title": "Teen sex survey highlights violence concerns",
+      "link": "https://phys.org/news/2026-05-teen-sex-survey-highlights-violence.html",
+      "date": "2026-05-28 15:20",
+      "summary": "Australian teens are experiencing high rates of intimate partner violence, one in 10 are relying on the withdrawal method for cont..."
     }
   ],
   "The Guardian Edu": [
@@ -289,37 +289,55 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Mainland Chinese patient first to be moved north under cross-border ambulance scheme",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3355191/mainland-chinese-patient-first-be-moved-north-under-cross-border-ambulance-scheme?utm_source=rss_feed",
-      "date": "2026-05-28 11:14",
-      "summary": "A mainland Chinese woman injured while travelling in Hong Kong has become the first patient transferred from the city to the mainl..."
+      "title": "Hong Kong approves smart IoT fire alarms for 3,600 old buildings after pilot scheme",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3355211/hong-kong-approves-smart-iot-fire-alarms-3600-old-buildings-after-pilot-scheme?utm_source=rss_feed",
+      "date": "2026-05-28 13:20",
+      "summary": "Hong Kong’s Fire Services Department has given approval for 3,600 old low-rise residential buildings to install a new Internet of ..."
     },
     {
-      "title": "Mainland Chinese react as Hong Kong tightens access to offshore investment accounts",
-      "link": "https://www.scmp.com/economy/china-economy/article/3355187/mainland-chinese-react-hong-kong-tightens-access-offshore-investment-accounts?utm_source=rss_feed",
-      "date": "2026-05-28 11:00",
-      "summary": "As news spread on Wednesday that Hong Kong banks were tightening scrutiny on mainland Chinese clients opening savings and investme..."
+      "title": "Veteran lawyer seeks judicial review over alleged illegal structures on his home",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3355210/veteran-lawyer-seeks-judicial-review-over-alleged-illegal-structures-his-home?utm_source=rss_feed",
+      "date": "2026-05-28 13:09",
+      "summary": "A veteran Hong Kong barrister ordered to demolish alleged illegal structures on his home has lodged a judicial challenge after bui..."
     },
     {
-      "title": "Hong Kong exports surge 43% in April, driven by strong demand for AI electronics",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355186/hong-kong-exports-surge-43-april-driven-strong-demand-ai-electronics?utm_source=rss_feed",
-      "date": "2026-05-28 10:51",
-      "summary": "Hong Kong’s exports rose by nearly 43 per cent year on year in April, driven by strong global demand for artificial intelligence-r..."
+      "title": "Hong Kong bus driver suspended after video shows him hands-free at the wheel",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3355207/hong-kong-bus-driver-suspended-after-video-shows-him-hands-free-wheel?utm_source=rss_feed",
+      "date": "2026-05-28 13:03",
+      "summary": "A Hong Kong franchised bus operator has suspended a driver after video footage surfaced online showing him operating a vehicle wit..."
     },
     {
-      "title": "Search launched after Lantau hiker goes missing amid Hong Kong heatwave",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3355183/search-launched-after-lantau-hiker-goes-missing-amid-hong-kong-heatwave?utm_source=rss_feed",
-      "date": "2026-05-28 10:51",
-      "summary": "Hong Kong authorities launched a search on Thursday for a 52-year-old man who failed to return home after setting out on a hike on..."
+      "title": "El Nino could turn 4-7 tropical cyclones this year into super typhoons: Observatory",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3355209/el-nino-may-turn-coming-tropical-cyclones-super-typhoons-observatory?utm_source=rss_feed",
+      "date": "2026-05-28 13:02",
+      "summary": "The El Nino weather phenomenon could turn the four to seven tropical cyclones predicted to hit Hong Kong this year into super typh..."
     },
     {
-      "title": "Greater Bay Area firms ‘cautious’ about hiring but hybrid tech talent in demand",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3355182/greater-bay-area-firms-cautious-about-hiring-hybrid-tech-talent-demand?utm_source=rss_feed",
-      "date": "2026-05-28 10:47",
-      "summary": "Over seven in 10 regional companies operating in the Greater Bay Area are maintaining a “cautious stance” on expansion, planning t..."
+      "title": "Solar, so good: Hong Kong’s new landfill-based plant can power 360 homes",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3355205/solar-so-good-hong-kongs-new-landfill-based-plant-can-power-360-homes?utm_source=rss_feed",
+      "date": "2026-05-28 12:54",
+      "summary": "Hong Kong has launched a new solar farm built on restored landfill in Tseung Kwan O that aims to cut carbon emissions by an amount..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "First quantum grandfather clock could probe where gravity comes from",
+      "link": "https://www.newscientist.com/article/2527807-first-quantum-grandfather-clock-could-probe-where-gravity-comes-from/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-27 11:00",
+      "summary": "Researchers have designed a quantum version of a pendulum clock. It could shed light on timekeeping in the quantum realm..."
+    },
+    {
+      "title": "Start-ups are racing to revolutionise mathematics with AI",
+      "link": "https://www.newscientist.com/article/2528160-start-ups-are-racing-to-revolutionise-mathematics-with-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-28 13:00",
+      "summary": "AI start-ups with hundreds of millions of dollars in funding are hiring mathematicians and building AI systems that they hope will..."
+    },
+    {
+      "title": "3D-printed lymph nodes could widen access to CAR T-cell therapy",
+      "link": "https://www.newscientist.com/article/2528140-3d-printed-lymph-nodes-could-widen-access-to-car-t-cell-therapy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-28 12:00",
+      "summary": "The cost of CAR T-cell therapy means that the highly effective cancer treatment is unavailable in many parts of the world. But a n..."
+    },
     {
       "title": "Millions of planets might form around supermassive black holes",
       "link": "https://www.newscientist.com/article/2528091-millions-of-planets-might-form-around-supermassive-black-holes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -331,24 +349,6 @@
       "link": "https://www.newscientist.com/article/2527775-wealthy-people-with-environmental-ideals-are-the-biggest-emitters/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-05-27 14:00",
       "summary": "Among people of high socioeconomic status, love for nature corresponds with a bigger environmental footprint – and there's an obvi..."
-    },
-    {
-      "title": "NASA plans a base on the moon spanning hundreds of square kilometres",
-      "link": "https://www.newscientist.com/article/2528075-nasa-plans-a-base-on-the-moon-spanning-hundreds-of-square-kilometres/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-27 13:05",
-      "summary": "Three missions slated to launch this year will begin to search the lunar surface for a suitable base location..."
-    },
-    {
-      "title": "First quantum grandfather clock could probe where gravity comes from",
-      "link": "https://www.newscientist.com/article/2527807-first-quantum-grandfather-clock-could-probe-where-gravity-comes-from/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-27 11:00",
-      "summary": "Researchers have designed a quantum version of a pendulum clock. It could shed light on timekeeping in the quantum realm..."
-    },
-    {
-      "title": "We may finally know why gold stays so shiny",
-      "link": "https://www.newscientist.com/article/2527765-we-may-finally-know-why-gold-stays-so-shiny/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-05-27 09:00",
-      "summary": "Gold is chemically inert and so doesn't tarnish, but exactly why had been a mystery..."
     }
   ]
 }
