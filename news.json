@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Ultrasound-based pacemaker noninvasively steadies the heart",
+      "link": "https://news.mit.edu/2026/ultrasound-based-pacemaker-noninvasively-steadies-heart-0602",
+      "date": "2026-06-02 09:00",
+      "summary": "The new design could offer a surgery-free alternative to traditional cardiac implants...."
+    },
+    {
       "title": "New propulsion system could make tiny satellites both fast and fuel-efficient",
       "link": "https://news.mit.edu/2026/new-propulsion-system-could-make-tiny-satellites-fast-fuel-efficient-0601",
       "date": "2026-06-01 21:15",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/mit-researchers-develop-low-cost-technique-lithium-from-rocks-0528",
       "date": "2026-05-28 18:00",
       "summary": "The low-temperature process could unlock cleaner lithium from America’s abundant hard rock while minimizing waste...."
-    },
-    {
-      "title": "A new sensor could enable earlier detection of bladder cancer",
-      "link": "https://news.mit.edu/2026/new-sensor-could-enable-earlier-detection-bladder-cancer-0528",
-      "date": "2026-05-28 16:00",
-      "summary": "Using a catheter coated with carbon nanotubes, researchers can detect biomarkers produced by cancer cells in the bladder...."
     }
   ],
   "Harvard Gazette": [
@@ -65,34 +65,34 @@
   ],
   "Stanford News": [
     {
-      "title": "AI Outperforms Law Professors in Stanford Law Study - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc1hpbC03OUlCZDRxM2tvNTJiS3NiR2Z3MlgxVENoWXJfOENvbGltek9tU1BkVTVVUk81eC16NEIwYzczV0JRTUdoVVRrT2NyVVo0RHJEQzZ2N1VaY1VqUXpQYjNRNzMxczZlVGk5Vzc5LThucEtOUE1oU01RMjVubmRfVUVzaTZNeEpN?oc=5",
-      "date": "2026-06-01 17:30",
-      "summary": "AI Outperforms Law Professors in Stanford Law Study  Stanford Law School..."
+      "title": "Stanford quantum computing breakthrough uses twisted light to work without extreme cooling - ScienceDaily",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjbTB4dW9ISFZTb2QtZUc5dGF5TUo2ejJwZS1WaFo3LUN2d1VQb2dzNFR0Rnpzc0hlTlZteHhha0tkSWttTlpZYzRZQU01dWpEQnVueWpoY1Q4UldrczFwTkFEeU42enZmNVYyM2VVTQ?oc=5",
+      "date": "2026-05-30 05:10",
+      "summary": "Stanford quantum computing breakthrough uses twisted light to work without extreme cooling  ScienceDaily..."
     },
     {
-      "title": "Stanford GSB unveils new name for entrepreneurial studies center - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS0ZIb0ZQRmFIb25KenF4Nlc1dENpNjhUS2xTMnp5WW5jNlhaaDEwUDhwZGx4UXZURU5yWUt4VjRLaklIWG5yR0V5NllvMTZFaXptZE5VT1FpTnlvOHg1UFRfZHZkNDRYTU9Wc2xXVnlybUdkRHg3RTlkeURUUlNaMlNJUVk0bEJzWnYtdEpR?oc=5",
-      "date": "2026-06-01 17:29",
-      "summary": "Stanford GSB unveils new name for entrepreneurial studies center  Stanford Report..."
+      "title": "INVESTIGATION: Stanford Receives Chinese State-linked Donations - The Stanford Review",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR21yRjhBZXpKZ20xNEZDVC0yU3dnUTZNUjB1TVBVckRtVjdCbTBhd216cDVEVW1kT3ZCZTJBMDRzem1vZDZ0NEdvNXRPelJqSHFBTjdRSldmNnhLckxKaUlPeFNfVjFmTDBwejlNeGk5a3VTbmRVX2h0d0IxVG1NMi1DY3ozby1JbXdFdi1lZ1M5MlVPRTV3?oc=5",
+      "date": "2026-06-01 23:22",
+      "summary": "INVESTIGATION: Stanford Receives Chinese State-linked Donations  The Stanford Review..."
     },
     {
-      "title": "Lamya Butt named student speaker for 2026 Baccalaureate celebration - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYXVTaHlaeVBGaEUxSDZqVGV0dlFLMHozMzhHX0hMU1c0TnhFM0RuMDUyTGFiU2xKMW40UmZycEVPdkRZeDVaU1prRVNCdl9qRnZtQ3VkaFdySEdmMVhNcm5OT3VKZ2p3eXBmUTNoTmlZaFFCQWE4c0FHTTREcDVXOUdJcGF4aUlGZmZMTmRadG5OSlE1SlRIaGV3?oc=5",
-      "date": "2026-06-01 21:10",
-      "summary": "Lamya Butt named student speaker for 2026 Baccalaureate celebration  Stanford Report..."
+      "title": "Stanford to offer K-pop course, open to the general public - KTVU",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JWVRtcmV4d3V6czBkbGFVWHQ2SzEwYjkzWVBtTlYxRjRtWTRvS0ZNM2VMUXdNZGR6MUVPZi1ERGwyMTZQTnE0M2xtUUNaMGlTTVotZWlkc3lOaVZBRUx6dnpxU2RvNEhPQnNQMWNVYVdJTjEzRDdJZkpGZUgwZ9IBgwFBVV95cUxOcDhVaFhBZ0JUQzZIQjIwTWM2T2haaUhBcUtFcERoZ2F1THpMOWZJcGY2QXpPSjZYbHQ4amlLWnZGdVBDTkh5ZmtJOWdMczZMU1E3NHNuU3gtRlNuVDctUnRJZjAtNkZXYnZ6YVdHdTFOTU9GQUVsVlZVMElQQ2IxWkpKZw?oc=5",
+      "date": "2026-06-02 00:43",
+      "summary": "Stanford to offer K-pop course, open to the general public  KTVU..."
     },
     {
-      "title": "As Stanford and Amazon await, Fort Worth high school grad defines success by helping others - Fort Worth Report",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVkp5SDZuRENyeE1ZRTE3TE04RnprZ0puNTZuVkNlUVBJU2JxQUItQk9YLWQzYl9DaXIyVjVkT0VPbnM0OTBOR3pEMFN0cUZYVE9xYWp5TDNhZWtvT3ZRVUszcVhRZUI2Y2NxdlZLMXRlYUZtVko4aGxJRVlsS1p3Z2xVc2lsR3oyOVF2QV9jWGhHWW50d2lZRzFEYTdSY3YtTUlkY2JQdjJObE84MlJPSms3WFV0UkZZaUZWUkRZenZycVZSeXp5VGp3?oc=5",
-      "date": "2026-06-01 22:00",
-      "summary": "As Stanford and Amazon await, Fort Worth high school grad defines success by helping others  Fort Worth Report..."
+      "title": "Stanford cut Beyond Sex Ed without student input, then advised staff to stop helping students fight back - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43TFQybGN6TXA0QU1nWUFKN0tadjJwc0tjMFVRZk4zeUhqRm54bEdfQ0NsU0tjTk5vOVBTeHhtV181S212dXNUR19FZGRNdzFNUmRSU3lTTXNHbTNDSXI4RFZKcVNmRzlhUDBURV9YdDZxUQ?oc=5",
+      "date": "2026-06-01 10:49",
+      "summary": "Stanford cut Beyond Sex Ed without student input, then advised staff to stop helping students fight back  The Stanford Daily..."
     },
     {
-      "title": "One New Thing: Stanford’s AI Tutor CoPilot Proves Tech Can Enhance Human Teaching - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb29HdlYtWU5oRHdCM0RiQ3c5YWkzOXd1N1FUOWhFVUdwR25wa2VvOGhKckhlTGdnNjVUazRNY3RGQnZBbHQ4MkdjWl9PMGs5VXVvalF5TThtVFBKZzRIU0M4dVpicmFIcXdfSThHRGFlTVJLeVJtX3FMSHp5alU5T0RrRmNTb3Bud3k3RU4wTEpUQW12UWlMLVhjeGk4Y0NNRGNkTmNDMA?oc=5",
-      "date": "2026-05-28 18:11",
-      "summary": "One New Thing: Stanford’s AI Tutor CoPilot Proves Tech Can Enhance Human Teaching  U.S. News & World Report..."
+      "title": "University of Ibadan Medicine Graduate Bags Achievement at Stanford University in US, Shares Story - Legit.ng",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWTlUcEpqQmhlcFlvdWthTW5Ia1FBX0xKMUhPbHhPQ3dWVWJvZVNRZHVyQmttME9hVWs5U1E0ek05TmM2SUw3UTBNSGM5UTNzYVlhcU1mUHNpVFp3N0Z4TkNFT1BnTUxqY2VSY2J1UkNveVUxQTRGblNSTS1qOHV2TW9uM3AtNTRsSi1BUlhud0VEQzN1UFRNbUlMSEtNbHUxWDJqbHNKZlprUkhpaUMxS1Y4TER1Y2xpR2R2TEFqYw?oc=5",
+      "date": "2026-05-31 15:04",
+      "summary": "University of Ibadan Medicine Graduate Bags Achievement at Stanford University in US, Shares Story  Legit.ng..."
     }
   ],
   "Nature Careers": [
@@ -161,10 +161,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbURTRGdXd0FJdXdDeHdxbHFpdWdiSUZ4eG0tZ1E1UmVOSHpZbnpiNEhweC1HclNuZkt1bmd2RVowVnRvZnliTjktcGNkb3JENmRXTVJqN3lXTWNnWE5zWjV4R0dqU050Z2p2ZnJxb1N1ZTlhci0tUndRbFNPdVctOVFNM2pWcUtNZExrSFV6cjhhV2VLSGtQWTRLbTNxZjdtNFJjVTQzS0YtOXNFQWllVUJrS2dGSkxpTG4w?oc=5",
-      "date": "2026-05-31 20:09",
-      "summary": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China  Reuters..."
+      "title": "Anthropic moves toward IPO, stepping up race with OpenAI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc?oc=5",
+      "date": "2026-06-01 16:04",
+      "summary": "Anthropic moves toward IPO, stepping up race with OpenAI  Reuters..."
+    },
+    {
+      "title": "AI debt sales reshape global corporate bond markets - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOV9YVVpRZUlZdVNpXzhTRkxRQVh4NzRfNi0zbXJ5MmlnbEpnbDRvdWg2eFNybjdXNVlReGdWWDZwMGtGcGZKQ25PejZhUVByYzU2b1hXc0dvd3pPMVpFOUs4QkpNMmxFd0N1U1hZanpVNzMtUHdPdEktRXgyRGhhT2QycnRLNWxwUEd4ZHNCUXBjeU4wVXMyTmREV1YwRE5SWlpfNVRKYw?oc=5",
+      "date": "2026-06-01 05:01",
+      "summary": "AI debt sales reshape global corporate bond markets  Reuters..."
+    },
+    {
+      "title": "HPE surges 29% as AI infrastructure boom boosts server demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS19WaFIwYktvNHJpLTJmTHA4VFBMUHFLRVVEWTdqVTYtMXVpUHBPX1pWUkhnWXhCZDJNdmY0MDQ3UkRwSzBZaDVqeUZDcTdZRHhpLV81aXp6MHZJM1Z4dlVSbEZIbzFWYUllNjJ4NTVzNVJSTmg5aTd3VDBCVWNjalc0NVVvdUJ4V1FsaG81X09hWkR2RU1RQVBzTzdrdWR6a0dJaw?oc=5",
+      "date": "2026-06-02 08:30",
+      "summary": "HPE surges 29% as AI infrastructure boom boosts server demand  Reuters..."
     },
     {
       "title": "Nvidia CEO says co can meet AI chip demand despite ongoing supply constraints- Reuters - Investing.com",
@@ -175,23 +187,17 @@
     {
       "title": "Alphabet plans to raise $80 billion for AI goals, Berkshire to invest $10 billion - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaUNJWklGZ01OTElsSDZlbDBsN1pGeFZ2NTVqdHBFNTFmdkViM2s3YmRvTWk2WTZZU2J0TnVxWHVJeU9hMjUzZVhVend5TzJOQmp4dXZFa0xfXzVTMFZYLVhBMmJKbTZfbzd0V25WTFpmV0FpUThNYzhyVkUwODQtRVR5Y0YyQVVPZXB3RkJwNEd3bVdKZS14cjZsRlUxY050SVNxVnlQbW1oWk9Y?oc=5",
-      "date": "2026-06-01 22:31",
+      "date": "2026-06-01 21:11",
       "summary": "Alphabet plans to raise $80 billion for AI goals, Berkshire to invest $10 billion  Reuters..."
-    },
-    {
-      "title": "Anthropic moves toward IPO, stepping up race with OpenAI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc?oc=5",
-      "date": "2026-06-01 16:04",
-      "summary": "Anthropic moves toward IPO, stepping up race with OpenAI  Reuters..."
-    },
-    {
-      "title": "Asia stocks slide as Middle East anxiety offsets AI optimism - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEdoZ1Q1dzhvd1BRTU5aOF8yeWhTbUZla1A1MzZucXd1ai1Ud0xSemdBOTUwNXVPc3NRU3p6NmE1YlhUYkVZWW1ZRFg5MHh2Q1ZtaTdZUERPNU5Xb2doMk95ODlvczhLX2RPOE5qTGxyaVZZdjNBcXVmQUEzcWhHc1N2UQ?oc=5",
-      "date": "2026-06-02 00:38",
-      "summary": "Asia stocks slide as Middle East anxiety offsets AI optimism  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "How small businesses can leverage AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNkNkX0JKZENjaUQxMDdsLVBhS2VZaG1QMDBSby1hZ1V4MU00T2FFZ1NQaGlmVkFHNms1NVVtcDZUS3VRSnBGMTlORExmS1lzU2p5cG1pQlV4U2xkQWJ2LTNSQjM5LXI4MWJXbC1ZeVBsVmJHb2pZTC00QmJfZzNqM0ZvUGVQQldIY05UR3U5OXJOSkXSAZgBQVVfeXFMTzZzOEJrZ19kbktkNUdJX0VFRFFEaWs1cUhzeWVraG11WjRXVWwyVExwUHBNbFdXdDR5NERzcXRrRmdaYmxidnk5bF9vaWRXMlpZTldSR2l5LWM0WUMzX0tkOXlkV1hqbDlhYmtHZHkwZVVEZzlyUFByVXNTdzFUME5fRjBVSjhockdZdEZhaVdLcVNuVTN6a2g?oc=5",
+      "date": "2026-06-02 09:00",
+      "summary": "How small businesses can leverage AI  MIT Technology Review..."
+    },
     {
       "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2FuRkthYlMxeHROLVZfWGotRUNla3B2OWlMbzJyR0thQmNfNjd0SjF2NVZWRGFmNG0zZHF1NzFTYmtyVW9PLW9EbW13ZUp2bm04YzFVLVZOR1lZSlowUERrN0RGSU5SMnlMS1JnTXo4eGcya2FfTzBLWjd2WWhQbVdWeVN1VWk10gGOAUFVX3lxTE1FSUpJX2EyRElaMk5NZW9hZEhRSzdlS1U1eUM4TDFuZnh6YXBFTUlfQUx1aTNPV0dTaGo1TzhkNTFPVzlKOXQtSW1Lc3ZUS2tiWGFCMFFFQUlmYjRpZTBJVTNLTURYb1VFcllpYjBSbjNaU09zdzZmWVJMUEd3NEZINnkyb1UzQW1yYjNoS0E?oc=5",
@@ -205,25 +211,37 @@
       "summary": "It’s time to address the looming crisis in entry-level work  MIT Technology Review..."
     },
     {
-      "title": "AI chatbots are giving out people’s real phone numbers - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJYU2ZXb2RNSXM4UkhOZzFrNTVEYU50WHlRVlp5T1cyNXFoUXBoNl9XX0ZXTWNsZjAyWTNSRF9YQnJ5UUxCR19HeTFpdGxCNVNiZFQzdHpwVUU2SFVXeHUxd0UwM0ZfeGpwYzZxUEtONHREX0dhLUVydmd2SVdBVVoyOGFhR0Y1akxXdjZ3UENJUF9CMHRzM21EX2RKajRqTmhVRTZGck9kUdIBrwFBVV95cUxNd0pHWnh4aEU3elVyWDBocEtIR2lJMDJONUJoU2kxeV92cEY3dGREVlVCWURuOEdzZVFSNXpVSW15alBveFhpQU5FTXZveFFhc2dJXzZkaGRzUzhoMnhGZldWa3ZJdkRLTE1mZnJLM000UE0tNmJ3bmQwWmZ6djl4UVBfZGZxWmhSMGlqNDYyU0p3cjVxX1ZKV194bGYyME8ybVJLMlhiT2R4Q1FKTmlJ?oc=5",
-      "date": "2026-05-13 07:00",
-      "summary": "AI chatbots are giving out people’s real phone numbers  MIT Technology Review..."
-    },
-    {
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcFEtYjd6eGxwTjRUd0FXWHlOaUl2TEd1cTFoNDVjQlBhQUU2NjNFbk9yNnVxTHZNOWJIeTFhRWhKdjZ1WlBzdS0xRllPWm5SOUU2WVpySEl6cU5LUzRNWnRXNGo1SnR0R1BPUG9fbkRWTGE0cHdaU2dvTE11bjBJSEVWTXZfRDBrYjFQSXctOEJJRGpvZUhrdnZlLUFoVVh1clR2NDlJOERfdFlzTmJPa2FhNlN2N3A1NmtNbzV0a2lONjhFd0hJakFBdWJOZ0hkcXpWSDc0S2tVUdIB3wFBVV95cUxOaUhTU3J2MWdfNkczVlFIRGxXeXN4akJzRWdtWVhVdlFtMy1zNFBjVTdWSTZ1UU5NRVUyTjBYYV94SEt0U2cwV2UtUXo4SnNwdVd0U0MwY21maG05VDlLRVdLbE9FazJFUURoY2FjcjZsam9BNDBtV2xveUtpWUliQjMyQUc1N0pxUFhvYTNtLVdqVXRDMHJwRHR4NjVLR0ZaTngyVl95YzI5VjZiZy1lNUJadWszRTIwYVBzV01vRmRMVlhjOFZFUGR1cW1Ed3VlRXNXZzNGUWkwUmtLd3hn?oc=5",
       "date": "2026-05-29 10:00",
       "summary": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment  MIT Technology Review..."
     },
     {
-      "title": "How a new extraction process could unlock the world’s lithium - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeGNjLTZseWM3QmxEX29fc2VPQ1dMQUtkV2gwQXIxcFcyNGNRRm1FQWlwRVNYZF9MTkpRWHlaT3Noek5LVTMtd3ZscUctN0ZFclI1X1R0Y3NTNjA2LW90SXZSLS02VlNsbF9pYzlzSHRfbFI5Y0VMX2hEaFlFaklRd0hhc1F5WnJn0gGOAUFVX3lxTFBWZ0VkWE5UeUVaN0FaLVN1a0VYRjVHd0pHTDNIbi1PcjRIZDR5Sk5wbXR1YkQxTkcxbG9DMEJqeTZkMkZMcGZndFVvUmhORGdiVFZiUjlWanc1eFRIaExuVElsV0VOU2ZWZ29rbFpjc3NhN2R5Z1NrMmwteERvR3FsRVE1MW5od3V6WTctNEE?oc=5",
-      "date": "2026-05-28 18:01",
-      "summary": "How a new extraction process could unlock the world’s lithium  MIT Technology Review..."
+      "title": "AI chatbots are giving out people’s real phone numbers - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJYU2ZXb2RNSXM4UkhOZzFrNTVEYU50WHlRVlp5T1cyNXFoUXBoNl9XX0ZXTWNsZjAyWTNSRF9YQnJ5UUxCR19HeTFpdGxCNVNiZFQzdHpwVUU2SFVXeHUxd0UwM0ZfeGpwYzZxUEtONHREX0dhLUVydmd2SVdBVVoyOGFhR0Y1akxXdjZ3UENJUF9CMHRzM21EX2RKajRqTmhVRTZGck9kUdIBrwFBVV95cUxNd0pHWnh4aEU3elVyWDBocEtIR2lJMDJONUJoU2kxeV92cEY3dGREVlVCWURuOEdzZVFSNXpVSW15alBveFhpQU5FTXZveFFhc2dJXzZkaGRzUzhoMnhGZldWa3ZJdkRLTE1mZnJLM000UE0tNmJ3bmQwWmZ6djl4UVBfZGZxWmhSMGlqNDYyU0p3cjVxX1ZKV194bGYyME8ybVJLMlhiT2R4Q1FKTmlJ?oc=5",
+      "date": "2026-05-13 07:00",
+      "summary": "AI chatbots are giving out people’s real phone numbers  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Icy moons' ability to host life could be revealed through an ecology-based method",
+      "link": "https://phys.org/news/2026-06-icy-moons-ability-host-life.html",
+      "date": "2026-06-02 09:40",
+      "summary": "New observatories and spacecraft missions are probing environments in our solar system that could potentially host life but have l..."
+    },
+    {
+      "title": "Strange winds on seven hot Jupiters reveal strongest signs yet of exoplanet magnetic activity",
+      "link": "https://phys.org/news/2026-06-strange-hot-jupiters-reveal-strongest.html",
+      "date": "2026-06-02 09:00",
+      "summary": "A team of astronomers has found the strongest evidence yet that some planets outside our solar system may be magnetic. Using the E..."
+    },
+    {
+      "title": "Meteor as heavy as an elephant causes widespread speculation across New England",
+      "link": "https://phys.org/news/2026-06-meteor-heavy-elephant-widespread-speculation.html",
+      "date": "2026-06-02 08:15",
+      "summary": "When the double boom rang out in New England over the weekend, shaking homes and sending pets fleeing, questions started flooding ..."
+    },
     {
       "title": "Biodiversity offsetting shows promise in pollinator conservation",
       "link": "https://phys.org/news/2026-06-biodiversity-offsetting-pollinator.html",
@@ -235,32 +253,14 @@
       "link": "https://phys.org/news/2026-06-climate-neutral-plastics-cosmetics-bacteria.html",
       "date": "2026-06-02 03:40",
       "summary": "Plastics, medicines, cosmetics—there are very few everyday products that do not rely on using fossil resources. A European researc..."
-    },
-    {
-      "title": "How the EU's carbon price on imports strengthens climate policies globally",
-      "link": "https://phys.org/news/2026-06-eu-carbon-price-imports-climate.html",
-      "date": "2026-06-02 02:40",
-      "summary": "In early 2026, the EU extended its domestic carbon pricing to key products from beyond its borders. This is managed through the \"C..."
-    },
-    {
-      "title": "Why the world's most ambitious coal phase‑out deal has failed, and what it means for climate finance",
-      "link": "https://phys.org/news/2026-06-world-ambitious-coal-phaseout-climate.html",
-      "date": "2026-06-02 02:00",
-      "summary": "In December 2025, Indonesia quietly abandoned plans to close the Cirebon-1 coal power plant...."
-    },
-    {
-      "title": "Roman telescope's massive infrared mirror is ready to fly",
-      "link": "https://phys.org/news/2026-06-roman-telescope-massive-infrared-mirror.html",
-      "date": "2026-06-02 01:20",
-      "summary": "NASA has completed its final inspection of the primary mirror on the Roman Space Telescope, which measures 2.4 meters (7.9 feet) i..."
     }
   ],
   "The Guardian Edu": [
     {
-      "title": "Shrinking graduate premium sours views on value of a university education, UK poll shows",
+      "title": "Third of people no longer believe degree is worth the time or money, UK poll shows",
       "link": "https://www.theguardian.com/education/2026/jun/02/shrinking-graduate-premium-sours-views-on-university-poll-shows",
       "date": "2026-06-02 05:00",
-      "summary": "Worries over AI and loan debt mean 34% of people think degrees are usually not worth the time and moneyThere was a time when going..."
+      "summary": "Younger graduates, with experience of the fee system, are more disillusioned than those who did not pay fees, according to the sur..."
     },
     {
       "title": "University of Manchester to investigate sexual harassment of female medical students",
@@ -289,34 +289,66 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Calls for faster rehousing of evicted Hong Kong subdivided flat tenants",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3355644/calls-faster-rehousing-evicted-hong-kong-subdivided-flat-tenants?utm_source=rss_feed",
-      "date": "2026-06-02 05:08",
-      "summary": "Hong Kong authorities should offer more timely and flexible urgent accommodation for residents uprooted by a new regulation aimed ..."
+      "title": "Starry Lee urges Hong Kong officials to respect lawmakers’ dissent amid pushback",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3355692/starry-lee-urges-hong-kong-officials-respect-lawmakers-dissent-amid-pushback?utm_source=rss_feed",
+      "date": "2026-06-02 08:53",
+      "summary": "Hong Kong Legislative Council president Starry Lee Wai-king has urged officials to respect lawmakers’ dissenting views amid a rece..."
     },
     {
-      "title": "China steps up Alzheimer’s, Parkinson’s drug push, looks to TCM",
-      "link": "https://www.scmp.com/plus/news/china/science/article/3355620/china-steps-alzheimers-parkinsons-drug-push-looks-tcm?utm_source=rss_feed",
-      "date": "2026-06-02 02:37",
-      "summary": "To head off a public health crisis, China is stepping up efforts to find new treatments for Alzheimer’s disease and Parkinson’s di..."
+      "title": "Hong Kong retail sales rise 8.6% in April on back of higher visitor arrivals",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355689/hong-kong-retail-sales-rise-86-april-back-higher-visitor-arrivals?utm_source=rss_feed",
+      "date": "2026-06-02 08:48",
+      "summary": "Hong Kong’s retail sales rose by 8.6 per cent year on year in April, extending the sector’s recovery for a 12th consecutive month,..."
     },
     {
-      "title": "Education authorities say sorry after parents get school allocation messages early",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3355621/errors-early-primary-school-allocation-messages-spark-confusion-among-hong-kong-parents?utm_source=rss_feed",
-      "date": "2026-06-02 02:23",
-      "summary": "Hong Kong education authorities have apologised after parents received SMS notifications of their children’s primary school alloca..."
+      "title": "‘Humiliation’: video shows basketball coach slapping boy, ordering self-harm",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3355672/humiliation-video-shows-basketball-coach-slapping-boy-ordering-self-harm?utm_source=rss_feed",
+      "date": "2026-06-02 07:41",
+      "summary": "A viral video showing a basketball coach forcing a pupil to slap himself in front of others at a Hong Kong school has sparked conc..."
     },
     {
-      "title": "Hong Kong leader’s visit set to unlock Kazakh flights, with incentives eyed",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355604/hong-kong-leaders-visit-set-unlock-kazakh-flights-incentives-eyed?utm_source=rss_feed",
-      "date": "2026-06-02 00:30",
-      "summary": "A lack of direct flights has been a bugbear to Hong Kong and Kazakhstan forging closer ties but with the city’s leader now in Asta..."
+      "title": "Hong Kong couple arrested after refusing DNA test for baby’s birth registration",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3355666/welfare-chief-steps-parents-birth-cert-controversy-still-refuse-dna-test?utm_source=rss_feed",
+      "date": "2026-06-02 06:51",
+      "summary": "Hong Kong police have arrested the parents of a baby without documentation after they continued to refuse a DNA test for the boy’s..."
     },
     {
-      "title": "Students turn local pain points into social innovation projects in Hang Seng x HKFYG “Seek Our Ways” Ideation Programme",
-      "link": "https://www.scmp.com/presented/news/hong-kong/topics/seek-our-ways-ideation-programme/article/3354520/students-turn-local-pain-points-social-innovation-projects-hang-seng-x-hkfyg-seek-our-ways-ideation?utm_source=rss_feed",
+      "title": "Vehicle fire causes partial closure of Hong Kong–Zhuhai–Macau Bridge",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3355663/vehicle-fire-causes-partial-closure-hong-kong-zhuhai-macau-bridge?utm_source=rss_feed",
+      "date": "2026-06-02 06:38",
+      "summary": "A vehicle fire in the undersea tunnel of the Hong Kong–Zhuhai–Macau Bridge caused major traffic disruption on Tuesday afternoon, p..."
+    }
+  ],
+  "New Scientist": [
+    {
+      "title": "'Transformative' pancreatic cancer drug doubles survival time",
+      "link": "https://www.newscientist.com/article/2528738-transformative-pancreatic-cancer-drug-doubles-survival-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-01 18:11",
+      "summary": "People with advanced pancreatic cancer taking an experimental daily pill lived nearly twice as long as those receiving chemotherap..."
+    },
+    {
+      "title": "How human error became a weapon against large language models",
+      "link": "https://www.newscientist.com/article/2528529-how-human-error-became-a-weapon-against-large-language-models/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-01 16:00",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nA foul-smelling river in Tuen Mun, mountains of parcel..."
+      "summary": "Alan Turing proposed a test for machine intelligence: could a computer convince a human it was human? We have begun conducting the..."
+    },
+    {
+      "title": "Huge study of Alzheimer’s genetics identifies new drug targets",
+      "link": "https://www.newscientist.com/article/2528511-huge-study-of-alzheimers-genetics-identifies-new-drug-targets/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-01 12:00",
+      "summary": "Almost 50 more genes have been flagged as being linked to Alzheimer’s, along with changes in activity in crucial cells that disapp..."
+    },
+    {
+      "title": "Geoengineering can thicken Arctic sea ice, but for how long?",
+      "link": "https://www.newscientist.com/article/2528409-geoengineering-can-thicken-arctic-sea-ice-but-for-how-long/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-01 08:00",
+      "summary": "Two companies are aiming to preserve Arctic ice by pumping water onto the sheet and letting it freeze, but only one of the trials ..."
+    },
+    {
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-05-29 09:00",
+      "summary": "A cancer-killing virus has stopped pancreatic tumours from growing and spreading in three people in an initial safety trial, raisi..."
     }
   ]
 }
