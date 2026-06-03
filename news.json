@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT researchers teach AI models to interpret charts",
+      "link": "https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603",
+      "date": "2026-06-03 04:00",
+      "summary": "The new ChartNet training dataset could improve the accuracy of vision-language models that help analyze business trends or interp..."
+    },
+    {
       "title": "Ultrasound-based pacemaker noninvasively steadies the heart",
       "link": "https://news.mit.edu/2026/ultrasound-based-pacemaker-noninvasively-steadies-heart-0602",
       "date": "2026-06-02 09:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/enzymes-assemble-into-droplets-can-speed-cellular-reactions-0601",
       "date": "2026-06-01 15:00",
       "summary": "MIT biologists find highly concentrated droplets can help cells keep enzymes organized and control growth signals...."
-    },
-    {
-      "title": "New laboratory at MIT aims to advance quantum research for the nation",
-      "link": "https://news.mit.edu/2026/new-laboratory-aims-to-advance-quantum-research-nation-0528",
-      "date": "2026-05-28 21:20",
-      "summary": "The Quantum Systems Laboratory will catalyze quantum innovation and be open to government, academic, and industry researchers...."
     }
   ],
   "Harvard Gazette": [
@@ -65,22 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "INVESTIGATION: Stanford Receives Chinese State-linked Donations - The Stanford Review",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR21yRjhBZXpKZ20xNEZDVC0yU3dnUTZNUjB1TVBVckRtVjdCbTBhd216cDVEVW1kT3ZCZTJBMDRzem1vZDZ0NEdvNXRPelJqSHFBTjdRSldmNnhLckxKaUlPeFNfVjFmTDBwejlNeGk5a3VTbmRVX2h0d0IxVG1NMi1DY3ozby1JbXdFdi1lZ1M5MlVPRTV3?oc=5",
-      "date": "2026-06-01 23:22",
-      "summary": "INVESTIGATION: Stanford Receives Chinese State-linked Donations  The Stanford Review..."
-    },
-    {
       "title": "AI Outperforms Law Professors in Stanford Law Study - Stanford Law School",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc1hpbC03OUlCZDRxM2tvNTJiS3NiR2Z3MlgxVENoWXJfOENvbGltek9tU1BkVTVVUk81eC16NEIwYzczV0JRTUdoVVRrT2NyVVo0RHJEQzZ2N1VaY1VqUXpQYjNRNzMxczZlVGk5Vzc5LThucEtOUE1oU01RMjVubmRfVUVzaTZNeEpN?oc=5",
       "date": "2026-06-01 17:30",
       "summary": "AI Outperforms Law Professors in Stanford Law Study  Stanford Law School..."
     },
     {
-      "title": "Stanford to offer K-pop course, open to the general public - KTVU",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JWVRtcmV4d3V6czBkbGFVWHQ2SzEwYjkzWVBtTlYxRjRtWTRvS0ZNM2VMUXdNZGR6MUVPZi1ERGwyMTZQTnE0M2xtUUNaMGlTTVotZWlkc3lOaVZBRUx6dnpxU2RvNEhPQnNQMWNVYVdJTjEzRDdJZkpGZUgwZ9IBgwFBVV95cUxOcDhVaFhBZ0JUQzZIQjIwTWM2T2haaUhBcUtFcERoZ2F1THpMOWZJcGY2QXpPSjZYbHQ4amlLWnZGdVBDTkh5ZmtJOWdMczZMU1E3NHNuU3gtRlNuVDctUnRJZjAtNkZXYnZ6YVdHdTFOTU9GQUVsVlZVMElQQ2IxWkpKZw?oc=5",
-      "date": "2026-06-02 00:43",
-      "summary": "Stanford to offer K-pop course, open to the general public  KTVU..."
+      "title": "INVESTIGATION: Stanford Receives Chinese State-linked Donations - The Stanford Review",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR21yRjhBZXpKZ20xNEZDVC0yU3dnUTZNUjB1TVBVckRtVjdCbTBhd216cDVEVW1kT3ZCZTJBMDRzem1vZDZ0NEdvNXRPelJqSHFBTjdRSldmNnhLckxKaUlPeFNfVjFmTDBwejlNeGk5a3VTbmRVX2h0d0IxVG1NMi1DY3ozby1JbXdFdi1lZ1M5MlVPRTV3?oc=5",
+      "date": "2026-06-01 23:22",
+      "summary": "INVESTIGATION: Stanford Receives Chinese State-linked Donations  The Stanford Review..."
     },
     {
       "title": "Stanford cut Beyond Sex Ed without student input, then advised staff to stop helping students fight back - The Stanford Daily",
@@ -89,10 +83,16 @@
       "summary": "Stanford cut Beyond Sex Ed without student input, then advised staff to stop helping students fight back  The Stanford Daily..."
     },
     {
-      "title": "AI Beat Law Professors At Answering Questions, Study Finds—And It Wasn’t Close - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDlBYWU5THl0MEFmOWNCb3RMeU9xeHdNdzhCVWNzUUtPVG1qLUdiczd2WGQ5LXpVRnFHMzdMU25sLVl4R2NFRDl3NG4yajNYV2N3d1ZDSzg5ZV9ZdjdfdEJkVjdFeTZTY2hLLVNUaWhselZFMm9BcnRoMHVha1d0VHVsLXUzMnhBX2hGWHpTcC13MjVSTEQySlZvYmk5Z24xbXdUNnN6MFhBQ292clFqdA?oc=5",
-      "date": "2026-06-02 19:14",
-      "summary": "AI Beat Law Professors At Answering Questions, Study Finds—And It Wasn’t Close  Forbes..."
+      "title": "Stanford to offer K-pop course, open to the general public - KTVU",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JWVRtcmV4d3V6czBkbGFVWHQ2SzEwYjkzWVBtTlYxRjRtWTRvS0ZNM2VMUXdNZGR6MUVPZi1ERGwyMTZQTnE0M2xtUUNaMGlTTVotZWlkc3lOaVZBRUx6dnpxU2RvNEhPQnNQMWNVYVdJTjEzRDdJZkpGZUgwZ9IBgwFBVV95cUxOcDhVaFhBZ0JUQzZIQjIwTWM2T2haaUhBcUtFcERoZ2F1THpMOWZJcGY2QXpPSjZYbHQ4amlLWnZGdVBDTkh5ZmtJOWdMczZMU1E3NHNuU3gtRlNuVDctUnRJZjAtNkZXYnZ6YVdHdTFOTU9GQUVsVlZVMElQQ2IxWkpKZw?oc=5",
+      "date": "2026-06-02 00:43",
+      "summary": "Stanford to offer K-pop course, open to the general public  KTVU..."
+    },
+    {
+      "title": "Bold Symposium At Stanford Illuminates The Future Of AI For Mental Health - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU2xaa3Y2NnRMMkUyQjFuMTJJYkN2U1l1dnJnbW9idWx5Vk5zcWEwWFllQzJZTnhGZU5kc01RSThxc1hXYmJCa3gzNGxPS2ZHUlB0Mk5hSjFHcERMOFdFSURiQjNWTUpjMV9EXzNpMTFjQ2xxcU53emFlM3hwcUl6bjlTbklJZ2lOLXluWTAwNHlWazZOeVdWSUdzZTB3ODFzeTR0OFJPa2gzZTRIbGZRRjBZM05mal9CRnFoQTBFNUJVd00?oc=5",
+      "date": "2026-06-03 07:15",
+      "summary": "Bold Symposium At Stanford Illuminates The Future Of AI For Mental Health  Forbes..."
     }
   ],
   "Nature Careers": [
@@ -127,38 +127,6 @@
       "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01778-0Natural capital accounting needs a way to assess uncertainty..."
     }
   ],
-  "Retraction Watch": [
-    {
-      "title": "Weekend reads: White House proposal prohibits federal funds for APCs; sleuths say Thermo Fisher doctored data; sleuth in China takes to social media",
-      "link": "https://retractionwatch.com/2026/05/30/weekend-reads-white-house-omb-proposal-prohibits-federal-funds-apc-sleuths-thermo-fisher-doctored-data-china-social-media/",
-      "date": "2026-05-30 10:00",
-      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: Al..."
-    },
-    {
-      "title": "In what EIC calls an ‘honest mistake,’ journal approves paper without peer reviewing it",
-      "link": "https://retractionwatch.com/2026/05/29/democracy-security-taylor-francis-honest-mistake-journal-approves-paper-without-peer-review/",
-      "date": "2026-05-29 14:37",
-      "summary": "For most researchers, having an article accepted comes with constructive feedback from editors and reviewers. But when a sociology..."
-    },
-    {
-      "title": "Vietnam researchers face bans and funding cuts for violating integrity rules",
-      "link": "https://retractionwatch.com/2026/05/28/vietnam-researchers-face-bans-and-funding-cuts-for-violating-integrity-rules/",
-      "date": "2026-05-28 20:17",
-      "summary": "Researchers in Vietnam who fabricate data or plagiarize papers may be permanently barred from future scientific work, according to..."
-    },
-    {
-      "title": "A researcher’s unusually high h-index gives a window into an expansive citation network",
-      "link": "https://retractionwatch.com/2026/05/27/h-index-citation-networks-retractions-special-issues/",
-      "date": "2026-05-27 22:20",
-      "summary": "With an h-index of 75, computer scientist Thippa Reddy Gadekallu ranks among the world’s most highly cited researchers. But the sp..."
-    },
-    {
-      "title": "Elsevier retracts study tying sudden infant death syndrome to vaccinations",
-      "link": "https://retractionwatch.com/2026/05/26/elsevier-retracts-study-tying-sudden-infant-death-syndrome-to-vaccinations/",
-      "date": "2026-05-26 20:49",
-      "summary": "Elsevier has retracted a 2021 study claiming sudden infant death syndrome is linked to vaccines over concerns the paper might infl..."
-    }
-  ],
   "Reuters AI": [
     {
       "title": "Wall St ends modestly higher as AI zeal overcomes Middle East jitters - Reuters",
@@ -167,16 +135,10 @@
       "summary": "Wall St ends modestly higher as AI zeal overcomes Middle East jitters  Reuters..."
     },
     {
-      "title": "Anthropic moves toward IPO, stepping up race with OpenAI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc?oc=5",
-      "date": "2026-06-01 16:04",
-      "summary": "Anthropic moves toward IPO, stepping up race with OpenAI  Reuters..."
-    },
-    {
-      "title": "Microsoft reveals new quantum chip made with AI, says it will have systems by 2029 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRkFmcEZfNGxmenUzVzZIQUszZVVCUGxndnBHZGxmTC1RSzRLNVFKOEs3eEs3aVI4WlVTWnNmNlNsbWpuR1diYVpwSFBoaEpha2ZHVUFyV1BLQzNmR00wNWVRMkt2anNJRm9lSWx3VDlnNTVtc3M2LVd4Sk5wV3o1VWlGVDhESW5FWUtSUXhfUTM5OUxvcmdzMWYtazRFZ2dVVHlQMmtYYzdIcFFBQmpnTXlHWDVXLTc2TThnSlR3?oc=5",
-      "date": "2026-06-02 19:55",
-      "summary": "Microsoft reveals new quantum chip made with AI, says it will have systems by 2029  Reuters..."
+      "title": "Trump administration to ask US AI firms to voluntarily submit models for cybersecurity tests - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTNBRXhIX3IyRkhaamVIYzhqOFpiLW41RjM4aDZuVDBzaUs3eVhGeGlQQnJCS2NzVV9nNEkzd1o1bTlzSEQ4TnhTeGNfZUxBLVUyR0xXcGY3dVJHWDR3ckQwdWdWOXZEdXE2enJiVjhPR3JnbGV1YUFQeDBjeVYta2ZISHRPdWlZdER6N1pHN1ZHSWZwYnlnN3VZRQ?oc=5",
+      "date": "2026-06-02 19:45",
+      "summary": "Trump administration to ask US AI firms to voluntarily submit models for cybersecurity tests  Yahoo..."
     },
     {
       "title": "Nvidia CEO says co can meet AI chip demand despite ongoing supply constraints- Reuters - Investing.com",
@@ -185,10 +147,16 @@
       "summary": "Nvidia CEO says co can meet AI chip demand despite ongoing supply constraints- Reuters  Investing.com..."
     },
     {
-      "title": "Microsoft teases new era of AI-driven devices at annual developer conference - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2hudE1XOEVGajhxeFBhMXZBbDRYTHJieG1waXZLRG85S3lNSGFKWnVCQnNLWnd0RmNsZjBGcFoxQlhqR3l5T1A5Ni02UU42SnRZUEJ5WWJMMUJPTWdBVjV2SW5NQ0NUQ25JWURYSEVJdmFTMGlGX2M3VHpWLUs2MG5MeFh4aUJrcjk4OG16OHk3S0tUSW9JUW5jR0JrWU9HRUNJcFpqcVdxVXFmR0wwOEIyODNESk5HWUE?oc=5",
-      "date": "2026-06-02 21:51",
-      "summary": "Microsoft teases new era of AI-driven devices at annual developer conference  Reuters..."
+      "title": "AI beats law professors in Stanford tutoring study - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSzRRS2ZtUUdIeEpEajdVZ3B3akotWVNxTnBIZUdmUDhpTkJDdmpJTzdJQkFTRWZYSXE3MDRKWHdEWHhoWXRGem94TVFKUVF2YVJYS251TDh3OVdRcU1TOWhyejd2N3I3MjdRN0NNa0E0b3J5bUdiR0YtSTdUaG92d04yNDYtdk5JbFZ1dHB0dWNPMHZRUUlPVVh2YUczRzRCZXNCUjB3?oc=5",
+      "date": "2026-06-02 17:13",
+      "summary": "AI beats law professors in Stanford tutoring study  Reuters..."
+    },
+    {
+      "title": "Morning Bid: Marvell, a fitting name for the latest AI darling - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcG5XTjdwaGZEb0JfR25mbEdHMFhtaWR1LWdQSXV0eXJKX3UtcUdsaHdLX21wQmt0cVdCWUJIc2xIel92dUtST3pUVHhLcjl4VWRNX1hIZEFsb3NsaVpUeFFhWkdzMUVHNHA1XzQ4bmxMZENnU0pkZUZRc1pkeWFLVThtX296RnRWZGtFdm13?oc=5",
+      "date": "2026-06-03 04:34",
+      "summary": "Morning Bid: Marvell, a fitting name for the latest AI darling  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -205,25 +173,43 @@
       "summary": "Rehumanizing global health care with agentic AI  MIT Technology Review..."
     },
     {
-      "title": "The Download: AI can run your admin department now - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOFowbEc1V2otdGU4cXJxUU42Uk9OUTAwZnhHTjBZTTFjSjRIS1lHTnhlSFRTV2Jpbk1rM0lSelh0d0pFMW5kbDQyY253ZVpZNFZmNUFFYi1DaFNkUU5wcHFfdUhNXzNmbk54TjlabXJRZjhrY01IeFh6S295bGxIMXJBalhVTFcwWTFuWEJ2cFdjaDVlWnlUVDhfN2HSAaIBQVVfeXFMUGxBdTNLcHNCYUtBX3I0OWw3dlFXMFlGcHU1SXEzblNMNWJTRXVid2NGb2RGeS13UWVvdkRrMGcta0ZmYjdaekR5Uy1UVWh0WTE5cDZuam14MzdLXzVvUm9xYmZ3OG1PRVdqa0kwNWRhZW9Fb1BTS2M2WUs1d2g3WTV5aUdJVlVXM0J6aWhhM3hyY01pV2tueWFSMkRBMXo2eUtR?oc=5",
-      "date": "2026-06-02 12:10",
-      "summary": "The Download: AI can run your admin department now  MIT Technology Review..."
-    },
-    {
       "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2FuRkthYlMxeHROLVZfWGotRUNla3B2OWlMbzJyR0thQmNfNjd0SjF2NVZWRGFmNG0zZHF1NzFTYmtyVW9PLW9EbW13ZUp2bm04YzFVLVZOR1lZSlowUERrN0RGSU5SMnlMS1JnTXo4eGcya2FfTzBLWjd2WWhQbVdWeVN1VWk10gGOAUFVX3lxTE1FSUpJX2EyRElaMk5NZW9hZEhRSzdlS1U1eUM4TDFuZnh6YXBFTUlfQUx1aTNPV0dTaGo1TzhkNTFPVzlKOXQtSW1Lc3ZUS2tiWGFCMFFFQUlmYjRpZTBJVTNLTURYb1VFcllpYjBSbjNaU09zdzZmWVJMUEd3NEZINnkyb1UzQW1yYjNoS0E?oc=5",
       "date": "2026-06-01 09:09",
       "summary": "China has approved the world’s first invasive brain-computer chip—here’s what’s next  MIT Technology Review..."
     },
     {
+      "title": "The Download: AI can run your admin department now - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOFowbEc1V2otdGU4cXJxUU42Uk9OUTAwZnhHTjBZTTFjSjRIS1lHTnhlSFRTV2Jpbk1rM0lSelh0d0pFMW5kbDQyY253ZVpZNFZmNUFFYi1DaFNkUU5wcHFfdUhNXzNmbk54TjlabXJRZjhrY01IeFh6S295bGxIMXJBalhVTFcwWTFuWEJ2cFdjaDVlWnlUVDhfN2HSAaIBQVVfeXFMUGxBdTNLcHNCYUtBX3I0OWw3dlFXMFlGcHU1SXEzblNMNWJTRXVid2NGb2RGeS13UWVvdkRrMGcta0ZmYjdaekR5Uy1UVWh0WTE5cDZuam14MzdLXzVvUm9xYmZ3OG1PRVdqa0kwNWRhZW9Fb1BTS2M2WUs1d2g3WTV5aUdJVlVXM0J6aWhhM3hyY01pV2tueWFSMkRBMXo2eUtR?oc=5",
+      "date": "2026-06-02 12:10",
+      "summary": "The Download: AI can run your admin department now  MIT Technology Review..."
+    },
+    {
       "title": "It’s time to address the looming crisis in entry-level work - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXdpNU5ubngyMmhJSXZIcndFQ1F3Y3F5VG50dkduSFZ2THhQR3N0Q3VFalZlaEUxZlVIdDQ1ZmxTUm15RmNrMDlDVVdwUUxXdEVaV09xWjhyN3UyMjB3ekR5eVRucGV3aFpxVjREcTM2TGdHZXVwYzdsOWFwbFJ1cjJ4WE9mVjBOVXVkS01DbFc4SGRwT2RZNmxHT3R6RDU5eHpkN09idjF1OWNLQXd5c9IBtgFBVV95cUxOd2dVUzh5bHJsVFVJYmNwMzZyM3pmUDVWS290Q2FvSGV6U3duNWF2SnVtR1ZraVNJSGZNcURyZXdJT3hMUXNXcEVfTTZ4WWdvQjhyWlVFWUprbzgwYmtNSHZLRjE5bmp6dlJWanpBNFp1bWpaWkt3aVJlSFFRdXM3ekh5YmRLdm1QcHRiZkNWTDJ2VWxDSHFEbXY2MXVXZUNkQjRGcTJ1aXhQejZfOVl0QXV5dHdmQQ?oc=5",
-      "date": "2026-05-26 09:00",
+      "date": "2026-05-26 07:00",
       "summary": "It’s time to address the looming crisis in entry-level work  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Before SpaceX goes public, a scramble to get on bandwagon",
+      "link": "https://phys.org/news/2026-06-spacex-scramble-bandwagon.html",
+      "date": "2026-06-03 08:10",
+      "summary": "As SpaceX prepares its long-awaited stock market debut, investors everywhere are scrambling to get a piece of the action—through i..."
+    },
+    {
+      "title": "Scientists lose critical climate record as ocean observatory will go dark under Trump funding cuts",
+      "link": "https://phys.org/news/2026-06-scientists-critical-climate-ocean-observatory.html",
+      "date": "2026-06-03 07:43",
+      "summary": "A portion of one of the most ambitious ocean monitoring networks ever built will go dark this month when scientists board a resear..."
+    },
+    {
+      "title": "Wading bird populations in the New York–New Jersey Harbor are in decline",
+      "link": "https://phys.org/news/2026-06-wading-bird-populations-yorknew-jersey.html",
+      "date": "2026-06-03 07:10",
+      "summary": "Urban estuaries can support thriving ecosystems despite bustling human activity. Noting that bird populations can serve as a key i..."
+    },
     {
       "title": "Are JWST's early, overmassive black holes just normal-range outliers?",
       "link": "https://phys.org/news/2026-06-jwst-early-overmassive-black-holes.html",
@@ -235,24 +221,6 @@
       "link": "https://phys.org/news/2026-06-food-europe-green-shift-article.html",
       "date": "2026-06-03 02:40",
       "summary": "Europe's agrifood system is under severe pressure. Climate change is causing droughts and floods, and agriculture is putting press..."
-    },
-    {
-      "title": "How heavy can a neutron star get?",
-      "link": "https://phys.org/news/2026-06-heavy-neutron-star.html",
-      "date": "2026-06-03 02:00",
-      "summary": "The physics of neutron stars are almost too fantastic to believe: something the weight of two suns compacted to a sphere the size ..."
-    },
-    {
-      "title": "Wetlands loss has increased residential flood insurance claim payments by $10 billion across the US, study finds",
-      "link": "https://phys.org/news/2026-06-wetlands-loss-residential-payments-billion.html",
-      "date": "2026-06-03 01:00",
-      "summary": "A new study published in Nature Water finds that wetland loss across the United States has increased residential flood insurance c..."
-    },
-    {
-      "title": "Terahertz imaging maps spatial chirality in materials with 100-micrometer resolution",
-      "link": "https://phys.org/news/2026-06-terahertz-imaging-spatial-chirality-materials.html",
-      "date": "2026-06-03 01:00",
-      "summary": "In nature, there exist structures that are mirror images of each other but cannot be perfectly superimposed. These are known as ch..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +257,66 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "More Hong Kong airlines cancel flights as Typhoon Jangmi bears down on Tokyo",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3355802/more-hong-kong-airlines-cancel-flights-typhoon-jangmi-bears-down-tokyo?utm_source=rss_feed",
+      "date": "2026-06-03 07:38",
+      "summary": "More Hong Kong carriers including Cathay Pacific Airways and Hong Kong Airlines cancelled or rescheduled flights to Japan on Wedne..."
+    },
+    {
+      "title": "Warning over home births, vaccine refusal after unregistered baby case in Hong Kong",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3355795/warning-over-home-births-vaccine-refusal-after-unregistered-baby-case-hong-kong?utm_source=rss_feed",
+      "date": "2026-06-03 07:11",
+      "summary": "Unassisted home births and vaccine refusal put mothers and newborns at life-threatening risks, a Hong Kong doctor and a children’s..."
+    },
+    {
+      "title": "‘King Sir’ Chung King-fai, titan of Hong Kong theatre, dies aged 89",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3355785/king-sir-chung-king-fai-titan-hong-kong-theatre-dead-89?utm_source=rss_feed",
+      "date": "2026-06-03 06:08",
+      "summary": "Veteran Hong Kong theatre figure “King Sir” Chung King-fai has died at the age of 89.\nChung’s nephew confirmed the actor’s death o..."
+    },
+    {
+      "title": "Adminstrator to ‘review’ tribunal decision on Wang Fuk Court owners’ meeting",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3355783/adminstrator-review-tribunal-decision-wang-fuk-court-owners-meeting?utm_source=rss_feed",
+      "date": "2026-06-03 05:44",
+      "summary": "An administrator appointed to oversee the affairs of Hong Kong’s fire-ravaged Wang Fuk Court has said it will arrange an extraordi..."
+    },
+    {
       "title": "Hong Kong pitches Northern Metropolis as ASEAN gateway to Greater Bay Area",
       "link": "https://www.scmp.com/presented/news/hong-kong/topics/hkaf-tour-northern-metropolis/article/3355708/hong-kong-pitches-northern-metropolis-asean-gateway-greater-bay-area?utm_source=rss_feed",
       "date": "2026-06-03 01:51",
       "summary": "[The content of this article has been produced by our advertising partner.]\nHong Kong is stepping up efforts to position the North..."
+    }
+  ],
+  "New Scientist": [
+    {
+      "title": "Ötzi's frozen remains may harbour metabolically active microbes",
+      "link": "https://www.newscientist.com/article/2528789-otzis-frozen-remains-may-harbour-metabolically-active-microbes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-03 01:00",
+      "summary": "Researchers studying a 5300-year-old mummified man have identified bacteria that lived in his gut when he was alive, as well as co..."
     },
     {
-      "title": "Hong Kong is emerging as a leading capital hub of the multipolar era",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3355567/hong-kong-emerging-leading-capital-hub-multipolar-era?utm_source=rss_feed",
-      "date": "2026-06-03 01:30",
-      "summary": "For years, Hong Kong’s obituary has been repeatedly written by international commentators. Geopolitical tensions, pandemic isolati..."
+      "title": "Hidden store of manganese may have helped Earth get its oxygen",
+      "link": "https://www.newscientist.com/article/2528586-hidden-store-of-manganese-may-have-helped-earth-get-its-oxygen/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-02 16:00",
+      "summary": "Computer simulations have uncovered a new manganese compound that could exist deep in Earth’s mantle and may be connected to the p..."
     },
     {
-      "title": "Hong Kong authorities to take over care of undocumented baby after parents’ arrest",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3355758/hong-kong-authorities-take-over-care-undocumented-baby-after-parents-arrest?utm_source=rss_feed",
-      "date": "2026-06-03 00:59",
-      "summary": "Hong Kong social welfare authorities are expected to take over the care of an undocumented baby for at least a year and may arrang..."
+      "title": "'Transformative' pancreatic cancer drug doubles survival time",
+      "link": "https://www.newscientist.com/article/2528738-transformative-pancreatic-cancer-drug-doubles-survival-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-01 18:11",
+      "summary": "People with advanced pancreatic cancer taking an experimental daily pill lived nearly twice as long as those receiving chemotherap..."
     },
     {
-      "title": "Hong Kong helpers urge employers to relax ‘air-con ban’ in heatwave",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3355725/hong-kong-helpers-urge-employers-relax-air-con-ban-heatwave?utm_source=rss_feed",
-      "date": "2026-06-03 00:00",
-      "summary": "Domestic workers in Hong Kong are routinely banned from switching on air conditioning when working at home alone, union leaders ha..."
+      "title": "How human error became a weapon against large language models",
+      "link": "https://www.newscientist.com/article/2528529-how-human-error-became-a-weapon-against-large-language-models/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-01 16:00",
+      "summary": "Alan Turing proposed a test for machine intelligence: could a computer convince a human it was human? We have begun conducting the..."
     },
     {
-      "title": "‘At least 1 firm under Kazakh wealth fund will list in Hong Kong this year’",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355747/least-1-firm-under-kazakh-wealth-fund-will-list-hong-kong-year?utm_source=rss_feed",
-      "date": "2026-06-02 23:30",
-      "summary": "At least one company under Kazakhstan’s sovereign wealth fund will list on the Hong Kong stock exchange this year, the head of the..."
+      "title": "Huge study of Alzheimer’s genetics identifies new drug targets",
+      "link": "https://www.newscientist.com/article/2528511-huge-study-of-alzheimers-genetics-identifies-new-drug-targets/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-01 12:00",
+      "summary": "Almost 50 more genes have been flagged as being linked to Alzheimer’s, along with changes in activity in crucial cells that disapp..."
     }
   ]
 }
