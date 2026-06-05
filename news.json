@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Startup helps retailers track their products in real-time",
+      "link": "https://news.mit.edu/2026/cartesian-helps-retailers-track-their-products-in-real-time-0605",
+      "date": "2026-06-05 04:00",
+      "summary": "Using technology invented at MIT, Cartesian’s system for locating objects could also find uses in manufacturing, logistics, and ro..."
+    },
+    {
       "title": "Developing innovative alternatives to conventional carbon capture methods",
       "link": "https://news.mit.edu/2026/developing-innovative-carbon-capture-methods-0604",
       "date": "2026-06-04 20:35",
@@ -23,21 +29,9 @@
       "link": "https://news.mit.edu/2026/new-vaccine-adjuvant-could-make-it-easier-to-eradicate-polio-0603",
       "date": "2026-06-03 18:00",
       "summary": "The adjuvant can help the injectable polio vaccine induce a strong immune response in the GI tract, which is considered critical t..."
-    },
-    {
-      "title": "MIT chemists design impact-resistant plastics",
-      "link": "https://news.mit.edu/2026/mit-chemists-design-impact-resistant-plastics-0603",
-      "date": "2026-06-03 15:00",
-      "summary": "Introducing weaker bonds into polystyrene and rubber helps these materials dissipate energy, making them more resistant to destruc..."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
-      "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
-    },
     {
       "title": "Funny but serious, Chieng issues an AI warning to grads - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjd2dS0wSnZIbjNVSzM1N1ZLbW82LUpSaV92b1lDRU1ZQUw2UVJQUVE3eDRHVnB3UUJEV09kQkx5TkE3aFNjVlMzQ3poQ2lqY2UzWGdJaUh5RmlMRXRFclFsY0VLWnFaMkEyZXUyODI0dUlqVFlmYWtWMVJQQnlhZ005eDljQnZSWXd2RUVzX0NtN1BLb3pGQlNmOE9tSjREc2hVWQ?oc=5",
@@ -61,14 +55,20 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
       "date": "2026-04-07 07:00",
       "summary": "The questions that keep scientists up at night  Harvard Gazette..."
+    },
+    {
+      "title": "Plan to rein in inflated grading explained - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
+      "date": "2026-03-26 07:00",
+      "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
     }
   ],
   "Stanford News": [
     {
-      "title": "AI Outperforms Law Professors in Stanford Law Study - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc1hpbC03OUlCZDRxM2tvNTJiS3NiR2Z3MlgxVENoWXJfOENvbGltek9tU1BkVTVVUk81eC16NEIwYzczV0JRTUdoVVRrT2NyVVo0RHJEQzZ2N1VaY1VqUXpQYjNRNzMxczZlVGk5Vzc5LThucEtOUE1oU01RMjVubmRfVUVzaTZNeEpN?oc=5",
-      "date": "2026-06-01 17:30",
-      "summary": "AI Outperforms Law Professors in Stanford Law Study  Stanford Law School..."
+      "title": "'How to Rule the World' explores education and power at Stanford University - NPR",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTBqUkI1ZnYyeWN6UFN4Vkc3OFJDdzU3aFJSX2lwWE1rYjFBMWdCd1lNMUo5eEZEUkJZamxKeS1CRVpvR1ZZcW5oRm1VcTh4bkl3UldsUzJVSjRvcmFvMkVFc0huLWVIdmlYNFc1d2JmcXN6X3dQRTZSMjBkcDZhX0dDQTdjdm5ibm4zZDM5emNxN25aR2pQb21KSkc2dw?oc=5",
+      "date": "2026-06-01 08:46",
+      "summary": "'How to Rule the World' explores education and power at Stanford University  NPR..."
     },
     {
       "title": "Stanford’s Hoover Seeks Retraction of Chinese Political Donation Report - Newsweek",
@@ -83,16 +83,16 @@
       "summary": "Class of 2026: Vintage senior heads from farm life to Stanford’s ‘Farm’  The Napa Valley Register..."
     },
     {
+      "title": "AI Beat Law Professors At Answering Questions, Study Finds—And It Wasn’t Close - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDlBYWU5THl0MEFmOWNCb3RMeU9xeHdNdzhCVWNzUUtPVG1qLUdiczd2WGQ5LXpVRnFHMzdMU25sLVl4R2NFRDl3NG4yajNYV2N3d1ZDSzg5ZV9ZdjdfdEJkVjdFeTZTY2hLLVNUaWhselZFMm9BcnRoMHVha1d0VHVsLXUzMnhBX2hGWHpTcC13MjVSTEQySlZvYmk5Z24xbXdUNnN6MFhBQ292clFqdA?oc=5",
+      "date": "2026-06-02 19:14",
+      "summary": "AI Beat Law Professors At Answering Questions, Study Finds—And It Wasn’t Close  Forbes..."
+    },
+    {
       "title": "Stanford to offer K-pop course, open to the general public - KTVU",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JWVRtcmV4d3V6czBkbGFVWHQ2SzEwYjkzWVBtTlYxRjRtWTRvS0ZNM2VMUXdNZGR6MUVPZi1ERGwyMTZQTnE0M2xtUUNaMGlTTVotZWlkc3lOaVZBRUx6dnpxU2RvNEhPQnNQMWNVYVdJTjEzRDdJZkpGZUgwZ9IBgwFBVV95cUxOcDhVaFhBZ0JUQzZIQjIwTWM2T2haaUhBcUtFcERoZ2F1THpMOWZJcGY2QXpPSjZYbHQ4amlLWnZGdVBDTkh5ZmtJOWdMczZMU1E3NHNuU3gtRlNuVDctUnRJZjAtNkZXYnZ6YVdHdTFOTU9GQUVsVlZVMElQQ2IxWkpKZw?oc=5",
       "date": "2026-06-02 00:43",
       "summary": "Stanford to offer K-pop course, open to the general public  KTVU..."
-    },
-    {
-      "title": "Review: Rock legend returns from retirement to deliver ‘perfect moment’ - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUowTExpWkphMmZjY2xhcmZFVTlkNTY0U3RTYzdFdXhRRDZJNExDbmx6bkEyVTlyb29lUjA4dXR0UzE3WE5WVXFXbjFLRGZxQ25PSnBGdng2YmRMLUllcTJsNW5PMi1ObjVKeG1JWXFtc3R2anE5YXdubXFwRW1lelZyYVRIZzhyLUZNSnMwVdIBlAFBVV95cUxObjNFYnNIYmlrUFBWaVdDNTM2aHR3bDhQOEdyZjB6ZExXTjg5ZFk3MERtTm5DOThTbm41UFU0Y1AtYjJ3WllmeEQzSks3VjJXSXJfTlJXRmtEOTBGcDFoYWlGeUNYc2hTNTU1STlGeVlhSS1XdWtvdk1CdmRydW55TnpLenR4cE9ZUk1qXzhUdVItWjJz?oc=5",
-      "date": "2026-06-04 17:26",
-      "summary": "Review: Rock legend returns from retirement to deliver ‘perfect moment’  The Mercury News..."
     }
   ],
   "Nature Careers": [
@@ -129,6 +129,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Journal retracts study linking hepatitis vaccine to autism that was included in CDC review",
+      "link": "https://retractionwatch.com/2026/06/04/journal-retracts-study-linking-hepatitis-vaccine-to-autism-that-was-included-in-cdc-review/",
+      "date": "2026-06-04 16:22",
+      "summary": "A toxicology journal has retracted a 16-year-old study linking hepatitis B vaccines to autism in children following an independent..."
+    },
+    {
       "title": "Journal retracts paper criticizing parental alienation theory after group threatens to sue",
       "link": "https://retractionwatch.com/2026/06/03/journal-retracts-paper-criticizing-parental-alienation-theory-after-group-threatens-to-sue/",
       "date": "2026-06-03 19:26",
@@ -151,12 +157,6 @@
       "link": "https://retractionwatch.com/2026/05/28/vietnam-researchers-face-bans-and-funding-cuts-for-violating-integrity-rules/",
       "date": "2026-05-28 20:17",
       "summary": "Researchers in Vietnam who fabricate data or plagiarize papers may be permanently barred from future scientific work, according to..."
-    },
-    {
-      "title": "A researcher’s unusually high h-index gives a window into an expansive citation network",
-      "link": "https://retractionwatch.com/2026/05/27/h-index-citation-networks-retractions-special-issues/",
-      "date": "2026-05-27 22:20",
-      "summary": "With an h-index of 75, computer scientist Thippa Reddy Gadekallu ranks among the world’s most highly cited researchers. But the sp..."
     }
   ],
   "Reuters AI": [
@@ -167,28 +167,28 @@
       "summary": "Canada says AI strategy will help create 250,000 jobs, boost GDP by 3%  Reuters..."
     },
     {
-      "title": "AI to double data centre power and water consumption by 2030, UN researchers say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd3F4Sm9fUl9mNVUweWpTMHQ5WktMSmNCZU5BdGVpaE5yWGpUQmJqcjRVMEIxWFlUQmJvOXBKaTFoUTFRN2FvZmlILUJpTHBTd0pxdU94bW1mdlZvdGJraGQyR1o0bV8tbnV6SzdUMkMxNTlZdXRIekRfWktrdXpfNnVuVWJBanlTSjZ6T2h2cEtCRU5RX1ZscEFmWlFZVEMtNDViUjdoZGNxdDBreFk2TW9qaDF5dy1Qd3hyck1DR2NMdw?oc=5",
-      "date": "2026-06-03 16:20",
-      "summary": "AI to double data centre power and water consumption by 2030, UN researchers say  Reuters..."
+      "title": "Meta enters enterprise AI race with new business agent - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0VmR0diTmJnejBXTlNDMTExQU9wWnh0U3ZWOXNOb0VHdTZScnFIR2w4dm8zcFNDdGk1ellycUpCUnh4NG51SVhOQ21RWGZtSlg0MHJtY0ZwU05ZbG5BR1V6b2hxeEJOTzR6VWEwZkwybWt1NC0wUl9qRHRXekM1RnM2VkxNR2M3OEtQQ0VKb3ZkUE95NEthYnR1eVZWczMtbWlMWTRyZ093dV9BamxIal91WXlhQXIyY21uU3ZR?oc=5",
+      "date": "2026-06-03 18:19",
+      "summary": "Meta enters enterprise AI race with new business agent  Reuters..."
     },
     {
-      "title": "Trump administration to ask US AI firms to voluntarily submit models for cybersecurity tests - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTNBRXhIX3IyRkhaamVIYzhqOFpiLW41RjM4aDZuVDBzaUs3eVhGeGlQQnJCS2NzVV9nNEkzd1o1bTlzSEQ4TnhTeGNfZUxBLVUyR0xXcGY3dVJHWDR3ckQwdWdWOXZEdXE2enJiVjhPR3JnbGV1YUFQeDBjeVYta2ZISHRPdWlZdER6N1pHN1ZHSWZwYnlnN3VZRQ?oc=5",
-      "date": "2026-06-02 19:45",
-      "summary": "Trump administration to ask US AI firms to voluntarily submit models for cybersecurity tests  Yahoo..."
+      "title": "Exclusive: South Korea labour minister calls on tech firms to share excess AI profits with suppliers, staff - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ09wcEJnaW5yR1lxOFRVSVFESnQya1VkSVVmdzIxZkMyWDgxbkRDeHZDMFNSOWtMaWR1WVBjTXd6cG1uR0I3d2JmT3o4VkQ5VHhMYWJQV0EzMEJfWlVJTGJJY240VVhrUkpQcnpTS1RRUnd5NDFWMFVrclgtdzNvaE0yZWJ3bnBSRDR5RW4zbVFtamdnaGt2dDAtSDl6QURzQk9GWnhSSTYza2lEUUJmTnBMMEhzeXU2OVRZRDhvWUhUbzdWZTJtM3JDNmZ6WjRXSnNpZFhR?oc=5",
+      "date": "2026-06-05 02:29",
+      "summary": "Exclusive: South Korea labour minister calls on tech firms to share excess AI profits with suppliers, staff  Reuters..."
     },
     {
-      "title": "US House lawmakers release draft bill to prohibit state AI rules - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcG5Sb0owaXRhbUlnSGpYRWV3c3lYOTRva2FsdE1ZYjZDYTRmU2FYS0wwa2VNYTBSblB3cHRsbjJOXzNMQllnU1QzNjU0THJmZ0ZhVmllV2hGZllQU2NZaEVhOTlYWTJxeVZPa2psOG5kOFdEaEx0MU9vSzlhemRycGotbkJUWE95aElJbjVweFhMaXZGS0tMdFRn?oc=5",
-      "date": "2026-06-04 21:44",
-      "summary": "US House lawmakers release draft bill to prohibit state AI rules  Reuters..."
+      "title": "Walmart investors reject AI workplace report as automation expands in the US - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcDc2dUZsUFgzSTVuRm8tWWRuUWNBOXN3ZFNrV0pKcFVybjVoMWRUYUcyMmI2dDlhODQtRmNiSFpveUlzeURwbUJmT3hKVHVMNzl5YkRnTlhoVmVLY2wwVVFpekF4cnc1UjlpaFFtSGk0VHU4TUlRSVFWR2xUc2JISmZXZnQtZlo3dXE3NXdIODNGYS15d2Vkd2dhRWdZbFdOQTNkeklTa0FYWUc0aXc2NUxWODdFU2ZTQnVr?oc=5",
+      "date": "2026-06-04 17:19",
+      "summary": "Walmart investors reject AI workplace report as automation expands in the US  Reuters..."
     },
     {
-      "title": "Nvidia CEO says co can meet AI chip demand despite ongoing supply constraints- Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQ0MydzVCSDVnOXRURTd2LU4zNGpvM3JlYV9iU0hUNzFVZjNSS3BQMlRBWUdEb1BmM0RXamdLSW9tUllwYU5KcXRPeEozSkdmSExMUEZURUJxZW8xYktVVzJSbkFON1hRUktwUFBlbUkyUmFNYXl1OGYwVnphWWpTMUcyTnkySzgtRkdhY1RpaVFFYVZGLUxGdDJldlFJbklRQWpwY2IyN1NCZ3RKbUZ3aFRVWEtycW5rLTN1YjB1ZkhrSnRhdjV6OE8wUEc1YlhXVkNBaWNPeGY4eFRlRjUwTg?oc=5",
-      "date": "2026-06-02 04:18",
-      "summary": "Nvidia CEO says co can meet AI chip demand despite ongoing supply constraints- Reuters  Investing.com..."
+      "title": "US officials eye government stakes in AI companies, NOTUS reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa0JFSWRNbDljWmVFeDhVbXBRd3RmVHBFMkRwb3FKclY5bUJoLWhBQlZHS0FaZDhIZFRLUV9KYkxNdmNBZmlSYzVyWnFiTGxaaWVqWHRPU3JRWmdHMkhPdXdESW54eGFCaDFqdjlMbEMtY0Y3ZWhkV0hIYVN0RGVoN0xyczdHcUNTRWNDY0RzcTZaaXhCNENfVG01aUtyS1BvQ2pqbXJrZ1k0d3YzWmJxX2lDTC1hZEly?oc=5",
+      "date": "2026-06-05 00:05",
+      "summary": "US officials eye government stakes in AI companies, NOTUS reports  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Polyphenol structures reveal why tea, cocoa and fruit compounds taste so different",
-      "link": "https://phys.org/news/2026-06-polyphenol-reveal-tea-cocoa-fruit.html",
-      "date": "2026-06-05 00:00",
-      "summary": "A pilot study has developed a new sensory evaluation method that links the chemical structures of polyphenols with their distinct ..."
+      "title": "'The Heaven Sword' crowned as East Asia's tallest tree after a nearly decade-long search",
+      "link": "https://phys.org/news/2026-06-heaven-sword-crowned-east-asia.html",
+      "date": "2026-06-05 04:00",
+      "summary": "Taiwan, historically known as Formosa, holds a secret deep within its rugged interior: it is one of the rare locations on Earth  c..."
     },
     {
-      "title": "Parental cooperation with kindergarten is most important way to support preschoolers' academic skills, study finds",
-      "link": "https://phys.org/news/2026-06-parental-cooperation-kindergarten-important-preschoolers.html",
-      "date": "2026-06-04 23:40",
-      "summary": "Research into the academic skills of five-year-old children shows that parents' beliefs and cooperation with their kindergarten ar..."
+      "title": "Image: Colorful, chaotic Jupiter",
+      "link": "https://phys.org/news/2026-06-image-chaotic-jupiter.html",
+      "date": "2026-06-05 02:40",
+      "summary": "NASA's Juno spacecraft captured this color-enhanced view of Jupiter's northern hemisphere during its 61st close flyby of the giant..."
     },
     {
-      "title": "Nanoparticles inspired by lung fluid improve therapies targeting respiratory system",
-      "link": "https://phys.org/news/2026-06-nanoparticles-lung-fluid-therapies-respiratory.html",
-      "date": "2026-06-04 23:20",
-      "summary": "The CIC biomaGUNE Center for Cooperative Research in Biomaterials has developed pulmonary surfactant nanoparticles (the blend of l..."
+      "title": "From oversight to coercion: How authoritarian governments are twisting AI safety to get tech companies to fall in line",
+      "link": "https://phys.org/news/2026-06-oversight-coercion-authoritarian-ai-safety.html",
+      "date": "2026-06-05 02:00",
+      "summary": "When researchers founded Anthropic in 2021, they said the race to build powerful AI was moving too recklessly. They inserted detai..."
     },
     {
-      "title": "Rice–fish co-culturing could help curb schistosomiasis while increasing food production",
-      "link": "https://phys.org/news/2026-06-ricefish-culturing-curb-schistosomiasis-food.html",
-      "date": "2026-06-04 23:20",
-      "summary": "The chronic disease schistosomiasis wreaks havoc on more than 220 million people around the world, with the vast majority of cases..."
+      "title": "In Iowa, water pollution is a health threat that also disrupts summer fun",
+      "link": "https://phys.org/news/2026-06-iowa-pollution-health-threat-disrupts.html",
+      "date": "2026-06-05 01:00",
+      "summary": "Hannah Ray J Childs propelled her kayak into a rapid on Iowa's Maquoketa River on a recent afternoon and dipped her paddle in the ..."
     },
     {
-      "title": "Managing hydrogen emissions is key to maximizing climate benefits as hydrogen use expands, say researchers",
-      "link": "https://phys.org/news/2026-06-hydrogen-emissions-key-maximizing-climate.html",
-      "date": "2026-06-04 23:00",
-      "summary": "Current estimates of hydrogen's climate impact are now sufficiently robust to inform policy and business decision-making, accordin..."
+      "title": "New X-ray method captures solid-liquid interfaces and bulk liquids simultaneously",
+      "link": "https://phys.org/news/2026-06-ray-method-captures-solid-liquid.html",
+      "date": "2026-06-05 00:40",
+      "summary": "Researchers have developed a method for making simultaneous soft X-ray absorption spectroscopy (XAS) measurements of solid-liquid ..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "A UK in decline needs to rediscover supply-side economics",
-      "link": "https://www.scmp.com/opinion/world-opinion/article/3355911/uk-decline-needs-rediscover-supply-side-economics?utm_source=rss_feed",
-      "date": "2026-06-04 21:30",
-      "summary": "I just spent two weeks in a broken Britain, which is an unfortunately apt description for a country that has fallen from its forme..."
+      "title": "ESF links kindergartens to primary schools, securing places through to graduation",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3356039/esf-links-kindergartens-primary-schools-securing-places-through-graduation?utm_source=rss_feed",
+      "date": "2026-06-05 04:42",
+      "summary": "Hong Kong’s biggest international school group has rolled out a “through-train” arrangement, linking all its kindergartens to its ..."
     },
     {
-      "title": "7 taken away as police ramp up patrols around former site of Tiananmen vigil",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3356009/7-taken-away-police-ramp-patrols-around-former-site-tiananmen-vigil?utm_source=rss_feed",
-      "date": "2026-06-04 17:10",
-      "summary": "Hong Kong police took away seven people who appeared in Causeway Bay on Thursday evening carrying flowers and dressed in black to ..."
+      "title": "Trump urged Xi to help end Ukraine war; China’s tech sanctions list: SCMP’s 7 highlights",
+      "link": "https://www.scmp.com/news/china/article/3356025/trump-urged-xi-help-end-ukraine-war-chinas-tech-sanctions-list-scmps-7-highlights?utm_source=rss_feed",
+      "date": "2026-06-05 04:34",
+      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that reson..."
     },
     {
-      "title": "Public Management Programme Puts Humans at the Centre of the AI Revolution",
-      "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/ai-disruption-public-leadership/article/3355697/public-management-programme-puts-humans-centre-ai-revolution?utm_source=rss_feed",
-      "date": "2026-06-04 16:00",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nAs artificial intelligence (AI) reshapes economies, la..."
+      "title": "Hong Kong authorities prosecute butcher shop over video of rats on exposed meat",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3356035/hong-kong-authorities-prosecute-grocery-shop-over-video-rats-exposed-meat?utm_source=rss_feed",
+      "date": "2026-06-05 04:12",
+      "summary": "Hong Kong’s food hygiene authorities have prosecuted a popular butcher shop in Kwun Tong after a viral video and a subsequent insp..."
     },
     {
-      "title": "‘All reasonable steps’ for site smoking ban include CCTV, cigarette storage points",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3356006/all-reasonable-steps-site-smoking-ban-include-cctv-cigarette-storage-points?utm_source=rss_feed",
-      "date": "2026-06-04 15:58",
-      "summary": "Contractors should take “all reasonable steps”, such as installing CCTV cameras and setting up temporary cigarette storage points,..."
+      "title": "Fugitive Hong Kong charity director sued in US over real estate ‘shell game’",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3355736/fugitive-hong-kong-charity-director-sued-us-over-real-estate-shell-game?utm_source=rss_feed",
+      "date": "2026-06-05 02:42",
+      "summary": "A wanted director of a scandal-hit Hong Kong charity who fled the city is facing a sweeping 14-count civil lawsuit in the United S..."
     },
     {
-      "title": "Hong Kong signs 96 agreements with Kazakhstan and Uzbekistan worth US$1.65 billion",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356003/hong-kong-signs-96-agreements-kazakhstan-and-uzbekistan-worth-us165-billion?utm_source=rss_feed",
-      "date": "2026-06-04 15:15",
-      "summary": "Hong Kong has signed 96 agreements with Kazakhstan and Uzbekistan worth US$1.65 billion during city leader John Lee Ka-chiu’s visi..."
+      "title": "The real story of 11 Skies is not about a failed shopping centre",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3355715/real-story-11-skies-not-about-failed-shopping-centre?utm_source=rss_feed",
+      "date": "2026-06-05 01:30",
+      "summary": "Few things age faster than a business plan built for a world that no longer exists. That may be the most important lesson from the..."
     }
   ],
   "New Scientist": [
