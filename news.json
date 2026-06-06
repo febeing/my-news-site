@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
-      "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
-    },
-    {
       "title": "Funny but serious, Chieng issues an AI warning to grads - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjd2dS0wSnZIbjNVSzM1N1ZLbW82LUpSaV92b1lDRU1ZQUw2UVJQUVE3eDRHVnB3UUJEV09kQkx5TkE3aFNjVlMzQ3poQ2lqY2UzWGdJaUh5RmlMRXRFclFsY0VLWnFaMkEyZXUyODI0dUlqVFlmYWtWMVJQQnlhZ005eDljQnZSWXd2RUVzX0NtN1BLb3pGQlNmOE9tSjREc2hVWQ?oc=5",
       "date": "2026-05-27 07:00",
@@ -57,10 +51,16 @@
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
       "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+      "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
+    },
+    {
+      "title": "How to help lift slumping American math scores - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
+      "date": "2026-01-26 08:00",
+      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -129,6 +129,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Weekend reads: Moffitt executive steps down following probe; a hijab-switching scandal; NSF’s watchdog unit empty",
+      "link": "https://retractionwatch.com/2026/06/06/weekend-reads-moffitt-executive-steps-down-hijab-switching-scandal-nsf-watchdog-unit-empty/",
+      "date": "2026-06-06 10:00",
+      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
+    },
+    {
       "title": "Editors of semantics journal resign, launch new journal after publisher ‘ultimatum’",
       "link": "https://retractionwatch.com/2026/06/05/natural-language-semantics-journal-editors-resign-launch-new-journal/",
       "date": "2026-06-05 17:20",
@@ -151,12 +157,6 @@
       "link": "https://retractionwatch.com/2026/05/30/weekend-reads-white-house-omb-proposal-prohibits-federal-funds-apc-sleuths-thermo-fisher-doctored-data-china-social-media/",
       "date": "2026-05-30 10:00",
       "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: Al..."
-    },
-    {
-      "title": "In what EIC calls an ‘honest mistake,’ journal approves paper without peer reviewing it",
-      "link": "https://retractionwatch.com/2026/05/29/democracy-security-taylor-francis-honest-mistake-journal-approves-paper-without-peer-review/",
-      "date": "2026-05-29 14:37",
-      "summary": "For most researchers, having an article accepted comes with constructive feedback from editors and reviewers. But when a sociology..."
     }
   ],
   "Reuters AI": [
@@ -205,16 +205,16 @@
       "summary": "The Meta hack shows there’s more to AI security than Mythos  MIT Technology Review..."
     },
     {
-      "title": "How small businesses can leverage AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNkNkX0JKZENjaUQxMDdsLVBhS2VZaG1QMDBSby1hZ1V4MU00T2FFZ1NQaGlmVkFHNms1NVVtcDZUS3VRSnBGMTlORExmS1lzU2p5cG1pQlV4U2xkQWJ2LTNSQjM5LXI4MWJXbC1ZeVBsVmJHb2pZTC00QmJfZzNqM0ZvUGVQQldIY05UR3U5OXJOSkXSAZgBQVVfeXFMTzZzOEJrZ19kbktkNUdJX0VFRFFEaWs1cUhzeWVraG11WjRXVWwyVExwUHBNbFdXdDR5NERzcXRrRmdaYmxidnk5bF9vaWRXMlpZTldSR2l5LWM0WUMzX0tkOXlkV1hqbDlhYmtHZHkwZVVEZzlyUFByVXNTdzFUME5fRjBVSjhockdZdEZhaVdLcVNuVTN6a2g?oc=5",
-      "date": "2026-06-02 09:00",
-      "summary": "How small businesses can leverage AI  MIT Technology Review..."
-    },
-    {
       "title": "Rehumanizing global health care with agentic AI - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOW1fSUlrZHg2dldDekUzNGg1YktwM2F6ZXJuUGlvMGlJWVE5X1VTNDI4UlE5QlBwYzA2NDRpMGhha1R2bjFrQzdYTUtnUDY1SVIyb200TGhZeDJqRE5iZ1htcDFEWmFkR3dxT2lyWXREdWVaWmluMlNfNHE2UDlEX0xjSVVMN1E2Qm80X2tJN25MNVF6Z0xNOUpQbmxpbDhPMVHSAacBQVVfeXFMT0k2RFJlbGEyVExYT1J6NU8yNGtBREtWVWd3RDdkc1g0blRPUzNSclA3dEEyLVJVcUNpVk5KMTY3SzBIdDJLTEljOXJpb3dld2I5TWpnQk83blhJbldkLVZxNXVtazlndzRtX3ZyU3FvcXZUUmFtUHdhdXVwc1o5R2xfcjZrbV9tX2FHQVB1eXlGTmpwYS1DN1RvYjgtVGVEQUowRmxMb28?oc=5",
       "date": "2026-06-02 11:23",
       "summary": "Rehumanizing global health care with agentic AI  MIT Technology Review..."
+    },
+    {
+      "title": "How small businesses can leverage AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNkNkX0JKZENjaUQxMDdsLVBhS2VZaG1QMDBSby1hZ1V4MU00T2FFZ1NQaGlmVkFHNms1NVVtcDZUS3VRSnBGMTlORExmS1lzU2p5cG1pQlV4U2xkQWJ2LTNSQjM5LXI4MWJXbC1ZeVBsVmJHb2pZTC00QmJfZzNqM0ZvUGVQQldIY05UR3U5OXJOSkXSAZgBQVVfeXFMTzZzOEJrZ19kbktkNUdJX0VFRFFEaWs1cUhzeWVraG11WjRXVWwyVExwUHBNbFdXdDR5NERzcXRrRmdaYmxidnk5bF9vaWRXMlpZTldSR2l5LWM0WUMzX0tkOXlkV1hqbDlhYmtHZHkwZVVEZzlyUFByVXNTdzFUME5fRjBVSjhockdZdEZhaVdLcVNuVTN6a2g?oc=5",
+      "date": "2026-06-02 09:00",
+      "summary": "How small businesses can leverage AI  MIT Technology Review..."
     },
     {
       "title": "How courts are coping with a flood of AI-generated lawsuits - MIT Technology Review",
@@ -224,6 +224,24 @@
     }
   ],
   "Phys.org": [
+    {
+      "title": "US reports second case of dangerous livestock pest",
+      "link": "https://phys.org/news/2026-06-case-dangerous-livestock-pest.html",
+      "date": "2026-06-06 11:23",
+      "summary": "The US Department of Agriculture (USDA) said Friday it has detected a second case of a dangerous livestock pest whose flesh-eating..."
+    },
+    {
+      "title": "Texas governor wants to speed up work on a fly-breeding factory to fight a cattle parasite",
+      "link": "https://phys.org/news/2026-06-texas-governor-fly-factory-cattle.html",
+      "date": "2026-06-06 11:20",
+      "summary": "Texas Gov. Greg Abbott expressed concern Friday that a new factory isn't expected to start breeding sterile New World screwworm fl..."
+    },
+    {
+      "title": "Astronauts briefly take shelter during repair to fix leak on the International Space Station",
+      "link": "https://phys.org/news/2026-06-astronauts-briefly-leak-international-space.html",
+      "date": "2026-06-06 11:19",
+      "summary": "NASA on Friday temporarily ordered astronauts to take shelter during repairs to fix a fresh leak aboard the International Space St..."
+    },
     {
       "title": "Americans share the same struggles despite deep political divides, new bipartisan report finds",
       "link": "https://phys.org/news/2026-06-americans-struggles-deep-political-bipartisan.html",
@@ -235,24 +253,6 @@
       "link": "https://phys.org/news/2026-06-scientists-years-nature.html",
       "date": "2026-06-06 02:40",
       "summary": "Armed with trail cameras, artificial intelligence, and a powerful national research network, scientists are revisiting Lewis and C..."
-    },
-    {
-      "title": "A new strategy for assembling π-conjugated panels into square molecules revealed",
-      "link": "https://phys.org/news/2026-06-strategy-conjugated-panels-square-molecules.html",
-      "date": "2026-06-06 01:40",
-      "summary": "A research group has developed a new method for selectively synthesizing three-dimensional macrocycles,⁽¹⁾ in which four panels ar..."
-    },
-    {
-      "title": "Starting kindergarten soon? Summer is a perfect time to support a child's early literacy learning",
-      "link": "https://phys.org/news/2026-06-kindergarten-summer-child-early-literacy.html",
-      "date": "2026-06-06 00:40",
-      "summary": "The first day of kindergarten is a momentous occasion for children and families. It's an exciting milestone that comes with new fr..."
-    },
-    {
-      "title": "Why do rival plants coexist? The secret is in the soil beneath the oaks",
-      "link": "https://phys.org/news/2026-06-rival-coexist-secret-soil-beneath.html",
-      "date": "2026-06-06 00:00",
-      "summary": "How can plants that compete for the same resources grow in the same area without one driving the other to extinction? Ecologists h..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "96 deals signed, flights planned: what’s next for Hong Kong and Central Asia?",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356215/96-deals-signed-flights-planned-whats-next-hong-kong-and-central-asia?utm_source=rss_feed",
+      "date": "2026-06-06 10:53",
+      "summary": "Hong Kong leader John Lee Ka-chiu has wrapped up his visit to Central Asia after meeting high-level leaders and sealing nearly 100..."
+    },
+    {
+      "title": "Wan Chai temple and Stanley Mosque set for highest level of heritage protection",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3356213/wan-chai-temple-and-stanley-mosque-set-highest-level-heritage-protection?utm_source=rss_feed",
+      "date": "2026-06-06 10:34",
+      "summary": "A nearly 180-year-old temple nestled in the heart of Wan Chai and Hong Kong’s only mosque inside a prison are poised to receive th..."
+    },
+    {
+      "title": "Hong Kong saves HK$69 million in first month after HK$2 fare scheme revamp",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3356211/hong-kong-saves-hk69-million-first-month-after-hk2-fare-scheme-revamp?utm_source=rss_feed",
+      "date": "2026-06-06 10:11",
+      "summary": "Changes to Hong Kong’s public transport subsidy scheme saved the government HK$69 million (US$8.8 million) in the first month, wit..."
+    },
+    {
+      "title": "Injured Mirror dancer Mo Li honours late father Reverend Derek Li at funeral",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3356208/injured-mirror-dancer-mo-li-honours-late-father-reverend-derek-li-funeral?utm_source=rss_feed",
+      "date": "2026-06-06 09:56",
+      "summary": "Dignitaries, relatives and members of the public gathered on Saturday to pay their final respects to the late Reverend Derek Li Sh..."
+    },
+    {
       "title": "Mainlanders can still open bank accounts in Hong Kong despite new rules: HKMA",
       "link": "https://www.scmp.com/business/banking-finance/article/3356201/mainlanders-can-still-open-bank-accounts-hong-kong-despite-new-rules-hkma?utm_source=rss_feed",
       "date": "2026-06-06 07:24",
       "summary": "Mainland customers can still open bank accounts in Hong Kong, but banks must adopt stringent new checks to ensure their processes ..."
-    },
-    {
-      "title": "Taxi driver, 69, arrested after woman killed in Tsim Sha Tsui collision",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356195/taxi-driver-69-arrested-after-woman-killed-tsim-sha-tsui-collision?utm_source=rss_feed",
-      "date": "2026-06-06 05:47",
-      "summary": "Hong Kong police have arrested a 69-year-old taxi driver after he allegedly knocked down and killed a 34-year-old woman in a shopp..."
-    },
-    {
-      "title": "Flu cases on rise in Hong Kong as immunity wanes, expert warns",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3356191/flu-cases-rise-hong-kong-immunity-wanes-expert-warns?utm_source=rss_feed",
-      "date": "2026-06-06 05:07",
-      "summary": "Flu cases are rising in Hong Kong, particularly among children and the elderly, as waning vaccine protection weakens community imm..."
-    },
-    {
-      "title": "Hong Kong baby Danny’s future remains unclear despite birth registration progress",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3356187/hong-kong-baby-dannys-future-remains-unclear-despite-birth-registration-progress?utm_source=rss_feed",
-      "date": "2026-06-06 03:31",
-      "summary": "Baby Danny’s future remains uncertain despite having almost completed his birth registration in Hong Kong, as welfare authorities ..."
-    },
-    {
-      "title": "Hong Kong lifts amber rain warning, showers and thunderstorms to persist",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3356186/hong-kong-issues-amber-rainstorm-warning-storms-follow-record-heat?utm_source=rss_feed",
-      "date": "2026-06-06 02:43",
-      "summary": "The Hong Kong Observatory has cancelled an amber rainstorm warning but cautioned that squally showers and thunderstorms will conti..."
     }
   ],
   "New Scientist": [
