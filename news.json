@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Improving the performance of high-power electronics",
+      "link": "https://news.mit.edu/2026/improving-high-power-electronics-performance-0608",
+      "date": "2026-06-08 04:00",
+      "summary": "By using a thin layer of diamond to manage excessive heat, researchers can boost the speed and energy-efficiency of next-generatio..."
+    },
+    {
       "title": "Startup helps retailers track their products in real-time",
       "link": "https://news.mit.edu/2026/cartesian-helps-retailers-track-their-products-in-real-time-0605",
       "date": "2026-06-05 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603",
       "date": "2026-06-03 21:00",
       "summary": "MIT researchers use the classic game as a test bed for AI agents, finding a small AI model can outperform the biggest ones at 1 pe..."
-    },
-    {
-      "title": "A new vaccine adjuvant could make it easier to eradicate polio",
-      "link": "https://news.mit.edu/2026/new-vaccine-adjuvant-could-make-it-easier-to-eradicate-polio-0603",
-      "date": "2026-06-03 18:00",
-      "summary": "The adjuvant can help the injectable polio vaccine induce a strong immune response in the GI tract, which is considered critical t..."
     }
   ],
   "Harvard Gazette": [
@@ -45,12 +45,6 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Funny but serious, Chieng issues an AI warning to grads - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjd2dS0wSnZIbjNVSzM1N1ZLbW82LUpSaV92b1lDRU1ZQUw2UVJQUVE3eDRHVnB3UUJEV09kQkx5TkE3aFNjVlMzQ3poQ2lqY2UzWGdJaUh5RmlMRXRFclFsY0VLWnFaMkEyZXUyODI0dUlqVFlmYWtWMVJQQnlhZ005eDljQnZSWXd2RUVzX0NtN1BLb3pGQlNmOE9tSjREc2hVWQ?oc=5",
-      "date": "2026-05-27 07:00",
-      "summary": "Funny but serious, Chieng issues an AI warning to grads  Harvard Gazette..."
-    },
-    {
       "title": "Plan to rein in inflated grading explained - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
       "date": "2026-03-26 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
+    },
+    {
+      "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
+      "date": "2026-02-20 08:00",
+      "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -83,16 +83,16 @@
       "summary": "Jennifer Cochran is the new Stanford vice president for SLAC and for strategic initiatives  Stanford Report..."
     },
     {
+      "title": "What makes a sustainable student? - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzQ18zckY1VXF4U1dRNXYxQVpTa1RRZkV4b2RyVlVRRTdtakhMaTNkdnNKaGdHdWNLaFFDTlpyREVVOEs5Wm4zaVk0NjhteG9LOHNFOGsta2ZPWEliZDN2Vk5zQ1pVRjlKMC1heGVvQWYzNDRFZHlONE5R?oc=5",
+      "date": "2026-06-08 04:57",
+      "summary": "What makes a sustainable student?  The Stanford Daily..."
+    },
+    {
       "title": "Flatworms reveal explosive new type of immune cell - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZU9Fa1F6cTU3aFhoeDU2XzhaOGtXc2hIV1FjQVhjRGRwN1pMU05Jcm5RWFE3cG55S2VUMHJRMV9TRExVTVg1T29ERkZvSFNqcEZwRThBa1p6ZXhDMEpuOEFsR011WE9DcG9zWUItU3JnZGJtM0x3UThwWnpJbTVadTRGWWlyYUVNRjBjbGVGTHJCTUgtVlNaVA?oc=5",
       "date": "2026-06-02 15:17",
       "summary": "Flatworms reveal explosive new type of immune cell  Stanford Report..."
-    },
-    {
-      "title": "Stanford undergraduates take on pressing research questions - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSDhiNWh5RnVPT3Q1UWJ2NW1qTHI4Tklrd29BTHNTY1ZQeTU4WnlHVDlWNWtZcC1XTUJNWEdKbHE1Ymg4dWRlZ3pVTnpMZzdqbGp3Rm5aeV9OMVdfd2xPQlNjVlpQbnJMeWV4cDBtYnJNcHU2NXUtem1pOEtvY0RRYjZhQXVBWU5RYXBNX25HTmt2SXRENFZNNUYyZXU?oc=5",
-      "date": "2026-06-04 15:41",
-      "summary": "Stanford undergraduates take on pressing research questions  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -161,22 +161,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "US House lawmakers release draft bill to prohibit state AI rules - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcG5Sb0owaXRhbUlnSGpYRWV3c3lYOTRva2FsdE1ZYjZDYTRmU2FYS0wwa2VNYTBSblB3cHRsbjJOXzNMQllnU1QzNjU0THJmZ0ZhVmllV2hGZllQU2NZaEVhOTlYWTJxeVZPa2psOG5kOFdEaEx0MU9vSzlhemRycGotbkJUWE95aElJbjVweFhMaXZGS0tMdFRn?oc=5",
-      "date": "2026-06-04 21:44",
-      "summary": "US House lawmakers release draft bill to prohibit state AI rules  Reuters..."
-    },
-    {
-      "title": "White House AI policy adviser Krishnan to leave position, the Information reports - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1hqYWVFYWsxSGczX0hiYnItX3pwX2xFcy0wQXlXc25nSWNyVVhkSGN4OVZWTGJVbGM5TlNRYlRUY21hSnRCbnF6aTlmMmV5eV9GZDdaZHRJaHViRzN3ZkFaQlhBcWM1UVdvREJESGNsWFNhb2pDTG93clpZZWRBM1ZtakhkcWpMbnhTNmhTUjYxMUU?oc=5",
-      "date": "2026-06-06 16:40",
-      "summary": "White House AI policy adviser Krishnan to leave position, the Information reports  Yahoo..."
-    },
-    {
-      "title": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcUs5SGticWFRUEZVQlh1R1NUWkdYN285SHFnaEQtdGp2czkxbUJGUS1aTC1FVDJIT0QyRjc4TDBucFpLODlobjk0QTR5ZU0xUVktSnY0cVh2aFpUd3MzUVF3Ny1mYVdtQUtTZVdGU3pCOE5pYWlYbFEycGhONlM5OFVZaGRWX1FhSFl2QkpTV3IxdTU5eUhCcF9NSlkzdnV1b2kwTXRWdXRkU29E?oc=5",
-      "date": "2026-06-07 04:21",
-      "summary": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports  Reuters..."
+      "title": "Trump says his team will 'look into' US taking stake in AI companies - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjJMRnpPRHVCampPWlVBNGFoOFl1T0N1NG5zdU81cjg4VDFocHhXbXJELWZoaS1Talg3aE5yTFI1b2dmN21TcW5kREdkYTJiS2pVbzBJYWFRbVl3c3ppNGJCdk9XRHA0bTZLRE9PRWF0RmRXdzIwNU1IdzNPeVMtS2VZNHRoamQ5QkNkanJBNF90anAyN19aX0YxZGVTV1JDNjY0QWwydEtER2FZ?oc=5",
+      "date": "2026-06-05 18:29",
+      "summary": "Trump says his team will 'look into' US taking stake in AI companies  Reuters..."
     },
     {
       "title": "White House AI policy adviser Krishnan to leave position By Reuters - Investing.com",
@@ -185,13 +173,31 @@
       "summary": "White House AI policy adviser Krishnan to leave position By Reuters  Investing.com..."
     },
     {
-      "title": "Trump says his team will 'look into' US taking stake in AI companies - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjJMRnpPRHVCampPWlVBNGFoOFl1T0N1NG5zdU81cjg4VDFocHhXbXJELWZoaS1Talg3aE5yTFI1b2dmN21TcW5kREdkYTJiS2pVbzBJYWFRbVl3c3ppNGJCdk9XRHA0bTZLRE9PRWF0RmRXdzIwNU1IdzNPeVMtS2VZNHRoamQ5QkNkanJBNF90anAyN19aX0YxZGVTV1JDNjY0QWwydEtER2FZ?oc=5",
-      "date": "2026-06-05 18:29",
-      "summary": "Trump says his team will 'look into' US taking stake in AI companies  Reuters..."
+      "title": "US says it will speed development and use of AI for national security - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWUwNHV4Z0RJWEl6X0laSThGZER1czhXeHVvd1FTanpkbkJrN24yQ2V5OHFEWndIZUZhT1dEWlRSMzFSV0NZSXBKQUdlY1liRFRxcjZxcV9nekRTMmQ2eFhReTFaX09WLUZRNks5Yi1xMzhXbVhWcHVUZ0JGR1FrT2xGd0JvbzdxRm1FTUZFNlZxdw?oc=5",
+      "date": "2026-06-05 20:19",
+      "summary": "US says it will speed development and use of AI for national security  Yahoo..."
+    },
+    {
+      "title": "Tumbling tech darlings slam brakes on AI rally - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFRCX29KbXlhVmEwNV9yUFRNQjZUcXFKVFlubUFGNkdrRDd0Z0ZwY3RUTFlXVmg5N1ppXzFHZ2Niai01RmtXOW1lY0pDRFI0VXJTZF9jeWFqSnZVRjREWDVfM21yMHNTR2NGcDcyb2NKczljNGNuRHJua1BlUkp0cUg2UQ?oc=5",
+      "date": "2026-06-07 23:44",
+      "summary": "Tumbling tech darlings slam brakes on AI rally  Reuters..."
+    },
+    {
+      "title": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcUs5SGticWFRUEZVQlh1R1NUWkdYN285SHFnaEQtdGp2czkxbUJGUS1aTC1FVDJIT0QyRjc4TDBucFpLODlobjk0QTR5ZU0xUVktSnY0cVh2aFpUd3MzUVF3Ny1mYVdtQUtTZVdGU3pCOE5pYWlYbFEycGhONlM5OFVZaGRWX1FhSFl2QkpTV3IxdTU5eUhCcF9NSlkzdnV1b2kwTXRWdXRkU29E?oc=5",
+      "date": "2026-06-07 04:21",
+      "summary": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "How courts are coping with a flood of AI-generated lawsuits - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1J5NVFRanA0MkJuSjMwanY4NFRmV0NUZFJKM1BuTVFoSVk4ak42WS1sTS1NeXZrTVVhWkYwZTZ3MmFRQ3pKbEJxU2NEQ1N0VDVvdlBIRC1GS1g2Z3lLQm9DOHhIa0JscEF5VmtlU3c4UE9HN2NBMDFFazFTYlFEdHlWd3XSAYoBQVVfeXFMT2pwaDlzQ0dpVG40RmJVbWJxLVFMUzN5MTJuR1ViX1dHay1TTXQ5SXRQclE4UnhXWWhGRktNdlNrN3JtcU5vZEo4empZaV9DTnNqZXllTVRhc29DdU95Y0hBQzZCRXowM3FlNVAzNlF1OWxDbUNEdTNkcGd5S2dsMGEyS21zNUNPXzJ3?oc=5",
+      "date": "2026-06-04 10:50",
+      "summary": "How courts are coping with a flood of AI-generated lawsuits  MIT Technology Review..."
+    },
     {
       "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2FuRkthYlMxeHROLVZfWGotRUNla3B2OWlMbzJyR0thQmNfNjd0SjF2NVZWRGFmNG0zZHF1NzFTYmtyVW9PLW9EbW13ZUp2bm04YzFVLVZOR1lZSlowUERrN0RGSU5SMnlMS1JnTXo4eGcya2FfTzBLWjd2WWhQbVdWeVN1VWk10gGOAUFVX3lxTE1FSUpJX2EyRElaMk5NZW9hZEhRSzdlS1U1eUM4TDFuZnh6YXBFTUlfQUx1aTNPV0dTaGo1TzhkNTFPVzlKOXQtSW1Lc3ZUS2tiWGFCMFFFQUlmYjRpZTBJVTNLTURYb1VFcllpYjBSbjNaU09zdzZmWVJMUEd3NEZINnkyb1UzQW1yYjNoS0E?oc=5",
@@ -215,15 +221,21 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNkNkX0JKZENjaUQxMDdsLVBhS2VZaG1QMDBSby1hZ1V4MU00T2FFZ1NQaGlmVkFHNms1NVVtcDZUS3VRSnBGMTlORExmS1lzU2p5cG1pQlV4U2xkQWJ2LTNSQjM5LXI4MWJXbC1ZeVBsVmJHb2pZTC00QmJfZzNqM0ZvUGVQQldIY05UR3U5OXJOSkXSAZgBQVVfeXFMTzZzOEJrZ19kbktkNUdJX0VFRFFEaWs1cUhzeWVraG11WjRXVWwyVExwUHBNbFdXdDR5NERzcXRrRmdaYmxidnk5bF9vaWRXMlpZTldSR2l5LWM0WUMzX0tkOXlkV1hqbDlhYmtHZHkwZVVEZzlyUFByVXNTdzFUME5fRjBVSjhockdZdEZhaVdLcVNuVTN6a2g?oc=5",
       "date": "2026-06-02 09:00",
       "summary": "How small businesses can leverage AI  MIT Technology Review..."
-    },
-    {
-      "title": "How courts are coping with a flood of AI-generated lawsuits - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1J5NVFRanA0MkJuSjMwanY4NFRmV0NUZFJKM1BuTVFoSVk4ak42WS1sTS1NeXZrTVVhWkYwZTZ3MmFRQ3pKbEJxU2NEQ1N0VDVvdlBIRC1GS1g2Z3lLQm9DOHhIa0JscEF5VmtlU3c4UE9HN2NBMDFFazFTYlFEdHlWd3XSAYoBQVVfeXFMT2pwaDlzQ0dpVG40RmJVbWJxLVFMUzN5MTJuR1ViX1dHay1TTXQ5SXRQclE4UnhXWWhGRktNdlNrN3JtcU5vZEo4empZaV9DTnNqZXllTVRhc29DdU95Y0hBQzZCRXowM3FlNVAzNlF1OWxDbUNEdTNkcGd5S2dsMGEyS21zNUNPXzJ3?oc=5",
-      "date": "2026-06-04 10:50",
-      "summary": "How courts are coping with a flood of AI-generated lawsuits  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Solar panels on rewetted peatland could be a climate and nature win–win",
+      "link": "https://phys.org/news/2026-06-solar-panels-rewetted-peatland-climate.html",
+      "date": "2026-06-08 04:10",
+      "summary": "Researchers in Germany have found that solar panels on rewetted peatland provide a unique habitat for bird species along with gene..."
+    },
+    {
+      "title": "Mysterious signals keep coming from space: Astronomers find their 'Rosetta stone'",
+      "link": "https://phys.org/news/2026-06-mysterious-space-astronomers-rosetta-stone.html",
+      "date": "2026-06-08 00:30",
+      "summary": "A pair of stars spiraling around each other. That's the origin of a new source of repeating radio bursts we've detected, called AS..."
+    },
     {
       "title": "AI spots smuggled seahorses, shark fins and sea cucumbers with 92% accuracy",
       "link": "https://phys.org/news/2026-06-ai-smuggled-seahorses-shark-fins.html",
@@ -241,18 +253,6 @@
       "link": "https://phys.org/news/2026-06-milky-mass-swarm-interstellar-comets.html",
       "date": "2026-06-07 21:00",
       "summary": "3I/ATLAS has caused quite a stir over the last year, inviting astronomers to update what they know about other solar systems as we..."
-    },
-    {
-      "title": "How gene swapping helped build the planet's decomposers",
-      "link": "https://phys.org/news/2026-06-gene-swapping-planet-decomposers.html",
-      "date": "2026-06-07 20:20",
-      "summary": "Decomposers are crucial for keeping Earth habitable, breaking down dead biomass and returning key nutrients, such as carbon, nitro..."
-    },
-    {
-      "title": "In Brazil's Cerrado region, Indigenous fire practices reshape wildfire strategy",
-      "link": "https://phys.org/news/2026-06-brazil-cerrado-region-indigenous-reshape.html",
-      "date": "2026-06-07 20:00",
-      "summary": "Fire began crackling like approaching rain on a recent morning in the Xerente Indigenous Territory in Tocantins in northern Brazil..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Lantau reclamation plans should be revived, property tycoon Gordon Wu says",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356279/lantau-reclamation-plans-should-be-revived-property-tycoon-gordon-wu-says?utm_source=rss_feed",
+      "date": "2026-06-08 03:30",
+      "summary": "Hong Kong should revive plans for large-scale reclamation off Lantau Island to run in parallel with the Northern Metropolis projec..."
+    },
+    {
+      "title": "Hong Kong seeks to define scope of national security cases ‘as soon as possible’",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356290/hong-kong-seeks-define-scope-national-security-cases-soon-possible?utm_source=rss_feed",
+      "date": "2026-06-08 01:50",
+      "summary": "The Hong Kong government has sought to clarify what constitutes national security cases in a new round of proposed subsidiary legi..."
+    },
+    {
+      "title": "Teachers behaving badly should prompt reflection in Hong Kong",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3356121/teachers-behaving-badly-should-prompt-reflection-hong-kong?utm_source=rss_feed",
+      "date": "2026-06-08 01:30",
+      "summary": "Educators have received quite a bit of unwanted attention lately. First came a Hong Kong school principal losing his temper during..."
+    },
+    {
+      "title": "Hong Kong tycoon bets China will overtake US economy ‘in next decade or so’",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3356258/hong-kong-tycoon-bets-china-will-overtake-us-economy-next-decade-or-so?utm_source=rss_feed",
+      "date": "2026-06-08 00:30",
+      "summary": "Hong Kong property tycoon Gordon Wu Ying-sheung has predicted that China will overtake the US as the world’s largest economy in th..."
+    },
+    {
       "title": "Hong Kong police warn World Cup fans against using overseas betting sites",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356273/hong-kong-police-warn-world-cup-fans-against-using-overseas-betting-sites?utm_source=rss_feed",
       "date": "2026-06-07 23:00",
       "summary": "Hong Kong police have warned football fans that using overseas betting websites could breach local gambling laws even if the platf..."
-    },
-    {
-      "title": "2 drivers hurt as Audi flies across central divider in Hong Kong road crash",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3356277/2-drivers-hurt-audi-flies-across-central-divider-hong-kong-road-crash?utm_source=rss_feed",
-      "date": "2026-06-07 16:10",
-      "summary": "A driver escaped serious injury in Hong Kong after a car vaulted over the central divider on Tuen Mun Road and slammed into his se..."
-    },
-    {
-      "title": "Scammers posing as police cheat 42 mainland students in Hong Kong out of millions",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356275/scammers-posing-police-cheat-42-mainland-students-hong-kong-out-millions?utm_source=rss_feed",
-      "date": "2026-06-07 15:00",
-      "summary": "More than 40 mainland students studying in Hong Kong fell victim to scammers impersonating Chinese law enforcement officers in the..."
-    },
-    {
-      "title": "Misdiagnosis isn’t misconduct, lawyer for accused doctor tells medical watchdog",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3356272/misdiagnosis-isnt-misconduct-lawyer-accused-doctor-tells-medical-watchdog?utm_source=rss_feed",
-      "date": "2026-06-07 14:02",
-      "summary": "The lawyer for a Hong Kong doctor accused of professional misconduct after a boy in his care was left permanently disabled more th..."
-    },
-    {
-      "title": "Police arrest man after Tesla rams parked vehicle in latest drug-driving case",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356259/police-arrest-man-after-tesla-rams-parked-vehicle-latest-drug-driving-case?utm_source=rss_feed",
-      "date": "2026-06-07 11:43",
-      "summary": "Hong Kong police have arrested a driver who crashed his car into a parked vehicle in Tai Kok Tsui and tested positive for ketamine..."
     }
   ],
   "New Scientist": [
