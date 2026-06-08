@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT astronomers discover the earliest known flickering quasar",
+      "link": "https://news.mit.edu/2026/mit-astronomers-discover-earliest-known-flickering-quasar-0608",
+      "date": "2026-06-08 09:00",
+      "summary": "When the universe was just 850 million years old, this voracious black hole was already surprisingly mature, a new study finds...."
+    },
+    {
       "title": "Improving the performance of high-power electronics",
       "link": "https://news.mit.edu/2026/improving-high-power-electronics-performance-0608",
       "date": "2026-06-08 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604",
       "date": "2026-06-04 16:00",
       "summary": "IAIFI enters its second phase with increased funding, broader ambitions, and a growing community at the frontier of AI and fundame..."
-    },
-    {
-      "title": "Teaching AI agents to ask better questions by playing “Battleship”",
-      "link": "https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603",
-      "date": "2026-06-03 21:00",
-      "summary": "MIT researchers use the classic game as a test bed for AI agents, finding a small AI model can outperform the biggest ones at 1 pe..."
     }
   ],
   "Harvard Gazette": [
@@ -77,12 +77,6 @@
       "summary": "Mary M. Chen honored with Marsh O’Neill Award for research support  Stanford Report..."
     },
     {
-      "title": "Jennifer Cochran is the new Stanford vice president for SLAC and for strategic initiatives - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakc3VWtiRU5wZUIxQjZZTFcxT2JENUxKRUF3OGQxcnF4UGd2STJVVEVCaVhEZExLR280a0pDaTV3WWNrbURYektSWWtObXlwLVVkNXk4UU9ybWtWeFl5Q01pbGJ6TW1ka0FVajNUX2d6NTBDQzA2VWR5ZHZSZUNoTEx5SUE0VlhxYWFSMlJ0Z0pIMDlfSi03T3daMkNiRGhEdVE?oc=5",
-      "date": "2026-06-05 18:33",
-      "summary": "Jennifer Cochran is the new Stanford vice president for SLAC and for strategic initiatives  Stanford Report..."
-    },
-    {
       "title": "What makes a sustainable student? - The Stanford Daily",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzQ18zckY1VXF4U1dRNXYxQVpTa1RRZkV4b2RyVlVRRTdtakhMaTNkdnNKaGdHdWNLaFFDTlpyREVVOEs5Wm4zaVk0NjhteG9LOHNFOGsta2ZPWEliZDN2Vk5zQ1pVRjlKMC1heGVvQWYzNDRFZHlONE5R?oc=5",
       "date": "2026-06-08 04:57",
@@ -93,6 +87,12 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZU9Fa1F6cTU3aFhoeDU2XzhaOGtXc2hIV1FjQVhjRGRwN1pMU05Jcm5RWFE3cG55S2VUMHJRMV9TRExVTVg1T29ERkZvSFNqcEZwRThBa1p6ZXhDMEpuOEFsR011WE9DcG9zWUItU3JnZGJtM0x3UThwWnpJbTVadTRGWWlyYUVNRjBjbGVGTHJCTUgtVlNaVA?oc=5",
       "date": "2026-06-02 15:17",
       "summary": "Flatworms reveal explosive new type of immune cell  Stanford Report..."
+    },
+    {
+      "title": "Stanford University Libraries Welcome Two New Assistant University Librarians - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNblVRTUZ0MEVZYWJjdTZVY0c4MG55d0pVOVFRNjduSUlWWlZRNThCY3dBOXdDNmF6dlM3Ym9id1JVeFZyTGJRTkZMSHZwLXluQ1ZGdzh1U0ZIdkpKcG5pS0N4aXROQzh4bkhqdVZqRElnc0UwUEVqdFJuRWxueXF3NzhOaTcwTkg2UjZvQ1d1bk96V0J2SUJLcWR5RTJKX0lUYi1idlNZaGFUMmdvNmxEdXd3ZTNMWkZNY1QyTkw4QmdYcU5DUDh3Z3J6RXZ1UQ?oc=5",
+      "date": "2026-06-04 16:15",
+      "summary": "Stanford University Libraries Welcome Two New Assistant University Librarians  PR Newswire..."
     }
   ],
   "Nature Careers": [
@@ -163,7 +163,7 @@
     {
       "title": "Trump says his team will 'look into' US taking stake in AI companies - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjJMRnpPRHVCampPWlVBNGFoOFl1T0N1NG5zdU81cjg4VDFocHhXbXJELWZoaS1Talg3aE5yTFI1b2dmN21TcW5kREdkYTJiS2pVbzBJYWFRbVl3c3ppNGJCdk9XRHA0bTZLRE9PRWF0RmRXdzIwNU1IdzNPeVMtS2VZNHRoamQ5QkNkanJBNF90anAyN19aX0YxZGVTV1JDNjY0QWwydEtER2FZ?oc=5",
-      "date": "2026-06-05 18:29",
+      "date": "2026-06-05 18:33",
       "summary": "Trump says his team will 'look into' US taking stake in AI companies  Reuters..."
     },
     {
@@ -173,16 +173,16 @@
       "summary": "White House AI policy adviser Krishnan to leave position By Reuters  Investing.com..."
     },
     {
-      "title": "US says it will speed development and use of AI for national security - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWUwNHV4Z0RJWEl6X0laSThGZER1czhXeHVvd1FTanpkbkJrN24yQ2V5OHFEWndIZUZhT1dEWlRSMzFSV0NZSXBKQUdlY1liRFRxcjZxcV9nekRTMmQ2eFhReTFaX09WLUZRNks5Yi1xMzhXbVhWcHVUZ0JGR1FrT2xGd0JvbzdxRm1FTUZFNlZxdw?oc=5",
-      "date": "2026-06-05 20:19",
-      "summary": "US says it will speed development and use of AI for national security  Yahoo..."
-    },
-    {
-      "title": "Tumbling tech darlings slam brakes on AI rally - Reuters",
+      "title": "Tumbling tech puts brakes on AI rally, Middle East escalation lifts oil - Reuters",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFRCX29KbXlhVmEwNV9yUFRNQjZUcXFKVFlubUFGNkdrRDd0Z0ZwY3RUTFlXVmg5N1ppXzFHZ2Niai01RmtXOW1lY0pDRFI0VXJTZF9jeWFqSnZVRjREWDVfM21yMHNTR2NGcDcyb2NKczljNGNuRHJua1BlUkp0cUg2UQ?oc=5",
       "date": "2026-06-07 23:44",
-      "summary": "Tumbling tech darlings slam brakes on AI rally  Reuters..."
+      "summary": "Tumbling tech puts brakes on AI rally, Middle East escalation lifts oil  Reuters..."
+    },
+    {
+      "title": "Morning Bid: Blistering AI rally turns ugly - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1icDZwNHN1NGwtTk5fSnhfU3h2cmJ3Ym14M2h1U0t2bFREdGFmOXN5LU1BMlVNMExuWWJqVTlaYU5Oa3l6ZDBSNFNMQUN3bWExdGxDbWg2NnhlanNjU0lyUDlPWVlVTTcwc3FrcXNrNjVHVTg0OUpyRFJmalhrSFk?oc=5",
+      "date": "2026-06-08 04:32",
+      "summary": "Morning Bid: Blistering AI rally turns ugly  Reuters..."
     },
     {
       "title": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports - Reuters",
@@ -192,6 +192,12 @@
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "Why this year’s World Cup ball may not fly as far - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWozY3B0SmsxdkFLTUYxV1U5cGVIRkFYeVllRUVkeUVMVFdTeFpnQ01MWXFlVUJHRmQ3TWVIQlFEOUFyMUNDZlRYSTdEcTBXQ1JBcDRnRVhjVFhvWjl5bGlQVlZmRWg4bFE3OHg5MlBiSkljYnprZ1dKanQwV1hXMVljNTA0d2NqdGREeDBYV1FaMk5fTUkzYTlXZDEyV0FPSDR30gGoAUFVX3lxTFBjSWJYZVB1YTBGc1RMalZuQzBRTDJLN3NHQnpiQkZEYkwtb2FqellQRVU1UTVFbU1RaXRnQ2luaHJNaEtWQmVfeGhHcUM0YThiVzdlV3M4clplXzRPMUlSbkxNTlpfZGwzempQeEN2WGVTZ1UtcUlGaWNrYTlMQTZ4cDJSOHlSeHdvV1pxUWFaWG0xZWNFcUdJRUw4aVVvV3FDcGJhX0t0UA?oc=5",
+      "date": "2026-06-08 09:00",
+      "summary": "Why this year’s World Cup ball may not fly as far  MIT Technology Review..."
+    },
     {
       "title": "How courts are coping with a flood of AI-generated lawsuits - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1J5NVFRanA0MkJuSjMwanY4NFRmV0NUZFJKM1BuTVFoSVk4ak42WS1sTS1NeXZrTVVhWkYwZTZ3MmFRQ3pKbEJxU2NEQ1N0VDVvdlBIRC1GS1g2Z3lLQm9DOHhIa0JscEF5VmtlU3c4UE9HN2NBMDFFazFTYlFEdHlWd3XSAYoBQVVfeXFMT2pwaDlzQ0dpVG40RmJVbWJxLVFMUzN5MTJuR1ViX1dHay1TTXQ5SXRQclE4UnhXWWhGRktNdlNrN3JtcU5vZEo4empZaV9DTnNqZXllTVRhc29DdU95Y0hBQzZCRXowM3FlNVAzNlF1OWxDbUNEdTNkcGd5S2dsMGEyS21zNUNPXzJ3?oc=5",
@@ -211,12 +217,6 @@
       "summary": "Rehumanizing global health care with agentic AI  MIT Technology Review..."
     },
     {
-      "title": "The Meta hack shows there’s more to AI security than Mythos - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlhzV1EwTzVfYjU2U2REZ3V6UnZCcVYwek12UUIySjBaRzRaVl9pMlJCclFHRVg2bUtZa3ZxdjNHY3E1TnoxVVE4S0pYV2VQQ0UxNnEtVGRRSEd1ckZRV0lhdGwyazF0ZkZiaEZaSkEwcXJFUEFnMVc2Q0kxaXI0alV1Tnlrb2U0Yy00NUhsTkxLcmhPanFZSE00MGcwWWhFTnVlUFVZa1BGQTRBU19OQdIBtgFBVV95cUxQQjJSVzEtLTFQSm13Q2FCd2FVUFlFMXRzUGRyRnRZWktLS3UwZGlkZ0JTM2p3Tlh0aURqRHpscFZ1ZzNkVTBWN3hQcW1OZEUwZmFFclZ4STd0elpzLWItSTRNR0JVUU92WWEtZXBYOEtCaS0xU2pnMHl3SWViM2drNHh0ZmlfcEItbEZ3bzM2WXh5eS1NVHM1Y1paN3l2VzVjV20yVG10R0dhTWtrY2t5U19jYjFBUQ?oc=5",
-      "date": "2026-06-05 09:00",
-      "summary": "The Meta hack shows there’s more to AI security than Mythos  MIT Technology Review..."
-    },
-    {
       "title": "How small businesses can leverage AI - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNkNkX0JKZENjaUQxMDdsLVBhS2VZaG1QMDBSby1hZ1V4MU00T2FFZ1NQaGlmVkFHNms1NVVtcDZUS3VRSnBGMTlORExmS1lzU2p5cG1pQlV4U2xkQWJ2LTNSQjM5LXI4MWJXbC1ZeVBsVmJHb2pZTC00QmJfZzNqM0ZvUGVQQldIY05UR3U5OXJOSkXSAZgBQVVfeXFMTzZzOEJrZ19kbktkNUdJX0VFRFFEaWs1cUhzeWVraG11WjRXVWwyVExwUHBNbFdXdDR5NERzcXRrRmdaYmxidnk5bF9vaWRXMlpZTldSR2l5LWM0WUMzX0tkOXlkV1hqbDlhYmtHZHkwZVVEZzlyUFByVXNTdzFUME5fRjBVSjhockdZdEZhaVdLcVNuVTN6a2g?oc=5",
       "date": "2026-06-02 09:00",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Solar panels on rewetted peatland could be a climate and nature win–win",
-      "link": "https://phys.org/news/2026-06-solar-panels-rewetted-peatland-climate.html",
-      "date": "2026-06-08 04:10",
-      "summary": "Researchers in Germany have found that solar panels on rewetted peatland provide a unique habitat for bird species along with gene..."
+      "title": "Nickelate superconductors share a common electronic fingerprint",
+      "link": "https://phys.org/news/2026-06-nickelate-superconductors-common-electronic-fingerprint.html",
+      "date": "2026-06-08 10:20",
+      "summary": "Superconductors, materials that conduct electricity with zero electrical resistance at specific temperature ranges, have proved ve..."
     },
     {
-      "title": "Mysterious signals keep coming from space: Astronomers find their 'Rosetta stone'",
-      "link": "https://phys.org/news/2026-06-mysterious-space-astronomers-rosetta-stone.html",
-      "date": "2026-06-08 00:30",
-      "summary": "A pair of stars spiraling around each other. That's the origin of a new source of repeating radio bursts we've detected, called AS..."
+      "title": "A 7.8 magnitude quake in the Philippines kills at least 19, fells buildings and sets off a tsunami",
+      "link": "https://phys.org/news/2026-06-magnitude-quake-philippines-fells-tsunami.html",
+      "date": "2026-06-08 09:50",
+      "summary": "An offshore magnitude 7.8 earthquake rocked the southern Philippines Monday, killing at least 19 people, injuring more than 200 ot..."
     },
     {
-      "title": "AI spots smuggled seahorses, shark fins and sea cucumbers with 92% accuracy",
-      "link": "https://phys.org/news/2026-06-ai-smuggled-seahorses-shark-fins.html",
-      "date": "2026-06-07 23:00",
-      "summary": "When we think of wildlife trafficking, we might think of rhino horns or baby orangutans sold as pets—but the smuggling of sea crea..."
+      "title": "Superheated magma may explain why similar volcanoes erupt in very different ways",
+      "link": "https://phys.org/news/2026-06-superheated-magma-similar-volcanoes-erupt.html",
+      "date": "2026-06-08 09:00",
+      "summary": "Scientists have shed light on a thermal process in magma that may help explain why similar volcanic systems can produce very diffe..."
     },
     {
-      "title": "'All-in-one' platform developed for multiple trait stacking in crops",
-      "link": "https://phys.org/news/2026-06-platform-multiple-trait-stacking-crops.html",
-      "date": "2026-06-07 22:00",
-      "summary": "A major goal of modern crop breeding is to efficiently combine multiple desirable traits by \"stacking\" the favorable gene variants..."
+      "title": "Ancient dental calculus uncovers regional and historical shifts in Japan's oral microbiome",
+      "link": "https://phys.org/news/2026-06-ancient-dental-calculus-uncovers-regional.html",
+      "date": "2026-06-08 09:00",
+      "summary": "Researchers have characterized the oral microbiomes of the Japanese population across time by analyzing the DNA preserved in denta..."
     },
     {
-      "title": "Could the Milky Way's missing mass be hiding in a swarm of interstellar comets?",
-      "link": "https://phys.org/news/2026-06-milky-mass-swarm-interstellar-comets.html",
-      "date": "2026-06-07 21:00",
-      "summary": "3I/ATLAS has caused quite a stir over the last year, inviting astronomers to update what they know about other solar systems as we..."
+      "title": "Antibiotics drive resistance in waterways—even after they break down",
+      "link": "https://phys.org/news/2026-06-antibiotics-resistance-waterways.html",
+      "date": "2026-06-08 09:00",
+      "summary": "Antibiotics continue to drive resistance in bacteria, even after they are broken down in wastewater treatment plants and discharge..."
     }
   ],
   "The Guardian Edu": [
@@ -289,42 +289,48 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Lantau reclamation plans should be revived, property tycoon Gordon Wu says",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356279/lantau-reclamation-plans-should-be-revived-property-tycoon-gordon-wu-says?utm_source=rss_feed",
-      "date": "2026-06-08 03:30",
-      "summary": "Hong Kong should revive plans for large-scale reclamation off Lantau Island to run in parallel with the Northern Metropolis projec..."
+      "title": "Hong Kong rules out favouring existing ride-hailing platform drivers for permits",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3356376/hong-kong-rules-out-favouring-existing-ride-hailing-platform-drivers-permits?utm_source=rss_feed",
+      "date": "2026-06-08 10:30",
+      "summary": "Hong Kong authorities will not favour existing ride-hailing platform drivers in the allocation of such vehicle permits, citing con..."
     },
     {
-      "title": "Hong Kong seeks to define scope of national security cases ‘as soon as possible’",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356290/hong-kong-seeks-define-scope-national-security-cases-soon-possible?utm_source=rss_feed",
-      "date": "2026-06-08 01:50",
-      "summary": "The Hong Kong government has sought to clarify what constitutes national security cases in a new round of proposed subsidiary legi..."
+      "title": "4 jailed for rioting at Polytechnic University during 2019 unrest in Hong Kong",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356383/4-jailed-rioting-polytechnic-university-during-2019-unrest-hong-kong?utm_source=rss_feed",
+      "date": "2026-06-08 10:27",
+      "summary": "A Hong Kong court has jailed four men for up to three years and one month for rioting during the 2019 anti-government protests, in..."
     },
     {
-      "title": "Teachers behaving badly should prompt reflection in Hong Kong",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3356121/teachers-behaving-badly-should-prompt-reflection-hong-kong?utm_source=rss_feed",
-      "date": "2026-06-08 01:30",
-      "summary": "Educators have received quite a bit of unwanted attention lately. First came a Hong Kong school principal losing his temper during..."
+      "title": "Hong Kong woman, 86, falls to death while cleaning window in Discovery Bay",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3356377/hong-kong-woman-86-falls-death-while-cleaning-window-discovery-bay?utm_source=rss_feed",
+      "date": "2026-06-08 10:14",
+      "summary": "An 86‑year‑old woman died on Monday morning after falling from her flat while cleaning a window at a residential estate in Discove..."
     },
     {
-      "title": "Hong Kong tycoon bets China will overtake US economy ‘in next decade or so’",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3356258/hong-kong-tycoon-bets-china-will-overtake-us-economy-next-decade-or-so?utm_source=rss_feed",
-      "date": "2026-06-08 00:30",
-      "summary": "Hong Kong property tycoon Gordon Wu Ying-sheung has predicted that China will overtake the US as the world’s largest economy in th..."
+      "title": "Hong Kong’s southbound travel scheme opens to 5  more Greater Bay Area cities",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3356351/hong-kongs-southbound-travel-scheme-opens-5-more-greater-bay-area-cities?utm_source=rss_feed",
+      "date": "2026-06-08 08:51",
+      "summary": "Hong Kong will expand a travel scheme that allows mainland Chinese motorists to enter the city for leisure, opening it to drivers ..."
     },
     {
-      "title": "Hong Kong police warn World Cup fans against using overseas betting sites",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356273/hong-kong-police-warn-world-cup-fans-against-using-overseas-betting-sites?utm_source=rss_feed",
-      "date": "2026-06-07 23:00",
-      "summary": "Hong Kong police have warned football fans that using overseas betting websites could breach local gambling laws even if the platf..."
+      "title": "As AI upends humanity, we must focus on what makes us human",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3355710/ai-upends-humanity-we-must-focus-what-makes-us-human?utm_source=rss_feed",
+      "date": "2026-06-08 08:30",
+      "summary": "“When we graduate, what can we do?” As a philosophy professor, questions like this – about employability – often crop up in my con..."
     }
   ],
   "New Scientist": [
     {
-      "title": "Are we getting to the point where it's safe to gene-edit babies?",
-      "link": "https://www.newscientist.com/article/2529355-are-we-getting-to-the-point-where-its-safe-to-gene-edit-babies/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-05 20:11",
-      "summary": "A team in the US has reported promising results after using an improved form of CRISPR to gene-edit human embryos, but a major iss..."
+      "title": "A chromosome from a frozen rat has been resurrected inside mice",
+      "link": "https://www.newscientist.com/article/2529279-a-chromosome-from-a-frozen-rat-has-been-resurrected-inside-mice/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-05 14:52",
+      "summary": "Mice that contain cells with an added rat chromosome have been created by scientists. The next step is to try this with frozen ele..."
+    },
+    {
+      "title": "Mysterious ‘cold blob’ in the Atlantic suggests the AMOC is weakening",
+      "link": "https://www.newscientist.com/article/2529078-mysterious-cold-blob-in-the-atlantic-suggests-the-amoc-is-weakening/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-04 15:00",
+      "summary": "A patch of ocean south-east of Greenland is the only place on Earth that is cooling, and it could be a sign that the warm water \"c..."
     },
     {
       "title": "Cuts to US ocean programme will hinder monitoring of El Niño and AMOC",
@@ -337,12 +343,6 @@
       "link": "https://www.newscientist.com/article/2527761-flood-of-ai-garbage-is-pushing-open-source-developers-to-the-limit/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-05 15:21",
       "summary": "The modern world depends on open-source software maintained by volunteers, but the added demands of checking and fixing AI-written..."
-    },
-    {
-      "title": "A chromosome from a frozen rat has been resurrected inside mice",
-      "link": "https://www.newscientist.com/article/2529279-a-chromosome-from-a-frozen-rat-has-been-resurrected-inside-mice/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-05 14:52",
-      "summary": "Mice that contain cells with an added rat chromosome have been created by scientists. The next step is to try this with frozen ele..."
     },
     {
       "title": "Becoming a parent may make you love your partner less",
