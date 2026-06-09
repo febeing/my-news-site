@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "3D-printed devices could streamline the production of drug-delivery microparticles",
+      "link": "https://news.mit.edu/2026/3d-printed-devices-could-streamline-drug-delivery-microparticle-production-0609",
+      "date": "2026-06-09 04:00",
+      "summary": "The cost-effective devices, which can be built in hours, leverage electrospray emitter technology to efficiently produce three-lay..."
+    },
+    {
       "title": "Innovative projects explore ways to deal with extreme heat",
       "link": "https://news.mit.edu/2026/innovative-projects-explore-ways-to-deal-with-extreme-heat-0608",
       "date": "2026-06-08 20:45",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/cartesian-helps-retailers-track-their-products-in-real-time-0605",
       "date": "2026-06-05 04:00",
       "summary": "Using technology invented at MIT, Cartesian’s system for locating objects could also find uses in manufacturing, logistics, and ro..."
-    },
-    {
-      "title": "Developing innovative alternatives to conventional carbon capture methods",
-      "link": "https://news.mit.edu/2026/developing-innovative-carbon-capture-methods-0604",
-      "date": "2026-06-04 20:35",
-      "summary": "MIT researchers present a promising new approach to efficient, flexible carbon capture and removal...."
     }
   ],
   "Harvard Gazette": [
@@ -39,22 +39,22 @@
       "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
     },
     {
-      "title": "Funny but serious, Chieng issues an AI warning to grads - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjd2dS0wSnZIbjNVSzM1N1ZLbW82LUpSaV92b1lDRU1ZQUw2UVJQUVE3eDRHVnB3UUJEV09kQkx5TkE3aFNjVlMzQ3poQ2lqY2UzWGdJaUh5RmlMRXRFclFsY0VLWnFaMkEyZXUyODI0dUlqVFlmYWtWMVJQQnlhZ005eDljQnZSWXd2RUVzX0NtN1BLb3pGQlNmOE9tSjREc2hVWQ?oc=5",
-      "date": "2026-05-27 07:00",
-      "summary": "Funny but serious, Chieng issues an AI warning to grads  Harvard Gazette..."
-    },
-    {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+      "title": "Funny but serious, Chieng issues an AI warning to grads - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjd2dS0wSnZIbjNVSzM1N1ZLbW82LUpSaV92b1lDRU1ZQUw2UVJQUVE3eDRHVnB3UUJEV09kQkx5TkE3aFNjVlMzQ3poQ2lqY2UzWGdJaUh5RmlMRXRFclFsY0VLWnFaMkEyZXUyODI0dUlqVFlmYWtWMVJQQnlhZ005eDljQnZSWXd2RUVzX0NtN1BLb3pGQlNmOE9tSjREc2hVWQ?oc=5",
+      "date": "2026-05-27 07:00",
+      "summary": "Funny but serious, Chieng issues an AI warning to grads  Harvard Gazette..."
+    },
+    {
+      "title": "Plan to rein in inflated grading explained - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
+      "date": "2026-03-26 07:00",
+      "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
     },
     {
       "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
@@ -71,16 +71,16 @@
       "summary": "Stanford centers focus on making science more reliable  Stanford Report..."
     },
     {
+      "title": "Announcing the 2026 Cuthbertson, Dinkelspiel, and Gores award winners - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmhIRGdIa2ZIMV8yaHJtU2V4WVRmOUZjUnlpNldELXVrcE9EWTg3V0lUWjFGY1c5bzQyYllJSXpRNzJScl9BcUM0dU9ZQ1ZtTjNWM2hqUjVtNE1rb1Bka1J5dEhyN29fcmRoWl9vNGpxM0NTRElnNnBiYlRza0FqTmg4UWExeXNPcnF3X1VR?oc=5",
+      "date": "2026-06-04 17:37",
+      "summary": "Announcing the 2026 Cuthbertson, Dinkelspiel, and Gores award winners  Stanford Report..."
+    },
+    {
       "title": "Today's AI Talks Like “Nobody.” New Research Gives It Real Personality. - Stanford HAI",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZzZhUEpWUVFVLWtMd0ExNEtMbDVjbXVxaC1sc3NtYmlfdkdGUHQ5bGNjQjFRSUlHekFTT1lXam95a2x1ZnplZzR2ak1ydXd2c2ZJNTFyVnpZVDdweWJIT0JDTkJ3TXFXN1ZyakZKbTR1WWRwX2tUVTJyUGl0WF8xWEx5a056WnA1aHgzMVdyN01aVkxDNWpuT3dVcUw?oc=5",
       "date": "2026-06-08 13:59",
       "summary": "Today's AI Talks Like “Nobody.” New Research Gives It Real Personality.  Stanford HAI..."
-    },
-    {
-      "title": "Announcing the 2026 Cuthbertson, Dinkelspiel, and Gores award winners - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmhIRGdIa2ZIMV8yaHJtU2V4WVRmOUZjUnlpNldELXVrcE9EWTg3V0lUWjFGY1c5bzQyYllJSXpRNzJScl9BcUM0dU9ZQ1ZtTjNWM2hqUjVtNE1rb1Bka1J5dEhyN29fcmRoWl9vNGpxM0NTRElnNnBiYlRza0FqTmg4UWExeXNPcnF3X1VR?oc=5",
-      "date": "2026-06-04 17:36",
-      "summary": "Announcing the 2026 Cuthbertson, Dinkelspiel, and Gores award winners  Stanford Report..."
     },
     {
       "title": "Jennifer Cochran is the new Stanford vice president for SLAC and for strategic initiatives - Stanford Report",
@@ -89,10 +89,10 @@
       "summary": "Jennifer Cochran is the new Stanford vice president for SLAC and for strategic initiatives  Stanford Report..."
     },
     {
-      "title": "Mary M. Chen honored with Marsh O’Neill Award for research support - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON3B3QS1BNXYtMklXOFVsRkZMNzhaMlJvY3lSTldFLWlGMm8tenVlMThiWnh6MVdEd3drcXN2NXhuNTc2WWs0ck13Vmx4eG5XM1V0YVZ1MFpOUzRiOFZFNUZaVFNaX1BacnhtUFM1MmJoNWFNRENVaGd1XzdONDdvMTlkU2RSdXdWZml6Y2M0N1FYZUdJ?oc=5",
-      "date": "2026-06-05 13:01",
-      "summary": "Mary M. Chen honored with Marsh O’Neill Award for research support  Stanford Report..."
+      "title": "New Stanford Study: How AI Is Shutting Black Applicants Out of Entire Industries - theroot.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSVFQZ3dsU2hRUk9XV24zU2JRaW51VEd3YzlUQ1dxbDRNblBrMWlGQmRidkw1Nl80NHpHZGR3Zk9nNmJ5ODhsUi1QUEVmZjJLVFdTUEltSVJjSmJrUXFKaV9tMmxuWGdxM3pOd2pPQ21iSFQxRGhGMXNjRFZZc3BDXzhSeUZGbVpQNTFLLXBER2dwWVk?oc=5",
+      "date": "2026-06-08 20:52",
+      "summary": "New Stanford Study: How AI Is Shutting Black Applicants Out of Entire Industries  theroot.com..."
     }
   ],
   "Nature Careers": [
@@ -163,20 +163,8 @@
     {
       "title": "OpenAI files for US IPO after Anthropic as AI giants head to public markets - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FJYXdqcEJac0hlSTNib2dhTTZDeFZLY0V2T3lNTFFYWWhObmRNOFJPNVEyNGNIUFhNaThpVGk2VEFvVTNMZndvZWg4ZFBFVTN0ZUVqd1UtVk91R3lON3VHVUJUdDVYTzIxdnBHcUk2dFN2WHhOOXkyMkhkalQtZjRHb25EWHpMRTVUaEdyWmNPODlhb3daUlVWZ2JmSHhkODFOdG1OR0ZIc3IxbDl2VU1R?oc=5",
-      "date": "2026-06-08 21:37",
+      "date": "2026-06-08 21:17",
       "summary": "OpenAI files for US IPO after Anthropic as AI giants head to public markets  Reuters..."
-    },
-    {
-      "title": "Cerebras shares climb as Wall Street brokerages back AI chip strategy - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHJ0VzJmTVJweXVKSTVfUUtaSzV5TllPSUExMTFRNE1EQTQxVlBIYlpqSlFLVS1DWEdTZ1QzLXFrR01uNVpuRm5QYkZYbTBOT24yUWs2UzFNZGhibjVjbkNmbEVTV0lzUEFMZUNUMXcxU2w3U3pjbkhaYUx1WDZfNnZzcFJxeVRoUmtuTWdPZ3JhbDlhOS1fQWVBMTlNME85Vm1pU01LYkRXb1NHaXZYYg?oc=5",
-      "date": "2026-06-08 14:24",
-      "summary": "Cerebras shares climb as Wall Street brokerages back AI chip strategy  Reuters..."
-    },
-    {
-      "title": "Apple bets on overdue Siri fix to close AI gap - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMk5BeHJzcVFqR05lZ25VSVAyZnRVdng4YWNwdjh0c1EtMndLUG85VVNqTEY2bTFEWE9nejF2c1VxUlluWEFWeFVwUnYxenNLU0ZQZk1NZnFELWhvcnpVVEw3QXU3Z0lURFY4VldPYkxUVHBlTWdTbVdWYzZWOWdSSWNKRXdvZXJiMzJlTVNEd0F4VEdaSDh3aFJXM0xHNU5tZHpfeFVwcjUtdWc1YlFXNDNsd3NJTXFRVmc?oc=5",
-      "date": "2026-06-08 23:02",
-      "summary": "Apple bets on overdue Siri fix to close AI gap  Reuters..."
     },
     {
       "title": "Meta funds skilled trades jobs program for AI data center buildout - Reuters",
@@ -185,10 +173,22 @@
       "summary": "Meta funds skilled trades jobs program for AI data center buildout  Reuters..."
     },
     {
-      "title": "White House AI policy adviser Krishnan to leave position - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1VVeGR4TVFlbXlnb29KQnBtQ1BqUVFUWWFBQnpuempZNmNaREFVUjZ5YlprYXZMSGctdFhwd0lZMVJlYkY0UC1xek5CS21OZGw1bVE3Ni01Z056SjNleW5XQnhKOGhDd1VpQTVsckRuNjEySW5qRVFMdDJZZlU4THJVd1poZXRFQ25uaS1SbU9sZWN3Y1JYS3dyQVNSTHBad0JjYkhFcVVkeWFBbjlEVFYxZ2laLWVyMmc?oc=5",
-      "date": "2026-06-06 18:57",
-      "summary": "White House AI policy adviser Krishnan to leave position  Reuters..."
+      "title": "The AI rally may have finally met its match - the Fed - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFh0ZXR3OW5raVRWQ2pXM2NDUWNoVnh6WFlISWJuM2ExbW9YdjZmWDhwVFBGbzFZaUVldUYtRlJPZnVlMkRuWjdhRFdPVi1HV0NGX3dIcjM5NTE5ZC1PZW10WTdYQTRTWU56czVvVWJ3M2dGZ0tXeHkwVzliV0hFZXY1YTlGTnNWbGNsY2pXZ1dtc3dIbkQ0TnhtaE1ZaDk0S0hRYWZvTkJCOUNQUUZnZkxB?oc=5",
+      "date": "2026-06-08 23:30",
+      "summary": "The AI rally may have finally met its match - the Fed  Reuters..."
+    },
+    {
+      "title": "Applied Digital signs $5.2 billion AI data center lease with U.S. hyperscaler - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOazJZU3JwMjdXNnVsR0ZHN0VlcGFwV09jT1lMYmgtNFdNXzVqUmtFYlBWRzNZVEIyM3Jnd2tLV3pwanNfNGttaFRhYkJVVHFNcWhhZHRlMWZTOG8yZDdYNk0yRklvVi1xc0RsR1A1OTlYR1k4dklOdkxHUmpiNEV4UFpVM21RalJ4MTZZTl9ET0hRTWNBWWthUlJYajlGc01zT2NHOHZ1RkhrRmVkbEhDdkxCVVBTNmZJOURXUA?oc=5",
+      "date": "2026-06-08 20:57",
+      "summary": "Applied Digital signs $5.2 billion AI data center lease with U.S. hyperscaler  Reuters..."
+    },
+    {
+      "title": "Ahead of SpaceX IPO, Musk says AI satellites will use mostly existing technology - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTU5kZTNKTkVQc2hvTGVhMVJsSXEzc05aTHVPNUY4R2VfaTNzU3B1bzRrUUUxYUZxX0wtaTMzb3BXZEpRcHcyOHVGVjRZY3dmazJ6bmpaSGxTU1dPMnpPM3VCcnhjWVY4dXVqam1XMWJsdW9GbFVwOE1rUWhuMXgxSGczTERwLS12alZTaU82eXV5N0JmZERmdEJhX3ZiOE1jRzNYTnJaQy1xMFB5UHF4bldEc2lfcFNzVDQ3ODd4N0Y4N0xEYUpVamlIYk1wbEJm?oc=5",
+      "date": "2026-06-09 01:02",
+      "summary": "Ahead of SpaceX IPO, Musk says AI satellites will use mostly existing technology  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "They call it 'stupid hot' for a reason: Heat muddles animal brains",
-      "link": "https://phys.org/news/2026-06-stupid-hot-animal-brains.html",
-      "date": "2026-06-09 00:00",
-      "summary": "On a blazing hot day in South Africa, female southern pied babblers can't think straight. The medium-sized black-and-white birds a..."
+      "title": "Koala population crash came before humans, genomic study reveals",
+      "link": "https://phys.org/news/2026-06-koala-population-humans-genomic-reveals.html",
+      "date": "2026-06-09 04:00",
+      "summary": "A genomic study has reshaped our understanding of the evolutionary history of the koala (Phascolarctos cinereus), revealing the ic..."
     },
     {
-      "title": "Cosmic bombardment may have opened Earth's crust for prebiotic chemistry",
-      "link": "https://phys.org/news/2026-06-cosmic-bombardment-earth-crust-prebiotic.html",
-      "date": "2026-06-08 23:40",
-      "summary": "Asteroids and planetesimals regularly bombarded Earth between about 4.6 billion and 3.5 billion years ago, during the Hadean and A..."
+      "title": "More people with disabilities are seeking work, report reveals",
+      "link": "https://phys.org/news/2026-06-people-disabilities-reveals.html",
+      "date": "2026-06-09 03:20",
+      "summary": "The June 2026 National Trends in Disability Employment (nTIDE) report reveals a large increase in job-seeking among people with di..."
     },
     {
-      "title": "Super sponge can remove toxic dyes from industrial wastewater",
-      "link": "https://phys.org/news/2026-06-super-sponge-toxic-dyes-industrial.html",
-      "date": "2026-06-08 23:40",
-      "summary": "Colors brighten our lives and help define countless items we use daily—from the vibrant clothes we wear to decorative paper and pa..."
+      "title": "MLB swing-tracking data helps researchers examine baseball's long-debated two-strike approach",
+      "link": "https://phys.org/news/2026-06-mlb-tracking-baseball-debated-approach.html",
+      "date": "2026-06-09 02:40",
+      "summary": "When baseball fans watch a batter strike out with runners in scoring position, the reaction is often immediate: Shorten the swing...."
     },
     {
-      "title": "How plants survive constant DNA damage: Newly identified repair protein protects growth-critical stem cells",
-      "link": "https://phys.org/news/2026-06-survive-constant-dna-newly-protein.html",
-      "date": "2026-06-08 23:30",
-      "summary": "Similar to the way DNA damage can contribute to human diseases such as cancer, it can also disrupt growth, development and surviva..."
+      "title": "Expedition to Antarctica advances research on potential melanoma treatment",
+      "link": "https://phys.org/news/2026-06-antarctica-advances-potential-melanoma-treatment.html",
+      "date": "2026-06-09 02:20",
+      "summary": "Deep beneath the icy waters surrounding Antarctica, a small marine organism may hold clues to a future cancer treatment. Researche..."
     },
     {
-      "title": "Despite toxic reputation, our research shows podcasts can help men's mental health",
-      "link": "https://phys.org/news/2026-06-toxic-reputation-podcasts-men-mental.html",
-      "date": "2026-06-08 23:20",
-      "summary": "Over the last decade, podcasts have become big business, with more than a fifth of UK adults listening to podcasts each week. The ..."
+      "title": "Finding hidden catalytic knowledge from literature data",
+      "link": "https://phys.org/news/2026-06-hidden-catalytic-knowledge-literature.html",
+      "date": "2026-06-09 02:00",
+      "summary": "Exciting new research at Tohoku University's Advanced Institute for Materials Research (WPI-AIMR) explains how to transform decade..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Hong Kong’s national security law refinement aims to plug loopholes",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3356346/hong-kongs-national-security-law-refinement-aims-plug-loopholes?utm_source=rss_feed",
-      "date": "2026-06-08 23:15",
-      "summary": "Enhancing national security has always been an ongoing priority rather than a completed task for Hong Kong following the introduct..."
+      "title": "Hong Kong school seeks ‘excellent character’ in new head after Singapore swearing row",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3356457/hong-kong-school-seeks-excellent-character-new-head-after-singapore-swearing-row?utm_source=rss_feed",
+      "date": "2026-06-09 05:01",
+      "summary": "A Hong Kong school that instantly dismissed its principal after he was filmed swearing at security guards in Singapore has publish..."
     },
     {
-      "title": "How Hong Kong’s strengths can help unlock Central Asia’s potential",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3356305/how-hong-kongs-strengths-can-help-unlock-central-asias-potential?utm_source=rss_feed",
-      "date": "2026-06-08 21:30",
-      "summary": "Hong Kong has taken a monumental step forward in expanding its global economic footprint. Last week, Chief Executive John Lee Ka-c..."
+      "title": "Power outage cuts water supply, disrupts lifts for 3,000 residents for 24 hours",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3356455/power-outage-cuts-water-supply-disrupts-lifts-3000-residents-24-hours?utm_source=rss_feed",
+      "date": "2026-06-09 04:52",
+      "summary": "About 3,000 residents at a Tsuen Wan housing estate have been left without water and with disrupted lift services for more than 24..."
     },
     {
-      "title": "‘Overwhelming’: Hong Kong’s dog-friendly restaurant scheme twice oversubscribed",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3356405/overwhelming-hong-kongs-dog-friendly-restaurant-scheme-twice-oversubscribed?utm_source=rss_feed",
-      "date": "2026-06-08 12:49",
-      "summary": "A licensing scheme allowing dogs in Hong Kong restaurants has attracted an “overwhelming” 2,100 applications, more than double the..."
+      "title": "John Lee vows ‘prudent’ use of power to define national security offences",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3356452/john-lee-vows-prudent-use-power-define-national-security-offences?utm_source=rss_feed",
+      "date": "2026-06-09 04:25",
+      "summary": "Hong Kong’s leader has pledged to exercise prudence and seriousness when defining national security offences under newly proposed ..."
     },
     {
-      "title": "Why Hong Kong matters to Kazakhstan’s financial ambitions",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3356148/why-hong-kong-matters-kazakhstans-financial-ambitions?utm_source=rss_feed",
-      "date": "2026-06-08 12:30",
-      "summary": "As part of its decades-old “multi-vector” foreign policy, based on balancing relations between major powers such as China, Russia,..."
+      "title": "Hong Kong to begin consultation on ‘historic’ first 5-year plan on June 15",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3356446/hong-kong-begin-consultation-historic-first-five-year-plan-june-15?utm_source=rss_feed",
+      "date": "2026-06-09 03:55",
+      "summary": "Hong Kong will launch a two-month public consultation on Monday on its first five-year blueprint to align the city’s development w..."
     },
     {
-      "title": "NWD tests market with 28 Pavilia Rosa flats for sale amid Hang Seng slump",
-      "link": "https://www.scmp.com/business/article/3356400/nwd-tests-market-28-pavilia-rosa-flats-sale-amid-hang-seng-slump?utm_source=rss_feed",
-      "date": "2026-06-08 12:07",
-      "summary": "Hong Kong developer New World Development (NWD) is making 28 units of its Pavilia Rosa project in Kowloon Tong available to buyers..."
+      "title": "Hong Kong basketball coach arrested over viral video of him slapping student",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356431/hong-kong-basketball-coach-arrested-over-viral-video-him-slapping-student?utm_source=rss_feed",
+      "date": "2026-06-09 02:01",
+      "summary": "A veteran Hong Kong basketball coach has been arrested on suspicion of common assault after he was seen in a video slapping a youn..."
     }
   ],
   "New Scientist": [
