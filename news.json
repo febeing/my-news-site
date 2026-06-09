@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "The consequences of relying on AI for accurate news",
+      "link": "https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609",
+      "date": "2026-06-09 20:30",
+      "summary": "Media Lab study shows that, much like how GPS has weakened our navigation skills, AI can make us worse at detecting fake news...."
+    },
+    {
       "title": "3D-printed devices could streamline the production of drug-delivery microparticles",
       "link": "https://news.mit.edu/2026/3d-printed-devices-could-streamline-drug-delivery-microparticle-production-0609",
       "date": "2026-06-09 04:00",
@@ -23,26 +29,20 @@
       "link": "https://news.mit.edu/2026/improving-high-power-electronics-performance-0608",
       "date": "2026-06-08 04:00",
       "summary": "By using a thin layer of diamond to manage excessive heat, researchers can boost the speed and energy-efficiency of next-generatio..."
-    },
-    {
-      "title": "Startup helps retailers track their products in real-time",
-      "link": "https://news.mit.edu/2026/cartesian-helps-retailers-track-their-products-in-real-time-0605",
-      "date": "2026-06-05 04:00",
-      "summary": "Using technology invented at MIT, Cartesian’s system for locating objects could also find uses in manufacturing, logistics, and ro..."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRCNE1YZ0h5NkU4MmtrUnh5TmcyWlVoZHBJN25nR1FUUjByVmxENDZsMmxuMWRVajhKV1FPb1owUWRDay1lQk53TzMyQUo2RmRSczdJOC1Lb0wtQmJScFFtZU9kN3A1MFdCNjMxNXhsVDRDZ3hHbWZwTjdYcjBxcXNXZ182MVlqN0dvTEgycW5NaC0ybWl0eHJuRjBla3JKemc?oc=5",
-      "date": "2026-05-26 07:00",
-      "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
-    },
     {
       "title": "Funny but serious, Chieng issues an AI warning to grads - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjd2dS0wSnZIbjNVSzM1N1ZLbW82LUpSaV92b1lDRU1ZQUw2UVJQUVE3eDRHVnB3UUJEV09kQkx5TkE3aFNjVlMzQ3poQ2lqY2UzWGdJaUh5RmlMRXRFclFsY0VLWnFaMkEyZXUyODI0dUlqVFlmYWtWMVJQQnlhZ005eDljQnZSWXd2RUVzX0NtN1BLb3pGQlNmOE9tSjREc2hVWQ?oc=5",
       "date": "2026-05-27 07:00",
       "summary": "Funny but serious, Chieng issues an AI warning to grads  Harvard Gazette..."
+    },
+    {
+      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
+      "date": "2026-05-12 07:00",
+      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
       "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
@@ -57,10 +57,10 @@
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
     },
     {
-      "title": "The questions that keep scientists up at night - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
-      "date": "2026-04-07 07:00",
-      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
+      "title": "Tracing Harvard’s ties to slavery: Recovering names and histories - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0tGSElobUlUZmV0dWpzSGlrY0JPVTRkcWxsQ29vQVB6TDJuLUlUVGt3dWpfZDBhUWt5M0hUdFJnLU5ZTDJNeHJmbnYwUGo5YllfdjF5MmV4OVdtTk9rT3FwT0NYbVRHQ2ZoQUEtblhqMWpLVjBOQVV0TlZnaUI5aW16QUVPUlBENE1LbmY5eS05TnEwblVDMnRlN3NBWlByc3g5dWkwWjNrdy1ZeGM5dQ?oc=5",
+      "date": "2026-02-20 08:00",
+      "summary": "Tracing Harvard’s ties to slavery: Recovering names and histories  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -71,28 +71,28 @@
       "summary": "At Stanford, one freshman discovered 'How to Rule the World'  WBUR..."
     },
     {
+      "title": "From Sochi souvenirs to Stanford: One student’s Russian studies journey - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQekkySVYyS1ZpYlgxSkxaX0NzMC1nZXJSUE8xMHdIbEJWR1pvekdrMDdUUktLdkZWeUQxZzlRUDN2WEFBdUI2My14cHdRZk92aEZydUdQdlhsVGxwODJIek9INHg2R1NMNFg1c0cweFhnNEYzLUdyakxxWFA2VEttVWZJMm9DeVVSZmxlNWsyeWVVdlNpYnc?oc=5",
+      "date": "2026-06-09 12:00",
+      "summary": "From Sochi souvenirs to Stanford: One student’s Russian studies journey  Stanford University..."
+    },
+    {
       "title": "Center for Racial Justice Students Help Illuminate Wong Kim Ark’s Enduring Legacy - Stanford Law School",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnR1NWpMeDg4eEpFLVozWmw2bi1wcGJ1TmVhSUVIbWhPQlFiSXgya2FwOE5VUU03NDZSN2RoSnU3UHZNYXFMajV1d1lpT0JTQUxsejhCVjJ6bmlTWVNmd0MwR1VTalo2VmhsMm1Ld0tTaFo0UmUwdnVwSjNmTUtTVjhtalF3OHE0UnBjT1h6Q2RtekdjdHd5djFIVWZyYVdTYk4wbnhnMEZ1OVdjUzFicVluLWluVFU1d1REcXhQVEs0RGoxcERzeUhuQQ?oc=5",
       "date": "2026-06-09 16:09",
       "summary": "Center for Racial Justice Students Help Illuminate Wong Kim Ark’s Enduring Legacy  Stanford Law School..."
     },
     {
+      "title": "At Stanford, one freshman discovered ‘How to Rule the World’ - WLIW",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0NPUkNhaVE1aEoxYThUS0RiQV9jekpHdVhEY3VOT0doQ3RwNjI4SWtRdTMtUUJvaUZzMGU5WDVCcEZPZkc5bHA4bEpadHJXVXRfTlRnR19oWERzWWZfNFdCSlNiVnNlemVUejlkV0xyMWg4bmphSHVnWlcwbjlxY291OFpUTUh0RzFaSkdpNUFqNHdZ?oc=5",
+      "date": "2026-06-09 20:11",
+      "summary": "At Stanford, one freshman discovered ‘How to Rule the World’  WLIW..."
+    },
+    {
       "title": "Stanford centers focus on making science more reliable - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3RSWTM4aXQ5X2t5UzF1a3JVVnh4Yk41YjllWGFTY192LWdQOVdpSW56YTl1b2hGbkZLYzNJN1hZc1JCanhYdUdIZExfN1lPRUxBQTI4OS1GcEF3U3JWanY1Zy11cXdXWEYxOG92ZWpaZjdNZzZOZHF5RDFWY0RhdmdDSQ?oc=5",
       "date": "2026-06-08 23:40",
       "summary": "Stanford centers focus on making science more reliable  Stanford Report..."
-    },
-    {
-      "title": "How to Rule the World — Stanford’s lucrative bond with Silicon Valley - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczZ1Z0xGN3lTSnpqMGJDdE5STlk5WDFKb2RMM2R6VlVoMEk3Ry1RdzVQb1pxMTFZTTc4VDlhT2ZMc1p0TXlIZHpLYmtPTWdzU3pheXFlNFF4T0FDTmkzZkVfRDE0QTRNdUc4TmRfQzdNU1RGNFU3Nm5ReElWbUVoUThNSDU?oc=5",
-      "date": "2026-06-09 12:33",
-      "summary": "How to Rule the World — Stanford’s lucrative bond with Silicon Valley  Financial Times..."
-    },
-    {
-      "title": "Jennifer Cochran is the new Stanford vice president for SLAC and for strategic initiatives - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakc3VWtiRU5wZUIxQjZZTFcxT2JENUxKRUF3OGQxcnF4UGd2STJVVEVCaVhEZExLR280a0pDaTV3WWNrbURYektSWWtObXlwLVVkNXk4UU9ybWtWeFl5Q01pbGJ6TW1ka0FVajNUX2d6NTBDQzA2VWR5ZHZSZUNoTEx5SUE0VlhxYWFSMlJ0Z0pIMDlfSi03T3daMkNiRGhEdVE?oc=5",
-      "date": "2026-06-05 18:33",
-      "summary": "Jennifer Cochran is the new Stanford vice president for SLAC and for strategic initiatives  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -109,6 +109,12 @@
       "summary": "Nature, Published online: 09 June 2026; doi:10.1038/s41586-026-10745-8Author Correction: A broadly protective antibody targeting g..."
     },
     {
+      "title": "A unicellular relative links aggregative multicellularity to animal origins",
+      "link": "https://www.nature.com/articles/s41586-026-10748-5",
+      "date": "2026-06-09 00:00",
+      "summary": "Nature, Published online: 09 June 2026; doi:10.1038/s41586-026-10748-5A unicellular relative links aggregative multicellularity to..."
+    },
+    {
       "title": "AI technology must serve human cognitive development, not the other way around",
       "link": "https://www.nature.com/articles/d41586-026-01848-3",
       "date": "2026-06-09 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01810-3",
       "date": "2026-06-09 00:00",
       "summary": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01810-3Archaeological findings from Italy, and machines with a life..."
-    },
-    {
-      "title": "Arson attacks at Ebola hospitals are a cry for regional development",
-      "link": "https://www.nature.com/articles/d41586-026-01846-5",
-      "date": "2026-06-09 00:00",
-      "summary": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01846-5Arson attacks at Ebola hospitals are a cry for regional deve..."
     }
   ],
   "Retraction Watch": [
@@ -185,10 +185,10 @@
       "summary": "AI saves clinicians time but most lack training, survey finds  Reuters..."
     },
     {
-      "title": "China rides AI wave as exports surge past forecast - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2o3a2p0QWozaW1DOTdQX2ZhTmp6UTdSaktSZEVnckVDUmhXVnA2R1RwMHRqV2tZc2ZBc3lNUFRQM2dxeUU2bEZuOGxlSnRmYXlNUnM5ckJoYVZzQ0poOXZYT1dCRVlfSmlnRnZXYVdvLVlkY2VUX3RZS0FMM0s0eWhaeHNtMmUzdGtBUzZvUWxCWGJPbDBnSEVHVThYVGdSTE9PZjREX2RhRGVfTzRtbjNUNGJpVGxkcFAw?oc=5",
-      "date": "2026-06-09 02:57",
-      "summary": "China rides AI wave as exports surge past forecast  Reuters..."
+      "title": "Anthropic rolls out public version of Mythos without cybersecurity capability - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNclJjVzlnSzJ4M3c1WkdyY19SUVFrQXhlWTF1VWExeVhXSXp2czEzbGMtaEpDV0Ezc045bzBTUFhRNzUzTkhKOS0tbU54X2M5YWw2RWZZSUFrWjJvTElhMFlVMndfUF9yTUptX1QtbXd1UzVMR29FZUN5cEJ0T2RZTC1tUThTNE5QbS1VcEtWYkJNaFJpeHZlVVFoSXdkUG5IWFBWLXNOMGdwMzlHMnhtMjR0YmxzYXd5TlUwQnR3?oc=5",
+      "date": "2026-06-09 19:06",
+      "summary": "Anthropic rolls out public version of Mythos without cybersecurity capability  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Farmed oysters may boost New York's dwindling wild populations",
-      "link": "https://phys.org/news/2026-06-farmed-oysters-boost-york-dwindling.html",
-      "date": "2026-06-09 18:00",
-      "summary": "Farmed oysters are mixing with and potentially adding to populations of wild oysters—a once-abundant species in New York's estuari..."
+      "title": "Scientists uncover RNA's hidden role as protein chaperone",
+      "link": "https://phys.org/news/2026-06-scientists-uncover-rna-hidden-role.html",
+      "date": "2026-06-09 20:40",
+      "summary": "Proteins are how cells get work done. They carry out nearly every important cellular task, from ferrying messages to controlling w..."
     },
     {
-      "title": "Tea compound boosts seaweed hydrogel strength fivefold, while tuning adhesion and breakdown",
-      "link": "https://phys.org/news/2026-06-tea-compound-boosts-seaweed-hydrogel.html",
-      "date": "2026-06-09 18:00",
-      "summary": "Could wound healing dressings adhere better, and could drug delivery patches become more sophisticated? A KAIST research team has ..."
+      "title": "eDNA metabarcoding evaluated for fish diversity assessment",
+      "link": "https://phys.org/news/2026-06-edna-metabarcoding-fish-diversity.html",
+      "date": "2026-06-09 20:40",
+      "summary": "Environmental DNA (eDNA) metabarcoding has emerged as a powerful tool for monitoring aquatic biodiversity, enabling researchers to..."
     },
     {
-      "title": "Satellite data reveal Southern Ocean vertical currents diving 3,000 feet below surface",
-      "link": "https://phys.org/news/2026-06-satellite-reveal-southern-ocean-vertical.html",
-      "date": "2026-06-09 17:50",
-      "summary": "Ocean currents are not just horizontal motions that flow from side to side. There are also vertical currents that act like deep-se..."
+      "title": "Zoned tourist vessel routes could curb invasive marine pests across Galápagos Islands",
+      "link": "https://phys.org/news/2026-06-zoned-tourist-vessel-routes-curb.html",
+      "date": "2026-06-09 20:20",
+      "summary": "New research from Edith Cowan University (ECU) has identified a smarter, more effective way to protect fragile marine ecosystems f..."
     },
     {
-      "title": "Support for rural women entrepreneurs linked to economic growth",
-      "link": "https://phys.org/news/2026-06-rural-women-entrepreneurs-linked-economic.html",
-      "date": "2026-06-09 17:40",
-      "summary": "Though rural women entrepreneurs make up only a small portion of the self-employed across the United States, new West Virginia Uni..."
+      "title": "Wild bird eggs reveal pollutants' environmental footprints",
+      "link": "https://phys.org/news/2026-06-wild-bird-eggs-reveal-pollutants.html",
+      "date": "2026-06-09 20:20",
+      "summary": "Monitoring the eggs of wild birds like the bearded vulture and the imperial eagle over a decade reveals the accumulation and persi..."
     },
     {
-      "title": "MeerKAT reveals three electron acceleration sites in one solar flare",
-      "link": "https://phys.org/news/2026-06-meerkat-reveals-electron-sites-solar.html",
-      "date": "2026-06-09 17:40",
-      "summary": "Solar flares are the most explosive energy-release events in the solar corona, leading to intense particle acceleration, plasma he..."
+      "title": "Scientists discover a 3.5-billion-year-old asteroid impact on the moon",
+      "link": "https://phys.org/news/2026-06-scientists-billion-year-asteroid-impact.html",
+      "date": "2026-06-09 20:00",
+      "summary": "The first few billion years of Earth's history saw the rise of life, the atmosphere and the oceans. Still, that time is shrouded i..."
     }
   ],
   "The Guardian Edu": [
