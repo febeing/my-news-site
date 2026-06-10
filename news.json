@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "Myriam Heiman named director of The Picower Institute for Learning and Memory",
+      "link": "https://news.mit.edu/2026/myriam-heiman-named-director-picower-institute-learning-memory-0610",
+      "date": "2026-06-10 19:25",
+      "summary": "Heiman, who studies neurodegenerative diseases such as Huntington’s and Parkinson’s, will lead the institute beginning July 1...."
+    },
+    {
+      "title": "To study how chips really work, MIT researchers built their own operating system",
+      "link": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "date": "2026-06-10 17:35",
+      "summary": "A new kernel called Fractal gives researchers a cleaner view of what’s happening inside a processor, and has already surfaced prev..."
+    },
+    {
       "title": "Augmented reality system could make medical ultrasounds easier to interpret",
       "link": "https://news.mit.edu/2026/augmented-reality-system-could-make-medical-ultrasounds-easier-to-interpret-0610",
       "date": "2026-06-10 09:00",
@@ -17,21 +29,15 @@
       "link": "https://news.mit.edu/2026/3d-printed-devices-could-streamline-drug-delivery-microparticle-production-0609",
       "date": "2026-06-09 04:00",
       "summary": "The cost-effective devices, which can be built in hours, leverage electrospray emitter technology to efficiently produce three-lay..."
-    },
-    {
-      "title": "Innovative projects explore ways to deal with extreme heat",
-      "link": "https://news.mit.edu/2026/innovative-projects-explore-ways-to-deal-with-extreme-heat-0608",
-      "date": "2026-06-08 20:45",
-      "summary": "Low-cost personal cooling and emissions-free air conditioning among ideas studied with MIT’s Climate Project seed funding...."
-    },
-    {
-      "title": "MIT astronomers discover the earliest known flickering quasar",
-      "link": "https://news.mit.edu/2026/mit-astronomers-discover-earliest-known-flickering-quasar-0608",
-      "date": "2026-06-08 09:00",
-      "summary": "When the universe was just 850 million years old, this voracious black hole was already surprisingly mature, a new study finds...."
     }
   ],
   "Harvard Gazette": [
+    {
+      "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRCNE1YZ0h5NkU4MmtrUnh5TmcyWlVoZHBJN25nR1FUUjByVmxENDZsMmxuMWRVajhKV1FPb1owUWRDay1lQk53TzMyQUo2RmRSczdJOC1Lb0wtQmJScFFtZU9kN3A1MFdCNjMxNXhsVDRDZ3hHbWZwTjdYcjBxcXNXZ182MVlqN0dvTEgycW5NaC0ybWl0eHJuRjBla3JKemc?oc=5",
+      "date": "2026-05-26 07:00",
+      "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
+    },
     {
       "title": "Funny but serious, Chieng issues an AI warning to grads - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjd2dS0wSnZIbjNVSzM1N1ZLbW82LUpSaV92b1lDRU1ZQUw2UVJQUVE3eDRHVnB3UUJEV09kQkx5TkE3aFNjVlMzQ3poQ2lqY2UzWGdJaUh5RmlMRXRFclFsY0VLWnFaMkEyZXUyODI0dUlqVFlmYWtWMVJQQnlhZ005eDljQnZSWXd2RUVzX0NtN1BLb3pGQlNmOE9tSjREc2hVWQ?oc=5",
@@ -51,19 +57,19 @@
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
     },
     {
-      "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
-    },
-    {
-      "title": "How to help lift slumping American math scores - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
-      "date": "2026-01-26 08:00",
-      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
+      "title": "The questions that keep scientists up at night - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
+      "date": "2026-04-07 07:00",
+      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
     }
   ],
   "Stanford News": [
+    {
+      "title": "Ira Lit named faculty director of the Haas Center - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbzY4bmVtQ0MtNXpZMFZZaFY0YTFoalhTYWFPb0FOeE9XMTlqRFRqTmpuaUFvYmRXbGc1OXFMblVaLUhpR1MtMG9tMnllNE1nLXdWSWFYX2xpbjV6M3dLVzVCVEpzZHo2RGxwemFsSUJha3czdXNmUFhDcklOX1FMbWJjcWY?oc=5",
+      "date": "2026-06-10 18:52",
+      "summary": "Ira Lit named faculty director of the Haas Center  Stanford Report..."
+    },
     {
       "title": "Stanford Medicine’s bold proposal to accelerate cancer innovation - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmFnRjl0bkcxc3hReHEtbTVqcnRiUGdDeURNTnctWFRZNFhEdmVFV2d3RXYyRExONS0tWkR5Q3FNTk0takRxNFZCTUV4eFVWeW5nQjFGOXA2UEF5bkVMUGI1VzZkel8zdVVKV1ZEdzFBX0dKb3V0eTY2VXVfekQ4a3B3QQ?oc=5",
@@ -77,54 +83,48 @@
       "summary": "Stanford Medicine’s bold proposal to accelerate cancer innovation and transform care  Stanford Medicine..."
     },
     {
+      "title": "Communities push for affordable housing as part of Stanford growth plan - Palo Alto Online",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbEIzNG9mVC0xYU1YTzd4SkNZd2N1RWo5eFQ5VXBCNUZXSVQ4WEYtbGVGRXA4SEloWk43Z1NuZ0N5YWpfX0poTGo5Q2o3OWRxSThvTFhBRVVXd2FLS2F3Q19aTEVuWTd4M3FuOEluRXU0NDVRS1Y3dmxlQXltWncxckNxd0FQWE4wSUFTN3p1NGRGcWI2Wk95NlRjS1ZScUU4VmM5cU5hQzN0NTVIXzk5ZUFNNTlVWThnMFRBUkhwMmpkQVNXSUh0NWViUmVKWVU?oc=5",
+      "date": "2026-06-10 18:36",
+      "summary": "Communities push for affordable housing as part of Stanford growth plan  Palo Alto Online..."
+    },
+    {
       "title": "Meet Sam Samani, ’26 - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wdnV1TWUxRXhTdjZQU1B2ZzZsa2w2am0zclh4Skw5MmFuOURaNGlWQU9hQ0lCRUxhR1lxSFRTR0JJTzBPOXZsREJYWWx0dEdHVmlKTWNsc19RVnli?oc=5",
       "date": "2026-06-10 12:00",
       "summary": "Meet Sam Samani, ’26  Stanford University..."
-    },
-    {
-      "title": "Iranian Scholar Wins Stanford’s Highest Teaching Award - IranWire",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWVc1eHNzeDVjaFQ1R1Zrc2wwWDBiS3c3ZWItUkQyUjhuZFh4N3Q2WHYwUlR0X2IyT2RxbmJ0SlB3N3UyUjhIRUdKN180NjdvUWNzVDU4QW92RzBBM0RPUEIzb2Nkbm91OVBieWFKTXlRbTZMVmIzVkZMdE9heG9iZEQyRFEySTJFRXViQXJSUGxlMXJ5?oc=5",
-      "date": "2026-06-10 12:50",
-      "summary": "Iranian Scholar Wins Stanford’s Highest Teaching Award  IranWire..."
-    },
-    {
-      "title": "Celebrating 10 Years of the Stanford e-Tottori Program - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXZ1cmFrSXR2QXkzaVcxV3pDNlA0NXNmSXF3Q1h3Ynk2Uy1KMURiZHJjZERCZGNrNWpYQklQaEhkQzZNZXdxNVlxLWNzX2RlbjhMLTQ4cFR0VVZiYkZaWGlxVEdxV2wxVHVlMjJGQk5JVWFsRTNLNE43M0haQkEyOWxlclhnWFBHNWZn?oc=5",
-      "date": "2026-06-09 12:00",
-      "summary": "Celebrating 10 Years of the Stanford e-Tottori Program  Stanford University..."
     }
   ],
   "Nature Careers": [
     {
-      "title": "The Amazon can be saved — with concerted action inside and outside Brazil",
-      "link": "https://www.nature.com/articles/d41586-026-01824-x",
+      "title": "Giant crustacean of the deep sea steals a trick from bacteria",
+      "link": "https://www.nature.com/articles/d41586-026-01832-x",
       "date": "2026-06-10 00:00",
-      "summary": "Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01824-xAs deforestation in the Amazon falls, fresh evidence shows t..."
+      "summary": "Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01832-xOrganisms called bathynomids boast a bacterial gene that hel..."
     },
     {
-      "title": "Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?",
-      "link": "https://www.nature.com/articles/d41586-026-01662-x",
+      "title": "Newly discovered whale graveyard dates back millions of years",
+      "link": "https://www.nature.com/articles/d41586-026-01864-3",
       "date": "2026-06-10 00:00",
-      "summary": "Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01662-xJapan and South Korea are challenging Western peers in a shi..."
+      "summary": "Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01864-3Submarine dives reveal complex deep-sea ecosystems living on..."
     },
     {
-      "title": "Is the peptide craze backed by science? The promise behind the hype",
-      "link": "https://www.nature.com/articles/d41586-026-01816-x",
+      "title": "Structural basis for chaperone-guided assembly of RNA-induced silencing complex",
+      "link": "https://www.nature.com/articles/s41586-026-10640-2",
       "date": "2026-06-10 00:00",
-      "summary": "Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01816-xPeptide injections are the hottest trend in wellness. Resear..."
+      "summary": "Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10640-2Structures of the AGO maturation complex reveal how chaperon..."
     },
     {
-      "title": "Gen Z scepticism towards AI is a wake-up call — universities must take it seriously",
-      "link": "https://www.nature.com/articles/d41586-026-01814-z",
+      "title": "SIRT7 regulates dosage compensation and safeguards the female X&#xa0;chromosome",
+      "link": "https://www.nature.com/articles/s41586-026-10645-x",
       "date": "2026-06-10 00:00",
-      "summary": "Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01814-zThe challenge for universities is not adopting artificial in..."
+      "summary": "Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10645-xSIRT7 safeguards X-chromosome integrity and dosage balance w..."
     },
     {
-      "title": "Doubting Thomas",
-      "link": "https://www.nature.com/articles/d41586-026-01718-y",
+      "title": "A 5.3-million-year-old deep-sea whale necropolis in the Diamantina Zone",
+      "link": "https://www.nature.com/articles/s41586-026-10546-z",
       "date": "2026-06-10 00:00",
-      "summary": "Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01718-yFamily ties...."
+      "summary": "Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10546-zResearchers uncovered an enormous deep-sea accumulation of w..."
     }
   ],
   "Retraction Watch": [
@@ -163,26 +163,26 @@
     {
       "title": "China Inc deploys 'quiet' layoffs as Beijing promotes AI adoption - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRVNwd1g4bTdLclZxRlY0LUlJZ0s4elpVdE9NdzRudEFxXzRoZmdIUWU5R0RRcjZkZjhHbDVYUTl1d2Eta3R3TFZJSElKWHFza2hMbG9PT1QzOE1oWklPaE9EVEEzWTA2eEZSU3RPLWdGYUNmS2l3LU9oQnBKX3lVUEs5SklZalI1TlVPbFR4UkliRWdIR2dVREhSYlRKTEVDNXZVOWduWDhzck9XMHdkcHFMWWxEaUJYQ004?oc=5",
-      "date": "2026-06-10 06:34",
+      "date": "2026-06-10 06:16",
       "summary": "China Inc deploys 'quiet' layoffs as Beijing promotes AI adoption  Reuters..."
     },
     {
-      "title": "OpenAI files for US IPO after Anthropic as AI giants head to public markets - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FJYXdqcEJac0hlSTNib2dhTTZDeFZLY0V2T3lNTFFYWWhObmRNOFJPNVEyNGNIUFhNaThpVGk2VEFvVTNMZndvZWg4ZFBFVTN0ZUVqd1UtVk91R3lON3VHVUJUdDVYTzIxdnBHcUk2dFN2WHhOOXkyMkhkalQtZjRHb25EWHpMRTVUaEdyWmNPODlhb3daUlVWZ2JmSHhkODFOdG1OR0ZIc3IxbDl2VU1R?oc=5",
-      "date": "2026-06-09 00:42",
-      "summary": "OpenAI files for US IPO after Anthropic as AI giants head to public markets  Reuters..."
+      "title": "China prepares $295 billion plan to fund nationwide AI buildout, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVc1MVBsYnkwTWZPT2FCMy14QjFGYnc3ZzBhSmdSTGdCRTlfM1dkY3RoXzJvbjRVc0U1dXRnUC1QalZvalE1eUpoRllIOVZhN2hMSmxTaFdWMGViRF9QSS16NXN0VjRkS01NMXdMc0t6ZVNsMEc5dXRsaGNpNDRjQUl3NFNZRzN0YWxmVjJ0ZEtORG5tTnYyYU1weFctbGJwM3R1NEFWcVZ5TllWUm1NakR1elE3X3hJMVN4RUlldw?oc=5",
+      "date": "2026-06-09 09:24",
+      "summary": "China prepares $295 billion plan to fund nationwide AI buildout, Bloomberg News reports  Reuters..."
     },
     {
-      "title": "Trump Says He Thinks AI Companies Will Agree to 'Giving Back' to the Public - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbWFydmxCb0t4b3FxWHZIQ2RWYXlqSnRIVklVY3c4Z0V4LW5LWXdGZkFhcWE4UEFUb1lwYVVDREk5YzdmMG5UbjFQb2dJQnV2M2d3S1U4bEFBd09BZjlZWGVvN0N3RUYyeTZCOVVtTXZaSUVxQWZvVjZybDBnWXR6TFBHYzJiNHpSemRtaHIwdWlXQU1PSERIa2VFdGtjZmRHOFFTYmJQQjd5T0xGbHBOeWt5VGU3TjNIQUs1UXB2Y3pCRFpGWVMzRlZ3?oc=5",
-      "date": "2026-06-10 16:32",
-      "summary": "Trump Says He Thinks AI Companies Will Agree to 'Giving Back' to the Public  U.S. News & World Report..."
+      "title": "Trump says he thinks AI companies will agree to 'giving back' to the public - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaERpOFcyS1d2bXVmY2xlNkZDY2p6WXVwbEVCeFRnZkVQNnNJV25LSXNFNGhpMmYzMGk1anRxblJ1TXQxN2h4YTZZWlJXSzRuZGxnOTk0UDlwZkZXb18zdER0YVhUUEJiSU1YQURqNXhBa3gzUWVzU29iZkJ5V3RSZmx6NGk3S3d0bkxrcjVjSlZQSVZ2TXJZV0lwcklmZEZucG9LSnROVm9fX1R6Y1k0Tng2VFd1LXRYcWk3aUViSQ?oc=5",
+      "date": "2026-06-10 16:31",
+      "summary": "Trump says he thinks AI companies will agree to 'giving back' to the public  Reuters..."
     },
     {
-      "title": "World markets walk a tightrope between AI stocks and oil shocks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTlJhY2M4aTlWTVRTX3JLZVJQZXIxV3hTNlBkcTctZEppb1p0Nm5nMWJ4MHMyc2pSZ0pTeUt5c0JYSXpwLXlwTnM4ZS00cG9MUElIMjRrZm9ZYVJtOThnVlNWRUttdFBLZnI5aDNmSGdka3BPXzBLMjJmeGtWdw?oc=5",
-      "date": "2026-06-10 14:43",
-      "summary": "World markets walk a tightrope between AI stocks and oil shocks  Reuters..."
+      "title": "OpenAI expects to go public 'within the next year,' the Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNER2SEg5dXcyLU51ajdpdHVqcldOSjlMalMtUi1wMGxxZjJXeFJiREdhUVpuTWdrMEhoSkxXYmVXLURUMnFjNlNpQng5dDBpdFkyc2tGUkRWTkd2VHp2UURVU2pBUzFWaTZ1ZzhsSW5tc1ZWZFZjRXFyVElsVlNwaTlOV2lSOS03VTR4ZDZmYVBQTlY0Z0ExZ002UFZsU3J3bHpBaktFNnZ1Zw?oc=5",
+      "date": "2026-06-10 15:49",
+      "summary": "OpenAI expects to go public 'within the next year,' the Information reports  Reuters..."
     },
     {
       "title": "Half of Americans fear AI could put someone in their household out of work, Reuters/Ipsos poll finds - Yahoo",
@@ -205,6 +205,12 @@
       "summary": "Five things you need to know about AI  MIT Technology Review..."
     },
     {
+      "title": "Are AI chatbots making us lose control of our brains? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdFhUMmp5b1Rkb19DclNBN3J0N2I4UFlZbW9TLTJtaVJFek9WYVVXQUxEUGV0ZHFLR0xZNEVlVDI1UEFUZ1JYbENfMlpkT1h5cVR0eHJDOGJfZkxmSFlqdTE5MVd0TWpWeW9DUC1qUHlzZVNCanRnTEEtSFEwblQwTHZjaEcwSlZnYVE4WFVmTjV6VVVhNmR4NTdxSlZ2dFN2SVVpU2FaYWnSAa4BQVVfeXFMT2RMb3UxaVpPZjFYeldiMlFzdDJ5Ry1fZVA4a1FCOEE5cVZXLTUyb0pUX2xEOG1jU1pzUE1nMkttR3N4SVkxNlBWcjByQmJyS2RCSmV0bk4zVVRJQWZFLU5JcDZTWWs0NlNWZzhwR21pUzNGSEtGZG81TGp1MXhQVXhtT3NxUXc0dXZPZnhpemxqeENXUThWX0hsLTczYmxUeThRbVRDZXNRTDIwbDVn?oc=5",
+      "date": "2026-06-05 09:00",
+      "summary": "Are AI chatbots making us lose control of our brains?  MIT Technology Review..."
+    },
+    {
       "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app” - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMTBzTDdDSDJxMW5LYzg4ekJ1TWhMX2w5QVdyNlhvTVlacC1QMHdjS1c0Vjg5eTRJYzlqblc1dmdpWUJUWE1YLTRFSXNuYWw0UVlNMlBlU1RuZi1GVUdqRDNWY3pSUWJFSHl2MXVJOWJRMDVkYXY0TnhURWRUUGc1cnlzV2xLcUFUR3FUS1BLNHNKUElpWTdWdW9PQzBKd9IBowFBVV95cUxPaXJaVXVCVHZ3OGVfUTExSVNoQ1ZfeVg5Ul94cC1qaFYxeGlDMUVaTHR5RGhvS1FaN1g5blA3UnpjY2RmOWVBVkktN1JIcngwbEJJU2hobFA3RG9naVdJc1B5bEotTnNMTlhmVjlLS2FhSmRJd0tDOG9Nb1d3M1VsRlZCTVhpY1FwOGpnOEZhRHF6SkZBblU1TlB5X190ZjBTT0Nv?oc=5",
       "date": "2026-06-08 12:10",
@@ -215,47 +221,47 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlhzV1EwTzVfYjU2U2REZ3V6UnZCcVYwek12UUIySjBaRzRaVl9pMlJCclFHRVg2bUtZa3ZxdjNHY3E1TnoxVVE4S0pYV2VQQ0UxNnEtVGRRSEd1ckZRV0lhdGwyazF0ZkZiaEZaSkEwcXJFUEFnMVc2Q0kxaXI0alV1Tnlrb2U0Yy00NUhsTkxLcmhPanFZSE00MGcwWWhFTnVlUFVZa1BGQTRBU19OQdIBtgFBVV95cUxQQjJSVzEtLTFQSm13Q2FCd2FVUFlFMXRzUGRyRnRZWktLS3UwZGlkZ0JTM2p3Tlh0aURqRHpscFZ1ZzNkVTBWN3hQcW1OZEUwZmFFclZ4STd0elpzLWItSTRNR0JVUU92WWEtZXBYOEtCaS0xU2pnMHl3SWViM2drNHh0ZmlfcEItbEZ3bzM2WXh5eS1NVHM1Y1paN3l2VzVjV20yVG10R0dhTWtrY2t5U19jYjFBUQ?oc=5",
       "date": "2026-06-05 09:00",
       "summary": "The Meta hack shows there’s more to AI security than Mythos  MIT Technology Review..."
-    },
-    {
-      "title": "Are AI chatbots making us lose control of our brains? - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdFhUMmp5b1Rkb19DclNBN3J0N2I4UFlZbW9TLTJtaVJFek9WYVVXQUxEUGV0ZHFLR0xZNEVlVDI1UEFUZ1JYbENfMlpkT1h5cVR0eHJDOGJfZkxmSFlqdTE5MVd0TWpWeW9DUC1qUHlzZVNCanRnTEEtSFEwblQwTHZjaEcwSlZnYVE4WFVmTjV6VVVhNmR4NTdxSlZ2dFN2SVVpU2FaYWnSAa4BQVVfeXFMT2RMb3UxaVpPZjFYeldiMlFzdDJ5Ry1fZVA4a1FCOEE5cVZXLTUyb0pUX2xEOG1jU1pzUE1nMkttR3N4SVkxNlBWcjByQmJyS2RCSmV0bk4zVVRJQWZFLU5JcDZTWWs0NlNWZzhwR21pUzNGSEtGZG81TGp1MXhQVXhtT3NxUXc0dXZPZnhpemxqeENXUThWX0hsLTczYmxUeThRbVRDZXNRTDIwbDVn?oc=5",
-      "date": "2026-06-05 09:00",
-      "summary": "Are AI chatbots making us lose control of our brains?  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "One storm pushed world's rarest great ape closer to extinction in Sumatra",
-      "link": "https://phys.org/news/2026-06-climate-fueled-storm-decimated-world.html",
-      "date": "2026-06-10 16:51",
-      "summary": "Climate change-fueled landslides wiped out nearly one in 10 remaining members of the world's rarest great ape species on Indonesia..."
+      "title": "'Cool Routes' finds cooler walking paths with hourly forecasts and street-level shade data",
+      "link": "https://phys.org/news/2026-06-cool-routes-cooler-paths-hourly.html",
+      "date": "2026-06-10 19:20",
+      "summary": "The Arizona sunshine hits like a blowtorch. The pavement radiates heat like a stove burner. To make hot-weather walking less of an..."
     },
     {
-      "title": "'Basketball Mathematics' help children boost math skills without extra class time",
-      "link": "https://phys.org/news/2026-06-basketball-mathematics-children-boost-math.html",
-      "date": "2026-06-10 16:40",
-      "summary": "A dribble and a jump shot, followed by a fractions task. That is what physical education classes looked like for a group of pupils..."
+      "title": "Dads today talk more freely with their teens about sex and relationships",
+      "link": "https://phys.org/news/2026-06-dads-today-freely-teens-sex.html",
+      "date": "2026-06-10 19:20",
+      "summary": "For many dads, talking with their teenager about sex and relationships can feel like a minefield...."
     },
     {
-      "title": "Demolishing homes after climate disasters can be devastating. Here's how we reused precious materials",
-      "link": "https://phys.org/news/2026-06-demolishing-homes-climate-disasters-devastating.html",
-      "date": "2026-06-10 16:40",
-      "summary": "Following the devastating Northern Rivers floods in New South Wales in 2022, roughly 14,000 truckloads of water-damaged materials ..."
+      "title": "The Milky Way was rewired by a cataclysmic collision billions of years ago. Now it is on course for another",
+      "link": "https://phys.org/news/2026-06-milky-rewired-cataclysmic-collision-billions.html",
+      "date": "2026-06-10 19:00",
+      "summary": "No matter the time or vantage point, from a pre-Neolithic cave to a post-lockdown London high-rise, the predictability of the nigh..."
     },
     {
-      "title": "Odds climb for record El Niño as 75% of models predict 2.5C warming",
-      "link": "https://phys.org/news/2026-06-odds-climb-el-nio-25c.html",
-      "date": "2026-06-10 16:28",
-      "summary": "Europe's Copernicus Climate Change Service on Wednesday said global forecasters were increasingly confident that a very strong El ..."
+      "title": "How bacteria organize themselves to 'hitchhike' across large distances",
+      "link": "https://phys.org/news/2026-06-bacteria-hitchhike-large-distances.html",
+      "date": "2026-06-10 19:00",
+      "summary": "While scientists have studied how bacteria move toward food using a chemical radar known as chemotaxis, they have only watched sin..."
     },
     {
-      "title": "80-atom boron 'buckyball' finally steps into nanotechnology's spotlight",
-      "link": "https://phys.org/news/2026-06-atom-boron-buckyball-nanotechnology-spotlight.html",
-      "date": "2026-06-10 16:20",
-      "summary": "The nanoscale world appears to have a new ball to kick around. Researchers from Brown University have shown the first experimental..."
+      "title": "'Black hole stars'—Webb finds strongest evidence yet",
+      "link": "https://phys.org/news/2026-06-black-hole-stars-webb-strongest.html",
+      "date": "2026-06-10 18:40",
+      "summary": "The complex puzzle known as little red dots has become more complete since their initial discovery by NASA's James Webb Space Tele..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "UK minister defends changes to student loans as criticism mounts",
+      "link": "https://www.theguardian.com/money/2026/jun/10/uk-minister-defends-changes-to-student-loans-as-pressure-grows-for-reforms",
+      "date": "2026-06-10 17:25",
+      "summary": "Lucy Rigby tells MPs heavily subsidised system gives the government the right to alter terms of existing agreementsMinisters have ..."
+    },
     {
       "title": "How do you give Britain’s hidden army of young carers a break? | Is Mum OK? Documentary",
       "link": "https://www.theguardian.com/global/ng-interactive/2026/jun/09/how-do-you-give-britains-hidden-army-a-break-is-mum-ok-documentary",
@@ -279,12 +285,6 @@
       "link": "https://www.theguardian.com/education/2026/jun/07/london-school-screen-free-mondays-for-pupils-teachers-and-parents",
       "date": "2026-06-07 12:00",
       "summary": "Holy Family Catholic primary school says enthusiastic response from parents has been biggest surpriseSchools banning pupils from h..."
-    },
-    {
-      "title": "Labour will make AI ‘work for the workers’, says Liz Kendall",
-      "link": "https://www.theguardian.com/technology/2026/jun/05/labour-will-make-ai-work-for-workers-liz-kendall",
-      "date": "2026-06-05 17:00",
-      "summary": "Technology secretary promises to support people whose jobs are swept away by automationLiz Kendall has insisted Labour will make a..."
     }
   ],
   "SCMP Hong Kong": [
