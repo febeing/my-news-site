@@ -45,12 +45,6 @@
       "summary": "Funny but serious, Chieng issues an AI warning to grads  Harvard Gazette..."
     },
     {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
-      "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
-    },
-    {
       "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
       "date": "2026-05-01 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
       "date": "2026-03-26 07:00",
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+    },
+    {
+      "title": "The questions that keep scientists up at night - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
+      "date": "2026-04-07 07:00",
+      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -83,19 +83,25 @@
       "summary": "From Sochi souvenirs to Stanford: One student’s Russian studies journey  Stanford University..."
     },
     {
-      "title": "Center for Racial Justice Students Help Illuminate Wong Kim Ark’s Enduring Legacy - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnR1NWpMeDg4eEpFLVozWmw2bi1wcGJ1TmVhSUVIbWhPQlFiSXgya2FwOE5VUU03NDZSN2RoSnU3UHZNYXFMajV1d1lpT0JTQUxsejhCVjJ6bmlTWVNmd0MwR1VTalo2VmhsMm1Ld0tTaFo0UmUwdnVwSjNmTUtTVjhtalF3OHE0UnBjT1h6Q2RtekdjdHd5djFIVWZyYVdTYk4wbnhnMEZ1OVdjUzFicVluLWluVFU1d1REcXhQVEs0RGoxcERzeUhuQQ?oc=5",
-      "date": "2026-06-09 16:09",
-      "summary": "Center for Racial Justice Students Help Illuminate Wong Kim Ark’s Enduring Legacy  Stanford Law School..."
-    },
-    {
       "title": "At Stanford, one freshman discovered ‘How to Rule the World’ - WLIW",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0NPUkNhaVE1aEoxYThUS0RiQV9jekpHdVhEY3VOT0doQ3RwNjI4SWtRdTMtUUJvaUZzMGU5WDVCcEZPZkc5bHA4bEpadHJXVXRfTlRnR19oWERzWWZfNFdCSlNiVnNlemVUejlkV0xyMWg4bmphSHVnWlcwbjlxY291OFpUTUh0RzFaSkdpNUFqNHdZ?oc=5",
       "date": "2026-06-09 20:11",
       "summary": "At Stanford, one freshman discovered ‘How to Rule the World’  WLIW..."
+    },
+    {
+      "title": "Center for Racial Justice Students Help Illuminate Wong Kim Ark’s Enduring Legacy - Stanford Law School",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnR1NWpMeDg4eEpFLVozWmw2bi1wcGJ1TmVhSUVIbWhPQlFiSXgya2FwOE5VUU03NDZSN2RoSnU3UHZNYXFMajV1d1lpT0JTQUxsejhCVjJ6bmlTWVNmd0MwR1VTalo2VmhsMm1Ld0tTaFo0UmUwdnVwSjNmTUtTVjhtalF3OHE0UnBjT1h6Q2RtekdjdHd5djFIVWZyYVdTYk4wbnhnMEZ1OVdjUzFicVluLWluVFU1d1REcXhQVEs0RGoxcERzeUhuQQ?oc=5",
+      "date": "2026-06-09 16:09",
+      "summary": "Center for Racial Justice Students Help Illuminate Wong Kim Ark’s Enduring Legacy  Stanford Law School..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Author Correction: De novo design of quasisymmetric two-component protein cages",
+      "link": "https://www.nature.com/articles/s41586-026-10763-6",
+      "date": "2026-06-09 00:00",
+      "summary": "Nature, Published online: 09 June 2026; doi:10.1038/s41586-026-10763-6Author Correction: De novo design of quasisymmetric two-comp..."
+    },
     {
       "title": "Author Correction: PTC-bearing mRNA elicits a genetic compensation response via Upf3a and COMPASS components",
       "link": "https://www.nature.com/articles/s41586-026-10769-0",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01848-3",
       "date": "2026-06-09 00:00",
       "summary": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01848-3AI technology must serve human cognitive development, not th..."
-    },
-    {
-      "title": "A treasure trove of Neolithic necklace beads",
-      "link": "https://www.nature.com/articles/d41586-026-01810-3",
-      "date": "2026-06-09 00:00",
-      "summary": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01810-3Archaeological findings from Italy, and machines with a life..."
     }
   ],
   "Retraction Watch": [
@@ -185,10 +185,10 @@
       "summary": "Anthropic rolls out public version of Mythos without cybersecurity capability  Reuters..."
     },
     {
-      "title": "AI saves clinicians time but most lack training, survey finds - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmpVWndBTzFOc0k1cHk0TUV2NDc3emJ6aHdiQWhKdkJVaEFsY2ZHc3ZlX3RScFliNF9wTlN0eWZSVnR6UGlLdkIxTDV4XzdxcjNuZmRSUGZvQlBJS0hJMng1UmxjTENqQmNCUzdEbnhza240dU4xcGVhOTZSMG96azU1R0VMdDI2bm1jbm41bmZfUE9GMC1QenE5Z2VaREFyQmdYWkNieVVuN1ZZVDJIbnUtRjBib2RtSlgwVGpNRHFEUFVheElF?oc=5",
-      "date": "2026-06-09 15:03",
-      "summary": "AI saves clinicians time but most lack training, survey finds  Reuters..."
+      "title": "White House AI policy adviser Krishnan to leave position By Reuters - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRHdOQ2RNRUZfZ0hodC0xWDBmSUlFZm5XMTZBYktIakpERjg5My1yYUZZaXY0NEhZUnJEQm9uU0J6YW5NY08xelpvdkhjeFBzQmxuVmpXSlRwbldiQ3hoNWVWc2RRN2JJVTFoNksxZVBNTlRvZExlQkhkSmEwRHBGRlRmelVxZDF2bG5WdXl6RTBxSS1QT3lXcXRNd1cyNi1kNnJJR1lnQ040VW5VNFNVMmVzN3hWemFuM3RrT2pxY09rQm9mWVRPRy1uRWFmbjAzMFVv?oc=5",
+      "date": "2026-06-06 20:37",
+      "summary": "White House AI policy adviser Krishnan to leave position By Reuters  Investing.com..."
     }
   ],
   "MIT Tech Review": [
@@ -211,48 +211,48 @@
       "summary": "Are AI chatbots making us lose control of our brains?  MIT Technology Review..."
     },
     {
-      "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWjl2UWhONkNQNmJDb0c0bGJOTDhNVzRpdDFaY3EySXpUY3FTT21uY2tNUTF6OF9hMnBEQTRKMmdwRGdZUkhQT0pETmZtaW9HRHJUOFRHUzdUYVB0U0o3NWQ0ZWtJMjhmbHRXTXp6Sk9ra3Z6Z0FMZjliMzM5MnpTTzRIUFhIRU9nRnNsNHU4MExEbjRTVzdvWVF6Q0tMU2pOZlVFMmxVSkZERndpZm9ZWmhjNWhmT2w4b2VDYXZydHFlejFEd1BJVlJySm9wNVRfaW040gHYAUFVX3lxTFB4WUJDaEhSU3FUc1hKSXdQUm5lOEJGQ1J3WmxzLVBORVBZQ3Y0bm9HOUs2dFpCaHhGQjhGamJVZGw1RXVVczUyTGdHYUpJX1l4V2JJSUdfWERsaWZpMmljUHBjRjVTOXRSQVJxUWtVSzdKZExwa2JNT3dFMG9wT05RWU1reXQzVG5VX3o3aUFKZTNoSGlWYlMzMW5RS2duOW9uanVmV3BHZW9iUVNPZlczNy1FOWlZV0c3Zk8wYnJaaGt4bFl2SXNEYXpYdEZscHNVeUNYbnZ5Yg?oc=5",
-      "date": "2026-06-09 10:00",
-      "summary": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition  MIT Technology Review..."
-    },
-    {
       "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app” - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMTBzTDdDSDJxMW5LYzg4ekJ1TWhMX2w5QVdyNlhvTVlacC1QMHdjS1c0Vjg5eTRJYzlqblc1dmdpWUJUWE1YLTRFSXNuYWw0UVlNMlBlU1RuZi1GVUdqRDNWY3pSUWJFSHl2MXVJOWJRMDVkYXY0TnhURWRUUGc1cnlzV2xLcUFUR3FUS1BLNHNKUElpWTdWdW9PQzBKd9IBowFBVV95cUxPaXJaVXVCVHZ3OGVfUTExSVNoQ1ZfeVg5Ul94cC1qaFYxeGlDMUVaTHR5RGhvS1FaN1g5blA3UnpjY2RmOWVBVkktN1JIcngwbEJJU2hobFA3RG9naVdJc1B5bEotTnNMTlhmVjlLS2FhSmRJd0tDOG9Nb1d3M1VsRlZCTVhpY1FwOGpnOEZhRHF6SkZBblU1TlB5X190ZjBTT0Nv?oc=5",
       "date": "2026-06-08 12:10",
       "summary": "The Download: how the World Cup ball will fly and OpenAI’s “super app”  MIT Technology Review..."
+    },
+    {
+      "title": "The Meta hack shows there’s more to AI security than Mythos - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlhzV1EwTzVfYjU2U2REZ3V6UnZCcVYwek12UUIySjBaRzRaVl9pMlJCclFHRVg2bUtZa3ZxdjNHY3E1TnoxVVE4S0pYV2VQQ0UxNnEtVGRRSEd1ckZRV0lhdGwyazF0ZkZiaEZaSkEwcXJFUEFnMVc2Q0kxaXI0alV1Tnlrb2U0Yy00NUhsTkxLcmhPanFZSE00MGcwWWhFTnVlUFVZa1BGQTRBU19OQdIBtgFBVV95cUxQQjJSVzEtLTFQSm13Q2FCd2FVUFlFMXRzUGRyRnRZWktLS3UwZGlkZ0JTM2p3Tlh0aURqRHpscFZ1ZzNkVTBWN3hQcW1OZEUwZmFFclZ4STd0elpzLWItSTRNR0JVUU92WWEtZXBYOEtCaS0xU2pnMHl3SWViM2drNHh0ZmlfcEItbEZ3bzM2WXh5eS1NVHM1Y1paN3l2VzVjV20yVG10R0dhTWtrY2t5U19jYjFBUQ?oc=5",
+      "date": "2026-06-05 09:00",
+      "summary": "The Meta hack shows there’s more to AI security than Mythos  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Q&A: Combating antibiotic resistance with nanotechnology, robotics and AI",
-      "link": "https://phys.org/news/2026-06-qa-combating-antibiotic-resistance-nanotechnology.html",
-      "date": "2026-06-09 22:20",
-      "summary": "Aeron Tynes Hammack, a physicist by training and currently interim facility director of the Nanofabrication Facility at the Molecu..."
+      "title": "Neutron-rich nuclei yield beta-decay clues that could refine heavy-element origin models",
+      "link": "https://phys.org/news/2026-06-neutron-rich-nuclei-yield-beta.html",
+      "date": "2026-06-10 00:00",
+      "summary": "How are heavy elements formed in the universe? Extremely neutron-rich atomic nuclei and their beta-decay rates play an important r..."
     },
     {
-      "title": "New research maps music and chanting at soccer matches",
-      "link": "https://phys.org/news/2026-06-music-chanting-soccer.html",
-      "date": "2026-06-09 22:20",
-      "summary": "Music and singing in soccer stadiums are not random entertainment. They follow clear patterns. And those patterns vary systematica..."
+      "title": "NASA unveils Artemis III astronauts to test technology for a future moon landing",
+      "link": "https://phys.org/news/2026-06-nasa-unveils-artemis-iii-astronauts.html",
+      "date": "2026-06-09 23:40",
+      "summary": "NASA on Tuesday revealed the crew for its Artemis III mission, the next step in the space agency's plan to eventually land astrona..."
     },
     {
-      "title": "Football tracking data uncovers rival tactics beyond TV formations before 2026 World Cup",
-      "link": "https://phys.org/news/2026-06-opponents-swiss-national-team.html",
-      "date": "2026-06-09 22:00",
-      "summary": "From June 11, countless millions of people will be following the football World Cup in Canada, Mexico and the U.S. They will discu..."
+      "title": "Physicists observe synchronized quantum dance of excitons and phonons",
+      "link": "https://phys.org/news/2026-06-physicists-synchronized-quantum-excitons-phonons.html",
+      "date": "2026-06-09 23:40",
+      "summary": "An international team of researchers has reported a major advance in understanding quantum dynamics in semiconductor materials. Th..."
     },
     {
-      "title": "Chloroplast map reveals 'missing link' in plant growth and solar energy",
-      "link": "https://phys.org/news/2026-06-chloroplast-reveals-link-growth-solar.html",
-      "date": "2026-06-09 22:00",
-      "summary": "For decades, science has understood the basics of photosynthesis, the process by which plants turn sunlight into food. However, ph..."
+      "title": "Quality of relationship between patient and therapist is key to preventing child sex offenders from doing it again",
+      "link": "https://phys.org/news/2026-06-quality-relationship-patient-therapist-key.html",
+      "date": "2026-06-09 23:20",
+      "summary": "Since the 1980s, there has been extensive research on the effectiveness of treatment for perpetrators of sexual crimes against chi..."
     },
     {
-      "title": "New warning system forecasts wildlife heat risk up to nine months ahead",
-      "link": "https://phys.org/news/2026-06-wildlife-months.html",
-      "date": "2026-06-09 21:50",
-      "summary": "An international group of scientists led by Josep M. Serra-Diaz, researcher at the Botanical Institute of Barcelona (IBB, CSIC-MCN..."
+      "title": "Freshwater boundary breach deepens as climate and land use amplify extremes",
+      "link": "https://phys.org/news/2026-06-freshwater-boundary-breach-deepens-climate.html",
+      "date": "2026-06-09 23:20",
+      "summary": "Human activities have significantly altered the freshwater cycle, threatening its ability to support vital climatic and ecological..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "US fintech firm iCapital doubles prime office space in Hong Kong amid wealth boom",
+      "link": "https://www.scmp.com/business/article/3356547/us-fintech-firm-icapital-doubles-prime-office-space-hong-kong-amid-wealth-boom?utm_source=rss_feed",
+      "date": "2026-06-10 00:00",
+      "summary": "Fintech company iCapital has more than doubled its office footprint in Hong Kong, leasing a 9,000 sq ft space in One International..."
+    },
+    {
       "title": "Help for 40 estates that hired Tai Po fire-linked consultant for projects",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3356550/help-40-estates-hired-tai-po-fire-linked-consultant-projects?utm_source=rss_feed",
       "date": "2026-06-09 16:45",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356542/new-hong-kong-law-allows-national-security-procedures-extend-older-cases?utm_source=rss_feed",
       "date": "2026-06-09 13:44",
       "summary": "Hong Kong’s new legislation enables certain criminal cases to be retroactively brought under national security procedures even if ..."
-    },
-    {
-      "title": "What deals and discounts are on offer for Hong Kong’s July 1 celebrations?",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356537/what-deals-and-discounts-are-offer-hong-kongs-july-1-celebrations?utm_source=rss_feed",
-      "date": "2026-06-09 12:30",
-      "summary": "Hong Kong will roll out a range of discounts, free rides, giveaways and other deals as the city celebrates the 29th anniversary of..."
     }
   ],
   "New Scientist": [
