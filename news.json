@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "When it comes to predicting people’s preferences, it pays to consider “the power of three”",
+      "link": "https://news.mit.edu/2026/when-predicting-preferences-it-pays-to-consider-power-of-three-0611",
+      "date": "2026-06-11 19:10",
+      "summary": "MIT researchers provide a major upgrade to the nearly century-old idea of random utility models...."
+    },
+    {
       "title": "A shot of carbon dioxide rewires how cement sets",
       "link": "https://news.mit.edu/2026/carbon-dioxide-rewires-how-cement-sets-0611",
       "date": "2026-06-11 16:10",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/myriam-heiman-named-director-picower-institute-learning-memory-0610",
       "date": "2026-06-10 19:25",
       "summary": "Heiman, who studies neurodegenerative diseases such as Huntington’s and Parkinson’s, will lead the institute beginning July 1...."
-    },
-    {
-      "title": "To study how chips really work, MIT researchers built their own operating system",
-      "link": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "date": "2026-06-10 17:35",
-      "summary": "A new kernel called Fractal gives researchers a cleaner view of what’s happening inside a processor, and has already surfaced prev..."
     }
   ],
   "Harvard Gazette": [
@@ -65,22 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford Law Gathers to Celebrate Mark Kelman’s Extraordinary Career - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWHl6WHBXUEc5SE4xS2lFdGE3My1SMUNicmRKWlhhWXBaMXpWMm1tSzRWZXFvRzFnUVlRRWdrTFBiR0x3aVVJY1VwVDh0b1RTVFRZT0N3NllhVklvUDJ4M1J2YW5rYVhXdXJLOVFQdXJsT3VDV3E0TDNVY2w4QWp2QmRkcjZ5WkRkZTRkenRwaTl2TTA5ak1jYTctemJuWHpnOVVwRnNFWUh6VXVpdExpa1JjaVFwTWNYQkE?oc=5",
-      "date": "2026-06-11 17:07",
-      "summary": "Stanford Law Gathers to Celebrate Mark Kelman’s Extraordinary Career  Stanford Law School..."
-    },
-    {
-      "title": "STANFORD NEWS: Hurricane rainfall and landslide risk on the rise in Southern California - Maven's Notebook",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFB6cS1ENWZzUTlOWVdUY1ZjbFVmVHJFUWc2aXAxZkpTQ0xlSlZOSXcwenRlcHl1ZzJUV3lwa3BHRk9peGEzTW5tVi1VdFZqT1lMMEFFdXpuNV9Sc0FjdFB0M2xkOHRmTExpaXBCRVZiS3dxSF9GMWpBWWFXMHpVVy1TUm1JZ254RndJdW9QNVJiYXpTTmllLU01dG5GZWVaYXpBVkppTGszV0RDeDVNRmFMa3RfaDdkZnNVZ2hCcWVSalU?oc=5",
-      "date": "2026-06-11 15:53",
-      "summary": "STANFORD NEWS: Hurricane rainfall and landslide risk on the rise in Southern California  Maven's Notebook..."
-    },
-    {
-      "title": "Stanford Medicine’s bold proposal to accelerate cancer innovation - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmFnRjl0bkcxc3hReHEtbTVqcnRiUGdDeURNTnctWFRZNFhEdmVFV2d3RXYyRExONS0tWkR5Q3FNTk0takRxNFZCTUV4eFVWeW5nQjFGOXA2UEF5bkVMUGI1VzZkel8zdVVKV1ZEdzFBX0dKb3V0eTY2VXVfekQ4a3B3QQ?oc=5",
-      "date": "2026-06-10 13:03",
-      "summary": "Stanford Medicine’s bold proposal to accelerate cancer innovation  Stanford Report..."
+      "title": "Stanford lays out plans for the biggest medical facility in its history - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORENJUHl3MXF1UzdTSm1Ba0tJNENkV3REVnBxQXN1RURQb0JBVnJReWFKSjUwekRZendHMFJMQ0RZWUNKV203QU9md2pVMEVLNGM0R05yckZxTXByRWxNam85ZkVhRndPTldkMjNQeWs5cUJ5dldHNjROazBwVlN6TDhCVzJrcFk?oc=5",
+      "date": "2026-06-10 15:04",
+      "summary": "Stanford lays out plans for the biggest medical facility in its history  San Francisco Chronicle..."
     },
     {
       "title": "Stanford Medicine’s bold proposal to accelerate cancer innovation and transform care - Stanford Medicine",
@@ -89,13 +77,31 @@
       "summary": "Stanford Medicine’s bold proposal to accelerate cancer innovation and transform care  Stanford Medicine..."
     },
     {
-      "title": "Geneva rush end Duke Carpenter commits to Stanford - Orlando Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTBlNE52R0RVb3JWLUd3S3ZRY09vRHZqRjl5bFdSc0h1TkZlVzZzZ29tTDROUHE1X2ZoT2tuT2RSWDlvTUxwekFkMEpkY0NNeVVXdUk5aFNRWGJYdHZZVmlMZjVxd0ZFSUdlQ0FqYTE3Q1ZxU2hhdkJKZ3U3c21zaGxnTzdCejNJSzRqUVMwTHZSU3g5Vk1CTUZR?oc=5",
-      "date": "2026-06-11 16:26",
-      "summary": "Geneva rush end Duke Carpenter commits to Stanford  Orlando Sentinel..."
+      "title": "Communities push for affordable housing as part of Stanford growth plan - Palo Alto Online",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbEIzNG9mVC0xYU1YTzd4SkNZd2N1RWo5eFQ5VXBCNUZXSVQ4WEYtbGVGRXA4SEloWk43Z1NuZ0N5YWpfX0poTGo5Q2o3OWRxSThvTFhBRVVXd2FLS2F3Q19aTEVuWTd4M3FuOEluRXU0NDVRS1Y3dmxlQXltWncxckNxd0FQWE4wSUFTN3p1NGRGcWI2Wk95NlRjS1ZScUU4VmM5cU5hQzN0NTVIXzk5ZUFNNTlVWThnMFRBUkhwMmpkQVNXSUh0NWViUmVKWVU?oc=5",
+      "date": "2026-06-10 18:36",
+      "summary": "Communities push for affordable housing as part of Stanford growth plan  Palo Alto Online..."
+    },
+    {
+      "title": "Stanford student gives back to Chattanooga through free college prep program - Local 3 News",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOODRwLUtJdWZsTEJCb2NwbWZIYnowLXdTSVVtZTBIVzBXT3Z5MUNEUEtTR1htVDFZRUNFMnFxNHZMVldlTjhIR0FRV2JKS2RCZ2tkdWhPZmRadVFfaXNyLW5OQUExWk1hS1lsaTR4S0JUd3MxVmo1Vk9TRmNWcFZPd25PTGsxU3dQN0luYnRnZHhpaklEX0FPN3g2bGFreWRvYk9DZUdkc2EzRWZlN2U5RDBXS1NNelltSU10Tm16MURRMFdvcjA4ajQ0Tlc0QTZ3SzFsd1hpeTI5Y05HQUUzY2xVQTFELXh1Q0tVYS1rSjBfZEdUVGZXcjRZclFQa1cxOGhBTlRCaUxHUQ?oc=5",
+      "date": "2026-06-10 21:42",
+      "summary": "Stanford student gives back to Chattanooga through free college prep program  Local 3 News..."
+    },
+    {
+      "title": "How to Rule the World — Stanford’s lucrative bond with Silicon Valley - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczZ1Z0xGN3lTSnpqMGJDdE5STlk5WDFKb2RMM2R6VlVoMEk3Ry1RdzVQb1pxMTFZTTc4VDlhT2ZMc1p0TXlIZHpLYmtPTWdzU3pheXFlNFF4T0FDTmkzZkVfRDE0QTRNdUc4TmRfQzdNU1RGNFU3Nm5ReElWbUVoUThNSDU?oc=5",
+      "date": "2026-06-09 12:33",
+      "summary": "How to Rule the World — Stanford’s lucrative bond with Silicon Valley  Financial Times..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
+      "link": "https://www.nature.com/articles/s41586-026-10784-1",
+      "date": "2026-06-11 00:00",
+      "summary": "Nature, Published online: 11 June 2026; doi:10.1038/s41586-026-10784-1Author Correction: Plasticity and language in the anaestheti..."
+    },
     {
       "title": "Whale graveyard discovered 7km under the sea",
       "link": "https://www.nature.com/articles/d41586-026-01886-x",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01865-2",
       "date": "2026-06-11 00:00",
       "summary": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01865-2As the men’s football World Cup gets under way, how the game..."
-    },
-    {
-      "title": "This World Cup could be the most high-tech yet — the innovations to watch for",
-      "link": "https://www.nature.com/articles/d41586-026-01866-1",
-      "date": "2026-06-11 00:00",
-      "summary": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01866-1Nature asked a football-journal chief about emerging trends ..."
     }
   ],
   "Retraction Watch": [
@@ -161,34 +161,34 @@
   ],
   "Reuters AI": [
     {
+      "title": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk5nUHlsdmNnT25PcUpTYUFLYS1FSHl3bmdpRE0wN0NfSzBSd3FRdkVtT1VPSE55bmJnczN3aGFmRUlyTmhPVlRJYlhHOElpZGl2X0hpMW1iZU0yMVJOZHhjaVU3RXVWa19xUTJTY2c4T2JUNmhRXzRVMUdsdXgtTVFhRG9yd1FQSU03SVN2ZjhnQ0I3RWdPZEh4aEVVSDc3RTdndzV2VWY?oc=5",
+      "date": "2026-06-11 17:18",
+      "summary": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI  Reuters..."
+    },
+    {
       "title": "Half of Americans fear AI could put someone in their household out of work, Reuters/Ipsos poll finds - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPblhOcEVuUk1qbFpIeVcxYjkxWVpyY18xSGZQWUpjblZtMDl4NWJ2U2tJYzlwa09TRFh1R0Z6NjZhQmFTdUw1a005RThEZ0ZiVjVuUloxaW9PTXYyaWY2UExqMGFRQ1ZpNU5mMFQ0Nm1HMnpKd2h4amNxbkd6UzgtMjRGdnVqX0VRVnp5V0tiUGRmdktxSWN4djNVRnUzLU8yanotSHhacjVtOHhocHBsbnl3b0pqcUJZLWlETWVZTUhOR0xrWkhKbk55WTB4dEluUUpV?oc=5",
       "date": "2026-06-10 11:19",
       "summary": "Half of Americans fear AI could put someone in their household out of work, Reuters/Ipsos poll finds  Reuters..."
     },
     {
-      "title": "US shortens cyber fix window to three days as AI threats rise - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUJ0Y3ZPOE9IbWdjS0xqd20zczBOanREM3JhNmk5bVpDYlhkbFlhMTBwTWkxZ080TTEwcHJKVnhocTU3UTdBTGVmQUhrUDhqbE40bGpqS0tpQWI1RmNUMVhNTF9Kb09OYkZIanduaEN5ek1PUkdyZVRJOWxORW9fWFI4Q1Y0OWxYMk9XelRpWmJDVURweXBLT19ORl9RaWh2eWcyVkhmcGNqZ0tn?oc=5",
-      "date": "2026-06-10 21:48",
-      "summary": "US shortens cyber fix window to three days as AI threats rise  Reuters..."
+      "title": "Americans Wary of AI-Driven Data Center Boom, Reuters/Ipsos Poll Shows - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUIzX19rdUl2czFqcnlxbklQaG5ZTWt6bHM4WVFJaExKUEJBQjZneEpxTURZZzN4Nm5Yd280RzRBVmZMTS1NRmlkUzVoUlI4b2dVOUFRQ01fUXZaa0RsV0NHQ0hHZGZORDBxanpZUV9YLXUtLTNKQzNMcFdHN1hiVm5JWVZqZ01vMjJWWXQwWmVuLXgzQ1NWVE56cnBXTDVwOUZqZEphU0M1dHlxcW14eVFLajRLeFNSOHRNMW5HSXNQZFl0?oc=5",
+      "date": "2026-06-11 10:19",
+      "summary": "Americans Wary of AI-Driven Data Center Boom, Reuters/Ipsos Poll Shows  U.S. News & World Report..."
     },
     {
-      "title": "Americans wary of AI-driven data center boom, Reuters/Ipsos poll shows - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ05ZaWE5ZGh1b2ZtQjZ3VTVaMUNZVXRMM29zYXUtV0toNllGYmtzd2xhNVJSd0RyVjVZZkFsSjNBX1NDVFdodWZmLXFFWW1tMkhteS14R21PU29yclE3XzFhSURGeTRsQ09wcVBldlctcmNidVhCQkZ3NDQ3cFc3clpsc0RGeGNZek1TX3Z4amtqRE0?oc=5",
-      "date": "2026-06-11 10:06",
-      "summary": "Americans wary of AI-driven data center boom, Reuters/Ipsos poll shows  Yahoo..."
+      "title": "China's control over indium phosphide exports threatens AI data centre rollout - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOXBrMUJic3lqQjF0SkRUdmE0dkNGU2E2ZWJvVlZnRmF5UFNtUzVKN2E1b0FwbG5BTU8teVJjYnEwLTFFZ09lZHhHVFJTYU9lSWI5WF9XLUp2cmY4U21kZ1RMa3FrR3JkQ2VSZXZtWEl5ZlJBZWtKaHBhUG1Uc0ZmZEFpZXNZQW52RWhUN0hVME9SZEMxcGxKMlRINlZnekJRWkZOaXlVSVk2bWE0ZGgwY19DdHM3WVBicEVvR3VSUTZjaEE?oc=5",
+      "date": "2026-06-11 01:02",
+      "summary": "China's control over indium phosphide exports threatens AI data centre rollout  Reuters..."
     },
     {
-      "title": "EU regulators reject Apple's Siri AI exemption request - Reuters (AAPL:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2dtMXBjeWtzejdNUzlyYno2b1lnNWxuandhYVBTNjZad1lFSDBNVFU0OUl3RXJ4R3JCWWFBclo5Zk1DelE1TUFIMloxNEtNMVpFVk9GNTg5VzVxMGU4UTRVUDJobnNldHdMWFBzUU80THlPSGFIczN4LUNCNktZbl9sRjdlbmI2Z2dYSmRFTFAxb2g4Qm9xeUFkYWNTYm1JVDR3?oc=5",
-      "date": "2026-06-09 16:02",
-      "summary": "EU regulators reject Apple's Siri AI exemption request - Reuters (AAPL:NASDAQ)  Seeking Alpha..."
-    },
-    {
-      "title": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk5nUHlsdmNnT25PcUpTYUFLYS1FSHl3bmdpRE0wN0NfSzBSd3FRdkVtT1VPSE55bmJnczN3aGFmRUlyTmhPVlRJYlhHOElpZGl2X0hpMW1iZU0yMVJOZHhjaVU3RXVWa19xUTJTY2c4T2JUNmhRXzRVMUdsdXgtTVFhRG9yd1FQSU03SVN2ZjhnQ0I3RWdPZEh4aEVVSDc3RTdndzV2VWY?oc=5",
-      "date": "2026-06-11 17:18",
-      "summary": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI  Reuters..."
+      "title": "Deezer launches free AI music detector for users of major streaming platforms - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZTRUWEJDRElfMzZlSzhNUnlEWUc3RUVleTVXcXJHbmhOVGFPSFhYczNfUUFJaUxkWjJVVktJam50bnR6VlpGeXlyYmtzYnRlaG1UUFVGMWFJUkdsQlU4TC1FZTF1SnBoRGhMT09oNkVIck44WnYybDNSMmVwWjBOYzNzOHIzdXYzU0NRaWd0d254RE83d2dGdkxnY196OENJU294YzJoVVVaN2hKZ3ZCQVR6S28zd2Etd0R0YkhlZzk?oc=5",
+      "date": "2026-06-11 15:42",
+      "summary": "Deezer launches free AI music detector for users of major streaming platforms  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -199,16 +199,16 @@
       "summary": "Google DeepMind is worried about what happens when millions of agents start to interact  MIT Technology Review..."
     },
     {
-      "title": "Why China is betting on big nuclear reactors - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObEptWlNQME9UWDJ0M05qQzY4TXNUcGc4TkJTczVNZVcxeF9Tb2s1Z004aUp5N1BBdUJFbTQwTTBFRGtoTFVGdm5IdFBQS015NzItR3p6eE9nNFMtTjVGYWprNFlZUlhJVFFyel83dy1BQXdIZFctNW9LZVBKQUNsMnJNVUgtUdIBiwFBVV95cUxQMHZ3TGRaek4xZlhkY3RYbUIwSUtDb0VVZ2lLbVZ0cmNRd1ZtWGpOMTlRTW1pbnl4aWI0UWZnd3F5OTJCbUJFRG5sbkp2aHBVMWNzZ0pzX3l1RDYxQ1JEVmZxWTdmZVpEMWhUQlpkeVVYNjl4XzM0YVU0NTlTM2c5Mi0wTXQwdHFvYXVj?oc=5",
-      "date": "2026-06-11 10:00",
-      "summary": "Why China is betting on big nuclear reactors  MIT Technology Review..."
-    },
-    {
       "title": "The Download: soccer’s data renaissance and China’s big nuclear plans - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcU5yQzlyY0NrQXdjenFHUFJTaXluUkhEZFo1LXg3UUh1akZ3dVFyWDAxUmdQbGlUTnoyQVN0RmVHMzZua0lSS0F3Qk94MnJweTEwNWtCVUw4Y0o4SnZxdFoyZzZDOFNmREozT3J3V01xYlBkcHd2YkJTQThOREdzQnZHa09Bbmp5djdhX2FQdnZVZjFDNlZlVkZYOWVSYlBJS3ZyX2YtM09Kc3dGWXZmVG5iSkZUVXPSAbwBQVVfeXFMTTZPamYtRGdCVDAzYW9GNDdQREJ0MUxPYkhQQUpET1VWM2JVVHFtcUxhbjFKRmpMQlpIaldSWnNVYWx0OWR2Q3gtUmNhal9namdGSmtBVDk3M2JOMzlObzU0cDczN244NDQ2bl9CX1QtVW9FdkZScmtOdXNQbzFyYmVvdjlhUzdlZFdGNEFRVTN4b2Rkcm1ldXNfdDhLOHJxZjJBYUlQOEVMV1JJVU1Fd3hwbG4xWGRhZmJkZDQ?oc=5",
       "date": "2026-06-11 12:10",
       "summary": "The Download: soccer’s data renaissance and China’s big nuclear plans  MIT Technology Review..."
+    },
+    {
+      "title": "Why China is betting on big nuclear reactors - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObEptWlNQME9UWDJ0M05qQzY4TXNUcGc4TkJTczVNZVcxeF9Tb2s1Z004aUp5N1BBdUJFbTQwTTBFRGtoTFVGdm5IdFBQS015NzItR3p6eE9nNFMtTjVGYWprNFlZUlhJVFFyel83dy1BQXdIZFctNW9LZVBKQUNsMnJNVUgtUdIBiwFBVV95cUxQMHZ3TGRaek4xZlhkY3RYbUIwSUtDb0VVZ2lLbVZ0cmNRd1ZtWGpOMTlRTW1pbnl4aWI0UWZnd3F5OTJCbUJFRG5sbkp2aHBVMWNzZ0pzX3l1RDYxQ1JEVmZxWTdmZVpEMWhUQlpkeVVYNjl4XzM0YVU0NTlTM2c5Mi0wTXQwdHFvYXVj?oc=5",
+      "date": "2026-06-11 10:00",
+      "summary": "Why China is betting on big nuclear reactors  MIT Technology Review..."
     },
     {
       "title": "Inside soccer’s data renaissance - MIT Technology Review",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Indoor urban agriculture isn't necessarily low carbon, study shows",
-      "link": "https://phys.org/news/2026-06-indoor-urban-agriculture-isnt-necessarily.html",
-      "date": "2026-06-11 18:00",
-      "summary": "Growing lettuce indoors in Canadian cities can be as climate-friendly as conventional farming, but only in regions where electrici..."
+      "title": "'Selection shadow' may explain why longer lives bring more age-related disease",
+      "link": "https://phys.org/news/2026-06-shadow-longer-age-disease.html",
+      "date": "2026-06-11 21:00",
+      "summary": "A review article now published in Nature Reviews Genetics brings together evolutionary theory, comparative genomics and large-scal..."
     },
     {
-      "title": "First global map of mycorrhizal fungi reveals true scale of underground networks across the planet",
-      "link": "https://phys.org/news/2026-06-global-mycorrhizal-fungi-reveals-true.html",
-      "date": "2026-06-11 18:00",
-      "summary": "Mycorrhizal fungi form underground networks that sustain plant life and help regulate Earth's climate by drawing carbon into soils..."
+      "title": "Forensic psychology faces bias claims in risk tools and courtroom testimony",
+      "link": "https://phys.org/news/2026-06-forensic-psychology-bias-tools-courtroom.html",
+      "date": "2026-06-11 21:00",
+      "summary": "In a paper published in the Journal of Forensic Psychology Research and Practice, JCU Ph.D. student Rebecca Ward says the core pra..."
     },
     {
-      "title": "Organic molecule with ultranarrow emission spectrum could lead to better LEDs",
-      "link": "https://phys.org/news/2026-06-molecule-ultranarrow-emission-spectrum.html",
-      "date": "2026-06-11 18:00",
-      "summary": "Over the past several decades, light sources have gradually transitioned to light-emitting diodes, or LEDs, and inorganic LEDs are..."
+      "title": "Record heat pushes human-driven warming to 1.39C, 1.5C could arrive by 2030",
+      "link": "https://phys.org/news/2026-06-human-driven-139c-15c.html",
+      "date": "2026-06-11 20:40",
+      "summary": "Planetary heating is intensifying and key climate indicators are deteriorating, top scientists said Thursday, warning that funding..."
     },
     {
-      "title": "Physicists introduce phase contrast to electron microscopy, delivering sharper images of our body's tiniest proteins",
-      "link": "https://phys.org/news/2026-06-physicists-phase-contrast-electron-microscopy.html",
-      "date": "2026-06-11 18:00",
-      "summary": "Nearly 100 years ago, a seemingly simple discovery revolutionized the microscope. The introduction of phase contrast, which garner..."
+      "title": "ESA officially adopts ARRAKIHS mission: EU leads the exploration of the low surface brightness universe",
+      "link": "https://phys.org/news/2026-06-esa-arrakihs-mission-eu-exploration.html",
+      "date": "2026-06-11 20:40",
+      "summary": "The European Space Agency (ESA) has officially adopted ARRAKIHS as a scientific mission, confirming the target launch date of 2030..."
     },
     {
-      "title": "Prescribed fires can cut smoke pollution for years, miles beyond burn areas",
-      "link": "https://phys.org/news/2026-06-pollution-years-miles-areas.html",
-      "date": "2026-06-11 18:00",
-      "summary": "A new study finds that burning 500,000 acres (202,000 hectares) of California conifer forests each year with prescribed fire could..."
+      "title": "Genomes from Oceania offer new clues to human evolution",
+      "link": "https://phys.org/news/2026-06-genomes-oceania-clues-human-evolution.html",
+      "date": "2026-06-11 20:40",
+      "summary": "A new Yale-led study provides one of the most detailed and comprehensive analyses to date of genetic variation in human population..."
     }
   ],
   "The Guardian Edu": [
@@ -321,34 +321,34 @@
   ],
   "New Scientist": [
     {
+      "title": "Global map reveals the vast scale of underground fungal networks",
+      "link": "https://www.newscientist.com/article/2530122-global-map-reveals-the-vast-scale-of-underground-fungal-networks/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-11 19:00",
+      "summary": "Our soils are teeming with networks of fungi, and we're starting to understand how important they are..."
+    },
+    {
+      "title": "Have we finally worked out how Venus flytraps snap shut?",
+      "link": "https://www.newscientist.com/article/2530108-have-we-finally-worked-out-how-venus-flytraps-snap-shut/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-11 19:00",
+      "summary": "It was widely thought that the movement of water through Venus flytrap cells caused the trap to close, but detailed experiments ha..."
+    },
+    {
+      "title": "‘Forgotten’ pollutants cause 15 per cent of global warming",
+      "link": "https://www.newscientist.com/article/2530049-forgotten-pollutants-cause-15-per-cent-of-global-warming/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-11 19:00",
+      "summary": "So-called indirect greenhouse gases, including carbon monoxide and volatile organic compounds, aren’t covered by climate policies ..."
+    },
+    {
+      "title": "El Niño has started and the weather could get weird",
+      "link": "https://www.newscientist.com/article/2530202-el-nino-has-started-and-the-weather-could-get-weird/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-11 18:38",
+      "summary": "Global weather agencies have declared that El Niño has begun, and models show it is more likely than not to be a \"super\" El Niño. ..."
+    },
+    {
       "title": "Toy universe shows that time could be a quantum illusion",
       "link": "https://www.newscientist.com/article/2529957-toy-universe-shows-that-time-could-be-a-quantum-illusion/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-11 15:00",
       "summary": "An experiment with a toy universe made up of extremely cold atoms shows how time can emerge from quantum interactions, instead of ..."
-    },
-    {
-      "title": "Ditching cigarettes for vapes may curb the cancer benefits of quitting",
-      "link": "https://www.newscientist.com/article/2529853-ditching-cigarettes-for-vapes-may-curb-the-cancer-benefits-of-quitting/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-11 10:00",
-      "summary": "A study of 4.5 million people suggests that ex-smokers who take up vaping are more at risk of dying from lung cancer than people w..."
-    },
-    {
-      "title": "Fully autonomous drones have killed human soldiers for the first time",
-      "link": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-10 13:00",
-      "summary": "A senior figure in the Ukrainian defence industry told New Scientist that a test took place two years ago involving fully autonomo..."
-    },
-    {
-      "title": "Wolves seen hunting European bison in rare camera-trap recording",
-      "link": "https://www.newscientist.com/article/2529929-wolves-seen-hunting-european-bison-in-rare-camera-trap-recording/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-10 16:39",
-      "summary": "Europe’s largest land animal, the bison, is thought to be relatively unthreatened by predators, but footage from Białowieża Primae..."
-    },
-    {
-      "title": "Millions of fossil whale bones found in deep-ocean ‘necropolis’",
-      "link": "https://www.newscientist.com/article/2529864-millions-of-fossil-whale-bones-found-in-deep-ocean-necropolis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-10 16:00",
-      "summary": "Researchers diving 7 kilometres deep in a crewed submersible have discovered a vast collection of whale bones, including fossils u..."
     }
   ]
 }
