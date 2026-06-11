@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "A shot of carbon dioxide rewires how cement sets",
+      "link": "https://news.mit.edu/2026/carbon-dioxide-rewires-how-cement-sets-0611",
+      "date": "2026-06-11 16:10",
+      "summary": "New research reveals the chemical sequence triggered by CO₂ injection in cement paste, capturing a fleeting intermediate reaction ..."
+    },
+    {
       "title": "Would you return a favor? Scientists say it depends on the relationship",
       "link": "https://news.mit.edu/2026/would-you-return-favor-scientists-say-it-depends-0611",
       "date": "2026-06-11 04:00",
@@ -23,21 +29,9 @@
       "link": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
       "date": "2026-06-10 17:35",
       "summary": "A new kernel called Fractal gives researchers a cleaner view of what’s happening inside a processor, and has already surfaced prev..."
-    },
-    {
-      "title": "Augmented reality system could make medical ultrasounds easier to interpret",
-      "link": "https://news.mit.edu/2026/augmented-reality-system-could-make-medical-ultrasounds-easier-to-interpret-0610",
-      "date": "2026-06-10 09:00",
-      "summary": "MIT researchers have designed an ultrasound system that creates a real-time 3D representation of the object being imaged...."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRCNE1YZ0h5NkU4MmtrUnh5TmcyWlVoZHBJN25nR1FUUjByVmxENDZsMmxuMWRVajhKV1FPb1owUWRDay1lQk53TzMyQUo2RmRSczdJOC1Lb0wtQmJScFFtZU9kN3A1MFdCNjMxNXhsVDRDZ3hHbWZwTjdYcjBxcXNXZ182MVlqN0dvTEgycW5NaC0ybWl0eHJuRjBla3JKemc?oc=5",
-      "date": "2026-05-26 07:00",
-      "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
-    },
     {
       "title": "Funny but serious, Chieng issues an AI warning to grads - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjd2dS0wSnZIbjNVSzM1N1ZLbW82LUpSaV92b1lDRU1ZQUw2UVJQUVE3eDRHVnB3UUJEV09kQkx5TkE3aFNjVlMzQ3poQ2lqY2UzWGdJaUh5RmlMRXRFclFsY0VLWnFaMkEyZXUyODI0dUlqVFlmYWtWMVJQQnlhZ005eDljQnZSWXd2RUVzX0NtN1BLb3pGQlNmOE9tSjREc2hVWQ?oc=5",
@@ -57,13 +51,37 @@
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
     },
     {
-      "title": "The questions that keep scientists up at night - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
-      "date": "2026-04-07 07:00",
-      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
+      "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
+    },
+    {
+      "title": "How to help lift slumping American math scores - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
+      "date": "2026-01-26 08:00",
+      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
     }
   ],
   "Stanford News": [
+    {
+      "title": "Stanford Law Gathers to Celebrate Mark Kelman’s Extraordinary Career - Stanford Law School",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWHl6WHBXUEc5SE4xS2lFdGE3My1SMUNicmRKWlhhWXBaMXpWMm1tSzRWZXFvRzFnUVlRRWdrTFBiR0x3aVVJY1VwVDh0b1RTVFRZT0N3NllhVklvUDJ4M1J2YW5rYVhXdXJLOVFQdXJsT3VDV3E0TDNVY2w4QWp2QmRkcjZ5WkRkZTRkenRwaTl2TTA5ak1jYTctemJuWHpnOVVwRnNFWUh6VXVpdExpa1JjaVFwTWNYQkE?oc=5",
+      "date": "2026-06-11 17:07",
+      "summary": "Stanford Law Gathers to Celebrate Mark Kelman’s Extraordinary Career  Stanford Law School..."
+    },
+    {
+      "title": "STANFORD NEWS: Hurricane rainfall and landslide risk on the rise in Southern California - Maven's Notebook",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFB6cS1ENWZzUTlOWVdUY1ZjbFVmVHJFUWc2aXAxZkpTQ0xlSlZOSXcwenRlcHl1ZzJUV3lwa3BHRk9peGEzTW5tVi1VdFZqT1lMMEFFdXpuNV9Sc0FjdFB0M2xkOHRmTExpaXBCRVZiS3dxSF9GMWpBWWFXMHpVVy1TUm1JZ254RndJdW9QNVJiYXpTTmllLU01dG5GZWVaYXpBVkppTGszV0RDeDVNRmFMa3RfaDdkZnNVZ2hCcWVSalU?oc=5",
+      "date": "2026-06-11 15:53",
+      "summary": "STANFORD NEWS: Hurricane rainfall and landslide risk on the rise in Southern California  Maven's Notebook..."
+    },
+    {
+      "title": "Stanford Medicine’s bold proposal to accelerate cancer innovation - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmFnRjl0bkcxc3hReHEtbTVqcnRiUGdDeURNTnctWFRZNFhEdmVFV2d3RXYyRExONS0tWkR5Q3FNTk0takRxNFZCTUV4eFVWeW5nQjFGOXA2UEF5bkVMUGI1VzZkel8zdVVKV1ZEdzFBX0dKb3V0eTY2VXVfekQ4a3B3QQ?oc=5",
+      "date": "2026-06-10 13:03",
+      "summary": "Stanford Medicine’s bold proposal to accelerate cancer innovation  Stanford Report..."
+    },
     {
       "title": "Stanford Medicine’s bold proposal to accelerate cancer innovation and transform care - Stanford Medicine",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmZUbzdBS3lRWmtKcHZWbnpkU1VCSElvTTNQb3FkN3Zta1FjRkFfa0Q4Szc2eVZtcVpEdXpVLWYtM1RiT1VkRkozNG1wNl92MW5EdC0xMy1JZzVTYk9fUVpzMmJ1OTlwWUh5TGg3bFNlZ1FpQUp2dGk2a1A5aGpuY2xRcGk?oc=5",
@@ -71,33 +89,27 @@
       "summary": "Stanford Medicine’s bold proposal to accelerate cancer innovation and transform care  Stanford Medicine..."
     },
     {
-      "title": "Stanford lays out plans for the biggest medical facility in its history - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORENJUHl3MXF1UzdTSm1Ba0tJNENkV3REVnBxQXN1RURQb0JBVnJReWFKSjUwekRZendHMFJMQ0RZWUNKV203QU9md2pVMEVLNGM0R05yckZxTXByRWxNam85ZkVhRndPTldkMjNQeWs5cUJ5dldHNjROazBwVlN6TDhCVzJrcFk?oc=5",
-      "date": "2026-06-10 15:04",
-      "summary": "Stanford lays out plans for the biggest medical facility in its history  San Francisco Chronicle..."
-    },
-    {
-      "title": "How to Rule the World — Stanford’s lucrative bond with Silicon Valley - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczZ1Z0xGN3lTSnpqMGJDdE5STlk5WDFKb2RMM2R6VlVoMEk3Ry1RdzVQb1pxMTFZTTc4VDlhT2ZMc1p0TXlIZHpLYmtPTWdzU3pheXFlNFF4T0FDTmkzZkVfRDE0QTRNdUc4TmRfQzdNU1RGNFU3Nm5ReElWbUVoUThNSDU?oc=5",
-      "date": "2026-06-09 12:33",
-      "summary": "How to Rule the World — Stanford’s lucrative bond with Silicon Valley  Financial Times..."
-    },
-    {
-      "title": "Communities push for affordable housing as part of Stanford growth plan - Palo Alto Online",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbEIzNG9mVC0xYU1YTzd4SkNZd2N1RWo5eFQ5VXBCNUZXSVQ4WEYtbGVGRXA4SEloWk43Z1NuZ0N5YWpfX0poTGo5Q2o3OWRxSThvTFhBRVVXd2FLS2F3Q19aTEVuWTd4M3FuOEluRXU0NDVRS1Y3dmxlQXltWncxckNxd0FQWE4wSUFTN3p1NGRGcWI2Wk95NlRjS1ZScUU4VmM5cU5hQzN0NTVIXzk5ZUFNNTlVWThnMFRBUkhwMmpkQVNXSUh0NWViUmVKWVU?oc=5",
-      "date": "2026-06-10 18:36",
-      "summary": "Communities push for affordable housing as part of Stanford growth plan  Palo Alto Online..."
-    },
-    {
-      "title": "At Stanford, one freshman discovered 'How to Rule the World' - WBUR",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5leDZodzBPUGVjWVNMVzE0V3UtSTRWa1daZnBza2k2dU4zeVdKa1B2RGpTNDV2XzRObFkyZzdHalF0VXlTd2VWUjN2MEFfR1NCNV8xemN6ay1OdENYWUx5aVZqbncxTW1MQ2JSOFFuc3RDUHBBZTJRVTdmYWRaQQ?oc=5",
-      "date": "2026-06-09 17:30",
-      "summary": "At Stanford, one freshman discovered 'How to Rule the World'  WBUR..."
+      "title": "Geneva rush end Duke Carpenter commits to Stanford - Orlando Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTBlNE52R0RVb3JWLUd3S3ZRY09vRHZqRjl5bFdSc0h1TkZlVzZzZ29tTDROUHE1X2ZoT2tuT2RSWDlvTUxwekFkMEpkY0NNeVVXdUk5aFNRWGJYdHZZVmlMZjVxd0ZFSUdlQ0FqYTE3Q1ZxU2hhdkJKZ3U3c21zaGxnTzdCejNJSzRqUVMwTHZSU3g5Vk1CTUZR?oc=5",
+      "date": "2026-06-11 16:26",
+      "summary": "Geneva rush end Duke Carpenter commits to Stanford  Orlando Sentinel..."
     }
   ],
   "Nature Careers": [
     {
-      "title": "Online tool that flags suspicious journals could warn researchers before submission",
+      "title": "Whale graveyard discovered 7km under the sea",
+      "link": "https://www.nature.com/articles/d41586-026-01886-x",
+      "date": "2026-06-11 00:00",
+      "summary": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01886-xThe treasure trove of fossils and bones has already revealed..."
+    },
+    {
+      "title": "My diverse academic background is affecting my PhD studies — what do I do?",
+      "link": "https://www.nature.com/articles/d41586-026-01129-z",
+      "date": "2026-06-11 00:00",
+      "summary": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01129-zA PhD student in China who has changed his focus twice since..."
+    },
+    {
+      "title": "Tool flags suspicious journals before researchers submit papers",
       "link": "https://www.nature.com/articles/d41586-026-01707-1",
       "date": "2026-06-11 00:00",
       "summary": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01707-1The free platform, called Journal Trends, could also allow i..."
@@ -109,25 +121,19 @@
       "summary": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01865-2As the men’s football World Cup gets under way, how the game..."
     },
     {
-      "title": "Giant crustacean of the deep sea steals a trick from bacteria",
-      "link": "https://www.nature.com/articles/d41586-026-01832-x",
-      "date": "2026-06-10 00:00",
-      "summary": "Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01832-xOrganisms called bathynomids boast a bacterial gene that hel..."
-    },
-    {
-      "title": "Newly discovered whale graveyard dates back millions of years",
-      "link": "https://www.nature.com/articles/d41586-026-01864-3",
-      "date": "2026-06-10 00:00",
-      "summary": "Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01864-3Submarine dives reveal complex deep-sea ecosystems living on..."
-    },
-    {
-      "title": "Structural basis for chaperone-guided assembly of RNA-induced silencing complex",
-      "link": "https://www.nature.com/articles/s41586-026-10640-2",
-      "date": "2026-06-10 00:00",
-      "summary": "Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10640-2Structures of the AGO maturation complex reveal how chaperon..."
+      "title": "This World Cup could be the most high-tech yet — the innovations to watch for",
+      "link": "https://www.nature.com/articles/d41586-026-01866-1",
+      "date": "2026-06-11 00:00",
+      "summary": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01866-1Nature asked a football-journal chief about emerging trends ..."
     }
   ],
   "Retraction Watch": [
+    {
+      "title": "Science flags paper that found AI chatbots help debunk conspiracy theories",
+      "link": "https://retractionwatch.com/2026/06/11/science-ai-chatbots-debunk-conspiracy-theories-expression-of-concern/",
+      "date": "2026-06-11 18:00",
+      "summary": "Science has issued an expression of concern for a highly publicized study looking into whether conversations with AI chatbots coul..."
+    },
     {
       "title": "New system for flagging retracted papers finds scores of them in Cochrane reviews",
       "link": "https://retractionwatch.com/2026/06/10/cochrane-reviews-retracted-studies-central-database/",
@@ -151,12 +157,6 @@
       "link": "https://retractionwatch.com/2026/06/06/weekend-reads-moffitt-executive-steps-down-hijab-switching-scandal-nsf-watchdog-unit-empty/",
       "date": "2026-06-06 10:00",
       "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
-    },
-    {
-      "title": "Editors of semantics journal resign, launch new journal after publisher ‘ultimatum’",
-      "link": "https://retractionwatch.com/2026/06/05/natural-language-semantics-journal-editors-resign-launch-new-journal/",
-      "date": "2026-06-05 17:20",
-      "summary": "The editors of a semantics journal owned by Springer Nature have resigned to launch a new one, citing pressure from the company to..."
     }
   ],
   "Reuters AI": [
@@ -174,7 +174,7 @@
     },
     {
       "title": "Americans wary of AI-driven data center boom, Reuters/Ipsos poll shows - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnc1TFNUaXMzYU8xa1A0RHZlclNvOUcwWnoyakNOU0RKcEFBMGpGVEtXQ2dMeUlVU2RCVHU4NERsUGFrVmdwZ04yRWtjX3pyNjFaVGJpNnZCV3pnLUxreGFYVGNHcTRxSUIzZ2dCYVFXRjIySGo4VGpsakRYaXhfeEtHT0swMjc2VEw5RVhWVUFRcWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ05ZaWE5ZGh1b2ZtQjZ3VTVaMUNZVXRMM29zYXUtV0toNllGYmtzd2xhNVJSd0RyVjVZZkFsSjNBX1NDVFdodWZmLXFFWW1tMkhteS14R21PU29yclE3XzFhSURGeTRsQ09wcVBldlctcmNidVhCQkZ3NDQ3cFc3clpsc0RGeGNZek1TX3Z4amtqRE0?oc=5",
       "date": "2026-06-11 10:06",
       "summary": "Americans wary of AI-driven data center boom, Reuters/Ipsos poll shows  Yahoo..."
     },
@@ -187,7 +187,7 @@
     {
       "title": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk5nUHlsdmNnT25PcUpTYUFLYS1FSHl3bmdpRE0wN0NfSzBSd3FRdkVtT1VPSE55bmJnczN3aGFmRUlyTmhPVlRJYlhHOElpZGl2X0hpMW1iZU0yMVJOZHhjaVU3RXVWa19xUTJTY2c4T2JUNmhRXzRVMUdsdXgtTVFhRG9yd1FQSU03SVN2ZjhnQ0I3RWdPZEh4aEVVSDc3RTdndzV2VWY?oc=5",
-      "date": "2026-06-11 13:31",
+      "date": "2026-06-11 17:18",
       "summary": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI  Reuters..."
     }
   ],
@@ -205,16 +205,16 @@
       "summary": "Why China is betting on big nuclear reactors  MIT Technology Review..."
     },
     {
-      "title": "Inside soccer’s data renaissance - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdHgyX2ZVUEhDX2tWN3pVNGNzNUkwS1dhWENmdDRsaHVqX25LSDluVWpYdExzN0ktQm9VdnJLVzQ2M2pELUVjUS1IQ0xKS1pIWXVjc3VWaklTR2JmdHlHTUxaWXdiSmJuaFJfQnZ4bUVFeS1LTWZiVTB2MVVTeVRKVWM5VDF2UlVDTXZJQzBpVW9ENkxwa3dfTnFKOA?oc=5",
-      "date": "2026-06-11 10:00",
-      "summary": "Inside soccer’s data renaissance  MIT Technology Review..."
-    },
-    {
       "title": "The Download: soccer’s data renaissance and China’s big nuclear plans - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcU5yQzlyY0NrQXdjenFHUFJTaXluUkhEZFo1LXg3UUh1akZ3dVFyWDAxUmdQbGlUTnoyQVN0RmVHMzZua0lSS0F3Qk94MnJweTEwNWtCVUw4Y0o4SnZxdFoyZzZDOFNmREozT3J3V01xYlBkcHd2YkJTQThOREdzQnZHa09Bbmp5djdhX2FQdnZVZjFDNlZlVkZYOWVSYlBJS3ZyX2YtM09Kc3dGWXZmVG5iSkZUVXPSAbwBQVVfeXFMTTZPamYtRGdCVDAzYW9GNDdQREJ0MUxPYkhQQUpET1VWM2JVVHFtcUxhbjFKRmpMQlpIaldSWnNVYWx0OWR2Q3gtUmNhal9namdGSmtBVDk3M2JOMzlObzU0cDczN244NDQ2bl9CX1QtVW9FdkZScmtOdXNQbzFyYmVvdjlhUzdlZFdGNEFRVTN4b2Rkcm1ldXNfdDhLOHJxZjJBYUlQOEVMV1JJVU1Fd3hwbG4xWGRhZmJkZDQ?oc=5",
       "date": "2026-06-11 12:10",
       "summary": "The Download: soccer’s data renaissance and China’s big nuclear plans  MIT Technology Review..."
+    },
+    {
+      "title": "Inside soccer’s data renaissance - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdHgyX2ZVUEhDX2tWN3pVNGNzNUkwS1dhWENmdDRsaHVqX25LSDluVWpYdExzN0ktQm9VdnJLVzQ2M2pELUVjUS1IQ0xKS1pIWXVjc3VWaklTR2JmdHlHTUxaWXdiSmJuaFJfQnZ4bUVFeS1LTWZiVTB2MVVTeVRKVWM5VDF2UlVDTXZJQzBpVW9ENkxwa3dfTnFKOA?oc=5",
+      "date": "2026-06-11 10:00",
+      "summary": "Inside soccer’s data renaissance  MIT Technology Review..."
     },
     {
       "title": "Five things you need to know about AI - MIT Technology Review",
@@ -225,37 +225,43 @@
   ],
   "Phys.org": [
     {
-      "title": "Five-year plan to help scientists better understand the causes of algal blooms",
-      "link": "https://phys.org/news/2026-06-year-scientists-algal-blooms.html",
-      "date": "2026-06-11 14:20",
-      "summary": "As toxic algal blooms intensify around the world, a renowned Bowling Green State University researcher continues to lead the globa..."
+      "title": "Indoor urban agriculture isn't necessarily low carbon, study shows",
+      "link": "https://phys.org/news/2026-06-indoor-urban-agriculture-isnt-necessarily.html",
+      "date": "2026-06-11 18:00",
+      "summary": "Growing lettuce indoors in Canadian cities can be as climate-friendly as conventional farming, but only in regions where electrici..."
     },
     {
-      "title": "Binary asteroids' puzzling configurations may link to multi-satellite history",
-      "link": "https://phys.org/news/2026-06-binary-asteroids-puzzling-configurations-link.html",
-      "date": "2026-06-11 14:20",
-      "summary": "Binary asteroid systems are widespread throughout our inner solar system. For decades, the standard paradigm held that many of the..."
+      "title": "First global map of mycorrhizal fungi reveals true scale of underground networks across the planet",
+      "link": "https://phys.org/news/2026-06-global-mycorrhizal-fungi-reveals-true.html",
+      "date": "2026-06-11 18:00",
+      "summary": "Mycorrhizal fungi form underground networks that sustain plant life and help regulate Earth's climate by drawing carbon into soils..."
     },
     {
-      "title": "Scientists discover collagen, the human body's most abundant protein, is liquid-like inside cells",
-      "link": "https://phys.org/news/2026-06-scientists-collagen-human-body-abundant.html",
-      "date": "2026-06-11 14:00",
-      "summary": "Collagen, the protein that builds skin, bones, tendons and organs, exists inside cells as a liquidlike droplet rather than the lon..."
+      "title": "Organic molecule with ultranarrow emission spectrum could lead to better LEDs",
+      "link": "https://phys.org/news/2026-06-molecule-ultranarrow-emission-spectrum.html",
+      "date": "2026-06-11 18:00",
+      "summary": "Over the past several decades, light sources have gradually transitioned to light-emitting diodes, or LEDs, and inorganic LEDs are..."
     },
     {
-      "title": "Wary investors hit by a natural disaster seek premium on equity investment",
-      "link": "https://phys.org/news/2026-06-wary-investors-natural-disaster-premium.html",
-      "date": "2026-06-11 14:00",
-      "summary": "Investor caution soon after experiencing a natural disaster increases the cost of capital for businesses hoping to grow, new acade..."
+      "title": "Physicists introduce phase contrast to electron microscopy, delivering sharper images of our body's tiniest proteins",
+      "link": "https://phys.org/news/2026-06-physicists-phase-contrast-electron-microscopy.html",
+      "date": "2026-06-11 18:00",
+      "summary": "Nearly 100 years ago, a seemingly simple discovery revolutionized the microscope. The introduction of phase contrast, which garner..."
     },
     {
-      "title": "Q&A: Expert offers insight on stopping the New World screwworm",
-      "link": "https://phys.org/news/2026-06-qa-expert-insight-world-screwworm.html",
-      "date": "2026-06-11 13:40",
-      "summary": "NC State University entomologist Maxwell Scott is among a handful of people worldwide with the most thorough understanding of the ..."
+      "title": "Prescribed fires can cut smoke pollution for years, miles beyond burn areas",
+      "link": "https://phys.org/news/2026-06-pollution-years-miles-areas.html",
+      "date": "2026-06-11 18:00",
+      "summary": "A new study finds that burning 500,000 acres (202,000 hectares) of California conifer forests each year with prescribed fire could..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "More than one in five pupils in England have special educational needs, figures show",
+      "link": "https://www.theguardian.com/education/2026/jun/11/pupils-england-special-educational-needs",
+      "date": "2026-06-11 16:32",
+      "summary": "Data shows sharp rise in number of children getting extra support and highlights pressure on schools, families and councilsMore th..."
+    },
     {
       "title": "Children hit by parents more likely to bully others, research finds",
       "link": "https://www.theguardian.com/education/2026/jun/11/children-hit-by-parents-more-likely-to-bully-others-research-finds",
@@ -279,17 +285,23 @@
       "link": "https://www.theguardian.com/society/video/2026/jun/09/how-do-you-give-britains-hidden-army-a-break-is-mum-ok-documentary",
       "date": "2026-06-09 09:31",
       "summary": "There are more than one million young carers in the UK – with an average age of 12 – which is the equivalent of two kids in every ..."
-    },
-    {
-      "title": "Healthy cooperation: how northern universities are linking with NHS trusts to drive innovation",
-      "link": "https://www.theguardian.com/business/2026/jun/09/northern-universities-nhs-trusts-huddersfield-manchester",
-      "date": "2026-06-09 05:00",
-      "summary": "Backed by a mix of private and public finance, Huddersfield and Manchester are among many in the academic sector helping to create..."
     }
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Woman feared reporting teacher over assaults would be ‘too cruel’, court hears",
+      "title": "Board backs proposal to give temple, mosque highest level of heritage protection",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3356805/board-backs-proposal-give-temple-mosque-highest-level-heritage-protection?utm_source=rss_feed",
+      "date": "2026-06-11 16:15",
+      "summary": "Hong Kong’s heritage advisers have endorsed designating a nearly 180-year-old temple and the city’s only mosque inside a prison as..."
+    },
+    {
+      "title": "Unlocking Curiosity: Introducing Hong Kong Academy’s Maker’s Atelier for Pre-K Learners",
+      "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/pre-k-updates-hka/article/3356302/unlocking-curiosity-introducing-hong-kong-academys-makers-atelier-pre-k-learners?utm_source=rss_feed",
+      "date": "2026-06-11 16:00",
+      "summary": "[The content of this article has been produced by our advertising partner.]\nHong Kong Academy (HKA) has long been recognised as a ..."
+    },
+    {
+      "title": "Hong Kong woman feared reporting teacher over assaults would harm him",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356802/woman-feared-reporting-teacher-over-assaults-would-be-too-cruel-court-hears?utm_source=rss_feed",
       "date": "2026-06-11 14:26",
       "summary": "A Hong Kong woman who has accused her former school teacher of sexually assaulting her over a period of nearly five years has told..."
@@ -305,21 +317,15 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356795/16-arrested-over-bogus-mpf-withdrawal-requests-due-serious-health-problems?utm_source=rss_feed",
       "date": "2026-06-11 12:58",
       "summary": "Sixteen people have been arrested in Hong Kong for allegedly using falsified medical certificates claiming loss of working ability..."
-    },
-    {
-      "title": "Hong Kong, Indonesia move towards direct transactions in yuan, rupiah",
-      "link": "https://www.scmp.com/business/money/article/3356792/hong-kong-indonesia-move-towards-direct-transactions-yuan-rupiah?utm_source=rss_feed",
-      "date": "2026-06-11 12:42",
-      "summary": "The People’s Bank of China, Hong Kong Monetary Authority (HKMA) and Bank Indonesia signed an agreement on Thursday to create a fra..."
-    },
-    {
-      "title": "Hong Kong’s new national security regulation to be used rarely, ministers say",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356787/hong-kongs-new-national-security-regulation-be-used-rarely-ministers-say?utm_source=rss_feed",
-      "date": "2026-06-11 12:21",
-      "summary": "Hong Kong’s new legislation allowing certain criminal cases to be handled under national security procedures is expected to be use..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Toy universe shows that time could be a quantum illusion",
+      "link": "https://www.newscientist.com/article/2529957-toy-universe-shows-that-time-could-be-a-quantum-illusion/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-11 15:00",
+      "summary": "An experiment with a toy universe made up of extremely cold atoms shows how time can emerge from quantum interactions, instead of ..."
+    },
     {
       "title": "Ditching cigarettes for vapes may curb the cancer benefits of quitting",
       "link": "https://www.newscientist.com/article/2529853-ditching-cigarettes-for-vapes-may-curb-the-cancer-benefits-of-quitting/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -343,12 +349,6 @@
       "link": "https://www.newscientist.com/article/2529864-millions-of-fossil-whale-bones-found-in-deep-ocean-necropolis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-10 16:00",
       "summary": "Researchers diving 7 kilometres deep in a crewed submersible have discovered a vast collection of whale bones, including fossils u..."
-    },
-    {
-      "title": "A nuclear war between India and Pakistan could destroy the ozone layer",
-      "link": "https://www.newscientist.com/article/2529589-a-nuclear-war-between-india-and-pakistan-could-destroy-the-ozone-layer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-10 14:28",
-      "summary": "Climate models suggest a small nuclear war in the tropics would do even more damage to the ozone layer than a larger nuclear war i..."
     }
   ]
 }
