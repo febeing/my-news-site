@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "Would you return a favor? Scientists say it depends on the relationship",
+      "link": "https://news.mit.edu/2026/would-you-return-favor-scientists-say-it-depends-0611",
+      "date": "2026-06-11 04:00",
+      "summary": "A new study shows people expect reciprocal generosity only in interactions with friends or others of equal social status...."
+    },
+    {
+      "title": "New imaging system sees through murky waters",
+      "link": "https://news.mit.edu/2026/new-imaging-system-sees-through-murky-waters-0611",
+      "date": "2026-06-11 04:00",
+      "summary": "The “Sonar-MASt3R” combines sonar and visual data to create real-time 3D maps, even in cloudy water...."
+    },
+    {
       "title": "Myriam Heiman named director of The Picower Institute for Learning and Memory",
       "link": "https://news.mit.edu/2026/myriam-heiman-named-director-picower-institute-learning-memory-0610",
       "date": "2026-06-10 19:25",
@@ -17,21 +29,15 @@
       "link": "https://news.mit.edu/2026/augmented-reality-system-could-make-medical-ultrasounds-easier-to-interpret-0610",
       "date": "2026-06-10 09:00",
       "summary": "MIT researchers have designed an ultrasound system that creates a real-time 3D representation of the object being imaged...."
-    },
-    {
-      "title": "The consequences of relying on AI for accurate news",
-      "link": "https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609",
-      "date": "2026-06-09 20:30",
-      "summary": "Media Lab study shows that, much like how GPS has weakened our navigation skills, AI can make us worse at detecting fake news...."
-    },
-    {
-      "title": "3D-printed devices could streamline the production of drug-delivery microparticles",
-      "link": "https://news.mit.edu/2026/3d-printed-devices-could-streamline-drug-delivery-microparticle-production-0609",
-      "date": "2026-06-09 04:00",
-      "summary": "The cost-effective devices, which can be built in hours, leverage electrospray emitter technology to efficiently produce three-lay..."
     }
   ],
   "Harvard Gazette": [
+    {
+      "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRCNE1YZ0h5NkU4MmtrUnh5TmcyWlVoZHBJN25nR1FUUjByVmxENDZsMmxuMWRVajhKV1FPb1owUWRDay1lQk53TzMyQUo2RmRSczdJOC1Lb0wtQmJScFFtZU9kN3A1MFdCNjMxNXhsVDRDZ3hHbWZwTjdYcjBxcXNXZ182MVlqN0dvTEgycW5NaC0ybWl0eHJuRjBla3JKemc?oc=5",
+      "date": "2026-05-26 07:00",
+      "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
+    },
     {
       "title": "Funny but serious, Chieng issues an AI warning to grads - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjd2dS0wSnZIbjNVSzM1N1ZLbW82LUpSaV92b1lDRU1ZQUw2UVJQUVE3eDRHVnB3UUJEV09kQkx5TkE3aFNjVlMzQ3poQ2lqY2UzWGdJaUh5RmlMRXRFclFsY0VLWnFaMkEyZXUyODI0dUlqVFlmYWtWMVJQQnlhZ005eDljQnZSWXd2RUVzX0NtN1BLb3pGQlNmOE9tSjREc2hVWQ?oc=5",
@@ -51,24 +57,30 @@
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
     },
     {
-      "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
-    },
-    {
-      "title": "How to help lift slumping American math scores - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
-      "date": "2026-01-26 08:00",
-      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
+      "title": "The questions that keep scientists up at night - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
+      "date": "2026-04-07 07:00",
+      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
     }
   ],
   "Stanford News": [
     {
-      "title": "Stanford Medicine’s bold proposal to accelerate cancer innovation - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmFnRjl0bkcxc3hReHEtbTVqcnRiUGdDeURNTnctWFRZNFhEdmVFV2d3RXYyRExONS0tWkR5Q3FNTk0takRxNFZCTUV4eFVWeW5nQjFGOXA2UEF5bkVMUGI1VzZkel8zdVVKV1ZEdzFBX0dKb3V0eTY2VXVfekQ4a3B3QQ?oc=5",
-      "date": "2026-06-10 13:03",
-      "summary": "Stanford Medicine’s bold proposal to accelerate cancer innovation  Stanford Report..."
+      "title": "Stanford lays out plans for the biggest medical facility in its history - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORENJUHl3MXF1UzdTSm1Ba0tJNENkV3REVnBxQXN1RURQb0JBVnJReWFKSjUwekRZendHMFJMQ0RZWUNKV203QU9md2pVMEVLNGM0R05yckZxTXByRWxNam85ZkVhRndPTldkMjNQeWs5cUJ5dldHNjROazBwVlN6TDhCVzJrcFk?oc=5",
+      "date": "2026-06-10 15:04",
+      "summary": "Stanford lays out plans for the biggest medical facility in its history  San Francisco Chronicle..."
+    },
+    {
+      "title": "How to Rule the World — Stanford’s lucrative bond with Silicon Valley - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczZ1Z0xGN3lTSnpqMGJDdE5STlk5WDFKb2RMM2R6VlVoMEk3Ry1RdzVQb1pxMTFZTTc4VDlhT2ZMc1p0TXlIZHpLYmtPTWdzU3pheXFlNFF4T0FDTmkzZkVfRDE0QTRNdUc4TmRfQzdNU1RGNFU3Nm5ReElWbUVoUThNSDU?oc=5",
+      "date": "2026-06-09 12:33",
+      "summary": "How to Rule the World — Stanford’s lucrative bond with Silicon Valley  Financial Times..."
+    },
+    {
+      "title": "Watch Stanford's Chen on US-Iran Tensions - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWJEeUJYb0pWRXFBRUlZamp5WHFBa0htVmYwVEtXMlZ0Tnplc2xUN1lwWE9YdExlcVRRVGZoUXZ3TnNiN1drSVU5RGdpaGxzVkdaV1BtM1VNZHpndjBUVVR6Y2c4eGN3ZzFhaDVwZnI3aE54U2pGYkZMUnRnRllRV0pXc2ZLeVNOek1ScWF1cFMzd01z?oc=5",
+      "date": "2026-06-11 00:00",
+      "summary": "Watch Stanford's Chen on US-Iran Tensions  Bloomberg.com..."
     },
     {
       "title": "Communities push for affordable housing as part of Stanford growth plan - Palo Alto Online",
@@ -77,22 +89,10 @@
       "summary": "Communities push for affordable housing as part of Stanford growth plan  Palo Alto Online..."
     },
     {
-      "title": "Stanford student gives back to Chattanooga through free college prep program - Local 3 News",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOODRwLUtJdWZsTEJCb2NwbWZIYnowLXdTSVVtZTBIVzBXT3Z5MUNEUEtTR1htVDFZRUNFMnFxNHZMVldlTjhIR0FRV2JKS2RCZ2tkdWhPZmRadVFfaXNyLW5OQUExWk1hS1lsaTR4S0JUd3MxVmo1Vk9TRmNWcFZPd25PTGsxU3dQN0luYnRnZHhpaklEX0FPN3g2bGFreWRvYk9DZUdkc2EzRWZlN2U5RDBXS1NNelltSU10Tm16MURRMFdvcjA4ajQ0Tlc0QTZ3SzFsd1hpeTI5Y05HQUUzY2xVQTFELXh1Q0tVYS1rSjBfZEdUVGZXcjRZclFQa1cxOGhBTlRCaUxHUQ?oc=5",
-      "date": "2026-06-10 21:42",
-      "summary": "Stanford student gives back to Chattanooga through free college prep program  Local 3 News..."
-    },
-    {
       "title": "At Stanford, one freshman discovered 'How to Rule the World' - WBUR",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5leDZodzBPUGVjWVNMVzE0V3UtSTRWa1daZnBza2k2dU4zeVdKa1B2RGpTNDV2XzRObFkyZzdHalF0VXlTd2VWUjN2MEFfR1NCNV8xemN6ay1OdENYWUx5aVZqbncxTW1MQ2JSOFFuc3RDUHBBZTJRVTdmYWRaQQ?oc=5",
       "date": "2026-06-09 17:30",
       "summary": "At Stanford, one freshman discovered 'How to Rule the World'  WBUR..."
-    },
-    {
-      "title": "Stanford lays out plans for the biggest medical facility in its history - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORENJUHl3MXF1UzdTSm1Ba0tJNENkV3REVnBxQXN1RURQb0JBVnJReWFKSjUwekRZendHMFJMQ0RZWUNKV203QU9md2pVMEVLNGM0R05yckZxTXByRWxNam85ZkVhRndPTldkMjNQeWs5cUJ5dldHNjROazBwVlN6TDhCVzJrcFk?oc=5",
-      "date": "2026-06-10 15:04",
-      "summary": "Stanford lays out plans for the biggest medical facility in its history  San Francisco Chronicle..."
     }
   ],
   "Nature Careers": [
@@ -167,10 +167,10 @@
       "summary": "China Inc deploys 'quiet' layoffs as Beijing promotes AI adoption  Reuters..."
     },
     {
-      "title": "Trading Day: Sizzling AI now fizzling - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb3lGbjhIY01HT1QxbW1aRi1xajB4Slo1aHRwMlFFRnNfcW9pdXlFZWtKX25MQTVGZlJsb1NZakx5U1ZKeG5XTV9pcmwwd0p5NmlmbjZuckJVNy1Sc2pQbVBucXJKU0RNdFNDN0NBdVlqMmU3emZCVEp3XzhGOElaUTdua3IycHpVSkFFZXllNGtxc3pFSmZNcFpXZ01IaWR5TUJKWHFn?oc=5",
-      "date": "2026-06-10 21:05",
-      "summary": "Trading Day: Sizzling AI now fizzling  Reuters..."
+      "title": "US shortens cyber fix window to three days as AI threats rise - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUJ0Y3ZPOE9IbWdjS0xqd20zczBOanREM3JhNmk5bVpDYlhkbFlhMTBwTWkxZ080TTEwcHJKVnhocTU3UTdBTGVmQUhrUDhqbE40bGpqS0tpQWI1RmNUMVhNTF9Kb09OYkZIanduaEN5ek1PUkdyZVRJOWxORW9fWFI4Q1Y0OWxYMk9XelRpWmJDVURweXBLT19ORl9RaWh2eWcyVkhmcGNqZ0tn?oc=5",
+      "date": "2026-06-10 21:48",
+      "summary": "US shortens cyber fix window to three days as AI threats rise  Reuters..."
     },
     {
       "title": "Half of Americans fear AI could put someone in their household out of work, Reuters/Ipsos poll finds - Yahoo",
@@ -179,30 +179,30 @@
       "summary": "Half of Americans fear AI could put someone in their household out of work, Reuters/Ipsos poll finds  Yahoo..."
     },
     {
-      "title": "Trump says he thinks AI companies will agree to 'giving back' to the public - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaERpOFcyS1d2bXVmY2xlNkZDY2p6WXVwbEVCeFRnZkVQNnNJV25LSXNFNGhpMmYzMGk1anRxblJ1TXQxN2h4YTZZWlJXSzRuZGxnOTk0UDlwZkZXb18zdER0YVhUUEJiSU1YQURqNXhBa3gzUWVzU29iZkJ5V3RSZmx6NGk3S3d0bkxrcjVjSlZQSVZ2TXJZV0lwcklmZEZucG9LSnROVm9fX1R6Y1k0Tng2VFd1LXRYcWk3aUViSQ?oc=5",
-      "date": "2026-06-10 19:14",
-      "summary": "Trump says he thinks AI companies will agree to 'giving back' to the public  Reuters..."
+      "title": "EU regulators reject Apple's Siri AI exemption request - Reuters (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2dtMXBjeWtzejdNUzlyYno2b1lnNWxuandhYVBTNjZad1lFSDBNVFU0OUl3RXJ4R3JCWWFBclo5Zk1DelE1TUFIMloxNEtNMVpFVk9GNTg5VzVxMGU4UTRVUDJobnNldHdMWFBzUU80THlPSGFIczN4LUNCNktZbl9sRjdlbmI2Z2dYSmRFTFAxb2g4Qm9xeUFkYWNTYm1JVDR3?oc=5",
+      "date": "2026-06-09 16:02",
+      "summary": "EU regulators reject Apple's Siri AI exemption request - Reuters (AAPL:NASDAQ)  Seeking Alpha..."
     },
     {
-      "title": "Anthropic rolls out public version of Mythos without cybersecurity capability - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNclJjVzlnSzJ4M3c1WkdyY19SUVFrQXhlWTF1VWExeVhXSXp2czEzbGMtaEpDV0Ezc045bzBTUFhRNzUzTkhKOS0tbU54X2M5YWw2RWZZSUFrWjJvTElhMFlVMndfUF9yTUptX1QtbXd1UzVMR29FZUN5cEJ0T2RZTC1tUThTNE5QbS1VcEtWYkJNaFJpeHZlVVFoSXdkUG5IWFBWLXNOMGdwMzlHMnhtMjR0YmxzYXd5TlUwQnR3?oc=5",
-      "date": "2026-06-09 17:03",
-      "summary": "Anthropic rolls out public version of Mythos without cybersecurity capability  Reuters..."
+      "title": "Anthropic urges US not to block state AI laws without setting federal standards - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGswMmJtWE5seHQzaWRSWXhPRktmbHc1SHZpYndBM1hjTzdLUlp0LVdmM3BQTTN1NnIxeWsxR2JubC1qeS03XzdVVjR0amttUUQxUWpVUlN2MzdsRTlSZDdJT1ZUTnlQTmlDc2h5WC1VdlQwYm5OQ2xROG1lT3BUVmhHS1V1bE4xeHhpazlwTGJSYWNNSnBtX0tFdkFBX0M1VTdZVDNwQQ?oc=5",
+      "date": "2026-06-10 21:49",
+      "summary": "Anthropic urges US not to block state AI laws without setting federal standards  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "The Download: the “steroid olympics” and a safer Mythos - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREJmQ1NVbVduRzdKRnp3WEZVbU9zRGpWLUdEY2dZWHN0VTJJN1lPN3gtTVI0SDJDaGUySkc5WV91Q2NhZ1QxWGZVYlpRN196VjBVbkx2LTF2Z1BZTGJVY01xSzh3WXB5SFpkTjc4azdHQm13dC02SF82cDNoal82dE5hMnI1Qll6MTlkSXJWUDE5QVRGZnlBVFJBZEJLSEUtOGV6Z3JGbzdFa0FyaVMtTXZkWjHSAboBQVVfeXFMTlpFM2k1azlfZGhkZHFCSGRHRXBDVGhqejE2ZGp3QVE1eXpOYTIya1ZhaVZXQzAtQl9MZ3N6a21OYU9DNmRHbU41WEFlZXZCVFY3ckxjd2RqTGVRTHRBWVV3WVhWNFp0eGpyX2JwT1ZtNjZMcFlaRzJyTWM1eE10Ny1MWXdYSDhDWjl6dklvc1RLYUtETmJxMnZPdVFyMzRlWXRqa2FXYmRuT1NSWmV4ODZwaGE5YmVCRGNB?oc=5",
-      "date": "2026-06-10 12:10",
-      "summary": "The Download: the “steroid olympics” and a safer Mythos  MIT Technology Review..."
-    },
     {
       "title": "Five things you need to know about AI - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk9URmdaTk9qRi1Nd3RVREZQT0FoVU9vQnA1QlVPOWVEM1pMNlJJMk0wVF80RWxBWHRKSHE0TXNDLXV6aGJFbmlJUDFOWHliZmdiWWVxR3hqYWxtTDRJRzhNSXhwaHpPSjRjaS1ESFNaeEt1X2xwS0tmRGRROVRvQmhFSjdhRXFYeUhpTHdCMkZtb3ll0gGaAUFVX3lxTE1JUjhha055OVlhVW53V1A4dE1BaVdnTFg4dk1MZGswVnREYnlrSVpBYzFSZWhDVFREMU1NMFFiWUlnRjRqSU10MGkwOTNjWnBfNDNNdmhUMTY1SUliV3NzVnNHT1ZIQXROOU1qUjBPT2lmZ0JvQlIxcDR4OXp0RFJsZ3Q1TmVFNEZtZDVNX3BORnF1OE1jc1daMlE?oc=5",
       "date": "2026-06-09 09:16",
       "summary": "Five things you need to know about AI  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: the “steroid olympics” and a safer Mythos - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREJmQ1NVbVduRzdKRnp3WEZVbU9zRGpWLUdEY2dZWHN0VTJJN1lPN3gtTVI0SDJDaGUySkc5WV91Q2NhZ1QxWGZVYlpRN196VjBVbkx2LTF2Z1BZTGJVY01xSzh3WXB5SFpkTjc4azdHQm13dC02SF82cDNoal82dE5hMnI1Qll6MTlkSXJWUDE5QVRGZnlBVFJBZEJLSEUtOGV6Z3JGbzdFa0FyaVMtTXZkWjHSAboBQVVfeXFMTlpFM2k1azlfZGhkZHFCSGRHRXBDVGhqejE2ZGp3QVE1eXpOYTIya1ZhaVZXQzAtQl9MZ3N6a21OYU9DNmRHbU41WEFlZXZCVFY3ckxjd2RqTGVRTHRBWVV3WVhWNFp0eGpyX2JwT1ZtNjZMcFlaRzJyTWM1eE10Ny1MWXdYSDhDWjl6dklvc1RLYUtETmJxMnZPdVFyMzRlWXRqa2FXYmRuT1NSWmV4ODZwaGE5YmVCRGNB?oc=5",
+      "date": "2026-06-10 12:10",
+      "summary": "The Download: the “steroid olympics” and a safer Mythos  MIT Technology Review..."
     },
     {
       "title": "Learning to lead in a hybrid human-AI enterprise - MIT Technology Review",
@@ -225,37 +225,43 @@
   ],
   "Phys.org": [
     {
-      "title": "Silver nanoparticles pave the way for precise DNA cutting and joining",
-      "link": "https://phys.org/news/2026-06-silver-nanoparticles-pave-precise-dna.html",
-      "date": "2026-06-11 00:10",
-      "summary": "DNA is composed of long chains that act as the blueprint for living organisms. In genetic engineering, scientists cut DNA at speci..."
+      "title": "Message drift: Why things get taken out of context online and why it matters",
+      "link": "https://phys.org/news/2026-06-message-drift-context-online.html",
+      "date": "2026-06-11 03:20",
+      "summary": "You are scrolling through your feed when a screenshot appears showing a public figure saying something surprising or controversial..."
     },
     {
-      "title": "Canada's 'AI for All' strategy has ambitious growth targets, but it falls short on workers and the environment",
-      "link": "https://phys.org/news/2026-06-canada-ai-strategy-ambitious-growth.html",
-      "date": "2026-06-11 00:00",
-      "summary": "Prime Minister Mark Carney unveiled Canada's AI for All strategy on June 4, committing more than $2 billion in new spending and ta..."
+      "title": "Pathogenic fungus transmitted by domestic cat scratches is present in wild animals",
+      "link": "https://phys.org/news/2026-06-pathogenic-fungus-transmitted-domestic-cat.html",
+      "date": "2026-06-11 02:40",
+      "summary": "The fungus that causes sporotrichosis is typically transmitted among cats and results in serious lesions. Recently, it was found i..."
     },
     {
-      "title": "Annual global migration has nearly tripled since 2000, reshaping where and how people move",
-      "link": "https://phys.org/news/2026-06-annual-global-migration-tripled-reshaping.html",
-      "date": "2026-06-10 23:40",
-      "summary": "Global migration has risen sharply from approximately 13 million people per year in 2000 to around 35 million people per year in 2..."
+      "title": "Researchers develop a new anti-jellyfish floating buoy",
+      "link": "https://phys.org/news/2026-06-anti-jellyfish-buoy.html",
+      "date": "2026-06-11 02:20",
+      "summary": "Researchers from the Universitat Politècnica de València (UPV) and the University of Alicante have developed a new anti-jellyfish ..."
     },
     {
-      "title": "NASA's CloudCube pioneers miniaturized radar to study clouds, precipitation",
-      "link": "https://phys.org/news/2026-06-nasa-cloudcube-miniaturized-radar-clouds.html",
-      "date": "2026-06-10 23:40",
-      "summary": "A compact, multifrequency radar built by a team at NASA's Jet Propulsion Laboratory will make it easier to collect information abo..."
+      "title": "Virtual future selves improve students' planning and motivation, with gains seen after six months",
+      "link": "https://phys.org/news/2026-06-virtual-future-students-gains-months.html",
+      "date": "2026-06-11 02:00",
+      "summary": "Future-oriented thinking is a cornerstone of healthy decision-making, academic success and mental well-being. Yet many people stru..."
     },
     {
-      "title": "Global rice production has nearly doubled over 50 years despite climate change",
-      "link": "https://phys.org/news/2026-06-global-rice-production-years-climate.html",
-      "date": "2026-06-10 23:30",
-      "summary": "Global rice production nearly doubled between the 1960s and the 2010s, despite the negative impacts of climate change, according t..."
+      "title": "Preschoolers whose parents received coaching had fewer conduct problems, higher cognitive skills in middle school",
+      "link": "https://phys.org/news/2026-06-preschoolers-parents-problems-higher-cognitive.html",
+      "date": "2026-06-11 01:40",
+      "summary": "Children of parents who received coaching and support materials in preschool had fewer conduct problems in middle school and highe..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Children hit by parents more likely to bully others, research finds",
+      "link": "https://www.theguardian.com/education/2026/jun/11/children-hit-by-parents-more-likely-to-bully-others-research-finds",
+      "date": "2026-06-11 04:00",
+      "summary": "The UCL study also found physically punished children were more likely to struggle in schoolChildren smacked by their parents stru..."
+    },
     {
       "title": "UK minister defends changes to student loans as criticism mounts",
       "link": "https://www.theguardian.com/money/2026/jun/10/uk-minister-defends-changes-to-student-loans-as-pressure-grows-for-reforms",
@@ -279,44 +285,38 @@
       "link": "https://www.theguardian.com/business/2026/jun/09/northern-universities-nhs-trusts-huddersfield-manchester",
       "date": "2026-06-09 05:00",
       "summary": "Backed by a mix of private and public finance, Huddersfield and Manchester are among many in the academic sector helping to create..."
-    },
-    {
-      "title": "The London school that has screen-free days for pupils, teachers – and parents",
-      "link": "https://www.theguardian.com/education/2026/jun/07/london-school-screen-free-mondays-for-pupils-teachers-and-parents",
-      "date": "2026-06-07 12:00",
-      "summary": "Holy Family Catholic primary school says enthusiastic response from parents has been biggest surpriseSchools banning pupils from h..."
     }
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Hong Kong tech park tender targets strong bidders with HK$100m bond rule",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3356670/hong-kong-tech-park-tender-targets-strong-bidders-hk100m-bond-rule?utm_source=rss_feed",
-      "date": "2026-06-10 15:16",
-      "summary": "Winning consortiums bidding for core land parcels at an innovation hub near Hong Kong’s border must post a HK$100 million (US$12.7..."
+      "title": "6 arrested as Hong Kong customs seizes HK$156 million in fake World Cup goods",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356706/6-arrested-hong-kong-customs-seizes-hk156-million-fake-world-cup-goods?utm_source=rss_feed",
+      "date": "2026-06-11 05:20",
+      "summary": "Hong Kong customs has arrested six people over the alleged smuggling and online sale of counterfeit Fifa World Cup merchandise, wi..."
     },
     {
-      "title": "Proposed Sai Kung marine park to cover most coral reefs: Hong Kong authorities",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3356660/proposed-sai-kung-marine-park-cover-most-coral-reefs-hong-kong-authorities?utm_source=rss_feed",
-      "date": "2026-06-10 12:54",
-      "summary": "A planned marine park in waters surrounding Sharp Island in Sai Kung will cover most coral reefs, Hong Kong authorities have said,..."
+      "title": "Deaths of mother and daughter on same day spark concerns over academic pressure",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3356703/deaths-mother-and-daughter-same-day-prompt-concerns-over-academic-pressure?utm_source=rss_feed",
+      "date": "2026-06-11 04:37",
+      "summary": "Hong Kong parents have voiced shock and grief over the apparent suicide of a mother and daughter on Wednesday, believed to be tied..."
     },
     {
-      "title": "Trainee doctor reported to police for allegedly accessing patient records illicitly",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3356662/trainee-doctor-reported-police-allegedly-accessing-patient-records-illicitly?utm_source=rss_feed",
-      "date": "2026-06-10 12:42",
-      "summary": "Hong Kong’s Hospital Authority has reported a medical intern to police for allegedly accessing patient data without authorisation,..."
+      "title": "Hong Kong urged to expand driver-monitoring systems to reduce traffic accidents",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3356696/hong-kong-urged-expand-driver-monitoring-systems-reduce-traffic-accidents?utm_source=rss_feed",
+      "date": "2026-06-11 03:46",
+      "summary": "The Hong Kong government should expand its planned mandate for driver-monitoring systems on public buses to other modes of transpo..."
     },
     {
-      "title": "Asia-Pacific home to more than a third of world’s top finance centres: Colliers",
-      "link": "https://www.scmp.com/business/article/3356653/asia-pacific-home-more-third-worlds-top-finance-centres-colliers?utm_source=rss_feed",
-      "date": "2026-06-10 11:31",
-      "summary": "Asia-Pacific cities account for 39 per cent of the top global financial services companies and about 36 per cent of the world’s le..."
+      "title": "‘We’re Nothing At All’: why Hongkongers must avoid collective apathy",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356683/were-nothing-all-why-hongkongers-must-avoid-collective-apathy?utm_source=rss_feed",
+      "date": "2026-06-11 02:12",
+      "summary": "Through the invitation of a good friend, I had the privilege last Saturday of attending a charity movie screening held by SideBySi..."
     },
     {
-      "title": "Truck driver arrested as HK$10m of injections, fish maw seized at Hong Kong bridge",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356643/truck-driver-arrested-hk10m-injections-fish-maw-seized-hong-kong-bridge?utm_source=rss_feed",
-      "date": "2026-06-10 10:26",
-      "summary": "Hong Kong customs officers have arrested a 39-year-old truck driver on suspicion of smuggling and seized goods worth HK$10 million..."
+      "title": "ESF Unveils Guaranteed Pathway, Completing Through-Train Model",
+      "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/esf-links-kindergartens-primaries/article/3356040/esf-unveils-guaranteed-pathway-completing-through-train-model?utm_source=rss_feed",
+      "date": "2026-06-11 01:37",
+      "summary": "[The content of this article has been produced by our advertising partner.]\nIn Hong Kong, few conversations among parents are as c..."
     }
   ],
   "New Scientist": [
