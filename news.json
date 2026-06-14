@@ -167,12 +167,6 @@
       "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift  Reuters..."
     },
     {
-      "title": "Anthropic disables top-tier AI models after US order limiting foreign access - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzRyRDNxVmtPaENsR1pja0NuWUNDSklfUXRRemdJREJlWGpHM01PbTVwSWFZdThLT0p4S3J3aEJ0UDNoM2FXYTJPV3pkSGY3TXJsNVVkejFjbWlhUDNISkoxRk1wWGpwb09Jc0QxWFl5czVtYkd4Z3R2dmFmT2dGQ0Z3UjZ0UXJXdThXVDdtamt0aWwzc3FPdXhMX21iTVpkeHVPWjJSSE80MDZKWHdGUmdCN2hXVWlvNkgwUA?oc=5",
-      "date": "2026-06-13 00:01",
-      "summary": "Anthropic disables top-tier AI models after US order limiting foreign access  Reuters..."
-    },
-    {
       "title": "Americans wary of AI-driven data center boom, Reuters/Ipsos poll shows - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ05ZaWE5ZGh1b2ZtQjZ3VTVaMUNZVXRMM29zYXUtV0toNllGYmtzd2xhNVJSd0RyVjVZZkFsSjNBX1NDVFdodWZmLXFFWW1tMkhteS14R21PU29yclE3XzFhSURGeTRsQ09wcVBldlctcmNidVhCQkZ3NDQ3cFc3clpsc0RGeGNZek1TX3Z4amtqRE0?oc=5",
       "date": "2026-06-11 10:06",
@@ -183,6 +177,12 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYTBINmZMTlZvc1RPNEkyWjk0VkxJY29QRHRtSUpjYTlZNWMtYWJlZkVpMUwxejFzSjVxdU02MHJVS1BKYUtCNkRObWYxTkdsMWJmcF9Bb3VQTnBDZktBenJ2SjFnR2VQUGZhY3RWWXBvWGwyZFNOV250VG5QVm5sTE1fWU4tQXc3enltTUZUWXZuM1pEMTFvSmlNdlEyamFwTFBrdXRkeGFWUjU2eVp4b0ozT3p6bG5JUHNWNV9Hcm1nSjcxbHYyd1NPWHVGNFB0azJmNTFLRWM?oc=5",
       "date": "2026-06-13 18:13",
       "summary": "Amazon voiced concerns about Anthropic AI models before US crackdown, source says​  Reuters..."
+    },
+    {
+      "title": "Anthropic disables top-tier AI models after US order limiting foreign access - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzRyRDNxVmtPaENsR1pja0NuWUNDSklfUXRRemdJREJlWGpHM01PbTVwSWFZdThLT0p4S3J3aEJ0UDNoM2FXYTJPV3pkSGY3TXJsNVVkejFjbWlhUDNISkoxRk1wWGpwb09Jc0QxWFl5czVtYkd4Z3R2dmFmT2dGQ0Z3UjZ0UXJXdThXVDdtamt0aWwzc3FPdXhMX21iTVpkeHVPWjJSSE80MDZKWHdGUmdCN2hXVWlvNkgwUA?oc=5",
+      "date": "2026-06-13 04:40",
+      "summary": "Anthropic disables top-tier AI models after US order limiting foreign access  Reuters..."
     },
     {
       "title": "What does AI mean for big law associates? - Reuters",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
+      "title": "Hydrogen-based steelmaking gets 2x boost from nickel oxide catalyst, study finds",
+      "link": "https://phys.org/news/2026-06-hydrogen-based-steelmaking-2x-boost.html",
+      "date": "2026-06-14 20:00",
+      "summary": "Steel and metal production are among the largest contributors to global greenhouse gas emissions, accounting for approximately 10%..."
+    },
+    {
+      "title": "NASA's proposed Early eVolution Explorer mission aims to solve the radius valley mystery",
+      "link": "https://phys.org/news/2026-06-nasa-early-evolution-explorer-mission.html",
+      "date": "2026-06-14 19:30",
+      "summary": "A debate has been raging among planetary scientists for more than a decade—why are there so few exoplanets with a radius of about ..."
+    },
+    {
+      "title": "Manakins' dazzling dances may owe their origins to an ancient diet shift",
+      "link": "https://phys.org/news/2026-06-manakins-dazzling-owe-ancient-diet.html",
+      "date": "2026-06-14 19:00",
+      "summary": "Few animals put on a show quite like manakins. In the rainforests of Central and South America, males of these small tropical bird..."
+    },
+    {
+      "title": "Plant diversity may explain why some caterpillars are fussy about their food",
+      "link": "https://phys.org/news/2026-06-diversity-caterpillars-fussy-food.html",
+      "date": "2026-06-14 18:30",
+      "summary": "Many insects will eat almost anything in their sight, such as certain beetles, grasshoppers and locusts, while others are remarkab..."
+    },
+    {
       "title": "Canary Island relics offer new clues into how North African cultures adapted to ocean living",
       "link": "https://phys.org/news/2026-06-canary-island-relics-clues-north.html",
       "date": "2026-06-14 18:00",
       "summary": "Archaeological evidence from the Canary Islands suggests that by the 11th century, people there were harvesting and processing a v..."
-    },
-    {
-      "title": "The hidden physics complicating interstellar lightsails",
-      "link": "https://phys.org/news/2026-06-hidden-physics-complicating-interstellar-lightsails.html",
-      "date": "2026-06-14 18:00",
-      "summary": "If we're to reach another star, chemical propulsion will not get us there in any reasonable time frame. We're going to need a diff..."
-    },
-    {
-      "title": "A 5.3-million‑year‑old whale graveyard has been found on the floor of the Indian Ocean",
-      "link": "https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html",
-      "date": "2026-06-14 17:00",
-      "summary": "When a whale dies, a very special natural phenomenon can come alive. The carcass might float at the surface for some time, attract..."
-    },
-    {
-      "title": "Burned as waste for years, this overlooked plant material is poised to reshape how nylon gets made",
-      "link": "https://phys.org/news/2026-06-years-overlooked-material-poised-reshape.html",
-      "date": "2026-06-14 16:40",
-      "summary": "Most people have seen nylon listed as a material on their clothing tags, but nylon is used in an array of other products, too, inc..."
-    },
-    {
-      "title": "Researchers publish first complete connectome of fruit fly brain and 'spinal cord'",
-      "link": "https://phys.org/news/2026-06-publish-connectome-fruit-fly-brain.html",
-      "date": "2026-06-14 16:00",
-      "summary": "In a first, a large, international team led by multiple labs at Harvard Medical School and Princeton University has published a co..."
     }
   ],
   "The Guardian Edu": [
