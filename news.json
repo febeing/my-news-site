@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "How to create distinguishable states for quantum systems",
+      "link": "https://news.mit.edu/2026/how-to-create-distinguishable-states-for-quantum-systems-0615",
+      "date": "2026-06-15 19:55",
+      "summary": "Researchers establish key insights for reading and writing information for quantum sensing, communication, computing, and control...."
+    },
+    {
+      "title": "Fluorescent nanosensor enables rapid, first-of-its-kind detection of key gut health biomarker",
+      "link": "https://news.mit.edu/2026/fluorescent-nanosensor-enables-rapid-detection-key-gut-health-biomarker-0615",
+      "date": "2026-06-15 19:35",
+      "summary": "Researchers developed an optical nanosensor to rapidly detect a key gut biomarker, enabling faster, accessible screening...."
+    },
+    {
       "title": "A tiny ingestible sensor can measure temperature from inside the body",
       "link": "https://news.mit.edu/2026/tiny-ingestible-sensor-can-measure-temperature-inside-body-0615",
       "date": "2026-06-15 09:00",
@@ -17,18 +29,6 @@
       "link": "https://news.mit.edu/2026/when-predicting-preferences-it-pays-to-consider-power-of-three-0611",
       "date": "2026-06-11 19:10",
       "summary": "MIT researchers provide a major upgrade to the nearly century-old idea of random utility models...."
-    },
-    {
-      "title": "A shot of carbon dioxide rewires how cement sets",
-      "link": "https://news.mit.edu/2026/carbon-dioxide-rewires-how-cement-sets-0611",
-      "date": "2026-06-11 16:10",
-      "summary": "New research reveals the chemical sequence triggered by CO₂ injection in cement paste, capturing a fleeting intermediate reaction ..."
-    },
-    {
-      "title": "Would you return a favor? Scientists say it depends on the relationship",
-      "link": "https://news.mit.edu/2026/would-you-return-favor-scientists-say-it-depends-0611",
-      "date": "2026-06-11 04:00",
-      "summary": "A new study shows people expect reciprocal generosity only in interactions with friends or others of equal social status...."
     }
   ],
   "Harvard Gazette": [
@@ -77,22 +77,22 @@
       "summary": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough  ScienceDaily..."
     },
     {
+      "title": "Dedicated Stanford champion and leader Peter Bing dies at 91 - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IUkxWeXpwWTNqem53YXNVdGhxWW5uYjU1MjBJZ1Rkd05MeEJXMHJHRlktTWZNNDdTTzB1c3gyQjRTZG53SThUczNwSkxGSFlPZnVRbDFTeW1PRVZ6X05COVNod0diN2EzQ29haTRR?oc=5",
+      "date": "2026-06-15 20:48",
+      "summary": "Dedicated Stanford champion and leader Peter Bing dies at 91  Stanford Report..."
+    },
+    {
       "title": "Watch: Dozens of Stanford grads walk out on Google CEO's speech - BBC",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Bd0wyMGNoT1FuTEszb09FSUxkYS1kMHlkcW9jNG12LXJTYkpYZWYtZWNSRENZbkNMZU9UUjkzSzBHRXpwV2toR2lWWEVkTGpsMzdzaEVhRQ?oc=5",
       "date": "2026-06-15 13:32",
       "summary": "Watch: Dozens of Stanford grads walk out on Google CEO's speech  BBC..."
     },
     {
-      "title": "Grads called to pursue what excites them at Commencement 2026 - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oLU5jUTZEOXV1WVh3R3hXdlo1eEt2TUlKdUpFYTJTTFo5UFBHa215U04zaFhzbkRHaTRrYVkyWEpfdjI1R1RtRTFJSFNibVVtTWNWeEhRc3Q1eDZMYm1KZHlzYzhYWGxUVUxfWDB3ZHVmLVFJRVY4dkhkYUcwRGs?oc=5",
-      "date": "2026-06-15 02:22",
-      "summary": "Grads called to pursue what excites them at Commencement 2026  Stanford Report..."
-    },
-    {
-      "title": "‘Set your heart ablaze,’ Sundar Pichai tells the Class of 2026 - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaDNnYmpDWXg4RTcweVJJNjZlWUpYUW9JcGxyZjZHQVdqVHd1NzVmSkNPLXQwOW04MHduUDNHTE9nd0MxeklUaU8yN2JSa3h2dHNmbzhMU3JuNDFmSEhiekdqeVRLOURYeHE5VE9NRXI5LUM5bjlLSFVYbkNHN2ZVeVNwR19pOGY5blNRbG9mbGg?oc=5",
-      "date": "2026-06-14 23:49",
-      "summary": "‘Set your heart ablaze,’ Sundar Pichai tells the Class of 2026  Stanford Report..."
+      "title": "Stanford students walk out of graduation, sparking demonstration - KTVU",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRU9GRm9JS0VnNk0zUGlTbk16SkZqVmRTVk93aE1kQXRkeVNLVnc3TjVra2VfYnRDTWhvUk1ESGZsbzN4WnFMV1RabzFSVXZsS0dtOTJVMExjek5yd25RdGZwMTlnRmd6ZEN1a1dGTl9LSFlGODJIY2hvaEl3VlhBanl1dHlmN2VEdThkNlJGMNIBlAFBVV95cUxPSG1Sd0tQU2hoZnhXTXRIdEtOUENwMDBYR1VxNVNZLXdkOXV6VGxhanlZdFJMdW1pTEw3UFpidkRyRUhtR1d3bWZJSW9HTjY0UE1jdUp2VFFVQjFzcWV6RjJVWVZjcGFCOEYtZjltNWllY0d2OGFuV0ZRZlp2ZEx5TUtIQlhkUXBpVi1VZDNCN0dzdW5q?oc=5",
+      "date": "2026-06-15 13:40",
+      "summary": "Stanford students walk out of graduation, sparking demonstration  KTVU..."
     }
   ],
   "Nature Careers": [
@@ -173,6 +173,12 @@
       "summary": "Ukraine's defence AI chief predicts 'new paradigm' of warfare  Yahoo..."
     },
     {
+      "title": "AI-referred US shoppers browse longer, spend more per visit, data shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdW1sbEI1bUFBYVBsWklsN3N4VHotNFE0M1d3MDdNYmlSdVVmN2RJSnVSVHBvbjZqS2xlN2E3NUZoWThtZ3JrSlZNUUdwcWNLTEFWaHRFN09mSGVnMFZPRFdEWkRPWWN1azM2SkRiTmpub1QtOVJUT3lTNmt3OWJrY3FxYzB6VlBSUkY4Z1hNd1gwalNMQW9JZXBtQjI0X0NISnZIQjRiZUxrLVUzdkExdG9XVGY1bjUtckVwbEt0aHFnU3FJRXNn?oc=5",
+      "date": "2026-06-15 16:31",
+      "summary": "AI-referred US shoppers browse longer, spend more per visit, data shows  Reuters..."
+    },
+    {
       "title": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMjV5UElrM0pwdjE0dkFUM09CRHd6elhGdTJuUXVkb29QWVNrU3lpQnBNSXpJT2lfUnppQVlzN0NZMHBienBaWWlub3lxTjItbm1FbFNSdnZtMUE4MndyMWVEV0FfVE9iYjBsbGJnNGVkT3kyNEN2NE04ZXI3WUN3a2dxSWV5bUh0aVBrLWFZVEpXOERDWU9Qc3NPbGlRQkZLZEtrR3ktb04tY2ZHRmM0NzlKVm5ITF8zNVM3TlpXSUFYc2dSQWRieA?oc=5",
       "date": "2026-06-14 13:47",
@@ -183,15 +189,15 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV0hlS2tYZWRJNXBjdklpV1R6OHVaMFFQcFBJenRILVhJSW1JU2YtWVo3dnc2T1liYS1meHdHM2MzZWpzb2oycVJ2anlxWnNwN3RNdUpia25CLWFFN0xtYmVtR1lEVmYzNk5welRFbXlNUUJ0R2pnc2V1QnhyUGY0LWphbW44elBKNVFkQ3Mtd2V3YkFZRmRITDhwdnlUR09ReXhNcXpDdkJDUV8xeS1TSEdjdWdveFlyN044?oc=5",
       "date": "2026-06-15 05:07",
       "summary": "Schneider Electric, Foxconn partner on AI data center infrastructure  Reuters..."
-    },
-    {
-      "title": "AI-referred US shoppers browse longer, spend more per visit, data shows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdW1sbEI1bUFBYVBsWklsN3N4VHotNFE0M1d3MDdNYmlSdVVmN2RJSnVSVHBvbjZqS2xlN2E3NUZoWThtZ3JrSlZNUUdwcWNLTEFWaHRFN09mSGVnMFZPRFdEWkRPWWN1azM2SkRiTmpub1QtOVJUT3lTNmt3OWJrY3FxYzB6VlBSUkY4Z1hNd1gwalNMQW9JZXBtQjI0X0NISnZIQjRiZUxrLVUzdkExdG9XVGY1bjUtckVwbEt0aHFnU3FJRXNn?oc=5",
-      "date": "2026-06-15 16:31",
-      "summary": "AI-referred US shoppers browse longer, spend more per visit, data shows  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "Why do South Koreans love AI so much? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjRqUG02ZVRQa2M1Y3d6aVVuSGV6UDhJdTRDSWdaMVc0LVVhVjBoMTNYVXByZUV1VjRFTlRUa3J6QjNZTEd1UmVTNmVNajZmZHNyQ09COWx0d1QxMHJUVmFlV2ZnVGNkTHZZV205YWk5STg1VklTQmNOQzFqM25FX3dSVkIydEpyazhTRjJrRlJDR0XSAZgBQVVfeXFMTnlTSVRWNUJkc0NQRU1ZQVE1bWxfWGdPVUdzN0xZTy1Lekg1TjlEaXlKRVU5emY1djdVN0pFOVdBMHF2V1pnMmFuXzhjZkFvNVkzc3NDMThNVkhuam1OS2lUbG1hcGRmQi1ha09mUjBjc1JoLWVSanlMVWhJZkJvOWU0QmlzQ3V2N001WlRXWWE2TGx6SFk0YS0?oc=5",
+      "date": "2026-06-15 18:46",
+      "summary": "Why do South Koreans love AI so much?  MIT Technology Review..."
+    },
     {
       "title": "This man with ALS is “the first power user” of a brain implant that lets him speak - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXdPazduem5mcjNMcE5weEVHVVRUR3Z5VHRZblQ0aW50NmJLXzFEeG4xWS1WZE9SYlJRUzhjSzFwOHNrNDd2VnlieFp1VjdYYUQyX29kMGh3SkdyOVBreWgzTHZuZS1Bak5Nd1VIMTAtdXd3Q3FvX0N5VEtiTVhrX2NvaVhvby1pdnIxODIyaC0tc2FnWnNDQ1dYWndGbzhYUnVz0gGoAUFVX3lxTE5qSEpFQmVDS0MxcnIzdGR0R3l1ZFIxcGZwMHRrQ1JLZW16VnZfUVMtTzFLZDdJT1dSeUlGWWNxTm1rc1dfT2F3ZmRnMWh2bGcyWkJXaXhqYUkxTGg4bVJuR09uaFduTEFPUURIa2k0U3drZkNBU01pT2NSUkU0M0FEQ0JnOC1uR213aDVSdzlRV05DTzJZTUJyTlR1d20xeTBNVkg0R0l2RA?oc=5",
@@ -205,54 +211,48 @@
       "summary": "Inside interoception: The hidden sense of how you feel inside  MIT Technology Review..."
     },
     {
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORHBFZElKbGtTUF8tWlA4Vk80R3AzOG9ISWxOQUgwQVRxQi13S0t2UFdtb1hqM05nd1ZDV0lHRnBQamo4NzJqRG1ucmQwcS1BZ1BFa1JKLVgxN3dnTXZkbW5Bb3RqMTdtNTNPTXVya1ZTdmJRTUVvRXVwM0xmNzVNWDR3Y3g0UHh1MUdYMXVmTl9tcFJIMmtqWEpZU0E3UGNMMGw5QlY2TW5scnVEanphYWlfVVNKSmpYY1VtLTB6U0xXc3ZfakcxVTQ5R2sydTFlMUVCWElkNNIB3AFBVV95cUxPTGVXZHA1LUl0bHVoWGJEcTB6RFQ1LUIyYmYyaDZTR2JnTFJOZG9iVDRHczljMHVybzdXWjFYaE1faW14UE5FRUFwbGZ2TEhEZFVSQlpOU2FFdnFBN1VnWS12VkNiVGtabkw0V2Fua3psWjhRWnZGdG5Qd19PQk5ybG5KRzd2TUo1dnpWU1ZZeERJYzNxQXMwak5oSnc4LUxnX01oS1BXMkNsZ0R0bmxTcWZHSVhRS3NoU3dzeFhjZlplNEd1TzFtVzN3Qk1VYjFOaXRSWGliZURkYlFw?oc=5",
-      "date": "2026-06-11 11:00",
-      "summary": "Google DeepMind is worried about what happens when millions of agents start to interact  MIT Technology Review..."
-    },
-    {
       "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure. - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNEk1bEM5TDlBdGpmMzRFY2lIa1BsVHBxME0xVmVuX3UyZ2l6bDhTWWExMzZ1eHluUkg2VEJmc1NPWlZ2UTVxQXZseWo3dkdYa2tIUHQ3MUk3aXQ4Wi1wQVZCdHAzYUJ1SVlhb3RocWp5ai1Hd2s5WjlQRU5wdW50TWFFUEp6dTJLV05vLS1UZGFSd9IBlwFBVV95cUxPQWZzUS1OZDhudzZ6dXhQM0ZTUldNRWhQcGNRWnJHUzNRNFhiUmNmUGRQUE9uNlFIVUV6VjFObGNTVjFZSE5lLS1tMDY1TWhPYm9taFoxX196dlhvcTBHLUdrUXhHdlNRQkZDUVp5ZnZXX3YwMFIwbWJ6Mkk0UlJILXA4aHFTWDV2MnU4d3VXbml3QnRvVnBr?oc=5",
       "date": "2026-06-15 09:00",
       "summary": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.  MIT Technology Review..."
     },
     {
-      "title": "Five things you need to know about AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk9URmdaTk9qRi1Nd3RVREZQT0FoVU9vQnA1QlVPOWVEM1pMNlJJMk0wVF80RWxBWHRKSHE0TXNDLXV6aGJFbmlJUDFOWHliZmdiWWVxR3hqYWxtTDRJRzhNSXhwaHpPSjRjaS1ESFNaeEt1X2xwS0tmRGRROVRvQmhFSjdhRXFYeUhpTHdCMkZtb3ll0gGaAUFVX3lxTE1JUjhha055OVlhVW53V1A4dE1BaVdnTFg4dk1MZGswVnREYnlrSVpBYzFSZWhDVFREMU1NMFFiWUlnRjRqSU10MGkwOTNjWnBfNDNNdmhUMTY1SUliV3NzVnNHT1ZIQXROOU1qUjBPT2lmZ0JvQlIxcDR4OXp0RFJsZ3Q1TmVFNEZtZDVNX3BORnF1OE1jc1daMlE?oc=5",
-      "date": "2026-06-09 09:16",
-      "summary": "Five things you need to know about AI  MIT Technology Review..."
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORHBFZElKbGtTUF8tWlA4Vk80R3AzOG9ISWxOQUgwQVRxQi13S0t2UFdtb1hqM05nd1ZDV0lHRnBQamo4NzJqRG1ucmQwcS1BZ1BFa1JKLVgxN3dnTXZkbW5Bb3RqMTdtNTNPTXVya1ZTdmJRTUVvRXVwM0xmNzVNWDR3Y3g0UHh1MUdYMXVmTl9tcFJIMmtqWEpZU0E3UGNMMGw5QlY2TW5scnVEanphYWlfVVNKSmpYY1VtLTB6U0xXc3ZfakcxVTQ5R2sydTFlMUVCWElkNNIB3AFBVV95cUxPTGVXZHA1LUl0bHVoWGJEcTB6RFQ1LUIyYmYyaDZTR2JnTFJOZG9iVDRHczljMHVybzdXWjFYaE1faW14UE5FRUFwbGZ2TEhEZFVSQlpOU2FFdnFBN1VnWS12VkNiVGtabkw0V2Fua3psWjhRWnZGdG5Qd19PQk5ybG5KRzd2TUo1dnpWU1ZZeERJYzNxQXMwak5oSnc4LUxnX01oS1BXMkNsZ0R0bmxTcWZHSVhRS3NoU3dzeFhjZlplNEd1TzFtVzN3Qk1VYjFOaXRSWGliZURkYlFw?oc=5",
+      "date": "2026-06-11 11:00",
+      "summary": "Google DeepMind is worried about what happens when millions of agents start to interact  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "New hybrid materials separate rare earths without harsh chemicals",
-      "link": "https://phys.org/news/2026-06-hybrid-materials-rare-earths-harsh.html",
-      "date": "2026-06-15 18:20",
-      "summary": "Rare earth elements (REEs) are essential for everyday technologies such as smartphones, LED lights, wind turbines and many medical..."
+      "title": "A star's death throes involve a lot of kicking",
+      "link": "https://phys.org/news/2026-06-star-death-throes-involve-lot.html",
+      "date": "2026-06-15 21:40",
+      "summary": "When stars like our sun age, they puff up into red giants. Their bubbling outer mass gradually escapes into space, and their remai..."
     },
     {
-      "title": "PACE satellite tracks fall colors with near-daily global coverage",
-      "link": "https://phys.org/news/2026-06-pace-satellite-tracks-fall-daily.html",
-      "date": "2026-06-15 18:20",
-      "summary": "Researchers have developed a new approach using data from NASA's Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite to obs..."
+      "title": "Global uncertainty is the new normal. Here's why institutional legitimacy and resilience are crucial",
+      "link": "https://phys.org/news/2026-06-global-uncertainty-legitimacy-resilience-crucial.html",
+      "date": "2026-06-15 21:40",
+      "summary": "The world has never had more data, more models or more economists. It has rarely felt more out of control. Uncertainty, not risk, ..."
     },
     {
-      "title": "New study assesses Titan's resources and their potential uses",
-      "link": "https://phys.org/news/2026-06-titan-resources-potential.html",
-      "date": "2026-06-15 18:00",
-      "summary": "Saturn's largest moon, Titan, is a unique environment in our solar system. It is the only moon (or body beyond Earth) to have a de..."
+      "title": "Abstract algebra unlocks distinguishable states for quantum systems",
+      "link": "https://phys.org/news/2026-06-abstract-algebra-distinguishable-states-quantum.html",
+      "date": "2026-06-15 21:30",
+      "summary": "Researchers around the world are racing to develop new quantum-based systems for sensing, communication, computing and control tha..."
     },
     {
-      "title": "Ultrafast laser pulses reveal a material's hidden state of matter",
-      "link": "https://phys.org/news/2026-06-ultrafast-laser-pulses-reveal-material.html",
-      "date": "2026-06-15 18:00",
-      "summary": "What would it take to instantly transform a material from an electrical insulator into a conductive state without ever touching it..."
+      "title": "Chandra reveals flickering supernova remnants in M83 over 14 years",
+      "link": "https://phys.org/news/2026-06-chandra-reveals-flickering-supernova-remnants.html",
+      "date": "2026-06-15 21:20",
+      "summary": "The aftermath of a supernova, a stellar explosion, is usually a slowly fading cloud of hot gas. So when astronomers pointed NASA's..."
     },
     {
-      "title": "Newfound rice gene shifts flowering by 1.5 hours to dodge heat damage",
-      "link": "https://phys.org/news/2026-06-newfound-rice-gene-shifts-hours.html",
-      "date": "2026-06-15 17:40",
-      "summary": "With El Niño-driven heat and prolonged dry spells threatening rice production, scientists from Japan's National Agriculture and Fo..."
+      "title": "Digital platforms are making it more difficult to focus, read and even engage in democracy",
+      "link": "https://phys.org/news/2026-06-digital-platforms-difficult-focus-engage.html",
+      "date": "2026-06-15 21:20",
+      "summary": "Oxford's 2024 Word of the Year, \"brain rot,\" refers to the loss of intelligence or critical thinking skills due to the overconsump..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "New Scientist": [
     {
+      "title": "Sperm have been made magnetic to allow IVF inside the body",
+      "link": "https://www.newscientist.com/article/2530334-sperm-have-been-made-magnetic-to-allow-ivf-inside-the-body/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-15 16:00",
+      "summary": "IVF could be done inside the body using sperm that have been magnetised, allowing them to be directed to an egg while getting arou..."
+    },
+    {
+      "title": "The social media ban is an experiment – here’s how it will be studied",
+      "link": "https://www.newscientist.com/article/2530341-the-social-media-ban-is-an-experiment-heres-how-it-will-be-studied/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-15 15:59",
+      "summary": "Scientists have long grappled with how to measure the effect of social media on children. Now, the UK government has announced a t..."
+    },
+    {
       "title": "Inside the start-up aiming for a giant leap in robot intelligence",
       "link": "https://www.newscientist.com/article/2530349-inside-the-start-up-aiming-for-a-giant-leap-in-robot-intelligence/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-15 14:50",
@@ -337,18 +349,6 @@
       "link": "https://www.newscientist.com/article/2530237-the-relationship-recession-is-even-bigger-for-gen-z-than-we-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-12 17:00",
       "summary": "We know that members of Gen Z are less likely to be in a steady relationship than millennials were at their age, but previous rese..."
-    },
-    {
-      "title": "El Niño has started and the weather could get weird",
-      "link": "https://www.newscientist.com/article/2530202-el-nino-has-started-and-the-weather-could-get-weird/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-11 18:38",
-      "summary": "Global weather agencies have declared that El Niño has begun, and models show it is more likely than not to be a \"super\" El Niño. ..."
-    },
-    {
-      "title": "Quantum computer quickly mines cryptocurrency while using less energy",
-      "link": "https://www.newscientist.com/article/2529973-quantum-computer-quickly-mines-cryptocurrency-while-using-less-energy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-12 12:00",
-      "summary": "A superconducting quantum computer is part of a network that is mining an experimental cryptocurrency called Quip, and it is able ..."
     }
   ]
 }
