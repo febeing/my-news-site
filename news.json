@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "A tiny ingestible sensor can measure temperature from inside the body",
+      "link": "https://news.mit.edu/2026/tiny-ingestible-sensor-can-measure-temperature-inside-body-0615",
+      "date": "2026-06-15 09:00",
+      "summary": "After being swallowed, the devices could offer continuous monitoring of patients who are sick or at risk of hypothermia...."
+    },
+    {
       "title": "MIT engineers find a way to deliver drugs directly to the esophagus",
       "link": "https://news.mit.edu/2026/mit-engineers-find-way-to-deliver-drugs-directly-to-esophagus-0612",
       "date": "2026-06-12 09:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/would-you-return-favor-scientists-say-it-depends-0611",
       "date": "2026-06-11 04:00",
       "summary": "A new study shows people expect reciprocal generosity only in interactions with friends or others of equal social status...."
-    },
-    {
-      "title": "New imaging system sees through murky waters",
-      "link": "https://news.mit.edu/2026/new-imaging-system-sees-through-murky-waters-0611",
-      "date": "2026-06-11 04:00",
-      "summary": "The “Sonar-MASt3R” combines sonar and visual data to create real-time 3D maps, even in cloudy water...."
     }
   ],
   "Harvard Gazette": [
@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford Graduates Walk Out on Google CEO as Commencement Speech Sidesteps AI - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSU9uZ0UwN2VXWXpydDN5cHl2ZW9UUjhHbVRrTE5xTFJQSVBYeXRSNmZha3c4SUo5RkZUTFJKU1I4c3owZDdMRVNkTmtsbVlKWGZkeUNYM0VKMW1oXzhXSkZLbXpSZjFHR0NkMDBhdnF3MmZpQnlSR3pMM3VGbmhObWpFMjlLSDcybkU0bGNtYkRhLXlQcFprUVRB?oc=5",
-      "date": "2026-06-14 21:31",
-      "summary": "Stanford Graduates Walk Out on Google CEO as Commencement Speech Sidesteps AI  YahooGoogle CEO Sundar Pichai dodges AI (and boos) ..."
+      "title": "Students walk out of Google CEO's speech at Stanford commencement over Israel cloud contract - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qa1UtSWdqSHBmZDV4NjYxdU5nRFg2dmZORnh2VVQ5M2FhcVBjVW80STB2ZlJsWGpkTzBsLTloNHJ0TW5sOVlFLUhPc0VhRldUa040dlBBZmN4VDBGdzdV?oc=5",
+      "date": "2026-06-15 08:09",
+      "summary": "Students walk out of Google CEO's speech at Stanford commencement over Israel cloud contract  The Jerusalem PostGoogle CEO Sundar ..."
     },
     {
       "title": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough - ScienceDaily",
@@ -77,25 +77,31 @@
       "summary": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough  ScienceDaily..."
     },
     {
-      "title": "Protest at Stanford University graduation as Google CEO Sundar Pichai takes the stage - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNzZOYnhfUVc1VzBocktFb3Z0cXdYeUpZbXV1TjNUUzVVMm5TRU1rcEluUkNQNFZ4dmp1Y21HNHIxVzBVamxzTjExc2Y4V1BFamppcERtUXdxRWxBSXJPRXNsQWQyX2JLS2I4TEdoMFh5YWxad1JfOTBUb1VMazNPcnJNQ2VuMGlHSC1DTWtidFJUbUQ3QUsxcENESjgxQmpHN0Z3WmtTSkZzbVY1aHBpcU1MRy1IT3lhNWhzMmxfZ25QZ0x6N3l4NHllNHhTTjFIRjFB?oc=5",
-      "date": "2026-06-14 21:43",
-      "summary": "Protest at Stanford University graduation as Google CEO Sundar Pichai takes the stage  New York Post..."
+      "title": "Grads called to pursue what excites them at Commencement 2026 - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oLU5jUTZEOXV1WVh3R3hXdlo1eEt2TUlKdUpFYTJTTFo5UFBHa215U04zaFhzbkRHaTRrYVkyWEpfdjI1R1RtRTFJSFNibVVtTWNWeEhRc3Q1eDZMYm1KZHlzYzhYWGxUVUxfWDB3ZHVmLVFJRVY4dkhkYUcwRGs?oc=5",
+      "date": "2026-06-15 02:22",
+      "summary": "Grads called to pursue what excites them at Commencement 2026  Stanford Report..."
     },
     {
-      "title": "Stanford graduates urged to be optimistic, seek justice in clashing ceremonies - Palo Alto Online",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcEd2aUFJR0hzTFFILVlMZXM2Vnl3TDZHd3hyN1A3TTY0X185UGRLX0lwZUZTcm1kVFZmYzFvQkkxdGJGWkoyaC1SSEJKQmZhXzFEMWtLSm9GWHotZERpYjlWbW0zS2k5WEZ0T2JPLXpIVlV2M0x4QnNtNzVPXzVnSnE3ZUZpYlRIbmJJNi1yV1pKVlpuNlZGNkxsTm84Sk8wNEZ2QjFGQmFfbEVLemVLOVBaMWVOMUQxVUtsUVZ4QlFVbjU3X0ZXWldFVmVhbDlBU0R1LXppNA?oc=5",
-      "date": "2026-06-14 23:24",
-      "summary": "Stanford graduates urged to be optimistic, seek justice in clashing ceremonies  Palo Alto Online..."
+      "title": "‘Set your heart ablaze,’ Sundar Pichai tells the Class of 2026 - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaDNnYmpDWXg4RTcweVJJNjZlWUpYUW9JcGxyZjZHQVdqVHd1NzVmSkNPLXQwOW04MHduUDNHTE9nd0MxeklUaU8yN2JSa3h2dHNmbzhMU3JuNDFmSEhiekdqeVRLOURYeHE5VE9NRXI5LUM5bjlLSFVYbkNHN2ZVeVNwR19pOGY5blNRbG9mbGg?oc=5",
+      "date": "2026-06-14 23:49",
+      "summary": "‘Set your heart ablaze,’ Sundar Pichai tells the Class of 2026  Stanford Report..."
     },
     {
-      "title": "2026 Commencement Photo Gallery - Stanford Cardinal",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWNya0oxTVlWY1EwRkhtNFF3RWpTaFhnRkI4UEFacHREQjVyVnQwRi0wRWtOM0xoYTlVR3dVNTV4UmFrdF81N3ZSWTRCa3JqVXJ3OXFIZHVvdkFCT2tCUllFQTI4RHk5YnlQRkhVaXIyWV9ncllMVkxGOXFhX0J1TDd1aU9MQQ?oc=5",
-      "date": "2026-06-14 17:45",
-      "summary": "2026 Commencement Photo Gallery  Stanford Cardinal..."
+      "title": "President Jonathan Levin addresses the Class of 2026 - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3JacG5HeGVMWnpTamRlbGFJVTREX0Q2aG5vM3llRFFkZmExdVRiVUtzZXM0aElYdUF1NjEzVWJlYk5iS2xncXJ0NHd4VHI3YXVqTGhSbDRPbndxR3JsM3pSNnpaUXhtNWZHUnJ0VC02X3lzSHppTjBFbVA0VkFaTHlZZVdxa1ExTFhIV0NhcVQ?oc=5",
+      "date": "2026-06-14 23:59",
+      "summary": "President Jonathan Levin addresses the Class of 2026  Stanford Report..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Bones of Iron Age skeleton were whittled into tools",
+      "link": "https://www.nature.com/articles/d41586-026-01833-w",
+      "date": "2026-06-15 00:00",
+      "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01833-wThe female individual’s brain was removed after her death, b..."
+    },
     {
       "title": "Huge study hints at risks of switching from tobacco cigarettes to vapes",
       "link": "https://www.nature.com/articles/d41586-026-01834-9",
@@ -119,15 +125,15 @@
       "link": "https://www.nature.com/articles/d41586-026-01876-z",
       "date": "2026-06-12 00:00",
       "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01876-zThe papal letter goes beyond a religious document and diagno..."
-    },
-    {
-      "title": "‘Student Geng’ ignites research-integrity scandal in China after calling out senior academics<b> </b>",
-      "link": "https://www.nature.com/articles/d41586-026-01902-0",
-      "date": "2026-06-12 00:00",
-      "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01902-0Video blogger’s viral accusations of data manipulation in Na..."
     }
   ],
   "Retraction Watch": [
+    {
+      "title": "Publisher investigating two more papers on glyphosate safety over ghostwriting claims",
+      "link": "https://retractionwatch.com/2026/06/15/glyphosate-roundup-safety-ghostwriting-claims-critical-reviews-toxicology/",
+      "date": "2026-06-15 10:00",
+      "summary": "Tayor & Francis is investigating two papers about the weed killer Roundup following claims the articles were ghostwritten by the c..."
+    },
     {
       "title": "Weekend reads: Uneven sanctions for misconduct; protein name confusion in hundreds of papers; the Journal of Research on Research",
       "link": "https://retractionwatch.com/2026/06/13/weekend-reads-sanctions-misconduct-protein-name-confusion-journal-of-research-on-research/",
@@ -151,12 +157,6 @@
       "link": "https://retractionwatch.com/2026/06/09/emdr-depression-treatment-retracted-science-partner-journal/",
       "date": "2026-06-09 12:15",
       "summary": "In the fall of 2024, Matt Williams was grading papers at Massey University in New Zealand when he noticed something off in a study..."
-    },
-    {
-      "title": "Court dismisses biochemist’s lawsuit against MD Anderson",
-      "link": "https://retractionwatch.com/2026/06/08/court-dismisses-biochemists-lawsuit-against-md-anderson/",
-      "date": "2026-06-08 12:32",
-      "summary": "A Texas court has dismissed a lawsuit by a biochemist accused of research misconduct who claimed her former institution violated h..."
     }
   ],
   "Reuters AI": [
@@ -167,31 +167,37 @@
       "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift  Reuters..."
     },
     {
-      "title": "Asia hedge funds notch triple-digit gains in AI-led rally - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelJaQmJtN2V5OEVOSWtXd0VlaElGdkR5TkRtSnJPd1laUHJoeGdPZ3N6WTg2X0RjZ3NRem43TFVwUml2VmRJczdWRy1kOXFGZGdKNXRtVU9xNGRSUWdjdkxqQUtOSkQyNzh1Q1VCcUs4TmxQMGNCbDVhX2pCUmV3Tkpkc1dlemEzbW04eDJUaEEtTXdMdFFERWhJUjl4SGc3THUwZQ?oc=5",
-      "date": "2026-06-15 03:14",
-      "summary": "Asia hedge funds notch triple-digit gains in AI-led rally  Reuters..."
+      "title": "Breakingviews - Anthropic becomes a cautionary sovereign-AI fable - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0R1TGZXYVhEUVNtRzZ2SVdweGtjY0d3T2haX2Z1bnppeDJaaTdZT1JkX2U5bGZxM2ZoY3hVV3FZNlZieS1fQkJ5YW9pRXpaQnpZcDhZMWFuXzNFR1dmRHFrSzU1bExwLUx5Z040ZWY1MXc5ZWNPWlp2dF9pMjlTT1dmaG9GeHFJRHBlOGxEeDE3RjI3SGUzZWJSQ0FVNWQxaTczVlZfN3EzODNH?oc=5",
+      "date": "2026-06-15 01:51",
+      "summary": "Breakingviews - Anthropic becomes a cautionary sovereign-AI fable  Reuters..."
     },
     {
-      "title": "Amazon voiced concerns about Anthropic AI models before US crackdown, source says​ - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYTBINmZMTlZvc1RPNEkyWjk0VkxJY29QRHRtSUpjYTlZNWMtYWJlZkVpMUwxejFzSjVxdU02MHJVS1BKYUtCNkRObWYxTkdsMWJmcF9Bb3VQTnBDZktBenJ2SjFnR2VQUGZhY3RWWXBvWGwyZFNOV250VG5QVm5sTE1fWU4tQXc3enltTUZUWXZuM1pEMTFvSmlNdlEyamFwTFBrdXRkeGFWUjU2eVp4b0ozT3p6bG5JUHNWNV9Hcm1nSjcxbHYyd1NPWHVGNFB0azJmNTFLRWM?oc=5",
-      "date": "2026-06-13 18:13",
-      "summary": "Amazon voiced concerns about Anthropic AI models before US crackdown, source says​  Reuters..."
+      "title": "Schneider Electric, Foxconn partner on AI data center infrastructure - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV0hlS2tYZWRJNXBjdklpV1R6OHVaMFFQcFBJenRILVhJSW1JU2YtWVo3dnc2T1liYS1meHdHM2MzZWpzb2oycVJ2anlxWnNwN3RNdUpia25CLWFFN0xtYmVtR1lEVmYzNk5welRFbXlNUUJ0R2pnc2V1QnhyUGY0LWphbW44elBKNVFkQ3Mtd2V3YkFZRmRITDhwdnlUR09ReXhNcXpDdkJDUV8xeS1TSEdjdWdveFlyN044?oc=5",
+      "date": "2026-06-15 05:07",
+      "summary": "Schneider Electric, Foxconn partner on AI data center infrastructure  Reuters..."
     },
     {
-      "title": "Exclusive: U.S. bank regulators ramp up scrutiny of AI use at financial companies - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR3pVUi0zQTJkVzRYRlFXY2tjdTExalR4UGxNZ2ZBOVRrYkg4eGdDajZmTzdLdUdNRHpKSDhmOUUtcTVrMjBSZGN4OUdSLUpiT0lnLWY3QWNsWmNkdWJ6bWtEcTNOX2dRNXdWM3BfblEyQlgxTUJsUURPaHRBeWFrTk02eDVGVzJuZTNFVUJDR0pycVgzbGpiLUpaMk1DR200Z2N3WGVYZHVxU0tKX2ttUlRVZERJdw?oc=5",
-      "date": "2026-06-12 16:53",
-      "summary": "Exclusive: U.S. bank regulators ramp up scrutiny of AI use at financial companies  Reuters..."
+      "title": "Ukraine's defence AI chief predicts 'new paradigm' of warfare - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ1Z6TGo4elFTOHc5SmwyMXZvZEZuZlprY1M2ZWNjT21IMW8wMXlKS01ZYTRpYm43blpHcnhiakZ5TkVGZ185YkM3WVUxZ0RKUTBLYzZNZUdRNTU5clloUi13WGhYZS1WTmdkRmdpMEJDaGZRU0tndjhYdmlCTXVUOXF2aGg3bWJsTXpVVDFCemJ1bWR4VHc?oc=5",
+      "date": "2026-06-12 13:24",
+      "summary": "Ukraine's defence AI chief predicts 'new paradigm' of warfare  Yahoo..."
     },
     {
-      "title": "Anthropic disables top-tier AI models after US order limiting foreign access - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzRyRDNxVmtPaENsR1pja0NuWUNDSklfUXRRemdJREJlWGpHM01PbTVwSWFZdThLT0p4S3J3aEJ0UDNoM2FXYTJPV3pkSGY3TXJsNVVkejFjbWlhUDNISkoxRk1wWGpwb09Jc0QxWFl5czVtYkd4Z3R2dmFmT2dGQ0Z3UjZ0UXJXdThXVDdtamt0aWwzc3FPdXhMX21iTVpkeHVPWjJSSE80MDZKWHdGUmdCN2hXVWlvNkgwUA?oc=5",
-      "date": "2026-06-13 00:01",
-      "summary": "Anthropic disables top-tier AI models after US order limiting foreign access  Reuters..."
+      "title": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMjV5UElrM0pwdjE0dkFUM09CRHd6elhGdTJuUXVkb29QWVNrU3lpQnBNSXpJT2lfUnppQVlzN0NZMHBienBaWWlub3lxTjItbm1FbFNSdnZtMUE4MndyMWVEV0FfVE9iYjBsbGJnNGVkT3kyNEN2NE04ZXI3WUN3a2dxSWV5bUh0aVBrLWFZVEpXOERDWU9Qc3NPbGlRQkZLZEtrR3ktb04tY2ZHRmM0NzlKVm5ITF8zNVM3TlpXSUFYc2dSQWRieA?oc=5",
+      "date": "2026-06-14 13:47",
+      "summary": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "Inside interoception: The hidden sense of how you feel inside - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM21RZkNLR1ZJY3IzOUd4RFJvRU9UaTZQcjZ3NVU2anJTVTFNRnV3MG5saGlGQXoybmZoSmdGaW9mTUpPTlJ3dEc2MkFzOUw0Q1liRnVFdjZaUkdXWmQzaUl1ODRmbkxhRDh5T2J4d2NWc1hqUnluZHFpdmV1dHZlcGV4cXFlYWc4QnJCadIBkgFBVV95cUxOTEdoei1pNzMzdDdWc1BwaDVxM1Z4Uk56VFI5bkZveHVlZ0Y5YzFOajhUNlZBczNaMURGTktNdmJHNGNVcE9TQ0FIYy1JeFR3aGhBOHZ1b0J5TmlmUElfRFdQdGZkMmZxWTllcndtQ3FRNlg3TWFIQWZhbEl0Y1Aycno1UWY3VDg5UEZuelVUMW1lUQ?oc=5",
+      "date": "2026-06-12 09:00",
+      "summary": "Inside interoception: The hidden sense of how you feel inside  MIT Technology Review..."
+    },
     {
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORHBFZElKbGtTUF8tWlA4Vk80R3AzOG9ISWxOQUgwQVRxQi13S0t2UFdtb1hqM05nd1ZDV0lHRnBQamo4NzJqRG1ucmQwcS1BZ1BFa1JKLVgxN3dnTXZkbW5Bb3RqMTdtNTNPTXVya1ZTdmJRTUVvRXVwM0xmNzVNWDR3Y3g0UHh1MUdYMXVmTl9tcFJIMmtqWEpZU0E3UGNMMGw5QlY2TW5scnVEanphYWlfVVNKSmpYY1VtLTB6U0xXc3ZfakcxVTQ5R2sydTFlMUVCWElkNNIB3AFBVV95cUxPTGVXZHA1LUl0bHVoWGJEcTB6RFQ1LUIyYmYyaDZTR2JnTFJOZG9iVDRHczljMHVybzdXWjFYaE1faW14UE5FRUFwbGZ2TEhEZFVSQlpOU2FFdnFBN1VnWS12VkNiVGtabkw0V2Fua3psWjhRWnZGdG5Qd19PQk5ybG5KRzd2TUo1dnpWU1ZZeERJYzNxQXMwak5oSnc4LUxnX01oS1BXMkNsZ0R0bmxTcWZHSVhRS3NoU3dzeFhjZlplNEd1TzFtVzN3Qk1VYjFOaXRSWGliZURkYlFw?oc=5",
@@ -205,54 +211,48 @@
       "summary": "Five things you need to know about AI  MIT Technology Review..."
     },
     {
+      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNEk1bEM5TDlBdGpmMzRFY2lIa1BsVHBxME0xVmVuX3UyZ2l6bDhTWWExMzZ1eHluUkg2VEJmc1NPWlZ2UTVxQXZseWo3dkdYa2tIUHQ3MUk3aXQ4Wi1wQVZCdHAzYUJ1SVlhb3RocWp5ai1Hd2s5WjlQRU5wdW50TWFFUEp6dTJLV05vLS1UZGFSd9IBlwFBVV95cUxPQWZzUS1OZDhudzZ6dXhQM0ZTUldNRWhQcGNRWnJHUzNRNFhiUmNmUGRQUE9uNlFIVUV6VjFObGNTVjFZSE5lLS1tMDY1TWhPYm9taFoxX196dlhvcTBHLUdrUXhHdlNRQkZDUVp5ZnZXX3YwMFIwbWJ6Mkk0UlJILXA4aHFTWDV2MnU4d3VXbml3QnRvVnBr?oc=5",
+      "date": "2026-06-15 09:00",
+      "summary": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.  MIT Technology Review..."
+    },
+    {
       "title": "Learning to lead in a hybrid human-AI enterprise - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3VEZFlkUVIxY3lqR2pWZ3JmMGhNdnh2clQ5VDJ3eURUZ1hWVGctNkx3eWZnakMyaW1xQWFrUFVrMGhfSjZicjF0Y3I1Sk9mQzFVSnY5Mi1FLXhCbFBPV3FMN05KZ044ZEgwYnFmZlNoTHVEaXhpUnp5cDhfeDFIOS1OcnFXZXUxd2hMOTExNkNqNmdaUFlnVFUzTm9GS09tNy000gGoAUFVX3lxTE1iVkVxT09kaHV5TWtoVVNmTlRhZExmZ2NnSmZvNVhrSG9OMW03TGg3VzkzV21uck9UUU9iZDdXeXZlUmoydkgyQUlMbFVObDhtUVM5dkI5c1NCWVYwcFVZT1NHLWJxZ1hKLWE1QTRtQXdSeko1RGlNcjdXWW9MaVkzTnpodVd3OFJSSUxlQ0VSRlFWMTRTZklSSU9YdDgyT0p1UDJDemZUVA?oc=5",
       "date": "2026-06-09 10:20",
       "summary": "Learning to lead in a hybrid human-AI enterprise  MIT Technology Review..."
-    },
-    {
-      "title": "Inside interoception: The hidden sense of how you feel inside - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM21RZkNLR1ZJY3IzOUd4RFJvRU9UaTZQcjZ3NVU2anJTVTFNRnV3MG5saGlGQXoybmZoSmdGaW9mTUpPTlJ3dEc2MkFzOUw0Q1liRnVFdjZaUkdXWmQzaUl1ODRmbkxhRDh5T2J4d2NWc1hqUnluZHFpdmV1dHZlcGV4cXFlYWc4QnJCadIBkgFBVV95cUxOTEdoei1pNzMzdDdWc1BwaDVxM1Z4Uk56VFI5bkZveHVlZ0Y5YzFOajhUNlZBczNaMURGTktNdmJHNGNVcE9TQ0FIYy1JeFR3aGhBOHZ1b0J5TmlmUElfRFdQdGZkMmZxWTllcndtQ3FRNlg3TWFIQWZhbEl0Y1Aycno1UWY3VDg5UEZuelVUMW1lUQ?oc=5",
-      "date": "2026-06-12 09:00",
-      "summary": "Inside interoception: The hidden sense of how you feel inside  MIT Technology Review..."
-    },
-    {
-      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcU5yQzlyY0NrQXdjenFHUFJTaXluUkhEZFo1LXg3UUh1akZ3dVFyWDAxUmdQbGlUTnoyQVN0RmVHMzZua0lSS0F3Qk94MnJweTEwNWtCVUw4Y0o4SnZxdFoyZzZDOFNmREozT3J3V01xYlBkcHd2YkJTQThOREdzQnZHa09Bbmp5djdhX2FQdnZVZjFDNlZlVkZYOWVSYlBJS3ZyX2YtM09Kc3dGWXZmVG5iSkZUVXPSAbwBQVVfeXFMTTZPamYtRGdCVDAzYW9GNDdQREJ0MUxPYkhQQUpET1VWM2JVVHFtcUxhbjFKRmpMQlpIaldSWnNVYWx0OWR2Q3gtUmNhal9namdGSmtBVDk3M2JOMzlObzU0cDczN244NDQ2bl9CX1QtVW9FdkZScmtOdXNQbzFyYmVvdjlhUzdlZFdGNEFRVTN4b2Rkcm1ldXNfdDhLOHJxZjJBYUlQOEVMV1JJVU1Fd3hwbG4xWGRhZmJkZDQ?oc=5",
-      "date": "2026-06-11 12:10",
-      "summary": "The Download: soccer’s data renaissance and China’s big nuclear plans  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Devoted dads and citizen science: The evolution of parental care in harvestmen spiders is uncovered",
-      "link": "https://phys.org/news/2026-06-devoted-dads-citizen-science-evolution.html",
-      "date": "2026-06-15 03:10",
-      "summary": "Citizen science data from the popular platform iNaturalist has helped uncover the evolution of parental guarding behavior in harve..."
+      "title": "Australia must tackle unemployment to reduce suicide rates",
+      "link": "https://phys.org/news/2026-06-australia-tackle-unemployment-suicide.html",
+      "date": "2026-06-15 13:00",
+      "summary": "More than 3,000 Australians die by suicide each year, yet one of the strongest known drivers of suicide risk—unemployment—remains ..."
     },
     {
-      "title": "Interpretable AI in materials discovery: Uncovering how models make predictions",
-      "link": "https://phys.org/news/2026-06-ai-materials-discovery-uncovering.html",
-      "date": "2026-06-15 01:30",
-      "summary": "A method to interpret artificial intelligence (AI) models used in materials discovery by analyzing their learned features has been..."
+      "title": "Think you'd never eat bugs? Research says you might—and you may even like it",
+      "link": "https://phys.org/news/2026-06-youd-bugs.html",
+      "date": "2026-06-15 13:00",
+      "summary": "People who are hesitant to try insect-based foods may enjoy the experience more than they expect—and can become more open to expan..."
     },
     {
-      "title": "The extraordinary physiological challenges facing amputee John McFall in space",
-      "link": "https://phys.org/news/2026-06-extraordinary-physiological-amputee-john-mcfall.html",
-      "date": "2026-06-15 00:30",
-      "summary": "The UK Space Agency has announced an agreement with Vast—a US commercial space company—that could send British astronaut John McFa..."
+      "title": "First Plain Language Summary of Publication in veterinary science",
+      "link": "https://phys.org/news/2026-06-plain-language-summary-veterinary-science.html",
+      "date": "2026-06-15 12:00",
+      "summary": "Taylor & Francis has announced the publication of the first Plain Language Summary of Publication (PLSP) in veterinary research, a..."
     },
     {
-      "title": "Astrochemical model digs into the universe's missing sulfur",
-      "link": "https://phys.org/news/2026-06-astrochemical-universe-sulfur.html",
-      "date": "2026-06-14 23:30",
-      "summary": "Sulfur is one of the most abundant elements in the universe. If you peer into a diffuse interstellar cloud, you find loads of it—a..."
+      "title": "Researcher explores how sacrifice shapes judgments",
+      "link": "https://phys.org/news/2026-06-explores-sacrifice-judgments.html",
+      "date": "2026-06-15 11:00",
+      "summary": "As global audiences follow ongoing conflicts, stories of personal sacrifice often stand out. New research from the Kelley School o..."
     },
     {
-      "title": "How the invention of glassblowing changed everyday life in ancient Rome",
-      "link": "https://phys.org/news/2026-06-glassblowing-everyday-life-ancient-rome.html",
-      "date": "2026-06-14 22:30",
-      "summary": "We see glass objects every day and often don't think much about them. Mass-produced glass has become so cheap we barely think abou..."
+      "title": "Quasi-1D material unlocks electric control of charge waves beyond standard limits",
+      "link": "https://phys.org/news/2026-06-quasi-1d-material-electric-standard.html",
+      "date": "2026-06-15 10:40",
+      "summary": "The ability to control the movement of negatively charged particles (i.e., electrons) is central to the functioning of all modern ..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Observatory could issue red rainstorm warning, monitoring thundery showers",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3357128/observatory-could-issue-red-rainstorm-warning-monitoring-thundery-showers?utm_source=rss_feed",
-      "date": "2026-06-15 06:08",
-      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+      "title": "Mirror dancer left with ‘catastrophic disabilities’ awarded HK$6.29m in damages",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357192/hong-kong-dancer-paralysed-falling-giant-screen-awarded-hk629m-damages?utm_source=rss_feed",
+      "date": "2026-06-15 12:22",
+      "summary": "A Hong Kong court has awarded HK$6.29 million (US$802,698) in damages to a dancer left paralysed after being struck by a falling g..."
     },
     {
-      "title": "Exclusive: The John Lee interview",
-      "link": "https://www.scmp.com/news/hong-kong/politics/series/3357122/exclusive-john-lee-interview?utm_source=rss_feed",
-      "date": "2026-06-15 05:54",
-      "summary": "点击查看原文..."
+      "title": "HK$2,000 bind-over for helper who slapped employer’s 8-year-old child during meal",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357180/hk2000-bind-over-helper-who-slapped-employers-8-year-old-child-during-meal?utm_source=rss_feed",
+      "date": "2026-06-15 10:27",
+      "summary": "A domestic helper who admitted to slapping her employer’s eight-year-old daughter while serving dinner was given a three-year bind..."
     },
     {
-      "title": "Hong Kong aims to publish first 5-year plan in third quarter",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357121/government-aims-publish-hong-kongs-first-5-year-plan-third-quarter-minister?utm_source=rss_feed",
-      "date": "2026-06-15 05:33",
-      "summary": "Hong Kong plans to publish its first “strategic, forward-looking and operable” five-year blueprint in the third quarter of this ye..."
+      "title": "Hong Kong eyes secure storage of ride-hailing data for national security",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357178/hong-kong-eyes-secure-storage-ride-hailing-data-national-security?utm_source=rss_feed",
+      "date": "2026-06-15 10:11",
+      "summary": "Hong Kong transport authorities will “actively explore” the secure storage of ride-hailing data ahead of new regulations for the i..."
     },
     {
-      "title": "Watchdog gets to grips with Hong Kong claw machines after 760% rise in complaints",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3357112/watchdog-gets-grips-hong-kong-claw-machines-after-760-rise-complaints?utm_source=rss_feed",
-      "date": "2026-06-15 04:25",
-      "summary": "Complaints against Hong Kong claw machine operators have skyrocketed by more than 760 per cent over the past three years, driven b..."
+      "title": "Ex-Hong Kong police deputy commissioner Albert Yuen set for hygiene chief role",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3357175/ex-hong-kong-police-deputy-commissioner-albert-yuen-set-hygiene-chief-role?utm_source=rss_feed",
+      "date": "2026-06-15 09:54",
+      "summary": "The Hong Kong government has appointed a former deputy police commissioner to lead the Food and Environmental Hygiene Department.\n..."
     },
     {
-      "title": "Beijing’s point man for Hong Kong to visit city on Tuesday, check on Northern Metropolis",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3357097/beijings-point-man-hong-kong-visit-city-tuesday-check-northern-metropolis?utm_source=rss_feed",
-      "date": "2026-06-15 02:58",
-      "summary": "Beijing’s top official overseeing Hong Kong affairs will visit the city on Tuesday and Wednesday, with a check on the progress of ..."
+      "title": "British tourist wanted after jumping bail over Hong Kong airport vandalism",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357161/british-tourist-wanted-after-jumping-bail-over-hong-kong-airport-vandalism?utm_source=rss_feed",
+      "date": "2026-06-15 08:54",
+      "summary": "A Hong Kong court has issued an arrest warrant for a British tourist who allegedly jumped bail after being charged with vandalisin..."
     }
   ],
   "New Scientist": [
