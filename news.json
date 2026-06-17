@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "In game theory, generalists sometimes win out over specialists",
+      "link": "https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617",
+      "date": "2026-06-17 19:20",
+      "summary": "Researchers show that for certain kinds of games, an overlooked class of algorithms performs much better than expected...."
+    },
+    {
+      "title": "Flexible cryogenic cables solve a challenge in quantum system development",
+      "link": "https://news.mit.edu/2026/flexible-cryogenic-cables-solve-challenge-in-quantum-system-development-0617",
+      "date": "2026-06-17 18:35",
+      "summary": "A prototype wiring system for dilution refrigerators could advance the realization of practical quantum computers...."
+    },
+    {
       "title": "Could AI tell you where you left your keys?",
       "link": "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
       "date": "2026-06-17 04:00",
@@ -17,18 +29,6 @@
       "link": "https://news.mit.edu/2026/fluorescent-nanosensor-enables-rapid-detection-key-gut-health-biomarker-0615",
       "date": "2026-06-15 19:35",
       "summary": "Researchers developed an optical nanosensor to rapidly detect a key gut biomarker, enabling faster, accessible screening...."
-    },
-    {
-      "title": "A tiny ingestible sensor can measure temperature from inside the body",
-      "link": "https://news.mit.edu/2026/tiny-ingestible-sensor-can-measure-temperature-inside-body-0615",
-      "date": "2026-06-15 09:00",
-      "summary": "After being swallowed, the devices could offer continuous monitoring of patients who are sick or at risk of hypothermia...."
-    },
-    {
-      "title": "MIT engineers find a way to deliver drugs directly to the esophagus",
-      "link": "https://news.mit.edu/2026/mit-engineers-find-way-to-deliver-drugs-directly-to-esophagus-0612",
-      "date": "2026-06-12 09:00",
-      "summary": "Their new gel-like drug formulation can coat the esophageal lining and release drugs that could help treat inflammatory conditions..."
     }
   ],
   "Harvard Gazette": [
@@ -68,7 +68,13 @@
       "title": "Stanford student activists found a reason other than AI to protest Google CEO’s commencement speech - Fortune",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYndoS1ptYThXOHpoTDF6M3NmZWpETV9zZDVWYzZ4ZXIwaHRiWGVZLWJTcGd3cG45Q2ZUQ01VWGJJcjIweURGYTlZdnlxZDNKQ1hjTl9nakgzbW92cVpkWVRQR1N1NE9IeXlJNlhMMm9yY3JrZEs3TWRuLTZyRHB1ejJrd2lIa2ZYLUtXRGNSelMxakdqUk1kV3ZQNnQ?oc=5",
       "date": "2026-06-15 16:32",
-      "summary": "Stanford student activists found a reason other than AI to protest Google CEO’s commencement speech  FortuneGoogle CEO brought opt..."
+      "summary": "Stanford student activists found a reason other than AI to protest Google CEO’s commencement speech  FortuneGoogle CEO Sundar Pich..."
+    },
+    {
+      "title": "Dedicated Stanford champion and leader Peter Bing dies at 91 - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IUkxWeXpwWTNqem53YXNVdGhxWW5uYjU1MjBJZ1Rkd05MeEJXMHJHRlktTWZNNDdTTzB1c3gyQjRTZG53SThUczNwSkxGSFlPZnVRbDFTeW1PRVZ6X05COVNod0diN2EzQ29haTRR?oc=5",
+      "date": "2026-06-15 20:54",
+      "summary": "Dedicated Stanford champion and leader Peter Bing dies at 91  Stanford Report..."
     },
     {
       "title": "These 2 Bay Area universities ranked top in the world - KTVU",
@@ -77,54 +83,48 @@
       "summary": "These 2 Bay Area universities ranked top in the world  KTVU..."
     },
     {
-      "title": "Grads called to pursue what excites them at Commencement 2026 - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oLU5jUTZEOXV1WVh3R3hXdlo1eEt2TUlKdUpFYTJTTFo5UFBHa215U04zaFhzbkRHaTRrYVkyWEpfdjI1R1RtRTFJSFNibVVtTWNWeEhRc3Q1eDZMYm1KZHlzYzhYWGxUVUxfWDB3ZHVmLVFJRVY4dkhkYUcwRGs?oc=5",
-      "date": "2026-06-15 02:22",
-      "summary": "Grads called to pursue what excites them at Commencement 2026  Stanford Report..."
+      "title": "Read Sundar Pichai’s 2026 Commencement Address at Stanford University - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3FRR0h5V3UwUjZoLWRnWTZxa09mMktpY1RQZy1iZFdZUjBtVFVoRFdzdEoxZE9aSG9nMEk1dm9nd2RGbV85anlKY0t4bmJhTlF0U2pXNzZiby1wNmN4VC1hMkl6ak5NUTZoVS1yMVVJeFltWFZXNUhiMDZoeTNRTE03MjhIUDBwRXRfRlAyMXlXYURSWVB3cQ?oc=5",
+      "date": "2026-06-14 17:53",
+      "summary": "Read Sundar Pichai’s 2026 Commencement Address at Stanford University  blog.google..."
     },
     {
       "title": "Kickoff Time Announced For Road Game At Stanford - Elon University Athletics",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOTVHVmhxNWpZWDdFUGlYUzdEZWFwck9ZT2Q4Z0lsdUVxaU12Ym4zdVFWZERNRHZyV1dFOGlLTFhfOXhKbVVEYWJLOU1pc0lRYXhMcFhoczg2THVBUXRqbEJsaWM4YzIySmV3MmFTUjlDQVgxaTRBWXlmZWpRSzI4S1BRWkRnbXpUUnJHYTZKU3llSmtCWkVXVm1CeEx2YVVSSGt3?oc=5",
       "date": "2026-06-17 16:02",
       "summary": "Kickoff Time Announced For Road Game At Stanford  Elon University Athletics..."
-    },
-    {
-      "title": "2026 Reunion Homecoming Kickoff Time Set - Stanford Cardinal",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWE9jZndKb2VvNXdEV0FEaEJrTm10WVJnS2k4VWl0Tnh0Q1E0dlo4emhwT0QzX01KWWNJQ2JveS1aUXJmbXh6VGMzc05mZDhzVDV3SkVjUDEzM2hFZ0NCU2hIZ3d1VUhXYUpqRjY2cEFhYTRNTzU0S1g1WU9PWndacE9IVC1Jdw?oc=5",
-      "date": "2026-06-17 16:08",
-      "summary": "2026 Reunion Homecoming Kickoff Time Set  Stanford Cardinal..."
     }
   ],
   "Nature Careers": [
     {
-      "title": "Oceans in Asia smash heat records — what it means for extreme weather",
-      "link": "https://www.nature.com/articles/d41586-026-01938-2",
+      "title": "Towards Conversational AI for Disease Management",
+      "link": "https://www.nature.com/articles/s41586-026-10764-5",
       "date": "2026-06-17 00:00",
-      "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01938-2Report shows region is particularly vulnerable to the effect..."
+      "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10764-5Towards Conversational AI for Disease Management..."
     },
     {
-      "title": "Wah-ult in the vault",
-      "link": "https://www.nature.com/articles/d41586-026-01719-x",
+      "title": "DNA from hunter-gatherer teeth reveals secrets of ancient plague",
+      "link": "https://www.nature.com/articles/d41586-026-01941-7",
       "date": "2026-06-17 00:00",
-      "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01719-xRelics of wonder...."
+      "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01941-7Analysis shows evidence of deadly outbreaks 5,500 years ago ..."
     },
     {
-      "title": "The EU needs to back its ambition to end animal testing with cash",
-      "link": "https://www.nature.com/articles/d41586-026-01882-1",
+      "title": "Emergent decadal predictability in Antarctic contribution to sea-level rise",
+      "link": "https://www.nature.com/articles/s41586-026-10614-4",
       "date": "2026-06-17 00:00",
-      "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01882-1The European Union has declared that it wants to stop using ..."
+      "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10614-4Although Antarctic ice loss projections diverge widely by 21..."
     },
     {
-      "title": "Should nicotine be regulated like a narcotic? A Pacific nation makes the case",
-      "link": "https://www.nature.com/articles/d41586-026-01903-z",
+      "title": "A distant brown dwarf coplanar to a warm Jupiter and a hot super-Earth",
+      "link": "https://www.nature.com/articles/s41586-026-10586-5",
       "date": "2026-06-17 00:00",
-      "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01903-zExisting global efforts to reduce harms caused by smoking ha..."
+      "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10586-5Analysis of long-term radial velocity data and transit time ..."
     },
     {
-      "title": "These ‘master’ proteins protect us from deadly mutations — and could inspire new drugs",
-      "link": "https://www.nature.com/articles/d41586-026-01883-0",
+      "title": "Probing picometre-scale interlayer deformations via hyperbolic polaritons",
+      "link": "https://www.nature.com/articles/s41586-026-10638-w",
       "date": "2026-06-17 00:00",
-      "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01883-0Biology has clever ways to mask the effects of potentially h..."
+      "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10638-wA new polaritonic optical method that uses the mid-infrared ..."
     }
   ],
   "Retraction Watch": [
@@ -161,16 +161,22 @@
   ],
   "Reuters AI": [
     {
+      "title": "AI will lead to labour shortages, Bezos says in optimistic talk - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWlkwRUFpc0wyN2lIMllKdm9rWkw3cDE2WHpCZVFtZkN6bnBRNmdyTTQ3SVpKR3VPVEozSXlQc3RWOE9xejNYRUU5QlMwVGtQUVlVZmxPMXBOT3hFQ3V3ekFJYzZiN2hLNWxGVmxTU1BqQlRaVmJtRENXS01hTHl5WGNFdW81MnFtV09YYjFxeDJqUXlIRkhELWRYMWZlcFZPUnV3bDhKLTBrRENaa09COHg1QQ?oc=5",
+      "date": "2026-06-17 16:07",
+      "summary": "AI will lead to labour shortages, Bezos says in optimistic talk  Reuters..."
+    },
+    {
       "title": "G7 leaders discuss 'trusted partners' access to cutting-edge US AI models, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcnhHMFpZb3YtNHJoX0RuM2N2SXRaRDRFUHF4ck1sVjlVSGt3VUxud0RkSVh0alZmSTl2MFVvXzhXTzJib3hwOThDa3NxVWxnVy1mRlRNaDJoZVRqa2lybFdQMG8xVXRnSFRfUHVHckhDVncxWGdRZ1o2X3A5WnRjdW96SUJDUW1uZVl2TmdKRm9reXNOM1ZlanpXcTZGdXhXNXVmc2g3LUlIMzhlQWJ0NlNHcjZNY0xRUW0tUUswWUdFUFNnUmtUcEI1NlNudw?oc=5",
       "date": "2026-06-16 21:51",
       "summary": "G7 leaders discuss 'trusted partners' access to cutting-edge US AI models, sources say  Reuters..."
     },
     {
-      "title": "Alibaba unveils AI models for robots, amid shift from chatbots to agents - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGZFWElhR1l6MFVCTU1GaTJyQ3lNV3ZnMW0xSmVUQktidV9hWkxoNzNJZXl6NURWZC01R2lLSVBsTExvN3pPbHRpTnc2T2RUclJhOTRzbzdaTUVYM1JvR2JHR0JDNGtiMkl4eGpqdUNyZ2xJRkFEbTVlU0QxNHRUYlhmZ3hzMmh2YzVlVkxmZ3hmSVNfcG0tNldPWU9YOVNKNGVBWkVRMkNBVHZ2X0tuQkNTZUY?oc=5",
-      "date": "2026-06-16 04:37",
-      "summary": "Alibaba unveils AI models for robots, amid shift from chatbots to agents  Reuters..."
+      "title": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHd0TVRGRGp5bzN6NWVKZEN5LXBzNUdtREFuTElHWFR6LXpTVHk4RDVUQ2xVZWo4MGdTZzNVNEdaOEd1VlUzQ09FcE9xX2tibjU1Sks5cXo4TGw1UjAxbktGR2dBTmk2dlNyV2hhc2hRZ3VHSGdpeXh1Y05BZU5pRVEwWG00NW1sZVl1UkxWdGRWZ25Cc1hTRklleU01SnlqdlRz?oc=5",
+      "date": "2026-06-17 17:13",
+      "summary": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company  Reuters..."
     },
     {
       "title": "AI-referred US shoppers browse longer, spend more per visit, data shows - Reuters",
@@ -183,12 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3NyYncxbWk3WUdISWx2N0ZJNHJ5M0RxallIRVpuQmVPVW9zQUJ0R1dwZXJQTHRSQWs2MXMwMUVvc0tHZlktZEJvclRjVzRzUjZZS3hnek1iZUtGcU4wVlEwSkZ2RTY0ZHhzRUhxaGVuR3JzUFE1MUFSMWo3VGVLMzcyM1EzUHNCWGNsRk9xbmlMZ19UWFdfRmdJdURxU0IxSnc?oc=5",
       "date": "2026-06-16 23:23",
       "summary": "HSBC partners with Google Cloud to expand AI usage  Reuters..."
-    },
-    {
-      "title": "AI will lead to labour shortages, Bezos says in optimistic talk - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWlkwRUFpc0wyN2lIMllKdm9rWkw3cDE2WHpCZVFtZkN6bnBRNmdyTTQ3SVpKR3VPVEozSXlQc3RWOE9xejNYRUU5QlMwVGtQUVlVZmxPMXBOT3hFQ3V3ekFJYzZiN2hLNWxGVmxTU1BqQlRaVmJtRENXS01hTHl5WGNFdW81MnFtV09YYjFxeDJqUXlIRkhELWRYMWZlcFZPUnV3bDhKLTBrRENaa09COHg1QQ?oc=5",
-      "date": "2026-06-17 16:07",
-      "summary": "AI will lead to labour shortages, Bezos says in optimistic talk  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -199,22 +199,22 @@
       "summary": "Hacking the atmosphere: Geoengineering gets a reality check  MIT Technology Review..."
     },
     {
-      "title": "Inside interoception: The hidden sense of how you feel inside - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM21RZkNLR1ZJY3IzOUd4RFJvRU9UaTZQcjZ3NVU2anJTVTFNRnV3MG5saGlGQXoybmZoSmdGaW9mTUpPTlJ3dEc2MkFzOUw0Q1liRnVFdjZaUkdXWmQzaUl1ODRmbkxhRDh5T2J4d2NWc1hqUnluZHFpdmV1dHZlcGV4cXFlYWc4QnJCadIBkgFBVV95cUxOTEdoei1pNzMzdDdWc1BwaDVxM1Z4Uk56VFI5bkZveHVlZ0Y5YzFOajhUNlZBczNaMURGTktNdmJHNGNVcE9TQ0FIYy1JeFR3aGhBOHZ1b0J5TmlmUElfRFdQdGZkMmZxWTllcndtQ3FRNlg3TWFIQWZhbEl0Y1Aycno1UWY3VDg5UEZuelVUMW1lUQ?oc=5",
-      "date": "2026-06-12 09:00",
-      "summary": "Inside interoception: The hidden sense of how you feel inside  MIT Technology Review..."
-    },
-    {
       "title": "Why do South Koreans love AI so much? - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjRqUG02ZVRQa2M1Y3d6aVVuSGV6UDhJdTRDSWdaMVc0LVVhVjBoMTNYVXByZUV1VjRFTlRUa3J6QjNZTEd1UmVTNmVNajZmZHNyQ09COWx0d1QxMHJUVmFlV2ZnVGNkTHZZV205YWk5STg1VklTQmNOQzFqM25FX3dSVkIydEpyazhTRjJrRlJDR0XSAZgBQVVfeXFMTnlTSVRWNUJkc0NQRU1ZQVE1bWxfWGdPVUdzN0xZTy1Lekg1TjlEaXlKRVU5emY1djdVN0pFOVdBMHF2V1pnMmFuXzhjZkFvNVkzc3NDMThNVkhuam1OS2lUbG1hcGRmQi1ha09mUjBjc1JoLWVSanlMVWhJZkJvOWU0QmlzQ3V2N001WlRXWWE2TGx6SFk0YS0?oc=5",
       "date": "2026-06-15 18:46",
       "summary": "Why do South Koreans love AI so much?  MIT Technology Review..."
     },
     {
-      "title": "Entrepreneurs in Nairobi make the case for going solar - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdWVoOTBVd1UtUnNFcVdsZGF2U21rcnlSdFBRcEVzM0N6ZW0zZzVDa0NTVDhZZHpWZl9sWkYxSVdNQ0w3bFA3akoyU1BaMkI3ZlMzVm5JVHp3c0c3dXZQU2JoVmxidF9QZGNvQ1Y5V3VMOFhSbnVvUGhUNkRYcU9Mbkl3NkVwV3UzTzY5bjA3T2l5ZG5fVEdteF9Wb9IBoAFBVV95cUxPVVBNQWU5LXc3bWRES2k0ZTB0eDA1Z1BGNm1WSUw4cHB4UFJoLUtJNm1pbEprVGhLWEFBWWJET05OZ2drS2M0VzZKTUVUa1ZIRkc2RmZPN01qbnpVY3dhVkZOZUlUbVVJM1JWRlBaOXA1aGE3Tll2dDJEd1B3a3pjU3ZRbVhmeG1NVFRQZGFQZHl6bjJrNkNubkpjUWFkNlJP?oc=5",
-      "date": "2026-06-17 09:00",
-      "summary": "Entrepreneurs in Nairobi make the case for going solar  MIT Technology Review..."
+      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNEk1bEM5TDlBdGpmMzRFY2lIa1BsVHBxME0xVmVuX3UyZ2l6bDhTWWExMzZ1eHluUkg2VEJmc1NPWlZ2UTVxQXZseWo3dkdYa2tIUHQ3MUk3aXQ4Wi1wQVZCdHAzYUJ1SVlhb3RocWp5ai1Hd2s5WjlQRU5wdW50TWFFUEp6dTJLV05vLS1UZGFSd9IBlwFBVV95cUxPQWZzUS1OZDhudzZ6dXhQM0ZTUldNRWhQcGNRWnJHUzNRNFhiUmNmUGRQUE9uNlFIVUV6VjFObGNTVjFZSE5lLS1tMDY1TWhPYm9taFoxX196dlhvcTBHLUdrUXhHdlNRQkZDUVp5ZnZXX3YwMFIwbWJ6Mkk0UlJILXA4aHFTWDV2MnU4d3VXbml3QnRvVnBr?oc=5",
+      "date": "2026-06-15 09:00",
+      "summary": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.  MIT Technology Review..."
+    },
+    {
+      "title": "Inside interoception: The hidden sense of how you feel inside - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM21RZkNLR1ZJY3IzOUd4RFJvRU9UaTZQcjZ3NVU2anJTVTFNRnV3MG5saGlGQXoybmZoSmdGaW9mTUpPTlJ3dEc2MkFzOUw0Q1liRnVFdjZaUkdXWmQzaUl1ODRmbkxhRDh5T2J4d2NWc1hqUnluZHFpdmV1dHZlcGV4cXFlYWc4QnJCadIBkgFBVV95cUxOTEdoei1pNzMzdDdWc1BwaDVxM1Z4Uk56VFI5bkZveHVlZ0Y5YzFOajhUNlZBczNaMURGTktNdmJHNGNVcE9TQ0FIYy1JeFR3aGhBOHZ1b0J5TmlmUElfRFdQdGZkMmZxWTllcndtQ3FRNlg3TWFIQWZhbEl0Y1Aycno1UWY3VDg5UEZuelVUMW1lUQ?oc=5",
+      "date": "2026-06-12 09:00",
+      "summary": "Inside interoception: The hidden sense of how you feel inside  MIT Technology Review..."
     },
     {
       "title": "Want to get a data center online quickly? Give it some flex. - MIT Technology Review",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "'Alexa, tell me a joke': How talking to AI impacts young children's development",
-      "link": "https://phys.org/news/2026-06-alexa-ai-impacts-young-children.html",
-      "date": "2026-06-17 18:00",
-      "summary": "Children are innately curious, and throughout any given day they come up with all manner of questions: Why don't fish have hair? W..."
+      "title": "Emergency department visits increased during and after Aliso Canyon gas blowout",
+      "link": "https://phys.org/news/2026-06-emergency-department-aliso-canyon-gas.html",
+      "date": "2026-06-17 21:00",
+      "summary": "Emergency department use rose significantly during and after the 2015–16 Aliso Canyon gas blowout, according to a new paper from t..."
     },
     {
-      "title": "Fungi help lock carbon into Arctic fjord sediments",
-      "link": "https://phys.org/news/2026-06-fungi-carbon-arctic-fjord-sediments.html",
-      "date": "2026-06-17 18:00",
-      "summary": "Arctic fjords are among the most efficient natural systems for absorbing and storing carbon long term. However, as the Arctic is w..."
+      "title": "Floating litter extends over Chesapeake Bay, the largest estuary in the US",
+      "link": "https://phys.org/news/2026-06-litter-chesapeake-bay-largest-estuary.html",
+      "date": "2026-06-17 21:00",
+      "summary": "A study led by researchers from the Smithsonian Institution and the UB reveals that reducing single-use plastic is essential for p..."
     },
     {
-      "title": "Swiss lake symbiosis reveals unexpected role in nitrogen cycling",
-      "link": "https://phys.org/news/2026-06-swiss-lake-symbiosis-reveals-unexpected.html",
-      "date": "2026-06-17 17:40",
-      "summary": "A publication led by researchers from the Max Planck Institute for Marine Microbiology in Bremen, Germany, shows that microscopic ..."
+      "title": "Study advocates cross-tier traceability to improve food safety",
+      "link": "https://phys.org/news/2026-06-advocates-tier-traceability-food-safety.html",
+      "date": "2026-06-17 20:40",
+      "summary": "The Hong Kong SAR imports more than 90% of its food, and it can be very difficult, when food safety incidents occur, to trace the ..."
     },
     {
-      "title": "One of the world's most important climate threats has an image problem",
-      "link": "https://phys.org/news/2026-06-world-important-climate-threats-image.html",
-      "date": "2026-06-17 17:40",
-      "summary": "Deep in the Atlantic, a vast circulation of water carries heat from the tropics toward Greenland. This is the Atlantic meridional ..."
+      "title": "Molecular fossils reveal secrets of Earth's recovery from ancient global warming event",
+      "link": "https://phys.org/news/2026-06-molecular-fossils-reveal-secrets-earth.html",
+      "date": "2026-06-17 20:40",
+      "summary": "Scientists have uncovered new evidence from one of Earth's most extreme ancient warming events, revealing how the climate may reco..."
     },
     {
-      "title": "'High-res' is the secret to finding alien life with the next great space telescope",
-      "link": "https://phys.org/news/2026-06-high-res-secret-alien-life.html",
-      "date": "2026-06-17 17:20",
-      "summary": "We're still in the definition phase of the Habitable Worlds Observatory (HWO), but it seems like every week a new research group c..."
+      "title": "Atlantic and Pacific may follow different rules on long-term warming, analysis shows",
+      "link": "https://phys.org/news/2026-06-atlantic-pacific-term-analysis.html",
+      "date": "2026-06-17 20:20",
+      "summary": "Florida State University researchers have identified key differences in the root causes of long-term sea-surface temperature chang..."
     }
   ],
   "The Guardian Edu": [
@@ -289,10 +289,10 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Sexual abuse against children up 20% in 2025 as security chief vows tighter laws",
+      "title": "Sexual abuse cases against children up 20% as security chief vows tighter laws",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357462/sexual-abuse-against-children-20-2025-security-chief-vows-tighter-laws?utm_source=rss_feed",
       "date": "2026-06-17 12:52",
-      "summary": "Sexual abuse cases against children under 17 jumped 20 per cent in 2025 from the previous year in Hong Kong, with the security min..."
+      "summary": "Sexual abuse cases against children aged under 17 jumped 20 per cent in 2025 from the previous year, with Hong Kong’s security min..."
     },
     {
       "title": "Hong Kong police arrest male suspect, 36, over sexual assaults on 4 drunk men",
