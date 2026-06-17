@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Could AI tell you where you left your keys?",
+      "link": "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
+      "date": "2026-06-17 04:00",
+      "summary": "A new spatial memory system for robots efficiently captures details about the objects they see while exploring their environment...."
+    },
+    {
       "title": "How to create distinguishable states for quantum systems",
       "link": "https://news.mit.edu/2026/how-to-create-distinguishable-states-for-quantum-systems-0615",
       "date": "2026-06-15 19:55",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/mit-engineers-find-way-to-deliver-drugs-directly-to-esophagus-0612",
       "date": "2026-06-12 09:00",
       "summary": "Their new gel-like drug formulation can coat the esophageal lining and release drugs that could help treat inflammatory conditions..."
-    },
-    {
-      "title": "When it comes to predicting people’s preferences, it pays to consider “the power of three”",
-      "link": "https://news.mit.edu/2026/when-predicting-preferences-it-pays-to-consider-power-of-three-0611",
-      "date": "2026-06-11 19:10",
-      "summary": "MIT researchers provide a major upgrade to the nearly century-old idea of random utility models...."
     }
   ],
   "Harvard Gazette": [
@@ -79,20 +79,20 @@
     {
       "title": "Stanford FY27 budget invests in faculty, students, and staff amid continued uncertainty - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DRVMzUi1NT3F1cXdldmM2Y1dUYmlxaVNRcjZ4NkFBYWlMeVU4Q1JlSTV2Y09scURIWHNDaHJLZ3lEb0QxTlJITEkzMXJsZC11UHU2ZUs0MzQ4aEpJbjVUdXlPZVNPN0V6SkFvWjB1X2ZtaWRLYXBn?oc=5",
-      "date": "2026-06-16 23:15",
+      "date": "2026-06-16 23:20",
       "summary": "Stanford FY27 budget invests in faculty, students, and staff amid continued uncertainty  Stanford Report..."
     },
     {
-      "title": "Stanford Medicine celebrates 2026 class of clinicians and scientists - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUk11Z3hkOTd2TlBRYzhjQmlZWFQ3ODFxWGNXVnlUYkt3cjlTYXlGVmVVcjk5bndqRnloVGc3cUw2c0FWNVlzVUNoNmd2MmFaNU5Pb3BhOU5ZRGxfNVFseW9MNzFEWDNFUlVzWE9tS2tlUEF0WmlxRDBBUnRFZzliQ052aXpHQQ?oc=5",
-      "date": "2026-06-16 22:50",
-      "summary": "Stanford Medicine celebrates 2026 class of clinicians and scientists  Stanford Report..."
+      "title": "Stanford graduates stage walkout during Google CEO’s commencement address - Global News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQellMVUZGYUFXbS1NQ1hXQkJwNVg5SWJmZnFnYWRtcmU1ZlNOcGJNQWdESDQyV01fRnNZeFI5Zkk5RmlaTjk0STBOUFMtVWgzYWhOT3NsVVVJMmlKOTNZMTBoUnVVRHptUnV2S09TQVhhQnc2VXNLUjJhVHlqSkFQVEM0bFhsX05kSjR2WXJrdEMyQkRjOEl0QldXMko?oc=5",
+      "date": "2026-06-16 17:16",
+      "summary": "Stanford graduates stage walkout during Google CEO’s commencement address  Global News..."
     },
     {
-      "title": "Stanford School of Medicine dean encourages graduates to inspire hope in others - Stanford Medicine",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYlhmajI0cGJXc0hRdUFPMTVRWUxBdm5ndE5XNlA3Zm1FY2xqaDRrQWpNV1FqZGRUdldUUlJ3ZE1nU0g1NDdsd3h3c05NNXNXVC12eFN4bmY0T0tRcjJtbURHQTUxZUFXZGZkamRPWkVJZWxhLWZnNE9CVkNUZVVVYnl1dDdxUQ?oc=5",
-      "date": "2026-06-16 17:03",
-      "summary": "Stanford School of Medicine dean encourages graduates to inspire hope in others  Stanford Medicine..."
+      "title": "Read Sundar Pichai’s 2026 Commencement Address at Stanford University - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3FRR0h5V3UwUjZoLWRnWTZxa09mMktpY1RQZy1iZFdZUjBtVFVoRFdzdEoxZE9aSG9nMEk1dm9nd2RGbV85anlKY0t4bmJhTlF0U2pXNzZiby1wNmN4VC1hMkl6ak5NUTZoVS1yMVVJeFltWFZXNUhiMDZoeTNRTE03MjhIUDBwRXRfRlAyMXlXYURSWVB3cQ?oc=5",
+      "date": "2026-06-14 17:53",
+      "summary": "Read Sundar Pichai’s 2026 Commencement Address at Stanford University  blog.google..."
     }
   ],
   "Nature Careers": [
@@ -129,6 +129,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Journal investigating paper on cognitive impact of generative AI",
+      "link": "https://retractionwatch.com/2026/06/16/technology-mind-behavior-apa-journal-investigation-cognitive-impact-generative-ai/",
+      "date": "2026-06-16 21:14",
+      "summary": "A paper about the effects of generative AI use on confidence in work tasks is under investigation after critics raised questions a..."
+    },
+    {
       "title": "Economist outs another Indian university’s rankings-boosting scheme when they refuse to pay him",
       "link": "https://retractionwatch.com/2026/06/16/economist-woxsen-india-university-rankings-boosting-scheme/",
       "date": "2026-06-16 07:00",
@@ -151,15 +157,15 @@
       "link": "https://retractionwatch.com/2026/06/11/science-ai-chatbots-debunk-conspiracy-theories-expression-of-concern/",
       "date": "2026-06-11 18:00",
       "summary": "Science has issued an expression of concern for a highly publicized study looking into whether conversations with AI chatbots coul..."
-    },
-    {
-      "title": "New system for flagging retracted papers finds scores of them in Cochrane reviews",
-      "link": "https://retractionwatch.com/2026/06/10/cochrane-reviews-retracted-studies-central-database/",
-      "date": "2026-06-10 16:47",
-      "summary": "Cochrane has implemented a new system for checking whether any of its thousands of published reviews include retracted studies in ..."
     }
   ],
   "Reuters AI": [
+    {
+      "title": "G7 leaders discuss 'trusted partners' access to cutting-edge US AI models, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcnhHMFpZb3YtNHJoX0RuM2N2SXRaRDRFUHF4ck1sVjlVSGt3VUxud0RkSVh0alZmSTl2MFVvXzhXTzJib3hwOThDa3NxVWxnVy1mRlRNaDJoZVRqa2lybFdQMG8xVXRnSFRfUHVHckhDVncxWGdRZ1o2X3A5WnRjdW96SUJDUW1uZVl2TmdKRm9reXNOM1ZlanpXcTZGdXhXNXVmc2g3LUlIMzhlQWJ0NlNHcjZNY0xRUW0tUUswWUdFUFNnUmtUcEI1NlNudw?oc=5",
+      "date": "2026-06-16 21:51",
+      "summary": "G7 leaders discuss 'trusted partners' access to cutting-edge US AI models, sources say  Reuters..."
+    },
     {
       "title": "Insight: Fast-tracked power plants fuel AI boom, with little public scrutiny - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONUZxc09sd2xKN09WUkpMa3NWYWg3Z2EweGxkTm4yanRDZEFjZDZ4U1UxWFlaWWlDMjJwVHpWQmp1aG45S0tCaTRLcF9hRU5zMzk0enBHQWIwMjJvaXBDYnNjbjRvOThRT3lNY1JhcWY4NmRqY1ViOV9ldnRlWVdyZXlXdllxM0UyRThVY1BpYVBNRGRGdmVKZFEtd1Nwb1R2cHE1SDBQX18tbzJLS0lDaUI4aS1xRWpHaUE?oc=5",
@@ -173,22 +179,16 @@
       "summary": "HSBC partners with Google Cloud to expand AI usage  Reuters..."
     },
     {
-      "title": "G7 leaders discuss 'trusted partners' access to cutting-edge US AI models, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcnhHMFpZb3YtNHJoX0RuM2N2SXRaRDRFUHF4ck1sVjlVSGt3VUxud0RkSVh0alZmSTl2MFVvXzhXTzJib3hwOThDa3NxVWxnVy1mRlRNaDJoZVRqa2lybFdQMG8xVXRnSFRfUHVHckhDVncxWGdRZ1o2X3A5WnRjdW96SUJDUW1uZVl2TmdKRm9reXNOM1ZlanpXcTZGdXhXNXVmc2g3LUlIMzhlQWJ0NlNHcjZNY0xRUW0tUUswWUdFUFNnUmtUcEI1NlNudw?oc=5",
-      "date": "2026-06-16 21:51",
-      "summary": "G7 leaders discuss 'trusted partners' access to cutting-edge US AI models, sources say  Reuters..."
+      "title": "Breakingviews - China's job-first policy risks blunting AI gains - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQmc1a3E0Rk5fSk9oWlV0X1FyUDdXNVJNOFNzT1FubVdOcW5WOWppLUdBN1ktb1kzZHN3MlJIWTFPbVNZcTBTWjVkQnVLcktQLXFxdDFBRVc2MWp5YjVEUmw0ZnBTdE45YjZvN1M4UkJJNzhCdVM0dkstM2ZzckhNM01jNUdSQVlsS1YxUVRPZ0xadXlRVm4tY1hROXpfbTY5eGp1WXdCd2kzX1Fu?oc=5",
+      "date": "2026-06-17 01:48",
+      "summary": "Breakingviews - China's job-first policy risks blunting AI gains  Reuters..."
     },
     {
-      "title": "Strategic change management in the age of generative AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ050VXhKd0U0LS1sSVU3T2ZkNGR1ZWVrS1YzWnMtN3I4MjBUdkxXVUlsZ2FxVWtkb2NoS0lHbl9wTTJIY2JwUjI3VmtwUWV3VnVobTBUajJJVUtoc09sa3RXQVc0TEpvS3dQMVBrYlQtR2xqUkVDTXpDU0RBRFhMQjkxUVJBeVpKNlJYRm9lSEdjVU04d1hiVnZXdm45TnJ3VlE4ZkNrTTBxbU9FQ2c?oc=5",
-      "date": "2026-06-15 14:55",
-      "summary": "Strategic change management in the age of generative AI  Reuters..."
-    },
-    {
-      "title": "US saw risk of Anthropic models being diverted to foreign military intelligence - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2lIMTU5TnZBOUVFUTVGeXd6OXJLQ0tCSU5FREdYcVBtMll2SzVVckFpYU5hNEljQU45dmozMTBwM2JtWFJFVTRfbDFYdVJSbTZSbEtMazRLNnZuM194VEhlTmxQRS1IX0lJTlJXaVpFbHhvTkt1Q3pvdW0yNVVXNTlobUNScUhabklSNlRoOGJwN0w1d0FSV1lwVGRmWTRDQ05IZnRPUjlWTF9sRVNwU3JkTU9xN2ZuRnc?oc=5",
-      "date": "2026-06-15 15:20",
-      "summary": "US saw risk of Anthropic models being diverted to foreign military intelligence  Reuters..."
+      "title": "Alibaba unveils AI models for robots, amid shift from chatbots to agents - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGZFWElhR1l6MFVCTU1GaTJyQ3lNV3ZnMW0xSmVUQktidV9hWkxoNzNJZXl6NURWZC01R2lLSVBsTExvN3pPbHRpTnc2T2RUclJhOTRzbzdaTUVYM1JvR2JHR0JDNGtiMkl4eGpqdUNyZ2xJRkFEbTVlU0QxNHRUYlhmZ3hzMmh2YzVlVkxmZ3hmSVNfcG0tNldPWU9YOVNKNGVBWkVRMkNBVHZ2X0tuQkNTZUY?oc=5",
+      "date": "2026-06-16 04:37",
+      "summary": "Alibaba unveils AI models for robots, amid shift from chatbots to agents  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -217,45 +217,51 @@
       "summary": "Why do South Koreans love AI so much?  MIT Technology Review..."
     },
     {
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORHBFZElKbGtTUF8tWlA4Vk80R3AzOG9ISWxOQUgwQVRxQi13S0t2UFdtb1hqM05nd1ZDV0lHRnBQamo4NzJqRG1ucmQwcS1BZ1BFa1JKLVgxN3dnTXZkbW5Bb3RqMTdtNTNPTXVya1ZTdmJRTUVvRXVwM0xmNzVNWDR3Y3g0UHh1MUdYMXVmTl9tcFJIMmtqWEpZU0E3UGNMMGw5QlY2TW5scnVEanphYWlfVVNKSmpYY1VtLTB6U0xXc3ZfakcxVTQ5R2sydTFlMUVCWElkNNIB3AFBVV95cUxPTGVXZHA1LUl0bHVoWGJEcTB6RFQ1LUIyYmYyaDZTR2JnTFJOZG9iVDRHczljMHVybzdXWjFYaE1faW14UE5FRUFwbGZ2TEhEZFVSQlpOU2FFdnFBN1VnWS12VkNiVGtabkw0V2Fua3psWjhRWnZGdG5Qd19PQk5ybG5KRzd2TUo1dnpWU1ZZeERJYzNxQXMwak5oSnc4LUxnX01oS1BXMkNsZ0R0bmxTcWZHSVhRS3NoU3dzeFhjZlplNEd1TzFtVzN3Qk1VYjFOaXRSWGliZURkYlFw?oc=5",
-      "date": "2026-06-11 11:00",
-      "summary": "Google DeepMind is worried about what happens when millions of agents start to interact  MIT Technology Review..."
+      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNEk1bEM5TDlBdGpmMzRFY2lIa1BsVHBxME0xVmVuX3UyZ2l6bDhTWWExMzZ1eHluUkg2VEJmc1NPWlZ2UTVxQXZseWo3dkdYa2tIUHQ3MUk3aXQ4Wi1wQVZCdHAzYUJ1SVlhb3RocWp5ai1Hd2s5WjlQRU5wdW50TWFFUEp6dTJLV05vLS1UZGFSd9IBlwFBVV95cUxPQWZzUS1OZDhudzZ6dXhQM0ZTUldNRWhQcGNRWnJHUzNRNFhiUmNmUGRQUE9uNlFIVUV6VjFObGNTVjFZSE5lLS1tMDY1TWhPYm9taFoxX196dlhvcTBHLUdrUXhHdlNRQkZDUVp5ZnZXX3YwMFIwbWJ6Mkk0UlJILXA4aHFTWDV2MnU4d3VXbml3QnRvVnBr?oc=5",
+      "date": "2026-06-15 09:00",
+      "summary": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "New method enables accurate sequencing of short peptides hidden in food and human body",
-      "link": "https://phys.org/news/2026-06-method-enables-accurate-sequencing-short.html",
-      "date": "2026-06-17 00:00",
-      "summary": "Our food and our bodies are full of tiny protein fragments called peptides. These small chains of amino acids act as biological me..."
+      "title": "Frozen Greenland middens preserve 4,500 years of farms, seal hunts and toilets",
+      "link": "https://phys.org/news/2026-06-frozen-greenland-middens-years-farms.html",
+      "date": "2026-06-17 04:00",
+      "summary": "Greenland has a long and checkered history of human settlement: several Paleo-Inuit cultures since approximately 2,500 BCE, descen..."
     },
     {
-      "title": "Vertical marine heat wave study offers classification scheme for coastal resource management",
-      "link": "https://phys.org/news/2026-06-vertical-marine-classification-scheme-coastal.html",
-      "date": "2026-06-17 00:00",
-      "summary": "Marine heat waves (MHWs) are events characterized by prolonged warm coastal and ocean conditions with wide-ranging impacts on ecos..."
+      "title": "Heading for the Atlantic Ocean to study the impact of climate change on ocean circulation",
+      "link": "https://phys.org/news/2026-06-atlantic-ocean-impact-climate-circulation.html",
+      "date": "2026-06-17 03:00",
+      "summary": "It is becoming increasingly urgent to study the effects of climate change on the global ocean system. Future projections indicate ..."
     },
     {
-      "title": "AI can clone your voice. Why that's powerful—and dangerous",
-      "link": "https://phys.org/news/2026-06-ai-clone-voice-powerful-dangerous.html",
-      "date": "2026-06-16 23:40",
-      "summary": "Using artificial intelligence, scammers can duplicate someone's voice with just seconds of audio, says the University of Cincinnat..."
+      "title": "Even morphologically similar pollinators carry distinct pollen assemblages",
+      "link": "https://phys.org/news/2026-06-morphologically-similar-pollinators-distinct-pollen.html",
+      "date": "2026-06-17 02:40",
+      "summary": "The body size, morphology and associated behavioral traits of flower-visiting insects strongly influence the quantity of pollen th..."
     },
     {
-      "title": "Intensive nickel mining has transformed microbial biodiversity of Thio Lagoon in New Caledonia",
-      "link": "https://phys.org/news/2026-06-intensive-nickel-microbial-biodiversity-thio.html",
-      "date": "2026-06-16 23:40",
-      "summary": "A study carried out by scientists from Ifremer, IRD, the universities of Western Brittany (UBO) and Bordeaux, CNRS, and the Univer..."
+      "title": "Indian millets contain distinct lipid fingerprints with anti-diabetic and anti-inflammatory potential",
+      "link": "https://phys.org/news/2026-06-indian-millets-distinct-lipid-fingerprints.html",
+      "date": "2026-06-17 02:20",
+      "summary": "Indian millets are a staple for the country's population of more than a billion. They are also gaining global popularity, with ris..."
     },
     {
-      "title": "Webb and Hubble reveal the history of a relic of Milky Way's formation",
-      "link": "https://phys.org/news/2026-06-webb-hubble-reveal-history-relic.html",
-      "date": "2026-06-16 23:30",
-      "summary": "Researchers using two of humanity's most powerful observatories—NASA's James Webb and Hubble Space Telescopes—have definitively sh..."
+      "title": "Climate models are missing the first warning signs of deadly Middle East heat waves, study finds",
+      "link": "https://phys.org/news/2026-06-climate-deadly-middle-east.html",
+      "date": "2026-06-17 02:00",
+      "summary": "While the world's most advanced climate models successfully reproduce heat waves once they are underway, they consistently miss ke..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "‘In the past, there was lots of swearing and saying you were crap’: my day at the all-new Italia Conti stage school",
+      "link": "https://www.theguardian.com/stage/2026/jun/17/italia-conti-stage-school-noel-coward-martine-mccutcheon",
+      "date": "2026-06-17 04:00",
+      "summary": "From Noël Coward to Martine McCutcheon, the famed institution has been hothousing talent for more than a century. Our writer finds..."
+    },
     {
       "title": "Some college, no degree: the Americans who find it impossible to graduate",
       "link": "https://www.theguardian.com/education/ng-interactive/2026/jun/16/college-student-drop-out-stories",
@@ -279,44 +285,38 @@
       "link": "https://www.theguardian.com/education/2026/jun/13/uk-government-announces-1325m-after-school-clubs-package",
       "date": "2026-06-13 21:30",
       "summary": "Funding for extracurricular activities comes as ministers prepare to introduce social media restrictions for under-16sThe governme..."
-    },
-    {
-      "title": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time",
-      "link": "https://www.theguardian.com/society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time",
-      "date": "2026-06-13 11:00",
-      "summary": "Other projects include developing tools to help visually impaired people navigate video games  Parents are constantly being told t..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Hong Kong teachers to undergo 30-hour digital training amid AI push in schools",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3357369/hong-kong-teachers-undergo-30-hour-digital-training-amid-ai-push-schools?utm_source=rss_feed",
+      "date": "2026-06-17 03:36",
+      "summary": "Hong Kong teachers will have to complete at least 30 hours of digital education training every three years, as authorities unveil ..."
+    },
+    {
+      "title": "Data leak fears after ransomware attack hits Hong Kong’s Kee Wah Bakery",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3357366/data-leak-fears-after-ransomware-attack-hits-hong-kongs-kee-wah-bakery?utm_source=rss_feed",
+      "date": "2026-06-17 03:01",
+      "summary": "A major bakery chain has been hit by a ransomware attack on its internal network, prompting Hong Kong’s privacy watchdog to seek d..."
+    },
+    {
+      "title": "Can Hong Kong make a giant leap to commercial space insurance?",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3356657/can-hong-kong-make-giant-leap-commercial-space-insurance?utm_source=rss_feed",
+      "date": "2026-06-17 01:00",
+      "summary": "Some may feel a lump in their throats as they watch Hong Kong’s first astronaut, Lai Ka-ying, make history, but few see it as anyt..."
+    },
+    {
+      "title": "Eternal ‘star’: asteroid named after firefighter killed in Hong Kong blaze",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3357350/eternal-star-asteroid-named-after-firefighter-killed-hong-kong-blaze?utm_source=rss_feed",
+      "date": "2026-06-17 00:30",
+      "summary": "An asteroid discovered by a Hong Kong-born astronomer has been named after a firefighter who died in the city’s deadliest blaze in..."
+    },
     {
       "title": "2 passengers killed as truck collides with taxi on Hong Kong road",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3357347/2-passengers-killed-truck-collides-taxi-hong-kong-road?utm_source=rss_feed",
       "date": "2026-06-16 16:26",
       "summary": "Two passengers were killed late on Tuesday when a truck slammed into their taxi on a wet highway in Hong Kong, with the cab flippi..."
-    },
-    {
-      "title": "Corporate leaders turn to new doctorate to strategise AI adoption",
-      "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/polyu-dbai-equips-leaders-ai/article/3356528/corporate-leaders-turn-new-doctorate-strategise-ai-adoption?utm_source=rss_feed",
-      "date": "2026-06-16 16:00",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nFor modern-day businesses, effective AI adoption is in..."
-    },
-    {
-      "title": "Man ‘mistakenly beat girlfriend to death while trying to help her lose weight’",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357345/man-mistakenly-beat-girlfriend-death-while-trying-help-her-lose-weight?utm_source=rss_feed",
-      "date": "2026-06-16 15:57",
-      "summary": "A jobless man accused of killing his girlfriend in a Hong Kong village house and illegally disposing of her body four years ago ha..."
-    },
-    {
-      "title": "Hong Kong court rejects HK$12m claim against Cecilia Cheung over contract dispute",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357344/hong-kong-court-rejects-hk12m-claim-against-cecilia-cheung-over-contract-dispute?utm_source=rss_feed",
-      "date": "2026-06-16 15:47",
-      "summary": "A Hong Kong court has dismissed a HK$12 million (US$1.53 million) claim against actress Cecilia Cheung Pak-chi by her former agent..."
-    },
-    {
-      "title": "Hong Kong must remain outward-looking to thrive: past and present TDC leaders",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357338/hong-kong-must-stay-outward-looking-and-free-port-thrive-trader-leaders-say?utm_source=rss_feed",
-      "date": "2026-06-16 14:03",
-      "summary": "Hong Kong must remain an outward-looking economy and a free port to thrive, current and former leaders of the city’s trade promoti..."
     }
   ],
   "New Scientist": [
