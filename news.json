@@ -71,22 +71,22 @@
       "summary": "2 California universities made the world’s top 10. Here’s where they ranked  San Francisco Chronicle..."
     },
     {
-      "title": "Hundreds of Stanford students walked out of their grad ceremony to protest Google CEO’s commencement speech. It wasn’t all about AI - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTBxUEZQNUZZaEdycHBRN3RSUXZPMHctcndUZDJ4RGhWRnJFaVBLVmhvMnpuNzF6WXlUQUx0cUxaaXJCa3pfWjNkTG43bnZnZjFULUtESV9vdlFjR25INmRybFBack1IbHZacVNiaVNlYVZ5cFFrRUs0Z25TSUh4dzJ6M2RwWWo1LVQ5cE96MU83amlUMUhXYllXWVFVVlU?oc=5",
-      "date": "2026-06-15 16:32",
-      "summary": "Hundreds of Stanford students walked out of their grad ceremony to protest Google CEO’s commencement speech. It wasn’t all about A..."
-    },
-    {
-      "title": "Exclusive: A 21-year-old Stanford grad just raised $11 million to put a hormone lab on your wrist - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZzVlQmNfQnFkUDBDdVNSR0hhSmhJTm5ERFFLY3RLcFpDN2pfcWUxUGJrMTdkLTJKZ1RpUDh2a0xBRk9JMF9tRWhOb0xaQjY3dm1XeUNYMHgyUVFqMXhUSHlLRXBycDdDRzlydmJzYldTVURGREUzMFdpOHNGb1ZIVTdBV2dFRVRTTDJRU0FyWU5jN1IwZ04ycWVrVzViazg?oc=5",
-      "date": "2026-06-17 13:00",
-      "summary": "Exclusive: A 21-year-old Stanford grad just raised $11 million to put a hormone lab on your wrist  Fortune..."
+      "title": "Dozens walk out as Google boss Pichai addresses Stanford graduates - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUNHZkVFlPOVM3OGw5WjlaMmxaY191cV9ORkM4a3FEaHJSZTQ1WmlhTW9JaXMyZFF6NXFFM09mWlI2NE1JaWl1R21aT1BTVFpwbk9Jc3lkeXJZdw?oc=5",
+      "date": "2026-06-16 11:35",
+      "summary": "Dozens walk out as Google boss Pichai addresses Stanford graduates  BBC..."
     },
     {
       "title": "Levin, Stanford alumni appear on list of Peter Thiel ‘Dialog’ society affiliates - The Stanford Daily",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3VNN0lzWk12M25UeFJTZzdWNmgxQ0JXRDhuVExMeVpqTGQ3dTJKWXRKeFptdXZ2X2NJREtmM2QxVkExT0ZXTE5zZE5WcmVwN3lES3dKX3JjeFczaDdiOVlQYVdTZEd1Qi1UemF0TDRjZXM5NDlrUlM2VzkyUnBhSV85ajI5cHhKZHBQQ3JubFV4VXBuYWQ2bkU4WjNuS0FYTFZTelVoZnhKMk9xMnBqRDd6V1BSZw?oc=5",
       "date": "2026-06-17 05:41",
       "summary": "Levin, Stanford alumni appear on list of Peter Thiel ‘Dialog’ society affiliates  The Stanford Daily..."
+    },
+    {
+      "title": "Stanford student activists found a reason other than AI to protest Google CEO’s commencement speech - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYndoS1ptYThXOHpoTDF6M3NmZWpETV9zZDVWYzZ4ZXIwaHRiWGVZLWJTcGd3cG45Q2ZUQ01VWGJJcjIweURGYTlZdnlxZDNKQ1hjTl9nakgzbW92cVpkWVRQR1N1NE9IeXlJNlhMMm9yY3JrZEs3TWRuLTZyRHB1ejJrd2lIa2ZYLUtXRGNSelMxakdqUk1kV3ZQNnQ?oc=5",
+      "date": "2026-06-15 16:32",
+      "summary": "Stanford student activists found a reason other than AI to protest Google CEO’s commencement speech  Fortune..."
     },
     {
       "title": "These 2 Bay Area universities ranked top in the world - KTVU",
@@ -129,6 +129,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "RFK Jr. has various stances on retractions. Critics say he’s ‘politicizing’ them",
+      "link": "https://retractionwatch.com/2026/06/18/rfk-jr-vaccines-infant-deaths-retractions-critics-politicizing/",
+      "date": "2026-06-18 21:45",
+      "summary": "Robert F. Kennedy Jr.’s letter demanding answers from a journal that recently retracted an article about vaccines has drawn signif..."
+    },
+    {
       "title": "Some Wikipedia citations to retracted papers persist for years, study finds",
       "link": "https://retractionwatch.com/2026/06/18/some-wikipedia-citations-to-retracted-papers-persist-for-years-study-finds/",
       "date": "2026-06-18 10:00",
@@ -151,12 +157,6 @@
       "link": "https://retractionwatch.com/2026/06/15/glyphosate-roundup-safety-ghostwriting-claims-critical-reviews-toxicology/",
       "date": "2026-06-15 10:00",
       "summary": "Tayor & Francis is investigating two papers about the weed killer Roundup following claims the articles were ghostwritten by the c..."
-    },
-    {
-      "title": "Weekend reads: Uneven sanctions for misconduct; protein name confusion in hundreds of papers; the Journal of Research on Research",
-      "link": "https://retractionwatch.com/2026/06/13/weekend-reads-sanctions-misconduct-protein-name-confusion-journal-of-research-on-research/",
-      "date": "2026-06-13 10:00",
-      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
     }
   ],
   "Reuters AI": [
@@ -199,10 +199,10 @@
       "summary": "The search for dark matter has been blown wide open  MIT Technology Review..."
     },
     {
-      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjBLZ0hMdnNDYWhGVEp4aXpPaXRNZms1WkstZW94R25EeGhRcFRFMlBFejJLSXhBWGsyb3BRdXhYT2ZES2FrOFl1MmNJTVo4cUtOZzVseEJ2NFVjMDNuRXNwc1JpWTVIUlFXLXpkRWNBMzZxNzA2Y05XTkhZQlVwbDViQ25TM1ZpOU5qWmFsZ2dBcE1aSk1oeDhobnIxRUtxWEHSAacBQVVfeXFMUFRlUG1kTWViUjB0M3c4ckdhS2NBamVHVWFST1RzeGw0bkgtWjJydGlNZ1J2dWI1VngwUThSWWFzYTQ3VGQzdWNoZ29zdjd3Um9aZmtJXzhsSnZuVGpRZXNXNEdEV0lQcjVQRkVxYV8wZF9lZDJKamhqRWF1Qk5nbUtaTUdvLTgtazlpa2ljdVZaR3NRYjNXQXF4aFVUWWpOUTEyNklZZm8?oc=5",
-      "date": "2026-06-18 12:10",
-      "summary": "The Download: a new hunt for dark matter and Kenya’s case for going solar  MIT Technology Review..."
+      "title": "Geoengineering still faces major practical challenges - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRtdnNNS1pmbGU1SUdXVWVOalJmWDVSUk9aUVcwWmlvUDNjM2EtT0tnMzc5ZzdrengxcUFUNmw4WGhLbU1IdW1uU29VRjdYYlFxdW44TmhmaEQtZVI2MUxLMTFoS1E1Q2Exc2FWUFBIdkVyV0JsZHZuZHFjcUF5dTg3V1VEei13RzZCRWI2bnJOSEF00gGaAUFVX3lxTE1nb2h3V080RGVTUUUyVV9DY0xlUl9qbE5nTGV0X0xaUXR1TGU5MHdkbUtIM2YtZkZFMnQ0LUlySHVwVWpBaUdjZDRDblJzNGZnZVVoMnh3bXhac1pJN0xkcUl1b043M2J0YkVLaENBeG00YmtJYUNpSHBDOGVFZVRCNHpuanMzQi1EV2xNclZORV92RHlwVmx1QVE?oc=5",
+      "date": "2026-06-18 10:00",
+      "summary": "Geoengineering still faces major practical challenges  MIT Technology Review..."
     },
     {
       "title": "Why do South Koreans love AI so much? - MIT Technology Review",
@@ -211,10 +211,10 @@
       "summary": "Why do South Koreans love AI so much?  MIT Technology Review..."
     },
     {
-      "title": "Geoengineering still faces major practical challenges - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRtdnNNS1pmbGU1SUdXVWVOalJmWDVSUk9aUVcwWmlvUDNjM2EtT0tnMzc5ZzdrengxcUFUNmw4WGhLbU1IdW1uU29VRjdYYlFxdW44TmhmaEQtZVI2MUxLMTFoS1E1Q2Exc2FWUFBIdkVyV0JsZHZuZHFjcUF5dTg3V1VEei13RzZCRWI2bnJOSEF00gGaAUFVX3lxTE1nb2h3V080RGVTUUUyVV9DY0xlUl9qbE5nTGV0X0xaUXR1TGU5MHdkbUtIM2YtZkZFMnQ0LUlySHVwVWpBaUdjZDRDblJzNGZnZVVoMnh3bXhac1pJN0xkcUl1b043M2J0YkVLaENBeG00YmtJYUNpSHBDOGVFZVRCNHpuanMzQi1EV2xNclZORV92RHlwVmx1QVE?oc=5",
-      "date": "2026-06-18 10:00",
-      "summary": "Geoengineering still faces major practical challenges  MIT Technology Review..."
+      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjBLZ0hMdnNDYWhGVEp4aXpPaXRNZms1WkstZW94R25EeGhRcFRFMlBFejJLSXhBWGsyb3BRdXhYT2ZES2FrOFl1MmNJTVo4cUtOZzVseEJ2NFVjMDNuRXNwc1JpWTVIUlFXLXpkRWNBMzZxNzA2Y05XTkhZQlVwbDViQ25TM1ZpOU5qWmFsZ2dBcE1aSk1oeDhobnIxRUtxWEHSAacBQVVfeXFMUFRlUG1kTWViUjB0M3c4ckdhS2NBamVHVWFST1RzeGw0bkgtWjJydGlNZ1J2dWI1VngwUThSWWFzYTQ3VGQzdWNoZ29zdjd3Um9aZmtJXzhsSnZuVGpRZXNXNEdEV0lQcjVQRkVxYV8wZF9lZDJKamhqRWF1Qk5nbUtaTUdvLTgtazlpa2ljdVZaR3NRYjNXQXF4aFVUWWpOUTEyNklZZm8?oc=5",
+      "date": "2026-06-18 12:10",
+      "summary": "The Download: a new hunt for dark matter and Kenya’s case for going solar  MIT Technology Review..."
     },
     {
       "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure. - MIT Technology Review",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Mating reveals cholesterol's hidden role in male fruit fly lifespan",
-      "link": "https://phys.org/news/2026-06-reveals-cholesterol-hidden-role-male.html",
-      "date": "2026-06-18 19:20",
-      "summary": "Scientists have discovered that the optimal diet for male fruit flies may depend strongly on whether they are reproducing, challen..."
+      "title": "AI teaches asset traders not to sweat the small stuff",
+      "link": "https://phys.org/news/2026-06-ai-asset-traders-small.html",
+      "date": "2026-06-18 22:00",
+      "summary": "Financial markets are governed by a combination of rational and irrational forces, statistical probabilities and \"animal spirits.\"..."
     },
     {
-      "title": "Five new springtail species discovered in China",
-      "link": "https://phys.org/news/2026-06-springtail-species-china.html",
-      "date": "2026-06-18 19:20",
-      "summary": "There is a Chinese saying that east or west, Guilin scenery is the best. Guilin and Chongqing, located in western China, are famou..."
+      "title": "Electrically tunable spin polarization in graphene opens path toward low-power spintronic devices",
+      "link": "https://phys.org/news/2026-06-electrically-tunable-polarization-graphene-path.html",
+      "date": "2026-06-18 22:00",
+      "summary": "Researchers at the National Graphene Institute, in collaboration with the National University of Singapore, have shown that the ma..."
     },
     {
-      "title": "Missing DNA replication step revealed in first image of pre-initiation complex",
-      "link": "https://phys.org/news/2026-06-dna-replication-revealed-image-pre.html",
-      "date": "2026-06-18 19:00",
-      "summary": "Cells have evolved careful checks to ensure DNA is copied only once, but how they switch on replication at the right moment has be..."
+      "title": "Circular polarization could cut laser backscatter in fusion experiments",
+      "link": "https://phys.org/news/2026-06-circular-polarization-laser-backscatter-fusion.html",
+      "date": "2026-06-18 21:50",
+      "summary": "Experiments at Lawrence Livermore National Laboratory's National Ignition Facility (NIF) require breathtaking precision. Each of t..."
     },
     {
-      "title": "Bedding structure controls rainfall runoff in mountain catchments",
-      "link": "https://phys.org/news/2026-06-bedding-rainfall-runoff-mountain-catchments.html",
-      "date": "2026-06-18 19:00",
-      "summary": "Researchers at the University of Tsukuba have discovered that rainwater runoff in the highly rugged sedimentary rock mountains of ..."
+      "title": "Suburban street design has driven emissions since WWII, study suggests",
+      "link": "https://phys.org/news/2026-06-suburban-street-driven-emissions-wwii.html",
+      "date": "2026-06-18 21:40",
+      "summary": "Half of all Americans live in the suburbs. For decades, planners and policymakers have blamed suburban sprawl's environmental and ..."
     },
     {
-      "title": "Ultrasound propagation in porous rocks: Theory identifies three distinct wave modes",
-      "link": "https://phys.org/news/2026-06-ultrasound-propagation-porous-theory-distinct.html",
-      "date": "2026-06-18 18:40",
-      "summary": "Ultrasound-based irradiation of rock formations has attracted considerable attention as a technique for enhancing heavy-oil (high-..."
+      "title": "Rice gene switch helps plants rebound from cold and use nitrogen more efficiently",
+      "link": "https://phys.org/news/2026-06-rice-gene-rebound-cold-nitrogen.html",
+      "date": "2026-06-18 21:30",
+      "summary": "Global climate change has increased the frequency of regional cold spells, causing substantial yield losses and even crop failure...."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "10 steps Hong Kong can take to make the most of its 5-year plan",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3357245/10-steps-hong-kong-can-take-make-most-its-5-year-plan?utm_source=rss_feed",
+      "date": "2026-06-18 21:30",
+      "summary": "Under Chief Executive John Lee Ka-chiu’s leadership, Hong Kong is drawing up its first five-year plan to complement Beijing’s 2026..."
+    },
+    {
       "title": "Tycoon Gordon Wu says he’s very optimistic about China due to its ‘stability’",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357613/tycoon-gordon-wu-says-hes-very-optimistic-about-china-due-its-stability?utm_source=rss_feed",
       "date": "2026-06-18 14:46",
@@ -298,7 +304,7 @@
       "title": "UK court jails 2 Hongkongers tied to trade office for up to 10 years for spying",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357604/uk-court-jails-2-hongkongers-tied-trade-office-10-years-spying?utm_source=rss_feed",
       "date": "2026-06-18 12:20",
-      "summary": "A British court has jailed two men linked to the Hong Kong Economic and Trade Office in London for up to 10 years for spying on ac..."
+      "summary": "A British court has jailed two men linked to the Hong Kong Economic and Trade Office (HKETO) in London for up to 10 years for spyi..."
     },
     {
       "title": "Towngas customers face higher bills as tariffs set to rise 4.4% in August",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/education/article/3357579/93-mainland-chinese-top-talent-move-hong-kong-childrens-education?utm_source=rss_feed",
       "date": "2026-06-18 10:21",
       "summary": "More than 90 per cent of mainland Chinese families moving to Hong Kong under the city’s talent visa schemes have cited their child..."
-    },
-    {
-      "title": "How 2 coming Hong Kong policies aim to promote subsidised flat turnover",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3357569/how-2-coming-hong-kong-policies-could-promote-subsidised-flat-turnover?utm_source=rss_feed",
-      "date": "2026-06-18 09:27",
-      "summary": "Hong Kong’s Housing Authority will roll out two schemes in September to promote more efficient use of subsidised homes by allowing..."
     }
   ],
   "New Scientist": [
