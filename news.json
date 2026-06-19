@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "A better way to model the behavior of metal alloys",
+      "link": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
+      "date": "2026-06-19 18:00",
+      "summary": "MIT researchers’ approach captures subtle atomic patterns, improving predictions of material properties...."
+    },
+    {
       "title": "MIT in the media: For the future of tech, \"Massachusetts can absolutely lead\"",
       "link": "https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead",
       "date": "2026-06-18 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
       "date": "2026-06-17 04:00",
       "summary": "A new spatial memory system for robots efficiently captures details about the objects they see while exploring their environment...."
-    },
-    {
-      "title": "How to create distinguishable states for quantum systems",
-      "link": "https://news.mit.edu/2026/how-to-create-distinguishable-states-for-quantum-systems-0615",
-      "date": "2026-06-15 19:55",
-      "summary": "Researchers establish key insights for reading and writing information for quantum sensing, communication, computing, and control...."
     }
   ],
   "Harvard Gazette": [
@@ -37,6 +37,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
       "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
+    },
+    {
+      "title": "Funny but serious, Chieng issues an AI warning to grads - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjd2dS0wSnZIbjNVSzM1N1ZLbW82LUpSaV92b1lDRU1ZQUw2UVJQUVE3eDRHVnB3UUJEV09kQkx5TkE3aFNjVlMzQ3poQ2lqY2UzWGdJaUh5RmlMRXRFclFsY0VLWnFaMkEyZXUyODI0dUlqVFlmYWtWMVJQQnlhZ005eDljQnZSWXd2RUVzX0NtN1BLb3pGQlNmOE9tSjREc2hVWQ?oc=5",
+      "date": "2026-05-27 07:00",
+      "summary": "Funny but serious, Chieng issues an AI warning to grads  Harvard Gazette..."
     },
     {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
@@ -49,12 +55,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
-    },
-    {
-      "title": "Funny but serious, Chieng issues an AI warning to grads - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjd2dS0wSnZIbjNVSzM1N1ZLbW82LUpSaV92b1lDRU1ZQUw2UVJQUVE3eDRHVnB3UUJEV09kQkx5TkE3aFNjVlMzQ3poQ2lqY2UzWGdJaUh5RmlMRXRFclFsY0VLWnFaMkEyZXUyODI0dUlqVFlmYWtWMVJQQnlhZ005eDljQnZSWXd2RUVzX0NtN1BLb3pGQlNmOE9tSjREc2hVWQ?oc=5",
-      "date": "2026-05-27 07:00",
-      "summary": "Funny but serious, Chieng issues an AI warning to grads  Harvard Gazette..."
     },
     {
       "title": "Plan to rein in inflated grading explained - Harvard Gazette",
@@ -167,12 +167,6 @@
       "summary": "Norway imposes near ban on AI in elementary school  Reuters..."
     },
     {
-      "title": "China announces measures to promote AI integration with consumption - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUnlocThjRE80VDlzbnFpU05Lc1FfdGZ2V21rS2dveUp4ZEFBaG85WG1nR3hZbGxvTWNScWZNOFpsdm9CaEdoOE9TY1p4NktQRENzbklzWXVaOXBra0x0LWtqT1JCUU5lak95a1dvWEdrOXdwUkIzeS1zTDNzcTBxMTNpcHh0djg1eExKSllkWTdYRXBzNHlnMFdyVUZIeFVXRzhuNDVTZURuR0lWeVl1QkJ6emw0T0JGcHd1ZEZfNms?oc=5",
-      "date": "2026-06-18 08:39",
-      "summary": "China announces measures to promote AI integration with consumption  Reuters..."
-    },
-    {
       "title": "AI-generated ads should be exempt from EU transparency rules, retail association says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXBKS05kZkNqTTFaQ2UtbnA4RlJTUWJTMTJ0MkFSVDRPbVlURzVGVXhRQ095V3dCYkFHak9NN3RhNWpxNXROeFBYWUxQTWxyNFhaSFZxOGlaWWRpYS1WWFE5Q1ByUWhnNWd2eTAwVVF2N2YyZFZXbnRFU0tod0ZsdUhZZHU1OHVpb2NKTldXV0RZZk9pN01GNWcxQldkekpza2pub0xKYmlyVlMxdzQyNGFLc1pRdFVOYUZwRjNPbm9iZ0NjTnVERXp2Vm8?oc=5",
       "date": "2026-06-19 10:44",
@@ -183,6 +177,12 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnV3ci1pOWNMTTVNMmJCdnNUd0FoNktlcWdWZ2ZpMHEwWGdaSXZUNWpBa093RGlDN1pMdjBFNVZybUN0NUVrSWo5cVpjRm0ySG9UcUk5dW10akRXamNuUXBDamsyM3RQRDFIUEE4S0Vvd0ltd3BVQnBCSVY5WFRDazVXOG5HaW9CZ3RqQTNzcGI2TE9rNTc1ZGg2UGNCaE5QelNmWjhfTU83OHZkc1U3R0ZsQlczR0JmR2otV2dkYVQtM241M2FXbHJmRQ?oc=5",
       "date": "2026-06-19 10:03",
       "summary": "Wall St Week Ahead Investors see Micron earnings as pulse check of AI rally momentum  Reuters..."
+    },
+    {
+      "title": "China tightens indium export checks as AI demand increases - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkk1QUdvSW53RlVYM3prTVFxMmpkdlNfUUdrY3RsUDJtY09iSmxqV3ZlWTBjdHNjTkczZHhtVlJYNkVQZFEtOW1UWXM5Y2NRbmlibG9wNV9MS2ozeTZvYWQzX3ZsZGxBU1ZHeHNFUWFfNGlvTktaN2FYNk10T2dhSHVmeVctSXl3MEh3cGo3SmI3a0VrWWFNTjVzbzRLYUFQYjJsMUFB?oc=5",
+      "date": "2026-06-19 06:39",
+      "summary": "China tightens indium export checks as AI demand increases  Reuters..."
     },
     {
       "title": "Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports - Reuters",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Hidden underground, fungi drive carbon storage, crop health and ecosystem stability",
-      "link": "https://phys.org/news/2026-06-hidden-underground-fungi-carbon-storage.html",
-      "date": "2026-06-19 17:40",
-      "summary": "Fungi are key constituents of the soil microbial community, playing a major role in moving carbon and energy through the soil food..."
+      "title": "The Sun may not engulf Earth after all, scientists say",
+      "link": "https://phys.org/news/2026-06-sun-engulf-earth-scientists.html",
+      "date": "2026-06-19 19:40",
+      "summary": "Need some good news on a Friday after a long week? The Earth may not be engulfed by the expanding fireball of the dying sun, which..."
     },
     {
-      "title": "Tiny objects swimming in a superfluid of light move against the flow",
-      "link": "https://phys.org/news/2026-06-tiny-superfluid.html",
-      "date": "2026-06-19 17:20",
-      "summary": "Superfluids are intriguing states of matter in which particles behave like a giant collective wave, allowing them to flow without ..."
+      "title": "Stressed-out soil bacteria adapt to environmental conditions",
+      "link": "https://phys.org/news/2026-06-stressed-soil-bacteria-environmental-conditions.html",
+      "date": "2026-06-19 19:20",
+      "summary": "A new study from Caltech demonstrates that soil bacteria can adapt under stress, particularly when a key nutrient, phosphorus, is ..."
     },
     {
-      "title": "Plant hormones in mammals challenge view of cytokinins as purely botanical",
-      "link": "https://phys.org/news/2026-06-hormones-mammals-view-cytokinins-purely.html",
-      "date": "2026-06-19 17:00",
-      "summary": "In biology, cytokinins were long considered regulators exclusive to the plant kingdom, where they control, among other things, gro..."
+      "title": "AI reveals unexpected source of antibiotic candidates in prion proteins",
+      "link": "https://phys.org/news/2026-06-ai-reveals-unexpected-source-antibiotic.html",
+      "date": "2026-06-19 19:00",
+      "summary": "New antibiotic candidates for drug-resistant bacteria may reside inside prions, misfolded proteins in the brain best known for rar..."
     },
     {
-      "title": "Microbial partners may help maize and sorghum respond to higher temperatures",
-      "link": "https://phys.org/news/2026-06-microbial-partners-maize-sorghum-higher.html",
-      "date": "2026-06-19 16:40",
-      "summary": "New research suggests the microbiome near the surface of a plant's roots, known as the rhizosphere microbiome, may play a role in ..."
+      "title": "Observed high vapor supersaturation provides crucial evidence for aerosol convective cloud invigoration",
+      "link": "https://phys.org/news/2026-06-high-vapor-supersaturation-crucial-evidence.html",
+      "date": "2026-06-19 19:00",
+      "summary": "Can tiny aerosol particles make tropical convective clouds grow stronger? For decades, scientists have debated this question becau..."
     },
     {
-      "title": "Excessive Instagram use could erode our sense of self, altering the perception of our bodies",
-      "link": "https://phys.org/news/2026-06-excessive-instagram-erode-perception-bodies.html",
-      "date": "2026-06-19 16:20",
-      "summary": "Instagram use could influence not only how we see our bodies, but also how our brain perceives the bodies we inhabit as \"ours.\" In..."
+      "title": "15-atom iridium nanoclusters stay stable 20 hours, outperform commercial catalysts",
+      "link": "https://phys.org/news/2026-06-atom-iridium-nanoclusters-stay-stable.html",
+      "date": "2026-06-19 18:40",
+      "summary": "An international research team from Tohoku University, Tokyo University of Science, Vanderbilt University and the University of Ad..."
     }
   ],
   "The Guardian Edu": [
