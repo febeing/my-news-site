@@ -77,12 +77,6 @@
       "summary": "Stanford, UC Berkeley rank among world’s top universities as research funding faces cuts  The Mercury News..."
     },
     {
-      "title": "Exclusive: A 21-year-old Stanford grad just raised $11 million to put a hormone lab on your wrist - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZzVlQmNfQnFkUDBDdVNSR0hhSmhJTm5ERFFLY3RLcFpDN2pfcWUxUGJrMTdkLTJKZ1RpUDh2a0xBRk9JMF9tRWhOb0xaQjY3dm1XeUNYMHgyUVFqMXhUSHlLRXBycDdDRzlydmJzYldTVURGREUzMFdpOHNGb1ZIVTdBV2dFRVRTTDJRU0FyWU5jN1IwZ04ycWVrVzViazg?oc=5",
-      "date": "2026-06-17 13:00",
-      "summary": "Exclusive: A 21-year-old Stanford grad just raised $11 million to put a hormone lab on your wrist  Fortune..."
-    },
-    {
       "title": "These 2 Bay Area universities ranked top in the world - KTVU",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSHBlSmNDeUdKS0drNmczM1B5Y1VtX0lwWllsbTd3c1Q3LWdMd1R2ZmtHZl84Vzh0LWhFMHQtTVQ0ZDhBU2lCUGJXZ0Ffdk00UmxEd2FpeWc5VUNKNE1oUkxPbUYzaTZYUDBpREVZZEpnaGFjaGdaczAyaU1Ga2dBUtIBhgFBVV95cUxOLWFvcmNJMkFpTjBrM2RWUUp6c2habEE1TzdyNVo3SnFvUGJaVVJwNFdUaUJFUkVwTzl3SGM2dDZkcGU1YzNzcDVRclZhb2hDbXktMmxqWFNRTDdmbEhfZjBTTWZ6dDRUUXdjV0tfUzdWTDF2bE5kby1RRHRJOVhTRmtWWUFDQQ?oc=5",
       "date": "2026-06-17 17:55",
@@ -93,6 +87,12 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3VNN0lzWk12M25UeFJTZzdWNmgxQ0JXRDhuVExMeVpqTGQ3dTJKWXRKeFptdXZ2X2NJREtmM2QxVkExT0ZXTE5zZE5WcmVwN3lES3dKX3JjeFczaDdiOVlQYVdTZEd1Qi1UemF0TDRjZXM5NDlrUlM2VzkyUnBhSV85ajI5cHhKZHBQQ3JubFV4VXBuYWQ2bkU4WjNuS0FYTFZTelVoZnhKMk9xMnBqRDd6V1BSZw?oc=5",
       "date": "2026-06-17 05:41",
       "summary": "Levin, Stanford alumni appear on list of Peter Thiel ‘Dialog’ society affiliates  The Stanford Daily..."
+    },
+    {
+      "title": "Peter Bing, philanthropist who championed Stanford, dies at 91 - Palo Alto Online",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNXdFdmJfRkZJN2otdzRxcEZoY2JNRjd4MUNXajdxVzE5OFVaVGVhTEZKNDRUQjNCWUxYU3J2V2dHcW9HSFpXdW94ejZHRFFYcFZHRFRGS2NKaFl4YV84T1BQRElFajZPdGZSRlhhVEJWSWFhb3g2NkhqejJ3OVphMTh4Y28zU1pUQjVqQmN6RG15SFJFcEFWTTU2VHN5dXA1UTd4bzZNN3NudjRuQkI2OTNR?oc=5",
+      "date": "2026-06-17 00:51",
+      "summary": "Peter Bing, philanthropist who championed Stanford, dies at 91  Palo Alto Online..."
     }
   ],
   "Nature Careers": [
@@ -129,6 +129,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Weekend reads: Media star loses doctorate for plagiarism; journal editor resigns for AI concerns; university removes dean for fabricating data",
+      "link": "https://retractionwatch.com/2026/06/20/weekend-reads-media-star-physicist-doctorate-plagiarism-journal-editor-resigns-ai-university-dean-data-fabrication/",
+      "date": "2026-06-20 10:00",
+      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
+    },
+    {
       "title": "RFK Jr. has various stances on retractions. Critics say he’s ‘politicizing’ them",
       "link": "https://retractionwatch.com/2026/06/18/rfk-jr-vaccines-infant-deaths-retractions-critics-politicizing/",
       "date": "2026-06-18 21:45",
@@ -151,12 +157,6 @@
       "link": "https://retractionwatch.com/2026/06/16/economist-woxsen-india-university-rankings-boosting-scheme/",
       "date": "2026-06-16 07:00",
       "summary": "On May 9, a university administrator in Afghanistan threatened in a LinkedIn post to expose what he called a publishing scam by pr..."
-    },
-    {
-      "title": "Publisher investigating two more papers on glyphosate safety over ghostwriting claims",
-      "link": "https://retractionwatch.com/2026/06/15/glyphosate-roundup-safety-ghostwriting-claims-critical-reviews-toxicology/",
-      "date": "2026-06-15 10:00",
-      "summary": "Tayor & Francis is investigating two papers about the weed killer Roundup following claims the articles were ghostwritten by the c..."
     }
   ],
   "Reuters AI": [
@@ -289,10 +289,16 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Hong Kong police arrest 7 over knifepoint robbery of HK$7 million in gold bars",
+      "title": "Suspect arrested after man attacked with rock in alleged attempted robbery",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357783/suspect-arrested-after-man-attacked-rock-alleged-attempted-robbery?utm_source=rss_feed",
+      "date": "2026-06-20 10:57",
+      "summary": "Hong Kong police have arrested a man in connection with an attempted robbery at Kai Tak Cruise Terminal, where the victim was alle..."
+    },
+    {
+      "title": "Hong Kong police arrest 7 over HK$7 million gold bar robbery at knifepoint",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357775/hong-kong-police-arrest-7-over-knifepoint-robbery-hk7-million-gold-bars?utm_source=rss_feed",
       "date": "2026-06-20 08:37",
-      "summary": "Hong Kong police have arrested seven people over robbery of six gold bars worth HK$7 million (US$893,102), with some suspects beli..."
+      "summary": "Hong Kong police have arrested seven people in connection with a robbery involving six gold bars worth HK$7 million (US$893,102), ..."
     },
     {
       "title": "What is Hong Kong’s role under China’s new vision for better global governance?",
@@ -310,13 +316,7 @@
       "title": "More of Northern Metropolis set to benefit from eased flow of cross-border resources",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3357766/new-measures-aim-ease-cross-border-flow-resources-within-northern-metropolis?utm_source=rss_feed",
       "date": "2026-06-20 06:35",
-      "summary": "More areas within the Northern Metropolis could benefit from new measures to the ease the cross-border flow of data, materials and..."
-    },
-    {
-      "title": "Thousands visit PLA barracks in Hong Kong to celebrate city’s return to Chinese rule",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3357764/thousands-visit-pla-barracks-hong-kong-celebrate-citys-return-chinese-rule?utm_source=rss_feed",
-      "date": "2026-06-20 06:25",
-      "summary": "Thousands of residents have flocked to a military base of the People’s Liberation Army (PLA) Hong Kong Garrison as it opened its b..."
+      "summary": "More areas within the Northern Metropolis could benefit from new measures to ease the cross-border flow of data, materials and cap..."
     }
   ],
   "New Scientist": [
