@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "Amalya Sargsyan: Had Amazing Sarcoma Experience at Stanford University - Oncodaily",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZNU9qOHVMUW43UEhuWXYzTGt6a2lqVGstYVFhemc4dTBiSmtTdUpaZkJaaHYzcUxkZ215dnBQbEpCMDhKdnhlUk5wanpzOFpXSnVwT045ZlE4N3JxWE5aZQ?oc=5",
+      "date": "2026-06-21 17:37",
+      "summary": "Amalya Sargsyan: Had Amazing Sarcoma Experience at Stanford University  Oncodaily..."
+    },
+    {
       "title": "Dedicated Stanford champion and leader Peter Bing dies at 91 - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IUkxWeXpwWTNqem53YXNVdGhxWW5uYjU1MjBJZ1Rkd05MeEJXMHJHRlktTWZNNDdTTzB1c3gyQjRTZG53SThUczNwSkxGSFlPZnVRbDFTeW1PRVZ6X05COVNod0diN2EzQ29haTRR?oc=5",
       "date": "2026-06-15 20:54",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSy1sWkxWMDlKT0dxRExJUV9VaDN2MHpMeV9BcXFrblZUdVU0S3JicEZOc0FTTEFuWVFGN05WNWEzWFo1Z3RxYTg0aURBMEltSVFDX1J5RGk1b1JjcHZaS2I4THZZOThIXzBtQ3VWT3pxcl91R3ZSd3pjX0lKVkV2Ul85eTA1cEZ4akVKOEswbXpoSEI2QVlKbFdRYUJLcXVwRloyd29iQWFNV1hxSGJ1enBlRF9fak5QVC1XdGNZONIBxAFBVV95cUxOQU56a29CcC02SHRieEoydDBvRGpBUU1qM0RBcGlfV2FENU1MUFJ0RUo5bGxVVTlBR0dOV05idEI2aDVJaVZjYkZadFRMUUJwa3dOalJPSVhqMS1Ha01RM3lJSnF3N2czczlheFBUbkxWZ2RDUU9rZF9mT3RwQnlXa3BTZ045WTlXbjhmTHMyQzZ0VW1SaW9Pd2JVTjN1WHdnT1IxaVBNZDZqT2k1OGtvOEp5Z3V4MEdQWHhnUnBpeEZ5bzRF?oc=5",
       "date": "2026-06-18 07:00",
       "summary": "Stanford, UC Berkeley rank among world’s top universities as research funding faces cuts  Marin Independent Journal..."
-    },
-    {
-      "title": "Stanford School of Medicine launches the 2026 class of clinicians and scientists - Stanford Medicine",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGRlJFdUN1eXZPUmFNaDhFWDR4WnBrSDB4bENiaGtrV0EwSmxBODc0UkFRblVtbjktZHA4OF9YRzZMRW5yclNJY0k3SzZxMlFSanBGM1BSWHpTSWtQb1hzSXZPR1NPN0s5WGI4SmJZbUhLbW9SVHc?oc=5",
-      "date": "2026-06-16 17:03",
-      "summary": "Stanford School of Medicine launches the 2026 class of clinicians and scientists  Stanford Medicine..."
     }
   ],
   "Nature Careers": [
@@ -181,7 +181,7 @@
     {
       "title": "China tightens indium export checks as AI demand increases - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkk1QUdvSW53RlVYM3prTVFxMmpkdlNfUUdrY3RsUDJtY09iSmxqV3ZlWTBjdHNjTkczZHhtVlJYNkVQZFEtOW1UWXM5Y2NRbmlibG9wNV9MS2ozeTZvYWQzX3ZsZGxBU1ZHeHNFUWFfNGlvTktaN2FYNk10T2dhSHVmeVctSXl3MEh3cGo3SmI3a0VrWWFNTjVzbzRLYUFQYjJsMUFB?oc=5",
-      "date": "2026-06-19 08:21",
+      "date": "2026-06-19 06:39",
       "summary": "China tightens indium export checks as AI demand increases  Reuters..."
     },
     {
@@ -225,6 +225,18 @@
   ],
   "Phys.org": [
     {
+      "title": "El Niño is underway, satellite observations show",
+      "link": "https://phys.org/news/2026-06-el-nio-underway-satellite.html",
+      "date": "2026-06-21 23:00",
+      "summary": "El Niño, characterized by warmer-than-normal water temperatures in parts of the equatorial Pacific, made its return in June 2026. ..."
+    },
+    {
+      "title": "Quantum mechanics theory may work without imaginary numbers, new analysis suggests",
+      "link": "https://phys.org/news/2026-06-quantum-mechanics-theory-imaginary-analysis.html",
+      "date": "2026-06-21 22:20",
+      "summary": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaborat..."
+    },
+    {
       "title": "If you're feeling down, maybe don't pet your cat, new study suggests",
       "link": "https://phys.org/news/2026-06-youre-dont-pet-cat.html",
       "date": "2026-06-21 22:00",
@@ -241,18 +253,6 @@
       "link": "https://phys.org/news/2026-06-mars-conditions-earth-pathogens.html",
       "date": "2026-06-21 20:00",
       "summary": "Microorganisms from our planet could survive on celestial bodies where water is present, such as Mars. That is the conclusion of P..."
-    },
-    {
-      "title": "Nanoscale CoAl design delivers 6 GPa strength with 15% plastic strain at room temperature",
-      "link": "https://phys.org/news/2026-06-nanoscale-coal-gpa-strength-plastic.html",
-      "date": "2026-06-21 19:00",
-      "summary": "Materials engineers have developed the ability to manipulate structure and matter at the nanoscale for solid-state alloys called i..."
-    },
-    {
-      "title": "White roofs and urban parks reduce heat in cities, but do not offset extreme global warming",
-      "link": "https://phys.org/news/2026-06-white-roofs-urban-cities-offset.html",
-      "date": "2026-06-21 18:30",
-      "summary": "The implementation of reflective white roofs and new urban parks can significantly reduce temperatures in cities and decrease popu..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Where is Hong Kong 29 years after handover?",
+      "link": "https://www.scmp.com/news/hong-kong/series/3357848/where-hong-kong-29-years-after-handover?utm_source=rss_feed",
+      "date": "2026-06-21 23:03",
+      "summary": "点击查看原文..."
+    },
+    {
+      "title": "Hong Kong to roll out measures boosting offshore yuan trading in July: finance chief",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357804/hong-kong-roll-out-measures-boosting-offshore-yuan-trading-july-finance-chief?utm_source=rss_feed",
+      "date": "2026-06-21 23:00",
+      "summary": "As Hong Kong marks the 29th anniversary of its return to Chinese rule on July 1, the South China Morning Post talks to the city’s ..."
+    },
+    {
       "title": "Hong Kong father, son arrested after parking ticket thrown at traffic wardens",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357837/hong-kong-father-son-arrested-after-parking-ticket-thrown-traffic-wardens?utm_source=rss_feed",
       "date": "2026-06-21 14:04",
@@ -305,18 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3357829/hong-kong-tv-host-lillian-sze-loses-battle-ovarian-cancer?utm_source=rss_feed",
       "date": "2026-06-21 11:42",
       "summary": "Lillian Sze, a Hong Kong television host who spoke four languages and frequently emceed fan meetings for South Korean stars, has d..."
-    },
-    {
-      "title": "No more painful biopsies? How a new blood test will transform cancer detection in Hong Kong",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3357760/no-more-painful-biopsies-how-new-blood-test-will-transform-cancer-detection-hong-kong?utm_source=rss_feed",
-      "date": "2026-06-21 11:00",
-      "summary": "In the fourth instalment of a six-part Health Matters wellness series on cancer in Hong Kong, Elizabeth Cheung examines how city r..."
-    },
-    {
-      "title": "6 injured after 4 taxis and private car collide on Hong Kong’s Shenzhen Bay Bridge",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3357825/4-injured-after-2-taxis-and-private-car-collide-hong-kongs-shenzhen-bay-bridge?utm_source=rss_feed",
-      "date": "2026-06-21 09:27",
-      "summary": "Four taxis and a private car collided on Hong Kong’s Shenzhen Bay Bridge, leaving six people injured and forcing the temporary clo..."
     }
   ],
   "New Scientist": [
