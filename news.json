@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Astronomers map a magnetic “skeleton” funneling gas into a stellar nursery",
+      "link": "https://news.mit.edu/2026/mit-haystack-observatory-astronomers-map-magnetic-skeleton-funneling-gas-into-stellar-nursery-0622",
+      "date": "2026-06-22 14:20",
+      "summary": "MIT Haystack Observatory researchers use SOFIA observations to reveal how magnetic fields guide the assembly of one of our galaxy'..."
+    },
+    {
       "title": "A better way to model the behavior of metal alloys",
       "link": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
       "date": "2026-06-19 18:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/flexible-cryogenic-cables-solve-challenge-in-quantum-system-development-0617",
       "date": "2026-06-17 18:35",
       "summary": "A prototype wiring system for dilution refrigerators could advance the realization of practical quantum computers...."
-    },
-    {
-      "title": "Could AI tell you where you left your keys?",
-      "link": "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
-      "date": "2026-06-17 04:00",
-      "summary": "A new spatial memory system for robots efficiently captures details about the objects they see while exploring their environment...."
     }
   ],
   "Harvard Gazette": [
@@ -45,12 +45,6 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Funny but serious, Chieng issues an AI warning to grads - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjd2dS0wSnZIbjNVSzM1N1ZLbW82LUpSaV92b1lDRU1ZQUw2UVJQUVE3eDRHVnB3UUJEV09kQkx5TkE3aFNjVlMzQ3poQ2lqY2UzWGdJaUh5RmlMRXRFclFsY0VLWnFaMkEyZXUyODI0dUlqVFlmYWtWMVJQQnlhZ005eDljQnZSWXd2RUVzX0NtN1BLb3pGQlNmOE9tSjREc2hVWQ?oc=5",
-      "date": "2026-05-27 07:00",
-      "summary": "Funny but serious, Chieng issues an AI warning to grads  Harvard Gazette..."
-    },
-    {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
@@ -61,9 +55,21 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
+    },
+    {
+      "title": "The questions that keep scientists up at night - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
+      "date": "2026-04-07 07:00",
+      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
     }
   ],
   "Stanford News": [
+    {
+      "title": "Meet Dani Gonzalez Gaubeka, ’26 - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLRVR0aWQ5TUcxSnFRZER6clVXWkNNTTBfaXlTRjJNeFJBUWJJakdPcmlLUkxhMGJxcEdZd0FDVEJJLVVFN1phYXRJUE85YjZZMEo3ZWRaaXBMd3JYX2pVZ3dFSElQYXNPcHVJ?oc=5",
+      "date": "2026-06-22 12:00",
+      "summary": "Meet Dani Gonzalez Gaubeka, ’26  Stanford University..."
+    },
     {
       "title": "2 California universities made the world’s top 10. Here’s where they ranked - San Francisco Chronicle",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON2laYjl4WndXODc2ZmkwN3RrSnUxRGdsLThwS2RGYlVQX3NXZUFWd1Y2VXplTG5WOWZGcmZfUUhHTDlBQUVmX1E5V3oya09tV0h6V1dEd1c2QWhYc0Y4UDlKeHNRQzdmNWktalhPQzAzaTdSZDhPNWhmN2UyRWU3LUhIUzNEVmROTE4wUVJ6VHJ2dU1qblFfb09NRlY?oc=5",
@@ -77,54 +83,48 @@
       "summary": "Stanford, UC Berkeley rank among world’s top universities as research funding faces cuts  Marin Independent Journal..."
     },
     {
-      "title": "Amalya Sargsyan: Had Amazing Sarcoma Experience at Stanford University - Oncodaily",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZNU9qOHVMUW43UEhuWXYzTGt6a2lqVGstYVFhemc4dTBiSmtTdUpaZkJaaHYzcUxkZ215dnBQbEpCMDhKdnhlUk5wanpzOFpXSnVwT045ZlE4N3JxWE5aZQ?oc=5",
-      "date": "2026-06-21 17:37",
-      "summary": "Amalya Sargsyan: Had Amazing Sarcoma Experience at Stanford University  Oncodaily..."
+      "title": "Stanford Announces 2026 Slate - Stanford Cardinal",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xa1Exbzl6Ul9VX0FJX240TWxiaUlKWXpPSWtFT0tUWVNiZXRWMGxiZXdpTmZPUjhLY3oxY09qaVFPaHBKdkRUZnQ0WGF1R2NsdkJ1bF9xSjY3NmhWS3BYeV9LVDhnNENXdUFvZ3VfanNKejhESDVvR25SZVNKUQ?oc=5",
+      "date": "2026-06-19 17:14",
+      "summary": "Stanford Announces 2026 Slate  Stanford Cardinal..."
     },
     {
-      "title": "Stanford Report: Surge in China's Independently Trained Top AI Talents - 36 Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oQWNCdVpsVzRxMmNwUXhFZHA2ZUFaTFhlMlJKaDYySTJJSXRMZkQ5azF5NWFBWE5FZEpmMlJKT1V2SzdTT2EzdWkxSVIwMWFKS2Z3?oc=5",
-      "date": "2026-06-22 02:20",
-      "summary": "Stanford Report: Surge in China's Independently Trained Top AI Talents  36 Kr..."
-    },
-    {
-      "title": "Dave McCarty to Enter College Baseball Hall of Fame - Stanford Cardinal",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDgtd0dGSVhBMTMtazd2aGhOd0ptalZ2dkVNeFI2cVBlTENyRFV6ZG9laWViaTBGR3VDZDA0SzkwWWNjaGd2WFV3NVVCdUlaRUtNa3dVTy04RHJFbFZBVERWR1dRMl9ObUFIRTAxcWprNDNyc0J6b1RmNEdqeGhobEJucEN2U2hWeEt1OU1JRUNTejZQ?oc=5",
-      "date": "2026-06-18 17:04",
-      "summary": "Dave McCarty to Enter College Baseball Hall of Fame  Stanford Cardinal..."
+      "title": "APARC Names 2026-2028 Incoming Fellows - Shorenstein Asia-Pacific Research Center",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xbERfXzNWY0o3WXh2cG9zOHAzbFloQ3dya01yTF9iTkdLUVFYckR1LTVYNjFKTnZ5dklRdGUxVHIydUMzSUVTcWtFQ3dOemtEeTlTaHVMeEY1YWMzYU9sai1laVplcmhLZU1YeVFPQ2hGRjNqdktlQlB2cXNnMGM?oc=5",
+      "date": "2026-06-22 12:00",
+      "summary": "APARC Names 2026-2028 Incoming Fellows  Shorenstein Asia-Pacific Research Center..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "The first ticking ‘nuclear clocks’ are here — what can they do?",
+      "link": "https://www.nature.com/articles/d41586-026-01909-7",
+      "date": "2026-06-22 00:00",
+      "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01909-7Two research teams have created a new, long-awaited type of ..."
+    },
+    {
+      "title": "Will AI spark a scientific renaissance — or a diffuse monoculture?",
+      "link": "https://www.nature.com/articles/d41586-026-01954-2",
+      "date": "2026-06-22 00:00",
+      "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01954-2Artificial intelligence’s ability to enrich science will dep..."
+    },
+    {
+      "title": "Make science more reliable: study people as they go about their lives",
+      "link": "https://www.nature.com/articles/d41586-026-01957-z",
+      "date": "2026-06-22 00:00",
+      "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01957-zResearchers have long discussed the replication crisis. Now ..."
+    },
+    {
+      "title": "Why heritage sites are at risk in a warming world — and how to save them",
+      "link": "https://www.nature.com/articles/d41586-026-01956-0",
+      "date": "2026-06-22 00:00",
+      "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01956-0As rising seas and intensifying disasters threaten historic ..."
+    },
     {
       "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
       "link": "https://www.nature.com/articles/s41586-026-10812-0",
       "date": "2026-06-19 00:00",
       "summary": "Nature, Published online: 19 June 2026; doi:10.1038/s41586-026-10812-0Author Correction: Autophagic cell death restricts chromosom..."
-    },
-    {
-      "title": "A long-lived butterfly’s secret to graceful ageing",
-      "link": "https://www.nature.com/articles/d41586-026-01948-0",
-      "date": "2026-06-19 00:00",
-      "summary": "Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01948-0Species in the Heliconius genus are among the longest-lived ..."
-    },
-    {
-      "title": "Briefing Chat: Testosterone and sperm might get a boost from obesity drugs",
-      "link": "https://www.nature.com/articles/d41586-026-01963-1",
-      "date": "2026-06-19 00:00",
-      "summary": "Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01963-1Nature staff discuss preliminary data on the effects of GLP-..."
-    },
-    {
-      "title": "Stem cells banish severe autoimmune disease for 15 years",
-      "link": "https://www.nature.com/articles/d41586-026-01925-7",
-      "date": "2026-06-19 00:00",
-      "summary": "Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01925-7Two people were the first to receive the therapy for a condi..."
-    },
-    {
-      "title": "Clues to the sloth’s sloth found in its genome",
-      "link": "https://www.nature.com/articles/d41586-026-01869-y",
-      "date": "2026-06-18 00:00",
-      "summary": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01869-ySequencing shows duplication of genes that affect mitochondr..."
     }
   ],
   "Retraction Watch": [
@@ -161,34 +161,34 @@
   ],
   "Reuters AI": [
     {
-      "title": "Norway imposes near ban on AI in elementary school - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5",
-      "date": "2026-06-19 15:41",
-      "summary": "Norway imposes near ban on AI in elementary school  Reuters..."
-    },
-    {
-      "title": "Explainer-Three Ways Trump Could Get a Stake in AI Firms for the US - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcEJLWmZTc1JGWGNnNmo4Zm8yRlNMODFSOS1VT0R6cmRuNkViSWpPYzFsRWt3cHJZa1VIT2pDOFQtOGtKQ3hVSDVEVzNWc3kyWGRFdE5VbEtaS3dWWGxCMnQ3ODhKSU5PbEF4bFpKWm4ybHg3QXlZd0txRlY5MmNtc2E0TFprOWZmNjdmdTlnaUo0YlpWQkVjV2ptMXRvRlc2NUo4dHh0VzJFX3VoNXNNOFIxNVNpNElYR2c1WE5mZXRBUQ?oc=5",
-      "date": "2026-06-22 10:16",
-      "summary": "Explainer-Three Ways Trump Could Get a Stake in AI Firms for the US  U.S. News & World Report..."
-    },
-    {
-      "title": "US curbs on AI spur European firms to spread the risk - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX0lWU2NUd05hc2JpNFpiQWtvUGJ5RjNYZnVTMHBYbmxVSE5kVW53N1hjeGJlQUZzLVVOZ2dnNDc4UDdxWkZIR005X1VIWnBBdEtJQWxscW9wdEs2aS11ZENmMzB2TFFzUkVzcUk2M0RfendOOUcxUF93dHBzaFdMWnI5NFBuV2I5RVNuYUgycDF6dk8tWFRpenZKTFk?oc=5",
-      "date": "2026-06-22 12:06",
-      "summary": "US curbs on AI spur European firms to spread the risk  Reuters..."
-    },
-    {
-      "title": "China's push for green power use in AI projects faces hurdles, experts say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0NEMl9RRS1XWTlRcldOcWJoUldPSnFVQ3Bnakg2SEZtRzRUWEpDenVHdURneUhOdFZkUW1Ba1l5YlRWZURZWDBMUXdEUDJ2Nkp6eERsSlVtWVVlNm9zVXdUMHZUUXVTM1VDYm9KVy1vcDZueEtuVHhlbzlkZFpZcW5NVTNwMUg4ZkNuei03TXo5U0szOXotbm1pZkY2NE8zRUs5YzctcUdrMkhENFQ0UFFMSFdZZFli?oc=5",
-      "date": "2026-06-22 07:09",
-      "summary": "China's push for green power use in AI projects faces hurdles, experts say  Reuters..."
-    },
-    {
       "title": "EXCLUSIVE Indonesia plans to embed AI in key programmes, including $15 billion free-meal drive, document shows - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa2piUjlhMnNIUTctUzdJWWMzOWV2bURVTUlNQmViSVV3UGt6UkRxNjIycHB3RFY4Mmx5NjBkN0ItbVJKRkNZQnh0QnRqanA5R182VTZCN2cwQjJsbU9mWm1UZVFHQ29jdDMyX1JQeTVwQXRqUG9ZMThMZTdOdkVsN1JNWXVkdEp3OGIyNDNZdWZrajh2WTR3cEwwQWFnNFR3eUtPZW1jSUlDLU9jOTJiRndJU3ljSDBaSlJXdXh5MTJnbGw5ZzZRV2FHYw?oc=5",
-      "date": "2026-06-22 08:52",
+      "date": "2026-06-22 13:10",
       "summary": "EXCLUSIVE Indonesia plans to embed AI in key programmes, including $15 billion free-meal drive, document shows  Reuters..."
+    },
+    {
+      "title": "AI boom's US employment, wage impact muted so far, ECB study finds - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWdieHpxZWJqRENDWDBoSGVMWlhYUTliQlVTSHpfV0FHSFNnUXd4QzM2TTcwYTF5aDM4TW42U1gwYjNQMlZKalMyTlF0S3pndWtEU2RESnc5UXVsS2xaUjlPa053ZTFoYnB4VFNZWHJlQTczSkRqU1pCcmY0ZmZvVDJfSWpqMGpFVGhoUDhEQzNRd3ZnLTQzcm1MUXRwQkpsQWZzRlk1NkJXUmlUZktFYlRUV25LV2syTlcyNUlsWQ?oc=5",
+      "date": "2026-06-22 10:48",
+      "summary": "AI boom's US employment, wage impact muted so far, ECB study finds  Reuters..."
+    },
+    {
+      "title": "U.S. tech megacaps slide as SpaceX extends slump, AI expense concerns grow - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTEZKNy1oOHpaZnFtM1B6Z0dsLV9aVi1VNEhNZWdibHZhZDhBUDJGb05MTGtsRG1od015d3kxd1A5bGNJaEN5MWdMVlFXR21wWV81M2pYOEtzQlZ2S2hySzZXLWlpWHNYM21leDlXWWFEM2RjdnhrQl92OUM3QWZNamI4c2ZRdUdobVhPMzc2bHZOcUVCUml2cTYzQXNLVHJKYkdickh0OVJ4bk1peXVlVVRzdW1PMWIzLVN2dGxWdm9RTFVjamc?oc=5",
+      "date": "2026-06-22 16:59",
+      "summary": "U.S. tech megacaps slide as SpaceX extends slump, AI expense concerns grow  Reuters..."
+    },
+    {
+      "title": "Three ways Trump could get a stake in AI firms for the US - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYk1wdmpHWjNYX1l2SVBUajlPZ1RxTXNvRXFzbkRLV3E1ZmR3TDhJdkROTnY3WDVvOUd0MVFaNFNlRjVfczBMazlsTDFidVduY1g4aVM2YmNnUzE4U0FCVzVyeUM3V0h6WTJxSzdDNDMtbW5rTkE4aHNva005T2twMjZqNV9EQjMzcDVBSDNvOUVudVdIRTZ1Zm15ZWJUV3VGT3c?oc=5",
+      "date": "2026-06-22 15:43",
+      "summary": "Three ways Trump could get a stake in AI firms for the US  Reuters..."
+    },
+    {
+      "title": "Upscale AI valued at $2 billion after funding extension - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejN6UXVxNng1TXNSYl9aWlB4dktLdDlMWlpUVlJGeXhhSHJEN3BoSzR4UHlsUDh1T1lvT1JVOGk5Y095WGxUcmxVNzhiTFdlX1JuOXRuaEJpSS1YYlh6SnNOTHhjSkdjMnBPek1VNS1NOGkwQ3Frczkza2VMaXVsc2NpWGhrN2poMm9QdmIzckFUQXBCVHJ0eUMtZ2g?oc=5",
+      "date": "2026-06-22 13:44",
+      "summary": "Upscale AI valued at $2 billion after funding extension  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Electron-Ion Collider's radiofrequency controls system passes first real-world test",
-      "link": "https://phys.org/news/2026-06-electron-ion-collider-radiofrequency-real.html",
-      "date": "2026-06-22 12:00",
-      "summary": "The U.S. Department of Energy's (DOE) Brookhaven National Laboratory has reached a key early milestone in developing radiofrequenc..."
+      "title": "CRISPR safety check evaluates intended and unintended mutations",
+      "link": "https://phys.org/news/2026-06-crispr-safety-unintended-mutations.html",
+      "date": "2026-06-22 17:20",
+      "summary": "A team of researchers led by Professor Akitsu Hotta (Department of Clinical Application) developed a comprehensive framework that ..."
     },
     {
-      "title": "Australia confirms first H5N1 cases in wild birds: What happens next for farms and wildlife?",
-      "link": "https://phys.org/news/2026-06-australia-h5n1-cases-wild-birds.html",
-      "date": "2026-06-22 11:40",
-      "summary": "On a remote beach near Esperance, Western Australia, two sick seabirds have brought the bird flu crisis to Australia...."
+      "title": "How drone AI could help endangered birds",
+      "link": "https://phys.org/news/2026-06-drone-ai-endangered-birds.html",
+      "date": "2026-06-22 17:20",
+      "summary": "Drones and artificial intelligence could provide valuable information to guide efforts to slow the alarming extinction rate of bir..."
     },
     {
-      "title": "Mapping cotton bacterial blight resistance",
-      "link": "https://phys.org/news/2026-06-cotton-bacterial-blight-resistance.html",
-      "date": "2026-06-22 11:20",
-      "summary": "Spoorti Gandhadmath carefully placed 3.5-inch (8.9-centimeter) pots on a shelf in a growth chamber. Within seven days of sowing, n..."
+      "title": "Machine learning helps identify six promising solvents for carbon dioxide electroreduction",
+      "link": "https://phys.org/news/2026-06-machine-solvents-carbon-dioxide-electroreduction.html",
+      "date": "2026-06-22 17:00",
+      "summary": "Carbon dioxide (CO2) is a primary driver of climate change in Earth's atmosphere. At the State University of New York at Stony Bro..."
     },
     {
-      "title": "New research advances amaranth as a nutritious and high-performing leafy green crop",
-      "link": "https://phys.org/news/2026-06-advances-amaranth-nutritious-high-leafy.html",
-      "date": "2026-06-22 11:00",
-      "summary": "Two complementary studies, appearing in HortScience, from Rutgers University are advancing the potential of amaranth (Amaranthus s..."
+      "title": "Housing, race, income linked to soil lead exposure in two northeast cities",
+      "link": "https://phys.org/news/2026-06-housing-income-linked-soil-exposure.html",
+      "date": "2026-06-22 17:00",
+      "summary": "An estimated 25%–40% of homes in the U.S. have soil contaminated with lead, a toxic heavy metal that can harm children's developme..."
     },
     {
-      "title": "Europe sweats through new heat wave, with worse to come",
-      "link": "https://phys.org/news/2026-06-europe-worse.html",
-      "date": "2026-06-22 09:10",
-      "summary": "France banned alcohol in red-alert areas Sunday, Spain and Germany canceled or postponed sports events, and Britain warned of \"tro..."
+      "title": "'Too pretty to do math'? Here's the real reason girls aren't choosing to study math",
+      "link": "https://phys.org/news/2026-06-pretty-math-real-girls.html",
+      "date": "2026-06-22 16:40",
+      "summary": "The T-shirt is yellow, 100% cotton and meant for \"everyday wear.\" Across the front, it declares in italic script, \"I'm too pretty ..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Hong Kong court hears of boy’s final moments after being beaten, starved by mother",
+      "title": "Survivors fear scrutiny gaps as Hong Kong fire probe declines statutory powers",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3357963/survivors-fear-scrutiny-gaps-hong-kong-fire-probe-declines-statutory-powers?utm_source=rss_feed",
+      "date": "2026-06-22 15:26",
+      "summary": "An independent committee investigating Hong Kong’s deadliest fire in decades has ruled out seeking statutory powers to compel witn..."
+    },
+    {
+      "title": "Hong Kong, Fujian sign 6 deals to deepen finance, tourism and education ties",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3357960/hong-kong-fujian-sign-6-deals-deepen-finance-tourism-and-education-ties?utm_source=rss_feed",
+      "date": "2026-06-22 14:12",
+      "summary": "Hong Kong has signed six agreements with Fujian to step up collaboration in finance, trade, tourism and education, with Chief Exec..."
+    },
+    {
+      "title": "Hong Kong cockatoos could help save Indonesia’s endangered species, study shows",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3357956/hong-kong-cockatoos-could-help-save-indonesias-endangered-species-study-shows?utm_source=rss_feed",
+      "date": "2026-06-22 13:40",
+      "summary": "Hong Kong’s wild yellow-crested cockatoos may hold genetic traits that could help save the critically endangered species in Indone..."
+    },
+    {
+      "title": "Doctor boyfriend of sacked Hong Kong medical intern also fired for misconduct",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3357951/hong-kong-doctor-fired-over-misconduct-linked-medical-intern-case?utm_source=rss_feed",
+      "date": "2026-06-22 12:53",
+      "summary": "A doctor at Tuen Mun Hospital in Hong Kong has been fired for conducting an unauthorised procedure on a patient, in an incident li..."
+    },
+    {
+      "title": "Boy, 5, starved to death was half normal weight for age, Hong Kong court told",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357947/hong-kong-court-hears-boys-final-moments-after-being-beaten-starved-mother?utm_source=rss_feed",
       "date": "2026-06-22 12:29",
       "summary": "A five-year-old boy died after his mother physically abused, confined and starved him until he was a mere 9.7kg (21.38lbs) – half ..."
-    },
-    {
-      "title": "4 more suspects arrested over HK$7 million gold bar robbery at Hong Kong airport",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357931/4-more-suspects-arrested-over-hk7-million-gold-bar-robbery-hong-kong-airport?utm_source=rss_feed",
-      "date": "2026-06-22 09:59",
-      "summary": "Police have arrested four more suspects linked to a high-profile knifepoint robbery in Hong Kong following a joint cross-border op..."
-    },
-    {
-      "title": "Chinese ride-hailing giants back Hong Kong plan to cap permits at 10,000",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3357919/mainland-ride-hailing-giants-back-hong-kong-plan-cap-permits-10000?utm_source=rss_feed",
-      "date": "2026-06-22 08:43",
-      "summary": "Two mainland Chinese ride-hailing operators in Hong Kong have backed a controversial plan to regulate the industry by capping vehi..."
-    },
-    {
-      "title": "1 year in prison for gang member who forced 2 Thai women into prostitution in Hong Kong",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357911/1-year-prison-gang-member-who-forced-2-thai-women-prostitution-hong-kong?utm_source=rss_feed",
-      "date": "2026-06-22 08:30",
-      "summary": "A Hong Kong court has sentenced a 70-year-old gang member to a year in prison for forcing two Thai women into prostitution, after ..."
-    },
-    {
-      "title": "24 drivers arrested, over 4,000 tickets issued in crackdown on errant road users",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3357900/24-drivers-arrested-over-4000-tickets-issued-crackdown-errant-road-users?utm_source=rss_feed",
-      "date": "2026-06-22 07:05",
-      "summary": "Hong Kong police have arrested 24 drivers and issued more than 4,000 tickets during a two-week crackdown on distracted driving and..."
     }
   ],
   "New Scientist": [
