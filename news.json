@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "New chip could help tiny robots traverse complex environments",
+      "link": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
+      "date": "2026-06-23 04:00",
+      "summary": "Researchers combined an efficient algorithm with dedicated hardware to rapidly generate 3D maps for navigation using minimal memor..."
+    },
+    {
       "title": "Astronomers map a magnetic “skeleton” funneling gas into a stellar nursery",
       "link": "https://news.mit.edu/2026/mit-haystack-observatory-astronomers-map-magnetic-skeleton-funneling-gas-into-stellar-nursery-0622",
       "date": "2026-06-22 14:20",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617",
       "date": "2026-06-17 19:20",
       "summary": "Researchers show that for certain kinds of games, an overlooked class of algorithms performs much better than expected...."
-    },
-    {
-      "title": "Flexible cryogenic cables solve a challenge in quantum system development",
-      "link": "https://news.mit.edu/2026/flexible-cryogenic-cables-solve-challenge-in-quantum-system-development-0617",
-      "date": "2026-06-17 18:35",
-      "summary": "A prototype wiring system for dilution refrigerators could advance the realization of practical quantum computers...."
     }
   ],
   "Harvard Gazette": [
@@ -57,10 +57,10 @@
       "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
     },
     {
-      "title": "Plan to rein in inflated grading explained - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
-      "date": "2026-03-26 07:00",
-      "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+      "title": "The questions that keep scientists up at night - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
+      "date": "2026-04-07 07:00",
+      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -83,9 +83,9 @@
       "summary": "APARC Names 2026-2028 Incoming Fellows  Shorenstein Asia-Pacific Research Center..."
     },
     {
-      "title": "Anna Lembke, associate professor of psychiatry at Stanford University School of Medicine and author of the book Dopamine Nation, told DW that SFVs combined several features that make them unusually compelling. I via ANC 24/7 Link of full story in the com - Facebook",
+      "title": "Anna Lembke, associate professor of psychiatry at Stanford University School of Medicine and author of the book Dopamine Nation, told DW that SFVs combined several features that make them unusually compelling. I via ANC 24/7 Link of full story in the com - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR0Iwam1CU3RfcVZNMmF4Z0ZHTm4xMFNnd010ZmxPZXlfRzRWNDhiS3Q5QURxOTgwVjlnT2dIbDdfS1Vfei1Sb1VvcGZ4TVN6MWxGeXVjZEw3VF9MajU5ZzhpRGxfWXJNMTBQS09ab2V6TThKaFgzWUY4UHVBVS15V2hhZmJwSHlCN2tWbTVjOExNSlhuc1c0VEktNl9qQ3VCeU5Ic0xISDhBemxZWmlsQkZjdTI1Xzc3Z1JOaTJuT2ZCcHVMN3ZfYlRyclFUdlFZNlVMUlNBOA?oc=5",
-      "date": "2026-06-22 18:00",
+      "date": "2026-06-23 00:03",
       "summary": "Anna Lembke, associate professor of psychiatry at Stanford University School of Medicine and author of the book Dopamine Nation, t..."
     },
     {
@@ -167,22 +167,22 @@
       "summary": "EXCLUSIVE Indonesia plans to embed AI in key programmes, including $15 billion free-meal drive, document shows  Reuters..."
     },
     {
-      "title": "AI boom's US employment, wage impact muted so far, ECB study finds - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWdieHpxZWJqRENDWDBoSGVMWlhYUTliQlVTSHpfV0FHSFNnUXd4QzM2TTcwYTF5aDM4TW42U1gwYjNQMlZKalMyTlF0S3pndWtEU2RESnc5UXVsS2xaUjlPa053ZTFoYnB4VFNZWHJlQTczSkRqU1pCcmY0ZmZvVDJfSWpqMGpFVGhoUDhEQzNRd3ZnLTQzcm1MUXRwQkpsQWZzRlk1NkJXUmlUZktFYlRUV25LV2syTlcyNUlsWQ?oc=5",
-      "date": "2026-06-22 10:48",
-      "summary": "AI boom's US employment, wage impact muted so far, ECB study finds  Reuters..."
+      "title": "Micron, Anthropic sign AI infrastructure supply agreement - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnlnRmk0UXp1RDNTbTA5TkI5NmtIRl85NEx4bnlwTU5wZEVNT0VITTA1T3J2ODZnb201OGZnb1Brazc2dmpFcVlLZU5hRUczMGVJUTlpMEVpaDY5Wmh6TkdJQ3h6alAxc2xHQnVKWFdHV2l3LXZvVDJIMEhxSDA0SGVFOS1mU1NfREZBWWRmNVE2UkZCbW5uUm9fckVjN3N1bUZj?oc=5",
+      "date": "2026-06-22 20:20",
+      "summary": "Micron, Anthropic sign AI infrastructure supply agreement  Reuters..."
+    },
+    {
+      "title": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0Q1Q0VWQXB6VW9zT2xtZElHMXV6d1pmZjdVZW14Y0o4MnU1T1JrMHNFbG41dEdYWFZsRllYeGlOdy1iaUxnWGd2VnFJblJ3RmFXWVNpODBRVHVNWE5NbF9Idm5tMnlTcUFNNVRKMjVXNkF6eVQwYzQzaDdHdllBcmhUVlFDMWhCM2xLTEpra3VsWjhaalRFTnZfcGM3bFhUVDlqdzFmMjNRbkF1Tk9Sb0lMNThKR0tIZnEydkEwUTZOMTg?oc=5",
+      "date": "2026-06-22 21:13",
+      "summary": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices  Reuters..."
     },
     {
       "title": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZnRBblJ3NTkyRUx4YUl3ZXg3MGZwSWNtSlhZUkgyb2NlODJVc2hpVWI4YWFOaDNGVjJtYVEwdk9qR2tYNWZsc1VUTlFwSTNMXzRrcUNDNjFCOUJSWFpSRl9QRktFcGNwaHRtSWY5eUY0dHAtRUYxSEtGT2Y0Tjh3RVJ4aDZsRDNLQ0JRa2xRYXE1QV9pZjNDZFA2Mmg1bm8wOUw4YnI3RFZ3MWVPc0VENHk1VXRJaW5yTEtEcjdqUnd6VFk3bWI0YUVpak15VGM?oc=5",
       "date": "2026-06-22 23:17",
       "summary": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk  Reuters..."
-    },
-    {
-      "title": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0Q1Q0VWQXB6VW9zT2xtZElHMXV6d1pmZjdVZW14Y0o4MnU1T1JrMHNFbG41dEdYWFZsRllYeGlOdy1iaUxnWGd2VnFJblJ3RmFXWVNpODBRVHVNWE5NbF9Idm5tMnlTcUFNNVRKMjVXNkF6eVQwYzQzaDdHdllBcmhUVlFDMWhCM2xLTEpra3VsWjhaalRFTnZfcGM3bFhUVDlqdzFmMjNRbkF1Tk9Sb0lMNThKR0tIZnEydkEwUTZOMTg?oc=5",
-      "date": "2026-06-22 21:22",
-      "summary": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices  Reuters..."
     },
     {
       "title": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports - Reuters",
@@ -211,51 +211,57 @@
       "summary": "The inevitable weakness of metrics  MIT Technology Review..."
     },
     {
-      "title": "The Download: record-breaking subsea tunnels and flexible data centers - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXQxQlZuaFRsNzU1Z2YwNGs1V3FSbFAyb3VMdDBQaEhFWV9EcWF2ak9Zbi02MXV1NnlnZFM3S0NibW9oRC1JVW1yODhnYTlINjE4S0tjUGlLNmJSYi1EY05MN0FRQVFBYzFGZ3FGb3NGWS1YSEFuWmlUSm01bjQyREhtZHdWamNVdC05V2NLRzB5WDJZOUVXZDROeXpxVWdKSXhBSHM5anJXb04zR0HSAbMBQVVfeXFMTkhwRlI2aWZaSWRjejZfYUdpTUZtbGZZZWxfSXN3N2RqdVVrWE45MXlOQWZvZTJIdlp4N2VlY1Fwc0lqSnpUc0F0S3ktcFR2bTQ4TF9fdjdNbFN0dkRPZkpaRV82QVpWY1cxSnpLV3oyMFZaSnJGUWlpUHZrMUcwUEtLSkQ2T0t6clltWHA1ejJheXFyQmVGckZJaE1ybm15WDhHMUd4SFB6dWJwbG14VmZxNWc?oc=5",
-      "date": "2026-06-22 12:10",
-      "summary": "The Download: record-breaking subsea tunnels and flexible data centers  MIT Technology Review..."
-    },
-    {
       "title": "Brain-computer interface trials are taking off - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkNhVFltNTRIUVBtaktCc0MtN3FnX3o1OGhQTmdpWXR3ZHJVLUVWS2hPTlEtVTlKT1Q1ZnVHU2VvRk9fZTVIcDZuTlF3d3BicmNCOVJsZFVzTzhwamVHV0xKSTBMMzVQOWxrajFEQVVDMFFiaVFGTDF5UEJsZmM3SUdIVDRLX3RxVFpHMVVNMkhxd3B6dVM4X05fMGh2QXJU0gGmAUFVX3lxTE03TXpQZmhHbmtYTWdBTXZwWmI1ZlBPX0s0UDM5dkhUU0pKUzNVV2ZOeGtWU3paZFc3d2FvZlBWQ1RRS0tSdjB4LWdzMG9lRzhjSmNwZ0d4bjR0Ty1jc0lPMzA4QjZjRWJ1N2ZYVUVGVVJBWExVZWZTMFh4YUdtcVhienI3VlluQnhyRzEzSVFOVmsySF80MHNudWlaZmFqTk9BS2hTeHc?oc=5",
       "date": "2026-06-19 09:00",
       "summary": "Brain-computer interface trials are taking off  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: record-breaking subsea tunnels and flexible data centers - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXQxQlZuaFRsNzU1Z2YwNGs1V3FSbFAyb3VMdDBQaEhFWV9EcWF2ak9Zbi02MXV1NnlnZFM3S0NibW9oRC1JVW1yODhnYTlINjE4S0tjUGlLNmJSYi1EY05MN0FRQVFBYzFGZ3FGb3NGWS1YSEFuWmlUSm01bjQyREhtZHdWamNVdC05V2NLRzB5WDJZOUVXZDROeXpxVWdKSXhBSHM5anJXb04zR0HSAbMBQVVfeXFMTkhwRlI2aWZaSWRjejZfYUdpTUZtbGZZZWxfSXN3N2RqdVVrWE45MXlOQWZvZTJIdlp4N2VlY1Fwc0lqSnpUc0F0S3ktcFR2bTQ4TF9fdjdNbFN0dkRPZkpaRV82QVpWY1cxSnpLV3oyMFZaSnJGUWlpUHZrMUcwUEtLSkQ2T0t6clltWHA1ejJheXFyQmVGckZJaE1ybm15WDhHMUd4SFB6dWJwbG14VmZxNWc?oc=5",
+      "date": "2026-06-22 12:10",
+      "summary": "The Download: record-breaking subsea tunnels and flexible data centers  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Mosquito-borne viruses avoid killing hosts by limiting protein output, study reveals",
-      "link": "https://phys.org/news/2026-06-mosquito-borne-viruses-hosts-limiting.html",
-      "date": "2026-06-22 23:50",
-      "summary": "The increase in mosquito-borne virus infections is a growing public health concern. Diseases traditionally confined to tropical or..."
+      "title": "Australia has already spent more than $100 million dealing with Varroa mite. Here's what we can do next",
+      "link": "https://phys.org/news/2026-06-australia-spent-million-varroa-mite.html",
+      "date": "2026-06-23 03:40",
+      "summary": "The honeybee mite, Varroa destructor, finally breached Australia's biosecurity defenses four years ago, and is here to stay. Even ..."
     },
     {
-      "title": "Leaf-based fluorescence test speeds search for plant gene-editing targets",
-      "link": "https://phys.org/news/2026-06-leaf-based-fluorescence-gene.html",
-      "date": "2026-06-22 23:40",
-      "summary": "Gene editing of plant DNA has the potential to produce crops with increased performance and resilience, but it can take a long tim..."
+      "title": "Childhood experiences of LGBTQ+ stigma can harm romantic relationships decades later",
+      "link": "https://phys.org/news/2026-06-childhood-lgbtq-stigma-romantic-relationships.html",
+      "date": "2026-06-23 03:00",
+      "summary": "Childhood rejection, discrimination and bullying can affect your well-being as an adult. If your friends, family or community push..."
     },
     {
-      "title": "Making sense of Mars' tiny moon Phobos",
-      "link": "https://phys.org/news/2026-06-mars-tiny-moon-phobos.html",
-      "date": "2026-06-22 23:40",
-      "summary": "Mars' innermost moon, Phobos, has long puzzled planetary scientists, who have continually debated whether it's a captured asteroid..."
+      "title": "AI tools may reshape higher education by automating marking and personalizing feedback",
+      "link": "https://phys.org/news/2026-06-ai-tools-reshape-higher-automating.html",
+      "date": "2026-06-23 02:40",
+      "summary": "The evolution of higher education in the digital era has attracted global attention, and Prof. S. Joe Qin, president and Wai Kee K..."
     },
     {
-      "title": "Women negotiate as effectively as men—but leave people happier",
-      "link": "https://phys.org/news/2026-06-women-effectively-men-people-happier.html",
-      "date": "2026-06-22 23:30",
-      "summary": "Men and women achieve similar economic outcomes in negotiations, but female negotiators foster stronger interpersonal relationship..."
+      "title": "Estonian-Swedish grammar challenges established theories",
+      "link": "https://phys.org/news/2026-06-estonia-swedish-grammar-theories.html",
+      "date": "2026-06-23 02:00",
+      "summary": "A new doctoral thesis from the University of Gothenburg shows that a unique grammatical construction found in Estonia-Swedish dial..."
     },
     {
-      "title": "Nanotube-based thermoelectrics open a new pathway to waste-heat energy conversion",
-      "link": "https://phys.org/news/2026-06-nanotube-based-thermoelectrics-pathway-energy.html",
-      "date": "2026-06-22 23:20",
-      "summary": "Whenever someone asks ChatGPT a question, heat is generated somewhere in the server room—a data center. When an electric vehicle b..."
+      "title": "First quantum biosensor can detect rapid, invisible changes in cells",
+      "link": "https://phys.org/news/2026-06-quantum-biosensor-rapid-invisible-cells.html",
+      "date": "2026-06-23 01:40",
+      "summary": "In the development of diseases such as muscular dystrophy, cancer, Ebola and dengue, numerous chemical reactions take place within..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Piglet, it’s a purple, psychedelic shapeshifter! The wild new creature prowling Winnie-the-Pooh’s wood",
+      "link": "https://www.theguardian.com/stage/2026/jun/23/piglet-purple-psychedelic-shapeshifter-winnie-the-poohs-wood-ashdown-forest",
+      "date": "2026-06-23 04:00",
+      "summary": "Is it an alien? A dinosaur? Is it going to kill us all? Our writer hits Ashdown Forest for the Big One Hundred celebrations – and ..."
+    },
     {
       "title": "More than 2m Indian students resit medical entrance exam after alleged leak",
       "link": "https://www.theguardian.com/world/2026/jun/21/more-than-2m-indian-students-resit-medical-entrance-exam-after-alleged-leak",
@@ -279,15 +285,27 @@
       "link": "https://www.theguardian.com/education/2026/jun/18/vat-private-school-fees-not-caused-pupil-exodus-bridget-phillipson",
       "date": "2026-06-18 16:07",
       "summary": "Education secretary cites admissions data for England, saying Labour is ‘rebalancing the system to focus on 94% of kids in state s..."
-    },
-    {
-      "title": "Nigel Farage to join populist and rightwing figures at ‘anti-woke Davos’ in London",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/18/leading-figures-eton-college-attend-rightwing-london-summit-alliance-for-responsible-citizenship",
-      "date": "2026-06-18 13:45",
-      "summary": "Exclusive: Event co-founded by Jordan Peterson will bring together rightwing figures, US state officials and anti-abortionists in ..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Hong Kong needs visionaries to run Kai Tak Cruise Terminal: Rosanna Law",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357967/hong-kong-needs-visionaries-run-kai-tak-cruise-terminal-rosanna-law?utm_source=rss_feed",
+      "date": "2026-06-23 03:00",
+      "summary": "As Hong Kong marks the 29th anniversary of its return to Chinese rule on July 1, the South China Morning Post talks to the city’s ..."
+    },
+    {
+      "title": "How Hong Kong plans to tap popular films, historic buildings to lure tourists",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357966/how-hong-kong-plans-tap-popular-films-historic-buildings-lure-tourists?utm_source=rss_feed",
+      "date": "2026-06-23 02:00",
+      "summary": "As Hong Kong marks the 29th anniversary of its return to Chinese rule on July 1, the South China Morning Post talks to the city’s ..."
+    },
+    {
+      "title": "Competing for tourists? Then Hong Kong must be ‘bigger and better’: Rosanna Law",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357965/competing-tourists-then-hong-kong-must-be-bigger-and-better-rosanna-law?utm_source=rss_feed",
+      "date": "2026-06-23 00:30",
+      "summary": "As Hong Kong marks the 29th anniversary of its return to Chinese rule on July 1, the South China Morning Post talks to the city’s ..."
+    },
     {
       "title": "What Hong Kong can learn from mainland cities’ 5-year plans",
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3357711/what-hong-kong-can-learn-mainland-cities-5-year-plans?utm_source=rss_feed",
@@ -299,24 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3357963/survivors-fear-scrutiny-gaps-hong-kong-fire-probe-declines-statutory-powers?utm_source=rss_feed",
       "date": "2026-06-22 15:26",
       "summary": "An independent committee investigating Hong Kong’s deadliest fire in decades has ruled out seeking statutory powers to compel witn..."
-    },
-    {
-      "title": "Hong Kong, Fujian sign 6 deals to deepen finance, tourism and education ties",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3357960/hong-kong-fujian-sign-6-deals-deepen-finance-tourism-and-education-ties?utm_source=rss_feed",
-      "date": "2026-06-22 14:12",
-      "summary": "Hong Kong has signed six agreements with Fujian to step up collaboration in finance, trade, tourism and education, with Chief Exec..."
-    },
-    {
-      "title": "Hong Kong cockatoos could help save Indonesia’s endangered species, study shows",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3357956/hong-kong-cockatoos-could-help-save-indonesias-endangered-species-study-shows?utm_source=rss_feed",
-      "date": "2026-06-22 13:40",
-      "summary": "Hong Kong’s wild yellow-crested cockatoos may hold genetic traits that could help save the critically endangered species in Indone..."
-    },
-    {
-      "title": "Doctor boyfriend of sacked Hong Kong medical intern also fired for misconduct",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3357951/hong-kong-doctor-fired-over-misconduct-linked-medical-intern-case?utm_source=rss_feed",
-      "date": "2026-06-22 12:53",
-      "summary": "A doctor at Tuen Mun Hospital in Hong Kong has been fired for conducting an unauthorised procedure on a patient, in an incident li..."
     }
   ],
   "New Scientist": [
