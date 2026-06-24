@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "What happens when environmental change outpaces life’s ability to adapt?",
+      "link": "https://news.mit.edu/2026/when-environmental-change-outpaces-life-ability-to-adapt-0624",
+      "date": "2026-06-24 15:00",
+      "summary": "A new model links Earth’s mass extinctions to mismatches between rates of environmental change and biological adaptation...."
+    },
+    {
       "title": "Computer model could enable bridges and buildings that use less material",
       "link": "https://news.mit.edu/2026/computer-model-could-enable-less-material-bridges-buildings-0624",
       "date": "2026-06-24 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
       "date": "2026-06-19 18:00",
       "summary": "MIT researchers’ approach captures subtle atomic patterns, improving predictions of material properties...."
-    },
-    {
-      "title": "MIT in the media: For the future of tech, \"Massachusetts can absolutely lead\"",
-      "link": "https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead",
-      "date": "2026-06-18 04:00",
-      "summary": "Leaders, faculty across MIT discuss fostering innovation and talent in Greater Boston in special series of articles published alon..."
     }
   ],
   "Harvard Gazette": [
@@ -65,22 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "16 from Stanford awarded Fulbright grants - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBueHhzR19XenB5QVNKampmZG5QQ3E0QVFjVkwxMjZfeVFEby1POUNHMEE0OTBBU2VHMG5SR2poRU1YLWVnVHdyeUVvbjB2QkQxck16bFltbTl4eHgwY2RibVhvVWtxREZZUmJGbEg3dEk2V3pKSlE?oc=5",
-      "date": "2026-06-22 23:57",
-      "summary": "16 from Stanford awarded Fulbright grants  Stanford Report..."
+      "title": "16 from Stanford awarded Fulbright grants - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tZEQ3aHNJQlVUZGVhTDdoRWF0R19qS01iZWt0R2ZFNV9zaHJhMG5YT2F5QjBzdnE0TnA1cHNFUGg3REtyalJWR1cxNzJ4SnluaGFOMW1zWmY0blNaNmJ3YXg3eUJFSnlDVm92X0ZzcFlobWk2?oc=5",
+      "date": "2026-06-24 12:00",
+      "summary": "16 from Stanford awarded Fulbright grants  Stanford University..."
     },
     {
-      "title": "Stanford RegLab and Colorado Labor Department Receive Award for AI Adjudication Tool - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVFNRjJqLWwydXI1ZGdCVFA3Q3pKc0lwMUZ2TjBYX2ZMUTNFY09FU2NSb3l1T3QyODN0MVp4dEFzSG1RdkhiYVJXRk5IUGR1MlFHbkQ5NXgwTHNSQ2ZMaVdvNnJYelhWUU5YalVQb1VyeUw4STFHbnp2WnVDMlJIV0lsdE1PdTQwdHk3alA1NFhXZF9uV2R6N3JCNmgzcTNpdFlRWFpsU084YkdxZkdsc3RBVnpoRDA?oc=5",
-      "date": "2026-06-23 19:18",
-      "summary": "Stanford RegLab and Colorado Labor Department Receive Award for AI Adjudication Tool  Stanford Law School..."
-    },
-    {
-      "title": "Bridging Perspectives in Social Entrepreneurship - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUxDV3AtclhkOUtidHJmdW5oRUpNQlRsMGh2Z1BDWEhvWHdKOVVTdzA0R3AwM0tISHJvV1NSZkl4R3hZeFBmMEl0RkpJcUQxMm9uQnY1R0lJVHk5dmlWbXdKem5qVGVUVURWal9HOU5ZckFmUHhXNFZCMXhQVExhb19BbVdQQWdH?oc=5",
-      "date": "2026-06-23 12:00",
-      "summary": "Bridging Perspectives in Social Entrepreneurship  Stanford University..."
+      "title": "GROW THERAPY AND STANFORD UNIVERSITY LAUNCH RESEARCH PARTNERSHIP TO ESTABLISH CLINICAL SAFETY STANDARDS IN AI FOR MENTAL HEALTH - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOc09PR1JiblRlQXZPalo1WHpoTS1VQVlGZjRFZEVLZXJ4Um9yNHdWZ0d2ZzliNDMtSlhTYWVKUXR5MGxSMG1MdEo4SE1pWE5PSVIxcjd1YWdBbS1RMVAyOG1Na0RrSzVnVEhlU3hOclNxTGFicW5uNVRHcjZMZm44TEVhaVFTSjNUNXNYNEZING1EMHZQc3FPXzdBaDZsTlJhQy1icEdMSXJRMkgzQ195T2dJYTVDN2w3bUhZalVqUTdlbENGU0xSeGhLT1dKSkw3SnJMWUx1SVZfZGVHSlQ3TWVrX1VaSTZYbVMySVQtdm1ERURScVlDUmNTOHNLSjdPWmJmSXNHWTdIRTk2Q3hNMg?oc=5",
+      "date": "2026-06-23 13:18",
+      "summary": "GROW THERAPY AND STANFORD UNIVERSITY LAUNCH RESEARCH PARTNERSHIP TO ESTABLISH CLINICAL SAFETY STANDARDS IN AI FOR MENTAL HEALTH  P..."
     },
     {
       "title": "As graduates worry about AI and jobs, Google CEO Sundar Pichai tells Stanford students to 'choose optimis - The Times of India",
@@ -89,13 +83,25 @@
       "summary": "As graduates worry about AI and jobs, Google CEO Sundar Pichai tells Stanford students to 'choose optimis  The Times of India..."
     },
     {
-      "title": "GROW THERAPY AND STANFORD UNIVERSITY LAUNCH RESEARCH PARTNERSHIP TO ESTABLISH CLINICAL SAFETY STANDARDS IN AI FOR MENTAL HEALTH - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOc09PR1JiblRlQXZPalo1WHpoTS1VQVlGZjRFZEVLZXJ4Um9yNHdWZ0d2ZzliNDMtSlhTYWVKUXR5MGxSMG1MdEo4SE1pWE5PSVIxcjd1YWdBbS1RMVAyOG1Na0RrSzVnVEhlU3hOclNxTGFicW5uNVRHcjZMZm44TEVhaVFTSjNUNXNYNEZING1EMHZQc3FPXzdBaDZsTlJhQy1icEdMSXJRMkgzQ195T2dJYTVDN2w3bUhZalVqUTdlbENGU0xSeGhLT1dKSkw3SnJMWUx1SVZfZGVHSlQ3TWVrX1VaSTZYbVMySVQtdm1ERURScVlDUmNTOHNLSjdPWmJmSXNHWTdIRTk2Q3hNMg?oc=5",
-      "date": "2026-06-23 13:18",
-      "summary": "GROW THERAPY AND STANFORD UNIVERSITY LAUNCH RESEARCH PARTNERSHIP TO ESTABLISH CLINICAL SAFETY STANDARDS IN AI FOR MENTAL HEALTH  P..."
+      "title": "Stanford was their golden ticket - could AI help or hinder that? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3OFFhWVhXMGdZREhlbUVBdkVTdDdZdFlqM3pFaWwtdFV0S0hxQnpBcjVwZXJFNVRoY2d0QkphV0k4bEpzZEF0eXFmWVpOeHFQdFh5VkNvZ1RvY0Ex?oc=5",
+      "date": "2026-06-23 23:16",
+      "summary": "Stanford was their golden ticket - could AI help or hinder that?  BBC..."
+    },
+    {
+      "title": "Stanford football: Pritchard-era recruiting brings Harbaugh parallels, and they start up front - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUC11VjNpVXl4VDVGS0wxSzhHMFdmS2YyeExZSUhKT1RITDcwdWVWbjE4c0laaktEbGRjM3dhSWtsUXRLamFXQWM3TTdvdFRXdWpEb2lCaHFLT25JbDZhZVV2dnhKRFprV1MyS1pFU1NFZkdzbXJOd1pjcmFPQUFuN3N0NTgzQzd6RmtmbEtWaDJCeGUtMVA4N2hNRmR3TkZEYnRuU1k2M0dJenUxMGtxblV6aEbSAboBQVVfeXFMUHljY2k0clRlQy1DWjhPOEJJcTdXYlM2ZGQ1VG9FS0VVM09RSTd0Y3BVWmhhN0FqU2Z2Ry1QYVNtbk01YVdPRldqZWp1cTZnNVlEUkJnS2RabkNHYUxQY3lUYmR1MEttMzJqWV82TVJHd0hJcFBlcUE2SkNCTDVkVEFLTkhnNzRHeG5GY1JYNFJRUkRCX1pXaW5YNS1YQWh3Rk1YUWZvZldjcmFRd21hQzZQd1ZvQVJxbjRR?oc=5",
+      "date": "2026-06-23 19:37",
+      "summary": "Stanford football: Pritchard-era recruiting brings Harbaugh parallels, and they start up front  The Mercury News..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Garbage collection",
+      "link": "https://www.nature.com/articles/d41586-026-01720-4",
+      "date": "2026-06-24 00:00",
+      "summary": "Nature, Published online: 24 June 2026; doi:10.1038/d41586-026-01720-4A sense of déjà vu...."
+    },
     {
       "title": "‘Us’ not ‘them’: scientists must use their skills to help stop polarization and division",
       "link": "https://www.nature.com/articles/d41586-026-01952-4",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01970-2",
       "date": "2026-06-23 00:00",
       "summary": "Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01970-2Nepal’s new science ministry must strengthen scientific capa..."
-    },
-    {
-      "title": "Academic success still assumes uninterrupted careers",
-      "link": "https://www.nature.com/articles/d41586-026-01971-1",
-      "date": "2026-06-23 00:00",
-      "summary": "Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01971-1Academic success still assumes uninterrupted careers..."
     }
   ],
   "Retraction Watch": [
@@ -161,34 +161,34 @@
   ],
   "Reuters AI": [
     {
+      "title": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdThteGtwZVZweXpUZTNQR0djS0ViNGhlZjNacUlpaG5KZ2M2SGdLckxXcEV5T3Z5UDhhRjJ5OUh5LTAxQThQVjNGUG1xWGIwM1VLeUNxNjY2N0RfbnFySTY1d0txYjdlNUVWY1lFbFZhRHcyTV9XRWFkRWZjdzM1Mk1QUWVhTmRRYi1IVklHdlJJeThoMUloTlNFTm4yQ29YTUFXRDUtZjZOeVh2cThIazdhUWd1bjdKcXJsamNqN01VR3RMZUtvLXI3SXpvNGV6?oc=5",
+      "date": "2026-06-24 13:22",
+      "summary": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure  Reuters..."
+    },
+    {
       "title": "Dutch official presses US lawmakers over China chip export bill - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXpYRm4zZWhFOWRuUUk3eUNjZ1pBYm1ZR3pGQXBFODZPamc5Rm9HeC01U3V0bXcxT000SHNrakxaVTQ2N1dXWUJrazZwakw0T0s5OFhqVTNTblFpNWxKWkxBbVlZWTBYZk9iNExrOEpSNThfb2ZWVjNZZFRSd2lWR1h4anBZQ1h6TnFfT2RiX1N2RDZsTURGX2R5bE1zRWx0YktuTXRaYmhDbVhXN0NEMl9MdnVmdUdx?oc=5",
       "date": "2026-06-23 11:34",
       "summary": "Dutch official presses US lawmakers over China chip export bill  Reuters..."
     },
     {
-      "title": "Micron, Anthropic sign AI infrastructure supply agreement - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnlnRmk0UXp1RDNTbTA5TkI5NmtIRl85NEx4bnlwTU5wZEVNT0VITTA1T3J2ODZnb201OGZnb1Brazc2dmpFcVlLZU5hRUczMGVJUTlpMEVpaDY5Wmh6TkdJQ3h6alAxc2xHQnVKWFdHV2l3LXZvVDJIMEhxSDA0SGVFOS1mU1NfREZBWWRmNVE2UkZCbW5uUm9fckVjN3N1bUZj?oc=5",
-      "date": "2026-06-22 20:20",
-      "summary": "Micron, Anthropic sign AI infrastructure supply agreement  Reuters..."
+      "title": "Talk of a bubble is 'blasphemy against AI' says SoftBank's Son - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRE5WYzdudUlMb1BHUk1sTzlQMWc0WWZTa0hIMXFsbU5ZRl9pVkJHMmFnRTBIdjJ6NFZGOVRlc2ZjZHkzYWk0QVFLaUswTDJzVDM3RHNnTEk4cTRoZkFDRDNSZHNkc2ZHUXJOYnk5RXNYdXVYRkZyRXppXzBULUEyeFJjMzBFb3RGWFhNNGdBYUVuZG9HTlZXT0F6NkNwXzFvV05WS3dUUFM?oc=5",
+      "date": "2026-06-24 06:07",
+      "summary": "Talk of a bubble is 'blasphemy against AI' says SoftBank's Son  Reuters..."
     },
     {
-      "title": "Qualcomm to buy AI startup Modular - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUVdoZzZMMXY4aG1hb2ZsRnFKZF9oOU9CVl9QQ3hQa1cxQ1FpT3QxeXFnQy1PSWxvY0tBVmptczRQaW1zWlVrem96MVBFcDRaeE1zQy12eU96bXpMbG5yc2Q0WWdDcDBGbzg0dzFVdTNlVlMzTS1TenJJNE1qM0phMVRB?oc=5",
-      "date": "2026-06-24 12:10",
-      "summary": "Qualcomm to buy AI startup Modular  Reuters..."
+      "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xZSHdqTkZTenRqaEM4VEFGbmRPYndlel94bldUTXlFUHJnZV9BRHFja0QyZThTV1JrbFJLNFZiaDZubnBGMWlmUEZJd3p1eTI5dkRialdHUmNpZkctdWxRVGJCLUlIaVlGZXpXeDRYWm1ucE9xbENVcWRINTBacU5oanJ5SGZZQm9rd3FHWkFzOXBvdUFQWDFPNA?oc=5",
+      "date": "2026-06-22 20:44",
+      "summary": "Oracle workforce shrinks by about 21,000 employees amid AI adoption  Reuters..."
     },
     {
       "title": "China beats US with world's fastest supercomputer, but race not geared for AI work - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNPRlRZSUdoVFJBMmtUTXBsQmFWN2lEMVBMY212SkVxZTlFTHRLSGNwZHBTQmhlRWZLT0lpejBEeDA1TlkySU5OQ2NEOFNwNXIwdDRMdFhNb0FqNHRBakFKRjI4cWwxQnpHZlczdFY4cHZwUldJT1NPZEtCTkFYQlUxRDBfYi0tZFZ3cmNlZ3E5N2htNF9qMUdWaXNPRldvaU5xdzRXOG9WNmYzdHowcHZGY2J2NDl4LUJ6Rw?oc=5",
       "date": "2026-06-23 09:45",
       "summary": "China beats US with world's fastest supercomputer, but race not geared for AI work  Reuters..."
-    },
-    {
-      "title": "Talk of a bubble is 'blasphemy against AI' says SoftBank's Son - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRE5WYzdudUlMb1BHUk1sTzlQMWc0WWZTa0hIMXFsbU5ZRl9pVkJHMmFnRTBIdjJ6NFZGOVRlc2ZjZHkzYWk0QVFLaUswTDJzVDM3RHNnTEk4cTRoZkFDRDNSZHNkc2ZHUXJOYnk5RXNYdXVYRkZyRXppXzBULUEyeFJjMzBFb3RGWFhNNGdBYUVuZG9HTlZXT0F6NkNwXzFvV05WS3dUUFM?oc=5",
-      "date": "2026-06-24 06:07",
-      "summary": "Talk of a bubble is 'blasphemy against AI' says SoftBank's Son  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -211,48 +211,48 @@
       "summary": "The emergence of the web data infrastructure layer for AI  MIT Technology Review..."
     },
     {
+      "title": "This flying solar-powered platform could deliver better internet from the air - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV3lLRDR0WlBDSmZVN05KYldQQlNMeENrcnBfSnJTQ1psN3ZtSFUxVHZDbEFSdXZjVUhsTXVVM0w0QklfWnl0cjkwV3JudnJFTHlxOVhSRlY2dUxGQXdCT1V6OFlnVTEyT01SaG1PZjVMcjhjeVBXN3VCLURaOUg1MGd1bXA4cnRTMzRnOHcwd1pab1FrRm0yN3NlLUpwbk9YTlHSAacBQVVfeXFMTlBfRk1CT19aamUtYUlNaGg5bk9yZ1c1dmlJSUI0VkFDbm1PcWV1akgya1ZwMFBtTEhaOEFvb1FJVFBaVnFEYnpwVE1UaUxWRnk0eVcwd1I0Z09UV05zSllnV3djTzJKNGl4YzhFV3VmYTdsdWxvR1JJZnZ2YURSdWNnYXo0VHk2cklpOUQyb1Y2NUcxZ2lhVWc3YkRGRFVyY1FCMDJvOTA?oc=5",
+      "date": "2026-06-24 09:00",
+      "summary": "This flying solar-powered platform could deliver better internet from the air  MIT Technology Review..."
+    },
+    {
       "title": "Stand Up for Research, Innovation, and Education - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVNIOHZvLVZXQk5aWm5kOXhPMW10Yk5hcm9Fblg2ZUx6QW1yb190aklZMi1vVEszV2ZNWEY4Nm1BWTdMdTd1eVducllDdUtKcXBOUUwzN3c3R1BWUWRiU3NuVVEzTnpMZ3dVZnVmT256dGs1TWtKWEtTSFpJRnhQVjZXdW1lQ0NteUpGZGU3cnA5aVF1OWRweUJYZ3FvV09VWWRv0gGoAUFVX3lxTFB3LUJKdmFDV3ktb0MyYjR1cTZZZFVRNnNpdG94aGxlTUI2bU5Ncm40dnBqdVItMmxTaWRjRHVxUVI0cmcydk9JMGFBYWd3Snp3NVd3SVFsMG9VaEQxTmlTSnAtY2taZ1JBZTEtRFBRZXZGZXVXZ3VXVE5EMWx2ZzVGV3RWaUxodDJ2bGx0aGZBZjBvZEhucWJucUUtbXBwQXdMeFB0Y21UXw?oc=5",
       "date": "2026-06-23 21:00",
       "summary": "Stand Up for Research, Innovation, and Education  MIT Technology Review..."
-    },
-    {
-      "title": "Heads in the game - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLVW1VYXNrQWprMnNLMTE0TGlGRWRoaWIzc3piR0J4YTVna0haTTdUOG9MTGgyNVZlWmVUWWFpeEQtY1EzVnh0VnpydnN1YXJOS3V3Rk9zUk9halJERDU1RXhveWE3SUZvM0h5VzRtV0tGQ2FpN2drYU130gF_QVVfeXFMTmVtMjJUdHQ4NmxKLW5hSlNqZTk3cWpRUGE4S3RmVVE0U09QVTdHQWRuUXRSQjdTMEZ6QWkxRWJ0QWMxemJZVXpDNTRyV2gybHBnUmY1YkZaR3JLRmcwaHlRS1BDWkNqY1ZjeDBnUTlvQ1hhbHVRdDBKbnFGMDJ4aw?oc=5",
-      "date": "2026-06-23 21:00",
-      "summary": "Heads in the game  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Hot Jupiter endures star-powered barbecue",
-      "link": "https://phys.org/news/2026-06-hot-jupiter-star-powered-barbecue.html",
-      "date": "2026-06-24 13:20",
-      "summary": "You're the grillmaster at the annual family Fourth of July barbecue, and you're sweating bullets standing over the grill in the sw..."
+      "title": "Does the Netherlands feed the world? Study challenges a familiar view of Dutch agriculture",
+      "link": "https://phys.org/news/2026-06-netherlands-world-familiar-view-dutch.html",
+      "date": "2026-06-24 16:20",
+      "summary": "The Netherlands is a major agricultural exporter. But look beyond euros to land, animal feed, calories and protein, and a differen..."
     },
     {
-      "title": "Do hyenas eat livestock and rhinos? Behavioral biologists investigate a surprisingly charming population",
-      "link": "https://phys.org/news/2026-06-hyenas-livestock-rhinos-behavioral-biologists.html",
-      "date": "2026-06-24 13:20",
-      "summary": "For conservation and the management of human–wildlife conflicts, it is of great interest to know which species are eaten by carniv..."
+      "title": "Geometric anti-spring works near absolute zero, suppressing vibrations below 0.185 hertz",
+      "link": "https://phys.org/news/2026-06-geometric-anti-absolute-suppressing-vibrations.html",
+      "date": "2026-06-24 16:20",
+      "summary": "Physicists and instrument makers in Leiden have succeeded in optimizing a spring that almost completely filters out vibrations at ..."
     },
     {
-      "title": "Interlayer self-doping could unlock room-temperature multiferroics in atom-thin materials",
-      "link": "https://phys.org/news/2026-06-interlayer-doping-room-temperature-multiferroics.html",
-      "date": "2026-06-24 12:40",
-      "summary": "Multiferroics are materials that exhibit more than one prominent \"ferroic\" property, such as ferromagnetism and ferroelectricity. ..."
+      "title": "Automated system detects early signs of nanomaterials toxicity",
+      "link": "https://phys.org/news/2026-06-automated-early-nanomaterials-toxicity.html",
+      "date": "2026-06-24 16:00",
+      "summary": "Korea Research Institute of Standards and Science has developed a toxicity assessment system that automatically measures and analy..."
     },
     {
-      "title": "Hospital workers' phones carry deadly superbugs",
-      "link": "https://phys.org/news/2026-06-hospital-workers-deadly-superbugs.html",
-      "date": "2026-06-24 12:20",
-      "summary": "The largest study of its kind has found hospital workers' phones are carrying the same superbugs that kill millions of people worl..."
+      "title": "Artificial DNA tiles could deliver drugs and monitor neurons non-disruptively",
+      "link": "https://phys.org/news/2026-06-artificial-dna-tiles-drugs-neurons.html",
+      "date": "2026-06-24 16:00",
+      "summary": "Living cells constantly exchange ions (i.e., charged particles) via the thin barrier that surrounds their interior, known as the o..."
     },
     {
-      "title": "Buyer beware: Your sustainable shopping choices may not be as green as they look",
-      "link": "https://phys.org/news/2026-06-buyer-beware-sustainable-choices-green.html",
-      "date": "2026-06-24 11:00",
-      "summary": "New research reveals that many \"green\" claims are almost impossible to verify, often masking the full truth. University of Technol..."
+      "title": "New giant wormlion fly species identified on the southern slopes of the Himalayas",
+      "link": "https://phys.org/news/2026-06-giant-wormlion-fly-species-southern.html",
+      "date": "2026-06-24 15:40",
+      "summary": "An enigmatic new species of wormlion fly, whose larvae construct clever pitfall traps to capture prey, has been revealed in a stud..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Elderly man found hanging in Hong Kong flat last week dies from injuries",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3358243/elderly-man-found-hanging-hong-kong-flat-last-week-dies-injuries?utm_source=rss_feed",
+      "date": "2026-06-24 13:28",
+      "summary": "An elderly man has died in hospital after being found hanging in his Hong Kong flat, where his wife was discovered with her head c..."
+    },
+    {
       "title": "Rescuers snap into action after crocodile found in Hong Kong building",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3358241/rescuers-snap-action-after-crocodile-found-hong-kong-building?utm_source=rss_feed",
       "date": "2026-06-24 12:51",
@@ -311,15 +317,15 @@
       "link": "https://www.scmp.com/news/hong-kong/education/article/3358221/hong-kong-records-91-suspected-student-suicides-3-years-majority-boys?utm_source=rss_feed",
       "date": "2026-06-24 10:11",
       "summary": "Hong Kong education authorities have revealed that 91 students were suspected to have died by suicide between 2023 and 2025, with ..."
-    },
-    {
-      "title": "Bid-rigging trial over HK$700 million in renovation work set for 2028 at earliest",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358198/bid-rigging-trial-over-hk700-million-renovation-work-set-2028-earliest?utm_source=rss_feed",
-      "date": "2026-06-24 08:45",
-      "summary": "Eight companies and 12 individuals suspected of rigging bids for at least 11 building maintenance projects in Hong Kong, including..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Fluctuating oestrogen levels may alter how drugs enter women's brains",
+      "link": "https://www.newscientist.com/article/2531651-fluctuating-oestrogen-levels-may-alter-how-drugs-enter-womens-brains/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-24 14:00",
+      "summary": "Oestrogen levels fluctuate throughout a woman's menstrual cycle, which may impact how efficiently a drug that targets the brain ca..."
+    },
     {
       "title": "Hidden black hole could explain mystery at the heart of our galaxy",
       "link": "https://www.newscientist.com/article/2531455-hidden-black-hole-could-explain-mystery-at-the-heart-of-our-galaxy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -343,12 +349,6 @@
       "link": "https://www.newscientist.com/article/2531564-elite-maya-people-had-teeth-placed-in-a-cave-far-from-their-tombs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-23 17:00",
       "summary": "A cave in Belize contains teeth from dozens of important Maya people buried elsewhere, which may attest to a ritual intended to en..."
-    },
-    {
-      "title": "SpaceX's secretive plans to deliver cargo to Earth from space",
-      "link": "https://www.newscientist.com/article/2531559-spacexs-secretive-plans-to-deliver-cargo-to-earth-from-space/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-23 16:37",
-      "summary": "Not much is known about Starfall, SpaceX's new delivery system, but an assessment published in May revealed its intended purpose..."
     }
   ]
 }
