@@ -39,6 +39,12 @@
       "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
+      "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRCNE1YZ0h5NkU4MmtrUnh5TmcyWlVoZHBJN25nR1FUUjByVmxENDZsMmxuMWRVajhKV1FPb1owUWRDay1lQk53TzMyQUo2RmRSczdJOC1Lb0wtQmJScFFtZU9kN3A1MFdCNjMxNXhsVDRDZ3hHbWZwTjdYcjBxcXNXZ182MVlqN0dvTEgycW5NaC0ybWl0eHJuRjBla3JKemc?oc=5",
+      "date": "2026-05-26 07:00",
+      "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
+    },
+    {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
-    },
-    {
-      "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -161,43 +161,37 @@
   ],
   "Reuters AI": [
     {
-      "title": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFZieUdRS2dsTW1yeU1JcWF5TFNJczJHdlF6MVJpbXkyVk1LMnI2MFBEUmJPS0NPTG5TRWVzckVhYnRHeTNCTU8zVG5DTjJ3bHc2ZzY3TWJSYS1pMjlsZVZNRkZPQkhVblpNUjZ5NGdXSjBVMXUtTzc1TXdkMWFnWVFEU1UxTVBzRmdJZjdSdDR0alpkVUZVQUlDS2dTd2lPenBjVVpMQ3ZtODVMVEpISzI2U0FxM2VjSEg3YUpzSjczZw?oc=5",
-      "date": "2026-06-22 22:28",
-      "summary": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports  Reuters..."
-    },
-    {
       "title": "UN chief calls on AI firms to come clean on environmental costs - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmtNQW1EUEQ5WVVUZHhlbmlGWGRyaFdDWm4xa3d5eHpsMGFuNUFXWTNwTWdZbzNmY0RsbG1pYUJRcEJkMy1fY25nbFFCeTZDc1YwdnJGaDJ2T2tDZHJJQU9rMk9Ub3ItOWdpbXVvaG90ZGNHa2YwRTEwRThHWjhlS1JBRHZQUWZrNEFER29OOXlISHVkMDlXRzB6TkxfbW50RzQ1U1NGSVBTUG8?oc=5",
       "date": "2026-06-23 14:17",
       "summary": "UN chief calls on AI firms to come clean on environmental costs  Reuters..."
     },
     {
-      "title": "US presses Meta to agree to AI reviews as security concerns rise, NYT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1BkQ0VuVVRQS1dyNXlUd19NMEtTTTNhYVoxT2ZGUm9CMmx6NVIwVVp4d1RKQ2pJclpJM3E5aXVPQm5jMVNJSG5mYWNuRU5ZNU5fTEV4Z2h0T3Q1MGZYbW9ZemRRZ0hTblpwOVJaRnpMNWdoa3QwMlpYVmFHQjEzQ055dk90Q0VmZmEwckJGa09DRnlYR1NqTU9zZjVNS29fRlVwMXlPV1NTNFlLOENpSzRR?oc=5",
-      "date": "2026-06-23 23:03",
-      "summary": "US presses Meta to agree to AI reviews as security concerns rise, NYT reports  Reuters..."
+      "title": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZnRBblJ3NTkyRUx4YUl3ZXg3MGZwSWNtSlhZUkgyb2NlODJVc2hpVWI4YWFOaDNGVjJtYVEwdk9qR2tYNWZsc1VUTlFwSTNMXzRrcUNDNjFCOUJSWFpSRl9QRktFcGNwaHRtSWY5eUY0dHAtRUYxSEtGT2Y0Tjh3RVJ4aDZsRDNLQ0JRa2xRYXE1QV9pZjNDZFA2Mmg1bm8wOUw4YnI3RFZ3MWVPc0VENHk1VXRJaW5yTEtEcjdqUnd6VFk3bWI0YUVpak15VGM?oc=5",
+      "date": "2026-06-22 23:17",
+      "summary": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk  Reuters..."
     },
     {
-      "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xZSHdqTkZTenRqaEM4VEFGbmRPYndlel94bldUTXlFUHJnZV9BRHFja0QyZThTV1JrbFJLNFZiaDZubnBGMWlmUEZJd3p1eTI5dkRialdHUmNpZkctdWxRVGJCLUlIaVlGZXpXeDRYWm1ucE9xbENVcWRINTBacU5oanJ5SGZZQm9rd3FHWkFzOXBvdUFQWDFPNA?oc=5",
-      "date": "2026-06-22 20:44",
-      "summary": "Oracle workforce shrinks by about 21,000 employees amid AI adoption  Reuters..."
+      "title": "Dutch official presses US lawmakers over China chip export bill - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXpYRm4zZWhFOWRuUUk3eUNjZ1pBYm1ZR3pGQXBFODZPamc5Rm9HeC01U3V0bXcxT000SHNrakxaVTQ2N1dXWUJrazZwakw0T0s5OFhqVTNTblFpNWxKWkxBbVlZWTBYZk9iNExrOEpSNThfb2ZWVjNZZFRSd2lWR1h4anBZQ1h6TnFfT2RiX1N2RDZsTURGX2R5bE1zRWx0YktuTXRaYmhDbVhXN0NEMl9MdnVmdUdx?oc=5",
+      "date": "2026-06-23 11:34",
+      "summary": "Dutch official presses US lawmakers over China chip export bill  Reuters..."
     },
     {
       "title": "China beats US with world's fastest supercomputer, but race not geared for AI work - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNPRlRZSUdoVFJBMmtUTXBsQmFWN2lEMVBMY212SkVxZTlFTHRLSGNwZHBTQmhlRWZLT0lpejBEeDA1TlkySU5OQ2NEOFNwNXIwdDRMdFhNb0FqNHRBakFKRjI4cWwxQnpHZlczdFY4cHZwUldJT1NPZEtCTkFYQlUxRDBfYi0tZFZ3cmNlZ3E5N2htNF9qMUdWaXNPRldvaU5xdzRXOG9WNmYzdHowcHZGY2J2NDl4LUJ6Rw?oc=5",
       "date": "2026-06-23 09:45",
       "summary": "China beats US with world's fastest supercomputer, but race not geared for AI work  Reuters..."
+    },
+    {
+      "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xZSHdqTkZTenRqaEM4VEFGbmRPYndlel94bldUTXlFUHJnZV9BRHFja0QyZThTV1JrbFJLNFZiaDZubnBGMWlmUEZJd3p1eTI5dkRialdHUmNpZkctdWxRVGJCLUlIaVlGZXpXeDRYWm1ucE9xbENVcWRINTBacU5oanJ5SGZZQm9rd3FHWkFzOXBvdUFQWDFPNA?oc=5",
+      "date": "2026-06-22 20:44",
+      "summary": "Oracle workforce shrinks by about 21,000 employees amid AI adoption  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "The $400 million machine powering the future of chipmaking - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzd4RUhyXzRNSGJDRW1vYnZDY25GZ2xxSWRfMEpFSDVEWHVZQVVzU3BPeXllZUN3d09LeWEwdFR6T2E5SkEwQjVNUlN2ODloVW1qNmRDXzA0LUt0d210UHZlV3ZaajlUNEYyakFBRTBmVnl0c29UeTVZMEpTcUdoZkFncGY4ZWRpaUlISHBrd1dkbkZVbUphSlJNUlNhSlpHTHhCQ1Fhc0Y5cElQcU9ENEpvOWHSAboBQVVfeXFMT1o2QjVJd0dKT2wyb2liNTdKUFJTOUhJdnlRQWpYUktpLTJBRzNyYTh4RHpUTno0QjY0Wm9RZWcyVG5yT0JHaFIxbGRISGxzOU1LT2N4Y2ZJaWNUVllMWkFLbzFwbGpUREpPVDR0X0lqdFBSaTQ5VDIxQWN3dlZGb2xNbGpES2tlQ3RySFJIck9vU3JMbWtuRmhvaGlxcVVHUHcteDNqYlllY19SUDI3ckh2Z3hlVUtidU53?oc=5",
-      "date": "2026-06-23 09:00",
-      "summary": "The $400 million machine powering the future of chipmaking  MIT Technology Review..."
-    },
     {
       "title": "Stand Up for Research, Innovation, and Education - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVNIOHZvLVZXQk5aWm5kOXhPMW10Yk5hcm9Fblg2ZUx6QW1yb190aklZMi1vVEszV2ZNWEY4Nm1BWTdMdTd1eVducllDdUtKcXBOUUwzN3c3R1BWUWRiU3NuVVEzTnpMZ3dVZnVmT256dGs1TWtKWEtTSFpJRnhQVjZXdW1lQ0NteUpGZGU3cnA5aVF1OWRweUJYZ3FvV09VWWRv0gGoAUFVX3lxTFB3LUJKdmFDV3ktb0MyYjR1cTZZZFVRNnNpdG94aGxlTUI2bU5Ncm40dnBqdVItMmxTaWRjRHVxUVI0cmcydk9JMGFBYWd3Snp3NVd3SVFsMG9VaEQxTmlTSnAtY2taZ1JBZTEtRFBRZXZGZXVXZ3VXVE5EMWx2ZzVGV3RWaUxodDJ2bGx0aGZBZjBvZEhucWJucUUtbXBwQXdMeFB0Y21UXw?oc=5",
@@ -205,10 +199,10 @@
       "summary": "Stand Up for Research, Innovation, and Education  MIT Technology Review..."
     },
     {
-      "title": "The Download: the future of chipmaking and Anthropic’s government clash - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPazhhUWV2R0hxRnllZzBEY091UnNRMG1FTjdETnNxQW1hR3JMc2Q2TmN5dVhzbHJUeFBnYWt5RlNoeUp1YlRHdmlJbzFZYlp4UVUtRU1qTWprand1TGxlUlRqcS1WVnVyczRhXzZQVmhVaFBqVnp4dUR5dGQ3Z3RUR05zeHA2NWRLeFpJY1JVbjljcm5Za05YNFBvWDdfN2gyYUdpcGs0Z2F3NHU0Vy10WVBSbV9YeUxKeHfSAb8BQVVfeXFMTkZ4R3ZDcDZaVjE3eURNam9XbktkWWpPRzhKSVhvcnlGa3AtaVM5NFJvZFhVcVpyallOOGFTUzZzY1o2NFlOX3lsTmZFemcxZHdmd29MVmdTR1dEWjF5VU9DXzVwZ1pvblAzNTlBUGc3ZzZMN1VkbkQzUUFUeDB6VVZBLU1IbEhud1lzc2xlSFZISzJETTJwU0FsNmRqZ3oyOHNzRThtMWh4UG9mVlFxT0NMaUlvbUxyWTctV2JmMTA?oc=5",
-      "date": "2026-06-23 12:10",
-      "summary": "The Download: the future of chipmaking and Anthropic’s government clash  MIT Technology Review..."
+      "title": "Heads in the game - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLVW1VYXNrQWprMnNLMTE0TGlGRWRoaWIzc3piR0J4YTVna0haTTdUOG9MTGgyNVZlWmVUWWFpeEQtY1EzVnh0VnpydnN1YXJOS3V3Rk9zUk9halJERDU1RXhveWE3SUZvM0h5VzRtV0tGQ2FpN2drYU130gF_QVVfeXFMTmVtMjJUdHQ4NmxKLW5hSlNqZTk3cWpRUGE4S3RmVVE0U09QVTdHQWRuUXRSQjdTMEZ6QWkxRWJ0QWMxemJZVXpDNTRyV2gybHBnUmY1YkZaR3JLRmcwaHlRS1BDWkNqY1ZjeDBnUTlvQ1hhbHVRdDBKbnFGMDJ4aw?oc=5",
+      "date": "2026-06-23 21:00",
+      "summary": "Heads in the game  MIT Technology Review..."
     },
     {
       "title": "Sharing a love for calculus - MIT Technology Review",
@@ -217,42 +211,48 @@
       "summary": "Sharing a love for calculus  MIT Technology Review..."
     },
     {
-      "title": "Reinventing the zipper - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUUtMTE1CUDFDOFZQWFNMYUNVQk14ZnNBdDFQNDl2RkJGaTRudWEtZlRPdFFPenlJek52U3lkLVVOOVBsbDBaMmY0Mk8yaGlGUEZxRUMzV1dYSWVZcDN0UXVkcnZ6dHRBREZaam1ZZVE5ZW5rN2F2TVhSUGNWT3hvcdIBhgFBVV95cUxObUxGR19XVG1fX1ZheXVBR0d0NmcwcVg0cDlNQ1dMNDBrZkpGeld5WlozdmRlTC13amVuQ3RNSE9vYjJlQTNZV2gwcm1sV285TVZSR25kSVJoYld3YlZvY1Y5ckF1NEh5ZmhuQ0xfcFBxS3U4bk8zRUJtNlMxSzlhdmxPd1k0UQ?oc=5",
-      "date": "2026-06-23 21:00",
-      "summary": "Reinventing the zipper  MIT Technology Review..."
+      "title": "The Download: the future of chipmaking and Anthropic’s government clash - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPazhhUWV2R0hxRnllZzBEY091UnNRMG1FTjdETnNxQW1hR3JMc2Q2TmN5dVhzbHJUeFBnYWt5RlNoeUp1YlRHdmlJbzFZYlp4UVUtRU1qTWprand1TGxlUlRqcS1WVnVyczRhXzZQVmhVaFBqVnp4dUR5dGQ3Z3RUR05zeHA2NWRLeFpJY1JVbjljcm5Za05YNFBvWDdfN2gyYUdpcGs0Z2F3NHU0Vy10WVBSbV9YeUxKeHfSAb8BQVVfeXFMTkZ4R3ZDcDZaVjE3eURNam9XbktkWWpPRzhKSVhvcnlGa3AtaVM5NFJvZFhVcVpyallOOGFTUzZzY1o2NFlOX3lsTmZFemcxZHdmd29MVmdTR1dEWjF5VU9DXzVwZ1pvblAzNTlBUGc3ZzZMN1VkbkQzUUFUeDB6VVZBLU1IbEhud1lzc2xlSFZISzJETTJwU0FsNmRqZ3oyOHNzRThtMWh4UG9mVlFxT0NMaUlvbUxyWTctV2JmMTA?oc=5",
+      "date": "2026-06-23 12:10",
+      "summary": "The Download: the future of chipmaking and Anthropic’s government clash  MIT Technology Review..."
+    },
+    {
+      "title": "The $400 million machine powering the future of chipmaking - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzd4RUhyXzRNSGJDRW1vYnZDY25GZ2xxSWRfMEpFSDVEWHVZQVVzU3BPeXllZUN3d09LeWEwdFR6T2E5SkEwQjVNUlN2ODloVW1qNmRDXzA0LUt0d210UHZlV3ZaajlUNEYyakFBRTBmVnl0c29UeTVZMEpTcUdoZkFncGY4ZWRpaUlISHBrd1dkbkZVbUphSlJNUlNhSlpHTHhCQ1Fhc0Y5cElQcU9ENEpvOWHSAboBQVVfeXFMT1o2QjVJd0dKT2wyb2liNTdKUFJTOUhJdnlRQWpYUktpLTJBRzNyYTh4RHpUTno0QjY0Wm9RZWcyVG5yT0JHaFIxbGRISGxzOU1LT2N4Y2ZJaWNUVllMWkFLbzFwbGpUREpPVDR0X0lqdFBSaTQ5VDIxQWN3dlZGb2xNbGpES2tlQ3RySFJIck9vU3JMbWtuRmhvaGlxcVVHUHcteDNqYlllY19SUDI3ckh2Z3hlVUtidU53?oc=5",
+      "date": "2026-06-23 09:00",
+      "summary": "The $400 million machine powering the future of chipmaking  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Four-decade mystery solved as PKCβ structure reveals new drug target",
-      "link": "https://phys.org/news/2026-06-decade-mystery-pkc-reveals-drug.html",
-      "date": "2026-06-23 23:50",
-      "summary": "After nearly four decades of research, Mayo Clinic scientists have revealed the molecular structure of protein kinase C beta (PKCβ..."
+      "title": "Brown seaweed flour enhances nutritional value and digestibility of gluten-free cookies",
+      "link": "https://phys.org/news/2026-06-brown-seaweed-flour-nutritional-digestibility.html",
+      "date": "2026-06-24 02:40",
+      "summary": "Flour made from the brown seaweed Sargassum filipendula can increase the nutritional value and digestibility of gluten-free cookie..."
     },
     {
-      "title": "Physical pressure helps pathogenic P. aeruginosa survive antibiotic treatment",
-      "link": "https://phys.org/news/2026-06-physical-pressure-pathogenic-p-aeruginosa.html",
-      "date": "2026-06-23 23:40",
-      "summary": "Pseudomonas aeruginosa is an opportunistic pathogen that can cause acute and chronic infections. Responsible for many hospital-acq..."
+      "title": "Elephants move closer to humans when droughts are sustained",
+      "link": "https://phys.org/news/2026-06-elephants-closer-humans-droughts-sustained.html",
+      "date": "2026-06-24 02:20",
+      "summary": "If drought in an area persists longer, elephants move closer to areas near human settlements. This is the finding of research by b..."
     },
     {
-      "title": "Researchers aim for hardier herds of worms for productive, resilient farming practice",
-      "link": "https://phys.org/news/2026-06-aim-hardier-herds-worms-productive.html",
-      "date": "2026-06-23 23:40",
-      "summary": "The black soldier fly converts organic waste into biomass. The cricket brings crunchy protein to the dinner plate. The mealworm ca..."
+      "title": "New biofilm mechanism in Bacillus cereus could reveal vulnerabilities in food poisoning bacterium",
+      "link": "https://phys.org/news/2026-06-biofilm-mechanism-bacillus-cereus-reveal.html",
+      "date": "2026-06-24 02:00",
+      "summary": "Scientists from the Department of Microbiology at the University of Malaga, who are also members of the Institute of Subtropical a..."
     },
     {
-      "title": "People care more about being right than avoiding mistakes, study finds",
-      "link": "https://phys.org/news/2026-06-people.html",
-      "date": "2026-06-23 23:30",
-      "summary": "Conventional wisdom says the best predictions are the ones that minimize mistakes, but new research suggests that is not necessari..."
+      "title": "Cheap, effective and dangerous: How Australian farmers came to depend on the toxic weedkiller paraquat",
+      "link": "https://phys.org/news/2026-06-cheap-effective-dangerous-australian-farmers.html",
+      "date": "2026-06-24 01:40",
+      "summary": "It is illegal to use paraquat in at least 74 jurisdictions worldwide, including the European Union, China, Malaysia, Brazil and, m..."
     },
     {
-      "title": "Is political polarization dangerous? Study provides clearer answers",
-      "link": "https://phys.org/news/2026-06-political-polarization-dangerous-clearer.html",
-      "date": "2026-06-23 23:20",
-      "summary": "In recent years, political polarization has received considerable attention, not least as an explanation for developments in the U..."
+      "title": "A new 'prescription' to address the environmental crisis",
+      "link": "https://phys.org/news/2026-06-prescription-environmental-crisis.html",
+      "date": "2026-06-24 01:20",
+      "summary": "A new \"prescription for the planet\" aims to address the deepening environmental crisis...."
     }
   ],
   "The Guardian Edu": [
@@ -289,37 +289,43 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Experts reveal why deadly Hong Kong blaze spread so rapidly",
+      "link": "https://www.scmp.com/news/hong-kong/article/3358094/experts-reveal-why-deadly-hong-kong-blaze-spread-so-rapidly?utm_source=rss_feed",
+      "date": "2026-06-24 02:12",
+      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+    },
+    {
+      "title": "Hong Kong’s focus on rankings distorts universities’ true mission",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3357923/hong-kongs-focus-rankings-distorts-universities-true-mission?utm_source=rss_feed",
+      "date": "2026-06-24 01:30",
+      "summary": "“Hong Kong is the only city in the world with five universities ranked among the global top 100.” This talking point has become on..."
+    },
+    {
+      "title": "National security certification power won’t affect appeals: Hong Kong justice chief",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358105/national-security-certification-power-wont-affect-appeals-hong-kong-justice-chief?utm_source=rss_feed",
+      "date": "2026-06-24 00:30",
+      "summary": "As Hong Kong marks the 29th anniversary of its return to Chinese rule on July 1, the South China Morning Post talks to the city’s ..."
+    },
+    {
+      "title": "Creditors in aggressive push to sell 2 Hong Kong hotels amid banks’ drive to cut losses",
+      "link": "https://www.scmp.com/business/article/3358101/creditors-aggressive-push-sell-2-hong-kong-hotels-amid-banks-drive-cut-losses?utm_source=rss_feed",
+      "date": "2026-06-24 00:00",
+      "summary": "Receivers and agents of the Sheraton Hong Kong Tung Chung Hotel and the Four Points by Sheraton have expressed confidence in final..."
+    },
+    {
       "title": "US Anthropic ban is best advert for Chinese AI",
       "link": "https://www.scmp.com/opinion/china-opinion/article/3357898/us-anthropic-ban-best-advert-chinese-ai?utm_source=rss_feed",
       "date": "2026-06-23 21:30",
       "summary": "Bankers working for JPMorgan Chase and Goldman Sachs in Hong Kong must have been miffed when they were shut off from using artific..."
-    },
-    {
-      "title": "Construction stands to get an AI boost",
-      "link": "https://www.scmp.com/presented/news/hong-kong/topics/ai-and-smart-construction/article/3358059/construction-stands-get-ai-boost?utm_source=rss_feed",
-      "date": "2026-06-23 16:00",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nHong Kong’s construction industry and the broader buil..."
-    },
-    {
-      "title": "American envoy in Hong Kong upbeat on US-China ties, aims to engage city officials",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3358103/american-envoy-hong-kong-upbeat-us-china-ties-aims-engage-city-officials?utm_source=rss_feed",
-      "date": "2026-06-23 15:05",
-      "summary": "The United States’ top envoy in Hong Kong has expressed optimism about US-China relations and pledged to continue seeking pragmati..."
-    },
-    {
-      "title": "Ex-Chinese official’s son remanded in Hong Kong over HK$64m money laundering case",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358097/ex-chinese-officials-son-remanded-hong-kong-over-hk64m-money-laundering-case?utm_source=rss_feed",
-      "date": "2026-06-23 13:43",
-      "summary": "The son of a former mainland Chinese official has been remanded in custody in Hong Kong pending sentence for laundering more than ..."
-    },
-    {
-      "title": "Don’t restrict AI in sports, ensure fair access, Hong Kong lawmaker urges",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3358095/dont-restrict-ai-sports-ensure-fair-access-hong-kong-lawmaker-urges?utm_source=rss_feed",
-      "date": "2026-06-23 13:19",
-      "summary": "Hong Kong’s lawmaker for the sports sector has urged authorities to focus on ensuring fair access to AI rather than attempting to ..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Huge crater in Australia may be the oldest impact structure on Earth",
+      "link": "https://www.newscientist.com/article/2531525-huge-crater-in-australia-may-be-the-oldest-impact-structure-on-earth/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-23 23:00",
+      "summary": "A study claims that the North Pole Dome crater in Western Australia was caused by an asteroid strike 3 billion years ago, but othe..."
+    },
     {
       "title": "You should turn off fans when it's too hot – but how hot is too hot?",
       "link": "https://www.newscientist.com/article/2531606-you-should-turn-off-fans-when-its-too-hot-but-how-hot-is-too-hot/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -343,12 +349,6 @@
       "link": "https://www.newscientist.com/article/2530933-unapproved-gene-therapy-for-boosting-longevity-is-set-to-go-on-sale/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-23 12:14",
       "summary": "A gene therapy that instructs cells to produce more of an anti-ageing protein called klotho is about to be offered by a US company..."
-    },
-    {
-      "title": "Woman with Alzheimer's starts conversing again after taking psilocybin",
-      "link": "https://www.newscientist.com/article/2531319-woman-with-alzheimers-starts-conversing-again-after-taking-psilocybin/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-22 18:00",
-      "summary": "A woman with severe Alzheimer's disease who hadn't spoken more than monosyllables in years began initiating conversation after a s..."
     }
   ]
 }
