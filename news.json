@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Computer model could enable bridges and buildings that use less material",
+      "link": "https://news.mit.edu/2026/computer-model-could-enable-less-material-bridges-buildings-0624",
+      "date": "2026-06-24 04:00",
+      "summary": "MIT researchers developed an approach for generating more buildable structures, bridging the gap between optimized design and real..."
+    },
+    {
       "title": "New chip could help tiny robots traverse complex environments",
       "link": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
       "date": "2026-06-23 04:00",
@@ -23,27 +29,9 @@
       "link": "https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead",
       "date": "2026-06-18 04:00",
       "summary": "Leaders, faculty across MIT discuss fostering innovation and talent in Greater Boston in special series of articles published alon..."
-    },
-    {
-      "title": "In game theory, generalists sometimes win out over specialists",
-      "link": "https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617",
-      "date": "2026-06-17 19:20",
-      "summary": "Researchers show that for certain kinds of games, an overlooked class of algorithms performs much better than expected...."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
-      "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
-    },
-    {
-      "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRCNE1YZ0h5NkU4MmtrUnh5TmcyWlVoZHBJN25nR1FUUjByVmxENDZsMmxuMWRVajhKV1FPb1owUWRDay1lQk53TzMyQUo2RmRSczdJOC1Lb0wtQmJScFFtZU9kN3A1MFdCNjMxNXhsVDRDZ3hHbWZwTjdYcjBxcXNXZ182MVlqN0dvTEgycW5NaC0ybWl0eHJuRjBla3JKemc?oc=5",
-      "date": "2026-05-26 07:00",
-      "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
-    },
     {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
@@ -51,16 +39,28 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Funny but serious, Chieng issues an AI warning to grads - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjd2dS0wSnZIbjNVSzM1N1ZLbW82LUpSaV92b1lDRU1ZQUw2UVJQUVE3eDRHVnB3UUJEV09kQkx5TkE3aFNjVlMzQ3poQ2lqY2UzWGdJaUh5RmlMRXRFclFsY0VLWnFaMkEyZXUyODI0dUlqVFlmYWtWMVJQQnlhZ005eDljQnZSWXd2RUVzX0NtN1BLb3pGQlNmOE9tSjREc2hVWQ?oc=5",
-      "date": "2026-05-27 07:00",
-      "summary": "Funny but serious, Chieng issues an AI warning to grads  Harvard Gazette..."
-    },
-    {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+    },
+    {
+      "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
+    },
+    {
+      "title": "Plan to rein in inflated grading explained - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
+      "date": "2026-03-26 07:00",
+      "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+    },
+    {
+      "title": "The questions that keep scientists up at night - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
+      "date": "2026-04-07 07:00",
+      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -71,28 +71,28 @@
       "summary": "David Rehkopf named new director of the Stanford Center on Longevity  Stanford Report..."
     },
     {
-      "title": "Student, faculty leaders share their Stanford experiences at Board of Trustees meeting - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iT0J1UU5zZklzUGlURU1Ud1lTcGNkSnJDeDZrOTNxbE0yNFBEdUMzR044MTBDcFo2WGp5anRNXzVTT0FFUGxuUjZzSmNudzdiT0ptWHFNR043bEVMSS0yYU5PbHRiQVZnQ1ltRUVsUTBadw?oc=5",
-      "date": "2026-06-23 02:52",
-      "summary": "Student, faculty leaders share their Stanford experiences at Board of Trustees meeting  Stanford Report..."
-    },
-    {
-      "title": "Bridging Perspectives in Social Entrepreneurship - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUxDV3AtclhkOUtidHJmdW5oRUpNQlRsMGh2Z1BDWEhvWHdKOVVTdzA0R3AwM0tISHJvV1NSZkl4R3hZeFBmMEl0RkpJcUQxMm9uQnY1R0lJVHk5dmlWbXdKem5qVGVUVURWal9HOU5ZckFmUHhXNFZCMXhQVExhb19BbVdQQWdH?oc=5",
-      "date": "2026-06-23 12:00",
-      "summary": "Bridging Perspectives in Social Entrepreneurship  Stanford University..."
-    },
-    {
       "title": "GROW THERAPY AND STANFORD UNIVERSITY LAUNCH RESEARCH PARTNERSHIP TO ESTABLISH CLINICAL SAFETY STANDARDS IN AI FOR MENTAL HEALTH - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOc09PR1JiblRlQXZPalo1WHpoTS1VQVlGZjRFZEVLZXJ4Um9yNHdWZ0d2ZzliNDMtSlhTYWVKUXR5MGxSMG1MdEo4SE1pWE5PSVIxcjd1YWdBbS1RMVAyOG1Na0RrSzVnVEhlU3hOclNxTGFicW5uNVRHcjZMZm44TEVhaVFTSjNUNXNYNEZING1EMHZQc3FPXzdBaDZsTlJhQy1icEdMSXJRMkgzQ195T2dJYTVDN2w3bUhZalVqUTdlbENGU0xSeGhLT1dKSkw3SnJMWUx1SVZfZGVHSlQ3TWVrX1VaSTZYbVMySVQtdm1ERURScVlDUmNTOHNLSjdPWmJmSXNHWTdIRTk2Q3hNMg?oc=5",
       "date": "2026-06-23 13:18",
       "summary": "GROW THERAPY AND STANFORD UNIVERSITY LAUNCH RESEARCH PARTNERSHIP TO ESTABLISH CLINICAL SAFETY STANDARDS IN AI FOR MENTAL HEALTH  P..."
     },
     {
-      "title": "Stanford RegLab and Colorado Labor Department Receive Award for AI Adjudication Tool - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVFNRjJqLWwydXI1ZGdCVFA3Q3pKc0lwMUZ2TjBYX2ZMUTNFY09FU2NSb3l1T3QyODN0MVp4dEFzSG1RdkhiYVJXRk5IUGR1MlFHbkQ5NXgwTHNSQ2ZMaVdvNnJYelhWUU5YalVQb1VyeUw4STFHbnp2WnVDMlJIV0lsdE1PdTQwdHk3alA1NFhXZF9uV2R6N3JCNmgzcTNpdFlRWFpsU084YkdxZkdsc3RBVnpoRDA?oc=5",
-      "date": "2026-06-23 19:18",
-      "summary": "Stanford RegLab and Colorado Labor Department Receive Award for AI Adjudication Tool  Stanford Law School..."
+      "title": "State Supreme Courts Can Resolve Early Legal Recruiting Mess - Stanford Law School",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFZkSnJ2M0drVDkyZjdVWlRuSXBGSnJ2QlQteDhqNXRLaks1NnFESUxFZlBBaU9BREZoX204X2k1eWNVOHoxZ0NxeTB6V2dxMGNCYU9yYXVGRGpHQkVZSVFFY1hOZkRlRlFtOUh6dHJqTTRKbGpZTTRrTXpFckJKd3U2X19HM2tqcHNHWm1LS1ZHR3VUSTRv?oc=5",
+      "date": "2026-06-24 05:42",
+      "summary": "State Supreme Courts Can Resolve Early Legal Recruiting Mess  Stanford Law School..."
+    },
+    {
+      "title": "Stanford was their golden ticket - could AI help or hinder that? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3OFFhWVhXMGdZREhlbUVBdkVTdDdZdFlqM3pFaWwtdFV0S0hxQnpBcjVwZXJFNVRoY2d0QkphV0k4bEpzZEF0eXFmWVpOeHFQdFh5VkNvZ1RvY0Ex?oc=5",
+      "date": "2026-06-23 23:16",
+      "summary": "Stanford was their golden ticket - could AI help or hinder that?  BBC..."
+    },
+    {
+      "title": "Stanford football: Pritchard-era recruiting brings Harbaugh parallels, and they start up front - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUC11VjNpVXl4VDVGS0wxSzhHMFdmS2YyeExZSUhKT1RITDcwdWVWbjE4c0laaktEbGRjM3dhSWtsUXRLamFXQWM3TTdvdFRXdWpEb2lCaHFLT25JbDZhZVV2dnhKRFprV1MyS1pFU1NFZkdzbXJOd1pjcmFPQUFuN3N0NTgzQzd6RmtmbEtWaDJCeGUtMVA4N2hNRmR3TkZEYnRuU1k2M0dJenUxMGtxblV6aEbSAboBQVVfeXFMUHljY2k0clRlQy1DWjhPOEJJcTdXYlM2ZGQ1VG9FS0VVM09RSTd0Y3BVWmhhN0FqU2Z2Ry1QYVNtbk01YVdPRldqZWp1cTZnNVlEUkJnS2RabkNHYUxQY3lUYmR1MEttMzJqWV82TVJHd0hJcFBlcUE2SkNCTDVkVEFLTkhnNzRHeG5GY1JYNFJRUkRCX1pXaW5YNS1YQWh3Rk1YUWZvZldjcmFRd21hQzZQd1ZvQVJxbjRR?oc=5",
+      "date": "2026-06-23 19:37",
+      "summary": "Stanford football: Pritchard-era recruiting brings Harbaugh parallels, and they start up front  The Mercury News..."
     }
   ],
   "Nature Careers": [
@@ -161,16 +161,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "UN chief calls on AI firms to come clean on environmental costs - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmtNQW1EUEQ5WVVUZHhlbmlGWGRyaFdDWm4xa3d5eHpsMGFuNUFXWTNwTWdZbzNmY0RsbG1pYUJRcEJkMy1fY25nbFFCeTZDc1YwdnJGaDJ2T2tDZHJJQU9rMk9Ub3ItOWdpbXVvaG90ZGNHa2YwRTEwRThHWjhlS1JBRHZQUWZrNEFER29OOXlISHVkMDlXRzB6TkxfbW50RzQ1U1NGSVBTUG8?oc=5",
-      "date": "2026-06-23 14:17",
-      "summary": "UN chief calls on AI firms to come clean on environmental costs  Reuters..."
+      "title": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFZieUdRS2dsTW1yeU1JcWF5TFNJczJHdlF6MVJpbXkyVk1LMnI2MFBEUmJPS0NPTG5TRWVzckVhYnRHeTNCTU8zVG5DTjJ3bHc2ZzY3TWJSYS1pMjlsZVZNRkZPQkhVblpNUjZ5NGdXSjBVMXUtTzc1TXdkMWFnWVFEU1UxTVBzRmdJZjdSdDR0alpkVUZVQUlDS2dTd2lPenBjVVpMQ3ZtODVMVEpISzI2U0FxM2VjSEg3YUpzSjczZw?oc=5",
+      "date": "2026-06-22 22:28",
+      "summary": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports  Reuters..."
     },
     {
-      "title": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZnRBblJ3NTkyRUx4YUl3ZXg3MGZwSWNtSlhZUkgyb2NlODJVc2hpVWI4YWFOaDNGVjJtYVEwdk9qR2tYNWZsc1VUTlFwSTNMXzRrcUNDNjFCOUJSWFpSRl9QRktFcGNwaHRtSWY5eUY0dHAtRUYxSEtGT2Y0Tjh3RVJ4aDZsRDNLQ0JRa2xRYXE1QV9pZjNDZFA2Mmg1bm8wOUw4YnI3RFZ3MWVPc0VENHk1VXRJaW5yTEtEcjdqUnd6VFk3bWI0YUVpak15VGM?oc=5",
-      "date": "2026-06-22 23:17",
-      "summary": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk  Reuters..."
+      "title": "IBM partners with OpenAI on enterprise security AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTFFOHhJWVBSZ09VeTZKWjFFcl9oUmVJdU9PS0xRRXJsbURSRmdsUWY0TXR4TmVxWC1XTXNGaVU1VkRfSmRYUkp0aVlIYXhNSDI4Tlk3Mi0xbW5yRi1yT25zMjZHNE9CWFBSOVI3VUkxU2w4WHhmMDFIMWZLeHhBYVJtaUV6TVFHc0wxcDgxOVNrOWVkQXFzbUVB?oc=5",
+      "date": "2026-06-22 21:29",
+      "summary": "IBM partners with OpenAI on enterprise security AI  Reuters..."
+    },
+    {
+      "title": "Talk of a bubble is an 'insult to AI' says SoftBank's Son - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRE5WYzdudUlMb1BHUk1sTzlQMWc0WWZTa0hIMXFsbU5ZRl9pVkJHMmFnRTBIdjJ6NFZGOVRlc2ZjZHkzYWk0QVFLaUswTDJzVDM3RHNnTEk4cTRoZkFDRDNSZHNkc2ZHUXJOYnk5RXNYdXVYRkZyRXppXzBULUEyeFJjMzBFb3RGWFhNNGdBYUVuZG9HTlZXT0F6NkNwXzFvV05WS3dUUFM?oc=5",
+      "date": "2026-06-24 06:07",
+      "summary": "Talk of a bubble is an 'insult to AI' says SoftBank's Son  Reuters..."
     },
     {
       "title": "Dutch official presses US lawmakers over China chip export bill - Reuters",
@@ -183,12 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNPRlRZSUdoVFJBMmtUTXBsQmFWN2lEMVBMY212SkVxZTlFTHRLSGNwZHBTQmhlRWZLT0lpejBEeDA1TlkySU5OQ2NEOFNwNXIwdDRMdFhNb0FqNHRBakFKRjI4cWwxQnpHZlczdFY4cHZwUldJT1NPZEtCTkFYQlUxRDBfYi0tZFZ3cmNlZ3E5N2htNF9qMUdWaXNPRldvaU5xdzRXOG9WNmYzdHowcHZGY2J2NDl4LUJ6Rw?oc=5",
       "date": "2026-06-23 09:45",
       "summary": "China beats US with world's fastest supercomputer, but race not geared for AI work  Reuters..."
-    },
-    {
-      "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xZSHdqTkZTenRqaEM4VEFGbmRPYndlel94bldUTXlFUHJnZV9BRHFja0QyZThTV1JrbFJLNFZiaDZubnBGMWlmUEZJd3p1eTI5dkRialdHUmNpZkctdWxRVGJCLUlIaVlGZXpXeDRYWm1ucE9xbENVcWRINTBacU5oanJ5SGZZQm9rd3FHWkFzOXBvdUFQWDFPNA?oc=5",
-      "date": "2026-06-22 20:44",
-      "summary": "Oracle workforce shrinks by about 21,000 employees amid AI adoption  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -217,13 +217,19 @@
       "summary": "The Download: the future of chipmaking and Anthropic’s government clash  MIT Technology Review..."
     },
     {
-      "title": "The $400 million machine powering the future of chipmaking - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzd4RUhyXzRNSGJDRW1vYnZDY25GZ2xxSWRfMEpFSDVEWHVZQVVzU3BPeXllZUN3d09LeWEwdFR6T2E5SkEwQjVNUlN2ODloVW1qNmRDXzA0LUt0d210UHZlV3ZaajlUNEYyakFBRTBmVnl0c29UeTVZMEpTcUdoZkFncGY4ZWRpaUlISHBrd1dkbkZVbUphSlJNUlNhSlpHTHhCQ1Fhc0Y5cElQcU9ENEpvOWHSAboBQVVfeXFMT1o2QjVJd0dKT2wyb2liNTdKUFJTOUhJdnlRQWpYUktpLTJBRzNyYTh4RHpUTno0QjY0Wm9RZWcyVG5yT0JHaFIxbGRISGxzOU1LT2N4Y2ZJaWNUVllMWkFLbzFwbGpUREpPVDR0X0lqdFBSaTQ5VDIxQWN3dlZGb2xNbGpES2tlQ3RySFJIck9vU3JMbWtuRmhvaGlxcVVHUHcteDNqYlllY19SUDI3ckh2Z3hlVUtidU53?oc=5",
-      "date": "2026-06-23 09:00",
-      "summary": "The $400 million machine powering the future of chipmaking  MIT Technology Review..."
+      "title": "Opening a door to mental-health help online - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUWN6ZjVMcmstUEFCZUhXM1RnT2dzRzBYZzRrRFRjWk9ZMDhnNUVPdTMxTGZHTkdORGhqUGRwSV9EVWZ4VDUtY1ZacnlfbU5VVjRUSUdhS0pfa3Y4eEt2VkhwZjFPTWk0WGpueFo0TkRkQVhYbWFaWjZyT0dwNjdPd1RseUdLenlrLXIyVWFzQV9ObGozVmRjN3paaGTSAaIBQVVfeXFMTndRbU9MZkVXVk9PX0NNOWJ4d29vY29ubGU0Y1hVT1ctZk9pOEZ4bURzMU1rQVZlWGJtWVUxakZGUTVXRllLaUg1M1BYTktPb3FEX21rRG8wWm5Nc1lQVi14eG5FMnVsQVRpRTZ3Y1VCWW1YbE1WS3dmcFFOU3A2TEVGRnNBZGNnVjB3LXNGYWt4YW1MV1BYWE9uMktqX1lkYWRB?oc=5",
+      "date": "2026-06-23 20:00",
+      "summary": "Opening a door to mental-health help online  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Every time Norway scores, the whole city of Bergen shakes",
+      "link": "https://phys.org/news/2026-06-norway-scores-city-bergen.html",
+      "date": "2026-06-24 03:40",
+      "summary": "During Norway's first match of the FIFA World Cup against Iraq on June 17, several small vibrations were recorded on the seismomet..."
+    },
     {
       "title": "Brown seaweed flour enhances nutritional value and digestibility of gluten-free cookies",
       "link": "https://phys.org/news/2026-06-brown-seaweed-flour-nutritional-digestibility.html",
@@ -247,15 +253,21 @@
       "link": "https://phys.org/news/2026-06-cheap-effective-dangerous-australian-farmers.html",
       "date": "2026-06-24 01:40",
       "summary": "It is illegal to use paraquat in at least 74 jurisdictions worldwide, including the European Union, China, Malaysia, Brazil and, m..."
-    },
-    {
-      "title": "A new 'prescription' to address the environmental crisis",
-      "link": "https://phys.org/news/2026-06-prescription-environmental-crisis.html",
-      "date": "2026-06-24 01:20",
-      "summary": "A new \"prescription for the planet\" aims to address the deepening environmental crisis...."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "A moment that changed me: A telegram arrived – and I had to choose between my head and my heart",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jun/24/moment-changed-me-telegram-arrived-choose-head-heart",
+      "date": "2026-06-24 05:45",
+      "summary": "Should I follow the man of my dreams to work in a club in Tehran? Or take up a place at an elite university? Thankfully, my dad ga..."
+    },
+    {
+      "title": "Failure to plan for rising temperatures has left UK’s schools sweltering",
+      "link": "https://www.theguardian.com/education/2026/jun/24/failure-to-plan-for-rising-temperatures-has-left-uks-schools-sweltering",
+      "date": "2026-06-24 05:00",
+      "summary": "Many buildings are in use past their predicted lifespans, but even newer designs lack measures to beat heatTo see the UK’s failure..."
+    },
     {
       "title": "Hundreds of schools in England and Wales to close in heatwave",
       "link": "https://www.theguardian.com/education/2026/jun/23/schools-england-wales-close-heatwave",
@@ -273,50 +285,38 @@
       "link": "https://www.theguardian.com/world/2026/jun/21/more-than-2m-indian-students-resit-medical-entrance-exam-after-alleged-leak",
       "date": "2026-06-21 16:49",
       "summary": "Applicants forced to retake one of the world’s toughest admission tests after claims questions sold on TelegramMore than 2 million..."
-    },
-    {
-      "title": "I can’t afford a tutor to help my daughter get into grammar school. Will she still fulfil her potential? | Annalisa Barbieri",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jun/21/cant-afford-tutor-daughter-grammar-school-fulfil-potential",
-      "date": "2026-06-21 05:00",
-      "summary": "You may be projecting your own school experience on to your daughter, but her needs are different and she has you to support herI ..."
-    },
-    {
-      "title": "City & Guilds scraps mass redundancies and offshoring UK jobs to Greece",
-      "link": "https://www.theguardian.com/education/2026/jun/18/city-and-guilds-scraps-mass-redundancies-offshoring-uk-jobs-to-greece",
-      "date": "2026-06-18 17:17",
-      "summary": "PeopleCert had been planning to cut about 400 jobs in £22m savings drive at training body it bought last yearThe vocational traini..."
     }
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Experts reveal why deadly Hong Kong blaze spread so rapidly",
-      "link": "https://www.scmp.com/news/hong-kong/article/3358094/experts-reveal-why-deadly-hong-kong-blaze-spread-so-rapidly?utm_source=rss_feed",
-      "date": "2026-06-24 02:12",
-      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
+      "title": "Beijing’s brokerage probe to stop ‘leakage’, Paul Chan tells Davos Dalian event",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358180/beijings-brokerage-probe-stop-leakage-paul-chan-tells-davos-dalian-event?utm_source=rss_feed",
+      "date": "2026-06-24 07:23",
+      "summary": "Beijing’s recent investigation into three brokerages – Futu Securities, Tiger Brokers and Long Bridge – was partly driven by conce..."
     },
     {
-      "title": "Hong Kong’s focus on rankings distorts universities’ true mission",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3357923/hong-kongs-focus-rankings-distorts-universities-true-mission?utm_source=rss_feed",
-      "date": "2026-06-24 01:30",
-      "summary": "“Hong Kong is the only city in the world with five universities ranked among the global top 100.” This talking point has become on..."
+      "title": "Hong Kong police arrest 15-year-old driver and his father in Wan Chai",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358176/hong-kong-police-arrest-15-year-old-driver-and-father-wan-chai?utm_source=rss_feed",
+      "date": "2026-06-24 07:03",
+      "summary": "Hong Kong police have arrested a 15-year-old boy and his father in Wan Chai after officers intercepted the teenager behind the whe..."
     },
     {
-      "title": "National security certification power won’t affect appeals: Hong Kong justice chief",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358105/national-security-certification-power-wont-affect-appeals-hong-kong-justice-chief?utm_source=rss_feed",
-      "date": "2026-06-24 00:30",
-      "summary": "As Hong Kong marks the 29th anniversary of its return to Chinese rule on July 1, the South China Morning Post talks to the city’s ..."
+      "title": "Hong Kong to send welfare cash to retirees’ mainland Chinese bank accounts from July",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358165/hong-kong-send-welfare-cash-elderlys-mainland-chinese-bank-accounts-july?utm_source=rss_feed",
+      "date": "2026-06-24 05:54",
+      "summary": "Hong Kong will allow elderly welfare recipients retiring in Guangdong and Fujian provinces to have cash assistance directly sent t..."
     },
     {
-      "title": "Creditors in aggressive push to sell 2 Hong Kong hotels amid banks’ drive to cut losses",
-      "link": "https://www.scmp.com/business/article/3358101/creditors-aggressive-push-sell-2-hong-kong-hotels-amid-banks-drive-cut-losses?utm_source=rss_feed",
-      "date": "2026-06-24 00:00",
-      "summary": "Receivers and agents of the Sheraton Hong Kong Tung Chung Hotel and the Four Points by Sheraton have expressed confidence in final..."
+      "title": "Hong Kong school rearranges overnight World Cup watch party after feedback",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3358154/hong-kong-school-rearranges-overnight-world-cup-watch-party-after-feedback?utm_source=rss_feed",
+      "date": "2026-06-24 04:53",
+      "summary": "A Hong Kong primary school that earlier suggested hosting an overnight World Cup viewing event has watered down the plan and opted..."
     },
     {
-      "title": "US Anthropic ban is best advert for Chinese AI",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3357898/us-anthropic-ban-best-advert-chinese-ai?utm_source=rss_feed",
-      "date": "2026-06-23 21:30",
-      "summary": "Bankers working for JPMorgan Chase and Goldman Sachs in Hong Kong must have been miffed when they were shut off from using artific..."
+      "title": "Man arrested over impersonating ride-hailing driver, breaching visa terms",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358136/man-arrested-over-impersonating-ride-hailing-driver-breaching-visa-terms?utm_source=rss_feed",
+      "date": "2026-06-24 03:35",
+      "summary": "Hong Kong police have arrested a 41-year-old mainland Chinese man on suspicion of impersonating a registered ride-hailing driver a..."
     }
   ],
   "New Scientist": [
