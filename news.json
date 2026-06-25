@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "How architecture influences political activity",
+      "link": "https://news.mit.edu/2026/how-architecture-influences-political-activity-0625",
+      "date": "2026-06-25 04:00",
+      "summary": "In Ghana, semi-communal “compound houses” affect how much people vote and participate in political activity, new research shows...."
+    },
+    {
+      "title": "Improving the speed and energy-efficiency of AI agents",
+      "link": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
+      "date": "2026-06-25 04:00",
+      "summary": "A new system, known as Murakkab, optimizes the design and deployment of multistep workflows that power AI applications...."
+    },
+    {
       "title": "What happens when environmental change outpaces life’s ability to adapt?",
       "link": "https://news.mit.edu/2026/when-environmental-change-outpaces-life-ability-to-adapt-0624",
       "date": "2026-06-24 15:00",
@@ -17,18 +29,6 @@
       "link": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
       "date": "2026-06-23 04:00",
       "summary": "Researchers combined an efficient algorithm with dedicated hardware to rapidly generate 3D maps for navigation using minimal memor..."
-    },
-    {
-      "title": "Astronomers map a magnetic “skeleton” funneling gas into a stellar nursery",
-      "link": "https://news.mit.edu/2026/mit-haystack-observatory-astronomers-map-magnetic-skeleton-funneling-gas-into-stellar-nursery-0622",
-      "date": "2026-06-22 14:20",
-      "summary": "MIT Haystack Observatory researchers use SOFIA observations to reveal how magnetic fields guide the assembly of one of our galaxy'..."
-    },
-    {
-      "title": "A better way to model the behavior of metal alloys",
-      "link": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
-      "date": "2026-06-19 18:00",
-      "summary": "MIT researchers’ approach captures subtle atomic patterns, improving predictions of material properties...."
     }
   ],
   "Harvard Gazette": [
@@ -71,6 +71,12 @@
       "summary": "16 from Stanford awarded Fulbright grants  Stanford University..."
     },
     {
+      "title": "Six Lessons from Asia on Using AI for Aging in Place - Shorenstein Asia-Pacific Research Center",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByd0U3RG5vWTcwU2ZlYTZYbVBpZGlVSDhTUEplbVVYUVV4RmNrd2JKR3N6cXRzZmg3cm4xZ0RwOGFrRDZPWWM5TTk0RUh0N0ZrNktoaHNWQnV5dkJtaUYwc1FpaXdSNE9fZTNQcHdycXNrZmt6YmZXeEU5Y3hGZw?oc=5",
+      "date": "2026-06-24 12:00",
+      "summary": "Six Lessons from Asia on Using AI for Aging in Place  Shorenstein Asia-Pacific Research Center..."
+    },
+    {
       "title": "Stanford was their “golden ticket,” but AI may change that - AzerNews",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jRGZNYzBXUkNvZ3lYQnhLSkM1M2tGSWhoOHEwLW5EWUo2RTUtVjZqeFVKVE9mWHpYZl9HbXEwaWY5U3ZaMzRjTjNvTVBWZXNULVRtcw?oc=5",
       "date": "2026-06-24 16:26",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVFNRjJqLWwydXI1ZGdCVFA3Q3pKc0lwMUZ2TjBYX2ZMUTNFY09FU2NSb3l1T3QyODN0MVp4dEFzSG1RdkhiYVJXRk5IUGR1MlFHbkQ5NXgwTHNSQ2ZMaVdvNnJYelhWUU5YalVQb1VyeUw4STFHbnp2WnVDMlJIV0lsdE1PdTQwdHk3alA1NFhXZF9uV2R6N3JCNmgzcTNpdFlRWFpsU084YkdxZkdsc3RBVnpoRDA?oc=5",
       "date": "2026-06-23 19:18",
       "summary": "Stanford RegLab and Colorado Labor Department Receive Award for AI Adjudication Tool  Stanford Law School..."
-    },
-    {
-      "title": "Cook Returns To The Farm - Stanford Cardinal",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JbGk3djhwYkNSQnRENEpMb0N5ZXRsRGpMMWlpUzB0RTJ0SEVxSVZNZDY2bnFhQURXeFpDYlY3NjZuTHFXQmtQeXhzS2djZl9iNzItV0ZUWXpZNHZxTldVS2NfSXpsYU1DakVxUjdhS0E?oc=5",
-      "date": "2026-06-24 18:34",
-      "summary": "Cook Returns To The Farm  Stanford Cardinal..."
     }
   ],
   "Nature Careers": [
@@ -167,28 +167,28 @@
       "summary": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure  Reuters..."
     },
     {
-      "title": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZnRBblJ3NTkyRUx4YUl3ZXg3MGZwSWNtSlhZUkgyb2NlODJVc2hpVWI4YWFOaDNGVjJtYVEwdk9qR2tYNWZsc1VUTlFwSTNMXzRrcUNDNjFCOUJSWFpSRl9QRktFcGNwaHRtSWY5eUY0dHAtRUYxSEtGT2Y0Tjh3RVJ4aDZsRDNLQ0JRa2xRYXE1QV9pZjNDZFA2Mmg1bm8wOUw4YnI3RFZ3MWVPc0VENHk1VXRJaW5yTEtEcjdqUnd6VFk3bWI0YUVpak15VGM?oc=5",
-      "date": "2026-06-22 23:17",
-      "summary": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk  Reuters..."
+      "title": "US presses Meta to agree to AI reviews as security concerns rise, NYT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1BkQ0VuVVRQS1dyNXlUd19NMEtTTTNhYVoxT2ZGUm9CMmx6NVIwVVp4d1RKQ2pJclpJM3E5aXVPQm5jMVNJSG5mYWNuRU5ZNU5fTEV4Z2h0T3Q1MGZYbW9ZemRRZ0hTblpwOVJaRnpMNWdoa3QwMlpYVmFHQjEzQ055dk90Q0VmZmEwckJGa09DRnlYR1NqTU9zZjVNS29fRlVwMXlPV1NTNFlLOENpSzRR?oc=5",
+      "date": "2026-06-23 23:03",
+      "summary": "US presses Meta to agree to AI reviews as security concerns rise, NYT reports  Reuters..."
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5",
-      "date": "2026-06-24 23:17",
+      "date": "2026-06-24 20:45",
       "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities  Reuters..."
     },
     {
-      "title": "Talk of a bubble is 'blasphemy against AI' says SoftBank's Son - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRE5WYzdudUlMb1BHUk1sTzlQMWc0WWZTa0hIMXFsbU5ZRl9pVkJHMmFnRTBIdjJ6NFZGOVRlc2ZjZHkzYWk0QVFLaUswTDJzVDM3RHNnTEk4cTRoZkFDRDNSZHNkc2ZHUXJOYnk5RXNYdXVYRkZyRXppXzBULUEyeFJjMzBFb3RGWFhNNGdBYUVuZG9HTlZXT0F6NkNwXzFvV05WS3dUUFM?oc=5",
-      "date": "2026-06-24 06:07",
-      "summary": "Talk of a bubble is 'blasphemy against AI' says SoftBank's Son  Reuters..."
+      "title": "NEWSLETTER: Artificial Intelligencer: Wall Street can’t decide what to think about AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLWoybWRiSDVFTWkzcnhBeWFuckJLTTRvTDdtWTRMQWF4U0FpczAwaHc3SF84NFBzemkwR0NoZHpvdkRvTkNtRUw1VERaSU1NZW1Pc1VWeG1uVmk5WWhwUXJOQ1RPMWh4b2VtZXY4MEt6OVBBbFdSeXhhRm16bXVNc1RCbm5HYURQNGllaUgwMTRRVlMwdE54enp2ZkNKcXpNdUR1MVJodEJyVWdpQmhxRWxGd01XeHN4OE5NbkNxdXZwS1JvekVTell3dFRib1lrODZMU0hB?oc=5",
+      "date": "2026-06-24 20:20",
+      "summary": "NEWSLETTER: Artificial Intelligencer: Wall Street can’t decide what to think about AI  Reuters..."
     },
     {
-      "title": "UN chief calls on AI firms to come clean on environmental costs - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmtNQW1EUEQ5WVVUZHhlbmlGWGRyaFdDWm4xa3d5eHpsMGFuNUFXWTNwTWdZbzNmY0RsbG1pYUJRcEJkMy1fY25nbFFCeTZDc1YwdnJGaDJ2T2tDZHJJQU9rMk9Ub3ItOWdpbXVvaG90ZGNHa2YwRTEwRThHWjhlS1JBRHZQUWZrNEFER29OOXlISHVkMDlXRzB6TkxfbW50RzQ1U1NGSVBTUG8?oc=5",
-      "date": "2026-06-23 14:17",
-      "summary": "UN chief calls on AI firms to come clean on environmental costs  Reuters..."
+      "title": "RBI proposes guidelines for banks to manage AI risks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVl96UWxDckhITEUtTmxqN1hYM2pKUlBscDZEMXRIaHBTSlRfQ1lxdGN1dUxMSk9Td3BwWnRPblVaUGU1aWpkTllYSm82MW5xcnJzcExXTG9lVWNzSUFudUtpQWVsdUphdE9acnE4aVVMVWNDLXMyWVRGRjJXQXI3R2YzZERHV1o5c0std3BDUFlRb21l?oc=5",
+      "date": "2026-06-24 12:39",
+      "summary": "RBI proposes guidelines for banks to manage AI risks  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -211,48 +211,48 @@
       "summary": "The Download: introducing the Engineering issue  MIT Technology Review..."
     },
     {
-      "title": "This flying solar-powered platform could deliver better internet from the air - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV3lLRDR0WlBDSmZVN05KYldQQlNMeENrcnBfSnJTQ1psN3ZtSFUxVHZDbEFSdXZjVUhsTXVVM0w0QklfWnl0cjkwV3JudnJFTHlxOVhSRlY2dUxGQXdCT1V6OFlnVTEyT01SaG1PZjVMcjhjeVBXN3VCLURaOUg1MGd1bXA4cnRTMzRnOHcwd1pab1FrRm0yN3NlLUpwbk9YTlHSAacBQVVfeXFMTlBfRk1CT19aamUtYUlNaGg5bk9yZ1c1dmlJSUI0VkFDbm1PcWV1akgya1ZwMFBtTEhaOEFvb1FJVFBaVnFEYnpwVE1UaUxWRnk0eVcwd1I0Z09UV05zSllnV3djTzJKNGl4YzhFV3VmYTdsdWxvR1JJZnZ2YURSdWNnYXo0VHk2cklpOUQyb1Y2NUcxZ2lhVWc3YkRGRFVyY1FCMDJvOTA?oc=5",
-      "date": "2026-06-24 09:00",
-      "summary": "This flying solar-powered platform could deliver better internet from the air  MIT Technology Review..."
+      "title": "The Download: the future of chipmaking and Anthropic’s government clash - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPazhhUWV2R0hxRnllZzBEY091UnNRMG1FTjdETnNxQW1hR3JMc2Q2TmN5dVhzbHJUeFBnYWt5RlNoeUp1YlRHdmlJbzFZYlp4UVUtRU1qTWprand1TGxlUlRqcS1WVnVyczRhXzZQVmhVaFBqVnp4dUR5dGQ3Z3RUR05zeHA2NWRLeFpJY1JVbjljcm5Za05YNFBvWDdfN2gyYUdpcGs0Z2F3NHU0Vy10WVBSbV9YeUxKeHfSAb8BQVVfeXFMTkZ4R3ZDcDZaVjE3eURNam9XbktkWWpPRzhKSVhvcnlGa3AtaVM5NFJvZFhVcVpyallOOGFTUzZzY1o2NFlOX3lsTmZFemcxZHdmd29MVmdTR1dEWjF5VU9DXzVwZ1pvblAzNTlBUGc3ZzZMN1VkbkQzUUFUeDB6VVZBLU1IbEhud1lzc2xlSFZISzJETTJwU0FsNmRqZ3oyOHNzRThtMWh4UG9mVlFxT0NMaUlvbUxyWTctV2JmMTA?oc=5",
+      "date": "2026-06-23 12:10",
+      "summary": "The Download: the future of chipmaking and Anthropic’s government clash  MIT Technology Review..."
     },
     {
-      "title": "MIT Technology Review unveils the full agenda for EmTech Future 2026 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEJnd2h2bkNRT0hfYXJtRnhUVzhnUThBY0UtbFA1TlF3QkdxR2hmbkh4SXVEcEFlemg3M2pyVEtURDNPTkZlSVVZQTBIV2pHVVJNWWs3Ml9ZOXhUcmdDYUhUbzNvNkFyNHVleGVsc3VYNnYxR0o2ejhPV3YxSXZQVERzYWRlLTVCWFRXUE0wekZZTXJVQWxzRWt0bFJRa2c?oc=5",
-      "date": "2026-06-24 19:47",
-      "summary": "MIT Technology Review unveils the full agenda for EmTech Future 2026  Yahoo Finance..."
+      "title": "The $400 million machine powering the future of chipmaking - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzd4RUhyXzRNSGJDRW1vYnZDY25GZ2xxSWRfMEpFSDVEWHVZQVVzU3BPeXllZUN3d09LeWEwdFR6T2E5SkEwQjVNUlN2ODloVW1qNmRDXzA0LUt0d210UHZlV3ZaajlUNEYyakFBRTBmVnl0c29UeTVZMEpTcUdoZkFncGY4ZWRpaUlISHBrd1dkbkZVbUphSlJNUlNhSlpHTHhCQ1Fhc0Y5cElQcU9ENEpvOWHSAboBQVVfeXFMT1o2QjVJd0dKT2wyb2liNTdKUFJTOUhJdnlRQWpYUktpLTJBRzNyYTh4RHpUTno0QjY0Wm9RZWcyVG5yT0JHaFIxbGRISGxzOU1LT2N4Y2ZJaWNUVllMWkFLbzFwbGpUREpPVDR0X0lqdFBSaTQ5VDIxQWN3dlZGb2xNbGpES2tlQ3RySFJIck9vU3JMbWtuRmhvaGlxcVVHUHcteDNqYlllY19SUDI3ckh2Z3hlVUtidU53?oc=5",
+      "date": "2026-06-23 09:00",
+      "summary": "The $400 million machine powering the future of chipmaking  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Did gravitational tides cause Earth's extinctions?",
-      "link": "https://phys.org/news/2026-06-gravitational-tides-earth-extinctions.html",
-      "date": "2026-06-25 00:00",
-      "summary": "Life on Earth took a long evolutionary journey that eventually created us, the purportedly intelligent species that dominates the ..."
+      "title": "Shorter front-leg strides can be an early warning sign of dementia in senior dogs",
+      "link": "https://phys.org/news/2026-06-shorter-front-leg-early-dementia.html",
+      "date": "2026-06-25 04:00",
+      "summary": "Scientists have shown that the stride length of the front legs (but not the hind legs) of senior and geriatric dogs decreases as t..."
     },
     {
-      "title": "Laser experiments push helium to record shock pressures",
-      "link": "https://phys.org/news/2026-06-laser-helium-pressures.html",
-      "date": "2026-06-24 23:50",
-      "summary": "Deep inside gas giants like Jupiter and Saturn, hydrogen and helium coexist under pressures millions of times greater than Earth's..."
+      "title": "Precious drops: Spray helps crop farmers facing declining rainfall",
+      "link": "https://phys.org/news/2026-06-precious-spray-crop-farmers-declining.html",
+      "date": "2026-06-25 03:20",
+      "summary": "A spray made from a biodegradable polymer capable of capturing and redirecting water to crop seeds could be the key to drought-pro..."
     },
     {
-      "title": "How longer exciton lifetimes could ease efficiency trade-off in organic solar cells",
-      "link": "https://phys.org/news/2026-06-longer-exciton-lifetimes-ease-efficiency.html",
-      "date": "2026-06-24 23:40",
-      "summary": "Although the efficiency of organic solar cells has now risen to more than 20%, there are physical limits that make it difficult to..."
+      "title": "Designer proteins unlock near-infrared and SWIR glow for deeper tissue imaging",
+      "link": "https://phys.org/news/2026-06-proteins-infrared-swir-deeper-tissue.html",
+      "date": "2026-06-25 02:40",
+      "summary": "Researchers at the National Center for Tumor Diseases (NCT/UCC) in Dresden, including Oliver Bruns and Dr. Bernardo Arús, are part..."
     },
     {
-      "title": "Mathematical modeling helps advance use of magnetic particles in targeted drug-delivery systems",
-      "link": "https://phys.org/news/2026-06-mathematical-advance-magnetic-particles-drug.html",
-      "date": "2026-06-24 23:30",
-      "summary": "A Florida State University computational scientist is paving the way for future medical breakthroughs by developing mathematical m..."
+      "title": "Ancient stories inform modern understanding of volcanic eruptions",
+      "link": "https://phys.org/news/2026-06-ancient-stories-modern-volcanic-eruptions.html",
+      "date": "2026-06-25 02:00",
+      "summary": "A new international study has found that Indigenous oral traditions, some thousands of years old, hold valuable and often overlook..."
     },
     {
-      "title": "Drifting tuna gear creates risks for wildlife in protected marine areas",
-      "link": "https://phys.org/news/2026-06-drifting-tuna-gear-wildlife-marine.html",
-      "date": "2026-06-24 23:20",
-      "summary": "An international study co-authored by a University of Hawaiʻi at Mānoa researcher has found that drifting devices used by the glob..."
+      "title": "'Fingerprints' of black hole's event horizon detected for first time",
+      "link": "https://phys.org/news/2026-06-fingerprints-black-hole-event-horizon.html",
+      "date": "2026-06-25 01:20",
+      "summary": "Scientists have detected the \"fingerprints\" of a black hole's event horizon—the boundary from which nothing can escape—for the fir..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Hong Kong prime office vacancy hits 7-month low on Central spillover demand",
-      "link": "https://www.scmp.com/business/article/3358242/hong-kong-prime-office-vacancy-hits-7-month-low-central-spillover-demand?utm_source=rss_feed",
-      "date": "2026-06-25 00:00",
-      "summary": "Hong Kong’s overall prime office vacancy rate fell to a seven-month low in May, driven by spillover demand from Central, where pre..."
+      "title": "Repentant protesters will be given priority case review, minister says",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358248/repentant-protesters-will-be-given-priority-case-review-minister-says?utm_source=rss_feed",
+      "date": "2026-06-25 05:00",
+      "summary": "As Hong Kong marks the 29th anniversary of its return to Chinese rule on July 1, the South China Morning Post talks to the city’s ..."
     },
     {
-      "title": "Hong Kong to reform Medical Council to improve handling of complaints",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3358250/hong-kong-reform-medical-council-improve-handling-complaints?utm_source=rss_feed",
-      "date": "2026-06-24 23:00",
-      "summary": "Hong Kong authorities intend to reform the city’s medical watchdog by raising the proportion of lay members to more than a third a..."
+      "title": "UBS prepares to open its next chapter of growth with a new Hong Kong home in West Kowloon",
+      "link": "https://www.scmp.com/native/news/hong-kong/topics/ubs-new-hub-west-kowloon/article/3358122/ubs-prepares-open-its-next-chapter-growth-new-hong-kong-home-west-kowloon?utm_source=rss_feed",
+      "date": "2026-06-25 04:00",
+      "summary": "With the formal handover of its new Hong Kong premises already complete and plans well under way to start moving all local staff t..."
     },
     {
-      "title": "National security police arrest 2 people at Hong Kong bookshop",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358252/national-security-police-arrest-2-people-hong-kong-bookshop?utm_source=rss_feed",
-      "date": "2026-06-24 17:03",
-      "summary": "Hong Kong national security police have arrested the owner and another person at an independent bookshop for alleged sedition and ..."
+      "title": "Hong Kong parents may lose battle over daughter Lily amid fight for baby Danny",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3358276/hong-kong-parents-plead-baby-danny-held-care-and-daughter-may-not-return-sweden?utm_source=rss_feed",
+      "date": "2026-06-25 03:30",
+      "summary": "Hong Kong social welfare authorities have classified baby Danny as a “high-risk” child and recommended he remain in protective car..."
     },
     {
-      "title": "Elderly man found hanging in Hong Kong flat last week dies from injuries",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3358243/elderly-man-found-hanging-hong-kong-flat-last-week-dies-injuries?utm_source=rss_feed",
-      "date": "2026-06-24 13:28",
-      "summary": "An elderly man has died in hospital after being found hanging in his Hong Kong flat, where his wife was discovered with her head c..."
+      "title": "Experts propose tighter rules and wider reforms after deadly Wang Fuk Court blaze",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3358267/wang-fuk-court-blaze-not-first-its-kind-except-magnitude-expert-says?utm_source=rss_feed",
+      "date": "2026-06-25 02:55",
+      "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
     },
     {
-      "title": "Rescuers snap into action after crocodile found in Hong Kong building",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3358241/rescuers-snap-action-after-crocodile-found-hong-kong-building?utm_source=rss_feed",
-      "date": "2026-06-24 12:51",
-      "summary": "An injured 1.5-metre-long (five feet) juvenile crocodile has been found in a Hong Kong residential building, prompting a rescue op..."
+      "title": "Loss of fugitive transfer deals a ‘pity’ and only  helps criminals, Chris Tang says",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358247/loss-fugitive-transfer-deals-pity-and-only-helps-criminals-chris-tang-says?utm_source=rss_feed",
+      "date": "2026-06-25 02:00",
+      "summary": "As Hong Kong marks the 29th anniversary of its return to Chinese rule on July 1, the South China Morning Post talks to the city’s ..."
     }
   ],
   "New Scientist": [
