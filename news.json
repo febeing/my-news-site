@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
+      "link": "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success",
+      "date": "2026-06-25 16:00",
+      "summary": "“Scientific American” showcases the history and future of America’s scientific engine, highlighting promising young scientists and..."
+    },
+    {
       "title": "How architecture influences political activity",
       "link": "https://news.mit.edu/2026/how-architecture-influences-political-activity-0625",
       "date": "2026-06-25 04:00",
@@ -23,32 +29,14 @@
       "link": "https://news.mit.edu/2026/computer-model-could-enable-less-material-bridges-buildings-0624",
       "date": "2026-06-24 04:00",
       "summary": "MIT researchers developed an approach for generating more buildable structures, bridging the gap between optimized design and real..."
-    },
-    {
-      "title": "New chip could help tiny robots traverse complex environments",
-      "link": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
-      "date": "2026-06-23 04:00",
-      "summary": "Researchers combined an efficient algorithm with dedicated hardware to rapidly generate 3D maps for navigation using minimal memor..."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
-      "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
-    },
     {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
-    },
-    {
-      "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRCNE1YZ0h5NkU4MmtrUnh5TmcyWlVoZHBJN25nR1FUUjByVmxENDZsMmxuMWRVajhKV1FPb1owUWRDay1lQk53TzMyQUo2RmRSczdJOC1Lb0wtQmJScFFtZU9kN3A1MFdCNjMxNXhsVDRDZ3hHbWZwTjdYcjBxcXNXZ182MVlqN0dvTEgycW5NaC0ybWl0eHJuRjBla3JKemc?oc=5",
-      "date": "2026-05-26 07:00",
-      "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
     },
     {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
@@ -61,6 +49,18 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
+    },
+    {
+      "title": "Plan to rein in inflated grading explained - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
+      "date": "2026-03-26 07:00",
+      "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+    },
+    {
+      "title": "Lessons from Beyoncé on public policy - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObzRsRGlOZm1IbDRJUGVETFpocldIS0N1SGpqWkk3TUpwdVlwUGprOERubG9FLW80MlRpcE1CTFdOeVJtSFRwMGM0bkY3Yi1teFQ5eGdYcFhzZTc1MXBlbTNoU1F5dm94MVBOWkZlei02akVBRmNvd2s4cTJpR0NMOXQtR0V5Qm1WaUtQNDJ3?oc=5",
+      "date": "2026-05-15 07:00",
+      "summary": "Lessons from Beyoncé on public policy  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -89,45 +89,51 @@
       "summary": "Six Lessons from Asia on Using AI for Aging in Place  Shorenstein Asia-Pacific Research Center..."
     },
     {
-      "title": "Revisiting the Politics of Indigeneity in Latin America - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ0s1bGZBMHo3d2lxVzdUaXdSdnRPX2lhZUVvSHM3VmtvVm1VeW5zWjhvZDRMcUdSTWZobVNSeWJqR3BjVnRfSHNJUHRBQzJSSXlQMk5FbTJUQV9SZjlmUDFqMlBucldJM1AwVmNzdldQenF1SDBxXzlrTXo5dlNtd0E1SF96alRp?oc=5",
-      "date": "2026-06-25 12:00",
-      "summary": "Revisiting the Politics of Indigeneity in Latin America  Stanford University..."
+      "title": "GROW THERAPY AND STANFORD UNIVERSITY LAUNCH RESEARCH PARTNERSHIP TO ESTABLISH CLINICAL SAFETY STANDARDS IN AI FOR MENTAL HEALTH - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNcVZVazJUT0toUzhHbXhROURSWTRkRjRia1BuYk5qaTlLbTFaSXFSTWtDRFRlbkJTREhyM19qSlJlR1BGMmY2Y2tacS04Z0xhbWxHdHZBazJpejdqRmw4N2E1czRmOVlUcGQxWlhPMXVVN1F0MWMzR2RtUWVTSXFGUVpPMzhOT2dfdW1yd0tVbW5DZm5nSW05RHBjRmNldVgtd2pFblIwLVhfM0o0ZmpIQnJGRXlZMUI3Vk81dllyLUhVaFgzMkg4RW56MTBlTE9DTGFxazA1RjRGRjJlSHU2bnY0UjZnendRekNjT09BYTRqalFVVEc4ckVrb014cnVYV3lQMU9US2EzNEFTa0NXZ1dNek5nUUk?oc=5",
+      "date": "2026-06-23 13:18",
+      "summary": "GROW THERAPY AND STANFORD UNIVERSITY LAUNCH RESEARCH PARTNERSHIP TO ESTABLISH CLINICAL SAFETY STANDARDS IN AI FOR MENTAL HEALTH  M..."
     }
   ],
   "Nature Careers": [
     {
-      "title": "Can you terraform Mars? Try <i>Nature</i>’s game",
-      "link": "https://www.nature.com/articles/d41586-026-01978-8",
+      "title": "Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs",
+      "link": "https://www.nature.com/articles/s41586-026-10829-5",
       "date": "2026-06-25 00:00",
-      "summary": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-01978-8Once the realm of science fiction, the idea of making Mars h..."
+      "summary": "Nature, Published online: 25 June 2026; doi:10.1038/s41586-026-10829-5Publisher Correction: In situ nanocrystal confinement for ef..."
     },
     {
-      "title": "How long-term dietary cholesterol can slow down its own clearance by liver cells",
-      "link": "https://www.nature.com/articles/d41586-026-01899-6",
+      "title": "Ligand-enabled distal desaturative lactonization of aliphatic acids",
+      "link": "https://www.nature.com/articles/s41586-026-10826-8",
       "date": "2026-06-25 00:00",
-      "summary": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-01899-6Cholesterol carried by low-density lipoprotein (LDL) drives ..."
+      "summary": "Nature, Published online: 25 June 2026; doi:10.1038/s41586-026-10826-8Ligand-enabled distal desaturative lactonization of aliphati..."
     },
     {
-      "title": "Author Correction: cBAF complex components and MYC cooperate early in CD8<sup>+</sup> T cell fate",
-      "link": "https://www.nature.com/articles/s41586-026-10813-z",
-      "date": "2026-06-24 00:00",
-      "summary": "Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10813-zAuthor Correction: cBAF complex components and MYC cooperate..."
+      "title": "Base editing reveals an essential role for NANOG in human embryogenesis",
+      "link": "https://www.nature.com/articles/s41586-026-10792-1",
+      "date": "2026-06-25 00:00",
+      "summary": "Nature, Published online: 25 June 2026; doi:10.1038/s41586-026-10792-1Base editing reveals an essential role for NANOG in human em..."
     },
     {
-      "title": "Role of methanesulfonic acid in atmospheric particle nucleation and growth",
-      "link": "https://www.nature.com/articles/s41586-026-10810-2",
-      "date": "2026-06-24 00:00",
-      "summary": "Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10810-2Role of methanesulfonic acid in atmospheric particle nucleat..."
+      "title": "Oo oo, ha ha: why humans and great apes giggle alike when tickled",
+      "link": "https://www.nature.com/articles/d41586-026-01994-8",
+      "date": "2026-06-25 00:00",
+      "summary": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-01994-8The rhythmic patterns of laughter found in apes and humans r..."
     },
     {
-      "title": "Reply to: On the robustness of topological gap detection via transport",
-      "link": "https://www.nature.com/articles/s41586-026-10568-7",
-      "date": "2026-06-24 00:00",
-      "summary": "Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10568-7Reply to: On the robustness of topological gap detection via..."
+      "title": "US funding uncertainties threaten to sink key global oceanography projects",
+      "link": "https://www.nature.com/articles/d41586-026-02028-z",
+      "date": "2026-06-25 00:00",
+      "summary": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-02028-zThe United States has led the world in observing the oceans ..."
     }
   ],
   "Retraction Watch": [
+    {
+      "title": "Increasing workload may have contributed to recent retraction at nursing journal, editor says",
+      "link": "https://retractionwatch.com/2026/06/25/nurse-education-in-practice-retraction-moulage-elsevier/",
+      "date": "2026-06-25 20:54",
+      "summary": "Roger Watson was seeking answers. Last September, a paper in his journal had attracted criticism he thought he and his fellow edit..."
+    },
     {
       "title": "Major citation index put surgery journals on hold following Retraction Watch investigation",
       "link": "https://retractionwatch.com/2026/06/24/major-citation-index-put-surgery-journals-on-hold-following-retraction-watch-investigation/",
@@ -151,12 +157,6 @@
       "link": "https://retractionwatch.com/2026/06/20/weekend-reads-media-star-physicist-doctorate-plagiarism-journal-editor-resigns-ai-university-dean-data-fabrication/",
       "date": "2026-06-20 10:00",
       "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
-    },
-    {
-      "title": "RFK Jr. has various stances on retractions. Critics say he’s ‘politicizing’ them",
-      "link": "https://retractionwatch.com/2026/06/18/rfk-jr-vaccines-infant-deaths-retractions-critics-politicizing/",
-      "date": "2026-06-18 21:45",
-      "summary": "Robert F. Kennedy Jr.’s letter demanding answers from a journal that recently retracted an article about vaccines has drawn signif..."
     }
   ],
   "Reuters AI": [
@@ -175,7 +175,7 @@
     {
       "title": "Micron overtakes Meta, Tesla in market value amid relentless AI infrastructure demand - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVgxMFl1QzdSTDFoREJsZmRqeG0xbUFKdDc1X3p0Q3kxejdjQ2pWZThSXzEwQkNOeE9OR0dHSHpjTEN1N2J1SHJYOXZIQjNELUQySGt3c3Bkai1TSVQ0ZnlqRDhkbnRoYTRHNkV6ZFFqSmh3ZTFGY3lzMW1TN2RYay1LZHMwaUNjTUpwRU5XNHhKZGFDV2lPbFJMYTZWRkhFQWJJTzNYMFpQblp0R1J0cFNoQ21ENklkdjg0bQ?oc=5",
-      "date": "2026-06-25 14:59",
+      "date": "2026-06-25 19:15",
       "summary": "Micron overtakes Meta, Tesla in market value amid relentless AI infrastructure demand  Reuters..."
     },
     {
@@ -205,54 +205,54 @@
       "summary": "What Europe’s heat wave means for the power grid  MIT Technology Review..."
     },
     {
-      "title": "All challenges big and small - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTU43T0ZxVGNWWUw3cDg5cm11eGpjQ3BtaXhfY0VGUk5oamhZaU1WU2hvdHIydEpJTXJSbi1EM05ySzg4MGxwUWs2ZUI2TERXMzNlU2lPQ2ZEZ3U3c1hTNjFGSnNFTjZkSGN4ZjFzNkQtVlM3RVF3NWl4Q3F2RTFWVnY5WdIBiAFBVV95cUxPWkphTkxvY2M3S1dfVTBDOUZuS005elNkT29kd0NaN1Q2T3Bud0U5RGZ0ZHU4U3ZUeEF5UW1ESjI0NEZhV0JxdlFjcHFTV2dLUEhmb3RJdXdkRGVxYTNCZEpHYVVvR1ZzT1NHeFdlZDNzNzlRYm84eHltWUF2dERJd3pPUXNiWEph?oc=5",
-      "date": "2026-06-24 09:00",
-      "summary": "All challenges big and small  MIT Technology Review..."
-    },
-    {
       "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVnNmSkdWYzVuZWhEVmJJMlAwZWxGaDhTNFZZOGtkZ3lJYmZkSEpZSEltcFVrdmRVejJVc19faHhFaWZHdkdKdWFFenNLS214SVkzcDRZM0hiRWY3dVBEN0RaaUN6aUtFQ0VYRTVVZ2tjSlMxbUljcEVvX0dibTV4REpR0gGHAUFVX3lxTFB2cWVrRHNDN2NvMy16aU9ORTFWalltN2FUa0FTWkFXa2ViNzZXS1pDUHdSb3UzMnJzMkk5aVlvZy05WkZIa1ladHZEWVM0TV91bnZlSjJsR2dIUUhXQzRxYVlpN2RCMWpZNUVIQmVrSjN1Tzh1RExaWVk0UnN4MG5KMGlUbGQybw?oc=5",
       "date": "2026-06-25 10:00",
       "summary": "IBM has unveiled chip technology that could help extend Moore’s Law another decade  MIT Technology Review..."
     },
     {
-      "title": "The Download: the future of chipmaking and Anthropic’s government clash - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPazhhUWV2R0hxRnllZzBEY091UnNRMG1FTjdETnNxQW1hR3JMc2Q2TmN5dVhzbHJUeFBnYWt5RlNoeUp1YlRHdmlJbzFZYlp4UVUtRU1qTWprand1TGxlUlRqcS1WVnVyczRhXzZQVmhVaFBqVnp4dUR5dGQ3Z3RUR05zeHA2NWRLeFpJY1JVbjljcm5Za05YNFBvWDdfN2gyYUdpcGs0Z2F3NHU0Vy10WVBSbV9YeUxKeHfSAb8BQVVfeXFMTkZ4R3ZDcDZaVjE3eURNam9XbktkWWpPRzhKSVhvcnlGa3AtaVM5NFJvZFhVcVpyallOOGFTUzZzY1o2NFlOX3lsTmZFemcxZHdmd29MVmdTR1dEWjF5VU9DXzVwZ1pvblAzNTlBUGc3ZzZMN1VkbkQzUUFUeDB6VVZBLU1IbEhud1lzc2xlSFZISzJETTJwU0FsNmRqZ3oyOHNzRThtMWh4UG9mVlFxT0NMaUlvbUxyWTctV2JmMTA?oc=5",
-      "date": "2026-06-23 12:10",
-      "summary": "The Download: the future of chipmaking and Anthropic’s government clash  MIT Technology Review..."
+      "title": "Three things to watch amid Anthropic’s latest feud with the government - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWm1KZjFYQVRwaVAxemNKSFV1YlpRQkx1MlEwUnhfLWlIVFF1UzlHa3UwTjRHT01zMzJCXzIzZzRHNzFKakk4TnJnNlByQUVhSTV0aVdJTjktVUhBbUxSQUx0ekhvSFdjRTFuTzF3T3ZOYUNkZTJyOGNVNzU3YUFvQ0hRVGQzWUw1MzdOMlZKRHVSa2F1NTRmUWo3a0V6OWRuZXdCbVBRMnk3bDRTZ0pFQU1ZSHBJeEFwTlVtTXQxZ9IBxAFBVV95cUxQQ1ZweTRfQ29xVFVLSTczY2tWOV9va0FEQ3Y5di1mdURPUHYxTE9ablhlT0VPUy02NU1ZTVFPZlB5RHJRbzB3aUpuZjYtTnF0OGpxTWctSlJSbVZFa1R5am9ReVJhME8wc04xZmxYbFAtZncwTjVmYTJIYnppY3p3SkhFTlVzZDl6OF9wT0pjWW1lXzg2ZDd5cmNOTnl5OGxxRy0ySnhpNmhic2dKakotUFozRVVLNVFXUXJTZHlaTVNNa2VT?oc=5",
+      "date": "2026-06-22 18:00",
+      "summary": "Three things to watch amid Anthropic’s latest feud with the government  MIT Technology Review..."
+    },
+    {
+      "title": "All challenges big and small - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTU43T0ZxVGNWWUw3cDg5cm11eGpjQ3BtaXhfY0VGUk5oamhZaU1WU2hvdHIydEpJTXJSbi1EM05ySzg4MGxwUWs2ZUI2TERXMzNlU2lPQ2ZEZ3U3c1hTNjFGSnNFTjZkSGN4ZjFzNkQtVlM3RVF3NWl4Q3F2RTFWVnY5WdIBiAFBVV95cUxPWkphTkxvY2M3S1dfVTBDOUZuS005elNkT29kd0NaN1Q2T3Bud0U5RGZ0ZHU4U3ZUeEF5UW1ESjI0NEZhV0JxdlFjcHFTV2dLUEhmb3RJdXdkRGVxYTNCZEpHYVVvR1ZzT1NHeFdlZDNzNzlRYm84eHltWUF2dERJd3pPUXNiWEph?oc=5",
+      "date": "2026-06-24 09:00",
+      "summary": "All challenges big and small  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Fossils upend catastrophist narrative that flowering plants flourished only after dinosaur extinction",
-      "link": "https://phys.org/news/2026-06-fossils-upend-catastrophist-narrative-flourished.html",
-      "date": "2026-06-25 18:00",
-      "summary": "A unique cache of plant fossils from volcanic deposits in New Mexico contradicts the common narrative that flowering plants were m..."
+      "title": "Looking for work? Don't worry about seeming too eager",
+      "link": "https://phys.org/news/2026-06-dont-eager.html",
+      "date": "2026-06-25 20:40",
+      "summary": "Many people worry that responding too quickly to a prospective employer could make them seem too available or even desperate. New ..."
     },
     {
-      "title": "Europe is battling a record‑breaking heat wave. What's making it so severe?",
-      "link": "https://phys.org/news/2026-06-europe-recordbreaking-severe.html",
-      "date": "2026-06-25 18:00",
-      "summary": "Sweltering temperatures are shattering records across Europe as the continent battles a deadly heat wave. On Tuesday and Wednesday..."
+      "title": "Ultra-precise technology can count damaged DNA fragments",
+      "link": "https://phys.org/news/2026-06-ultra-precise-technology-dna-fragments.html",
+      "date": "2026-06-25 20:40",
+      "summary": "The Korea Research Institute of Standards and Science has developed an ultrasensitive immunoassay-based analytical platform that c..."
     },
     {
-      "title": "Antibiotics trigger bacterial teamwork, boosting survival through shared proteins",
-      "link": "https://phys.org/news/2026-06-antibiotics-trigger-bacterial-teamwork-boosting.html",
-      "date": "2026-06-25 18:00",
-      "summary": "When bacteria are under antibiotic attack, it is not \"every man for himself.\" Researchers at Baylor College of Medicine and collea..."
+      "title": "Dog's skull shape and body weight linked to spinal fluid disorder risk",
+      "link": "https://phys.org/news/2026-06-dog-skull-body-weight-linked.html",
+      "date": "2026-06-25 20:20",
+      "summary": "A new Cornell University study helps deepen the understanding of skull shapes in dogs of different sizes and draws a link between ..."
     },
     {
-      "title": "Natural hallucinogens may have evolved as ecological tools, not chemical accidents",
-      "link": "https://phys.org/news/2026-06-natural-hallucinogens-evolved-ecological-tools.html",
-      "date": "2026-06-25 17:40",
-      "summary": "Natural hallucinogens, such as psilocybin, mescaline, N,N-dimethyltryptamine (DMT) and related compounds, have generally received ..."
+      "title": "Scientists measure hidden quantum forces that could power a new generation of pharmaceutical drugs",
+      "link": "https://phys.org/news/2026-06-scientists-hidden-quantum-power-generation.html",
+      "date": "2026-06-25 20:20",
+      "summary": "It's one thing to design a pharmaceutical drug. It's another to know if and why it actually works; not on paper or in a computer m..."
     },
     {
-      "title": "Smile spacecraft reaches science orbit",
-      "link": "https://phys.org/news/2026-06-spacecraft-science-orbit.html",
-      "date": "2026-06-25 17:40",
-      "summary": "The European-Chinese Smile mission reached its designated science orbit on June 20, 2026. The team is now embarking on a two-month..."
+      "title": "Novel rice paddy approach aims to prevent toxic metals from tainting rice",
+      "link": "https://phys.org/news/2026-06-rice-paddy-approach-aims-toxic.html",
+      "date": "2026-06-25 20:20",
+      "summary": "In a perspective published in Nature Reviews Earth & Environment, Colorado State University researchers describe a management appr..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "New Scientist": [
     {
+      "title": "Can home batteries help save the climate and save you money?",
+      "link": "https://www.newscientist.com/article/2531891-can-home-batteries-help-save-the-climate-and-save-you-money/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-25 17:01",
+      "summary": "Growing numbers of homeowners are installing batteries that store electricity when it is cheap, which helps balance the grid and c..."
+    },
+    {
       "title": "We’ve uncovered a master gene that switches on human development",
       "link": "https://www.newscientist.com/article/2531950-weve-uncovered-a-master-gene-that-switches-on-human-development/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-25 16:00",
@@ -343,12 +349,6 @@
       "link": "https://www.newscientist.com/article/2530687-record-breaking-ibm-chip-uses-trick-to-cram-in-100-billion-transistors/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-25 11:00",
       "summary": "IBM's latest chip packs in twice as many transistors as the current state-of-the-art chip by adding a second layer of silicon circ..."
-    },
-    {
-      "title": "Phages could enable us to hijack vaccine immunity to kill cancer cells",
-      "link": "https://www.newscientist.com/article/2531700-phages-could-enable-us-to-hijack-vaccine-immunity-to-kill-cancer-cells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-25 10:21",
-      "summary": "Phages, viruses that infect bacteria, could be genetically manipulated to destroy cancerous cells using the immunity we have acqui..."
     }
   ]
 }
