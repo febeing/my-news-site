@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "How data centers can better manage energy use",
+      "link": "https://news.mit.edu/2026/how-data-centers-can-better-manage-energy-use-0626",
+      "date": "2026-06-26 15:00",
+      "summary": "A new study suggests flexibility in the timing of electricity consumption could lower consumer costs...."
+    },
+    {
+      "title": "LLMs help robots understand vague instructions and focus on key details",
+      "link": "https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626",
+      "date": "2026-06-26 13:00",
+      "summary": "To help robots do chores in places like homes and factories, a new approach from MIT uses one language model to clarify users’ ins..."
+    },
+    {
       "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
       "link": "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success",
       "date": "2026-06-25 16:00",
@@ -17,18 +29,6 @@
       "link": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
       "date": "2026-06-25 04:00",
       "summary": "A new system, known as Murakkab, optimizes the design and deployment of multistep workflows that power AI applications...."
-    },
-    {
-      "title": "What happens when environmental change outpaces life’s ability to adapt?",
-      "link": "https://news.mit.edu/2026/when-environmental-change-outpaces-life-ability-to-adapt-0624",
-      "date": "2026-06-24 15:00",
-      "summary": "A new model links Earth’s mass extinctions to mismatches between rates of environmental change and biological adaptation...."
-    },
-    {
-      "title": "Computer model could enable bridges and buildings that use less material",
-      "link": "https://news.mit.edu/2026/computer-model-could-enable-less-material-bridges-buildings-0624",
-      "date": "2026-06-24 04:00",
-      "summary": "MIT researchers developed an approach for generating more buildable structures, bridging the gap between optimized design and real..."
     }
   ],
   "Harvard Gazette": [
@@ -71,31 +71,43 @@
       "summary": "AI designs the ideal burger for taste, health, and planet  Stanford Report..."
     },
     {
+      "title": "Student, faculty leaders share their Stanford experiences at Board of Trustees meeting - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iT0J1UU5zZklzUGlURU1Ud1lTcGNkSnJDeDZrOTNxbE0yNFBEdUMzR044MTBDcFo2WGp5anRNXzVTT0FFUGxuUjZzSmNudzdiT0ptWHFNR043bEVMSS0yYU5PbHRiQVZnQ1ltRUVsUTBadw?oc=5",
+      "date": "2026-06-23 02:52",
+      "summary": "Student, faculty leaders share their Stanford experiences at Board of Trustees meeting  Stanford Report..."
+    },
+    {
       "title": "Aalto University and Stanford Test a New Architecture for 6G Surfaces - 3D Printing Industry",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2twbzVNOTZ3OWg4SkE0MTdJX3lPR21ubVpGbHFBWHBkVHNBRUNYa1k4cnhybm5PYTFmd1FnZ2lmODRnOE1RWFZ5akFZMk05cGI5WkszUFNkWEdORTJxcmJJc1kzN0gwWjdaemVEakJXeV9mWDdUUFcyd1dtSXlGWURFX2lWTWJvdTk2LVFHekdaekhpUjJMN2lDU2FxMzE1aGhxZ3hVbUhjeWk3SW1mTDBTUQ?oc=5",
-      "date": "2026-06-26 07:06",
+      "date": "2026-06-26 07:07",
       "summary": "Aalto University and Stanford Test a New Architecture for 6G Surfaces  3D Printing Industry..."
     },
     {
-      "title": "Stanford’s Jennifer Chacón on Supreme Court’s Immigration Decision - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU19zZE92TThGanRNTVZYbHhiSkxnS29pLUo2Y3BOdm5WZGpuVWJwOGhmekFmUjBmUmRQYzVaUHFPWmNfclIzZGVSdlNMeXQxc0g5dE5zT1MyaDFpMFhuVVN4VEc5bUlvWncxdHQxWUd5SjJIZGZteHZYZDI4S01jYjVhNnRZVXNfTkJwRHBxUjVlWHpfZDhkX1JYcGxvc3diX0dV?oc=5",
-      "date": "2026-06-25 21:47",
-      "summary": "Stanford’s Jennifer Chacón on Supreme Court’s Immigration Decision  Stanford Law School..."
+      "title": "Stanford Graduates Walking Out On The Google CEO Wasn’t A Protest. It Was A Paradigm Shift In How A Generation Exercises Power - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPX01TT01UTWJsX3I5NWdIT0VUQm9RU1BOT2FIajJ4X3VjcjRCTjU0VmpvYjliY0IzcmJiR3RickFkR2tKcFBDM1FxWjBPNktHOUNWLVFYNzBQUVFUNXkyLXZDQW1YWlB5UEl5ZlUweVBQcWtEQVJTeDNLN2VYR2t2bjFjdXBSVHdkWDBiWS1vRkk1SFk1aHloU0dQX3FsczlQVER4V3dqbFMyTFgzdDFUVDVsV3V5N3RNd0dBSVB1aDVsNlozQ1lCRmRlUHBaTnRONVZRYnpTNDhxZ1R5SlhESXBqUFIzeXVVaGY0N1F6c1pRbTI4MVd4S2o2ZzdoN09uenFxeWUyUQ?oc=5",
+      "date": "2026-06-26 12:15",
+      "summary": "Stanford Graduates Walking Out On The Google CEO Wasn’t A Protest. It Was A Paradigm Shift In How A Generation Exercises Power  Fo..."
     },
     {
-      "title": "Isaac Sorkin awarded Sherwin Rosen Prize - Stanford School of Humanities and Sciences",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeEJqMllHbTR4RDhHOVVON0hUbm4tcXZ0MG1ONXd6aHpabzlYcXZyTlFkRkJnVU1SNDNwSUNnbEZKQS11REs5clUtaldwS1B0blc4d2V6eUgzWTVCV095WDUweE5SOXJqMElVRkhrMkJZYVVjWFpoYnI5STlEc28wU0pjb2Y?oc=5",
-      "date": "2026-06-25 12:00",
-      "summary": "Isaac Sorkin awarded Sherwin Rosen Prize  Stanford School of Humanities and Sciences..."
-    },
-    {
-      "title": "The Case for a Public Share in AI - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TWFpvYmVlMXRPWDNuVEI5Rlo0a0FUQ09DMlpNa1ZvX296Y2RxckptQXFaMzJyemtjM0ZPQlRtTEVzYllxV1FKbFJlY3J4Z3NaZWluZzR5R0RCcEtlcGRjLTVSclJQclo3SGhFeEhFdHZCTVlGMUNLS2EtVUE1VW8?oc=5",
-      "date": "2026-06-25 13:09",
-      "summary": "The Case for a Public Share in AI  Stanford Law School..."
+      "title": "16 from Stanford awarded Fulbright grants - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBueHhzR19XenB5QVNKampmZG5QQ3E0QVFjVkwxMjZfeVFEby1POUNHMEE0OTBBU2VHMG5SR2poRU1YLWVnVHdyeUVvbjB2QkQxck16bFltbTl4eHgwY2RibVhvVWtxREZZUmJGbEg3dEk2V3pKSlE?oc=5",
+      "date": "2026-06-22 23:57",
+      "summary": "16 from Stanford awarded Fulbright grants  Stanford Report..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "The poetry of twilight and the awe-inspiring magic of eclipses: Books in brief",
+      "link": "https://www.nature.com/articles/d41586-026-02055-w",
+      "date": "2026-06-26 00:00",
+      "summary": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-02055-wAndrew Robinson reviews five of the best science picks...."
+    },
+    {
+      "title": "The surprising career parallels between footballers and researchers",
+      "link": "https://www.nature.com/articles/d41586-026-01794-0",
+      "date": "2026-06-26 00:00",
+      "summary": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-01794-0Sarah Blackford reflects on how early-career scientists and ..."
+    },
     {
       "title": "Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs",
       "link": "https://www.nature.com/articles/s41586-026-10829-5",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10792-1",
       "date": "2026-06-25 00:00",
       "summary": "Nature, Published online: 25 June 2026; doi:10.1038/s41586-026-10792-1Base editing reveals an essential role for NANOG in human em..."
-    },
-    {
-      "title": "Oo oo, ha ha: why humans and great apes giggle alike when tickled",
-      "link": "https://www.nature.com/articles/d41586-026-01994-8",
-      "date": "2026-06-25 00:00",
-      "summary": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-01994-8The rhythmic patterns of laughter found in apes and humans r..."
-    },
-    {
-      "title": "US funding uncertainties threaten to sink key global oceanography projects",
-      "link": "https://www.nature.com/articles/d41586-026-02028-z",
-      "date": "2026-06-25 00:00",
-      "summary": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-02028-zThe United States has led the world in observing the oceans ..."
     }
   ],
   "Retraction Watch": [
@@ -167,10 +167,16 @@
       "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities  Reuters..."
     },
     {
-      "title": "Micron overtakes Meta, Tesla in market value amid relentless AI infrastructure demand - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVgxMFl1QzdSTDFoREJsZmRqeG0xbUFKdDc1X3p0Q3kxejdjQ2pWZThSXzEwQkNOeE9OR0dHSHpjTEN1N2J1SHJYOXZIQjNELUQySGt3c3Bkai1TSVQ0ZnlqRDhkbnRoYTRHNkV6ZFFqSmh3ZTFGY3lzMW1TN2RYay1LZHMwaUNjTUpwRU5XNHhKZGFDV2lPbFJMYTZWRkhFQWJJTzNYMFpQblp0R1J0cFNoQ21ENklkdjg0bQ?oc=5",
-      "date": "2026-06-25 19:15",
-      "summary": "Micron overtakes Meta, Tesla in market value amid relentless AI infrastructure demand  Reuters..."
+      "title": "After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW5QYklqRjJ5MXFhOUlxOFdUMGREVHpiSUJrY3VSM2xsVVA5Z1dIb3BBV2pmVEthRF9wZU9MU3VvSE1VOGtwNkh3amwxdDh3eU1ZNTBUYUpINVRMN0dDSzBwTGppSWc0aGNwa2RzVEhtLXVzak5Gd2lBUUZHaDFXVWxQQVRIZnd2TzZSTm53N0QyTjBZVXl4dTdLYXh1OVQ5NVBieUZMS0xNMGFMZUtKSlZ2aXBDbjRvVThwY2pST0U3MlNDLUQ5aUNISlk?oc=5",
+      "date": "2026-06-25 10:37",
+      "summary": "After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing  Reuters..."
+    },
+    {
+      "title": "Financial regulators scramble to counter AI rise with own tools - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenFteWtWdVg0ZldTaXlPbzI5WlJjOTNrZXB0MDVBcDdRLWxGVVVKd2JNYzZpREhPaW5NblJCYXJSLU5WQWFzLVJlcnRVUWtSWjJ0Q0ZHTzlRdU1sMEJWSHFHd0QwMUhsa3A1X195dU9Nc0xCaE9IQkllc25DcnM5M2tMSDVlMVpiRE9PRVhzaWxTdklGdkVnUF9RRTFCdFNEbWREZnZPUk0yZUVGVU9DaXN3OA?oc=5",
+      "date": "2026-06-26 11:34",
+      "summary": "Financial regulators scramble to counter AI rise with own tools  Reuters..."
     },
     {
       "title": "Malaysia customs seizes AI chips worth $13 mln at Kuala Lumpur airport - Reuters",
@@ -179,16 +185,10 @@
       "summary": "Malaysia customs seizes AI chips worth $13 mln at Kuala Lumpur airport  Reuters..."
     },
     {
-      "title": "After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW5QYklqRjJ5MXFhOUlxOFdUMGREVHpiSUJrY3VSM2xsVVA5Z1dIb3BBV2pmVEthRF9wZU9MU3VvSE1VOGtwNkh3amwxdDh3eU1ZNTBUYUpINVRMN0dDSzBwTGppSWc0aGNwa2RzVEhtLXVzak5Gd2lBUUZHaDFXVWxQQVRIZnd2TzZSTm53N0QyTjBZVXl4dTdLYXh1OVQ5NVBieUZMS0xNMGFMZUtKSlZ2aXBDbjRvVThwY2pST0U3MlNDLUQ5aUNISlk?oc=5",
-      "date": "2026-06-25 10:37",
-      "summary": "After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing  Reuters..."
-    },
-    {
-      "title": "IndiaMART doubles down on AI to curb fake listings, improve buyer interaction - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZXprM002YjdFdGFsajMzUzIzOE11VjRJejM2Qk1meFJWR3B0d1g5RHdZQndCWU9MVlRkd29mOUxmdEQzdzBDT2ZIaUpuTzlQU1ByR0lBbUFhcnRleE9ubFViSlRxTnJQRmluVUhpOXZNaW5HOEJGbWFiak5jRlBZQV8tNmNhWEhtOXdjOUZYM3c2d181cnFlT0VrZ1Q2WGZJVDgzNDRwVmEzUXpqeVREZmd6dXE5LUZRT1VLV3BFcXY?oc=5",
-      "date": "2026-06-25 10:01",
-      "summary": "IndiaMART doubles down on AI to curb fake listings, improve buyer interaction  Reuters..."
+      "title": "Micron overtakes Meta, Tesla in market value amid relentless AI infrastructure demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVgxMFl1QzdSTDFoREJsZmRqeG0xbUFKdDc1X3p0Q3kxejdjQ2pWZThSXzEwQkNOeE9OR0dHSHpjTEN1N2J1SHJYOXZIQjNELUQySGt3c3Bkai1TSVQ0ZnlqRDhkbnRoYTRHNkV6ZFFqSmh3ZTFGY3lzMW1TN2RYay1LZHMwaUNjTUpwRU5XNHhKZGFDV2lPbFJMYTZWRkhFQWJJTzNYMFpQblp0R1J0cFNoQ21ENklkdjg0bQ?oc=5",
+      "date": "2026-06-25 19:15",
+      "summary": "Micron overtakes Meta, Tesla in market value amid relentless AI infrastructure demand  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -197,6 +197,18 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnNTQlJwcEp0QkpuLXBRMDBPdHk2MTdaYmNualBvMzVTRzFYVF9nTTFkenRrLWljNWhCUUpVQ3k4OGk3Q0ZiOEc0Yl8tRldaX0ZlR2s4QjctUFVfb3Y4aVlHc19uYi00dDQ0OFZoLVExeUwwdE9MU0RIdkJWbml0emRjUTZFemNrR0lDeWhxbWFHYTJIMldFZ1ZBQjYyYW93dFlvanBXUlVUNGdCbXcxbnd2NFplVGtUUkEyb0VJczg3d9IBxwFBVV95cUxQYzNIa2ZrM3hURXNnZkk0Y2VLYmxaekUzUUo2RFI0eGJQSDN0T0twT3ZKWEEzeWZJWHo2ZTlkVFNaeVE1UldVY3R5VndQOXl0bkhXWjcyMWY4Y0RtdzRpRVFKMmFpWDJmYW5faVBLejZySU9XT0pXdGlmSmJhWm5sYmhWS2ZjV1c2VVFFNUl0QWtMN2p6UWVVY0dMZGthLWhNVlhYZld1cVpJWWRmNW1wVHA1TFB1XzF0ODdjNGFZUDVITVFEN25R?oc=5",
       "date": "2026-06-26 09:00",
       "summary": "Heat waves mess with your brain. Scientists are trying to figure out why.  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2xyOUh1ZWRSRDh0c1hqSENTbVJMenBFa2tYUERkZ2IwQmJJTXIyd2dmdENXX0hRbzcyTjV3a1JtaW5lOW1neTk4SGVMRFhaS19hUHJ3bzVLdk9PZHpRa1ozSXl2b0ppVk1MUzBhOGJ6ZnFwNWpzUEZSR1ozY2pWNE9yeThqLXVDTDNqcHQ0WGJ1SWN3dzNiWEkwYnhjTGF2OThOLUVkX0xMTXlS0gGyAUFVX3lxTFA1c1I4dW04NGJsakFsY0s2TGJiYUJGX2NxY29Ldkh4R1Z3UFJMRmJIM0x0bWpyZHVYY2owUTY2cFlGSVNXZ3VjMzhCVHRNd1ZHOVdhdHB0Uld3aVpzZzA2YVBNUTdTaUNtVXIyemZKWWNIaVY4S25MY3BHT1BFNWxlXzBRNXQzaUp5ZkhRMXFkTG9pRk5WYklFam5QVWcxbElId2FnX0JiVm1pcHdxM3pjUFE?oc=5",
+      "date": "2026-06-26 12:10",
+      "summary": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions  MIT Technology Review..."
+    },
+    {
+      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVnNmSkdWYzVuZWhEVmJJMlAwZWxGaDhTNFZZOGtkZ3lJYmZkSEpZSEltcFVrdmRVejJVc19faHhFaWZHdkdKdWFFenNLS214SVkzcDRZM0hiRWY3dVBEN0RaaUN6aUtFQ0VYRTVVZ2tjSlMxbUljcEVvX0dibTV4REpR0gGHAUFVX3lxTFB2cWVrRHNDN2NvMy16aU9ORTFWalltN2FUa0FTWkFXa2ViNzZXS1pDUHdSb3UzMnJzMkk5aVlvZy05WkZIa1ladHZEWVM0TV91bnZlSjJsR2dIUUhXQzRxYVlpN2RCMWpZNUVIQmVrSjN1Tzh1RExaWVk0UnN4MG5KMGlUbGQybw?oc=5",
+      "date": "2026-06-25 10:00",
+      "summary": "IBM has unveiled chip technology that could help extend Moore’s Law another decade  MIT Technology Review..."
     },
     {
       "title": "Repositioning retail for the AI era - MIT Technology Review",
@@ -209,53 +221,47 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTU43T0ZxVGNWWUw3cDg5cm11eGpjQ3BtaXhfY0VGUk5oamhZaU1WU2hvdHIydEpJTXJSbi1EM05ySzg4MGxwUWs2ZUI2TERXMzNlU2lPQ2ZEZ3U3c1hTNjFGSnNFTjZkSGN4ZjFzNkQtVlM3RVF3NWl4Q3F2RTFWVnY5WdIBiAFBVV95cUxPWkphTkxvY2M3S1dfVTBDOUZuS005elNkT29kd0NaN1Q2T3Bud0U5RGZ0ZHU4U3ZUeEF5UW1ESjI0NEZhV0JxdlFjcHFTV2dLUEhmb3RJdXdkRGVxYTNCZEpHYVVvR1ZzT1NHeFdlZDNzNzlRYm84eHltWUF2dERJd3pPUXNiWEph?oc=5",
       "date": "2026-06-24 09:00",
       "summary": "All challenges big and small  MIT Technology Review..."
-    },
-    {
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNei1mNEZlSWxMNkhoZzFhQUdPbHlaRjZDNDhTQUNJTEVHaS14UEVZOF9TZ2JESmtuVWZybDRMai1yczhtWkNLRUNUWVFkaHZhOE84VkJSOWU1TWh1RDZodEdCLW5rZEh1MWNJUXJ0XzNHN1BhMDI2d2liTGZwQzQ4N2tuUmdfLWJMTlNqVDJQQ05Bei1ScEp1ejZFNjRjVEl1VFktaVVMRUU4QXZGNjVHMW9MUEVKajNjTjRzLUtfOHPSAcYBQVVfeXFMT3hkSC1leS13TjYyWTJqMHNFMU9nZnY1MTRIN0pmeHc1RUZKSzNUUnF5bTRfbTBXWldjbi1yX0FXZkJycVd3S011YlBoMURYNEV0ZTJQYm9SYldubFIwYkNqSXBTLXl3X3NCeVV1UWRxMTQ2d1daN21IRmI5aWZlVGlOWTJyVzJpbjhab292a0hIM1BiRW5ibHNLNjZzaTUtQjJkMFJnM0RnVXNsVXhNSUU0cUV4N2pLd29Yd1NCS3U3OF9UY3NR?oc=5",
-      "date": "2026-06-19 10:40",
-      "summary": "A startup claims it broke through a bottleneck that’s holding back LLMs  MIT Technology Review..."
-    },
-    {
-      "title": "The Download: the future of chipmaking and Anthropic’s government clash - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPazhhUWV2R0hxRnllZzBEY091UnNRMG1FTjdETnNxQW1hR3JMc2Q2TmN5dVhzbHJUeFBnYWt5RlNoeUp1YlRHdmlJbzFZYlp4UVUtRU1qTWprand1TGxlUlRqcS1WVnVyczRhXzZQVmhVaFBqVnp4dUR5dGQ3Z3RUR05zeHA2NWRLeFpJY1JVbjljcm5Za05YNFBvWDdfN2gyYUdpcGs0Z2F3NHU0Vy10WVBSbV9YeUxKeHfSAb8BQVVfeXFMTkZ4R3ZDcDZaVjE3eURNam9XbktkWWpPRzhKSVhvcnlGa3AtaVM5NFJvZFhVcVpyallOOGFTUzZzY1o2NFlOX3lsTmZFemcxZHdmd29MVmdTR1dEWjF5VU9DXzVwZ1pvblAzNTlBUGc3ZzZMN1VkbkQzUUFUeDB6VVZBLU1IbEhud1lzc2xlSFZISzJETTJwU0FsNmRqZ3oyOHNzRThtMWh4UG9mVlFxT0NMaUlvbUxyWTctV2JmMTA?oc=5",
-      "date": "2026-06-23 12:10",
-      "summary": "The Download: the future of chipmaking and Anthropic’s government clash  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Flooding rains, ocean gains: How a huge Murray flood gave the sea a feast",
-      "link": "https://phys.org/news/2026-06-ocean-gains-huge-murray-gave.html",
-      "date": "2026-06-26 12:00",
-      "summary": "For decades, the rivers of the Murray-Darling Basin have been heavily regulated by dams and irrigation networks. As a result, the ..."
+      "title": "Whitebait rapidly switch life cycles when earthquakes cut off route to sea",
+      "link": "https://phys.org/news/2026-06-whitebait-rapidly-life-earthquakes-route.html",
+      "date": "2026-06-26 15:20",
+      "summary": "Aotearoa New Zealand whitebait can rapidly switch their life cycles in response to sudden environmental changes, new University of..."
     },
     {
-      "title": "First Nations women in fire: A vital opportunity to boost the workforce and increase community safety",
-      "link": "https://phys.org/news/2026-06-nations-women-vital-opportunity-boost.html",
-      "date": "2026-06-26 11:40",
-      "summary": "A groundbreaking report has revealed that supporting First Nations women in fire and land management is a critical, yet untapped, ..."
+      "title": "Moderate harmful algal bloom predicted for western Lake Erie. Could impact coastal recreation by mid-July",
+      "link": "https://phys.org/news/2026-06-moderate-algal-bloom-western-lake.html",
+      "date": "2026-06-26 15:20",
+      "summary": "NOAA and its research partners are forecasting a moderate harmful algal bloom (HAB) in western Lake Erie this summer. This year's ..."
     },
     {
-      "title": "Metal hydride molecule trapped with laser light opens path to ultracold hydrogen",
-      "link": "https://phys.org/news/2026-06-metal-hydride-molecule-laser-path.html",
-      "date": "2026-06-26 11:40",
-      "summary": "Controlling and trapping molecules, units of a substance consisting of two or more chemically bound atoms, with laser light is sig..."
+      "title": "Europe heat wave shattering temperature records",
+      "link": "https://phys.org/news/2026-06-europe-shattering-temperature.html",
+      "date": "2026-06-26 15:17",
+      "summary": "Europe's heat wave has smashed several temperature records, the U.N.'s weather and climate agency said Friday, adding that it woul..."
     },
     {
-      "title": "New research outlines human-centered AI framework for online student success",
-      "link": "https://phys.org/news/2026-06-outlines-human-centered-ai-framework.html",
-      "date": "2026-06-26 11:20",
-      "summary": "University of Phoenix College of Doctoral Studies scholars Pamayla E. Darbyshire, DHA, MSN/CNS, and Carl Beitsayadeh, MS, have pub..."
+      "title": "Elusive thorium–thorium bonding directly observed using Hirshfeld atom refinement",
+      "link": "https://phys.org/news/2026-06-elusive-thoriumthorium-bonding-hirshfeld-atom.html",
+      "date": "2026-06-26 15:01",
+      "summary": "Researchers have directly visualized a rare type of chemical bond between some of the heaviest elements in the periodic table, pro..."
     },
     {
-      "title": "Study challenges idea that simply playing sports makes kids less prone to violent behavior",
-      "link": "https://phys.org/news/2026-06-idea-simply-playing-sports-kids.html",
-      "date": "2026-06-26 11:00",
-      "summary": "Contrary to popular belief, simply playing organized youth sports does not reduce the likelihood of committing violence in one's l..."
+      "title": "Genomics study reveals how endangered island oaks exhibit contrasting evolutionary paths",
+      "link": "https://phys.org/news/2026-06-genomics-reveals-endangered-island-oaks.html",
+      "date": "2026-06-26 15:00",
+      "summary": "Researchers have conducted a conservation genomics study on two critically endangered island oaks—Quercus bawanglingensis and Quer..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Teenage boys in UK ‘stuck’ reading primary-level books while girls’ tastes expand",
+      "link": "https://www.theguardian.com/books/2026/jun/26/teenage-boys-stuck-reading-primary-level-books-diary-wimpy-kid",
+      "date": "2026-06-26 14:37",
+      "summary": "Jeff Kinney’s Diary of a Wimpy Kid series accounts for eight of the 10 most read books by 11- to 14-year-old boys, while girls the..."
+    },
     {
       "title": "Unions urge teachers to strike as French school exams go ahead in up to 40C heat",
       "link": "https://www.theguardian.com/world/2026/jun/25/unions-urge-teachers-strike-french-school-exams-heat",
@@ -279,47 +285,47 @@
       "link": "https://www.theguardian.com/politics/2026/jun/24/labour-criticise-language-kemi-badenoch-pmqs-parliament",
       "date": "2026-06-24 16:32",
       "summary": "Tory leader reprimanded by speaker for invective against minister and saying Starmer had ‘400 knives in his back’Labour MPs have c..."
-    },
-    {
-      "title": "A moment that changed me: A telegram arrived – and I had to choose between my head and my heart",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jun/24/moment-changed-me-telegram-arrived-choose-head-heart",
-      "date": "2026-06-24 05:45",
-      "summary": "Should I follow the man of my dreams to work in a club in Tehran? Or take up a place at an elite university? Thankfully, my dad ga..."
     }
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Education Bureau to deny pay rise to worker after SMS blunder over school places",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3358560/education-bureau-deny-pay-rise-worker-after-sms-blunder-over-school-places?utm_source=rss_feed",
+      "date": "2026-06-26 14:10",
+      "summary": "Hong Kong authorities have penalised an Education Bureau staff member over a Primary One admission allocation blunder after human ..."
+    },
+    {
+      "title": "Hong Kong civil service chief vows ‘attractive’ pay rise once economy improves",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3358557/hong-kong-civil-service-chief-vows-attractive-pay-rise-once-economy-improves?utm_source=rss_feed",
+      "date": "2026-06-26 13:28",
+      "summary": "Hong Kong’s civil service chief has pledged to deliver a “reasonable and attractive” pay adjustment once the economy and public fi..."
+    },
+    {
+      "title": "Hong Kong moves to curb flow of high liquid content waste in landfills",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3358537/hong-kong-moves-curb-flow-high-liquid-content-waste-landfills?utm_source=rss_feed",
+      "date": "2026-06-26 12:30",
+      "summary": "Hong Kong is seeking to curb the flow of bulk high liquid content waste, such as expired drinks, personal care products and discar..."
+    },
+    {
+      "title": "Hong Kong power firms to give residential customers rebates as bills soar",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358544/hong-kong-power-firms-give-residential-customers-rebates-bills-soar?utm_source=rss_feed",
+      "date": "2026-06-26 12:21",
+      "summary": "Hong Kong’s two major electricity suppliers will provide rebates to eligible households between August and October to reduce their..."
+    },
+    {
       "title": "Hong Kong, mainland police smash HK$16.8 million cross-border phishing syndicate",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358538/hong-kong-mainland-police-smash-hk168-million-cross-border-phishing-syndicate?utm_source=rss_feed",
       "date": "2026-06-26 11:57",
-      "summary": "Hong Kong police and mainland authorities have smashed a cross-border phishing syndicate that swindled victims out of HK$16.8 mill..."
-    },
-    {
-      "title": "Hong Kong bookshop owners bailed after arrests on suspicion of sedition",
-      "link": "https://www.scmp.com/news/hong-kong/article/3358534/hong-kong-bookshop-owners-bailed-after-arrests-suspicion-sedition?utm_source=rss_feed",
-      "date": "2026-06-26 10:57",
-      "summary": "The owners of an independent Hong Kong bookshop have been released on bail two days after being arrested by national security poli..."
-    },
-    {
-      "title": "Hong Kong court places baby Danny in Social Welfare Department care for 3 years",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3358530/hong-kong-court-places-baby-danny-social-welfare-department-care-3-years?utm_source=rss_feed",
-      "date": "2026-06-26 10:36",
-      "summary": "A Hong Kong court has granted the guardianship of home-born baby Danny to social welfare authorities for three years after his par..."
-    },
-    {
-      "title": "Football players, coaches among 19 arrested over match-fixing and illegal betting",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358495/football-players-coaches-among-19-arrested-over-match-fixing-and-illegal-betting?utm_source=rss_feed",
-      "date": "2026-06-26 08:58",
-      "summary": "Hong Kong’s anti-corruption agency and police have jointly arrested 19 people, including serving footballers and coaches, over ill..."
-    },
-    {
-      "title": "Hong Kong reports 36% rise in FDI inflows so far this year, InvestHK data shows",
-      "link": "https://www.scmp.com/business/banking-finance/article/3358467/hong-kong-reports-36-rise-fdi-inflows-so-far-year-investhk-data-shows?utm_source=rss_feed",
-      "date": "2026-06-26 08:00",
-      "summary": "US and European firms continued to expand their footprints in Hong Kong in the first half of the year, adding new momentum to the ..."
+      "summary": "Hong Kong police and mainland Chinese authorities have smashed a cross-border phishing syndicate that swindled victims out of HK$1..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Ancient human DNA found on cave art for the first time",
+      "link": "https://www.newscientist.com/article/2532130-ancient-human-dna-found-on-cave-art-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-26 12:45",
+      "summary": "DNA from ancient humans has been found on a prehistoric cave painting and on cave walls, demonstrating the potential to one day id..."
+    },
     {
       "title": "Europe’s heatwave is the hottest and most humid ever",
       "link": "https://www.newscientist.com/article/2531992-europes-heatwave-is-the-hottest-and-most-humid-ever/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -343,12 +349,6 @@
       "link": "https://www.newscientist.com/article/2531950-weve-uncovered-a-master-gene-that-switches-on-human-development/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-25 16:00",
       "summary": "We have identified the gene that, when activated, initiates the developmental programme that results in cells forming a human body..."
-    },
-    {
-      "title": "Where, when and how to watch the 2026 solar eclipse",
-      "link": "https://www.newscientist.com/article/2531639-where-when-and-how-to-watch-the-2026-solar-eclipse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-25 14:51",
-      "summary": "This August a total solar eclipse is set to be visible across parts of Europe, while a partial eclipse will sweep across about a q..."
     }
   ]
 }
