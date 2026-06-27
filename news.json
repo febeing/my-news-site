@@ -45,6 +45,12 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
+      "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRCNE1YZ0h5NkU4MmtrUnh5TmcyWlVoZHBJN25nR1FUUjByVmxENDZsMmxuMWRVajhKV1FPb1owUWRDay1lQk53TzMyQUo2RmRSczdJOC1Lb0wtQmJScFFtZU9kN3A1MFdCNjMxNXhsVDRDZ3hHbWZwTjdYcjBxcXNXZ182MVlqN0dvTEgycW5NaC0ybWl0eHJuRjBla3JKemc?oc=5",
+      "date": "2026-05-26 07:00",
+      "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
+    },
+    {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
-    },
-    {
-      "title": "The questions that keep scientists up at night - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
-      "date": "2026-04-07 07:00",
-      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -129,6 +129,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Weekend reads: A tsunami of misleading medical studies; retraction calls cancer therapy timing into question; a closer look at Max Planck’s retractions",
+      "link": "https://retractionwatch.com/2026/06/27/weekend-reads-tsunami-trinetx-studies-retraction-cancer-therapy-timing-max-planck-retractions/",
+      "date": "2026-06-27 10:00",
+      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
+    },
+    {
       "title": "Increasing workload may have contributed to recent retraction at nursing journal, editor says",
       "link": "https://retractionwatch.com/2026/06/25/nurse-education-in-practice-retraction-moulage-elsevier/",
       "date": "2026-06-25 20:54",
@@ -151,12 +157,6 @@
       "link": "https://retractionwatch.com/2026/06/22/springer-nature-to-start-issuing-expressions-of-concern-for-books/",
       "date": "2026-06-22 10:00",
       "summary": "Springer Nature will start issuing expressions of concern notices for books after investigating hundreds of its books for integrit..."
-    },
-    {
-      "title": "Weekend reads: Media star loses doctorate for plagiarism; journal editor resigns for AI concerns; university removes dean for fabricating data",
-      "link": "https://retractionwatch.com/2026/06/20/weekend-reads-media-star-physicist-doctorate-plagiarism-journal-editor-resigns-ai-university-dean-data-fabrication/",
-      "date": "2026-06-20 10:00",
-      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
     }
   ],
   "Reuters AI": [
@@ -211,19 +211,31 @@
       "summary": "A startup claims it broke through a bottleneck that’s holding back LLMs  MIT Technology Review..."
     },
     {
-      "title": "All challenges big and small - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTU43T0ZxVGNWWUw3cDg5cm11eGpjQ3BtaXhfY0VGUk5oamhZaU1WU2hvdHIydEpJTXJSbi1EM05ySzg4MGxwUWs2ZUI2TERXMzNlU2lPQ2ZEZ3U3c1hTNjFGSnNFTjZkSGN4ZjFzNkQtVlM3RVF3NWl4Q3F2RTFWVnY5WdIBiAFBVV95cUxPWkphTkxvY2M3S1dfVTBDOUZuS005elNkT29kd0NaN1Q2T3Bud0U5RGZ0ZHU4U3ZUeEF5UW1ESjI0NEZhV0JxdlFjcHFTV2dLUEhmb3RJdXdkRGVxYTNCZEpHYVVvR1ZzT1NHeFdlZDNzNzlRYm84eHltWUF2dERJd3pPUXNiWEph?oc=5",
-      "date": "2026-06-24 09:00",
-      "summary": "All challenges big and small  MIT Technology Review..."
-    },
-    {
       "title": "Repositioning retail for the AI era - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdERCSnJsSTM3Z0NWQzBYSW13NTdMSDNQa0lYbUY4MUY0QlBUcFZ0c3FCWmJsZXdzZ3FDdTdpX0ljTklkdFV0OXh0N05ZMzNFMFhfVGZCWDZSamdKZnFMcUMwMWF1bUxnX2M4WC16V0YySGNpSjUwMEJJeFBYS2piYnJISFVKWU9XeENpWGNXSEUwZ9IBlwFBVV95cUxQWVBQQlNPQXVORy1idlBkanB5U0pkbEdFSWVsLWdyOGxGYy1QWG8wUHl1c1IxVFFxY05FTnJwZ3hiQWNFT2ZLVVR2UUpNZWNBeDBxWVJkai0zb3RyZDMxb3FMWXJkOVp3ZExPWnh4elViV2FSaXp4V2E5dUxsQkMwTVlhSFV5MUpxVWpVV1pra2owUUNvTEhV?oc=5",
       "date": "2026-06-25 14:15",
       "summary": "Repositioning retail for the AI era  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: the future of chipmaking and Anthropic’s government clash - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPazhhUWV2R0hxRnllZzBEY091UnNRMG1FTjdETnNxQW1hR3JMc2Q2TmN5dVhzbHJUeFBnYWt5RlNoeUp1YlRHdmlJbzFZYlp4UVUtRU1qTWprand1TGxlUlRqcS1WVnVyczRhXzZQVmhVaFBqVnp4dUR5dGQ3Z3RUR05zeHA2NWRLeFpJY1JVbjljcm5Za05YNFBvWDdfN2gyYUdpcGs0Z2F3NHU0Vy10WVBSbV9YeUxKeHfSAb8BQVVfeXFMTkZ4R3ZDcDZaVjE3eURNam9XbktkWWpPRzhKSVhvcnlGa3AtaVM5NFJvZFhVcVpyallOOGFTUzZzY1o2NFlOX3lsTmZFemcxZHdmd29MVmdTR1dEWjF5VU9DXzVwZ1pvblAzNTlBUGc3ZzZMN1VkbkQzUUFUeDB6VVZBLU1IbEhud1lzc2xlSFZISzJETTJwU0FsNmRqZ3oyOHNzRThtMWh4UG9mVlFxT0NMaUlvbUxyWTctV2JmMTA?oc=5",
+      "date": "2026-06-23 12:10",
+      "summary": "The Download: the future of chipmaking and Anthropic’s government clash  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Female baboons keep family bonds strong: Research reveals the benefits",
+      "link": "https://phys.org/news/2026-06-female-baboons-family-bonds-strong.html",
+      "date": "2026-06-27 23:00",
+      "summary": "Baboons are one of the most widespread of Africa's primate groups. They range across sub-Saharan Africa and into the Arabian Penin..."
+    },
+    {
+      "title": "When the rapid adaptation of sales channels pays off",
+      "link": "https://phys.org/news/2026-06-rapid-sales-channels-pays.html",
+      "date": "2026-06-27 21:30",
+      "summary": "Greater agility in the sales system—that is, a company's ability to rapidly adapt its sales channels to changing market conditions..."
+    },
     {
       "title": "Peptide alternative to antibiotics could combat antimicrobial resistance crisis",
       "link": "https://phys.org/news/2026-06-peptide-alternative-antibiotics-combat-antimicrobial.html",
@@ -241,18 +253,6 @@
       "link": "https://phys.org/news/2026-06-dishonesty-relationship-consequences.html",
       "date": "2026-06-27 20:00",
       "summary": "From \"harmless\" white lies to infidelity, dishonesty in romantic relationships is a complex phenomenon that takes on many forms. N..."
-    },
-    {
-      "title": "World's largest particle smasher halts for upgrade to boost hunt for dark matter",
-      "link": "https://phys.org/news/2026-06-world-largest-particle-smasher-halts.html",
-      "date": "2026-06-27 19:29",
-      "summary": "The world's most powerful particle accelerator will shutter operations Monday for four years of renovations to dramatically boost ..."
-    },
-    {
-      "title": "Lithium-doped carbon nanorings show promise for next-generation optical devices",
-      "link": "https://phys.org/news/2026-06-lithium-doped-carbon-nanorings-generation.html",
-      "date": "2026-06-27 18:30",
-      "summary": "Nonlinear optical materials are essential for advanced photonics and laser technologies, but researchers are still searching for w..."
     }
   ],
   "The Guardian Edu": [
