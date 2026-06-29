@@ -45,12 +45,6 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRCNE1YZ0h5NkU4MmtrUnh5TmcyWlVoZHBJN25nR1FUUjByVmxENDZsMmxuMWRVajhKV1FPb1owUWRDay1lQk53TzMyQUo2RmRSczdJOC1Lb0wtQmJScFFtZU9kN3A1MFdCNjMxNXhsVDRDZ3hHbWZwTjdYcjBxcXNXZ182MVlqN0dvTEgycW5NaC0ybWl0eHJuRjBla3JKemc?oc=5",
-      "date": "2026-05-26 07:00",
-      "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
-    },
-    {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
       "date": "2026-03-26 07:00",
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+    },
+    {
+      "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -89,10 +89,10 @@
       "summary": "F. Frank Zboralske, former Stanford radiology leader and beloved educator, dies at 93  Stanford Medicine..."
     },
     {
-      "title": "Protein engineering and testing condensed to one day - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMV9XUWY2aXE4VFltMjdST1VsQ0N6UERTODhoQ2Zub1ZpaDY2RDVucC1wNjk3bnM1eEY3SV9oQ2ZLdUdYZ0JlWWtKNDlEZGNZNXhqM3ZSbnp5LTlXN1ZqbWlBSk8zLXVGV3BHU21tZ1pXVmthMUd3NXpFVUhZSU55aQ?oc=5",
-      "date": "2026-05-14 07:00",
-      "summary": "Protein engineering and testing condensed to one day  Stanford Report..."
+      "title": "Looking Back at 2025 - Stanford Cardinal",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wQ05VZHNLQ1p2SkJ2dUJuSnZWdE5ablhzakJaanhnLTYzeG9uTjl3Rk1YX2d1dzFBZWRlREYzcFh0VV9wMHhEdHQ2UDBTVWQxUkRFWFhneXNkclhDNjRkbnlnT0tRXzdvb2t0NkxMN1Y?oc=5",
+      "date": "2026-06-29 05:35",
+      "summary": "Looking Back at 2025  Stanford Cardinal..."
     }
   ],
   "Nature Careers": [
@@ -129,6 +129,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Physicist in Iraq fired over publishing scam claims fake Columbia affiliation in new paper",
+      "link": "https://retractionwatch.com/2026/06/29/physicist-in-iraq-fired-over-publishing-scam-claims-fake-columbia-affiliation-in-new-paper/",
+      "date": "2026-06-29 07:00",
+      "summary": "Five months after he was fired by ministerial order, an Iraqi professor of physics at the center of a massive publishing scam subm..."
+    },
+    {
       "title": "Weekend reads: A tsunami of misleading medical studies; retraction calls cancer therapy timing into question; a closer look at Max Planck’s retractions",
       "link": "https://retractionwatch.com/2026/06/27/weekend-reads-tsunami-trinetx-studies-retraction-cancer-therapy-timing-max-planck-retractions/",
       "date": "2026-06-27 10:00",
@@ -151,20 +157,26 @@
       "link": "https://retractionwatch.com/2026/06/23/a-prolific-evolutionary-biologist-caught-faking-data-decades-ago-notches-a-new-retraction/",
       "date": "2026-06-23 10:00",
       "summary": "Anders Møller, an influential evolutionary biologist from Denmark, somehow survived the blow to his reputation after a high-profil..."
-    },
-    {
-      "title": "Springer Nature to start issuing expressions of concern for books",
-      "link": "https://retractionwatch.com/2026/06/22/springer-nature-to-start-issuing-expressions-of-concern-for-books/",
-      "date": "2026-06-22 10:00",
-      "summary": "Springer Nature will start issuing expressions of concern notices for books after investigating hundreds of its books for integrit..."
     }
   ],
   "Reuters AI": [
     {
-      "title": "BIS says debt, AI boom and fragilities raise global risks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVR4T0hxcEdBMnhpb3UwQThfajRZbl9DVkdCNVRmaUFoaHhNX1hzWm9MM3pXTk5aazFzMGpySTRCY3BPWUJfX0cyZE41ZjlmOVVOdWZBVk81QkllWjdxcEFSYmJnU19tZjN2MEpabDFrSS1FZk9LMXNfR3FTX0pLYg?oc=5",
-      "date": "2026-06-28 09:03",
-      "summary": "BIS says debt, AI boom and fragilities raise global risks  Reuters..."
+      "title": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUNqWjl6MERPSDlWbU9PcWFac1g2anI3NF8xSE1falktWnRsVUVTdHZOT1VOVmhOemcxUUJPNjdLWWdwM2x5enBYc1RMa0FCNTd3TzFSMGEySDNFM3JRNHVJZjdVWWNnd1F4Wm90dEJrWEgtWGJfNFI2ZWhLeWVkOGJUdTRYTGtqbk1IX0FwSmhrQ0tybXgwZUVsU1pSclVHWERTQzRCWWR6aDVuRzFublFuYk9wYmdU?oc=5",
+      "date": "2026-06-29 01:07",
+      "summary": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership  Reuters..."
+    },
+    {
+      "title": "Banks get creative and look further afield as AI-fueled debt soars - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDBiVE50bXZsYUc3enlSS2I5WjlqVkJtRHF0S0Mtbms4cmR6bnRSNGpDRHczSDQ0VkpyY3JLSXpka2NBYU11amM2akJROFVaZzFOMmppaHJpd0ZjVjFqWnRrRmplV2hFaHZ3N0otLWtpUm1MTkVTMDJSNFBwMnRad1k3ekN5UmVNOGI0Y05fSGNCemhUaUhkbVhCcFhNaWdxbklhRVJ5RkE5eHV0b2FJVkxn?oc=5",
+      "date": "2026-06-29 09:20",
+      "summary": "Banks get creative and look further afield as AI-fueled debt soars  Reuters..."
+    },
+    {
+      "title": "Austria urges Europe to host Anthropic following US curbs on AI access - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2VmbzlqUks2ZDZGQ2xYcDk0ZEVFS0hCSXFxMUg2amtkOWJmSDkxSV9mb0xRelFJSUMteUJFaG5YS2pSZHJfdVEzeXRPY3dYd2lSejg0SnFvQjhXU0Noak1fSUxuVnUxdDBpWUNKc3BtVTFKTHNSbnFfRkQ0aUY4dENia0pmOGNVeUZDeVVuZWdpS1hqV0R6S3dGcjJEbkV4YVNMS19hMEg2WFFUbGx0UEUtcmRkX0hnWkZz?oc=5",
+      "date": "2026-06-28 13:49",
+      "summary": "Austria urges Europe to host Anthropic following US curbs on AI access  Reuters..."
     },
     {
       "title": "Australia's Firmus Technologies strikes AI access deal with Nvidia - Reuters",
@@ -177,18 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWJtakU5OXJlbU4tMzdlbVlKWmJnMFJtd2dhbHFkUE9EdG1BbE1Kb2ExME44XzhIS3VaSmZ6RVBDbDJDUkEwLXYwQ3prX0ladWIzSlZld1pUdXJhM0N6andrTU5BcGtVZXA5TkRpY3hFNk1DTjB3NTk4cmVsWjd1Um5HLUJwSGJUZ1B3MGFPUUl1M3FmajVLVzNlLUk1U0hBUkRsMEswZ0FWajhFc3p5bnRQcjRlZlhXdVJZU0tWYWdSUkt4d1lGYg?oc=5",
       "date": "2026-06-28 18:19",
       "summary": "Baidu's AI chip unit Kunlunxin targets $50 billion Hong Kong IPO, The Information reports  Reuters..."
-    },
-    {
-      "title": "Google limits Meta’s use of its Gemini AI models, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEhSTWNhT0E1aGtldms3cmlxVjFlOVl5Z2t1ZTRTU2hjb2FSV1ZfczIwOGMwU0JMU2lqNTI1THhWU0UyS1k5aGVrNjBlYy1Iek9TNW5DOXVmM2ZiUmUxaGVoZ0N0cDFLZTNXejVLWExrV01nR2hFY2N2c0FqT1JvM3V1R0l1eTlwLWVPbkg4SHZ2SzJRczc2dDBFaC1YQ1Y3dkE?oc=5",
-      "date": "2026-06-28 05:23",
-      "summary": "Google limits Meta’s use of its Gemini AI models, FT reports  Reuters..."
-    },
-    {
-      "title": "Austria urges Europe to host Anthropic following US curbs on AI access - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2VmbzlqUks2ZDZGQ2xYcDk0ZEVFS0hCSXFxMUg2amtkOWJmSDkxSV9mb0xRelFJSUMteUJFaG5YS2pSZHJfdVEzeXRPY3dYd2lSejg0SnFvQjhXU0Noak1fSUxuVnUxdDBpWUNKc3BtVTFKTHNSbnFfRkQ0aUY4dENia0pmOGNVeUZDeVVuZWdpS1hqV0R6S3dGcjJEbkV4YVNMS19hMEg2WFFUbGx0UEUtcmRkX0hnWkZz?oc=5",
-      "date": "2026-06-28 13:49",
-      "summary": "Austria urges Europe to host Anthropic following US curbs on AI access  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -199,16 +199,16 @@
       "summary": "Repositioning retail for the AI era  MIT Technology Review..."
     },
     {
-      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVnNmSkdWYzVuZWhEVmJJMlAwZWxGaDhTNFZZOGtkZ3lJYmZkSEpZSEltcFVrdmRVejJVc19faHhFaWZHdkdKdWFFenNLS214SVkzcDRZM0hiRWY3dVBEN0RaaUN6aUtFQ0VYRTVVZ2tjSlMxbUljcEVvX0dibTV4REpR0gGHAUFVX3lxTFB2cWVrRHNDN2NvMy16aU9ORTFWalltN2FUa0FTWkFXa2ViNzZXS1pDUHdSb3UzMnJzMkk5aVlvZy05WkZIa1ladHZEWVM0TV91bnZlSjJsR2dIUUhXQzRxYVlpN2RCMWpZNUVIQmVrSjN1Tzh1RExaWVk0UnN4MG5KMGlUbGQybw?oc=5",
-      "date": "2026-06-25 10:00",
-      "summary": "IBM has unveiled chip technology that could help extend Moore’s Law another decade  MIT Technology Review..."
-    },
-    {
       "title": "A startup claims it broke through a bottleneck that’s holding back LLMs - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNei1mNEZlSWxMNkhoZzFhQUdPbHlaRjZDNDhTQUNJTEVHaS14UEVZOF9TZ2JESmtuVWZybDRMai1yczhtWkNLRUNUWVFkaHZhOE84VkJSOWU1TWh1RDZodEdCLW5rZEh1MWNJUXJ0XzNHN1BhMDI2d2liTGZwQzQ4N2tuUmdfLWJMTlNqVDJQQ05Bei1ScEp1ejZFNjRjVEl1VFktaVVMRUU4QXZGNjVHMW9MUEVKajNjTjRzLUtfOHPSAcYBQVVfeXFMT3hkSC1leS13TjYyWTJqMHNFMU9nZnY1MTRIN0pmeHc1RUZKSzNUUnF5bTRfbTBXWldjbi1yX0FXZkJycVd3S011YlBoMURYNEV0ZTJQYm9SYldubFIwYkNqSXBTLXl3X3NCeVV1UWRxMTQ2d1daN21IRmI5aWZlVGlOWTJyVzJpbjhab292a0hIM1BiRW5ibHNLNjZzaTUtQjJkMFJnM0RnVXNsVXhNSUU0cUV4N2pLd29Yd1NCS3U3OF9UY3NR?oc=5",
       "date": "2026-06-19 07:00",
       "summary": "A startup claims it broke through a bottleneck that’s holding back LLMs  MIT Technology Review..."
+    },
+    {
+      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVnNmSkdWYzVuZWhEVmJJMlAwZWxGaDhTNFZZOGtkZ3lJYmZkSEpZSEltcFVrdmRVejJVc19faHhFaWZHdkdKdWFFenNLS214SVkzcDRZM0hiRWY3dVBEN0RaaUN6aUtFQ0VYRTVVZ2tjSlMxbUljcEVvX0dibTV4REpR0gGHAUFVX3lxTFB2cWVrRHNDN2NvMy16aU9ORTFWalltN2FUa0FTWkFXa2ViNzZXS1pDUHdSb3UzMnJzMkk5aVlvZy05WkZIa1ladHZEWVM0TV91bnZlSjJsR2dIUUhXQzRxYVlpN2RCMWpZNUVIQmVrSjN1Tzh1RExaWVk0UnN4MG5KMGlUbGQybw?oc=5",
+      "date": "2026-06-25 10:00",
+      "summary": "IBM has unveiled chip technology that could help extend Moore’s Law another decade  MIT Technology Review..."
     },
     {
       "title": "All challenges big and small - MIT Technology Review",
@@ -224,6 +224,18 @@
     }
   ],
   "Phys.org": [
+    {
+      "title": "Mummified dogs reveal Tiwanaku people buried companions beside homes long before they became status symbols",
+      "link": "https://phys.org/news/2026-06-mummified-dogs-reveal-tiwanaku-people.html",
+      "date": "2026-06-29 10:20",
+      "summary": "In the arid landscapes of southern Peru, around 1,100 years ago, someone carefully dug a small pit, laid down a woven mat and plac..."
+    },
+    {
+      "title": "Toward experiment-guided AlphaFold: Researchers overcome AI tool's single-conformation limitation",
+      "link": "https://phys.org/news/2026-06-alphafold-ai-tool-conformation-limitation.html",
+      "date": "2026-06-29 09:00",
+      "summary": "The AI-based program AlphaFold predicts a protein's 3D structure with remarkable accuracy. However, it tends to reduce heterogeneo..."
+    },
     {
       "title": "The order of species loss alters how grasslands maintain stability, study finds",
       "link": "https://phys.org/news/2026-06-species-loss-grasslands-stability.html",
@@ -241,21 +253,15 @@
       "link": "https://phys.org/news/2026-06-lost-megalodon-vertebrae-resurface-foot.html",
       "date": "2026-06-29 00:10",
       "summary": "An associated set of gigantic vertebrae belonging to the iconic extinct megalodon, or megatooth shark, that had been missing in ac..."
-    },
-    {
-      "title": "Human activity has driven retreat of Antarctica's fastest melting glacier",
-      "link": "https://phys.org/news/2026-06-human-driven-retreat-antarctica-fastest.html",
-      "date": "2026-06-28 23:00",
-      "summary": "Human-driven climate change significantly intensified the retreat of one of the most important glaciers in Antarctica during the 2..."
-    },
-    {
-      "title": "Bird flu is deadly for backyard chickens—and even cats. A vet expert explains",
-      "link": "https://phys.org/news/2026-06-bird-flu-deadly-backyard-chickens.html",
-      "date": "2026-06-28 22:30",
-      "summary": "The deadly H5N1 strain of bird flu has been found in seabirds in two Australian states...."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "White working-class children failed by England’s school system, inquiry finds",
+      "link": "https://www.theguardian.com/education/2026/jun/29/white-working-class-children-failed-by-england-school-system-inquiry-finds",
+      "date": "2026-06-29 08:40",
+      "summary": "Report says once-in-a-generation changes needed to tackle why such children are lowest-performing large demographicUK politics liv..."
+    },
     {
       "title": "David Sedaris on his Duolingo obsession: ‘“Today is the last day,” I told myself – but I was powerless to stop’",
       "link": "https://www.theguardian.com/books/2026/jun/28/david-sedaris-duolingo-obsession-the-land-and-its-people-memoir",
@@ -279,44 +285,38 @@
       "link": "https://www.theguardian.com/books/2026/jun/27/dave-eggers-once-you-have-a-machine-think-and-write-for-you-youre-cooked-as-a-species",
       "date": "2026-06-27 08:00",
       "summary": "As his new novel is published, the US author talks about nurturing the next generation of creatives, debating Sam Altman – and why..."
-    },
-    {
-      "title": "Screen time can damage under-twos’ development, landmark study suggests",
-      "link": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
-      "date": "2026-06-27 07:00",
-      "summary": "Exclusive: Researchers call for urgent investigation of risks to babies of tablets, smartphones and other digital devicesScreen ti..."
     }
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Kennedy Town walkway plan needs rethink to match local vibe: harbourfront body",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3358712/kennedy-town-walkway-plan-needs-rethink-match-local-vibe-harbourfront-body?utm_source=rss_feed",
-      "date": "2026-06-29 05:25",
-      "summary": "The head of Hong Kong’s Harbourfront Commission has called for improvements to the proposal to reclaim land for a popular tourist ..."
+      "title": "Hong Kong proposes cooling-off period for beauty, gym deals to curb hard-sell tactics",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3358769/hong-kong-proposes-cooling-period-beauty-gym-deals-curb-hard-sell-tactics?utm_source=rss_feed",
+      "date": "2026-06-29 10:18",
+      "summary": "Hong Kong has proposed a statutory seven-day cooling-off period and a 14-day refund window for prepaid beauty and fitness contract..."
     },
     {
-      "title": "M+ museum offers free entry to customers caught in design exhibition bottleneck",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3358711/m-museum-offers-free-entry-customers-caught-design-exhibition-bottleneck?utm_source=rss_feed",
-      "date": "2026-06-29 05:11",
-      "summary": "Hong Kong’s M+ museum has offered ticket holders one free entry in the next three months after poor crowd management led to hours-..."
+      "title": "82% of Wang Fuk Court flat owners accept buy-back offer before priority deadline",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3358770/82-wang-fuk-court-flat-owners-accept-buy-back-offer-priority-deadline?utm_source=rss_feed",
+      "date": "2026-06-29 10:17",
+      "summary": "More than 80 per cent of owners of the fire-ravaged housing estate, Wang Fuk Court, have accepted the Hong Kong government’s buy-b..."
     },
     {
-      "title": "Housing minister talks accountability, how to prevent another Tai Po fire",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3358648/hong-kong-weighs-spot-checks-renovations-housing-minister-says?utm_source=rss_feed",
-      "date": "2026-06-29 04:00",
-      "summary": "As Hong Kong marks the 29th anniversary of its return to Chinese rule on July 1, the South China Morning Post talks to the city’s ..."
+      "title": "From invention to impact: Hong Kong Science Fair gives young innovators a wider stage",
+      "link": "https://www.scmp.com/presented/news/hong-kong/topics/nurturing-future-innovators/article/3358690/invention-impact-hong-kong-science-fair-gives-young-innovators-wider-stage?utm_source=rss_feed",
+      "date": "2026-06-29 09:27",
+      "summary": "[The content of this article has been produced by our advertising partner.]\nThis year’s event drew more than 60,000 visits over tw..."
     },
     {
-      "title": "Worker killed, another unconscious after excavator tips over in Hong Kong",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3358688/worker-killed-another-unconscious-after-crane-tips-over-hong-kong?utm_source=rss_feed",
-      "date": "2026-06-29 02:56",
-      "summary": "A worker has died and another has been left unconscious after an excavator fell on its side at a Hong Kong construction site.\nPoli..."
+      "title": "Hong Kong physiotherapist loses HK$5m in scam involving ‘beautiful assistant’",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358761/hong-kong-physiotherapist-loses-hk5m-scam-involving-beautiful-assistant?utm_source=rss_feed",
+      "date": "2026-06-29 09:26",
+      "summary": "A Hong Kong physiotherapist has been scammed out of HK$5 million (US$637,570) after falling victim to an online investment trap th..."
     },
     {
-      "title": "High ceiling to clear? First rectified subdivided flat to be approved soon",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3358671/high-ceiling-clear-first-rectified-subdivided-flat-be-approved-soon?utm_source=rss_feed",
-      "date": "2026-06-29 02:00",
-      "summary": "As Hong Kong marks the 29th anniversary of its return to Chinese rule on July 1, the South China Morning Post talks to the city’s ..."
+      "title": "Police officer admits taking upskirt footage and trying to grab colleague’s gun",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358741/police-officer-admits-taking-upskirt-footage-and-trying-grab-colleagues-gun?utm_source=rss_feed",
+      "date": "2026-06-29 07:48",
+      "summary": "A Hong Kong national security police officer has admitted filming upskirt footage of a woman and attempting to grab a colleague’s ..."
     }
   ],
   "New Scientist": [
@@ -325,12 +325,6 @@
       "link": "https://www.newscientist.com/article/2531697-lost-books-by-ancient-philosophers-recovered-from-unreadable-scrolls/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-25 09:30",
       "summary": "Scrolls from the Roman library of Herculaneum that were carbonised by a volcanic eruption have been read in their entirety for the..."
-    },
-    {
-      "title": "Ancient human DNA found on cave art for the first time",
-      "link": "https://www.newscientist.com/article/2532130-ancient-human-dna-found-on-cave-art-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-26 12:45",
-      "summary": "DNA from ancient humans has been found on a prehistoric cave painting and on cave walls, demonstrating the potential to one day id..."
     },
     {
       "title": "Europe’s heatwave is the hottest and most humid ever",
@@ -349,6 +343,12 @@
       "link": "https://www.newscientist.com/article/2531891-can-home-batteries-help-save-the-climate-and-save-you-money/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-25 17:01",
       "summary": "Growing numbers of homeowners are installing batteries that store electricity when it is cheap, which helps balance the grid and c..."
+    },
+    {
+      "title": "We’ve uncovered a master gene that switches on human development",
+      "link": "https://www.newscientist.com/article/2531950-weve-uncovered-a-master-gene-that-switches-on-human-development/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-25 16:00",
+      "summary": "We have identified the gene that, when activated, initiates the developmental programme that results in cells forming a human body..."
     }
   ]
 }
