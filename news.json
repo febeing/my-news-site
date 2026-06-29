@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Scientists find ozone depletion began decades before discovery of ozone hole",
+      "link": "https://news.mit.edu/2026/scientists-find-ozone-depletion-began-decades-before-ozone-hole-discovery-0629",
+      "date": "2026-06-29 19:00",
+      "summary": "Using modern tools, they also determined that carbon tetrachloride, used as a dry-cleaning and degreasing agent as early as the 19..."
+    },
+    {
       "title": "Graphene can hold multiple states of superconductivity, a new study finds",
       "link": "https://news.mit.edu/2026/graphene-can-hold-multiple-states-of-superconductivity-0629",
       "date": "2026-06-29 15:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success",
       "date": "2026-06-25 16:00",
       "summary": "“Scientific American” showcases the history and future of America’s scientific engine, highlighting promising young scientists and..."
-    },
-    {
-      "title": "How architecture influences political activity",
-      "link": "https://news.mit.edu/2026/how-architecture-influences-political-activity-0625",
-      "date": "2026-06-25 04:00",
-      "summary": "In Ghana, semi-communal “compound houses” affect how much people vote and participate in political activity, new research shows...."
     }
   ],
   "Harvard Gazette": [
@@ -71,6 +71,12 @@
       "summary": "AI designs the ideal burger for taste, health, and planet  Stanford Report..."
     },
     {
+      "title": "AI hiring tools are biasing job decisions - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGtTWm9yOWFEb2R3alloWTFNRlFCeVRWQzZUUW9UYjNKXzY5WFFZcGVieG1uYURhYTUzcF92dGpNVVNWYWpzZVVGcHpULTQtU0pJUHFhYzRLd3BaUWFtT0N1RjJZbFUzRXMyR0lLa1duUEx6NUxoWUwzZVF4QkdDaFhkZlc?oc=5",
+      "date": "2026-06-29 19:05",
+      "summary": "AI hiring tools are biasing job decisions  Stanford Report..."
+    },
+    {
       "title": "To Understand Who Thrives Amid College Admissions Reform, Taiwan Offers a Revealing Look at Class Privilege - Shorenstein Asia-Pacific Research Center",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeEhsc1RMLUhEVUU1dEdGYVNZQ3BPWGY0Q2pZU29jbHZnakFFc0ZBT0J4UVhTTDg0cjFWekpNei00a0VNLTdtOXdRT1VXYTFiSzBSZENpbVdFQ3lYZWtEaFNKUlU5bXA5dmhkbUhSeXNMXzR2cEFzbGFtZEd0OHd6Vk5zWXBQS28yeXBrRkdlbUQ1S3dzWGJGSE83WWxLbHZRS21qYk1zVHBWNlZDRlhnQUUwdnpaWjdQSzR0QjdEWkN0dw?oc=5",
       "date": "2026-06-29 12:00",
@@ -87,15 +93,21 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2FwZUIzS0JiX2RGSF85Z2dQdF9vcExEMVRLbFFrcXVZa1FEeEExbFVFOW9fUW9FVFBOQ0pIXzdGR1Nob3A4VllaZVJqSkhCMUVYR0IxS2EyX3FZenpqM2FNbWFON1g4dG9zZHRUbElnYWZWT1JTLWVvVVYySWJMVDNCOXg3VFRDeWIyN3lsUS02U0hZZ0VZM3NPbGlFUGVvYmQwYVdWcXpuOHpTUXg2VA?oc=5",
       "date": "2026-06-29 13:31",
       "summary": "Gund Institute Formalizes Collaboration with the Natural Capital Alliance After Years of Work Together  University of Vermont..."
-    },
-    {
-      "title": "Stanford Alumna and LCAP Graduate, Kelly Xu Takes 36-hole Lead at 2026 Island Resort Championship presented by Delta County Chamber - Epson Tour",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOS3lYWmtPNHdtUHhSZ1N1bmZCb0FaSTdORk11SENLN2RsaGowVFhqUld1NXp4SmNyTHk0YjRya205NjdVb28wRDlqQ04wS044bzNseUJVdExvVnFQOHhqV2tDVFc5dTVlbm9vSTJXd3RpZm80R3JGbkRpWjRUUmdfaTIwNlFocW9sOEZJSGZCc0xhMjZ3eFVCcGhJOWtvblU1R2dXSDNnWk1WTzhtQUtUWk1IMmdPSUU3dEl5ZGhtaXVzeWtWT2xDQXQ2WWhfRkhpMG9iS0hMVVN4VkZHLUtRLTFad2otdWRCV0NWSjI1U3ZYZDNYdkx5VE9R?oc=5",
-      "date": "2026-06-27 23:42",
-      "summary": "Stanford Alumna and LCAP Graduate, Kelly Xu Takes 36-hole Lead at 2026 Island Resort Championship presented by Delta County Chambe..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Family of magnetic field-boosted superconductors in rhombohedral graphene",
+      "link": "https://www.nature.com/articles/s41586-026-10815-x",
+      "date": "2026-06-29 00:00",
+      "summary": "Nature, Published online: 29 June 2026; doi:10.1038/s41586-026-10815-xFamily of magnetic field-boosted superconductors in rhombohe..."
+    },
+    {
+      "title": "Audio long read: Is the peptide craze backed by science? The promise behind the hype",
+      "link": "https://www.nature.com/articles/d41586-026-02063-w",
+      "date": "2026-06-29 00:00",
+      "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02063-wThe market for unregulated peptides is huge. Has the hottest..."
+    },
     {
       "title": "Trump has big AI and quantum ambitions: this scientist’s job is to make them reality",
       "link": "https://www.nature.com/articles/d41586-026-02023-4",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01672-9",
       "date": "2026-06-29 00:00",
       "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01672-9Marisa Chrysochoou and Keivan Stassun argue that AI tools co..."
-    },
-    {
-      "title": "What’s the human cost of US research turmoil? A new film finds out",
-      "link": "https://www.nature.com/articles/d41586-026-01979-7",
-      "date": "2026-06-29 00:00",
-      "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01979-7Science is a complex, interconnected, deeply human enterpris..."
-    },
-    {
-      "title": "Scientists fight back against far-right plans to restrict academic freedom in Germany",
-      "link": "https://www.nature.com/articles/d41586-026-01496-7",
-      "date": "2026-06-29 00:00",
-      "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01496-7With the far-right Alternative for Germany leading in polls ..."
     }
   ],
   "Retraction Watch": [
@@ -161,10 +161,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUNqWjl6MERPSDlWbU9PcWFac1g2anI3NF8xSE1falktWnRsVUVTdHZOT1VOVmhOemcxUUJPNjdLWWdwM2x5enBYc1RMa0FCNTd3TzFSMGEySDNFM3JRNHVJZjdVWWNnd1F4Wm90dEJrWEgtWGJfNFI2ZWhLeWVkOGJUdTRYTGtqbk1IX0FwSmhrQ0tybXgwZUVsU1pSclVHWERTQzRCWWR6aDVuRzFublFuYk9wYmdU?oc=5",
-      "date": "2026-06-29 01:07",
-      "summary": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership  Reuters..."
+      "title": "Banks get creative and look further afield as AI-fueled debt soars - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDBiVE50bXZsYUc3enlSS2I5WjlqVkJtRHF0S0Mtbms4cmR6bnRSNGpDRHczSDQ0VkpyY3JLSXpka2NBYU11amM2akJROFVaZzFOMmppaHJpd0ZjVjFqWnRrRmplV2hFaHZ3N0otLWtpUm1MTkVTMDJSNFBwMnRad1k3ekN5UmVNOGI0Y05fSGNCemhUaUhkbVhCcFhNaWdxbklhRVJ5RkE5eHV0b2FJVkxn?oc=5",
+      "date": "2026-06-29 11:33",
+      "summary": "Banks get creative and look further afield as AI-fueled debt soars  Reuters..."
     },
     {
       "title": "Cheaper AI is better: Soaring bills are reshaping how businesses choose models - Reuters",
@@ -193,6 +193,12 @@
   ],
   "MIT Tech Review": [
     {
+      "title": "AI agents are not your “coworkers” - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUVvV3UtNjdYZHZjVHJvcDhzNFlYN0VOWDE5OXk1Ny1qNEZ6elVCdmNKUHAwRk5CaXFBMUJQV013M3A0UVhWU1A0QmRGOHZQdFVyNnNoYXpWQW1WU3Zwa19tWDNSOVlibjRqRDZWZlVOWGVjM2ltem1OaEdoTGtHckdWb1pacG55NzhraWlR0gGTAUFVX3lxTE54NEtzTndmUGVZcFZUdHBpWHlkcWxqNHpabFFzWmR3aUJWVUtTSDBsekZhbHY2amI3eVZhWEFSVHFWVF9OdElvWGZwZEdKa3JLU1VSclFheGZuZVRfeXJrekhjaDd1YjYtVWdVekhMZXd0OEc5VGZCcDNURS1obkx5SHVJOTA3M1kyV085SUZWNWs0MA?oc=5",
+      "date": "2026-06-29 18:00",
+      "summary": "AI agents are not your “coworkers”  MIT Technology Review..."
+    },
+    {
       "title": "Agent confidence on the technical frontier - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb3JQLUVQRjRJU25WMmYyX1FMaHdCRmt3ZWtacE1IWm5yWUUxaHBKdmQ5cDZnMUlyTHBUVHJFck9DUVI2VHV4bTByeGJ5ZGZsa2lXYUpjOEVPMmdJeV9JZlgzckRGSy1yb2hlLUZUbUpLdE92SkNSSUF4RC1YNGNULU9Gd3RacGc0V2twcW1qWV9DOHZERWZTMWdzWdIBoAFBVV95cUxNaWpBd0IyS2RlblVyTUtRUWtvblFpSmxVTkg0eTVGcDd6ZkNwejcyTndPTHBXdXNRTVEyUXlCRElZSG1ERXFocFRyNXNJYlZuV05sYzRuaGRwam9fQVZjU1hUU2M0OF9wZUV2WDFqeWhnT1ZlR1F4QW9Ob08tMzNCUkYwV2p1eUZBc2JCSTduUXh4QllVVG1VNUYtUFZrdXE3?oc=5",
       "date": "2026-06-29 14:44",
@@ -215,52 +221,52 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVnNmSkdWYzVuZWhEVmJJMlAwZWxGaDhTNFZZOGtkZ3lJYmZkSEpZSEltcFVrdmRVejJVc19faHhFaWZHdkdKdWFFenNLS214SVkzcDRZM0hiRWY3dVBEN0RaaUN6aUtFQ0VYRTVVZ2tjSlMxbUljcEVvX0dibTV4REpR0gGHAUFVX3lxTFB2cWVrRHNDN2NvMy16aU9ORTFWalltN2FUa0FTWkFXa2ViNzZXS1pDUHdSb3UzMnJzMkk5aVlvZy05WkZIa1ladHZEWVM0TV91bnZlSjJsR2dIUUhXQzRxYVlpN2RCMWpZNUVIQmVrSjN1Tzh1RExaWVk0UnN4MG5KMGlUbGQybw?oc=5",
       "date": "2026-06-25 10:00",
       "summary": "IBM has unveiled chip technology that could help extend Moore’s Law another decade  MIT Technology Review..."
-    },
-    {
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNei1mNEZlSWxMNkhoZzFhQUdPbHlaRjZDNDhTQUNJTEVHaS14UEVZOF9TZ2JESmtuVWZybDRMai1yczhtWkNLRUNUWVFkaHZhOE84VkJSOWU1TWh1RDZodEdCLW5rZEh1MWNJUXJ0XzNHN1BhMDI2d2liTGZwQzQ4N2tuUmdfLWJMTlNqVDJQQ05Bei1ScEp1ejZFNjRjVEl1VFktaVVMRUU4QXZGNjVHMW9MUEVKajNjTjRzLUtfOHPSAcYBQVVfeXFMT3hkSC1leS13TjYyWTJqMHNFMU9nZnY1MTRIN0pmeHc1RUZKSzNUUnF5bTRfbTBXWldjbi1yX0FXZkJycVd3S011YlBoMURYNEV0ZTJQYm9SYldubFIwYkNqSXBTLXl3X3NCeVV1UWRxMTQ2d1daN21IRmI5aWZlVGlOWTJyVzJpbjhab292a0hIM1BiRW5ibHNLNjZzaTUtQjJkMFJnM0RnVXNsVXhNSUU0cUV4N2pLd29Yd1NCS3U3OF9UY3NR?oc=5",
-      "date": "2026-06-19 07:00",
-      "summary": "A startup claims it broke through a bottleneck that’s holding back LLMs  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Psychologists survey students to determine what they really think about social media",
-      "link": "https://phys.org/news/2026-06-psychologists-survey-students-social-media.html",
-      "date": "2026-06-29 17:20",
-      "summary": "The first findings from a major survey of more than 800 young people ages 11–17 about social media were revealed to local schoolch..."
+      "title": "When mitochondria grow abnormally long, leaked RNA may activate anti-tumor immune responses",
+      "link": "https://phys.org/news/2026-06-mitochondria-abnormally-leaked-rna-anti.html",
+      "date": "2026-06-29 19:50",
+      "summary": "Researchers from the University of Osaka have demonstrated that mitochondrial hyperfusion, when induced by low levels of DRP1 or c..."
     },
     {
-      "title": "Switching spin states in manganese ions with light opens new path for molecular memory",
-      "link": "https://phys.org/news/2026-06-states-manganese-ions-path-molecular.html",
-      "date": "2026-06-29 17:20",
-      "summary": "Researchers at Johannes Gutenberg University Mainz (JGU) have developed a new way to use molecules as tiny data storage devices wi..."
+      "title": "Bridging the gap between people and nature: The need for biocultural approaches to restoration",
+      "link": "https://phys.org/news/2026-06-bridging-gap-people-nature-biocultural.html",
+      "date": "2026-06-29 19:40",
+      "summary": "Worldwide landscapes are changing at an unprecedented pace. Forests are cleared, wetlands drained, and ecosystems degraded by deca..."
     },
     {
-      "title": "Unintended climate trade-off: Clean air policies intensify urban heat island in humid cities, study finds",
-      "link": "https://phys.org/news/2026-06-unintended-climate-air-policies-urban.html",
-      "date": "2026-06-29 17:20",
-      "summary": "Researchers at the University of Hong Kong (HKU) have uncovered a critical, underrecognized trade-off in global environmental poli..."
+      "title": "Disabling SagA enzyme in VREfm infections makes drug-resistant bacteria vulnerable to vancomycin",
+      "link": "https://phys.org/news/2026-06-disabling-saga-enzyme-vrefm-infections.html",
+      "date": "2026-06-29 19:40",
+      "summary": "Antibiotic resistance is one of the most urgent threats to global health, linked to an estimated 4.7 million deaths worldwide in 2..."
     },
     {
-      "title": "Uncovering the trigger behind slow earthquakes",
-      "link": "https://phys.org/news/2026-06-uncovering-trigger-earthquakes.html",
-      "date": "2026-06-29 17:00",
-      "summary": "New research led by the University of New England's Dr. Timothy Chapman has uncovered the trigger behind slow earthquakes, providi..."
+      "title": "Analyzing avalanches on asteroid Vesta offers new method for understanding regolith processes",
+      "link": "https://phys.org/news/2026-06-avalanches-asteroid-vesta-method-regolith.html",
+      "date": "2026-06-29 19:40",
+      "summary": "A study conducted at the Institut de Physique du Globe de Paris uses images from NASA's Dawn mission and a Bayesian inversion of t..."
     },
     {
-      "title": "Solar storms leave their mark on cosmic rays that reach Earth",
-      "link": "https://phys.org/news/2026-06-solar-storms-cosmic-rays-earth.html",
-      "date": "2026-06-29 17:00",
-      "summary": "A new study has revealed an unexpected link between solar storms and the flux of high-energy cosmic rays arriving at Earth. The fi..."
+      "title": "New superconductors identified, unlocking process that could yield thousands more",
+      "link": "https://phys.org/news/2026-06-superconductors-yield-thousands.html",
+      "date": "2026-06-29 19:20",
+      "summary": "An international team of quantum researchers has shown how machine learning can be used to filter a practically infinite number of..."
     }
   ],
   "The Guardian Edu": [
     {
-      "title": "White working-class children failed by England’s school system, inquiry finds",
+      "title": "High-performing schools in England ‘should be encouraged to admit more white working-class pupils’",
       "link": "https://www.theguardian.com/education/2026/jun/29/white-working-class-children-failed-by-england-school-system-inquiry-finds",
-      "date": "2026-06-29 08:40",
+      "date": "2026-06-29 18:43",
       "summary": "Report says once-in-a-generation changes needed to tackle why such children are lowest-performing large demographicHigh-performing..."
+    },
+    {
+      "title": "Andy Burnham confirms he will set up ‘No 10 North’ in Manchester in major policy speech – as it happened",
+      "link": "https://www.theguardian.com/politics/live/2026/jun/29/andy-burnham-devolution-speech-keir-starmer-labour-latest-news-updates",
+      "date": "2026-06-29 16:23",
+      "summary": "Makerfield MP and hopeful prime minister says he will ‘bring about biggest rebalancing of power the country has ever seen’Andy Bur..."
     },
     {
       "title": "David Sedaris on his Duolingo obsession: ‘“Today is the last day,” I told myself – but I was powerless to stop’",
@@ -279,12 +285,6 @@
       "link": "https://www.theguardian.com/education/2026/jun/27/uk-university-students-forced-to-live-at-home",
       "date": "2026-06-27 12:00",
       "summary": "Experts say students from poorer backgrounds increasingly having to limit their options because of money worriesMost days, Mariam ..."
-    },
-    {
-      "title": "Dave Eggers: ‘Once you have a machine think and write for you, you’re cooked as a species’",
-      "link": "https://www.theguardian.com/books/2026/jun/27/dave-eggers-once-you-have-a-machine-think-and-write-for-you-youre-cooked-as-a-species",
-      "date": "2026-06-27 08:00",
-      "summary": "As his new novel is published, the US author talks about nurturing the next generation of creatives, debating Sam Altman – and why..."
     }
   ],
   "SCMP Hong Kong": [
