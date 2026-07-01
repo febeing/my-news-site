@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT in the media: Innovating and educating for the next 250 years of America",
+      "link": "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america",
+      "date": "2026-07-01 20:30",
+      "summary": "During a \"Washington Post Live\" panel discussion with ASU President Michael Crow, President Sally Kornbluth explored how universit..."
+    },
+    {
       "title": "Boleslaw Wyslouch steps down as director of Laboratory for Nuclear Science",
       "link": "https://news.mit.edu/2026/boleslaw-wyslouch-steps-down-director-laboratory-nuclear-science-0701",
       "date": "2026-07-01 18:30",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/brain-language-network-more-extensive-than-previously-thought-0701",
       "date": "2026-07-01 04:00",
       "summary": "A new study reveals that parts of the brain located far from the canonical language-processing centers are also involved in langua..."
-    },
-    {
-      "title": "MIT student teams win top honors in NASA competition",
-      "link": "https://news.mit.edu/2026/interdisciplinary-mit-teams-win-top-honors-nasa-competition-0630",
-      "date": "2026-06-30 17:30",
-      "summary": "Three MIT teams took five top awards in the 2026 NASA RASC-AL Competition for designing critical elements for the moon base and fu..."
     }
   ],
   "Harvard Gazette": [
@@ -65,10 +65,22 @@
   ],
   "Stanford News": [
     {
-      "title": "AI designs the ideal burger for taste, health, and planet - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaW9vclBWVVN3RlVFSmpWVV9Da0lWcUpjVVZWbTBrWEtHaVNEVXpuLXNwdTRMMFZQbDNacHJrTHFVaTB6WDdiOUNreGdLWnVxMDdDLUZzQWJHak5GamJES2pSc3JRRXk4cEdaS1JNRzY0WUV1bkxXYzdLZmREYkkwLXp1aU9FRzhvYWV2SEp4RlVrSDA?oc=5",
-      "date": "2026-06-26 09:18",
-      "summary": "AI designs the ideal burger for taste, health, and planet  Stanford Report..."
+      "title": "Stanford: Reported sexual assault of jogger in March did not happen - Palo Alto Online",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORk1XeVR0OUFSQ3Azak01UFhLOUlEeThOWVBISW5mMU1JZWo3NUUxX2xZZUdJMlFueTlTaExhT0lRVi1MLTBwa2JXZGl6d2lBTGVTTFI2Tk1MRlNQcTk1N1BUbDEydFJSb1FVUWNRazYzT05JaHF1NzZpZkpFeE9DLUhUN2NUSlhBaWpGQm14eER3OEdfcUlGWDNjMDZXMTBSTVRBWnJkbm5CWDlKUWdDaHJKY3BoMDQ?oc=5",
+      "date": "2026-06-30 20:11",
+      "summary": "Stanford: Reported sexual assault of jogger in March did not happen  Palo Alto Online..."
+    },
+    {
+      "title": "Automaker strikes deal for former Broadcom campus as it chases Silicon Valley talent - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd2wxcWI1dlRpQVpJUmNmOW9UaUdyZHVMcmZfQm1HYU52NXhBaVR4Y0pyLXdPXzBWNzZiNlF1aWhrMy1QVmVwbkJoNTJiUWkxamlqUXRPaFNtdzUxQ2dfdHFiU1ktUEpHLXBndE5SQklsaG5HcWtlMXJNWE41aW43LV9BNmZFVF9rU09OZmZDVG4?oc=5",
+      "date": "2026-06-30 22:22",
+      "summary": "Automaker strikes deal for former Broadcom campus as it chases Silicon Valley talent  The Business Journals..."
+    },
+    {
+      "title": "University of Utah graduates have the best odds of launching $1B company, Stanford study finds - KSL News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVJRWGlGd010Wi0yck1vSFBFdFhmdHlLSTExQkNMZnJaUjBFRi1EZXZEUFdodGJ0R2o5Sk54aFRuN0c4bE9iUVYwOHM1cFlSZjBxT2RITzYwMURoQk83MmxNZUgyWFd2QjRmbklmclRkUGFKalVGZ0VsQ2VNVWhtSEJyN290eGxTUnlHUlRFMmlpangzczIzcmY3UTlZU0plcjE2N3pnZDk3emVrZk1mb2phNDJ0X3RpUXNZWGtIbnFjTDAwLUgzVw?oc=5",
+      "date": "2026-07-01 01:00",
+      "summary": "University of Utah graduates have the best odds of launching $1B company, Stanford study finds  KSL News..."
     },
     {
       "title": "Rubin Observatory launches 10-year cosmic survey - Stanford Report",
@@ -77,22 +89,10 @@
       "summary": "Rubin Observatory launches 10-year cosmic survey  Stanford Report..."
     },
     {
-      "title": "Stanford pays students up to $11,000 to work with climate activist groups - Campus Reform",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXVxZ1hfeGJIN1c2N29Ra1h1cHBuS0xJcUtLY2VyVjcyNTRiNEdJcGlFZmFYakhtejRXUl9PVjl1X2tsbTl3OW9PYllnVVlUYUt2X0lLRVM1eUdSM0NMSFhsWl9WQkpDMkZDVEZHZjJSYkR4STNySUlqbzltYWxlcEg4TW90UzJBS1V6NmVwNHJQODF2UnAyRGliSWxtTzBpMWc?oc=5",
-      "date": "2026-07-01 13:04",
-      "summary": "Stanford pays students up to $11,000 to work with climate activist groups  Campus Reform..."
-    },
-    {
-      "title": "Stanford’s Orin Kerr on Court’s Decision Requiring Warrant for Google Location Data - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFhYWWZrY3haVnkwZHJsaHE1M1JJVklUTklSdm5EaDdvcHhubjdhVzhDX0syUE1nNnJ4MHZyS2hMV3FjWkdrbndyWnVGeVlnNEc1bUc3RnYzek5CWDFsQ01EVU5zeGJWNlB2ZDNudHRnTDNRYUc2MXhvQ1RwZHNnbVgyeXdtMUYtTTl3YnFrcjZrT3MwMEVHdlJLcV9KY28taWdiN1RwTVluWGhuaXE4aEtCbFlrQ2hya1E?oc=5",
-      "date": "2026-06-30 22:05",
-      "summary": "Stanford’s Orin Kerr on Court’s Decision Requiring Warrant for Google Location Data  Stanford Law School..."
-    },
-    {
-      "title": "Blog: Stanford says $5,800 for Teachers is more than enough - Redwood City Pulse",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2Vtb0FiZGRXaU05ZGlwSUZCMUx3Nkx4NWV3a2V1dmgzSENCNUR5dzFVNkRTanpWMzdqR3Q1TGRvdUhTR254Z1hHUFdiM1NIMHE3SjZLN3lvaVNWNG9MQjVCMXp3aWp3WkMtWXpDa3BHSGJnanBLUzkwc1p3cjR0d2FiRTF2TmFYUWFpTzRGMlJOLS1KMFVpUTMyV1ZXVkwyMFVBcDNZMy1Zd29wVVBSNld0RFVteU0?oc=5",
-      "date": "2026-07-01 19:35",
-      "summary": "Blog: Stanford says $5,800 for Teachers is more than enough  Redwood City Pulse..."
+      "title": "Vietnamese teen's keyboard obsession led him to Silicon Valley's most selective university - VnExpress International",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVFJoeXJrdmM1WkU3dk5TQXB2QzNlTVRvUkVkOEFVU2JtVkNCczUtUTB0QzVLTGFyeFBKcTdKSlpLMTVlaE9YejFsTDFPemtQOXRUNGw5UGh0VW1Qdk9OTVlReWdlbm91dU92dlNkaWdETERGZVJ6UWlWYUNJSDdGTGZNa05yb1RWc0xDVDQyeEhIQjRBX2VBamZNZnYxVGh6Z0xFSUtibFlCT05PYk9Odks5aThPaFl1OWMzVERNdFAwM0dUeVU0MTItU3ZZdFNFWHFPbmh2bExtTUMySHU2OQ?oc=5",
+      "date": "2026-06-30 09:31",
+      "summary": "Vietnamese teen's keyboard obsession led him to Silicon Valley's most selective university  VnExpress International..."
     }
   ],
   "Nature Careers": [
@@ -161,10 +161,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTFZdGllTTA5UmJ6WmxLYjRDUHJ4RWg1U3dCOEVGTElDMUJlNWQwOTg0VWZxTGUxSWVPaEJqTjJ0TTZsRHk5Ynh4RC15a0ZVQkdxQVVGdTl0UXRZZ3NBLVZWZVQxcWJQSEoyQ01LZ3F3V0FnWFZucTNibm9nTm9DZlVfNzAxaW14LXFYQXRxdmxFMXZBeDF0NEo1dnN0S2tFdTlpNVF3bjNoRVY2WjE2SkFBNXhzWkVHOFRFOVk3Q2ZZakk?oc=5",
-      "date": "2026-07-01 15:25",
-      "summary": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports  Reuters..."
+      "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzlYcjZBRTVTUHhqcGM3ZXZwVS1XWktHaWVmckFuZjg1bzZPNnZqWDJxUzktV2c4TDA5VHY4ajIxbjVrb21MYnRiM0Q3WDRmMUZZQWxpWlZzZGh4QlVsWF82SGlYZ3lSZVNab056ZWdhTWphSnhXY2lZZHUxb19oWF9udWpTQnNGWkFVVFo0Y0VPckVYTkU5VmozMHA2dE9OanE3SER1cFVzN0U4WkE?oc=5",
+      "date": "2026-07-01 13:10",
+      "summary": "Unchecked AI progress may pose catastrophic risks, UN panel warns  Reuters..."
     },
     {
       "title": "UN report sees enormous potential benefits and big risks from AI - Reuters",
@@ -173,36 +173,36 @@
       "summary": "UN report sees enormous potential benefits and big risks from AI  Reuters..."
     },
     {
+      "title": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTFZdGllTTA5UmJ6WmxLYjRDUHJ4RWg1U3dCOEVGTElDMUJlNWQwOTg0VWZxTGUxSWVPaEJqTjJ0TTZsRHk5Ynh4RC15a0ZVQkdxQVVGdTl0UXRZZ3NBLVZWZVQxcWJQSEoyQ01LZ3F3V0FnWFZucTNibm9nTm9DZlVfNzAxaW14LXFYQXRxdmxFMXZBeDF0NEo1dnN0S2tFdTlpNVF3bjNoRVY2WjE2SkFBNXhzWkVHOFRFOVk3Q2ZZakk?oc=5",
+      "date": "2026-07-01 15:25",
+      "summary": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports  Reuters..."
+    },
+    {
       "title": "Musk denies WSJ report that SpaceX showed AI handset prototype before IPO - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFJZTzFRUHJxMVVWc0FKU3Vhb29hWFVDQTRZdzhMaE1BYTVWbHVHUWZtNTY3VnBER0pBbUJOUEEtSkt0NnRoRDlNVldoTm50T3NiTEVNY09GcWZaOVJTeWhTUWpwLXFqLU1FRDlkRnFvdGI3N1VqMGIxX1hFREF1RXoyd2ZKYVZKbmhDRFR4N29EeVI3T2QxUEZxcEloWk1fQW5ZNW52WFJvQnE5MUdGMGtEVE5lZGlCemcyNmVGTnQ1clhZRkp4QWg5aUM?oc=5",
       "date": "2026-07-01 19:03",
       "summary": "Musk denies WSJ report that SpaceX showed AI handset prototype before IPO  Reuters..."
     },
     {
-      "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbm9GSWV1TldjRWJGQXBaRHdJUGFKcDNRRENGMnQzVVlrY01COUY2Ymlvam1YQmFfYUFuMmVZd3JTWmZiQWZiMThRem92SVdvaEVNNFRHaG5OWUhoZmhyNW9SSldrN3VBai1kTkp3LXNyd0hXNDI1SFdXSndrM2lEeEhqVEJKajQ0c0RwRmd4U3hiSlF2M0swemJjektVTWRYRVNGa2tUd0hQcFN6UGVOLTZjU1gxbms?oc=5",
-      "date": "2026-07-01 10:25",
-      "summary": "Unchecked AI progress may pose catastrophic risks, UN panel warns By Reuters  Investing.com..."
-    },
-    {
-      "title": "AI hopes and fears dominate global central bank meet - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjRFbGY1bUU1aTR0VC1FWEstalYzVHlDMXkzYXh6OHBVRFU0Zy12LWlkbDFIWl8tTGNtQ3A3UXE1dmRaYV9KRlRoaEJXWWVjelhkM3ZnQXowWkMtanpFcUZjSGZadjRpblIxRHhTSExCOFpFXzZpU003NDNZTHdUZWNUaDlTcF9KVDZDcHotN1ZaWXpkZVRWWXVKaHBFaGNoRzhN?oc=5",
-      "date": "2026-07-01 19:15",
-      "summary": "AI hopes and fears dominate global central bank meet  Reuters..."
+      "title": "Portugal launches first open-source AI model, joining Europe's sovereignty push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTmN2WTU0cnBFTWY2ZDZlR3VfNTM1R3lvMlNUU1ZHODNla21NNHVOUFNjcVlUTnpOMTdKbHk0aUtmd2NoR1o4cjVCLVpyNHFkdDRhYUxVdzNZd0Mxc2Z6SXFlbHVZQjV2MXgwTEgtZmZlaWR0QXEyZWRvYmVuT0pHM3d1STFXSWxLc05zTVg2NGJ3Z3RqWUhmaUVHSjkyelVhaWc2dFNxQ3VSSkJOTWdJc0xRUVRPZngwTnN0ZnZWRndsZDdWWlRYZ1JB?oc=5",
+      "date": "2026-07-01 16:01",
+      "summary": "Portugal launches first open-source AI model, joining Europe's sovereignty push  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNalV5S2F3bmcwX0hLUTJXd0pWSzF4dDRtRl83RFNOSklLcDlPd2FSSjhvS3ZJWTFveTB2LUxOV3JuS0c2djR2SUxvaFl0S1dYemhmU3V5bWJlajFMZHIwZzZaTDZQMklhZGNmT2VOb1FCUVU4SWh4c3piaW16M25EZFFza1V4cDJVdWIxbDd5VmNTdWJxQjBZbXZweHVsSk1uRUxDRFdZeXRZb0xmT2lKV0pldDVmQTJaZ01TWkJtLWdpNUR10gHKAUFVX3lxTFBCMndtcVZnSzhkNXNaODE0MTlRV0c4dVpmRlJfNTJSNHJEX0hWdF85MzU2ZGlQRHF6RE9wWmVDMnh1ZGFuR3NVQ3YxNDJKSncyUFI2LUxkRk9lNzFWM2d0c3BnbklpeVdaZWNDNVpiT2dfTkVyazFWRlJ2UENrMXg3TGhNbHhpVTFkdjVJUTJpSUhBVnAtYUVTaHdaZFFYeWZFNS1CbDNheEhodHljN0lqM0pjU0JXc2JZX3FoOWZoelJHbDBaaWlPcVE?oc=5",
-      "date": "2026-07-01 14:35",
-      "summary": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.  MIT Technology Review..."
-    },
     {
       "title": "AI agents are not your “coworkers” - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUVvV3UtNjdYZHZjVHJvcDhzNFlYN0VOWDE5OXk1Ny1qNEZ6elVCdmNKUHAwRk5CaXFBMUJQV013M3A0UVhWU1A0QmRGOHZQdFVyNnNoYXpWQW1WU3Zwa19tWDNSOVlibjRqRDZWZlVOWGVjM2ltem1OaEdoTGtHckdWb1pacG55NzhraWlR0gGTAUFVX3lxTE54NEtzTndmUGVZcFZUdHBpWHlkcWxqNHpabFFzWmR3aUJWVUtTSDBsekZhbHY2amI3eVZhWEFSVHFWVF9OdElvWGZwZEdKa3JLU1VSclFheGZuZVRfeXJrekhjaDd1YjYtVWdVekhMZXd0OEc5VGZCcDNURS1obkx5SHVJOTA3M1kyV085SUZWNWs0MA?oc=5",
       "date": "2026-06-29 18:00",
       "summary": "AI agents are not your “coworkers”  MIT Technology Review..."
+    },
+    {
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNalV5S2F3bmcwX0hLUTJXd0pWSzF4dDRtRl83RFNOSklLcDlPd2FSSjhvS3ZJWTFveTB2LUxOV3JuS0c2djR2SUxvaFl0S1dYemhmU3V5bWJlajFMZHIwZzZaTDZQMklhZGNmT2VOb1FCUVU4SWh4c3piaW16M25EZFFza1V4cDJVdWIxbDd5VmNTdWJxQjBZbXZweHVsSk1uRUxDRFdZeXRZb0xmT2lKV0pldDVmQTJaZ01TWkJtLWdpNUR10gHKAUFVX3lxTFBCMndtcVZnSzhkNXNaODE0MTlRV0c4dVpmRlJfNTJSNHJEX0hWdF85MzU2ZGlQRHF6RE9wWmVDMnh1ZGFuR3NVQ3YxNDJKSncyUFI2LUxkRk9lNzFWM2d0c3BnbklpeVdaZWNDNVpiT2dfTkVyazFWRlJ2UENrMXg3TGhNbHhpVTFkdjVJUTJpSUhBVnAtYUVTaHdaZFFYeWZFNS1CbDNheEhodHljN0lqM0pjU0JXc2JZX3FoOWZoelJHbDBaaWlPcVE?oc=5",
+      "date": "2026-07-01 14:35",
+      "summary": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.  MIT Technology Review..."
     },
     {
       "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math - MIT Technology Review",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Oppressive heat broils US during World Cup, July Fourth",
-      "link": "https://phys.org/news/2026-07-oppressive-broils-world-cup-july.html",
-      "date": "2026-07-01 19:50",
-      "summary": "Blistering temperatures and humidity gripped swaths of the United States on Wednesday, with the worst yet to come for the densely ..."
+      "title": "Tree size, not age, may speed habitat recovery for endangered Indiana bats",
+      "link": "https://phys.org/news/2026-07-tree-size-age-habitat-recovery.html",
+      "date": "2026-07-01 21:20",
+      "summary": "Bugs run rampant in the summer, and if you have ever suffered a mosquito bite and regretted not putting on bug spray, you should k..."
     },
     {
-      "title": "Baker's yeast shows potential in treatment of persistent fungal infection",
-      "link": "https://phys.org/news/2026-07-baker-yeast-potential-treatment-persistent.html",
-      "date": "2026-07-01 19:40",
-      "summary": "Millions of women worldwide suffer from vaginal yeast infections. These infections are most commonly caused by the fungus Candida ..."
+      "title": "Nautilus array to track missing exoplanet atmospheres",
+      "link": "https://phys.org/news/2026-07-nautilus-array-track-exoplanet-atmospheres.html",
+      "date": "2026-07-01 21:20",
+      "summary": "Exoplanet atmospheres have become prime targets for astrobiologists in the search for life beyond Earth. This is because exoplanet..."
     },
     {
-      "title": "How mating competition, age and sex shape immune systems in wild bats",
-      "link": "https://phys.org/news/2026-07-competition-age-sex-immune-wild.html",
-      "date": "2026-07-01 19:40",
-      "summary": "A new study of wild bats reveals that an animal's immune system is shaped by more than its need to fight infections. Researchers f..."
+      "title": "Why Facebook, video calls and artificial intelligence matter for age-friendly communities",
+      "link": "https://phys.org/news/2026-07-facebook-video-artificial-intelligence-age.html",
+      "date": "2026-07-01 21:00",
+      "summary": "Contrary to common stereotypes, seniors' digital savvy is surging. New research from Rutgers University-New Brunswick suggests one..."
     },
     {
-      "title": "TESS just found a planet in a new way—and more may be hiding in its eight years of data",
-      "link": "https://phys.org/news/2026-07-tess-planet-years.html",
-      "date": "2026-07-01 19:21",
-      "summary": "For the first time, NASA's TESS (Transiting Exoplanet Survey Satellite) mission has identified a planet orbiting a distant star th..."
+      "title": "Superworms could be the future of skeleton cleaning",
+      "link": "https://phys.org/news/2026-07-superworms-future-skeleton.html",
+      "date": "2026-07-01 21:00",
+      "summary": "Superworms, a mealworm-like form of beetle larva commonly used as pet food, are efficient cleaners of skeletons, according to a st..."
     },
     {
-      "title": "When parasites stop having sex, they may become less picky about their hosts",
-      "link": "https://phys.org/news/2026-07-parasites-sex-picky-hosts.html",
-      "date": "2026-07-01 19:20",
-      "summary": "A new evolutionary theory suggests that some asexual parasites may temporarily be able to infect a wider range of hosts as harmful..."
+      "title": "Acceptor molecule upconverts low-energy green light to high-energy purple with high efficiency",
+      "link": "https://phys.org/news/2026-07-acceptor-molecule-upconverts-energy-green.html",
+      "date": "2026-07-01 20:40",
+      "summary": "Solar cells and photocatalysts can be surprisingly inefficient. Despite light consisting of many wavelengths, the range that even ..."
     }
   ],
   "The Guardian Edu": [
