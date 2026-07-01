@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
-      "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
-    },
-    {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
       "date": "2026-03-26 07:00",
       "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+    },
+    {
+      "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -97,34 +97,34 @@
   ],
   "Nature Careers": [
     {
-      "title": "Scientists should recognize their own political biases to build public trust",
-      "link": "https://www.nature.com/articles/d41586-026-01975-x",
+      "title": "Togetherness: How co-operation built the world",
+      "link": "https://www.nature.com/articles/d41586-026-02067-6",
       "date": "2026-07-01 00:00",
-      "summary": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01975-xPublic trust in science can’t be sustained by the support of..."
+      "summary": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-02067-6Science journalist Rowan Hooper joins us to talk about symbi..."
     },
     {
-      "title": "How FAIR data are helping to build trust in science",
-      "link": "https://www.nature.com/articles/d41586-026-01982-y",
+      "title": "Backreaction of stimulated Hawking radiation in an optical analogue",
+      "link": "https://www.nature.com/articles/s41586-026-10720-3",
       "date": "2026-07-01 00:00",
-      "summary": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01982-yThe FAIR guidelines laid a solid foundation for ensuring dat..."
+      "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10720-3By using a fibre-optical analogue of the physics of black ho..."
     },
     {
-      "title": "Why paying peer reviewers works, according to a journal’s editor-in-chief",
-      "link": "https://www.nature.com/articles/d41586-026-01973-z",
+      "title": "Harmonizing standards and resources for the medical genome",
+      "link": "https://www.nature.com/articles/s41586-026-10621-5",
       "date": "2026-07-01 00:00",
-      "summary": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01973-zA biology journal which paid peer reviewers found that the a..."
+      "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10621-5This Perspective examines the challenges and opportunities o..."
     },
     {
-      "title": "The complex truth about trust in science",
-      "link": "https://www.nature.com/articles/d41586-026-01974-y",
+      "title": "Towards the construction of a virtual yeast",
+      "link": "https://www.nature.com/articles/s41586-026-10574-9",
       "date": "2026-07-01 00:00",
-      "summary": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01974-yConfidence in science has not collapsed, but scientists have..."
+      "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10574-9A virtual yeast, an artificial intelligence-driven agent for..."
     },
     {
-      "title": "Six ways to put the public at the heart of science and policy",
-      "link": "https://www.nature.com/articles/d41586-026-01981-z",
+      "title": "Isomeric multi-hydrogen-bonding enables blue perovskite LEDs",
+      "link": "https://www.nature.com/articles/s41586-026-10723-0",
       "date": "2026-07-01 00:00",
-      "summary": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01981-zTrust in elite institutions is on the wane globally. Buildin..."
+      "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10723-0Hydrogen-bonding networks engineered with isomeric molecules..."
     }
   ],
   "Retraction Watch": [
@@ -161,49 +161,37 @@
   ],
   "Reuters AI": [
     {
-      "title": "Amazon’s AWS commits $1 billion toward new unit for embedded AI engineers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUnN2ZVVJdDBidHNmQklYVW9kTC1ORjFFNVA5UTlRelBoRFRLWWM0ODllUzN0UkJBX2ZpNmRtRl9Gd2FFZ2R0aV94M1FpOVNIaE9PS1pEbm1aZk9xMFVxR00wdUpsLVczVXRhMDc5S1hfdUhBUzNVT1htTTZvTm9EOXNTd2NlNFNzdlZoXzU4ZFpMMzNYWm8wU3VqWXVMMml1Z0pPYzV2eUpPNlBpcURIQjhuYi1Xc2lCRkh1bmxWWXhUQkNuWjBV?oc=5",
-      "date": "2026-06-30 15:15",
-      "summary": "Amazon’s AWS commits $1 billion toward new unit for embedded AI engineers  Reuters..."
+      "title": "UN report sees enormous potential benefits and big risks from AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa19UVl81bEhBaEtZaHNxMTVYTkxYZFNNMUxHdjFQTTMxRFdjS1dlbkF5aFM0czVWOGwzTVZkRXBrMU9lejcza2hndjN6ckFNOHZpQ3J4S1pYazhuNC1XVkcteEw4QnVTUGdsTjNmNlduVVRTOEgtTjRSQ0FpT0lGMkNsQWhMSzlIeDRYd2d0bVZpOFRPZTlBamdOcTg1V3l2TU8zTkotV2kyNmdE?oc=5",
+      "date": "2026-07-01 09:03",
+      "summary": "UN report sees enormous potential benefits and big risks from AI  Reuters..."
     },
     {
-      "title": "Startup Oxmiq raises $35 million to build chip architecture to lower cost of AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmhpc3U1Q0JubmtQZ2Y2QnFlRXJHcURLa1lxZXpvRmtfb2xBQUhDWEJfVVV3RWtEZ2xQMnQ4QU5YMnYxaUZXa1RWRXVQSVNUdWVVRXVHUnBZSEdBZEtpakVYUjBpdWo0dldLUTZvdUM3ZWVjSFRERTFKbTRrS0FSZU5WMnE4dUM2Vk5jRDNIMEVXSXhRcEdhaHo3UVNqRTA1N093R1RzRWZGRXYta1VmZWFJWkhRTmlKRFFDdjVuVl9sQQ?oc=5",
-      "date": "2026-07-01 13:25",
-      "summary": "Startup Oxmiq raises $35 million to build chip architecture to lower cost of AI  Reuters..."
+      "title": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTFZdGllTTA5UmJ6WmxLYjRDUHJ4RWg1U3dCOEVGTElDMUJlNWQwOTg0VWZxTGUxSWVPaEJqTjJ0TTZsRHk5Ynh4RC15a0ZVQkdxQVVGdTl0UXRZZ3NBLVZWZVQxcWJQSEoyQ01LZ3F3V0FnWFZucTNibm9nTm9DZlVfNzAxaW14LXFYQXRxdmxFMXZBeDF0NEo1dnN0S2tFdTlpNVF3bjNoRVY2WjE2SkFBNXhzWkVHOFRFOVk3Q2ZZakk?oc=5",
+      "date": "2026-07-01 15:25",
+      "summary": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports  Reuters..."
+    },
+    {
+      "title": "AI hopes and fears dominate global central bank meet - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjRFbGY1bUU1aTR0VC1FWEstalYzVHlDMXkzYXh6OHBVRFU0Zy12LWlkbDFIWl8tTGNtQ3A3UXE1dmRaYV9KRlRoaEJXWWVjelhkM3ZnQXowWkMtanpFcUZjSGZadjRpblIxRHhTSExCOFpFXzZpU003NDNZTHdUZWNUaDlTcF9KVDZDcHotN1ZaWXpkZVRWWXVKaHBFaGNoRzhN?oc=5",
+      "date": "2026-07-01 15:55",
+      "summary": "AI hopes and fears dominate global central bank meet  Reuters..."
+    },
+    {
+      "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns By Reuters - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbm9GSWV1TldjRWJGQXBaRHdJUGFKcDNRRENGMnQzVVlrY01COUY2Ymlvam1YQmFfYUFuMmVZd3JTWmZiQWZiMThRem92SVdvaEVNNFRHaG5OWUhoZmhyNW9SSldrN3VBai1kTkp3LXNyd0hXNDI1SFdXSndrM2lEeEhqVEJKajQ0c0RwRmd4U3hiSlF2M0swemJjektVTWRYRVNGa2tUd0hQcFN6UGVOLTZjU1gxbms?oc=5",
+      "date": "2026-07-01 10:25",
+      "summary": "Unchecked AI progress may pose catastrophic risks, UN panel warns By Reuters  Investing.com..."
     },
     {
       "title": "US removes curbs on Anthropic's latest Fable and Mythos AI models - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDJJRUpoY0J3YUZXZWFpUFF5N2pzUTM3X2pSMzZXdVI3ZEtsTnU1b09yRl9TU1NhMlV2RFF4Q3ZEaUVnQXVYWlpzd0k0OGVjRkgzNlBtVTFab3ZxZWFGWUMtWXFCOEZqODdRNzhhSml1Y0pTZGZVNVJLSFZvSGJ2VDFMZ1RTNm5fTXoxVXpQWWRSR3ptWXVpM2Mzc0l4YW05cl9LRDBPV3kwc1FhdmVKcWJwWHA?oc=5",
       "date": "2026-06-30 23:08",
       "summary": "US removes curbs on Anthropic's latest Fable and Mythos AI models  Reuters..."
-    },
-    {
-      "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzlYcjZBRTVTUHhqcGM3ZXZwVS1XWktHaWVmckFuZjg1bzZPNnZqWDJxUzktV2c4TDA5VHY4ajIxbjVrb21MYnRiM0Q3WDRmMUZZQWxpWlZzZGh4QlVsWF82SGlYZ3lSZVNab056ZWdhTWphSnhXY2lZZHUxb19oWF9udWpTQnNGWkFVVFo0Y0VPckVYTkU5VmozMHA2dE9OanE3SER1cFVzN0U4WkE?oc=5",
-      "date": "2026-07-01 13:10",
-      "summary": "Unchecked AI progress may pose catastrophic risks, UN panel warns  Reuters..."
-    },
-    {
-      "title": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTFZdGllTTA5UmJ6WmxLYjRDUHJ4RWg1U3dCOEVGTElDMUJlNWQwOTg0VWZxTGUxSWVPaEJqTjJ0TTZsRHk5Ynh4RC15a0ZVQkdxQVVGdTl0UXRZZ3NBLVZWZVQxcWJQSEoyQ01LZ3F3V0FnWFZucTNibm9nTm9DZlVfNzAxaW14LXFYQXRxdmxFMXZBeDF0NEo1dnN0S2tFdTlpNVF3bjNoRVY2WjE2SkFBNXhzWkVHOFRFOVk3Q2ZZakk?oc=5",
-      "date": "2026-07-01 14:04",
-      "summary": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "Claude Science is Anthropic’s newest flagship product - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelNhdFZ2aEV4V2V0VndMeXNwT2ROZVg4U1ZWLVBrUnRxeEttR001MWNqZVQ4RHNabkx5MnM1Ylk3bl9XS1Y1QkR4MUNrb3RDVnItMVRhVDNlR3dUcEFPSmFLNXJwWDBBM3J6SHlyaEhSa000dEwxTmhKNkpDMnlWd3hPSFFsU2ZuVHVDdm90bzY1dHhFY2k3SmVSQkZYNXFjY0IwLUNCNFHSAa4BQVVfeXFMUHBTWFJfa3NXSXBmUkhZdWpZYlZBa2w2U1U4enVxOEtaSHoxd0NSZExMSEhUcmhLWGtiVXdYODNmTWwtaVFvVlhiVFdFM3hJbjd0azdWOFNNNFhuMTU0ZURld2R2bXk4MEtBTFJrWlJjR3EzWVJTVDFSaEZiWU8yZTk2cXMtYTVhWS1IRmtYQ0NLQmZqMF9zUFJDcWJuaWQtb3lLT1ZMRW9rSldJTjFB?oc=5",
-      "date": "2026-06-30 21:50",
-      "summary": "Claude Science is Anthropic’s newest flagship product  MIT Technology Review..."
-    },
-    {
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRU9oRTZxbFRIcEhja3QtS0V6Z0pvNGQ4WTdUUTdpX1NvdEZDV1hhdlBsRWNPeVNyM3ZiOFlZb2Z6WnczYzVmNTJqSDM0WFJjS3BmUXpvclVMVE9LUE1sampIYnc0ek1OY2VhMkgxdldmaG5tdzhVSDYxUC1QR2FqaUpSUHRWNFE0UWt6dzI0ZW5SWVhWOUVRRTB2dGpXZml2QzZ1ODc1T1FEYTA2SkNuZUxRdWFfZ9IBuwFBVV95cUxNS2twcGYxQlphNFhVYVFxTFNOSEtwYmZRcGQzZUFjeEJQM2lYQ0ZJOFZfRmVGVWhHOFJPODY3UExzVWh0QU54YXFxbE1OdzhLSWMxaUNaWVY1YWFnT08tLXRlZHIyaGV4eUxoVXFOLXVKQUgxUmJqanMzVFJURkxkczl6WWNtZWIyR2pPNFk0TTJWMEhrbkFjbnNrWUpCR2FPeXdSM0VDQkRmZEFQeklhZ095UTlJb3pMT1hv?oc=5",
-      "date": "2026-07-01 12:10",
-      "summary": "The Download: Anthropic launches Claude Science, and California’s carbon manure math  MIT Technology Review..."
-    },
     {
       "title": "AI agents are not your “coworkers” - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUVvV3UtNjdYZHZjVHJvcDhzNFlYN0VOWDE5OXk1Ny1qNEZ6elVCdmNKUHAwRk5CaXFBMUJQV013M3A0UVhWU1A0QmRGOHZQdFVyNnNoYXpWQW1WU3Zwa19tWDNSOVlibjRqRDZWZlVOWGVjM2ltem1OaEdoTGtHckdWb1pacG55NzhraWlR0gGTAUFVX3lxTE54NEtzTndmUGVZcFZUdHBpWHlkcWxqNHpabFFzWmR3aUJWVUtTSDBsekZhbHY2amI3eVZhWEFSVHFWVF9OdElvWGZwZEdKa3JLU1VSclFheGZuZVRfeXJrekhjaDd1YjYtVWdVekhMZXd0OEc5VGZCcDNURS1obkx5SHVJOTA3M1kyV085SUZWNWs0MA?oc=5",
@@ -217,45 +205,75 @@
       "summary": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.  MIT Technology Review..."
     },
     {
-      "title": "Agent confidence on the technical frontier - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb3JQLUVQRjRJU25WMmYyX1FMaHdCRmt3ZWtacE1IWm5yWUUxaHBKdmQ5cDZnMUlyTHBUVHJFck9DUVI2VHV4bTByeGJ5ZGZsa2lXYUpjOEVPMmdJeV9JZlgzckRGSy1yb2hlLUZUbUpLdE92SkNSSUF4RC1YNGNULU9Gd3RacGc0V2twcW1qWV9DOHZERWZTMWdzWdIBoAFBVV95cUxNaWpBd0IyS2RlblVyTUtRUWtvblFpSmxVTkg0eTVGcDd6ZkNwejcyTndPTHBXdXNRTVEyUXlCRElZSG1ERXFocFRyNXNJYlZuV05sYzRuaGRwam9fQVZjU1hUU2M0OF9wZUV2WDFqeWhnT1ZlR1F4QW9Ob08tMzNCUkYwV2p1eUZBc2JCSTduUXh4QllVVG1VNUYtUFZrdXE3?oc=5",
-      "date": "2026-06-29 14:44",
-      "summary": "Agent confidence on the technical frontier  MIT Technology Review..."
+      "title": "Claude Science is Anthropic’s newest flagship product - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelNhdFZ2aEV4V2V0VndMeXNwT2ROZVg4U1ZWLVBrUnRxeEttR001MWNqZVQ4RHNabkx5MnM1Ylk3bl9XS1Y1QkR4MUNrb3RDVnItMVRhVDNlR3dUcEFPSmFLNXJwWDBBM3J6SHlyaEhSa000dEwxTmhKNkpDMnlWd3hPSFFsU2ZuVHVDdm90bzY1dHhFY2k3SmVSQkZYNXFjY0IwLUNCNFHSAa4BQVVfeXFMUHBTWFJfa3NXSXBmUkhZdWpZYlZBa2w2U1U4enVxOEtaSHoxd0NSZExMSEhUcmhLWGtiVXdYODNmTWwtaVFvVlhiVFdFM3hJbjd0azdWOFNNNFhuMTU0ZURld2R2bXk4MEtBTFJrWlJjR3EzWVJTVDFSaEZiWU8yZTk2cXMtYTVhWS1IRmtYQ0NLQmZqMF9zUFJDcWJuaWQtb3lLT1ZMRW9rSldJTjFB?oc=5",
+      "date": "2026-06-30 21:50",
+      "summary": "Claude Science is Anthropic’s newest flagship product  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRU9oRTZxbFRIcEhja3QtS0V6Z0pvNGQ4WTdUUTdpX1NvdEZDV1hhdlBsRWNPeVNyM3ZiOFlZb2Z6WnczYzVmNTJqSDM0WFJjS3BmUXpvclVMVE9LUE1sampIYnc0ek1OY2VhMkgxdldmaG5tdzhVSDYxUC1QR2FqaUpSUHRWNFE0UWt6dzI0ZW5SWVhWOUVRRTB2dGpXZml2QzZ1ODc1T1FEYTA2SkNuZUxRdWFfZ9IBuwFBVV95cUxNS2twcGYxQlphNFhVYVFxTFNOSEtwYmZRcGQzZUFjeEJQM2lYQ0ZJOFZfRmVGVWhHOFJPODY3UExzVWh0QU54YXFxbE1OdzhLSWMxaUNaWVY1YWFnT08tLXRlZHIyaGV4eUxoVXFOLXVKQUgxUmJqanMzVFJURkxkczl6WWNtZWIyR2pPNFk0TTJWMEhrbkFjbnNrWUpCR2FPeXdSM0VDQkRmZEFQeklhZ095UTlJb3pMT1hv?oc=5",
+      "date": "2026-07-01 12:10",
+      "summary": "The Download: Anthropic launches Claude Science, and California’s carbon manure math  MIT Technology Review..."
+    },
+    {
+      "title": "Building tech in the world’s secret R&D hub - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdG5xaHg5bVpNTjdPWnhfR3liMnFKVVk0aGhlSENFc19NeTdnbkZFWGhBakk0blJTYm1iNjhHQnozRGFVTkd1VEFjS0M2ZG83amFrQWhxMF85QTlVUHJOX2RqY2wwQVp0UGlHd3VJNktFS1B2RjJhVFJ6WGZ5enpBVmNPTDhYeWtGNEJRbldJdlBuZjIxNGxaVUZR0gGfAUFVX3lxTFBMMzdYcHloNjJxczlVQ2FjSEdlb042bTVNNGtXMXJOVkZ1ZGZnV3JYamNVQTh4UEMycTRDVVRsVWxJMWY5QlFOcGRjbWswWUVMRXVQWkZPX2k5YURUSThLZTdXNHUzeGVqc3J5WkV2UmdTZXFSdWFZbHBYMjE0eHU4SFJNWHlWTmJmSTVXZnBXaEcxbVVmNnJjay1MLWVVQQ?oc=5",
+      "date": "2026-06-30 10:23",
+      "summary": "Building tech in the world’s secret R&D hub  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "ESA outlines high-tech lander instruments for 2050 Enceladus",
-      "link": "https://phys.org/news/2026-07-esa-outlines-high-tech-lander.html",
-      "date": "2026-07-01 15:20",
-      "summary": "Saturn's moon Enceladus has become a prime solar system target for astrobiologists. This is because the small moon, which is just ..."
+      "title": "Can AI plan for heat emergencies better than simple rules? It depends",
+      "link": "https://phys.org/news/2026-07-ai-emergencies-simple.html",
+      "date": "2026-07-01 17:40",
+      "summary": "The thermometer reads 95°F (35°C) in Brooklyn, and vulnerable individuals need information to take appropriate action. New York Ci..."
     },
     {
-      "title": "Orbit overload could devastate astronomy if 1.7 million proposed satellites brighten night sky",
-      "link": "https://phys.org/news/2026-07-orbit-overload-devastate-astronomy-million.html",
-      "date": "2026-07-01 15:20",
-      "summary": "A new European Southern Observatory (ESO) study has found that current proposals to launch more than 1.7 million satellites into o..."
+      "title": "Meditation and speaking in tongues: The surprising similarities between two spiritual practices",
+      "link": "https://phys.org/news/2026-07-meditation-tongues-similarities-spiritual.html",
+      "date": "2026-07-01 17:40",
+      "summary": "Do the world's religions and contemplative traditions send people to the same place—compassion, bliss, awe, a sense of God, awaren..."
     },
     {
-      "title": "How a giant planet survived its star's death, then migrated inward",
-      "link": "https://phys.org/news/2026-06-giant-planet-survived-star-death.html",
-      "date": "2026-07-01 15:00",
-      "summary": "When astronomers discovered a giant planet orbiting a dead star in 2020, they wondered how it survived its star's violent demise. ..."
+      "title": "Single-atom catalyst turns lignin into valuable chemicals with near-complete conversion",
+      "link": "https://phys.org/news/2026-07-atom-catalyst-lignin-valuable-chemicals.html",
+      "date": "2026-07-01 17:40",
+      "summary": "Researchers at The University of Manchester and Hebei University of Technology have identified how a new class of catalyst can bre..."
     },
     {
-      "title": "Urokodia! 518-million-year-old fossil shows beginning of spider's bite",
-      "link": "https://phys.org/news/2026-07-urokodia-million-year-fossil-spider.html",
-      "date": "2026-07-01 15:00",
-      "summary": "The earliest evidence of spiders' fangs has been identified in a 518-million-year-old fossil by scientists at the University of Le..."
+      "title": "Crystal-design principle reveals how competing molecular forces control structure, color and phase transitions",
+      "link": "https://phys.org/news/2026-07-crystal-principle-reveals-molecular-phase.html",
+      "date": "2026-07-01 17:20",
+      "summary": "Organic molecular crystals can respond to external stimuli such as heat, light, and mechanical force, making them attractive candi..."
     },
     {
-      "title": "Algae may have launched coral reefs by hijacking coral cells, genetic experiments suggest",
-      "link": "https://phys.org/news/2026-07-algae-coral-reefs-hijacking-cells.html",
-      "date": "2026-07-01 15:00",
-      "summary": "The reefs scattered throughout the tropics arose only after algae took up full-time residence in coral cells, supplying corals wit..."
+      "title": "Venezuela earthquakes highlight the limits of early warning systems",
+      "link": "https://phys.org/news/2026-07-venezuela-earthquakes-highlight-limits-early.html",
+      "date": "2026-07-01 17:20",
+      "summary": "Earthquakes still arrive without warning. That is the hard truth scientists have been forced to accept, despite a decade of advanc..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Badenoch urges Burnham to condemn defence investment plan as No 10 says funding is ‘credible’ – as it happened",
+      "link": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
+      "date": "2026-07-01 17:00",
+      "summary": "Minister and MPs have raised concerns that his ‘poisoned chalice’ plan will take cash from much-needed road projectsMinister and M..."
+    },
+    {
+      "title": "Teachers in England get two-year 6.6% pay rise but schools to foot part of bill",
+      "link": "https://www.theguardian.com/education/2026/jul/01/teachers-pay-rise-schools-england",
+      "date": "2026-07-01 16:29",
+      "summary": "Unions pleased with rise above forecast inflation but concerned nearly a third of it will come from school budgetsUK politics live..."
+    },
+    {
+      "title": "Fury over Exeter University plan to scrap dozens of humanities posts",
+      "link": "https://www.theguardian.com/education/2026/jul/01/fury-exeter-university-plan-scrap-dozens-humanities-posts",
+      "date": "2026-07-01 16:17",
+      "summary": "Rowan Williams and Mark Kermode join campaign against proposed cuts for arts and social sciencesLeading writers, broadcasters, aca..."
+    },
     {
       "title": "Academy school leaders in England face pay cap to curb ‘banker-style’ salaries",
       "link": "https://www.theguardian.com/education/2026/jul/01/academy-school-leaders-in-england-face-pay-cap-to-curb-banker-style-salaries",
@@ -267,24 +285,6 @@
       "link": "https://www.theguardian.com/politics/2026/jun/30/school-smartphone-ban-seen-as-punitive-by-young-people-report",
       "date": "2026-06-30 05:00",
       "summary": "Outright bans may have unintended negative consequences for young people, University College London report warnsSchool smartphone ..."
-    },
-    {
-      "title": "Where have all the first jobs gone? – podcast",
-      "link": "https://www.theguardian.com/news/audio/2026/jun/30/where-have-all-the-starter-jobs-gone-podcast",
-      "date": "2026-06-30 02:00",
-      "summary": "The number of young people in the UK not in work, education or training is spiralling. How much damage could it do to their long-t..."
-    },
-    {
-      "title": "High-performing schools in England ‘should be encouraged to admit more white working-class pupils’",
-      "link": "https://www.theguardian.com/education/2026/jun/29/white-working-class-children-failed-by-england-school-system-inquiry-finds",
-      "date": "2026-06-29 18:43",
-      "summary": "Report says once-in-a-generation changes needed to tackle why such children are lowest-performing large demographicHigh-performing..."
-    },
-    {
-      "title": "Andy Burnham confirms he will set up ‘No 10 North’ in Manchester in major policy speech – as it happened",
-      "link": "https://www.theguardian.com/politics/live/2026/jun/29/andy-burnham-devolution-speech-keir-starmer-labour-latest-news-updates",
-      "date": "2026-06-29 16:23",
-      "summary": "Makerfield MP and hopeful prime minister says he will ‘bring about biggest rebalancing of power the country has ever seen’Andy Bur..."
     }
   ],
   "SCMP Hong Kong": [
@@ -321,6 +321,12 @@
   ],
   "New Scientist": [
     {
+      "title": "The weirdness of neutrinos could completely rewrite particle physics",
+      "link": "https://www.newscientist.com/article/2532479-the-weirdness-of-neutrinos-could-completely-rewrite-particle-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-01 15:00",
+      "summary": "A philosopher has put forward an argument for rethinking how particles are defined within the standard model of particle physics..."
+    },
+    {
       "title": "A type of fibre that stimulates GLP-1 release approved for use in food",
       "link": "https://www.newscientist.com/article/2532336-a-type-of-fibre-that-stimulates-glp-1-release-approved-for-use-in-food/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-07-01 14:00",
@@ -343,12 +349,6 @@
       "link": "https://www.newscientist.com/article/2532167-the-most-detailed-survey-of-the-universe-ever-conducted-starts-now/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-30 16:00",
       "summary": "The Vera C. Rubin Observatory in Chile is beginning its extraordinary survey of the southern sky, which will use the largest camer..."
-    },
-    {
-      "title": "Babies are born with the neural foundations for maths",
-      "link": "https://www.newscientist.com/article/2532352-babies-are-born-with-the-neural-foundations-for-maths/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-30 15:00",
-      "summary": "Brain recordings from newborns reveal the first neural evidence that humans are born with an innate sense of numbers..."
     }
   ]
 }
