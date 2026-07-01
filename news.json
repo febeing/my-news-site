@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Boleslaw Wyslouch steps down as director of Laboratory for Nuclear Science",
+      "link": "https://news.mit.edu/2026/boleslaw-wyslouch-steps-down-director-laboratory-nuclear-science-0701",
+      "date": "2026-07-01 18:30",
+      "summary": "Wyslouch remains the director of the Bates Research and Engineering Center and will continue research on heavy ion collisions...."
+    },
+    {
       "title": "A portable ultrasound system could make reliable breast imaging more accessible",
       "link": "https://news.mit.edu/2026/portable-ultrasound-system-could-make-reliable-breast-imaging-more-accessible-0701",
       "date": "2026-07-01 09:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/interdisciplinary-mit-teams-win-top-honors-nasa-competition-0630",
       "date": "2026-06-30 17:30",
       "summary": "Three MIT teams took five top awards in the 2026 NASA RASC-AL Competition for designing critical elements for the moon base and fu..."
-    },
-    {
-      "title": "MIT researchers advance toward greater bandwidth, more energy-efficient communications",
-      "link": "https://news.mit.edu/2026/mit-researchers-advance-toward-greater-bandwidth-more-energy-efficient-0630",
-      "date": "2026-06-30 17:00",
-      "summary": "The FUTUR-IC research program integrates electronics and photonics in microchip systems...."
     }
   ],
   "Harvard Gazette": [
@@ -71,12 +71,6 @@
       "summary": "AI designs the ideal burger for taste, health, and planet  Stanford Report..."
     },
     {
-      "title": "Stanford’s Orin Kerr on Court’s Decision Requiring Warrant for Google Location Data - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFhYWWZrY3haVnkwZHJsaHE1M1JJVklUTklSdm5EaDdvcHhubjdhVzhDX0syUE1nNnJ4MHZyS2hMV3FjWkdrbndyWnVGeVlnNEc1bUc3RnYzek5CWDFsQ01EVU5zeGJWNlB2ZDNudHRnTDNRYUc2MXhvQ1RwZHNnbVgyeXdtMUYtTTl3YnFrcjZrT3MwMEVHdlJLcV9KY28taWdiN1RwTVluWGhuaXE4aEtCbFlrQ2hya1E?oc=5",
-      "date": "2026-06-30 22:05",
-      "summary": "Stanford’s Orin Kerr on Court’s Decision Requiring Warrant for Google Location Data  Stanford Law School..."
-    },
-    {
       "title": "Rubin Observatory launches 10-year cosmic survey - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSnY2MHRyOVdoUVFIMGVfUEo2LU5zUzRJNy1qSHJQWFozZjNtSGtGZ1NNajVUaXYwRVNWZ1JMem9xb1VicHJjVFNudzk5UHFiYXZtSUZDMnVWMUxXNmhkMm1VXzd1Q0hhUVY5NlRiMFdZNS1ETW8wWXJFQjlZQ1RxcWhFUWVQS1FrczRrcg?oc=5",
       "date": "2026-06-30 15:34",
@@ -89,10 +83,16 @@
       "summary": "Stanford pays students up to $11,000 to work with climate activist groups  Campus Reform..."
     },
     {
-      "title": "Stanford e-Entrepreneurship Japan: A Powerful Platform for the Next Generation of Social Entrepreneurs - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNekdyQmlXU19saW5RRDFrclNvU2EtUHpGSG90dzNOUEpkRm9zNFdLTXVmbXN4VmJPYm0xcnZhdHMzMG11dzZydGxuY0htR1ZESnVpUm1FZHdRQkpURFhEUEh4Y3RBWDRxanNVbjg3YnJlY2ptNDJjeF9SX3NaUXZPY29ObnZtanNvYmxrVDZFaFZwVGVtamFZMVNxRlNUOGd5RldrTFY3b2RmZ0Y3TmdsMEkzYWlvd0pCOVpLc3VaajVQUQ?oc=5",
-      "date": "2026-06-30 12:00",
-      "summary": "Stanford e-Entrepreneurship Japan: A Powerful Platform for the Next Generation of Social Entrepreneurs  Stanford University..."
+      "title": "Stanford’s Orin Kerr on Court’s Decision Requiring Warrant for Google Location Data - Stanford Law School",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFhYWWZrY3haVnkwZHJsaHE1M1JJVklUTklSdm5EaDdvcHhubjdhVzhDX0syUE1nNnJ4MHZyS2hMV3FjWkdrbndyWnVGeVlnNEc1bUc3RnYzek5CWDFsQ01EVU5zeGJWNlB2ZDNudHRnTDNRYUc2MXhvQ1RwZHNnbVgyeXdtMUYtTTl3YnFrcjZrT3MwMEVHdlJLcV9KY28taWdiN1RwTVluWGhuaXE4aEtCbFlrQ2hya1E?oc=5",
+      "date": "2026-06-30 22:05",
+      "summary": "Stanford’s Orin Kerr on Court’s Decision Requiring Warrant for Google Location Data  Stanford Law School..."
+    },
+    {
+      "title": "Blog: Stanford says $5,800 for Teachers is more than enough - Redwood City Pulse",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2Vtb0FiZGRXaU05ZGlwSUZCMUx3Nkx4NWV3a2V1dmgzSENCNUR5dzFVNkRTanpWMzdqR3Q1TGRvdUhTR254Z1hHUFdiM1NIMHE3SjZLN3lvaVNWNG9MQjVCMXp3aWp3WkMtWXpDa3BHSGJnanBLUzkwc1p3cjR0d2FiRTF2TmFYUWFpTzRGMlJOLS1KMFVpUTMyV1ZXVkwyMFVBcDNZMy1Zd29wVVBSNld0RFVteU0?oc=5",
+      "date": "2026-07-01 19:35",
+      "summary": "Blog: Stanford says $5,800 for Teachers is more than enough  Redwood City Pulse..."
     }
   ],
   "Nature Careers": [
@@ -161,22 +161,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "UN report sees enormous potential benefits and big risks from AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa19UVl81bEhBaEtZaHNxMTVYTkxYZFNNMUxHdjFQTTMxRFdjS1dlbkF5aFM0czVWOGwzTVZkRXBrMU9lejcza2hndjN6ckFNOHZpQ3J4S1pYazhuNC1XVkcteEw4QnVTUGdsTjNmNlduVVRTOEgtTjRSQ0FpT0lGMkNsQWhMSzlIeDRYd2d0bVZpOFRPZTlBamdOcTg1V3l2TU8zTkotV2kyNmdE?oc=5",
-      "date": "2026-07-01 09:03",
-      "summary": "UN report sees enormous potential benefits and big risks from AI  Reuters..."
-    },
-    {
       "title": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTFZdGllTTA5UmJ6WmxLYjRDUHJ4RWg1U3dCOEVGTElDMUJlNWQwOTg0VWZxTGUxSWVPaEJqTjJ0TTZsRHk5Ynh4RC15a0ZVQkdxQVVGdTl0UXRZZ3NBLVZWZVQxcWJQSEoyQ01LZ3F3V0FnWFZucTNibm9nTm9DZlVfNzAxaW14LXFYQXRxdmxFMXZBeDF0NEo1dnN0S2tFdTlpNVF3bjNoRVY2WjE2SkFBNXhzWkVHOFRFOVk3Q2ZZakk?oc=5",
       "date": "2026-07-01 15:25",
       "summary": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports  Reuters..."
     },
     {
-      "title": "AI hopes and fears dominate global central bank meet - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjRFbGY1bUU1aTR0VC1FWEstalYzVHlDMXkzYXh6OHBVRFU0Zy12LWlkbDFIWl8tTGNtQ3A3UXE1dmRaYV9KRlRoaEJXWWVjelhkM3ZnQXowWkMtanpFcUZjSGZadjRpblIxRHhTSExCOFpFXzZpU003NDNZTHdUZWNUaDlTcF9KVDZDcHotN1ZaWXpkZVRWWXVKaHBFaGNoRzhN?oc=5",
-      "date": "2026-07-01 15:55",
-      "summary": "AI hopes and fears dominate global central bank meet  Reuters..."
+      "title": "UN report sees enormous potential benefits and big risks from AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa19UVl81bEhBaEtZaHNxMTVYTkxYZFNNMUxHdjFQTTMxRFdjS1dlbkF5aFM0czVWOGwzTVZkRXBrMU9lejcza2hndjN6ckFNOHZpQ3J4S1pYazhuNC1XVkcteEw4QnVTUGdsTjNmNlduVVRTOEgtTjRSQ0FpT0lGMkNsQWhMSzlIeDRYd2d0bVZpOFRPZTlBamdOcTg1V3l2TU8zTkotV2kyNmdE?oc=5",
+      "date": "2026-07-01 17:43",
+      "summary": "UN report sees enormous potential benefits and big risks from AI  Reuters..."
+    },
+    {
+      "title": "Musk denies WSJ report that SpaceX showed AI handset prototype before IPO - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFJZTzFRUHJxMVVWc0FKU3Vhb29hWFVDQTRZdzhMaE1BYTVWbHVHUWZtNTY3VnBER0pBbUJOUEEtSkt0NnRoRDlNVldoTm50T3NiTEVNY09GcWZaOVJTeWhTUWpwLXFqLU1FRDlkRnFvdGI3N1VqMGIxX1hFREF1RXoyd2ZKYVZKbmhDRFR4N29EeVI3T2QxUEZxcEloWk1fQW5ZNW52WFJvQnE5MUdGMGtEVE5lZGlCemcyNmVGTnQ1clhZRkp4QWg5aUM?oc=5",
+      "date": "2026-07-01 19:03",
+      "summary": "Musk denies WSJ report that SpaceX showed AI handset prototype before IPO  Reuters..."
     },
     {
       "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns By Reuters - Investing.com",
@@ -185,19 +185,13 @@
       "summary": "Unchecked AI progress may pose catastrophic risks, UN panel warns By Reuters  Investing.com..."
     },
     {
-      "title": "US removes curbs on Anthropic's latest Fable and Mythos AI models - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDJJRUpoY0J3YUZXZWFpUFF5N2pzUTM3X2pSMzZXdVI3ZEtsTnU1b09yRl9TU1NhMlV2RFF4Q3ZEaUVnQXVYWlpzd0k0OGVjRkgzNlBtVTFab3ZxZWFGWUMtWXFCOEZqODdRNzhhSml1Y0pTZGZVNVJLSFZvSGJ2VDFMZ1RTNm5fTXoxVXpQWWRSR3ptWXVpM2Mzc0l4YW05cl9LRDBPV3kwc1FhdmVKcWJwWHA?oc=5",
-      "date": "2026-06-30 23:08",
-      "summary": "US removes curbs on Anthropic's latest Fable and Mythos AI models  Reuters..."
+      "title": "AI hopes and fears dominate global central bank meet - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjRFbGY1bUU1aTR0VC1FWEstalYzVHlDMXkzYXh6OHBVRFU0Zy12LWlkbDFIWl8tTGNtQ3A3UXE1dmRaYV9KRlRoaEJXWWVjelhkM3ZnQXowWkMtanpFcUZjSGZadjRpblIxRHhTSExCOFpFXzZpU003NDNZTHdUZWNUaDlTcF9KVDZDcHotN1ZaWXpkZVRWWXVKaHBFaGNoRzhN?oc=5",
+      "date": "2026-07-01 19:15",
+      "summary": "AI hopes and fears dominate global central bank meet  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "AI agents are not your “coworkers” - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUVvV3UtNjdYZHZjVHJvcDhzNFlYN0VOWDE5OXk1Ny1qNEZ6elVCdmNKUHAwRk5CaXFBMUJQV013M3A0UVhWU1A0QmRGOHZQdFVyNnNoYXpWQW1WU3Zwa19tWDNSOVlibjRqRDZWZlVOWGVjM2ltem1OaEdoTGtHckdWb1pacG55NzhraWlR0gGTAUFVX3lxTE54NEtzTndmUGVZcFZUdHBpWHlkcWxqNHpabFFzWmR3aUJWVUtTSDBsekZhbHY2amI3eVZhWEFSVHFWVF9OdElvWGZwZEdKa3JLU1VSclFheGZuZVRfeXJrekhjaDd1YjYtVWdVekhMZXd0OEc5VGZCcDNURS1obkx5SHVJOTA3M1kyV085SUZWNWs0MA?oc=5",
-      "date": "2026-06-29 18:00",
-      "summary": "AI agents are not your “coworkers”  MIT Technology Review..."
-    },
     {
       "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out. - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNalV5S2F3bmcwX0hLUTJXd0pWSzF4dDRtRl83RFNOSklLcDlPd2FSSjhvS3ZJWTFveTB2LUxOV3JuS0c2djR2SUxvaFl0S1dYemhmU3V5bWJlajFMZHIwZzZaTDZQMklhZGNmT2VOb1FCUVU4SWh4c3piaW16M25EZFFza1V4cDJVdWIxbDd5VmNTdWJxQjBZbXZweHVsSk1uRUxDRFdZeXRZb0xmT2lKV0pldDVmQTJaZ01TWkJtLWdpNUR10gHKAUFVX3lxTFBCMndtcVZnSzhkNXNaODE0MTlRV0c4dVpmRlJfNTJSNHJEX0hWdF85MzU2ZGlQRHF6RE9wWmVDMnh1ZGFuR3NVQ3YxNDJKSncyUFI2LUxkRk9lNzFWM2d0c3BnbklpeVdaZWNDNVpiT2dfTkVyazFWRlJ2UENrMXg3TGhNbHhpVTFkdjVJUTJpSUhBVnAtYUVTaHdaZFFYeWZFNS1CbDNheEhodHljN0lqM0pjU0JXc2JZX3FoOWZoelJHbDBaaWlPcVE?oc=5",
@@ -205,16 +199,22 @@
       "summary": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.  MIT Technology Review..."
     },
     {
-      "title": "Claude Science is Anthropic’s newest flagship product - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelNhdFZ2aEV4V2V0VndMeXNwT2ROZVg4U1ZWLVBrUnRxeEttR001MWNqZVQ4RHNabkx5MnM1Ylk3bl9XS1Y1QkR4MUNrb3RDVnItMVRhVDNlR3dUcEFPSmFLNXJwWDBBM3J6SHlyaEhSa000dEwxTmhKNkpDMnlWd3hPSFFsU2ZuVHVDdm90bzY1dHhFY2k3SmVSQkZYNXFjY0IwLUNCNFHSAa4BQVVfeXFMUHBTWFJfa3NXSXBmUkhZdWpZYlZBa2w2U1U4enVxOEtaSHoxd0NSZExMSEhUcmhLWGtiVXdYODNmTWwtaVFvVlhiVFdFM3hJbjd0azdWOFNNNFhuMTU0ZURld2R2bXk4MEtBTFJrWlJjR3EzWVJTVDFSaEZiWU8yZTk2cXMtYTVhWS1IRmtYQ0NLQmZqMF9zUFJDcWJuaWQtb3lLT1ZMRW9rSldJTjFB?oc=5",
-      "date": "2026-06-30 21:50",
-      "summary": "Claude Science is Anthropic’s newest flagship product  MIT Technology Review..."
+      "title": "AI agents are not your “coworkers” - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUVvV3UtNjdYZHZjVHJvcDhzNFlYN0VOWDE5OXk1Ny1qNEZ6elVCdmNKUHAwRk5CaXFBMUJQV013M3A0UVhWU1A0QmRGOHZQdFVyNnNoYXpWQW1WU3Zwa19tWDNSOVlibjRqRDZWZlVOWGVjM2ltem1OaEdoTGtHckdWb1pacG55NzhraWlR0gGTAUFVX3lxTE54NEtzTndmUGVZcFZUdHBpWHlkcWxqNHpabFFzWmR3aUJWVUtTSDBsekZhbHY2amI3eVZhWEFSVHFWVF9OdElvWGZwZEdKa3JLU1VSclFheGZuZVRfeXJrekhjaDd1YjYtVWdVekhMZXd0OEc5VGZCcDNURS1obkx5SHVJOTA3M1kyV085SUZWNWs0MA?oc=5",
+      "date": "2026-06-29 18:00",
+      "summary": "AI agents are not your “coworkers”  MIT Technology Review..."
     },
     {
       "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRU9oRTZxbFRIcEhja3QtS0V6Z0pvNGQ4WTdUUTdpX1NvdEZDV1hhdlBsRWNPeVNyM3ZiOFlZb2Z6WnczYzVmNTJqSDM0WFJjS3BmUXpvclVMVE9LUE1sampIYnc0ek1OY2VhMkgxdldmaG5tdzhVSDYxUC1QR2FqaUpSUHRWNFE0UWt6dzI0ZW5SWVhWOUVRRTB2dGpXZml2QzZ1ODc1T1FEYTA2SkNuZUxRdWFfZ9IBuwFBVV95cUxNS2twcGYxQlphNFhVYVFxTFNOSEtwYmZRcGQzZUFjeEJQM2lYQ0ZJOFZfRmVGVWhHOFJPODY3UExzVWh0QU54YXFxbE1OdzhLSWMxaUNaWVY1YWFnT08tLXRlZHIyaGV4eUxoVXFOLXVKQUgxUmJqanMzVFJURkxkczl6WWNtZWIyR2pPNFk0TTJWMEhrbkFjbnNrWUpCR2FPeXdSM0VDQkRmZEFQeklhZ095UTlJb3pMT1hv?oc=5",
       "date": "2026-07-01 12:10",
       "summary": "The Download: Anthropic launches Claude Science, and California’s carbon manure math  MIT Technology Review..."
+    },
+    {
+      "title": "Claude Science is Anthropic’s newest flagship product - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelNhdFZ2aEV4V2V0VndMeXNwT2ROZVg4U1ZWLVBrUnRxeEttR001MWNqZVQ4RHNabkx5MnM1Ylk3bl9XS1Y1QkR4MUNrb3RDVnItMVRhVDNlR3dUcEFPSmFLNXJwWDBBM3J6SHlyaEhSa000dEwxTmhKNkpDMnlWd3hPSFFsU2ZuVHVDdm90bzY1dHhFY2k3SmVSQkZYNXFjY0IwLUNCNFHSAa4BQVVfeXFMUHBTWFJfa3NXSXBmUkhZdWpZYlZBa2w2U1U4enVxOEtaSHoxd0NSZExMSEhUcmhLWGtiVXdYODNmTWwtaVFvVlhiVFdFM3hJbjd0azdWOFNNNFhuMTU0ZURld2R2bXk4MEtBTFJrWlJjR3EzWVJTVDFSaEZiWU8yZTk2cXMtYTVhWS1IRmtYQ0NLQmZqMF9zUFJDcWJuaWQtb3lLT1ZMRW9rSldJTjFB?oc=5",
+      "date": "2026-06-30 21:50",
+      "summary": "Claude Science is Anthropic’s newest flagship product  MIT Technology Review..."
     },
     {
       "title": "Building tech in the world’s secret R&D hub - MIT Technology Review",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Can AI plan for heat emergencies better than simple rules? It depends",
-      "link": "https://phys.org/news/2026-07-ai-emergencies-simple.html",
-      "date": "2026-07-01 17:40",
-      "summary": "The thermometer reads 95°F (35°C) in Brooklyn, and vulnerable individuals need information to take appropriate action. New York Ci..."
+      "title": "Oppressive heat broils US during World Cup, July Fourth",
+      "link": "https://phys.org/news/2026-07-oppressive-broils-world-cup-july.html",
+      "date": "2026-07-01 19:50",
+      "summary": "Blistering temperatures and humidity gripped swaths of the United States on Wednesday, with the worst yet to come for the densely ..."
     },
     {
-      "title": "Meditation and speaking in tongues: The surprising similarities between two spiritual practices",
-      "link": "https://phys.org/news/2026-07-meditation-tongues-similarities-spiritual.html",
-      "date": "2026-07-01 17:40",
-      "summary": "Do the world's religions and contemplative traditions send people to the same place—compassion, bliss, awe, a sense of God, awaren..."
+      "title": "Baker's yeast shows potential in treatment of persistent fungal infection",
+      "link": "https://phys.org/news/2026-07-baker-yeast-potential-treatment-persistent.html",
+      "date": "2026-07-01 19:40",
+      "summary": "Millions of women worldwide suffer from vaginal yeast infections. These infections are most commonly caused by the fungus Candida ..."
     },
     {
-      "title": "Single-atom catalyst turns lignin into valuable chemicals with near-complete conversion",
-      "link": "https://phys.org/news/2026-07-atom-catalyst-lignin-valuable-chemicals.html",
-      "date": "2026-07-01 17:40",
-      "summary": "Researchers at The University of Manchester and Hebei University of Technology have identified how a new class of catalyst can bre..."
+      "title": "How mating competition, age and sex shape immune systems in wild bats",
+      "link": "https://phys.org/news/2026-07-competition-age-sex-immune-wild.html",
+      "date": "2026-07-01 19:40",
+      "summary": "A new study of wild bats reveals that an animal's immune system is shaped by more than its need to fight infections. Researchers f..."
     },
     {
-      "title": "Crystal-design principle reveals how competing molecular forces control structure, color and phase transitions",
-      "link": "https://phys.org/news/2026-07-crystal-principle-reveals-molecular-phase.html",
-      "date": "2026-07-01 17:20",
-      "summary": "Organic molecular crystals can respond to external stimuli such as heat, light, and mechanical force, making them attractive candi..."
+      "title": "TESS just found a planet in a new way—and more may be hiding in its eight years of data",
+      "link": "https://phys.org/news/2026-07-tess-planet-years.html",
+      "date": "2026-07-01 19:21",
+      "summary": "For the first time, NASA's TESS (Transiting Exoplanet Survey Satellite) mission has identified a planet orbiting a distant star th..."
     },
     {
-      "title": "Venezuela earthquakes highlight the limits of early warning systems",
-      "link": "https://phys.org/news/2026-07-venezuela-earthquakes-highlight-limits-early.html",
-      "date": "2026-07-01 17:20",
-      "summary": "Earthquakes still arrive without warning. That is the hard truth scientists have been forced to accept, despite a decade of advanc..."
+      "title": "When parasites stop having sex, they may become less picky about their hosts",
+      "link": "https://phys.org/news/2026-07-parasites-sex-picky-hosts.html",
+      "date": "2026-07-01 19:20",
+      "summary": "A new evolutionary theory suggests that some asexual parasites may temporarily be able to infect a wider range of hosts as harmful..."
     }
   ],
   "The Guardian Edu": [
