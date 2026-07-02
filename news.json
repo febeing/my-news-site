@@ -161,22 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "OpenAI proposes handing Trump administration 5% stake, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUNkeGxUSzgzdlZ3STBUWGtaU3pHVUFhUWlCYWh6MVZKVjNnckJRTVBiNFF0d0ZvTjB0OWtGcWtxR1ZIY1lLVUdtSHQ4LXY3MUQ4ZHNIdkFyMzRuOXZkaEVqMDBaTjRkeXYzcGNTVWg2TEwxWUNVVFJDcEtSbUFnd2J1NzVJLXJPX3lHcG1icFh3YmxqMDR0cS1qTW85ZnpQeXBwdUNuQjBETmIw?oc=5",
-      "date": "2026-07-02 04:27",
-      "summary": "OpenAI proposes handing Trump administration 5% stake, FT reports  Reuters..."
-    },
-    {
       "title": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTFZdGllTTA5UmJ6WmxLYjRDUHJ4RWg1U3dCOEVGTElDMUJlNWQwOTg0VWZxTGUxSWVPaEJqTjJ0TTZsRHk5Ynh4RC15a0ZVQkdxQVVGdTl0UXRZZ3NBLVZWZVQxcWJQSEoyQ01LZ3F3V0FnWFZucTNibm9nTm9DZlVfNzAxaW14LXFYQXRxdmxFMXZBeDF0NEo1dnN0S2tFdTlpNVF3bjNoRVY2WjE2SkFBNXhzWkVHOFRFOVk3Q2ZZakk?oc=5",
       "date": "2026-07-01 15:25",
       "summary": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports  Reuters..."
     },
     {
-      "title": "India, Japan sign pacts on AI, metals, and energy after Modi-Takaichi talks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzFpMWZDTXlQMENEWENudWcwWThrNU00ZVp5UWQwWGp6QXd6d3ZBcmtjRnhLdFZzdFZvWjgxeWRLdDk0eEtiZWV1UGpEUWhhRlYtaHdtODVSNkdqdHlBR3lpYkpkOVNNWTdROHhEX0FlQzdlYTdmRThfd1ZVX2pkc3ZYYlVwdzVZUXU2TWh1c09NRGgyRVpWMEZ6RFhJVk5ld3pQLXlUdXZiRHE3WHBaTXZn?oc=5",
-      "date": "2026-07-02 08:38",
-      "summary": "India, Japan sign pacts on AI, metals, and energy after Modi-Takaichi talks  Reuters..."
+      "title": "OpenAI proposes handing Trump administration 5% stake, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUNkeGxUSzgzdlZ3STBUWGtaU3pHVUFhUWlCYWh6MVZKVjNnckJRTVBiNFF0d0ZvTjB0OWtGcWtxR1ZIY1lLVUdtSHQ4LXY3MUQ4ZHNIdkFyMzRuOXZkaEVqMDBaTjRkeXYzcGNTVWg2TEwxWUNVVFJDcEtSbUFnd2J1NzVJLXJPX3lHcG1icFh3YmxqMDR0cS1qTW85ZnpQeXBwdUNuQjBETmIw?oc=5",
+      "date": "2026-07-02 04:27",
+      "summary": "OpenAI proposes handing Trump administration 5% stake, FT reports  Reuters..."
     },
     {
       "title": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf - Reuters",
@@ -189,6 +183,12 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbm9GSWV1TldjRWJGQXBaRHdJUGFKcDNRRENGMnQzVVlrY01COUY2Ymlvam1YQmFfYUFuMmVZd3JTWmZiQWZiMThRem92SVdvaEVNNFRHaG5OWUhoZmhyNW9SSldrN3VBai1kTkp3LXNyd0hXNDI1SFdXSndrM2lEeEhqVEJKajQ0c0RwRmd4U3hiSlF2M0swemJjektVTWRYRVNGa2tUd0hQcFN6UGVOLTZjU1gxbms?oc=5",
       "date": "2026-07-01 10:25",
       "summary": "Unchecked AI progress may pose catastrophic risks, UN panel warns By Reuters  Investing.com..."
+    },
+    {
+      "title": "India, Japan sign pacts on AI, metals and energy after Modi-Takaichi talks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzFpMWZDTXlQMENEWENudWcwWThrNU00ZVp5UWQwWGp6QXd6d3ZBcmtjRnhLdFZzdFZvWjgxeWRLdDk0eEtiZWV1UGpEUWhhRlYtaHdtODVSNkdqdHlBR3lpYkpkOVNNWTdROHhEX0FlQzdlYTdmRThfd1ZVX2pkc3ZYYlVwdzVZUXU2TWh1c09NRGgyRVpWMEZ6RFhJVk5ld3pQLXlUdXZiRHE3WHBaTXZn?oc=5",
+      "date": "2026-07-02 11:02",
+      "summary": "India, Japan sign pacts on AI, metals and energy after Modi-Takaichi talks  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -205,12 +205,6 @@
       "summary": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.  MIT Technology Review..."
     },
     {
-      "title": "Claude Science is Anthropic’s newest flagship product - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelNhdFZ2aEV4V2V0VndMeXNwT2ROZVg4U1ZWLVBrUnRxeEttR001MWNqZVQ4RHNabkx5MnM1Ylk3bl9XS1Y1QkR4MUNrb3RDVnItMVRhVDNlR3dUcEFPSmFLNXJwWDBBM3J6SHlyaEhSa000dEwxTmhKNkpDMnlWd3hPSFFsU2ZuVHVDdm90bzY1dHhFY2k3SmVSQkZYNXFjY0IwLUNCNFHSAa4BQVVfeXFMUHBTWFJfa3NXSXBmUkhZdWpZYlZBa2w2U1U4enVxOEtaSHoxd0NSZExMSEhUcmhLWGtiVXdYODNmTWwtaVFvVlhiVFdFM3hJbjd0azdWOFNNNFhuMTU0ZURld2R2bXk4MEtBTFJrWlJjR3EzWVJTVDFSaEZiWU8yZTk2cXMtYTVhWS1IRmtYQ0NLQmZqMF9zUFJDcWJuaWQtb3lLT1ZMRW9rSldJTjFB?oc=5",
-      "date": "2026-06-30 21:50",
-      "summary": "Claude Science is Anthropic’s newest flagship product  MIT Technology Review..."
-    },
-    {
       "title": "Agriculture is ready for AI, but its data isn’t - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYzBleWszdk9Pak40MjdGZERiX2hFUXlUZHRaR2R6MzQ5azdza2hZSFNOU1RYZ3h0TFEtcDhuVzZUT1pHVkZHV2tfVmNYWjdqYnFqUzZCSy0tYVZYUUNPWEk4M042MjNDcUIzeXo3b1ltNUo2OHNkSGJ2WEYzVzNUYXBjRGNDQ2g5ckJtUjE5aWpIb1ZtaW96NzBMeHpqbEHSAaQBQVVfeXFMTUYtSWpHeDAxekx5dktwaWxtbFNDZVE1ellBdGxpeU9VN0s5Ty0xdE5GWGZuOWM3Sm9HSFpFdE4wV2VjTEdDQmMwVy1aMjFIWlJtNjBzVWtPTm5mX1ZnU0o3T3dNaE1vSHotMnpfbkZCUUx2b3h2QkdXeEtBOWNiTVRLbDNVNk9GTnNGdllXS0kzd2N6WFNDUzUzbElRVkhmeE9SMkE?oc=5",
       "date": "2026-06-30 12:00",
@@ -221,9 +215,21 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb3JQLUVQRjRJU25WMmYyX1FMaHdCRmt3ZWtacE1IWm5yWUUxaHBKdmQ5cDZnMUlyTHBUVHJFck9DUVI2VHV4bTByeGJ5ZGZsa2lXYUpjOEVPMmdJeV9JZlgzckRGSy1yb2hlLUZUbUpLdE92SkNSSUF4RC1YNGNULU9Gd3RacGc0V2twcW1qWV9DOHZERWZTMWdzWdIBoAFBVV95cUxNaWpBd0IyS2RlblVyTUtRUWtvblFpSmxVTkg0eTVGcDd6ZkNwejcyTndPTHBXdXNRTVEyUXlCRElZSG1ERXFocFRyNXNJYlZuV05sYzRuaGRwam9fQVZjU1hUU2M0OF9wZUV2WDFqeWhnT1ZlR1F4QW9Ob08tMzNCUkYwV2p1eUZBc2JCSTduUXh4QllVVG1VNUYtUFZrdXE3?oc=5",
       "date": "2026-06-29 14:44",
       "summary": "Agent confidence on the technical frontier  MIT Technology Review..."
+    },
+    {
+      "title": "Heat waves mess with your brain. Scientists are trying to figure out why. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnNTQlJwcEp0QkpuLXBRMDBPdHk2MTdaYmNualBvMzVTRzFYVF9nTTFkenRrLWljNWhCUUpVQ3k4OGk3Q0ZiOEc0Yl8tRldaX0ZlR2s4QjctUFVfb3Y4aVlHc19uYi00dDQ0OFZoLVExeUwwdE9MU0RIdkJWbml0emRjUTZFemNrR0lDeWhxbWFHYTJIMldFZ1ZBQjYyYW93dFlvanBXUlVUNGdCbXcxbnd2NFplVGtUUkEyb0VJczg3d9IBxwFBVV95cUxQYzNIa2ZrM3hURXNnZkk0Y2VLYmxaekUzUUo2RFI0eGJQSDN0T0twT3ZKWEEzeWZJWHo2ZTlkVFNaeVE1UldVY3R5VndQOXl0bkhXWjcyMWY4Y0RtdzRpRVFKMmFpWDJmYW5faVBLejZySU9XT0pXdGlmSmJhWm5sYmhWS2ZjV1c2VVFFNUl0QWtMN2p6UWVVY0dMZGthLWhNVlhYZld1cVpJWWRmNW1wVHA1TFB1XzF0ODdjNGFZUDVITVFEN25R?oc=5",
+      "date": "2026-06-26 09:00",
+      "summary": "Heat waves mess with your brain. Scientists are trying to figure out why.  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Temporary protective status workers play critical role in state economy, view US as home, research suggests",
+      "link": "https://phys.org/news/2026-07-temporary-status-workers-play-critical.html",
+      "date": "2026-07-02 11:00",
+      "summary": "Immigrant workers protected by a key humanitarian status make significant contributions to New York state's economy and communitie..."
+    },
     {
       "title": "New biosensor reveals rare lipid gathers in membrane hotspots during cell stress",
       "link": "https://phys.org/news/2026-06-biosensor-reveals-rare-lipid-membrane.html",
@@ -247,15 +253,15 @@
       "link": "https://phys.org/news/2026-07-families-daily-health-salton-sea.html",
       "date": "2026-07-02 07:40",
       "summary": "A study examining air quality and respiratory health in communities surrounding the Salton Sea in Southern California shows how en..."
-    },
-    {
-      "title": "Quiet outings linked to more frequent dangerous wildlife encounters",
-      "link": "https://phys.org/news/2026-06-quiet-outings-linked-frequent-dangerous.html",
-      "date": "2026-07-02 04:00",
-      "summary": "The more people expand into previously natural areas, the more wildlife and humans step on each other's toes, leading to more inte..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Ministers call for better tracking of teenagers at risk of dropping out of work or training in England",
+      "link": "https://www.theguardian.com/money/2026/jul/02/ministers-better-tracking-teenagers-risk-dropping-out-of-work-training-england",
+      "date": "2026-07-02 12:42",
+      "summary": "Councils and schools urged to do more as figures show there is no information on whereabouts of 32,100 ‘Neets’The government has u..."
+    },
     {
       "title": "Badenoch urges Burnham to condemn defence investment plan as No 10 says funding is ‘credible’ – as it happened",
       "link": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
@@ -279,15 +285,27 @@
       "link": "https://www.theguardian.com/education/2026/jul/01/academy-school-leaders-in-england-face-pay-cap-to-curb-banker-style-salaries",
       "date": "2026-07-01 05:00",
       "summary": "Nearly 100 academy chief executives earn more than £200,000 a year, and at least one more than £500,000The era of academy school l..."
-    },
-    {
-      "title": "School smartphone bans seen as ‘punitive’ by young people, study says",
-      "link": "https://www.theguardian.com/politics/2026/jun/30/school-smartphone-ban-seen-as-punitive-by-young-people-report",
-      "date": "2026-06-30 05:00",
-      "summary": "Outright bans may have unintended negative consequences for young people, University College London report warnsSchool smartphone ..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Hong Kong enters summer flu season as Covid infections also climb",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3359201/hong-kong-enters-summer-flu-season-covid-infections-also-climb?utm_source=rss_feed",
+      "date": "2026-07-02 11:31",
+      "summary": "Hong Kong health authorities have called on the public to stay vigilant as the city has entered the summer flu season, with Covid-..."
+    },
+    {
+      "title": "Hong Kong’s box office takings for first half of 2026 up 25% year on year",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3359196/hong-kongs-box-office-takings-first-half-2026-25-year-year?utm_source=rss_feed",
+      "date": "2026-07-02 11:13",
+      "summary": "Hong Kong’s box office takings for the first half of 2026 rose by nearly a quarter year on year, with the comedy Night King emergi..."
+    },
+    {
+      "title": "Make Hong Kong China’s ‘space finance capital’, legal group urges Beijing",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3359194/make-hong-kong-chinas-space-finance-capital-legal-group-urges-beijing?utm_source=rss_feed",
+      "date": "2026-07-02 10:57",
+      "summary": "An independent legal group has proposed that Beijing designate Hong Kong as the country’s “space finance capital”, positioning the..."
+    },
     {
       "title": "Cathay Pacific to resume Middle East passenger flights from September",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3359187/cathay-pacific-resume-middle-east-passenger-flights-september?utm_source=rss_feed",
@@ -299,33 +317,9 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3359183/woman-accused-money-laundering-wang-fuk-court-fire-case-granted-hk300000-bail?utm_source=rss_feed",
       "date": "2026-07-02 09:45",
       "summary": "A Hong Kong court has granted bail to an assistant manager of the project consultant behind a HK$336 million (US$42.8 million) ren..."
-    },
-    {
-      "title": "Hong Kong assets hit record US$5.38 trillion on renewed China appetite: SFC",
-      "link": "https://www.scmp.com/business/banking-finance/article/3359181/hong-kong-assets-hit-record-us538-trillion-renewed-china-appetite-sfc?utm_source=rss_feed",
-      "date": "2026-07-02 09:29",
-      "summary": "Assets and wealth under management in Hong Kong surged to a record high last year as global investors returned to Chinese assets, ..."
-    },
-    {
-      "title": "Hong Kong retail sales grow 7.9% in May, extending winning streak to 13 months",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3359172/hong-kong-retail-sales-grow-79-may-extending-winning-streak-13-months?utm_source=rss_feed",
-      "date": "2026-07-02 09:00",
-      "summary": "Hong Kong’s retail sales in May rose 7.9 per cent year on year, extending the streak of growth to 13 months, with the sector benef..."
-    },
-    {
-      "title": "Why Hong Kong has become the worst-performing major stock market",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3359117/why-hong-kong-has-become-years-worst-performing-stock-market?utm_source=rss_feed",
-      "date": "2026-07-02 08:30",
-      "summary": "There are many disconnects in financial markets. One of them is Japan’s benchmark 10-year bond yield, which currently stands at ju..."
     }
   ],
   "New Scientist": [
-    {
-      "title": "What is 'SpudCell'? Arguably the greatest bioengineering feat yet",
-      "link": "https://www.newscientist.com/article/2532689-what-is-spudcell-arguably-the-greatest-bioengineering-feat-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-07-01 21:08",
-      "summary": "A prototype cell partly capable of replicating itself has been created using 36 existing bacterial genes, but it's not really a li..."
-    },
     {
       "title": "The weirdness of neutrinos could completely rewrite particle physics",
       "link": "https://www.newscientist.com/article/2532479-the-weirdness-of-neutrinos-could-completely-rewrite-particle-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -349,6 +343,12 @@
       "link": "https://www.newscientist.com/article/2532086-the-worlds-fastest-spider-tops-3-5-metres-per-second/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-06-30 18:00",
       "summary": "The most comprehensive database ever compiled of how fast arachnids can run has shown how leg anatomy and evolutionary history inf..."
+    },
+    {
+      "title": "The most detailed survey of the universe ever conducted starts now",
+      "link": "https://www.newscientist.com/article/2532167-the-most-detailed-survey-of-the-universe-ever-conducted-starts-now/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-06-30 16:00",
+      "summary": "The Vera C. Rubin Observatory in Chile is beginning its extraordinary survey of the southern sky, which will use the largest camer..."
     }
   ]
 }
