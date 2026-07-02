@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "Building a scholarly community",
+      "link": "https://news.mit.edu/2026/building-scholarly-community-shass-faculty-fellows-0702",
+      "date": "2026-07-02 17:00",
+      "summary": "The SHASS Faculty Fellows Program, administered by the MIT Human Insight Collaborative, is fostering new research projects and cre..."
+    },
+    {
+      "title": "Why are some bacterial genes high in purines?",
+      "link": "https://news.mit.edu/2026/why-are-some-bacterial-genes-high-purines-0702",
+      "date": "2026-07-02 17:00",
+      "summary": "In certain species of bacteria, the answer lies in shielding RNA transcripts from a quality-control factor called Rho. Understandi..."
+    },
+    {
       "title": "MIT in the media: Innovating and educating for the next 250 years of America",
       "link": "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america",
       "date": "2026-07-01 20:30",
@@ -17,18 +29,6 @@
       "link": "https://news.mit.edu/2026/portable-ultrasound-system-could-make-reliable-breast-imaging-more-accessible-0701",
       "date": "2026-07-01 09:00",
       "summary": "The new technology, which generates high-resolution, 3D images of breast tissue, requires no expertise to operate and could be use..."
-    },
-    {
-      "title": "How urban design leads to better wellness",
-      "link": "https://news.mit.edu/2026/how-urban-design-leads-to-better-wellness-0701",
-      "date": "2026-07-01 09:00",
-      "summary": "An extensive study of U.S. cities identifies walkable neighborhoods, urban greenery, and access to amenities as key contributors t..."
-    },
-    {
-      "title": "The brain’s language network is more extensive than previously thought",
-      "link": "https://news.mit.edu/2026/brain-language-network-more-extensive-than-previously-thought-0701",
-      "date": "2026-07-01 04:00",
-      "summary": "A new study reveals that parts of the brain located far from the canonical language-processing centers are also involved in langua..."
     }
   ],
   "Harvard Gazette": [
@@ -39,22 +39,22 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
-    },
-    {
       "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRCNE1YZ0h5NkU4MmtrUnh5TmcyWlVoZHBJN25nR1FUUjByVmxENDZsMmxuMWRVajhKV1FPb1owUWRDay1lQk53TzMyQUo2RmRSczdJOC1Lb0wtQmJScFFtZU9kN3A1MFdCNjMxNXhsVDRDZ3hHbWZwTjdYcjBxcXNXZ182MVlqN0dvTEgycW5NaC0ybWl0eHJuRjBla3JKemc?oc=5",
       "date": "2026-05-26 07:00",
       "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
     },
     {
-      "title": "Plan to rein in inflated grading explained - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
-      "date": "2026-03-26 07:00",
-      "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
+      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+    },
+    {
+      "title": "Lessons from Beyoncé on public policy - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObzRsRGlOZm1IbDRJUGVETFpocldIS0N1SGpqWkk3TUpwdVlwUGprOERubG9FLW80MlRpcE1CTFdOeVJtSFRwMGM0bkY3Yi1teFQ5eGdYcFhzZTc1MXBlbTNoU1F5dm94MVBOWkZlei02akVBRmNvd2s4cTJpR0NMOXQtR0V5Qm1WaUtQNDJ3?oc=5",
+      "date": "2026-05-15 07:00",
+      "summary": "Lessons from Beyoncé on public policy  Harvard Gazette..."
     },
     {
       "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
@@ -193,6 +193,12 @@
   ],
   "MIT Tech Review": [
     {
+      "title": "Achieving operational excellence with AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjUtMXJla0xWenRkTVVnLWFKTjIwdHlPU0JQV3JJTVZNYVhNYkV5TC13SUNhYTRCMG4yR3I5OHkxampUdWpXY09CekFIS3dUUFpGdi1jZzZmWWd1Z1gtcjNqT1FwS0EtYXVzRFFSSEpUNlhXSVVfQjNZTzBZWHhxYzRtOFJIMy1LWE51a25ILTRmdjRVaHh4MNIBngFBVV95cUxQZ0FMb3QzRWUtT3Z5SVJrNDM4OHVMZ3BRV2dCMHhnTEdmXzZneWJ3TkVjU3VnRmZQVzNEMDB0VXBIUUdIeUhJekpFOU91Vk1CZUpJZnZtdHhXUlJsQ3JsZVAxVWFPRXF0YXBtVHZmOFQ5TGhndDFpWmVxRlF2YTdSOHJ1am9OOXo2Wm44Ml82V3Btc2VscFRiYk9LQk5RZw?oc=5",
+      "date": "2026-07-02 15:37",
+      "summary": "Achieving operational excellence with AI  MIT Technology Review..."
+    },
+    {
       "title": "AI agents are not your “coworkers” - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUVvV3UtNjdYZHZjVHJvcDhzNFlYN0VOWDE5OXk1Ny1qNEZ6elVCdmNKUHAwRk5CaXFBMUJQV013M3A0UVhWU1A0QmRGOHZQdFVyNnNoYXpWQW1WU3Zwa19tWDNSOVlibjRqRDZWZlVOWGVjM2ltem1OaEdoTGtHckdWb1pacG55NzhraWlR0gGTAUFVX3lxTE54NEtzTndmUGVZcFZUdHBpWHlkcWxqNHpabFFzWmR3aUJWVUtTSDBsekZhbHY2amI3eVZhWEFSVHFWVF9OdElvWGZwZEdKa3JLU1VSclFheGZuZVRfeXJrekhjaDd1YjYtVWdVekhMZXd0OEc5VGZCcDNURS1obkx5SHVJOTA3M1kyV085SUZWNWs0MA?oc=5",
       "date": "2026-06-29 18:00",
@@ -211,12 +217,6 @@
       "summary": "Building tech in the world’s secret R&D hub  MIT Technology Review..."
     },
     {
-      "title": "Agent confidence on the technical frontier - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb3JQLUVQRjRJU25WMmYyX1FMaHdCRmt3ZWtacE1IWm5yWUUxaHBKdmQ5cDZnMUlyTHBUVHJFck9DUVI2VHV4bTByeGJ5ZGZsa2lXYUpjOEVPMmdJeV9JZlgzckRGSy1yb2hlLUZUbUpLdE92SkNSSUF4RC1YNGNULU9Gd3RacGc0V2twcW1qWV9DOHZERWZTMWdzWdIBoAFBVV95cUxNaWpBd0IyS2RlblVyTUtRUWtvblFpSmxVTkg0eTVGcDd6ZkNwejcyTndPTHBXdXNRTVEyUXlCRElZSG1ERXFocFRyNXNJYlZuV05sYzRuaGRwam9fQVZjU1hUU2M0OF9wZUV2WDFqeWhnT1ZlR1F4QW9Ob08tMzNCUkYwV2p1eUZBc2JCSTduUXh4QllVVG1VNUYtUFZrdXE3?oc=5",
-      "date": "2026-06-29 14:44",
-      "summary": "Agent confidence on the technical frontier  MIT Technology Review..."
-    },
-    {
       "title": "Agriculture is ready for AI, but its data isn’t - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYzBleWszdk9Pak40MjdGZERiX2hFUXlUZHRaR2R6MzQ5azdza2hZSFNOU1RYZ3h0TFEtcDhuVzZUT1pHVkZHV2tfVmNYWjdqYnFqUzZCSy0tYVZYUUNPWEk4M042MjNDcUIzeXo3b1ltNUo2OHNkSGJ2WEYzVzNUYXBjRGNDQ2g5ckJtUjE5aWpIb1ZtaW96NzBMeHpqbEHSAaQBQVVfeXFMTUYtSWpHeDAxekx5dktwaWxtbFNDZVE1ellBdGxpeU9VN0s5Ty0xdE5GWGZuOWM3Sm9HSFpFdE4wV2VjTEdDQmMwVy1aMjFIWlJtNjBzVWtPTm5mX1ZnU0o3T3dNaE1vSHotMnpfbkZCUUx2b3h2QkdXeEtBOWNiTVRLbDNVNk9GTnNGdllXS0kzd2N6WFNDUzUzbElRVkhmeE9SMkE?oc=5",
       "date": "2026-06-30 12:00",
@@ -225,37 +225,43 @@
   ],
   "Phys.org": [
     {
-      "title": "Honeybee queens push pesticides to eggs to protect themselves over their offspring, research reveals",
-      "link": "https://phys.org/news/2026-07-honeybee-queens-pesticides-eggs-offspring.html",
-      "date": "2026-07-02 15:00",
-      "summary": "Worker bees are the first line of defense when it comes to removing contamination in honeybee colonies, but a queen has her ways, ..."
+      "title": "We can't air-condition our way out of a hotter future, says expert",
+      "link": "https://phys.org/news/2026-07-air-condition-hotter-future-expert.html",
+      "date": "2026-07-02 17:40",
+      "summary": "As temperatures rise around the world, air conditioning is saving lives. But a growing reliance on it is also placing unprecedente..."
     },
     {
-      "title": "Rethinking the governance of human embryo research: Comparing Japan's guidelines with international standards",
-      "link": "https://phys.org/news/2026-07-rethinking-human-embryo-japan-guidelines.html",
-      "date": "2026-07-02 15:00",
-      "summary": "Human embryo models can help researchers study early human development and infertility without relying solely on human embryos. As..."
+      "title": "Deliberate slow growth could explain bacteria survival strategies",
+      "link": "https://phys.org/news/2026-07-deliberate-growth-bacteria-survival-strategies.html",
+      "date": "2026-07-02 17:40",
+      "summary": "Escherichia coli (E. coli) are mostly harmless bacteria that live in the intestines of animals and humans. They are the most well-..."
     },
     {
-      "title": "How heat stress triggers emergency programs in plants",
-      "link": "https://phys.org/news/2026-07-stress-triggers-emergency.html",
-      "date": "2026-07-02 14:40",
-      "summary": "Researchers at the Karlsruhe Institute of Technology (KIT) have found how plant cells respond to stress. If their energy supply is..."
+      "title": "Dynamic black holes may obey Hawking-style thermodynamics with an alternative entropy measure",
+      "link": "https://phys.org/news/2026-07-dynamic-black-holes-obey-hawking.html",
+      "date": "2026-07-02 17:40",
+      "summary": "Of the known things in the universe, black holes are among the most extreme. They pack huge amounts of mass densely into a small a..."
     },
     {
-      "title": "Scourge of satellites lighting up the sky could be mitigated with help of ultra-black coating",
-      "link": "https://phys.org/news/2026-07-scourge-satellites-sky-mitigated-ultra.html",
-      "date": "2026-07-02 14:40",
-      "summary": "Astrophysicists working to tackle the growing impact of satellite constellations have pioneered a new ultra-black coating as one p..."
+      "title": "MOF thin films reveal hidden dense packing, challenging decades of porous assumptions",
+      "link": "https://phys.org/news/2026-07-mof-thin-reveal-hidden-dense.html",
+      "date": "2026-07-02 17:20",
+      "summary": "Due to their high porosity, metal-organic frameworks (MOFs) are regarded as promising materials for innovative applications, which..."
     },
     {
-      "title": "Genomic tool can help measure resilience in Merino sheep",
-      "link": "https://phys.org/news/2026-07-genomic-tool-resilience-merino-sheep.html",
-      "date": "2026-07-02 14:20",
-      "summary": "A new resilience test for merino sheep is using hereditary markers to help producers identify which animals are better able to cop..."
+      "title": "Space startup to launch India's first private orbital rocket",
+      "link": "https://phys.org/news/2026-07-space-startup-india-private-orbital.html",
+      "date": "2026-07-02 17:20",
+      "summary": "Indian startup Skyroot Aerospace said Thursday it would hold the maiden test flight of the country's first privately developed orb..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Outrage over ‘cruel’ Florida move to ban undocumented students from college",
+      "link": "https://www.theguardian.com/us-news/2026/jul/02/florida-undocumented-college-students",
+      "date": "2026-07-02 16:56",
+      "summary": "Critics condemn decision by education board aligned with hard-right Ron DeSantis to block access to college systemImmigration advo..."
+    },
     {
       "title": "Starmer vetoes Tuchel’s call to bunk off school after England’s 1am Mexico game",
       "link": "https://www.theguardian.com/football/2026/jul/02/keir-starmer-vetoes-tuchel-day-off-school-proposal-1am-match-mexico",
@@ -279,15 +285,21 @@
       "link": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
       "date": "2026-07-01 17:00",
       "summary": "Minister and MPs have raised concerns that his ‘poisoned chalice’ plan will take cash from much-needed road projectsMinister and M..."
-    },
-    {
-      "title": "Teachers in England get two-year 6.6% pay rise but schools to foot part of bill",
-      "link": "https://www.theguardian.com/education/2026/jul/01/teachers-pay-rise-schools-england",
-      "date": "2026-07-01 16:29",
-      "summary": "Unions pleased with rise above forecast inflation but concerned nearly a third of it will come from school budgetsUK politics live..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Cyberattack on Hong Kong’s Shun Hing Group affects data of 1 million people",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3359218/cyberattack-hong-kongs-shun-hing-group-affects-data-1-million-people?utm_source=rss_feed",
+      "date": "2026-07-02 16:22",
+      "summary": "A cyberattack on leading Hong Kong appliance distributor Shun Hing Group has compromised the personal information of more than 1 m..."
+    },
+    {
+      "title": "Lam Wing-kee, Hong Kong bookseller detained in mainland China, dies",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3359216/lam-wing-kee-hong-kong-bookseller-detained-mainland-china-dies?utm_source=rss_feed",
+      "date": "2026-07-02 15:42",
+      "summary": "Hong Kong bookseller Lam Wing-kee, who publicly recounted being abducted and detained by mainland Chinese authorities in 2015, has..."
+    },
     {
       "title": "Hong Kong enters summer flu season as Covid infections also climb",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3359201/hong-kong-enters-summer-flu-season-covid-infections-also-climb?utm_source=rss_feed",
@@ -305,21 +317,21 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3359194/make-hong-kong-chinas-space-finance-capital-legal-group-urges-beijing?utm_source=rss_feed",
       "date": "2026-07-02 10:57",
       "summary": "An independent legal group has proposed that Beijing designate Hong Kong as the country’s “space finance capital”, positioning the..."
-    },
-    {
-      "title": "Cathay Pacific to resume Middle East passenger flights from September",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3359187/cathay-pacific-resume-middle-east-passenger-flights-september?utm_source=rss_feed",
-      "date": "2026-07-02 10:10",
-      "summary": "Hong Kong flag carrier Cathay Pacific Airways will resume Middle East passenger flights in September, six months after suspending ..."
-    },
-    {
-      "title": "Woman accused of money laundering in Wang Fuk Court fire case granted HK$300,000 bail",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3359183/woman-accused-money-laundering-wang-fuk-court-fire-case-granted-hk300000-bail?utm_source=rss_feed",
-      "date": "2026-07-02 09:45",
-      "summary": "A Hong Kong court has granted bail to an assistant manager of the project consultant behind a HK$336 million (US$42.8 million) ren..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Random wobbles in time could finally solve gravity’s greatest mystery",
+      "link": "https://www.newscientist.com/article/2532714-random-wobbles-in-time-could-finally-solve-gravitys-greatest-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-02 16:00",
+      "summary": "The question of how gravity interacts with the quantum world has long perplexed physicists, but a non-quantum theory of space-time..."
+    },
+    {
+      "title": "Geoengineering could expose plane passengers to sulphuric acid",
+      "link": "https://www.newscientist.com/article/2532757-geoengineering-could-expose-plane-passengers-to-sulphuric-acid/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-02 15:05",
+      "summary": "A proposed technique to counter global warming by spraying sun-reflecting particles near the poles would cause commercial flights ..."
+    },
     {
       "title": "What is 'SpudCell'? Arguably the greatest bioengineering feat yet",
       "link": "https://www.newscientist.com/article/2532689-what-is-spudcell-arguably-the-greatest-bioengineering-feat-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
@@ -337,18 +349,6 @@
       "link": "https://www.newscientist.com/article/2532336-a-type-of-fibre-that-stimulates-glp-1-release-approved-for-use-in-food/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-07-01 14:00",
       "summary": "A form of fibre that boosts the release of the hunger-reducing hormone GLP-1 has been approved as safe by a European regulator, an..."
-    },
-    {
-      "title": "Slowdown of AMOC ocean current may be gradual and reversible",
-      "link": "https://www.newscientist.com/article/2532392-slowdown-of-amoc-ocean-current-may-be-gradual-and-reversible/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-07-01 09:27",
-      "summary": "Scientists worry that a surge of meltwater from Greenland could irreversibly collapse the Atlantic Meridional Overturning Circulat..."
-    },
-    {
-      "title": "The world's fastest spider tops 3.5 metres per second",
-      "link": "https://www.newscientist.com/article/2532086-the-worlds-fastest-spider-tops-3-5-metres-per-second/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-06-30 18:00",
-      "summary": "The most comprehensive database ever compiled of how fast arachnids can run has shown how leg anatomy and evolutionary history inf..."
     }
   ]
 }
