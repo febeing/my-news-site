@@ -83,10 +83,10 @@
       "summary": "Automaker strikes deal for former Broadcom campus as it chases Silicon Valley talent  The Business Journals..."
     },
     {
-      "title": "University of Utah graduates have the best odds of launching $1B company, Stanford study finds - KSL News",
+      "title": "University of Utah graduates have the best odds of launching $1B company, Stanford study finds - KSL.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVJRWGlGd010Wi0yck1vSFBFdFhmdHlLSTExQkNMZnJaUjBFRi1EZXZEUFdodGJ0R2o5Sk54aFRuN0c4bE9iUVYwOHM1cFlSZjBxT2RITzYwMURoQk83MmxNZUgyWFd2QjRmbklmclRkUGFKalVGZ0VsQ2VNVWhtSEJyN290eGxTUnlHUlRFMmlpangzczIzcmY3UTlZU0plcjE2N3pnZDk3emVrZk1mb2phNDJ0X3RpUXNZWGtIbnFjTDAwLUgzVw?oc=5",
       "date": "2026-07-01 01:00",
-      "summary": "University of Utah graduates have the best odds of launching $1B company, Stanford study finds  KSL News..."
+      "summary": "University of Utah graduates have the best odds of launching $1B company, Stanford study finds  KSL.com..."
     },
     {
       "title": "Rubin Observatory launches 10-year cosmic survey - Stanford Report",
@@ -96,6 +96,12 @@
     }
   ],
   "Nature Careers": [
+    {
+      "title": "China boosts prestigious grants for young scientists — will it ease competition?",
+      "link": "https://www.nature.com/articles/d41586-026-01989-5",
+      "date": "2026-07-03 00:00",
+      "summary": "Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-01989-5The National Natural Science Foundation of China says it wil..."
+    },
     {
       "title": "Electrodeposited self-assembled molecules for perovskite photovoltaics",
       "link": "https://www.nature.com/articles/s41586-026-10844-6",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01773-5",
       "date": "2026-07-02 00:00",
       "summary": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-01773-5Nature readers share their PhD time-management woes...."
-    },
-    {
-      "title": "Incoming US science academy chief vows to ‘double down’ on research",
-      "link": "https://www.nature.com/articles/d41586-026-02088-1",
-      "date": "2026-07-02 00:00",
-      "summary": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-02088-1New leader of the National Academy of Sciences Neil Shubin w..."
     }
   ],
   "Retraction Watch": [
@@ -161,16 +161,22 @@
   ],
   "Reuters AI": [
     {
+      "title": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHN2T0NPR3ZJMWZheVBDbUxxS1pBbHpfSjBmSTNseVFEU0FUcnc1OFJJNzNGZVB1M1ZIdExGb0NfTWpKYnhTSm8xRUhzbm14RWRNRWJyaWctbjVLWmdRM0d1UjFBalpyNDJoTDNwVldrRGxGN1U0aUtUcEp3a2t1aDYxdFpfRFMzZDZodUNNdEJpMkoyOWFYakZLb1NrZ0M4a01qQW9HTkFUQkltaGNjWk9CcXYxUGdndmNPclNEOVlxVFk?oc=5",
+      "date": "2026-07-02 07:40",
+      "summary": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf  Reuters..."
+    },
+    {
       "title": "OpenAI proposes handing Trump administration a 5% stake, FT reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUNkeGxUSzgzdlZ3STBUWGtaU3pHVUFhUWlCYWh6MVZKVjNnckJRTVBiNFF0d0ZvTjB0OWtGcWtxR1ZIY1lLVUdtSHQ4LXY3MUQ4ZHNIdkFyMzRuOXZkaEVqMDBaTjRkeXYzcGNTVWg2TEwxWUNVVFJDcEtSbUFnd2J1NzVJLXJPX3lHcG1icFh3YmxqMDR0cS1qTW85ZnpQeXBwdUNuQjBETmIw?oc=5",
       "date": "2026-07-02 04:27",
       "summary": "OpenAI proposes handing Trump administration a 5% stake, FT reports  Reuters..."
     },
     {
-      "title": "Microsoft launches firm to help companies adopt AI with $2.5 billion - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWVCMGFFWk1NRWJKRmI5T0hzWmxuNXZoUUM3VUJlNjY4RzZuU2tVRWNwZXliQlRNNDZZbFhSdHlBc2dQUzl5TS05YjBjOENFVTExaU0xMGp0TU1WemlYNDlEazNMSTRSXy1MSDJ2RnZZcHMzcDZiTVFQaDBPWUhYQWhDalUtUFE0Z21YRVltY29jR205dVc0Q3JiOWE1UTdwanR0VGlhRkJqYTZRVVJyUXZzODltSUNlZkJkS3RDelR6Zw?oc=5",
-      "date": "2026-07-02 13:01",
-      "summary": "Microsoft launches firm to help companies adopt AI with $2.5 billion  Reuters..."
+      "title": "Argentina's plan for AI-run companies can't avoid humans - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSU9ZWGtkWXpRSEJsRFVXWGYyZ1p5R1lad04yMXFWcXNTRUxld1d2NXJhTDFaQ0M5bnY0ZUdQNlhIOTZYZTZFbDAyY0dRSHFoV3hsOXlPWm53ZGNHUGM1VnpQLTJMOHVraURnZXF6R2pGNGFSZExRMVZ6T01qb2FnWEVQZTlzYTFXelhET29GeWVpYVhmcWtOeTdzWnQ0VGF2X2Zv?oc=5",
+      "date": "2026-07-03 10:21",
+      "summary": "Argentina's plan for AI-run companies can't avoid humans  Reuters..."
     },
     {
       "title": "US in talks with AI companies for voluntary model standards, FT reports - Yahoo Finance",
@@ -183,12 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5",
       "date": "2026-07-02 23:05",
       "summary": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected  Reuters..."
-    },
-    {
-      "title": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHN2T0NPR3ZJMWZheVBDbUxxS1pBbHpfSjBmSTNseVFEU0FUcnc1OFJJNzNGZVB1M1ZIdExGb0NfTWpKYnhTSm8xRUhzbm14RWRNRWJyaWctbjVLWmdRM0d1UjFBalpyNDJoTDNwVldrRGxGN1U0aUtUcEp3a2t1aDYxdFpfRFMzZDZodUNNdEJpMkoyOWFYakZLb1NrZ0M4a01qQW9HTkFUQkltaGNjWk9CcXYxUGdndmNPclNEOVlxVFk?oc=5",
-      "date": "2026-07-02 07:40",
-      "summary": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -199,60 +199,60 @@
       "summary": "AI agents are not your “coworkers”  MIT Technology Review..."
     },
     {
-      "title": "Achieving operational excellence with AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjUtMXJla0xWenRkTVVnLWFKTjIwdHlPU0JQV3JJTVZNYVhNYkV5TC13SUNhYTRCMG4yR3I5OHkxampUdWpXY09CekFIS3dUUFpGdi1jZzZmWWd1Z1gtcjNqT1FwS0EtYXVzRFFSSEpUNlhXSVVfQjNZTzBZWHhxYzRtOFJIMy1LWE51a25ILTRmdjRVaHh4MNIBngFBVV95cUxQZ0FMb3QzRWUtT3Z5SVJrNDM4OHVMZ3BRV2dCMHhnTEdmXzZneWJ3TkVjU3VnRmZQVzNEMDB0VXBIUUdIeUhJekpFOU91Vk1CZUpJZnZtdHhXUlJsQ3JsZVAxVWFPRXF0YXBtVHZmOFQ5TGhndDFpWmVxRlF2YTdSOHJ1am9OOXo2Wm44Ml82V3Btc2VscFRiYk9LQk5RZw?oc=5",
-      "date": "2026-07-02 15:37",
-      "summary": "Achieving operational excellence with AI  MIT Technology Review..."
-    },
-    {
       "title": "10 Key Takeaways From MIT Technology Review's Agent Confidence Report - Forbes",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3M1T0NZb1pUUThUUWJEQ2xGelFDb003ejhQem1FbmNURFdKdGFRenZzVFJfV25WeHprX3M4ZUdOSXR6dWFKbFA2ODNNUWhRYldRN3lGbVQ5WFlDblhLRWVsbmZNclNyRHhGMU9NYlZKM1JDT3JjbGFDbUtiNkl4eG5FRkNKWWdibHlyS3N5M1M1Rzh6V3c1ZlJXQk1BQXROcTc5VkRtT05FYmJLZFQwRVNnckx2dmZnX1BCeUo1RQ?oc=5",
       "date": "2026-07-03 04:24",
       "summary": "10 Key Takeaways From MIT Technology Review's Agent Confidence Report  Forbes..."
     },
     {
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNalV5S2F3bmcwX0hLUTJXd0pWSzF4dDRtRl83RFNOSklLcDlPd2FSSjhvS3ZJWTFveTB2LUxOV3JuS0c2djR2SUxvaFl0S1dYemhmU3V5bWJlajFMZHIwZzZaTDZQMklhZGNmT2VOb1FCUVU4SWh4c3piaW16M25EZFFza1V4cDJVdWIxbDd5VmNTdWJxQjBZbXZweHVsSk1uRUxDRFdZeXRZb0xmT2lKV0pldDVmQTJaZ01TWkJtLWdpNUR10gHKAUFVX3lxTFBCMndtcVZnSzhkNXNaODE0MTlRV0c4dVpmRlJfNTJSNHJEX0hWdF85MzU2ZGlQRHF6RE9wWmVDMnh1ZGFuR3NVQ3YxNDJKSncyUFI2LUxkRk9lNzFWM2d0c3BnbklpeVdaZWNDNVpiT2dfTkVyazFWRlJ2UENrMXg3TGhNbHhpVTFkdjVJUTJpSUhBVnAtYUVTaHdaZFFYeWZFNS1CbDNheEhodHljN0lqM0pjU0JXc2JZX3FoOWZoelJHbDBaaWlPcVE?oc=5",
-      "date": "2026-07-01 14:35",
-      "summary": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.  MIT Technology Review..."
+      "title": "Achieving operational excellence with AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjUtMXJla0xWenRkTVVnLWFKTjIwdHlPU0JQV3JJTVZNYVhNYkV5TC13SUNhYTRCMG4yR3I5OHkxampUdWpXY09CekFIS3dUUFpGdi1jZzZmWWd1Z1gtcjNqT1FwS0EtYXVzRFFSSEpUNlhXSVVfQjNZTzBZWHhxYzRtOFJIMy1LWE51a25ILTRmdjRVaHh4MNIBngFBVV95cUxQZ0FMb3QzRWUtT3Z5SVJrNDM4OHVMZ3BRV2dCMHhnTEdmXzZneWJ3TkVjU3VnRmZQVzNEMDB0VXBIUUdIeUhJekpFOU91Vk1CZUpJZnZtdHhXUlJsQ3JsZVAxVWFPRXF0YXBtVHZmOFQ5TGhndDFpWmVxRlF2YTdSOHJ1am9OOXo2Wm44Ml82V3Btc2VscFRiYk9LQk5RZw?oc=5",
+      "date": "2026-07-02 15:37",
+      "summary": "Achieving operational excellence with AI  MIT Technology Review..."
     },
     {
-      "title": "Agriculture is ready for AI, but its data isn’t - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYzBleWszdk9Pak40MjdGZERiX2hFUXlUZHRaR2R6MzQ5azdza2hZSFNOU1RYZ3h0TFEtcDhuVzZUT1pHVkZHV2tfVmNYWjdqYnFqUzZCSy0tYVZYUUNPWEk4M042MjNDcUIzeXo3b1ltNUo2OHNkSGJ2WEYzVzNUYXBjRGNDQ2g5ckJtUjE5aWpIb1ZtaW96NzBMeHpqbEHSAaQBQVVfeXFMTUYtSWpHeDAxekx5dktwaWxtbFNDZVE1ellBdGxpeU9VN0s5Ty0xdE5GWGZuOWM3Sm9HSFpFdE4wV2VjTEdDQmMwVy1aMjFIWlJtNjBzVWtPTm5mX1ZnU0o3T3dNaE1vSHotMnpfbkZCUUx2b3h2QkdXeEtBOWNiTVRLbDNVNk9GTnNGdllXS0kzd2N6WFNDUzUzbElRVkhmeE9SMkE?oc=5",
-      "date": "2026-06-30 12:00",
-      "summary": "Agriculture is ready for AI, but its data isn’t  MIT Technology Review..."
+      "title": "Claude Science is Anthropic’s newest flagship product - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelNhdFZ2aEV4V2V0VndMeXNwT2ROZVg4U1ZWLVBrUnRxeEttR001MWNqZVQ4RHNabkx5MnM1Ylk3bl9XS1Y1QkR4MUNrb3RDVnItMVRhVDNlR3dUcEFPSmFLNXJwWDBBM3J6SHlyaEhSa000dEwxTmhKNkpDMnlWd3hPSFFsU2ZuVHVDdm90bzY1dHhFY2k3SmVSQkZYNXFjY0IwLUNCNFHSAa4BQVVfeXFMUHBTWFJfa3NXSXBmUkhZdWpZYlZBa2w2U1U4enVxOEtaSHoxd0NSZExMSEhUcmhLWGtiVXdYODNmTWwtaVFvVlhiVFdFM3hJbjd0azdWOFNNNFhuMTU0ZURld2R2bXk4MEtBTFJrWlJjR3EzWVJTVDFSaEZiWU8yZTk2cXMtYTVhWS1IRmtYQ0NLQmZqMF9zUFJDcWJuaWQtb3lLT1ZMRW9rSldJTjFB?oc=5",
+      "date": "2026-06-30 21:50",
+      "summary": "Claude Science is Anthropic’s newest flagship product  MIT Technology Review..."
+    },
+    {
+      "title": "Teaching AI to run with the turbines - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTWNlaWZ5d0VmZVRuWVFSb1JSNVJzcWU4M2l1WWVTNDhuOGM4RGxWX1BkcnVIenRDbjVTVkdQaENQRDFaM1VCYXM4MlhaVjc1VFI2Y2FseHE2WVN5dmhEcXl1NUtiaWQ5ME9UZE9JVUZnQ0JLeGpENVZOM095YWJxN1JCdGhGaW9RdW5rRzZaTWxlTnPSAZgBQVVfeXFMTmwwRG5IZ0VDcUdfVDhvenpYbFVUUkFYVHJSU0pqaE9xUWJoeVRZazB0aktFelFPMzUxc2hQclJ1RF9ncVF2SEJQenZTMDNjbW10VkNtZVY1Wko2N3pMcGRVN2VtbFN5RnRsdnVsNTRQOG1faTFEQ1ZaUDdwQldoNHB1VlMwaGNZZ0E4dzRuM3FkcXBPbms0ejQ?oc=5",
+      "date": "2026-07-02 12:51",
+      "summary": "Teaching AI to run with the turbines  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Modest meat and dairy cuts could help Scotland lower emissions and keep diets affordable",
-      "link": "https://phys.org/news/2026-07-modest-meat-dairy-scotland-emissions.html",
-      "date": "2026-07-03 09:00",
-      "summary": "Modest changes to meat and dairy consumption could help Scotland meet climate goals while improving health and nutrition, research..."
+      "title": "Could this asteroid be a piece of the moon? A Chinese spacecraft is about to find out",
+      "link": "https://phys.org/news/2026-07-asteroid-piece-moon-chinese-spacecraft.html",
+      "date": "2026-07-03 12:00",
+      "summary": "The moon is not the only natural object traveling through space alongside Earth. Several small asteroids travel around the sun in ..."
     },
     {
-      "title": "Wildfires rage in southern France, 3,000 people evacuated",
-      "link": "https://phys.org/news/2026-07-wildfires-rage-southern-france-people.html",
-      "date": "2026-07-03 08:00",
-      "summary": "Nearly 3,000 people have been evacuated in southwestern France as Prime Minister Sebastien Lecornu sounded the alarm over an early..."
+      "title": "Projected 'super typhoon' heads for US Pacific islands",
+      "link": "https://phys.org/news/2026-07-super-typhoon-pacific-islands.html",
+      "date": "2026-07-03 11:48",
+      "summary": "Residents of Guam and the Northern Marianas boarded up windows and stocked up Friday as a monster weather system forecast to becom..."
     },
     {
-      "title": "Japan deploys bear cameras in mountains as attacks surge",
-      "link": "https://phys.org/news/2026-07-japan-deploys-cameras-mountains-surge.html",
-      "date": "2026-07-03 07:30",
-      "summary": "Japan has begun installing hundreds of cameras in its northern mountains as part of a nationwide survey of the bear population fol..."
+      "title": "France deaths rose by 30% during heatwave",
+      "link": "https://phys.org/news/2026-07-france-deaths-rose-heatwave.html",
+      "date": "2026-07-03 11:47",
+      "summary": "France endured a rise of nearly 30% in the number of deaths recorded during the week starting June 22, the peak of a record-breaki..."
     },
     {
-      "title": "Two centuries on, experts unlock secrets of Red Sea and Gulf of Aden sailing chart",
-      "link": "https://phys.org/news/2026-07-centuries-experts-secrets-red-sea.html",
-      "date": "2026-07-03 07:20",
-      "summary": "Experts have unlocked secrets hidden for two hundred years in a beautiful navigational chart made for 18th century seafarers negot..."
+      "title": "Rescue mission launches to save NASA telescope that's falling back to Earth",
+      "link": "https://phys.org/news/2026-07-mission-nasa-telescope-falling-earth.html",
+      "date": "2026-07-03 11:43",
+      "summary": "A three-armed spacecraft rocketed into orbit Friday to rescue a NASA telescope that's in danger of crashing back to Earth...."
     },
     {
-      "title": "Heat dome roasts eastern US ahead of holiday weekend",
-      "link": "https://phys.org/news/2026-07-dome-roasts-eastern-holiday-weekend.html",
-      "date": "2026-07-03 07:13",
-      "summary": "Pools were packed and power grids strained as millions of Americans sweltered in stifling heat and humidity Thursday, with dangero..."
+      "title": "Mapping men's violence programs reveals major Indo-Pacific research gaps",
+      "link": "https://phys.org/news/2026-07-men-violence-reveals-major-indo.html",
+      "date": "2026-07-03 11:40",
+      "summary": "Domestic and family violence (DFV) rates in the Indo-Pacific are among the highest globally, but there is a lack of focus, both in..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Fine firms for data breaches, Hong Kong cybersecurity experts urge",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3359358/fine-firms-data-breaches-hong-kong-cybersecurity-experts-urge?utm_source=rss_feed",
+      "date": "2026-07-03 11:50",
+      "summary": "Cybersecurity experts have called on authorities to impose fines on firms that suffer data breaches, after the personal informatio..."
+    },
+    {
+      "title": "Hong Kong approves first subdivided units meeting basic housing standards",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3359332/hong-kong-approves-first-subdivided-units-meeting-basic-housing-standards?utm_source=rss_feed",
+      "date": "2026-07-03 11:00",
+      "summary": "Hong Kong authorities have approved the city’s first three subdivided units to comply with official minimum standards, with the su..."
+    },
+    {
+      "title": "Hongkonger cleared of murder but guilty of manslaughter after weight-loss beating",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3359338/hong-kong-man-convicted-manslaughter-over-fatal-weight-loss-beating?utm_source=rss_feed",
+      "date": "2026-07-03 10:25",
+      "summary": "A Hong Kong man has been found guilty of manslaughter but acquitted of murdering his girlfriend after jurors accepted his claim th..."
+    },
+    {
       "title": "Court awards HK$251,000 to family of late helper sacked during cancer battle",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3359318/court-awards-hk251000-family-late-helper-dismissed-during-cancer-battle?utm_source=rss_feed",
       "date": "2026-07-03 09:09",
@@ -299,24 +317,38 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3359316/hong-kong-moves-antenatal-care-public-hospitals-reform-push?utm_source=rss_feed",
       "date": "2026-07-03 09:04",
       "summary": "Expectant mothers in Hong Kong requiring government antenatal services will only need to visit public hospitals, rather than mater..."
+    }
+  ],
+  "New Scientist": [
+    {
+      "title": "June heatwave may have killed around 20,000 people in Europe",
+      "link": "https://www.newscientist.com/article/2532825-june-heatwave-may-have-killed-around-20000-people-in-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-02 17:17",
+      "summary": "It will be some months before the true toll of Europe's worst-ever heatwave is confirmed, but researchers can estimate a death cou..."
     },
     {
-      "title": "Employee training hours in Hong Kong hit 14-year high amid AI push: survey",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3359315/employee-training-hours-hong-kong-hit-14-year-high-amid-ai-push-survey?utm_source=rss_feed",
-      "date": "2026-07-03 08:54",
-      "summary": "Average training hours per employee in Hong Kong hit a 14-year high as local companies pushed for technology adoption and workforc..."
+      "title": "Random wobbles in time could finally solve gravity’s greatest mystery",
+      "link": "https://www.newscientist.com/article/2532714-random-wobbles-in-time-could-finally-solve-gravitys-greatest-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-02 16:00",
+      "summary": "The question of how gravity interacts with the quantum world has long perplexed physicists, but a non-quantum theory of space-time..."
     },
     {
-      "title": "Hong Kong ministers get 1.3% pay rise, after civil servants secure 2% salary bump",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3359307/hong-kong-ministers-get-13-pay-rise-after-civil-servants-secure-2-salary-bump?utm_source=rss_feed",
-      "date": "2026-07-03 08:31",
-      "summary": "Hong Kong’s top ministers and other political appointees have received a 1.3 per cent pay rise, authorities have confirmed, after ..."
+      "title": "Geoengineering could expose plane passengers to sulphuric acid",
+      "link": "https://www.newscientist.com/article/2532757-geoengineering-could-expose-plane-passengers-to-sulphuric-acid/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-02 15:05",
+      "summary": "A proposed technique to counter global warming by spraying sun-reflecting particles near the poles would cause commercial flights ..."
     },
     {
-      "title": "Hong Kong students tour PLA Navy warships for lesson on national defence",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3359304/hong-kong-students-tour-pla-navy-warships-lesson-national-defence?utm_source=rss_feed",
-      "date": "2026-07-03 08:06",
-      "summary": "Groups of Hong Kong students on Friday had a lesson aboard two PLA Navy warships moored at Stonecutters Island’s Ngong Shuen Chau ..."
+      "title": "What is 'SpudCell'? Arguably the greatest bioengineering feat yet",
+      "link": "https://www.newscientist.com/article/2532689-what-is-spudcell-arguably-the-greatest-bioengineering-feat-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-01 21:08",
+      "summary": "A prototype cell partly capable of replicating itself has been created using 36 existing bacterial genes, but it's not really a li..."
+    },
+    {
+      "title": "The weirdness of neutrinos could completely rewrite particle physics",
+      "link": "https://www.newscientist.com/article/2532479-the-weirdness-of-neutrinos-could-completely-rewrite-particle-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-01 15:00",
+      "summary": "A philosopher has put forward an argument for rethinking how particles are defined within the standard model of particle physics..."
     }
   ]
 }
