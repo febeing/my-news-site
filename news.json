@@ -33,16 +33,16 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
-      "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
-    },
-    {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+    },
+    {
+      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
+      "date": "2026-06-03 07:00",
+      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
@@ -57,10 +57,10 @@
       "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
     },
     {
-      "title": "Lessons from Beyoncé on public policy - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObzRsRGlOZm1IbDRJUGVETFpocldIS0N1SGpqWkk3TUpwdVlwUGprOERubG9FLW80MlRpcE1CTFdOeVJtSFRwMGM0bkY3Yi1teFQ5eGdYcFhzZTc1MXBlbTNoU1F5dm94MVBOWkZlei02akVBRmNvd2s4cTJpR0NMOXQtR0V5Qm1WaUtQNDJ3?oc=5",
-      "date": "2026-05-15 07:00",
-      "summary": "Lessons from Beyoncé on public policy  Harvard Gazette..."
+      "title": "Plan to rein in inflated grading explained - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREw0ZkpDcGFxVUhxSDA0amh3eGxvUlRsYUwxMm8yTTlZcmNZdmtoQTZGNTBPS241Umk0Tl9qdURQaWlXTWZhbkp0eUhvamRXWnNPamZnMkM5dUh4WWNMSXpmXy1YaE1oRmhvOWNXTFRwQnVLZFlkY21zcmd4YTk2amhLOWE2aXI3Tl9ITWtFWXZobkhY?oc=5",
+      "date": "2026-03-26 07:00",
+      "summary": "Plan to rein in inflated grading explained  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -161,6 +161,12 @@
   ],
   "Reuters AI": [
     {
+      "title": "AI hiring outpaces overall IT recruitment in India, report shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzN3S05KWUZNTnRhZDdUcERXbjBQT09sUXd1MzVWTk5mdFRwU2VXMzFwWE80SHRFZzFmSTVKbkhqS3UxZXp4ckZ2UFdiOUtnUi1lbTl2QUc2Y2ZxelUxMWkzTUswTGlGUnFiWG15TC1kcnV1dm5qSU5xWnA3N2Qwb0RWZk1RZ19fU0huNGxneUYzaHB4bkd3X2ZjT2JJTEJacG0xbHllRmVncDBr?oc=5",
+      "date": "2026-07-03 12:17",
+      "summary": "AI hiring outpaces overall IT recruitment in India, report shows  Reuters..."
+    },
+    {
       "title": "OpenAI proposes handing Trump administration a 5% stake, FT reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUNkeGxUSzgzdlZ3STBUWGtaU3pHVUFhUWlCYWh6MVZKVjNnckJRTVBiNFF0d0ZvTjB0OWtGcWtxR1ZIY1lLVUdtSHQ4LXY3MUQ4ZHNIdkFyMzRuOXZkaEVqMDBaTjRkeXYzcGNTVWg2TEwxWUNVVFJDcEtSbUFnd2J1NzVJLXJPX3lHcG1icFh3YmxqMDR0cS1qTW85ZnpQeXBwdUNuQjBETmIw?oc=5",
       "date": "2026-07-02 04:27",
@@ -169,7 +175,7 @@
     {
       "title": "Zuckerberg says Meta’s AI agent progress slower than expected - Reuters - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOFRTazVMUGtSbGpETVRsUl9OVmRUd2ZTSDQxYUVOdTRmV25HRzF5ZUc0dTVWeW0weWpNTVA2U3BzYlpBM0Y0QjUyRWRmVzE0YmFiM2NHbzktMUFoXzdIQ0ZVV0NrUTVvUGNfeE9iRUQ5dkNEa3RuUlppcTlsUzQ0UzR6TEFBN25Tc0FQR2UzS0RKam5lVnZLc3JNbEYtM3pzZVpGQUlEWVAzWlc3QnYxNTZLMmJ2RnZ4TWR5VDVfS3lVQldu?oc=5",
-      "date": "2026-07-03 00:31",
+      "date": "2026-07-03 00:55",
       "summary": "Zuckerberg says Meta’s AI agent progress slower than expected - Reuters  Investing.com..."
     },
     {
@@ -183,26 +189,20 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzFpMWZDTXlQMENEWENudWcwWThrNU00ZVp5UWQwWGp6QXd6d3ZBcmtjRnhLdFZzdFZvWjgxeWRLdDk0eEtiZWV1UGpEUWhhRlYtaHdtODVSNkdqdHlBR3lpYkpkOVNNWTdROHhEX0FlQzdlYTdmRThfd1ZVX2pkc3ZYYlVwdzVZUXU2TWh1c09NRGgyRVpWMEZ6RFhJVk5ld3pQLXlUdXZiRHE3WHBaTXZn?oc=5",
       "date": "2026-07-02 11:02",
       "summary": "India, Japan sign pacts on AI, metals and energy after Modi-Takaichi talks  Reuters..."
-    },
-    {
-      "title": "Musk denies WSJ report that SpaceX showed AI handset prototype before IPO - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFJZTzFRUHJxMVVWc0FKU3Vhb29hWFVDQTRZdzhMaE1BYTVWbHVHUWZtNTY3VnBER0pBbUJOUEEtSkt0NnRoRDlNVldoTm50T3NiTEVNY09GcWZaOVJTeWhTUWpwLXFqLU1FRDlkRnFvdGI3N1VqMGIxX1hFREF1RXoyd2ZKYVZKbmhDRFR4N29EeVI3T2QxUEZxcEloWk1fQW5ZNW52WFJvQnE5MUdGMGtEVE5lZGlCemcyNmVGTnQ1clhZRkp4QWg5aUM?oc=5",
-      "date": "2026-07-01 19:03",
-      "summary": "Musk denies WSJ report that SpaceX showed AI handset prototype before IPO  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "A device that revives eyeballs from dead donors could make eye transplants possible - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLUw2ZnVJd0V1djNHQ0YtNmdKMnNSRG0zc3NvOVduLUw5OVdTM2N0SDF3VFM0YmNZT3NxVWJOanNUb1lfS0NwWjg5eWFBT1BVV2VGb0UtMFdsbXkzTUF0c3JJR0pydFNEM2g4QWEwd1o3cWFVOGlyUEk3RnhBdWRCTGI1M3RJa0RlOTNjVmtBZnZ6WmlxZnRIM24zVDdPNUxfNjdFNUFQclVUb1ZySFFyOXdsRmlIWVF2WUhwV0lpNHQ1Q2Q5aXRoOG52TElFcEVQbEHSAdcBQVVfeXFMTXhTMXR6SHNwZ3ExM1JVLTROVjhBMThzZFVqOVgyZzF6SFpXZGhIdUtBck9ObHd4NFlpWHNRVGJzSzZoOEZ2cG5IWURCTjBiZ0huVGoyRXJDTnkzVTg0d0ZIaGsxSGEtb0dTcXROLWhtQXFLN2tzay0xYV9laW9STkwzSTV4b0xBRmxIME1DcFQ2a1pPZDdUbUU0NUVia3VQWXBxVUhTVENXd0dRMFlsNUVGS1I4OFdrZ2pmc0pLeGJZV2hPb2Q2YmlhRkZhWWwtSFBhN2oyUjA?oc=5",
-      "date": "2026-07-03 17:34",
-      "summary": "A device that revives eyeballs from dead donors could make eye transplants possible  MIT Technology Review..."
-    },
     {
       "title": "AI agents are not your “coworkers” - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUVvV3UtNjdYZHZjVHJvcDhzNFlYN0VOWDE5OXk1Ny1qNEZ6elVCdmNKUHAwRk5CaXFBMUJQV013M3A0UVhWU1A0QmRGOHZQdFVyNnNoYXpWQW1WU3Zwa19tWDNSOVlibjRqRDZWZlVOWGVjM2ltem1OaEdoTGtHckdWb1pacG55NzhraWlR0gGTAUFVX3lxTE54NEtzTndmUGVZcFZUdHBpWHlkcWxqNHpabFFzWmR3aUJWVUtTSDBsekZhbHY2amI3eVZhWEFSVHFWVF9OdElvWGZwZEdKa3JLU1VSclFheGZuZVRfeXJrekhjaDd1YjYtVWdVekhMZXd0OEc5VGZCcDNURS1obkx5SHVJOTA3M1kyV085SUZWNWs0MA?oc=5",
       "date": "2026-06-29 18:00",
       "summary": "AI agents are not your “coworkers”  MIT Technology Review..."
+    },
+    {
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLUw2ZnVJd0V1djNHQ0YtNmdKMnNSRG0zc3NvOVduLUw5OVdTM2N0SDF3VFM0YmNZT3NxVWJOanNUb1lfS0NwWjg5eWFBT1BVV2VGb0UtMFdsbXkzTUF0c3JJR0pydFNEM2g4QWEwd1o3cWFVOGlyUEk3RnhBdWRCTGI1M3RJa0RlOTNjVmtBZnZ6WmlxZnRIM24zVDdPNUxfNjdFNUFQclVUb1ZySFFyOXdsRmlIWVF2WUhwV0lpNHQ1Q2Q5aXRoOG52TElFcEVQbEHSAdcBQVVfeXFMTXhTMXR6SHNwZ3ExM1JVLTROVjhBMThzZFVqOVgyZzF6SFpXZGhIdUtBck9ObHd4NFlpWHNRVGJzSzZoOEZ2cG5IWURCTjBiZ0huVGoyRXJDTnkzVTg0d0ZIaGsxSGEtb0dTcXROLWhtQXFLN2tzay0xYV9laW9STkwzSTV4b0xBRmxIME1DcFQ2a1pPZDdUbUU0NUVia3VQWXBxVUhTVENXd0dRMFlsNUVGS1I4OFdrZ2pmc0pLeGJZV2hPb2Q2YmlhRkZhWWwtSFBhN2oyUjA?oc=5",
+      "date": "2026-07-03 17:34",
+      "summary": "A device that revives eyeballs from dead donors could make eye transplants possible  MIT Technology Review..."
     },
     {
       "title": "10 Key Takeaways From MIT Technology Review's Agent Confidence Report - Forbes",
@@ -225,6 +225,24 @@
   ],
   "Phys.org": [
     {
+      "title": "Plug-and-play single-photon source can work at room temperature",
+      "link": "https://phys.org/news/2026-07-play-photon-source-room-temperature.html",
+      "date": "2026-07-03 22:40",
+      "summary": "The Korea Research Institute of Standards and Science (KRISS) has developed a room-temperature single-photon source built into a c..."
+    },
+    {
+      "title": "How generative AI and physics can help design new antibiotics",
+      "link": "https://phys.org/news/2026-07-generative-ai-physics-antibiotics.html",
+      "date": "2026-07-03 22:00",
+      "summary": "By 2050, scientists estimate that antibiotic-resistant infections will be associated with more than 8 million deaths around the wo..."
+    },
+    {
+      "title": "Megalodon's legendary life revealed by fossil rediscovery",
+      "link": "https://phys.org/news/2026-07-megalodon-legendary-life-revealed-fossil.html",
+      "date": "2026-07-03 21:20",
+      "summary": "Museums are supposed to be havens for the collective cultural and scientific heritage of the planet, but specimens sometimes go mi..."
+    },
+    {
       "title": "Small-molecule switches put therapeutic CRISPR editing under on-demand control in living tissues",
       "link": "https://phys.org/news/2026-07-small-molecule-therapeutic-crispr-demand.html",
       "date": "2026-07-03 20:40",
@@ -235,24 +253,6 @@
       "link": "https://phys.org/news/2026-07-gentle-nudges-animal-welfare.html",
       "date": "2026-07-03 20:00",
       "summary": "Gentle purchase incentives can lead customers to choose groceries with higher animal husbandry standards more often. A recent stud..."
-    },
-    {
-      "title": "Free-text answers and LLMs reveal hidden reasons behind human choices",
-      "link": "https://phys.org/news/2026-07-free-text-llms-reveal-hidden.html",
-      "date": "2026-07-03 19:00",
-      "summary": "Why do people make the choices they do? Researchers from the Center Synergy of Systems (SynoSys) at TUD Dresden University of Tech..."
-    },
-    {
-      "title": "Giant wheat starch granules—a leap forward in biological engineering with potential benefits for diet, manufacturing",
-      "link": "https://phys.org/news/2026-07-giant-wheat-starch-granules-biological.html",
-      "date": "2026-07-03 18:00",
-      "summary": "Scientists have grown wheat containing supersized starch granules—a leap forward in biological engineering with potential benefits..."
-    },
-    {
-      "title": "Newfound family ties link Scythian elite burials across the Eurasian steppe",
-      "link": "https://phys.org/news/2026-07-newfound-family-link-scythian-elite.html",
-      "date": "2026-07-03 18:00",
-      "summary": "A new ancient DNA study published in Science Advances provides evidence that political power among Scythian elites may have been i..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "New Scientist": [
     {
+      "title": "‘Hobbit’ hominins scavenged meat left over by Komodo dragons",
+      "link": "https://www.newscientist.com/article/2532777-hobbit-hominins-scavenged-meat-left-over-by-komodo-dragons/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-03 19:00",
+      "summary": "An experiment that involved feeding a dead goat to a Komodo dragon as well as an analysis of thousands of ancient bones suggests t..."
+    },
+    {
       "title": "A volcano has erupted remnants of Earth's primordial magma ocean",
       "link": "https://www.newscientist.com/article/2532929-a-volcano-has-erupted-remnants-of-earths-primordial-magma-ocean/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-07-03 15:13",
@@ -343,12 +349,6 @@
       "link": "https://www.newscientist.com/article/2532825-june-heatwave-may-have-killed-around-20000-people-in-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-07-02 17:17",
       "summary": "It will be some months before the true toll of Europe's worst-ever heatwave is confirmed, but researchers can estimate a death cou..."
-    },
-    {
-      "title": "Random wobbles in time could finally solve gravity’s greatest mystery",
-      "link": "https://www.newscientist.com/article/2532714-random-wobbles-in-time-could-finally-solve-gravitys-greatest-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-07-02 16:00",
-      "summary": "The question of how gravity interacts with the quantum world has long perplexed physicists, but a non-quantum theory of space-time..."
     }
   ]
 }
