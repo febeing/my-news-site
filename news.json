@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "A life — and afterlife — in poetry - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVE5nYnB0bnQ4LXFGN2lmM1pzSWpGSlVYdkVSV1JQRkJWR2lISFFZY2F3bU5YcUZZMV9VSUtZU1FRU0luNFpsc3p6cmp0eXJqTld1aEd0eElVNXZITkVXMG1pNDU3QmFoNkUxSHNDNUh5NTAxVjNHcmpkRmxSLVVjZWtzOEY?oc=5",
-      "date": "2026-06-10 07:00",
-      "summary": "A life — and afterlife — in poetry  Harvard Gazette..."
-    },
-    {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRCNE1YZ0h5NkU4MmtrUnh5TmcyWlVoZHBJN25nR1FUUjByVmxENDZsMmxuMWRVajhKV1FPb1owUWRDay1lQk53TzMyQUo2RmRSczdJOC1Lb0wtQmJScFFtZU9kN3A1MFdCNjMxNXhsVDRDZ3hHbWZwTjdYcjBxcXNXZ182MVlqN0dvTEgycW5NaC0ybWl0eHJuRjBla3JKemc?oc=5",
       "date": "2026-05-26 07:00",
       "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
+    },
+    {
+      "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -83,16 +83,16 @@
       "summary": "He scored 53 in JEE but still got into Stanford, Princeton and Caltech: Here's how  India Today..."
     },
     {
+      "title": "Rubin Observatory launches 10-year cosmic survey - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSnY2MHRyOVdoUVFIMGVfUEo2LU5zUzRJNy1qSHJQWFozZjNtSGtGZ1NNajVUaXYwRVNWZ1JMem9xb1VicHJjVFNudzk5UHFiYXZtSUZDMnVWMUxXNmhkMm1VXzd1Q0hhUVY5NlRiMFdZNS1ETW8wWXJFQjlZQ1RxcWhFUWVQS1FrczRrcg?oc=5",
+      "date": "2026-06-30 15:34",
+      "summary": "Rubin Observatory launches 10-year cosmic survey  Stanford Report..."
+    },
+    {
       "title": "Amorality and greed at Silicon Valley’s favourite university - The Economist",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMzdaUlFxMDVRTVl4UzhlaTRYT2tSaHhXdGg4NV9DNDVFdWYyanJBZDlOM3NCNzFWNGZDY25nc1hVOEJwUThmSzdUa052UlRKZjlrdGVqN2VOaUJBMGlJV1BUMVpDRXhHYUs2NFF4Nmc4MlN0T1VhbXRoUVFLQ3pfR1d4VXFLMng3VHFaa1VuVlNXdGpKdHFia1l4cE9jU3pNakl5N29wYw?oc=5",
       "date": "2026-07-02 14:22",
       "summary": "Amorality and greed at Silicon Valley’s favourite university  The Economist..."
-    },
-    {
-      "title": "Roman Shemakov ’20 Named Knight-Hennessy Scholar at Stanford :: News & Events - Swarthmore College",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc25CdWpxNnpFYUp4dkV5NU5VdElORHY5Y3ZRM01FTUdvQ1pOb1NGeTBPSnFoemZhTU5YeVhRWDdRR1NFMElwRDZSOVFrWnlsejNZTE5yeHcwa19nSUpPeHZzbkR0RTdHZjFrbmd5aWRrbUdHempPcy1NMUdJLXVsbHBBNlJTN1JBeVNSUXNNY0ZUZEtzUzRWYnJLdTJrUHM0N2JXcHVKSQ?oc=5",
-      "date": "2026-07-01 13:17",
-      "summary": "Roman Shemakov ’20 Named Knight-Hennessy Scholar at Stanford :: News & Events  Swarthmore College..."
     }
   ],
   "Nature Careers": [
@@ -225,6 +225,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Spain data on 5.5 million convictions challenges immigration-crime link",
+      "link": "https://phys.org/news/2026-07-spain-million-convictions-immigration-crime.html",
+      "date": "2026-07-05 11:00",
+      "summary": "When analyzing crime, the foreign population typically shows higher rates than the native population. However, crime statistics ch..."
+    },
+    {
+      "title": "Controlling magnetic chirality could help memory pack in more data",
+      "link": "https://phys.org/news/2026-07-magnetic-chirality-memory.html",
+      "date": "2026-07-05 10:40",
+      "summary": "Magnetic storage devices, like a computer's hard disk drive, utilize magnets to represent binary data. However, as these devices a..."
+    },
+    {
       "title": "'Very dangerous' super typhoon nears US Pacific islands",
       "link": "https://phys.org/news/2026-07-dangerous-super-typhoon-nears-pacific.html",
       "date": "2026-07-05 08:55",
@@ -241,18 +253,6 @@
       "link": "https://phys.org/news/2026-06-people-greenland-told-wildfires.html",
       "date": "2026-07-05 02:50",
       "summary": "After several quieter years, wildfires have returned to western Greenland...."
-    },
-    {
-      "title": "How proteins are inserted into cell membranes",
-      "link": "https://phys.org/news/2026-06-proteins-inserted-cell-membranes.html",
-      "date": "2026-07-04 23:30",
-      "summary": "Researchers from Heinrich Heine University Düsseldorf (HHU) have—in collaboration with colleagues from Ludwig Maximilian Universit..."
-    },
-    {
-      "title": "Planned 1.7 million satellites 'devastating' for astronomy: Study",
-      "link": "https://phys.org/news/2026-07-million-satellites-devastating-astronomy.html",
-      "date": "2026-07-04 22:20",
-      "summary": "The 1.7 million satellites that companies are aiming to launch into Earth's orbit in the coming years will have \"devastating conse..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Helpers’ union calls for raising food allowance to HK$2,770, citing inflation",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3359480/helpers-union-calls-raising-food-allowance-hk2770-citing-inflation?utm_source=rss_feed",
+      "date": "2026-07-05 11:28",
+      "summary": "A union representing foreign domestic helpers in Hong Kong has urged authorities to more than double their monthly food allowance ..."
+    },
+    {
+      "title": "Can you get cancer? Hong Kong doctors say it takes more than 1 mistake",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3359439/can-you-get-cancer-hong-kong-doctors-say-it-takes-more-1-mistake?utm_source=rss_feed",
+      "date": "2026-07-05 11:00",
+      "summary": "In the final instalment of a six-part Health Matters wellness series on cancer in Hong Kong, Anthea Rowan explores how genetics, l..."
+    },
+    {
+      "title": "Motorcyclist dies after crashing head-on with tricycle in Hong Kong",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3359476/motorcyclist-dies-after-crashing-head-tricycle-hong-kong?utm_source=rss_feed",
+      "date": "2026-07-05 10:14",
+      "summary": "A motorcyclist died after losing control of his bike and colliding head‑on with a tricycle in Hong Kong on Sunday afternoon.\nPolic..."
+    },
+    {
       "title": "Hong Kong aurora-chasing tour group rescues 2 divers lost at sea in Australia",
       "link": "https://www.scmp.com/news/hong-kong/article/3359471/hong-kong-aurora-chasing-tour-group-rescues-2-divers-lost-sea-australia?utm_source=rss_feed",
       "date": "2026-07-05 08:59",
-      "summary": "A Hong Kong tour group on an aurora-chasing boat ride near an island in Australia saved two fellow city residents who went missing..."
+      "summary": "A Hong Kong tour group on an aurora-chasing boat ride near an island in Australia has saved two fellow city residents who went mis..."
     },
     {
       "title": "Nearly 60% of Hong Kong parents mistake deadly disease for a cold, survey finds",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3359469/nearly-60-hong-kong-parents-mistake-deadly-disease-cold-survey-finds?utm_source=rss_feed",
       "date": "2026-07-05 08:47",
       "summary": "Nearly 60 per cent of Hong Kong parents mistakenly believe that invasive meningococcal disease is no different from a common cold,..."
-    },
-    {
-      "title": "Hong Kong must brace for AI bubble risk and quantum computer threat: HKMA chief",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3359457/hong-kong-must-brace-ai-bubble-risk-and-quantum-computer-threat-hkma-chief?utm_source=rss_feed",
-      "date": "2026-07-05 06:35",
-      "summary": "Hong Kong must brace for the emerging risks of an artificial intelligence (AI) bubble bursting and quantum computers capable of ha..."
-    },
-    {
-      "title": "Doctor given 9‑month ban for misconduct in case that left boy disabled for life",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3359460/doctor-given-9-month-ban-over-misconduct-case-left-boy-disabled-life?utm_source=rss_feed",
-      "date": "2026-07-05 06:32",
-      "summary": "A Hong Kong paediatrician has been removed from the General Register for nine months after being found guilty of professional misc..."
-    },
-    {
-      "title": "Hong Kong restaurants spend to welcome furry diners under pet-friendly scheme",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3359438/hong-kong-restaurants-spend-welcome-furry-diners-under-pet-friendly-scheme?utm_source=rss_feed",
-      "date": "2026-07-05 04:00",
-      "summary": "Pet strollers, partitions and pre-dining briefings for customers are among the measures Hong Kong restaurants are taking ahead of ..."
     }
   ],
   "New Scientist": [
