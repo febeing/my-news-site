@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Discovery helps explain why solid-state batteries often fail",
+      "link": "https://news.mit.edu/2026/discovery-helps-explain-why-solid-state-batteries-often-fail-0706",
+      "date": "2026-07-06 16:00",
+      "summary": "New research could help prevent the formation of tiny seeds of lithium metal within the electrolyte, enabling batteries that charg..."
+    },
+    {
       "title": "Building a scholarly community",
       "link": "https://news.mit.edu/2026/building-scholarly-community-shass-faculty-fellows-0702",
       "date": "2026-07-02 17:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/boleslaw-wyslouch-steps-down-director-laboratory-nuclear-science-0701",
       "date": "2026-07-01 18:30",
       "summary": "Wyslouch remains the director of the Bates Research and Engineering Center and will continue research on heavy ion collisions...."
-    },
-    {
-      "title": "A portable ultrasound system could make reliable breast imaging more accessible",
-      "link": "https://news.mit.edu/2026/portable-ultrasound-system-could-make-reliable-breast-imaging-more-accessible-0701",
-      "date": "2026-07-01 09:00",
-      "summary": "The new technology, which generates high-resolution, 3D images of breast tissue, requires no expertise to operate and could be use..."
     }
   ],
   "Harvard Gazette": [
@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "A scientist building microscopic cleanup crews for chemicals - Stanford Doerr School of Sustainability",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSE5ueVJjOWxaT0ZXZkp1UW12c1Z0aTNZVmx2M2JMMHp1UzFfRDQteUZZcnFRM01hdFJ2Q2g2YjNIRExGbFc3M3dqV3haT1B5WXNxYXpDWGc0TWFJR3pvZUQxdy0ySkdtRklMTDAzTVdSQzZUY3VmekgwYUZlVVhTZDNDTFcyc0ltbjhtdnZ6cWVWYUIwWk9lTXpSaw?oc=5",
-      "date": "2026-07-06 12:00",
-      "summary": "A scientist building microscopic cleanup crews for chemicals  Stanford Doerr School of Sustainability..."
+      "title": "Law and Economics and Corporate Law Scholar Albert H. Choi Joins Stanford Law School Faculty - Stanford Law School",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTFhwcEEzU1ZhY2Vaam1wVDJfUDQ3WEdKLU9aRE9uTlVYNXk2aWJSUENMNzhrem5oUldNRXpJSGdnVmNzY09BdHlLeEIxUDBDSHZZNDhPQ2pfdVRfVVBOTDdNNDFiS2tyb0x1ZDAwbnl4M3hNX2Fqb1BTd1BpRkpES283UlZKNk1ITEJnd0NLeFdOcGlzaVo1RmVHSzZSS0w1ekczN1FlblZwM09IY0VVWlNiWVJQbEttTTVzV3ZYblE?oc=5",
+      "date": "2026-07-06 16:05",
+      "summary": "Law and Economics and Corporate Law Scholar Albert H. Choi Joins Stanford Law School Faculty  Stanford Law School..."
     },
     {
       "title": "Reported sexual assault of jogger did not occur, investigation finds - The Stanford Daily",
@@ -77,25 +77,37 @@
       "summary": "Reported sexual assault of jogger did not occur, investigation finds  The Stanford Daily..."
     },
     {
-      "title": "Amorality and greed at Silicon Valley’s favourite university - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMzdaUlFxMDVRTVl4UzhlaTRYT2tSaHhXdGg4NV9DNDVFdWYyanJBZDlOM3NCNzFWNGZDY25nc1hVOEJwUThmSzdUa052UlRKZjlrdGVqN2VOaUJBMGlJV1BUMVpDRXhHYUs2NFF4Nmc4MlN0T1VhbXRoUVFLQ3pfR1d4VXFLMng3VHFaa1VuVlNXdGpKdHFia1l4cE9jU3pNakl5N29wYw?oc=5",
-      "date": "2026-07-02 14:22",
-      "summary": "Amorality and greed at Silicon Valley’s favourite university  The Economist..."
+      "title": "A scientist building microscopic cleanup crews for chemicals - Stanford Doerr School of Sustainability",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSE5ueVJjOWxaT0ZXZkp1UW12c1Z0aTNZVmx2M2JMMHp1UzFfRDQteUZZcnFRM01hdFJ2Q2g2YjNIRExGbFc3M3dqV3haT1B5WXNxYXpDWGc0TWFJR3pvZUQxdy0ySkdtRklMTDAzTVdSQzZUY3VmekgwYUZlVVhTZDNDTFcyc0ltbjhtdnZ6cWVWYUIwWk9lTXpSaw?oc=5",
+      "date": "2026-07-06 12:00",
+      "summary": "A scientist building microscopic cleanup crews for chemicals  Stanford Doerr School of Sustainability..."
     },
     {
-      "title": "\"I Got 53 Out of 360 In JEE\": Stanford Student Explains How He Got Into Stanford, Princeton, Caltech - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNODJBUnZVOUVmZ0c2bVNtc2FoRHBKZWdnRFNWTjQ2X0pFa0tNWmZFT0o1RDNoYUpCSnZNZGFDQ0t6Zl8yTjNaelI4NmpSVlpETFV5OXNnZlhRSjQzZl92WjBienZVMjBuTW5BVmN6bGdpRkxULXZjbmhHbnd6dGo3c1A1bFliMUZrN2hzYU4tU0dvQV9jOUlGNVNuNzFPeHR1NWZPZDNPVldOMkRrWWFtdzk1dGNoNnBqNVU5Mk8xQnBNY21Kb1hsNk9TQzZMMERx0gHYAUFVX3lxTE5fcEVqUFRkUWhzdlJXc2xpZmFhaGdQWmpsTTdOZHYteFpEZ3N3UGlQUTRFeTNKU0s2WFl1dnpxZ3g0YkJvaDZfMmVRSUJpTDExUmZHak5ya2FZLTM5X3p1OHc4N0gxN0pSYnkxNW81T3J1cThLRmpZRGZPSUFsbmJPZ3YwVEI0aENOcXFzUFlEdXgxWGZUUzc5REJnRzNYZkhlbXAySlpuc1BCWDBxTDBDX0hHT1ZkSDJTaXB4cEFaWkk1SUkzNE9rWEdJcmVOLU8xX3Fmek9fbA?oc=5",
-      "date": "2026-07-05 02:04",
-      "summary": "\"I Got 53 Out of 360 In JEE\": Stanford Student Explains How He Got Into Stanford, Princeton, Caltech  NDTV..."
+      "title": "Inside the AI Index: 12 Takeaways from the 2026 Report - Stanford HAI",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGxZRERhMDlvSW91MG1td1hzeGNvZFRHTzRMWjhOczR2dmlTSU5fQzhfT1U2YW4wUUJlVHYycDZfME4xUHFkdDFkOUpKWVl1U1RDenVkSkFZZzIzWWJnZkhDQW10MEZUdVg5NUFJeXRhZXVBRHdhb09ZdnAxMGw0cHk5ZWVfbnNCRTVJ?oc=5",
+      "date": "2026-04-11 18:53",
+      "summary": "Inside the AI Index: 12 Takeaways from the 2026 Report  Stanford HAI..."
     },
     {
-      "title": "Dozens walk out as Google boss Pichai addresses Stanford graduates - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUNHZkVFlPOVM3OGw5WjlaMmxaY191cV9ORkM4a3FEaHJSZTQ1WmlhTW9JaXMyZFF6NXFFM09mWlI2NE1JaWl1R21aT1BTVFpwbk9Jc3lkeXJZdw?oc=5",
-      "date": "2026-06-16 07:00",
-      "summary": "Dozens walk out as Google boss Pichai addresses Stanford graduates  BBC..."
+      "title": "New undergraduate education initiative launches - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUmc5MjlzaTc1Mm1UZnpYdGNkQVA3QVBJa0g3Y3JuMVU1M3Q5eTlNclRnYlVaelFGVkJWTXpjMUJJWmdSMVRSSTl5QkszQ183QjVSRHU2Zk5iSGU3Q3NBWDNZSzJiODMxSlpGNWFyR2V0UzlENmpyUDVNM2pDM0JHOUtHNjZGYUh3aENtNmtYX0U2YW8?oc=5",
+      "date": "2026-04-10 07:00",
+      "summary": "New undergraduate education initiative launches  Stanford Report..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Universities are relying on AI-detection software to catch cheating. How well do the programs work?",
+      "link": "https://www.nature.com/articles/d41586-026-01358-2",
+      "date": "2026-07-06 00:00",
+      "summary": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-01358-2Technology companies say that their services can sniff out A..."
+    },
+    {
+      "title": "Deep-sea oddities and boatloads of other new species — June’s best science images",
+      "link": "https://www.nature.com/articles/d41586-026-02087-2",
+      "date": "2026-07-06 00:00",
+      "summary": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02087-2The month’s sharpest science shots — selected by Nature’s ph..."
+    },
     {
       "title": "The rise of computer chips — and the race to control them",
       "link": "https://www.nature.com/articles/d41586-026-02099-y",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-01989-5",
       "date": "2026-07-03 00:00",
       "summary": "Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-01989-5The National Natural Science Foundation of China says it wil..."
-    },
-    {
-      "title": "Electrodeposited self-assembled molecules for perovskite photovoltaics",
-      "link": "https://www.nature.com/articles/s41586-026-10844-6",
-      "date": "2026-07-02 00:00",
-      "summary": "Nature, Published online: 02 July 2026; doi:10.1038/s41586-026-10844-6Electrodeposited self-assembled molecules for perovskite pho..."
-    },
-    {
-      "title": "Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization",
-      "link": "https://www.nature.com/articles/s41586-026-10854-4",
-      "date": "2026-07-02 00:00",
-      "summary": "Nature, Published online: 02 July 2026; doi:10.1038/s41586-026-10854-4Author Correction: Synthesis of enantioenriched atropisomers..."
     }
   ],
   "Retraction Watch": [
@@ -161,22 +161,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "AI hiring outpaces overall IT recruitment in India, report shows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzN3S05KWUZNTnRhZDdUcERXbjBQT09sUXd1MzVWTk5mdFRwU2VXMzFwWE80SHRFZzFmSTVKbkhqS3UxZXp4ckZ2UFdiOUtnUi1lbTl2QUc2Y2ZxelUxMWkzTUswTGlGUnFiWG15TC1kcnV1dm5qSU5xWnA3N2Qwb0RWZk1RZ19fU0huNGxneUYzaHB4bkd3X2ZjT2JJTEJacG0xbHllRmVncDBr?oc=5",
-      "date": "2026-07-03 12:17",
-      "summary": "AI hiring outpaces overall IT recruitment in India, report shows  Reuters..."
-    },
-    {
-      "title": "Microsoft joins AI-driven tech layoff wave with 4,800 job cuts - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjdJSlpLcUl6ZjVHNk80NEd0VFVkWjJzUTJPYUNBUjFjUjQySmFFblBYRFFKemFZR3FER2FuUlVUR2UzMXV5bnJ4VDY1R2Rpb3FpX2xlelMyMzJUd0tySzJmRTlDeUl1ZU82a3JsYjUtNVUtLXVic09jdktfZWpzSjgwOW5uakQxYXdFRlk3NDd1ZEI5WktfT0pZdmNyVjlyNkVqR3VGVWF4Ums5TExLRUxUT3FPTnVZXzNETw?oc=5",
-      "date": "2026-07-06 13:45",
-      "summary": "Microsoft joins AI-driven tech layoff wave with 4,800 job cuts  Reuters..."
-    },
-    {
-      "title": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkRmUHRzNzdsLWFnc0dvQXdYOWF3SkVrQVFIWUFnNXU3M3BDV3FZcWRVbjNMRlltWTNSNV85ZEFBNTQ5RjA5MVZEVERkVHJvdmxES1lSdDFwVktMeEN3OVdDNkRGenExTXRqWDdmZG0wb1RoWFVjdldDSXpQY2FoY3M1Q05kel9waTI5UGxxQ2M5TmNsMHVCVUUzazFIUTU1N2dacGFDQ0xqLXN3bU9oXw?oc=5",
-      "date": "2026-07-06 13:31",
-      "summary": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says  Reuters..."
+      "title": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGJMNzJxUHljaTQ1aDhlVHRYUEQ5WVZOX0xOallVeUNlR0E2cHFSeEh6S2tzZ0VWXzdrY1B3czNRanpQTk5fNmhtTlE0TmtiYmRwOE9VQ05Cd2VaSVpIY2pVa29YM3FLQ0ZIOXNUVGxyUGdaNjNlQUZSOXVibEZYalk0a0pnbWlvc0pSaGd1bVdSUXl0NVpNNlMzMF84RkZJQ0hyMWxQUnA2Tjh2b0RhZW5Yb0M4d1Y0cVdr?oc=5",
+      "date": "2026-07-05 23:07",
+      "summary": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory  Reuters..."
     },
     {
       "title": "From shampoo to cookies, consumer products get an AI makeover - Reuters",
@@ -185,10 +173,22 @@
       "summary": "From shampoo to cookies, consumer products get an AI makeover  Reuters..."
     },
     {
-      "title": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGJMNzJxUHljaTQ1aDhlVHRYUEQ5WVZOX0xOallVeUNlR0E2cHFSeEh6S2tzZ0VWXzdrY1B3czNRanpQTk5fNmhtTlE0TmtiYmRwOE9VQ05Cd2VaSVpIY2pVa29YM3FLQ0ZIOXNUVGxyUGdaNjNlQUZSOXVibEZYalk0a0pnbWlvc0pSaGd1bVdSUXl0NVpNNlMzMF84RkZJQ0hyMWxQUnA2Tjh2b0RhZW5Yb0M4d1Y0cVdr?oc=5",
-      "date": "2026-07-05 23:07",
-      "summary": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory  Reuters..."
+      "title": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkRmUHRzNzdsLWFnc0dvQXdYOWF3SkVrQVFIWUFnNXU3M3BDV3FZcWRVbjNMRlltWTNSNV85ZEFBNTQ5RjA5MVZEVERkVHJvdmxES1lSdDFwVktMeEN3OVdDNkRGenExTXRqWDdmZG0wb1RoWFVjdldDSXpQY2FoY3M1Q05kel9waTI5UGxxQ2M5TmNsMHVCVUUzazFIUTU1N2dacGFDQ0xqLXN3bU9oXw?oc=5",
+      "date": "2026-07-06 13:42",
+      "summary": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says  Reuters..."
+    },
+    {
+      "title": "Companies cutting jobs as investments shift toward AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXJBRjJvS3ZTelBiejB5LThOTTVKblgzUzBxY2pPYkd6Q2dETWdQYXdKcXV0WjNYTkhaM3o1MXJXSXRlVjhKY0RUMXJvQllVMlhmYmRFTmFWcHRVSU1LSUdORHBZbVpPVlR1QXF4MzlWNFdnUm5YajlKZ3QxN0JGQlVZck1wLW5hMy12NFpFdVJ4RFlQOTE3UFFKTXUtNnRQWks2WjVVU21WTFA1T1E?oc=5",
+      "date": "2026-07-06 00:41",
+      "summary": "Companies cutting jobs as investments shift toward AI  Reuters..."
+    },
+    {
+      "title": "Indian IT firms face muted Q1 as AI shift, weak demand weigh - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSEJIQ0tDd21GZmRzbXhsUXNOOHRERGdqQUR5S3RGaHVCU053eTFKbnRrTkZTc0xjNkhZaG1SWEZxSjkzWG51NEJ4V0EtSUZhWkI1cndtT3NWSy0zZk9jVjVKNUFNWXVuYkFUbHlERGV0R29kMHZQZFZuUTB1RThfSlgyOEt6ZTIzbjhzRzJzYkNxUjM0eXV4UmhmNThCcHpUN3dFa0VsSQ?oc=5",
+      "date": "2026-07-06 10:33",
+      "summary": "Indian IT firms face muted Q1 as AI shift, weak demand weigh  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -197,12 +197,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWV9vNl9rQ181eU81QThPUEVQekppZ2R1YUI4Mlh4UHY3b25iQlRGYnk1bkhtSjd2bGRzeHpZNjQ1QV9XVE5jVmRKSWVubmF4dTFEMnRDd1I3YnF3MkFHb1lrMjZHUDZWQmF0ZDEyMU9Zb28zcDJVM2E1S0lTeHRTVXdTY2x3WV9DMklvYk9IajUxZG5iRjN2ZVdFWmJfMUNHMDJEWE9B0gGrAUFVX3lxTE83UTQwZVVGX1dmU0o1ZFZwVUt6Z1gyMjY5SjUzaURpaHk2WG5wMnR2NDJ6ZTJkeVdlRFFSTGRoN1pwU1k5bV9lV2tWb3V0ME9kUVpwV1d1UDg4N1FYcnVId0NVek5sLVBJR2ZncDJib3Fka2hjeHY2dUxtdnpmSGY0Yzh6X2tvTWJCSHlMWW5STnNuQkRucHNYbnJTeXNsZS1IR21QLUxOY05ncw?oc=5",
       "date": "2026-07-06 09:00",
       "summary": "South Korea’s hottest new bachelors are chip workers  MIT Technology Review..."
-    },
-    {
-      "title": "AI agents are not your “coworkers” - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUVvV3UtNjdYZHZjVHJvcDhzNFlYN0VOWDE5OXk1Ny1qNEZ6elVCdmNKUHAwRk5CaXFBMUJQV013M3A0UVhWU1A0QmRGOHZQdFVyNnNoYXpWQW1WU3Zwa19tWDNSOVlibjRqRDZWZlVOWGVjM2ltem1OaEdoTGtHckdWb1pacG55NzhraWlR0gGTAUFVX3lxTE54NEtzTndmUGVZcFZUdHBpWHlkcWxqNHpabFFzWmR3aUJWVUtTSDBsekZhbHY2amI3eVZhWEFSVHFWVF9OdElvWGZwZEdKa3JLU1VSclFheGZuZVRfeXJrekhjaDd1YjYtVWdVekhMZXd0OEc5VGZCcDNURS1obkx5SHVJOTA3M1kyV085SUZWNWs0MA?oc=5",
-      "date": "2026-06-29 18:00",
-      "summary": "AI agents are not your “coworkers”  MIT Technology Review..."
     },
     {
       "title": "Claude Science is Anthropic’s newest flagship product - MIT Technology Review",
@@ -217,6 +211,12 @@
       "summary": "Achieving operational excellence with AI  MIT Technology Review..."
     },
     {
+      "title": "AI agents are not your “coworkers” - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUVvV3UtNjdYZHZjVHJvcDhzNFlYN0VOWDE5OXk1Ny1qNEZ6elVCdmNKUHAwRk5CaXFBMUJQV013M3A0UVhWU1A0QmRGOHZQdFVyNnNoYXpWQW1WU3Zwa19tWDNSOVlibjRqRDZWZlVOWGVjM2ltem1OaEdoTGtHckdWb1pacG55NzhraWlR0gGTAUFVX3lxTE54NEtzTndmUGVZcFZUdHBpWHlkcWxqNHpabFFzWmR3aUJWVUtTSDBsekZhbHY2amI3eVZhWEFSVHFWVF9OdElvWGZwZEdKa3JLU1VSclFheGZuZVRfeXJrekhjaDd1YjYtVWdVekhMZXd0OEc5VGZCcDNURS1obkx5SHVJOTA3M1kyV085SUZWNWs0MA?oc=5",
+      "date": "2026-06-29 18:00",
+      "summary": "AI agents are not your “coworkers”  MIT Technology Review..."
+    },
+    {
       "title": "Teaching AI to run with the turbines - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTWNlaWZ5d0VmZVRuWVFSb1JSNVJzcWU4M2l1WWVTNDhuOGM4RGxWX1BkcnVIenRDbjVTVkdQaENQRDFaM1VCYXM4MlhaVjc1VFI2Y2FseHE2WVN5dmhEcXl1NUtiaWQ5ME9UZE9JVUZnQ0JLeGpENVZOM095YWJxN1JCdGhGaW9RdW5rRzZaTWxlTnPSAZgBQVVfeXFMTmwwRG5IZ0VDcUdfVDhvenpYbFVUUkFYVHJSU0pqaE9xUWJoeVRZazB0aktFelFPMzUxc2hQclJ1RF9ncVF2SEJQenZTMDNjbW10VkNtZVY1Wko2N3pMcGRVN2VtbFN5RnRsdnVsNTRQOG1faTFEQ1ZaUDdwQldoNHB1VlMwaGNZZ0E4dzRuM3FkcXBPbms0ejQ?oc=5",
       "date": "2026-07-02 12:51",
@@ -225,37 +225,43 @@
   ],
   "Phys.org": [
     {
-      "title": "Upside‑down whales aren't sick or hurt—they're just resting",
-      "link": "https://phys.org/news/2026-07-upsidedown-whales-sick-theyre-resting.html",
-      "date": "2026-07-06 14:20",
-      "summary": "If you stand on one of Australia's southern shorelines at this time of year, you might be lucky enough to spot a southern right wh..."
+      "title": "Unexpected discovery yields new graphene oxide production method",
+      "link": "https://phys.org/news/2026-07-unexpected-discovery-yields-graphene-oxide.html",
+      "date": "2026-07-06 17:40",
+      "summary": "Researchers in the Texas A&M University J. Mike Walker '66 Department of Mechanical Engineering have developed a new method for pr..."
     },
     {
-      "title": "The evolutionary pressure behind sexual asymmetry revealed in yeast cell study",
-      "link": "https://phys.org/news/2026-07-evolutionary-pressure-sexual-asymmetry-revealed.html",
-      "date": "2026-07-06 14:20",
-      "summary": "A major transition in evolution is the shift from asexual to sexual reproduction in early organisms. But why would a yeast cell, w..."
+      "title": "What do people really eat? New global database gives best answer yet",
+      "link": "https://phys.org/news/2026-07-people-global-database.html",
+      "date": "2026-07-06 17:40",
+      "summary": "A major new resource that provides one of the most comprehensive pictures yet of what people are eating around the world has been ..."
     },
     {
-      "title": "A last dance before death: Binary stars and the origins of interacting supernovae",
-      "link": "https://phys.org/news/2026-07-death-binary-stars-interacting-supernovae.html",
-      "date": "2026-07-06 14:00",
-      "summary": "When massive stars die, they unleash some of the most powerful explosions in the universe. Yet not all supernovae are created equa..."
+      "title": "Paleontologists make 'one in a million' discovery of soft tissue preserved in 450-million-year-old fossil",
+      "link": "https://phys.org/news/2026-07-paleontologists-million-discovery-soft-tissue.html",
+      "date": "2026-07-06 17:37",
+      "summary": "Before the oldest dinosaur, before animals or even plants had expanded onto dry land, ancient relatives of starfish called crinoid..."
     },
     {
-      "title": "Climate change is silencing the Pilbara barking gecko",
-      "link": "https://phys.org/news/2026-07-climate-silencing-pilbara-barking-gecko.html",
-      "date": "2026-07-06 14:00",
-      "summary": "New research from Monash University has provided the first comprehensive assessment of the Pilbara barking gecko (Underwoodisaurus..."
+      "title": "Astronomers spot an extremely rare galaxy mega-merger",
+      "link": "https://phys.org/news/2026-07-astronomers-extremely-rare-galaxy-mega.html",
+      "date": "2026-07-06 17:20",
+      "summary": "Scale in the universe is hard to understand from a purely human perspective. Many times, the math just doesn't sit well with our b..."
     },
     {
-      "title": "Ancient hobbit-like humans may have survived on meat left behind by Komodo dragons",
-      "link": "https://phys.org/news/2026-07-ancient-hobbit-humans-survived-meat.html",
-      "date": "2026-07-06 13:55",
-      "summary": "Arguably one of the most curious ancient human relatives is Homo floresiensis, a 3-foot-tall species that lived on the Indonesian ..."
+      "title": "Alpine butterflies track warming uphill, but habitat loss may pose bigger risk",
+      "link": "https://phys.org/news/2026-07-alpine-butterflies-track-uphill-habitat.html",
+      "date": "2026-07-06 17:20",
+      "summary": "A new study published in the journal Alpine Entomology has found that alpine butterflies in the Swiss National Park are closely ma..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "More than 300,000 children absent from school after England World Cup win",
+      "link": "https://www.theguardian.com/education/2026/jul/06/thousands-of-children-absent-from-school-in-wake-of-overnight-england-world-cup-win",
+      "date": "2026-07-06 17:38",
+      "summary": "Exclusive: It is estimated there were around 332,000 fewer children in school on Monday compared to last weekAbout 332,000 fewer c..."
+    },
     {
       "title": "Learning another language appears to slow brain ageing, scientists say",
       "link": "https://www.theguardian.com/education/2026/jul/06/learning-another-language-appears-to-slow-brain-ageing-scientists-say",
@@ -279,17 +285,11 @@
       "link": "https://www.theguardian.com/education/2026/jul/05/ofsted-drops-autism-extremism-guidance",
       "date": "2026-07-05 06:00",
       "summary": "Training document used to teach inspectors updated after campaign by celebrities including Chris PackhamOfsted, the body responsib..."
-    },
-    {
-      "title": "Third of disadvantaged white pupils in England leave primary school without being able to read properly",
-      "link": "https://www.theguardian.com/education/2026/jul/04/third-white-disadvantaged-pupils-england-below-secondary-reading-level",
-      "date": "2026-07-04 12:00",
-      "summary": "Exclusive: Analysis finds lower reading fluency than children from other ethnic backgrounds and richer peersA third of disadvantag..."
     }
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Hong Kong issues red rainstorm warning, with flooding expected in parts of Wan Chai",
+      "title": "Hong Kong cancels red rainstorm signal after hour as suspected waterspout spotted",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3359634/hong-kong-issues-red-rainstorm-warning-flooding-expected-parts-wan-chai?utm_source=rss_feed",
       "date": "2026-07-06 14:07",
       "summary": "This story has been made freely available as a public service to our readers. Please consider supporting SCMP’s journalism by subs..."
@@ -321,6 +321,12 @@
   ],
   "New Scientist": [
     {
+      "title": "5 things to know about sunscreen, according to a skin cancer expert",
+      "link": "https://www.newscientist.com/article/2532744-5-things-to-know-about-sunscreen-according-to-a-skin-cancer-expert/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-06 14:00",
+      "summary": "How much sunscreen should you be using, when should you apply it, and are there any downsides to doing so? Skin cancer expert Rach..."
+    },
+    {
       "title": "Collapse of AMOC ocean current may already be locked in",
       "link": "https://www.newscientist.com/article/2533017-collapse-of-amoc-ocean-current-may-already-be-locked-in/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-07-06 11:49",
@@ -343,12 +349,6 @@
       "link": "https://www.newscientist.com/article/2532777-hobbit-hominins-scavenged-meat-left-over-by-komodo-dragons/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-07-03 19:00",
       "summary": "An experiment that involved feeding a dead goat to a Komodo dragon as well as an analysis of thousands of ancient bones suggests t..."
-    },
-    {
-      "title": "A volcano has erupted remnants of Earth's primordial magma ocean",
-      "link": "https://www.newscientist.com/article/2532929-a-volcano-has-erupted-remnants-of-earths-primordial-magma-ocean/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-07-03 15:13",
-      "summary": "Earth was once covered by a global magma ocean, which later cooled and crystallised – now traces of this primordial event have bee..."
     }
   ]
 }
