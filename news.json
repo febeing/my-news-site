@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "Many black holes had past lives, new research shows",
+      "link": "https://news.mit.edu/2026/many-black-holes-had-past-lives-new-research-shows-0707",
+      "date": "2026-07-07 16:00",
+      "summary": "Physicists have found signs of colliding black holes that are themselves products of previous black hole smash-ups...."
+    },
+    {
+      "title": "Hydrogen: clean fuel of the future — if we can find a cheap and clean way to ship it",
+      "link": "https://news.mit.edu/2026/hydrogen-clean-fuel-of-the-future-if-we-can-ship-it-0707",
+      "date": "2026-07-07 15:10",
+      "summary": "A team led by MIT Energy Initiative researchers developed the HyCAT tool, enabling decision-makers to explore the cost and carbon ..."
+    },
+    {
       "title": "Discovery helps explain why solid-state batteries often fail",
       "link": "https://news.mit.edu/2026/discovery-helps-explain-why-solid-state-batteries-often-fail-0706",
       "date": "2026-07-06 16:00",
@@ -17,32 +29,20 @@
       "link": "https://news.mit.edu/2026/why-are-some-bacterial-genes-high-purines-0702",
       "date": "2026-07-02 17:00",
       "summary": "In certain species of bacteria, the answer lies in shielding RNA transcripts from a quality-control factor called Rho. Understandi..."
-    },
-    {
-      "title": "MIT in the media: Innovating and educating for the next 250 years of America",
-      "link": "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america",
-      "date": "2026-07-01 20:30",
-      "summary": "During a \"Washington Post Live\" panel discussion with ASU President Michael Crow, President Sally Kornbluth explored how universit..."
-    },
-    {
-      "title": "Boleslaw Wyslouch steps down as director of Laboratory for Nuclear Science",
-      "link": "https://news.mit.edu/2026/boleslaw-wyslouch-steps-down-director-laboratory-nuclear-science-0701",
-      "date": "2026-07-01 18:30",
-      "summary": "Wyslouch remains the director of the Bates Research and Engineering Center and will continue research on heavy ion collisions...."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
-      "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
-    },
     {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+    },
+    {
+      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
+      "date": "2026-06-03 07:00",
+      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
       "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
@@ -83,10 +83,10 @@
       "summary": "Wildfire risk drives 84% spike in California home insurance costs in 5 years, Stanford study finds  ABC7 Bay Area..."
     },
     {
-      "title": "Fall 2026 Stanford e-Japan Online Course Applications Now Open - Freeman Spogli Institute for International Studies",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNXBMdE9zWDI4c0kyWkNRM3BPVGh6cEtLSzE5OTQ2MnpFMTBLamxCdFFac2ZuQmMtNElRNWl1bF9FOVdSbm1yeXhRenROQkc1a2plLVlyWXZIbEVJcXZiZWVodndQX3BNb0FHLXQ0QnV3STM0WnVnUDdBdEZTMG9WRFdxd2NONG9VdkE3ZTdrVjNxUWdiaVdF?oc=5",
-      "date": "2026-07-01 12:00",
-      "summary": "Fall 2026 Stanford e-Japan Online Course Applications Now Open  Freeman Spogli Institute for International Studies..."
+      "title": "At Stanford: Unveiling the Hype and Groundbreaking Reality of Physical AI - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tNnFNNFZtQ1dWbWMxN3JaVFBVdzVReUdYUG5lTVZIdHFhSG5KMkhZSVFzOS1HMnk4R2VXZUVUb1FNSkM1SUFEaUQ1dEpQWk9lTWRv?oc=5",
+      "date": "2026-07-07 09:22",
+      "summary": "At Stanford: Unveiling the Hype and Groundbreaking Reality of Physical AI  36 Kr..."
     },
     {
       "title": "LG Uplus Staff Learn New Work Methods at Stanford University - Seoul Economic Daily",
@@ -96,6 +96,12 @@
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity",
+      "link": "https://www.nature.com/articles/s41586-026-10882-0",
+      "date": "2026-07-07 00:00",
+      "summary": "Nature, Published online: 07 July 2026; doi:10.1038/s41586-026-10882-0Publisher Correction: A 98-qubit trapped-ion quantum compute..."
+    },
     {
       "title": "Listen to Gen Z when it comes to AI in education",
       "link": "https://www.nature.com/articles/d41586-026-02110-6",
@@ -115,16 +121,10 @@
       "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02111-5How long can humans live? All evidence points to a maximum o..."
     },
     {
-      "title": "Save Hubble: the race to preserve the space telescope kicks off",
-      "link": "https://www.nature.com/articles/d41586-026-02000-x",
+      "title": "How to widen access to the critical minerals that the world needs",
+      "link": "https://www.nature.com/articles/d41586-026-02100-8",
       "date": "2026-07-07 00:00",
-      "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02000-xThe orbiting observatory’s unique vision and public support ..."
-    },
-    {
-      "title": "How to avoid dementia — what the science really says",
-      "link": "https://www.nature.com/articles/d41586-026-02098-z",
-      "date": "2026-07-07 00:00",
-      "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02098-zAmbitious studies have been examining the protective effects..."
+      "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02100-8A patent pool and licensing architecture would enable more w..."
     }
   ],
   "Retraction Watch": [
@@ -161,16 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy?oc=5",
-      "date": "2026-07-07 10:30",
-      "summary": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say  Reuters..."
+      "title": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGJMNzJxUHljaTQ1aDhlVHRYUEQ5WVZOX0xOallVeUNlR0E2cHFSeEh6S2tzZ0VWXzdrY1B3czNRanpQTk5fNmhtTlE0TmtiYmRwOE9VQ05Cd2VaSVpIY2pVa29YM3FLQ0ZIOXNUVGxyUGdaNjNlQUZSOXVibEZYalk0a0pnbWlvc0pSaGd1bVdSUXl0NVpNNlMzMF84RkZJQ0hyMWxQUnA2Tjh2b0RhZW5Yb0M4d1Y0cVdr?oc=5",
+      "date": "2026-07-05 23:07",
+      "summary": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory  Reuters..."
     },
     {
-      "title": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGRQQzRJX0VFTThJbC1JZnM2NUpNVHZQeEhxODdQejNBODNSLXpYMGdvSWxJMVhRSFBEOWplZy1NMU5qSnFxc3dpOEczN01EcVRQSk1mSXo3ejlMaUoxcks3LURaeGZ0Q3EyZ2dBQVN0QkRXNWg0YWpyOXJ2TjUtLVF4elZRU1VqdUVCdEhGNnFfYV9uYTdaT3V4MVFEZ2swRmlfRw?oc=5",
-      "date": "2026-07-07 11:08",
-      "summary": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say  Reuters..."
+      "title": "From shampoo to cookies, consumer products get an AI makeover - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTHJqRHYxU05Kd0Z5ZjZDdGhOVi1IOHJKUmZoRHpfU3VEaFlXdUIyUHl4anA0ajlrcjBQaUwyOWFESTdMRW1qNnFybjlnMXQ0Y0QwN3hpZnBfcTB3ZDh0amxrZC1oT3ZSNWhXdUdQMEpqTTlVQjU0ZE9nbkNMT0FDVUZwZGxjamxoSlA0dWhBTU1Ed281blh3dlFNN2tuUQ?oc=5",
+      "date": "2026-07-06 06:03",
+      "summary": "From shampoo to cookies, consumer products get an AI makeover  Reuters..."
     },
     {
       "title": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says - Bloomberg.com",
@@ -179,16 +179,16 @@
       "summary": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says  Bloomberg.com..."
     },
     {
-      "title": "Synopsys to cut chip fab manufacturing control software in shift to AI design, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSZFk2bGd3VnR4MjRhQWxsa0RkS29maW1PSFNwblpzd2o5Sm1qRVMxTmRfbEF2ZWJoSUh6WE5mM3ZYTnJ1NEp3LTJ3MnBaU2FzaTlUcF9hOFhrUlhyZ0I3dDc3N0EzeUhvRVJCMnJicU44NWVVbVFYSWRCV29hWTIwZERWRGlYT2hlQ3FzVVpZaHR3UG4zR1V2VGYzQzAwM2tFbHRUV2lxUTk0M0hjOWo3bGZFZnE1YlJ1N1BUQ0ZIS3JCTHpDT2p0TW5sMkhO?oc=5",
-      "date": "2026-07-07 06:18",
-      "summary": "Synopsys to cut chip fab manufacturing control software in shift to AI design, sources say  Reuters..."
+      "title": "Ukraine to Pick AI Models Operated Without Provider Control, Official Says - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORlUyaG5BM1BHdnpOc2V4OTRRU2NfRjc5TE5PTlZfRFpOOGd6R2ZxUnFWUlhuMDBzeXh2SUlLY0lPR1JybndCV05HMHZ2SGRuR0JIU3o1c0FBVFlWY2p6YjY0eWNVa2tZQS04cGdjbHhRN3RKcDBXbHJ1cTR6LUw3WXpJUFE3MU1Oc3Nfdy1OLUcxbTAwZnBRczUzWEh4bHUyZG5PTGtwQ2J6dzJvX0xodkd0QTRzS3dQSTdWdzkzTWtnSGNDYnc?oc=5",
+      "date": "2026-07-07 15:57",
+      "summary": "Ukraine to Pick AI Models Operated Without Provider Control, Official Says  U.S. News & World Report..."
     },
     {
-      "title": "Bank of England sees growing risks to financial stability from AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObUdISUlkdHhqQXoyVHdfNzNTaUp5bmtFYzNxMGQyREZVaWMwdG5Ha2tZSUdBcGo4VGRiX2VzbWxON3ZsZk5nMmJfYi1MdHp3SjRhZWVmSmhVN2JaWE9QRUZQaGV4dzRnN0hiaEVhWk55dURTNTZjdVdlLUlqc3A4SW55RnRFSVdYdm9TNDU0NHBheG91N0VKTUw4TWVObnNrdGN6V3phYUVtNkk?oc=5",
-      "date": "2026-07-07 11:16",
-      "summary": "Bank of England sees growing risks to financial stability from AI  Reuters..."
+      "title": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy?oc=5",
+      "date": "2026-07-07 15:37",
+      "summary": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Metallic rutile oxides break the rules of cooling",
-      "link": "https://phys.org/news/2026-07-metallic-rutile-oxides-cooling.html",
-      "date": "2026-07-07 13:00",
-      "summary": "Physicists have long puzzled over a strange contradiction inside a family of minerals called rutile oxides. These materials all sh..."
+      "title": "From mother to offspring: Young birds show how 'forever chemicals' accumulate",
+      "link": "https://phys.org/news/2026-07-mother-offspring-young-birds-chemicals.html",
+      "date": "2026-07-07 16:20",
+      "summary": "New research has found young birds living near contaminated industrial and military sites in suburban Melbourne carry especially h..."
     },
     {
-      "title": "New Horizons watches the solar wind as it slows down",
-      "link": "https://phys.org/news/2026-07-horizons-solar.html",
-      "date": "2026-07-07 13:00",
-      "summary": "Where does the solar system end and interstellar space begin? That's a question scientists have been working to answer using space..."
+      "title": "Tracking your employees doesn't make them more productive",
+      "link": "https://phys.org/news/2026-07-tracking-employees-doesnt-productive.html",
+      "date": "2026-07-07 16:20",
+      "summary": "In June, TD Bank told staff that it would begin running software called WorkiQ on their work computers, tracking time spent in bro..."
     },
     {
-      "title": "Reinventing pediatric dental training in Singapore",
-      "link": "https://phys.org/news/2026-07-reinventing-pediatric-dental-singapore.html",
-      "date": "2026-07-07 12:40",
-      "summary": "Managing pediatric dental patients can be stressful for dental students and inexperienced practitioners, particularly when communi..."
+      "title": "Researchers develop AI tool that finds the equations behind complex systems",
+      "link": "https://phys.org/news/2026-07-ai-tool-equations-complex.html",
+      "date": "2026-07-07 16:00",
+      "summary": "Clarkson University researchers have developed an artificial intelligence tool that can uncover the mathematical equations governi..."
     },
     {
-      "title": "Birds' efficient red blood cells convert metabolic 'waste' into fuel for rapid recovery",
-      "link": "https://phys.org/news/2026-07-birds-efficient-red-blood-cells.html",
-      "date": "2026-07-07 12:30",
-      "summary": "New research finds that birds can use lactate, often thought of as a metabolic waste product, as a cellular fuel that aids in rapi..."
+      "title": "If you flirt with an AI companion, does that count as cheating?",
+      "link": "https://phys.org/news/2026-07-flirt-ai-companion.html",
+      "date": "2026-07-07 16:00",
+      "summary": "AI romantic companions—digital agents that can text, speak, flirt and are always available—are a rapidly growing social phenomenon..."
     },
     {
-      "title": "Citizen science could grow beyond data collection under 10 proposed recommendations",
-      "link": "https://phys.org/news/2026-07-citizen-science.html",
-      "date": "2026-07-07 12:20",
-      "summary": "Citizen science is booming and could play a much greater role in tackling climate change, reef health, biodiversity and public hea..."
+      "title": "Cultural safety isn't a buzzword—it's a vital part of First Nations health care and healing",
+      "link": "https://phys.org/news/2026-07-cultural-safety-isnt-buzzword-vital.html",
+      "date": "2026-07-07 15:40",
+      "summary": "First Nations people in Australia have worse health and a lower life expectancy than other Australians...."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Customers seeking refunds during cooling-off period will need to pay admin fee",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3359772/customers-seeking-refunds-during-cooling-period-will-need-pay-admin-fee?utm_source=rss_feed",
+      "date": "2026-07-07 16:05",
+      "summary": "Hong Kong customers seeking refunds under a proposed seven-day cooling-off period for prepaid beauty and fitness contracts will be..."
+    },
+    {
+      "title": "Hong Kong’s war-risk pool testament to collaboration, insurance leader says",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3359766/hong-kongs-war-risk-pool-testament-collaboration-insurance-leader-says?utm_source=rss_feed",
+      "date": "2026-07-07 14:16",
+      "summary": "The launch of a marine war-risk pool by Hong Kong insurers is a prime example of how the city’s insurers can collaborate not just ..."
+    },
+    {
+      "title": "Hong Kong IVF clinic ordered to suspend most services after embryo specimen errors",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3359758/hong-kong-ivf-clinic-ordered-suspend-most-services-after-embryo-sample-errors?utm_source=rss_feed",
+      "date": "2026-07-07 13:51",
+      "summary": "Hong Kong’s regulator for in vitro fertilisation (IVF) has ordered a fertility clinic to partially halt operations after it mishan..."
+    },
+    {
       "title": "14 of 27 top IB scorers from English Schools Foundation plan to study medicine",
       "link": "https://www.scmp.com/news/hong-kong/education/article/3359755/14-27-top-ib-scorers-english-schools-foundation-plan-study-medicine?utm_source=rss_feed",
       "date": "2026-07-07 12:44",
@@ -299,32 +317,26 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3359750/hong-kong-consults-sex-law-reform-over-cult-coercion-campus-and-online-abuse?utm_source=rss_feed",
       "date": "2026-07-07 12:18",
       "summary": "Cults luring victims overseas for sex in a bid to “change their fate”, as well as suggestive games hosted at orientation camps in ..."
-    },
-    {
-      "title": "Hong Kong yuan facility to expand 150% to US$73.6 billion to meet international demand",
-      "link": "https://www.scmp.com/business/banking-finance/article/3359730/hong-kong-yuan-facility-expand-150-us736-billion-meet-international-demand?utm_source=rss_feed",
-      "date": "2026-07-07 09:17",
-      "summary": "Hong Kong will substantially increase its yuan facilities for banks from this Friday, while the city will also introduce a new ele..."
-    },
-    {
-      "title": "Hong Kong activist Joshua Wong expected to plead guilty in foreign collusion case",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3359700/hong-kong-activist-joshua-wong-expected-plead-guilty-foreign-collusion-case?utm_source=rss_feed",
-      "date": "2026-07-07 05:55",
-      "summary": "Jailed Hong Kong activist Joshua Wong Chi-fung has indicated he will plead guilty to conspiring with a fugitive former lawmaker to..."
-    },
-    {
-      "title": "Minibus driver arrested in Hong Kong for allegedly knocking down elderly pedestrian",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3359690/minibus-driver-arrested-hong-kong-allegedly-knocking-down-elderly-pedestrian?utm_source=rss_feed",
-      "date": "2026-07-07 05:16",
-      "summary": "Hong Kong police have arrested a 74-year-old minibus driver on suspicion of dangerous driving after he allegedly ran over a 90-yea..."
     }
   ],
   "New Scientist": [
+    {
+      "title": "Salt batteries are about to shake up EVs and grid storage",
+      "link": "https://www.newscientist.com/article/2532997-salt-batteries-are-about-to-shake-up-evs-and-grid-storage/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-07 12:00",
+      "summary": "Today, most rechargeable batteries are made from lithium ions, but sodium-ion alternatives could make battery tech much cheaper an..."
+    },
     {
       "title": "5 graphs that show how heatwaves are getting more dangerous",
       "link": "https://www.newscientist.com/article/2532809-5-graphs-that-show-how-heatwaves-are-getting-more-dangerous/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-07-07 09:00",
       "summary": "Longer-lasting hot spells and high temperatures at night are making it harder to cope, leading to thousands more deaths from extre..."
+    },
+    {
+      "title": "Collapse of AMOC ocean current may already be locked in",
+      "link": "https://www.newscientist.com/article/2533017-collapse-of-amoc-ocean-current-may-already-be-locked-in/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-06 11:49",
+      "summary": "The fate of the Atlantic Ocean current that keeps Europe’s climate warm depends on our carbon emissions and the rate of ice melt f..."
     },
     {
       "title": "Ovary identity shift after menopause may contribute to inflammation",
@@ -337,18 +349,6 @@
       "link": "https://www.newscientist.com/article/2533149-bumblebee-facial-movements-give-clues-to-their-inner-lives/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-07-06 20:00",
       "summary": "A series of experiments shows that bees respond differently to tastes depending on their internal states, hinting that they have s..."
-    },
-    {
-      "title": "Artefacts hint at cultural exchange between Neanderthals and humans",
-      "link": "https://www.newscientist.com/article/2533108-artefacts-hint-at-cultural-exchange-between-neanderthals-and-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-07-06 20:00",
-      "summary": "A cave on the Turkish Mediterranean coast was inhabited first by Neanderthals and then Homo sapiens, but the continuity of tools a..."
-    },
-    {
-      "title": "5 things to know about sunscreen, according to a skin cancer expert",
-      "link": "https://www.newscientist.com/article/2532744-5-things-to-know-about-sunscreen-according-to-a-skin-cancer-expert/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-07-06 14:00",
-      "summary": "How much sunscreen should you be using, when should you apply it, and are there any downsides to doing so? Skin cancer expert Rach..."
     }
   ]
 }
