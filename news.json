@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "MIT engineers whip up a more breathable hydrogel",
+      "link": "https://news.mit.edu/2026/mit-engineers-whip-up-more-breathable-hydrogel-0708",
+      "date": "2026-07-08 15:00",
+      "summary": "The new aerated material could enable longer-lasting bandages, implants, and wearable sensors...."
+    },
+    {
+      "title": "MIT researcher proposes a way to detect nuclear weapons in space",
+      "link": "https://news.mit.edu/2026/mit-researcher-proposes-way-to-detect-nuclear-weapons-in-space-0708",
+      "date": "2026-07-08 15:00",
+      "summary": "The 1967 Outer Space Treaty bans nuclear weapons in space, but there’s currently no way to verify that satellites aren’t carrying ..."
+    },
+    {
       "title": "The brain’s internal ruler",
       "link": "https://news.mit.edu/2026/the-brains-internal-ruler-0707",
       "date": "2026-07-07 17:40",
@@ -17,18 +29,6 @@
       "link": "https://news.mit.edu/2026/many-black-holes-had-past-lives-new-research-shows-0707",
       "date": "2026-07-07 16:00",
       "summary": "Physicists have found signs of colliding black holes that are themselves products of previous black hole smash-ups...."
-    },
-    {
-      "title": "Hydrogen: clean fuel of the future — if we can find a cheap and clean way to ship it",
-      "link": "https://news.mit.edu/2026/hydrogen-clean-fuel-of-the-future-if-we-can-ship-it-0707",
-      "date": "2026-07-07 15:10",
-      "summary": "A team led by MIT Energy Initiative researchers developed the HyCAT tool, enabling decision-makers to explore the cost and carbon ..."
-    },
-    {
-      "title": "Discovery helps explain why solid-state batteries often fail",
-      "link": "https://news.mit.edu/2026/discovery-helps-explain-why-solid-state-batteries-often-fail-0706",
-      "date": "2026-07-06 16:00",
-      "summary": "New research could help prevent the formation of tiny seeds of lithium metal within the electrolyte, enabling batteries that charg..."
     }
   ],
   "Harvard Gazette": [
@@ -65,10 +65,22 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford Study: Water Bills May Double in Hotter Cities - Mirage News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMjVGd1gyRWstZFY2SUJpTFYwb0tKa192RFRqdVA1bUxYVVhWd2VqeUlDb1gxWGxQSnJKSWN1cVNScGFLUDdKSU1fQkN0Y0xMOXZhYVhXRFdBdGthc3UxY3NKZTJmeEg3ZkQ2THhjeEFTT05vblNLeWhLaW9jUUlqNldpeXhuUTJsUGlj?oc=5",
-      "date": "2026-07-08 09:08",
-      "summary": "Stanford Study: Water Bills May Double in Hotter Cities  Mirage News..."
+      "title": "Timothy G. Lynch named Stanford’s new general counsel - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUVReWlHT3ZWaVA3MTI1VnBYVS14WjRrNmJ2T0lNQUg0TmVCekxoQ1VQOEtHN2I0NWZxUDlpc0trc081RG5CUEhGRU9YdVl2QmN0Z3BwemVrMldJZ2Q5TzRseGgyRmV6ZlpGZldsc013REQ2anp1VE9MSW0yXzJUbDdpcw?oc=5",
+      "date": "2026-07-08 13:02",
+      "summary": "Timothy G. Lynch named Stanford’s new general counsel  Stanford Report..."
+    },
+    {
+      "title": "See DRAM and Flash prices, interactively charted by Stanford University - Adafruit",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUVdqYlM4bTFQRWs2ckwzSWpmaDBVSF82d3hQLXVieGhaX0Rkbkhya3QwX1JNbFU0dHNsR29TZ1otLWZCR1loZ2VCVmFoSnJUS05LZ0dtS1NTQ0dtSXhuemd5OWFzRDQtbVJzZWR0VmxfV29yNUk5aFZkVldjOEtvLTVldjFfX1dDUFZrR1dERXJjbmpEOHFLdVZ2em9udHFOVGFmT0c1TWNFUHp4?oc=5",
+      "date": "2026-07-08 14:35",
+      "summary": "See DRAM and Flash prices, interactively charted by Stanford University  Adafruit..."
+    },
+    {
+      "title": "Studies Conducted at Stanford University on Economics Recently Reported (Why Doesn’t the United States Have National Health Insurance? the Political Role of the American Medical Association): Economics - InsuranceNewsNet",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOdVJHZm5oUXRtUlp5VFVWem1sV0drcWpWNEtoaVlCQm9lR0hCa0Fyc29yVjgtWHZmMk1veDgtSzRjZDhUZDNBN2dCS2dqdjNmRElXOWVXZ0lvWVhvbnpzNGRUVFl3aURxVnRHUlM2NUZwRjJYSFFkSFFTVm9LLXlZaHh3Z1YyV2RZNFgweW9DYjM4OVd5Wmx5Qk9vNEh2R3dPa3VRR0JuNFNvck14Q2tyaFdWT1RaNmZmOEZoVVJmbkdQLVZBSGV2amltMGFDem1KN0w2NXNLZ2tzaHpIWWpyOHlzMFpyYWFNOFlDMmRPUUZEelRDM3FHVENVQzdZaGFJZURFeWtNdlo5bXBILUMtZUJRZnBBdEQwbXRld0hHRjBmSzkwS3BtZHcwekdVR2d2aGhCSmp6bmprTDlaR3d5THVoUDNDaEU?oc=5",
+      "date": "2026-07-07 08:45",
+      "summary": "Studies Conducted at Stanford University on Economics Recently Reported (Why Doesn’t the United States Have National Health Insura..."
     },
     {
       "title": "New Research From Stanford Describes a New Approach to Improving Car T Cell Therapies - PICI - Oncodaily",
@@ -77,22 +89,10 @@
       "summary": "New Research From Stanford Describes a New Approach to Improving Car T Cell Therapies - PICI  Oncodaily..."
     },
     {
-      "title": "Reported sexual assault of jogger did not occur, investigation finds - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRVMxSGpwYnRrbFRFV0FibVc3X0w5WDc2TFlUNFBmYUVtSUlMWmNoZHk3QmtDbkYyT29hb3dWQVYxLXFGX1JGUHdIRDVVWWRDVWFrT2REYUI4TlNQTE9rM3p3ZlJRYlFucHJrUVNiSjE1Mzl6RTduX3pjTjFBRGRRMzZUNlZzT3pweEhlYXJpWDZQREZ5QjRBRjc3bUhfdHZLTXJuTVRFOVI?oc=5",
-      "date": "2026-07-05 20:43",
-      "summary": "Reported sexual assault of jogger did not occur, investigation finds  The Stanford Daily..."
-    },
-    {
-      "title": "Inside the AI Index: 12 Takeaways from the 2026 Report - Stanford HAI",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGxZRERhMDlvSW91MG1td1hzeGNvZFRHTzRMWjhOczR2dmlTSU5fQzhfT1U2YW4wUUJlVHYycDZfME4xUHFkdDFkOUpKWVl1U1RDenVkSkFZZzIzWWJnZkhDQW10MEZUdVg5NUFJeXRhZXVBRHdhb09ZdnAxMGw0cHk5ZWVfbnNCRTVJ?oc=5",
-      "date": "2026-04-11 18:53",
-      "summary": "Inside the AI Index: 12 Takeaways from the 2026 Report  Stanford HAI..."
-    },
-    {
-      "title": "Wildfire risk drives 84% spike in California home insurance costs in 5 years, Stanford study finds - ABC7 Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSTE3dFNOTm9ya09RQlB4M3NyU2FRUDBaQzZOZDA4b0s3X3RmcV9YYUd6YU41TUU0S0JyNm1ERUlvZ0FRY3MxeTRSWG94b1JKTnlHTExYOTAxNGRGYzZlbjdGUmNCQjlqOEplX0FKU1U1QklPTmNkSFVGSmxrZVJyaDlKSWVNTzNHMmp2cVFVN1dqRm9wRFZ5R3BQdnpTMzZjVEVSOUFacW43WnZlYmt2aVVNWlRaQ1U1dW4wUEZpUzVzdw?oc=5",
-      "date": "2026-07-06 20:35",
-      "summary": "Wildfire risk drives 84% spike in California home insurance costs in 5 years, Stanford study finds  ABC7 Bay Area..."
+      "title": "Stanford Study: Water Bills May Double in Hotter Cities - Mirage News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMjVGd1gyRWstZFY2SUJpTFYwb0tKa192RFRqdVA1bUxYVVhWd2VqeUlDb1gxWGxQSnJKSWN1cVNScGFLUDdKSU1fQkN0Y0xMOXZhYVhXRFdBdGthc3UxY3NKZTJmeEg3ZkQ2THhjeEFTT05vblNLeWhLaW9jUUlqNldpeXhuUTJsUGlj?oc=5",
+      "date": "2026-07-08 09:08",
+      "summary": "Stanford Study: Water Bills May Double in Hotter Cities  Mirage News..."
     }
   ],
   "Nature Careers": [
@@ -101,6 +101,12 @@
       "link": "https://www.nature.com/articles/d41586-026-01673-8",
       "date": "2026-07-08 00:00",
       "summary": "Nature, Published online: 08 July 2026; doi:10.1038/d41586-026-01673-8Ryan Rising creates programmes that help people who have bee..."
+    },
+    {
+      "title": "How to advance revolutionary science: high turnover, high risk and a licence to fail",
+      "link": "https://www.nature.com/articles/d41586-026-02090-7",
+      "date": "2026-07-08 00:00",
+      "summary": "Nature, Published online: 08 July 2026; doi:10.1038/d41586-026-02090-7Kathleen Fisher reveals the recipe for funding innovative sc..."
     },
     {
       "title": "Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02101-7",
       "date": "2026-07-07 00:00",
       "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02101-7The first solidification of the second-lightest element, and..."
-    },
-    {
-      "title": "AI can cause harm: safeguards must catch up",
-      "link": "https://www.nature.com/articles/d41586-026-02109-z",
-      "date": "2026-07-07 00:00",
-      "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02109-zAI can cause harm: safeguards must catch up..."
     }
   ],
   "Retraction Watch": [
@@ -173,25 +173,31 @@
       "summary": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say  Reuters..."
     },
     {
-      "title": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says - Bloomberg.com",
+      "title": "China plans to let top AI firms buy limited amount of Nvidia H200 chips, the Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWpMRm9OdWtFYkF0N1gyUUJyZi1iRzJUcHRJV25fbDNXTmpxWWFlSFNNckpOVjhNcFlSYmVuelJiVDg4V1dBRHZlRnFjNDlRS0JWQlFVeW5obUw2RVU2RFBEc2V1SVFXUEVmMXlVUkJSM0NQNFN1eDk3RTFtM3g2eGstQktpQmRESEJLRlF6SWNrbVZQamFjUV9zdGVySkVaSnUzNllYTmJIU1FTWnZ6VGV1ZW1WQjF0RHljX0MzdVRlNUE?oc=5",
+      "date": "2026-07-08 15:05",
+      "summary": "China plans to let top AI firms buy limited amount of Nvidia H200 chips, the Information reports  Reuters..."
+    },
+    {
+      "title": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXpmX0k2OElhSVZEaFpjRlVTdG9oYjdSdGxoUFJ0bWxkQkwxX3hReVYweWVZeXU2VEs2UE1CNW9fMWtYYlBFOE41WXdJd2lsWmNCSDlmcFRsaXVpbTFVUE9oWVVGcFB5ZVpMbklFWG91R3QyTmhCUmJTaHktdnpxWWxINkdkUDdfNnFiT0w3a29VaWlMOGVtOXJ6UGR4b2tDcFdDNnJPeUEtWURwTXplcXhTaGM?oc=5",
       "date": "2026-07-07 11:10",
-      "summary": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says  Bloomberg.com..."
+      "summary": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says  Bloomberg..."
     },
     {
       "title": "Korean chip stocks flip to losses on lingering AI, memory pricing concerns - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSHNvRlMzSldsUjBEOEpDSmlNRmZCRGFwVFVBTmQ4UURTbmstMWs5VUlNUm5YVkpDak5MRU53OWNVbFZHdzh4NGlnNUx2UUNSd0Faa0FfM1ZqaFgzSFNmTF8xY2dkTzRIRlVEQlViS0huZFF3b0l1VmpMOWUyZ2I1cVB0NzdwejZsMERyVmpEV1kxRjZCdUpNdmdzU3VWQWJlM2tpMmZrQk1IVl9BdGFERExmR3dMT01qSlZ2TGVyOF82VTAtLVZXaA?oc=5",
-      "date": "2026-07-08 06:03",
+      "date": "2026-07-08 00:26",
       "summary": "Korean chip stocks flip to losses on lingering AI, memory pricing concerns  Reuters..."
-    },
-    {
-      "title": "Meta expands generative AI tools with Muse Image rollout - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS01TaUFqX3M1M3lGbnRRRUVlR1hWSUpsUmg1aE1pRk1aaFFqZS03QkN6VWhmT2Z6VEZrbTFERlhNMkEtT3N4RUZLMVU5R0tWTnJ1MWMxY2tRdENoSTBLQU5MWE9qZzRDOERiZ0V6bmUzaVBUUmRZYjZoVC1lV3pFQS1SQ0ZjU3FESGxDcmhTUFBEY2lrcElIenlLNW8zdmdRYWpCQ1FR?oc=5",
-      "date": "2026-07-07 18:29",
-      "summary": "Meta expands generative AI tools with Muse Image rollout  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "The Download: worms fight pollution, and geoengineering faces reality - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2dESlU2dVMwLVpqa2JEQmxnTUpvUUNsdllObF9ua29MS1h1aXdha0NLV0dJTVBjWTlHYU9SQ3E2T1pvYk1NLWFsX2dvc0JVVjRTQS04NXFyZFloeElWZURYbW9wNWZBang1bXlmUDgwbi1LR3ByYjExUXQxX2FpZUFZTFdpTXlfNnZoV18xSEhrdDhNUDJoNy1qbFVhdWhHSDZhOUtIRHFXTlhXbkpsT3pTeG9acWdy0gG-AUFVX3lxTE9Oak9GOTUyUTZHNjlFX1hCd25NZ1Uxc19XdU9xYTZKMUpDMWp1eW9MRGhQM3V5b3ZISklLLW15VHdaUTlDRC1WSWpJclFaN1FzR2RrcjRQN2ZYY1N3UVE3MFg4aGVYR2xGZXBrSG4xemNvc19ZUEJyTF9ZeWlSQkhYZ193bDFJcTlRbGNhbTROU2l5M09CZHk3b2oxVkhvWUFxeUYzRjhvRWZERW1xQktEb0Z0OVpNNGpmUnZRRFE?oc=5",
+      "date": "2026-07-08 12:10",
+      "summary": "The Download: worms fight pollution, and geoengineering faces reality  MIT Technology Review..."
+    },
     {
       "title": "The foundational elements of AI architecture that IT leaders need to scale - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWmc3VmdQS3dhcVJ4VDJXQTQ5SlFaYkJ1YmVLZWsyQ2Z1ZnRfZVVlMERtUGZRSC1FMGVDQzQtSHBubmNNbFIzSUFRYk1sMG9CZEJPX2FHYkJQdlZRUVg4XzNPcVByaU12clN1OTluVV9lSkhhNXp6M0loNVAzZlBSTzktWFFfQ0hPUnU3V3N3TzJEd2loQTdGNncwVThfLU1iTVd6WmhvR1djelVJSUJmSzk5SWJEMUhROF9LYmhwR2NOeDE3UnfSAcsBQVVfeXFMT3dTT2hfX1RhUzNid0FISXRUX2NOaWRIU29DZm1pOGFQOHlaT3lIeHZ0S2NoVjMtNlRnbFFyeS1UYnZqZFc5dm5McERhUnRneS1aQVNxZTdEVXAyQmVhMy1SQ21tRDNaMGRPQXN5RVhYbVJyLWFDYTZLOHlGSWJLSEl2a2dMZ1JJWGIwUmRuMVpUR3Z6elR0TEkzR1V6WUd0eVlYOHVqTUs0bFB1aDZ5SWgzcUVVU1pQbHBKdDBCeVF2VV9TRG56TGhYY0U?oc=5",
@@ -215,47 +221,47 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUVvV3UtNjdYZHZjVHJvcDhzNFlYN0VOWDE5OXk1Ny1qNEZ6elVCdmNKUHAwRk5CaXFBMUJQV013M3A0UVhWU1A0QmRGOHZQdFVyNnNoYXpWQW1WU3Zwa19tWDNSOVlibjRqRDZWZlVOWGVjM2ltem1OaEdoTGtHckdWb1pacG55NzhraWlR0gGTAUFVX3lxTE54NEtzTndmUGVZcFZUdHBpWHlkcWxqNHpabFFzWmR3aUJWVUtTSDBsekZhbHY2amI3eVZhWEFSVHFWVF9OdElvWGZwZEdKa3JLU1VSclFheGZuZVRfeXJrekhjaDd1YjYtVWdVekhMZXd0OEc5VGZCcDNURS1obkx5SHVJOTA3M1kyV085SUZWNWs0MA?oc=5",
       "date": "2026-06-29 07:00",
       "summary": "AI agents are not your “coworkers”  MIT Technology Review..."
-    },
-    {
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNalV5S2F3bmcwX0hLUTJXd0pWSzF4dDRtRl83RFNOSklLcDlPd2FSSjhvS3ZJWTFveTB2LUxOV3JuS0c2djR2SUxvaFl0S1dYemhmU3V5bWJlajFMZHIwZzZaTDZQMklhZGNmT2VOb1FCUVU4SWh4c3piaW16M25EZFFza1V4cDJVdWIxbDd5VmNTdWJxQjBZbXZweHVsSk1uRUxDRFdZeXRZb0xmT2lKV0pldDVmQTJaZ01TWkJtLWdpNUR10gHKAUFVX3lxTFBCMndtcVZnSzhkNXNaODE0MTlRV0c4dVpmRlJfNTJSNHJEX0hWdF85MzU2ZGlQRHF6RE9wWmVDMnh1ZGFuR3NVQ3YxNDJKSncyUFI2LUxkRk9lNzFWM2d0c3BnbklpeVdaZWNDNVpiT2dfTkVyazFWRlJ2UENrMXg3TGhNbHhpVTFkdjVJUTJpSUhBVnAtYUVTaHdaZFFYeWZFNS1CbDNheEhodHljN0lqM0pjU0JXc2JZX3FoOWZoelJHbDBaaWlPcVE?oc=5",
-      "date": "2026-07-01 14:35",
-      "summary": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Study examines Miami-Dade County resilience plans",
-      "link": "https://phys.org/news/2026-07-miami-dade-county-resilience.html",
-      "date": "2026-07-08 11:40",
-      "summary": "A University of Miami study has developed a new approach to evaluate how multiple climate resilience plans work together—or fail t..."
+      "title": "Social norms can accelerate or undermine climate action, new model finds",
+      "link": "https://phys.org/news/2026-07-social-norms-undermine-climate-action.html",
+      "date": "2026-07-08 15:00",
+      "summary": "A new mathematical model suggests that social norms may be just as important as economics in determining how the world responds to..."
     },
     {
-      "title": "Social media influencers who match racial, ethnic identity of their audiences have a bigger—and unhealthy—impact",
-      "link": "https://phys.org/news/2026-07-social-media-racial-ethnic-identity.html",
-      "date": "2026-07-08 11:20",
-      "summary": "Food marketers increasingly use people for paid promotions who share the racial and ethnic identities of their target audiences be..."
+      "title": "Researchers uncover the inside story on plant organ growth",
+      "link": "https://phys.org/news/2026-07-uncover-story-growth.html",
+      "date": "2026-07-08 15:00",
+      "summary": "Research has shed intriguing new light on the genetics underlying the diverse plant organ shapes seen in agriculture and nature. D..."
     },
     {
-      "title": "Is the decline of newspapers taking the pressure off of corporate social responsibility programs? Research says 'yes'",
-      "link": "https://phys.org/news/2026-07-decline-newspapers-pressure-corporate-social.html",
-      "date": "2026-07-08 11:00",
-      "summary": "Local newspapers have long played a quiet but powerful role in corporate accountability: They scrutinize company behavior and give..."
+      "title": "Breathable hydrogel keeps ECG signals steady through workouts and 10 days of wear",
+      "link": "https://phys.org/news/2026-07-breathable-hydrogel-ecg-steady-workouts.html",
+      "date": "2026-07-08 15:00",
+      "summary": "Hydrogels are squishy, biofriendly materials made mostly of water and a bit of polymer. The Jell-O-like substance is available in ..."
     },
     {
-      "title": "The oldest deliberately collected fossil ichthyosaur was discovered in Roman Britain around 1,800 years ago",
-      "link": "https://phys.org/news/2026-07-oldest-deliberately-fossil-ichthyosaur-roman.html",
-      "date": "2026-07-08 10:40",
-      "summary": "Around 1,800 years ago, a fossilized spinal bone lay on the windswept beaches of Roman Britain until a curious passerby picked it ..."
+      "title": "Space sensor could spot hidden nuclear weapons in orbit with 99% accuracy",
+      "link": "https://phys.org/news/2026-07-space-sensor-hidden-nuclear-weapons.html",
+      "date": "2026-07-08 15:00",
+      "summary": "In 2024, a U.S. government official warned that Russia could be developing a new satellite designed to carry nuclear weapons into ..."
     },
     {
-      "title": "Hotter, drier weather could double water bills in some US cities, study finds",
-      "link": "https://phys.org/news/2026-07-hotter-drier-weather-bills-cities.html",
-      "date": "2026-07-08 09:00",
-      "summary": "Hotter, drier weather threatens to double water bills by midcentury in some cities, according to a Stanford-led study. The researc..."
+      "title": "Ancient atmospheric oxygen found in iron ore deposits",
+      "link": "https://phys.org/news/2026-07-ancient-atmospheric-oxygen-iron-ore.html",
+      "date": "2026-07-08 14:40",
+      "summary": "How do some of geology's most mysterious iron ore deposits form? This question has preoccupied the geosciences for more than a cen..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Britain’s markets attracting generation of highly educated entrepreneurs",
+      "link": "https://www.theguardian.com/business/2026/jul/08/britain-markets-new-generation-highly-educated-entrepreneurs",
+      "date": "2026-07-08 14:00",
+      "summary": "Nearly a quarter of market traders now hold master’s degree, PhD or medical doctorate, research showsOne in five young market trad..."
+    },
     {
       "title": "Physical Education review – boisterous, cliche-busting lesson on teen masculinity",
       "link": "https://www.theguardian.com/stage/2026/jul/08/physical-education-review-swansea-grand-theatre",
@@ -279,15 +285,15 @@
       "link": "https://www.theguardian.com/education/2026/jul/06/thousands-of-children-absent-from-school-in-wake-of-overnight-england-world-cup-win",
       "date": "2026-07-06 17:38",
       "summary": "Exclusive: Initial figures are yet to be confirmed by DfE, which said schools were ‘at the heart’ of the celebrationAbout 332,000 ..."
-    },
-    {
-      "title": "Learning another language appears to slow brain ageing, scientists say",
-      "link": "https://www.theguardian.com/education/2026/jul/06/learning-another-language-appears-to-slow-brain-ageing-scientists-say",
-      "date": "2026-07-06 04:00",
-      "summary": "Study finds those who speak two languages have brains that appear around six years younger than those who speak oneLearning anothe..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Stars, vintage toys and comic masters all out to slay Hong Kong anime fair",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3359888/stars-vintage-toys-and-comic-masters-all-out-slay-hong-kong-anime-fair?utm_source=rss_feed",
+      "date": "2026-07-08 14:17",
+      "summary": "Hong Kong’s annual anime fair will return with its biggest edition yet, boosting capacity by 20 per cent and featuring a record 20..."
+    },
     {
       "title": "Hong Kong survivors push to close ‘consent loophole’ in reforms to sex crime laws",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3359875/hong-kong-survivors-push-close-consent-loophole-reforms-sex-crime-laws?utm_source=rss_feed",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3359866/tourist-arrivals-hong-kong-jump-13-267-million-first-half-year?utm_source=rss_feed",
       "date": "2026-07-08 10:15",
       "summary": "Hong Kong welcomed 13 per cent more visitors in the first half of the year compared with the same period in 2025, as it hosted mor..."
-    },
-    {
-      "title": "Disciplinary cases involving intern and resident doctors triple over 4 years",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3359865/hong-kong-records-surge-disciplinary-cases-among-intern-and-resident-doctors?utm_source=rss_feed",
-      "date": "2026-07-08 10:14",
-      "summary": "The number of disciplinary cases involving intern and resident doctors at Hong Kong’s public hospitals has nearly tripled over fou..."
     }
   ],
   "New Scientist": [
