@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Separating logic and language",
+      "link": "https://news.mit.edu/2026/separating-logic-and-language-0708",
+      "date": "2026-07-08 19:35",
+      "summary": "Neuroscientists find logical reasoning does not involve language-processing parts of the brain...."
+    },
+    {
       "title": "MIT engineers whip up a more breathable hydrogel",
       "link": "https://news.mit.edu/2026/mit-engineers-whip-up-more-breathable-hydrogel-0708",
       "date": "2026-07-08 15:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
       "date": "2026-07-07 17:25",
       "summary": "A USAF cadet and a Lincoln Laboratory researcher found AI chatbots can help nontechnical service members produce viable software a..."
-    },
-    {
-      "title": "Many black holes had past lives, new research shows",
-      "link": "https://news.mit.edu/2026/many-black-holes-had-past-lives-new-research-shows-0707",
-      "date": "2026-07-07 16:00",
-      "summary": "Physicists have found signs of colliding black holes that are themselves products of previous black hole smash-ups...."
     }
   ],
   "Harvard Gazette": [
@@ -129,6 +129,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Exclusive: Sage to retract multiple articles by dismissed rising star for “compromised” peer-review process",
+      "link": "https://retractionwatch.com/2026/07/08/exclusive-sage-to-retract-multiple-articles-by-dismissed-rising-star-for-compromised-peer-review-process/",
+      "date": "2026-07-08 20:41",
+      "summary": "Yannick Griep, a former rising star in management research at Radboud University in the Netherlands, is set to lose an undisclosed..."
+    },
+    {
       "title": "Judge dismisses Splenda lawsuit, says courts wrong place for research debate",
       "link": "https://retractionwatch.com/2026/07/08/judge-dismisses-splenda-lawsuit-says-courts-wrong-place-for-research-debate/",
       "date": "2026-07-08 12:00",
@@ -151,26 +157,20 @@
       "link": "https://retractionwatch.com/2026/07/06/ethics-journal-retracts-paper-by-high-school-student-for-ai-peer-review-manipulation/",
       "date": "2026-07-06 10:00",
       "summary": "The Journal of Medical Ethics has retracted a paper on the use of AI in the pharmaceutical industry for containing references that..."
-    },
-    {
-      "title": "Weekend reads: Taylor Swift teaches botany; NEJM retracts key study in Amgen drug; hidden prompts at conference ‘snare AI peer reviews’",
-      "link": "https://retractionwatch.com/2026/07/04/weekend-reads-taylor-swift-teaches-botany-nejm-retracts-key-study-in-amgen-drug-hidden-prompts-at-conference-snare-ai-peer-reviews/",
-      "date": "2026-07-04 10:00",
-      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
     }
   ],
   "Reuters AI": [
-    {
-      "title": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy?oc=5",
-      "date": "2026-07-07 10:17",
-      "summary": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say  Reuters..."
-    },
     {
       "title": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGRQQzRJX0VFTThJbC1JZnM2NUpNVHZQeEhxODdQejNBODNSLXpYMGdvSWxJMVhRSFBEOWplZy1NMU5qSnFxc3dpOEczN01EcVRQSk1mSXo3ejlMaUoxcks3LURaeGZ0Q3EyZ2dBQVN0QkRXNWg0YWpyOXJ2TjUtLVF4elZRU1VqdUVCdEhGNnFfYV9uYTdaT3V4MVFEZ2swRmlfRw?oc=5",
       "date": "2026-07-07 21:40",
       "summary": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say  Reuters..."
+    },
+    {
+      "title": "NEWSLETTER: China weighs silicon curtain around sought-after AI models - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRGx1VW5GVElsZUZsbWtoM0xUX3pUeHd4bm0tSW94Y3ZFRUx6OXdzbmZHV21ELTV2RXJKTV82Wi0tMkxFS1VQY3VuQnVhd00xODBKd3l2SUJZODFucnU0djhxQXRRVERnV0VGZ2xDSk1teU9FZWU2dWxEaWZ0NW5QQWllNTZ0VVBTbEZBQVlCTHlYRDg3QzhFVDZvRmNobHJadjl4YzZhb2FEQzlrTTNSbWtxWlZPbXVoU3pnMG1ndXpQYW1Odlp0MA?oc=5",
+      "date": "2026-07-08 20:00",
+      "summary": "NEWSLETTER: China weighs silicon curtain around sought-after AI models  Reuters..."
     },
     {
       "title": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says - Bloomberg",
@@ -179,16 +179,16 @@
       "summary": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says  Bloomberg..."
     },
     {
-      "title": "OpenAI set to launch most capable GPT model after delayed rollout - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5",
-      "date": "2026-07-08 03:19",
-      "summary": "OpenAI set to launch most capable GPT model after delayed rollout  Reuters..."
-    },
-    {
       "title": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWpMRm9OdWtFYkF0N1gyUUJyZi1iRzJUcHRJV25fbDNXTmpxWWFlSFNNckpOVjhNcFlSYmVuelJiVDg4V1dBRHZlRnFjNDlRS0JWQlFVeW5obUw2RVU2RFBEc2V1SVFXUEVmMXlVUkJSM0NQNFN1eDk3RTFtM3g2eGstQktpQmRESEJLRlF6SWNrbVZQamFjUV9zdGVySkVaSnUzNllYTmJIU1FTWnZ6VGV1ZW1WQjF0RHljX0MzdVRlNUE?oc=5",
-      "date": "2026-07-08 15:58",
+      "date": "2026-07-08 18:50",
       "summary": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports  Reuters..."
+    },
+    {
+      "title": "Major AI offerings at a glance - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjUDd1T0cwX3NLN0R2M1RxdWxhY1E0S2NYQWZYV183MEoyaWp5WUpWVFEtMzZIVmRNVU4tX1Y3LU1Ud0J1MDhTaXJ2NFJEZXY2TTQ4WVlMaHlsZkg3VHpZdklnRk1DUkpRbEV4OG9uenlBb0l1UHNhbzFR?oc=5",
+      "date": "2026-07-08 18:09",
+      "summary": "Major AI offerings at a glance  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Manganese risk in groundwater affects 200 million people, study shows",
-      "link": "https://phys.org/news/2026-07-manganese-groundwater-affects-million-people.html",
-      "date": "2026-07-08 19:20",
-      "summary": "Manganese is an essential trace element. However, in excessive concentrations, the metal can cause health problems. Two Eawag rese..."
+      "title": "Dynamic population breeding improves turquoise killifish husbandry",
+      "link": "https://phys.org/news/2026-07-dynamic-population-turquoise-killifish-husbandry.html",
+      "date": "2026-07-08 21:00",
+      "summary": "Originally from southeastern Africa, the turquoise killifish (Nothobranchius furzeri) lives in seasonal bodies of water that form ..."
     },
     {
-      "title": "Fertilizers carry a hidden cost for soil's crucial microbes. Using less might pay off for farms in unexpected ways",
-      "link": "https://phys.org/news/2026-07-fertilizers-hidden-soil-crucial-microbes.html",
-      "date": "2026-07-08 19:20",
-      "summary": "Across North America, in places such as Illinois, Iowa and Texas, farmers are busy growing the crops the world depends on for food..."
+      "title": "X-pinch plasma achieves radial proton acceleration for crisp imaging",
+      "link": "https://phys.org/news/2026-07-plasma-radial-proton-crisp-imaging.html",
+      "date": "2026-07-08 21:00",
+      "summary": "Plasma pinches: From pursuits of nuclear fusion to an attractive point source of accelerated protons for proton radiography...."
     },
     {
-      "title": "Maize-fed animals may have helped Maya farmers solve corn's protein deficiency",
-      "link": "https://phys.org/news/2026-07-maize-fed-animals-maya-farmers.html",
-      "date": "2026-07-08 19:10",
-      "summary": "Maize (corn) is a major dietary staple in Maya communities past and present because of its reliability, potential for surplus, and..."
+      "title": "Older adults are at risk in heat waves, but it's not just age: How public systems and policies are failing them",
+      "link": "https://phys.org/news/2026-07-older-adults-age-policies.html",
+      "date": "2026-07-08 20:40",
+      "summary": "Five years ago, British Columbia's heat dome became one of the deadliest weather disasters in Canadian history...."
     },
     {
-      "title": "Study shows why comfort at home is more than a temperature issue",
-      "link": "https://phys.org/news/2026-07-comfort-home-temperature-issue.html",
-      "date": "2026-07-08 19:00",
-      "summary": "Feeling hot at home may seem like a simple matter of temperature or whether the air conditioning is switched on. But a new study s..."
+      "title": "Scientists discover rare 'super-Jupiter' planet with 180-day long orbit",
+      "link": "https://phys.org/news/2026-07-scientists-rare-super-jupiter-planet.html",
+      "date": "2026-07-08 20:40",
+      "summary": "Scientists from Queen's University Belfast have led an international team in the discovery of a rare new planet, which is larger t..."
     },
     {
-      "title": "Astronomers build a one-stop universe data hub",
-      "link": "https://phys.org/news/2026-07-astronomers-universe-hub.html",
-      "date": "2026-07-08 18:50",
-      "summary": "Astronomers spend much of their time mapping the universe, but until now their results have been collected and archived in so many..."
+      "title": "Astronomers dig deep to find tiny dangerous space debris",
+      "link": "https://phys.org/news/2026-07-astronomers-deep-tiny-dangerous-space.html",
+      "date": "2026-07-08 20:30",
+      "summary": "In a new study, published in the Journal of the Astronautical Sciences, Warwick researchers led an international effort to uncover..."
     }
   ],
   "The Guardian Edu": [
