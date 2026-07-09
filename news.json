@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "New flapping robot swims and flies like a diving bird",
+      "link": "https://news.mit.edu/2026/new-flapping-robot-swims-and-flies-like-diving-bird-0709",
+      "date": "2026-07-09 18:00",
+      "summary": "MIT engineers’ design could lead to a new class of aerial-aquatic vehicles for ocean exploration...."
+    },
+    {
       "title": "A baseball-sized sensor can detect chemical threats",
       "link": "https://news.mit.edu/2026/baseball-sized-tossit-sensor-can-detect-chemical-threats-0709",
       "date": "2026-07-09 16:10",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/mit-engineers-whip-up-more-breathable-hydrogel-0708",
       "date": "2026-07-08 15:00",
       "summary": "The new aerated material could enable longer-lasting bandages, implants, and wearable sensors...."
-    },
-    {
-      "title": "MIT researcher proposes a way to detect nuclear weapons in space",
-      "link": "https://news.mit.edu/2026/mit-researcher-proposes-way-to-detect-nuclear-weapons-in-space-0708",
-      "date": "2026-07-08 15:00",
-      "summary": "The 1967 Outer Space Treaty bans nuclear weapons in space, but there’s currently no way to verify that satellites aren’t carrying ..."
     }
   ],
   "Harvard Gazette": [
@@ -65,21 +65,21 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford says 2 sexual assaults reported by same woman did not occur - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmVLc19NOEg1M0dfWFZQQzdBQzJWN0lVeUI1MndRdTFYMzlCems3TlQ3dmFTZmw4UWp2YlM2WmowS3A0RmVJSEJqTjQ1d0lXWHlKSElqZVF4MDBuR1h3NW9ubU90TzZtWmFpS0hzYmRUWThBa2VRWnVkUjFsdmdkdGR4X3BhWi1LM2dqa2VaQlFsSzVTcXhvU0ZhSQ?oc=5",
-      "date": "2026-07-08 16:53",
-      "summary": "Stanford says 2 sexual assaults reported by same woman did not occur  San Francisco Chronicle..."
+      "title": "Meet Biomni – an AI-powered biomedical co-scientist - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjdwOXRLVWFxYnNPa2FyQkFnajBDcDdLR1lLZzlER1Judm10b0xodnV5ajIwcWRFZUVPOFctV19ua0t5bFVLMVpTOXR1VDZNWGJJeHdxNjY5aHBXTG5ZcUpfMzYtWmhwUkxtdEN1ZUgwUzdnbkxRV2k5bXdYNk1yNG9yVVFFaFpidl9F?oc=5",
+      "date": "2026-07-09 18:12",
+      "summary": "Meet Biomni – an AI-powered biomedical co-scientist  Stanford Report..."
     },
     {
-      "title": "Surprise Wimbledon semifinalist Arthur Fery developed his game at Stanford University - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckExczNJZS1ua0k0UDEtSFlERFNPUm5kSnUtdVhCY1FaOVMtZUk2bDBHSWs3V3U5c0NEZ25xLUQtSHlaNVhUM2RrQVZHM2hzV3JxbEIwbFhZRFlHTEZTNGFZMnBCM2c4bHJsaG1WOV80YkZjb0ZxOW8ya0RzVjhaZ2ozYy00SC1xRzNhckdERjE0NnNmX0kwU0ZRd2loZWZR?oc=5",
-      "date": "2026-07-09 15:01",
-      "summary": "Surprise Wimbledon semifinalist Arthur Fery developed his game at Stanford University  NBC News..."
+      "title": "Surprise Wimbledon semifinalist Arthur Fery developed his game at Stanford University - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmx0N2NISE1odTFmTjlieXlkcDM0RThSTWhCYkUwaTFEWk1tcXZRSmRMcVljcnBFWF84QzhTdFFNQzZHOTlTcXdEOE9qTTVkQ0V4SEpqOG13dW9lWjdPOHljamVzeWdXMzE3ejl3anh1eHF0VDJqcllVNTBKcnRQU2toSUZJbUllWWR2NHpNQ1BYRU5TSUFWY3hocGhfMWhaVGwzVjlCdDUwbVYtWUtSdThrelfSAboBQVVfeXFMT3dGVUhkdTI0UWFybmg2Ym92MEFXdVdienlVMGJDTU5SdGZwQTEzMjdNYmhFZDEyTjBxbnFkajJMRVk5cTg1cVdIeklra1J1dHhkVHBLcldqckdvYzQ5MHA5Mk4wNTVCNmFTdElDUVEydzJwRWNvS2h3WS1iTDNHcEZoTF8tSWlWSFB6SGVSOEdILVU1WU9EemEwYm0yWlZNXzlWM0tjSjVhWkloUGJNWmlNYWZaTkM1UWVR?oc=5",
+      "date": "2026-07-09 09:15",
+      "summary": "Surprise Wimbledon semifinalist Arthur Fery developed his game at Stanford University  ABC News - Breaking News, Latest News and V..."
     },
     {
       "title": "UM's top legal advisor to leave for Stanford, officials say - The Detroit News",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQW5maDBZQXZsVVZTMm1aS2xNbDBUbi0tSGRkbnFud3E4SS1iYmNqb0RlazEweXVaUllRYjVrQUIzTm8xVnlKNEIxZnpMTEZLendFeUctZGpjSTJkOTJ2VzBEU1hzRjF3VjhFanptU2ZlTlJlenpSeHBnOVNoVk9GZ0lCWjllVE5zU1JqQTg0SUZTb2Q1VU9JN2FFQzNMcUEyLWVsRlRxc181VTJ5TFVtREE0WThySGhoYUJfOW1MUXpRcmJFU3Z0bzh0X0hOeDVGdmJvM25qd09ZaWZjSG1n?oc=5",
-      "date": "2026-07-09 12:24",
+      "date": "2026-07-09 14:03",
       "summary": "UM's top legal advisor to leave for Stanford, officials say  The Detroit News..."
     },
     {
@@ -89,10 +89,10 @@
       "summary": "Timothy G. Lynch named Stanford’s new general counsel  Stanford Report..."
     },
     {
-      "title": "Stanford Police Say No Evidence Found of Two Sexual Assaults Reported Near Campus In the Spring - SFist",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbGN0TnZMNEs1aFYxRDZIaXpBWDZJRFU3TVFYODZJQTBGakg3blp2Q251TGtYQ2tZMGJKN0RocUlYNGk2OTE5bXZrRGRyTXFpaUpmblVUZnZkUmMtTkIzSjltZHFtRHIzTXh3eTU4V3lPa2d3ckNrbTVybVRpMmlqUEJPU09YMWNrT2dHb3ItQkRCR281bUV0UGIwX2lTZzd0Q0o5Vm1LaUxJaGwxYXFicVVZVTc3c3BRRGN1dXptODBNM0E?oc=5",
-      "date": "2026-07-08 22:46",
-      "summary": "Stanford Police Say No Evidence Found of Two Sexual Assaults Reported Near Campus In the Spring  SFist..."
+      "title": "The Trees of Stanford Weave a Rich Tapestry - Carnegie Science",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NRjhsNlkyaExHVmE0eUlpZVNlbDRNakJUa0hzOUJxeXBHWngtNXNsTUo5N3JxTU16T0RLU0lSTDFlZV9qNERJVG9pbUR1UGY4MXZtRHcwYW9MVE9mUlNZS3V4M3VKV3ozTHNvVEg4Yw?oc=5",
+      "date": "2026-07-08 12:00",
+      "summary": "The Trees of Stanford Weave a Rich Tapestry  Carnegie Science..."
     }
   ],
   "Nature Careers": [
@@ -101,6 +101,12 @@
       "link": "https://www.nature.com/articles/d41586-026-02114-2",
       "date": "2026-07-09 00:00",
       "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02114-2Two gas giants circling the same star are among the least de..."
+    },
+    {
+      "title": "Graduating without a thesis: meet the people getting ‘practical’ PhDs in China",
+      "link": "https://www.nature.com/articles/d41586-026-01242-z",
+      "date": "2026-07-09 00:00",
+      "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-zNature spoke to three students from China’s first cohort of ..."
     },
     {
       "title": "Nukes in space? Orbital detector could sniff out warheads",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10796-x",
       "date": "2026-07-08 00:00",
       "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10796-xA systematic evaluation shows that contemporary humanoid rob..."
-    },
-    {
-      "title": "Single-phase gradient-solvation-electrolyte-stabilized Li metal batteries",
-      "link": "https://www.nature.com/articles/s41586-026-10732-z",
-      "date": "2026-07-08 00:00",
-      "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10732-zA targeted ligand anti-solvent is incorporated into an anion..."
     }
   ],
   "Retraction Watch": [
@@ -179,16 +179,16 @@
       "summary": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say  Reuters..."
     },
     {
+      "title": "OpenAI launches ChatGPT Work, adding to competition for professional AI tools - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
+      "date": "2026-07-09 18:03",
+      "summary": "OpenAI launches ChatGPT Work, adding to competition for professional AI tools  Reuters..."
+    },
+    {
       "title": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXpmX0k2OElhSVZEaFpjRlVTdG9oYjdSdGxoUFJ0bWxkQkwxX3hReVYweWVZeXU2VEs2UE1CNW9fMWtYYlBFOE41WXdJd2lsWmNCSDlmcFRsaXVpbTFVUE9oWVVGcFB5ZVpMbklFWG91R3QyTmhCUmJTaHktdnpxWWxINkdkUDdfNnFiT0w3a29VaWlMOGVtOXJ6UGR4b2tDcFdDNnJPeUEtWURwTXplcXhTaGM?oc=5",
       "date": "2026-07-07 11:10",
       "summary": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says  Bloomberg.com..."
-    },
-    {
-      "title": "Exclusive-China's DeepSeek Developing Its Own AI Chip, Sources Say - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUEdFWF9sdEs1Z2JDLXNTT0xsTW03R0hsX0wyMHJGd3hhZThpVVg5MFA3cGF6RzB1czc4ck5oYjJJckoyOVVhY2NyWmg2Yk00NEpVZDFZREN4VTZzOUtpYWZoemdLS2VMdnFJS2JvbTAxeTNkM3R1VGxnMmg4cC1rbHd3MVhMVVFmU1oxWmJxNWZ2LUV0X1JqNGtnMTRpVy1wQlp1LWhCcFJ5dVh3UXpERnF6OExjbHVNTDhUSXlB?oc=5",
-      "date": "2026-07-07 11:25",
-      "summary": "Exclusive-China's DeepSeek Developing Its Own AI Chip, Sources Say  U.S. News & World Report..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "The ghost in Orion's shell: Hydrogen maps show repeated stellar feedback sculpted around Orion Nebula",
-      "link": "https://phys.org/news/2026-07-ghost-orion-shell-hydrogen-stellar.html",
-      "date": "2026-07-09 16:20",
-      "summary": "An international team led by Juan Diego Soler at the University of Vienna used two of the world's most powerful radio telescopes t..."
+      "title": "Earth's deep memory is thawing with the Arctic permafrost, degrading records of our ancient world",
+      "link": "https://phys.org/news/2026-07-earth-deep-memory-arctic-permafrost.html",
+      "date": "2026-07-09 18:40",
+      "summary": "Permafrost usually hits the news as a hazard, a planetary risk. When this ice-rich ground thaws, it damages roads and building fou..."
     },
     {
-      "title": "Mild enzymatic method gently refines algae oil for nutrition products",
-      "link": "https://phys.org/news/2026-07-mild-enzymatic-method-gently-refines.html",
-      "date": "2026-07-09 16:00",
-      "summary": "Algae oil is increasingly used as a sustainable source of important nutrients, including polyunsaturated fatty acids that support ..."
+      "title": "Image: Curiosity rover sees Martian sulfur up close",
+      "link": "https://phys.org/news/2026-07-image-curiosity-rover-martian-sulfur.html",
+      "date": "2026-07-09 18:32",
+      "summary": "This close-up view shows fragments of sulfur crystals, the first ever seen on the Red Planet...."
     },
     {
-      "title": "Unraveling the glass-like nature of epithelial tissues",
-      "link": "https://phys.org/news/2026-07-unraveling-glass-nature-epithelial-tissues.html",
-      "date": "2026-07-09 16:00",
-      "summary": "In a new study, researchers at the Indian Institute of Science (IISc) have resolved a longstanding mystery by showing how epitheli..."
+      "title": "Aging rewires RNA production, favoring short genes over long neuronal ones",
+      "link": "https://phys.org/news/2026-07-aging-rewires-rna-production-favoring.html",
+      "date": "2026-07-09 18:30",
+      "summary": "A new Northwestern Medicine study published in the Proceedings of the National Academy of Sciences has explored the impacts of agi..."
     },
     {
-      "title": "Newborn stars preserve organic-rich gas within ancient supernova debris",
-      "link": "https://phys.org/news/2026-07-newborn-stars-rich-gas-ancient.html",
-      "date": "2026-07-09 15:50",
-      "summary": "For the first time, astronomers have discovered stellar cocoons rich in complex organic molecules within a supernova remnant. A re..."
+      "title": "The secret life of roots: How plants fight back against salty soils",
+      "link": "https://phys.org/news/2026-07-secret-life-roots-salty-soils.html",
+      "date": "2026-07-09 18:20",
+      "summary": "To people, salt is a kitchen staple. But to crops, too much of it can be devastating. Across coastal regions and irrigated agricul..."
     },
     {
-      "title": "Honesty may be more efficient than incentives in organizations, new research finds",
-      "link": "https://phys.org/news/2026-07-honesty-efficient-incentives.html",
-      "date": "2026-07-09 15:40",
-      "summary": "For decades, economic theory has often treated people as if they will do the right thing in organizations only when incentives, su..."
+      "title": "Quantum material opens new path for studying unusual electronic behavior",
+      "link": "https://phys.org/news/2026-07-quantum-material-path-unusual-electronic.html",
+      "date": "2026-07-09 18:10",
+      "summary": "By combining approaches from two rapidly growing fields of quantum physics, researchers at Penn State and Saint Louis University h..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "New Scientist": [
     {
+      "title": "Resuscitated human retinas respond to light 10 hours after death",
+      "link": "https://www.newscientist.com/article/2533673-resuscitated-human-retinas-respond-to-light-10-hours-after-death/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-09 16:00",
+      "summary": "Perfusing donor human retinas with blood and oxygen meant they continued to respond to light for up to 10 hours after death, marki..."
+    },
+    {
       "title": "Mathematics of thermodynamics is being rewritten after 200 years",
       "link": "https://www.newscientist.com/article/2533428-mathematics-of-thermodynamics-is-being-rewritten-after-200-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-07-09 14:00",
@@ -343,12 +349,6 @@
       "link": "https://www.newscientist.com/article/2533348-seeding-clouds-with-seawater-could-prevent-a-super-el-nino/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
       "date": "2026-07-08 19:00",
       "summary": "A modelling study suggests marine cloud brightening could shade the eastern Pacific and reduce a global temperature spike from El ..."
-    },
-    {
-      "title": "Our fertility window could be extended by making ovaries softer",
-      "link": "https://www.newscientist.com/article/2533507-our-fertility-window-could-be-extended-by-making-ovaries-softer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-      "date": "2026-07-08 17:00",
-      "summary": "A drug that softens the ovaries helped mice and rats conceive more easily at an older age, and produce more pups..."
     }
   ]
 }
