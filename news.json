@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Discovery could lead to brighter, more energy-efficient digital displays",
+      "link": "https://news.mit.edu/2026/discovery-could-lead-brighter-more-energy-efficient-digital-displays-0710",
+      "date": "2026-07-10 18:00",
+      "summary": "Researchers found a simple solution for extending the lifespans of LEDs made from glowing microscopic particles called quantum dot..."
+    },
+    {
       "title": "New flapping robot swims and flies like a diving bird",
       "link": "https://news.mit.edu/2026/new-flapping-robot-swims-and-flies-like-diving-bird-0709",
       "date": "2026-07-09 18:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/separating-logic-and-language-0708",
       "date": "2026-07-08 19:35",
       "summary": "Neuroscientists find logical reasoning does not involve language-processing parts of the brain...."
-    },
-    {
-      "title": "MIT engineers whip up a more breathable hydrogel",
-      "link": "https://news.mit.edu/2026/mit-engineers-whip-up-more-breathable-hydrogel-0708",
-      "date": "2026-07-08 15:00",
-      "summary": "The new aerated material could enable longer-lasting bandages, implants, and wearable sensors...."
     }
   ],
   "Harvard Gazette": [
@@ -103,7 +103,7 @@
       "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02113-3Pachyderms would have lost substantial amounts of weight tra..."
     },
     {
-      "title": "Briefing Chat: The 30 year-legacy of a science icon – Dolly the sheep",
+      "title": "Briefing Chat: The 30 year-legacy of a science icon — Dolly the sheep",
       "link": "https://www.nature.com/articles/d41586-026-02185-1",
       "date": "2026-07-10 00:00",
       "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02185-1Nature staff discuss the landmark moment when a mammal was f..."
@@ -115,16 +115,16 @@
       "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02091-6General purpose AI tools for science, such as Claude Science..."
     },
     {
-      "title": "Found: the toxic killer that caused an ocean catastrophe",
-      "link": "https://www.nature.com/articles/d41586-026-02112-4",
-      "date": "2026-07-09 00:00",
-      "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02112-4Scientists identify an alga species as the culprit behind th..."
+      "title": "Think preprints are unreliable? Analysis of 70,000 studies might change your mind",
+      "link": "https://www.nature.com/articles/d41586-026-02167-3",
+      "date": "2026-07-10 00:00",
+      "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02167-3Central conclusions rarely change when biomedical preprints ..."
     },
     {
-      "title": "Pair of ‘super-puff’ planets are lighter than candy floss",
-      "link": "https://www.nature.com/articles/d41586-026-02114-2",
-      "date": "2026-07-09 00:00",
-      "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02114-2Two gas giants circling the same star are among the least de..."
+      "title": "Lab-grown sperm: scientists inch closer to fertility breakthrough",
+      "link": "https://www.nature.com/articles/d41586-026-02172-6",
+      "date": "2026-07-10 00:00",
+      "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02172-6Sci-fi procedure creates immature human sperm from stem cell..."
     }
   ],
   "Retraction Watch": [
@@ -173,22 +173,22 @@
       "summary": "UN digital tech agency launches initiative to improve trust in AI agents  Reuters..."
     },
     {
-      "title": "Meta AI image detector fails to identify some of its own cropped AI images, Reuters analysis finds - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFhDN2xpWkkxOUxmT0V6VXVRclktUGVBWW01V1M3dFlZbFRGM1o1bjNVVlI4a09ZdVBPak15S0JXVFFWVXFOckJZVE5oYklpTDNQMjdudmVPU281dmRyMzlwNmJBMm9LRTJQY292UXZURGhYUl83Vl9fTW5iTzVyX0RQMG5mUm1vTXZnYUNpd3hBYzdlYzZXdFc3bTVQVmhhTHFQNzRXNE4wWFhQNGh1UHcwSkEzQUFJQU9tYXNR?oc=5",
-      "date": "2026-07-10 15:51",
-      "summary": "Meta AI image detector fails to identify some of its own cropped AI images, Reuters analysis finds  Reuters..."
-    },
-    {
-      "title": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXpmX0k2OElhSVZEaFpjRlVTdG9oYjdSdGxoUFJ0bWxkQkwxX3hReVYweWVZeXU2VEs2UE1CNW9fMWtYYlBFOE41WXdJd2lsWmNCSDlmcFRsaXVpbTFVUE9oWVVGcFB5ZVpMbklFWG91R3QyTmhCUmJTaHktdnpxWWxINkdkUDdfNnFiT0w3a29VaWlMOGVtOXJ6UGR4b2tDcFdDNnJPeUEtWURwTXplcXhTaGM?oc=5",
-      "date": "2026-07-07 11:10",
-      "summary": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says  Bloomberg.com..."
-    },
-    {
       "title": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
       "date": "2026-07-09 23:08",
       "summary": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies  Reuters..."
+    },
+    {
+      "title": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWpsRnIya2JuUDVDWlg1eFN4Zk5ZVUE5UWtMY3ZTTlRzTGtVellDRVZZWXNEeldhQW9UOEg2Mlo3bGVOQWlaeEV2QVhOUlBfMmJkdTlvdUxRdVl1Vks4WFdaTXRMaVJ5Y3d5TDNFeFgxWU0xZTRTMXlwS1hUME1zT3lWWE5mLWVsTk1mUzc3VHEyU2NOSUZTLVBEVWNhV3oxV3Vpdkx4cUFxbjA?oc=5",
+      "date": "2026-07-10 13:26",
+      "summary": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space  Reuters..."
+    },
+    {
+      "title": "Italy privacy watchdog fines Character.AI owner over age-check failures - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDJEZFVSQkY0YUpKUFI4NzF4eU5UcEsxZ3VyMVM5QjZ3QVdtV2R4aWVlTmRMejdaYlREdVRWYUk0akZLYUVoT29YSUZWNktSenl2UlhIY3J2cFlpZUZQMVRpVEQxMnBHSWl3Zks3a0ZjejRrTXFFS0F1NE9YSlZOYi1vNUlLeTN4bWRWN0VzZnNmX3lCOW9DY3FXRFNGTjBqb055Z2FiNXJFNzdJVWJicWgzUjUtZw?oc=5",
+      "date": "2026-07-09 13:40",
+      "summary": "Italy privacy watchdog fines Character.AI owner over age-check failures  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Artificial hand reproduces human gestures using memory written into light-responsive polymers",
-      "link": "https://phys.org/news/2026-07-artificial-human-gestures-memory-written.html",
-      "date": "2026-07-10 16:40",
-      "summary": "Danqing Liu from Eindhoven University of Technology explores how interactions with digital systems can be improved through the sen..."
+      "title": "Giant kangaroos survived until 6,500 years ago on the New Guinea coast",
+      "link": "https://phys.org/news/2026-07-giant-kangaroos-survived-years-guinea.html",
+      "date": "2026-07-10 18:20",
+      "summary": "Roughly 50,000 years ago, a kangaroo unlike any alive today lived in the mountain rainforests of New Guinea...."
     },
     {
-      "title": "High-status Iron Age burials reveal early links to Roman Empire",
-      "link": "https://phys.org/news/2026-07-high-status-iron-age-burials.html",
-      "date": "2026-07-10 16:40",
-      "summary": "A large cemetery containing the lavishly adorned remains of unidentified high-status individuals dating from around 2,000 years ag..."
+      "title": "Dust in the wind: intense storms struck China, US in 2025, says UN",
+      "link": "https://phys.org/news/2026-07-intense-storms-struck-china.html",
+      "date": "2026-07-10 18:20",
+      "summary": "China and the southern United States were hit last year by some of their worst sand and dust storms in decades, the United Nations..."
     },
     {
-      "title": "Report shows declining gun homicides, record gun suicides in 2024",
-      "link": "https://phys.org/news/2026-07-declining-gun-homicides-suicides.html",
-      "date": "2026-07-10 16:20",
-      "summary": "Nearly 45,000 people in the U.S. died by gun violence in 2024—one person every 12 minutes, on average—and an all-time high of 27,5..."
+      "title": "New 3D COF structure could help tune porous materials for batteries and cleanup",
+      "link": "https://phys.org/news/2026-07-3d-cof-tune-porous-materials.html",
+      "date": "2026-07-10 18:00",
+      "summary": "A research team synthesized and determined the structure of a borate-linked 3D crystalline covalent organic framework, TCTP-COF, v..."
     },
     {
-      "title": "Researchers discover genetic secrets of mung bean crops",
-      "link": "https://phys.org/news/2026-07-genetic-secrets-mung-bean-crops.html",
-      "date": "2026-07-10 16:20",
-      "summary": "Researchers at the Center for Crop and Food Innovation (CCFI) have made a significant contribution to a landmark study, uncovering..."
+      "title": "Researchers find simple solution for extending the lifespan of LEDs made from glowing quantum dots",
+      "link": "https://phys.org/news/2026-07-simple-solution-lifespan-quantum-dots.html",
+      "date": "2026-07-10 18:00",
+      "summary": "A new study led by MIT researchers could drive the development of more energy-efficient digital displays—such as flat-screen TVs, ..."
     },
     {
-      "title": "NASA space telescope maps magnetic fields of 'Lighthouse' pulsar",
-      "link": "https://phys.org/news/2026-07-nasa-space-telescope-magnetic-fields.html",
-      "date": "2026-07-10 16:00",
-      "summary": "For the first time, scientists have used NASA's IXPE (Imaging X-ray Polarimetry Explorer) to directly measure the magnetic fields ..."
+      "title": "Ancient DNA challenges family assumptions in medieval Scandinavian graves",
+      "link": "https://phys.org/news/2026-07-ancient-dna-family-assumptions-medieval.html",
+      "date": "2026-07-10 18:00",
+      "summary": "When archaeologists find adults and children buried together in medieval graves, it is often assumed that they were members of the..."
     }
   ],
   "The Guardian Edu": [
@@ -317,6 +317,38 @@
       "link": "https://www.scmp.com/business/article/3360157/hong-kong-keeps-tight-grip-housing-land-supply-despite-property-rebound?utm_source=rss_feed",
       "date": "2026-07-10 11:14",
       "summary": "Hong Kong’s government will release just one residential site for sale in the July to September quarter, maintaining a cautious ap..."
+    }
+  ],
+  "New Scientist": [
+    {
+      "title": "UN space database aimed at easing global tensions is mysteriously down",
+      "link": "https://www.newscientist.com/article/2533721-un-space-database-aimed-at-easing-global-tensions-is-mysteriously-down/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-10 15:11",
+      "summary": "A list of global space launches designed to calm cold war tensions and promote transparency has been missing from the UN's website..."
+    },
+    {
+      "title": "Global warming already causing crop losses of over $20 billion a year",
+      "link": "https://www.newscientist.com/article/2533593-global-warming-already-causing-crop-losses-of-over-20-billion-a-year/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-10 15:00",
+      "summary": "Climate change is already having a big impact on crop yields, and the subsequent financial losses will continue to rise as the wor..."
+    },
+    {
+      "title": "Mathematicians put AI to work on Fermat's last theorem",
+      "link": "https://www.newscientist.com/article/2533518-mathematicians-put-ai-to-work-on-fermats-last-theorem/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-10 12:00",
+      "summary": "At an event in London, mathematicians have made unexpectedly fast progress on formalising Fermat's last theorem using AI..."
+    },
+    {
+      "title": "Resuscitated human retinas respond to light 10 hours after death",
+      "link": "https://www.newscientist.com/article/2533673-resuscitated-human-retinas-respond-to-light-10-hours-after-death/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-09 16:00",
+      "summary": "Perfusing donor human retinas with blood and oxygen meant they continued to respond to light for up to 10 hours after death, marki..."
+    },
+    {
+      "title": "2026 eclipse: 5 citizen science projects you can contribute to",
+      "link": "https://www.newscientist.com/article/2531817-2026-eclipse-5-citizen-science-projects-you-can-contribute-to/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-10 06:00",
+      "summary": "During the August 2026 solar eclipse, scientists will be rushing to gather data on the sun, but even if you aren't a professional ..."
     }
   ]
 }
