@@ -33,16 +33,16 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
-      "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
-    },
-    {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+    },
+    {
+      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
+      "date": "2026-06-03 07:00",
+      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
       "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
@@ -65,16 +65,22 @@
   ],
   "Stanford News": [
     {
+      "title": "‘Necessity can drive innovation’ - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEV2JzOHltS0RfV21wcVFPbHdZUUpkMWJjeWd5SFdFWURWZy1MYmkycHNhX0w4TTFuOXRTZ2Q3ZWt5dkdVWFl2X19BT3hLeGdEcHN4NXR3VFpfZ3hyeDFic3hXTEM0M2xldUZNM1ZnSHlCbnZyNTg5MA?oc=5",
+      "date": "2026-07-09 19:26",
+      "summary": "‘Necessity can drive innovation’  Stanford Report..."
+    },
+    {
       "title": "Arthur Fery’s time at Stanford laid the groundwork for his run to the Wimbledon semifinals - AP News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRDM2bXlyWlVQWVJFUzhoZUluYy1QWWFVd0RkZ3lJU203LXk1TDk2NGFIWWJza09lY2FuV195LUVKbDJfQkNzTS1EaDNINzdTVWZKQ1llR0lSaWpTQXdCY0h0M1g3czZMNjlHZ2pPSHdXUEUwZk55dGRFaENQSjlFTm9wODBCNzE0WmgyOTU3MGZGM2g2?oc=5",
       "date": "2026-07-09 16:38",
       "summary": "Arthur Fery’s time at Stanford laid the groundwork for his run to the Wimbledon semifinals  AP News..."
     },
     {
-      "title": "Stanford says 2 sexual assaults reported by same woman did not occur - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmVLc19NOEg1M0dfWFZQQzdBQzJWN0lVeUI1MndRdTFYMzlCems3TlQ3dmFTZmw4UWp2YlM2WmowS3A0RmVJSEJqTjQ1d0lXWHlKSElqZVF4MDBuR1h3NW9ubU90TzZtWmFpS0hzYmRUWThBa2VRWnVkUjFsdmdkdGR4X3BhWi1LM2dqa2VaQlFsSzVTcXhvU0ZhSQ?oc=5",
-      "date": "2026-07-08 16:53",
-      "summary": "Stanford says 2 sexual assaults reported by same woman did not occur  San Francisco Chronicle..."
+      "title": "Meet Biomni – an AI-powered biomedical co-scientist - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjdwOXRLVWFxYnNPa2FyQkFnajBDcDdLR1lLZzlER1Judm10b0xodnV5ajIwcWRFZUVPOFctV19ua0t5bFVLMVpTOXR1VDZNWGJJeHdxNjY5aHBXTG5ZcUpfMzYtWmhwUkxtdEN1ZUgwUzdnbkxRV2k5bXdYNk1yNG9yVVFFaFpidl9F?oc=5",
+      "date": "2026-07-09 18:12",
+      "summary": "Meet Biomni – an AI-powered biomedical co-scientist  Stanford Report..."
     },
     {
       "title": "UM's top legal advisor to leave for Stanford, officials say - The Detroit News",
@@ -83,16 +89,10 @@
       "summary": "UM's top legal advisor to leave for Stanford, officials say  The Detroit News..."
     },
     {
-      "title": "‘Necessity can drive innovation’ - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEV2JzOHltS0RfV21wcVFPbHdZUUpkMWJjeWd5SFdFWURWZy1MYmkycHNhX0w4TTFuOXRTZ2Q3ZWt5dkdVWFl2X19BT3hLeGdEcHN4NXR3VFpfZ3hyeDFic3hXTEM0M2xldUZNM1ZnSHlCbnZyNTg5MA?oc=5",
-      "date": "2026-07-09 19:26",
-      "summary": "‘Necessity can drive innovation’  Stanford Report..."
-    },
-    {
-      "title": "Stanford University Opens Applications for the 2027 Knight-Hennessy Scholars Program: Fully Funded Knight-Hennessy Scholars Program Get Up to 3 Years of Graduate Funding at Stanford University - Global South Opportunities",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pQUc0NlRUN1Yzb0dzelpzTXNUV3c1NkM3M3NDSzdDS2ZmY1kxYnQxcEdzcEY0a0lDUlp3ZUFLb2t4U19zVzBkOW1tYWs3b2NpU21ZcV9vWXduVFRYNDBwbWtjN0F4OGp4ZmFr?oc=5",
-      "date": "2026-07-09 15:22",
-      "summary": "Stanford University Opens Applications for the 2027 Knight-Hennessy Scholars Program: Fully Funded Knight-Hennessy Scholars Progra..."
+      "title": "The Trees of Stanford Weave a Rich Tapestry - Carnegie Science",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NRjhsNlkyaExHVmE0eUlpZVNlbDRNakJUa0hzOUJxeXBHWngtNXNsTUo5N3JxTU16T0RLU0lSTDFlZV9qNERJVG9pbUR1UGY4MXZtRHcwYW9MVE9mUlNZS3V4M3VKV3ozTHNvVEg4Yw?oc=5",
+      "date": "2026-07-08 12:00",
+      "summary": "The Trees of Stanford Weave a Rich Tapestry  Carnegie Science..."
     }
   ],
   "Nature Careers": [
@@ -163,14 +163,14 @@
     {
       "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
-      "date": "2026-07-09 19:57",
+      "date": "2026-07-09 23:48",
       "summary": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows  Reuters..."
     },
     {
-      "title": "OpenAI launches ChatGPT Work, deepening race for workplace AI tools - Reuters",
+      "title": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
-      "date": "2026-07-09 18:51",
-      "summary": "OpenAI launches ChatGPT Work, deepening race for workplace AI tools  Reuters..."
+      "date": "2026-07-09 23:08",
+      "summary": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies  Reuters..."
     },
     {
       "title": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says - Bloomberg.com",
@@ -179,16 +179,16 @@
       "summary": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says  Bloomberg.com..."
     },
     {
-      "title": "SpaceX and AI startup wealth fuels demand for private jets - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGNCOG12UlAxaUVNTjJBOWxSS3pzRm4xMU0zV0NteWNMN1BHbm5mb1hwSDlIQTNuXzA2ZXVUM011eGpHR0FFUDJlV3JNOWZKT043TGNTbnZqbXZsLVM0dDBHWDVrYW92Tkx0ZFp2ZkJJQTZ4amlIbXl3dlYtVElQa2VXVW9lV3lWVlpDYTdIM2ktblBWaTNZeFRKNTRTcWUwX0gyNlBn?oc=5",
-      "date": "2026-07-09 10:27",
-      "summary": "SpaceX and AI startup wealth fuels demand for private jets  Reuters..."
-    },
-    {
       "title": "Exclusive-China's DeepSeek Developing Its Own AI Chip, Sources Say - U.S. News & World Report",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUEdFWF9sdEs1Z2JDLXNTT0xsTW03R0hsX0wyMHJGd3hhZThpVVg5MFA3cGF6RzB1czc4ck5oYjJJckoyOVVhY2NyWmg2Yk00NEpVZDFZREN4VTZzOUtpYWZoemdLS2VMdnFJS2JvbTAxeTNkM3R1VGxnMmg4cC1rbHd3MVhMVVFmU1oxWmJxNWZ2LUV0X1JqNGtnMTRpVy1wQlp1LWhCcFJ5dVh3UXpERnF6OExjbHVNTDhUSXlB?oc=5",
       "date": "2026-07-07 11:25",
       "summary": "Exclusive-China's DeepSeek Developing Its Own AI Chip, Sources Say  U.S. News & World Report..."
+    },
+    {
+      "title": "SpaceX and AI startup wealth fuels demand for private jets - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGNCOG12UlAxaUVNTjJBOWxSS3pzRm4xMU0zV0NteWNMN1BHbm5mb1hwSDlIQTNuXzA2ZXVUM011eGpHR0FFUDJlV3JNOWZKT043TGNTbnZqbXZsLVM0dDBHWDVrYW92Tkx0ZFp2ZkJJQTZ4amlIbXl3dlYtVElQa2VXVW9lV3lWVlpDYTdIM2ktblBWaTNZeFRKNTRTcWUwX0gyNlBn?oc=5",
+      "date": "2026-07-09 10:27",
+      "summary": "SpaceX and AI startup wealth fuels demand for private jets  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,6 +225,24 @@
   ],
   "Phys.org": [
     {
+      "title": "Parents direct more threats toward school administrators than teachers",
+      "link": "https://phys.org/news/2026-07-parents-threats-school-administrators-teachers.html",
+      "date": "2026-07-09 23:40",
+      "summary": "In K–12 schools across the country, administrators are tasked with keeping everyone safe. New research shows they may be the most ..."
+    },
+    {
+      "title": "AI reveals hidden San Andreas Fault movements",
+      "link": "https://phys.org/news/2026-07-ai-reveals-hidden-san-andreas.html",
+      "date": "2026-07-09 23:00",
+      "summary": "When people think about geological faults, they usually think about earthquakes. Yet faults do not move only during earthquakes. S..."
+    },
+    {
+      "title": "Water worries: The dangers of dehydration in pets",
+      "link": "https://phys.org/news/2026-07-dangers-dehydration-pets.html",
+      "date": "2026-07-09 22:40",
+      "summary": "The summer heat can be unrelenting, sending pets who usually run straight to their owners after being outside in search of their w..."
+    },
+    {
       "title": "Carbon–bismuth bonds reveal that relativity blurs the textbook line between sigma and pi bonds",
       "link": "https://phys.org/news/2026-07-carbonbismuth-bonds-reveal-blurs-textbook.html",
       "date": "2026-07-09 22:20",
@@ -235,24 +253,6 @@
       "link": "https://phys.org/news/2026-07-employee-ai-isnt-size.html",
       "date": "2026-07-09 22:00",
       "summary": "As artificial intelligence becomes more deeply embedded in everyday life and work, organizations are investing heavily in tools an..."
-    },
-    {
-      "title": "New catalyst could make mixed plastic waste recyclable in one chemical step",
-      "link": "https://phys.org/news/2026-07-catalyst-plastic-recyclable-chemical.html",
-      "date": "2026-07-09 22:00",
-      "summary": "Ever wondered where your plastics end up? A PET bottle can be washed, shredded, melted and given a second life. But most everyday ..."
-    },
-    {
-      "title": "Krill buildup could slow fin whale filter-feeding unless baleen stays 15% clear",
-      "link": "https://phys.org/news/2026-07-krill-buildup-fin-whale-filter.html",
-      "date": "2026-07-09 22:00",
-      "summary": "Usually there's safety in numbers, but it doesn't always work that way. Fin whales (Balaenoptera physalus) filter-feed on immense ..."
-    },
-    {
-      "title": "Programmable light simulates quantum matter across 300 processes without bigger circuits",
-      "link": "https://phys.org/news/2026-07-programmable-simulates-quantum-bigger-circuits.html",
-      "date": "2026-07-09 21:40",
-      "summary": "A team of researchers at the University of Ottawa and its Nexus for Quantum Technologies Institute, in collaboration with research..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "At high-end Hong Kong hotels, rates check in above pre-pandemic highs, outpace market",
+      "link": "https://www.scmp.com/business/article/3360010/high-end-hong-kong-hotels-rates-check-above-pre-pandemic-highs-outpace-market?utm_source=rss_feed",
+      "date": "2026-07-09 23:30",
+      "summary": "Hong Kong’s luxury hotels have outpaced the city’s broader hospitality market since last year, with their room rates exceeding 201..."
+    },
+    {
       "title": "Trump’s climate jibes at China and EU just make him look out of date",
       "link": "https://www.scmp.com/opinion/world-opinion/article/3359838/trumps-climate-jibes-china-and-eu-just-make-him-look-out-date?utm_source=rss_feed",
       "date": "2026-07-09 21:30",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3360023/regulator-outlines-review-after-cathay-flight-intercepted-nato-jets?utm_source=rss_feed",
       "date": "2026-07-09 13:43",
       "summary": "Hong Kong’s aviation regulator has ordered Cathay Pacific Airways to conduct a comprehensive review of an incident involving a Lon..."
-    },
-    {
-      "title": "Pak Shek Kok station on East Rail line scheduled to open as early as 2033",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3360021/pak-shek-kok-station-east-rail-line-scheduled-open-early-2033?utm_source=rss_feed",
-      "date": "2026-07-09 13:01",
-      "summary": "Pak Shek Kok station on the East Rail line is expected to open as early as 2033, Hong Kong authorities have said, unveiling long-d..."
     }
   ],
   "New Scientist": [
