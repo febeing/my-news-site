@@ -33,16 +33,16 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
-      "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
-    },
-    {
       "title": "20 societal problems, 20 solutions - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
       "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
+    },
+    {
+      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
+      "date": "2026-05-12 07:00",
+      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
       "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
@@ -161,10 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
-      "date": "2026-07-09 23:08",
-      "summary": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies  Reuters..."
+      "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
+      "date": "2026-07-09 23:48",
+      "summary": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows  Reuters..."
+    },
+    {
+      "title": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWpsRnIya2JuUDVDWlg1eFN4Zk5ZVUE5UWtMY3ZTTlRzTGtVellDRVZZWXNEeldhQW9UOEg2Mlo3bGVOQWlaeEV2QVhOUlBfMmJkdTlvdUxRdVl1Vks4WFdaTXRMaVJ5Y3d5TDNFeFgxWU0xZTRTMXlwS1hUME1zT3lWWE5mLWVsTk1mUzc3VHEyU2NOSUZTLVBEVWNhV3oxV3Vpdkx4cUFxbjA?oc=5",
+      "date": "2026-07-10 13:26",
+      "summary": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space  Reuters..."
     },
     {
       "title": "Meta scraps AI image feature days after launch following privacy backlash - Reuters",
@@ -173,22 +179,16 @@
       "summary": "Meta scraps AI image feature days after launch following privacy backlash  Reuters..."
     },
     {
-      "title": "Altera returns to growth as AI, robotics fuel demand, CEO says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUxfZDVhS2tnNUNrcVdacEotSUVaT05mMnlJOW9KR2RiMXBtSUpFckk4SUt4akxaX2wwNU1kSjFfQmtJZEpUNmlDUHYzSVhwR0NqZjBQQWRUVmxkcWRvd1V1bDZSVldZNEUzOG1sZUJzLTVHdkFicDB4UHZyVVhOZEpCd0ZzcmpZMjN3SUIxbG0tRlpKajBmTExJNFo4VmZC?oc=5",
-      "date": "2026-07-10 18:43",
-      "summary": "Altera returns to growth as AI, robotics fuel demand, CEO says  Reuters..."
-    },
-    {
       "title": "Global equity fund inflows surge to three-week high on AI optimism - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa3NIQldaRU02OUJIOWJnUTdVOVJ4ZmRkSmk4X2N3THlrdGZVeE5tYURYakxIcnYxbzVQZzBmVTJuQzhJLUx2b2k5UElRWnMtTWo2RUJrUUJkSElXVl94d0luSnk5OGdSY3dkNmJzZDRJWU92MW9GSG5JcGtYdFJCcWR3?oc=5",
       "date": "2026-07-10 12:35",
       "summary": "Global equity fund inflows surge to three-week high on AI optimism  Reuters..."
     },
     {
-      "title": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWpsRnIya2JuUDVDWlg1eFN4Zk5ZVUE5UWtMY3ZTTlRzTGtVellDRVZZWXNEeldhQW9UOEg2Mlo3bGVOQWlaeEV2QVhOUlBfMmJkdTlvdUxRdVl1Vks4WFdaTXRMaVJ5Y3d5TDNFeFgxWU0xZTRTMXlwS1hUME1zT3lWWE5mLWVsTk1mUzc3VHEyU2NOSUZTLVBEVWNhV3oxV3Vpdkx4cUFxbjA?oc=5",
-      "date": "2026-07-10 13:26",
-      "summary": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space  Reuters..."
+      "title": "Altera returns to growth as AI, robotics fuel demand, CEO says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUxfZDVhS2tnNUNrcVdacEotSUVaT05mMnlJOW9KR2RiMXBtSUpFckk4SUt4akxaX2wwNU1kSjFfQmtJZEpUNmlDUHYzSVhwR0NqZjBQQWRUVmxkcWRvd1V1bDZSVldZNEUzOG1sZUJzLTVHdkFicDB4UHZyVVhOZEpCd0ZzcmpZMjN3SUIxbG0tRlpKajBmTExJNFo4VmZC?oc=5",
+      "date": "2026-07-10 18:43",
+      "summary": "Altera returns to growth as AI, robotics fuel demand, CEO says  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,6 +225,12 @@
   ],
   "Phys.org": [
     {
+      "title": "Drawing the line: Virtual fences trigger the same cattle behavior as physical ones",
+      "link": "https://phys.org/news/2026-07-line-virtual-trigger-cattle-behavior.html",
+      "date": "2026-07-11 23:00",
+      "summary": "Virtual fences could make managing grazing livestock on farms more flexible and more efficient while improving animal welfare. A n..."
+    },
+    {
       "title": "Secure glass containers for storing chemical waste through laser welding",
       "link": "https://phys.org/news/2026-07-glass-chemical-laser-welding.html",
       "date": "2026-07-11 22:00",
@@ -247,12 +253,6 @@
       "link": "https://phys.org/news/2026-07-reimagining-furnace-magnetic-supercharge-industrial.html",
       "date": "2026-07-11 20:00",
       "summary": "Imagine trying to trap a miniature star inside a machine without letting it touch the walls or burn itself out. This is the centra..."
-    },
-    {
-      "title": "Immune cells get transformed into fungus-fighting nanoparticles",
-      "link": "https://phys.org/news/2026-07-immune-cells-fungus-nanoparticles.html",
-      "date": "2026-07-11 20:00",
-      "summary": "Tiny particles made from the membranes of human immune cells could offer a promising new way to fight fungal infections that are b..."
     }
   ],
   "The Guardian Edu": [
