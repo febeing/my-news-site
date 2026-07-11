@@ -127,38 +127,6 @@
       "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02167-3Central conclusions rarely change when biomedical preprints ..."
     }
   ],
-  "Science News": [
-    {
-      "title": "New NSF policy would ban almost all collaborations with Chinese scientists",
-      "link": "https://www.science.org/content/article/new-nsf-policy-would-ban-almost-all-collaborations-chinese-scientists",
-      "date": "2026-07-10 05:55",
-      "summary": "Agency drops attempt to mitigate risk in favor of outright prohibition on working with most Chinese research institutions..."
-    },
-    {
-      "title": "Ancient DNA solves Medici murder mystery",
-      "link": "https://www.science.org/content/article/ancient-dna-solves-medici-murder-mystery",
-      "date": "2026-07-10 05:05",
-      "summary": "Malaria, not poisoning, killed a prominent 16th century duke..."
-    },
-    {
-      "title": "DNA could act like a famed gravity-defying pump",
-      "link": "https://www.science.org/content/article/dna-could-act-famed-gravity-defying-pump",
-      "date": "2026-07-10 02:23",
-      "summary": "Shrunken version of Archimedes screw could allow researchers to move molecules around at tiny scales..."
-    },
-    {
-      "title": "NSF makes billion-dollar gamble on research with an economic payoff",
-      "link": "https://www.science.org/content/article/nsf-makes-billion-dollar-gamble-research-economic-payoff",
-      "date": "2026-07-10 01:15",
-      "summary": "New X-Labs initiative aims to develop breakthrough technologies—but academics aren’t sure they are welcome..."
-    },
-    {
-      "title": "Spain's largest research organization confronts its dark past",
-      "link": "https://www.science.org/content/article/largest-research-organization-spain-confronts-its-dark-past",
-      "date": "2026-07-10 12:30",
-      "summary": "Spanish National Research Council, established under Francisco Franco’s dictatorship, has published the stories of some 500 resear..."
-    }
-  ],
   "Retraction Watch": [
     {
       "title": "Weekend reads: Neuroscientist found not guilty of misconduct; when editors revolt; a Waffle House study walkback",
@@ -193,10 +161,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
-      "date": "2026-07-09 23:48",
-      "summary": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows  Reuters..."
+      "title": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
+      "date": "2026-07-09 23:08",
+      "summary": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies  Reuters..."
     },
     {
       "title": "Meta scraps AI image feature days after launch following privacy backlash - Reuters",
@@ -205,16 +173,16 @@
       "summary": "Meta scraps AI image feature days after launch following privacy backlash  Reuters..."
     },
     {
-      "title": "Global equity fund inflows surge to three-week high on AI optimism - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa3NIQldaRU02OUJIOWJnUTdVOVJ4ZmRkSmk4X2N3THlrdGZVeE5tYURYakxIcnYxbzVQZzBmVTJuQzhJLUx2b2k5UElRWnMtTWo2RUJrUUJkSElXVl94d0luSnk5OGdSY3dkNmJzZDRJWU92MW9GSG5JcGtYdFJCcWR3?oc=5",
-      "date": "2026-07-10 12:35",
-      "summary": "Global equity fund inflows surge to three-week high on AI optimism  Reuters..."
-    },
-    {
       "title": "Altera returns to growth as AI, robotics fuel demand, CEO says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUxfZDVhS2tnNUNrcVdacEotSUVaT05mMnlJOW9KR2RiMXBtSUpFckk4SUt4akxaX2wwNU1kSjFfQmtJZEpUNmlDUHYzSVhwR0NqZjBQQWRUVmxkcWRvd1V1bDZSVldZNEUzOG1sZUJzLTVHdkFicDB4UHZyVVhOZEpCd0ZzcmpZMjN3SUIxbG0tRlpKajBmTExJNFo4VmZC?oc=5",
       "date": "2026-07-10 18:43",
       "summary": "Altera returns to growth as AI, robotics fuel demand, CEO says  Reuters..."
+    },
+    {
+      "title": "Global equity fund inflows surge to three-week high on AI optimism - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa3NIQldaRU02OUJIOWJnUTdVOVJ4ZmRkSmk4X2N3THlrdGZVeE5tYURYakxIcnYxbzVQZzBmVTJuQzhJLUx2b2k5UElRWnMtTWo2RUJrUUJkSElXVl94d0luSnk5OGdSY3dkNmJzZDRJWU92MW9GSG5JcGtYdFJCcWR3?oc=5",
+      "date": "2026-07-10 12:35",
+      "summary": "Global equity fund inflows surge to three-week high on AI optimism  Reuters..."
     },
     {
       "title": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space - Reuters",
@@ -257,6 +225,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Synthetic rotation brings black hole energy theory into lab, amplifying waves",
+      "link": "https://phys.org/news/2026-07-synthetic-rotation-black-hole-energy.html",
+      "date": "2026-07-11 21:00",
+      "summary": "More than half a century ago, Sir Roger Penrose envisioned a scenario in which energy could be extracted from a black hole spinnin..."
+    },
+    {
+      "title": "The Vikings were more than bearded marauders, but Scandinavia's national museums continue to project that image",
+      "link": "https://phys.org/news/2026-07-vikings-bearded-marauders-scandinavia-national.html",
+      "date": "2026-07-11 21:00",
+      "summary": "If you visit Scandinavia, you are likely to find yourself at an exhibition about Vikings. There are many to choose from...."
+    },
+    {
       "title": "Reimagining the furnace: How a new magnetic design could supercharge industrial plasma",
       "link": "https://phys.org/news/2026-07-reimagining-furnace-magnetic-supercharge-industrial.html",
       "date": "2026-07-11 20:00",
@@ -273,18 +253,6 @@
       "link": "https://phys.org/news/2026-07-species-underestimate-climate-extinction.html",
       "date": "2026-07-11 20:00",
       "summary": "Climate change threatens many plant and animal species not only when their habitats disappear as climatic conditions change, but a..."
-    },
-    {
-      "title": "Ribosome-based gene circuit lets cells read six signals and trigger responses",
-      "link": "https://phys.org/news/2026-07-ribosome-based-gene-circuit-cells.html",
-      "date": "2026-07-11 19:00",
-      "summary": "The molecular machinery that normally builds proteins inside cells has now taken on a new role as a \"switch.\" A research team at P..."
-    },
-    {
-      "title": "The gap between forecasts and reality can change public emotions during disasters",
-      "link": "https://phys.org/news/2026-07-gap-reality-emotions-disasters.html",
-      "date": "2026-07-11 19:00",
-      "summary": "What happens when weather forecasts do not match reality? How does the public emotionally respond when a disaster unfolds differen..."
     }
   ],
   "The Guardian Edu": [
