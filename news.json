@@ -179,16 +179,16 @@
       "summary": "Meta scraps AI image feature days after launch following privacy backlash  Reuters..."
     },
     {
-      "title": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
-      "date": "2026-07-09 23:08",
-      "summary": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies  Reuters..."
-    },
-    {
       "title": "Altera returns to growth as AI, robotics fuel demand, CEO says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUxfZDVhS2tnNUNrcVdacEotSUVaT05mMnlJOW9KR2RiMXBtSUpFckk4SUt4akxaX2wwNU1kSjFfQmtJZEpUNmlDUHYzSVhwR0NqZjBQQWRUVmxkcWRvd1V1bDZSVldZNEUzOG1sZUJzLTVHdkFicDB4UHZyVVhOZEpCd0ZzcmpZMjN3SUIxbG0tRlpKajBmTExJNFo4VmZC?oc=5",
       "date": "2026-07-10 18:43",
       "summary": "Altera returns to growth as AI, robotics fuel demand, CEO says  Reuters..."
+    },
+    {
+      "title": "Global equity fund inflows surge to three-week high on AI optimism - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa3NIQldaRU02OUJIOWJnUTdVOVJ4ZmRkSmk4X2N3THlrdGZVeE5tYURYakxIcnYxbzVQZzBmVTJuQzhJLUx2b2k5UElRWnMtTWo2RUJrUUJkSElXVl94d0luSnk5OGdSY3dkNmJzZDRJWU92MW9GSG5JcGtYdFJCcWR3?oc=5",
+      "date": "2026-07-10 12:35",
+      "summary": "Global equity fund inflows surge to three-week high on AI optimism  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,6 +225,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Drought threatens irrigation in northern Italy",
+      "link": "https://phys.org/news/2026-07-drought-threatens-irrigation-northern-italy.html",
+      "date": "2026-07-11 08:20",
+      "summary": "Water reserves are being depleted rapidly in northern Italy, threatening farming as the region's main river dries up, local offici..."
+    },
+    {
+      "title": "Brutal heat wave forecast for western US this weekend",
+      "link": "https://phys.org/news/2026-07-brutal-western-weekend.html",
+      "date": "2026-07-11 08:00",
+      "summary": "A \"widespread and significant\" heat wave is predicted to bring oppressive temperatures to drought-hit western U.S. states over the..."
+    },
+    {
       "title": "Thousands shelter in Taiwan as typhoon lashes Japan islands",
       "link": "https://phys.org/news/2026-07-thousands-taiwan-typhoon-lashes-japan.html",
       "date": "2026-07-11 07:40",
@@ -241,18 +253,6 @@
       "link": "https://phys.org/news/2026-07-platform-digital-marine-biobanks.html",
       "date": "2026-07-11 03:40",
       "summary": "A new digital platform developed under the leadership of CIIMAR is making Portugal's marine biodiversity more accessible by bringi..."
-    },
-    {
-      "title": "Collective agreements are least common where workers need them most",
-      "link": "https://phys.org/news/2026-07-agreements-common-workers.html",
-      "date": "2026-07-11 02:20",
-      "summary": "Workers earning the lowest wages are the least likely to be covered by collective agreements in Germany, despite being the group f..."
-    },
-    {
-      "title": "Understanding anti-blackness at Hispanic-serving research universities",
-      "link": "https://phys.org/news/2026-07-anti-blackness-hispanic-universities.html",
-      "date": "2026-07-11 01:20",
-      "summary": "At Hispanic-Serving Institutions (HSIs), conversations about diversity often center on supporting Hispanic/Latine students. New re..."
     }
   ],
   "The Guardian Edu": [
@@ -289,10 +289,22 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong police chief backs plan to deny pay rises to bottom 5% of performers",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360217/hong-kong-police-chief-backs-plan-deny-pay-rises-bottom-5-performers?utm_source=rss_feed",
+      "date": "2026-07-11 09:20",
+      "summary": "Hong Kong’s police chief has thrown his weight behind a controversial government reform of the appraisal system that will deny a p..."
+    },
+    {
+      "title": "Typhoon Bavi: more than 130 flights connecting Hong Kong to region axed",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3360218/typhoon-bavi-more-130-flights-connecting-hong-kong-region-axed?utm_source=rss_feed",
+      "date": "2026-07-11 09:16",
+      "summary": "More than 130 flights between Hong Kong, Taiwan, mainland China and Japan have been cancelled, while 10 high-speed rail services h..."
+    },
+    {
       "title": "Hong Kong could adjust tunnel tolls as traffic surpasses pre-reform peak",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3360210/hong-kong-may-adjust-tunnel-tolls-traffic-surpasses-pre-reform-peak?utm_source=rss_feed",
       "date": "2026-07-11 06:41",
-      "summary": "Tolls at Hong Kong’s three cross-harbour tunnels could be adjusted in the future after traffic volumes exceeded pre-reform peaks, ..."
+      "summary": "Tolls at Hong Kong’s cross-harbour tunnels could be adjusted in the future to better control the flow of vehicles as traffic volum..."
     },
     {
       "title": "No public subsidies needed for Pak Shek Kok MTR station: Hong Kong minister",
@@ -301,22 +313,42 @@
       "summary": "No government subsidies will be needed to build the long-awaited Pak Shek Kok station on the East Rail line, Hong Kong’s minister ..."
     },
     {
-      "title": "Surge in abandoned animals amid land clearance for Northern Metropolis development",
+      "title": "Surge in abandoned animals amid land clearance for Northern Metropolis project",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3360199/surge-abandoned-animals-amid-land-clearance-northern-metropolis-development?utm_source=rss_feed",
       "date": "2026-07-11 04:00",
       "summary": "Three-legged dogs and one-eyed cats are common sights at a veterinary clinic opened by an animal welfare group in the Fo Tan area ..."
+    }
+  ],
+  "New Scientist": [
+    {
+      "title": "UN space database aimed at easing global tensions is mysteriously down",
+      "link": "https://www.newscientist.com/article/2533721-un-space-database-aimed-at-easing-global-tensions-is-mysteriously-down/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-10 15:11",
+      "summary": "A list of global space launches designed to calm cold war tensions and promote transparency has been missing from the UN's website..."
     },
     {
-      "title": "How Hong Kong can lead in longevity medicine as silver economy grows",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3359770/how-hong-kong-can-lead-longevity-medicine-silver-economy-grows?utm_source=rss_feed",
-      "date": "2026-07-11 01:30",
-      "summary": "A profound demographic and economic shift is sweeping through Asia, quietly rewriting the rules of national development. The tradi..."
+      "title": "Global warming already causing crop losses of over $20 billion a year",
+      "link": "https://www.newscientist.com/article/2533593-global-warming-already-causing-crop-losses-of-over-20-billion-a-year/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-10 15:00",
+      "summary": "Climate change is already having a big impact on crop yields, and the subsequent financial losses will continue to rise as the wor..."
     },
     {
-      "title": "Filipino workers in Hong Kong ‘recruited as surrogates for Central Asian couples’",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3360188/filipino-workers-hong-kong-recruited-surrogates-central-asian-couples?utm_source=rss_feed",
-      "date": "2026-07-11 01:00",
-      "summary": "The Philippine consulate in Hong Kong is investigating allegations that domestic helpers are being recruited in the city to become..."
+      "title": "Mathematicians put AI to work on Fermat's last theorem",
+      "link": "https://www.newscientist.com/article/2533518-mathematicians-put-ai-to-work-on-fermats-last-theorem/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-10 12:00",
+      "summary": "At an event in London, mathematicians have made unexpectedly fast progress on formalising Fermat's last theorem using AI..."
+    },
+    {
+      "title": "Resuscitated human retinas respond to light 10 hours after death",
+      "link": "https://www.newscientist.com/article/2533673-resuscitated-human-retinas-respond-to-light-10-hours-after-death/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-09 16:00",
+      "summary": "Perfusing donor human retinas with blood and oxygen meant they continued to respond to light for up to 10 hours after death, marki..."
+    },
+    {
+      "title": "2026 eclipse: 5 citizen science projects you can contribute to",
+      "link": "https://www.newscientist.com/article/2531817-2026-eclipse-5-citizen-science-projects-you-can-contribute-to/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+      "date": "2026-07-10 06:00",
+      "summary": "During the August 2026 solar eclipse, scientists will be rushing to gather data on the sun, but even if you aren't a professional ..."
     }
   ]
 }
