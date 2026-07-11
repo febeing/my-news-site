@@ -127,6 +127,38 @@
       "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02167-3Central conclusions rarely change when biomedical preprints ..."
     }
   ],
+  "Science News": [
+    {
+      "title": "New NSF policy would ban almost all collaborations with Chinese scientists",
+      "link": "https://www.science.org/content/article/new-nsf-policy-would-ban-almost-all-collaborations-chinese-scientists",
+      "date": "2026-07-10 05:55",
+      "summary": "Agency drops attempt to mitigate risk in favor of outright prohibition on working with most Chinese research institutions..."
+    },
+    {
+      "title": "Ancient DNA solves Medici murder mystery",
+      "link": "https://www.science.org/content/article/ancient-dna-solves-medici-murder-mystery",
+      "date": "2026-07-10 05:05",
+      "summary": "Malaria, not poisoning, killed a prominent 16th century duke..."
+    },
+    {
+      "title": "DNA could act like a famed gravity-defying pump",
+      "link": "https://www.science.org/content/article/dna-could-act-famed-gravity-defying-pump",
+      "date": "2026-07-10 02:23",
+      "summary": "Shrunken version of Archimedes screw could allow researchers to move molecules around at tiny scales..."
+    },
+    {
+      "title": "NSF makes billion-dollar gamble on research with an economic payoff",
+      "link": "https://www.science.org/content/article/nsf-makes-billion-dollar-gamble-research-economic-payoff",
+      "date": "2026-07-10 01:15",
+      "summary": "New X-Labs initiative aims to develop breakthrough technologies—but academics aren’t sure they are welcome..."
+    },
+    {
+      "title": "Spain's largest research organization confronts its dark past",
+      "link": "https://www.science.org/content/article/largest-research-organization-spain-confronts-its-dark-past",
+      "date": "2026-07-10 12:30",
+      "summary": "Spanish National Research Council, established under Francisco Franco’s dictatorship, has published the stories of some 500 resear..."
+    }
+  ],
   "Retraction Watch": [
     {
       "title": "Weekend reads: Neuroscientist found not guilty of misconduct; when editors revolt; a Waffle House study walkback",
@@ -205,16 +237,16 @@
       "summary": "Anthropic found a hidden space where Claude puzzles over concepts  MIT Technology Review..."
     },
     {
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWlRhellXd1hHNFNMbHRfMm5ySDlObUFnV0lJZnlRTUlTcW9ZUG5zOGtmMnRpYmtrckJyUFJXckZpZjJfOS1yM04zUWNOWXJTSEhVX3FTR1RlMWhwY0tMMXZVa1lYVURzeFd6MlQ2TGthdVJ0UXNVcjBiM01TWEt4UUdlUlpkd2JHa1RqNXVWdDVJczhLdmJyZm9CSE9yc0ltUThBQ0xR0gGrAUFVX3lxTFB4VUotT2NPLTZsSURGY1c2ZExGaFdxZ2dGOWxtXzJJY3FxeW1YVDdFWVhyaEFCTFZ2SHVHb25MNk9sbm9SbVZIWE9GWkptdG51ekhvMDAwa2Z4b29oNjFfakVfNFRjYXMzUkcwbENrUjlzYzU2cS1Oa3pRcG05WjNBX2premFsQWx6Z3dXVEI4QWg0b1hsNWd2dGtadGp1MXI1WG1sQ1d6dmUzYw?oc=5",
-      "date": "2026-07-07 12:10",
-      "summary": "The Download: your stake in OpenAI, and the Treasury’s AI warning  MIT Technology Review..."
-    },
-    {
       "title": "Four nuclear reactors hit a big milestone in the US - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNUtXRzRsTmQ0RHc3SFNJRnc0TURLY2l5T3VjbTlEOGtabVIzQzl6MHJqenk0dUxhMkNHTkFGSkkzRl91RXRRcnNkUURfUkZYRUNGNWlLRkhQT05jSUlmYUpzMUpQdWptWlhNSTBYT3ktUE01MHUtZUZHOUk3clFwWThubkFnWXoybFZRbzdDRWlFa25B0gGaAUFVX3lxTE04U2FYNndaNzFJWkdPdkRVUnlOT1Y0Sks4dGc1eHF0dUExc1JudkdnbzZpTV9HUDRRRUhmcDdyLVd5NURzMVA3anZRdjNpT2tlVWxOb1g4MG9uejJkRFZ2LU1Oa3puQ05uNW9WVU0xb2lybFJhUVVHV2FYeHIxcnhZVC1pcEFCbTNQQVExZE95UGhDWmgxdUhtYlE?oc=5",
       "date": "2026-07-09 08:00",
       "summary": "Four nuclear reactors hit a big milestone in the US  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWlRhellXd1hHNFNMbHRfMm5ySDlObUFnV0lJZnlRTUlTcW9ZUG5zOGtmMnRpYmtrckJyUFJXckZpZjJfOS1yM04zUWNOWXJTSEhVX3FTR1RlMWhwY0tMMXZVa1lYVURzeFd6MlQ2TGthdVJ0UXNVcjBiM01TWEt4UUdlUlpkd2JHa1RqNXVWdDVJczhLdmJyZm9CSE9yc0ltUThBQ0xR0gGrAUFVX3lxTFB4VUotT2NPLTZsSURGY1c2ZExGaFdxZ2dGOWxtXzJJY3FxeW1YVDdFWVhyaEFCTFZ2SHVHb25MNk9sbm9SbVZIWE9GWkptdG51ekhvMDAwa2Z4b29oNjFfakVfNFRjYXMzUkcwbENrUjlzYzU2cS1Oa3pRcG05WjNBX2premFsQWx6Z3dXVEI4QWg0b1hsNWd2dGtadGp1MXI1WG1sQ1d6dmUzYw?oc=5",
+      "date": "2026-07-07 12:10",
+      "summary": "The Download: your stake in OpenAI, and the Treasury’s AI warning  MIT Technology Review..."
     },
     {
       "title": "Your family’s $300 stake in OpenAI - MIT Technology Review",
@@ -224,6 +256,24 @@
     }
   ],
   "Phys.org": [
+    {
+      "title": "Reimagining the furnace: How a new magnetic design could supercharge industrial plasma",
+      "link": "https://phys.org/news/2026-07-reimagining-furnace-magnetic-supercharge-industrial.html",
+      "date": "2026-07-11 20:00",
+      "summary": "Imagine trying to trap a miniature star inside a machine without letting it touch the walls or burn itself out. This is the centra..."
+    },
+    {
+      "title": "Immune cells get transformed into fungus-fighting nanoparticles",
+      "link": "https://phys.org/news/2026-07-immune-cells-fungus-nanoparticles.html",
+      "date": "2026-07-11 20:00",
+      "summary": "Tiny particles made from the membranes of human immune cells could offer a promising new way to fight fungal infections that are b..."
+    },
+    {
+      "title": "When species are forced to move: Prediction models underestimate climate-related extinction risk",
+      "link": "https://phys.org/news/2026-07-species-underestimate-climate-extinction.html",
+      "date": "2026-07-11 20:00",
+      "summary": "Climate change threatens many plant and animal species not only when their habitats disappear as climatic conditions change, but a..."
+    },
     {
       "title": "Ribosome-based gene circuit lets cells read six signals and trigger responses",
       "link": "https://phys.org/news/2026-07-ribosome-based-gene-circuit-cells.html",
@@ -235,24 +285,6 @@
       "link": "https://phys.org/news/2026-07-gap-reality-emotions-disasters.html",
       "date": "2026-07-11 19:00",
       "summary": "What happens when weather forecasts do not match reality? How does the public emotionally respond when a disaster unfolds differen..."
-    },
-    {
-      "title": "Heavy traffic can turn flower-rich verges into bumblebee traps, study finds",
-      "link": "https://phys.org/news/2026-07-heavy-traffic-rich-verges-bumblebee.html",
-      "date": "2026-07-11 18:00",
-      "summary": "Flower-rich road verges may attract hungry bumblebees, but at the same time, they can be dangerous for the buzzing insects—if traf..."
-    },
-    {
-      "title": "Managing water with local wisdom and science",
-      "link": "https://phys.org/news/2026-07-local-wisdom-science.html",
-      "date": "2026-07-11 18:00",
-      "summary": "Across a narrow watershed in Asakura, a rural city in Fukuoka Prefecture, centuries-old stone channels still guide water through f..."
-    },
-    {
-      "title": "A robot that reads bacteria by touch, without staining or chemical labels",
-      "link": "https://phys.org/news/2026-07-robot-bacteria-chemical.html",
-      "date": "2026-07-11 17:00",
-      "summary": "Fast identification of bacteria is important in health care, food safety, environmental monitoring and infection control. One of t..."
     }
   ],
   "The Guardian Edu": [
