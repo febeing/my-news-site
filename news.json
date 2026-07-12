@@ -161,12 +161,6 @@
   ],
   "Reuters AI": [
     {
-      "title": "Meta scraps AI image feature days after launch following privacy backlash - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUG5uc3lpN1Z4TFMtZm5Mc1pCaW9hSE4xb3Z2X3BuTno5NEVmb0FEdm5sY3BFMTl0VFNkb04wNEVIQzkxbVNidlU1dnZIRGFESWdiaG50dGJRN01TMGc0LTZhYl9YbnlTdmJLMk9ZYXYtWEtzcmFtS0NsZ0RWdllPSTY5ZUQ4ZXZCQllaS3J2ZXNUSHZmVDljR0s1NHQ5b0pT?oc=5",
-      "date": "2026-07-10 23:31",
-      "summary": "Meta scraps AI image feature days after launch following privacy backlash  Reuters..."
-    },
-    {
       "title": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZHVWMTZfdlZoNHBPbVhNSTktYk5yTzBaN3BOTWc2NjNhczhUWVJVTktLZld3WC0zeGEyREFDZk1kWkFjNzBFaXV0M3JSMC1mNFlPQU9DYy1palFFbTRoUFYxR1JZVDNRVmhCQzREYnMxOGd1cEFhNE9aeTFOVzhDTjF6UVY3b0RzUm5ReWIyQkQ2ZjF2OC1kNG40clpPNzhkTTJZOWJUckc0SUlaWVhaa1VFOVpkVXA3am9aY1I2bWlqODM3N2c?oc=5",
       "date": "2026-07-12 08:37",
@@ -181,7 +175,7 @@
     {
       "title": "Meta AI image detector fails to identify some of its own cropped AI images, Reuters analysis finds - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFhDN2xpWkkxOUxmT0V6VXVRclktUGVBWW01V1M3dFlZbFRGM1o1bjNVVlI4a09ZdVBPak15S0JXVFFWVXFOckJZVE5oYklpTDNQMjdudmVPU281dmRyMzlwNmJBMm9LRTJQY292UXZURGhYUl83Vl9fTW5iTzVyX0RQMG5mUm1vTXZnYUNpd3hBYzdlYzZXdFc3bTVQVmhhTHFQNzRXNE4wWFhQNGh1UHcwSkEzQUFJQU9tYXNR?oc=5",
-      "date": "2026-07-10 15:40",
+      "date": "2026-07-11 21:35",
       "summary": "Meta AI image detector fails to identify some of its own cropped AI images, Reuters analysis finds  Reuters..."
     },
     {
@@ -189,6 +183,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWpsRnIya2JuUDVDWlg1eFN4Zk5ZVUE5UWtMY3ZTTlRzTGtVellDRVZZWXNEeldhQW9UOEg2Mlo3bGVOQWlaeEV2QVhOUlBfMmJkdTlvdUxRdVl1Vks4WFdaTXRMaVJ5Y3d5TDNFeFgxWU0xZTRTMXlwS1hUME1zT3lWWE5mLWVsTk1mUzc3VHEyU2NOSUZTLVBEVWNhV3oxV3Vpdkx4cUFxbjA?oc=5",
       "date": "2026-07-10 13:26",
       "summary": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space  Reuters..."
+    },
+    {
+      "title": "Special delivery: Italy's postman joins the AI infrastructure race - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeFNUV09NVDRabWN6TDV4NUN3bHRFbHVrNFhBS1BlZXpYN1dxbXFZTlpiUDRKTFdFaTZ6RTNYZkZGNzZWNXgzNWVkWmFJS0pKSnk0bGotOUh5ZjlURncxXzJQNnJFR0FDRzgyUWZJTkRHSnZSZkh0ZjY4c1ZKbTdQX2RIdnlRcjI5SC1mSE1xczg4U0pFWlhMWFNFcFRRMUFKYnFvenVRWHRJUXJ2cmJXLTRTc2ZLanAzT3NB?oc=5",
+      "date": "2026-07-10 05:17",
+      "summary": "Special delivery: Italy's postman joins the AI infrastructure race  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,6 +225,24 @@
   ],
   "Phys.org": [
     {
+      "title": "How simple changes to PowerPoint presentations can make a big difference for learners",
+      "link": "https://phys.org/news/2026-07-simple-powerpoint-big-difference-learners.html",
+      "date": "2026-07-12 20:00",
+      "summary": "Microsoft PowerPoint has become the default tool for presenting learning materials in classrooms, universities, corporate training..."
+    },
+    {
+      "title": "New imaging method offers fresh insight into LED materials",
+      "link": "https://phys.org/news/2026-07-imaging-method-fresh-insight-materials.html",
+      "date": "2026-07-12 20:00",
+      "summary": "Light Emitting Diodes (LEDs) are used in everything from household lighting and mobile phones to large display screens. Improving ..."
+    },
+    {
+      "title": "Textbook chemistry gains blue-light upgrade to build complex drug molecules in fewer steps",
+      "link": "https://phys.org/news/2026-07-textbook-chemistry-gains-blue-complex.html",
+      "date": "2026-07-12 19:11",
+      "summary": "In drug discovery, building complex molecules quickly is the name of the game...."
+    },
+    {
       "title": "Climate change leaves northern tree swallows more vulnerable those in the southern US",
       "link": "https://phys.org/news/2026-07-climate-northern-tree-swallows-vulnerable.html",
       "date": "2026-07-12 19:00",
@@ -235,24 +253,6 @@
       "link": "https://phys.org/news/2026-07-dozens-men-violence.html",
       "date": "2026-07-12 18:30",
       "summary": "Domestic and family violence is an epidemic. In 2024, the prime minister declared it a national crisis. Official statistics show t..."
-    },
-    {
-      "title": "Autonomous drones measure volcanic gas clouds, offering clearer eruption warning signs",
-      "link": "https://phys.org/news/2026-07-autonomous-drones-volcanic-gas-clouds.html",
-      "date": "2026-07-12 18:00",
-      "summary": "To better assess the danger posed by volcanoes, researchers at the Technical University of Munich (TUM) have developed a new measu..."
-    },
-    {
-      "title": "Neil the seal is more than a viral animal. He's become a global folk hero",
-      "link": "https://phys.org/news/2026-07-neil-viral-animal-global-folk.html",
-      "date": "2026-07-12 17:00",
-      "summary": "I am one of Hobart's many residents who traveled to a nearby beach to witness Neil the seal—an animal that has been receiving glob..."
-    },
-    {
-      "title": "Scientists decipher how a psychedelic substance is created, then engineer a plant to produce several at once",
-      "link": "https://phys.org/news/2026-07-scientists-decipher-psychedelic-substance.html",
-      "date": "2026-07-12 17:00",
-      "summary": "Long before scientists began studying them in the lab, mind-altering substances were already being gathered from plants, fungi and..."
     }
   ],
   "The Guardian Edu": [
