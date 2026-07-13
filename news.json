@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "AI agents create virtual playgrounds to help robots get crucial training data",
+      "link": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
+      "date": "2026-07-13 18:50",
+      "summary": "“SceneSmith” system uses collaborative AI agents to create realistic 3D environments of places like kitchens, hotels, and living r..."
+    },
+    {
       "title": "New method aims to keep kids safe from illegal AI-generated content",
       "link": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
       "date": "2026-07-13 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/new-flapping-robot-swims-and-flies-like-diving-bird-0709",
       "date": "2026-07-09 18:00",
       "summary": "MIT engineers’ design could lead to a new class of aerial-aquatic vehicles for ocean exploration...."
-    },
-    {
-      "title": "A baseball-sized sensor can detect chemical threats",
-      "link": "https://news.mit.edu/2026/baseball-sized-tossit-sensor-can-detect-chemical-threats-0709",
-      "date": "2026-07-09 16:10",
-      "summary": "The “TOSSIT” device, developed at MIT Lincoln Laboratory, can warn service members and first responders of dangerous vapors and ae..."
     }
   ],
   "Harvard Gazette": [
@@ -83,16 +83,16 @@
       "summary": "Surprise Wimbledon semifinalist Arthur Fery developed his game at Stanford University  mininggazette.com..."
     },
     {
-      "title": "Man paralyzed in motorcycle crash finds healing through Lego builds - WDBJ7",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakV4V1NnMFI3bHhlMHNkZEtHRmw2R1ZqSjN6X2VPcE00bU5nOURFUnVOVjFvVkN4bGVwOWVFZnprLVIzRWU5a19odE5ESmk5SENlaV9ySnBDQUtiUkZhRUlRa0NKOW5KLV8xTllFZDBadDlYdU1pTk1Vak95dUVseGFVdmpKM3JRLWlQVGhFLTcxTTZZYnhfQVhrS3hQNWs?oc=5",
-      "date": "2026-07-13 13:05",
-      "summary": "Man paralyzed in motorcycle crash finds healing through Lego builds  WDBJ7..."
-    },
-    {
       "title": "Meet Biomni – an AI-powered biomedical co-scientist - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjdwOXRLVWFxYnNPa2FyQkFnajBDcDdLR1lLZzlER1Judm10b0xodnV5ajIwcWRFZUVPOFctV19ua0t5bFVLMVpTOXR1VDZNWGJJeHdxNjY5aHBXTG5ZcUpfMzYtWmhwUkxtdEN1ZUgwUzdnbkxRV2k5bXdYNk1yNG9yVVFFaFpidl9F?oc=5",
       "date": "2026-07-09 18:15",
       "summary": "Meet Biomni – an AI-powered biomedical co-scientist  Stanford Report..."
+    },
+    {
+      "title": "Man paralyzed in motorcycle crash finds healing through Lego builds - KTRE",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZDdXZkIzX0pRNHhELWdvTTdaT214d3ZDUnNBTVZ2a3FXRU1UY09HZmRDQlRXTzZ0dTR3MnVocHZ3czVkUk9sZ2lkbDZZdWRoYlh5SU9aQkg0VHdmVXpFdW84ZFhhMFpGOTJhOFlmQVAzUnFSOWlVU21LWENYYTVZdlE0RkJxVExNcDVYbnktVHpyMWlUam4zQ29pWDd6dw?oc=5",
+      "date": "2026-07-13 13:05",
+      "summary": "Man paralyzed in motorcycle crash finds healing through Lego builds  KTRE..."
     }
   ],
   "Nature Careers": [
@@ -167,6 +167,12 @@
       "summary": "Nobel laureates among more than 200 experts urging action on AI's economic impact  Reuters..."
     },
     {
+      "title": "TSMC posts record revenue in second quarter on AI demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEVtckxTOVlzOGY4clpUVGtUcEpoUTc1Qjg5NWxTUFh3TFRwbjJyTkhSLXh0d1AxVE5JRUJOVlVMQWxVT2NUMERNSzBRc1lWYnQyX0x2S0hjci1kLTNTTm9aQ3BaTWpvRHdqemxSYXZiSmVuQXI5eUdJblYxa01wSnl0U085Z056NldneVZBNVQ3VzBKTTVPZHlkRVRzR2JZX3J1NG1GVnk1WmRRUjlmNHBvYUFaekNQS1VMYw?oc=5",
+      "date": "2026-07-13 05:38",
+      "summary": "TSMC posts record revenue in second quarter on AI demand  Reuters..."
+    },
+    {
       "title": "White House to rally utilities, data centers for AI power cost pledge, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQW9VcURIMWNFdXRxakJ3c3ZHcnJucDRjY0NZU3k2b2tJM1V4SnNYT0ZlVWZwQ3E0LUFIaXlJWnk2aDU1OTFIVkQzRVgxWmJDZXUtS09wZkFuUmhfbGVWOHNEbDA2azVBQXA3ZlZpR2Z5RHQyd1N5aC1GbWE2cUprZS16QzNrdFBRdHdvQlRJWDNRLWpKQkY5ZjBVWElWbVlmMmxFbUF5R3pDc1ZMc3FlTExHZw?oc=5",
       "date": "2026-07-13 16:05",
@@ -183,12 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUpmMER1MXFvS29zY1R4cWY5N3pGQkR0bnFYeVFuY0NCWkFMWXBCQlBLWFh3Vk5VVDkwaTlwMWtxQm1jTG9MY0dRSVA4R2VmVmtxZ1o2eXlUVGl4Q1EwUjBwdjRlSWEtZW1TQVRUVkRYemJHWXYyamQwVmxHWUotVzhlRDltRXBLZURpdDhSYmM1ZmZYUVljcEtCSFo0c2szblRQQ0RDdThoT2NLZFdEREpjbVI?oc=5",
       "date": "2026-07-13 16:09",
       "summary": "Intel announces $5.7 billion AI-driven capital investment in Ireland  Reuters..."
-    },
-    {
-      "title": "TSMC posts record revenue in second quarter on AI demand - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEVtckxTOVlzOGY4clpUVGtUcEpoUTc1Qjg5NWxTUFh3TFRwbjJyTkhSLXh0d1AxVE5JRUJOVlVMQWxVT2NUMERNSzBRc1lWYnQyX0x2S0hjci1kLTNTTm9aQ3BaTWpvRHdqemxSYXZiSmVuQXI5eUdJblYxa01wSnl0U085Z056NldneVZBNVQ3VzBKTTVPZHlkRVRzR2JZX3J1NG1GVnk1WmRRUjlmNHBvYUFaekNQS1VMYw?oc=5",
-      "date": "2026-07-13 05:38",
-      "summary": "TSMC posts record revenue in second quarter on AI demand  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "White-beam neutron device unlocks precise control of twisted quantum waves",
-      "link": "https://phys.org/news/2026-07-white-neutron-device-precise-quantum.html",
-      "date": "2026-07-13 18:40",
-      "summary": "CANISIUS is the official name of the new spin-echo neutron interferometer developed at Atominstitut, TU Wien. It enables precise c..."
+      "title": "Scientists uncover molecular mechanism linking water-saving irrigation to cadmium accumulation in rice",
+      "link": "https://phys.org/news/2026-07-scientists-uncover-molecular-mechanism-linking.html",
+      "date": "2026-07-13 20:00",
+      "summary": "Water-saving irrigation practices, including intermittent irrigation, are essential for sustainable rice cultivation amid growing ..."
     },
     {
-      "title": "The family tree of viruses just grew, and it paves the way for a new approach to agricultural research",
-      "link": "https://phys.org/news/2026-07-family-tree-viruses-grew-paves.html",
-      "date": "2026-07-13 18:40",
-      "summary": "Researchers have discovered that a group of viruses known to infect an agriculturally important plant pathogen has remained geneti..."
+      "title": "AI-powered electronic nose can distinguish tens of thousands of odors",
+      "link": "https://phys.org/news/2026-07-ai-powered-electronic-nose-distinguish.html",
+      "date": "2026-07-13 20:00",
+      "summary": "A research team has presented a roadmap for developing an \"artificial olfactory system\" that detects odors like the human nose and..."
     },
     {
-      "title": "Despite the growth of some AI schools like Alpha, research doesn't show that AI tutors are better than human teachers",
-      "link": "https://phys.org/news/2026-07-growth-ai-schools-alpha-doesnt.html",
-      "date": "2026-07-13 18:20",
-      "summary": "Over the past decade, the AI-focused, for-profit Alpha School has grown from one campus in Austin, Texas, to more than 15 schools ..."
+      "title": "Hundreds of economists say 'we must act now' on AI's economic impact and job displacement risks",
+      "link": "https://phys.org/news/2026-07-hundreds-economists-ai-economic-impact.html",
+      "date": "2026-07-13 19:40",
+      "summary": "Hundreds of economists say in an open letter that institutions \"must act now\" to address how artificial intelligence could transfo..."
     },
     {
-      "title": "Melting icebergs can weaken a massive, far-off ocean current system",
-      "link": "https://phys.org/news/2026-07-icebergs-weaken-massive-ocean-current.html",
-      "date": "2026-07-13 18:20",
-      "summary": "Melting and breaking icebergs in the far-off northeastern Pacific Ocean can weaken a massive current system in the Atlantic Ocean,..."
+      "title": "Where mainshocks strike may explain earthquake size patterns better than timing, data suggests",
+      "link": "https://phys.org/news/2026-07-mainshocks-earthquake-size-patterns.html",
+      "date": "2026-07-13 19:40",
+      "summary": "Japan is well known for its large earthquakes, but not all regions show the same patterns of earthquake activity. One way to under..."
     },
     {
-      "title": "Famous puzzle-solving chimps lost 20 years of life after harsh Berlin winters",
-      "link": "https://phys.org/news/2026-07-famous-puzzle-chimps-lost-years.html",
-      "date": "2026-07-13 18:10",
-      "summary": "A University of Auckland scientist has uncovered the fates of chimpanzees who starred in seminal psychological studies of the earl..."
+      "title": "Six massive landslides discovered on icy Pluto",
+      "link": "https://phys.org/news/2026-07-massive-landslides-icy-pluto.html",
+      "date": "2026-07-13 19:30",
+      "summary": "Scientists have detected evidence of landslides on Pluto for the first time. A paper published in the journal Icarus reports that ..."
     }
   ],
   "The Guardian Edu": [
