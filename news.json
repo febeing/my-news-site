@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "New method aims to keep kids safe from illegal AI-generated content",
+      "link": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
+      "date": "2026-07-13 04:00",
+      "summary": "Researchers developed an auditing technique to test generative AI models for malicious capabilities, without prompting them for il..."
+    },
+    {
+      "title": "Tiny infrared chip could improve detection of gases and heat",
+      "link": "https://news.mit.edu/2026/tiny-infrared-chip-could-improve-gas-and-heat-detection-0713",
+      "date": "2026-07-13 04:00",
+      "summary": "The tunable device controls mid-infrared light for more precise thermal imaging, chemical sensing, or pollution monitoring...."
+    },
+    {
       "title": "Discovery could lead to brighter, more energy-efficient digital displays",
       "link": "https://news.mit.edu/2026/discovery-could-lead-brighter-more-energy-efficient-digital-displays-0710",
       "date": "2026-07-10 18:00",
@@ -17,18 +29,6 @@
       "link": "https://news.mit.edu/2026/baseball-sized-tossit-sensor-can-detect-chemical-threats-0709",
       "date": "2026-07-09 16:10",
       "summary": "The “TOSSIT” device, developed at MIT Lincoln Laboratory, can warn service members and first responders of dangerous vapors and ae..."
-    },
-    {
-      "title": "Tiny robot boats build floating structures",
-      "link": "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
-      "date": "2026-07-09 15:50",
-      "summary": "MIT researchers developed FloatForm, a swarm of small aquatic robots that snap together like ants forming a raft, assembling into ..."
-    },
-    {
-      "title": "Separating logic and language",
-      "link": "https://news.mit.edu/2026/separating-logic-and-language-0708",
-      "date": "2026-07-08 19:35",
-      "summary": "Neuroscientists find logical reasoning does not involve language-processing parts of the brain...."
     }
   ],
   "Harvard Gazette": [
@@ -73,7 +73,7 @@
     {
       "title": "Knight-Hennessy Scholarships Open for Graduate Study at Stanford University in the United States - Al-Fanar Media",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWnpZQlRCTHFaSVlaZE40MGFjUm85QWpDVTViM29TMVZZcWdkWnNJajM2MC1BUGNZNlp4YWpwb3Q4eWVmelRYVmRudnFkWGVTNlRhMlNfSkYzTXdnWkliSWpQbjJTRW5qSU9UTHM5N21rbEFWaEVLLTZLanBlQmtIMTREcW43Y0Q4ZkR2WE5ZX3F5dXFBVWJSRHJRUlNWS045Z2pyRG4yMG51MVgwQnM1OXlCendMcVZtTXBxWnZLd2VpMkxsTklUMDMzZw?oc=5",
-      "date": "2026-07-12 19:33",
+      "date": "2026-07-12 19:04",
       "summary": "Knight-Hennessy Scholarships Open for Graduate Study at Stanford University in the United States  Al-Fanar Media..."
     },
     {
@@ -161,16 +161,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "Meta scraps AI image feature days after launch following privacy backlash - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUG5uc3lpN1Z4TFMtZm5Mc1pCaW9hSE4xb3Z2X3BuTno5NEVmb0FEdm5sY3BFMTl0VFNkb04wNEVIQzkxbVNidlU1dnZIRGFESWdiaG50dGJRN01TMGc0LTZhYl9YbnlTdmJLMk9ZYXYtWEtzcmFtS0NsZ0RWdllPSTY5ZUQ4ZXZCQllaS3J2ZXNUSHZmVDljR0s1NHQ5b0pT?oc=5",
-      "date": "2026-07-11 09:58",
-      "summary": "Meta scraps AI image feature days after launch following privacy backlash  Reuters..."
-    },
-    {
-      "title": "The good, bad and ugly of AI’s economic impact - Breakingviews",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDFPelVLRk1XMFdJTDhlYXM3VXpSX0pMUW1rcU9VbmlsbGJxX255anRvVU9yQUJUMTVNdkozdEEtTXlycF9XNmdWcVhwcHRZRGFJMnRQWWI0V3RKT1VZQS0xUEtTZ3BVUDRPWjhmX3ljbEg1X3FBUXNSSFRwWUcyS3BjdFNGd1BpM0g1MTJUQzZKQkF0YnRj?oc=5",
-      "date": "2026-07-09 22:08",
-      "summary": "The good, bad and ugly of AI’s economic impact  Breakingviews..."
+      "title": "China June exports growth set to cool, but AI demand underpins overall strength - Reuters poll - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHNyNnRCbkNIbXJUSmtSLUl2blR3VmdJckhYcFhVd0lGSzlJRVk5M1hUbS1nOVc4SHYtSldGVXJrdnFCa0RqTjBHM0l5bmRjZmlrUEtlWmFCR3htczFWR3llSUFpblFVd1NMYVAtRWlObzhWbmJKZkY2b2Q4eXNTdTljbW12Q05FZzFGeU1KYVp5MUpPSFpFZ0ZDbTlRZFNvTS0yRlpkNEtpblVDMDNpMGNlV0ZNN3lsRUkw?oc=5",
+      "date": "2026-07-13 05:32",
+      "summary": "China June exports growth set to cool, but AI demand underpins overall strength - Reuters poll  Reuters..."
     },
     {
       "title": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions - Reuters",
@@ -179,16 +173,22 @@
       "summary": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions  Reuters..."
     },
     {
+      "title": "The good, bad and ugly of AI’s economic impact - Breakingviews",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDFPelVLRk1XMFdJTDhlYXM3VXpSX0pMUW1rcU9VbmlsbGJxX255anRvVU9yQUJUMTVNdkozdEEtTXlycF9XNmdWcVhwcHRZRGFJMnRQWWI0V3RKT1VZQS0xUEtTZ3BVUDRPWjhmX3ljbEg1X3FBUXNSSFRwWUcyS3BjdFNGd1BpM0g1MTJUQzZKQkF0YnRj?oc=5",
+      "date": "2026-07-09 22:08",
+      "summary": "The good, bad and ugly of AI’s economic impact  Breakingviews..."
+    },
+    {
       "title": "Altera returns to growth as AI, robotics fuel demand, CEO says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUxfZDVhS2tnNUNrcVdacEotSUVaT05mMnlJOW9KR2RiMXBtSUpFckk4SUt4akxaX2wwNU1kSjFfQmtJZEpUNmlDUHYzSVhwR0NqZjBQQWRUVmxkcWRvd1V1bDZSVldZNEUzOG1sZUJzLTVHdkFicDB4UHZyVVhOZEpCd0ZzcmpZMjN3SUIxbG0tRlpKajBmTExJNFo4VmZC?oc=5",
       "date": "2026-07-10 18:43",
       "summary": "Altera returns to growth as AI, robotics fuel demand, CEO says  Reuters..."
     },
     {
-      "title": "Meta AI image detector fails to identify some of its own cropped AI images, Reuters analysis finds - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFhDN2xpWkkxOUxmT0V6VXVRclktUGVBWW01V1M3dFlZbFRGM1o1bjNVVlI4a09ZdVBPak15S0JXVFFWVXFOckJZVE5oYklpTDNQMjdudmVPU281dmRyMzlwNmJBMm9LRTJQY292UXZURGhYUl83Vl9fTW5iTzVyX0RQMG5mUm1vTXZnYUNpd3hBYzdlYzZXdFc3bTVQVmhhTHFQNzRXNE4wWFhQNGh1UHcwSkEzQUFJQU9tYXNR?oc=5",
-      "date": "2026-07-11 21:35",
-      "summary": "Meta AI image detector fails to identify some of its own cropped AI images, Reuters analysis finds  Reuters..."
+      "title": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWpsRnIya2JuUDVDWlg1eFN4Zk5ZVUE5UWtMY3ZTTlRzTGtVellDRVZZWXNEeldhQW9UOEg2Mlo3bGVOQWlaeEV2QVhOUlBfMmJkdTlvdUxRdVl1Vks4WFdaTXRMaVJ5Y3d5TDNFeFgxWU0xZTRTMXlwS1hUME1zT3lWWE5mLWVsTk1mUzc3VHEyU2NOSUZTLVBEVWNhV3oxV3Vpdkx4cUFxbjA?oc=5",
+      "date": "2026-07-10 13:26",
+      "summary": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -217,10 +217,10 @@
       "summary": "A startup claims it broke through a bottleneck that’s holding back LLMs  MIT Technology Review..."
     },
     {
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWlRhellXd1hHNFNMbHRfMm5ySDlObUFnV0lJZnlRTUlTcW9ZUG5zOGtmMnRpYmtrckJyUFJXckZpZjJfOS1yM04zUWNOWXJTSEhVX3FTR1RlMWhwY0tMMXZVa1lYVURzeFd6MlQ2TGthdVJ0UXNVcjBiM01TWEt4UUdlUlpkd2JHa1RqNXVWdDVJczhLdmJyZm9CSE9yc0ltUThBQ0xR0gGrAUFVX3lxTFB4VUotT2NPLTZsSURGY1c2ZExGaFdxZ2dGOWxtXzJJY3FxeW1YVDdFWVhyaEFCTFZ2SHVHb25MNk9sbm9SbVZIWE9GWkptdG51ekhvMDAwa2Z4b29oNjFfakVfNFRjYXMzUkcwbENrUjlzYzU2cS1Oa3pRcG05WjNBX2premFsQWx6Z3dXVEI4QWg0b1hsNWd2dGtadGp1MXI1WG1sQ1d6dmUzYw?oc=5",
-      "date": "2026-07-07 12:10",
-      "summary": "The Download: your stake in OpenAI, and the Treasury’s AI warning  MIT Technology Review..."
+      "title": "AI agents are not your “coworkers” - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUVvV3UtNjdYZHZjVHJvcDhzNFlYN0VOWDE5OXk1Ny1qNEZ6elVCdmNKUHAwRk5CaXFBMUJQV013M3A0UVhWU1A0QmRGOHZQdFVyNnNoYXpWQW1WU3Zwa19tWDNSOVlibjRqRDZWZlVOWGVjM2ltem1OaEdoTGtHckdWb1pacG55NzhraWlR0gGTAUFVX3lxTE54NEtzTndmUGVZcFZUdHBpWHlkcWxqNHpabFFzWmR3aUJWVUtTSDBsekZhbHY2amI3eVZhWEFSVHFWVF9OdElvWGZwZEdKa3JLU1VSclFheGZuZVRfeXJrekhjaDd1YjYtVWdVekhMZXd0OEc5VGZCcDNURS1obkx5SHVJOTA3M1kyV085SUZWNWs0MA?oc=5",
+      "date": "2026-06-29 07:00",
+      "summary": "AI agents are not your “coworkers”  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -289,6 +289,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong Observatory may issue T1 signal between Monday night, Tuesday morning",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3360332/hong-kong-observatory-may-issue-t1-signal-between-monday-night-tuesday-morning?utm_source=rss_feed",
+      "date": "2026-07-13 05:28",
+      "summary": "Hong Kong’s weather forecaster may issue a No 1 typhoon standby signal between Monday evening and Tuesday morning, warning that th..."
+    },
+    {
+      "title": "Restaurant pullouts from dog-friendly scheme ‘responsible’, 20 complaints recorded",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3360327/restaurant-pullouts-dog-friendly-scheme-responsible-20-complaints-recorded?utm_source=rss_feed",
+      "date": "2026-07-13 04:52",
+      "summary": "Limited manpower, space constraints and cautious diners have led some restaurants to make a “responsible move” by withdrawing from..."
+    },
+    {
       "title": "2026 Operation Santa Claus applicants seek long-term change, not ‘quick fixes’",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3360295/2026-operation-santa-claus-applicants-seek-long-term-change-not-quick-fixes?utm_source=rss_feed",
       "date": "2026-07-13 02:00",
@@ -305,18 +317,6 @@
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3360078/why-hong-kong-must-fill-seat-vacated-lawmaker-promptly?utm_source=rss_feed",
       "date": "2026-07-13 01:30",
       "summary": "The government has a lot on its plate right now, especially with public consultations under way for the chief executive’s last pol..."
-    },
-    {
-      "title": "Hong Kong IB students beat the global average this year. Here’s how they did it",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3360290/hong-kong-ib-students-beat-global-average-year-heres-how-they-did-it?utm_source=rss_feed",
-      "date": "2026-07-13 00:30",
-      "summary": "Hong Kong’s robust tutoring and exam drilling culture contributed to the exceptional performance of local students in the Internat..."
-    },
-    {
-      "title": "Are HSBC shares set for a turnover bump owing to Hong Kong’s board-lot reform?",
-      "link": "https://www.scmp.com/business/banking-finance/article/3360270/are-hsbc-shares-set-turnover-bump-owing-hong-kongs-board-lot-reform?utm_source=rss_feed",
-      "date": "2026-07-13 00:30",
-      "summary": "Brokers expect HSBC Holdings, a staple in the portfolios of Hongkongers, to see a large increase in interest from both local and i..."
     }
   ]
 }
