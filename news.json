@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Helping AI models to meet the real world",
+      "link": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
+      "date": "2026-07-14 20:25",
+      "summary": "Through research and entrepreneurship, Professor Devavrat Shah is helping to design methods that can handle constant decision-maki..."
+    },
+    {
       "title": "Three MIT Press journals lead their fields with Clarivate No. 1 rankings",
       "link": "https://news.mit.edu/2026/three-mit-press-journals-earn-clarivate-no-1-rankings-0713",
       "date": "2026-07-14 19:55",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
       "date": "2026-07-13 18:50",
       "summary": "“SceneSmith” system uses collaborative AI agents to create realistic 3D environments of places like kitchens, hotels, and living r..."
-    },
-    {
-      "title": "New method aims to keep kids safe from illegal AI-generated content",
-      "link": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
-      "date": "2026-07-13 04:00",
-      "summary": "Researchers developed an auditing technique to test generative AI models for malicious capabilities, without prompting them for il..."
     }
   ],
   "Harvard Gazette": [
@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "Michelle Landrey Cline named president of the Stanford Alumni Association - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXpwcURXT2NVd19ubFRuNy1NVXItWmluZEZrSWdna0hZdm0yT2R1OVRqaFRNbUF0VGtkUklfTG1TUENOYVk3dUhsWE96ZnlNSUQxNURWaWRINXhLN1ppaEtDU3UwQ19tYUhzSTZmdkxobTd5ZTQtV0J4ZWFRdUVmR21kZ1c0bjF2WVI2dlNwOS1hNFlNVWwyQWtrWGVWUUZaUFVHVg?oc=5",
-      "date": "2026-07-14 13:07",
-      "summary": "Michelle Landrey Cline named president of the Stanford Alumni Association  Stanford Report..."
+      "title": "Exhibition unpacks the storied life of Jane Stanford - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObmdYQ3JiOFRSYWstNlJzSVB0S29kWWEtdHNmWDQ0MERuRDVXbFhWeld3NkF5azZLMEYzNXBKRURVZUNETHdPZWlWQnVLckhGODg0Q2tGak9oTGJFVmZYTUNFb0ROclR5MTZjWmRoUC1uME44ZXhrTUMtbmlIMXVWc2NrYlZ1X3lGQ2c?oc=5",
+      "date": "2026-07-14 21:49",
+      "summary": "Exhibition unpacks the storied life of Jane Stanford  Stanford Report..."
     },
     {
       "title": "SambaNova, An AI infrastructure Company Co-Founded By Stanford University Professor Kunle Olukotun, Closes $1B Financing Round - Yahoo Finance",
@@ -77,22 +77,22 @@
       "summary": "SambaNova, An AI infrastructure Company Co-Founded By Stanford University Professor Kunle Olukotun, Closes $1B Financing Round  Ya..."
     },
     {
+      "title": "Michelle Landrey Cline named president of the Stanford Alumni Association - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXpwcURXT2NVd19ubFRuNy1NVXItWmluZEZrSWdna0hZdm0yT2R1OVRqaFRNbUF0VGtkUklfTG1TUENOYVk3dUhsWE96ZnlNSUQxNURWaWRINXhLN1ppaEtDU3UwQ19tYUhzSTZmdkxobTd5ZTQtV0J4ZWFRdUVmR21kZ1c0bjF2WVI2dlNwOS1hNFlNVWwyQWtrWGVWUUZaUFVHVg?oc=5",
+      "date": "2026-07-14 13:07",
+      "summary": "Michelle Landrey Cline named president of the Stanford Alumni Association  Stanford Report..."
+    },
+    {
       "title": "Stanford Welcomes Zou to The Farm - Stanford Cardinal",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82UlFtQmpmYkpReHpGUWhSYV93QmRpbXFTYV95VFlsOVcwVU9uWjQtZXFZR0piczB5M3l0dVNOY2pCQTFyazJNcjhWWTVOd3ZmY21Id3hpamNNc3RPNlpWeWhtTzZYSzdBNHgzMGZTbUNqQlRvR3AyZFlMaEQ?oc=5",
       "date": "2026-07-14 16:38",
       "summary": "Stanford Welcomes Zou to The Farm  Stanford Cardinal..."
     },
     {
-      "title": "“We Must Act Now”: Sixteen Nobel Laureates Join Leading Economists and AI Researchers in Call to Prepare for AI’s Economic Transformation - Stanford Digital Economy Lab",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15SUdjbjdsTlBkdkZnTHB5TVhPcjBsS1BrZ1Q4NXFXSl9rVEUwRnNzVy1HbG84aFlJUDVpd08tenFDdUE1dm1ydVdFODNXY29KV2JOSGYycTB2dzJCNEd2ZW41cm4?oc=5",
-      "date": "2026-07-13 11:09",
-      "summary": "“We Must Act Now”: Sixteen Nobel Laureates Join Leading Economists and AI Researchers in Call to Prepare for AI’s Economic Transfo..."
-    },
-    {
-      "title": "Researchers, Economists Urge Leaders to Act on AI Policy - The Well News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUZvMklBRlJaUWJLREVvNS1hbGp0RkpNajZKb3NwNHZfRjJWQUlnNUUtVThiWEN1Tl9Cb0dCMmZVQmJWV0pWcDFkaGl2SXNfV0pJNHRvb3JEeF9NbVpFbm1rX0g2RFpENzVhRjE0M1JxZy10V3Y3d0Jxd3R1cUZnVjA5NjZQNXRYOWZyYVA5RTlsQ2RYeUk3SEc4SQ?oc=5",
-      "date": "2026-07-13 20:45",
-      "summary": "Researchers, Economists Urge Leaders to Act on AI Policy  The Well News..."
+      "title": "AI Tutors Beat Law Professors in Stanford Blind Study, Exposing Bias Risk - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd29VMHAwV2J1Vm9NVDhyQy1iTTg5RzNveGNCVG5qOTZFZDBJeW5CM2VhR2E0X2FXOURjT2szNlpacW13RFUtcU1nV2dZcEFQcmtMc3ZIU2pFZFkyMWNIendJVzZOY1pYakpnZ1J5bUNIa1BuUlZKMVlKSXVETzFldjNTeXFSVTh5cmlIUF9SYjkybWIyQlkxTHM4dGV1VDBpV3p4T0YwYk50VUtTRmk3NkdsOVBIWFM2aUdyRmJhX1RkZw?oc=5",
+      "date": "2026-07-14 20:56",
+      "summary": "AI Tutors Beat Law Professors in Stanford Blind Study, Exposing Bias Risk  Tech Times..."
     }
   ],
   "Nature Careers": [
@@ -161,16 +161,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "SoftBank's Son says AI will need $5 trillion per year by 2040, dismisses bubble talk - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWkZUSElPZnM5N25jRGkzYnp1bGFGcHI0UkFPc3pQaFFfWnJneGdXMWdCRXNCT3F4N0tZYVVTLU9CUU4xVUg3LVF4aVJsQkNvenNiUURXQ0x4SDRmT1ZpZktxLU1VSmtRZUtmR0RuNVctTGFjandiM3pVTG9sVWdmRDBfMk13SjI4LU1XOEFhNnBHTG84RnVaMC1YQ3JwU3pSSVhDRHR3TEJaMXZJalpHWGJqQUI0RlZKZDN0N3BhdnhpbUxxSXNiVGN0Zw?oc=5",
-      "date": "2026-07-14 05:36",
-      "summary": "SoftBank's Son says AI will need $5 trillion per year by 2040, dismisses bubble talk  Reuters..."
+      "title": "AI finance startup Flex doubles valuation to about $1.2 billion, source says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlV1WkpvNU1tejRJMWVfdzg1LWxsajB3dlNwcEJqYlp4MXRJcGdUUldiTkFLUFVJZzJlcU9oeUU2RjhjS0I3UVJ3WjJnQy0tT2xWZjFKVUJ3OXc0N2NjaFZMajJIMHpLQ0JnTGNhdldxUmVvLThOOWJBSDR3eWVGbzFjcWhzazBNcGpyaG9Ld1N2Wm9KODZoTE53anFFUnFudFRWX05Bd0hCcjktcHNpVTF4VVY4M0dnYTh6WjBYLXM5WUpu?oc=5",
+      "date": "2026-07-14 11:41",
+      "summary": "AI finance startup Flex doubles valuation to about $1.2 billion, source says  Reuters..."
     },
     {
       "title": "Nobel laureates among more than 200 experts urging action on AI's economic impact - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUt1OTNadWljZVE1WXI3UzhWbC15R3h2eVpFWXFkY2wzeTcyWGNsaFZnYjc5TFhzTE1wX1RRQmdSRGJ5VkFRRzUxZUJ0N0tYdXBkZk1IdGlETTRfaDVXbUs2aTAtcjI3TU9UOFZKU1A3SEs0R25wWWNYTlFyZDZ2ejRGUkJiMjdYaFdOTE9zbmF5QTRxTTFzSmxGWHZqOUhYS1RfNFNGVFdYN00?oc=5",
       "date": "2026-07-13 12:25",
       "summary": "Nobel laureates among more than 200 experts urging action on AI's economic impact  Reuters..."
+    },
+    {
+      "title": "US to Launch AI and Cybersecurity Coordination Group, White House Says - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2lZSUhvSjVONmN2RVZKZ1M4R0s1T2JySXFEUDdSWEJweHFZMi1NZDBjaG5iM0F5NmJ2QWFTeklpSE5EdjZIWnRlcDI5ejRUWmpmTlZDMWx4Y25MQVJZZXFyYVNRTTlOTzhZZnFKR3lPV0dzeTEyTllIT3JJZjJGakIzajN5TmZXRUhsVFpZckhjRVRoLUM0dGJGZDlCMVg2aGRwVlFlTXhUR0xrU3ZEcDgyaWw4TzRDN213M0JUTzliR3lC?oc=5",
+      "date": "2026-07-14 20:38",
+      "summary": "US to Launch AI and Cybersecurity Coordination Group, White House Says  U.S. News & World Report..."
     },
     {
       "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims - Reuters",
@@ -183,12 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQkVHVEg1LUozUnFBTnZWU2dESU1nZDNKRDNwWHl3eVlmT05fT3NyVlF2QXQ3Vkd1aFpYTlJMdWkwQXZpSWhSRS1xS2xNdWhDRHV1SjZZU3EzWGZsNjFvNVp2NDVfcFVsR1J1Tmx0WGVYeV9saDM0QnduUlNDY2d5UXNPTHN4RVRnSXJmbUJ2Y01sYjlSM1NRbmFtLUMwbE5uZTA3cw?oc=5",
       "date": "2026-07-13 21:08",
       "summary": "Thomson Reuters to cut 'small number' of engineering jobs  Reuters..."
-    },
-    {
-      "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-      "date": "2026-07-14 15:57",
-      "summary": "IBM warns AI boom squeezing software budgets; shares sink in sector rout  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Hidden muscle machinery reveals 50 new gene subfamilies across vertebrates",
-      "link": "https://phys.org/news/2026-07-hidden-muscle-machinery-reveals-gene.html",
-      "date": "2026-07-14 20:00",
-      "summary": "Within every muscle of every living species with a backbone, a protein called myosin tugs on a partner protein to generate a muscl..."
+      "title": "Photo: Hubble sees crimson cloud and stars",
+      "link": "https://phys.org/news/2026-07-photo-hubble-crimson-cloud-stars.html",
+      "date": "2026-07-14 21:40",
+      "summary": "Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery ..."
     },
     {
-      "title": "VLA sky survey sets new standard for high-resolution, wide-area radio astronomy",
-      "link": "https://phys.org/news/2026-07-vla-sky-survey-standard-high.html",
-      "date": "2026-07-14 20:00",
-      "summary": "The U.S. National Science Foundation National Radio Astronomy Observatory (NSF NRAO) has completed observations for the Very Large..."
+      "title": "Television and movie content linked with racial bias in children",
+      "link": "https://phys.org/news/2026-07-television-movie-content-linked-racial.html",
+      "date": "2026-07-14 21:20",
+      "summary": "It has been well-established that the developmental roots of racial prejudices emerge in early childhood, but scientists have a le..."
     },
     {
-      "title": "New cell imaging method shines a light on blind spots",
-      "link": "https://phys.org/news/2026-07-cell-imaging-method.html",
-      "date": "2026-07-14 19:40",
-      "summary": "Cells are crowded, dynamic places where thousands of molecules interact in tight quarters. Until now, scientists lacked a reliable..."
+      "title": "How tides and river water combine to amplify floods",
+      "link": "https://phys.org/news/2026-07-tides-river-combine-amplify.html",
+      "date": "2026-07-14 21:20",
+      "summary": "Ocean tides push upstream along coastal rivers, in some cases reaching hundreds of kilometers (hundreds of miles) inland. These in..."
     },
     {
-      "title": "What is no‑till farming, and is it actually better for the environment?",
-      "link": "https://phys.org/news/2026-07-notill-farming-environment.html",
-      "date": "2026-07-14 19:40",
-      "summary": "Humans have been turning seeds and soil into food for thousands of years...."
+      "title": "With an eye toward exploration, researchers map moon's regolith thickness",
+      "link": "https://phys.org/news/2026-07-eye-exploration-moon-regolith-thickness.html",
+      "date": "2026-07-14 21:00",
+      "summary": "New research by lunar scientists from Brown University provides critical new insights into the thickness of the moon's regolith, t..."
     },
     {
-      "title": "Roman telescope will spot distant black holes that shred stars",
-      "link": "https://phys.org/news/2026-07-roman-telescope-distant-black-holes.html",
-      "date": "2026-07-14 19:20",
-      "summary": "How do black holes at the centers of galaxies form and grow over time? To answer this question, scientists need to detect and stud..."
+      "title": "Watchdog science journalism: Crucial yet precarious work, according to study",
+      "link": "https://phys.org/news/2026-07-watchdog-science-journalism-crucial-precarious.html",
+      "date": "2026-07-14 21:00",
+      "summary": "How do journalists act as watchdogs of science? New qualitative research led by University of Amsterdam media scholar Alice Fleera..."
     }
   ],
   "The Guardian Edu": [
