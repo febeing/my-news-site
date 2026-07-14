@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "Three MIT Press journals lead their fields with Clarivate No. 1 rankings",
+      "link": "https://news.mit.edu/2026/three-mit-press-journals-earn-clarivate-no-1-rankings-0713",
+      "date": "2026-07-14 19:55",
+      "summary": "Computational Linguistics, International Security, and The Review of Economics and Statistics lead their disciplines with 2026 Cla..."
+    },
+    {
+      "title": "How visual learning happens in the brain",
+      "link": "https://news.mit.edu/2026/how-visual-learning-happens-in-the-brain-0714",
+      "date": "2026-07-14 18:30",
+      "summary": "Scientists find that learning to identify a new object subtly reshapes visual processing in the brain...."
+    },
+    {
       "title": "MIT engineers find a precise way to grow artificial blood vessels",
       "link": "https://news.mit.edu/2026/mit-engineers-find-precise-way-to-grow-artificial-blood-vessels-0714",
       "date": "2026-07-14 04:00",
@@ -17,32 +29,20 @@
       "link": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
       "date": "2026-07-13 04:00",
       "summary": "Researchers developed an auditing technique to test generative AI models for malicious capabilities, without prompting them for il..."
-    },
-    {
-      "title": "Tiny infrared chip could improve detection of gases and heat",
-      "link": "https://news.mit.edu/2026/tiny-infrared-chip-could-improve-gas-and-heat-detection-0713",
-      "date": "2026-07-13 04:00",
-      "summary": "The tunable device controls mid-infrared light for more precise thermal imaging, chemical sensing, or pollution monitoring...."
-    },
-    {
-      "title": "Discovery could lead to brighter, more energy-efficient digital displays",
-      "link": "https://news.mit.edu/2026/discovery-could-lead-brighter-more-energy-efficient-digital-displays-0710",
-      "date": "2026-07-10 18:00",
-      "summary": "Researchers found a simple solution for extending the lifespans of LEDs made from glowing microscopic particles called quantum dot..."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
-      "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
-    },
     {
       "title": "20 societal problems, 20 solutions - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
       "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
+    },
+    {
+      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
+      "date": "2026-05-12 07:00",
+      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
       "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
@@ -83,10 +83,10 @@
       "summary": "Stanford Welcomes Zou to The Farm  Stanford Cardinal..."
     },
     {
-      "title": "Learning Across Disciplines and Cultures: A Japan-Norway Student Exchange - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN3hsc01CaWZ0bkw4MjhiZEFoOFoxVFJuSS14b2pwakg1YlJuUVZBVUo2cW9MWmFQYkk2VDhpS0V5Y3hseXQ4NTJYSm11bVVTUEFXNUpYTm14b2d2NnZtaGZXUEJDcW1iVHd6cThVVEFJN0FFNVAwTVdWVFdzc3o4X084ZmRHNTZkZHhCSVFjM0xZclRFQnFOTWdXeEhzWDB5Tk9RZlljN2VDdw?oc=5",
-      "date": "2026-07-14 12:00",
-      "summary": "Learning Across Disciplines and Cultures: A Japan-Norway Student Exchange  Stanford University..."
+      "title": "“We Must Act Now”: Sixteen Nobel Laureates Join Leading Economists and AI Researchers in Call to Prepare for AI’s Economic Transformation - Stanford Digital Economy Lab",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15SUdjbjdsTlBkdkZnTHB5TVhPcjBsS1BrZ1Q4NXFXSl9rVEUwRnNzVy1HbG84aFlJUDVpd08tenFDdUE1dm1ydVdFODNXY29KV2JOSGYycTB2dzJCNEd2ZW41cm4?oc=5",
+      "date": "2026-07-13 11:09",
+      "summary": "“We Must Act Now”: Sixteen Nobel Laureates Join Leading Economists and AI Researchers in Call to Prepare for AI’s Economic Transfo..."
     },
     {
       "title": "Researchers, Economists Urge Leaders to Act on AI Policy - The Well News",
@@ -173,22 +173,22 @@
       "summary": "Nobel laureates among more than 200 experts urging action on AI's economic impact  Reuters..."
     },
     {
+      "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5",
+      "date": "2026-07-14 16:44",
+      "summary": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims  Reuters..."
+    },
+    {
+      "title": "Thomson Reuters to cut 'small number' of engineering jobs - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQkVHVEg1LUozUnFBTnZWU2dESU1nZDNKRDNwWHl3eVlmT05fT3NyVlF2QXQ3Vkd1aFpYTlJMdWkwQXZpSWhSRS1xS2xNdWhDRHV1SjZZU3EzWGZsNjFvNVp2NDVfcFVsR1J1Tmx0WGVYeV9saDM0QnduUlNDY2d5UXNPTHN4RVRnSXJmbUJ2Y01sYjlSM1NRbmFtLUMwbE5uZTA3cw?oc=5",
+      "date": "2026-07-13 21:08",
+      "summary": "Thomson Reuters to cut 'small number' of engineering jobs  Reuters..."
+    },
+    {
       "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout - Reuters",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
       "date": "2026-07-14 15:57",
       "summary": "IBM warns AI boom squeezing software budgets; shares sink in sector rout  Reuters..."
-    },
-    {
-      "title": "AI startup Reflection signs over $1 billion computing deal with Nebius - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNak5EWjJRQUJqbFgySi1CTl8xd3BaUG5HVjFZQUFKZk1WaGdTQVc4NWlRaC1ES3R6c3NLNnhoWUl2UjVwVTM3OV9UaW9ETTNZRnVrUkZERzYwS2luSmlvYUx6V1cweks4bzVLRk5acmpUcFlEUmxhaC14VFh4RVRRa1EtQjZKanJ5cUJXVlZyT282UEQ5Sld2ZFhIOTdLUTJ0REZNWWxSb1VXQ2ZYV2lYeGwwRzU?oc=5",
-      "date": "2026-07-14 11:15",
-      "summary": "AI startup Reflection signs over $1 billion computing deal with Nebius  Reuters..."
-    },
-    {
-      "title": "China's DeepSeek considers raising more funds, reports say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWk55WkVVNmR6aGp1Mm9kM2c5dlhZU0hXRVczeVVYMHotME5pcW9BY09ldG5iY2FsdGhvRXNxTlh1ekMyNjVQMGN3Vk53T1RXaTNzbWhRT2JpMk5RYnZYYVJNWEMyMGtIMG4zWmM1djZ5TURCX0huckp0aWxkeTZTZThiblNfTXRuU0QtczlXZ2U0U3NjZm9mYjFpanNQSHFRSmVwTDlFZkdZSTZwZGpaSElfU2hTNzAwYnc?oc=5",
-      "date": "2026-07-14 14:39",
-      "summary": "China's DeepSeek considers raising more funds, reports say  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,37 +225,43 @@
   ],
   "Phys.org": [
     {
-      "title": "'Uncanny valley' effect observed in macaques through 3D animated monkey avatars",
-      "link": "https://phys.org/news/2026-07-uncanny-valley-effect-macaques-3d.html",
-      "date": "2026-07-14 18:00",
-      "summary": "A new tool that allows researchers to create realistic full-body animations of monkeys has provided the first evidence that nonhum..."
+      "title": "Hidden muscle machinery reveals 50 new gene subfamilies across vertebrates",
+      "link": "https://phys.org/news/2026-07-hidden-muscle-machinery-reveals-gene.html",
+      "date": "2026-07-14 20:00",
+      "summary": "Within every muscle of every living species with a backbone, a protein called myosin tugs on a partner protein to generate a muscl..."
     },
     {
-      "title": "Heat deaths are a public health crisis rooted in housing inequality",
-      "link": "https://phys.org/news/2026-07-deaths-health-crisis-rooted-housing.html",
-      "date": "2026-07-14 18:00",
-      "summary": "The heat waves of late May and June killed an estimated 2,700 people in England and Wales, according to a recent analysis—around 5..."
+      "title": "VLA sky survey sets new standard for high-resolution, wide-area radio astronomy",
+      "link": "https://phys.org/news/2026-07-vla-sky-survey-standard-high.html",
+      "date": "2026-07-14 20:00",
+      "summary": "The U.S. National Science Foundation National Radio Astronomy Observatory (NSF NRAO) has completed observations for the Very Large..."
     },
     {
-      "title": "US-Russian crew blast off for 8-month stint on the International Space Station",
-      "link": "https://phys.org/news/2026-07-russian-crew-blast-month-stint.html",
-      "date": "2026-07-14 17:48",
-      "summary": "A U.S.-Russian space crew blasted off successfully Tuesday on a mission to the International Space Station...."
+      "title": "New cell imaging method shines a light on blind spots",
+      "link": "https://phys.org/news/2026-07-cell-imaging-method.html",
+      "date": "2026-07-14 19:40",
+      "summary": "Cells are crowded, dynamic places where thousands of molecules interact in tight quarters. Until now, scientists lacked a reliable..."
     },
     {
-      "title": "Record-smashing US heat wave surges from West to East",
-      "link": "https://phys.org/news/2026-07-surges-west-east.html",
-      "date": "2026-07-14 17:46",
-      "summary": "A record-smashing heat wave was spreading Tuesday from the West toward the East Coast, placing nearly 100 million Americans under ..."
+      "title": "What is no‑till farming, and is it actually better for the environment?",
+      "link": "https://phys.org/news/2026-07-notill-farming-environment.html",
+      "date": "2026-07-14 19:40",
+      "summary": "Humans have been turning seeds and soil into food for thousands of years...."
     },
     {
-      "title": "First-of-its-kind computer model tackles antibiotic resistance",
-      "link": "https://phys.org/news/2026-07-kind-tackles-antibiotic-resistance.html",
-      "date": "2026-07-14 17:40",
-      "summary": "Faster and more effective ways to treat Pseudomonas aeruginosa, a bacterium identified by the World Health Organization (WHO) as o..."
+      "title": "Roman telescope will spot distant black holes that shred stars",
+      "link": "https://phys.org/news/2026-07-roman-telescope-distant-black-holes.html",
+      "date": "2026-07-14 19:20",
+      "summary": "How do black holes at the centers of galaxies form and grow over time? To answer this question, scientists need to detect and stud..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Pilot scheme in England to convert empty classrooms into community hubs",
+      "link": "https://www.theguardian.com/education/2026/jul/14/pilot-scheme-england-convert-empty-classrooms-community-hubs",
+      "date": "2026-07-14 19:00",
+      "summary": "Policy to create youth clubs and health centres aims to tackle surplus of school spaces created by falling pupil numbersClassrooms..."
+    },
     {
       "title": "Humanities among degrees being ‘extinguished’ by hard-up universities",
       "link": "https://www.theguardian.com/education/2026/jul/14/university-job-cuts-humanities-social-sciences",
@@ -279,12 +285,6 @@
       "link": "https://www.theguardian.com/education/2026/jul/11/uk-pupils-struggle-extreme-heat-schools-classrooms",
       "date": "2026-07-11 06:00",
       "summary": "Teachers call for schools to be urgently adapted for hot weather amid reports of nausea, fainting and heatstrokeThe extreme heat t..."
-    },
-    {
-      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-      "link": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-      "date": "2026-07-10 07:00",
-      "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loansMost developing..."
     }
   ],
   "SCMP Hong Kong": [
