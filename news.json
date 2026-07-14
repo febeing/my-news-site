@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT engineers find a precise way to grow artificial blood vessels",
+      "link": "https://news.mit.edu/2026/mit-engineers-find-precise-way-to-grow-artificial-blood-vessels-0714",
+      "date": "2026-07-14 04:00",
+      "summary": "Gently stretching and pulling a “blood vessel on a chip” encourages controlled sprouting of new vessels, for possible use in artif..."
+    },
+    {
       "title": "AI agents create virtual playgrounds to help robots get crucial training data",
       "link": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
       "date": "2026-07-13 18:50",
@@ -23,26 +29,20 @@
       "link": "https://news.mit.edu/2026/discovery-could-lead-brighter-more-energy-efficient-digital-displays-0710",
       "date": "2026-07-10 18:00",
       "summary": "Researchers found a simple solution for extending the lifespans of LEDs made from glowing microscopic particles called quantum dot..."
-    },
-    {
-      "title": "New flapping robot swims and flies like a diving bird",
-      "link": "https://news.mit.edu/2026/new-flapping-robot-swims-and-flies-like-diving-bird-0709",
-      "date": "2026-07-09 18:00",
-      "summary": "MIT engineers’ design could lead to a new class of aerial-aquatic vehicles for ocean exploration...."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
-      "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
-    },
     {
       "title": "20 societal problems, 20 solutions - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
       "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
+    },
+    {
+      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
+      "date": "2026-05-12 07:00",
+      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
       "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
@@ -71,12 +71,6 @@
       "summary": "“We Must Act Now”: Sixteen Nobel Laureates Join Leading Economists and AI Researchers in Call to Prepare for AI’s Economic Transfo..."
     },
     {
-      "title": "Q&A: Chris Agnew on AI and the Future of Schooling - future-ed.org",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEZsTFVydmU0VmVLNHFQSnZOVDZ1cmtRSVpWb1hWemtGcXhIaW94VWFCT1VTZVpWXzBibGFjdlJkcnpKT2pBWXQtVlc1bnlqa1BERGs5UzhTdGJNLWEyNjlqTWNrSUhKanZUWTl4RTFVcEwyNEwtc29vdlpzR09VYQ?oc=5",
-      "date": "2026-07-13 21:07",
-      "summary": "Q&A: Chris Agnew on AI and the Future of Schooling  future-ed.org..."
-    },
-    {
       "title": "Surprise Wimbledon semifinalist Arthur Fery developed his game at Stanford University - mininggazette.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNWQ3Tk1VLU4yaWtQcGFaUmxuV2czSjgtOUJhbzR3Tl83ZVhXakxsMHVzU0xWZGhURmlIeWEwSWlVUHYyVmdpNTYyeEdkYXlCMm5zNzRGNXZiZUFDQXZKV0liNlRQekEwZXdzZWdjbHVYdjd1M1JxUFlDcmEzbUV6czM5QU1fZzlOYVkzb3FsaXpNY1hMZUZVbTNTUk85bS0wdWlVQTJPRlFnbzBUQVlqNUFfU3Axa2NMclJoczlNbmpNbk1PYkk5Wnoyaw?oc=5",
       "date": "2026-07-10 07:02",
@@ -87,6 +81,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjdwOXRLVWFxYnNPa2FyQkFnajBDcDdLR1lLZzlER1Judm10b0xodnV5ajIwcWRFZUVPOFctV19ua0t5bFVLMVpTOXR1VDZNWGJJeHdxNjY5aHBXTG5ZcUpfMzYtWmhwUkxtdEN1ZUgwUzdnbkxRV2k5bXdYNk1yNG9yVVFFaFpidl9F?oc=5",
       "date": "2026-07-09 18:15",
       "summary": "Meet Biomni – an AI-powered biomedical co-scientist  Stanford Report..."
+    },
+    {
+      "title": "Stanford-invented chip helps blind people read again - KTVU",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUzJ2Mkh6blJFbkhDZzR0NFN6UkRKS1ZBTkZtdDVpQzlNYldmWjdvRmE4WVJLSDFDN2N5Vk5tREVCV3pqb2pKZEl3THlwczR4TzlSOEFFX0xMLXdiY0luZjhjU1lwd2pONmU0cWY3Y1N4VW9fdVhKT2d5eDNWOV9KNHhmV3hUaHZxZ2VDQlp30gGTAUFVX3lxTE5EaUg0MWFGbXFiZnN4aHZKRkFXS09RREQ5ZUhVX09DMWtMZ2I0SktFM2ZVWEctWTlwV1ljUXRtTFdDaUVQZFZoMmZLOE85Z2cyXzdncU41UFFiWlg5UVhiNWgtZ2IyRVpLWUl3M2tNWDFBbjJtTGswZUF2c1Rzcy1xOGdfU05yb3RPTzR6ZUhWVmdhRQ?oc=5",
+      "date": "2026-07-14 03:23",
+      "summary": "Stanford-invented chip helps blind people read again  KTVU..."
     },
     {
       "title": "EdisonFuture Motor Inc. Participates in Humanity & AGI Summit 2026 at Stanford University - EIN Presswire",
@@ -167,28 +167,28 @@
       "summary": "Nobel laureates among more than 200 experts urging action on AI's economic impact  Reuters..."
     },
     {
-      "title": "TSMC posts record revenue in second quarter on AI demand - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEVtckxTOVlzOGY4clpUVGtUcEpoUTc1Qjg5NWxTUFh3TFRwbjJyTkhSLXh0d1AxVE5JRUJOVlVMQWxVT2NUMERNSzBRc1lWYnQyX0x2S0hjci1kLTNTTm9aQ3BaTWpvRHdqemxSYXZiSmVuQXI5eUdJblYxa01wSnl0U085Z056NldneVZBNVQ3VzBKTTVPZHlkRVRzR2JZX3J1NG1GVnk1WmRRUjlmNHBvYUFaekNQS1VMYw?oc=5",
-      "date": "2026-07-13 05:38",
-      "summary": "TSMC posts record revenue in second quarter on AI demand  Reuters..."
-    },
-    {
-      "title": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZHVWMTZfdlZoNHBPbVhNSTktYk5yTzBaN3BOTWc2NjNhczhUWVJVTktLZld3WC0zeGEyREFDZk1kWkFjNzBFaXV0M3JSMC1mNFlPQU9DYy1palFFbTRoUFYxR1JZVDNRVmhCQzREYnMxOGd1cEFhNE9aeTFOVzhDTjF6UVY3b0RzUm5ReWIyQkQ2ZjF2OC1kNG40clpPNzhkTTJZOWJUckc0SUlaWVhaa1VFOVpkVXA3am9aY1I2bWlqODM3N2c?oc=5",
-      "date": "2026-07-12 08:37",
-      "summary": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions  Reuters..."
-    },
-    {
       "title": "White House to rally utilities, data centers for AI power cost pledge, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQW9VcURIMWNFdXRxakJ3c3ZHcnJucDRjY0NZU3k2b2tJM1V4SnNYT0ZlVWZwQ3E0LUFIaXlJWnk2aDU1OTFIVkQzRVgxWmJDZXUtS09wZkFuUmhfbGVWOHNEbDA2azVBQXA3ZlZpR2Z5RHQyd1N5aC1GbWE2cUprZS16QzNrdFBRdHdvQlRJWDNRLWpKQkY5ZjBVWElWbVlmMmxFbUF5R3pDc1ZMc3FlTExHZw?oc=5",
       "date": "2026-07-13 16:05",
       "summary": "White House to rally utilities, data centers for AI power cost pledge, sources say  Reuters..."
     },
     {
-      "title": "Focus: Wall Street banks ramp up digital assistants in bid to win productivity race - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUUlyaHNIYUthdWxmRURVRmREUGxabUVlSWlWV291b0U5MEZvdVpjcGtiV1M0YmdSa0owR2w1TlZtM20zVHo5V3VrMlVUNWRwQXRfMjNqamFoWjY4dWRUZmZWeVZFQnlFNG8tV1pQV1c0blpWMlJzejhiblJLUVpxYkdfM1hXMEt2OWNORkZwdjNmbjV4RXlrYUM2emhRT3dQOFFRTVgxTGttalpwVHNaQndZQWpvV0I1Z1FIbmVKNmRGbjBO?oc=5",
-      "date": "2026-07-13 16:41",
-      "summary": "Focus: Wall Street banks ramp up digital assistants in bid to win productivity race  Reuters..."
+      "title": "China's June trade tops forecasts buoyed by AI boom - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGpqNHVtR2tXdDB5RnBUeHF0U2oyRDRMNnduQVM0eHBWOTVxalVjSGdOMXlFZGxNRUc2dW9fcUttclVoVTdKbk5rRUlVOEdqWHFQRzd5WllrZGI2dnhOVEJXRDU1eFhSVlAtZDk2UEFCRExBdEQxMEdhTENzdzVRVWpaVUhJU2l2RU1KT0xobmNyeGtPcEY1S3Exb3doaG8?oc=5",
+      "date": "2026-07-14 02:57",
+      "summary": "China's June trade tops forecasts buoyed by AI boom  Reuters..."
+    },
+    {
+      "title": "South Korea forecasts 2026 economic growth at 5-year high on AI chip boom - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMlJqdXFSbm1RMkt5ZU5oOG5mUHZiblBGVE9aQ1RDSDlpRTVPNFA1SHlKYkFNc3MxbHppV3ZyMVNGUTFvSlZkb0lhR2w2WU9MY1FMSHdZQUdpTnhDY3ZpNG5MLXJkMTRVTHBnOTZpQVJCY2ROWXNQeUpITmNKWEx1ZWt1MFV2UjB3S0F1VWYwa1FHRkdzQlRLTHEtYm1QNVdqWFpDM2lnWi1UUVNKb0E5eHZGOGUxYUZqcnhaLXJYWQ?oc=5",
+      "date": "2026-07-14 02:58",
+      "summary": "South Korea forecasts 2026 economic growth at 5-year high on AI chip boom  Reuters..."
+    },
+    {
+      "title": "TSMC posts record revenue in second quarter on AI demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEVtckxTOVlzOGY4clpUVGtUcEpoUTc1Qjg5NWxTUFh3TFRwbjJyTkhSLXh0d1AxVE5JRUJOVlVMQWxVT2NUMERNSzBRc1lWYnQyX0x2S0hjci1kLTNTTm9aQ3BaTWpvRHdqemxSYXZiSmVuQXI5eUdJblYxa01wSnl0U085Z056NldneVZBNVQ3VzBKTTVPZHlkRVRzR2JZX3J1NG1GVnk1WmRRUjlmNHBvYUFaekNQS1VMYw?oc=5",
+      "date": "2026-07-13 05:38",
+      "summary": "TSMC posts record revenue in second quarter on AI demand  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -211,19 +211,31 @@
       "summary": "The Download: Claude’s inner workings and OpenAI’s “super app”  MIT Technology Review..."
     },
     {
-      "title": "AI agents are not your “coworkers” - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUVvV3UtNjdYZHZjVHJvcDhzNFlYN0VOWDE5OXk1Ny1qNEZ6elVCdmNKUHAwRk5CaXFBMUJQV013M3A0UVhWU1A0QmRGOHZQdFVyNnNoYXpWQW1WU3Zwa19tWDNSOVlibjRqRDZWZlVOWGVjM2ltem1OaEdoTGtHckdWb1pacG55NzhraWlR0gGTAUFVX3lxTE54NEtzTndmUGVZcFZUdHBpWHlkcWxqNHpabFFzWmR3aUJWVUtTSDBsekZhbHY2amI3eVZhWEFSVHFWVF9OdElvWGZwZEdKa3JLU1VSclFheGZuZVRfeXJrekhjaDd1YjYtVWdVekhMZXd0OEc5VGZCcDNURS1obkx5SHVJOTA3M1kyV085SUZWNWs0MA?oc=5",
-      "date": "2026-06-29 07:00",
-      "summary": "AI agents are not your “coworkers”  MIT Technology Review..."
-    },
-    {
       "title": "Four nuclear reactors hit a big milestone in the US - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNUtXRzRsTmQ0RHc3SFNJRnc0TURLY2l5T3VjbTlEOGtabVIzQzl6MHJqenk0dUxhMkNHTkFGSkkzRl91RXRRcnNkUURfUkZYRUNGNWlLRkhQT05jSUlmYUpzMUpQdWptWlhNSTBYT3ktUE01MHUtZUZHOUk3clFwWThubkFnWXoybFZRbzdDRWlFa25B0gGaAUFVX3lxTE04U2FYNndaNzFJWkdPdkRVUnlOT1Y0Sks4dGc1eHF0dUExc1JudkdnbzZpTV9HUDRRRUhmcDdyLVd5NURzMVA3anZRdjNpT2tlVWxOb1g4MG9uejJkRFZ2LU1Oa3puQ05uNW9WVU0xb2lybFJhUVVHV2FYeHIxcnhZVC1pcEFCbTNQQVExZE95UGhDWmgxdUhtYlE?oc=5",
       "date": "2026-07-09 08:00",
       "summary": "Four nuclear reactors hit a big milestone in the US  MIT Technology Review..."
+    },
+    {
+      "title": "AI agents are not your “coworkers” - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUVvV3UtNjdYZHZjVHJvcDhzNFlYN0VOWDE5OXk1Ny1qNEZ6elVCdmNKUHAwRk5CaXFBMUJQV013M3A0UVhWU1A0QmRGOHZQdFVyNnNoYXpWQW1WU3Zwa19tWDNSOVlibjRqRDZWZlVOWGVjM2ltem1OaEdoTGtHckdWb1pacG55NzhraWlR0gGTAUFVX3lxTE54NEtzTndmUGVZcFZUdHBpWHlkcWxqNHpabFFzWmR3aUJWVUtTSDBsekZhbHY2amI3eVZhWEFSVHFWVF9OdElvWGZwZEdKa3JLU1VSclFheGZuZVRfeXJrekhjaDd1YjYtVWdVekhMZXd0OEc5VGZCcDNURS1obkx5SHVJOTA3M1kyV085SUZWNWs0MA?oc=5",
+      "date": "2026-06-29 07:00",
+      "summary": "AI agents are not your “coworkers”  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Unequal taxation helped fuel the French Revolution, say economists",
+      "link": "https://phys.org/news/2026-07-unequal-taxation-fuel-french-revolution.html",
+      "date": "2026-07-14 03:20",
+      "summary": "Deep inequalities in taxation played a key role in fueling the French Revolution, according to a new study published by the ROCKWO..."
+    },
+    {
+      "title": "Supportive supervisors lift performance for employees with disabilities, study finds",
+      "link": "https://phys.org/news/2026-07-supervisors-employees-disabilities.html",
+      "date": "2026-07-14 03:00",
+      "summary": "Supportive supervisors can improve the performance of employees with disabilities, according to research in the International Jour..."
+    },
     {
       "title": "Most of the moon's water likely remains chemically bound in its deep interior",
       "link": "https://phys.org/news/2026-07-moon-chemically-bound-deep-interior.html",
@@ -241,18 +253,6 @@
       "link": "https://phys.org/news/2026-07-redefining-word-endangered-species-ability.html",
       "date": "2026-07-14 00:40",
       "summary": "It wouldn't make much sense to prohibit people from shooting a threatened woodpecker while allowing its forest to be cut down, or ..."
-    },
-    {
-      "title": "Dead stars in our cosmic backyard: Astronomers spot four white dwarfs hiding under our noses",
-      "link": "https://phys.org/news/2026-07-dead-stars-cosmic-backyard-astronomers.html",
-      "date": "2026-07-14 00:00",
-      "summary": "Researchers at the University of Warwick and the University of Colorado Boulder have directly observed, for the first time, four w..."
-    },
-    {
-      "title": "Hidden in Maya wall writings: A named astronomer emerges from 1,200-year-old calculations",
-      "link": "https://phys.org/news/2026-07-hidden-maya-wall-astronomer-emerges.html",
-      "date": "2026-07-13 23:00",
-      "summary": "Researchers have reconstructed and transcribed a mathematical formula from the site of Xultun, Guatemala, revealing the name of a ..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "New HK$45,000 job scheme expected to benefit single-parent families most",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3360468/new-hk45000-job-scheme-expected-benefit-single-parent-families-most?utm_source=rss_feed",
+      "date": "2026-07-14 04:36",
+      "summary": "Hong Kong’s new cash incentives of up to HK$45,000 (US$5,740) to encourage welfare recipients to take up jobs are expected to bene..."
+    },
+    {
       "title": "What made Hong Kong's Tai Po fire so deadly?",
       "link": "https://www.scmp.com/infographics/hong-kong/article/3358875/tai-po-fire-hearing-part-4-reasons-behind-heavy-toll?utm_source=rss_feed",
       "date": "2026-07-14 01:31",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/presented/news/hong-kong/topics/hong-kong-chartered-governance-institute/article/3360002/new-course-puts-sports-governance-spotlight?utm_source=rss_feed",
       "date": "2026-07-13 16:00",
       "summary": "[The content of this article has been produced by our advertising partner.]\nAs Hong Kong looks to develop all aspects of the sport..."
-    },
-    {
-      "title": "Hong Kong’s Star Ferry seeks 30% fare rise, eyes pet-friendly service",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3360423/hong-kongs-star-ferry-seeks-30-fare-rise-eyes-pet-friendly-service?utm_source=rss_feed",
-      "date": "2026-07-13 15:52",
-      "summary": "Hong Kong’s Star Ferry has applied to raise fares by about 30 per cent across its two franchised routes, citing rising operating c..."
     }
   ]
 }
