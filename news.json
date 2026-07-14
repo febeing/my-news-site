@@ -65,10 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "Meet Biomni – an AI-powered biomedical co-scientist - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjdwOXRLVWFxYnNPa2FyQkFnajBDcDdLR1lLZzlER1Judm10b0xodnV5ajIwcWRFZUVPOFctV19ua0t5bFVLMVpTOXR1VDZNWGJJeHdxNjY5aHBXTG5ZcUpfMzYtWmhwUkxtdEN1ZUgwUzdnbkxRV2k5bXdYNk1yNG9yVVFFaFpidl9F?oc=5",
-      "date": "2026-07-09 18:15",
-      "summary": "Meet Biomni – an AI-powered biomedical co-scientist  Stanford Report..."
+      "title": "Michelle Landrey Cline named president of the Stanford Alumni Association - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXpwcURXT2NVd19ubFRuNy1NVXItWmluZEZrSWdna0hZdm0yT2R1OVRqaFRNbUF0VGtkUklfTG1TUENOYVk3dUhsWE96ZnlNSUQxNURWaWRINXhLN1ppaEtDU3UwQ19tYUhzSTZmdkxobTd5ZTQtV0J4ZWFRdUVmR21kZ1c0bjF2WVI2dlNwOS1hNFlNVWwyQWtrWGVWUUZaUFVHVg?oc=5",
+      "date": "2026-07-14 13:07",
+      "summary": "Michelle Landrey Cline named president of the Stanford Alumni Association  Stanford Report..."
+    },
+    {
+      "title": "Learning Across Disciplines and Cultures: A Japan-Norway Student Exchange - Stanford University",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN3hsc01CaWZ0bkw4MjhiZEFoOFoxVFJuSS14b2pwakg1YlJuUVZBVUo2cW9MWmFQYkk2VDhpS0V5Y3hseXQ4NTJYSm11bVVTUEFXNUpYTm14b2d2NnZtaGZXUEJDcW1iVHd6cThVVEFJN0FFNVAwTVdWVFdzc3o4X084ZmRHNTZkZHhCSVFjM0xZclRFQnFOTWdXeEhzWDB5Tk9RZlljN2VDdw?oc=5",
+      "date": "2026-07-14 12:00",
+      "summary": "Learning Across Disciplines and Cultures: A Japan-Norway Student Exchange  Stanford University..."
     },
     {
       "title": "Surprise Wimbledon semifinalist Arthur Fery developed his game at Stanford University - mininggazette.com",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUZvMklBRlJaUWJLREVvNS1hbGp0RkpNajZKb3NwNHZfRjJWQUlnNUUtVThiWEN1Tl9Cb0dCMmZVQmJWV0pWcDFkaGl2SXNfV0pJNHRvb3JEeF9NbVpFbm1rX0g2RFpENzVhRjE0M1JxZy10V3Y3d0Jxd3R1cUZnVjA5NjZQNXRYOWZyYVA5RTlsQ2RYeUk3SEc4SQ?oc=5",
       "date": "2026-07-13 20:45",
       "summary": "Researchers, Economists Urge Leaders to Act on AI Policy  The Well News..."
-    },
-    {
-      "title": "“We Must Act Now”: Sixteen Nobel Laureates Join Leading Economists and AI Researchers in Call to Prepare for AI’s Economic Transformation - Stanford Digital Economy Lab",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15SUdjbjdsTlBkdkZnTHB5TVhPcjBsS1BrZ1Q4NXFXSl9rVEUwRnNzVy1HbG84aFlJUDVpd08tenFDdUE1dm1ydVdFODNXY29KV2JOSGYycTB2dzJCNEd2ZW41cm4?oc=5",
-      "date": "2026-07-13 11:09",
-      "summary": "“We Must Act Now”: Sixteen Nobel Laureates Join Leading Economists and AI Researchers in Call to Prepare for AI’s Economic Transfo..."
     },
     {
       "title": "Stanford-invented chip helps blind people read again - KTVU",
@@ -121,10 +121,10 @@
       "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02187-zAI models: one country’s fears become everyone’s constraint..."
     },
     {
-      "title": "My research on mice is causing me stress. How can I become more resilient?",
-      "link": "https://www.nature.com/articles/d41586-026-01128-0",
+      "title": "Seeking an industry role after your PhD? Make sure your CV reflects that",
+      "link": "https://www.nature.com/articles/d41586-026-01855-4",
       "date": "2026-07-14 00:00",
-      "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-01128-0A PhD student loves research, but not the realities of exper..."
+      "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-01855-4A doctorate can open many doors. A CV tailored to your plann..."
     }
   ],
   "Retraction Watch": [
@@ -173,22 +173,22 @@
       "summary": "TSMC posts record revenue in second quarter on AI demand  Reuters..."
     },
     {
+      "title": "Meta used AI to target workers with medical conditions for layoffs, former employees' lawsuit claims - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5",
+      "date": "2026-07-14 13:58",
+      "summary": "Meta used AI to target workers with medical conditions for layoffs, former employees' lawsuit claims  Reuters..."
+    },
+    {
+      "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+      "date": "2026-07-14 14:19",
+      "summary": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout  Reuters..."
+    },
+    {
       "title": "AI startup Reflection signs over $1 billion computing deal with Nebius - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNak5EWjJRQUJqbFgySi1CTl8xd3BaUG5HVjFZQUFKZk1WaGdTQVc4NWlRaC1ES3R6c3NLNnhoWUl2UjVwVTM3OV9UaW9ETTNZRnVrUkZERzYwS2luSmlvYUx6V1cweks4bzVLRk5acmpUcFlEUmxhaC14VFh4RVRRa1EtQjZKanJ5cUJXVlZyT282UEQ5Sld2ZFhIOTdLUTJ0REZNWWxSb1VXQ2ZYV2lYeGwwRzU?oc=5",
       "date": "2026-07-14 11:15",
       "summary": "AI startup Reflection signs over $1 billion computing deal with Nebius  Reuters..."
-    },
-    {
-      "title": "IBM forecasts preliminary Q2 revenue below estimates as spending shifts to AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-      "date": "2026-07-14 11:27",
-      "summary": "IBM forecasts preliminary Q2 revenue below estimates as spending shifts to AI  Reuters..."
-    },
-    {
-      "title": "China's DeepSeek considers new fundraising after first round, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWk55WkVVNmR6aGp1Mm9kM2c5dlhZU0hXRVczeVVYMHotME5pcW9BY09ldG5iY2FsdGhvRXNxTlh1ekMyNjVQMGN3Vk53T1RXaTNzbWhRT2JpMk5RYnZYYVJNWEMyMGtIMG4zWmM1djZ5TURCX0huckp0aWxkeTZTZThiblNfTXRuU0QtczlXZ2U0U3NjZm9mYjFpanNQSHFRSmVwTDlFZkdZSTZwZGpaSElfU2hTNzAwYnc?oc=5",
-      "date": "2026-07-14 10:47",
-      "summary": "China's DeepSeek considers new fundraising after first round, FT reports  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Study reveals Hawaiian hotspot is getting hotter",
-      "link": "https://phys.org/news/2026-07-reveals-hawaiian-hotspot-hotter.html",
-      "date": "2026-07-14 12:00",
-      "summary": "Contrary to conventional geological thinking, the Hawaiian mantle plume has gotten hotter by about 250°C (480°F) over the past 47 ..."
+      "title": "Physicists confirm 20-year-old theory that could boost quantum technology",
+      "link": "https://phys.org/news/2026-07-physicists-year-theory-boost-quantum.html",
+      "date": "2026-07-14 14:40",
+      "summary": "Future quantum computing will require correlations between distant modules—a feature known as distributed entanglement. Traditiona..."
     },
     {
-      "title": "Underwater microphones detect dolphins in Sea of Japan bays about once every ten days",
-      "link": "https://phys.org/news/2026-07-underwater-microphones-dolphins-sea-japan.html",
-      "date": "2026-07-14 12:00",
-      "summary": "When residents of two coastal communities along the Sea of Japan reported observing dolphins in nearby waters, it caught the atten..."
+      "title": "New study reveals children drive cultural change",
+      "link": "https://phys.org/news/2026-07-reveals-children-cultural.html",
+      "date": "2026-07-14 14:40",
+      "summary": "A new study led by our Psychology Department has revealed that children play a much bigger role in shaping human culture than prev..."
     },
     {
-      "title": "Shear loading reveals sixfold damage growth around stiff particles in aluminum alloy",
-      "link": "https://phys.org/news/2026-07-reveals-sixfold-growth-stiff-particles.html",
-      "date": "2026-07-14 11:50",
-      "summary": "The resistance of materials to mechanical loads is a decisive factor in component safety, such as in aircraft. Working as part of ..."
+      "title": "Two atmospheric patterns may explain why some heat waves in Europe persist",
+      "link": "https://phys.org/news/2026-07-atmospheric-patterns-europe-persist.html",
+      "date": "2026-07-14 14:30",
+      "summary": "Many parts of Western Europe are currently wilting under a heat wave. These blistering spells can last for a week or more, and alt..."
     },
     {
-      "title": "Lower-skilled workers could earn more in an AI world, research indicates",
-      "link": "https://phys.org/news/2026-07-skilled-workers-ai-world.html",
-      "date": "2026-07-14 11:40",
-      "summary": "For anyone worried about AI's effects on jobs, here's good news: New research by Stanford economist Lukas Althoff concludes that a..."
+      "title": "Engineers find a precise way to grow artificial blood vessels",
+      "link": "https://phys.org/news/2026-07-precise-artificial-blood-vessels.html",
+      "date": "2026-07-14 14:30",
+      "summary": "Tissue engineers are finding ways to grow living organs and tissues from cells, with the aim of replacing diseased and damaged cou..."
     },
     {
-      "title": "Space cargo costs could fall more than 90% by 2040, study suggests",
-      "link": "https://phys.org/news/2026-07-space-cargo-fall.html",
-      "date": "2026-07-14 11:35",
-      "summary": "The expense of launching cargo into space will plummet over the next few years, with the cost of reaching orbit forecast to more t..."
+      "title": "Modern slavery is a business decision—not an accident",
+      "link": "https://phys.org/news/2026-07-modern-slavery-business-decision-accident.html",
+      "date": "2026-07-14 14:20",
+      "summary": "Modern slavery persists because the way global supply chains are designed allows it to remain hidden, according to new research le..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "More safety signs added for new Hong Kong overpass after 5 crashes in 3 days",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3360565/more-safety-signs-added-new-hong-kong-overpass-after-5-crashes-3-days?utm_source=rss_feed",
+      "date": "2026-07-14 14:27",
+      "summary": "Five traffic accidents have occurred along a new overpass on Tsuen Wan Road within the first three days of its operation, with Hon..."
+    },
+    {
+      "title": "Hong Kong Book Fair vendors on the same page about this year’s sales",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3360558/hong-kong-book-fair-vendors-same-page-about-years-sales?utm_source=rss_feed",
+      "date": "2026-07-14 12:57",
+      "summary": "Hong Kong booksellers are hoping to match last year’s business levels for the 2026 edition of the city’s annual book fair, with so..."
+    },
+    {
+      "title": "Hong Kong gazettes bill to enable joint immigration checks at Shenzhen crossing",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3360554/hong-kong-gazettes-bill-enable-joint-immigration-checks-shenzhen-crossing?utm_source=rss_feed",
+      "date": "2026-07-14 12:33",
+      "summary": "Hong Kong authorities have gazetted a new law regulating an upgraded border crossing between the city and Shenzhen, marking anothe..."
+    },
+    {
       "title": "Hong Kong national security laws must be continually improved: ex-Beijing official",
       "link": "https://www.scmp.com/news/hong-kong/politics/article/3360539/hong-kong-national-security-laws-must-be-constantly-improved-ex-beijing-official?utm_source=rss_feed",
       "date": "2026-07-14 10:02",
@@ -299,24 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360521/hong-kong-woman-gets-10-years-jail-luring-victims-gangs-extortion-plot?utm_source=rss_feed",
       "date": "2026-07-14 09:02",
       "summary": "A Hong Kong woman has been sentenced to 10 years in prison for assisting in robbing three people when she was a teenager by luring..."
-    },
-    {
-      "title": "Story ends as another Hong Kong indie bookshop closes amid ‘losses, red lines’",
-      "link": "https://www.scmp.com/news/hong-kong/article/3360514/story-ends-another-hong-kong-indie-bookshop-closes-amid-losses-red-lines?utm_source=rss_feed",
-      "date": "2026-07-14 08:46",
-      "summary": "An independent Hong Kong bookshop founded by journalists has announced that it will close on August 30, citing financial losses an..."
-    },
-    {
-      "title": "Record 24 DSE students score perfect marks as university eligibility rate dips",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3360502/record-24-dse-students-score-perfect-marks-university-eligibility-rate-dips?utm_source=rss_feed",
-      "date": "2026-07-14 07:44",
-      "summary": "A record 24 students from 15 schools have scored perfect marks in Hong Kong’s university entrance exams, up from 17 last year, wit..."
-    },
-    {
-      "title": "Hong Kong couple files complaint with UN over Swedish custody plans for daughter",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3360493/hong-kong-couple-file-complaint-un-over-swedish-custody-plans-daughter?utm_source=rss_feed",
-      "date": "2026-07-14 07:14",
-      "summary": "A Hong Kong couple has lodged a complaint with the United Nations over an alleged breach of human rights after Swedish authorities..."
     }
   ]
 }
