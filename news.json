@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "3 Questions: Neural transparency and the future of AI design",
+      "link": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+      "date": "2026-07-15 20:25",
+      "summary": "Assistant Professor Pat Pataranutaporn describes a new interface that lets everyday users glimpse inside an AI's neural network be..."
+    },
+    {
       "title": "3D-printed bridge points the way to greener construction",
       "link": "https://news.mit.edu/2026/3d-printed-bridge-points-to-greener-construction-0715",
       "date": "2026-07-15 17:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
       "date": "2026-07-14 20:25",
       "summary": "Through research and entrepreneurship, Professor Devavrat Shah is helping to design methods that can handle constant decision-maki..."
-    },
-    {
-      "title": "Three MIT Press journals lead their fields with Clarivate No. 1 rankings",
-      "link": "https://news.mit.edu/2026/three-mit-press-journals-earn-clarivate-no-1-rankings-0713",
-      "date": "2026-07-14 19:55",
-      "summary": "Computational Linguistics, International Security, and The Review of Economics and Statistics lead their disciplines with 2026 Cla..."
     }
   ],
   "Harvard Gazette": [
@@ -185,10 +185,10 @@
       "summary": "Apple chasing AI chip company deals, The Information reports  Reuters..."
     },
     {
-      "title": "AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUmlFRGVrdXVHQUxPaVo1MU1jdEV4c3h4Nmp6S1lhTUtqVGwxVGlHN3JWaV81Y2NBYjV6a0lCRHhTWDU5cTh2WjJ2UnB3aGRfRUFTamNPR3lVcTBBTF9LS1V2WGhSbXFyY0JPelluSU93RmRxS21vRmtyeTRkMjV1dFdObWp3Mng4OXFNMFVCMk9kUGUtc09za2VXTXMzZWp5OERLTkFMRjBYSGE1XzdNQjR0d2p6eTVQNXI1TVRUMA?oc=5",
-      "date": "2026-07-14 23:51",
-      "summary": "AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk  Reuters..."
+      "title": "Nobel laureates among more than 200 experts urging action on AI's economic impact - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUt1OTNadWljZVE1WXI3UzhWbC15R3h2eVpFWXFkY2wzeTcyWGNsaFZnYjc5TFhzTE1wX1RRQmdSRGJ5VkFRRzUxZUJ0N0tYdXBkZk1IdGlETTRfaDVXbUs2aTAtcjI3TU9UOFZKU1A3SEs0R25wWWNYTlFyZDZ2ejRGUkJiMjdYaFdOTE9zbmF5QTRxTTFzSmxGWHZqOUhYS1RfNFNGVFdYN00?oc=5",
+      "date": "2026-07-13 12:25",
+      "summary": "Nobel laureates among more than 200 experts urging action on AI's economic impact  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Tiny water droplets convert stubborn plastic waste into valuable acids, study finds",
-      "link": "https://phys.org/news/2026-07-tiny-droplets-stubborn-plastic-valuable.html",
-      "date": "2026-07-15 20:00",
-      "summary": "A new way of converting stubborn plastic waste into high-value chemicals using only water and oxygen has been developed by an inte..."
+      "title": "Hidden feeding grounds that fuel one of the ocean's most iconic sportfish identified",
+      "link": "https://phys.org/news/2026-07-hidden-grounds-fuel-ocean-iconic.html",
+      "date": "2026-07-15 21:40",
+      "summary": "Atlantic tarpon are famous for their long-distance migrations, traveling hundreds or even thousands of miles (hundreds to thousand..."
     },
     {
-      "title": "New algorithm improves gene expression marker identification across diverse biological systems",
-      "link": "https://phys.org/news/2026-07-algorithm-gene-marker-identification-diverse.html",
-      "date": "2026-07-15 20:00",
-      "summary": "Researchers have developed a new computational approach that enables more accurate selection of genes that characterize different ..."
+      "title": "Rethinking urban nature as technonature",
+      "link": "https://phys.org/news/2026-07-rethinking-urban-nature-technonature.html",
+      "date": "2026-07-15 21:20",
+      "summary": "A new Comment article by Simon Marvin, Sophia Maalsen and Robyn Dowling published in the journal Nature Cities argues that urban n..."
     },
     {
-      "title": "A new class of root-dwelling fungi named after the King of Sweden",
-      "link": "https://phys.org/news/2026-07-class-root-fungi-king-sweden.html",
-      "date": "2026-07-15 19:40",
-      "summary": "Researchers at Uppsala University have discovered a completely new fungal species, which they named after the king of Sweden. The ..."
+      "title": "Microplastics reach even 2,000 meters below the ocean surface, study finds",
+      "link": "https://phys.org/news/2026-07-microplastics-meters-ocean-surface.html",
+      "date": "2026-07-15 21:00",
+      "summary": "Plastic pollution has become a global environmental crisis, with an estimated 11 million tons of plastic entering the oceans each ..."
     },
     {
-      "title": "Scientists explain how nucleolus sub-compartments drive ribosome assembly",
-      "link": "https://phys.org/news/2026-07-scientists-nucleolus-compartments-ribosome.html",
-      "date": "2026-07-15 19:40",
-      "summary": "The nucleolus is a liquid-like cellular organelle where protein factories called ribosomes are assembled. Researchers knew of thre..."
+      "title": "What does it mean to be 'quantum?' A physicist explains the basics behind Einstein's spooky actions at a distance",
+      "link": "https://phys.org/news/2026-07-quantum-physicist-basics-einstein-spooky.html",
+      "date": "2026-07-15 21:00",
+      "summary": "Imagine shining a flashlight across a dark room. You can predict exactly what the light will do: travel in a straight line from on..."
     },
     {
-      "title": "Crab-dug tunnels boost methane-eating microbes in coastal wetlands, study finds",
-      "link": "https://phys.org/news/2026-07-crab-dug-tunnels-boost-methane.html",
-      "date": "2026-07-15 19:30",
-      "summary": "Wetlands are a significant producer of methane, a greenhouse gas more potent than carbon dioxide. Yet not all of it escapes into t..."
+      "title": "Helpful microbes could battle pathogens in our hospitals and schools—with the help of AI to make it work",
+      "link": "https://phys.org/news/2026-07-microbes-pathogens-hospitals-schools-ai.html",
+      "date": "2026-07-15 20:40",
+      "summary": "Helpful microbes that combat harmful pathogens could be the answer to rising antimicrobial resistance—particularly within built en..."
     }
   ],
   "The Guardian Edu": [
