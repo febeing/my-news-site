@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Ketogenic diets may increase cancer risk in the small intestine",
+      "link": "https://news.mit.edu/2026/ketogenic-diets-may-increase-cancer-risk-small-intestine-0715",
+      "date": "2026-07-15 15:00",
+      "summary": "MIT researchers have found that a ketogenic high-fat, low-carbohydrate diet fuels the growth of intestinal tumors...."
+    },
+    {
       "title": "Helping AI models to meet the real world",
       "link": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
       "date": "2026-07-14 20:25",
@@ -23,26 +29,20 @@
       "link": "https://news.mit.edu/2026/mit-engineers-find-precise-way-to-grow-artificial-blood-vessels-0714",
       "date": "2026-07-14 04:00",
       "summary": "Gently stretching and pulling a “blood vessel on a chip” encourages controlled sprouting of new vessels, for possible use in artif..."
-    },
-    {
-      "title": "AI agents create virtual playgrounds to help robots get crucial training data",
-      "link": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
-      "date": "2026-07-13 18:50",
-      "summary": "“SceneSmith” system uses collaborative AI agents to create realistic 3D environments of places like kitchens, hotels, and living r..."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
-      "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
-    },
     {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+    },
+    {
+      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
+      "date": "2026-06-03 07:00",
+      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
       "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
@@ -71,10 +71,10 @@
       "summary": "Stanford Board of Trustees elects four new members  Stanford Report..."
     },
     {
-      "title": "Jul 15, 2026 | Stanford Seeking Head Coach - MCLA",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90Y0s2emx3LVVqYzFjNEhjaW90dkhQS2Z4RUtmZ1BNOWh5cEttcFpBUk5rVVZLOEJwVGNHdEVYYzdCblFRQUc2X09uWlVCYzNiMFc4U2JmR2JOaHYzbjBmTmpB?oc=5",
-      "date": "2026-07-15 14:29",
-      "summary": "Jul 15, 2026 | Stanford Seeking Head Coach  MCLA..."
+      "title": "Exhibition unpacks the storied life of Jane Stanford - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObmdYQ3JiOFRSYWstNlJzSVB0S29kWWEtdHNmWDQ0MERuRDVXbFhWeld3NkF5azZLMEYzNXBKRURVZUNETHdPZWlWQnVLckhGODg0Q2tGak9oTGJFVmZYTUNFb0ROclR5MTZjWmRoUC1uME44ZXhrTUMtbmlIMXVWc2NrYlZ1X3lGQ2c?oc=5",
+      "date": "2026-07-14 21:49",
+      "summary": "Exhibition unpacks the storied life of Jane Stanford  Stanford Report..."
     },
     {
       "title": "“We Must Act Now”: Sixteen Nobel Laureates Join Leading Economists and AI Researchers in Call to Prepare for AI’s Economic Transformation - Stanford Digital Economy Lab",
@@ -83,19 +83,31 @@
       "summary": "“We Must Act Now”: Sixteen Nobel Laureates Join Leading Economists and AI Researchers in Call to Prepare for AI’s Economic Transfo..."
     },
     {
-      "title": "SambaNova, An AI infrastructure Company Co-Founded By Stanford University Professor Kunle Olukotun, Closes $1B Financing Round - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlYSENJTEpSUS1vcDZ2Y3NnbmpvVGJ1UEtiUVhKajc2WTAyWUJMbTJYN0FuM2pxdTQ1MUgxTWZ4QTFnSVdZc0M0XzBKSFVBZlB1Q0FjSi1WS0VGcnN5REZFUmlHejJWZDdLSmpobk1DOWt6dFNQbEt3NGxyMWJ6THNxT2c2eDlvR3RBV2xxOFU3c2ZYczF5akNmV1ZHRlRvZWdXZg?oc=5",
-      "date": "2026-07-14 17:12",
-      "summary": "SambaNova, An AI infrastructure Company Co-Founded By Stanford University Professor Kunle Olukotun, Closes $1B Financing Round  Ya..."
+      "title": "Michelle Landrey Cline named president of the Stanford Alumni Association - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXpwcURXT2NVd19ubFRuNy1NVXItWmluZEZrSWdna0hZdm0yT2R1OVRqaFRNbUF0VGtkUklfTG1TUENOYVk3dUhsWE96ZnlNSUQxNURWaWRINXhLN1ppaEtDU3UwQ19tYUhzSTZmdkxobTd5ZTQtV0J4ZWFRdUVmR21kZ1c0bjF2WVI2dlNwOS1hNFlNVWwyQWtrWGVWUUZaUFVHVg?oc=5",
+      "date": "2026-07-14 13:07",
+      "summary": "Michelle Landrey Cline named president of the Stanford Alumni Association  Stanford Report..."
     },
     {
-      "title": "Timothy Lynch announced as next general counsel - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTWjU2UEQ5TEFjSVFxZkNJdWEwXzZaQmNfeEo4NjRmUVltb00tSEV0bTBpdEFuODdpRE9uM3hMd082ZklKMEVVSVp3UTJ6RGJNZ2d4cm8xcTVPc2pfTFFBeGIyQnlKTGRjcGVVYmx4Uk5kMUEySWc?oc=5",
-      "date": "2026-07-13 22:05",
-      "summary": "Timothy Lynch announced as next general counsel  The Stanford Daily..."
+      "title": "Jul 15, 2026 | Stanford Seeking Head Coach - MCLA",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90Y0s2emx3LVVqYzFjNEhjaW90dkhQS2Z4RUtmZ1BNOWh5cEttcFpBUk5rVVZLOEJwVGNHdEVYYzdCblFRQUc2X09uWlVCYzNiMFc4U2JmR2JOaHYzbjBmTmpB?oc=5",
+      "date": "2026-07-15 14:29",
+      "summary": "Jul 15, 2026 | Stanford Seeking Head Coach  MCLA..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Relapse",
+      "link": "https://www.nature.com/articles/d41586-026-02133-z",
+      "date": "2026-07-15 00:00",
+      "summary": "Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02133-zRestore previous version?..."
+    },
+    {
+      "title": "How to end poverty and protect Earth: inside the debate tearing up economics",
+      "link": "https://www.nature.com/articles/d41586-026-02216-x",
+      "date": "2026-07-15 00:00",
+      "summary": "Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02216-xThe idea of prosperity without growth is gaining traction am..."
+    },
     {
       "title": "Beyond lithium: how sodium-ion batteries could change the world",
       "link": "https://www.nature.com/articles/d41586-026-02150-y",
@@ -103,28 +115,16 @@
       "summary": "Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02150-yBatteries based on sodium ions are entering mass production...."
     },
     {
+      "title": "AI avatars are reshaping society in China — the law is trying to catch up",
+      "link": "https://www.nature.com/articles/d41586-026-01674-7",
+      "date": "2026-07-15 00:00",
+      "summary": "Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-01674-7Digital people are fulfilling roles from running hospitals t..."
+    },
+    {
       "title": "Bird flu H5N1 in Australia: protect Australian species from bird flu virus",
       "link": "https://www.nature.com/articles/d41586-026-02188-y",
       "date": "2026-07-14 00:00",
       "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02188-yBird flu H5N1 in Australia: protect Australian species from ..."
-    },
-    {
-      "title": "Academia should recognize community partnerships as having societal impact",
-      "link": "https://www.nature.com/articles/d41586-026-02190-4",
-      "date": "2026-07-14 00:00",
-      "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02190-4Academia should recognize community partnerships as having s..."
-    },
-    {
-      "title": "The Enhanced Games and the normalization of doping: a public health concern",
-      "link": "https://www.nature.com/articles/d41586-026-02189-x",
-      "date": "2026-07-14 00:00",
-      "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02189-xThe Enhanced Games and the normalization of doping: a public..."
-    },
-    {
-      "title": "AI models: one country’s fears become everyone’s constraint",
-      "link": "https://www.nature.com/articles/d41586-026-02187-z",
-      "date": "2026-07-14 00:00",
-      "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02187-zAI models: one country’s fears become everyone’s constraint..."
     }
   ],
   "Retraction Watch": [
@@ -167,10 +167,10 @@
       "summary": "US to launch AI and cybersecurity coordination group, White House says  Reuters..."
     },
     {
-      "title": "AI startup Reflection signs over $1 billion computing deal with Nebius - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNak5EWjJRQUJqbFgySi1CTl8xd3BaUG5HVjFZQUFKZk1WaGdTQVc4NWlRaC1ES3R6c3NLNnhoWUl2UjVwVTM3OV9UaW9ETTNZRnVrUkZERzYwS2luSmlvYUx6V1cweks4bzVLRk5acmpUcFlEUmxhaC14VFh4RVRRa1EtQjZKanJ5cUJXVlZyT282UEQ5Sld2ZFhIOTdLUTJ0REZNWWxSb1VXQ2ZYV2lYeGwwRzU?oc=5",
-      "date": "2026-07-14 11:15",
-      "summary": "AI startup Reflection signs over $1 billion computing deal with Nebius  Reuters..."
+      "title": "Where authorities are restricting data centres amid AI boom - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFNWNVlkWG1wT2lJUzJza1JuNE9Yd3hETjg1OXFPbmREZkYyOFdKeS1JRkR3U0o1Y3pXWUZaeVRUU3ByRDRNYlYwRXBWU3dwNTZlSVdvTUs0OU5fYnp2NnR6VG4wbzRtSDk3WmpDUHR5SFdLc1NTMlpjTVpadG8xWkhReFFiMXBBRHdHZTBFMVF3OTU3Q0pFZ3RrSld1Rmc2RF95RFlmUFFlMVlWMDVkT1Z3?oc=5",
+      "date": "2026-07-14 13:08",
+      "summary": "Where authorities are restricting data centres amid AI boom  Reuters..."
     },
     {
       "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims - Reuters",
@@ -179,16 +179,16 @@
       "summary": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims  Reuters..."
     },
     {
+      "title": "AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUmlFRGVrdXVHQUxPaVo1MU1jdEV4c3h4Nmp6S1lhTUtqVGwxVGlHN3JWaV81Y2NBYjV6a0lCRHhTWDU5cTh2WjJ2UnB3aGRfRUFTamNPR3lVcTBBTF9LS1V2WGhSbXFyY0JPelluSU93RmRxS21vRmtyeTRkMjV1dFdObWp3Mng4OXFNMFVCMk9kUGUtc09za2VXTXMzZWp5OERLTkFMRjBYSGE1XzdNQjR0d2p6eTVQNXI1TVRUMA?oc=5",
+      "date": "2026-07-14 23:51",
+      "summary": "AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk  Reuters..."
+    },
+    {
       "title": "Apple Intelligence AI service registered with Chinese cyberspace regulator - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXhJVXVnNzlEYTBUN3BZOHg5cUlhVVVIcUZaMHVCc3Ixa3puV1AzVTExY3Z6V2NEXzdJOU9NNl9ZLWVLbGQ1b0xoZWI3RXFRNVltVEE2T29ONUhlSGcxMEJKRkFVUV95MkVXRUpMRUpyQU5JSlZ5cVZpWlh1MDJHckNpMDRMYnFtbktoYUpIdU9CaGRJRkdkeVVzdml6QnJoalQ0R3NrTV9SZXc4dndSaDBRRndzWjNKb24tSQ?oc=5",
       "date": "2026-07-15 11:15",
       "summary": "Apple Intelligence AI service registered with Chinese cyberspace regulator  Reuters..."
-    },
-    {
-      "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-      "date": "2026-07-14 11:10",
-      "summary": "IBM warns AI boom squeezing software budgets; shares sink in sector rout  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -199,16 +199,16 @@
       "summary": "The Download: a useful quantum machine and a record-breaking subsea tunnel  MIT Technology Review..."
     },
     {
-      "title": "PsiQuantum has a plan to make a massive quantum computer out of light - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR3ZNTFBKem0tOVdJWHY1d0FnMGhHZnNXS2Q2NkxoQmhvNUJvVVhHTk9EQmxSTEZBVDNaNE1TRjZDTHNneXZ2V0owTDFjS016VW92Sm1NZ2VnQk9YNW9OT2w0OF9pb0xNaVcwUnl0WjVNY2htZE05RG56SWZtd3Zra08ydHVIS21iTUNtS3dtaUJnbUd3aVRrUTM3RUNqNVI5MHVmVE9fcnBkUdIBrwFBVV95cUxOdEhja0F4bmhrUEt5OGRrUjNRY28xVW13MEZhRDBSdm9rMVNZeXlFTVhPRHExY3dTakFHcWFaeVJ0X3MtSXRkZDBTUmcwUVdWdGY5TXV3RldHdUVJbEt6Y3pyQ1FYWWlnZ0Y2aWlENU5yeEpOTU9JWi1GTkIydEVUQUpJUElRQkpHemU4OG5kOHBWWUFtOUtvU2VmWGl0OGVwbG9nWTlmbjdXY29pYVo4?oc=5",
-      "date": "2026-07-14 08:00",
-      "summary": "PsiQuantum has a plan to make a massive quantum computer out of light  MIT Technology Review..."
-    },
-    {
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV04xbFRXMFBkWFJ5X3pobThNNmIwNW93RERIMTRKSEJSYThfY3JiNGU4WE5sZXRfUm1CbWVyVFJVVVJ6THEyY0FfdHBSb2lyLUtQOGk4aVRmNFNWd29odzlDbzk0emtfeWlLM2ZYOHBTSDNReXg5UUtvRE81TUJ3S2RDazhvTFN2Vm8wZkxEVEZZR1F2UUkteTJIZ3c5OWdIUFBJZjhpcWxtaHlub3fSAbMBQVVfeXFMTldHYkFfc3RVLTdKNzFPZDFiak9aV0JMN2JoSlpMdHZrejlWVzBWUTNMYlZSTG02M2RpeHV5SGtNZk83UWllRTg0NVUtaGZDY3F5TVMwRy1fd081WDM2eVNWVlU3VEZEbEs1RDFlbndKZndBY1hTQ0U2OWxkUzdKcmtFOHVCeDNnMks1R0UtQ1JaaG9PS1E1OEppemx3dzdIemNneFNDQi1SbHBMNnkxYWFUUm8?oc=5",
       "date": "2026-07-13 18:00",
       "summary": "What Anthropic’s latest AI discovery does—and doesn’t—show  MIT Technology Review..."
+    },
+    {
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR3ZNTFBKem0tOVdJWHY1d0FnMGhHZnNXS2Q2NkxoQmhvNUJvVVhHTk9EQmxSTEZBVDNaNE1TRjZDTHNneXZ2V0owTDFjS016VW92Sm1NZ2VnQk9YNW9OT2w0OF9pb0xNaVcwUnl0WjVNY2htZE05RG56SWZtd3Zra08ydHVIS21iTUNtS3dtaUJnbUd3aVRrUTM3RUNqNVI5MHVmVE9fcnBkUdIBrwFBVV95cUxOdEhja0F4bmhrUEt5OGRrUjNRY28xVW13MEZhRDBSdm9rMVNZeXlFTVhPRHExY3dTakFHcWFaeVJ0X3MtSXRkZDBTUmcwUVdWdGY5TXV3RldHdUVJbEt6Y3pyQ1FYWWlnZ0Y2aWlENU5yeEpOTU9JWi1GTkIydEVUQUpJUElRQkpHemU4OG5kOHBWWUFtOUtvU2VmWGl0OGVwbG9nWTlmbjdXY29pYVo4?oc=5",
+      "date": "2026-07-14 08:00",
+      "summary": "PsiQuantum has a plan to make a massive quantum computer out of light  MIT Technology Review..."
     },
     {
       "title": "Anthropic found a hidden space where Claude puzzles over concepts - MIT Technology Review",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Antarctic change drives slowdown of global ocean circulation",
-      "link": "https://phys.org/news/2026-07-antarctic-slowdown-global-ocean-circulation.html",
-      "date": "2026-07-15 14:40",
-      "summary": "New Antarctic research shows the deepest layer of the Southern Ocean is shrinking faster than scientists realized, with the rate o..."
+      "title": "Plasma agriculture makes strides toward super-seeding conventional methods",
+      "link": "https://phys.org/news/2026-07-plasma-agriculture-super-seeding-conventional.html",
+      "date": "2026-07-15 16:20",
+      "summary": "Occasionally, the sun unleashes powerful flares and coronal mass ejections, which hurl plasma and energetic particles into space. ..."
     },
     {
-      "title": "Mapping the seafloor: How deep can we go?",
-      "link": "https://phys.org/news/2026-07-seafloor-deep.html",
-      "date": "2026-07-15 14:40",
-      "summary": "Australia's ocean territory is vast and covers an area more than 1.5 times the nation's landmass. Within these waters is a diversi..."
+      "title": "Not the greatest glider: First study puts Australia's biggest glider to the test",
+      "link": "https://phys.org/news/2026-07-greatest-glider-australia-biggest.html",
+      "date": "2026-07-15 16:20",
+      "summary": "Australia's largest gliding marsupial may not be the country's best glider after all, according to new research from The Australia..."
     },
     {
-      "title": "Stealth anticancer nanoparticles made from mussel proteins that 'lie in wait and attack only cancer cells'",
-      "link": "https://phys.org/news/2026-07-stealth-anticancer-nanoparticles-mussel-proteins.html",
-      "date": "2026-07-15 14:20",
-      "summary": "Pancreatic cancer is considered one of the deadliest cancers because it is often diagnosed late and is difficult to treat. However..."
+      "title": "What does it mean to feel hot? New research argues temperature is a matter of power",
+      "link": "https://phys.org/news/2026-07-hot-temperature-power.html",
+      "date": "2026-07-15 16:00",
+      "summary": "On a summer day in Nashville, one person escapes the heat in an air-conditioned office while another delivers packages in a metal ..."
     },
     {
-      "title": "Seals filter sound through blood-filled tissue to hear underwater, study reveals",
-      "link": "https://phys.org/news/2026-07-filter-blood-tissue-underwater-reveals.html",
-      "date": "2026-07-15 14:10",
-      "summary": "The secret of how seals can hear in air and water has been revealed, thanks to pioneering research led by Natural History Museum s..."
+      "title": "New study reveals what drives the evolution of remarkable eyes in deep‑sea hyperiid amphipods",
+      "link": "https://phys.org/news/2026-07-reveals-evolution-remarkable-eyes-deepsea.html",
+      "date": "2026-07-15 16:00",
+      "summary": "Hyperiid amphipods are a small but anatomically diverse group of shrimp-like crustaceans with remarkable adaptations for life in t..."
     },
     {
-      "title": "Metallic waves on ancient Mars",
-      "link": "https://phys.org/news/2026-07-metallic-ancient-mars.html",
-      "date": "2026-07-15 14:10",
-      "summary": "The European Space Agency's Mars Express has spotted a swath of metallic-looking waves filling Mars's large Kaiser Crater—an ancie..."
+      "title": "Sensitive measurements uncover dual superconducting states in atom-thin NbSe₂ and TaS₂",
+      "link": "https://phys.org/news/2026-07-sensitive-uncover-dual-superconducting-states.html",
+      "date": "2026-07-15 15:40",
+      "summary": "A new study reveals that two widely studied ultrathin superconducting materials are more sophisticated than they appear. Although ..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "DSE candidates overcome physical challenges to achieve hard-earned results",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3360716/dse-candidates-overcome-physical-challenges-achieve-hard-earned-results?utm_source=rss_feed",
+      "date": "2026-07-15 15:18",
+      "summary": "While a score of seven points out of a maximum of 42 in Hong Kong’s Diploma of Secondary Education (DSE) exams might seem low to s..."
+    },
+    {
       "title": "CUHK launches first cross-border clinical trial centre in Nansha",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3360710/cuhk-launches-first-cross-border-clinical-trial-centre-nansha?utm_source=rss_feed",
       "date": "2026-07-15 14:03",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3360704/claim-fire-alarms-would-not-have-saved-lives-tai-po-blaze-draws-rebuke?utm_source=rss_feed",
       "date": "2026-07-15 13:12",
       "summary": "Residents of Hong Kong’s blaze-ravaged Wang Fuk Court would still have died even if the housing estate’s fire alarms had been work..."
-    },
-    {
-      "title": "Former Hong Kong law student gets nearly 3 years after riot acquittal overturned",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360694/former-hong-kong-law-student-gets-nearly-3-years-after-riot-acquittal-overturned?utm_source=rss_feed",
-      "date": "2026-07-15 12:59",
-      "summary": "A former law student has been jailed for nearly three years for taking part in a riot during the 2019 anti-government protests in ..."
     }
   ]
 }
