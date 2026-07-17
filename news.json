@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "How an influx of salt may affect microbial ecosystems",
+      "link": "https://news.mit.edu/2026/how-influx-salt-may-affect-microbial-ecosystems-0717",
+      "date": "2026-07-17 09:00",
+      "summary": "As sea levels rise and saltwater seeps into freshwater, stressed aquatic populations may retain overall growth even as diversity d..."
+    },
+    {
       "title": "For energy systems that power a reliable grid, the future is all about location",
       "link": "https://news.mit.edu/2026/energy-systems-reliable-grid-future-is-about-location-0716",
       "date": "2026-07-16 09:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/3d-printed-bridge-points-to-greener-construction-0715",
       "date": "2026-07-15 17:00",
       "summary": "MIT researchers developed a framework that folds a printer’s real-world limits into the optimization, while revealing that better ..."
-    },
-    {
-      "title": "Electric fields help guide neural activity, even from moment to moment",
-      "link": "https://news.mit.edu/2026/electric-fields-help-guide-neural-activity-0715",
-      "date": "2026-07-15 16:25",
-      "summary": "A new study adds evidence that electric fields in the brain help to organize and shape underlying neural activity via “ephaptic co..."
     }
   ],
   "Harvard Gazette": [
@@ -77,16 +77,16 @@
       "summary": "Baseball: Stanford slugger Rintaro Sasaki of Japan to join Marlins: source  Japan Wire by Kyodo News..."
     },
     {
-      "title": "Stanford Study Estimates $8.2 Million From Suspected Polymarket Bitcoin Trading Activity - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWTVZX0Jsa2hCSWpveGN5LXoxbXdGcTdNdGlzQ3lheFNfTTlvZzYzbk0tR24tR3AySDM2amRZZ1Noei1Jb3ozYVExYTFIRGR1VlZFdmEtUnpXclpzdHVBMnpLWm1GUmNMSXhkVTl1YlBjcWtFTGRkNm1xbUlZZTRuckR4UVFfSkREY2lMblJHOTFQVnJxQUd2X3lDWU5zUnJHQUVQTmZPQmhXZ2Ryc3k2cXY4Qi0tOWxXQmQyUDRsZ084WjR1aGNlakh1MkJDbTk4UzN2TUZpRDlrbVd6M1JMUg?oc=5",
-      "date": "2026-07-16 17:35",
-      "summary": "Stanford Study Estimates $8.2 Million From Suspected Polymarket Bitcoin Trading Activity  TradingView..."
-    },
-    {
       "title": "A woman with a Stanford PhD in mathematics has been claimed to have cracked the lottery algorithm after w - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQSGNVSUkwaHNiNUNKa2JMaXZmbkhQcnhxem5sOW5iRjBFNllnS1NhUnhXbzdKNHZpWVlpa3M3d3dDbW9KQ1FfU1gtcUUwcGY1RzFaM0NRd09WbWtDMGxRak4wTERCWFE3ZlB3RWsyMVI0ZTdmaGRzUWRnWXE5Qk03cU1kRXZmeExjX1J4VnoyT25fZlltdVJMS3BpR3NnaFN5emxLTks1Q09OUHhpaUJzM1MzV1FfUU1mYWhEQ3pqLXRwT1lLNnI3XzlOSDdHZU5LLVBzTFU1OFdHSjByTTVOWTdZVldWWXlwOUpDekhDRl9SX213VEp2WGRLMVpOd2dyYzFqLU5LbEJxZjBmLWdoV3dyZ0ZGOExQZTFSQnhkUVhvRndpczJqZ1R3dHowYUdwQUsxVGVwR3VmeGRHVkI2UHdxa2RLSnBJcnZTMVd3aTBGRjYzRms3RVFlQlYxQdIB4wJBVV95cUxPTVQtYjFUQW5oQXh0WHdZZWNmNzlFSkhkZ3hGN2RtREhkUVZXQTdLUUxqZFFkeG1UamFSWGl1R3dkYlZiVXZfWkdzTDFiV1pvTF9oOW1uNnJIZ0hRRU53RGltcFliZFBXaHBnYjhPQ2lyanA4UURBS2FCRUxPdTlFM1BWeUhUbGNKQ3A2ZTlaNVUxb3dZemJfXzQyUl9YcGNRTXJLRHJZUVBwYlF0S2d3M016RHhUUEx1aVE0dURUM0tuNVJxN0g0dGFUOXlhN2hucWxwT0hTdVRZUlJhRHB1bERqdHVNLTkwbzFJNHdsYjVwcFEydGdJelU1ZHdUXzlUa0cwVVQ2MWloam1Ram1vUF9OUUp1ODJISURhY01sRkpOamZsS0x0VzNiQ0xLOUc3QTlSbUJKM28xdDFpR1k5Z3BGQU9hY1owN1g2ZnU3SmNyNUVTTjJESU9YZUljVENGUUlR?oc=5",
       "date": "2026-07-16 10:55",
       "summary": "A woman with a Stanford PhD in mathematics has been claimed to have cracked the lottery algorithm after w  The Times of India..."
+    },
+    {
+      "title": "Stanford Study Estimates $8.2 Million From Suspected Polymarket Bitcoin Trading Activity - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWTVZX0Jsa2hCSWpveGN5LXoxbXdGcTdNdGlzQ3lheFNfTTlvZzYzbk0tR24tR3AySDM2amRZZ1Noei1Jb3ozYVExYTFIRGR1VlZFdmEtUnpXclpzdHVBMnpLWm1GUmNMSXhkVTl1YlBjcWtFTGRkNm1xbUlZZTRuckR4UVFfSkREY2lMblJHOTFQVnJxQUd2X3lDWU5zUnJHQUVQTmZPQmhXZ2Ryc3k2cXY4Qi0tOWxXQmQyUDRsZ084WjR1aGNlakh1MkJDbTk4UzN2TUZpRDlrbVd6M1JMUg?oc=5",
+      "date": "2026-07-16 17:35",
+      "summary": "Stanford Study Estimates $8.2 Million From Suspected Polymarket Bitcoin Trading Activity  TradingView..."
     },
     {
       "title": "Stanford Board of Trustees elects four new members - Stanford Report",
@@ -173,10 +173,10 @@
       "summary": "Twenty-nine countries sign agreement to establish global AI cooperation body  Reuters..."
     },
     {
-      "title": "Meta Used AI to Target Workers With Medical Conditions for Layoffs, Lawsuit Claims - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT0hTcENhSXN2aXZBOEJXTVZTYWVocnRwUGVBLVdHdmpxcUJrNEVDZE1NUTVSZ2E2X2tUYlYwSXVwN1ExZmVadjYwdG5sM255Qk02MTFvTU1JMGtmUXNob0t4Vl8zaU10aDN3bkNSbEZWTkk1dGVxRGhMSFQ0WEx4QXlQVU9rQXZnZ05EWFhNS1BDcWxpU3FkUVkzck9CRGJWOTBxai1oR25zUlJJbDhJREo0cERWZFZWaC1xSXA4djhLX3FadE82dTh4UzBjNFVUenpLbzdTSlIxR3dLakNWbEI0Qm1RMzdYYjEw?oc=5",
-      "date": "2026-07-14 16:37",
-      "summary": "Meta Used AI to Target Workers With Medical Conditions for Layoffs, Lawsuit Claims  U.S. News & World Report..."
+      "title": "EXCLUSIVE: Indonesia's copyright rewrite puts Google, AI platforms on notice - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkowc3QtZ1pWX1JNa3Y1Q25uMk1xRGRUemxObDBhQ1lQRm1XVVFDWHhvZDdqZmJrZU9ZSkdZYXhkMkNtUl9GLVlkRVZQZWlCWktpOHFCNUZqUDlWZDluSDN1dmhhVkhsMlMxNHNxci1vQXZ0Vk1vWGQ1aWN4a3hSR2lpYmdPRi0xemdDSHJNQ2NuNmNOVmc2M25sV3RvRlpNLVJkYVp4M1M4X3E4LUVxRW14dw?oc=5",
+      "date": "2026-07-17 10:09",
+      "summary": "EXCLUSIVE: Indonesia's copyright rewrite puts Google, AI platforms on notice  Reuters..."
     },
     {
       "title": "China's Moonshot unveils world's largest open AI model, closing in on US rivals - Reuters",
@@ -193,10 +193,22 @@
   ],
   "MIT Tech Review": [
     {
+      "title": "There’s a lot of hype around perimenopause. Don’t buy it. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckFmZVhUSUx0aE1oZi1BSlpXeU5VekwzWWp3aFdkYzFpSjVxYXgwYVllMEdtSU5iM3lvZnJkdDFDX0s4VGc0N05teFVPQ0dZUFBsdkFBN2dzLXktMEdmSE1OOWpsMzFpdElOSWdLcEpvLU1RVXlyb0ZRdkNPdnNKUkpxUmg3Yl9VcTBRRlhvQkxmMzdLS2RyXzZpZXVobFkzX2gtQjJFUXVKUdIBrwFBVV95cUxNN0kxWjE0emhHdkdpX0V0LXdRWXlQQThGS2FrMnZBTktpMThFT2w2V0ZuVG5BZjBVVTgyMVBRcno2cF9TQVFuUkRCaFhVMW5vaXQ4MXF3azRyOTU3YktkcVlXLXd0d3FEdkFIUG1PaUM1Z0lwUy1oSWx0bU1OVW9Xb3QxRnNvcEFJMkJydExJSXJ4WmZiRXNyOFZQbE96NWpEYUNSa3hqc3lCelduaFZB?oc=5",
+      "date": "2026-07-17 09:00",
+      "summary": "There’s a lot of hype around perimenopause. Don’t buy it.  MIT Technology Review..."
+    },
+    {
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV04xbFRXMFBkWFJ5X3pobThNNmIwNW93RERIMTRKSEJSYThfY3JiNGU4WE5sZXRfUm1CbWVyVFJVVVJ6THEyY0FfdHBSb2lyLUtQOGk4aVRmNFNWd29odzlDbzk0emtfeWlLM2ZYOHBTSDNReXg5UUtvRE81TUJ3S2RDazhvTFN2Vm8wZkxEVEZZR1F2UUkteTJIZ3c5OWdIUFBJZjhpcWxtaHlub3fSAbMBQVVfeXFMTldHYkFfc3RVLTdKNzFPZDFiak9aV0JMN2JoSlpMdHZrejlWVzBWUTNMYlZSTG02M2RpeHV5SGtNZk83UWllRTg0NVUtaGZDY3F5TVMwRy1fd081WDM2eVNWVlU3VEZEbEs1RDFlbndKZndBY1hTQ0U2OWxkUzdKcmtFOHVCeDNnMks1R0UtQ1JaaG9PS1E1OEppemx3dzdIemNneFNDQi1SbHBMNnkxYWFUUm8?oc=5",
       "date": "2026-07-13 18:00",
       "summary": "What Anthropic’s latest AI discovery does—and doesn’t—show  MIT Technology Review..."
+    },
+    {
+      "title": "The risk of weather data sabotage is rising - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xZmxoNVQyZloyTFU0UWR0ZWc2dmR4NUFJRE1NWGpZS2c2aGJneG1QdVNPWHVGbUhSV0xrempEZ1E1R3pHNmFLQTBvSFQ3U2NqVE43MlBMcmR4Vlppd254MWtJS0xxZzRfQ3l0eDBjdmdrVjVSZm9kUVRobF9UTEk?oc=5",
+      "date": "2026-07-17 08:57",
+      "summary": "The risk of weather data sabotage is rising  MIT Technology Review..."
     },
     {
       "title": "PsiQuantum has a plan to make a massive quantum computer out of light - MIT Technology Review",
@@ -209,53 +221,47 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaEZNa3ZZZUpGMGRLajIyY2pLTjduZmhTVHp1Q0VkNEl0X0lGVUs3aXRfb1lrRjlWSS1IckF0MV80X0Rxb2o0MU1VbU8zVVlNMElnOWhjdGp4Zlp3ZkRuOGlodnpwZmhJOWpvYnB6WVd0OXhnR2J1MHlFWUZ0ZlJ1cUpWTjFkMU1qV0JzZFBDZUVMRTFoVzhSZWNRWXZVTFdxRk1HMFhUYlpRQkRNdnZGNWFiS0h5VVFCNlNzMlRrdV_SAcYBQVVfeXFMTWtlMlUwMFM4STZCMTRXVlg5VngxWU04cVRndWRmdlRhWTM3aV9ZUHB1TFNSa0hpTmpQUFltTTc4ZGhFMFhNNTVYdGRHLTRFbUo3Qm9JaE8xZGktVTh2LUhGMU55QWQ0WWRmY1NSdm45a0JWbXptZ0NBYWgzTV9UQ0N0ZzBveUVoQ2VRZnc4V3VCYTMyUlVhSk9sMG1xR1hYMnZLUmUzbmZZOFllQ1dET1FTTHRCMGpIQWhtQXRqSmtYZWdBS2R3?oc=5",
       "date": "2026-07-15 17:09",
       "summary": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer  MIT Technology Review..."
-    },
-    {
-      "title": "Why heat pumps are still so hot in the US - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Dc0ZJeFFLbGp6WE1pMmVtMW9sRVFTNzFjMVRCRFpPVHQ1ZEtta3g0YmcwM2ZReFRsbFNIZk0yX1c0RXNrR1I2V1phM2E4OTVmRU5fSDN6dnlEZWw4Y1duWUJBZEt3a205RjNRMzRvTGxpaWRMZHBvRWNJWdIBgAFBVV95cUxQQUZNOHVaOV9qT1ZrQXl6aGhOWUlMLXRsTVNvUmFtVDBFUjVfTnBNMjZGdnNhVGhRcTZyZ0NHWHRzeFZDTXZtOVE5VWpId1Jpa1J4Y3o4Uml4MlRmQmhOVGxzNHh3cllUWWo5WUVxbWtoWTNBZXBNdGhZTWFVUDRfYw?oc=5",
-      "date": "2026-07-16 10:00",
-      "summary": "Why heat pumps are still so hot in the US  MIT Technology Review..."
-    },
-    {
-      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2xqazNBZjZ5ZS1VXzh4X3NhR3BpN2VGM0pyd3NRbnFDOHVueG1VQ3RKeFlId01JTFRWcXY5dnpTdG5oUEVZTTRFR2xMLW5OXzMybk1MMmF3a2RSUzV5My1Dc3ZyalFKT3FUUklhYnhQVUNMR0h3b2RZbXBObWxhbmw5SmRNRlk4SnFmMGFCdHRGZ3hkYjN4S050bXAzUnhuTzNKUmxB0gGrAUFVX3lxTE40Mng5RnV0UmhiZnphSG5ieDR2c1RfMHcyUE0yNDlxZFdBSlg3czI1cmEyRlVDOHhnYXZuZndwRnJ1TTB0dzhMOFY2Y1NXSzF3RWJZSGt3OHpKcDBJdU52T3VPem00NXpMdDdxRHdXTmZrM3hfdHc0cHNlMnJhWnZsLUc4WVBwRkVHc3lCeFNxaGc1emhNaWZxSHRLN0ZEMWdfYURfRF95emNiVQ?oc=5",
-      "date": "2026-07-15 12:10",
-      "summary": "The Download: a useful quantum machine and a record-breaking subsea tunnel  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "At least 12,000 excess deaths in Europe's June heat wave",
+      "link": "https://phys.org/news/2026-07-excess-deaths-europe-june.html",
+      "date": "2026-07-17 10:29",
+      "summary": "At least 12,000 excess deaths were recorded across nine European countries during June's heat wave, national statistics indicated,..."
+    },
+    {
+      "title": "With climate ambitions in question, EU reforms carbon market",
+      "link": "https://phys.org/news/2026-07-climate-ambitions-eu-reforms-carbon.html",
+      "date": "2026-07-17 10:00",
+      "summary": "The European Union on Friday unveils reforms to its carbon market after fierce wrangling among countries, industry and activists o..."
+    },
+    {
+      "title": "Wildfire smoke makes air unhealthy from the US Midwest to East Coast. Officials say stay inside",
+      "link": "https://phys.org/news/2026-07-wildfire-air-unhealthy-midwest-east.html",
+      "date": "2026-07-17 09:20",
+      "summary": "Heavy, pungent wildfire smoke darkened skies in the U.S. on Thursday from the Great Lakes to parts of the East Coast, reducing vis..."
+    },
+    {
+      "title": "SpaceX Starship launch aborted on the pad at the last moment",
+      "link": "https://phys.org/news/2026-07-spacex-starship-aborted-pad-moment.html",
+      "date": "2026-07-17 09:07",
+      "summary": "SpaceX's mega Starship rocket came within a second or so from blasting off on a test flight Thursday, but some of the engines fail..."
+    },
     {
       "title": "Bones reveal ancient Egyptian princesses born 4,000 years ago used weapons",
       "link": "https://phys.org/news/2026-07-bones-reveal-ancient-egyptian-princesses.html",
       "date": "2026-07-17 04:00",
       "summary": "For decades, scientists have disputed the meaning of the weapons found in the burial chambers of some ancient Egyptian princesses...."
-    },
-    {
-      "title": "EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns",
-      "link": "https://phys.org/news/2026-07-eu-ai-guardrails-absorb-rapid.html",
-      "date": "2026-07-17 03:20",
-      "summary": "\"Guardrails\" built by the EU to govern AI fall short in both ambition and execution and have become too heavy to absorb rapid chan..."
-    },
-    {
-      "title": "Golf generates nearly €630 million in societal benefits in Finland",
-      "link": "https://phys.org/news/2026-07-golf-generates-million-societal-benefits.html",
-      "date": "2026-07-17 02:20",
-      "summary": "A new study published in Frontiers in Sports and Active Living shows that Finnish golf players spend approximately €330 million on..."
-    },
-    {
-      "title": "UN report offers roadmap for sustainable blue economies",
-      "link": "https://phys.org/news/2026-07-roadmap-sustainable-blue-economies.html",
-      "date": "2026-07-17 01:40",
-      "summary": "A new United Nations report co-authored by researchers at the University of Portsmouth provides governments with a practical roadm..."
-    },
-    {
-      "title": "PathSay Project uses AI to cross language barriers",
-      "link": "https://phys.org/news/2026-07-pathsay-ai-language-barriers.html",
-      "date": "2026-07-17 01:00",
-      "summary": "Thousands of the world's languages remain largely invisible to modern translation technology, but researchers and students at Brig..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "The school holidays are here – let’s play ‘arguing over screen time’: the Stephen Collins cartoon",
+      "link": "https://www.theguardian.com/lifeandstyle/picture/2026/jul/17/wars-over-screen-time-stephen-collins-cartoon",
+      "date": "2026-07-17 09:30",
+      "summary": "Continue reading......"
+    },
     {
       "title": "‘I’m sorry but I’m unable to speak’: hero of India’s Cockroach party weakens on 19th day of hunger strike",
       "link": "https://www.theguardian.com/global-development/2026/jul/17/indian-protester-hunger-strike-modi-government-sonam-wangchuk",
@@ -279,44 +285,38 @@
       "link": "https://www.theguardian.com/education/2026/jul/15/prof-evelyn-welch-arts-humanities-cuts-absolutely-tragic",
       "date": "2026-07-15 17:49",
       "summary": "Exclusive: Prof Evelyn Welch, vice-chancellor of Bristol University, believes her daughter’s success shows value of arts education..."
-    },
-    {
-      "title": "Students and recent graduates: tell us your best and worst experiences of uni societies",
-      "link": "https://www.theguardian.com/education/2026/jul/15/students-and-recent-graduates-tell-us-your-best-and-worst-experiences-of-uni-societies",
-      "date": "2026-07-15 14:31",
-      "summary": "We would like to hear about the highs and lows of university clubs and societiesAs a new academic year approaches, we would like t..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "SCMP multimedia series traces causes, failures and human toll of Tai Po blaze",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3360962/scmp-multimedia-series-traces-causes-failures-and-human-toll-tai-po-blaze?utm_source=rss_feed",
+      "date": "2026-07-17 09:46",
+      "summary": "The South China Morning Post has documented Hong Kong’s deadly Tai Po blaze in a series of multimedia projects, from detailing the..."
+    },
+    {
+      "title": "Jury rules baby died of natural causes despite nurse’s error in medical tube check",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3360952/jury-rules-baby-died-natural-causes-despite-nurses-error-medical-tube-check?utm_source=rss_feed",
+      "date": "2026-07-17 09:27",
+      "summary": "The Coroner’s Court has ruled that a premature baby born at a Hong Kong public hospital died of natural causes, after an inquest i..."
+    },
+    {
+      "title": "Ex-primary school IT technician jailed 11 years for molesting 3 boys on campus",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360939/ex-primary-school-it-technician-jailed-11-years-molesting-3-boys-campus?utm_source=rss_feed",
+      "date": "2026-07-17 08:59",
+      "summary": "A former Hong Kong primary school IT technician has been sentenced to 11 years in jail after he admitted to repeatedly molesting t..."
+    },
+    {
+      "title": "5 Hong Kong booksellers arrested for alleged sedition released on bail",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360934/five-hong-kong-booksellers-arrested-alleged-sedition-released-bail?utm_source=rss_feed",
+      "date": "2026-07-17 08:14",
+      "summary": "Five Hong Kong booksellers arrested on suspicion of sedition have been released on bail two days after national security police ra..."
+    },
     {
       "title": "Hong Kong passes bill for Huanggang ‘co-location’ arrangement",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3360923/hong-kong-passes-bill-huanggang-co-location-arrangement?utm_source=rss_feed",
       "date": "2026-07-17 07:43",
       "summary": "Hong Kong’s legislature has passed a bill providing the legal basis for implementing a “co-location” arrangement at the upgraded H..."
-    },
-    {
-      "title": "Boy, 14, arrested after allegedly knocking classmate unconscious",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360916/boy-14-arrested-after-allegedly-knocking-classmate-unconscious?utm_source=rss_feed",
-      "date": "2026-07-17 07:10",
-      "summary": "Hong Kong police have arrested a 14-year-old boy on suspicion of wounding for allegedly shoving a classmate who was later sent to ..."
-    },
-    {
-      "title": "Some workers seek to quit smoking as ban on Hong Kong construction sites kicks in",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3360896/some-workers-seek-quit-smoking-ban-hong-kong-construction-sites-kicks?utm_source=rss_feed",
-      "date": "2026-07-17 05:23",
-      "summary": "Some Hong Kong workers have said they intend to quit smoking as a new ban on smoking at construction sites came into force on Frid..."
-    },
-    {
-      "title": "Chinese scientist’s sodium battery leap; petition to boot Argentina: SCMP’s 7 highlights",
-      "link": "https://www.scmp.com/news/china/article/3360888/chinese-scientists-sodium-battery-leap-petition-boot-argentina-scmps-7-highlights?utm_source=rss_feed",
-      "date": "2026-07-17 04:34",
-      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that reson..."
-    },
-    {
-      "title": "Hong Kong taxi driver dies after crashing into railing in Tsuen Wan",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3360872/hong-kong-taxi-driver-dies-after-crashing-railing-tsuen-wan?utm_source=rss_feed",
-      "date": "2026-07-17 03:26",
-      "summary": "A Hong Kong taxi driver has died after his vehicle crashed into a railing in Tsuen Wan.\nAccording to police, the accident happened..."
     }
   ]
 }
