@@ -39,16 +39,16 @@
       "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
-      "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRCNE1YZ0h5NkU4MmtrUnh5TmcyWlVoZHBJN25nR1FUUjByVmxENDZsMmxuMWRVajhKV1FPb1owUWRDay1lQk53TzMyQUo2RmRSczdJOC1Lb0wtQmJScFFtZU9kN3A1MFdCNjMxNXhsVDRDZ3hHbWZwTjdYcjBxcXNXZ182MVlqN0dvTEgycW5NaC0ybWl0eHJuRjBla3JKemc?oc=5",
-      "date": "2026-05-26 07:00",
-      "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
-    },
-    {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+    },
+    {
+      "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRCNE1YZ0h5NkU4MmtrUnh5TmcyWlVoZHBJN25nR1FUUjByVmxENDZsMmxuMWRVajhKV1FPb1owUWRDay1lQk53TzMyQUo2RmRSczdJOC1Lb0wtQmJScFFtZU9kN3A1MFdCNjMxNXhsVDRDZ3hHbWZwTjdYcjBxcXNXZ182MVlqN0dvTEgycW5NaC0ybWl0eHJuRjBla3JKemc?oc=5",
+      "date": "2026-05-26 07:00",
+      "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
     },
     {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
@@ -57,10 +57,10 @@
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     },
     {
-      "title": "Building useful quantum computers ‘in our direct line of sight’ - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVTaks1M3hnTmdhM2RoY2VlV25vcFplRHdpSTFQcEtydGhpd29yVXo4UnIxZTZxLXp5UDc1eWJkYkFxVmtwMGJNQmh4TlBrS1FWbHV0WVRLd0tlYnZGTkRfd2xHdTNNME80R0FiQWZyekpPWjRSOW9FTVhGTFA3ZTJZNW93SHJCSW9fdGp6OUNIV25fY0Z4dTlGS05LVkdIUl9OaWxYb2ZYdnExSFE?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Building useful quantum computers ‘in our direct line of sight’  Harvard Gazette..."
+      "title": "The questions that keep scientists up at night - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
+      "date": "2026-04-07 07:00",
+      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -225,6 +225,12 @@
   ],
   "Phys.org": [
     {
+      "title": "Study finds high school track experience gives baseball players an edge MLB teams overlook",
+      "link": "https://phys.org/news/2026-07-high-school-track-baseball-players.html",
+      "date": "2026-07-17 22:40",
+      "summary": "A new study by a University of Florida sport management professor and colleagues challenges long-held assumptions about how young ..."
+    },
+    {
       "title": "Tuberculosis drug discovery gets smarter with AI",
       "link": "https://phys.org/news/2026-07-tuberculosis-drug-discovery-smarter-ai.html",
       "date": "2026-07-17 21:40",
@@ -247,12 +253,6 @@
       "link": "https://phys.org/news/2026-07-fatal-car-day-major-mass.html",
       "date": "2026-07-17 19:20",
       "summary": "Mass shooting incidents and car crashes may seem like two unrelated incidents, but a recent study has uncovered that there might b..."
-    },
-    {
-      "title": "How Gravity from Entropy theory connects the second law of thermodynamics with the emergence of cosmic structure",
-      "link": "https://phys.org/news/2026-07-gravity-entropy-theory-law-thermodynamics.html",
-      "date": "2026-07-17 19:00",
-      "summary": "A new study by Queen Mary University of London mathematician Professor Ginestra Bianconi proposes a new perspective on one of the ..."
     }
   ],
   "The Guardian Edu": [
