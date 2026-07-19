@@ -161,16 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "Xi pitches China as leader of new global AI order, challenging US dominance - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVpoVTlwUHY0LXNXd19nbFlNWVZoWDdQeVVFSi1ISkZzYVI1YUlzQTR6OXd3XzNhWDhsaTRkdnByczNqMlE4bm1JTHhyaEk2VXhrUDRFdmVjdHN3RW9FZU1OTW5aMnMzTmk1VW5sMUNGTkhYYVc1LUN5bUJJWkNBdUJFSU0wNUZyMDdtZklkRkJPLXBTRlhHQmZ1S1dQSVdTZ3l4OC13TE5aVWNBSUZfeHpfRVRwTG9hdzFKWkdVa2RfaVoxeWpr?oc=5",
-      "date": "2026-07-17 19:57",
-      "summary": "Xi pitches China as leader of new global AI order, challenging US dominance  Reuters..."
-    },
-    {
       "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift - Reuters",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5",
       "date": "2026-07-17 20:32",
       "summary": "Apple unseats Nvidia to become world's most valuable company as AI bets shift  Reuters..."
+    },
+    {
+      "title": "Xi pitches China as leader of new global AI order, challenging US dominance - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVpoVTlwUHY0LXNXd19nbFlNWVZoWDdQeVVFSi1ISkZzYVI1YUlzQTR6OXd3XzNhWDhsaTRkdnByczNqMlE4bm1JTHhyaEk2VXhrUDRFdmVjdHN3RW9FZU1OTW5aMnMzTmk1VW5sMUNGTkhYYVc1LUN5bUJJWkNBdUJFSU0wNUZyMDdtZklkRkJPLXBTRlhHQmZ1S1dQSVdTZ3l4OC13TE5aVWNBSUZfeHpfRVRwTG9hdzFKWkdVa2RfaVoxeWpr?oc=5",
+      "date": "2026-07-17 19:57",
+      "summary": "Xi pitches China as leader of new global AI order, challenging US dominance  Reuters..."
     },
     {
       "title": "EXCLUSIVE: Indonesia's copyright rewrite puts Google, AI platforms on notice - Reuters",
@@ -187,7 +187,7 @@
     {
       "title": "China's Moonshot unveils world's largest open AI model, closing in on US rivals - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFBidnJRbHRkSDh4WXNUVlBOY1VmZ3NCSlRhQzEwZWY3dGJfeXlMQ1FWN1FheElOWU0wdFBJZ2p0Y0VDSnd2RDlDSExSQ3lOb19UYkc4Q0d6UEtsQzN4TWg2LWtianhwbEgtZmR4OWs4QU9QbjM3RkJqNHI2TmgzRVRxcXhuRlE4ZHdlRFRvNlBvWUxYUkFQRmZ1Y3NaeWh1V0swM2NHaW5NcEg2UGdiOHFMMzN4bGMweVE?oc=5",
-      "date": "2026-07-17 08:11",
+      "date": "2026-07-17 09:20",
       "summary": "China's Moonshot unveils world's largest open AI model, closing in on US rivals  Reuters..."
     }
   ],
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong tourist left in coma after quad bike accident in Japan",
+      "link": "https://www.scmp.com/news/hong-kong/article/3361122/hong-kong-tourist-left-coma-after-quad-bike-accident-japan?utm_source=rss_feed",
+      "date": "2026-07-19 15:39",
+      "summary": "An elderly Hong Kong tourist has been left in a coma after falling from a quad bike in Japan.\nThe Immigration Department said on S..."
+    },
+    {
       "title": "Is the end of US sanctions on some Hong Kong officials an olive branch?",
       "link": "https://www.scmp.com/news/hong-kong/politics/article/3361121/end-us-sanctions-some-hong-kong-officials-olive-branch?utm_source=rss_feed",
       "date": "2026-07-19 14:52",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3361112/hong-kong-tighten-contractor-oversight-after-tai-po-blaze-minister-vows?utm_source=rss_feed",
       "date": "2026-07-19 11:41",
       "summary": "Hong Kong’s development minister has vowed to tighten monitoring of contractors and explore harsher penalties for industry miscond..."
-    },
-    {
-      "title": "Hong Kong can serve as a ‘launch pad’ for AI firms, finance chief Paul Chan says",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361110/hong-kong-can-serve-launch-pad-ai-firms-finance-chief-paul-chan-says?utm_source=rss_feed",
-      "date": "2026-07-19 11:26",
-      "summary": "Hong Kong should serve as a hub for the commercialisation of artificial intelligence and as a strategic base for mainland Chinese ..."
     }
   ]
 }
