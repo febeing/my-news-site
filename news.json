@@ -1,4 +1,36 @@
 {
+  "MIT News": [
+    {
+      "title": "How an influx of salt may affect microbial ecosystems",
+      "link": "https://news.mit.edu/2026/how-influx-salt-may-affect-microbial-ecosystems-0717",
+      "date": "2026-07-17 09:00",
+      "summary": "As sea levels rise and saltwater seeps into freshwater, stressed aquatic populations may retain overall growth even as diversity d..."
+    },
+    {
+      "title": "For energy systems that power a reliable grid, the future is all about location",
+      "link": "https://news.mit.edu/2026/energy-systems-reliable-grid-future-is-about-location-0716",
+      "date": "2026-07-16 09:00",
+      "summary": "MIT researchers find that where new energy projects are built could be key to avoiding blackouts in a future with hotter weather a..."
+    },
+    {
+      "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
+      "link": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
+      "date": "2026-07-16 04:00",
+      "summary": "Researchers developed an automated framework that helps AI models generate CAD programs more accurately and efficiently...."
+    },
+    {
+      "title": "3 Questions: Neural transparency and the future of AI design",
+      "link": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+      "date": "2026-07-15 20:25",
+      "summary": "Assistant Professor Pat Pataranutaporn describes a new interface that lets everyday users glimpse inside an AI's neural network be..."
+    },
+    {
+      "title": "3D-printed bridge points the way to greener construction",
+      "link": "https://news.mit.edu/2026/3d-printed-bridge-points-to-greener-construction-0715",
+      "date": "2026-07-15 17:00",
+      "summary": "MIT researchers developed a framework that folds a printer’s real-world limits into the optimization, while revealing that better ..."
+    }
+  ],
   "Harvard Gazette": [
     {
       "title": "20 societal problems, 20 solutions - Harvard Gazette",
@@ -33,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "Geologists have taught for decades that rivers needed plants to form their distinctive S-shaped meanders, but Stanford University researchers published a study in August 2025 showing that rivers were carving those curves long before vegetation existed on la - Space Daily",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44blRuc0kwNEhTaGpCcG9HSVMxTktKQW9tWUNxbzZwVUtvUEc2XzJqNkl1cUhlUEctalNQaEVGM3lUZnFnUXdOaVh6ZWIzY1dacUhBZ2Q2dDRIRW14bzlCdlpNSFctano2R1FJZjdrXzVqU0FJRlI2eWRGNWdtRlk?oc=5",
+      "date": "2026-07-20 01:46",
+      "summary": "Geologists have taught for decades that rivers needed plants to form their distinctive S-shaped meanders, but Stanford University ..."
+    },
+    {
       "title": "Breakdown of immune cells’ interaction is key driver in aging, study finds - Stanford Medicine",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLRkJkVGRkYWRTaGotQWtTNU1EQU9BU3dKWnJrbjRfanFLMmJWZHVVMVduRVRyM1JxWnpMSWkzNkZQNWw0Y1ZSTjRUZHNGY3RMa2syLTV3TGZEckIzc2MwZENiNjh2NFR3ZEpWSEZjUDBvLThUb0lfT2JR?oc=5",
       "date": "2026-07-16 19:49",
@@ -55,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXNILXdqaTBqa21mU1RmZVR3TTZ0Zm1meEhJNzYxTDdUVHRTY3NsQkpUaXJXR0w3RXBKUWN4U0VjbWswOEVzUmxaNlZuTnVtWVNybDNrSC1NYkRPTFBnVXR4OWFmY2tyeFkzX1lldkE3bHR4V3NjOHdnWjc4UWlEMTc0NC1aXzk2cmw1WHA1RFJyYmFROUJScWl4VQ?oc=5",
       "date": "2026-07-15 19:13",
       "summary": "Pro-Palestinian Stanford University Student Becomes Advocate for Israel  cbn.com..."
-    },
-    {
-      "title": "Michelle Landrey Cline named president of the Stanford Alumni Association - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXpwcURXT2NVd19ubFRuNy1NVXItWmluZEZrSWdna0hZdm0yT2R1OVRqaFRNbUF0VGtkUklfTG1TUENOYVk3dUhsWE96ZnlNSUQxNURWaWRINXhLN1ppaEtDU3UwQ19tYUhzSTZmdkxobTd5ZTQtV0J4ZWFRdUVmR21kZ1c0bjF2WVI2dlNwOS1hNFlNVWwyQWtrWGVWUUZaUFVHVg?oc=5",
-      "date": "2026-07-14 13:07",
-      "summary": "Michelle Landrey Cline named president of the Stanford Alumni Association  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -135,28 +167,28 @@
       "summary": "Apple unseats Nvidia to become world's most valuable company as AI bets shift  Reuters..."
     },
     {
+      "title": "TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWtrc3R6QmdYREpuRHNxR3dFNkJkVjdSMTRYcFhmRHJYQ18yaGFfSHcwbmVKSjZvWVo2M0FqdF9VZkJmbG9CVTVObEZTQ2t1amx5MTlJZ201YWR3cE9IMFNxVTNXdlp6SVV5MnZDLXotWS1EQVFNbUFFV2hZUWJJeUVScVNRaUhjci1zUXJoUTBnMFBkSnFzeWgwWkNpd2FqZ2hZQW14cTNCRDcydkp4X2p2QlYyRWlTRWFISmFoSllBY01OWmNlVWNpamk?oc=5",
+      "date": "2026-07-19 23:57",
+      "summary": "TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment  Reuters..."
+    },
+    {
+      "title": "UK chief financial officers turn more hopeful about AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaG42RUx6ZEtaa0VKSjJ1T2VHTktKOXFVLXZvLWFNTTl3a01zZWVmbDVsWW94aVl0S05JcF9qWTdqMlJWektYNVZMMUR6QWtZdmotaW4wSW0zYWlBN3FWR2FPRkRkd1JZNGNHc3FqbDBiYi1IaGJaUDd1RHNHVnFQM3JsNl9yUGRSN0ZDeTM2bWYwQXUyV24xa29DOFZYLXdi?oc=5",
+      "date": "2026-07-19 23:07",
+      "summary": "UK chief financial officers turn more hopeful about AI  Reuters..."
+    },
+    {
+      "title": "China's Moonshot unveils world's largest open AI model, closing in on US rivals - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFBidnJRbHRkSDh4WXNUVlBOY1VmZ3NCSlRhQzEwZWY3dGJfeXlMQ1FWN1FheElOWU0wdFBJZ2p0Y0VDSnd2RDlDSExSQ3lOb19UYkc4Q0d6UEtsQzN4TWg2LWtianhwbEgtZmR4OWs4QU9QbjM3RkJqNHI2TmgzRVRxcXhuRlE4ZHdlRFRvNlBvWUxYUkFQRmZ1Y3NaeWh1V0swM2NHaW5NcEg2UGdiOHFMMzN4bGMweVE?oc=5",
+      "date": "2026-07-17 09:20",
+      "summary": "China's Moonshot unveils world's largest open AI model, closing in on US rivals  Reuters..."
+    },
+    {
       "title": "Xi pitches China as leader of new global AI order, challenging US dominance - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVpoVTlwUHY0LXNXd19nbFlNWVZoWDdQeVVFSi1ISkZzYVI1YUlzQTR6OXd3XzNhWDhsaTRkdnByczNqMlE4bm1JTHhyaEk2VXhrUDRFdmVjdHN3RW9FZU1OTW5aMnMzTmk1VW5sMUNGTkhYYVc1LUN5bUJJWkNBdUJFSU0wNUZyMDdtZklkRkJPLXBTRlhHQmZ1S1dQSVdTZ3l4OC13TE5aVWNBSUZfeHpfRVRwTG9hdzFKWkdVa2RfaVoxeWpr?oc=5",
       "date": "2026-07-17 02:36",
       "summary": "Xi pitches China as leader of new global AI order, challenging US dominance  Reuters..."
-    },
-    {
-      "title": "Chip stock pullback sparks worries about AI rally strength, leveraged trades - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEpraWR3MkhKa1R0dDlkLTJsYXVWU0NsQjIySnpzcTA1dkFyVGNKcGk0RFNjbmF2dnRQZ2ZnR0lGb2thTEdwb3RLRVQyRWdxYmtFV2QxOVVQcHBocEsxVUoyYnJBa0JlZlBZRkRfY0trdGJnRkFOWEljYXowWWNrLXlVQm1sYkJoT2NzMVlMcDV1cWdDSHRjQUpZalFpdHN5cjZyWkxkOXVDMllxR2RiekFTYw?oc=5",
-      "date": "2026-07-17 20:55",
-      "summary": "Chip stock pullback sparks worries about AI rally strength, leveraged trades  Reuters..."
-    },
-    {
-      "title": "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmJhQmIyVFFQQ2FDdzIwZThieC00dE9yZEZNMVRSb20tRFAxVlZLYURkU1VYMC1ESlpFZ1poUnFoU0hJbno2VEd1VTB4Nl96YThVdTZUcDJiSmhWbFJhc0dzT0xnZE10aW9jZHRhdmRlWEE4cXF1MlNsdjNVTzZEZmtxLUFtLWN3YUJrbVB5eDd0cVkwaGJrTnVuLUwyeTBjUERETjNfMUZ3cWlzTklCeDJOTDd3SnVYaGNuUQ?oc=5",
-      "date": "2026-07-17 10:04",
-      "summary": "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up  Reuters..."
-    },
-    {
-      "title": "Twenty-nine countries sign agreement to establish global AI cooperation body - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGF5ME1YRmJSTE42TWVWMDUyc1NkMlA2QVQxVlN6dkZuenF4RFcxSFlhUXk3eVZnUWZ3SzdZTDEzbTNVZzJ0NUhadERqUHQ1WmtvSl9aXzE1Qlh3UFdvR3ZXUmJDXzhycGJ0cUdtdXFVUFpzaTNWX3VBemlqUXh3UF95R2k5RTJKbjZFZ09MS3h0TUlnZ3FRMlN2T3lIc19qNGxLcmY1eTJwQVMyb2ZfNk03YjdST2hKRkg1TFFn?oc=5",
-      "date": "2026-07-16 15:23",
-      "summary": "Twenty-nine countries sign agreement to establish global AI cooperation body  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -193,6 +225,24 @@
   ],
   "Phys.org": [
     {
+      "title": "Pittsburgh's new romance bookstores sell more than happily‑ever‑afters",
+      "link": "https://phys.org/news/2026-07-pittsburgh-romance-bookstores-happilyeverafters.html",
+      "date": "2026-07-20 00:30",
+      "summary": "\"I'm looking for a book where …\" has become a defining phrase of BookTok, TikTok's massive community of readers and book influence..."
+    },
+    {
+      "title": "Generating red blood cell-like cells from canine induced pluripotent stem cells",
+      "link": "https://phys.org/news/2026-07-generating-red-blood-cell-cells.html",
+      "date": "2026-07-20 00:00",
+      "summary": "Blood transfusions are crucial in human and veterinary medicine, yet human blood reserves are in constant need of donors, while bl..."
+    },
+    {
+      "title": "Creating a map of coral distribution with environmental DNA",
+      "link": "https://phys.org/news/2026-07-coral-environmental-dna.html",
+      "date": "2026-07-20 00:00",
+      "summary": "To track the impacts of environmental change and enable conservation efforts, we must first understand the composition of our ecos..."
+    },
+    {
       "title": "How the sun goes to 'sleep' could reveal future space weather when it wakes",
       "link": "https://phys.org/news/2026-07-sun-reveal-future-space-weather.html",
       "date": "2026-07-19 23:00",
@@ -203,24 +253,6 @@
       "link": "https://phys.org/news/2026-07-centuries-farming-hunter-fish-norwegian.html",
       "date": "2026-07-19 23:00",
       "summary": "Archaeologists have uncovered the remains of 7,000-year-old fish traps in the mountains of southern Norway, indicating that fish w..."
-    },
-    {
-      "title": "Polish families in Spain navigate cultural identity across generations, study finds",
-      "link": "https://phys.org/news/2026-07-families-spain-cultural-identity-generations.html",
-      "date": "2026-07-19 22:20",
-      "summary": "Emigration often means a profound life upheaval. What challenges do Polish families face after moving to Spain? A researcher from ..."
-    },
-    {
-      "title": "Shared fandom as undervalued social 'medicine' for division, isolation",
-      "link": "https://phys.org/news/2026-07-fandom-undervalued-social-medicine-division.html",
-      "date": "2026-07-19 21:30",
-      "summary": "The state of the American social fabric—enormous, diverse and rent by stark partisan divides—is daunting enough that it can be har..."
-    },
-    {
-      "title": "Dragonfly aerial fights follow some simple rules",
-      "link": "https://phys.org/news/2026-07-dragonfly-aerial-simple.html",
-      "date": "2026-07-19 21:00",
-      "summary": "Dragonflies are renowned for their remarkable flying abilities. Male dragonflies often compete for territory and mating opportunit..."
     }
   ],
   "The Guardian Edu": [
@@ -257,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Dim sum and bubble tea at 3am: football fans pack Hong Kong malls for World Cup final",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361141/dim-sum-and-bubble-tea-3am-football-fans-pack-hong-kong-malls-world-cup-final?utm_source=rss_feed",
+      "date": "2026-07-20 02:04",
+      "summary": "Hong Kong football fans swapped their living rooms for shopping centres to watch the World Cup final, enjoying dim sum, snacks and..."
+    },
+    {
+      "title": "Is Hong Kong doing enough to lose its top spot for expensive housing?",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3360921/hong-kong-doing-enough-lose-its-top-spot-expensive-housing?utm_source=rss_feed",
+      "date": "2026-07-20 01:30",
+      "summary": "Hong Kong has come out on top again, but not in a good way. After earning the distinction of having the highest petrol prices in t..."
+    },
+    {
+      "title": "Hong Kong prepares for sweeping reforms following end of Tai Po blaze inquiry",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3361102/hong-kong-prepares-sweeping-reforms-following-end-tai-po-blaze-inquiry?utm_source=rss_feed",
+      "date": "2026-07-20 00:30",
+      "summary": "Hong Kong authorities are set to roll out sweeping reforms following the conclusion of the investigation into the city’s deadliest..."
+    },
+    {
+      "title": "Red rainstorm warning lowered to amber but unsettled weather to persist",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3361135/hong-kong-issues-red-rainstorm-warning-amid-heavy-showers?utm_source=rss_feed",
+      "date": "2026-07-20 00:11",
+      "summary": "Hong Kong’s weather forecaster downgraded the red rainstorm warning to amber on Monday morning, but warned that unsettled weather ..."
+    },
+    {
       "title": "Hong Kong’s 5-year plan will shore up market with governance and vision",
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3360529/hong-kongs-5-year-plan-will-shore-market-governance-and-vision?utm_source=rss_feed",
       "date": "2026-07-19 21:30",
       "summary": "Hong Kong’s decision to introduce its first five-year plan has prompted familiar questions. Does this signal greater government in..."
-    },
-    {
-      "title": "ASTRI and NAMI merger begins yielding hybrid AI and materials technologies",
-      "link": "https://www.scmp.com/presented/news/hong-kong/topics/astri-merger-drives-hybrid-tech/article/3360639/astri-and-nami-merger-begins-yielding-hybrid-ai-and-materials-technologies?utm_source=rss_feed",
-      "date": "2026-07-19 16:00",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nHong Kong Applied Science and Technology Research Inst..."
-    },
-    {
-      "title": "Hong Kong tourist left in coma after quad bike accident in Japan",
-      "link": "https://www.scmp.com/news/hong-kong/article/3361122/hong-kong-tourist-left-coma-after-quad-bike-accident-japan?utm_source=rss_feed",
-      "date": "2026-07-19 15:39",
-      "summary": "An elderly Hong Kong tourist has been left in a coma after falling off a quad bike in Japan.\nThe Immigration Department said on Su..."
-    },
-    {
-      "title": "Is the end of US sanctions on some Hong Kong officials an olive branch?",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3361121/end-us-sanctions-some-hong-kong-officials-olive-branch?utm_source=rss_feed",
-      "date": "2026-07-19 14:52",
-      "summary": "Washington’s decision to end sanctions on nine Hong Kong and mainland Chinese officials, including Secretary for Justice Paul Lam ..."
-    },
-    {
-      "title": "Online photo of overloaded motorcycle carrying child and 2 riders leads to arrest",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361120/online-photo-overloaded-motorcycle-carrying-child-and-2-riders-leads-arrest?utm_source=rss_feed",
-      "date": "2026-07-19 13:20",
-      "summary": "Hong Kong police have arrested a 37-year-old man after a photo circulating online showed him riding a motorcycle with a young chil..."
     }
   ]
 }
