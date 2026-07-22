@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83",
+      "link": "https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722",
+      "date": "2026-07-22 17:00",
+      "summary": "Known for his clear and elegant writing style, Bertsekas shaped fields from control and optimization to large-scale computation an..."
+    },
+    {
       "title": "Diffuse puffs of “missing” matter surround most galaxies",
       "link": "https://news.mit.edu/2026/missing-matter-diffuse-puffs-surround-most-galaxies-0721",
       "date": "2026-07-21 15:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
       "date": "2026-07-16 04:00",
       "summary": "Researchers developed an automated framework that helps AI models generate CAD programs more accurately and efficiently...."
-    },
-    {
-      "title": "3 Questions: Neural transparency and the future of AI design",
-      "link": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
-      "date": "2026-07-15 20:25",
-      "summary": "Assistant Professor Pat Pataranutaporn describes a new interface that lets everyday users glimpse inside an AI's neural network be..."
     }
   ],
   "Harvard Gazette": [
@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "Stanford, MIT, Carnegie Mellon Lead First-Ever Benchmark of AI Production Capacity Across 50 Global Universities - New 5W AI Communications Report - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWVBwY2Y1eVdtTk9uTXpYcjQ1QVVueGp4azlzSTBFbFZfSldUWHpHYTI3d1JFZF9QZlJmZTlEcklDcnNsdnRQdjFkcGQ4REctY3dJTHN2Slp4azBVd1ZXNVl6Y1MyNF9JTzk5dFhQMDV6VVJOd3FBak0zTGl5cFhQM3hTMkJxUkhETDVSaHptd2NCM0ZOQ1A4UUxzZVNJUFBmSEV3c0N3a09fcWRjVnU5d2x1YjY3bGROWVVOSXZXelBTV0J3VGlzdUUtVTlJb0JhS1hZODRRZ2t4UUVSdmdEYWFOT29ocEphbEh1ZV92NGhsWTEtUTEyOWZCMHNteDhuUjloM1ZXb0FxNVhnZ3ZuWVpZZzVaZVcwMnR4SlFBQjVBVU5pM19yTktnSQ?oc=5",
+      "date": "2026-07-22 18:16",
+      "summary": "Stanford, MIT, Carnegie Mellon Lead First-Ever Benchmark of AI Production Capacity Across 50 Global Universities - New 5W AI Commu..."
+    },
+    {
       "title": "Jessie Ong named Ellison Scholar - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5odGk4NEV0cWwtZzBwaWdvNE5KUG1hWnhQSGxtVGJWSVllMy1iTnVubk15Yzg3ZTdodHRval85aUlDZ1NKLVNKNGo3THdwUEZENjB4dkZ4TzJfSkttSzFxUlVxS0JqT0xucWV6SXJEeC1MRXQzUm0wNnRyQWVJcjQ?oc=5",
       "date": "2026-07-21 17:54",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGZUMWVhdDB3WlU3TVlPbGpxaUpuQXM2VkNqblY1Q0pFYzlycGYxOGhQcGFvUGlnRHFLZEhxcmhOQktPNk5EN2NjZ0lLOUpEXzB5NGxnampsb3dVTzA0bkVVel85WHpTSTJjbGhPMW1sdzJNOFZRRHFJYWNiYkIzU3dWaV9SVTIxY0ZVT1RmUW1vS3pNZGZwQzlDWUFtX09EaThpWDZONU9fU1BhR292R1BGVlVNTjA?oc=5",
       "date": "2026-07-21 08:31",
       "summary": "Ripon High & Stanford University now sharing a common challenge . . .  Manteca Bulletin..."
-    },
-    {
-      "title": "Stanford Professor Will Give Friday Night Talk At MBL - CapeNews.net",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSE1nbDNOM3VuMEZBSGlERzlyVjdld2F6bnlRa294WFFkb2lfWk1SZkozVEJEMU12LU5zZ2JhTUtBWGk5RWgxN2VCUEJxRnctb0dDYVVrZWZvdWpiOC1pRnVJaWx0dDJ1X1pFeE5lM25MYW5vN0IwYW5HbzZ5M21CWXBjOTcxV1E2ekhfWlUzMjBYWU9haDdwX0pVUFU3T0dwc0FWRXYtNU1nSzdlcEd5NENwYVRLN0N5RTRzTU1qazgyNkt5VnRxTVRuSVI3Y0RERDd0dWcxU1RkNWhsaDd5cHMzNGZBZw?oc=5",
-      "date": "2026-07-21 16:00",
-      "summary": "Stanford Professor Will Give Friday Night Talk At MBL  CapeNews.net..."
     }
   ],
   "Nature Careers": [
@@ -187,7 +187,7 @@
     {
       "title": "Amazon cuts jobs in its artificial general intelligence group By Reuters - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcklwdUdoQ2t2c2ZwYVJRS2pYdExtMFBRUUFpSjFYbmVTOFpCbFZZV1NuWmIzWkZxdXhtN3VWX19XVGVpUnUzdzRRckM5bUJOeXlQUFZCSHFtWXNDYlg0ZVhlVzh3UEFSc1hQNE9la3Vma3c4UE5TQUdJWk9ZZ0ViVFRMZ1dWS05uV0dfNFFwc1F3MzNtWmxyUVhUbkg2R0lnMDJjb1prTFN1aVJjdHhYNHUxWDliX1doS2c?oc=5",
-      "date": "2026-07-22 15:33",
+      "date": "2026-07-22 17:59",
       "summary": "Amazon cuts jobs in its artificial general intelligence group By Reuters  Investing.com..."
     }
   ],
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "EU watchdog reduces safe level of exposure to 'forever chemical' TFA",
-      "link": "https://phys.org/news/2026-07-eu-watchdog-safe-exposure-chemical.html",
-      "date": "2026-07-22 17:08",
-      "summary": "The EU's food safety agency said Wednesday it has dramatically reduced the acceptable daily intake level of the so-called forever ..."
+      "title": "Physics-based AI could boost biomedical imaging and autonomous vehicle sensors",
+      "link": "https://phys.org/news/2026-07-physics-based-ai-boost-biomedical.html",
+      "date": "2026-07-22 19:00",
+      "summary": "A research team led by UCLA and the University of Rochester has demonstrated a promising evolution of an imaging system designed t..."
     },
     {
-      "title": "Juno takes temperature of Jupiter's fiery moon Io",
-      "link": "https://phys.org/news/2026-07-juno-temperature-jupiter-fiery-moon.html",
-      "date": "2026-07-22 17:07",
-      "summary": "NASA's Juno mission has provided the first measurements of the temperature below the surface of Jupiter's moon Io, revealing signi..."
+      "title": "Molecular model for semiconductor surfaces developed",
+      "link": "https://phys.org/news/2026-07-molecular-semiconductor-surfaces.html",
+      "date": "2026-07-22 19:00",
+      "summary": "Semiconductor surfaces can generally be studied only with considerable experimental effort, for example, in an ultrahigh vacuum. T..."
     },
     {
-      "title": "The violence link: Animal maltreatment and family violence often happen together",
-      "link": "https://phys.org/news/2026-07-violence-link-animal-maltreatment-family.html",
-      "date": "2026-07-22 17:00",
-      "summary": "For some survivors of intimate partner violence, leaving an abusive relationship might mean facing a difficult choice between prio..."
+      "title": "More connections can deepen polarization when social ties remain weak",
+      "link": "https://phys.org/news/2026-07-deepen-polarization-social-weak.html",
+      "date": "2026-07-22 18:54",
+      "summary": "Social networks, intended to bring people together, can actually increase polarization, new research finds, because while the link..."
     },
     {
-      "title": "Solar-powered process turns CO₂ into protein-building amino acids",
-      "link": "https://phys.org/news/2026-07-solar-powered-protein-amino-acids.html",
-      "date": "2026-07-22 17:00",
-      "summary": "According to United Nations projections, global food demand could increase by around 60% by 2050, while only about 2% of additiona..."
+      "title": "Chemists develop a molecular platform for the selective control of oxygen reaction pathways",
+      "link": "https://phys.org/news/2026-07-chemists-molecular-platform-oxygen-reaction.html",
+      "date": "2026-07-22 18:40",
+      "summary": "Controlling how oxygen reacts is important for improving technologies such as batteries, fuel cells and environmentally sustainabl..."
     },
     {
-      "title": "Engineered enzyme erases a stubborn mark of aging by up to 70% in human tissue samples",
-      "link": "https://phys.org/news/2026-07-enzyme-erases-stubborn-aging-human.html",
-      "date": "2026-07-22 16:40",
-      "summary": "A biotech company called Revel Pharmaceuticals is looking into ways to reverse aging, and the company's science team, along with r..."
+      "title": "France recorded 5,700 more deaths than usual during its historic June heat wave",
+      "link": "https://phys.org/news/2026-07-france-deaths-usual-historic-june.html",
+      "date": "2026-07-22 18:40",
+      "summary": "France recorded at least 5,700 more deaths than usual during a historic heat wave last month, the public health agency said Wednes..."
     }
   ],
   "The Guardian Edu": [
