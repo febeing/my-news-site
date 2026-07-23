@@ -77,16 +77,16 @@
       "summary": "Stanford, MIT, Carnegie Mellon Lead First-Ever Benchmark of AI Production Capacity Across 50 Global Universities - New 5W AI Commu..."
     },
     {
-      "title": "Ben-Gurion University tops Israel in US unicorn-founder odds, Stanford data shows - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00aFNrSW1BZ2Rvd1BDcnNHNVZXcTVpaXZCaWdiTnQ0bE5XTTBiZ2FGMTE1ZGpncnhhLTJYdUVHNmp1YzFYUkl0S3Y2bEpreU1vR3RtOTM1RjVvNVlC?oc=5",
-      "date": "2026-07-22 10:45",
-      "summary": "Ben-Gurion University tops Israel in US unicorn-founder odds, Stanford data shows  The Jerusalem Post..."
-    },
-    {
       "title": "New Stanford lab asks, what could catch us off guard? - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjZ6Z1l5OFFaNDR3SGFveldsaU1BSWxBekluWWZsMTdKZ1FKWWlzSmpma2tVUXRiMEhaME5MMjZtQVJzY3Q4RGFaX2hQMUJLTFZDWk5YbXBnQWJ2RFFaVGVyUUdGOXVYaldua0NXTnQ1TDgyem9ueHd2M09tYWg4ZWdkdmhxbExmYmswalJULVktR3RsaEYwYg?oc=5",
       "date": "2026-07-22 22:55",
       "summary": "New Stanford lab asks, what could catch us off guard?  Stanford Report..."
+    },
+    {
+      "title": "Ben-Gurion University tops Israel in US unicorn-founder odds, Stanford data shows - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00aFNrSW1BZ2Rvd1BDcnNHNVZXcTVpaXZCaWdiTnQ0bE5XTTBiZ2FGMTE1ZGpncnhhLTJYdUVHNmp1YzFYUkl0S3Y2bEpreU1vR3RtOTM1RjVvNVlC?oc=5",
+      "date": "2026-07-22 10:45",
+      "summary": "Ben-Gurion University tops Israel in US unicorn-founder odds, Stanford data shows  The Jerusalem Post..."
     },
     {
       "title": "Computer science enrollment fell for the first time in 20 years after ChatGPT's rise, a Stanford economist says - Business Insider",
@@ -96,6 +96,12 @@
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Could small-team science be dying out?",
+      "link": "https://www.nature.com/articles/d41586-026-02174-4",
+      "date": "2026-07-23 00:00",
+      "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02174-4The proportion of one- and two-author papers in the Nature I..."
+    },
     {
       "title": "Electronic-resonance enhanced molecule for perovskite solar cells",
       "link": "https://www.nature.com/articles/s41586-026-10919-4",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02219-8",
       "date": "2026-07-22 00:00",
       "summary": "Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02219-8Recent breakthroughs suggest usable devices could be here in..."
-    },
-    {
-      "title": "Structures and inhibition of the Crimean–Congo haemorrhagic fever virus polymerase",
-      "link": "https://www.nature.com/articles/s41586-026-10701-6",
-      "date": "2026-07-22 00:00",
-      "summary": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10701-6Structural studies of Crimean–Congo haemorrhagic fever virus..."
     }
   ],
   "Retraction Watch": [
@@ -167,28 +167,28 @@
       "summary": "OpenAI AI models went rogue during testing, triggering 'unprecedented' breach at startup  Reuters..."
     },
     {
-      "title": "AI investment boom puts Big Tech's free cash flow under pressure - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0N0U3lQTE90ZGtaVnkyMy1XSTFSSzB4RUFmT3ptc3pTeDFPZmRpNEpMMVdJVVl6QmhOR3ltZkd0eUR0b2llM3lwamJ3REp6ZjN6VXRxUDNVaTIxVmc5eGJfb2dKXzBLMEg0RC10MTZjaVExZWpDY0JoQlU1NWxkczNJY1Q4cDhfcDF4SllWNk1oN2lVcW8tWXI2VlVOTS1Gamh1b1UwZHl6ZG5Q?oc=5",
-      "date": "2026-07-22 05:02",
-      "summary": "AI investment boom puts Big Tech's free cash flow under pressure  Reuters..."
+      "title": "EXCLUSIVE: Marco Rubio tells diplomats to play down talk of American tech 'kill switch' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM3A4OS1kemtWYWt5N1VZUVNSRjZyejJwNTIzYjJnVlFsX2hTaWRlZlhGU1lyOURDUFhoSEFMSWlEUVZNRWNCMGFCc1JOOGkzMi1EUFY1US1NaVEtOG1neV9NdEMxREVDamQwS2lfbnllblhfQTRnT2RXSWFYUlV5Y1NmZERvN3E1TE9ldmZESlpIZ2dJbVZZZFFyd0lyWU13TG9xbThQQVYwSm9SSm54YWR1WDF1WTEzVG1OdlNR?oc=5",
+      "date": "2026-07-22 10:03",
+      "summary": "EXCLUSIVE: Marco Rubio tells diplomats to play down talk of American tech 'kill switch'  Reuters..."
+    },
+    {
+      "title": "Amazon cuts jobs in its artificial general intelligence group - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkQtS0lHSVM5ZnlBd05WU003NW92NWU0MWVHYVVBVFlFYUpjWEd3NTdIUU5UT05fUVFGT19JTkdRTEktZG1Cc1Mxd3ZEekRiUVl2aFNjY1dYUnhxWU1kMjNILWh5UlgwcktaN3JEV3g2Q2hrNTF6c1U2MmFPSnppdW1PZWdZN1ZZZnpoNVFuS05jVjJ2WkZEZ0RyWHE0YUttVWhhOVllbkI0anhMZjROUjBTeTY1N1VR?oc=5",
+      "date": "2026-07-22 15:30",
+      "summary": "Amazon cuts jobs in its artificial general intelligence group  Reuters..."
+    },
+    {
+      "title": "Nokia Q2 profit beat on AI demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaXFROUYzNzNCV3lTbWU5bTlNYnlDS3o5aUVOZ1FBb2pMOG9sczRaNFFCOUk3cG5vUEwzQ3E2QTRiOG9rbmE1OFR6RU41cGNRRC03MTIwTDBfamJYNk1BbWdZWl8yUmU2d1JvN2lKRHNEZXlKcnFFLUk0cmlOYnRWVg?oc=5",
+      "date": "2026-07-23 04:59",
+      "summary": "Nokia Q2 profit beat on AI demand  Reuters..."
     },
     {
       "title": "Pichai pushes back on claims Google is losing ground in AI race - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSW9renVWLXVjWjdiMDFHYTlDdk5pZW5tZS00REF6S05IblUyc3ZHX205YjEyeTlzQ0M2bnRsaWF2RzJreVZHN0JsVmRSMVlCYlF1UVVCLTdUYk9DZG9zaWhicU1wb0paNjFPTzAxMVJQYjdCYVJCWWNaRFo4TDI5ZmY2eWhyYjJKanN6UjBtWEhxeFNYMmVVZ0V2RmVtTWVneVZLZQ?oc=5",
       "date": "2026-07-23 01:17",
       "summary": "Pichai pushes back on claims Google is losing ground in AI race  Reuters..."
-    },
-    {
-      "title": "Breakingviews - Alphabet's AI fortunes are still up in the air - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2tpMnEzZ1Bzb2psUGMxeGJyeS1uVFhpRUhTX256TmJxTWI5UUlrQ0xSMmFUVVdZaGJJT3FlV3ptTmhpT0IwYWl6WjZ2Z3pCd2lOTFZGOUxuYjR3Zlg2NTFLMXlKejdhVGZaOEdvYTc4cElINEE2d1FoV29tLUlJZG9nSDNhY1FVb0kyUUFLZ1ViX2pEbGFnU2lfTUpob1VU?oc=5",
-      "date": "2026-07-23 01:28",
-      "summary": "Breakingviews - Alphabet's AI fortunes are still up in the air  Reuters..."
-    },
-    {
-      "title": "EXCLUSIVE: Marco Rubio tells diplomats to play down talk of American tech 'kill switch' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM3A4OS1kemtWYWt5N1VZUVNSRjZyejJwNTIzYjJnVlFsX2hTaWRlZlhGU1lyOURDUFhoSEFMSWlEUVZNRWNCMGFCc1JOOGkzMi1EUFY1US1NaVEtOG1neV9NdEMxREVDamQwS2lfbnllblhfQTRnT2RXSWFYUlV5Y1NmZERvN3E1TE9ldmZESlpIZ2dJbVZZZFFyd0lyWU13TG9xbThQQVYwSm9SSm54YWR1WDF1WTEzVG1OdlNR?oc=5",
-      "date": "2026-07-22 10:03",
-      "summary": "EXCLUSIVE: Marco Rubio tells diplomats to play down talk of American tech 'kill switch'  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -211,19 +211,31 @@
       "summary": "The Download: AI hiring biases, and weather data sabotage  MIT Technology Review..."
     },
     {
+      "title": "China’s AI models have Trump’s AI world at war with itself - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRUpPVWZWNTl5cVc3dEFITlE1VVNWb2U2Wk0zeURZZW9qSGhMUGdJMTktMGVmMGN0Mk5nckRTa1E4WWtENDZoRG5NZ1ljY25Zc19Mb0MxbXRsVTRtQ09hMUNaRWVXak9lNWQxeUFGZlBaRS1EVzdfRVc0WGc5QWdYTGgtLXFKbTZPYmdQTHJCM29fWUdnMFFkd1hWSjFZZXZoNHhpaVotbk1jckhwaEHSAbMBQVVfeXFMT21RaG9xX3ZOQTdoQUlJbnd0TFF6aDA1N3U0ZnJSTUJETUd1ekpDRXZReHJua1ZCVUszSy1TUGItblhGU1ozRG5LTUw4YkVsOVo0OUVGcTd4dnhvc28zaW1rTVlVYnEzTFlYcExzUElzYVJuc3JtV3BYTTlwVG1vUDJNNlRSWHBPMm0wNkF1VGJoa3ZlNmRhb2VWbXh2RzJQVUJyTjJjQmxHNTdEM0RYdnVwQ2c?oc=5",
+      "date": "2026-07-20 18:00",
+      "summary": "China’s AI models have Trump’s AI world at war with itself  MIT Technology Review..."
+    },
+    {
       "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUVtazM5bUV2b0t3amg2WDZ2dkpRLTFSVlI3TmlkYkxJWUEza0lPQzFObkRTMHhJZThsZmhJSkNaRDFTT0JMOGNhNk5XU3pIanlvVGVEYk1FNzZBQXNhQnZJT2RickM5QjI5dUhFTTRiSlJ0N29STW1jYVh6dUpteDFCaUI5SGpESFBEVFM0Sk9QR0NtSTJXTWs3T01pQdIBowFBVV95cUxOR3lhUG9yUk05T1hfYWVUY1pTWGREY192aWE5emd4azl3Si02QjQtOXl4eGgyRC01cE9TX1Y1MExhT1pMZFQ1MWhPdElOSm5sY2cxQThxNUVUekQ3NnJxa2hSaG1SdDFHM2tJdlNwU0FqVzBTY2pxbUM5Qm9QQVZmVDVlTHlMLWo0b1d5T0RjRHJVeFppem1zeU5VUDNkbXVrblRB?oc=5",
       "date": "2026-07-22 09:00",
       "summary": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own  MIT Technology Review..."
-    },
-    {
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBLbm9aTGI4dlBYeGpyT2N4c3Zja214TUt2QllUQmswUzJTeXR4aWlsU25ibnJCaVlaZVFuMUtBbjBSQ0JEcjZfMnA1UE94cDBBdlBfbnZFY3RLR1Y0MjJrbVJNNjB6OUwyUTJRWXlYT1gtYTI2eGRDaDd1WThvZFYxaERDOEVYeS1UbU5iS0VjSmhUTExhajBDelFQSjUwdjFJd2ZoOEhkRmRBazZaYnRidzRlLUFEOHfSAb8BQVVfeXFMUFhtUFdVa1lqQk8zdFU3NE5QLTdrY0lFdERFRnRGNmtWMjNSdFhNSTF0M29qQnUweWc0Qm9HVEh3aWtGZUNuLVZHN3FmckxCZDJMYmY2ZC1OR0N0R1ZMcG5RU2tFdFlXYms3aEVyTjN2emh2YUVGUlRQRjh1MzBiMi1SUjlEOGVBUTlhaENnbS1lZXBHS3FvMS15YnFtdFZBa2xjQ3RqeWNCUHpOandrQnI1RjZSd2ZzN0RLXzZodm8?oc=5",
-      "date": "2026-07-09 07:00",
-      "summary": "Anthropic found a hidden space where Claude puzzles over concepts  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Orcas filmed ramming one of the world's heaviest fish so hard it explodes, possibly for fun",
+      "link": "https://phys.org/news/2026-07-orcas-ramming-world-heaviest-fish.html",
+      "date": "2026-07-23 04:00",
+      "summary": "Orcas are known to be smart and ruthless hunters. They've been observed hunting a variety of prey, with some species, such as whal..."
+    },
+    {
+      "title": "Study of incarcerated women in Chile finds different outcomes after release",
+      "link": "https://phys.org/news/2026-07-incarcerated-women-chile-outcomes.html",
+      "date": "2026-07-23 03:40",
+      "summary": "A new study of incarcerated women in Chile reveals that women respond to imprisonment in very different ways: While most experienc..."
+    },
     {
       "title": "Millennial minimalism: Living in a less material world",
       "link": "https://phys.org/news/2026-07-millennial-minimalism-material-world.html",
@@ -241,18 +253,6 @@
       "link": "https://phys.org/news/2026-07-genome-tool-large-genetic-sequences.html",
       "date": "2026-07-22 23:40",
       "summary": "Researchers at King Abdullah University of Science and Technology (KAUST) have developed a new way to add large pieces of genetic ..."
-    },
-    {
-      "title": "A longer, hotter reality surrounds marine heat waves, research reveals",
-      "link": "https://phys.org/news/2026-07-longer-hotter-reality-marine-reveals.html",
-      "date": "2026-07-22 23:20",
-      "summary": "Anyone who has boiled a pot of water understands that it takes both time and energy to raise the temperature, so it may come as a ..."
-    },
-    {
-      "title": "Marine animals first colonized empty seashells about 470 million years ago",
-      "link": "https://phys.org/news/2026-07-marine-animals-colonized-seashells-million.html",
-      "date": "2026-07-22 23:00",
-      "summary": "An international study led by researchers from the University of Tartu shows that approximately 470 million years ago, a significa..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong mechanic dies after being crushed under bus",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3361541/hong-kong-mechanic-dies-after-being-crushed-under-bus?utm_source=rss_feed",
+      "date": "2026-07-23 03:45",
+      "summary": "A Hong Kong mechanic died earlier this week after being crushed by a 28-seater bus while he was inspecting its undercarriage, poli..."
+    },
+    {
+      "title": "Ex-Hong Kong opposition leader reportedly denied UK entry, faces deportation",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3361535/ex-hong-kong-opposition-leader-reportedly-denied-uk-entry-faces-deportation?utm_source=rss_feed",
+      "date": "2026-07-23 02:57",
+      "summary": "A former Hong Kong opposition leader has reportedly been denied entry to the United Kingdom and faces deportation back to the city..."
+    },
+    {
       "title": "Time for deeper, detailed exchanges between Hong Kong and mainland Chinese courts",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361529/time-deeper-detailed-exchanges-between-hong-kong-and-mainland-chinese-courts?utm_source=rss_feed",
       "date": "2026-07-23 02:23",
@@ -305,18 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3361521/monkey-business-hong-kong-mtr-tracks-slows-rush-hour-trains?utm_source=rss_feed",
       "date": "2026-07-23 00:37",
       "summary": "A monkey disrupted peak-hour train services in Hong Kong for nearly an hour on Thursday morning after straying onto the tracks nea..."
-    },
-    {
-      "title": "‘No time to be a detective’: medics warn of split-second calls under new end-of-life law",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3361505/hong-kongs-end-life-law-raises-concerns-over-emergency-care-affordability?utm_source=rss_feed",
-      "date": "2026-07-23 00:30",
-      "summary": "Hong Kong’s new legislation on end-of-life directives could create significant operational challenges, including verifying patient..."
-    },
-    {
-      "title": "Mainland Chinese dental clinics in Hong Kong come under scrutiny of authorities",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361506/mainland-chinese-dental-clinics-hong-kong-come-under-scrutiny-authorities?utm_source=rss_feed",
-      "date": "2026-07-22 16:41",
-      "summary": "Hong Kong authorities have warned of possible enforcement action after mainland Chinese dental chains were suspected of operating ..."
     }
   ]
 }
