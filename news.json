@@ -77,10 +77,10 @@
       "summary": "Stanford, MIT, Carnegie Mellon Lead First-Ever Benchmark of AI Production Capacity Across 50 Global Universities - New 5W AI Commu..."
     },
     {
-      "title": "New Stanford lab asks, what could catch us off guard? - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjZ6Z1l5OFFaNDR3SGFveldsaU1BSWxBekluWWZsMTdKZ1FKWWlzSmpma2tVUXRiMEhaME5MMjZtQVJzY3Q4RGFaX2hQMUJLTFZDWk5YbXBnQWJ2RFFaVGVyUUdGOXVYaldua0NXTnQ1TDgyem9ueHd2M09tYWg4ZWdkdmhxbExmYmswalJULVktR3RsaEYwYg?oc=5",
-      "date": "2026-07-22 22:55",
-      "summary": "New Stanford lab asks, what could catch us off guard?  Stanford Report..."
+      "title": "How AI is helping states cut through decades of red tape - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemZBRHY0VXNsUFctbGNyRlhGUzhlSm5IcldCQ3l6Tk44bnRjc2pHaFFkN2FWMEpSWmtsME9nSUkwdUJOcmZ3TEVMR0VQRUN1ZllQbDJNcUxYV2tHYThscnNtTVhHSUlMcEozSGt2TGtvd3lpQXRrdGlYS0JUUVBqMEl3ME9YVWVRNDRoVWZnRnFPTklkbVc4QzFfNlpYODg?oc=5",
+      "date": "2026-07-23 13:01",
+      "summary": "How AI is helping states cut through decades of red tape  Stanford Report..."
     },
     {
       "title": "Stanford Professor Will Give Friday Night Talk At MBL - CapeNews.net",
@@ -103,7 +103,7 @@
       "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02174-4The proportion of one- and two-author papers in the Nature I..."
     },
     {
-      "title": "Breathalyser can tell if you are burning fat from a single exhale",
+      "title": "Breathalyser can tell if you are burning fat from a single exhalation",
       "link": "https://www.nature.com/articles/d41586-026-02295-w",
       "date": "2026-07-23 00:00",
       "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02295-wThe compact device can measure when the body is in ketosis a..."
@@ -161,37 +161,43 @@
   ],
   "Reuters AI": [
     {
-      "title": "OpenAI AI models went rogue during testing, triggering 'unprecedented' breach at startup - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3oyVDNzekNWY3BJUUZLVGNsb3Z3VUhXc3pfSmtEZG96bzk2RFQ4MTZBWDdQVHlyZTlDOWhEN1o3dzVuekVuWUh2cWFPMy1SU0sxWnl3WkVSbFpKTzBqOU54WjlwM0Jfd185OWsxT1BLbGpHcmlaNHdCalhub0x2cVVBai11dVhPdEVsZERZWHo3anRQMi0yUGZEN0VVOEZHcEJuZ1pxMHp2U2dkSWNhYmhOOXR0aGJjVXVTdHE3MGw1aEgw?oc=5",
-      "date": "2026-07-21 21:30",
-      "summary": "OpenAI AI models went rogue during testing, triggering 'unprecedented' breach at startup  Reuters..."
-    },
-    {
       "title": "EXCLUSIVE: US, China to hold AI talks in September, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnA2ZW5UVVBMZkFtcExCdG5vSTJIMDFGYVhtcFpXellZRkpmcnJocExRNkp5c0VDdXRfVDdXcGs1OGszNEdMM3YxQ3R2UFVwYmdCQW85MjdYUHBlaWloVENJZmE1OVYxc2FFQml4LTFOWXEwOW5BcGIyVEQ3Rk5uMmxPQUFLVWY4cTYxNzJTZzZBbkJ1RkFr?oc=5",
       "date": "2026-07-22 02:15",
       "summary": "EXCLUSIVE: US, China to hold AI talks in September, sources say  Reuters..."
     },
     {
+      "title": "NEWSLETTER: The China-US divide behind the OpenAI hack - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGtYX0JXVlYyN2FMVW9UMHM5ZmFoYXAteDUxMGNfdDliNmZPRmdXaGtfWkpJUWREWDBKaGhCbDRXVktZZzh3ZW9aOXNMTFIwUmFhbG44SG1SOVU0eU1YWTlXUngwSUhsVFBXUGhMbE1SNnpGSU1ONW5QZ294c05scmdYUDVSeUp0ampnZjRjUEhMZ3M3Wk5JSDRPWDFENm1ZMlRFUlNURks?oc=5",
+      "date": "2026-07-22 22:26",
+      "summary": "NEWSLETTER: The China-US divide behind the OpenAI hack  Reuters..."
+    },
+    {
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQclM4V2JONWFuTXYzY1IyV29PSWlsVjRFMnF4SzhxNl83UHduNTZWVTRSLThVYkZJUFZCc1FLQTRoY3RJUHE0MFdUN0ZwelhkWFlGdFRBOUxRdkNtVkpJTGNkZTE5NmZfOUJkSWtSQnFKb2Q3ZjNvZ0NGYXY3MG96LVpCS1FvVXFmMDc3aU5tZFgwaDZTRW5XdGw1QkVnOTNvSUg2aHVVRFJNRHpDbHI3c1cybmpsTlp4NEh5b0tn?oc=5",
+      "date": "2026-07-23 12:53",
+      "summary": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs  Reuters..."
+    },
+    {
       "title": "EXCLUSIVE: Amazon's Bezos pushes Prime Video redesign focused on AI - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFZIR1V3MXVkZU9WTVZRRk9lWDBkczVraDluRlpmT3Q5Vm81SC1qYmhTQjRJOUpUV2YySThQalFuU3hQSHF0cTQwZGJHWGd0a3FUT2pNbHZzVWMzanpPSWpBX1B2X3lOOENhYUdfZnNsZFVlUXhFMjdPMWJDQURfamRITFNscjMtem5DYWU0UTNPN0g4VmxldDY2eDRPM0ZpVnFmVWtYMklOWUIzUHZMMg?oc=5",
-      "date": "2026-07-23 10:04",
+      "date": "2026-07-23 12:01",
       "summary": "EXCLUSIVE: Amazon's Bezos pushes Prime Video redesign focused on AI  Reuters..."
     },
     {
-      "title": "Amazon cuts jobs in its artificial general intelligence group - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkQtS0lHSVM5ZnlBd05WU003NW92NWU0MWVHYVVBVFlFYUpjWEd3NTdIUU5UT05fUVFGT19JTkdRTEktZG1Cc1Mxd3ZEekRiUVl2aFNjY1dYUnhxWU1kMjNILWh5UlgwcktaN3JEV3g2Q2hrNTF6c1U2MmFPSnppdW1PZWdZN1ZZZnpoNVFuS05jVjJ2WkZEZ0RyWHE0YUttVWhhOVllbkI0anhMZjROUjBTeTY1N1VR?oc=5",
-      "date": "2026-07-22 15:30",
-      "summary": "Amazon cuts jobs in its artificial general intelligence group  Reuters..."
-    },
-    {
-      "title": "EXCLUSIVE: Marco Rubio tells diplomats to play down talk of American tech 'kill switch' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM3A4OS1kemtWYWt5N1VZUVNSRjZyejJwNTIzYjJnVlFsX2hTaWRlZlhGU1lyOURDUFhoSEFMSWlEUVZNRWNCMGFCc1JOOGkzMi1EUFY1US1NaVEtOG1neV9NdEMxREVDamQwS2lfbnllblhfQTRnT2RXSWFYUlV5Y1NmZERvN3E1TE9ldmZESlpIZ2dJbVZZZFFyd0lyWU13TG9xbThQQVYwSm9SSm54YWR1WDF1WTEzVG1OdlNR?oc=5",
-      "date": "2026-07-22 10:03",
-      "summary": "EXCLUSIVE: Marco Rubio tells diplomats to play down talk of American tech 'kill switch'  Reuters..."
+      "title": "European semiconductor stocks diverge as investors weigh AI demand, growth expectations - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0hIaVBuNTVLVFdaVUpMRVR1bVpBTG5nZ19TNVhHVU00YXRZTWw4a04tSHVsT0ZfVE5SWkFadjYxSkl0OUxOWGhza3pNRm4wU09BZjk4cnJXWFUyLXZKV29DMDE1TTJFWnNSVTN1SWZqYWFvQ241djBlOHd1QkhuWDJLLTkwZ0JFMFljc3RndEUwcnhySUlOeUYxZWRXTkhPU25NM1ZHSk14d0h1aXY4VzI4MGc5QQ?oc=5",
+      "date": "2026-07-23 10:36",
+      "summary": "European semiconductor stocks diverge as investors weigh AI demand, growth expectations  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "How AI helps scientists design the next generation of medicines - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWw4WHBJQ1NiUEpQLXVLWU8wMkcydW5FdkgwRmN1U1lrV05yZjBEaEcxMDdCc0c1MGd6RnY5TS1ROV9ZMnFleDloeXc4S3pod0JPTmtna0hiX1ZldVdLaHdOR3NmUEdRRjFZTzA2V1JtZXBId1ZSQlNRN2V1Y0dCNXdvd2gtU3JqelItR0hCb2ozOTBlcEp5QUt5M2JUNllobzQyMjZCMnQ2Wi1VMWlVUHlKWHlwWTDSAbwBQVVfeXFMUEJkMURrLWdYMHFFNS1VeU8zcEdYZFkxWVBqdHRQSEs1amo2X0tOSUhsNVByeDYyemlCclRObkJSR3BGejhYVE4ta0NlVTk3dFhiTTFPOHNFWmFxWVlScGRNZjhZQlV1cjI5WjdaVnh3R0tOYXY0dDJmN3NmV2VVREVGV3JhT2d5T3NHLWNfVURxaTBYSGZ0Z1Bqa2p4dkRFdEswamVxcGtPeExhSHR1STFaem9MM2IxbVQ5di0?oc=5",
+      "date": "2026-07-23 12:00",
+      "summary": "How AI helps scientists design the next generation of medicines  MIT Technology Review..."
+    },
     {
       "title": "AI is more likely than humans to form biases when hiring - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmRKWWxsZGNmWWdsSnF3LUpyOGtXYnRDRS1GZjA4UTFHR3RhYU44V2M2Wkw4eVFfNkp6eTFGVnp5VmlRWjA3Z2RwX2ktdnJFS2ZCRU92dEJ2V2dxZlBzUGotVzNKd0txbzRGQks0TkZlczFNN2VNYnVwRXMwVkhJemdR0gGHAUFVX3lxTE5qQy1oTGZzVWxPSG9hRG1ZZy1HRzBocDlWdGQ2Ml9OXzFQdTI5alFXMGo0Yk9CLU5ZWVhENXJIMFQ0X1dab2xBU2FRMVVGNy02eVZKTzVVMkQya2xpUzRDaXRaMEFvQU92dDB3Mk9NMUJ2MTczVEZ6ZXdmVWxTaG9OMk1YMWFfVQ?oc=5",
@@ -215,44 +221,38 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRUpPVWZWNTl5cVc3dEFITlE1VVNWb2U2Wk0zeURZZW9qSGhMUGdJMTktMGVmMGN0Mk5nckRTa1E4WWtENDZoRG5NZ1ljY25Zc19Mb0MxbXRsVTRtQ09hMUNaRWVXak9lNWQxeUFGZlBaRS1EVzdfRVc0WGc5QWdYTGgtLXFKbTZPYmdQTHJCM29fWUdnMFFkd1hWSjFZZXZoNHhpaVotbk1jckhwaEHSAbMBQVVfeXFMT21RaG9xX3ZOQTdoQUlJbnd0TFF6aDA1N3U0ZnJSTUJETUd1ekpDRXZReHJua1ZCVUszSy1TUGItblhGU1ozRG5LTUw4YkVsOVo0OUVGcTd4dnhvc28zaW1rTVlVYnEzTFlYcExzUElzYVJuc3JtV3BYTTlwVG1vUDJNNlRSWHBPMm0wNkF1VGJoa3ZlNmRhb2VWbXh2RzJQVUJyTjJjQmxHNTdEM0RYdnVwQ2c?oc=5",
       "date": "2026-07-20 18:00",
       "summary": "China’s AI models have Trump’s AI world at war with itself  MIT Technology Review..."
-    },
-    {
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBLbm9aTGI4dlBYeGpyT2N4c3Zja214TUt2QllUQmswUzJTeXR4aWlsU25ibnJCaVlaZVFuMUtBbjBSQ0JEcjZfMnA1UE94cDBBdlBfbnZFY3RLR1Y0MjJrbVJNNjB6OUwyUTJRWXlYT1gtYTI2eGRDaDd1WThvZFYxaERDOEVYeS1UbU5iS0VjSmhUTExhajBDelFQSjUwdjFJd2ZoOEhkRmRBazZaYnRidzRlLUFEOHfSAb8BQVVfeXFMUFhtUFdVa1lqQk8zdFU3NE5QLTdrY0lFdERFRnRGNmtWMjNSdFhNSTF0M29qQnUweWc0Qm9HVEh3aWtGZUNuLVZHN3FmckxCZDJMYmY2ZC1OR0N0R1ZMcG5RU2tFdFlXYms3aEVyTjN2emh2YUVGUlRQRjh1MzBiMi1SUjlEOGVBUTlhaENnbS1lZXBHS3FvMS15YnFtdFZBa2xjQ3RqeWNCUHpOandrQnI1RjZSd2ZzN0RLXzZodm8?oc=5",
-      "date": "2026-07-09 07:00",
-      "summary": "Anthropic found a hidden space where Claude puzzles over concepts  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Study spotlights human toll of abrupt U.S. foreign aid cuts",
-      "link": "https://phys.org/news/2026-07-spotlights-human-toll-abrupt-foreign.html",
-      "date": "2026-07-23 11:00",
-      "summary": "In January 2025, the Trump administration announced a 90-day freeze on all United States government (USG) foreign aid, which subse..."
+      "title": "Fig-leaf enzyme turns tannery waste into high-value collagen",
+      "link": "https://phys.org/news/2026-07-fig-leaf-enzyme-tannery-high.html",
+      "date": "2026-07-23 13:40",
+      "summary": "Tanneries generate large quantities of skin trimmings before hides are tanned. These trimmings contain collagen but are commonly t..."
     },
     {
-      "title": "Portugal's ancient giant bears shrank over thousands of years and humans may be to blame",
-      "link": "https://phys.org/news/2026-07-portugal-ancient-giant-shrank-thousands.html",
-      "date": "2026-07-23 10:20",
-      "summary": "About 22,000 years ago, a giant brown bear lumbered across what is now Portugal. The creature weighed around 385 kg (about 850 pou..."
+      "title": "Older teens entering care often overlooked",
+      "link": "https://phys.org/news/2026-07-older-teens-overlooked.html",
+      "date": "2026-07-23 13:20",
+      "summary": "There is an urgent need for better support for older teenagers entering care for the first time, new Griffith University research ..."
     },
     {
-      "title": "Climate change making Europe drought 'more severe': study",
-      "link": "https://phys.org/news/2026-07-climate-europe-drought-severe.html",
-      "date": "2026-07-23 09:00",
-      "summary": "Human-caused climate change has intensified a drought across Europe, with extreme heat rather than low rainfall driving the except..."
+      "title": "No perfect job? Moving forward despite uncertainty may make work more meaningful",
+      "link": "https://phys.org/news/2026-07-job-uncertainty-meaningful.html",
+      "date": "2026-07-23 13:00",
+      "summary": "People who accept that there may not always be a perfect career choice and learn to make decisions despite uncertainty are more li..."
     },
     {
-      "title": "Striped or checkered? Magnetic field influences competing electronic patterns in a graphene-like quantum material",
-      "link": "https://phys.org/news/2026-07-striped-checkered-magnetic-field-electronic.html",
-      "date": "2026-07-23 09:00",
-      "summary": "In most everyday materials, such as copper, silver and silicon, the behavior of electrons is relatively predictable. In quantum ma..."
+      "title": "New teaching method could help Aboriginal languages survive and thrive",
+      "link": "https://phys.org/news/2026-07-method-aboriginal-languages-survive.html",
+      "date": "2026-07-23 12:40",
+      "summary": "Curtin University-led research has unveiled a new teaching approach that could help incorporate Aboriginal languages into Australi..."
     },
     {
-      "title": "National food waste recycling promises major climate gains but comes with microplastic risks",
-      "link": "https://phys.org/news/2026-07-national-food-recycling-major-climate.html",
-      "date": "2026-07-23 09:00",
-      "summary": "Keeping food waste out of landfills provides climate and other environmental benefits, and Vermont requires residents to divert th..."
+      "title": "Soil organic carbon increases crop yield but can't help with extreme drought",
+      "link": "https://phys.org/news/2026-07-soil-carbon-crop-yield-extreme.html",
+      "date": "2026-07-23 12:20",
+      "summary": "In cases of extreme drought, soil organic carbon does not improve crop yields, Colorado State University research has found. The f..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong’s competition watchdog tightens tender clauses to target bid-rigging",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361629/hong-kongs-competition-watchdog-tightens-tender-clauses-target-bid-rigging?utm_source=rss_feed",
+      "date": "2026-07-23 12:56",
+      "summary": "Hong Kong’s competition watchdog has revised its tender clauses to require bidders make a statutory declaration they have not enga..."
+    },
+    {
+      "title": "US sanctions on 39 Hong Kong, mainland Chinese officials will remain in place: Rubio",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3361628/us-sanctions-39-hong-kong-mainland-chinese-officials-will-remain-place-rubio?utm_source=rss_feed",
+      "date": "2026-07-23 12:49",
+      "summary": "US Secretary of State Marco Rubio has said that there will be no change to the remaining sanctions on 39 Hong Kong and mainland Ch..."
+    },
+    {
+      "title": "Herzog & de Meuron makes second donation to Hong Kong’s M+ museum",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361619/herzog-de-meuron-makes-second-donation-hong-kongs-m-museum?utm_source=rss_feed",
+      "date": "2026-07-23 11:21",
+      "summary": "International architecture firm Herzog & de Meuron, which built Hong Kong’s M+ museum and the National Stadium in Beijing, has don..."
+    },
+    {
       "title": "Son of ex-Chinese official jailed for 6 years, 9 months for deception, laundering",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361614/son-ex-chinese-official-jailed-6-years-9-months-deception-laundering?utm_source=rss_feed",
       "date": "2026-07-23 10:52",
@@ -299,24 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361611/hong-kong-disneyland-rolls-out-afternoon-tickets-extra-cooling-beat-heat?utm_source=rss_feed",
       "date": "2026-07-23 10:48",
       "summary": "Hong Kong Disneyland Resort has introduced a discounted afternoon ticket and expanded its cooling facilities to help minimise oper..."
-    },
-    {
-      "title": "Hong Kong checks ‘almost every book shipment  from Taiwan’",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3361582/hong-kong-checks-almost-every-book-shipment-taiwan?utm_source=rss_feed",
-      "date": "2026-07-23 09:43",
-      "summary": "Taiwan’s Mainland Affairs Council (MAC) has said Hong Kong customs has stepped up scrutiny of “almost every book shipment” from th..."
-    },
-    {
-      "title": "University to roll out screenings at pharmacies to uncover osteoporosis cases",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3361578/university-roll-out-screenings-pharmacies-uncover-osteoporosis-cases?utm_source=rss_feed",
-      "date": "2026-07-23 08:20",
-      "summary": "The University of Hong Kong will roll out a screening programme at pharmacies across the city early next year to identify people a..."
-    },
-    {
-      "title": "Hong Kong officers lose appeal over framing homeless man and covering up evidence",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361565/hong-kong-police-officers-lose-appeal-over-framing-homeless-man-evidence-cover?utm_source=rss_feed",
-      "date": "2026-07-23 06:49",
-      "summary": "Four disgraced Hong Kong police officers have lost their appeal against convictions and jail terms for framing a homeless man for ..."
     }
   ]
 }
