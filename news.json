@@ -45,16 +45,16 @@
       "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
-      "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
-    },
-    {
       "title": "‘Effort still matters’ in age of AI, Garber tells grads - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRCNE1YZ0h5NkU4MmtrUnh5TmcyWlVoZHBJN25nR1FUUjByVmxENDZsMmxuMWRVajhKV1FPb1owUWRDay1lQk53TzMyQUo2RmRSczdJOC1Lb0wtQmJScFFtZU9kN3A1MFdCNjMxNXhsVDRDZ3hHbWZwTjdYcjBxcXNXZ182MVlqN0dvTEgycW5NaC0ybWl0eHJuRjBla3JKemc?oc=5",
       "date": "2026-05-26 07:00",
       "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
+    },
+    {
+      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
+      "date": "2026-05-12 07:00",
+      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
@@ -97,7 +97,7 @@
   ],
   "Nature Careers": [
     {
-      "title": "What <i>The Odyssey</i> reveals about ancient science – from botany to psychiatry",
+      "title": "What <i>The Odyssey</i> reveals about ancient science — from botany to psychiatry",
       "link": "https://www.nature.com/articles/d41586-026-02275-0",
       "date": "2026-07-23 00:00",
       "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02275-0From intelligent ships to clues about eclipses, Homer’s The ..."
@@ -129,6 +129,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Exclusive: A couple paid more than $800,000 for a gene-editing therapy for their daughter. She died, and it wasn’t made public",
+      "link": "https://retractionwatch.com/2026/07/23/exclusive-death-gene-editing-trial-china-nature-science-investigation/",
+      "date": "2026-07-23 18:00",
+      "summary": "An investigation by Science and Retraction Watch has uncovered details about a clinical trial that resulted in the death of its so..."
+    },
+    {
       "title": "Journal retracts breast cancer paper 10 years after sleuth flagged issues",
       "link": "https://retractionwatch.com/2026/07/22/journal-retracts-breast-cancer-paper-10-years-after-sleuth-flagged-issues/",
       "date": "2026-07-22 10:00",
@@ -151,26 +157,20 @@
       "link": "https://retractionwatch.com/2026/07/18/weekend-reads-private-info-in-most-arxiv-preprints-why-did-george-church-decline-authorship-28-misconduct-cases-in-china/",
       "date": "2026-07-18 10:00",
       "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
-    },
-    {
-      "title": "Harvard cancer researchers earn retraction for image duplication",
-      "link": "https://retractionwatch.com/2026/07/16/harvard-cancer-researchers-earn-retraction-for-image-duplication/",
-      "date": "2026-07-16 15:42",
-      "summary": "A group of researchers at Brigham and Women’s Hospital and Harvard Medical School in Boston have lost a paper for image duplicatio..."
     }
   ],
   "Reuters AI": [
+    {
+      "title": "EXCLUSIVE: Amazon's Bezos pushes Prime Video redesign focused on AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFZIR1V3MXVkZU9WTVZRRk9lWDBkczVraDluRlpmT3Q5Vm81SC1qYmhTQjRJOUpUV2YySThQalFuU3hQSHF0cTQwZGJHWGd0a3FUT2pNbHZzVWMzanpPSWpBX1B2X3lOOENhYUdfZnNsZFVlUXhFMjdPMWJDQURfamRITFNscjMtem5DYWU0UTNPN0g4VmxldDY2eDRPM0ZpVnFmVWtYMklOWUIzUHZMMg?oc=5",
+      "date": "2026-07-23 12:01",
+      "summary": "EXCLUSIVE: Amazon's Bezos pushes Prime Video redesign focused on AI  Reuters..."
+    },
     {
       "title": "OpenAI AI models went rogue during testing, triggering 'unprecedented' breach at startup - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3oyVDNzekNWY3BJUUZLVGNsb3Z3VUhXc3pfSmtEZG96bzk2RFQ4MTZBWDdQVHlyZTlDOWhEN1o3dzVuekVuWUh2cWFPMy1SU0sxWnl3WkVSbFpKTzBqOU54WjlwM0Jfd185OWsxT1BLbGpHcmlaNHdCalhub0x2cVVBai11dVhPdEVsZERZWHo3anRQMi0yUGZEN0VVOEZHcEJuZ1pxMHp2U2dkSWNhYmhOOXR0aGJjVXVTdHE3MGw1aEgw?oc=5",
       "date": "2026-07-22 19:55",
       "summary": "OpenAI AI models went rogue during testing, triggering 'unprecedented' breach at startup  Reuters..."
-    },
-    {
-      "title": "Nokia Q2 profit beat as sales from AI, cloud doubled - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaXFROUYzNzNCV3lTbWU5bTlNYnlDS3o5aUVOZ1FBb2pMOG9sczRaNFFCOUk3cG5vUEwzQ3E2QTRiOG9rbmE1OFR6RU41cGNRRC03MTIwTDBfamJYNk1BbWdZWl8yUmU2d1JvN2lKRHNEZXlKcnFFLUk0cmlOYnRWVg?oc=5",
-      "date": "2026-07-23 04:59",
-      "summary": "Nokia Q2 profit beat as sales from AI, cloud doubled  Reuters..."
     },
     {
       "title": "Amazon cutting jobs in artificial general intelligence group (AMZN:NASDAQ) - Seeking Alpha",
@@ -181,23 +181,17 @@
     {
       "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQclM4V2JONWFuTXYzY1IyV29PSWlsVjRFMnF4SzhxNl83UHduNTZWVTRSLThVYkZJUFZCc1FLQTRoY3RJUHE0MFdUN0ZwelhkWFlGdFRBOUxRdkNtVkpJTGNkZTE5NmZfOUJkSWtSQnFKb2Q3ZjNvZ0NGYXY3MG96LVpCS1FvVXFmMDc3aU5tZFgwaDZTRW5XdGw1QkVnOTNvSUg2aHVVRFJNRHpDbHI3c1cybmpsTlp4NEh5b0tn?oc=5",
-      "date": "2026-07-23 16:28",
+      "date": "2026-07-23 18:38",
       "summary": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs  Reuters..."
     },
     {
-      "title": "EXCLUSIVE: Amazon's Bezos pushes Prime Video redesign focused on AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFZIR1V3MXVkZU9WTVZRRk9lWDBkczVraDluRlpmT3Q5Vm81SC1qYmhTQjRJOUpUV2YySThQalFuU3hQSHF0cTQwZGJHWGd0a3FUT2pNbHZzVWMzanpPSWpBX1B2X3lOOENhYUdfZnNsZFVlUXhFMjdPMWJDQURfamRITFNscjMtem5DYWU0UTNPN0g4VmxldDY2eDRPM0ZpVnFmVWtYMklOWUIzUHZMMg?oc=5",
-      "date": "2026-07-23 12:01",
-      "summary": "EXCLUSIVE: Amazon's Bezos pushes Prime Video redesign focused on AI  Reuters..."
+      "title": "European semiconductor stocks diverge as investors weigh AI demand, growth expectations - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0hIaVBuNTVLVFdaVUpMRVR1bVpBTG5nZ19TNVhHVU00YXRZTWw4a04tSHVsT0ZfVE5SWkFadjYxSkl0OUxOWGhza3pNRm4wU09BZjk4cnJXWFUyLXZKV29DMDE1TTJFWnNSVTN1SWZqYWFvQ241djBlOHd1QkhuWDJLLTkwZ0JFMFljc3RndEUwcnhySUlOeUYxZWRXTkhPU25NM1ZHSk14d0h1aXY4VzI4MGc5QQ?oc=5",
+      "date": "2026-07-23 10:36",
+      "summary": "European semiconductor stocks diverge as investors weigh AI demand, growth expectations  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "How AI helps scientists design the next generation of medicines - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWw4WHBJQ1NiUEpQLXVLWU8wMkcydW5FdkgwRmN1U1lrV05yZjBEaEcxMDdCc0c1MGd6RnY5TS1ROV9ZMnFleDloeXc4S3pod0JPTmtna0hiX1ZldVdLaHdOR3NmUEdRRjFZTzA2V1JtZXBId1ZSQlNRN2V1Y0dCNXdvd2gtU3JqelItR0hCb2ozOTBlcEp5QUt5M2JUNllobzQyMjZCMnQ2Wi1VMWlVUHlKWHlwWTA?oc=5",
-      "date": "2026-07-23 12:00",
-      "summary": "How AI helps scientists design the next generation of medicines  MIT Technology Review..."
-    },
     {
       "title": "The power line that could reshape New York’s grid is hitting snags - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nRTN1TC1GcWZWc2U1aDZKSHJVbVlmb2FSYzZSMXljbUpLa00xcGlxMzJPdTBQbVE0b3VRV0VWMmh5S0tLSkxUQnMxczhXYUx0TFhucWVIcXg5bldTRjZMZWh3a1YxVUQ2elhyYnAtTXRRRGhFLTZSa0dNTGN5UdIBgwFBVV95cUxQT1NrN2lFbG5RY1pSLWVmSFF6T3U3cThfNXVnX0dFenlfSGY2TDJWbGNtU3dqdlZKVXRFVmJjZHJQV2VCckpQakZFNlg0M3c1WWt3eDVRVG9abVl0MUh4MFdTMGY1NkQ4clFfNEtuU0I0RDl5V3hVRnNDZExmTWdfcGc4OA?oc=5",
@@ -205,16 +199,22 @@
       "summary": "The power line that could reshape New York’s grid is hitting snags  MIT Technology Review..."
     },
     {
-      "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement” - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeTZoMXNvMVBpX091VjNLaGlwSi16eDNnWTFVeDhQM2FDcldjYXM1bmpsTFpoTV93YXVvXzJmRFpoNXBRaTBQVVFyOUw2NzVTTXBTbkNmcFV6bkw3V3V5WVpiVGc2a09tQmFQeVh0YjF1ZkdwTU81Zjc1dlpKREtrTldxOWpMcjlGdl81Q0lESXJMSzRXNGctYTA5bUtYcHpYbHlrczluN3B4dFR3VVZ1YU1OUk0xOWM4Q2xxdzRkYmlyZG9HVlc3elhUONIB0AFBVV95cUxQWnJGQ255S0ZfTlNvekNIcDdEMEtrQjNMNzU4bU9IX2N6N2lGcWVJd1gyYnNDWi1QVXdXZGFBc245d3Q3ZlBYLThxUWdLRDh6TWlycDRfYklOSnRuc1ltVFlWY1FCQkVtSnRuS1g2cTZhSE1CSHBYQWdlTER1NVhXVzdWcmM0c2tTWEgwa2sxRW9tRFZKQzNWMUJoTkFtUUhGRmRiNG5JWWtldEQ3QmJLd1E5cFdqWGtzcXh1Smt0alVhLUhKTW9fMWNkY2xUamN3?oc=5",
-      "date": "2026-07-23 16:58",
-      "summary": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”  MIT Technology Review..."
+      "title": "How AI helps scientists design the next generation of medicines - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWw4WHBJQ1NiUEpQLXVLWU8wMkcydW5FdkgwRmN1U1lrV05yZjBEaEcxMDdCc0c1MGd6RnY5TS1ROV9ZMnFleDloeXc4S3pod0JPTmtna0hiX1ZldVdLaHdOR3NmUEdRRjFZTzA2V1JtZXBId1ZSQlNRN2V1Y0dCNXdvd2gtU3JqelItR0hCb2ozOTBlcEp5QUt5M2JUNllobzQyMjZCMnQ2Wi1VMWlVUHlKWHlwWTA?oc=5",
+      "date": "2026-07-23 12:00",
+      "summary": "How AI helps scientists design the next generation of medicines  MIT Technology Review..."
     },
     {
       "title": "AI is more likely than humans to form biases when hiring - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmRKWWxsZGNmWWdsSnF3LUpyOGtXYnRDRS1GZjA4UTFHR3RhYU44V2M2Wkw4eVFfNkp6eTFGVnp5VmlRWjA3Z2RwX2ktdnJFS2ZCRU92dEJ2V2dxZlBzUGotVzNKd0txbzRGQks0TkZlczFNN2VNYnVwRXMwVkhJemdR0gGHAUFVX3lxTE5qQy1oTGZzVWxPSG9hRG1ZZy1HRzBocDlWdGQ2Ml9OXzFQdTI5alFXMGo0Yk9CLU5ZWVhENXJIMFQ0X1dab2xBU2FRMVVGNy02eVZKTzVVMkQya2xpUzRDaXRaMEFvQU92dDB3Mk9NMUJ2MTczVEZ6ZXdmVWxTaG9OMk1YMWFfVQ?oc=5",
       "date": "2026-07-20 08:39",
       "summary": "AI is more likely than humans to form biases when hiring  MIT Technology Review..."
+    },
+    {
+      "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement” - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeTZoMXNvMVBpX091VjNLaGlwSi16eDNnWTFVeDhQM2FDcldjYXM1bmpsTFpoTV93YXVvXzJmRFpoNXBRaTBQVVFyOUw2NzVTTXBTbkNmcFV6bkw3V3V5WVpiVGc2a09tQmFQeVh0YjF1ZkdwTU81Zjc1dlpKREtrTldxOWpMcjlGdl81Q0lESXJMSzRXNGctYTA5bUtYcHpYbHlrczluN3B4dFR3VVZ1YU1OUk0xOWM4Q2xxdzRkYmlyZG9HVlc3elhUONIB0AFBVV95cUxQWnJGQ255S0ZfTlNvekNIcDdEMEtrQjNMNzU4bU9IX2N6N2lGcWVJd1gyYnNDWi1QVXdXZGFBc245d3Q3ZlBYLThxUWdLRDh6TWlycDRfYklOSnRuc1ltVFlWY1FCQkVtSnRuS1g2cTZhSE1CSHBYQWdlTER1NVhXVzdWcmM0c2tTWEgwa2sxRW9tRFZKQzNWMUJoTkFtUUhGRmRiNG5JWWtldEQ3QmJLd1E5cFdqWGtzcXh1Smt0alVhLUhKTW9fMWNkY2xUamN3?oc=5",
+      "date": "2026-07-23 16:58",
+      "summary": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”  MIT Technology Review..."
     },
     {
       "title": "Advancing next-gen AI with materials science innovation - MIT Technology Review",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Fields medal awarded to four young mathematicians",
-      "link": "https://phys.org/news/2026-07-fields-medal-awarded-young-mathematicians.html",
-      "date": "2026-07-23 17:20",
-      "summary": "The Fields Medal, known as the Nobel Prize of mathematics, was awarded Thursday to four people—two Chinese citizens, one American ..."
+      "title": "Nanopores can activate human T cells without biochemical signals",
+      "link": "https://phys.org/news/2026-07-nanopores-human-cells-biochemical.html",
+      "date": "2026-07-23 19:00",
+      "summary": "Immune cells protect and heal the human body. In medicine, they are specifically activated through biochemical reactions to treat ..."
     },
     {
-      "title": "How the encephalomyocarditis virus hijacks host protein machinery",
-      "link": "https://phys.org/news/2026-07-encephalomyocarditis-virus-hijacks-host-protein.html",
-      "date": "2026-07-23 17:20",
-      "summary": "Viruses lack the molecular machinery required for protein synthesis. Instead, they hijack the host's protein-making machinery, spe..."
+      "title": "How AI is helping states cut through decades of red tape",
+      "link": "https://phys.org/news/2026-07-ai-states-decades-red-tape.html",
+      "date": "2026-07-23 19:00",
+      "summary": "Bureaucracy moves slowly, and decades of outdated provisions clogging the bylaws of cities and states only make it worse. Sometime..."
     },
     {
-      "title": "Environmental bacteria ferry genes that boost antibiotic resistance over 10,000-fold",
-      "link": "https://phys.org/news/2026-07-environmental-bacteria-ferry-genes-boost.html",
-      "date": "2026-07-23 17:20",
-      "summary": "A patient with a severe infection is prescribed a potent antibiotic. Hopes for improvement are high, but just after treatment is g..."
+      "title": "Less cannabis use among adolescents, but social disparities persist",
+      "link": "https://phys.org/news/2026-07-cannabis-adolescents-social-disparities-persist.html",
+      "date": "2026-07-23 18:40",
+      "summary": "Past studies have shown that cannabis use during adolescence is associated with a variety of negative impacts—including emotional ..."
     },
     {
-      "title": "Coal-fired power generation rising globally on Mideast war: IEA",
-      "link": "https://phys.org/news/2026-07-coal-power-generation-globally-mideast.html",
-      "date": "2026-07-23 17:19",
-      "summary": "Coal-fired power generation is set to increase in 2026, driven by supply difficulties and soaring natural gas prices linked to the..."
+      "title": "Virtual café experiment finds Japanese participants keep greater distance than Italians",
+      "link": "https://phys.org/news/2026-07-virtual-caf-japanese-greater-distance.html",
+      "date": "2026-07-23 18:40",
+      "summary": "How close do we stand to other people during a social interaction? The distance we maintain between our body and that of another p..."
     },
     {
-      "title": "Researchers examine social media's impact on narcissistic traits",
-      "link": "https://phys.org/news/2026-07-social-media-impact-narcissistic-traits.html",
-      "date": "2026-07-23 17:00",
-      "summary": "Researchers at the University of Huddersfield have developed a new theoretical framework exploring whether social media recommenda..."
+      "title": "Quantum Newton's cradle set to level up computing",
+      "link": "https://phys.org/news/2026-07-quantum-newton-cradle.html",
+      "date": "2026-07-23 18:20",
+      "summary": "Sending quantum information through a chain of qubits, like energy through a Newton's cradle, could be the key to faster operation..."
     }
   ],
   "The Guardian Edu": [
