@@ -163,8 +163,14 @@
     {
       "title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5",
-      "date": "2026-07-24 22:20",
+      "date": "2026-07-24 22:14",
       "summary": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week  Reuters..."
+    },
+    {
+      "title": "As AI grows more powerful, a US-China feud threatens safety efforts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTVEV25mbEljZGR4REN5cm5RdFZockt4TlBqYUFPS3FseExuOGJ4NFdBR3NsY1l3dnhSNlJ5RXNrdktZaDlDRWN3OTZHRkJnbk1LVk5FS0F4LUZwOHVEQ3FXUFp2aWhYbnlabkZUS3p4M09DbVRvR2NpR3dITjhTWXpzajE3eVNVeEJyeVZadlFsMGFzMnZ0SVMwRS1oZUt0NFhZUExCR3NSYl9teXE5NTNWVUQ?oc=5",
+      "date": "2026-07-24 22:19",
+      "summary": "As AI grows more powerful, a US-China feud threatens safety efforts  Reuters..."
     },
     {
       "title": "Nvidia, Microsoft and other tech giants back open-source AI models - Reuters",
@@ -183,12 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGtoSHNwQ0pjZ09saEozUGlWRVZ1ZG03ZC1Xc2UzNnZQSXRsQjkyWlBFVlM4QmM5WmtKVGhJbUZydG9UWEllUzgwbW90b0k1elZyQnpaV3VTNGZiNG5YWDdyNXFVTHhhTHN6TWpUU1RuSzYtNnpnN0M4VlpzeWp4azFmbWVyQTNlSXVfSlY5UTU2RGVsQ19ucGd2VlFEMGFEMG5J?oc=5",
       "date": "2026-07-24 17:02",
       "summary": "Anthropic rolls out Opus 5 AI model in efficiency upgrade  Reuters..."
-    },
-    {
-      "title": "As AI grows more powerful, a US-China feud threatens safety efforts - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTVEV25mbEljZGR4REN5cm5RdFZockt4TlBqYUFPS3FseExuOGJ4NFdBR3NsY1l3dnhSNlJ5RXNrdktZaDlDRWN3OTZHRkJnbk1LVk5FS0F4LUZwOHVEQ3FXUFp2aWhYbnlabkZUS3p4M09DbVRvR2NpR3dITjhTWXpzajE3eVNVeEJyeVZadlFsMGFzMnZ0SVMwRS1oZUt0NFhZUExCR3NSYl9teXE5NTNWVUQ?oc=5",
-      "date": "2026-07-24 22:19",
-      "summary": "As AI grows more powerful, a US-China feud threatens safety efforts  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,6 +225,12 @@
   ],
   "Phys.org": [
     {
+      "title": "Twisted laser light distinguishes mirror-image molecules by their fragment counts",
+      "link": "https://phys.org/news/2026-07-laser-distinguishes-mirror-image-molecules.html",
+      "date": "2026-07-26 19:00",
+      "summary": "Many molecules exist in two mirror-image forms—like left and right hands—that look identical but can behave very differently, espe..."
+    },
+    {
       "title": "When a teenager makes the 'stupid choice,' their brain is working exactly as designed",
       "link": "https://phys.org/news/2026-07-teenager-stupid-choice-brain.html",
       "date": "2026-07-26 18:00",
@@ -247,12 +253,6 @@
       "link": "https://phys.org/news/2026-07-quantum-simultaneously-refrigeration.html",
       "date": "2026-07-26 16:20",
       "summary": "The laws of thermodynamics state that heat naturally flows from hotter systems or regions to colder systems or regions until a sta..."
-    },
-    {
-      "title": "DNA vacuum captures animal traces from air to map Danish wildlife",
-      "link": "https://phys.org/news/2026-07-dna-vacuum-captures-animal-air.html",
-      "date": "2026-07-26 14:30",
-      "summary": "Researchers have developed a DNA vacuum that can suck genetic traces from animals out of the air and reveal which animals live in ..."
     }
   ],
   "The Guardian Edu": [
