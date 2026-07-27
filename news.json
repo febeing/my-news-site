@@ -71,16 +71,16 @@
       "summary": "Stanford becomes first school to organize a player-led College Football Players Association chapter  NBC Bay Area..."
     },
     {
-      "title": "Stanford and SLAC to lead Genesis Mission projects - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOalJ2R1FUWVJ5SmtucGVqUWVaTGdvbC1vNWMwczVmVUxoV211M2U4WjZ4Y1laVmI3bjdVMkxZaUNRYS1Bd3hybkN4eUZCc21sWWpMUnhEcldLeW5NYkJ1M3NiWmtUelZpWVRtMWFVOEg5czBBLWRTRVAxYThhN0c2SmxQVFUtUXlqLTl3cEh4M0VuS0d3UllEZFJMZVF2dENkaVAycGNKcEdPSXRhNFpYZnJFWC1LRnRXU0ZhSVBlUDk4RXFJUWxacVlVVk5MREdYUmFvWi1LRW1tVnhnNDJwc29oREpCempxcm1lS21ZZnQ1eUhETldF?oc=5",
-      "date": "2026-07-22 20:35",
-      "summary": "Stanford and SLAC to lead Genesis Mission projects  Stanford Report..."
-    },
-    {
       "title": "Stanford football players reach key threshold on path to college player unionization - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd0VCTnZhaFRBNloxOWt3MElNLUM4YzhtSnRtM20zM09KQ0Z0S1gwQ1BIaXd1RFFmX2lSM2w2ZHc0R1F3WmJqTWprZklydUQ4RHh4TnoxY0Q2VEhFSFdhaktYUHhpbEpoNVRpUkE2SGc1SGMxeXg1aVhDVVRjTTZQMUdYVDFTdkFIUDBSTkJpZWNpQnNDR2dwWWlmTXc5eHJLV3pLcTZQWG9xb19ycG1lR251ZEZ4a3hxX01nV1BNbXM5cncwWFQ2WWJ4LWhIaWpxY05PS2YwY0diNUtvYVZVQUphcw?oc=5",
       "date": "2026-07-27 10:04",
       "summary": "Stanford football players reach key threshold on path to college player unionization  Yahoo Sports..."
+    },
+    {
+      "title": "Stanford Football Players Push For Collective Bargaining - KFBK",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlBYdWxEdjRfRjlNLVgzUXJhbXpqbXNKeUdVRE56UEpXN3ppb2NlbmxtQTY2TFNtT21uYk9COWlSLXEyTVZmdVU2R282aXZTUG8xQm9CU01JV0ROU3hQekxyUDZVdWRiRXU3bElNWjBvYl83ejNKS1ZUcUJmb1ZXSXdMYTZ5cnB6OGdFM3lnYjZZcWlsVi1iWHE0ejJzWUdFZWc?oc=5",
+      "date": "2026-07-27 12:14",
+      "summary": "Stanford Football Players Push For Collective Bargaining  KFBK..."
     },
     {
       "title": "Stanford Researchers Use AI and Protein Data to Discover “Natural Ozempic” - HPCwire",
@@ -167,6 +167,12 @@
       "summary": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week  Reuters..."
     },
     {
+      "title": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWtDYjVuY2NJcTIzMDJaa0hYZy1vaGthWFp5Zm9FNXdwMUU0cmxRNk1HTWhGelZqVjRpY0RvbkoyRHMwaGg4cnM4RENaZE9ob0IwdEpXMEw5SWwyM2VOcE1LUGUwRjlWU2x3eEVkRVA1b3VwVEhiZjdRelBEYlEtanZjZmN5ckRFQWxQVFZHOVFSOEJ2WXJQbWhsSHBIdVgyX0VvcXRtUmcwUFJvVFNaSWQ5MzBxWU4tUmc?oc=5",
+      "date": "2026-07-27 17:54",
+      "summary": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says  Reuters..."
+    },
+    {
       "title": "US core capital goods orders rise, shipments post largest gain in 4-1/2 years amid AI investment boom - Reuters",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdi1jdEZHRU5KR1lvTlloMlMxQ3g4QUpjV2s2WnpqSjhzdWI5STJldTBPakY5ZWxrNHFkdjFFNXp5SXJ1UHNoWjJSWUEyMHJnUTJYZi1vWVVJQzB2VGVhY1RMQVZTZGt1OFJGMjFvUzRCb3hVdkZlZkUwU0s2WFRJZE5yRGJJaVpBYzNQeXlhb0xPU2o0Sm1lVjZmUTg?oc=5",
       "date": "2026-07-27 16:25",
@@ -183,26 +189,14 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzRuS0FZMm5DbGhkRlBXS244QndESTlDM0MtMjh5UldRWXg0S3lXOTdKME5ZVVRIczIweEFvMHpxQ1FCUDI2dW5lQnZjMFBIYjVuQjRQTnJ6bmZZN0tFbDZnVXhvVTVCbG9uc0s1MVNqSHIwRENYd25HQnJPbl9ySFNraHVyUU5lQjYwYkxEOG83Qm9jWXVMNTU0ekVkeEJ4Q1kxeUFIa3pxNmZ6eVFiWFZHTVVTRXR5OHFEa2x2OFhQZw?oc=5",
       "date": "2026-07-27 11:14",
       "summary": "HSBC to hire 100 AI specialists, 100 wealth managers in boost to Singapore hub  Reuters..."
-    },
-    {
-      "title": "Samsung Elec, SK Group seal $950 bln deals as South Korea hosts AI powers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5",
-      "date": "2026-07-25 13:45",
-      "summary": "Samsung Elec, SK Group seal $950 bln deals as South Korea hosts AI powers  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "Building the enterprise environment for agentic AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFF4azRxdWQtdnFoeC1ZQkxkU3VqOHQ3UW1Ibk1aV3c2UjJoMlgxaDJIaFpydXlRUlduSXRTSVM1QlNqbnJYS3F5U1VmVEJUWjBMYkRYQWNkMmxTd3hJUnpWVHV1NThqT2g4bEJWUTh0cXptZVVhc2lVazZmR19nd1hYc3JIS2c2Q3NRUENXbEJ0UkQ4YTN5dlpuWjM0NjVxN2xFbG9R0gGrAUFVX3lxTE43dFVuWWo2MjNVZ0tteTdNVGt6amMtQzZ5ejRIdEJEM1kwR0lKSG9GQWdHTnFueVNITHVSY0FCemhNYlVFaXRJdmZBdVVDaWRLUGp3MmVtY1d4TFNGWGdWVk9ESFJHRHh0Z1ktdV84ZUJCRk9VMldoaU9LQm9WWFdMTzZVdVlXaDZoWFA0VmdldmgxTHY4U002ZVFQYUhJdkhZdVcyNmhwMVhSbw?oc=5",
-      "date": "2026-07-27 11:32",
-      "summary": "Building the enterprise environment for agentic AI  MIT Technology Review..."
-    },
-    {
-      "title": "The path to artificial superintelligence - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWJydVhNZTBaT1ZJak9Idk9TbmE3NFQ3VFp0R3dROENOaUxZTFdLTGdPTi1lUTZJQ1JadU9TZHUtLUpoSTBpSjB2aUowUHVCNjFnb043eTdtR0w0TEV4Y0RZV05pNTR2WXFfcDJDSUoxMlh4aGVPTGtVN2cycVFmcWVJeTRhV0ZTdVhXX3ZBVE5IOTZzMEhMcNIBngFBVV95cUxQZFVGM3FGRW9nQ28wQ3M3ZjZyWFRad3hlNDhJc1NWUGZZREpGSl9OM20zRzI1emlsUzNkNEVKNW8tNTZ0Q0hrdlFJUFdENmFfVUZiYUlHT0dxVUU4aEFvck1lMmJHeXFEWjVzU1lOUnVuVWpGZ29vMk9lQ05xSTZ1NWRILXVBWDBZRlRzcFBjYV91azNudVYtZGt6WnNtdw?oc=5",
-      "date": "2026-07-27 12:00",
-      "summary": "The path to artificial superintelligence  MIT Technology Review..."
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUpCWnpROTdmb1N4OGwxVkpmOHJYY1RGemJSaVl3TXJreXRnaUl6V293YzBXME4yeWRUeWh2WWFfb3BUMlJnMlVoT094c040bFZYdDlldHNQRGJVR1VyNV81clV1RTFSdHRjSFFtRDZiM0ZaeVRGak9zbnBwQ3prNmxEWWxvZ1V6QjU2Mk1sNUdveXfSAZgBQVVfeXFMTURtQ3dpTUZQLTN4RHVPX05HLWE3dDV3ZzN3NnhTR3B2aTROQnEwVXRzVVVodFNRNGdHR2x5QnVjbF84S1lYYUFiTXhVU3ZudHBjZTFZZWdTQXRvcU5GNkdUdi1KZWJkb1VkTkt1WVg3NjlUekREa1Uydzg1T2JydnBmdlNmSkhic0FJUGgtRU1ocTVqLTlxTXk?oc=5",
+      "date": "2026-07-27 18:00",
+      "summary": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.  MIT Technology Review..."
     },
     {
       "title": "How lasers could help provide fuel for nuclear reactors - MIT Technology Review",
@@ -211,48 +205,54 @@
       "summary": "How lasers could help provide fuel for nuclear reactors  MIT Technology Review..."
     },
     {
+      "title": "Building the enterprise environment for agentic AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFF4azRxdWQtdnFoeC1ZQkxkU3VqOHQ3UW1Ibk1aV3c2UjJoMlgxaDJIaFpydXlRUlduSXRTSVM1QlNqbnJYS3F5U1VmVEJUWjBMYkRYQWNkMmxTd3hJUnpWVHV1NThqT2g4bEJWUTh0cXptZVVhc2lVazZmR19nd1hYc3JIS2c2Q3NRUENXbEJ0UkQ4YTN5dlpuWjM0NjVxN2xFbG9R0gGrAUFVX3lxTE43dFVuWWo2MjNVZ0tteTdNVGt6amMtQzZ5ejRIdEJEM1kwR0lKSG9GQWdHTnFueVNITHVSY0FCemhNYlVFaXRJdmZBdVVDaWRLUGp3MmVtY1d4TFNGWGdWVk9ESFJHRHh0Z1ktdV84ZUJCRk9VMldoaU9LQm9WWFdMTzZVdVlXaDZoWFA0VmdldmgxTHY4U002ZVFQYUhJdkhZdVcyNmhwMVhSbw?oc=5",
+      "date": "2026-07-27 11:32",
+      "summary": "Building the enterprise environment for agentic AI  MIT Technology Review..."
+    },
+    {
       "title": "Closing the data loop in AI-driven drug discovery - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXpXTFdNS244eEltNWFiLXFmaE9LSzlRbFoycTgyQjYzM0ZaSFU0Ty1QRGJTeEo0VzhHZEZndnVqM2FfdnpUX3lhUm9qaFlfX0ZOZ04zeDkzT0dSUkhfOWlmaXltM0RES19Ma0dvd09haU44MXowY0NGdDBGSXZtenZEZEJqNnNXaHJ3QVN2RHFTRlp2aHpNQVZXYnoxMDJvVlhQVNIBqgFBVV95cUxQTTRTTW81RU9BTVFMS2F2ejlLdmdFM01WTGM5cFh6RUJjU3ZRaU5rdTI4d0p1RUJOcWdXWVZOT2JLQWVzdFRHX29WM1dfNnNzbk81a3NsNDM2VFVXN284eEtFT0JmRTdDSFE2UXIwMzVKb0RadW9fR29TUnJuQ2tCRzNxWEw3alAybkpYdnNpdkQwT0ZzYjZVRzJ2OTlMOGRuclZPYTlSNmV2Zw?oc=5",
       "date": "2026-07-27 11:40",
       "summary": "Closing the data loop in AI-driven drug discovery  MIT Technology Review..."
     },
     {
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUpCWnpROTdmb1N4OGwxVkpmOHJYY1RGemJSaVl3TXJreXRnaUl6V293YzBXME4yeWRUeWh2WWFfb3BUMlJnMlVoT094c040bFZYdDlldHNQRGJVR1VyNV81clV1RTFSdHRjSFFtRDZiM0ZaeVRGak9zbnBwQ3prNmxEWWxvZ1V6QjU2Mk1sNUdveXfSAZgBQVVfeXFMTURtQ3dpTUZQLTN4RHVPX05HLWE3dDV3ZzN3NnhTR3B2aTROQnEwVXRzVVVodFNRNGdHR2x5QnVjbF84S1lYYUFiTXhVU3ZudHBjZTFZZWdTQXRvcU5GNkdUdi1KZWJkb1VkTkt1WVg3NjlUekREa1Uydzg1T2JydnBmdlNmSkhic0FJUGgtRU1ocTVqLTlxTXk?oc=5",
-      "date": "2026-07-27 18:00",
-      "summary": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.  MIT Technology Review..."
+      "title": "The path to artificial superintelligence - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWJydVhNZTBaT1ZJak9Idk9TbmE3NFQ3VFp0R3dROENOaUxZTFdLTGdPTi1lUTZJQ1JadU9TZHUtLUpoSTBpSjB2aUowUHVCNjFnb043eTdtR0w0TEV4Y0RZV05pNTR2WXFfcDJDSUoxMlh4aGVPTGtVN2cycVFmcWVJeTRhV0ZTdVhXX3ZBVE5IOTZzMEhMcNIBngFBVV95cUxQZFVGM3FGRW9nQ28wQ3M3ZjZyWFRad3hlNDhJc1NWUGZZREpGSl9OM20zRzI1emlsUzNkNEVKNW8tNTZ0Q0hrdlFJUFdENmFfVUZiYUlHT0dxVUU4aEFvck1lMmJHeXFEWjVzU1lOUnVuVWpGZ29vMk9lQ05xSTZ1NWRILXVBWDBZRlRzcFBjYV91azNudVYtZGt6WnNtdw?oc=5",
+      "date": "2026-07-27 12:00",
+      "summary": "The path to artificial superintelligence  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "New research turns the Dunning-Kruger effect on its head: Rethinking the confident incompetent",
-      "link": "https://phys.org/news/2026-07-dunning-kruger-effect-rethinking-confident.html",
-      "date": "2026-07-27 18:20",
-      "summary": "Researchers at the University of Bath and The London School of Economics and Political Science (LSE) suggest that the celebrated D..."
+      "title": "Simple semiconductor films break light's front-back symmetry",
+      "link": "https://phys.org/news/2026-07-simple-semiconductor-front-symmetry.html",
+      "date": "2026-07-27 20:20",
+      "summary": "Light typically interacts with a material the same way whether it enters through the front or the back—like polarized sunglasses t..."
     },
     {
-      "title": "Astronomers identify one of the universe's rarest black hole events",
-      "link": "https://phys.org/news/2026-07-astronomers-universe-rarest-black-hole.html",
-      "date": "2026-07-27 18:20",
-      "summary": "A team of astronomers at the University of North Carolina at Chapel Hill has observed an extremely rare \"wandering\" black hole loc..."
+      "title": "Researchers identify useful tool for diagnosing endocrine dysfunction in sick foals",
+      "link": "https://phys.org/news/2026-07-tool-endocrine-dysfunction-sick-foals.html",
+      "date": "2026-07-27 20:20",
+      "summary": "Researchers have found that an arginine vasopressin stimulation (AVP) test offers a reliable way to assess endocrine function in s..."
     },
     {
-      "title": "Can a newly discovered soil fungus stop the devastating African armyworm when chemicals have failed?",
-      "link": "https://phys.org/news/2026-07-newly-soil-fungus-devastating-african.html",
-      "date": "2026-07-27 18:00",
-      "summary": "The African armyworm is a highly destructive migratory pest that damages maize, sorghum, millet and sugarcane. These caterpillars ..."
+      "title": "Satellite images could help target sustainable farming support for small fields",
+      "link": "https://phys.org/news/2026-07-satellite-images-sustainable-farming-small.html",
+      "date": "2026-07-27 20:10",
+      "summary": "For decades, satellites have helped scientists observe Earth's changing landscapes. Now, they could also help answer one of agricu..."
     },
     {
-      "title": "Highly tunable electro-optic isolator achieves one-way light flow on photonic chips",
-      "link": "https://phys.org/news/2026-07-highly-tunable-electro-optic-isolator.html",
-      "date": "2026-07-27 18:00",
-      "summary": "Integrated photonic devices—tiny circuits that use light instead of electrons—are becoming increasingly important for scalable pho..."
+      "title": "First 3D views explain how primate cone pigments distinguish red from green",
+      "link": "https://phys.org/news/2026-07-3d-views-primate-cone-pigments.html",
+      "date": "2026-07-27 20:10",
+      "summary": "Human color vision depends on three types of cone cells in the retina. Although all three contain the same light-absorbing molecul..."
     },
     {
-      "title": "Biomolecular condensates reveal surprising activity as catalysts",
-      "link": "https://phys.org/news/2026-07-biomolecular-condensates-reveal-catalysts.html",
-      "date": "2026-07-27 17:40",
-      "summary": "Biomolecular condensates are ubiquitous in living cells, including bacteria, viruses, plants and mammalian systems. These membrane..."
+      "title": "Soil carbon effectively measured by new, efficient AI model",
+      "link": "https://phys.org/news/2026-07-soil-carbon-effectively-efficient-ai.html",
+      "date": "2026-07-27 20:00",
+      "summary": "A new computer model is one of the first artificial intelligence tools to advance scientific discovery in agriculture and biogeoch..."
     }
   ],
   "The Guardian Edu": [
