@@ -51,16 +51,16 @@
       "summary": "‘Effort still matters’ in age of AI, Garber tells grads  Harvard Gazette..."
     },
     {
-      "title": "Is your cholesterol too high based on latest guidelines? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOE1Tb01PZXUyT0JuMmZWNmZrdXpmNHJQVUc4V0FLVFRhQWlaUTFfdjVhRVM1WUZqOFF6MldETGI3bEtVeVljRUtqMnJLM3l3ODJjSjktbmZTVDJnMkNET2JWMWVCMExtbUo3V0tpY0dRLURocFpoRV9GTkRxaVVzd0pPTXpwVXRGbDJJN3lWY1Y3VlZ3NjVwU19Ic2luWXJ4SlE0eFpR?oc=5",
-      "date": "2026-07-21 19:00",
-      "summary": "Is your cholesterol too high based on latest guidelines?  Harvard Gazette..."
-    },
-    {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+    },
+    {
+      "title": "Is your cholesterol too high based on latest guidelines? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOE1Tb01PZXUyT0JuMmZWNmZrdXpmNHJQVUc4V0FLVFRhQWlaUTFfdjVhRVM1WUZqOFF6MldETGI3bEtVeVljRUtqMnJLM3l3ODJjSjktbmZTVDJnMkNET2JWMWVCMExtbUo3V0tpY0dRLURocFpoRV9GTkRxaVVzd0pPTXpwVXRGbDJJN3lWY1Y3VlZ3NjVwU19Ic2luWXJ4SlE0eFpR?oc=5",
+      "date": "2026-07-21 19:00",
+      "summary": "Is your cholesterol too high based on latest guidelines?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -161,10 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "China accuses US of 'AI hegemonism', threatens countermeasures over potential probes - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2l6SXZVb29hZ244bE5rbTdWWkNINUw0VTN5TlhHemFDWG5VSmd3d0M2OTBnWUNDMUFRekpWOWwtME9MTTIwTTVvVFpuNVRmYnJ1eDFLVUR1bnVZVWNSdHJZOXhEZXBWdWpaT05JbHlhRXBVdUZlSE14M29ReDhHYTVvQmplZXhJYVNfeHNDZ0JxUmhIelFmbmROeWZudGwxXzJwRHgwV2RMVjVBdjJHSDQ0NmlmZXZoOU9YYjZCZkl5X1FB?oc=5",
-      "date": "2026-07-27 15:44",
-      "summary": "China accuses US of 'AI hegemonism', threatens countermeasures over potential probes  Reuters..."
+      "title": "AMD signs AI data center deal with Core Scientific - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnFiRjVManVtR3hxSVQ2N1Z0eF94RHl3aEVmQVY2emcwTVBDRHphZVBEUzlFSkRhaWI5X3hsa2Z3VGlNa2FyNF9ERjAwemFfWURDTFowUkV6MGhydVdNVFFNMUl3TUk4NGZ4UnRXdll6ZEVEOWpXNUpQZF9XNUQwWkxvemlqZHh2S3RhRE9EZFRPUm5IeUo0b0wySV9Falk?oc=5",
+      "date": "2026-07-28 11:55",
+      "summary": "AMD signs AI data center deal with Core Scientific  Reuters..."
+    },
+    {
+      "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU2NzVEU5THRFZ3EzNVVuaGY4d1RrSUtldW1SM2pWN3hjWjM1cF9nSXUyZThsazlDa2x0Y014Z05DN29lZjA2YS1LdUpBV1k1cXpqdmV0OHVoVEg5T3QwMkhzMFUxX2VNOC1fd0JxT2daUy11Ti1WNnFtc3QteC1jcVhFcUpLWGdXUXc4a1pqU3JvczRENmE5ZTVLWWFqUjN3YTR4dmUxNmk5eGlUMjhOYUh1cnYtLWpFS1hjUE5ZOFJ5QkZId00yZ1JsVzJuWEJsYkRv?oc=5",
+      "date": "2026-07-28 10:39",
+      "summary": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports  Reuters..."
     },
     {
       "title": "Reuters: OpenAI Agent Hacked Hugging Face for Days Before Being Detected - Security Affairs",
@@ -179,16 +185,10 @@
       "summary": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says  Reuters..."
     },
     {
-      "title": "OpenAI's Sam Altman, Nvidia's Huang to meet with Senate Intelligence Committee's top Democrat - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzhES1BqZV81UjAzZGtjdGg5YkZ1NmxQOFlHLUFUSk5SaGN0T3VjSl9fZ24xdHFLQURIX2ZMd3dsdkdmNDlkc2NwaThUaUc5UF9GcFZuRGQzaldSV2t2Y1RyTGQ5T0h1YTV6OVhJNDBvMmFTYm9WUkEtYVFhSEU4WnRHUmxHUDM5ZnJNRW5lcDFCNVI4TTYxRUNHWVdtdElZck5GUDZUdHJmME85U0JJR3FEdzJfeGto?oc=5",
-      "date": "2026-07-27 21:32",
-      "summary": "OpenAI's Sam Altman, Nvidia's Huang to meet with Senate Intelligence Committee's top Democrat  Reuters..."
-    },
-    {
-      "title": "Morning Bid: Chips jolted as momentum shifts in AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVy1XbVhGMXRaZW9fV25CUDU0VHZJejBJQzFDYlN4ZGdMQXFxbmxTSUptLTFjTEhON1Z3QXhPWU9kdnRXT3pFNEtxZHU5UVZCTXUyYXNEdXkzemtpYWthQXVWQUZrVUo0c3lWd2RjNmdrUk5MbDJCU0t0czdsdDBMNGhXWjB0RklhSmhlZHlkaE4?oc=5",
-      "date": "2026-07-28 04:31",
-      "summary": "Morning Bid: Chips jolted as momentum shifts in AI  Reuters..."
+      "title": "China accuses US of 'AI hegemonism', threatens countermeasures over potential probes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2l6SXZVb29hZ244bE5rbTdWWkNINUw0VTN5TlhHemFDWG5VSmd3d0M2OTBnWUNDMUFRekpWOWwtME9MTTIwTTVvVFpuNVRmYnJ1eDFLVUR1bnVZVWNSdHJZOXhEZXBWdWpaT05JbHlhRXBVdUZlSE14M29ReDhHYTVvQmplZXhJYVNfeHNDZ0JxUmhIelFmbmROeWZudGwxXzJwRHgwV2RMVjVBdjJHSDQ0NmlmZXZoOU9YYjZCZkl5X1FB?oc=5",
+      "date": "2026-07-27 15:44",
+      "summary": "China accuses US of 'AI hegemonism', threatens countermeasures over potential probes  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -211,10 +211,10 @@
       "summary": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.  MIT Technology Review..."
     },
     {
-      "title": "The path to artificial superintelligence - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWJydVhNZTBaT1ZJak9Idk9TbmE3NFQ3VFp0R3dROENOaUxZTFdLTGdPTi1lUTZJQ1JadU9TZHUtLUpoSTBpSjB2aUowUHVCNjFnb043eTdtR0w0TEV4Y0RZV05pNTR2WXFfcDJDSUoxMlh4aGVPTGtVN2cycVFmcWVJeTRhV0ZTdVhXX3ZBVE5IOTZzMEhMcNIBngFBVV95cUxQZFVGM3FGRW9nQ28wQ3M3ZjZyWFRad3hlNDhJc1NWUGZZREpGSl9OM20zRzI1emlsUzNkNEVKNW8tNTZ0Q0hrdlFJUFdENmFfVUZiYUlHT0dxVUU4aEFvck1lMmJHeXFEWjVzU1lOUnVuVWpGZ29vMk9lQ05xSTZ1NWRILXVBWDBZRlRzcFBjYV91azNudVYtZGt6WnNtdw?oc=5",
-      "date": "2026-07-27 12:00",
-      "summary": "The path to artificial superintelligence  MIT Technology Review..."
+      "title": "Closing the data loop in AI-driven drug discovery - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXpXTFdNS244eEltNWFiLXFmaE9LSzlRbFoycTgyQjYzM0ZaSFU0Ty1QRGJTeEo0VzhHZEZndnVqM2FfdnpUX3lhUm9qaFlfX0ZOZ04zeDkzT0dSUkhfOWlmaXltM0RES19Ma0dvd09haU44MXowY0NGdDBGSXZtenZEZEJqNnNXaHJ3QVN2RHFTRlp2aHpNQVZXYnoxMDJvVlhQVNIBqgFBVV95cUxQTTRTTW81RU9BTVFMS2F2ejlLdmdFM01WTGM5cFh6RUJjU3ZRaU5rdTI4d0p1RUJOcWdXWVZOT2JLQWVzdFRHX29WM1dfNnNzbk81a3NsNDM2VFVXN284eEtFT0JmRTdDSFE2UXIwMzVKb0RadW9fR29TUnJuQ2tCRzNxWEw3alAybkpYdnNpdkQwT0ZzYjZVRzJ2OTlMOGRuclZPYTlSNmV2Zw?oc=5",
+      "date": "2026-07-27 11:40",
+      "summary": "Closing the data loop in AI-driven drug discovery  MIT Technology Review..."
     },
     {
       "title": "Building the enterprise environment for agentic AI - MIT Technology Review",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Record snow drought drives water-hauling crisis for Rocky Mountain ranchers",
-      "link": "https://phys.org/news/2026-07-drought-hauling-crisis-rocky-mountain.html",
-      "date": "2026-07-28 10:10",
-      "summary": "As water shot into an open stock tank atop a high-country mesa, a trickle soaked the dusty earth below. Scott Snyder rose from the..."
+      "title": "More evidence Mars once had water emerges from old Spirit rover data",
+      "link": "https://phys.org/news/2026-07-evidence-mars-emerges-spirit-rover.html",
+      "date": "2026-07-28 12:40",
+      "summary": "More than 20 years after NASA's Spirit rover landed on Mars, a researcher from Edith Cowan University (ECU) has uncovered new evid..."
     },
     {
-      "title": "AI-powered camera system offers low-cost way to monitor bumblebees, potentially other insects",
-      "link": "https://phys.org/news/2026-07-ai-powered-camera-bumblebees-potentially.html",
-      "date": "2026-07-28 10:00",
-      "summary": "Researchers have developed a low-cost, semi-automated, AI-driven method that uses remote cameras to survey bumblebees and potentia..."
+      "title": "More green space alone won't beat urban heat",
+      "link": "https://phys.org/news/2026-07-green-space-wont-urban.html",
+      "date": "2026-07-28 12:40",
+      "summary": "New research from Victoria University (VU) reveals that reducing the impact of extreme heat in urban areas requires more than simp..."
     },
     {
-      "title": "France and Spain race to contain fires before new heat wave",
-      "link": "https://phys.org/news/2026-07-france-spain.html",
-      "date": "2026-07-28 09:20",
-      "summary": "Firefighters in France and Spain rushed to contain the worst wildfires in living memory Tuesday, seizing crucial hours before the ..."
+      "title": "JWST could spot volcanic 'exo-Ios' around super-Jupiters",
+      "link": "https://phys.org/news/2026-07-jwst-volcanic-exo-ios-super.html",
+      "date": "2026-07-28 12:20",
+      "summary": "Jupiter's moon Io is the most volcanically active planetary body in the solar system, boasting hundreds of active volcanoes that s..."
     },
     {
-      "title": "Scientists cut and rebuild molecules from the inside to create new chiral nanocarbons",
-      "link": "https://phys.org/news/2026-07-scientists-rebuild-molecules-chiral-nanocarbons.html",
-      "date": "2026-07-28 09:00",
-      "summary": "Nanocarbons are molecular-scale carbon structures considered to be the building blocks for next-generation materials. Until now, s..."
+      "title": "Cracking the axolotl code: How to regrow limbs and stay young",
+      "link": "https://phys.org/news/2026-07-axolotl-code-regrow-limbs-stay.html",
+      "date": "2026-07-28 12:00",
+      "summary": "Minor cuts and scrapes usually heal in time, but losing a finger or a whole limb? For most vertebrates, that's a done deal. Unless..."
     },
     {
-      "title": "A magnitude 7.1 earthquake shakes part of southern Japan and a tsunami advisory is issued",
-      "link": "https://phys.org/news/2026-07-magnitude-earthquake-southern-japan-tsunami.html",
-      "date": "2026-07-28 08:44",
-      "summary": "An earthquake registering a preliminary magnitude of 7.1 shook Kumamoto on Japan's southern main island of Kyushu late Tuesday aft..."
+      "title": "Astronomers find strongest evidence yet that Betelgeuse has a companion",
+      "link": "https://phys.org/news/2026-07-astronomers-strongest-evidence-betelgeuse-companion.html",
+      "date": "2026-07-28 12:00",
+      "summary": "At long last, astronomers have firm evidence that Betelgeuse, one of the most famous stars in the night sky, is not alone. Using t..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong parents rush babies for check-ups over infant formula lead scare",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362152/hong-kong-parents-rush-babies-check-ups-over-infant-formula-lead-scare?utm_source=rss_feed",
+      "date": "2026-07-28 11:43",
+      "summary": "Worried Hong Kong parents who bought a popular powdered infant formula are taking their children for medical check-ups after a bat..."
+    },
+    {
+      "title": "Hong Kong drives trials for breast cancer, eye treatments across Greater Bay Area",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362148/hong-kong-drives-trials-breast-cancer-eye-treatments-across-greater-bay-area?utm_source=rss_feed",
+      "date": "2026-07-28 11:29",
+      "summary": "Two US-developed treatments for breast cancer and a degenerative eye disease will undergo large-scale clinical trials in the Great..."
+    },
+    {
+      "title": "Hong Kong Shopping Festival eyes Asean expansion, with Singapore, Malaysia first",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362145/hong-kong-shopping-festival-eyes-asean-expansion-singapore-malaysia-first?utm_source=rss_feed",
+      "date": "2026-07-28 10:47",
+      "summary": "An annual e-commerce shopping festival supporting Hong Kong’s small and medium-sized enterprises will expand into the Asean region..."
+    },
+    {
       "title": "Hong Kong’s Exchange Fund first-half earnings fall 37% on equity slump, softer bond income",
       "link": "https://www.scmp.com/business/banking-finance/article/3362141/hong-kongs-exchange-fund-first-half-earnings-fall-37-equity-slump-softer-bond-income?utm_source=rss_feed",
       "date": "2026-07-28 10:10",
@@ -299,24 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362116/internet-personality-mr-ho-dies-79-just-week-after-receiving-jail-term?utm_source=rss_feed",
       "date": "2026-07-28 08:11",
       "summary": "A Hong Kong man known on the internet as “Mr Ho” has died, a week after receiving a two-month prison sentence for stabbing his wif..."
-    },
-    {
-      "title": "Hong Kong steps up support as premium taxi fleets face driver shortage",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3362114/hong-kong-steps-support-premium-taxi-fleets-face-driver-shortage?utm_source=rss_feed",
-      "date": "2026-07-28 08:11",
-      "summary": "A top Hong Kong transport official has pledged to step up efforts to help the city’s premium taxi fleets recruit drivers, concedin..."
-    },
-    {
-      "title": "Hong Kong tutorial centre owner gets 6 years, 4 months in jail for molesting 5 boys",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362101/nearly-6-1/2-years-jail-owner-hong-kong-tutorial-centre-who-molested-5-boys?utm_source=rss_feed",
-      "date": "2026-07-28 06:49",
-      "summary": "The owner of a Hong Kong private tutorial centre that ceased operations has been jailed for six years and four months for molestin..."
-    },
-    {
-      "title": "Hong Kong can learn from Beijing for revamp of public inquiry hotline: lawmakers",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3362098/hong-kong-can-learn-beijing-revamp-public-inquiry-hotline?utm_source=rss_feed",
-      "date": "2026-07-28 06:28",
-      "summary": "Hong Kong authorities should revamp their public inquiry hotline to better handle residents’ complaints by learning from Beijing’s..."
     }
   ]
 }
