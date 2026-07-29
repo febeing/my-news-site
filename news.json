@@ -65,20 +65,20 @@
   ],
   "Stanford News": [
     {
-      "title": "The Stanford e-Yamaguchi Program Completes Its Second Year - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSU5XUi1xTVVtM01IdElpOU9USUlDWVQxeEdNNndCUE4wVmszZVBWOFlLSTF4VkpKb3NscHNiSVhLRGY2Ym9Ua1l2ckdVc0xTYkdISXJuaXNSZ2preUFTXzVlQmZZckc4blFKbUJhVl9RWUkzRkNxc1RqZll0aThNNU80cWYxTU4wUFJlclZLdWpPQ2Ey?oc=5",
-      "date": "2026-07-28 12:00",
-      "summary": "The Stanford e-Yamaguchi Program Completes Its Second Year  Stanford University..."
-    },
-    {
       "title": "Stanford chef brings Caribbean flavors to campus - FoodService Director",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZDlaU0pVN29id2twdWdfNGVhRk1oVFRFQjQ0ZUdZQUp1Zm9UQXU2eGRCbVZsdHNzc1k5THcybENMeVo0eHVnSjFMeEF0ZTJUUnBBRkpibmF0TW9adjhuTFctTHVhSU14dWM5TV9zdkNzS01qSFFxeHFXRWtoZnZJS0JfeTlnWmtJZEtHVi1MZTEzU3ZwRE8zX1VzQU5UTWIwUFZMMVVhdEZCYW9Rdko1cGh1R0ZXZ2VHb01ua3FUdlZHb1g5NWdZajdHbmVrODZHeGpmbHRn?oc=5",
       "date": "2026-07-28 17:41",
       "summary": "Stanford chef brings Caribbean flavors to campus  FoodService Director..."
     },
     {
+      "title": "The Stanford e-Yamaguchi Program Completes Its Second Year - Freeman Spogli Institute for International Studies",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVGZJSlhoQUVxdDVfYlJfU1dKUEZtVjFQcjY1Vi1BR0h2ZlFQaHpEX0llMzRaR09hUEtYUksxVkx2S0lCVXQ0RDg1eXp3YjZxNjdTMTIzOGFKTVE0ZVJ2ZGR2NFR3X3BXMVBmX3RCTTVicTF3T0F0N090ak5xdE1vOGhILXZ0T285TUszWA?oc=5",
+      "date": "2026-07-28 12:00",
+      "summary": "The Stanford e-Yamaguchi Program Completes Its Second Year  Freeman Spogli Institute for International Studies..."
+    },
+    {
       "title": "AI university rankings 2026: Stanford leads, Technion ranks 25th worldwide - Ynetnews",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5reUhMazNkbmxGZUxoWDFKX3NvSEdva2hIbHJTOWRjbDVlLWFqLXdkRVJkbTcyb0g2VlN2ZGkzNk5VZkphekd5ems4QzZzbE00WTd0d1BxTzdNbDl5aXJBdmZJLVgxajJrX3kzUg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WUm9lcUxZY2xDUnd5X0V6Z0NyTG5WdFE1aUlCSWFKeTloRkUySmVrMWk4d2N1aFpNVWtIbWRsUzRyUUVYemg2Q0lPRi0xNmsyczFvTGMtRUdEQ0htTU5JcDBoVlZucVFvT1E?oc=5",
       "date": "2026-07-29 06:08",
       "summary": "AI university rankings 2026: Stanford leads, Technion ranks 25th worldwide  Ynetnews..."
     },
@@ -129,6 +129,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Kaggle removes problematic stroke dataset for copyright infringement",
+      "link": "https://retractionwatch.com/2026/07/29/kaggle-removes-problematic-stroke-dataset-for-copyright-infringement/",
+      "date": "2026-07-29 10:00",
+      "summary": "The online data repository Kaggle has removed a problematic dataset for violating intellectual property rights months after it was..."
+    },
+    {
       "title": "Exclusive: News outlet killed story on plagiarism allegations after Cambridge prof hired law firm",
       "link": "https://retractionwatch.com/2026/07/27/cambridge-jason-arday-plagiarism-allegations-times-higher-education-exclusive/",
       "date": "2026-07-27 21:08",
@@ -151,27 +157,9 @@
       "link": "https://retractionwatch.com/2026/07/23/editors-of-economics-journal-resign-after-association-renews-taylor-francis-contract/",
       "date": "2026-07-23 20:14",
       "summary": "Forty-one editors, associate editors and advisory board members resigned from their roles at the Review of Social Economy after th..."
-    },
-    {
-      "title": "Exclusive: A couple paid more than $800,000 for a gene-editing therapy for their daughter. She died, and it wasn’t made public",
-      "link": "https://retractionwatch.com/2026/07/23/exclusive-death-gene-editing-trial-china-nature-science-investigation/",
-      "date": "2026-07-23 18:00",
-      "summary": "An investigation by Science and Retraction Watch has uncovered details about a clinical trial that resulted in the death of its so..."
     }
   ],
   "Reuters AI": [
-    {
-      "title": "Tech employees call for US-backed global effort to manage risks of advanced AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUdKZ0lPNURncWhtWjRjSDFGa2Q5U1V1NzdKcEVRcEJCZEo4Y1daZVF0RTd4OGdhekdaVkZBYW10YTlXaUtmZGNEZGNGUG9ZVTBwRTFhUXUzRjhnTjdZRFFHR0YtdjFheHFrMkVrLTF4THNZQUl4QkQ4cno2OExITkkya214MWlGRzh0VDlLNFBSNGw0bTVheFFKaWkyNlpsdk05bC1ILXJ6aUZnVDlQSzU1RFBkSUpYUzNVZWRn?oc=5",
-      "date": "2026-07-28 22:30",
-      "summary": "Tech employees call for US-backed global effort to manage risks of advanced AI  Reuters..."
-    },
-    {
-      "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU2NzVEU5THRFZ3EzNVVuaGY4d1RrSUtldW1SM2pWN3hjWjM1cF9nSXUyZThsazlDa2x0Y014Z05DN29lZjA2YS1LdUpBV1k1cXpqdmV0OHVoVEg5T3QwMkhzMFUxX2VNOC1fd0JxT2daUy11Ti1WNnFtc3QteC1jcVhFcUpLWGdXUXc4a1pqU3JvczRENmE5ZTVLWWFqUjN3YTR4dmUxNmk5eGlUMjhOYUh1cnYtLWpFS1hjUE5ZOFJ5QkZId00yZ1JsVzJuWEJsYkRv?oc=5",
-      "date": "2026-07-28 14:30",
-      "summary": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports  Reuters..."
-    },
     {
       "title": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHBXRTBZX1RmZjlnU2owVWlZMW5TMGtzR3JyWVRrcWpUblNaTjg3ZXUyUmQ0Z1JTNVVHRERkN284N0o4SFZ0SGdvTnR0ZG5hTEo0b1pkOU0zTHFRZ01OV0tIRFNnQ1YwMThhYlBBTjgzOFN6bE90aTdIV0htb0xJNldUTUxTUm91TzlyWVFRaE5tSkFHWGhXWXdzQVpWTDRWc2dIOTU1X25lLXViRVRWcm5qMTc2TnM?oc=5",
@@ -179,10 +167,22 @@
       "summary": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says  Reuters..."
     },
     {
+      "title": "Tech employees call for US-backed global effort to manage risks of advanced AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUdKZ0lPNURncWhtWjRjSDFGa2Q5U1V1NzdKcEVRcEJCZEo4Y1daZVF0RTd4OGdhekdaVkZBYW10YTlXaUtmZGNEZGNGUG9ZVTBwRTFhUXUzRjhnTjdZRFFHR0YtdjFheHFrMkVrLTF4THNZQUl4QkQ4cno2OExITkkya214MWlGRzh0VDlLNFBSNGw0bTVheFFKaWkyNlpsdk05bC1ILXJ6aUZnVDlQSzU1RFBkSUpYUzNVZWRn?oc=5",
+      "date": "2026-07-28 22:30",
+      "summary": "Tech employees call for US-backed global effort to manage risks of advanced AI  Reuters..."
+    },
+    {
       "title": "Trump administration bans new Chinese humanoid robots, to protect US AI buildout - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53?oc=5",
       "date": "2026-07-28 19:40",
       "summary": "Trump administration bans new Chinese humanoid robots, to protect US AI buildout  Reuters..."
+    },
+    {
+      "title": "Reuters: OpenAI Agent Hacked Hugging Face for Days Before Being Detected - Security Affairs",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMmNMbUdubUpMUXNSMkNFZDBlZl9HR0dvRHpqVFFtZHV4SDFYWXJ5b0lmUklITkM1QzBUUkxQcWtOaDFBV25aM3hjRDFFcXZsQUdjTElsUTFXQmxBOThfZ0I0dkFsSU5pODU4cTVFbGRDa2M3bUowTi1YR2dUZVZSZlJUS3ItdW1tSF9WMEg2djdGdVl2ejhjVW5jOTM4aHZia0RwcHJBSU1kQ2M2dWxDZ05TTVXSAboBQVVfeXFMT0hKWnJ6X1d5cnBNSDFHUWF2eGhQSU5jU1czZ1BoamhqcWh3VDV1X1RuVEF5SHpZTlNBQ2FkZUdWQTFPLW52Ykd0ajBiMVBJb2JjcmRXZkRkQXZRcU9KOGZ1U2FoR1JJTWJ2dkRmMjhRZURuZmNUSmlnNjNJaFZTLUVnNWY2OUZ4dlV1Z3hqa2FQcEp0TXpSNkVCWUhnT1V5S3B6LU9nYm5MdHJmX21JM1F6X25Hb0YySHF3?oc=5",
+      "date": "2026-07-27 22:29",
+      "summary": "Reuters: OpenAI Agent Hacked Hugging Face for Days Before Being Detected  Security Affairs..."
     },
     {
       "title": "Coursera backs co-founder Andrew Ng's new AI education firm with $100 million investment - Reuters",
@@ -192,6 +192,12 @@
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "The AI Hype Index: Unsexy AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0xGT0tpMGt3cHg4bFZ1UnNSOXhZcXhDWG4yUDdJSXFZZDFhOUg5T0lFOTR3Y3dHalRWVHJPQVk5VmtTY2EtUWhXMFZiMlMwcTgwLXg3c1kyYWRCalB5M0xCUEVEQ3NMWElDVi1JQ2pzV3FTWEctUTJ2Tk9aU05vTGQwOE9QekU?oc=5",
+      "date": "2026-07-29 08:42",
+      "summary": "The AI Hype Index: Unsexy AI  MIT Technology Review..."
+    },
     {
       "title": "The path to artificial superintelligence - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWJydVhNZTBaT1ZJak9Idk9TbmE3NFQ3VFp0R3dROENOaUxZTFdLTGdPTi1lUTZJQ1JadU9TZHUtLUpoSTBpSjB2aUowUHVCNjFnb043eTdtR0w0TEV4Y0RZV05pNTR2WXFfcDJDSUoxMlh4aGVPTGtVN2cycVFmcWVJeTRhV0ZTdVhXX3ZBVE5IOTZzMEhMcNIBngFBVV95cUxQZFVGM3FGRW9nQ28wQ3M3ZjZyWFRad3hlNDhJc1NWUGZZREpGSl9OM20zRzI1emlsUzNkNEVKNW8tNTZ0Q0hrdlFJUFdENmFfVUZiYUlHT0dxVUU4aEFvck1lMmJHeXFEWjVzU1lOUnVuVWpGZ29vMk9lQ05xSTZ1NWRILXVBWDBZRlRzcFBjYV91azNudVYtZGt6WnNtdw?oc=5",
@@ -215,44 +221,38 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFF4azRxdWQtdnFoeC1ZQkxkU3VqOHQ3UW1Ibk1aV3c2UjJoMlgxaDJIaFpydXlRUlduSXRTSVM1QlNqbnJYS3F5U1VmVEJUWjBMYkRYQWNkMmxTd3hJUnpWVHV1NThqT2g4bEJWUTh0cXptZVVhc2lVazZmR19nd1hYc3JIS2c2Q3NRUENXbEJ0UkQ4YTN5dlpuWjM0NjVxN2xFbG9R0gGrAUFVX3lxTE43dFVuWWo2MjNVZ0tteTdNVGt6amMtQzZ5ejRIdEJEM1kwR0lKSG9GQWdHTnFueVNITHVSY0FCemhNYlVFaXRJdmZBdVVDaWRLUGp3MmVtY1d4TFNGWGdWVk9ESFJHRHh0Z1ktdV84ZUJCRk9VMldoaU9LQm9WWFdMTzZVdVlXaDZoWFA0VmdldmgxTHY4U002ZVFQYUhJdkhZdVcyNmhwMVhSbw?oc=5",
       "date": "2026-07-27 11:32",
       "summary": "Building the enterprise environment for agentic AI  MIT Technology Review..."
-    },
-    {
-      "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement” - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeTZoMXNvMVBpX091VjNLaGlwSi16eDNnWTFVeDhQM2FDcldjYXM1bmpsTFpoTV93YXVvXzJmRFpoNXBRaTBQVVFyOUw2NzVTTXBTbkNmcFV6bkw3V3V5WVpiVGc2a09tQmFQeVh0YjF1ZkdwTU81Zjc1dlpKREtrTldxOWpMcjlGdl81Q0lESXJMSzRXNGctYTA5bUtYcHpYbHlrczluN3B4dFR3VVZ1YU1OUk0xOWM4Q2xxdzRkYmlyZG9HVlc3elhUONIB0AFBVV95cUxQWnJGQ255S0ZfTlNvekNIcDdEMEtrQjNMNzU4bU9IX2N6N2lGcWVJd1gyYnNDWi1QVXdXZGFBc245d3Q3ZlBYLThxUWdLRDh6TWlycDRfYklOSnRuc1ltVFlWY1FCQkVtSnRuS1g2cTZhSE1CSHBYQWdlTER1NVhXVzdWcmM0c2tTWEgwa2sxRW9tRFZKQzNWMUJoTkFtUUhGRmRiNG5JWWtldEQ3QmJLd1E5cFdqWGtzcXh1Smt0alVhLUhKTW9fMWNkY2xUamN3?oc=5",
-      "date": "2026-07-23 16:58",
-      "summary": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Scientists discover 210-million-year-old dinosaur in Zimbabwe",
-      "link": "https://phys.org/news/2026-07-scientists-million-year-dinosaur-zimbabwe.html",
-      "date": "2026-07-29 08:30",
-      "summary": "A newly discovered dinosaur from Zimbabwe is offering fresh clues to how the animals diversified, suggesting they spread across di..."
+      "title": "Disclosing past substance use in medical and dental school applications could hurt admissions prospects, study finds",
+      "link": "https://phys.org/news/2026-07-disclosing-substance-medical-dental-school.html",
+      "date": "2026-07-29 11:20",
+      "summary": "More than 4 in 5 physicians and dentists believe applicants who disclose a history of substance use on medical or dental school ap..."
     },
     {
-      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
-      "link": "https://phys.org/news/2026-07-york-school-deploy-humanlike-ai.html",
-      "date": "2026-07-29 08:30",
-      "summary": "A school district in a rural corner of upstate New York is hitting pause on plans to deploy an AI-powered, humanoid robot in the c..."
+      "title": "Recommendations on addressing intimate partner violence issued by expert panel",
+      "link": "https://phys.org/news/2026-07-intimate-partner-violence-issued-expert.html",
+      "date": "2026-07-29 11:00",
+      "summary": "When Congress passed the Deborah Sampson Act of 2020—named for a woman who served in the Revolutionary War disguised as a man—the ..."
     },
     {
-      "title": "Private mission to rescue NASA's aging telescope runs into its own trouble",
-      "link": "https://phys.org/news/2026-07-private-mission-nasa-aging-telescope.html",
-      "date": "2026-07-29 08:16",
-      "summary": "The spacecraft rushing to the rescue of an aging and sinking NASA telescope has run into its own problem...."
+      "title": "Understanding eras: Predicting audience preferences with new perspective on nostalgia",
+      "link": "https://phys.org/news/2026-07-eras-audience-perspective-nostalgia.html",
+      "date": "2026-07-29 11:00",
+      "summary": "When brands spend millions every year to transport Super Bowl audiences back in time during commercials, what happens if they choo..."
     },
     {
-      "title": "Wildfires are more extreme in Europe and North America, but global burning is oddly decreasing",
-      "link": "https://phys.org/news/2026-07-wildfires-extreme-europe-north-america.html",
-      "date": "2026-07-29 08:15",
-      "summary": "It seems as if the world is afire this summer. But even as wildfires in Europe and North America grow more extreme, key worldwide ..."
+      "title": "New twist on the Einstein problem reveals unexpected physics",
+      "link": "https://phys.org/news/2026-07-einstein-problem-reveals-unexpected-physics.html",
+      "date": "2026-07-29 09:00",
+      "summary": "A shape that captured worldwide attention for solving a decades-old mathematical puzzle has returned to the spotlight. While the s..."
     },
     {
-      "title": "Mosquitoes are rapidly activating enzymes against common insecticide, researchers warn",
-      "link": "https://phys.org/news/2026-07-mosquitoes-rapidly-enzymes-common-insecticide.html",
-      "date": "2026-07-29 04:00",
-      "summary": "Traditionally, public health programs have relied on chemicals for mosquito management, which may be why combating mosquitoes is b..."
+      "title": "Repeating distance patterns let optical systems tackle large optimization problems",
+      "link": "https://phys.org/news/2026-07-distance-patterns-optical-tackle-large.html",
+      "date": "2026-07-29 09:00",
+      "summary": "From planning transportation networks to organizing massive datasets, many of society's most important challenges boil down to an ..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Hong Kong coach accused of slapping boy, 8, forcing him to stand in blazing sun",
+      "title": "80% of mainland Chinese firms eye Hong Kong as launch pad for Asean expansion",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362280/80-mainland-chinese-firms-eye-hong-kong-launch-pad-asean-expansion?utm_source=rss_feed",
+      "date": "2026-07-29 11:05",
+      "summary": "More than 90 per cent of mainland Chinese enterprises plan to expand overseas within the next two years, with over 80 per cent aim..."
+    },
+    {
+      "title": "Trees felled during Typhoon Noul raise safety concerns in Hong Kong",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3362275/trees-felled-during-typhoon-noul-raise-safety-concerns-hong-kong?utm_source=rss_feed",
+      "date": "2026-07-29 10:33",
+      "summary": "The uprooting of numerous trees across Hong Kong during Typhoon Noul last weekend has sparked safety concerns among residents, wit..."
+    },
+    {
+      "title": "Former Hong Kong school teacher guilty of molesting student",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362269/former-hong-kong-school-teacher-guilty-molesting-student?utm_source=rss_feed",
+      "date": "2026-07-29 10:02",
+      "summary": "A former Hong Kong school teacher has been remanded in custody pending sentencing for twice molesting a student six years ago.\nA D..."
+    },
+    {
+      "title": "Authorities arrest 14 in crackdown on unlicensed hawkers, seize 600kg of food",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362268/authorities-arrest-14-crackdown-unlicensed-hawkers-seize-600kg-food?utm_source=rss_feed",
+      "date": "2026-07-29 09:46",
+      "summary": "Hong Kong’s hygiene authorities have arrested 14 people during a citywide crackdown on unlicensed hawkers and seized 600kg (1,320l..."
+    },
+    {
+      "title": "Hong Kong coach accused of slapping boy, 8, forcing him to stand under hot sun",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362237/hong-kong-coach-accused-slapping-boy-8-forcing-him-stand-blazing-sun?utm_source=rss_feed",
       "date": "2026-07-29 07:19",
-      "summary": "A Hong Kong coach has been accused of assaulting and abusing an eight-year-old boy, slapping his face and forcing him to stand out..."
-    },
-    {
-      "title": "Hongkongers in quake-hit Japanese city offer helping hand to fellow travellers",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3362235/hongkongers-quake-hit-japanese-city-offer-helping-hand-fellow-travellers?utm_source=rss_feed",
-      "date": "2026-07-29 07:02",
-      "summary": "Hongkongers visiting the earthquake-hit Japanese city of Kumamoto are offering rides to fellow travellers stranded in the area.\nA ..."
-    },
-    {
-      "title": "Ex-Cathay employee gets 20 months’ jail for taking bribes in human smuggling case",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362230/ex-cathay-employee-gets-20-months-jail-taking-bribes-human-smuggling-case?utm_source=rss_feed",
-      "date": "2026-07-29 06:32",
-      "summary": "A former customer services officer with Hong Kong’s Cathay Pacific has been jailed for one year and eight months for accepting at ..."
-    },
-    {
-      "title": "Windsurfer Lee Lai-shan wins Hong Kong’s first Olympic gold in 1996 – SCMP archive",
-      "link": "https://www.scmp.com/sport/hong-kong/article/3362206/windsurfer-lee-lai-shan-wins-hong-kongs-first-olympic-gold-1996-scmp-archive?utm_source=rss_feed",
-      "date": "2026-07-29 06:15",
-      "summary": "This article was first published on July 30, 1996.\nOur golden girl\nby Nazvi Careem and Scott McKenzie\nCheers and tears swept Hong ..."
-    },
-    {
-      "title": "Hong Kong doctor acquitted 15 years after complaint as watchdog drops case",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362216/hong-kong-doctor-acquitted-15-years-after-complaint-watchdog-drops-case?utm_source=rss_feed",
-      "date": "2026-07-29 05:20",
-      "summary": "A Hong Kong ophthalmologist has been cleared of professional misconduct after the city’s medical watchdog decided to offer no evid..."
+      "summary": "A Hong Kong coach has appeared in court over allegations she slapped an eight-year-old boy and forced him to stand under the hot s..."
     }
   ]
 }
