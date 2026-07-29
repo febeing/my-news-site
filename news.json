@@ -77,12 +77,6 @@
       "summary": "Stanford chef brings Caribbean flavors to campus  FoodService Director..."
     },
     {
-      "title": "David G. Luenberger, pioneer in optimization theory, dies at 88 - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOEN1RlpfT3hHc1NRNXp2enFtUGc1VGdBSVFRQWstQkVTQndqa25fMHg3RWl5SkRpTlczRUxUeVgyNUFLQjRROXNDNi15OW1haGdMbG1XYWk3c0RwWVpWSHRickVmb0xndERqVFRJOVQ2bnRSQ1JzcTNXaHloT2U4ZVIyNTJBSkVSYzF1WWdTejByMTBaeG5xWmRTdm9fMmZKZk1tc3N3djk3ai1LN244ZHpORUhvVzVXNFVGbHBZaXpRNnYzMW1fcEJsSQ?oc=5",
-      "date": "2026-07-28 20:51",
-      "summary": "David G. Luenberger, pioneer in optimization theory, dies at 88  Stanford Report..."
-    },
-    {
       "title": "Stanford players take first step toward collective bargaining unit - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUFTWGFGdWFqRnJ6WHlLdmwyREh5OWsxcVZxcHJEdlhsQ0xwaDRiUVBWX3pkWThPTHhhbms5WU0xMktLcTNBRmlfVE11ZWVfY1VDNzhuZTBYaVlsTzMwSkE5S0s5ak8ySDRnajJ1OWttbnlOTVN6X040UENkUjMzOURuY0MxS1dYV09ic0VsNFBvTGxJUjNMblBSQkFqMTY3WmltRHdtQmt3Z0g5UGxHWTZodmQ?oc=5",
       "date": "2026-07-27 22:32",
@@ -93,6 +87,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWxGbC1FTnVoSVJqU3Q5VlVnaWJkRmMzSEN3NXlzZE5IZFdmeU1kdHM3V2RoYmZzSnYwWWZfVGtnYUxKV3lGUjFIUG5XMFUtaUFwTjZRTy1OZjl6dFdabWxNa2JxbFdvUWM1X2R5NkRaeTFFU0c0am9VZlFMT2dwa1FVQWFrTjZScktGSk5FYVoxTG9xWHZoSmlGQWlFeFBwYTFDcFlwd0M5Z9IBsgFBVV95cUxOZmRiSXZBMVVxYml6X1NvbFRVaXVlXzdzVld0UjBFZm9IbHRVUGtLWno4Z0lqVXRkX0p4MFNlYTVrZGNaVHdjNjd1UFk5YjdmZVpNRGI5VTlmTHN2UFNkR1ZkTGxLWnREMnZJREN5RDk5cjlrWnpPZ25rY3dveDlrTEhZdVdmTW5IVmpuTFk1aXJDNjB4dnIxbk9xWEt3ZjR6REhOVHFyMHJkRTBpaXpXU3l3?oc=5",
       "date": "2026-07-27 23:36",
       "summary": "Stanford organizes player-led College Football Players Association chapter  NBC Bay Area..."
+    },
+    {
+      "title": "Things To Know: Stanford Stadium 2026 - Stanford Cardinal",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONXZBNHNxUmY4d1JPTzZFaU1IV3kzeEpnQU5jX0VKLW5PSUQ2bEQzLUtZUVlOVE9MWF8wTDAxaENNVnpfZVpZTTBkS3A5M2MwWEhRbXNrcmtTVWFzbElsY044eGIzcFZSNEJhdm5aaGlxeWt5N244TW9OUVh0c29OWg?oc=5",
+      "date": "2026-07-27 22:14",
+      "summary": "Things To Know: Stanford Stadium 2026  Stanford Cardinal..."
     }
   ],
   "Nature Careers": [
@@ -161,37 +161,49 @@
   ],
   "Reuters AI": [
     {
+      "title": "Tech employees call for US-backed global effort to manage risks of advanced AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUdKZ0lPNURncWhtWjRjSDFGa2Q5U1V1NzdKcEVRcEJCZEo4Y1daZVF0RTd4OGdhekdaVkZBYW10YTlXaUtmZGNEZGNGUG9ZVTBwRTFhUXUzRjhnTjdZRFFHR0YtdjFheHFrMkVrLTF4THNZQUl4QkQ4cno2OExITkkya214MWlGRzh0VDlLNFBSNGw0bTVheFFKaWkyNlpsdk05bC1ILXJ6aUZnVDlQSzU1RFBkSUpYUzNVZWRn?oc=5",
+      "date": "2026-07-28 22:30",
+      "summary": "Tech employees call for US-backed global effort to manage risks of advanced AI  Reuters..."
+    },
+    {
       "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU2NzVEU5THRFZ3EzNVVuaGY4d1RrSUtldW1SM2pWN3hjWjM1cF9nSXUyZThsazlDa2x0Y014Z05DN29lZjA2YS1LdUpBV1k1cXpqdmV0OHVoVEg5T3QwMkhzMFUxX2VNOC1fd0JxT2daUy11Ti1WNnFtc3QteC1jcVhFcUpLWGdXUXc4a1pqU3JvczRENmE5ZTVLWWFqUjN3YTR4dmUxNmk5eGlUMjhOYUh1cnYtLWpFS1hjUE5ZOFJ5QkZId00yZ1JsVzJuWEJsYkRv?oc=5",
       "date": "2026-07-28 14:30",
       "summary": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports  Reuters..."
     },
     {
-      "title": "China accuses US of 'AI hegemonism', threatens countermeasures over potential probes - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2l6SXZVb29hZ244bE5rbTdWWkNINUw0VTN5TlhHemFDWG5VSmd3d0M2OTBnWUNDMUFRekpWOWwtME9MTTIwTTVvVFpuNVRmYnJ1eDFLVUR1bnVZVWNSdHJZOXhEZXBWdWpaT05JbHlhRXBVdUZlSE14M29ReDhHYTVvQmplZXhJYVNfeHNDZ0JxUmhIelFmbmROeWZudGwxXzJwRHgwV2RMVjVBdjJHSDQ0NmlmZXZoOU9YYjZCZkl5X1FB?oc=5",
-      "date": "2026-07-27 15:44",
-      "summary": "China accuses US of 'AI hegemonism', threatens countermeasures over potential probes  Reuters..."
+      "title": "EXCLUSIVE: Trump administration bans new Chinese humanoid robots, to protect US AI buildout - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53?oc=5",
+      "date": "2026-07-28 19:40",
+      "summary": "EXCLUSIVE: Trump administration bans new Chinese humanoid robots, to protect US AI buildout  Reuters..."
     },
     {
       "title": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHBXRTBZX1RmZjlnU2owVWlZMW5TMGtzR3JyWVRrcWpUblNaTjg3ZXUyUmQ0Z1JTNVVHRERkN284N0o4SFZ0SGdvTnR0ZG5hTEo0b1pkOU0zTHFRZ01OV0tIRFNnQ1YwMThhYlBBTjgzOFN6bE90aTdIV0htb0xJNldUTUxTUm91TzlyWVFRaE5tSkFHWGhXWXdzQVpWTDRWc2dIOTU1X25lLXViRVRWcm5qMTc2TnM?oc=5",
-      "date": "2026-07-28 22:35",
+      "date": "2026-07-28 23:13",
       "summary": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says  Reuters..."
     },
     {
-      "title": "EXCLUSIVE: Trump administration bans new Chinese humanoid robots, to protect US AI buildout - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53?oc=5",
-      "date": "2026-07-28 22:30",
-      "summary": "EXCLUSIVE: Trump administration bans new Chinese humanoid robots, to protect US AI buildout  Reuters..."
-    },
-    {
-      "title": "Tech employees call for US-backed global effort to manage risks of advanced AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUdKZ0lPNURncWhtWjRjSDFGa2Q5U1V1NzdKcEVRcEJCZEo4Y1daZVF0RTd4OGdhekdaVkZBYW10YTlXaUtmZGNEZGNGUG9ZVTBwRTFhUXUzRjhnTjdZRFFHR0YtdjFheHFrMkVrLTF4THNZQUl4QkQ4cno2OExITkkya214MWlGRzh0VDlLNFBSNGw0bTVheFFKaWkyNlpsdk05bC1ILXJ6aUZnVDlQSzU1RFBkSUpYUzNVZWRn?oc=5",
-      "date": "2026-07-28 22:30",
-      "summary": "Tech employees call for US-backed global effort to manage risks of advanced AI  Reuters..."
+      "title": "Coursera backs co-founder Andrew Ng's new AI education firm with $100 million investment - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNDBBczc5Q21jMGFpRUdBbUJwWHBqem9mZDJFel9GMTlxVzFXWjEwMEhYSERVd2pPZ1Uzc2JXbGZQWG96aUdCaW9LRFlLaHRsYldNczltR2tmTmg1VmlYUkNyd3ZKRnB4NGxvaXkzeWlvWE1rSlNMdEFUTlVzSThFaGZrdjY3dF9wQXFyQ3dFR3NHdEdnekRSVDJfWDZLS1NtbEx1U3JSTF9VTHowU2c3UTV3OEVWQlozSm1zNFVtaw?oc=5",
+      "date": "2026-07-28 20:09",
+      "summary": "Coursera backs co-founder Andrew Ng's new AI education firm with $100 million investment  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "The path to artificial superintelligence - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWJydVhNZTBaT1ZJak9Idk9TbmE3NFQ3VFp0R3dROENOaUxZTFdLTGdPTi1lUTZJQ1JadU9TZHUtLUpoSTBpSjB2aUowUHVCNjFnb043eTdtR0w0TEV4Y0RZV05pNTR2WXFfcDJDSUoxMlh4aGVPTGtVN2cycVFmcWVJeTRhV0ZTdVhXX3ZBVE5IOTZzMEhMcNIBngFBVV95cUxQZFVGM3FGRW9nQ28wQ3M3ZjZyWFRad3hlNDhJc1NWUGZZREpGSl9OM20zRzI1emlsUzNkNEVKNW8tNTZ0Q0hrdlFJUFdENmFfVUZiYUlHT0dxVUU4aEFvck1lMmJHeXFEWjVzU1lOUnVuVWpGZ29vMk9lQ05xSTZ1NWRILXVBWDBZRlRzcFBjYV91azNudVYtZGt6WnNtdw?oc=5",
+      "date": "2026-07-27 12:00",
+      "summary": "The path to artificial superintelligence  MIT Technology Review..."
+    },
+    {
+      "title": "Closing the data loop in AI-driven drug discovery - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXpXTFdNS244eEltNWFiLXFmaE9LSzlRbFoycTgyQjYzM0ZaSFU0Ty1QRGJTeEo0VzhHZEZndnVqM2FfdnpUX3lhUm9qaFlfX0ZOZ04zeDkzT0dSUkhfOWlmaXltM0RES19Ma0dvd09haU44MXowY0NGdDBGSXZtenZEZEJqNnNXaHJ3QVN2RHFTRlp2aHpNQVZXYnoxMDJvVlhQVNIBqgFBVV95cUxQTTRTTW81RU9BTVFMS2F2ejlLdmdFM01WTGM5cFh6RUJjU3ZRaU5rdTI4d0p1RUJOcWdXWVZOT2JLQWVzdFRHX29WM1dfNnNzbk81a3NsNDM2VFVXN284eEtFT0JmRTdDSFE2UXIwMzVKb0RadW9fR29TUnJuQ2tCRzNxWEw3alAybkpYdnNpdkQwT0ZzYjZVRzJ2OTlMOGRuclZPYTlSNmV2Zw?oc=5",
+      "date": "2026-07-27 11:40",
+      "summary": "Closing the data loop in AI-driven drug discovery  MIT Technology Review..."
+    },
     {
       "title": "Samsung’s chip workers are jumping ship to rival SK Hynix - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFIxaG5HN3FIZUhnYXFoVWtqM1UxTFE3SWxFZjZUWHplNDV5NUdvV2hzMXN6cVZXMUNnazNkV1paYzl2cjdXQXl5ZkdWU1NiZkRSQVVUQV94U25oRllpQThYV0gyQ1hFLTh0bTB6MUpJVTktR3dsU0tEWDN6VkhwSndEc20zNlNDV05aQWFCdHkxczjSAZgBQVVfeXFMT0M4U3Awb3U1OC13LUV4QWU1M09pQl90NzZEZnFFd21jY2xteFVIRGpGdTNyVkhLRTJjcmVkSVdUTE5zcDU4TTh2UjRKLUJyOHRidE1BTTAyMDhPZlRsRjd6WEdabnA3cVY5ZkZ0SzVMaGdUUkhOMXJsNEo4aW1uNE53S3JIdUY0ODhGOEVlbmJVMmRSTElBcEI?oc=5",
@@ -205,54 +217,42 @@
       "summary": "How lasers could help provide fuel for nuclear reactors  MIT Technology Review..."
     },
     {
-      "title": "Closing the data loop in AI-driven drug discovery - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXpXTFdNS244eEltNWFiLXFmaE9LSzlRbFoycTgyQjYzM0ZaSFU0Ty1QRGJTeEo0VzhHZEZndnVqM2FfdnpUX3lhUm9qaFlfX0ZOZ04zeDkzT0dSUkhfOWlmaXltM0RES19Ma0dvd09haU44MXowY0NGdDBGSXZtenZEZEJqNnNXaHJ3QVN2RHFTRlp2aHpNQVZXYnoxMDJvVlhQVNIBqgFBVV95cUxQTTRTTW81RU9BTVFMS2F2ejlLdmdFM01WTGM5cFh6RUJjU3ZRaU5rdTI4d0p1RUJOcWdXWVZOT2JLQWVzdFRHX29WM1dfNnNzbk81a3NsNDM2VFVXN284eEtFT0JmRTdDSFE2UXIwMzVKb0RadW9fR29TUnJuQ2tCRzNxWEw3alAybkpYdnNpdkQwT0ZzYjZVRzJ2OTlMOGRuclZPYTlSNmV2Zw?oc=5",
-      "date": "2026-07-27 11:40",
-      "summary": "Closing the data loop in AI-driven drug discovery  MIT Technology Review..."
-    },
-    {
       "title": "Building the enterprise environment for agentic AI - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFF4azRxdWQtdnFoeC1ZQkxkU3VqOHQ3UW1Ibk1aV3c2UjJoMlgxaDJIaFpydXlRUlduSXRTSVM1QlNqbnJYS3F5U1VmVEJUWjBMYkRYQWNkMmxTd3hJUnpWVHV1NThqT2g4bEJWUTh0cXptZVVhc2lVazZmR19nd1hYc3JIS2c2Q3NRUENXbEJ0UkQ4YTN5dlpuWjM0NjVxN2xFbG9R0gGrAUFVX3lxTE43dFVuWWo2MjNVZ0tteTdNVGt6amMtQzZ5ejRIdEJEM1kwR0lKSG9GQWdHTnFueVNITHVSY0FCemhNYlVFaXRJdmZBdVVDaWRLUGp3MmVtY1d4TFNGWGdWVk9ESFJHRHh0Z1ktdV84ZUJCRk9VMldoaU9LQm9WWFdMTzZVdVlXaDZoWFA0VmdldmgxTHY4U002ZVFQYUhJdkhZdVcyNmhwMVhSbw?oc=5",
       "date": "2026-07-27 11:32",
       "summary": "Building the enterprise environment for agentic AI  MIT Technology Review..."
-    },
-    {
-      "title": "The path to artificial superintelligence - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWJydVhNZTBaT1ZJak9Idk9TbmE3NFQ3VFp0R3dROENOaUxZTFdLTGdPTi1lUTZJQ1JadU9TZHUtLUpoSTBpSjB2aUowUHVCNjFnb043eTdtR0w0TEV4Y0RZV05pNTR2WXFfcDJDSUoxMlh4aGVPTGtVN2cycVFmcWVJeTRhV0ZTdVhXX3ZBVE5IOTZzMEhMcNIBngFBVV95cUxQZFVGM3FGRW9nQ28wQ3M3ZjZyWFRad3hlNDhJc1NWUGZZREpGSl9OM20zRzI1emlsUzNkNEVKNW8tNTZ0Q0hrdlFJUFdENmFfVUZiYUlHT0dxVUU4aEFvck1lMmJHeXFEWjVzU1lOUnVuVWpGZ29vMk9lQ05xSTZ1NWRILXVBWDBZRlRzcFBjYV91azNudVYtZGt6WnNtdw?oc=5",
-      "date": "2026-07-27 12:00",
-      "summary": "The path to artificial superintelligence  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Queen bee pheromones help daughters decide whether to stay or leave the nest",
-      "link": "https://phys.org/news/2026-07-queen-bee-pheromones-daughters-stay.html",
-      "date": "2026-07-28 23:10",
-      "summary": "Female sweat bees need to make a pivotal life decision: remain in the nest to help their mother raise more offspring or leave to e..."
+      "title": "Carbon management revives CCS in Germany as safeguards steadily weaken",
+      "link": "https://phys.org/news/2026-07-carbon-revives-ccs-germany-safeguards.html",
+      "date": "2026-07-29 02:20",
+      "summary": "Carbon capture and storage (CCS) is regaining prominence in climate policy debates in Germany. A study published in Environmental ..."
     },
     {
-      "title": "Deformed head shapes in fossilized humans show their infants were probably just as helpless as modern human babies",
-      "link": "https://phys.org/news/2026-07-deformed-fossilized-humans-infants-helpless.html",
-      "date": "2026-07-28 23:10",
-      "summary": "Archaic human parents had to look after helpless infants like modern-day parents do, according to new research. Human babies are b..."
+      "title": "To afford aging in place, older adults turn to 'Golden Girls' housing",
+      "link": "https://phys.org/news/2026-07-aging-older-adults-golden-girls.html",
+      "date": "2026-07-29 01:20",
+      "summary": "In the much-loved 1980s sitcom, still in perpetual reruns, the four wisecracking women who share a house in Miami met through an a..."
     },
     {
-      "title": "Inequalities grow in cities as heat and daylight patterns transform urban life",
-      "link": "https://phys.org/news/2026-07-inequalities-cities-daylight-patterns-urban.html",
-      "date": "2026-07-28 23:00",
-      "summary": "Changing patterns of heat and daylight in urban environments are creating growing inequalities, with climate-related shifts reshap..."
+      "title": "Updating Darwin: Biologists are returning to an older theory to explain anomalies in evolution",
+      "link": "https://phys.org/news/2026-07-darwin-biologists-older-theory-anomalies.html",
+      "date": "2026-07-29 00:40",
+      "summary": "Evolution is a fact of life. So much so that even the theory of evolution is evolving. Lately, a centuries-old discredited idea ha..."
     },
     {
-      "title": "'Bag of Bones' preserves rare three-tier prehistoric meal in Outback Queensland",
-      "link": "https://phys.org/news/2026-07-bag-bones-rare-tier-prehistoric.html",
-      "date": "2026-07-28 22:40",
-      "summary": "An ancient marine 'crime scene' discovered near Richmond captures the world first evidence of a flying reptile being eaten by a se..."
+      "title": "100% organic free-range egg production could have negative consequences for climate and nature",
+      "link": "https://phys.org/news/2026-07-free-range-egg-production-negative.html",
+      "date": "2026-07-29 00:10",
+      "summary": "A study published in Royal Society Open Science reveals striking trade-offs when it comes to different methods of egg production. ..."
     },
     {
-      "title": "Researchers shed light on elusive sharks of Galapagos Islands",
-      "link": "https://phys.org/news/2026-07-elusive-sharks-galapagos-islands.html",
-      "date": "2026-07-28 22:40",
-      "summary": "For nearly two centuries, the Galapagos Islands have inspired scientific discovery. While some might think only of Charles Darwin ..."
+      "title": "Gaming helps moms recover from parenting stress—but guilt can still get in the way",
+      "link": "https://phys.org/news/2026-07-gaming-moms-recover-parenting-stress.html",
+      "date": "2026-07-29 00:00",
+      "summary": "Video gaming is a valued leisure activity in Australia. The latest data show 74% of Australian households own at least two gaming ..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Man dies, 78 people evacuated after fire breaks out at Hong Kong village house",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3362194/man-dies-78-people-evacuated-after-fire-breaks-out-hong-kong-village-house?utm_source=rss_feed",
+      "date": "2026-07-29 02:01",
+      "summary": "A man was killed and nearly 80 people were forced to evacuate after a fire broke out at a village house in Hong Kong on Wednesday...."
+    },
+    {
+      "title": "How Hong Kong can chart a cycle-friendly course",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3361735/how-hong-kong-can-chart-cycle-friendly-course?utm_source=rss_feed",
+      "date": "2026-07-29 01:30",
+      "summary": "During the opening ceremony of Ride to Shine Hong Kong this month, Secretary for Culture, Sports and Tourism Rosanna Law Shuk-pui ..."
+    },
+    {
+      "title": "AI boom will sustain Hong Kong’s export surge, lift GDP outlook, economists say",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362167/ai-boom-will-sustain-hong-kongs-export-surge-lift-gdp-outlook-economists-say?utm_source=rss_feed",
+      "date": "2026-07-29 00:30",
+      "summary": "Hong Kong’s export surge will extend into the coming months, driven by the global AI boom, economists have told the South China Mo..."
+    },
+    {
       "title": "Hongkonger in Japan’s quake-hit Kumamoto describes shock: ‘I was quite scared’",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3362174/i-was-quite-scared-hongkonger-japans-quake-hit-kumamoto-describes-shock?utm_source=rss_feed",
       "date": "2026-07-28 15:24",
@@ -299,24 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362170/telling-hong-kong-judge-retire-early-sufficient-penalty-plagiarism-experts?utm_source=rss_feed",
       "date": "2026-07-28 14:40",
       "summary": "Telling a Hong Kong judge found to have plagiarised submissions in his judgments to retire early is a sufficient penalty, as he ha..."
-    },
-    {
-      "title": "HKU says next leader must have ‘fresh ideas’ for coming ‘transformation’",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3362165/hku-says-next-leader-must-have-fresh-ideas-coming-transformation?utm_source=rss_feed",
-      "date": "2026-07-28 13:43",
-      "summary": "The University of Hong Kong (HKU) will launch a global hunt for its next leader to guide the institution to “fresh ideas” and thro..."
-    },
-    {
-      "title": "Hong Kong parents rush babies for check-ups over infant formula lead scare",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362152/hong-kong-parents-rush-babies-check-ups-over-infant-formula-lead-scare?utm_source=rss_feed",
-      "date": "2026-07-28 11:43",
-      "summary": "Worried Hong Kong parents who bought a popular powdered infant formula are taking their children for medical check-ups after a bat..."
-    },
-    {
-      "title": "Hong Kong drives trials for breast cancer, eye treatments across Greater Bay Area",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362148/hong-kong-drives-trials-breast-cancer-eye-treatments-across-greater-bay-area?utm_source=rss_feed",
-      "date": "2026-07-28 11:29",
-      "summary": "Two US-developed treatments for breast cancer and a degenerative eye disease will undergo large-scale clinical trials in the Great..."
     }
   ]
 }
