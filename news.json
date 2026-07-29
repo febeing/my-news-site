@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT and Broad Institute researchers break diffraction barrier in super-resolution microscopy",
+      "link": "https://news.mit.edu/2026/researchers-break-diffraction-barrier-super-resolution-microscopy-0729",
+      "date": "2026-07-29 17:00",
+      "summary": "New U-STORM imaging technology lets scientists view molecular structures in subatomic detail — about 1,000 times clearer than trad..."
+    },
+    {
       "title": "MIT engineers design recyclable elastic yarn",
       "link": "https://news.mit.edu/2026/mit-engineers-design-recyclable-elastic-yarn-0727",
       "date": "2026-07-27 14:00",
@@ -23,12 +29,70 @@
       "link": "https://news.mit.edu/2026/how-influx-salt-may-affect-microbial-ecosystems-0717",
       "date": "2026-07-17 09:00",
       "summary": "As sea levels rise and saltwater seeps into freshwater, stressed aquatic populations may retain overall growth even as diversity d..."
+    }
+  ],
+  "Harvard Gazette": [
+    {
+      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
+      "date": "2026-06-03 07:00",
+      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
-      "title": "For energy systems that power a reliable grid, the future is all about location",
-      "link": "https://news.mit.edu/2026/energy-systems-reliable-grid-future-is-about-location-0716",
-      "date": "2026-07-16 09:00",
-      "summary": "MIT researchers find that where new energy projects are built could be key to avoiding blackouts in a future with hotter weather a..."
+      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
+      "date": "2026-05-12 07:00",
+      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+    },
+    {
+      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+    },
+    {
+      "title": "Is your cholesterol too high based on latest guidelines? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOE1Tb01PZXUyT0JuMmZWNmZrdXpmNHJQVUc4V0FLVFRhQWlaUTFfdjVhRVM1WUZqOFF6MldETGI3bEtVeVljRUtqMnJLM3l3ODJjSjktbmZTVDJnMkNET2JWMWVCMExtbUo3V0tpY0dRLURocFpoRV9GTkRxaVVzd0pPTXpwVXRGbDJJN3lWY1Y3VlZ3NjVwU19Ic2luWXJ4SlE0eFpR?oc=5",
+      "date": "2026-07-21 07:00",
+      "summary": "Is your cholesterol too high based on latest guidelines?  Harvard Gazette..."
+    },
+    {
+      "title": "The questions that keep scientists up at night - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
+      "date": "2026-04-07 07:00",
+      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
+    }
+  ],
+  "Stanford News": [
+    {
+      "title": "Aikey Garners Overall Academic All-American of the Year - gostanford.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVJrSW1iMlpIMElWVktYNUdDX3Z3b1lacU9TeGtORTRDVVhJcUtpSkl1eTRYVUlIb0ZsY2pqUlZSZ1dBZTJuV2dqR2ZnWmxCYTk4OEJfT3RSVmVrcm9OLVBnUFJ0dmltSjVGTHl2c2dIOTU4RHU0VHh4ZlFoajBFYTIzbVBFdEtvenNySllTVy1Xend5S0hZZHNR?oc=5",
+      "date": "2026-07-29 16:10",
+      "summary": "Aikey Garners Overall Academic All-American of the Year  gostanford.com..."
+    },
+    {
+      "title": "ACC’s transfer-heavy QB lineup features some surprise Bay Area ties - Santa Cruz Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTE5HdE5EVjlLdzdsbGREZ09PM2swR2tLZ3oyUHlDZUdIQzFQVThyM1RsX2lpOHM3dGNTd2dXRlg1OHpKVzZUaTBpSm5ucDVuY0ZyeGhORm9aMFJaZmxOZTdBRGZyZ0g2VF9nMGxPTUVNVV92WEQtblRzaW1qaEQ3WnlwQ05GelRyOFFhMzByc2lUWC01Sk5DcEkxY0ZZZ2xiM091S0lIVFUwRGpQNzA4ajUtQTlZd3g5SUhKbnJOMmpZTG5EMmJIZTgzSHdTN1ZESzAwbFpyMndKaXpjbFJj?oc=5",
+      "date": "2026-07-29 12:16",
+      "summary": "ACC’s transfer-heavy QB lineup features some surprise Bay Area ties  Santa Cruz Sentinel..."
+    },
+    {
+      "title": "The Stanford e-Yamaguchi Program Completes Its Second Year - Freeman Spogli Institute for International Studies",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVGZJSlhoQUVxdDVfYlJfU1dKUEZtVjFQcjY1Vi1BR0h2ZlFQaHpEX0llMzRaR09hUEtYUksxVkx2S0lCVXQ0RDg1eXp3YjZxNjdTMTIzOGFKTVE0ZVJ2ZGR2NFR3X3BXMVBmX3RCTTVicTF3T0F0N090ak5xdE1vOGhILXZ0T285TUszWA?oc=5",
+      "date": "2026-07-28 12:00",
+      "summary": "The Stanford e-Yamaguchi Program Completes Its Second Year  Freeman Spogli Institute for International Studies..."
+    },
+    {
+      "title": "Stanford Researchers Use AI and Protein Data to Discover “Natural Ozempic” - HPCwire",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdnU5WXVYSDRDSWJGWUZsXzQxSGh3bVE1SWwtTjFfZ2FnQ3hQNGZiV3I0LWdRX21wc3lRay1FelFKckxYVlVIemIxbnRyZDAtOE1RTnRUZ3dNZUtRQ2VtVWdlQThlYllkbHBHX2w4T3NHRHV6R1RIQmV4QWxEZGFkNVJhWmRkSFpYVzl1R1RkN3hTUlExTU5Ob2oxTGFremJQWnF0N0pDUWowbkVvelZMcmxGdkxHZw?oc=5",
+      "date": "2026-07-29 14:58",
+      "summary": "Stanford Researchers Use AI and Protein Data to Discover “Natural Ozempic”  HPCwire..."
+    },
+    {
+      "title": "AI university rankings 2026: Stanford leads, Technion ranks 25th worldwide - ynetnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WUm9lcUxZY2xDUnd5X0V6Z0NyTG5WdFE1aUlCSWFKeTloRkUySmVrMWk4d2N1aFpNVWtIbWRsUzRyUUVYemg2Q0lPRi0xNmsyczFvTGMtRUdEQ0htTU5JcDBoVlZucVFvT1E?oc=5",
+      "date": "2026-07-29 06:08",
+      "summary": "AI university rankings 2026: Stanford leads, Technion ranks 25th worldwide  ynetnews.com..."
     }
   ],
   "Nature Careers": [
@@ -39,28 +103,28 @@
       "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10945-2Author Correction: A ductile solid electrolyte interphase fo..."
     },
     {
+      "title": "Earthworks spotted in the Amazon hint at huge ancient civilization",
+      "link": "https://www.nature.com/articles/d41586-026-02367-x",
+      "date": "2026-07-29 00:00",
+      "summary": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02367-xDiscovery of almost 400 structures may help to redefine the ..."
+    },
+    {
       "title": "Why tomorrow’s nanotechnologies need support today",
       "link": "https://www.nature.com/articles/d41586-026-02179-z",
       "date": "2026-07-29 00:00",
       "summary": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02179-zThe field seems to be on the cusp of big advances, but a con..."
     },
     {
-      "title": "Papers with open peer-review reports are less likely to be retracted",
-      "link": "https://www.nature.com/articles/d41586-026-02282-1",
+      "title": "Was art key to ancient humans' success? The secrets of Hohle Fels cave",
+      "link": "https://www.nature.com/articles/d41586-026-02359-x",
       "date": "2026-07-29 00:00",
-      "summary": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02282-1Researchers say that transparent publishing practices could ..."
+      "summary": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02359-xNew discoveries at famous archeological site add to mystery ..."
     },
     {
-      "title": "A guide to the Nature Index",
-      "link": "https://www.nature.com/articles/d41586-026-02183-3",
+      "title": "The piezochiral effect",
+      "link": "https://www.nature.com/articles/s41586-026-10845-5",
       "date": "2026-07-29 00:00",
-      "summary": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02183-3A description of the terminology and methodology used in thi..."
-    },
-    {
-      "title": "Polio will come roaring back if the task of eradicating it isn’t finished soon",
-      "link": "https://www.nature.com/articles/d41586-026-02308-8",
-      "date": "2026-07-29 00:00",
-      "summary": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02308-8Eliminating polio is within reach — if countries see it as a..."
+      "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10845-5The piezochiral effect, a new member of the family of strain..."
     }
   ],
   "Retraction Watch": [
@@ -95,36 +159,100 @@
       "summary": "Forty-one editors, associate editors and advisory board members resigned from their roles at the Review of Social Economy after th..."
     }
   ],
+  "Reuters AI": [
+    {
+      "title": "US to award GlobalFoundries $300 million to develop faster AI chip links - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOW0tVXFBZ2FXNkREcFU0S3dXaExacjNVemJWU3RsbnhiTTJWdkZram9nb0s2ZFdRVHJLZmM0VHdRTEMzRFpMcV9Ea0hZNEpoeDhlb0Nyc2RzUzBJSHBXckJ3aTIwQ1F6b2lqeEFkbUFNdXIwbEpLV191OTdoS2ZocUFsdXlIaGl1dFNaMDN2STN4ZXRyLThUemlSeVdoUXJMQ3hmUjdQaTR4cURDQ0JRcUpBNA?oc=5",
+      "date": "2026-07-29 10:37",
+      "summary": "US to award GlobalFoundries $300 million to develop faster AI chip links  Reuters..."
+    },
+    {
+      "title": "Tech employees call for US-backed global effort to manage risks of advanced AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUdKZ0lPNURncWhtWjRjSDFGa2Q5U1V1NzdKcEVRcEJCZEo4Y1daZVF0RTd4OGdhekdaVkZBYW10YTlXaUtmZGNEZGNGUG9ZVTBwRTFhUXUzRjhnTjdZRFFHR0YtdjFheHFrMkVrLTF4THNZQUl4QkQ4cno2OExITkkya214MWlGRzh0VDlLNFBSNGw0bTVheFFKaWkyNlpsdk05bC1ILXJ6aUZnVDlQSzU1RFBkSUpYUzNVZWRn?oc=5",
+      "date": "2026-07-28 22:30",
+      "summary": "Tech employees call for US-backed global effort to manage risks of advanced AI  Reuters..."
+    },
+    {
+      "title": "Italy, US to sign off on Pax Silica AI initiative after spat with Trump - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeFVYa0hKM0lzN1N0OFNVeDhuaGNHa1dwRXo1TEQ3MFNxOW0wNVV5aG1tdDFoUVE3QXViT1VHb2t2OTVGdHliSk1OYUxUbjJuZkpYazRwNjI2d1pySHU2TkVhU1c4bzdKd0YyTkUzWE1sNDU5TmtnemlEZ254Wjk3a2Q0RnJxYjd2aGMwdDk1c2xMcHNDNEptRDRyNU4teGZ1bzV6Z1ZPVVF5X1hIbnRDZVRR?oc=5",
+      "date": "2026-07-29 17:00",
+      "summary": "Italy, US to sign off on Pax Silica AI initiative after spat with Trump  Reuters..."
+    },
+    {
+      "title": "Reuters: OpenAI Agent Hacked Hugging Face for Days Before Being Detected - Security Affairs",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMmNMbUdubUpMUXNSMkNFZDBlZl9HR0dvRHpqVFFtZHV4SDFYWXJ5b0lmUklITkM1QzBUUkxQcWtOaDFBV25aM3hjRDFFcXZsQUdjTElsUTFXQmxBOThfZ0I0dkFsSU5pODU4cTVFbGRDa2M3bUowTi1YR2dUZVZSZlJUS3ItdW1tSF9WMEg2djdGdVl2ejhjVW5jOTM4aHZia0RwcHJBSU1kQ2M2dWxDZ05TTVXSAboBQVVfeXFMT0hKWnJ6X1d5cnBNSDFHUWF2eGhQSU5jU1czZ1BoamhqcWh3VDV1X1RuVEF5SHpZTlNBQ2FkZUdWQTFPLW52Ykd0ajBiMVBJb2JjcmRXZkRkQXZRcU9KOGZ1U2FoR1JJTWJ2dkRmMjhRZURuZmNUSmlnNjNJaFZTLUVnNWY2OUZ4dlV1Z3hqa2FQcEp0TXpSNkVCWUhnT1V5S3B6LU9nYm5MdHJmX21JM1F6X25Hb0YySHF3?oc=5",
+      "date": "2026-07-27 22:29",
+      "summary": "Reuters: OpenAI Agent Hacked Hugging Face for Days Before Being Detected  Security Affairs..."
+    },
+    {
+      "title": "Trump administration bans new Chinese humanoid robots, to protect US AI buildout - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53?oc=5",
+      "date": "2026-07-28 19:40",
+      "summary": "Trump administration bans new Chinese humanoid robots, to protect US AI buildout  Reuters..."
+    }
+  ],
+  "MIT Tech Review": [
+    {
+      "title": "The AI Hype Index: Unsexy AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0xGT0tpMGt3cHg4bFZ1UnNSOXhZcXhDWG4yUDdJSXFZZDFhOUg5T0lFOTR3Y3dHalRWVHJPQVk5VmtTY2EtUWhXMFZiMlMwcTgwLXg3c1kyYWRCalB5M0xCUEVEQ3NMWElDVi1JQ2pzV3FTWEctUTJ2Tk9aU05vTGQwOE9QekU?oc=5",
+      "date": "2026-07-29 08:42",
+      "summary": "The AI Hype Index: Unsexy AI  MIT Technology Review..."
+    },
+    {
+      "title": "The path to artificial superintelligence - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWJydVhNZTBaT1ZJak9Idk9TbmE3NFQ3VFp0R3dROENOaUxZTFdLTGdPTi1lUTZJQ1JadU9TZHUtLUpoSTBpSjB2aUowUHVCNjFnb043eTdtR0w0TEV4Y0RZV05pNTR2WXFfcDJDSUoxMlh4aGVPTGtVN2cycVFmcWVJeTRhV0ZTdVhXX3ZBVE5IOTZzMEhMcNIBngFBVV95cUxQZFVGM3FGRW9nQ28wQ3M3ZjZyWFRad3hlNDhJc1NWUGZZREpGSl9OM20zRzI1emlsUzNkNEVKNW8tNTZ0Q0hrdlFJUFdENmFfVUZiYUlHT0dxVUU4aEFvck1lMmJHeXFEWjVzU1lOUnVuVWpGZ29vMk9lQ05xSTZ1NWRILXVBWDBZRlRzcFBjYV91azNudVYtZGt6WnNtdw?oc=5",
+      "date": "2026-07-27 12:00",
+      "summary": "The path to artificial superintelligence  MIT Technology Review..."
+    },
+    {
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUpCWnpROTdmb1N4OGwxVkpmOHJYY1RGemJSaVl3TXJreXRnaUl6V293YzBXME4yeWRUeWh2WWFfb3BUMlJnMlVoT094c040bFZYdDlldHNQRGJVR1VyNV81clV1RTFSdHRjSFFtRDZiM0ZaeVRGak9zbnBwQ3prNmxEWWxvZ1V6QjU2Mk1sNUdveXfSAZgBQVVfeXFMTURtQ3dpTUZQLTN4RHVPX05HLWE3dDV3ZzN3NnhTR3B2aTROQnEwVXRzVVVodFNRNGdHR2x5QnVjbF84S1lYYUFiTXhVU3ZudHBjZTFZZWdTQXRvcU5GNkdUdi1KZWJkb1VkTkt1WVg3NjlUekREa1Uydzg1T2JydnBmdlNmSkhic0FJUGgtRU1ocTVqLTlxTXk?oc=5",
+      "date": "2026-07-27 18:00",
+      "summary": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.  MIT Technology Review..."
+    },
+    {
+      "title": "Closing the data loop in AI-driven drug discovery - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXpXTFdNS244eEltNWFiLXFmaE9LSzlRbFoycTgyQjYzM0ZaSFU0Ty1QRGJTeEo0VzhHZEZndnVqM2FfdnpUX3lhUm9qaFlfX0ZOZ04zeDkzT0dSUkhfOWlmaXltM0RES19Ma0dvd09haU44MXowY0NGdDBGSXZtenZEZEJqNnNXaHJ3QVN2RHFTRlp2aHpNQVZXYnoxMDJvVlhQVNIBqgFBVV95cUxQTTRTTW81RU9BTVFMS2F2ejlLdmdFM01WTGM5cFh6RUJjU3ZRaU5rdTI4d0p1RUJOcWdXWVZOT2JLQWVzdFRHX29WM1dfNnNzbk81a3NsNDM2VFVXN284eEtFT0JmRTdDSFE2UXIwMzVKb0RadW9fR29TUnJuQ2tCRzNxWEw3alAybkpYdnNpdkQwT0ZzYjZVRzJ2OTlMOGRuclZPYTlSNmV2Zw?oc=5",
+      "date": "2026-07-27 11:40",
+      "summary": "Closing the data loop in AI-driven drug discovery  MIT Technology Review..."
+    },
+    {
+      "title": "How lasers could help provide fuel for nuclear reactors - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTEZuaEFueXF2T0EwSWlDRjhHb2pEWmdFSHYzQXJyN09yX1dLOWxwVzdhTnRFMnRoeklvNG1kNXR6b3BFTjZ5ZWVobGY1bWxqSFhQSDZaVmNBWTlUOWw3d01uSVAwdDgwMy1VS3NQR2NPNy1Ha1VhTG1XNWNtbV9zb3l5TdIBiAFBVV95cUxPTlc2eWIxRi1ZYS01S1UtMlM5ZDN4RENOX056WUktWVlUbUxhUVZtTXB6d001RFJEM29MSzl6TGRFQWQ2SUQ4blZ2T0FJSWFxZ212NzRGelh0aHNjcDJXYmgzNlVmZzRIYmtyMEVqWWpuLV8yUnZYcFF6Q1VtS0VuMkEyVEk3Q0Rk?oc=5",
+      "date": "2026-07-27 14:24",
+      "summary": "How lasers could help provide fuel for nuclear reactors  MIT Technology Review..."
+    }
+  ],
   "Phys.org": [
     {
-      "title": "More than half of England 'officially in drought': UK govt",
-      "link": "https://phys.org/news/2026-07-england-drought-uk-govt.html",
-      "date": "2026-07-29 16:20",
-      "summary": "Just over half of England has been declared to be in drought after \"record-low rainfall and exceptionally high temperatures,\" the ..."
+      "title": "Global warming threatens rice harvests more than crop models predict, study warns",
+      "link": "https://phys.org/news/2026-07-global-threatens-rice-harvests-crop.html",
+      "date": "2026-07-29 18:00",
+      "summary": "A new study on how rising temperatures will affect rice production in Science Advances compares 214 observations from field-warmin..."
     },
     {
-      "title": "In seconds, fiber optic cables detect earthquake size",
-      "link": "https://phys.org/news/2026-07-seconds-fiber-optic-cables-earthquake.html",
-      "date": "2026-07-29 16:20",
-      "summary": "Scientists have discovered a new way to determine how big an earthquake may become just seconds after it begins. In a new study pu..."
+      "title": "Trees and microbes team up to improve nitrogen nutrient processes in higher CO₂ conditions",
+      "link": "https://phys.org/news/2026-07-trees-microbes-team-nitrogen-nutrient.html",
+      "date": "2026-07-29 18:00",
+      "summary": "Forest trees growing in air containing higher levels of carbon dioxide (CO2) radically change the way they \"cycle\" nitrogen, a key..."
     },
     {
-      "title": "Non-monogamy may reduce jealousy overall, but feeling less desirable can still strain relationships",
-      "link": "https://phys.org/news/2026-07-monogamy-jealousy-desirable-strain-relationships.html",
-      "date": "2026-07-29 16:00",
-      "summary": "Comparing yourself with your partner is more common than you'd think. Psychologists even have a term for it: mate value discrepanc..."
+      "title": "Unique fossil reveals the internal organs of a 245-million-year-old marine reptile",
+      "link": "https://phys.org/news/2026-07-unique-fossil-reveals-internal-million.html",
+      "date": "2026-07-29 18:00",
+      "summary": "Scientists from China, Europe and the U.S., including Dr. Stephan Spiekman, a paleontologist at the State Museum of Natural Histor..."
     },
     {
-      "title": "Industrial noise may alter bluebird behavior but not cognitive ability",
-      "link": "https://phys.org/news/2026-07-industrial-noise-bluebird-behavior-cognitive.html",
-      "date": "2026-07-29 16:00",
-      "summary": "Scientists have long wondered whether loud, human-caused noise interferes with wild animals' cognition—their ability to think and ..."
+      "title": "Smarter flood planning could protect millions as cities face rising climate risk",
+      "link": "https://phys.org/news/2026-07-smarter-millions-cities-climate.html",
+      "date": "2026-07-29 18:00",
+      "summary": "Extreme urban flooding is a growing challenge under climate change, threatening residents, infrastructure and urban systems. Howev..."
     },
     {
-      "title": "Shipwreck cargo reveals surprising global trade secrets of the 1600s",
-      "link": "https://phys.org/news/2026-07-shipwreck-cargo-reveals-global-secrets.html",
-      "date": "2026-07-29 15:40",
-      "summary": "Using cargo recovered from one of Australia's most infamous shipwrecks, new Curtin University-led research has revealed how surpri..."
+      "title": "Problematic internet users are crabbier, more stressed and more tempted than the rest of us",
+      "link": "https://phys.org/news/2026-07-problematic-internet-users-crabbier-stressed.html",
+      "date": "2026-07-29 18:00",
+      "summary": "People described as \"problematic\" internet users report higher stress, worse mood and greater neglect of other activities than tho..."
     }
   ],
   "The Guardian Edu": [
@@ -161,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Tai Po fire: contractor’s 2 directors deny all allegations in witness statements",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3362308/tai-po-fire-contractors-2-directors-deny-all-allegations-witness-statements?utm_source=rss_feed",
+      "date": "2026-07-29 16:58",
+      "summary": "Two directors of a contractor linked to the deadly inferno at Hong Kong’s Wang Fuk Court have denied all allegations of bid-riggin..."
+    },
+    {
       "title": "AI major focus as Hong Kong funds record 12 university research projects",
       "link": "https://www.scmp.com/news/hong-kong/education/article/3362305/ai-major-focus-hong-kong-funds-record-12-university-research-projects?utm_source=rss_feed",
       "date": "2026-07-29 15:01",
@@ -183,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362280/80-mainland-chinese-firms-eye-hong-kong-launch-pad-asean-expansion?utm_source=rss_feed",
       "date": "2026-07-29 11:05",
       "summary": "More than 90 per cent of mainland Chinese enterprises plan to expand overseas within the next two years, with over 80 per cent aim..."
-    },
-    {
-      "title": "Estate residents question why Typhoon Noul uprooted so many trees",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3362275/trees-felled-during-typhoon-noul-raise-safety-concerns-hong-kong?utm_source=rss_feed",
-      "date": "2026-07-29 10:33",
-      "summary": "The uprooting of numerous trees across Hong Kong during Typhoon Noul last weekend has sparked safety concerns among residents, wit..."
     }
   ]
 }
