@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Why some nitrogen-processing enzymes are more efficient than others",
+      "link": "https://news.mit.edu/2026/why-some-nitrogen-processing-enzymes-are-more-efficient-0730",
+      "date": "2026-07-30 15:00",
+      "summary": "New findings could help researchers design synthetic catalysts that convert nitrogen gas to ammonia, a key step in fertilizer prod..."
+    },
+    {
       "title": "MIT and Broad Institute researchers break diffraction barrier in super-resolution microscopy",
       "link": "https://news.mit.edu/2026/researchers-break-diffraction-barrier-super-resolution-microscopy-0729",
       "date": "2026-07-29 17:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/missing-matter-diffuse-puffs-surround-most-galaxies-0721",
       "date": "2026-07-21 15:00",
       "summary": "An MIT-led team used bright radio bursts to illuminate a vast source of matter that was previously unaccounted for...."
-    },
-    {
-      "title": "How an influx of salt may affect microbial ecosystems",
-      "link": "https://news.mit.edu/2026/how-influx-salt-may-affect-microbial-ecosystems-0717",
-      "date": "2026-07-17 09:00",
-      "summary": "As sea levels rise and saltwater seeps into freshwater, stressed aquatic populations may retain overall growth even as diversity d..."
     }
   ],
   "Harvard Gazette": [
@@ -103,6 +103,12 @@
       "summary": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-01843-8The career market is difficult to navigate — and academic ac..."
     },
     {
+      "title": "Demand for lithium is surging: here’s how to make mining more sustainable",
+      "link": "https://www.nature.com/articles/d41586-026-02195-z",
+      "date": "2026-07-30 00:00",
+      "summary": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02195-zResearchers are looking for ways to extract the metal from u..."
+    },
+    {
       "title": "How I use statistics and my law degree to fight human-rights abuses",
       "link": "https://www.nature.com/articles/d41586-026-02079-2",
       "date": "2026-07-30 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10942-5",
       "date": "2026-07-29 00:00",
       "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10942-5Retraction Note: Human HDAC6 senses valine abundancy to regu..."
-    },
-    {
-      "title": "Earthworks spotted in the Amazon hint at huge ancient civilization",
-      "link": "https://www.nature.com/articles/d41586-026-02367-x",
-      "date": "2026-07-29 00:00",
-      "summary": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02367-xDiscovery of almost 400 structures may help to redefine the ..."
     }
   ],
   "Retraction Watch": [
@@ -161,34 +161,34 @@
   ],
   "Reuters AI": [
     {
-      "title": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHBXRTBZX1RmZjlnU2owVWlZMW5TMGtzR3JyWVRrcWpUblNaTjg3ZXUyUmQ0Z1JTNVVHRERkN284N0o4SFZ0SGdvTnR0ZG5hTEo0b1pkOU0zTHFRZ01OV0tIRFNnQ1YwMThhYlBBTjgzOFN6bE90aTdIV0htb0xJNldUTUxTUm91TzlyWVFRaE5tSkFHWGhXWXdzQVpWTDRWc2dIOTU1X25lLXViRVRWcm5qMTc2TnM?oc=5",
-      "date": "2026-07-29 05:49",
-      "summary": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says  Reuters..."
+      "title": "Meta's AI splurge lays bare its compute conundrum - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemprX210eGVvOXJmbDNRYktRX1VDZl82aFBTZ05COUllQnFrdXJFOFBJMmZWTTJLRC1MWW5qZHViUWpGVERtVUloN3RRMC1LZk5NbDAtMHNwTDN3QklhZHRIRy1sRHpqZUwyZnFMNkNaQ1JyVUNFNFdNNFRzRlBvTVpBWFhQQThBNHk5UTFvbWJXRlpnNXNKTGVnZVp5N3k5aTlVZGpabUF3dEZyNXc?oc=5",
+      "date": "2026-07-30 13:39",
+      "summary": "Meta's AI splurge lays bare its compute conundrum  Reuters..."
     },
     {
-      "title": "Trump administration bans new Chinese humanoid robots, to protect US AI buildout - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53?oc=5",
-      "date": "2026-07-29 00:29",
-      "summary": "Trump administration bans new Chinese humanoid robots, to protect US AI buildout  Reuters..."
+      "title": "China warns of retaliation if US sticks with robot ban - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmdhbnhGZW9OcUE5SGUyUmQ2RDdyQkN4N3d0ZVhtT201UTd5MEd1clhZc21YaUxIUVFMRTc2aUU5RzJWZTVQd3RmM19kUVhoVjJ4RElZS2UwbjdfNUhNVnY5NU1kTzNoUGFaX3VrNFZELUJmemg1R084Mm80cjFXd3FEeWhWczZ4MXFvNUo3c2pWLS14WnlqQlh4Y2JYaXlCZnVmeEdQcy1Udw?oc=5",
+      "date": "2026-07-30 04:58",
+      "summary": "China warns of retaliation if US sticks with robot ban  Reuters..."
+    },
+    {
+      "title": "Reuters: OpenAI Agent Hacked Hugging Face for Days Before Being Detected - Security Affairs",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMmNMbUdubUpMUXNSMkNFZDBlZl9HR0dvRHpqVFFtZHV4SDFYWXJ5b0lmUklITkM1QzBUUkxQcWtOaDFBV25aM3hjRDFFcXZsQUdjTElsUTFXQmxBOThfZ0I0dkFsSU5pODU4cTVFbGRDa2M3bUowTi1YR2dUZVZSZlJUS3ItdW1tSF9WMEg2djdGdVl2ejhjVW5jOTM4aHZia0RwcHJBSU1kQ2M2dWxDZ05TTVXSAboBQVVfeXFMT0hKWnJ6X1d5cnBNSDFHUWF2eGhQSU5jU1czZ1BoamhqcWh3VDV1X1RuVEF5SHpZTlNBQ2FkZUdWQTFPLW52Ykd0ajBiMVBJb2JjcmRXZkRkQXZRcU9KOGZ1U2FoR1JJTWJ2dkRmMjhRZURuZmNUSmlnNjNJaFZTLUVnNWY2OUZ4dlV1Z3hqa2FQcEp0TXpSNkVCWUhnT1V5S3B6LU9nYm5MdHJmX21JM1F6X25Hb0YySHF3?oc=5",
+      "date": "2026-07-27 22:29",
+      "summary": "Reuters: OpenAI Agent Hacked Hugging Face for Days Before Being Detected  Security Affairs..."
+    },
+    {
+      "title": "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEZfOHgyQlRiaG9ucmM3YnBvSnZZaVgxWlA2TU5rWHFBdzBzSTF0MWtjVThYeXBadEtxekF1Q2dRLVNtanFrZko4cVV4czhOVFRhdU9UVld1aS1vc1pwWlFLcnc4Q2wwc2VhUWtuWEhBVXU1MkRLWWo2YXdadG1VaHlGUEJPNlROeXRHN3M1MDlqQU9zeGMteGRHWllNQ3dfQUZwNkVvOEptTDdERGpteEpLZ09JWGt5ZEx6VFo3YWdUdC1r?oc=5",
+      "date": "2026-07-30 13:40",
+      "summary": "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says  Reuters..."
     },
     {
       "title": "Capgemini sees multi-year IT modernisation boom as firms prepare for AI - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVAwN1R1MGRORy1kVTZtLUU3aWk1WkNYOVpzYllJSTR0aWVRTnhVS1hDLVhFY2hoZ3dVR1lZd1BrdlFDTGRVaEwzbWx2d3ZSQ2tvQnRpbFdMNkJVY0RwWVJ1bDVweGJMUHA0NC1DX05wdHNSLXZZQ2Nxd05LS1M3UGhMUlhhdlpFOU54TkhSb2RrazRkc1hadXJFRjNmU1FSN3JGQjA4WGhDcDU3WGc?oc=5",
       "date": "2026-07-30 07:35",
       "summary": "Capgemini sees multi-year IT modernisation boom as firms prepare for AI  Reuters..."
-    },
-    {
-      "title": "Meta's AI splurge lays bare its compute conundrum - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemprX210eGVvOXJmbDNRYktRX1VDZl82aFBTZ05COUllQnFrdXJFOFBJMmZWTTJLRC1MWW5qZHViUWpGVERtVUloN3RRMC1LZk5NbDAtMHNwTDN3QklhZHRIRy1sRHpqZUwyZnFMNkNaQ1JyVUNFNFdNNFRzRlBvTVpBWFhQQThBNHk5UTFvbWJXRlpnNXNKTGVnZVp5N3k5aTlVZGpabUF3dEZyNXc?oc=5",
-      "date": "2026-07-30 10:41",
-      "summary": "Meta's AI splurge lays bare its compute conundrum  Reuters..."
-    },
-    {
-      "title": "EU aims for seven AI gigafactories with €10 billion plan in race with US, China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQemF1ckRFYmVucFp2NXhuNzA4cjNXdnNTdzcxWTBvdTJGU1NfTUdLbTFubnZEWFdjVFpGZWNBYi1CSGNTN3JPUEdzemU5TmFqQkYtU0dTb2JfS2NWa2ZvV0JfRW1pQzBubTBoS3ZEZ2VOaW9xX2dsT1c2NmZTOHpRSUU0X3REN01hb0MtRkFHYkkxbFZ5SHpsNlNmUG02UlN2Q1Y5RG5Zd2NWMWhBV0lwRWM2TlJ5Z0ZkdkE?oc=5",
-      "date": "2026-07-30 11:28",
-      "summary": "EU aims for seven AI gigafactories with €10 billion plan in race with US, China  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -211,48 +211,48 @@
       "summary": "The AI Hype Index: Unsexy AI  MIT Technology Review..."
     },
     {
-      "title": "How an overlooked geothermal plant got a second chance - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeXVUN2V0dkYtMnNKWWp4Q3RvSlVxYmRMMjd3YXd1dFFjYmxKc2RkY2hRTEJHNGs5WVNCLWtrZDN1cUUyRUFXSEZ2eE8wQjMxUjlOYmFsb0Z3Z1dJWm10c3VRa2lEVjNZeXJpWU1RWVNOMDBZT3YyNmxVVk5aQ0Y5dkx0WdIBiAFBVV95cUxQeThwMDBBOUptT1ZYSzBQTHV1Q0c5eEtGd3kwLU1qdGNUOU1QbndESkY3NU1Kc0wyQ09UR2VWMzlpMnFuVnd3b3AteGUwWjNNbFZobUJNSjByUGp0X2tDSGZxZnN2RVBFalVxRTB5SG9qTjdJVHdNc1VoaHYzdGhWSUVKQkxlbHJE?oc=5",
-      "date": "2026-07-29 17:58",
-      "summary": "How an overlooked geothermal plant got a second chance  MIT Technology Review..."
-    },
-    {
       "title": "How lasers could help provide fuel for nuclear reactors - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTEZuaEFueXF2T0EwSWlDRjhHb2pEWmdFSHYzQXJyN09yX1dLOWxwVzdhTnRFMnRoeklvNG1kNXR6b3BFTjZ5ZWVobGY1bWxqSFhQSDZaVmNBWTlUOWw3d01uSVAwdDgwMy1VS3NQR2NPNy1Ha1VhTG1XNWNtbV9zb3l5TdIBiAFBVV95cUxPTlc2eWIxRi1ZYS01S1UtMlM5ZDN4RENOX056WUktWVlUbUxhUVZtTXB6d001RFJEM29MSzl6TGRFQWQ2SUQ4blZ2T0FJSWFxZ212NzRGelh0aHNjcDJXYmgzNlVmZzRIYmtyMEVqWWpuLV8yUnZYcFF6Q1VtS0VuMkEyVEk3Q0Rk?oc=5",
       "date": "2026-07-27 14:24",
       "summary": "How lasers could help provide fuel for nuclear reactors  MIT Technology Review..."
+    },
+    {
+      "title": "Closing the data loop in AI-driven drug discovery - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXpXTFdNS244eEltNWFiLXFmaE9LSzlRbFoycTgyQjYzM0ZaSFU0Ty1QRGJTeEo0VzhHZEZndnVqM2FfdnpUX3lhUm9qaFlfX0ZOZ04zeDkzT0dSUkhfOWlmaXltM0RES19Ma0dvd09haU44MXowY0NGdDBGSXZtenZEZEJqNnNXaHJ3QVN2RHFTRlp2aHpNQVZXYnoxMDJvVlhQVNIBqgFBVV95cUxQTTRTTW81RU9BTVFMS2F2ejlLdmdFM01WTGM5cFh6RUJjU3ZRaU5rdTI4d0p1RUJOcWdXWVZOT2JLQWVzdFRHX29WM1dfNnNzbk81a3NsNDM2VFVXN284eEtFT0JmRTdDSFE2UXIwMzVKb0RadW9fR29TUnJuQ2tCRzNxWEw3alAybkpYdnNpdkQwT0ZzYjZVRzJ2OTlMOGRuclZPYTlSNmV2Zw?oc=5",
+      "date": "2026-07-27 11:40",
+      "summary": "Closing the data loop in AI-driven drug discovery  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "An atom-holography microscope for direct visualization of 3D atomic arrangements in nanoscale regions",
-      "link": "https://phys.org/news/2026-07-atom-holography-microscope-visualization-3d.html",
-      "date": "2026-07-30 13:40",
-      "summary": "A collaborative research group led by Hiroshi Daimon, a specially appointed research fellow at the Institute for Molecular Science..."
+      "title": "Scabies can kill animals like the beloved wombat. What's the best way to diagnose it?",
+      "link": "https://phys.org/news/2026-07-scabies-animals-beloved-wombat.html",
+      "date": "2026-07-30 15:40",
+      "summary": "Constant scratching, bumpy skin and tufts of lost fur. Those are just some of the signs that an animal has scabies, a severe and p..."
     },
     {
-      "title": "Your shampoo routine could be driving household water waste, new study says",
-      "link": "https://phys.org/news/2026-07-shampoo-routine-household.html",
-      "date": "2026-07-30 13:40",
-      "summary": "Everyday shower habits, such as applying shampoo or pausing the water while washing, are driving up water waste, argues a new stud..."
+      "title": "Surface engineering advances mitochondrial transplantation as a potential therapeutic strategy",
+      "link": "https://phys.org/news/2026-07-surface-advances-mitochondrial-transplantation-potential.html",
+      "date": "2026-07-30 15:40",
+      "summary": "Inside almost every cell in our bodies are tiny structures called organelles that keep us alive and functioning. Among these are m..."
     },
     {
-      "title": "May, June heat waves caused 2,877 extra deaths in England: govt",
-      "link": "https://phys.org/news/2026-07-june-extra-deaths-england-govt.html",
-      "date": "2026-07-30 13:06",
-      "summary": "Record-breaking heat waves in May and June led to an estimated 2,877 excess deaths in England, the UK Health Security Agency said ..."
+      "title": "Tracking satellites and space debris using radio antennae",
+      "link": "https://phys.org/news/2026-07-tracking-satellites-space-debris-radio.html",
+      "date": "2026-07-30 15:20",
+      "summary": "Every year, thousands of satellites are launched into orbit around our planet. The result is an increasingly congested \"space\" abo..."
     },
     {
-      "title": "Mapping endangered habitats with the help of citizen scientists and satellite data",
-      "link": "https://phys.org/news/2026-07-endangered-habitats-citizen-scientists-satellite.html",
-      "date": "2026-07-30 13:00",
-      "summary": "As biodiversity declines and many of the UK's most important habitats become smaller and more fragmented, conservation organizatio..."
+      "title": "Listening to songbird dreams for clues to how sleeping brains learn",
+      "link": "https://phys.org/news/2026-07-songbird-clues-brains.html",
+      "date": "2026-07-30 15:20",
+      "summary": "Entering and manipulating dreams may sound like science fiction, but for Freeman Hrabowski Scholar Walter Gonzalez, these scenario..."
     },
     {
-      "title": "Two Arctic charr populations evolved in less than a century, study finds",
-      "link": "https://phys.org/news/2026-07-arctic-charr-populations-evolved-century.html",
-      "date": "2026-07-30 13:00",
-      "summary": "Evolution, the process through which animals and other living organisms change their inherited traits over time, typically unfolds..."
+      "title": "Ancient DNA reveals Ice Age humans targeted female woolly mammoths",
+      "link": "https://phys.org/news/2026-07-ancient-dna-reveals-ice-age.html",
+      "date": "2026-07-30 15:00",
+      "summary": "Analyzing ancient DNA from more than 500 mammoth bones, an international team of researchers found that Ice Age humans selectively..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Transport authorities order probe after crash paralyses traffic on airport link",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362435/transport-authorities-order-probe-after-crash-paralyses-traffic-airport-link?utm_source=rss_feed",
+      "date": "2026-07-30 14:33",
+      "summary": "Hong Kong transport authorities have ordered the operator of a major road link feeding the airport to explain its handling of an a..."
+    },
+    {
       "title": "Hong Kong must add specialised services to tackle rising youth suicides, NGO says",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362428/hong-kong-must-add-specialised-services-tackle-rising-youth-suicides-ngo-says?utm_source=rss_feed",
       "date": "2026-07-30 13:29",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/business/banking-finance/article/3362425/hongkong-land-acquires-singapores-wheelock-place-us900m-deal?utm_source=rss_feed",
       "date": "2026-07-30 12:46",
       "summary": "Hongkong Land will acquire Singapore’s Wheelock Place for about S$1.1 billion (US$900 million) through its Singapore Central Priva..."
-    },
-    {
-      "title": "6 hurt as truck and minibus collide on Hong Kong’s Castle Peak Road",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3362415/6-hurt-truck-and-minibus-collide-hong-kongs-castle-peak-road?utm_source=rss_feed",
-      "date": "2026-07-30 11:18",
-      "summary": "Six people have been injured in a collision between a truck and a minibus on a section of Castle Peak Road near Yuen Long in Hong ..."
     }
   ]
 }
