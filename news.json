@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Turning molecules into reliable electronic devices",
+      "link": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803",
+      "date": "2026-08-03 09:00",
+      "summary": "A new fabrication platform integrates molecules into electronic devices, opening the door to emerging computing technologies...."
+    },
+    {
       "title": "Why some nitrogen-processing enzymes are more efficient than others",
       "link": "https://news.mit.edu/2026/why-some-nitrogen-processing-enzymes-are-more-efficient-0730",
       "date": "2026-07-30 15:00",
@@ -23,15 +29,15 @@
       "link": "https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722",
       "date": "2026-07-22 17:00",
       "summary": "Known for his clear and elegant writing style, Bertsekas shaped fields from control and optimization to large-scale computation an..."
-    },
-    {
-      "title": "Diffuse puffs of “missing” matter surround most galaxies",
-      "link": "https://news.mit.edu/2026/missing-matter-diffuse-puffs-surround-most-galaxies-0721",
-      "date": "2026-07-21 15:00",
-      "summary": "An MIT-led team used bright radio bursts to illuminate a vast source of matter that was previously unaccounted for...."
     }
   ],
   "Harvard Gazette": [
+    {
+      "title": "Is your cholesterol too high based on latest guidelines? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOE1Tb01PZXUyT0JuMmZWNmZrdXpmNHJQVUc4V0FLVFRhQWlaUTFfdjVhRVM1WUZqOFF6MldETGI3bEtVeVljRUtqMnJLM3l3ODJjSjktbmZTVDJnMkNET2JWMWVCMExtbUo3V0tpY0dRLURocFpoRV9GTkRxaVVzd0pPTXpwVXRGbDJJN3lWY1Y3VlZ3NjVwU19Ic2luWXJ4SlE0eFpR?oc=5",
+      "date": "2026-07-21 07:00",
+      "summary": "Is your cholesterol too high based on latest guidelines?  Harvard Gazette..."
+    },
     {
       "title": "20 societal problems, 20 solutions - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
@@ -51,16 +57,10 @@
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     },
     {
-      "title": "Is your cholesterol too high based on latest guidelines? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOE1Tb01PZXUyT0JuMmZWNmZrdXpmNHJQVUc4V0FLVFRhQWlaUTFfdjVhRVM1WUZqOFF6MldETGI3bEtVeVljRUtqMnJLM3l3ODJjSjktbmZTVDJnMkNET2JWMWVCMExtbUo3V0tpY0dRLURocFpoRV9GTkRxaVVzd0pPTXpwVXRGbDJJN3lWY1Y3VlZ3NjVwU19Ic2luWXJ4SlE0eFpR?oc=5",
-      "date": "2026-07-21 07:00",
-      "summary": "Is your cholesterol too high based on latest guidelines?  Harvard Gazette..."
-    },
-    {
-      "title": "How to help lift slumping American math scores - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
-      "date": "2026-01-26 08:00",
-      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
+      "title": "‘Vibe coding’ may offer insight into our AI future - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdEhzcmpQLXFzdHRCTjMteHItZUVkdGZlRjlXdDNBa29OWFZ2OEdDcjJ5dVlFM29mRjNJdXJzN0IzcVFTM2sxUTF3NFFrRlVqVk9ERjk5NUZWb3FnZDl4bWdVbDRmbzJMWC1zeFk2U2Q3T1hyR3hEV1F3ai1LNFoxNE9BSkhuejhnMzREN2J1NTZYSXR1SzlKajl5Rmg?oc=5",
+      "date": "2026-04-01 07:00",
+      "summary": "‘Vibe coding’ may offer insight into our AI future  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -77,22 +77,22 @@
       "summary": "Tech leaders gather for 'AI Summit @ Stanford' to tackle breakthrough opportunities, risks  ABC7 Bay Area..."
     },
     {
-      "title": "UPDATE: Applications open for free college prep program created by Brainerd alum, Stanford student - local3news.com",
+      "title": "UPDATE: Applications open for free college prep program created by Brainerd alum, Stanford student - Local 3 News",
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOUnd2d0ZJOUdidjVvWkNHRnJKUWw2WjhzYU85a3BDVFBkdFFhRjBnRVBSYzQ4c0JwZHhkTmVQcE9ZM3hiWG9qRzlSdE5VajU1b0pFRmVmOG9IdDNVMmQtOG9Ncml3OGRwcTBPQ1B6R1NweHFoSXRBTnRjd2doS3MwWDlETV9DSmhRMnBrYnh0MjFVSl83NTJGNmxUQ001YVMzQ3p3TTZKdWtrZ0xSU1BVbWFBVVQ4ci1lbmF1MlRadDVBckZxWW1BVkNaMS1WT2RqR1RJdUxaVWJPdHFyNXk5U1l6Q0pGb2dERlI5bl9hNGtUOVVsTG1nbW1ieG55dC0wOFMtTUtVY1R0TEl4WjN1Y19Ub1o0Vzl6V1VoREhtVVFvcUVf?oc=5",
       "date": "2026-07-31 21:53",
-      "summary": "UPDATE: Applications open for free college prep program created by Brainerd alum, Stanford student  local3news.com..."
+      "summary": "UPDATE: Applications open for free college prep program created by Brainerd alum, Stanford student  Local 3 News..."
     },
     {
-      "title": "Stanford University's Founding Matriarch Was a Travel-Loving Philanthropist Who Met a Tragic End. A New Exhibition Explores Her Life, Grief and Death by Poison - Smithsonian Magazine",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPUEd2dE44SlFPZVpGU1haanJCVEV5Yi1fbndDSlZ4MHNMWlBMMjFHTFFjamlNXzMzdjlOTW4xQ203X0g3N0JaOVl5Si1xNDVDU3FPd2xQdWdJUnZCNTRaT1FCU0NIVlQxMHF5Q29oa3VyLXpTelBJUncwV0UzX3lZRkFlcDBNaGJvN2NTVHBFMlVYNmhnMGd0dUJBWkwwTEVRNm1iMnhHdkFMM1ZZQnVPVlVKWXNHR2FBUUVnYWtzb25HdXd2MHFfdmRUakcyWXFQdnpYR0RlZVZhTkpTVXU2U0dWZ21rNU14VHVWWGhyX2kyNXVReEhxX1JuUi1ZaDRHRjdndi1aZUM0TFFBSlNHNGREY3ZHblhMbm5uR0VtRklCd1hUSTZwbG9YdmUydDA?oc=5",
-      "date": "2026-07-30 11:45",
-      "summary": "Stanford University's Founding Matriarch Was a Travel-Loving Philanthropist Who Met a Tragic End. A New Exhibition Explores Her Li..."
-    },
-    {
-      "title": "Chip War, Stanford University: Scarlet & Tom's Must-Read Books - Yahoo Finance",
+      "title": "Chip War, Stanford University: Scarlet & Tom's Must-Read Books - finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQURiN2hybzJWUlNsMzBqdkdpLTNrOGs2OWk4T2N4NHc3WnNmWEphbmc2S1hYUGw2VjJRZmRyRjVwdGxpTEE5bllXWDNESWdCYVRvdFFCelRHNFBraWdtR1FqclBZMEg4WTlCU05PaGNJY1lyY1ZzMzJaRW1xcUVMR1FtQURfU29xcXRN?oc=5",
       "date": "2026-07-31 22:25",
-      "summary": "Chip War, Stanford University: Scarlet & Tom's Must-Read Books  Yahoo Finance..."
+      "summary": "Chip War, Stanford University: Scarlet & Tom's Must-Read Books  finance.yahoo.com..."
+    },
+    {
+      "title": "How children talk can indicate risk for future mental health problems - Stanford School of Humanities and Sciences",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0RNQ3ltbVFvU2JGbkdITmVURC1HNWNCbTZYS1pMQzlzTXpsZWJFakVzanJXOWpvOEl6YTJZb00xMkNIXzNYeGt4YnZvRHpxMURVX1g4dEExbGpoWnZWdlNFcXFQTk13TVF3aHY5dVFsWTZmTFlFb2FCajV6cnJWZVlpQ0V2SU5kYXowTUo5aDZXV3J2bGhsM3RkaXFSNzhmMGJn?oc=5",
+      "date": "2026-07-31 18:15",
+      "summary": "How children talk can indicate risk for future mental health problems  Stanford School of Humanities and Sciences..."
     }
   ],
   "Nature Careers": [
@@ -115,16 +115,16 @@
       "summary": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02388-6Vessels propelled by atomic reactors have low emissions bu..."
     },
     {
+      "title": "Science-backed tips on how to avoid distractions",
+      "link": "https://www.nature.com/articles/d41586-026-01850-9",
+      "date": "2026-08-03 00:00",
+      "summary": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-01850-9Struggling to stay focused in the lab? Attention researche..."
+    },
+    {
       "title": "‘A waste of time for all of us’: caught in the crossfire of the peer-review wars",
       "link": "https://www.nature.com/articles/d41586-026-01360-8",
       "date": "2026-08-03 00:00",
       "summary": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-01360-8Review mills — researchers who write fake referee reports ..."
-    },
-    {
-      "title": "The secret relationships that govern life on Earth",
-      "link": "https://www.nature.com/articles/d41586-026-02387-7",
-      "date": "2026-08-03 00:00",
-      "summary": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02387-7Books on parasitism and symbiosis inspire wonder at the st..."
     }
   ],
   "Retraction Watch": [
@@ -179,16 +179,16 @@
       "summary": "Thomson Reuters Built Its Own AI Model That Now Ranks Among the World’s Best  Thomson Reuters..."
     },
     {
+      "title": "Exclusive-Chinese military researchers tap US AI models to train defence systems - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDZzbEZtT2VSOFUyczlPakdWbWdpZmZlaWo3OFY4RHhRb05KOVQwbmN2bWdveTJVVHAzQ1lZWU51bVltQlFQYWxjM0g1clZacGIxNUlYSXdpc1A5NEYxOEZTRFA2UUN2S2FOdnktdVhqaUF5cERlUFhjR2FsZVJZOFdFWEZQaGpsNXkzcVk1RExDR0tzS1NBMTduY0o3ZFdf?oc=5",
+      "date": "2026-07-31 06:08",
+      "summary": "Exclusive-Chinese military researchers tap US AI models to train defence systems  Yahoo..."
+    },
+    {
       "title": "SpaceX's first results put Musk's AI spending under Wall Street microscope - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2tWMmRRZ3hJZjRfNjNjS1NjMEo4M0JHV3BObDg5UV9sZ09obWdiczN3MHR5Zmh3U1ZjUzZQbGJHSmJoajZkMzM5Y3dPLW1hQ2VNdm5FamY0TkFoVlRJUzRyTDU1ZGRacl9xSmJmdG9hN0hGYkRDZFVUeU9NeGk1ZnN2T3RKbDZFRTBiSG5UaHktQUM0RUprZ1VSV3U5WkFjajlVU2tMZ0VtaEttSzdhYjJncENPRlp4ZFpTa3gtcW9haVZ1WnNB?oc=5",
       "date": "2026-08-03 12:10",
       "summary": "SpaceX's first results put Musk's AI spending under Wall Street microscope  Reuters..."
-    },
-    {
-      "title": "BOJ says global AI demand could have sticky inflationary effect - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRW51MWl2UjJKTHpxU04zdUM2amxLN1d6aUVLSVRGSVdYVHRWQll3YlZTUHQzQVRkSEViYjNlalQwdUg2LTc0TEM5SDVZb281c0k3VlpVSFlJeENhc3FVNHBIVlJkdG1IN0x3eFVSRUdYdkNKWm9WR1kwQ1kzWHNiN05UampoZlY2V3g5bGxkeFdKdVRiaFVuT1dqQThyZ1B5X3BIZzN0YmdPWE1WdXN3Z0J2alhRVUJUNmc?oc=5",
-      "date": "2026-08-03 08:29",
-      "summary": "BOJ says global AI demand could have sticky inflationary effect  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -217,45 +217,57 @@
       "summary": "Montana’s new “right to try” law can’t come soon enough for some  MIT Technology Review..."
     },
     {
-      "title": "The AI Hype Index: Unsexy AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0xGT0tpMGt3cHg4bFZ1UnNSOXhZcXhDWG4yUDdJSXFZZDFhOUg5T0lFOTR3Y3dHalRWVHJPQVk5VmtTY2EtUWhXMFZiMlMwcTgwLXg3c1kyYWRCalB5M0xCUEVEQ3NMWElDVi1JQ2pzV3FTWEctUTJ2Tk9aU05vTGQwOE9QekU?oc=5",
-      "date": "2026-07-29 08:42",
-      "summary": "The AI Hype Index: Unsexy AI  MIT Technology Review..."
+      "title": "AI is more likely than humans to form biases when hiring - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmRKWWxsZGNmWWdsSnF3LUpyOGtXYnRDRS1GZjA4UTFHR3RhYU44V2M2Wkw4eVFfNkp6eTFGVnp5VmlRWjA3Z2RwX2ktdnJFS2ZCRU92dEJ2V2dxZlBzUGotVzNKd0txbzRGQks0TkZlczFNN2VNYnVwRXMwVkhJemdR0gGHAUFVX3lxTE5qQy1oTGZzVWxPSG9hRG1ZZy1HRzBocDlWdGQ2Ml9OXzFQdTI5alFXMGo0Yk9CLU5ZWVhENXJIMFQ0X1dab2xBU2FRMVVGNy02eVZKTzVVMkQya2xpUzRDaXRaMEFvQU92dDB3Mk9NMUJ2MTczVEZ6ZXdmVWxTaG9OMk1YMWFfVQ?oc=5",
+      "date": "2026-07-20 07:00",
+      "summary": "AI is more likely than humans to form biases when hiring  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Over 100 South American lakes could become climate-change early-warning observatories",
-      "link": "https://phys.org/news/2026-08-south-american-lakes-climate-early.html",
-      "date": "2026-08-03 13:20",
-      "summary": "More than 100 shallow lakes stretching over 1,000 kilometers (620 miles) along the Atlantic coast of southern Brazil and Uruguay c..."
+      "title": "#Nature isn't one-size-fits-all, study finds",
+      "link": "https://phys.org/news/2026-08-nature-isnt-size.html",
+      "date": "2026-08-03 16:20",
+      "summary": "People often talk about \"getting out into nature\" as if all green spaces offer the same experience...."
     },
     {
-      "title": "Watching comedy helps people detect faint smiles, a new study shows",
-      "link": "https://phys.org/news/2026-08-comedy-people-faint.html",
-      "date": "2026-08-03 13:20",
-      "summary": "In everyday life, the ability to read facial expressions plays a vital role in social communication, as it reveals a speaker's und..."
+      "title": "New museum find shows nature can't stop inventing seahorses",
+      "link": "https://phys.org/news/2026-08-museum-nature-seahorses.html",
+      "date": "2026-08-03 16:20",
+      "summary": "At first glance, it looks exactly like a seahorse. It has the same horse-shaped head tilted down from the body, the same curled, g..."
     },
     {
-      "title": "Rising seas are inundating US coastal wetlands, putting many on track to become open water",
-      "link": "https://phys.org/news/2026-07-seas-inundating-coastal-wetlands-track.html",
-      "date": "2026-08-03 13:00",
-      "summary": "Along the three coasts of the contiguous United States, a silent race unfolds. Fueled by climate change, sea levels rise faster th..."
+      "title": "Geological evidence questions the role of Agulhas Leakage in Atlantic Ocean circulation",
+      "link": "https://phys.org/news/2026-08-geological-evidence-role-agulhas-leakage.html",
+      "date": "2026-08-03 16:00",
+      "summary": "For decades, scientists have asserted that the leakage of warm, salty Indian Ocean water south of South Africa into the Atlantic i..."
     },
     {
-      "title": "176-year oyster mystery spanning WA and the Indo-Pacific solved by DNA",
-      "link": "https://phys.org/news/2026-08-year-oyster-mystery-spanning-wa.html",
-      "date": "2026-08-03 13:00",
-      "summary": "An international study led by Curtin University has put to bed a scientific debate dating back 176 years, confirming that two hist..."
+      "title": "Genetic analysis identifies a distinct Risso's dolphin population around British Isles",
+      "link": "https://phys.org/news/2026-08-genetic-analysis-distinct-risso-dolphin.html",
+      "date": "2026-08-03 15:40",
+      "summary": "Risso's dolphins around the British Isles are part of a single population—genetically distinct from those elsewhere in the Atlanti..."
     },
     {
-      "title": "Good things take time—but new research suggests mindfulness can make the wait easier",
-      "link": "https://phys.org/news/2026-08-good-mindfulness-easier.html",
-      "date": "2026-08-03 12:40",
-      "summary": "Ask someone if they'd rather take $5 today or $10 next week and they'll know which option is better...."
+      "title": "Wildfires: Why disposable BBQs are being banned from some parks and beaches",
+      "link": "https://phys.org/news/2026-08-wildfires-disposable-bbqs-beaches.html",
+      "date": "2026-08-03 15:40",
+      "summary": "There's something almost comic about the modern British summer ritual: As soon as the mercury climbs, we head to the nearest park,..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Children using social media at younger age appear to do worse in school tests",
+      "link": "https://www.theguardian.com/science/2026/aug/03/children-using-social-media-younger-age-worse-school-tests",
+      "date": "2026-08-03 15:14",
+      "summary": "Pupils who open accounts aged 11 to 12 score lower in some subjects than those who wait a few years, study findsChildren who open ..."
+    },
+    {
+      "title": "Montessori learning is being shut down at Leah’s school – is a push towards ‘explicit instruction’ to blame?",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/03/montessori-learning-is-being-shut-down-at-leahs-school-is-a-push-towards-explicit-instruction-to-blame",
+      "date": "2026-08-03 15:00",
+      "summary": "Critics say the one size-fits-all approach doesn’t work for all students and there are questions about the body that helped design..."
+    },
     {
       "title": "‘I want to be ripped to shreds’: writers flock to MFAs - but does it breed elitist literature?",
       "link": "https://www.theguardian.com/us-news/2026/aug/03/mfa-writing-programs",
@@ -273,21 +285,21 @@
       "link": "https://www.theguardian.com/australia-news/2026/aug/03/inside-sydneys-hottest-nightspot-where-shoes-are-off-laptops-are-on-and-customers-drink-matcha",
       "date": "2026-08-02 15:00",
       "summary": "A ‘study cafe’ has opened on the site that once housed the radical Gould’s Book Arcade – and students are paying by the hour to be..."
-    },
-    {
-      "title": "‘Tiger mum’ Lucy Powell on Labour’s vocational skills drive: ‘It’s about ambition for everybody’",
-      "link": "https://www.theguardian.com/politics/2026/aug/02/lucy-powell-tiger-mum-vocational-skills-labour-education",
-      "date": "2026-08-02 13:58",
-      "summary": "New education secretary says it is ‘false trade-off’ by critics to suggest schools cannot pursue academic excellence alongside tec..."
-    },
-    {
-      "title": "Could a couch-to-5k for books get you back into reading?",
-      "link": "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading",
-      "date": "2026-08-02 11:00",
-      "summary": "With smartphones stealing our attention, we’re picking up fewer books than ever. A novelist shares her eight-week scheme to get yo..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "500 Hong Kong students get taste of military life as PLA summer camp returns",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3362839/500-hong-kong-students-get-taste-military-life-pla-summer-camp-returns?utm_source=rss_feed",
+      "date": "2026-08-03 15:06",
+      "summary": "About 500 Hong Kong students are getting a taste of army life, with the PLA garrison launching its annual summer camp to instil pa..."
+    },
+    {
+      "title": "Woman missing for 11 days found alive on hillside near Hong Kong cemetery",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3362833/missing-woman-60-found-alive-hillside-near-hong-kong-cemetery?utm_source=rss_feed",
+      "date": "2026-08-03 13:47",
+      "summary": "Hong Kong authorities have found a 60-year-old woman on a hillside near a cemetery nearly two weeks after she went missing, despit..."
+    },
     {
       "title": "What’s a Burmese python doing in Causeway Bay? Expert links reptile to rain",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362831/whats-burmese-python-doing-causeway-bay-expert-links-reptile-rain?utm_source=rss_feed",
@@ -304,19 +316,7 @@
       "title": "Hong Kong mother, aunt, held after cannabis sweets send 2 children to hospital",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362820/hong-kong-mother-aunt-held-after-cannabis-sweets-send-2-children-hospital?utm_source=rss_feed",
       "date": "2026-08-03 11:30",
-      "summary": "Hong Kong police have arrested a mother and her husband’s aunt after the mother allegedly mistakenly fed her two children cannabis..."
-    },
-    {
-      "title": "Non-stop summer rain leaves Hong Kong farmers with heavy losses as crops fail",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362819/non-stop-summer-rain-leaves-hong-kong-farmers-heavy-losses-crops-fail?utm_source=rss_feed",
-      "date": "2026-08-03 11:21",
-      "summary": "Local farmers have suffered six-figure losses because of extreme downpours since May, with a farm in northern Hong Kong flooded fo..."
-    },
-    {
-      "title": "Hong Kong church-goers urged to avoid masses by breakaway Catholic group SSPX",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3362818/hong-kong-church-goers-urged-avoid-masses-breakaway-catholic-group-sspx?utm_source=rss_feed",
-      "date": "2026-08-03 11:19",
-      "summary": "Hong Kong’s Catholic diocese has urged worshippers to avoid masses led by a conservative group excommunicated by the Vatican after..."
+      "summary": "Hong Kong police have arrested a mother and her aunt after she allegedly mistakenly fed her two children cannabis-infused sweets, ..."
     }
   ]
 }
