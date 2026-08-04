@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "The benefits of medical AI assistance vary based on user expertise",
+      "link": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
+      "date": "2026-08-04 09:00",
+      "summary": "Study finds non-experts deferred to LLM-based diagnostic assistance, even when it was wrong, while clinicians caught AI errors...."
+    },
+    {
       "title": "Turning molecules into reliable electronic devices",
       "link": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803",
       "date": "2026-08-03 09:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/mit-engineers-design-recyclable-elastic-yarn-0727",
       "date": "2026-07-27 14:00",
       "summary": "Melt it, spin it, use it again. This new recyclable yarn is as strong and stretchy as spandex-based yarns...."
-    },
-    {
-      "title": "Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83",
-      "link": "https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722",
-      "date": "2026-07-22 17:00",
-      "summary": "Known for his clear and elegant writing style, Bertsekas shaped fields from control and optimization to large-scale computation an..."
     }
   ],
   "Harvard Gazette": [
@@ -71,22 +71,22 @@
       "summary": "How children talk can indicate risk for future mental health problems  Stanford School of Humanities and Sciences..."
     },
     {
-      "title": "Stanford analysis ranks U of A among nation's most effective producers of billion-dollar startups - news.arizona.edu",
+      "title": "Stanford analysis ranks U of A among nation's most effective producers of billion-dollar startups - University of Arizona News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlVQeEtTa2pKazFlUjl1TzE0ZkpmZHBxZE40cDkyR0RBSE15MUt1bjZBMzlfZXlFRG4zMFN3cURKZl9jQjUxei1lVFl0b2NGbG9nUVhGWmFpNXlwc0h6MEpYc0t2SnB2Si1JX205aFd1WkV1TDFBbnBsMXZLamQwMnk2WG1mUTlVVjgtQjB5QkN1NzhBektfZkxJZURieHBSVGl0MWQyVHNIY1h0eEhsMm12anNHTkdjWWc?oc=5",
       "date": "2026-08-03 16:56",
-      "summary": "Stanford analysis ranks U of A among nation's most effective producers of billion-dollar startups  news.arizona.edu..."
-    },
-    {
-      "title": "Landmark Stanford Molecular Aging Study Called into Question Over Data Analysis Methods - GenomeWeb",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnBERlUxVW9aTGM0ZURxNmJEcy1valhpN3hSZEtSdWwzYVBJeDZWcnFXY0ZJZVNyN0tqZjZZSy1pV1VmcEw2UFdOTmtIdXU1YTRKWjNNY0lGTXBYVE9NWlN2amlZcU8tZ1RxZGVIdjQxN0JSVEozajVwTWRfWmxjN0xoOEw4ajU1a2VUSGY1dFc1M2txZWo0X3VCUjZscVYzTE9sNF9TbldwMnNNWHFLYXhYN2J3ZjRHTVBMNGdXOA?oc=5",
-      "date": "2026-08-03 17:31",
-      "summary": "Landmark Stanford Molecular Aging Study Called into Question Over Data Analysis Methods  GenomeWeb..."
+      "summary": "Stanford analysis ranks U of A among nation's most effective producers of billion-dollar startups  University of Arizona News..."
     },
     {
       "title": "Tech leaders gather for 'AI Summit @ Stanford' to tackle breakthrough opportunities, risks - ABC7 Bay Area",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWNONEZKSEpGbEoyNmZkVGs4YXoydmQ2cTJqVHRhUkcyQ2E4ZXI1dnRkQTlmT3hPdzA1ZTJlSzA4YTFuU3JGUVAtQ2VQQVl2LWlKSFhSYU1Rc09pQWU5ano3S0NrYTVtWl9wdFpaamZ5V0RLbkwxZUVfMkphZEU4VVI0aDdlS2dreGh2b0o1emJsODFwWkl3Sm8tcWhYRUFDMk5FRXN5aEw2M2NLZHktN3FmdDDSAboBQVVfeXFMTWFkRUdUOW1rRFVhRDVSbWNqYUNWbXRGM3VjOXVNNHpSbnhZSWJRNHUzeGtueGhVZlNVTGcwNS02U3RNTVBmWS1odjJ3MUFuMW9wWUFYN2E3cElNWklTWDVEQmNIbFpWaDZ3Rm4ySjd6Z1pJZFd6ZjJ6WkEwRVhCZEhVQWF1dUlaSlhTb3VCakhfUC1Ib29BaS01VWFWeXNzZnBvMkNlUDJ5bm9Yb0hHYkhyUnJlWGQ3U2pR?oc=5",
       "date": "2026-07-31 23:33",
       "summary": "Tech leaders gather for 'AI Summit @ Stanford' to tackle breakthrough opportunities, risks  ABC7 Bay Area..."
+    },
+    {
+      "title": "Landmark Stanford Molecular Aging Study Called into Question Over Data Analysis Methods - GenomeWeb",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnBERlUxVW9aTGM0ZURxNmJEcy1valhpN3hSZEtSdWwzYVBJeDZWcnFXY0ZJZVNyN0tqZjZZSy1pV1VmcEw2UFdOTmtIdXU1YTRKWjNNY0lGTXBYVE9NWlN2amlZcU8tZ1RxZGVIdjQxN0JSVEozajVwTWRfWmxjN0xoOEw4ajU1a2VUSGY1dFc1M2txZWo0X3VCUjZscVYzTE9sNF9TbldwMnNNWHFLYXhYN2J3ZjRHTVBMNGdXOA?oc=5",
+      "date": "2026-08-03 17:31",
+      "summary": "Landmark Stanford Molecular Aging Study Called into Question Over Data Analysis Methods  GenomeWeb..."
     },
     {
       "title": "UPDATE: Applications open for free college prep program created by Brainerd alum, Stanford student - Local 3 News",
@@ -161,66 +161,66 @@
   ],
   "Reuters AI": [
     {
-      "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - reuters.com",
+      "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
       "date": "2026-08-03 23:26",
-      "summary": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing  reuters.com..."
+      "summary": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing  Reuters..."
     },
     {
-      "title": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5",
-      "date": "2026-08-03 03:58",
-      "summary": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost  reuters.com..."
+      "title": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnd6ckhOVUhwcGJjRmxRdlhObS1ncXRhZm9OeVUwaEgwOTg5YmNBTGVWcHZsdXd4dXVrWWdlZGtsYkw0eDIyY1A3NjdSM0o0bFBGUEZRNDF2NjYwZEtCamNpeTFqN3ZaQVlTclNuQWYxNXh4ZVlqaWF3WkNNVk1fbmJXcTdISlBmUVVWS01STmFYZldLSGk5akJQZVB5X09OSzVoVWF4Wko4TEF4cGozQUlWM202dFJWMGxSRTdpcTNaaUp6bmNyZXpWbVRFb2JoSzdCVQ?oc=5",
+      "date": "2026-08-03 05:41",
+      "summary": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says  Reuters..."
     },
     {
-      "title": "White House Finalizes Voluntary AI Cybersecurity Testing Framework - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFV4ZWVldERCRFZ3T2hsSGFTQkZoNnlMenVhaTRUWVFGVjZrWjVUQm5MZnpuU0Y0bkFRRTNjeXdSbXZsOWlvRXNPWmpwaTQwb2hmYXYzeG56c3h3c1p5bkNGdXlxakUtMFEtejRFMTdmcjBGdG0wdjItZUNWOVFHeWRkUDYyUlRTUDNKYXI3MElSWUpWamZzemJEVmxqOG1yVGc?oc=5",
-      "date": "2026-08-03 18:44",
-      "summary": "White House Finalizes Voluntary AI Cybersecurity Testing Framework  PYMNTS.com..."
+      "title": "Amazon enters $3 trillion club as AI, cloud growth power rally - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2h5X3dkMzhkV3ZxZ3UtZ2ZlMEh4bVVzeUF6RDlYS3R6SEFrSXlRRlJ6SDBCVFZITUV1eUYwX21VcFlIQkhrV05NM3Rudnp4LVNxNEN5WnlFM0FrSDZFNC1nX2dISGx5Z0xqQndiWHRqdkxDaHJ3ek5hcjNnZERtWTRnYThyd3MwRkVHdmg3djFLeFdFMFBLeW91NXVaVjUxQUpwSDhkUUpBa2hHNGxlcHVEbUc2NUlrUjdIYWhwcWFsZw?oc=5",
+      "date": "2026-08-03 15:43",
+      "summary": "Amazon enters $3 trillion club as AI, cloud growth power rally  Reuters..."
     },
     {
-      "title": "UK regulator says it is monitoring developments after rogue AI agent hacks - reuters.com",
+      "title": "UK regulator says it is monitoring developments after rogue AI agent hacks - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEJKSEUtVng1aUE5aXNOUF9WazdYSUZ2ZWl2Z1FSN0dSWTdsUFUtUzVfdndjV3RUQkNISXlfaWR3TmdlbUJoY0lqQTFYYk9nb29PcVdQRGtKd2xGU0NPbE9sZVNlbWw0ZnNTcnBfVWtFMm5OYWdVdzdHb01CSUNzTGozcTRLNXlHTFF3Qm1KaHo5UUtmaVNUaEszdFd2dG5xTEZHRjFmUFJ6XzZ6RFFEaFc4c2kzbVh0RjFr?oc=5",
       "date": "2026-08-03 21:21",
-      "summary": "UK regulator says it is monitoring developments after rogue AI agent hacks  reuters.com..."
+      "summary": "UK regulator says it is monitoring developments after rogue AI agent hacks  Reuters..."
     },
     {
-      "title": "Breakingviews - Big Tech’s circular AI trade grows too big to veil - reuters.com",
+      "title": "Breakingviews - Big Tech’s circular AI trade grows too big to veil - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGlMYXdPSkJjMzdsYmVMLVUxdHFkRDh5TWhnQnJvTXhqc0Y2UjE4TllHRlAwSHNyekhIT1pvZ1lRM016aDUwNXRUM0dDUnd6eWd4cE9VYzlaTWNBWnR5NWlkQ0xQTWlnR01vREFmWmV6SmtwRUJEcmhzQ1EyYnlmRjllQmZTdExodGVGQ1NJM0ZydzdBU3NGamZVUGtCQjJlVjVlRnMwbzRVY00?oc=5",
       "date": "2026-08-03 18:05",
-      "summary": "Breakingviews - Big Tech’s circular AI trade grows too big to veil  reuters.com..."
+      "summary": "Breakingviews - Big Tech’s circular AI trade grows too big to veil  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack - MIT Technology Review",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWduREp1NDlRczVvanNUcWlLczk0ZFJwbDlnN245ZmI1ZEZqUWg5YzlCYTZjRXdqNTloQzMyS3hndi16eTVlVFRqTFZXN3JMRHNvUm41T29yS1hmeTM2aGFPc0phSW1aSXdoYzFmUWJVS3Q1NTlFWWxBdEctMlZhUEpaQ1dKQVJBYWF3bWpISm16VUNGQUl4d1FjVmZGQlpuZ0pXMncxY9IBrAFBVV95cUxQTnJNb1JkeVZsaGhZTi1jclRCOWN5aTFVUTBsRjg4S3dWYjhLUnBPczJIOGJBMWRKUnl6bkROdFRjNXBHZGxRZkM5M05pRjAxMDQxbV9wbmJ5bFhRaklqUm5pb2tJT092eHA5cVNUNnhDYXQzeTdrOHZad1BTcEt5dHhQUzBvSVdGajlNVHhETDd6MWFGX1JrNktLMVdYWndjR29kVXo2R2lWaVo3?oc=5",
       "date": "2026-07-30 10:15",
-      "summary": "A fundamental flaw leaves LLMs strikingly vulnerable to attack  MIT Technology Review..."
+      "summary": "A fundamental flaw leaves LLMs strikingly vulnerable to attack  technologyreview.com..."
     },
     {
-      "title": "Trump’s AI protectionism has come for robotics - MIT Technology Review",
+      "title": "Trump’s AI protectionism has come for robotics - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRXNQZFQyQTVMbEk4UXZRYWwwb3RaVHcyMlU5QmozdldfRVdrcVlGc1VYbDNyeXl2OGh0clJoRk1BN0VuQkxDUjU4WHdZQS1ERW5BTDdmOGtuZVpVOW0xbHM4QWRQVU01QWhpZzdFbkJtVG1HNEpuQTd2VUlJNFF6dWo3SjZ5VWcyMldDQlJvM0V5Q2pOYnBra245ZXlDNmfSAaQBQVVfeXFMTTR4N0dnSVBGNWl4NnVPWl9WQUlYLTExRXJvdXE3cHFJSThyak5tTXhHa0ZhaDBPdXhHYXJVbWRXa2xzVlo3bzN0QW1vTkJKbmQ3dFNjbGRmNkM2UWRqenVhTWFhSlcxaWczWkg2bW53Z2FKQ25yQVJPcmlsSFUzRnJzcVFqZnhDbWozOGdzUzhzZGdJRUhlS190VklEdER1WXJ2VXE?oc=5",
       "date": "2026-08-03 18:43",
-      "summary": "Trump’s AI protectionism has come for robotics  MIT Technology Review..."
+      "summary": "Trump’s AI protectionism has come for robotics  technologyreview.com..."
     },
     {
-      "title": "Here’s why AI agents lie and cheat to reach their goals - MIT Technology Review",
+      "title": "Here’s why AI agents lie and cheat to reach their goals - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTZZX3FIYTZXNlJmLV8yLUpKZ3JuSGZPTFlpRlF4VzZXOWYxV2FZWV9DekJOZDY1RDgySGRfbEJLdjZLdzdiSWM0M1htZUZLY1ZneHNNTmVSZ21mUkVZZlpuR3Rya3hnS2MyLVdJUC1Gd19qb21VbThRMGE0Yld5bFBuY0JydW1lN3EtVHpKT0Z1TXVKdUVrY0JpeTgycXZkUS1MdkEyUjIzLWvSAbABQVVfeXFMTml6dlUtWGVzYVBFemxJRF81X0VqMVdhbEdDc29mY0RNWjJVWlRJd1o2TUxHbGdWMjQ1dnJ5MTh1LWM5MHZNREZoTTdhbmlSbDBoTTJQRlVDSVFKUHhfTFg0UXRCWHkybEMtQk00NEYwWXFjdzg1VUxUNUZMcngtTllpaWxpZFBLdWJOTVpBajNDeXd0WFhRdjUzcE5ORmktMVRKa25QcF9LZUxhZzJKVlk?oc=5",
       "date": "2026-08-03 08:30",
-      "summary": "Here’s why AI agents lie and cheat to reach their goals  MIT Technology Review..."
+      "summary": "Here’s why AI agents lie and cheat to reach their goals  technologyreview.com..."
     },
     {
-      "title": "Montana’s new “right to try” law can’t come soon enough for some - MIT Technology Review",
+      "title": "Montana’s new “right to try” law can’t come soon enough for some - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlk0QktFZTFZY2drQVJhY3d1eWY0dWEtbTNzNVFrTUxJLTlZZTFJaHV0X2o3ZF9NSmlEMUJkODAtWWtMOEtzTko3VEs2Y0dPMjNCdTBmc21tNkFyeG5janlTVllVQXc4blVkaU5vVEwwdno5SDRCQkZfbWY3ZGFrX1phSHU2Wkc5QldhVjhYY2RIcUpNRVM5cUM2U01rRWljamdzYVJfQUtLVWVkMnQ3YXhfUdIBuAFBVV95cUxNdUU4WHliQW1QTjdRRlBsd3hDcGtLLWhtWmhrcThkWFNJa2VmY0NiQmZrVTJKTWhSQjFHbW5lbnFUY0VCY0JOdEhTblFlVkRoeTVCY19QbWZ5cGN3Sm1tc3VlVXM1Y0hiS2FkckJ0dnU3Ni1EeG5aQmgtc1hoNVFvamhBNW1NbTFuSUJpTWVERHlNNnNFbzBOLVdNYXFwT3V3Qkk2N1VUQnVUY1pPQldzTkVLcEY4eXRY?oc=5",
       "date": "2026-07-31 09:00",
-      "summary": "Montana’s new “right to try” law can’t come soon enough for some  MIT Technology Review..."
+      "summary": "Montana’s new “right to try” law can’t come soon enough for some  technologyreview.com..."
     },
     {
-      "title": "Montana’s plan to become an experimental medical hub just pushed forward - MIT Technology Review",
+      "title": "Montana’s plan to become an experimental medical hub just pushed forward - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVYzaEdkNi1yY3FHd1F5T0lQbU12Umk5OHRnR01MRjhvV0RlMF9wbnlGcXN1aDBJSTgxd3hCSlJ3ZmJaOHllZUhQSW4wN0dkNURLdDRJeDFWVGI0bFJmTnFfR0xMVVpNSkZRRFZuU0I0STZvdVlleFRTR25YQVJqd0ZMMm9PVnV1VldON2VOOGlxM1E0QXg3QlpmVnhrem1ZTEhjUUtTWlFWR2VIZG96Y0lsb9IBuAFBVV95cUxNLTNsN2w4bm5YeVc1R0cxdHd4MTR5bS1pdE5WWXdFYnJVYTRtTkhETFVvUkgzbWtiSFRQb0dYRnItS0tYUURkc2l2OHl0d1NTTnU3X1BxbC11VTkyWHZLWmYwcGxkRDV1MDE3R0hfdlJYYVlWQS1nLVpWS1lMUUxtdkQwMnVLVWE2NDN4UGI2XzJWT3hWSlFDZlZib0N0UWNHNUduVVRBR21ZWk5aZHRsQVQxOW9NNi0z?oc=5",
       "date": "2026-07-30 17:10",
-      "summary": "Montana’s plan to become an experimental medical hub just pushed forward  MIT Technology Review..."
+      "summary": "Montana’s plan to become an experimental medical hub just pushed forward  technologyreview.com..."
     }
   ],
   "Phys.org": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Li Ka Shing Foundation, Disney gift 24,000 domestic helpers tickets to Toy Story 5",
-      "link": "https://www.scmp.com/news/hong-kong/article/3362892/li-ka-shing-foundation-disney-offer-24000-helpers-free-tickets-toy-story-5?utm_source=rss_feed",
-      "date": "2026-08-04 06:27",
-      "summary": "The Li Ka Shing Foundation has partnered with The Walt Disney Company to offer 24,000 foreign domestic helpers free tickets to wat..."
+      "title": "Hong Kong civil servant charged with misconduct over bogus littering tickets issued to 5",
+      "link": "https://www.scmp.com/news/hong-kong/article/3362939/hong-kong-civil-servant-charged-misconduct-over-bogus-littering-tickets-issued-5?utm_source=rss_feed",
+      "date": "2026-08-04 09:58",
+      "summary": "A Hong Kong civil servant has been charged with misconduct in public office for allegedly issuing bogus fixed-penalty littering no..."
     },
     {
-      "title": "Hong Kong warns of scam sites posing as Canada, UK and Thailand e-visa portals",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362890/hong-kong-warns-scam-sites-posing-canada-uk-and-thailand-e-visa-portals?utm_source=rss_feed",
-      "date": "2026-08-04 06:15",
-      "summary": "Hong Kong’s privacy watchdog has warned of suspected fraudulent e-visa application websites that request personal data from unsusp..."
+      "title": "Up to 80 Hong Kong-linked ships stuck around Strait of Hormuz, trade group says",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362938/80-hong-kong-linked-ships-stuck-around-strait-hormuz-trade-group-says?utm_source=rss_feed",
+      "date": "2026-08-04 09:50",
+      "summary": "A Hong Kong shipping industry body has estimated that as many as 80 of its ships and 1,600 seafarers are stuck in or near the Stra..."
     },
     {
-      "title": "Shenzhen authorities order stop to illegal dental services, misleading ads in Hong Kong",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362884/shenzhen-authorities-order-stop-illegal-dental-services-misleading-ads-hong-kong?utm_source=rss_feed",
-      "date": "2026-08-04 05:23",
-      "summary": "Shenzhen’s health authorities have issued a warning to private medical service providers, urging them to halt unauthorised operati..."
+      "title": "Hong Kong retail sales rise 4.6% in June as growth streak extends to 14 months",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362917/hong-kong-retail-sales-rise-46-june-growth-streak-extends-14-months?utm_source=rss_feed",
+      "date": "2026-08-04 08:47",
+      "summary": "Hong Kong’s retail sales rose by 4.6 per cent year on year in June, extending the growth streak to 14 months, with the government ..."
     },
     {
-      "title": "‘Significant distress’: calls grow for faster water pipe replacement after repeated bursts",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3362877/significant-distress-calls-grow-faster-water-pipe-replacement-after-repeated-bursts?utm_source=rss_feed",
-      "date": "2026-08-04 04:46",
-      "summary": "Hong Kong authorities have been urged to speed up pipe replacement and monitoring after three ruptures in the same area within a w..."
+      "title": "How East Asia’s internet cafes became a cheap urban refuge",
+      "link": "https://www.scmp.com/opinion/asia-opinion/article/3362285/how-east-asias-internet-cafes-became-cheap-urban-refuge?utm_source=rss_feed",
+      "date": "2026-08-04 08:30",
+      "summary": "The internet cafe was supposed to become obsolete. Instead, it has become indispensable. Across East Asia, these businesses are qu..."
     },
     {
-      "title": "4 months’ jail for repeat sex offender, 65, who groped Form 3 student on bus",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362875/4-months-jail-repeat-sex-offender-65-who-groped-form-3-student-bus?utm_source=rss_feed",
-      "date": "2026-08-04 04:26",
-      "summary": "A 65-year-old repeat sex offender in Hong Kong has been jailed after he was seen groping a secondary school student on a bus two m..."
+      "title": "‘Damp and filthy’: murder suspect says basic necessities denied in custody",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362910/damp-and-filthy-murder-suspect-says-basic-necessities-denied-custody?utm_source=rss_feed",
+      "date": "2026-08-04 07:41",
+      "summary": "The alleged ringleader in the fatal assault of an entrepreneur during a bar fight last month has told a Hong Kong court that he wa..."
     }
   ]
 }
