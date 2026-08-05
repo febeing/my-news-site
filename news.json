@@ -2,7 +2,7 @@
   "MIT News": [
     {
       "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
-      "link": "https://news.mit.edu/2026/researchers-make-air-stable-ultrathin-superconductors-more-scalable-quantum-devices",
+      "link": "https://news.mit.edu/2026/researchers-make-air-stable-ultrathin-superconductors-more-scalable-quantum-devices-0805",
       "date": "2026-08-05 15:00",
       "summary": "A new technique produces wafer-scale samples, overcoming a major roadblock to using these materials in quantum technologies...."
     },
@@ -71,16 +71,16 @@
       "summary": "AI companions may worsen loneliness for vulnerable users  Stanford Report..."
     },
     {
-      "title": "A tiny fish’s behavior suggests aging may happen in stages, Stanford study finds - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQk9kTnNFYnNpM3lCTXB1ajI3c1MtNkNhVVhUUGpZRzBjcWhmR2IwX3cyVVVsZXZxN0pISldudXRyYWZOQ3drYkU0cHdGVnRSYXgtV2lzSWZ1Snd3ck9LVzhIQzIyQjcwbndvT2xVZW9pSnBINVhCdzBlUmlrcXd4dmF4cGRaREZZeUdQMWJ4Nk5ZYWYwbktZMUpjbUtyUEFJaDBFNlpqc2FyQ1BkVFdhNEUwR2FPY0JsZVHSAb8BQVVfeXFMTzVnU2ROS0pULVlnaFBIR0p2Q0VWb1p6WmVSNkVVNFZxckxqaG1ibHYtNENlaGttd2NpLU44RlkyVmtFaHpxRUtKRC04OXRibDRqenZxWmpyc01Dc3NCY3RhWC1nVnYtanJfcXd0UG1TYS1SaEZLM2FvOXNuQlF3SmRqSGlMMUY1UDhyWVV2elVNT2lvVFhfRU5zNmR4SmM5TGprT2RkeV93ZmozVXdkNEFLOE4wRDdYeXJKTDQ1QW8?oc=5",
-      "date": "2026-08-05 11:00",
-      "summary": "A tiny fish’s behavior suggests aging may happen in stages, Stanford study finds  The Mercury News..."
-    },
-    {
       "title": "Tomiko Brown-Nagin to Leave Harvard Radcliffe Institute for Stanford Deanship - The Harvard Crimson",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmZfTG12R3dIVjJ6dW1NUmlSelRnNWdhd0dhQllXc012NzV3ZU92dHNSbjcyV29TXy1KR1ZuR2JxY2pTYzNKUEdtMlpKcExjYXAxNVoyWFpiUWZKRFhqZWV2MEtoS1NDZmRQRFhocXRLdG9LYjlGY2k2MmpwdVV4dnRfZ3NxZ2JX?oc=5",
       "date": "2026-08-05 07:00",
       "summary": "Tomiko Brown-Nagin to Leave Harvard Radcliffe Institute for Stanford Deanship  The Harvard Crimson..."
+    },
+    {
+      "title": "A tiny fish’s behavior suggests aging may happen in stages, Stanford study finds - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQk9kTnNFYnNpM3lCTXB1ajI3c1MtNkNhVVhUUGpZRzBjcWhmR2IwX3cyVVVsZXZxN0pISldudXRyYWZOQ3drYkU0cHdGVnRSYXgtV2lzSWZ1Snd3ck9LVzhIQzIyQjcwbndvT2xVZW9pSnBINVhCdzBlUmlrcXd4dmF4cGRaREZZeUdQMWJ4Nk5ZYWYwbktZMUpjbUtyUEFJaDBFNlpqc2FyQ1BkVFdhNEUwR2FPY0JsZVHSAb8BQVVfeXFMTzVnU2ROS0pULVlnaFBIR0p2Q0VWb1p6WmVSNkVVNFZxckxqaG1ibHYtNENlaGttd2NpLU44RlkyVmtFaHpxRUtKRC04OXRibDRqenZxWmpyc01Dc3NCY3RhWC1nVnYtanJfcXd0UG1TYS1SaEZLM2FvOXNuQlF3SmRqSGlMMUY1UDhyWVV2elVNT2lvVFhfRU5zNmR4SmM5TGprT2RkeV93ZmozVXdkNEFLOE4wRDdYeXJKTDQ1QW8?oc=5",
+      "date": "2026-08-05 11:00",
+      "summary": "A tiny fish’s behavior suggests aging may happen in stages, Stanford study finds  The Mercury News..."
     },
     {
       "title": "Stanford drops Flock cameras amid national backlash - Palo Alto Online",
@@ -129,6 +129,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "A composer published a paper on theoretical physics. His lack of credentials drew criticism.",
+      "link": "https://retractionwatch.com/2026/08/05/a-composer-published-a-paper-on-theoretical-physics-his-lack-of-credentials-drew-criticism/",
+      "date": "2026-08-05 16:13",
+      "summary": "Some people compose music or make YouTube videos for a hobby. That’s Brandon Yates’ job — so in his spare time, he tries his hand ..."
+    },
+    {
       "title": "High-profile anesthesiologists earning retractions for data, image problems",
       "link": "https://retractionwatch.com/2026/08/04/anesthesiologists-earning-retractions-for-data-image-problems/",
       "date": "2026-08-04 07:00",
@@ -151,12 +157,6 @@
       "link": "https://retractionwatch.com/2026/07/31/federal-lawsuit-major-publishers-article-processing-charges-false-claims-act/",
       "date": "2026-07-31 23:00",
       "summary": "A lawsuit filed under the U.S. False Claims Act accuses four major publishers of perpetrating a decade-long scheme to defraud the ..."
-    },
-    {
-      "title": "Retraction Watch story exposing research factory fuels investigations, preprint withdrawals, termination",
-      "link": "https://retractionwatch.com/2026/07/31/retraction-watch-research-factory-investigation-preprint-withdrawals/",
-      "date": "2026-07-31 14:56",
-      "summary": "A preprint server has withdrawn three papers by an author at the center of a Retraction Watch story revealing a prolific research ..."
     }
   ],
   "Reuters AI": [
@@ -167,10 +167,10 @@
       "summary": "Europe's established tech firms emerge as unexpected AI winners  Reuters..."
     },
     {
-      "title": "AMD's AI-powered revenue forecast fails to wow investors - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVI0Wnk2b3Jpb0tucDcyRzl0Y05zX2RwWTZWRU5CYVhyc3BLSjc5NVJDSlZFSGZNZ1F4S1FTei1saXVaaGFaTzFsUTkyUFFOelE5bEY3eTlyMURpYXlBbmNPUk1IOTJVaVlLcjVwWk82Qlhic3lfNndTa2N1ZnNHMXBLOFFTOVRFdXcwYWF0SWQ2a0hVcUNDeDA1U0hmRXdoMXJOVUpVeW1rbmU5dXhZOVFBaHBhRXlMa2pscWRn?oc=5",
-      "date": "2026-08-04 23:45",
-      "summary": "AMD's AI-powered revenue forecast fails to wow investors  Reuters..."
+      "title": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb0kxdjdSV1l6emtwTHdHMGFiRWpqQXo5cG9JQjZTanRNOGtwV0s4V2VSQnMwZjZsaExneS11Rk1vbmhPTE1WN2hnTnFSTDVtTFNtOXpFMV8waVBkZWFhV2RJLTNiM2pCcUVHVWpZZE1HT3RwaFVoTjdZdk90T3BDa283S3pPbFJqZjB2blhxaUFZZTBWaTlyZmVlZFkwS2c5aUxOMGtOTm9uaXF5SXJhTl9xYVNfckRZYmc?oc=5",
+      "date": "2026-08-04 21:50",
+      "summary": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say  Reuters..."
     },
     {
       "title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components - Yahoo News Canada",
@@ -225,37 +225,49 @@
   ],
   "Phys.org": [
     {
-      "title": "Two origins of life: Free-living cells may have emerged twice as bacteria and archaea diverged",
-      "link": "https://phys.org/news/2026-08-life-free-cells-emerged-bacteria.html",
-      "date": "2026-08-05 18:00",
-      "summary": "How and where did the first forms of life arise? These are the main questions driving research at the Institute of Molecular Evolu..."
+      "title": "Well-worn wins: Wild capuchin monkeys prefer stones with a proven track record of cracking nuts",
+      "link": "https://phys.org/news/2026-08-worn-wild-capuchin-monkeys-stones.html",
+      "date": "2026-08-05 20:20",
+      "summary": "A new study provides experimental evidence that wild capuchin monkeys use more than just physical cues when selecting stone tools;..."
     },
     {
-      "title": "Tangled seaweed inspires one-size-fits-all cleaners for ocean microplastics",
-      "link": "https://phys.org/news/2026-08-tangled-seaweed-size-cleaners-ocean.html",
-      "date": "2026-08-05 18:00",
-      "summary": "Inspired by naturally occurring mats and balls of seaweed, researchers have created highly porous, superadhesive meshes capable of..."
+      "title": "A small molecular module helps time development of C. elegans",
+      "link": "https://phys.org/news/2026-08-small-molecular-module-elegans.html",
+      "date": "2026-08-05 20:20",
+      "summary": "For an animal to develop normally, cells must not only become the right types but also do so at the right time. In the worm C. ele..."
     },
     {
-      "title": "How humans process the extraordinary—most report positive long-term effects",
-      "link": "https://phys.org/news/2026-08-humans-extraordinary-positive-term-effects.html",
-      "date": "2026-08-05 18:00",
-      "summary": "One-fourth of people who undergo an extraordinary experience report immediate discomfort, but more than half say the experience ca..."
+      "title": "Genomic evidence suggests coral reefs may be rewriting their genetic future in real time",
+      "link": "https://phys.org/news/2026-08-genomic-evidence-coral-reefs-rewriting.html",
+      "date": "2026-08-05 20:10",
+      "summary": "The 2019 heat wave that struck Mo'orea—a volcanic island in French Polynesia—swept through its coral reefs like an invisible wildf..."
     },
     {
-      "title": "Distrust of mainstream media may fuel vaccine conspiracy beliefs",
-      "link": "https://phys.org/news/2026-08-distrust-mainstream-media-fuel-vaccine.html",
-      "date": "2026-08-05 18:00",
-      "summary": "A research team led by Professor Hitoshi Yamamoto of Rissho University analyzed five years of longitudinal panel survey data colle..."
+      "title": "New semiconductor maser operates continuously above room temperature",
+      "link": "https://phys.org/news/2026-08-semiconductor-maser-room-temperature.html",
+      "date": "2026-08-05 20:00",
+      "summary": "Lasers have become indispensable in everyday life and research, with applications ranging from data transmission and metrology to ..."
     },
     {
-      "title": "Study finds it's where you log, not just how much, that determines flood risk",
-      "link": "https://phys.org/news/2026-08-study-finds-it-where-you.html",
-      "date": "2026-08-05 17:40",
-      "summary": "Watersheds that are flatter, drier and warmer are generally more vulnerable to increases in flooding after trees are harvested. Th..."
+      "title": "Accelerating the discovery of ceramic materials using cellulose nanofiber dispersions",
+      "link": "https://phys.org/news/2026-08-discovery-ceramic-materials-cellulose-nanofiber.html",
+      "date": "2026-08-05 20:00",
+      "summary": "Ceramic materials are used everywhere, from smartphones and computers to electric vehicles and renewable energy systems. These mat..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Cambridge professor Jason Arday resigns amid accusations of plagiarism",
+      "link": "https://www.theguardian.com/education/2026/aug/05/cambridge-professor-jason-arday-resigns-amid-accusations-of-plagiarism",
+      "date": "2026-08-05 20:08",
+      "summary": "Sociology professor to stand down after university announces investigation into his qualifications and career• Playbooks, plagiari..."
+    },
+    {
+      "title": "Cambridge announces investigation into professor accused of plagiarism",
+      "link": "https://www.theguardian.com/education/2026/aug/05/cambridge-jason-arday-announces-investigation-into-professor-accused-of-plagiarism",
+      "date": "2026-08-05 19:04",
+      "summary": "University says it has ‘new information’ about academic career of Jason Arday, the youngest black professor in its historyJason Ar..."
+    },
     {
       "title": "Teachers need help with AI. A union is offering training – with $23m in funding from big tech",
       "link": "https://www.theguardian.com/technology/2026/aug/05/teachers-unions-ai-training",
@@ -273,18 +285,6 @@
       "link": "https://www.theguardian.com/science/2026/aug/03/children-using-social-media-younger-age-worse-school-tests",
       "date": "2026-08-03 15:14",
       "summary": "Pupils who open accounts aged 11 to 12 score lower in some subjects than those who wait a few years, study findsChildren who open ..."
-    },
-    {
-      "title": "Montessori learning is being shut down at Leah’s school – is a push towards ‘explicit instruction’ to blame?",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/03/montessori-learning-is-being-shut-down-at-leahs-school-is-a-push-towards-explicit-instruction-to-blame",
-      "date": "2026-08-03 15:00",
-      "summary": "Critics say the one size-fits-all approach doesn’t work for all students and there are questions about the body that has been push..."
-    },
-    {
-      "title": "‘I want to be ripped to shreds’: writers flock to MFAs - but does it breed elitist literature?",
-      "link": "https://www.theguardian.com/us-news/2026/aug/03/mfa-writing-programs",
-      "date": "2026-08-03 12:00",
-      "summary": "Thousands of budding US novelists enlist in courses each year, hoping to gain credentials that often influence who gets publishedT..."
     }
   ],
   "SCMP Hong Kong": [
