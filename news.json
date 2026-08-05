@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
+      "link": "https://news.mit.edu/2026/researchers-make-air-stable-ultrathin-superconductors-more-scalable-quantum-devices",
+      "date": "2026-08-05 15:00",
+      "summary": "A new technique produces wafer-scale samples, overcoming a major roadblock to using these materials in quantum technologies...."
+    },
+    {
+      "title": "Scientists unveil more than 600 new tissue models of human cancer",
+      "link": "https://news.mit.edu/2026/scientists-unveil-600-new-tissue-models-human-cancer-0805",
+      "date": "2026-08-05 15:00",
+      "summary": "Derived from patient tumor samples and available to researchers around the world, the cells will aid the development of new cancer..."
+    },
+    {
       "title": "These 3D-printed objects can tell you if they’re being used properly",
       "link": "https://news.mit.edu/2026/shiftlens-3d-printed-objects-can-tell-you-if-used-properly-0805",
       "date": "2026-08-05 04:00",
@@ -17,27 +29,9 @@
       "link": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
       "date": "2026-08-04 09:00",
       "summary": "Study finds non-experts deferred to LLM-based diagnostic assistance, even when it was wrong, while clinicians caught AI errors...."
-    },
-    {
-      "title": "Turning molecules into reliable electronic devices",
-      "link": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803",
-      "date": "2026-08-03 09:00",
-      "summary": "A new fabrication platform integrates molecules into electronic devices, opening the door to emerging computing technologies...."
-    },
-    {
-      "title": "Why some nitrogen-processing enzymes are more efficient than others",
-      "link": "https://news.mit.edu/2026/why-some-nitrogen-processing-enzymes-are-more-efficient-0730",
-      "date": "2026-07-30 15:00",
-      "summary": "New findings could help researchers design synthetic catalysts that convert nitrogen gas to ammonia, a key step in fertilizer prod..."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "Is your cholesterol too high based on latest guidelines? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOE1Tb01PZXUyT0JuMmZWNmZrdXpmNHJQVUc4V0FLVFRhQWlaUTFfdjVhRVM1WUZqOFF6MldETGI3bEtVeVljRUtqMnJLM3l3ODJjSjktbmZTVDJnMkNET2JWMWVCMExtbUo3V0tpY0dRLURocFpoRV9GTkRxaVVzd0pPTXpwVXRGbDJJN3lWY1Y3VlZ3NjVwU19Ic2luWXJ4SlE0eFpR?oc=5",
-      "date": "2026-07-21 07:00",
-      "summary": "Is your cholesterol too high based on latest guidelines?  Harvard Gazette..."
-    },
     {
       "title": "20 societal problems, 20 solutions - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
@@ -57,18 +51,30 @@
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     },
     {
-      "title": "‘Vibe coding’ may offer insight into our AI future - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdEhzcmpQLXFzdHRCTjMteHItZUVkdGZlRjlXdDNBa29OWFZ2OEdDcjJ5dVlFM29mRjNJdXJzN0IzcVFTM2sxUTF3NFFrRlVqVk9ERjk5NUZWb3FnZDl4bWdVbDRmbzJMWC1zeFk2U2Q3T1hyR3hEV1F3ai1LNFoxNE9BSkhuejhnMzREN2J1NTZYSXR1SzlKajl5Rmg?oc=5",
-      "date": "2026-04-01 07:00",
-      "summary": "‘Vibe coding’ may offer insight into our AI future  Harvard Gazette..."
+      "title": "Is your cholesterol too high based on latest guidelines? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOE1Tb01PZXUyT0JuMmZWNmZrdXpmNHJQVUc4V0FLVFRhQWlaUTFfdjVhRVM1WUZqOFF6MldETGI3bEtVeVljRUtqMnJLM3l3ODJjSjktbmZTVDJnMkNET2JWMWVCMExtbUo3V0tpY0dRLURocFpoRV9GTkRxaVVzd0pPTXpwVXRGbDJJN3lWY1Y3VlZ3NjVwU19Ic2luWXJ4SlE0eFpR?oc=5",
+      "date": "2026-07-21 07:00",
+      "summary": "Is your cholesterol too high based on latest guidelines?  Harvard Gazette..."
+    },
+    {
+      "title": "A potential quantum leap - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
+      "date": "2025-11-12 08:00",
+      "summary": "A potential quantum leap  Harvard Gazette..."
     }
   ],
   "Stanford News": [
     {
-      "title": "AI companions may worsen loneliness for vulnerable users - news.stanford.edu",
+      "title": "AI companions may worsen loneliness for vulnerable users - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSk5LX0xNVFI4WTRQWEFmUEdaNkxURVFlTXFrWGZ5dG4zS2RnWHlpT3lKVU4xREpKUXRaQkVreXloeFFVaXdTVkxlM1FQRTR0N3pjc0dVRURJNzlZRWxJTzlCTk9OWjRuSFhISVM3MzUxMzBaVDM0RTJVQXBKbVpHYWdFa0dSeThBYXJiLQ?oc=5",
       "date": "2026-08-04 20:53",
-      "summary": "AI companions may worsen loneliness for vulnerable users  news.stanford.edu..."
+      "summary": "AI companions may worsen loneliness for vulnerable users  Stanford Report..."
+    },
+    {
+      "title": "Stanford scientists discover immune cells that explode like microscopic bombs - sciencedaily.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HNTFIVjBhX3JBdnEwbXFLMXlPSUxIVmNUN2w3UGpKZjdiSWc0SVNrS0N1SjRmbXdVUG1jb0lHLXVVQkpGYUVRYjYwR3M3VzJoaXQ1WThJWTk0aERoVVc3WnR4VlRTY1c0aEE0NE9KRQ?oc=5",
+      "date": "2026-08-05 05:43",
+      "summary": "Stanford scientists discover immune cells that explode like microscopic bombs  sciencedaily.com..."
     },
     {
       "title": "Stanford drops Flock cameras amid national backlash - Palo Alto Online",
@@ -77,22 +83,16 @@
       "summary": "Stanford drops Flock cameras amid national backlash  Palo Alto Online..."
     },
     {
-      "title": "Stanford scientists discover immune cells that explode like microscopic bombs - ScienceDaily",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HNTFIVjBhX3JBdnEwbXFLMXlPSUxIVmNUN2w3UGpKZjdiSWc0SVNrS0N1SjRmbXdVUG1jb0lHLXVVQkpGYUVRYjYwR3M3VzJoaXQ1WThJWTk0aERoVVc3WnR4VlRTY1c0aEE0NE9KRQ?oc=5",
-      "date": "2026-08-05 05:43",
-      "summary": "Stanford scientists discover immune cells that explode like microscopic bombs  ScienceDaily..."
-    },
-    {
-      "title": "Tech leaders gather for 'AI Summit @ Stanford' to tackle breakthrough opportunities, risks - ABC7 Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWNONEZKSEpGbEoyNmZkVGs4YXoydmQ2cTJqVHRhUkcyQ2E4ZXI1dnRkQTlmT3hPdzA1ZTJlSzA4YTFuU3JGUVAtQ2VQQVl2LWlKSFhSYU1Rc09pQWU5ano3S0NrYTVtWl9wdFpaamZ5V0RLbkwxZUVfMkphZEU4VVI0aDdlS2dreGh2b0o1emJsODFwWkl3Sm8tcWhYRUFDMk5FRXN5aEw2M2NLZHktN3FmdDDSAboBQVVfeXFMTWFkRUdUOW1rRFVhRDVSbWNqYUNWbXRGM3VjOXVNNHpSbnhZSWJRNHUzeGtueGhVZlNVTGcwNS02U3RNTVBmWS1odjJ3MUFuMW9wWUFYN2E3cElNWklTWDVEQmNIbFpWaDZ3Rm4ySjd6Z1pJZFd6ZjJ6WkEwRVhCZEhVQWF1dUlaSlhTb3VCakhfUC1Ib29BaS01VWFWeXNzZnBvMkNlUDJ5bm9Yb0hHYkhyUnJlWGQ3U2pR?oc=5",
-      "date": "2026-07-31 23:33",
-      "summary": "Tech leaders gather for 'AI Summit @ Stanford' to tackle breakthrough opportunities, risks  ABC7 Bay Area..."
-    },
-    {
       "title": "Stanford analysis ranks U of A among nation's most effective producers of billion-dollar startups - University of Arizona News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlVQeEtTa2pKazFlUjl1TzE0ZkpmZHBxZE40cDkyR0RBSE15MUt1bjZBMzlfZXlFRG4zMFN3cURKZl9jQjUxei1lVFl0b2NGbG9nUVhGWmFpNXlwc0h6MEpYc0t2SnB2Si1JX205aFd1WkV1TDFBbnBsMXZLamQwMnk2WG1mUTlVVjgtQjB5QkN1NzhBektfZkxJZURieHBSVGl0MWQyVHNIY1h0eEhsMm12anNHTkdjWWc?oc=5",
       "date": "2026-08-03 16:56",
       "summary": "Stanford analysis ranks U of A among nation's most effective producers of billion-dollar startups  University of Arizona News..."
+    },
+    {
+      "title": "Stanford Football: Fall Camp Press Conference | Week 2 - Stanford Cardinal",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVVpsMzREWjdlREpLWXNvd2RnenpzZXB1OFFoM2ZLVEVtdDdzckszRmMwUmFxTWdPV0Y2Z0FJSXEtaHpmVXRjblFVb2xBQThyRl8xY0Y0dk5WSzlWX2Z0SmEzREwxQ1Q0OU85THBHMEZtWVdBMGhHemJkM2FwTUxGaGRqSXc3UXJjWVBHaTgtYTBCZ1pqQ1ZJ?oc=5",
+      "date": "2026-08-03 21:05",
+      "summary": "Stanford Football: Fall Camp Press Conference | Week 2  Stanford Cardinal..."
     }
   ],
   "Nature Careers": [
@@ -103,60 +103,28 @@
       "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10963-0Publisher Correction: Progressive plasticity during colore..."
     },
     {
+      "title": "James Bond, not Bond James: why scientific publishing must respect name order",
+      "link": "https://www.nature.com/articles/d41586-026-01772-6",
+      "date": "2026-08-05 00:00",
+      "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-01772-6Databases and submission systems are often inflexible. Can..."
+    },
+    {
       "title": "Exclusive: the science papers that patents cite the most",
       "link": "https://www.nature.com/articles/d41586-026-02386-8",
       "date": "2026-08-05 00:00",
       "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02386-8Nature reveals the studies that are mentioned most often i..."
     },
     {
-      "title": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
-      "link": "https://www.nature.com/articles/s41586-026-10958-x",
-      "date": "2026-08-04 00:00",
-      "summary": "Nature, Published online: 04 August 2026; doi:10.1038/s41586-026-10958-xAuthor Correction: Casdatifan shows durable response linke..."
+      "title": "The recovered notes of Professor Alborough",
+      "link": "https://www.nature.com/articles/d41586-026-02252-7",
+      "date": "2026-08-05 00:00",
+      "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02252-7Time for a break...."
     },
     {
-      "title": "Put health systems at the centre of European heatwave plans",
-      "link": "https://www.nature.com/articles/d41586-026-02426-3",
-      "date": "2026-08-04 00:00",
-      "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02426-3Put health systems at the centre of European heatwave plan..."
-    },
-    {
-      "title": "‘Television’? The word will never catch on!",
-      "link": "https://www.nature.com/articles/d41586-026-02379-7",
-      "date": "2026-08-04 00:00",
-      "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02379-7One reader proposes an alternative to the word ‘television..."
-    }
-  ],
-  "Science News": [
-    {
-      "title": "With lucky dive, scientists get a front-row view of the creation of Earth’s surface",
-      "link": "https://www.science.org/content/article/lucky-dive-scientists-get-front-row-view-creation-earth-s-surface",
-      "date": "2026-08-04 05:01",
-      "summary": "Chance—and preparation—reveal live action at midocean ridges..."
-    },
-    {
-      "title": "As a weekly anti-HIV pill nears the market, vaccine research faces new hurdles",
-      "link": "https://www.science.org/content/article/weekly-anti-hiv-pill-nears-market-vaccine-research-faces-new-hurdles",
-      "date": "2026-08-04 04:15",
-      "summary": "Trial failed of supposedly potent antibodies that the leading vaccine candidates aim to trigger..."
-    },
-    {
-      "title": "NASA mission predicts solar explosion’s arrival at Earth with stunning precision",
-      "link": "https://www.science.org/content/article/nasa-mission-predicts-solar-explosion-s-arrival-earth-stunning-precision",
-      "date": "2026-08-04 03:30",
-      "summary": "Satellite network known as PUNCH breaks record for forecasting space weather event..."
-    },
-    {
-      "title": "Antimalaria pesticide may have backfired, helping mosquitoes find love",
-      "link": "https://www.science.org/content/article/antimalaria-pesticide-may-have-backfired-helping-mosquitoes-find-love",
-      "date": "2026-08-04 01:00",
-      "summary": "Poison appears to have caused mutation that helps insects home in on mates in noisy cities..."
-    },
-    {
-      "title": "Major highway of the human nervous system gets a complete road map",
-      "link": "https://www.science.org/content/article/major-highway-human-nervous-system-gets-complete-road-map",
-      "date": "2026-08-03 12:40",
-      "summary": "First comprehensive map of the vagus nerve may point to more precise stimulation therapies..."
+      "title": "Why science must reinforce its social contract",
+      "link": "https://www.nature.com/articles/d41586-026-02444-1",
+      "date": "2026-08-05 00:00",
+      "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02444-1Questions of public trust can be addressed only through be..."
     }
   ],
   "Retraction Watch": [
@@ -193,16 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "Europe's established tech firms emerge as unexpected AI winners - Reuters",
+      "title": "Europe's established tech firms emerge as unexpected AI winners - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWRDdmdzOFBqRzVVSGppcGNESFF1WGZlQVVaQnRfaEd6NS1xLVRXUHFGSGt2dzNVR1FkRUgySTBfV0FUSHZ6RzcyYjFzdXB1aTRVTFdBbkU1c3ZyX1luWkZsTFdIOGtiTUNzVFpVZVVkRzBUQVZVZlBQbEQ1X3ZQZ0h0Y3ljVDlFRHRFeUt4S0dERW5RLVhVR0tSX2lNSkNJVXRCaktnQ0oxQmZJbmhVZWpGQTNCLUNEYmc?oc=5",
       "date": "2026-08-05 06:03",
-      "summary": "Europe's established tech firms emerge as unexpected AI winners  Reuters..."
+      "summary": "Europe's established tech firms emerge as unexpected AI winners  reuters.com..."
     },
     {
-      "title": "AI data-centre race builds $1 trillion lease burden for Big Tech - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTE5xTHh1OXJqckd3YzNTeU5GTm9rQ1pxQlRIQVVOazlGQ2tKaGlzQjUzcFpNaDlUNWZpMFJ1VWxYNFc4NXpzNUFEVWRpTVAxOGliWnNJZXBIbW1iVVlPV3Y3aF8zZ0NvMU96eUlNcGczQnM2QmI0bloyVHF1U29TQW9sQ19ncmpnYWVuWFFVTW9yb1k4T3p0aWxOa1ZRQ0NpSjZUZFNIT25jXzJHRElLY2VrSUNqcGxJWDltNQ?oc=5",
-      "date": "2026-08-04 17:22",
-      "summary": "AI data-centre race builds $1 trillion lease burden for Big Tech  Reuters..."
+      "title": "Oracle Corp goes for high-stakes ratings gamble in AI strategy - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTZDLU9YVTRMN1NqaS1WSGh6Tk54VnBycmlfZ0pQVnA5R2p1VTc0YWFkbTMyZF9uRldPYTRnNmY5X2tRaW9iY0prV082RU9yLUo3WFFGc1h6emd1b3JtN1BscG1qX3ZZdG0zenptenZWV0xOWXY0WWZUSFpUTUg3UE9nWE5MR1NpSlZUWHJqTW4yRXE1emxKWnRGS0xqZ0pyZUE?oc=5",
+      "date": "2026-08-04 17:23",
+      "summary": "Oracle Corp goes for high-stakes ratings gamble in AI strategy  reuters.com..."
     },
     {
       "title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components - Yahoo News Canada",
@@ -211,80 +179,80 @@
       "summary": "China AI hardware stocks slump after news US plans to ban imports of Chinese components  Yahoo News Canada..."
     },
     {
-      "title": "US Drafts Ban on China Data Center Components, Reuters Says - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTzgwMnZUMnJ5cXEwSUlCUnZqSEw1aXFGMV9lbm9CS3VJeDRFUDgteHNORlR0ZHJycmo4aEFIYnR2NXVCTDFPczVsd01IS3J1Y0YtUzhBY3FjY3NfTnd1LWxWU19IUmJXZWJHQmNhTEZna1hoNWItVG9hOUNrWVdjWm85U0VUSHpTaVFENHdacnpDY3RhREJ6b1lBcHhMTV90U2tZLXBkMkh0cjdMbktoeg?oc=5",
-      "date": "2026-08-04 14:31",
-      "summary": "US Drafts Ban on China Data Center Components, Reuters Says  Bloomberg.com..."
+      "title": "Thomson Reuters raises full-year revenue outlook with focus on AI rollout - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVl9xNVRRZm5GSWhOUkJmZEp4N3NSVExkTGY3Q3VNNklDNmRnbTVmRkNxOWZnMFB3NkVyR05KeFdwdmVLaHBlNVhJa3dNVUFoUGJBclhITVFLdFNwTDFZUFFlc0MtbzZRNTFOeURyeVlBWl8zeDF1c2szYkhIYWJqeUoxX1BSa19MV1ZZRTU1Wkx5dw?oc=5",
+      "date": "2026-08-05 11:29",
+      "summary": "Thomson Reuters raises full-year revenue outlook with focus on AI rollout  The Globe and Mail..."
     },
     {
-      "title": "OpenAI, Anthropic AI agents implicated in new security breaches - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczA3WWo2amR5TUgyLUNXYnNhSVFJMjlFX1dpbjhPN0R4anhTNkJNYzBseVlNbGdCa0E3ZWU5aXRfaEZWaE5OT1hSb0NCRmlJS2w5OGNMbWgyZ3hnOUNieHFRaW44b3JmMm42SVpCb1d6dVF5SG9yR0k2UndzMGs2aGVaZl9NRmIwaWd3T0RvTkh1c0xyQVpoOVJyQ21aMWZmdE1VQVJUZVZIQ0l2azhzZ25n?oc=5",
-      "date": "2026-08-05 09:57",
-      "summary": "OpenAI, Anthropic AI agents implicated in new security breaches  Reuters..."
+      "title": "SpaceX slides as AI spending worries overshadow early returns - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWU1MzhJUmZkZWYwa0ItM3ZsMHh3bnVZS3JiYllKRF83UWpmM0d6M2txVnY3eDdNVXdweUd0dFZDcmxZQWE0MlBTYlFzYTg0dFJWODl6Z0hfcWo0QXZwNkN6Z3pXZGJKMlY3SGZQcmZzWmhxbmxvNDdISHR6V29ST2hUVW1FUGUxR2ZOVVM5OUR0THhTcmJ6UXRhTld1WXFjNkdXYkM2REs2V1BnZC11VlR0WS1pUFU4?oc=5",
+      "date": "2026-08-05 13:39",
+      "summary": "SpaceX slides as AI spending worries overshadow early returns  reuters.com..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "Here’s why AI agents lie and cheat to reach their goals - technologyreview.com",
+      "title": "Here’s why AI agents lie and cheat to reach their goals - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTZZX3FIYTZXNlJmLV8yLUpKZ3JuSGZPTFlpRlF4VzZXOWYxV2FZWV9DekJOZDY1RDgySGRfbEJLdjZLdzdiSWM0M1htZUZLY1ZneHNNTmVSZ21mUkVZZlpuR3Rya3hnS2MyLVdJUC1Gd19qb21VbThRMGE0Yld5bFBuY0JydW1lN3EtVHpKT0Z1TXVKdUVrY0JpeTgycXZkUS1MdkEyUjIzLWvSAbABQVVfeXFMTml6dlUtWGVzYVBFemxJRF81X0VqMVdhbEdDc29mY0RNWjJVWlRJd1o2TUxHbGdWMjQ1dnJ5MTh1LWM5MHZNREZoTTdhbmlSbDBoTTJQRlVDSVFKUHhfTFg0UXRCWHkybEMtQk00NEYwWXFjdzg1VUxUNUZMcngtTllpaWxpZFBLdWJOTVpBajNDeXd0WFhRdjUzcE5ORmktMVRKa25QcF9LZUxhZzJKVlk?oc=5",
       "date": "2026-08-03 08:30",
-      "summary": "Here’s why AI agents lie and cheat to reach their goals  technologyreview.com..."
+      "summary": "Here’s why AI agents lie and cheat to reach their goals  MIT Technology Review..."
     },
     {
-      "title": "Trump’s AI protectionism has come for robotics - technologyreview.com",
+      "title": "Trump’s AI protectionism has come for robotics - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRXNQZFQyQTVMbEk4UXZRYWwwb3RaVHcyMlU5QmozdldfRVdrcVlGc1VYbDNyeXl2OGh0clJoRk1BN0VuQkxDUjU4WHdZQS1ERW5BTDdmOGtuZVpVOW0xbHM4QWRQVU01QWhpZzdFbkJtVG1HNEpuQTd2VUlJNFF6dWo3SjZ5VWcyMldDQlJvM0V5Q2pOYnBra245ZXlDNmfSAaQBQVVfeXFMTTR4N0dnSVBGNWl4NnVPWl9WQUlYLTExRXJvdXE3cHFJSThyak5tTXhHa0ZhaDBPdXhHYXJVbWRXa2xzVlo3bzN0QW1vTkJKbmQ3dFNjbGRmNkM2UWRqenVhTWFhSlcxaWczWkg2bW53Z2FKQ25yQVJPcmlsSFUzRnJzcVFqZnhDbWozOGdzUzhzZGdJRUhlS190VklEdER1WXJ2VXE?oc=5",
       "date": "2026-08-03 18:43",
-      "summary": "Trump’s AI protectionism has come for robotics  technologyreview.com..."
+      "summary": "Trump’s AI protectionism has come for robotics  MIT Technology Review..."
     },
     {
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack - technologyreview.com",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWduREp1NDlRczVvanNUcWlLczk0ZFJwbDlnN245ZmI1ZEZqUWg5YzlCYTZjRXdqNTloQzMyS3hndi16eTVlVFRqTFZXN3JMRHNvUm41T29yS1hmeTM2aGFPc0phSW1aSXdoYzFmUWJVS3Q1NTlFWWxBdEctMlZhUEpaQ1dKQVJBYWF3bWpISm16VUNGQUl4d1FjVmZGQlpuZ0pXMncxY9IBrAFBVV95cUxQTnJNb1JkeVZsaGhZTi1jclRCOWN5aTFVUTBsRjg4S3dWYjhLUnBPczJIOGJBMWRKUnl6bkROdFRjNXBHZGxRZkM5M05pRjAxMDQxbV9wbmJ5bFhRaklqUm5pb2tJT092eHA5cVNUNnhDYXQzeTdrOHZad1BTcEt5dHhQUzBvSVdGajlNVHhETDd6MWFGX1JrNktLMVdYWndjR29kVXo2R2lWaVo3?oc=5",
       "date": "2026-07-30 10:15",
-      "summary": "A fundamental flaw leaves LLMs strikingly vulnerable to attack  technologyreview.com..."
+      "summary": "A fundamental flaw leaves LLMs strikingly vulnerable to attack  MIT Technology Review..."
     },
     {
-      "title": "NASA’s new dark energy space telescope can also detect killer asteroids - technologyreview.com",
+      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUEtJcDRvRVNYcFNabmdsTTFreWpuT0RqUFVELTJBQkczb1dHcVAwV2lFNTg0ME1aZGRzV05pUlhCeURpektoRFpSdGhOc1JMQ255eGc0Zm9vcy1XQzAzaWw2c1ZKNElWazNKTG9taTR1R29nM2xBSzFnWnZQbU9OV3pBWExHSUhtT1dJQjBuREttMG13b1HSAZsBQVVfeXFMUERramlNZ2xxYWw0YXBuNzVOYkgwcHhwOURRWHA3Zy1GeEc5aENSRUtwd2RXNmdub1A4ek9qZlBwVWdaM1JvdzFVdVJvQnlWTnAzSlJicTFRUHJEOHZMMmo0M2hBbEZmTEc2d095SnFJUEx0Q01ZOGViLUNkblRZTDNHQ2RwM2FYWkpGMmZ6Z3J4WDNzUHdnaGtVYWc?oc=5",
       "date": "2026-08-05 08:06",
-      "summary": "NASA’s new dark energy space telescope can also detect killer asteroids  technologyreview.com..."
+      "summary": "NASA’s new dark-energy space telescope can also detect killer asteroids  MIT Technology Review..."
     },
     {
-      "title": "Montana’s new “right to try” law can’t come soon enough for some - technologyreview.com",
+      "title": "Montana’s new “right to try” law can’t come soon enough for some - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlk0QktFZTFZY2drQVJhY3d1eWY0dWEtbTNzNVFrTUxJLTlZZTFJaHV0X2o3ZF9NSmlEMUJkODAtWWtMOEtzTko3VEs2Y0dPMjNCdTBmc21tNkFyeG5janlTVllVQXc4blVkaU5vVEwwdno5SDRCQkZfbWY3ZGFrX1phSHU2Wkc5QldhVjhYY2RIcUpNRVM5cUM2U01rRWljamdzYVJfQUtLVWVkMnQ3YXhfUdIBuAFBVV95cUxNdUU4WHliQW1QTjdRRlBsd3hDcGtLLWhtWmhrcThkWFNJa2VmY0NiQmZrVTJKTWhSQjFHbW5lbnFUY0VCY0JOdEhTblFlVkRoeTVCY19QbWZ5cGN3Sm1tc3VlVXM1Y0hiS2FkckJ0dnU3Ni1EeG5aQmgtc1hoNVFvamhBNW1NbTFuSUJpTWVERHlNNnNFbzBOLVdNYXFwT3V3Qkk2N1VUQnVUY1pPQldzTkVLcEY4eXRY?oc=5",
       "date": "2026-07-31 09:00",
-      "summary": "Montana’s new “right to try” law can’t come soon enough for some  technologyreview.com..."
+      "summary": "Montana’s new “right to try” law can’t come soon enough for some  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Ancient armored fish that narrowly avoided meteorite strike reveals life before Earth's largest mass extinction",
-      "link": "https://phys.org/news/2026-08-ancient-armored-fish-narrowly-meteorite.html",
-      "date": "2026-08-05 14:20",
-      "summary": "A rare fossil discovered near South America's largest known meteorite crater has been named a new species. Initially mistaken for ..."
+      "title": "Climate change may be making us lonelier: How heat waves and extreme weather disrupt social connections",
+      "link": "https://phys.org/news/2026-08-climate-lonelier-extreme-weather-disrupt.html",
+      "date": "2026-08-05 16:40",
+      "summary": "Severe storms, heat waves and wildfires can shut down the social life of a community, flooding out festivals, canceling community ..."
     },
     {
-      "title": "Noisy bubbles hinder ultrasound-boosted chemical reactions, sonochemistry model shows",
-      "link": "https://phys.org/news/2026-08-noisy-hinder-ultrasound-boosted-chemical.html",
-      "date": "2026-08-05 14:20",
-      "summary": "Ultrasound is a powerful way to drive chemical reactions. When high-frequency sound waves pass through a liquid, tiny bubbles form..."
+      "title": "Cell-inspired synthetic fibers reveal a reversible route to self-protecting smart materials",
+      "link": "https://phys.org/news/2026-08-cell-synthetic-fibers-reveal-reversible.html",
+      "date": "2026-08-05 16:40",
+      "summary": "Researchers at the University of Bayreuth, together with colleagues from Freie Universität Berlin and the Leibniz Institute of Pol..."
     },
     {
-      "title": "Soilless farming system design can determine microbial growth, impact on crops",
-      "link": "https://phys.org/news/2026-08-soilless-farming-microbial-growth-impact.html",
-      "date": "2026-08-05 14:00",
-      "summary": "Soilless farming—a method of growing plants in a nutrient-rich solution rather than traditional soil—accounts for a significant sh..."
+      "title": "Restoring the silenced Friedreich's ataxia gene through unconventional means",
+      "link": "https://phys.org/news/2026-08-silenced-friedreich-ataxia-gene-unconventional.html",
+      "date": "2026-08-05 16:20",
+      "summary": "Cells can switch off genes by tightly packaging DNA around proteins called histones. However, scientists at St. Jude Children's Re..."
     },
     {
-      "title": "Were there tiny dinosaurs? New study explores one of evolution's biggest mysteries",
-      "link": "https://phys.org/news/2026-08-tiny-dinosaurs-explores-evolution-biggest.html",
-      "date": "2026-08-05 14:00",
-      "summary": "Dinosaurs are famous for being big, from the towering Tyrannosaurus rex to the colossal Apatosaurus. But a new study published tod..."
+      "title": "Is hemp a thirsty crop? New research measures just how much water cannabis farming can use",
+      "link": "https://phys.org/news/2026-08-hemp-thirsty-crop-cannabis-farming.html",
+      "date": "2026-08-05 16:20",
+      "summary": "In South Africa, it's been legal for several years for people to grow hemp (a type of Cannabis sativa with very low levels of the ..."
     },
     {
-      "title": "A new take on interpreting chemical bond analysis in solids",
-      "link": "https://phys.org/news/2026-08-chemical-bond-analysis-solids.html",
-      "date": "2026-08-05 13:40",
-      "summary": "Researchers from Skoltech, SberUniversity, the M.N. Mikheev Institute of Metal Physics of UB RAS and Ural Federal University have ..."
+      "title": "Study finds strong link between conspiracy beliefs, antisemitism and anti-Israel attitudes",
+      "link": "https://phys.org/news/2026-08-strong-link-conspiracy-beliefs-antisemitism.html",
+      "date": "2026-08-05 16:00",
+      "summary": "New research from Rutgers University–Newark psychologist Kent Harber reveals a strong connection between conspiracy theories, anti..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +289,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Singapore court jails Hong Kong mother, adult son for violent Changi clash",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363089/singapore-court-jails-hong-kong-mother-adult-son-violent-changi-clash?utm_source=rss_feed",
+      "date": "2026-08-05 15:21",
+      "summary": "A Singaporean court has jailed a Hong Kong mother and her adult son for up to six months following a chaotic clash at Changi Airpo..."
+    },
+    {
+      "title": "Fears grow that Fun Coffee crypto scam duped over 1,000 as losses mount",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363087/hong-kong-lawmaker-fears-fun-coffee-crypto-scam-duped-over-1000-losses-mount?utm_source=rss_feed",
+      "date": "2026-08-05 14:40",
+      "summary": "A Hong Kong lawmaker has warned that an unfolding crypto scam run by a coffee investment venture based in Vietnam could involve mo..."
+    },
+    {
+      "title": "Hong Kong urged to be ‘super partner’ in businesses’ overseas expansion push",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363088/hong-kong-urged-be-super-partner-businesses-overseas-expansion-push?utm_source=rss_feed",
+      "date": "2026-08-05 14:38",
+      "summary": "Hong Kong should act as a “super partner” helping enterprises expand into Asean, Middle Eastern, Central Asian and European market..."
+    },
+    {
       "title": "Food Expo vendors hoping for tasty profits with caviar sake gelato, other new products",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363080/food-expo-vendors-hoping-tasty-profits-caviar-sake-gelato-other-new-products?utm_source=rss_feed",
       "date": "2026-08-05 13:37",
@@ -331,24 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363074/hong-kong-woman-swindles-landlords-out-hk43m-crypto-investment-scam?utm_source=rss_feed",
       "date": "2026-08-05 12:01",
       "summary": "Hong Kong police have arrested a 67-year-old woman who posed as a prospective tenant to swindle two property owners out of HK$4.3 ..."
-    },
-    {
-      "title": "‘Savage abuse’: Hong Kong mother gets 22 years for starving boy, 5, to death",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363069/savage-abuse-hong-kong-mother-gets-22-years-starving-boy-5-death?utm_source=rss_feed",
-      "date": "2026-08-05 11:13",
-      "summary": "A Hong Kong mother who abused and starved her five-year-old son to death was sentenced to 22 years in prison, with the judge conde..."
-    },
-    {
-      "title": "‘Devastated’: Tung Wah College says sorry for false admission offers to 11,000 hopefuls",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3363064/devastated-tung-wah-college-says-sorry-false-admission-offers-10000-hopefuls?utm_source=rss_feed",
-      "date": "2026-08-05 10:58",
-      "summary": "A tertiary institution in Hong Kong has apologised for mistakenly sending an email to all 11,139 of its applicants telling them th..."
-    },
-    {
-      "title": "Man arrested for dangerous driving as woman jumps clear of swerving van",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363060/man-arrested-dangerous-driving-woman-jumps-clear-swerving-van?utm_source=rss_feed",
-      "date": "2026-08-05 10:17",
-      "summary": "Hong Kong police have arrested a man on suspicion of dangerous driving after a video went viral showing his van swerving dangerous..."
     }
   ]
 }
