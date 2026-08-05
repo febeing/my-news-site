@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "These 3D-printed objects can tell you if they’re being used properly",
+      "link": "https://news.mit.edu/2026/shiftlens-3d-printed-objects-can-tell-you-if-used-properly-0805",
+      "date": "2026-08-05 04:00",
+      "summary": "The “ShiftLens” design and fabrication system creates objects that change their surface appearance based on user interactions, wit..."
+    },
+    {
       "title": "Solving the solvent problem",
       "link": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
       "date": "2026-08-04 18:50",
@@ -23,76 +29,6 @@
       "link": "https://news.mit.edu/2026/why-some-nitrogen-processing-enzymes-are-more-efficient-0730",
       "date": "2026-07-30 15:00",
       "summary": "New findings could help researchers design synthetic catalysts that convert nitrogen gas to ammonia, a key step in fertilizer prod..."
-    },
-    {
-      "title": "MIT and Broad Institute researchers break diffraction barrier in super-resolution microscopy",
-      "link": "https://news.mit.edu/2026/researchers-break-diffraction-barrier-super-resolution-microscopy-0729",
-      "date": "2026-07-29 17:00",
-      "summary": "New U-STORM imaging technology lets scientists view molecular structures in subatomic detail — about 1,000 times clearer than trad..."
-    }
-  ],
-  "Harvard Gazette": [
-    {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
-      "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
-    },
-    {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
-      "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
-    },
-    {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
-    },
-    {
-      "title": "Is your cholesterol too high based on latest guidelines? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOE1Tb01PZXUyT0JuMmZWNmZrdXpmNHJQVUc4V0FLVFRhQWlaUTFfdjVhRVM1WUZqOFF6MldETGI3bEtVeVljRUtqMnJLM3l3ODJjSjktbmZTVDJnMkNET2JWMWVCMExtbUo3V0tpY0dRLURocFpoRV9GTkRxaVVzd0pPTXpwVXRGbDJJN3lWY1Y3VlZ3NjVwU19Ic2luWXJ4SlE0eFpR?oc=5",
-      "date": "2026-07-21 07:00",
-      "summary": "Is your cholesterol too high based on latest guidelines?  Harvard Gazette..."
-    },
-    {
-      "title": "A potential quantum leap - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
-      "date": "2025-11-12 08:00",
-      "summary": "A potential quantum leap  Harvard Gazette..."
-    }
-  ],
-  "Stanford News": [
-    {
-      "title": "SLS Students and Faculty Honored with Awards, Fellowships - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQREoyUGFFb3otaTU0LUMtZmctaFliSWx5Z2NQckRuX2hzQVZYX2ZjbU8ydGQtcEFLRjU4b3V3QWE2OVc5U0txblNXaTNZWXJ1dzYzME9UZzkyWE1nN1hZRHN2alNUdGtPRVkxNkdiRW0xcFdIQUxha21IY211U2kwS2MzZFpsZlJiMEREN29wQXJHMzhx?oc=5",
-      "date": "2026-08-04 16:05",
-      "summary": "SLS Students and Faculty Honored with Awards, Fellowships  Stanford Law School..."
-    },
-    {
-      "title": "Tech leaders gather for 'AI Summit @ Stanford' to tackle breakthrough opportunities, risks - ABC7 Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWNONEZKSEpGbEoyNmZkVGs4YXoydmQ2cTJqVHRhUkcyQ2E4ZXI1dnRkQTlmT3hPdzA1ZTJlSzA4YTFuU3JGUVAtQ2VQQVl2LWlKSFhSYU1Rc09pQWU5ano3S0NrYTVtWl9wdFpaamZ5V0RLbkwxZUVfMkphZEU4VVI0aDdlS2dreGh2b0o1emJsODFwWkl3Sm8tcWhYRUFDMk5FRXN5aEw2M2NLZHktN3FmdDDSAboBQVVfeXFMTWFkRUdUOW1rRFVhRDVSbWNqYUNWbXRGM3VjOXVNNHpSbnhZSWJRNHUzeGtueGhVZlNVTGcwNS02U3RNTVBmWS1odjJ3MUFuMW9wWUFYN2E3cElNWklTWDVEQmNIbFpWaDZ3Rm4ySjd6Z1pJZFd6ZjJ6WkEwRVhCZEhVQWF1dUlaSlhTb3VCakhfUC1Ib29BaS01VWFWeXNzZnBvMkNlUDJ5bm9Yb0hHYkhyUnJlWGQ3U2pR?oc=5",
-      "date": "2026-07-31 23:33",
-      "summary": "Tech leaders gather for 'AI Summit @ Stanford' to tackle breakthrough opportunities, risks  ABC7 Bay Area..."
-    },
-    {
-      "title": "Stanford analysis ranks U of A among nation's most effective producers of billion-dollar startups - The University of Arizona",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVm8wWTU0cHNMRi04ZHJJOXd3REZwcEdibmRhdnFORzJpWU84eEVJVWxqZ0ZvbHJVQmRQN1dBcERfUHNNeWN6SDd2OXFqSVY4cmIzQWtUdzJaUE5fSkJDd09NcnZqeTg5UEtnaVdGYk5ocnN1SGV5dnBjcW5tRGtSUTROT0J2NUVBeWxKa3IxeGtFNGpJSmtUdmFCYzU4MWdxVW8wZDhnSkFoN2JabXo0dGZLTi1ieHZmQmpQR21nWQ?oc=5",
-      "date": "2026-08-04 16:27",
-      "summary": "Stanford analysis ranks U of A among nation's most effective producers of billion-dollar startups  The University of Arizona..."
-    },
-    {
-      "title": "Taking the leap from SMS to Stanford OHS - Stillwater News Press",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSW44NjVLQkpPZVlHZDB0T0JxSjNBc2pFSnRLOWRQRHpwQVNKLW1TeE8tUHMtcnEwVjFSOU10YzhWSUR3NE9CcEhyaTlMbzR0N1hJQ19NbWJMZ1pvQmRzZWNmWlNXT1ZlTEx2NXk2aG4xRThRUUo1X0Q1NHJTX3lLYk5YWXVtR1Z0MkVxaGxSR2tHRmR4aUZTUmdMazhsWE5nRlc1TkxyMFB1RVZDaGZFYndGbG10TmR2RmtQOHFSNkZyVGd3LUNEdQ?oc=5",
-      "date": "2026-08-04 18:39",
-      "summary": "Taking the leap from SMS to Stanford OHS  Stillwater News Press..."
-    },
-    {
-      "title": "Landmark Stanford Molecular Aging Study Called into Question Over Data Analysis Methods - GenomeWeb",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnBERlUxVW9aTGM0ZURxNmJEcy1valhpN3hSZEtSdWwzYVBJeDZWcnFXY0ZJZVNyN0tqZjZZSy1pV1VmcEw2UFdOTmtIdXU1YTRKWjNNY0lGTXBYVE9NWlN2amlZcU8tZ1RxZGVIdjQxN0JSVEozajVwTWRfWmxjN0xoOEw4ajU1a2VUSGY1dFc1M2txZWo0X3VCUjZscVYzTE9sNF9TbldwMnNNWHFLYXhYN2J3ZjRHTVBMNGdXOA?oc=5",
-      "date": "2026-08-03 17:31",
-      "summary": "Landmark Stanford Molecular Aging Study Called into Question Over Data Analysis Methods  GenomeWeb..."
     }
   ],
   "Nature Careers": [
@@ -191,70 +127,6 @@
       "summary": "A preprint server has withdrawn three papers by an author at the center of a Retraction Watch story revealing a prolific research ..."
     }
   ],
-  "Reuters AI": [
-    {
-      "title": "Oracle Corp goes for high-stakes ratings gamble in AI strategy - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTZDLU9YVTRMN1NqaS1WSGh6Tk54VnBycmlfZ0pQVnA5R2p1VTc0YWFkbTMyZF9uRldPYTRnNmY5X2tRaW9iY0prV082RU9yLUo3WFFGc1h6emd1b3JtN1BscG1qX3ZZdG0zenptenZWV0xOWXY0WWZUSFpUTUg3UE9nWE5MR1NpSlZUWHJqTW4yRXE1emxKWnRGS0xqZ0pyZUE?oc=5",
-      "date": "2026-08-04 17:23",
-      "summary": "Oracle Corp goes for high-stakes ratings gamble in AI strategy  reuters.com..."
-    },
-    {
-      "title": "AMD's AI-powered revenue forecast fails to wow investors - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVI0Wnk2b3Jpb0tucDcyRzl0Y05zX2RwWTZWRU5CYVhyc3BLSjc5NVJDSlZFSGZNZ1F4S1FTei1saXVaaGFaTzFsUTkyUFFOelE5bEY3eTlyMURpYXlBbmNPUk1IOTJVaVlLcjVwWk82Qlhic3lfNndTa2N1ZnNHMXBLOFFTOVRFdXcwYWF0SWQ2a0hVcUNDeDA1U0hmRXdoMXJOVUpVeW1rbmU5dXhZOVFBaHBhRXlMa2pscWRn?oc=5",
-      "date": "2026-08-04 23:45",
-      "summary": "AMD's AI-powered revenue forecast fails to wow investors  reuters.com..."
-    },
-    {
-      "title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1dRTlJ3dWthcTVkQnd1NFVJTFZSeHV4TXNiZlZOaVlNa1lSNFVnQWZxZkxEQkV2NGZ3YV8wZ21mbjhRYUg3Z05nci1Ua3o1M0FyTGxIT0VLXzhYUlFpajhQVEEwYmFuZnhZNjZPdjdPcFh2elVnNlFvdVZjYlVTNWU5M21VempmYUVMSzNNMURjeEtwcFFUa2NvY2MwYVE1M0k2RDVpTFR1V0VGUVBBNHNaRkQ3UzlhX2FMUDJFNXpOX1RVU2ZZRQ?oc=5",
-      "date": "2026-08-05 01:42",
-      "summary": "China AI hardware stocks slump after news US plans to ban imports of Chinese components  reuters.com..."
-    },
-    {
-      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
-      "date": "2026-08-04 20:24",
-      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools  reuters.com..."
-    },
-    {
-      "title": "OpenAI, Anthropic AI agents implicated in new security breaches - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczA3WWo2amR5TUgyLUNXYnNhSVFJMjlFX1dpbjhPN0R4anhTNkJNYzBseVlNbGdCa0E3ZWU5aXRfaEZWaE5OT1hSb0NCRmlJS2w5OGNMbWgyZ3hnOUNieHFRaW44b3JmMm42SVpCb1d6dVF5SG9yR0k2UndzMGs2aGVaZl9NRmIwaWd3T0RvTkh1c0xyQVpoOVJyQ21aMWZmdE1VQVJUZVZIQ0l2azhzZ25n?oc=5",
-      "date": "2026-08-05 00:41",
-      "summary": "OpenAI, Anthropic AI agents implicated in new security breaches  reuters.com..."
-    }
-  ],
-  "MIT Tech Review": [
-    {
-      "title": "Here’s why AI agents lie and cheat to reach their goals - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTZZX3FIYTZXNlJmLV8yLUpKZ3JuSGZPTFlpRlF4VzZXOWYxV2FZWV9DekJOZDY1RDgySGRfbEJLdjZLdzdiSWM0M1htZUZLY1ZneHNNTmVSZ21mUkVZZlpuR3Rya3hnS2MyLVdJUC1Gd19qb21VbThRMGE0Yld5bFBuY0JydW1lN3EtVHpKT0Z1TXVKdUVrY0JpeTgycXZkUS1MdkEyUjIzLWvSAbABQVVfeXFMTml6dlUtWGVzYVBFemxJRF81X0VqMVdhbEdDc29mY0RNWjJVWlRJd1o2TUxHbGdWMjQ1dnJ5MTh1LWM5MHZNREZoTTdhbmlSbDBoTTJQRlVDSVFKUHhfTFg0UXRCWHkybEMtQk00NEYwWXFjdzg1VUxUNUZMcngtTllpaWxpZFBLdWJOTVpBajNDeXd0WFhRdjUzcE5ORmktMVRKa25QcF9LZUxhZzJKVlk?oc=5",
-      "date": "2026-08-03 08:30",
-      "summary": "Here’s why AI agents lie and cheat to reach their goals  MIT Technology Review..."
-    },
-    {
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWduREp1NDlRczVvanNUcWlLczk0ZFJwbDlnN245ZmI1ZEZqUWg5YzlCYTZjRXdqNTloQzMyS3hndi16eTVlVFRqTFZXN3JMRHNvUm41T29yS1hmeTM2aGFPc0phSW1aSXdoYzFmUWJVS3Q1NTlFWWxBdEctMlZhUEpaQ1dKQVJBYWF3bWpISm16VUNGQUl4d1FjVmZGQlpuZ0pXMncxY9IBrAFBVV95cUxQTnJNb1JkeVZsaGhZTi1jclRCOWN5aTFVUTBsRjg4S3dWYjhLUnBPczJIOGJBMWRKUnl6bkROdFRjNXBHZGxRZkM5M05pRjAxMDQxbV9wbmJ5bFhRaklqUm5pb2tJT092eHA5cVNUNnhDYXQzeTdrOHZad1BTcEt5dHhQUzBvSVdGajlNVHhETDd6MWFGX1JrNktLMVdYWndjR29kVXo2R2lWaVo3?oc=5",
-      "date": "2026-07-30 10:15",
-      "summary": "A fundamental flaw leaves LLMs strikingly vulnerable to attack  MIT Technology Review..."
-    },
-    {
-      "title": "Trump’s AI protectionism has come for robotics - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRXNQZFQyQTVMbEk4UXZRYWwwb3RaVHcyMlU5QmozdldfRVdrcVlGc1VYbDNyeXl2OGh0clJoRk1BN0VuQkxDUjU4WHdZQS1ERW5BTDdmOGtuZVpVOW0xbHM4QWRQVU01QWhpZzdFbkJtVG1HNEpuQTd2VUlJNFF6dWo3SjZ5VWcyMldDQlJvM0V5Q2pOYnBra245ZXlDNmfSAaQBQVVfeXFMTTR4N0dnSVBGNWl4NnVPWl9WQUlYLTExRXJvdXE3cHFJSThyak5tTXhHa0ZhaDBPdXhHYXJVbWRXa2xzVlo3bzN0QW1vTkJKbmQ3dFNjbGRmNkM2UWRqenVhTWFhSlcxaWczWkg2bW53Z2FKQ25yQVJPcmlsSFUzRnJzcVFqZnhDbWozOGdzUzhzZGdJRUhlS190VklEdER1WXJ2VXE?oc=5",
-      "date": "2026-08-03 18:43",
-      "summary": "Trump’s AI protectionism has come for robotics  MIT Technology Review..."
-    },
-    {
-      "title": "Montana’s new “right to try” law can’t come soon enough for some - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlk0QktFZTFZY2drQVJhY3d1eWY0dWEtbTNzNVFrTUxJLTlZZTFJaHV0X2o3ZF9NSmlEMUJkODAtWWtMOEtzTko3VEs2Y0dPMjNCdTBmc21tNkFyeG5janlTVllVQXc4blVkaU5vVEwwdno5SDRCQkZfbWY3ZGFrX1phSHU2Wkc5QldhVjhYY2RIcUpNRVM5cUM2U01rRWljamdzYVJfQUtLVWVkMnQ3YXhfUdIBuAFBVV95cUxNdUU4WHliQW1QTjdRRlBsd3hDcGtLLWhtWmhrcThkWFNJa2VmY0NiQmZrVTJKTWhSQjFHbW5lbnFUY0VCY0JOdEhTblFlVkRoeTVCY19QbWZ5cGN3Sm1tc3VlVXM1Y0hiS2FkckJ0dnU3Ni1EeG5aQmgtc1hoNVFvamhBNW1NbTFuSUJpTWVERHlNNnNFbzBOLVdNYXFwT3V3Qkk2N1VUQnVUY1pPQldzTkVLcEY4eXRY?oc=5",
-      "date": "2026-07-31 09:00",
-      "summary": "Montana’s new “right to try” law can’t come soon enough for some  MIT Technology Review..."
-    },
-    {
-      "title": "Montana’s plan to become an experimental medical hub just pushed forward - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVYzaEdkNi1yY3FHd1F5T0lQbU12Umk5OHRnR01MRjhvV0RlMF9wbnlGcXN1aDBJSTgxd3hCSlJ3ZmJaOHllZUhQSW4wN0dkNURLdDRJeDFWVGI0bFJmTnFfR0xMVVpNSkZRRFZuU0I0STZvdVlleFRTR25YQVJqd0ZMMm9PVnV1VldON2VOOGlxM1E0QXg3QlpmVnhrem1ZTEhjUUtTWlFWR2VIZG96Y0lsb9IBuAFBVV95cUxNLTNsN2w4bm5YeVc1R0cxdHd4MTR5bS1pdE5WWXdFYnJVYTRtTkhETFVvUkgzbWtiSFRQb0dYRnItS0tYUURkc2l2OHl0d1NTTnU3X1BxbC11VTkyWHZLWmYwcGxkRDV1MDE3R0hfdlJYYVlWQS1nLVpWS1lMUUxtdkQwMnVLVWE2NDN4UGI2XzJWT3hWSlFDZlZib0N0UWNHNUduVVRBR21ZWk5aZHRsQVQxOW9NNi0z?oc=5",
-      "date": "2026-07-30 17:10",
-      "summary": "Montana’s plan to become an experimental medical hub just pushed forward  MIT Technology Review..."
-    }
-  ],
   "Phys.org": [
     {
       "title": "Metal-free process makes plant dyes more durable for textiles",
@@ -321,34 +193,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong ship crews stranded in Strait of Hormuz ‘safe and offered counselling’",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363016/hong-kong-ship-crews-stranded-strait-hormuz-safe-and-offered-counselling?utm_source=rss_feed",
+      "date": "2026-08-05 05:59",
+      "summary": "Crew members aboard about 80 Hong Kong-owned ships stranded in the Strait of Hormuz for five months have enough supplies and acces..."
+    },
+    {
+      "title": "Peter Lee’s family office signs Kazakhstan deal on green energy projects",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363010/peter-lees-family-office-signs-kazakhstan-deal-green-energy-projects?utm_source=rss_feed",
+      "date": "2026-08-05 04:46",
+      "summary": "The family office of Henderson Land Development co-chairman and managing director Peter Lee Ka-kit has signed a deal with Kazakh a..."
+    },
+    {
+      "title": "Cathay Pacific posts 71% profit rise to HK$6.24 billion in first half of year",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363009/cathay-pacific-posts-71-profit-rise-hk624-billion-first-half-year?utm_source=rss_feed",
+      "date": "2026-08-05 04:37",
+      "summary": "Hong Kong flag carrier Cathay Pacific Airways has reported a 71 per cent year-on-year rise in net profit to HK$6.24 billion (US$80..."
+    },
+    {
+      "title": "Typhoon signal unlikely in Hong Kong over weekend but at least 18 flights to Japan axed",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3363005/typhoon-signal-unlikely-hong-kong-over-weekend-least-18-flights-japan-axed?utm_source=rss_feed",
+      "date": "2026-08-05 04:26",
+      "summary": "The likelihood of a typhoon warning signal being issued in Hong Kong over the weekend is low, as tropical cyclone Kujira is set to..."
+    },
+    {
       "title": "34% of Hong Kong students win university, diploma spots under admissions system",
       "link": "https://www.scmp.com/news/hong-kong/education/article/3362970/34-hong-kong-students-win-university-diploma-spots-under-admissions-system?utm_source=rss_feed",
       "date": "2026-08-05 02:00",
       "summary": "About 34 per cent of students who applied through Hong Kong’s university admissions system have secured tertiary education places ..."
-    },
-    {
-      "title": "Water dispenser linked to legionnaires’ disease case in private Hong Kong hospital",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362975/water-dispenser-linked-legionnaires-disease-case-private-hong-kong-hospital?utm_source=rss_feed",
-      "date": "2026-08-04 17:02",
-      "summary": "An 89-year-old patient at the Hong Kong Sanatorium and Hospital is highly likely to have contracted legionnaires’ disease after dr..."
-    },
-    {
-      "title": "Lucky escape for boy, 7, after wheel comes off KMB double-decker bus in Hong Kong",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3362968/lucky-escape-boy-7-after-wheel-comes-kmb-double-decker-hong-kong?utm_source=rss_feed",
-      "date": "2026-08-04 13:55",
-      "summary": "A seven-year-old boy escaped with minor injuries on Tuesday after a rear wheel came off a double-decker bus travelling on a busy r..."
-    },
-    {
-      "title": "Beauty queen Grace Chan files police report after son splashed at cinema over row",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362967/beauty-queen-grace-chan-files-police-report-after-son-splashed-cinema-over-row?utm_source=rss_feed",
-      "date": "2026-08-04 13:34",
-      "summary": "Hong Kong police are searching for a woman who allegedly splashed a “cream-like” liquid on the six‑year‑old son of actress and bea..."
-    },
-    {
-      "title": "Boy, 7, dies in Hong Kong’s first fatal paediatric flu case of 2026",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362964/boy-7-dies-hong-kongs-first-fatal-paediatric-flu-case-2026?utm_source=rss_feed",
-      "date": "2026-08-04 13:12",
-      "summary": "Hong Kong recorded the first fatal paediatric case of influenza this year after a seven-year-old boy died on Tuesday, nine days af..."
     }
   ]
 }
