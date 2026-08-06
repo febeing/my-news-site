@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "A new way to watch heat move through electronics",
+      "link": "https://news.mit.edu/2026/new-way-watch-heat-move-through-electronics-0806",
+      "date": "2026-08-06 04:00",
+      "summary": "MIT researchers can now precisely measure how heat moves through multilayered materials like computer chips...."
+    },
+    {
       "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
       "link": "https://news.mit.edu/2026/researchers-make-air-stable-ultrathin-superconductors-more-scalable-quantum-devices-0805",
       "date": "2026-08-05 15:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
       "date": "2026-08-04 18:50",
       "summary": "By focusing on electrolytes, MIT scientists are making sodium-metal batteries a more practical energy storage option...."
-    },
-    {
-      "title": "The benefits of medical AI assistance vary based on user expertise",
-      "link": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
-      "date": "2026-08-04 09:00",
-      "summary": "Study finds non-experts deferred to LLM-based diagnostic assistance, even when it was wrong, while clinicians caught AI errors...."
     }
   ],
   "Harvard Gazette": [
@@ -51,30 +51,30 @@
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     },
     {
+      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
+      "date": "2026-04-09 07:00",
+      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
+    },
+    {
       "title": "A potential quantum leap - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
       "date": "2025-11-12 08:00",
       "summary": "A potential quantum leap  Harvard Gazette..."
-    },
-    {
-      "title": "Is your cholesterol too high based on latest guidelines? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOE1Tb01PZXUyT0JuMmZWNmZrdXpmNHJQVUc4V0FLVFRhQWlaUTFfdjVhRVM1WUZqOFF6MldETGI3bEtVeVljRUtqMnJLM3l3ODJjSjktbmZTVDJnMkNET2JWMWVCMExtbUo3V0tpY0dRLURocFpoRV9GTkRxaVVzd0pPTXpwVXRGbDJJN3lWY1Y3VlZ3NjVwU19Ic2luWXJ4SlE0eFpR?oc=5",
-      "date": "2026-07-21 07:00",
-      "summary": "Is your cholesterol too high based on latest guidelines?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
-    {
-      "title": "Tomiko Brown-Nagin appointed dean of Stanford Graduate School of Education - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTXJkWXl6SzdaYkd1V0xOaGt5VWJTOHpWamZKTHBXblhxdlpFUWE1eDU1dUg3dzQycTctaThtTldRUDNBWW93WVNPNmcxUHpKdk9tWnIxR1pkVTNrY05LSDZzTXFPV1ZLRGFVMjNjd3BfYzAybnFwaGFCV3p1WlNUanEtc2d2dHhPcjJWQkhMM01tcE5HcU5mcnlCUQ?oc=5",
-      "date": "2026-08-06 00:00",
-      "summary": "Tomiko Brown-Nagin appointed dean of Stanford Graduate School of Education  Stanford Report..."
-    },
     {
       "title": "Stanford drops Flock cameras amid national backlash - Palo Alto Online",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEU5ZUNSc2pFS2t3SFgzd2I3OWVrYkcwV1RsODgzdUNTcm93RnRKaHduRzhDYW11NkZGeEtzdE1sYVlBbFZSMFZfRldjRXhMUXZuSGlRNHVXck5QWEs4QXZ3RkpPU0d0SHJ2SER1bUotNVc0R25McE9iOC11YnZzSnBWdlIzQkVrSTRYcEpSZGl5T1B0YVZ5U0hIZlNrNmNrTUd0emQ1SFk?oc=5",
       "date": "2026-08-05 04:15",
       "summary": "Stanford drops Flock cameras amid national backlash  Palo Alto Online..."
+    },
+    {
+      "title": "Tomiko Brown-Nagin appointed dean of Stanford Graduate School of Education - news.stanford.edu",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTXJkWXl6SzdaYkd1V0xOaGt5VWJTOHpWamZKTHBXblhxdlpFUWE1eDU1dUg3dzQycTctaThtTldRUDNBWW93WVNPNmcxUHpKdk9tWnIxR1pkVTNrY05LSDZzTXFPV1ZLRGFVMjNjd3BfYzAybnFwaGFCV3p1WlNUanEtc2d2dHhPcjJWQkhMM01tcE5HcU5mcnlCUQ?oc=5",
+      "date": "2026-08-06 00:00",
+      "summary": "Tomiko Brown-Nagin appointed dean of Stanford Graduate School of Education  news.stanford.edu..."
     },
     {
       "title": "Stanford scientists discover cells that could hopefully break apart tumors - SFGATE",
@@ -83,19 +83,25 @@
       "summary": "Stanford scientists discover cells that could hopefully break apart tumors  SFGATE..."
     },
     {
-      "title": "Tomiko Brown-Nagin to Leave Harvard Radcliffe Institute for Stanford Deanship - thecrimson.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmZfTG12R3dIVjJ6dW1NUmlSelRnNWdhd0dhQllXc012NzV3ZU92dHNSbjcyV29TXy1KR1ZuR2JxY2pTYzNKUEdtMlpKcExjYXAxNVoyWFpiUWZKRFhqZWV2MEtoS1NDZmRQRFhocXRLdG9LYjlGY2k2MmpwdVV4dnRfZ3NxZ2JX?oc=5",
-      "date": "2026-08-05 07:00",
-      "summary": "Tomiko Brown-Nagin to Leave Harvard Radcliffe Institute for Stanford Deanship  thecrimson.com..."
-    },
-    {
       "title": "A tiny fish’s behavior suggests aging may happen in stages, Stanford study finds - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQk9kTnNFYnNpM3lCTXB1ajI3c1MtNkNhVVhUUGpZRzBjcWhmR2IwX3cyVVVsZXZxN0pISldudXRyYWZOQ3drYkU0cHdGVnRSYXgtV2lzSWZ1Snd3ck9LVzhIQzIyQjcwbndvT2xVZW9pSnBINVhCdzBlUmlrcXd4dmF4cGRaREZZeUdQMWJ4Nk5ZYWYwbktZMUpjbUtyUEFJaDBFNlpqc2FyQ1BkVFdhNEUwR2FPY0JsZVHSAb8BQVVfeXFMTzVnU2ROS0pULVlnaFBIR0p2Q0VWb1p6WmVSNkVVNFZxckxqaG1ibHYtNENlaGttd2NpLU44RlkyVmtFaHpxRUtKRC04OXRibDRqenZxWmpyc01Dc3NCY3RhWC1nVnYtanJfcXd0UG1TYS1SaEZLM2FvOXNuQlF3SmRqSGlMMUY1UDhyWVV2elVNT2lvVFhfRU5zNmR4SmM5TGprT2RkeV93ZmozVXdkNEFLOE4wRDdYeXJKTDQ1QW8?oc=5",
       "date": "2026-08-05 11:00",
       "summary": "A tiny fish’s behavior suggests aging may happen in stages, Stanford study finds  The Mercury News..."
+    },
+    {
+      "title": "Tomiko Brown-Nagin to Leave Harvard Radcliffe Institute for Stanford Deanship - The Harvard Crimson",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmZfTG12R3dIVjJ6dW1NUmlSelRnNWdhd0dhQllXc012NzV3ZU92dHNSbjcyV29TXy1KR1ZuR2JxY2pTYzNKUEdtMlpKcExjYXAxNVoyWFpiUWZKRFhqZWV2MEtoS1NDZmRQRFhocXRLdG9LYjlGY2k2MmpwdVV4dnRfZ3NxZ2JX?oc=5",
+      "date": "2026-08-05 07:00",
+      "summary": "Tomiko Brown-Nagin to Leave Harvard Radcliffe Institute for Stanford Deanship  The Harvard Crimson..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Pumas are drivers’ guardian angels",
+      "link": "https://www.nature.com/articles/d41586-026-02429-0",
+      "date": "2026-08-06 00:00",
+      "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02429-0Vehicles are less likely to smash into deer on the road wh..."
+    },
     {
       "title": "Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
       "link": "https://www.nature.com/articles/s41586-026-10970-1",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02445-0",
       "date": "2026-08-05 00:00",
       "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02445-0Researchers untangle the chemistry behind turning PVC into..."
-    },
-    {
-      "title": "An expanded codebook of human transcription factor DNA-binding specificity",
-      "link": "https://www.nature.com/articles/s41586-026-10798-9",
-      "date": "2026-08-05 00:00",
-      "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10798-9Results from a panel of assays that analyse different aspe..."
     }
   ],
   "Retraction Watch": [
@@ -167,10 +167,10 @@
       "summary": "Europe's established tech firms emerge as unexpected AI winners  Reuters..."
     },
     {
-      "title": "Samsung Electronics launches next-generation AI memory technology - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPclAxcVpCMXBjdWcyTWJKZklWcEc5d1NIbjJjc2F5TFVmeGZqcUNHLW1PUmxlOFBWRkpzS2U2LUNqNG04Y2xQbThacTRsc3ViRFpsUkxYbUI2Z1JLT2M2QzZBdXRfUEtnMUlQSFd3QWdxYUlSZ2NHdjJYdTJ1bVJ4UUVJR3g0Y25yRUlVRjE1Zl91RGxsSW1mUUFCdU5kb3Z1c2ozZVl1aXI2RUFrSExlaVVpWFc2akhMWEJWcw?oc=5",
-      "date": "2026-08-04 19:42",
-      "summary": "Samsung Electronics launches next-generation AI memory technology  Reuters..."
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
+      "date": "2026-08-04 20:24",
+      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools  Reuters..."
     },
     {
       "title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components - Yahoo News Canada",
@@ -185,10 +185,10 @@
       "summary": "Meta AI model hacks another company during testing  Reuters..."
     },
     {
-      "title": "EXCLUSIVE: JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1NwcnBhX3JkLWQ4NWJtbE9kUUctUWZnR1RhQ3FXQnZGX25fck5vZFo0YW5aV080SlVDdU0tYnFpeTViVV9QTEZXTFhlc2gtdENsczA2ejdjYUlPLVdVYTZ5cUk3R29WUEM3c0VMbGNlbndfMHcyWmowS0lCeTVkZEVVWF9ERGNFQ2tfQzVJenpfY2tjbGRzS1FySXNNU3FBcWk3RmxuamFtRW44?oc=5",
-      "date": "2026-08-05 22:38",
-      "summary": "EXCLUSIVE: JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks  Reuters..."
+      "title": "Meta launches new AI coding tool powered by Muse Spark 1.2 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnJqb2s0a2s3WWxWTC1vNWdRNXc5eDBQRnNlUDBnekl4cXR6RG1hcUZ3cWlOMzFtTTNacUQ1cE01dWFpQ0NuMlpvOXJJalFmcFUyWEtaRjJlbVp1djJQWnhNdnJra2RId1B5WHhicUF6a2pVdUZ1M2tubElIbHhsVnFvX1owXzAtYzRaalpKZVkyNFRYU2ZyX3N4ai0xUHE1SkNWLTRzQQ?oc=5",
+      "date": "2026-08-05 21:31",
+      "summary": "Meta launches new AI coding tool powered by Muse Spark 1.2  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -211,19 +211,25 @@
       "summary": "A fundamental flaw leaves LLMs strikingly vulnerable to attack  MIT Technology Review..."
     },
     {
-      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUEtJcDRvRVNYcFNabmdsTTFreWpuT0RqUFVELTJBQkczb1dHcVAwV2lFNTg0ME1aZGRzV05pUlhCeURpektoRFpSdGhOc1JMQ255eGc0Zm9vcy1XQzAzaWw2c1ZKNElWazNKTG9taTR1R29nM2xBSzFnWnZQbU9OV3pBWExHSUhtT1dJQjBuREttMG13b1HSAZsBQVVfeXFMUERramlNZ2xxYWw0YXBuNzVOYkgwcHhwOURRWHA3Zy1GeEc5aENSRUtwd2RXNmdub1A4ek9qZlBwVWdaM1JvdzFVdVJvQnlWTnAzSlJicTFRUHJEOHZMMmo0M2hBbEZmTEc2d095SnFJUEx0Q01ZOGViLUNkblRZTDNHQ2RwM2FYWkpGMmZ6Z3J4WDNzUHdnaGtVYWc?oc=5",
-      "date": "2026-08-05 08:06",
-      "summary": "NASA’s new dark-energy space telescope can also detect killer asteroids  MIT Technology Review..."
-    },
-    {
       "title": "Montana’s new “right to try” law can’t come soon enough for some - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlk0QktFZTFZY2drQVJhY3d1eWY0dWEtbTNzNVFrTUxJLTlZZTFJaHV0X2o3ZF9NSmlEMUJkODAtWWtMOEtzTko3VEs2Y0dPMjNCdTBmc21tNkFyeG5janlTVllVQXc4blVkaU5vVEwwdno5SDRCQkZfbWY3ZGFrX1phSHU2Wkc5QldhVjhYY2RIcUpNRVM5cUM2U01rRWljamdzYVJfQUtLVWVkMnQ3YXhfUdIBuAFBVV95cUxNdUU4WHliQW1QTjdRRlBsd3hDcGtLLWhtWmhrcThkWFNJa2VmY0NiQmZrVTJKTWhSQjFHbW5lbnFUY0VCY0JOdEhTblFlVkRoeTVCY19QbWZ5cGN3Sm1tc3VlVXM1Y0hiS2FkckJ0dnU3Ni1EeG5aQmgtc1hoNVFvamhBNW1NbTFuSUJpTWVERHlNNnNFbzBOLVdNYXFwT3V3Qkk2N1VUQnVUY1pPQldzTkVLcEY4eXRY?oc=5",
       "date": "2026-07-31 09:00",
       "summary": "Montana’s new “right to try” law can’t come soon enough for some  MIT Technology Review..."
+    },
+    {
+      "title": "Building the enterprise environment for agentic AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFF4azRxdWQtdnFoeC1ZQkxkU3VqOHQ3UW1Ibk1aV3c2UjJoMlgxaDJIaFpydXlRUlduSXRTSVM1QlNqbnJYS3F5U1VmVEJUWjBMYkRYQWNkMmxTd3hJUnpWVHV1NThqT2g4bEJWUTh0cXptZVVhc2lVazZmR19nd1hYc3JIS2c2Q3NRUENXbEJ0UkQ4YTN5dlpuWjM0NjVxN2xFbG9R0gGrAUFVX3lxTE43dFVuWWo2MjNVZ0tteTdNVGt6amMtQzZ5ejRIdEJEM1kwR0lKSG9GQWdHTnFueVNITHVSY0FCemhNYlVFaXRJdmZBdVVDaWRLUGp3MmVtY1d4TFNGWGdWVk9ESFJHRHh0Z1ktdV84ZUJCRk9VMldoaU9LQm9WWFdMTzZVdVlXaDZoWFA0VmdldmgxTHY4U002ZVFQYUhJdkhZdVcyNmhwMVhSbw?oc=5",
+      "date": "2026-07-27 11:32",
+      "summary": "Building the enterprise environment for agentic AI  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Powerhouses for fake meat: Muscle protein can now be grown in chloroplasts of lettuce and tobacco plants",
+      "link": "https://phys.org/news/2026-08-powerhouses-fake-meat-muscle-protein.html",
+      "date": "2026-08-06 04:00",
+      "summary": "Livestock farming requires valuable land to grow fodder, uses vast amounts of freshwater and contributes to global warming through..."
+    },
     {
       "title": "Miniaturized laser technology paves the way for fundamental physics experiments in space",
       "link": "https://phys.org/news/2026-08-miniaturized-laser-technology-paves-fundamental.html",
@@ -247,12 +253,6 @@
       "link": "https://phys.org/news/2026-08-term-landfill-methane-emissions-higher.html",
       "date": "2026-08-05 22:40",
       "summary": "Methane is an especially potent greenhouse gas, causing much more warming than carbon dioxide on a unit-for-unit basis—and a new, ..."
-    },
-    {
-      "title": "Experimental drug turns cancer's favorite fuel against it",
-      "link": "https://phys.org/news/2026-08-experimental-drug-cancer-favorite-fuel.html",
-      "date": "2026-08-05 22:20",
-      "summary": "Cancer cells have a voracious appetite for sugar—using it to fuel their rapid growth. This is why many scientists have tried to de..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Man found dead in waters off Hong Kong’s Stonecutters Island, probe under way",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363135/man-found-dead-waters-hong-kongs-stonecutters-island-probe-under-way?utm_source=rss_feed",
+      "date": "2026-08-06 05:43",
+      "summary": "Hong Kong police have found the body of a man in the waters off Stonecutters Island and believe he drowned while swimming.\nThe for..."
+    },
+    {
+      "title": "CUHK to integrate national education into key programme as part of new 5-year plan",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3363125/cuhk-integrate-national-education-key-programme-part-new-5-year-plan?utm_source=rss_feed",
+      "date": "2026-08-06 05:00",
+      "summary": "The Chinese University of Hong Kong (CUHK), the city’s second oldest university, has said it will reform its mandatory General Edu..."
+    },
+    {
+      "title": "25 arrested as Hong Kong police bust loan shark ring charging up to 282% interest rate",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363126/25-arrested-hong-kong-police-bust-loan-shark-ring-charging-282-interest-rate?utm_source=rss_feed",
+      "date": "2026-08-06 04:45",
+      "summary": "Hong Kong police have arrested 25 people, some as young as 13, in a crackdown on a loan shark syndicate that charged victims annua..."
+    },
+    {
       "title": "‘Lyrical Maverick’ Peter Lai, who wrote multiple hits for Cantopop stars, dies at 76",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3363107/lyrical-maverick-peter-lai-who-wrote-multiple-hits-cantopop-stars-dies-76?utm_source=rss_feed",
       "date": "2026-08-06 02:00",
@@ -299,24 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363098/heaps-documents-endless-trials-herculean-workload-hong-kongs-judges?utm_source=rss_feed",
       "date": "2026-08-06 01:30",
       "summary": "My 18-year-old summer intern is very scared of me.\nShe spent the entire week watching me sit in front of my computer, in complete ..."
-    },
-    {
-      "title": "Hong Kong needs regenerated districts, not piecemeal renewal",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3362596/hong-kong-needs-regenerated-districts-not-piecemeal-renewal?utm_source=rss_feed",
-      "date": "2026-08-06 01:30",
-      "summary": "Hong Kong’s redevelopment policy is approaching an institutional turning point. Recent government proposals – pilot schemes for ad..."
-    },
-    {
-      "title": "How a Hong Kong luxury estate saved HK$1b in renovation cost with tech solutions",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363092/how-hong-kong-luxury-estate-saved-hk1b-renovation-cost-tech-solutions?utm_source=rss_feed",
-      "date": "2026-08-06 00:30",
-      "summary": "Hong Kong homeowners could adopt technology-led preventive maintenance of older buildings to avoid costly large-scale renovation, ..."
-    },
-    {
-      "title": "Singapore court jails Hong Kong mother, adult son for violent Changi clash",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363089/singapore-court-jails-hong-kong-mother-adult-son-violent-changi-clash?utm_source=rss_feed",
-      "date": "2026-08-05 15:21",
-      "summary": "A Singaporean court has jailed a Hong Kong mother and her adult son for up to six months following a chaotic clash at Changi Airpo..."
     }
   ]
 }
