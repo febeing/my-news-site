@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "AI designs a novel E. coli killer - Stanford Report",
+      "title": "AI designs a novel E. coli killer - news.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRE1RNTdCb2xEMEtvS1dJWldRNXg4U1Z5Y2YwcTVocWlyMjkzQ3RQaUZtUVlSc0xpanl5eGxjeU9aZl9RczRZVFk0cGZDU2sybVJIM0J2RjFTOHVjNzBJVGczbTdXclh1TzdlME5McmpwR3lGaWVjVTBHRlVXNEloN2pwTUZIY3hBU0k0VQ?oc=5",
       "date": "2026-08-06 18:32",
-      "summary": "AI designs a novel E. coli killer  Stanford Report..."
+      "summary": "AI designs a novel E. coli killer  news.stanford.edu..."
     },
     {
       "title": "Stanford AI virus study raises specter of bioweapon risk - SFGATE",
@@ -91,7 +91,7 @@
     {
       "title": "AI models design viruses not found in nature for first time - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3dKOEF5R2REWXNIUl8zUUo2ckt6TkZnd1djbDNEZGtDSlhRdzBSUC1wbW1kcFBpcWlxRnFBaHA2Y21pVU4xWi1DYkxMMWRCUDVENGFIeUhTaGJydUpTSTBUV1BsSDAwYWN6RXN4OUJORzZweGpySU1FLUd6bkRkNjl1cnNzQWlOeHpHTk16MFc1NGI2Z21BNTZtbVVYTUxJb3JLTGJxRFFvMlRj?oc=5",
-      "date": "2026-08-07 04:48",
+      "date": "2026-08-07 04:51",
       "summary": "AI models design viruses not found in nature for first time  ABC News & Headlines – Australian Broadcasting Corporation..."
     }
   ],
@@ -193,10 +193,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ?oc=5",
-      "date": "2026-08-07 08:40",
-      "summary": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say  Reuters..."
+      "title": "ByteDance targets mega AI model that could match Mythos scale, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY191Y2FEemJtMWI3NGhTYXBXTUEtQnZiWE9lTG1CVWhaWnc3aUVuZC1sTXNkdXc4eFRtSExvaS1UaUFqYi10X1VLZzN3cXF0N0JXeHYtY1p0QXJQLVlCTlV5LVpPYjQzUGpmbTg2ZzI4a29MMi1FeWl0LVlmRW9ObkpHVlBCNjUtRHljZWg5NzVTU0l5bURsSFBvWDlnWjNja2FQbWVESGZha29OQjJmZC1YRVczdw?oc=5",
+      "date": "2026-08-07 04:43",
+      "summary": "ByteDance targets mega AI model that could match Mythos scale, FT reports  Reuters..."
     },
     {
       "title": "Furious pace of AI investment on some Fed officials' radar now - Reuters",
@@ -211,16 +211,16 @@
       "summary": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say  Reuters..."
     },
     {
-      "title": "Who is liable when AI goes rogue? Lawyers see new risks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5",
-      "date": "2026-08-07 10:19",
-      "summary": "Who is liable when AI goes rogue? Lawyers see new risks  Reuters..."
-    },
-    {
       "title": "Trump says Congress wants to regulate AI industry 'out of business' - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVE4dmstNmk3N1JPOUFaN1kyQlJEbUNjUTdadXBXNGRyNzRvaWpNNXd2VDFQdU5JQ3JmejhVZHlKYU1KeXFvQnVFZHhpVGJkTGR2NjZWakJmeUl6TVRlTVNOWEROdF8yd0ZQb3FWTUJhWUxkT2dIYXo1TGJkMEFuYkNSWXZjbk9MNGJmNHdjaDBtOVRqb2F1SVpEYUk2Y0tMR2RqcW5VQlRTSVBlOTZCMC1B?oc=5",
       "date": "2026-08-07 18:35",
       "summary": "Trump says Congress wants to regulate AI industry 'out of business'  Reuters..."
+    },
+    {
+      "title": "Retailers tap AI shopping traffic but fight to keep customer data - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUkyUEpWNlhDYU5LbTVFTjdNa1dWdU9HbDRhWGZsRjVEU1VOY2VMVGZkOWRnY3QyS09OVzlYUWlUOVJ5QnlxaDd4TEp0em5Ea1RoZDFHVTN4UGhJcVFxTlBPZFZHVmFYUlUtSXRXNFAzQzhSWTZyazRWbXNjWEdDWmNjbWJmTWdSekdNdzRXVjRadFRwaXlGNXktYU1wblBnWW90eFhRZ0dHWjJSWXljWmxIdW9icFIzU0Uw?oc=5",
+      "date": "2026-08-07 10:11",
+      "summary": "Retailers tap AI shopping traffic but fight to keep customer data  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,18 @@
   ],
   "Phys.org": [
     {
+      "title": "One million years without sex fails to erase stick insects' unused biological system",
+      "link": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html",
+      "date": "2026-08-07 23:00",
+      "summary": "Scientists have made a surprising finding about how an asexually reproducing stick insect has evolved. Research led by Dr. Darren ..."
+    },
+    {
+      "title": "New AI model reveals the volume of the world's glaciers",
+      "link": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html",
+      "date": "2026-08-07 22:40",
+      "summary": "How much ice is stored in the world's glaciers? And where exactly is it located? A new study led by Ca' Foscari University of Veni..."
+    },
+    {
       "title": "Creating cleaner chemical reactions that run on oxygen and produce only water as waste",
       "link": "https://phys.org/news/2026-08-cleaner-chemical-reactions-oxygen.html",
       "date": "2026-08-07 22:20",
@@ -273,18 +285,6 @@
       "link": "https://phys.org/news/2026-08-hidden-anatomy-clouds-reveals-ice.html",
       "date": "2026-08-07 21:40",
       "summary": "The initiation of rain in clouds without ice remains one of the largest unsolved mysteries in atmospheric science...."
-    },
-    {
-      "title": "Laser spectroscopy helps reveal hidden nuclear properties in fermium",
-      "link": "https://phys.org/news/2026-08-laser-spectroscopy-reveal-hidden-nuclear.html",
-      "date": "2026-08-07 21:20",
-      "summary": "For the first time, researchers have determined the shape of the actinide nucleus of fermium-255 and measured its structure with h..."
-    },
-    {
-      "title": "New 'shape-shifting' architecture brings versatility to photonic quantum computing",
-      "link": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
-      "date": "2026-08-07 21:00",
-      "summary": "Using light to process quantum information is one of the most promising approaches to building future quantum computers. Light par..."
     }
   ],
   "The Guardian Edu": [
