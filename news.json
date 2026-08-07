@@ -83,10 +83,10 @@
       "summary": "Tomiko Brown-Nagin to Leave Harvard Radcliffe Institute for Stanford Deanship  The Harvard Crimson..."
     },
     {
-      "title": "Stanford drops Flock cameras amid national backlash - Palo Alto Online",
+      "title": "Stanford drops Flock cameras amid national backlash - paloaltoonline.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEU5ZUNSc2pFS2t3SFgzd2I3OWVrYkcwV1RsODgzdUNTcm93RnRKaHduRzhDYW11NkZGeEtzdE1sYVlBbFZSMFZfRldjRXhMUXZuSGlRNHVXck5QWEs4QXZ3RkpPU0d0SHJ2SER1bUotNVc0R25McE9iOC11YnZzSnBWdlIzQkVrSTRYcEpSZGl5T1B0YVZ5U0hIZlNrNmNrTUd0emQ1SFk?oc=5",
       "date": "2026-08-05 04:15",
-      "summary": "Stanford drops Flock cameras amid national backlash  Palo Alto Online..."
+      "summary": "Stanford drops Flock cameras amid national backlash  paloaltoonline.com..."
     },
     {
       "title": "AI models design viruses not found in nature for first time - ABC News & Headlines – Australian Broadcasting Corporation",
@@ -161,12 +161,6 @@
   ],
   "Retraction Watch": [
     {
-      "title": "Clarivate removes hold on mega-journal Heliyon after internal audit, 650+ retractions",
-      "link": "https://retractionwatch.com/2026/08/07/clarivate-removes-hold-mega-journal-heliyon-after-internal-audit/",
-      "date": "2026-08-07 13:30",
-      "summary": "Clarivate has lifted its hold on Heliyon after the journal’s internal audit led to over 1,000 retractions, expressions of concern ..."
-    },
-    {
       "title": "Decade-long fraud by market survey firm a ‘gut punch’ for researchers",
       "link": "https://retractionwatch.com/2026/08/06/op4g-market-research-indictment-fake-data/",
       "date": "2026-08-06 19:41",
@@ -189,6 +183,12 @@
       "link": "https://retractionwatch.com/2026/08/04/anesthesiologists-earning-retractions-for-data-image-problems/",
       "date": "2026-08-04 07:00",
       "summary": "In July 2021, John Loadsman received a manuscript about a clinical trial that immediately roused his suspicion. Then the editor-in..."
+    },
+    {
+      "title": "Celebrating Retraction Watch’s 16th birthday, how sweet it is",
+      "link": "https://retractionwatch.com/2026/08/03/retraction-watch-16th-birthday/",
+      "date": "2026-08-03 12:00",
+      "summary": "Suddenly, we’re 16. And what a year it has been.  Our birthday (and annual birthday post) comes on the heels of one of the biggest..."
     }
   ],
   "Reuters AI": [
@@ -205,57 +205,75 @@
       "summary": "Furious pace of AI investment on some Fed officials' radar now  Reuters..."
     },
     {
-      "title": "Thomson Reuters to roll out in-house AI model as quarterly revenue rises - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONEVLU3hwd2RVcVhpcXpESFJiWWJqQjlMd3hSY2tSajBFQm5VdnJtaHBjWlcwVFZpeHVNOFBXemktaFV1VVdxdVdGX0pxUGQ0MWR0ZndqV1h5S28wTjdIUDhsT0lRSENRVlJ0YTU0RzN0WVZUaV9nRVdIR1A2a3RYMXM5VlV2ejlwUmpoaWItUnQ2T2ozbDMyODU1M1Nscm9rSWIxU0daSzZQYXMzWDlYMVB0UlVXcGs?oc=5",
-      "date": "2026-08-05 21:55",
-      "summary": "Thomson Reuters to roll out in-house AI model as quarterly revenue rises  The Globe and Mail..."
-    },
-    {
-      "title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBRkphUWpRT01UMFB6dnhXMGFHdlJmSXJyRTZERGtKa1JLT1QydVRCVlBSZF84b2daVDU4WnRuaEo2Tk5jQ0hJZWlSaWVtQUxjOXVFT0VEVG1LQVVrUUFibEptYXNZZzNCeDNXT2ZhdmpJZzVWcnotdGctdw?oc=5",
-      "date": "2026-08-05 01:42",
-      "summary": "China AI hardware stocks slump after news US plans to ban imports of Chinese components  Yahoo News Canada..."
-    },
-    {
       "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5",
       "date": "2026-08-07 14:38",
       "summary": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say  Reuters..."
+    },
+    {
+      "title": "Who is liable when AI goes rogue? Lawyers see new risks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5",
+      "date": "2026-08-07 10:19",
+      "summary": "Who is liable when AI goes rogue? Lawyers see new risks  Reuters..."
+    },
+    {
+      "title": "Trump says Congress wants to regulate AI industry 'out of business' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVE4dmstNmk3N1JPOUFaN1kyQlJEbUNjUTdadXBXNGRyNzRvaWpNNXd2VDFQdU5JQ3JmejhVZHlKYU1KeXFvQnVFZHhpVGJkTGR2NjZWakJmeUl6TVRlTVNOWEROdF8yd0ZQb3FWTUJhWUxkT2dIYXo1TGJkMEFuYkNSWXZjbk9MNGJmNHdjaDBtOVRqb2F1SVpEYUk2Y0tMR2RqcW5VQlRTSVBlOTZCMC1B?oc=5",
+      "date": "2026-08-07 18:35",
+      "summary": "Trump says Congress wants to regulate AI industry 'out of business'  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI - technologyreview.com",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS19BTWFULUxvbnJhaktRVWdnb2FOTWtraVRISHhyajB0QWpvYUJwSm9rNlF3T3duRU01akFObWFvaWsxT3FjUUtzRnlzNWg4STd5MXFMU2N0OEVCRDZFZklpZVp3cHIzZUcteUNtaVBWWXNFX1B3QUV3YVE2TF9FNm5HMEZXRHlVeVZYUVFKSk56RkFPRUozNGpiY2JxekVqX0F5WTE2YXVTd05RM2fSAbMBQVVfeXFMTkxSMVEwSHc1Mmc0UUNEY2N4XzZQc2JNV1RnWHpxcFFfY0pCQnJwZE1qWnRQQmswZlhTRHFBZXZ2b2hkc1p6NWF5cWM4VDFPblhoVVhid3daMGNVODdYT3d1OUhTTjNPOUpSVHRSZkRmbFBpZjFEN1RGc0pTOG1UVzZqZkl6ZF9RQUJ6VUxNUm1aWkhYV1pKSURXVmdHZDltV2paVGN4a2ZsSUhTWnpQLUFPM28?oc=5",
       "date": "2026-08-07 14:20",
-      "summary": "The Download: a censorship conspiracy theory and the first virus created by AI  technologyreview.com..."
+      "summary": "The Download: a censorship conspiracy theory and the first virus created by AI  MIT Technology Review..."
     },
     {
-      "title": "The Download: Google’s AI shake-up and Meta’s rogue model - technologyreview.com",
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWThFNmlkaFJLbk4yZEhsTXZUQ1h4cGFtYnhmeVJwR180QlNvX016WEFab0UzYTBVREo5SE1sQ1JmNXJ1U2FuMEpIX2t1TTFYRGl2dDR2NzU0c3RfS1VDY1M0Ri1JRjNPTmxLUVdhSWt5NVhlck1wNzhfb2hpWmFDdVIxTXk4YTc1MW56VE5MOFUwdjg2SGpMdmVFX0xIQS1EU2dj?oc=5",
       "date": "2026-08-06 12:10",
-      "summary": "The Download: Google’s AI shake-up and Meta’s rogue model  technologyreview.com..."
+      "summary": "The Download: Google’s AI shake-up and Meta’s rogue model  MIT Technology Review..."
     },
     {
-      "title": "Here’s why AI agents lie and cheat to reach their goals - technologyreview.com",
+      "title": "Here’s why AI agents lie and cheat to reach their goals - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTZZX3FIYTZXNlJmLV8yLUpKZ3JuSGZPTFlpRlF4VzZXOWYxV2FZWV9DekJOZDY1RDgySGRfbEJLdjZLdzdiSWM0M1htZUZLY1ZneHNNTmVSZ21mUkVZZlpuR3Rya3hnS2MyLVdJUC1Gd19qb21VbThRMGE0Yld5bFBuY0JydW1lN3EtVHpKT0Z1TXVKdUVrY0JpeTgycXZkUS1MdkEyUjIzLWvSAbABQVVfeXFMTml6dlUtWGVzYVBFemxJRF81X0VqMVdhbEdDc29mY0RNWjJVWlRJd1o2TUxHbGdWMjQ1dnJ5MTh1LWM5MHZNREZoTTdhbmlSbDBoTTJQRlVDSVFKUHhfTFg0UXRCWHkybEMtQk00NEYwWXFjdzg1VUxUNUZMcngtTllpaWxpZFBLdWJOTVpBajNDeXd0WFhRdjUzcE5ORmktMVRKa25QcF9LZUxhZzJKVlk?oc=5",
       "date": "2026-08-03 08:30",
-      "summary": "Here’s why AI agents lie and cheat to reach their goals  technologyreview.com..."
+      "summary": "Here’s why AI agents lie and cheat to reach their goals  MIT Technology Review..."
     },
     {
-      "title": "Trump’s AI protectionism has come for robotics - technologyreview.com",
+      "title": "Trump’s AI protectionism has come for robotics - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRXNQZFQyQTVMbEk4UXZRYWwwb3RaVHcyMlU5QmozdldfRVdrcVlGc1VYbDNyeXl2OGh0clJoRk1BN0VuQkxDUjU4WHdZQS1ERW5BTDdmOGtuZVpVOW0xbHM4QWRQVU01QWhpZzdFbkJtVG1HNEpuQTd2VUlJNFF6dWo3SjZ5VWcyMldDQlJvM0V5Q2pOYnBra245ZXlDNmfSAaQBQVVfeXFMTTR4N0dnSVBGNWl4NnVPWl9WQUlYLTExRXJvdXE3cHFJSThyak5tTXhHa0ZhaDBPdXhHYXJVbWRXa2xzVlo3bzN0QW1vTkJKbmQ3dFNjbGRmNkM2UWRqenVhTWFhSlcxaWczWkg2bW53Z2FKQ25yQVJPcmlsSFUzRnJzcVFqZnhDbWozOGdzUzhzZGdJRUhlS190VklEdER1WXJ2VXE?oc=5",
       "date": "2026-08-03 18:43",
-      "summary": "Trump’s AI protectionism has come for robotics  technologyreview.com..."
+      "summary": "Trump’s AI protectionism has come for robotics  MIT Technology Review..."
     },
     {
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack - technologyreview.com",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWduREp1NDlRczVvanNUcWlLczk0ZFJwbDlnN245ZmI1ZEZqUWg5YzlCYTZjRXdqNTloQzMyS3hndi16eTVlVFRqTFZXN3JMRHNvUm41T29yS1hmeTM2aGFPc0phSW1aSXdoYzFmUWJVS3Q1NTlFWWxBdEctMlZhUEpaQ1dKQVJBYWF3bWpISm16VUNGQUl4d1FjVmZGQlpuZ0pXMncxY9IBrAFBVV95cUxQTnJNb1JkeVZsaGhZTi1jclRCOWN5aTFVUTBsRjg4S3dWYjhLUnBPczJIOGJBMWRKUnl6bkROdFRjNXBHZGxRZkM5M05pRjAxMDQxbV9wbmJ5bFhRaklqUm5pb2tJT092eHA5cVNUNnhDYXQzeTdrOHZad1BTcEt5dHhQUzBvSVdGajlNVHhETDd6MWFGX1JrNktLMVdYWndjR29kVXo2R2lWaVo3?oc=5",
       "date": "2026-07-30 07:00",
-      "summary": "A fundamental flaw leaves LLMs strikingly vulnerable to attack  technologyreview.com..."
+      "summary": "A fundamental flaw leaves LLMs strikingly vulnerable to attack  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Creating cleaner chemical reactions that run on oxygen and produce only water as waste",
+      "link": "https://phys.org/news/2026-08-cleaner-chemical-reactions-oxygen.html",
+      "date": "2026-08-07 22:20",
+      "summary": "Oxygen provides the driving force for many vital chemical reactions. Two well-known examples include respiration, the process that..."
+    },
+    {
+      "title": "Researchers unlock high-res view of 2D materials by doing a microscopic twist",
+      "link": "https://phys.org/news/2026-08-high-res-view-2d-materials.html",
+      "date": "2026-08-07 22:00",
+      "summary": "By rapidly twisting a microscopically small tip back and forth, researchers at the University of Maryland (UMD) have unlocked a ne..."
+    },
+    {
+      "title": "Hidden anatomy of clouds reveals how rain may begin without ice crystals",
+      "link": "https://phys.org/news/2026-08-hidden-anatomy-clouds-reveals-ice.html",
+      "date": "2026-08-07 21:40",
+      "summary": "The initiation of rain in clouds without ice remains one of the largest unsolved mysteries in atmospheric science...."
+    },
     {
       "title": "Laser spectroscopy helps reveal hidden nuclear properties in fermium",
       "link": "https://phys.org/news/2026-08-laser-spectroscopy-reveal-hidden-nuclear.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
       "date": "2026-08-07 21:00",
       "summary": "Using light to process quantum information is one of the most promising approaches to building future quantum computers. Light par..."
-    },
-    {
-      "title": "Crossing into a mirror world: Particles turn to wisps of fog, and the magnetic monopole paradox dissolves",
-      "link": "https://phys.org/news/2026-08-mirror-world-particles-wisps-fog.html",
-      "date": "2026-08-07 20:40",
-      "summary": "In Goethe's ballad \"Erlkönig,\" immortalized in Schubert's fevered 1815 setting, a dying boy riding through the night sees a spectr..."
-    },
-    {
-      "title": "Tiny floating magnet detects ultrafaint magnetic fields at room temperature",
-      "link": "https://phys.org/news/2026-08-tiny-magnet-ultrafaint-magnetic-fields.html",
-      "date": "2026-08-07 20:20",
-      "summary": "Measuring faint magnetic fields is useful in a number of areas, including mapping brain activity, monitoring hearts and probing fu..."
-    },
-    {
-      "title": "Antenna-like cell appendage may help turtle embryos sense sex-deciding nest temperatures",
-      "link": "https://phys.org/news/2026-08-antenna-cell-appendage-turtle-embryos.html",
-      "date": "2026-08-07 20:00",
-      "summary": "When most baby turtles hatch, their sex depends on the temperature of the sand or soil where their mother laid her eggs. Warm incu..."
     }
   ],
   "The Guardian Edu": [
