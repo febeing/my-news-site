@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Physicists watch a material’s electrons assemble, and reassemble, into coexisting phases",
+      "link": "https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807",
+      "date": "2026-08-07 09:00",
+      "summary": "The study could help scientists understand how superconductivity and other more complex phenomena emerge in quantum materials...."
+    },
+    {
       "title": "A new way to watch heat move through electronics",
       "link": "https://news.mit.edu/2026/new-way-watch-heat-move-through-electronics-0806",
       "date": "2026-08-06 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/shiftlens-3d-printed-objects-can-tell-you-if-used-properly-0805",
       "date": "2026-08-05 04:00",
       "summary": "The “ShiftLens” design and fabrication system creates objects that change their surface appearance based on user interactions, wit..."
-    },
-    {
-      "title": "Solving the solvent problem",
-      "link": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
-      "date": "2026-08-04 18:50",
-      "summary": "By focusing on electrolytes, MIT scientists are making sodium-metal batteries a more practical energy storage option...."
     }
   ],
   "Harvard Gazette": [
@@ -45,12 +45,6 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Is your cholesterol too high based on latest guidelines? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOE1Tb01PZXUyT0JuMmZWNmZrdXpmNHJQVUc4V0FLVFRhQWlaUTFfdjVhRVM1WUZqOFF6MldETGI3bEtVeVljRUtqMnJLM3l3ODJjSjktbmZTVDJnMkNET2JWMWVCMExtbUo3V0tpY0dRLURocFpoRV9GTkRxaVVzd0pPTXpwVXRGbDJJN3lWY1Y3VlZ3NjVwU19Ic2luWXJ4SlE0eFpR?oc=5",
-      "date": "2026-07-21 07:00",
-      "summary": "Is your cholesterol too high based on latest guidelines?  Harvard Gazette..."
-    },
-    {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
       "date": "2026-04-09 07:00",
       "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
+    },
+    {
+      "title": "A potential quantum leap - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
+      "date": "2025-11-12 08:00",
+      "summary": "A potential quantum leap  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -71,16 +71,16 @@
       "summary": "Stanford drops Flock cameras amid national backlash  Palo Alto Online..."
     },
     {
-      "title": "AI models design viruses not found in nature for first time - ABC News & Headlines – Australian Broadcasting Corporation",
+      "title": "AI models design viruses not found in nature for first time - abc.net.au",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3dKOEF5R2REWXNIUl8zUUo2ckt6TkZnd1djbDNEZGtDSlhRdzBSUC1wbW1kcFBpcWlxRnFBaHA2Y21pVU4xWi1DYkxMMWRCUDVENGFIeUhTaGJydUpTSTBUV1BsSDAwYWN6RXN4OUJORzZweGpySU1FLUd6bkRkNjl1cnNzQWlOeHpHTk16MFc1NGI2Z21BNTZtbVVYTUxJb3JLTGJxRFFvMlRj?oc=5",
       "date": "2026-08-07 04:51",
-      "summary": "AI models design viruses not found in nature for first time  ABC News & Headlines – Australian Broadcasting Corporation..."
+      "summary": "AI models design viruses not found in nature for first time  abc.net.au..."
     },
     {
-      "title": "Tomiko Brown-Nagin to Leave Harvard Radcliffe Institute for Stanford Deanship - The Harvard Crimson",
+      "title": "Tomiko Brown-Nagin to Leave Harvard Radcliffe Institute for Stanford Deanship - thecrimson.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmZfTG12R3dIVjJ6dW1NUmlSelRnNWdhd0dhQllXc012NzV3ZU92dHNSbjcyV29TXy1KR1ZuR2JxY2pTYzNKUEdtMlpKcExjYXAxNVoyWFpiUWZKRFhqZWV2MEtoS1NDZmRQRFhocXRLdG9LYjlGY2k2MmpwdVV4dnRfZ3NxZ2JX?oc=5",
       "date": "2026-08-05 07:00",
-      "summary": "Tomiko Brown-Nagin to Leave Harvard Radcliffe Institute for Stanford Deanship  The Harvard Crimson..."
+      "summary": "Tomiko Brown-Nagin to Leave Harvard Radcliffe Institute for Stanford Deanship  thecrimson.com..."
     },
     {
       "title": "Stanford scientists discover cells that could hopefully break apart tumors - SFGATE",
@@ -89,10 +89,10 @@
       "summary": "Stanford scientists discover cells that could hopefully break apart tumors  SFGATE..."
     },
     {
-      "title": "AI companions may worsen loneliness for vulnerable users - news.stanford.edu",
+      "title": "AI companions may worsen loneliness for vulnerable users - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSk5LX0xNVFI4WTRQWEFmUEdaNkxURVFlTXFrWGZ5dG4zS2RnWHlpT3lKVU4xREpKUXRaQkVreXloeFFVaXdTVkxlM1FQRTR0N3pjc0dVRURJNzlZRWxJTzlCTk9OWjRuSFhISVM3MzUxMzBaVDM0RTJVQXBKbVpHYWdFa0dSeThBYXJiLQ?oc=5",
       "date": "2026-08-04 20:53",
-      "summary": "AI companions may worsen loneliness for vulnerable users  news.stanford.edu..."
+      "summary": "AI companions may worsen loneliness for vulnerable users  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -125,6 +125,38 @@
       "link": "https://www.nature.com/articles/d41586-026-02430-7",
       "date": "2026-08-06 00:00",
       "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7Two very different methods are used to estimate the human ..."
+    }
+  ],
+  "Science News": [
+    {
+      "title": "Global warming is coming for the countryside",
+      "link": "https://www.science.org/content/article/global-warming-coming-countryside",
+      "date": "2026-08-06 02:55",
+      "summary": "Pioneering study projects rural heat will edge closer to city swelter..."
+    },
+    {
+      "title": "DNA reveals the hidden past of North America’s bison—and keys to their future",
+      "link": "https://www.science.org/content/article/dna-reveals-hidden-past-north-america-s-bison-and-keys-their-future",
+      "date": "2026-08-06 02:00",
+      "summary": "Scientists are racing to conserve what remains of these majestic animals’ genetic diversity..."
+    },
+    {
+      "title": "Tau protein can sneak into brain cells’ energy factories—and wreak havoc",
+      "link": "https://www.science.org/content/article/tau-protein-can-sneak-brain-cells-energy-factories-and-wreak-havoc",
+      "date": "2026-08-06 11:00",
+      "summary": "Study of mitochondria suggests new treatment strategy for Alzheimer’s and other diseases..."
+    },
+    {
+      "title": "NIH Director Bhattacharya kills more health disparities grants",
+      "link": "https://www.science.org/content/article/nih-director-bhattacharya-kills-more-health-disparities-grants",
+      "date": "2026-08-05 06:18",
+      "summary": "Letter says agency is “adjusting its extramural research portfolio, which includes terminating grant awards”..."
+    },
+    {
+      "title": "‘I Am What I Am’: Fauci’s private notes reveal a scientist navigating science, politics, and fame",
+      "link": "https://www.science.org/content/article/i-am-what-i-am-fauci-s-private-notes-reveal-scientist-navigating-science-politics-and",
+      "date": "2026-08-05 05:20",
+      "summary": "Diary entries from the retired NIAID director address presidential relationships, “crazy RFK,” and death threats..."
     }
   ],
   "Retraction Watch": [
@@ -163,14 +195,20 @@
     {
       "title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ?oc=5",
-      "date": "2026-08-07 07:18",
+      "date": "2026-08-07 08:40",
       "summary": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say  Reuters..."
     },
     {
-      "title": "'Going rogue' draws critics amid widening AI hacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclBtWU8wMEpHVVBLMDJTNERGQ0xWTUpWQ3pQQ1hxcWpsQ1RxTFpVYTFWT2xvV3VEd2hhMUZSTURYZTNoOXdRQUFsZncwWFZTYTFENkxkZm1mSHNza3JwODEyUWg4WjZkajR3QXJ5eFZnWUxHY3VuUEc3S0ZFSjJNeF80bTI2bl96WFFwS2o5M1BqWnJOeFZVdnhLZVRIOVMtR3ZGVVA0cUVVRWxHajJSMXpoaDNPRk8yY1E4?oc=5",
-      "date": "2026-08-05 19:00",
-      "summary": "'Going rogue' draws critics amid widening AI hacks  Reuters..."
+      "title": "Furious pace of AI investment on some Fed officials' radar now - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVJ6UjE0RWczVm91NXNnb2E0aC1mRnpRRExGbG83cnNsWDdQbmt4cHVlMkh6ZWZLaUZUM1pkWGh0TVcydW9IZEpCZFJOSG1MWktFcHM5Y19yV3JqMEJXaDhCZGRwNXpJakRzMXlJUURvMXlkdEI4cS0tMmhLeHFkT1JQWUtuQnFjYjhTVHRpcmJVTmF5Sm5CR3I1SHhZRWxaMmhVNGdUVG1UcklWZkVqNA?oc=5",
+      "date": "2026-08-06 19:13",
+      "summary": "Furious pace of AI investment on some Fed officials' radar now  Reuters..."
+    },
+    {
+      "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5",
+      "date": "2026-08-07 08:48",
+      "summary": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say  Reuters..."
     },
     {
       "title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components - Yahoo News Canada",
@@ -183,12 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTzgwMnZUMnJ5cXEwSUlCUnZqSEw1aXFGMV9lbm9CS3VJeDRFUDgteHNORlR0ZHJycmo4aEFIYnR2NXVCTDFPczVsd01IS3J1Y0YtUzhBY3FjY3NfTnd1LWxWU19IUmJXZWJHQmNhTEZna1hoNWItVG9hOUNrWVdjWm85U0VUSHpTaVFENHdacnpDY3RhREJ6b1lBcHhMTV90U2tZLXBkMkh0cjdMbktoeg?oc=5",
       "date": "2026-08-04 14:31",
       "summary": "US Drafts Ban on China Data Center Components, Reuters Says  Bloomberg.com..."
-    },
-    {
-      "title": "Thomson Reuters raises full-year revenue outlook with focus on AI rollout - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVl9xNVRRZm5GSWhOUkJmZEp4N3NSVExkTGY3Q3VNNklDNmRnbTVmRkNxOWZnMFB3NkVyR05KeFdwdmVLaHBlNVhJa3dNVUFoUGJBclhITVFLdFNwTDFZUFFlc0MtbzZRNTFOeURyeVlBWl8zeDF1c2szYkhIYWJqeUoxX1BSa19MV1ZZRTU1Wkx5dw?oc=5",
-      "date": "2026-08-05 11:29",
-      "summary": "Thomson Reuters raises full-year revenue outlook with focus on AI rollout  The Globe and Mail..."
     }
   ],
   "MIT Tech Review": [
@@ -217,13 +249,19 @@
       "summary": "A fundamental flaw leaves LLMs strikingly vulnerable to attack  MIT Technology Review..."
     },
     {
-      "title": "AI is more likely than humans to form biases when hiring - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmRKWWxsZGNmWWdsSnF3LUpyOGtXYnRDRS1GZjA4UTFHR3RhYU44V2M2Wkw4eVFfNkp6eTFGVnp5VmlRWjA3Z2RwX2ktdnJFS2ZCRU92dEJ2V2dxZlBzUGotVzNKd0txbzRGQks0TkZlczFNN2VNYnVwRXMwVkhJemdR0gGHAUFVX3lxTE5qQy1oTGZzVWxPSG9hRG1ZZy1HRzBocDlWdGQ2Ml9OXzFQdTI5alFXMGo0Yk9CLU5ZWVhENXJIMFQ0X1dab2xBU2FRMVVGNy02eVZKTzVVMkQya2xpUzRDaXRaMEFvQU92dDB3Mk9NMUJ2MTczVEZ6ZXdmVWxTaG9OMk1YMWFfVQ?oc=5",
-      "date": "2026-07-20 07:00",
-      "summary": "AI is more likely than humans to form biases when hiring  MIT Technology Review..."
+      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUEtJcDRvRVNYcFNabmdsTTFreWpuT0RqUFVELTJBQkczb1dHcVAwV2lFNTg0ME1aZGRzV05pUlhCeURpektoRFpSdGhOc1JMQ255eGc0Zm9vcy1XQzAzaWw2c1ZKNElWazNKTG9taTR1R29nM2xBSzFnWnZQbU9OV3pBWExHSUhtT1dJQjBuREttMG13b1HSAZsBQVVfeXFMUERramlNZ2xxYWw0YXBuNzVOYkgwcHhwOURRWHA3Zy1GeEc5aENSRUtwd2RXNmdub1A4ek9qZlBwVWdaM1JvdzFVdVJvQnlWTnAzSlJicTFRUHJEOHZMMmo0M2hBbEZmTEc2d095SnFJUEx0Q01ZOGViLUNkblRZTDNHQ2RwM2FYWkpGMmZ6Z3J4WDNzUHdnaGtVYWc?oc=5",
+      "date": "2026-08-05 08:06",
+      "summary": "NASA’s new dark-energy space telescope can also detect killer asteroids  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "UK observatory nervously watches growing space junk threat",
+      "link": "https://phys.org/news/2026-08-uk-observatory-nervously-space-junk.html",
+      "date": "2026-08-07 08:40",
+      "summary": "In the sweeping shadow of a satellite dish, staff at the Chilbolton Observatory in southern England track a growing number of obje..."
+    },
     {
       "title": "Officials will not release cool water from a Colorado River reservoir to protect threatened fish",
       "link": "https://phys.org/news/2026-08-cool-colorado-river-reservoir-threatened.html",
@@ -247,12 +285,6 @@
       "link": "https://phys.org/news/2026-08-south-korean-satellite-captures-views.html",
       "date": "2026-08-07 06:31",
       "summary": "A South Korean satellite has captured the first pictures of the moon's fresh crash scene caused by a stray SpaceX rocket...."
-    },
-    {
-      "title": "AI for homework—parents more willing to pay subscriptions for their children as peer pressure rises",
-      "link": "https://phys.org/news/2026-08-ai-homework-parents-pay-subscriptions.html",
-      "date": "2026-08-06 23:40",
-      "summary": "Many parents have mixed feelings about the unrestricted use of artificial intelligence (AI) for schoolwork. They are concerned abo..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +321,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Missing man, 58, found dead in Ma On Shan after days-long search effort",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3363315/missing-man-58-found-dead-ma-shan-after-days-long-search-effort?utm_source=rss_feed",
+      "date": "2026-08-07 09:38",
+      "summary": "Hong Kong police have found the body of a missing 58-year-old man in Ma On Shan, with his cause of death to be confirmed following..."
+    },
+    {
+      "title": "Endanger Hong Kong’s national security, and I’ll take you down, Chris Tang warns",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3363300/endanger-hong-kongs-national-security-and-ill-take-you-down-chris-tang-warns?utm_source=rss_feed",
+      "date": "2026-08-07 08:59",
+      "summary": "Hong Kong’s security chief has warned he will take down anyone who endangers national security, while also slamming an embattled p..."
+    },
+    {
+      "title": "Nominations for Hong Kong’s Election Committee to run from October 7 to 20",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3363291/nominations-hong-kongs-election-committee-run-october-7-20?utm_source=rss_feed",
+      "date": "2026-08-07 08:35",
+      "summary": "Nominations for Hong Kong’s powerful Election Committee will take place in October, with the vote for 982 seats of the 1,500-membe..."
+    },
+    {
+      "title": "Hong Kong ‘actively considering’ dedicated offence to fight persistent child sex abuse",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363288/hong-kong-actively-considering-dedicated-offence-fight-persistent-child-sex-abuse?utm_source=rss_feed",
+      "date": "2026-08-07 08:16",
+      "summary": "Hong Kong is “actively considering” creating a dedicated offence to target persistent sexual abuse of children, after more than 90..."
+    },
+    {
       "title": "Hong Kong woman loses HK$69m to scammers posing as mainland Chinese officials",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363263/hong-kong-woman-loses-hk69m-scammers-posing-mainland-chinese-officials?utm_source=rss_feed",
       "date": "2026-08-07 06:03",
       "summary": "A Hong Kong woman has been conned out of nearly HK$69 million (US$8.8 million) in a month-long scam involving fraudsters posing as..."
-    },
-    {
-      "title": "Hong Kong’s Lingnan University student union ceases operations after 6 decades",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3363258/hong-kongs-lingnan-university-student-union-ceases-operations-after-6-decades?utm_source=rss_feed",
-      "date": "2026-08-07 05:03",
-      "summary": "The student union of Hong Kong’s Lingnan University has announced it will dissolve after nearly six decades in operation due to “c..."
-    },
-    {
-      "title": "Hong Kong tourism sector urges action with visitor spending 44% below 2018 level",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363256/hong-kong-tourism-sector-urges-action-visitor-spending-44-below-2018-level?utm_source=rss_feed",
-      "date": "2026-08-07 04:54",
-      "summary": "Hong Kong’s tourism industry has called for more experiential events, enhanced transport measures and closer cross-border cooperat..."
-    },
-    {
-      "title": "China retaliates on US sanctions; North Korea’s dog meat advisory: SCMP’s 7 highlights",
-      "link": "https://www.scmp.com/news/china/article/3363234/china-retaliates-us-sanctions-north-koreas-dog-meat-advisory-scmps-7-highlights?utm_source=rss_feed",
-      "date": "2026-08-07 04:15",
-      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that reson..."
-    },
-    {
-      "title": "Temperatures could hit 37 degrees Celsius in Hong Kong over extremely hot weekend",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3363247/temperatures-could-hit-36-degrees-celsius-hong-kong-over-extremely-hot-weekend?utm_source=rss_feed",
-      "date": "2026-08-07 03:40",
-      "summary": "Temperatures in some parts of Hong Kong could hit 37 degrees Celsius (99 Fahrenheit) or above over the coming weekend under the in..."
     }
   ]
 }
