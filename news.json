@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "AI designs a novel E. coli killer - Stanford Report",
+      "title": "AI designs a novel E. coli killer - news.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRE1RNTdCb2xEMEtvS1dJWldRNXg4U1Z5Y2YwcTVocWlyMjkzQ3RQaUZtUVlSc0xpanl5eGxjeU9aZl9RczRZVFk0cGZDU2sybVJIM0J2RjFTOHVjNzBJVGczbTdXclh1TzdlME5McmpwR3lGaWVjVTBHRlVXNEloN2pwTUZIY3hBU0k0VQ?oc=5",
       "date": "2026-08-06 18:32",
-      "summary": "AI designs a novel E. coli killer  Stanford Report..."
+      "summary": "AI designs a novel E. coli killer  news.stanford.edu..."
     },
     {
       "title": "AI models design viruses not found in nature for first time - ABC News & Headlines – Australian Broadcasting Corporation",
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Clarivate removes hold on mega-journal Heliyon after internal audit, 650+ retractions",
+      "link": "https://retractionwatch.com/2026/08/07/clarivate-removes-hold-mega-journal-heliyon-after-internal-audit/",
+      "date": "2026-08-07 13:30",
+      "summary": "Clarivate has lifted its hold on Heliyon after the journal’s internal audit led to over 1,000 retractions, expressions of concern ..."
+    },
+    {
       "title": "Decade-long fraud by market survey firm a ‘gut punch’ for researchers",
       "link": "https://retractionwatch.com/2026/08/06/op4g-market-research-indictment-fake-data/",
       "date": "2026-08-06 19:41",
@@ -183,12 +189,6 @@
       "link": "https://retractionwatch.com/2026/08/04/anesthesiologists-earning-retractions-for-data-image-problems/",
       "date": "2026-08-04 07:00",
       "summary": "In July 2021, John Loadsman received a manuscript about a clinical trial that immediately roused his suspicion. Then the editor-in..."
-    },
-    {
-      "title": "Celebrating Retraction Watch’s 16th birthday, how sweet it is",
-      "link": "https://retractionwatch.com/2026/08/03/retraction-watch-16th-birthday/",
-      "date": "2026-08-03 12:00",
-      "summary": "Suddenly, we’re 16. And what a year it has been.  Our birthday (and annual birthday post) comes on the heels of one of the biggest..."
     }
   ],
   "Reuters AI": [
@@ -197,6 +197,12 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVJ6UjE0RWczVm91NXNnb2E0aC1mRnpRRExGbG83cnNsWDdQbmt4cHVlMkh6ZWZLaUZUM1pkWGh0TVcydW9IZEpCZFJOSG1MWktFcHM5Y19yV3JqMEJXaDhCZGRwNXpJakRzMXlJUURvMXlkdEI4cS0tMmhLeHFkT1JQWUtuQnFjYjhTVHRpcmJVTmF5Sm5CR3I1SHhZRWxaMmhVNGdUVG1UcklWZkVqNA?oc=5",
       "date": "2026-08-06 19:13",
       "summary": "Furious pace of AI investment on some Fed officials' radar now  Reuters..."
+    },
+    {
+      "title": "Trump says Congress wants to regulate AI industry 'out of business' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVE4dmstNmk3N1JPOUFaN1kyQlJEbUNjUTdadXBXNGRyNzRvaWpNNXd2VDFQdU5JQ3JmejhVZHlKYU1KeXFvQnVFZHhpVGJkTGR2NjZWakJmeUl6TVRlTVNOWEROdF8yd0ZQb3FWTUJhWUxkT2dIYXo1TGJkMEFuYkNSWXZjbk9MNGJmNHdjaDBtOVRqb2F1SVpEYUk2Y0tMR2RqcW5VQlRTSVBlOTZCMC1B?oc=5",
+      "date": "2026-08-07 14:41",
+      "summary": "Trump says Congress wants to regulate AI industry 'out of business'  Reuters..."
     },
     {
       "title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components - Yahoo News Canada",
@@ -215,12 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5",
       "date": "2026-08-07 14:38",
       "summary": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say  Reuters..."
-    },
-    {
-      "title": "US Drafts Ban on China Data Center Components, Reuters Says - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTzgwMnZUMnJ5cXEwSUlCUnZqSEw1aXFGMV9lbm9CS3VJeDRFUDgteHNORlR0ZHJycmo4aEFIYnR2NXVCTDFPczVsd01IS3J1Y0YtUzhBY3FjY3NfTnd1LWxWU19IUmJXZWJHQmNhTEZna1hoNWItVG9hOUNrWVdjWm85U0VUSHpTaVFENHdacnpDY3RhREJ6b1lBcHhMTV90U2tZLXBkMkh0cjdMbktoeg?oc=5",
-      "date": "2026-08-04 14:31",
-      "summary": "US Drafts Ban on China Data Center Components, Reuters Says  Bloomberg.com..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Different genes, same result: How flies evolved multiple ways to define heads and tails",
-      "link": "https://phys.org/news/2026-08-genes-result-flies-evolved-multiple.html",
-      "date": "2026-08-07 15:40",
-      "summary": "One of the most important milestones in the early life of an organism is when the embryo breaks symmetry and arranges itself to fo..."
+      "title": "Just 50°C decides whether an ultrathin magnetic film stays flat or falls apart",
+      "link": "https://phys.org/news/2026-08-50c-ultrathin-magnetic-stays-flat.html",
+      "date": "2026-08-07 16:40",
+      "summary": "Magnetic storage technologies, which store information in the direction of magnetization, play an essential role in modern data st..."
     },
     {
-      "title": "High-coverage ancient genomes reveal prehistoric population histories of Japan",
-      "link": "https://phys.org/news/2026-08-high-coverage-ancient-genomes-reveal.html",
-      "date": "2026-08-07 15:40",
-      "summary": "A research team led by Koji Ishiya of Kanazawa University reconstructed exceptionally high-coverage genomes from two ancient indiv..."
+      "title": "Food fraud costs UK economy up to £2 billion a year, new study finds",
+      "link": "https://phys.org/news/2026-08-food-fraud-uk-economy-billion.html",
+      "date": "2026-08-07 16:40",
+      "summary": "Food fraud is costing the UK economy up to £2 billion every year, according to the first study to calculate its full economic impa..."
     },
     {
-      "title": "'Plasma gun' technology could transform space laundry and sanitation for future missions",
-      "link": "https://phys.org/news/2026-08-plasma-gun-technology-space-laundry.html",
-      "date": "2026-08-07 15:20",
-      "summary": "Researchers at The University of Alabama in Huntsville (UAH), part of The University of Alabama System, are developing plasma-base..."
+      "title": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+      "link": "https://phys.org/news/2026-08-adults-ai-financial-guidance-gallup.html",
+      "date": "2026-08-07 16:20",
+      "summary": "Some U.S. adults are using artificial intelligence for financial guidance, but it's far from the most trusted source of advice, ac..."
     },
     {
-      "title": "XENONnT detector narrows the hunt for dark matter",
-      "link": "https://phys.org/news/2026-08-xenonnt-detector-narrows-dark.html",
-      "date": "2026-08-07 15:20",
-      "summary": "Using a detector filled with nearly 9 metric tons of liquid xenon, researchers have delivered some of the most sensitive dark matt..."
+      "title": "Uranus's unusual rotation makes its bow shock expand and contract each day",
+      "link": "https://phys.org/news/2026-08-uranus-unusual-rotation-day.html",
+      "date": "2026-08-07 16:20",
+      "summary": "Within our solar system, Uranus is a geometric oddball. Its spin axis tilts more than 90° from its orbit, so it essentially rolls ..."
     },
     {
-      "title": "One snail, five slimes: Collagen and calcium reshape mucus for different jobs",
-      "link": "https://phys.org/news/2026-08-snail-slimes-collagen-calcium-reshape.html",
-      "date": "2026-08-07 15:00",
-      "summary": "Snails are particularly active after a rain shower. Even on the Max Planck Campus in Potsdam-Golm, common brown-lipped snails (Cep..."
+      "title": "Protein-enriched ketchup gets boost from algae extracts",
+      "link": "https://phys.org/news/2026-08-protein-enriched-ketchup-boost-algae.html",
+      "date": "2026-08-07 16:00",
+      "summary": "Added protein is showing up in foods from breakfast cereal to pasta, but not many condiments … yet. Researchers have now developed..."
     }
   ],
   "The Guardian Edu": [
