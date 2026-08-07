@@ -65,16 +65,22 @@
   ],
   "Stanford News": [
     {
-      "title": "AI designs a novel E. coli killer - news.stanford.edu",
+      "title": "AI designs a novel E. coli killer - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRE1RNTdCb2xEMEtvS1dJWldRNXg4U1Z5Y2YwcTVocWlyMjkzQ3RQaUZtUVlSc0xpanl5eGxjeU9aZl9RczRZVFk0cGZDU2sybVJIM0J2RjFTOHVjNzBJVGczbTdXclh1TzdlME5McmpwR3lGaWVjVTBHRlVXNEloN2pwTUZIY3hBU0k0VQ?oc=5",
       "date": "2026-08-06 18:32",
-      "summary": "AI designs a novel E. coli killer  news.stanford.edu..."
+      "summary": "AI designs a novel E. coli killer  Stanford Report..."
     },
     {
       "title": "AI models design viruses not found in nature for first time - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3dKOEF5R2REWXNIUl8zUUo2ckt6TkZnd1djbDNEZGtDSlhRdzBSUC1wbW1kcFBpcWlxRnFBaHA2Y21pVU4xWi1DYkxMMWRCUDVENGFIeUhTaGJydUpTSTBUV1BsSDAwYWN6RXN4OUJORzZweGpySU1FLUd6bkRkNjl1cnNzQWlOeHpHTk16MFc1NGI2Z21BNTZtbVVYTUxJb3JLTGJxRFFvMlRj?oc=5",
-      "date": "2026-08-07 04:48",
+      "date": "2026-08-07 04:51",
       "summary": "AI models design viruses not found in nature for first time  ABC News & Headlines – Australian Broadcasting Corporation..."
+    },
+    {
+      "title": "Stanford AI virus study raises specter of bioweapon risk - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43NERoY2hIVlBQNkRsSGRwR0dQUmZ4Uk5DQ0JOa1NHZ2ItdDh4a0xXZHNrQ0JESEVvUXdlZk1IUEg1cWNDSFMtd3plcm43UGgzYmYxWllGaF9Ndkd5SDlyZFdiQzlYRzBFaXJCc2Jza3dtTDN6?oc=5",
+      "date": "2026-08-07 16:35",
+      "summary": "Stanford AI virus study raises specter of bioweapon risk  SFGATE..."
     },
     {
       "title": "Tomiko Brown-Nagin to Leave Harvard Radcliffe Institute for Stanford Deanship - The Harvard Crimson",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEU5ZUNSc2pFS2t3SFgzd2I3OWVrYkcwV1RsODgzdUNTcm93RnRKaHduRzhDYW11NkZGeEtzdE1sYVlBbFZSMFZfRldjRXhMUXZuSGlRNHVXck5QWEs4QXZ3RkpPU0d0SHJ2SER1bUotNVc0R25McE9iOC11YnZzSnBWdlIzQkVrSTRYcEpSZGl5T1B0YVZ5U0hIZlNrNmNrTUd0emQ1SFk?oc=5",
       "date": "2026-08-05 04:15",
       "summary": "Stanford drops Flock cameras amid national backlash  Palo Alto Online..."
-    },
-    {
-      "title": "Stanford scientists discover cells that could hopefully break apart tumors - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc0lXR3gwZDBqbDNvbzUyczJuSGFjQS1ZV3p5RnU5RWdvUk82LVV4d09fekNFRElhT2RYYWxMM3BnVHlwMTV6eFc0b19sa0ctM2VkZWJLZ2hjNkp5eDRaeldpOGNlcDh4UV90Y1RWYU9fN05LS0V3VjJ0RjZpMHNZVTdacFFUdGJmaFhYY3FIdzN6QlE?oc=5",
-      "date": "2026-08-05 20:08",
-      "summary": "Stanford scientists discover cells that could hopefully break apart tumors  SFGATE..."
     }
   ],
   "Nature Careers": [
@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "Planned satellite megaconstellations could generate runaway space debris",
+      "link": "https://www.science.org/content/article/planned-satellite-megaconstellations-could-generate-runaway-space-debris",
+      "date": "2026-08-07 12:15",
+      "summary": "Modeling suggests infamous “Kessler syndrome” would make the swarms unsustainable..."
+    },
+    {
       "title": "Global warming is coming for the countryside",
       "link": "https://www.science.org/content/article/global-warming-coming-countryside",
       "date": "2026-08-06 02:55",
@@ -151,21 +157,9 @@
       "link": "https://www.science.org/content/article/nih-director-bhattacharya-kills-more-health-disparities-grants",
       "date": "2026-08-05 06:18",
       "summary": "Letter says agency is “adjusting its extramural research portfolio, which includes terminating grant awards”..."
-    },
-    {
-      "title": "‘I Am What I Am’: Fauci’s private notes reveal a scientist navigating science, politics, and fame",
-      "link": "https://www.science.org/content/article/i-am-what-i-am-fauci-s-private-notes-reveal-scientist-navigating-science-politics-and",
-      "date": "2026-08-05 05:20",
-      "summary": "Diary entries from the retired NIAID director address presidential relationships, “crazy RFK,” and death threats..."
     }
   ],
   "Retraction Watch": [
-    {
-      "title": "Clarivate removes hold on mega-journal Heliyon after internal audit, 650+ retractions",
-      "link": "https://retractionwatch.com/2026/08/07/clarivate-removes-hold-mega-journal-heliyon-after-internal-audit/",
-      "date": "2026-08-07 13:30",
-      "summary": "Clarivate has lifted its hold on Heliyon after the journal’s internal audit led to over 1,000 retractions, expressions of concern ..."
-    },
     {
       "title": "Decade-long fraud by market survey firm a ‘gut punch’ for researchers",
       "link": "https://retractionwatch.com/2026/08/06/op4g-market-research-indictment-fake-data/",
@@ -189,9 +183,21 @@
       "link": "https://retractionwatch.com/2026/08/04/anesthesiologists-earning-retractions-for-data-image-problems/",
       "date": "2026-08-04 07:00",
       "summary": "In July 2021, John Loadsman received a manuscript about a clinical trial that immediately roused his suspicion. Then the editor-in..."
+    },
+    {
+      "title": "Celebrating Retraction Watch’s 16th birthday, how sweet it is",
+      "link": "https://retractionwatch.com/2026/08/03/retraction-watch-16th-birthday/",
+      "date": "2026-08-03 12:00",
+      "summary": "Suddenly, we’re 16. And what a year it has been.  Our birthday (and annual birthday post) comes on the heels of one of the biggest..."
     }
   ],
   "Reuters AI": [
+    {
+      "title": "Who is liable when AI goes rogue? Lawyers see new risks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5",
+      "date": "2026-08-07 10:19",
+      "summary": "Who is liable when AI goes rogue? Lawyers see new risks  Reuters..."
+    },
     {
       "title": "Furious pace of AI investment on some Fed officials' radar now - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVJ6UjE0RWczVm91NXNnb2E0aC1mRnpRRExGbG83cnNsWDdQbmt4cHVlMkh6ZWZLaUZUM1pkWGh0TVcydW9IZEpCZFJOSG1MWktFcHM5Y19yV3JqMEJXaDhCZGRwNXpJakRzMXlJUURvMXlkdEI4cS0tMmhLeHFkT1JQWUtuQnFjYjhTVHRpcmJVTmF5Sm5CR3I1SHhZRWxaMmhVNGdUVG1UcklWZkVqNA?oc=5",
@@ -205,22 +211,16 @@
       "summary": "Trump says Congress wants to regulate AI industry 'out of business'  Reuters..."
     },
     {
-      "title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBRkphUWpRT01UMFB6dnhXMGFHdlJmSXJyRTZERGtKa1JLT1QydVRCVlBSZF84b2daVDU4WnRuaEo2Tk5jQ0hJZWlSaWVtQUxjOXVFT0VEVG1LQVVrUUFibEptYXNZZzNCeDNXT2ZhdmpJZzVWcnotdGctdw?oc=5",
-      "date": "2026-08-05 01:42",
-      "summary": "China AI hardware stocks slump after news US plans to ban imports of Chinese components  Yahoo News Canada..."
-    },
-    {
       "title": "Thomson Reuters to roll out in-house AI model as quarterly revenue rises - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONEVLU3hwd2RVcVhpcXpESFJiWWJqQjlMd3hSY2tSajBFQm5VdnJtaHBjWlcwVFZpeHVNOFBXemktaFV1VVdxdVdGX0pxUGQ0MWR0ZndqV1h5S28wTjdIUDhsT0lRSENRVlJ0YTU0RzN0WVZUaV9nRVdIR1A2a3RYMXM5VlV2ejlwUmpoaWItUnQ2T2ozbDMyODU1M1Nscm9rSWIxU0daSzZQYXMzWDlYMVB0UlVXcGs?oc=5",
       "date": "2026-08-05 21:55",
       "summary": "Thomson Reuters to roll out in-house AI model as quarterly revenue rises  The Globe and Mail..."
     },
     {
-      "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5",
-      "date": "2026-08-07 14:38",
-      "summary": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say  Reuters..."
+      "title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBRkphUWpRT01UMFB6dnhXMGFHdlJmSXJyRTZERGtKa1JLT1QydVRCVlBSZF84b2daVDU4WnRuaEo2Tk5jQ0hJZWlSaWVtQUxjOXVFT0VEVG1LQVVrUUFibEptYXNZZzNCeDNXT2ZhdmpJZzVWcnotdGctdw?oc=5",
+      "date": "2026-08-05 01:42",
+      "summary": "China AI hardware stocks slump after news US plans to ban imports of Chinese components  Yahoo News Canada..."
     }
   ],
   "MIT Tech Review": [
@@ -257,37 +257,43 @@
   ],
   "Phys.org": [
     {
-      "title": "Just 50°C decides whether an ultrathin magnetic film stays flat or falls apart",
-      "link": "https://phys.org/news/2026-08-50c-ultrathin-magnetic-stays-flat.html",
-      "date": "2026-08-07 16:40",
-      "summary": "Magnetic storage technologies, which store information in the direction of magnetization, play an essential role in modern data st..."
+      "title": "Phages unlock essential vitamin B12 by bursting open gut bacteria",
+      "link": "https://phys.org/news/2026-08-phages-essential-vitamin-b12-gut.html",
+      "date": "2026-08-07 17:40",
+      "summary": "All living organisms need vitamin B12 to form red blood cells and DNA, as well as to build and support brain and nerve cells. But ..."
     },
     {
-      "title": "Food fraud costs UK economy up to £2 billion a year, new study finds",
-      "link": "https://phys.org/news/2026-08-food-fraud-uk-economy-billion.html",
-      "date": "2026-08-07 16:40",
-      "summary": "Food fraud is costing the UK economy up to £2 billion every year, according to the first study to calculate its full economic impa..."
+      "title": "Photocatalytic method cleaves strong C–H bonds while preserving weaker C–Si bonds",
+      "link": "https://phys.org/news/2026-08-photocatalytic-method-cleaves-strong-ch.html",
+      "date": "2026-08-07 17:40",
+      "summary": "α-Silyl alcohols are unique organosilicon compounds bearing a silyl group and a hydroxy group on the same carbon atom. Because the..."
     },
     {
-      "title": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
-      "link": "https://phys.org/news/2026-08-adults-ai-financial-guidance-gallup.html",
-      "date": "2026-08-07 16:20",
-      "summary": "Some U.S. adults are using artificial intelligence for financial guidance, but it's far from the most trusted source of advice, ac..."
+      "title": "Oil dispersants reshape Arctic sea-ice microbes but do not markedly accelerate oil breakdown",
+      "link": "https://phys.org/news/2026-08-oil-dispersants-reshape-arctic-sea.html",
+      "date": "2026-08-07 17:36",
+      "summary": "By making the Arctic less ice-covered, climate warming has increased both shipping traffic and the risk of oil spills in the regio..."
     },
     {
-      "title": "Uranus's unusual rotation makes its bow shock expand and contract each day",
-      "link": "https://phys.org/news/2026-08-uranus-unusual-rotation-day.html",
-      "date": "2026-08-07 16:20",
-      "summary": "Within our solar system, Uranus is a geometric oddball. Its spin axis tilts more than 90° from its orbit, so it essentially rolls ..."
+      "title": "Don't believe the GenAI hype—learn from it instead, say researchers",
+      "link": "https://phys.org/news/2026-08-dont-genai-hype.html",
+      "date": "2026-08-07 17:20",
+      "summary": "When is a hype bubble more than just a bubble? When it becomes a mass, real-time learning event. New research published in the Aca..."
     },
     {
-      "title": "Protein-enriched ketchup gets boost from algae extracts",
-      "link": "https://phys.org/news/2026-08-protein-enriched-ketchup-boost-algae.html",
-      "date": "2026-08-07 16:00",
-      "summary": "Added protein is showing up in foods from breakfast cereal to pasta, but not many condiments … yet. Researchers have now developed..."
+      "title": "Galactic spins carry fingerprints of the primordial universe",
+      "link": "https://phys.org/news/2026-08-galactic-fingerprints-primordial-universe.html",
+      "date": "2026-08-07 17:20",
+      "summary": "The origin of spin in spiral and elliptical galaxies has posed a long-standing puzzle for astronomers. One idea, known as tidal to..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Cambridge academics reject university’s attempt to end row over Jason Arday",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/07/cambridge-academics-reject-universitys-attempt-to-end-row-over-jason-arday",
+      "date": "2026-08-07 16:49",
+      "summary": "Group calls for ‘thorough and transparent investigation’ of hiring of professor who resigned after his claims came under scrutinyT..."
+    },
     {
       "title": "Primary schools to be told to identify children at risk of future unemployment",
       "link": "https://www.theguardian.com/society/2026/aug/07/english-primary-schools-to-be-told-to-identify-children-at-risk-of-future-unemployment",
@@ -311,12 +317,6 @@
       "link": "https://www.theguardian.com/uk-news/2026/aug/06/jason-arday-cambridge-dons-demand-accountability-grotesque-racism",
       "date": "2026-08-06 19:54",
       "summary": "Exclusive: Academics call for inquiry, saying university must be held accountable for ‘grotesque racism unleashed’The University o..."
-    },
-    {
-      "title": "University of Greater Manchester ends contract of embattled vice-chancellor",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/06/university-of-greater-manchester-ends-contract-vice-chancellor-george-holmes",
-      "date": "2026-08-06 16:02",
-      "summary": "George Holmes was suspended in 2025 over allegations involving financial mismanagement and other misconductThe University of Great..."
     }
   ],
   "SCMP Hong Kong": [
