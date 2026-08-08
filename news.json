@@ -51,24 +51,36 @@
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     },
     {
-      "title": "‘Harvard Thinking’: Preserving learning in the age of AI shortcuts - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd09ySGQ4RGZIbWhwcmw5bFh1a3VfaUxMb2NvU2dBQXBnT3Q1NzFYZzNaRkNOZ0pNQmVRYWlzOHZpYldWYTVFWS03aVlMXzZWV1hoSVB5LTBJN1d5a3BJZmZnMExSLV91TFBaRkNtem1wbHc2TkpEOVlaeUtRSVB0SVZxdG1uWTV5YTRUV3hMaURfX2lGaDVEQWpB?oc=5",
-      "date": "2026-02-18 08:00",
-      "summary": "‘Harvard Thinking’: Preserving learning in the age of AI shortcuts  Harvard Gazette..."
-    },
-    {
       "title": "How to help lift slumping American math scores - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
       "summary": "How to help lift slumping American math scores  Harvard Gazette..."
+    },
+    {
+      "title": "A potential quantum leap - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
+      "date": "2025-11-12 08:00",
+      "summary": "A potential quantum leap  Harvard Gazette..."
     }
   ],
   "Stanford News": [
+    {
+      "title": "AI designs a novel E. coli killer - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRE1RNTdCb2xEMEtvS1dJWldRNXg4U1Z5Y2YwcTVocWlyMjkzQ3RQaUZtUVlSc0xpanl5eGxjeU9aZl9RczRZVFk0cGZDU2sybVJIM0J2RjFTOHVjNzBJVGczbTdXclh1TzdlME5McmpwR3lGaWVjVTBHRlVXNEloN2pwTUZIY3hBU0k0VQ?oc=5",
+      "date": "2026-08-06 18:32",
+      "summary": "AI designs a novel E. coli killer  Stanford Report..."
+    },
     {
       "title": "Stanford AI virus study raises specter of bioweapon risk - SFGATE",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43NERoY2hIVlBQNkRsSGRwR0dQUmZ4Uk5DQ0JOa1NHZ2ItdDh4a0xXZHNrQ0JESEVvUXdlZk1IUEg1cWNDSFMtd3plcm43UGgzYmYxWllGaF9Ndkd5SDlyZFdiQzlYRzBFaXJCc2Jza3dtTDN6?oc=5",
       "date": "2026-08-07 16:35",
       "summary": "Stanford AI virus study raises specter of bioweapon risk  SFGATE..."
+    },
+    {
+      "title": "AI models design viruses not found in nature for first time - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3dKOEF5R2REWXNIUl8zUUo2ckt6TkZnd1djbDNEZGtDSlhRdzBSUC1wbW1kcFBpcWlxRnFBaHA2Y21pVU4xWi1DYkxMMWRCUDVENGFIeUhTaGJydUpTSTBUV1BsSDAwYWN6RXN4OUJORzZweGpySU1FLUd6bkRkNjl1cnNzQWlOeHpHTk16MFc1NGI2Z21BNTZtbVVYTUxJb3JLTGJxRFFvMlRj?oc=5",
+      "date": "2026-08-07 04:48",
+      "summary": "AI models design viruses not found in nature for first time  ABC News & Headlines – Australian Broadcasting Corporation..."
     },
     {
       "title": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor - KQED",
@@ -77,22 +89,10 @@
       "summary": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor  KQED..."
     },
     {
-      "title": "Stanford's AI agents designed a drug Merck later built, too - VentureBeat",
+      "title": "Stanford's AI agents designed a drug Merck later built, too - venturebeat.com",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSU9WM3dTSzVOcDRLTkRJNmxGSTMtb2NpaXQ1aEo2clFnVU5HWE9Wa1ByU0p4cXhMT1cwMHN6MkJ6ek9VWHBzc1k4UFlCc082ZHhZUlh4QU1oa0lDOFpKakptSDFwMlFYMlhhRDNWVl9meVBQdG9FeGloXzlwdm5sUTlFbXgxd3FlVUczYVMtbno2UUdFUzRWUEstcjByRmphX2xCMWhyNG5aT3ZOX3hzbGJRazRHQWtEOXpmb2t6QkQ5VmJIb3RTdUx0Mk5WaThOOWpfNjc2czRYRXZDZjB5cFQ5R2ZEdU5NcFBDbG1ONXFkUQ?oc=5",
       "date": "2026-08-07 17:05",
-      "summary": "Stanford's AI agents designed a drug Merck later built, too  VentureBeat..."
-    },
-    {
-      "title": "Tomiko Brown-Nagin appointed dean of Stanford Graduate School of Education - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTXJkWXl6SzdaYkd1V0xOaGt5VWJTOHpWamZKTHBXblhxdlpFUWE1eDU1dUg3dzQycTctaThtTldRUDNBWW93WVNPNmcxUHpKdk9tWnIxR1pkVTNrY05LSDZzTXFPV1ZLRGFVMjNjd3BfYzAybnFwaGFCV3p1WlNUanEtc2d2dHhPcjJWQkhMM01tcE5HcU5mcnlCUQ?oc=5",
-      "date": "2026-08-06 00:00",
-      "summary": "Tomiko Brown-Nagin appointed dean of Stanford Graduate School of Education  Stanford Report..."
-    },
-    {
-      "title": "Still no leads four months after noose found at Stanford labeled ‘terrorism’ - The College Fix",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlczWXctQlVaWk5XYkl4cnktQi04OWtXVHI5cDVIZE1Zb3hkLVhTaTJLb09tT1Axd1RhR3lPdDBWbWNpbFlQOGZnc1c3eEVUa2ZLLWNDaTBrbTdVb3JCQWlqZ0Z4bTJ2d19NX3JVWmFSX3R5Qy14a2hzSFlDbTFGdlk2NzYzS1VQeTBpcGQ4OTAzRVh6OWFj?oc=5",
-      "date": "2026-08-07 04:13",
-      "summary": "Still no leads four months after noose found at Stanford labeled ‘terrorism’  The College Fix..."
+      "summary": "Stanford's AI agents designed a drug Merck later built, too  venturebeat.com..."
     }
   ],
   "Nature Careers": [
@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "Senate votes to block rule giving White House more control over research",
+      "link": "https://www.science.org/content/article/senate-votes-block-rule-giving-white-house-more-control-over-research",
+      "date": "2026-08-08 12:30",
+      "summary": "Language is part of bill to fund government until mid-December..."
+    },
+    {
       "title": "Planned satellite megaconstellations could generate runaway space debris",
       "link": "https://www.science.org/content/article/planned-satellite-megaconstellations-could-generate-runaway-space-debris",
       "date": "2026-08-07 12:15",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/tau-protein-can-sneak-brain-cells-energy-factories-and-wreak-havoc",
       "date": "2026-08-06 11:00",
       "summary": "Study of mitochondria suggests new treatment strategy for Alzheimer’s and other diseases..."
-    },
-    {
-      "title": "NIH Director Bhattacharya kills more health disparities grants",
-      "link": "https://www.science.org/content/article/nih-director-bhattacharya-kills-more-health-disparities-grants",
-      "date": "2026-08-05 06:18",
-      "summary": "Letter says agency is “adjusting its extramural research portfolio, which includes terminating grant awards”..."
     }
   ],
   "Retraction Watch": [
@@ -193,16 +193,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5",
-      "date": "2026-08-07 17:46",
-      "summary": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls  Reuters..."
-    },
-    {
       "title": "Trump says Congress wants to regulate AI industry 'out of business' - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVE4dmstNmk3N1JPOUFaN1kyQlJEbUNjUTdadXBXNGRyNzRvaWpNNXd2VDFQdU5JQ3JmejhVZHlKYU1KeXFvQnVFZHhpVGJkTGR2NjZWakJmeUl6TVRlTVNOWEROdF8yd0ZQb3FWTUJhWUxkT2dIYXo1TGJkMEFuYkNSWXZjbk9MNGJmNHdjaDBtOVRqb2F1SVpEYUk2Y0tMR2RqcW5VQlRTSVBlOTZCMC1B?oc=5",
       "date": "2026-08-07 18:35",
       "summary": "Trump says Congress wants to regulate AI industry 'out of business'  Reuters..."
+    },
+    {
+      "title": "Who is liable when AI goes rogue? Lawyers see new risks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5",
+      "date": "2026-08-07 10:19",
+      "summary": "Who is liable when AI goes rogue? Lawyers see new risks  Reuters..."
+    },
+    {
+      "title": "Thomson Reuters to roll out in-house AI model as quarterly revenue rises - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONEVLU3hwd2RVcVhpcXpESFJiWWJqQjlMd3hSY2tSajBFQm5VdnJtaHBjWlcwVFZpeHVNOFBXemktaFV1VVdxdVdGX0pxUGQ0MWR0ZndqV1h5S28wTjdIUDhsT0lRSENRVlJ0YTU0RzN0WVZUaV9nRVdIR1A2a3RYMXM5VlV2ejlwUmpoaWItUnQ2T2ozbDMyODU1M1Nscm9rSWIxU0daSzZQYXMzWDlYMVB0UlVXcGs?oc=5",
+      "date": "2026-08-05 21:55",
+      "summary": "Thomson Reuters to roll out in-house AI model as quarterly revenue rises  The Globe and Mail..."
     },
     {
       "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters",
@@ -211,16 +217,10 @@
       "summary": "Apple says Mac users in China can connect to Alibaba's Qwen AI service  Reuters..."
     },
     {
-      "title": "Thomson Reuters to roll out in-house AI model as quarterly revenue rises - theglobeandmail.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONEVLU3hwd2RVcVhpcXpESFJiWWJqQjlMd3hSY2tSajBFQm5VdnJtaHBjWlcwVFZpeHVNOFBXemktaFV1VVdxdVdGX0pxUGQ0MWR0ZndqV1h5S28wTjdIUDhsT0lRSENRVlJ0YTU0RzN0WVZUaV9nRVdIR1A2a3RYMXM5VlV2ejlwUmpoaWItUnQ2T2ozbDMyODU1M1Nscm9rSWIxU0daSzZQYXMzWDlYMVB0UlVXcGs?oc=5",
-      "date": "2026-08-05 21:55",
-      "summary": "Thomson Reuters to roll out in-house AI model as quarterly revenue rises  theglobeandmail.com..."
-    },
-    {
-      "title": "Retailers tap AI shopping traffic but fight to keep customer data - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUkyUEpWNlhDYU5LbTVFTjdNa1dWdU9HbDRhWGZsRjVEU1VOY2VMVGZkOWRnY3QyS09OVzlYUWlUOVJ5QnlxaDd4TEp0em5Ea1RoZDFHVTN4UGhJcVFxTlBPZFZHVmFYUlUtSXRXNFAzQzhSWTZyazRWbXNjWEdDWmNjbWJmTWdSekdNdzRXVjRadFRwaXlGNXktYU1wblBnWW90eFhRZ0dHWjJSWXljWmxIdW9icFIzU0Uw?oc=5",
-      "date": "2026-08-07 10:11",
-      "summary": "Retailers tap AI shopping traffic but fight to keep customer data  Reuters..."
+      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5",
+      "date": "2026-08-07 17:46",
+      "summary": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,6 +257,12 @@
   ],
   "Phys.org": [
     {
+      "title": "Pulsed radiofrequency magnetic fields may disorient migratory birds, experiments suggest",
+      "link": "https://phys.org/news/2026-08-pulsed-radiofrequency-magnetic-fields-disorient.html",
+      "date": "2026-08-08 16:40",
+      "summary": "Every year, millions of migratory birds travel between different geographical regions on Earth to find food, escape cold weather o..."
+    },
+    {
       "title": "Dodo birds more clever than we thought",
       "link": "https://phys.org/news/2026-08-dodo-birds-clever-thought.html",
       "date": "2026-08-08 15:20",
@@ -279,12 +285,6 @@
       "link": "https://phys.org/news/2026-08-gravity-people-simpler-movement-patterns.html",
       "date": "2026-08-08 13:20",
       "summary": "From reaching for a cup of coffee to tying your shoelaces, gravity shapes nearly all human movement. So how do our bodies react wh..."
-    },
-    {
-      "title": "Swarms of tiny robots remove microplastics from soil and water",
-      "link": "https://phys.org/news/2026-08-swarms-tiny-robots-microplastics-soil.html",
-      "date": "2026-08-08 12:40",
-      "summary": "Microplastics, which are plastic particles under 5 millimeters, are a major and growing threat in both soil and water. They damage..."
     }
   ],
   "The Guardian Edu": [
