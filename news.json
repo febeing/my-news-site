@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
+      "link": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
+      "date": "2026-08-10 19:25",
+      "summary": "“GeoPT” helps AI models understand the basics of physics so they can simulate how objects respond to things like wind and water mo..."
+    },
+    {
       "title": "High-orbit satellites could light the way for travel to the moon",
       "link": "https://news.mit.edu/2026/high-orbit-satellites-could-light-way-for-travel-to-moon-0810",
       "date": "2026-08-10 18:10",
@@ -23,44 +29,38 @@
       "link": "https://news.mit.edu/2026/new-way-watch-heat-move-through-electronics-0806",
       "date": "2026-08-06 04:00",
       "summary": "MIT researchers can now precisely measure how heat moves through multilayered materials like computer chips...."
-    },
-    {
-      "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
-      "link": "https://news.mit.edu/2026/researchers-make-air-stable-ultrathin-superconductors-more-scalable-quantum-devices-0805",
-      "date": "2026-08-05 15:00",
-      "summary": "A new technique produces wafer-scale samples, overcoming a major roadblock to using these materials in quantum technologies...."
     }
   ],
   "Harvard Gazette": [
     {
-      "title": "20 societal problems, 20 solutions - news.harvard.edu",
+      "title": "20 societal problems, 20 solutions - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  news.harvard.edu..."
+      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
-      "title": "Harvard releases information on 1,613 enslaved individuals - news.harvard.edu",
+      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  news.harvard.edu..."
+      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - news.harvard.edu",
+      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  news.harvard.edu..."
+      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     },
     {
-      "title": "How to help lift slumping American math scores - news.harvard.edu",
+      "title": "How to help lift slumping American math scores - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
-      "summary": "How to help lift slumping American math scores  news.harvard.edu..."
+      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
     },
     {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - news.harvard.edu",
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
       "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  news.harvard.edu..."
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -77,22 +77,22 @@
       "summary": "Stanford ditches Flock cameras, hires new license plate reader firm  The Mercury News..."
     },
     {
-      "title": "Stanford scientists just used AI to build a virus to target E. coli - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zNV9JN3ZDQ2FaNXR6YzB6RnVnWE1NUzI0eC13bHZCMkVGM2M5eWdQdnFTNmRPeVl3OXRaaWppYWF6RGpYQWlpZGYxLUx0ZE55VUQ4SFZVcy1zbmZrTkRacGcwWlg?oc=5",
-      "date": "2026-08-07 20:12",
-      "summary": "Stanford scientists just used AI to build a virus to target E. coli  Global News..."
-    },
-    {
       "title": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor - KQED",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1NHNk9IZzJYd0xCUF9GRVFJM0xXbFhOTzlpTUpVVVVMS3dTVXQxaThFWjhSWlZQcTRlZVk3UzdjWnJwUEZOVTVFSmNTd3Q3YUJIaUl3Sl9YTGxkcGIxc25CRC00VzNmMDI3WklXb2ZlSkRzeTBLOTBBc2tETUFFNFNYcTcxclZHTmJwa3dwaGNoVzROY2RxUk5uanJTTzhHblducW5za1A?oc=5",
       "date": "2026-08-07 19:09",
       "summary": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor  KQED..."
     },
     {
-      "title": "Stanford switches from Flock to Genetec after student backlash - San Mateo Daily Journal",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdnI0VHdXZW9iakRGN1ZUSjdROGVndnRYeUJIZENoVjM0ak9DSGtkbml5R0F2TEN2a3VyZFlSeHhTbFJZWmc5UXQ5NWJ4TDRMR09hc1JjTV81RjIwQzZNSVVocDFwTWEzVGRxWFFGdWNPdFBvdlYyU0Zoekc1b0ZOajVmMDYxNEM0OVVDb1JIZkNFVWtCT2dWRnJYLTkwcF9IUmJ2T3dCSDk5NGM1WXlDTXQ5LVNLUnlYMG5rTjVCQW5WUW1QLUpYbUxEN0pZVmhDUFFSZHNZSk1uVlNpS0FHbUtiYmlPamFoMnc?oc=5",
-      "date": "2026-08-08 01:14",
-      "summary": "Stanford switches from Flock to Genetec after student backlash  San Mateo Daily Journal..."
+      "title": "Stanford scientists just used AI to build a virus to target E. coli - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zNV9JN3ZDQ2FaNXR6YzB6RnVnWE1NUzI0eC13bHZCMkVGM2M5eWdQdnFTNmRPeVl3OXRaaWppYWF6RGpYQWlpZGYxLUx0ZE55VUQ4SFZVcy1zbmZrTkRacGcwWlg?oc=5",
+      "date": "2026-08-07 20:12",
+      "summary": "Stanford scientists just used AI to build a virus to target E. coli  Global News..."
+    },
+    {
+      "title": "Stanford ends contract with Flock cameras, switches to Genetec - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YbElCQ2djeGV6alJsTWZtUDh6c0NPUTFFYVdvZEFJR1QtVVROdVVNTDFxbnVxb19hSjlYMnhVbXVCU09tYWRURFhOaHVHMldybTl6V3VMaTRJZ2FiX1ZDX25CVjZTTWxlc0ptamZZbGdtei1r?oc=5",
+      "date": "2026-08-09 21:31",
+      "summary": "Stanford ends contract with Flock cameras, switches to Genetec  The Stanford Daily..."
     }
   ],
   "Nature Careers": [
@@ -207,13 +207,13 @@
     {
       "title": "Microsoft plans to unveil next-generation AI chip in September, The Information reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenR3bGI3XzFrd0ZXY205bU84b3ZLUFR5VEFhYjBGMEVWekNKeHhWZnJYaEE2TC1ETk9oNVZreEJDeEZWaU8zbjVVMHhNRlZjcGRQNXRXWlJOOTdFQWJ3RkNCRmVrdDJuOTl6eTRTUzRQdXNNN3g3RkdnUHp2eFlPM3lCM2xQN3NYSlJ3bmFyXzNpNHo2SzUwNGZqN0RVVjh5cjF4ZUNvWTNId1MyZG9IdkdvMzNGb1VkSUZGZXdRWQ?oc=5",
-      "date": "2026-08-10 14:05",
+      "date": "2026-08-10 17:45",
       "summary": "Microsoft plans to unveil next-generation AI chip in September, The Information reports  Reuters..."
     },
     {
       "title": "North Korean hacking group builds AI tools for cyberattacks, report says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTM0VnQ2S3MzSjk1RTlkeFJPc3NoYVJHQjU3Y1JoQTZuU0lfWlV4Wm4xWkN6Y2JjM0E2azJYTi1YOHVXdFFzN2ZVNzhsdnhWclJyLTdFV1FmWEdWMnR4S1ctbllrT29iaFFGY3NqN0hKLVRRSlU3WWJfUTFnM3FvQ2NaUlpzU3UyN3JDckRQbmNZd3NYQ0JISjFDamR5amNUT00yNk9DQjY2ekwwZ0VxZjF3M2VwQ2RsWXVjSQ?oc=5",
-      "date": "2026-08-10 01:08",
+      "date": "2026-08-10 15:05",
       "summary": "North Korean hacking group builds AI tools for cyberattacks, report says  Reuters..."
     },
     {
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Retail investor attention encourages managers to manipulate earnings, study finds",
-      "link": "https://phys.org/news/2026-08-retail-investor-attention.html",
-      "date": "2026-08-10 18:40",
-      "summary": "Do you manage your own investments, buying and selling stocks and obsessively checking the earnings reports of the companies in wh..."
+      "title": "Climate change could mean four extra hours of extreme heat on hot days",
+      "link": "https://phys.org/news/2026-08-climate-extra-hours-extreme-hot.html",
+      "date": "2026-08-10 19:40",
+      "summary": "Hot days could gain more than four additional hours of extreme heat by the end of the 21st century under a high-emissions scenario..."
     },
     {
-      "title": "AI persona practice boosts empathy scores in small pilot study",
-      "link": "https://phys.org/news/2026-08-ai-persona-boosts-empathy-scores.html",
-      "date": "2026-08-10 18:20",
-      "summary": "Rodney Luster, Ph.D., University research chair and chair of the Center for Leadership and Entrepreneurial Research (CLER) in the ..."
+      "title": "Europe braces for another summer heat wave",
+      "link": "https://phys.org/news/2026-08-europe-braces-summer.html",
+      "date": "2026-08-10 19:40",
+      "summary": "Much of Europe is bracing for another scorching heat wave following periods of record drought that have driven rivers to historic ..."
     },
     {
-      "title": "Why some male anglerfish parasitically fuse with females",
-      "link": "https://phys.org/news/2026-08-male-anglerfish-parasitically-fuse-females.html",
-      "date": "2026-08-10 18:20",
-      "summary": "Reproduction is central to the survival of all living organisms. Over millions of years, animal species on Earth have evolved a re..."
+      "title": "Arctic fossil abandoned in 1948 proves to be record-size Triassic hunter",
+      "link": "https://phys.org/news/2026-08-arctic-fossil-abandoned-size-triassic.html",
+      "date": "2026-08-10 19:20",
+      "summary": "Nearly 80 years ago, a British expedition discovered the battered remains of a giant fossil on the peak of an Arctic island. Unabl..."
     },
     {
-      "title": "When fever isn't the answer: Infected tadpoles cool themselves to fight viruses",
-      "link": "https://phys.org/news/2026-08-fever-isnt-infected-tadpoles-cool.html",
-      "date": "2026-08-10 18:00",
-      "summary": "Fever is one of the best-known mechanisms by which animals combat infectious diseases. Sick animals can increase their body temper..."
+      "title": "The lasting impacts of West Nile virus on Pennsylvania bird populations",
+      "link": "https://phys.org/news/2026-08-impacts-west-nile-virus-pennsylvania.html",
+      "date": "2026-08-10 19:20",
+      "summary": "A new study out of the University of Pennsylvania School of Veterinary Medicine suggests that West Nile virus (WNV) has had impact..."
     },
     {
-      "title": "Seven practices can help open organizations balance transparency, inclusion and power",
-      "link": "https://phys.org/news/2026-08-transparency-inclusion-power.html",
-      "date": "2026-08-10 18:00",
-      "summary": "John Meluso, assistant teaching professor in the Cornell Duffield College of Engineering's Systems Engineering Program, is the lea..."
+      "title": "Self-healing composite retains 92% sensing response after 10,000 strain cycles",
+      "link": "https://phys.org/news/2026-08-composite-retains-response-strain.html",
+      "date": "2026-08-10 19:00",
+      "summary": "Researchers have developed a polymer composite that combines vibration damping with reliable strain sensing. The material uses a t..."
     }
   ],
   "The Guardian Edu": [
