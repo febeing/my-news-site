@@ -213,13 +213,13 @@
     {
       "title": "North Korean hacking group builds AI tools for cyberattacks, report says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTM0VnQ2S3MzSjk1RTlkeFJPc3NoYVJHQjU3Y1JoQTZuU0lfWlV4Wm4xWkN6Y2JjM0E2azJYTi1YOHVXdFFzN2ZVNzhsdnhWclJyLTdFV1FmWEdWMnR4S1ctbllrT29iaFFGY3NqN0hKLVRRSlU3WWJfUTFnM3FvQ2NaUlpzU3UyN3JDckRQbmNZd3NYQ0JISjFDamR5amNUT00yNk9DQjY2ekwwZ0VxZjF3M2VwQ2RsWXVjSQ?oc=5",
-      "date": "2026-08-10 15:05",
+      "date": "2026-08-10 01:08",
       "summary": "North Korean hacking group builds AI tools for cyberattacks, report says  Reuters..."
     },
     {
       "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5",
-      "date": "2026-08-10 16:07",
+      "date": "2026-08-10 19:48",
       "summary": "US House Democrats press Anthropic, OpenAI about rogue AI agents  Reuters..."
     }
   ],
@@ -237,6 +237,12 @@
       "summary": "AI for science needs reasoning, not just data  MIT Technology Review..."
     },
     {
+      "title": "AI professors are negotiating the new realities of academic research - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkhYeGEwcmo4YlpsSzlMQzhuU0tkOV9ZeVFYVE5INWdGcmVJQ0Zhb1cxbm1RMF9iOGpDT2YtNkRadmFmU0pfU01mNEQxdzBxd2RKQUdOMUtKQ2JSMkhyMUl6SE8tTFA4ZFdqeHg0S2pwUlVTTnNxTXpKeUJ2NGttLTJ1ZkxDdHI5eHVlMFREemJ5cVVqQVZoaE5HakJHbmR0UTRqZGZ5cWd1aEZJcTdzNXJQWWs2aHVUQUswZDBB0gHDAUFVX3lxTE9EWkhvdHRVU1JacExMTUpBQVJQLXE1Y3RaNE1aZl93TkkwazRqMUxXcnp0U1Qzdnp4a3ZwNUs4QTg1eS1vVWR0XzhZamt6dkpjeHgxU3ZPSkRCeTJ4TldCNjdjRDhtQjEtWFlFRGZHU1ROdEgwQjRUWFdMSzluaFBkYzBCUnFBdlRiTDZsR003b3VNSHNfeHh0Vnp6bHdsZlVGSktDNV94Wjlvb1dzVnFKbHZyWDJ1RG1OUGNIX3ZiM3M2RQ?oc=5",
+      "date": "2026-08-10 20:00",
+      "summary": "AI professors are negotiating the new realities of academic research  MIT Technology Review..."
+    },
+    {
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWduREp1NDlRczVvanNUcWlLczk0ZFJwbDlnN245ZmI1ZEZqUWg5YzlCYTZjRXdqNTloQzMyS3hndi16eTVlVFRqTFZXN3JMRHNvUm41T29yS1hmeTM2aGFPc0phSW1aSXdoYzFmUWJVS3Q1NTlFWWxBdEctMlZhUEpaQ1dKQVJBYWF3bWpISm16VUNGQUl4d1FjVmZGQlpuZ0pXMncxY9IBrAFBVV95cUxQTnJNb1JkeVZsaGhZTi1jclRCOWN5aTFVUTBsRjg4S3dWYjhLUnBPczJIOGJBMWRKUnl6bkROdFRjNXBHZGxRZkM5M05pRjAxMDQxbV9wbmJ5bFhRaklqUm5pb2tJT092eHA5cVNUNnhDYXQzeTdrOHZad1BTcEt5dHhQUzBvSVdGajlNVHhETDd6MWFGX1JrNktLMVdYWndjR29kVXo2R2lWaVo3?oc=5",
       "date": "2026-07-30 07:00",
@@ -247,44 +253,38 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONGRMcVk0WU9fQ1lKdUVDaXhWWGpkbnJzT19KaEpMN01JbVBrNll3a2Y3OHVQOTJtZ04zV2FJNndhRWFrMzM5dGNoeTVsRzVxU1pteXBfRHBqNVhBLW9ERVNaYnBHc1FVdTB5SGFtaHo4ZFN6blNEUkxQcFRIZTh6b2ZkS2stOGpaNFpxNm8zRmtXWGJjcXVzSDA4dDNEMnJKX1RVTHQ5U3hxSGNRVDlESWliU21PUTRwbGxfa2JHZFgtMFd2ZEk1Sk01Y28zV2tuN29LWkNVLWlvZw?oc=5",
       "date": "2026-08-10 12:30",
       "summary": "MIT Technology Review Names Dr. Wenchao Ding to the 2025 Innovators Under 35 China List  PR Newswire..."
-    },
-    {
-      "title": "The Download: Google’s AI shake-up and Meta’s rogue model - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWThFNmlkaFJLbk4yZEhsTXZUQ1h4cGFtYnhmeVJwR180QlNvX016WEFab0UzYTBVREo5SE1sQ1JmNXJ1U2FuMEpIX2t1TTFYRGl2dDR2NzU0c3RfS1VDY1M0Ri1JRjNPTmxLUVdhSWt5NVhlck1wNzhfb2hpWmFDdVIxTXk4YTc1MW56VE5MOFUwdjg2SGpMdmVFX0xIQS1EU2dj0gGoAUFVX3lxTFBONFBMb2h2RDNudVVsZ3Ztb05jYmtHODZZSUpDMlBRZG9XV0pSUURoUzZCb3ZxdVA1T3BUQnl6ZnUxTVlxak5ZamlKVmZDLUZJZFh1SGhSRGc5ZE5BbnhjaWtPT2NNaHlmQV82ZlFDSWpDQjI4Z2tQS3gtcm96ZlFCOHhIblVMaGFCMzk5bzctMmM0ZTFvZmN0Mi1EaGRPSUljZkRIMGpIRg?oc=5",
-      "date": "2026-08-06 12:10",
-      "summary": "The Download: Google’s AI shake-up and Meta’s rogue model  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Distant time crystals oscillate in unison, paving the way for spin networks",
+      "link": "https://phys.org/news/2026-08-distant-crystals-oscillate-unison-paving.html",
+      "date": "2026-08-10 20:20",
+      "summary": "In January 2024, physicists at TU Dortmund University demonstrated a continuous time crystal in a semiconductor whose oscillations..."
+    },
+    {
+      "title": "When meat doesn't matter: Female Guinea baboons do not prefer males who are better at acquiring or sharing meat",
+      "link": "https://phys.org/news/2026-08-meat-doesnt-female-guinea-baboons.html",
+      "date": "2026-08-10 20:20",
+      "summary": "Meat is a rare and highly prized resource for wild Guinea baboons (Papio papio). Yet, contrary to long-standing assumptions based ..."
+    },
+    {
+      "title": "Record July heat in regions home to 900 million people",
+      "link": "https://phys.org/news/2026-08-july-regions-home-million-people.html",
+      "date": "2026-08-10 20:00",
+      "summary": "Regions home to around 900 million people experienced their hottest July on record in 2026, including in the Sahel, Central Americ..."
+    },
+    {
+      "title": "The impact of recent super El Niños on sea level rise",
+      "link": "https://phys.org/news/2026-08-impact-super-el-nios-sea.html",
+      "date": "2026-08-10 20:00",
+      "summary": "El Niños and La Niñas are the third-most dominant influences on Earth's climate, after the sun and the greenhouse effect. But they..."
+    },
     {
       "title": "Climate change could mean four extra hours of extreme heat on hot days",
       "link": "https://phys.org/news/2026-08-climate-extra-hours-extreme-hot.html",
       "date": "2026-08-10 19:40",
       "summary": "Hot days could gain more than four additional hours of extreme heat by the end of the 21st century under a high-emissions scenario..."
-    },
-    {
-      "title": "Europe braces for another summer heat wave",
-      "link": "https://phys.org/news/2026-08-europe-braces-summer.html",
-      "date": "2026-08-10 19:40",
-      "summary": "Much of Europe is bracing for another scorching heat wave following periods of record drought that have driven rivers to historic ..."
-    },
-    {
-      "title": "Arctic fossil abandoned in 1948 proves to be record-size Triassic hunter",
-      "link": "https://phys.org/news/2026-08-arctic-fossil-abandoned-size-triassic.html",
-      "date": "2026-08-10 19:20",
-      "summary": "Nearly 80 years ago, a British expedition discovered the battered remains of a giant fossil on the peak of an Arctic island. Unabl..."
-    },
-    {
-      "title": "The lasting impacts of West Nile virus on Pennsylvania bird populations",
-      "link": "https://phys.org/news/2026-08-impacts-west-nile-virus-pennsylvania.html",
-      "date": "2026-08-10 19:20",
-      "summary": "A new study out of the University of Pennsylvania School of Veterinary Medicine suggests that West Nile virus (WNV) has had impact..."
-    },
-    {
-      "title": "Self-healing composite retains 92% sensing response after 10,000 strain cycles",
-      "link": "https://phys.org/news/2026-08-composite-retains-response-strain.html",
-      "date": "2026-08-10 19:00",
-      "summary": "Researchers have developed a polymer composite that combines vibration damping with reliable strain sensing. The material uses a t..."
     }
   ],
   "The Guardian Edu": [
