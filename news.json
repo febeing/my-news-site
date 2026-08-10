@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "High-orbit satellites could light the way for travel to the moon",
+      "link": "https://news.mit.edu/2026/high-orbit-satellites-could-light-way-for-travel-to-moon-0810",
+      "date": "2026-08-10 18:10",
+      "summary": "Acting as cooperative optical beacons, the satellites could provide GPS-like navigation and communications support for spacecraft ..."
+    },
+    {
       "title": "MIT researchers tackle the economic realities of fusion power",
       "link": "https://news.mit.edu/2026/mit-researchers-tackle-economic-realities-fusion-power-0810",
       "date": "2026-08-10 04:00",
@@ -23,44 +29,38 @@
       "link": "https://news.mit.edu/2026/researchers-make-air-stable-ultrathin-superconductors-more-scalable-quantum-devices-0805",
       "date": "2026-08-05 15:00",
       "summary": "A new technique produces wafer-scale samples, overcoming a major roadblock to using these materials in quantum technologies...."
-    },
-    {
-      "title": "Scientists unveil more than 600 new tissue models of human cancer",
-      "link": "https://news.mit.edu/2026/scientists-unveil-600-new-tissue-models-human-cancer-0805",
-      "date": "2026-08-05 15:00",
-      "summary": "Derived from patient tumor samples and available to researchers around the world, the cells will aid the development of new cancer..."
     }
   ],
   "Harvard Gazette": [
     {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "title": "20 societal problems, 20 solutions - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
+      "summary": "20 societal problems, 20 solutions  news.harvard.edu..."
     },
     {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
+      "title": "Harvard releases information on 1,613 enslaved individuals - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+      "summary": "Harvard releases information on 1,613 enslaved individuals  news.harvard.edu..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "title": "Worried about how online firms use data they get from you? - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+      "summary": "Worried about how online firms use data they get from you?  news.harvard.edu..."
     },
     {
-      "title": "How to help lift slumping American math scores - Harvard Gazette",
+      "title": "How to help lift slumping American math scores - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
-      "summary": "How to help lift slumping American math scores  Harvard Gazette..."
+      "summary": "How to help lift slumping American math scores  news.harvard.edu..."
     },
     {
-      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - Harvard Gazette",
+      "title": "As states take lead in fixing U.S. schools, Harvard will serve as a hub - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXhVNS15MS02aHRWRlN0Mzd1UEVBUWc1V0R5dDlEWDJ0RmtmaTNkeVNUbU5nV0JXTktpaFFrOW1KS2dYWGdfeGZqU1dUbzU3Ql9YcEwwNUxod3gwdE5xVTJtWTRYcDJTQ21yNVVsSUwtLXhDZk1ZemY3eEo2c3lwODVaY20zQzNObXduWHdoM20xQ0F4eWVoUzdwSkJhYjZBOTVkcF9XTjJvVHdGSGU1MlpGWEY1cF9M?oc=5",
       "date": "2025-10-23 07:00",
-      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  Harvard Gazette..."
+      "summary": "As states take lead in fixing U.S. schools, Harvard will serve as a hub  news.harvard.edu..."
     }
   ],
   "Stanford News": [
@@ -77,16 +77,16 @@
       "summary": "Stanford ditches Flock cameras, hires new license plate reader firm  The Mercury News..."
     },
     {
-      "title": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor - KQED",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1NHNk9IZzJYd0xCUF9GRVFJM0xXbFhOTzlpTUpVVVVMS3dTVXQxaThFWjhSWlZQcTRlZVk3UzdjWnJwUEZOVTVFSmNTd3Q3YUJIaUl3Sl9YTGxkcGIxc25CRC00VzNmMDI3WklXb2ZlSkRzeTBLOTBBc2tETUFFNFNYcTcxclZHTmJwa3dwaGNoVzROY2RxUk5uanJTTzhHblducW5za1A?oc=5",
-      "date": "2026-08-07 19:09",
-      "summary": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor  KQED..."
-    },
-    {
       "title": "Stanford scientists just used AI to build a virus to target E. coli - Global News",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zNV9JN3ZDQ2FaNXR6YzB6RnVnWE1NUzI0eC13bHZCMkVGM2M5eWdQdnFTNmRPeVl3OXRaaWppYWF6RGpYQWlpZGYxLUx0ZE55VUQ4SFZVcy1zbmZrTkRacGcwWlg?oc=5",
       "date": "2026-08-07 20:12",
       "summary": "Stanford scientists just used AI to build a virus to target E. coli  Global News..."
+    },
+    {
+      "title": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor - KQED",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1NHNk9IZzJYd0xCUF9GRVFJM0xXbFhOTzlpTUpVVVVMS3dTVXQxaThFWjhSWlZQcTRlZVk3UzdjWnJwUEZOVTVFSmNTd3Q3YUJIaUl3Sl9YTGxkcGIxc25CRC00VzNmMDI3WklXb2ZlSkRzeTBLOTBBc2tETUFFNFNYcTcxclZHTmJwa3dwaGNoVzROY2RxUk5uanJTTzhHblducW5za1A?oc=5",
+      "date": "2026-08-07 19:09",
+      "summary": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor  KQED..."
     },
     {
       "title": "Stanford switches from Flock to Genetec after student backlash - San Mateo Daily Journal",
@@ -125,6 +125,38 @@
       "link": "https://www.nature.com/articles/d41586-026-02435-2",
       "date": "2026-08-10 00:00",
       "summary": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02435-2A webinar offers advice to hiring managers and jobseekers...."
+    }
+  ],
+  "Science News": [
+    {
+      "title": "How Europe can prevent a repeat of this year’s devastating wildfires",
+      "link": "https://www.science.org/content/article/how-europe-can-prevent-repeat-year-s-devastating-wildfires",
+      "date": "2026-08-10 11:30",
+      "summary": "As climate change heats up the continent, experts say countries must shift focus toward preventing fires, rather than just suppres..."
+    },
+    {
+      "title": "Senate votes to block rule giving White House more control over research",
+      "link": "https://www.science.org/content/article/senate-votes-block-rule-giving-white-house-more-control-over-research",
+      "date": "2026-08-08 12:30",
+      "summary": "Language is part of bill to fund government until mid-December..."
+    },
+    {
+      "title": "Planned satellite megaconstellations could generate runaway space debris",
+      "link": "https://www.science.org/content/article/planned-satellite-megaconstellations-could-generate-runaway-space-debris",
+      "date": "2026-08-07 12:15",
+      "summary": "Modeling suggests infamous “Kessler syndrome” would make the swarms unsustainable..."
+    },
+    {
+      "title": "Global warming is coming for the countryside",
+      "link": "https://www.science.org/content/article/global-warming-coming-countryside",
+      "date": "2026-08-06 02:55",
+      "summary": "Pioneering study projects rural heat will edge closer to city swelter..."
+    },
+    {
+      "title": "DNA reveals the hidden past of North America’s bison—and keys to their future",
+      "link": "https://www.science.org/content/article/dna-reveals-hidden-past-north-america-s-bison-and-keys-their-future",
+      "date": "2026-08-06 02:00",
+      "summary": "Scientists are racing to conserve what remains of these majestic animals’ genetic diversity..."
     }
   ],
   "Retraction Watch": [
@@ -167,12 +199,6 @@
       "summary": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls  Reuters..."
     },
     {
-      "title": "Wall Street giants partner with Nvidia on $500 billion AI financing deal, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNC15TDEteDI0VXNtbnFkb016anJWMDJqVHRSTDlRNVNkTXFIS2NVWWlDVVVldmN1Qld0ZWIyeXowZ3d6WkFQR2YtQWN6SUU1Tzl3VFR2YmphekZzUWtCZGpsQmFWQVR4bzhEdGI1Tkxfby15cy1xVWVhWXYzQUU5WTlYWDRHc2d1azhzYXJaMHcyeGxJT0pBdU5RRXpfZG15QTJrdmRBd3hrSnlDLV9wTUdiU3U5NW5PYXBUbGJoZEdmVHBY?oc=5",
-      "date": "2026-08-10 16:38",
-      "summary": "Wall Street giants partner with Nvidia on $500 billion AI financing deal, FT reports  Reuters..."
-    },
-    {
       "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
       "date": "2026-08-10 12:26",
@@ -189,6 +215,12 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTM0VnQ2S3MzSjk1RTlkeFJPc3NoYVJHQjU3Y1JoQTZuU0lfWlV4Wm4xWkN6Y2JjM0E2azJYTi1YOHVXdFFzN2ZVNzhsdnhWclJyLTdFV1FmWEdWMnR4S1ctbllrT29iaFFGY3NqN0hKLVRRSlU3WWJfUTFnM3FvQ2NaUlpzU3UyN3JDckRQbmNZd3NYQ0JISjFDamR5amNUT00yNk9DQjY2ekwwZ0VxZjF3M2VwQ2RsWXVjSQ?oc=5",
       "date": "2026-08-10 01:08",
       "summary": "North Korean hacking group builds AI tools for cyberattacks, report says  Reuters..."
+    },
+    {
+      "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5",
+      "date": "2026-08-10 16:07",
+      "summary": "US House Democrats press Anthropic, OpenAI about rogue AI agents  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -205,16 +237,16 @@
       "summary": "AI for science needs reasoning, not just data  MIT Technology Review..."
     },
     {
-      "title": "MIT Technology Review Names Dr. Wenchao Ding to the 2025 Innovators Under 35 China List - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONGRMcVk0WU9fQ1lKdUVDaXhWWGpkbnJzT19KaEpMN01JbVBrNll3a2Y3OHVQOTJtZ04zV2FJNndhRWFrMzM5dGNoeTVsRzVxU1pteXBfRHBqNVhBLW9ERVNaYnBHc1FVdTB5SGFtaHo4ZFN6blNEUkxQcFRIZTh6b2ZkS2stOGpaNFpxNm8zRmtXWGJjcXVzSDA4dDNEMnJKX1RVTHQ5U3hxSGNRVDlESWliU21PUTRwbGxfa2JHZFgtMFd2ZEk1Sk01Y28zV2tuN29LWkNVLWlvZw?oc=5",
-      "date": "2026-08-10 12:30",
-      "summary": "MIT Technology Review Names Dr. Wenchao Ding to the 2025 Innovators Under 35 China List  PR Newswire..."
-    },
-    {
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWduREp1NDlRczVvanNUcWlLczk0ZFJwbDlnN245ZmI1ZEZqUWg5YzlCYTZjRXdqNTloQzMyS3hndi16eTVlVFRqTFZXN3JMRHNvUm41T29yS1hmeTM2aGFPc0phSW1aSXdoYzFmUWJVS3Q1NTlFWWxBdEctMlZhUEpaQ1dKQVJBYWF3bWpISm16VUNGQUl4d1FjVmZGQlpuZ0pXMncxY9IBrAFBVV95cUxQTnJNb1JkeVZsaGhZTi1jclRCOWN5aTFVUTBsRjg4S3dWYjhLUnBPczJIOGJBMWRKUnl6bkROdFRjNXBHZGxRZkM5M05pRjAxMDQxbV9wbmJ5bFhRaklqUm5pb2tJT092eHA5cVNUNnhDYXQzeTdrOHZad1BTcEt5dHhQUzBvSVdGajlNVHhETDd6MWFGX1JrNktLMVdYWndjR29kVXo2R2lWaVo3?oc=5",
       "date": "2026-07-30 07:00",
       "summary": "A fundamental flaw leaves LLMs strikingly vulnerable to attack  MIT Technology Review..."
+    },
+    {
+      "title": "MIT Technology Review Names Dr. Wenchao Ding to the 2025 Innovators Under 35 China List - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONGRMcVk0WU9fQ1lKdUVDaXhWWGpkbnJzT19KaEpMN01JbVBrNll3a2Y3OHVQOTJtZ04zV2FJNndhRWFrMzM5dGNoeTVsRzVxU1pteXBfRHBqNVhBLW9ERVNaYnBHc1FVdTB5SGFtaHo4ZFN6blNEUkxQcFRIZTh6b2ZkS2stOGpaNFpxNm8zRmtXWGJjcXVzSDA4dDNEMnJKX1RVTHQ5U3hxSGNRVDlESWliU21PUTRwbGxfa2JHZFgtMFd2ZEk1Sk01Y28zV2tuN29LWkNVLWlvZw?oc=5",
+      "date": "2026-08-10 12:30",
+      "summary": "MIT Technology Review Names Dr. Wenchao Ding to the 2025 Innovators Under 35 China List  PR Newswire..."
     },
     {
       "title": "The Download: Google’s AI shake-up and Meta’s rogue model - MIT Technology Review",
@@ -225,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Both breeding and training influence dogs' capacity for communication, study finds",
-      "link": "https://phys.org/news/2026-08-dogs-capacity-communication.html",
-      "date": "2026-08-10 17:00",
-      "summary": "How have selectively breeding dogs across decades and individual training shaped the way that dogs communicate? New from JNeurosci..."
+      "title": "Retail investor attention encourages managers to manipulate earnings, study finds",
+      "link": "https://phys.org/news/2026-08-retail-investor-attention.html",
+      "date": "2026-08-10 18:40",
+      "summary": "Do you manage your own investments, buying and selling stocks and obsessively checking the earnings reports of the companies in wh..."
     },
     {
-      "title": "DESI releases biggest 2D map of the universe",
-      "link": "https://phys.org/news/2026-08-desi-biggest-2d-universe.html",
-      "date": "2026-08-10 17:00",
-      "summary": "Hold on to your telescopes: The DESI Legacy Imaging Surveys team has released the largest-ever 2D color map of the universe. The 5..."
+      "title": "AI persona practice boosts empathy scores in small pilot study",
+      "link": "https://phys.org/news/2026-08-ai-persona-boosts-empathy-scores.html",
+      "date": "2026-08-10 18:20",
+      "summary": "Rodney Luster, Ph.D., University research chair and chair of the Center for Leadership and Entrepreneurial Research (CLER) in the ..."
     },
     {
-      "title": "International study sees links between ageist attitudes and memory problems",
-      "link": "https://phys.org/news/2026-08-international-links-ageist-attitudes-memory.html",
-      "date": "2026-08-10 16:40",
-      "summary": "An international study finds that older adults who have strong beliefs about how other seniors should behave also report having mo..."
+      "title": "Why some male anglerfish parasitically fuse with females",
+      "link": "https://phys.org/news/2026-08-male-anglerfish-parasitically-fuse-females.html",
+      "date": "2026-08-10 18:20",
+      "summary": "Reproduction is central to the survival of all living organisms. Over millions of years, animal species on Earth have evolved a re..."
     },
     {
-      "title": "Trapped gases in ancient rocks challenge global explanation for 2-billion-year-old carbon anomaly",
-      "link": "https://phys.org/news/2026-08-gases-ancient-global-explanation-billion.html",
-      "date": "2026-08-10 16:40",
-      "summary": "Roughly 2.5–2 billion years ago, Earth's surface experienced the biggest chemical change in its history when oxygen became abundan..."
+      "title": "When fever isn't the answer: Infected tadpoles cool themselves to fight viruses",
+      "link": "https://phys.org/news/2026-08-fever-isnt-infected-tadpoles-cool.html",
+      "date": "2026-08-10 18:00",
+      "summary": "Fever is one of the best-known mechanisms by which animals combat infectious diseases. Sick animals can increase their body temper..."
     },
     {
-      "title": "Vitamin B12 corrects developmental defects in Verheij syndrome worm model",
-      "link": "https://phys.org/news/2026-08-vitamin-b12-developmental-defects-verheij.html",
-      "date": "2026-08-10 16:20",
-      "summary": "Verheij syndrome is a rare genetic disorder caused by the impairment of splicing, a critical process in RNA processing. Using the ..."
+      "title": "Seven practices can help open organizations balance transparency, inclusion and power",
+      "link": "https://phys.org/news/2026-08-transparency-inclusion-power.html",
+      "date": "2026-08-10 18:00",
+      "summary": "John Meluso, assistant teaching professor in the Cornell Duffield College of Engineering's Systems Engineering Program, is the lea..."
     }
   ],
   "The Guardian Edu": [
