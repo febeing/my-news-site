@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "AI designs a novel E. coli killer - news.stanford.edu",
+      "title": "AI designs a novel E. coli killer - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRE1RNTdCb2xEMEtvS1dJWldRNXg4U1Z5Y2YwcTVocWlyMjkzQ3RQaUZtUVlSc0xpanl5eGxjeU9aZl9RczRZVFk0cGZDU2sybVJIM0J2RjFTOHVjNzBJVGczbTdXclh1TzdlME5McmpwR3lGaWVjVTBHRlVXNEloN2pwTUZIY3hBU0k0VQ?oc=5",
       "date": "2026-08-06 18:32",
-      "summary": "AI designs a novel E. coli killer  news.stanford.edu..."
+      "summary": "AI designs a novel E. coli killer  Stanford Report..."
     },
     {
       "title": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor - KQED",
@@ -97,34 +97,34 @@
   ],
   "Nature Careers": [
     {
+      "title": "Funders should look beyond strict age criteria",
+      "link": "https://www.nature.com/articles/d41586-026-02492-7",
+      "date": "2026-08-11 00:00",
+      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02492-7Funders should look beyond strict age criteria..."
+    },
+    {
+      "title": "The case for responsible scientific activism",
+      "link": "https://www.nature.com/articles/d41586-026-02464-x",
+      "date": "2026-08-11 00:00",
+      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02464-xThe case for responsible scientific activism..."
+    },
+    {
+      "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
+      "link": "https://www.nature.com/articles/d41586-026-02490-9",
+      "date": "2026-08-11 00:00",
+      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9AI tools speed up analysis, but scientific truths must be ..."
+    },
+    {
+      "title": "Will AI make our dreams all look the same?",
+      "link": "https://www.nature.com/articles/d41586-026-02491-8",
+      "date": "2026-08-11 00:00",
+      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02491-8Will AI make our dreams all look the same?..."
+    },
+    {
       "title": "When the best decision is no decision: the rise of randomization in grant funding",
       "link": "https://www.nature.com/articles/d41586-026-02082-7",
       "date": "2026-08-11 00:00",
       "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02082-7If reviewers can’t reliably tell the difference between to..."
-    },
-    {
-      "title": "Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
-      "link": "https://www.nature.com/articles/s41586-026-10984-9",
-      "date": "2026-08-10 00:00",
-      "summary": "Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10984-9Author Correction: Durable all-inorganic perovskite tandem..."
-    },
-    {
-      "title": "Author Correction: Cooperation conflicts with equality when allocating public goods",
-      "link": "https://www.nature.com/articles/s41586-026-10973-y",
-      "date": "2026-08-10 00:00",
-      "summary": "Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10973-yAuthor Correction: Cooperation conflicts with equality whe..."
-    },
-    {
-      "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
-      "link": "https://www.nature.com/articles/s41586-026-10989-4",
-      "date": "2026-08-10 00:00",
-      "summary": "Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10989-4Learning millisecond protein dynamics from what is missing..."
-    },
-    {
-      "title": "Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance",
-      "link": "https://www.nature.com/articles/s41586-026-10978-7",
-      "date": "2026-08-10 00:00",
-      "summary": "Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10978-7Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA remo..."
     }
   ],
   "Retraction Watch": [
@@ -161,10 +161,22 @@
   ],
   "Reuters AI": [
     {
+      "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
+      "date": "2026-08-10 12:26",
+      "summary": "Meta launches new AI model as Zuckerberg champions open-weight push  Reuters..."
+    },
+    {
       "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5",
       "date": "2026-08-10 19:48",
       "summary": "US House Democrats press Anthropic, OpenAI about rogue AI agents  Reuters..."
+    },
+    {
+      "title": "China bets on AI weather forecasting as extreme weather intensifies - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDhiSmhYa2hlQmQ5RGRsdldFUGRxMjVUbmtnSzhyWXUyNGdpdXh6bkJSRmI5bnIzVy1yem1mNVFjWWZfTkNOeXNqV2xhNFNLeWZ6Ty0tLTBlUzdtUFZXTzZyX3FuUFdqSlp2NENxOVlVT0tfVlpfZTZvSVhvT0MyMTktT2pPeExzQjNmNzRQLTJLV0ZwOGRRNFZMTXVJS0w0VHJpM2J3THF5TWd6bnZlbmVNSEtPNHkwOFE?oc=5",
+      "date": "2026-08-11 08:01",
+      "summary": "China bets on AI weather forecasting as extreme weather intensifies  Reuters..."
     },
     {
       "title": "Microsoft plans to unveil next-generation AI chip in September, The Information reports - Reuters",
@@ -173,22 +185,10 @@
       "summary": "Microsoft plans to unveil next-generation AI chip in September, The Information reports  Reuters..."
     },
     {
-      "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
-      "date": "2026-08-10 12:26",
-      "summary": "Meta launches new AI model as Zuckerberg champions open-weight push  Reuters..."
-    },
-    {
       "title": "North Korean hacking group builds AI tools for cyberattacks, report says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTM0VnQ2S3MzSjk1RTlkeFJPc3NoYVJHQjU3Y1JoQTZuU0lfWlV4Wm4xWkN6Y2JjM0E2azJYTi1YOHVXdFFzN2ZVNzhsdnhWclJyLTdFV1FmWEdWMnR4S1ctbllrT29iaFFGY3NqN0hKLVRRSlU3WWJfUTFnM3FvQ2NaUlpzU3UyN3JDckRQbmNZd3NYQ0JISjFDamR5amNUT00yNk9DQjY2ekwwZ0VxZjF3M2VwQ2RsWXVjSQ?oc=5",
       "date": "2026-08-10 01:08",
       "summary": "North Korean hacking group builds AI tools for cyberattacks, report says  Reuters..."
-    },
-    {
-      "title": "Singapore raises 2026 growth forecast on AI boom after robust Q2 GDP - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZTlaQWhmMmQxakR1SFdaRVVKSmhEYXo3ZW5GQjJDMG5yZTFaeC1nN25MQXJVNVpTWDFMZWpFOE5OOXpwd05HUXhZRjkyRWkzSlF0bHBNVW9LRE03aEFZU2pEcUs5QnJVTDFodTVJT1pSRERjSDNLNTNWN3hscTZRNC15Uk9LOFlMYnpmbE02Y2FYX1lDa0hCTU94RTFrM0Fzd2hULUZUNTRSQ2ItX283N3RRZFR0X1V1MVlnQmoxdEk?oc=5",
-      "date": "2026-08-11 00:10",
-      "summary": "Singapore raises 2026 growth forecast on AI boom after robust Q2 GDP  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,6 +225,12 @@
   ],
   "Phys.org": [
     {
+      "title": "Who are the secret gardeners of a parasitic plant?",
+      "link": "https://phys.org/news/2026-08-secret-gardeners-parasitic.html",
+      "date": "2026-08-11 10:00",
+      "summary": "In the coastal forests of a tropical Japanese island near Okinawa grows an inconspicuous plant that is easy to mistake for a mushr..."
+    },
+    {
       "title": "Ancient Colombians built huge water system without centralized rule, archaeologists say",
       "link": "https://phys.org/news/2026-08-ancient-colombians-built-huge-centralized.html",
       "date": "2026-08-11 09:00",
@@ -247,12 +253,6 @@
       "link": "https://phys.org/news/2026-08-magnitude-quake-western-colombia-people.html",
       "date": "2026-08-11 06:36",
       "summary": "A powerful 7.4 magnitude earthquake struck western Colombia on Monday, killing at least 111 people, damaging hundreds of buildings..."
-    },
-    {
-      "title": "Weather prediction hits a theoretical 129-day ceiling",
-      "link": "https://phys.org/news/2026-08-weather-theoretical-day-ceiling.html",
-      "date": "2026-08-11 06:32",
-      "summary": "Prediction is the goal and test of all science, one might argue. Meteorologists have been curious about the inherent limits of wea..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Wharf firms up balance sheet as Hong Kong home sales cushion profit slump",
+      "link": "https://www.scmp.com/business/companies/article/3363671/wharf-firms-balance-sheet-hong-kong-home-sales-cushion-profit-slump?utm_source=rss_feed",
+      "date": "2026-08-11 10:30",
+      "summary": "Hong Kong developer Wharf (Holdings) is increasingly relying on Hong Kong’s luxury-home market to offset weakness in mainland Chin..."
+    },
+    {
       "title": "Power, AC outages hit estate, office building and funeral home amid heatwave",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3363653/power-ac-outages-hit-estate-office-building-and-funeral-home-amid-heatwave?utm_source=rss_feed",
       "date": "2026-08-11 08:50",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363625/ex-deloitte-it-manager-remanded-stealing-firms-laptops-fund-stock-trading?utm_source=rss_feed",
       "date": "2026-08-11 06:29",
       "summary": "A former Deloitte information technology (IT) manager has been remanded in custody pending sentence for stealing 423 laptops from ..."
-    },
-    {
-      "title": "Hong Kong considers lowering heat-stress warning thresholds amid criticism",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3363615/hong-kong-considers-lowering-heat-stress-warning-thresholds-amid-criticism?utm_source=rss_feed",
-      "date": "2026-08-11 05:14",
-      "summary": "Hong Kong authorities are considering lowering the threshold for activating higher-tier heat stress warnings during abnormally hot..."
     }
   ]
 }
