@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "AI designs a novel E. coli killer - Stanford Report",
+      "title": "AI designs a novel E. coli killer - news.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRE1RNTdCb2xEMEtvS1dJWldRNXg4U1Z5Y2YwcTVocWlyMjkzQ3RQaUZtUVlSc0xpanl5eGxjeU9aZl9RczRZVFk0cGZDU2sybVJIM0J2RjFTOHVjNzBJVGczbTdXclh1TzdlME5McmpwR3lGaWVjVTBHRlVXNEloN2pwTUZIY3hBU0k0VQ?oc=5",
       "date": "2026-08-06 18:32",
-      "summary": "AI designs a novel E. coli killer  Stanford Report..."
+      "summary": "AI designs a novel E. coli killer  news.stanford.edu..."
     },
     {
       "title": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor - KQED",
@@ -83,16 +83,16 @@
       "summary": "Stanford AI Creates Synthetic Viruses in Research First  Healthcare Digital..."
     },
     {
+      "title": "Stanford Appoints New Leader to Expand Impact in Early Drug Development - The ASCO Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVV9NNktROGRfczB0eWlOUlVfRGZiemRpZDdJdHZhRVJKNnFUdXVzMnRwS1hKbUZNcU1wR0pqQTBNMHQxOFF3bDlDN09zVUo5ZHNkcnF5Z20yODNaUXFOUUNrM1JUUTBSQzkzTklsbG00THpma1E1SUtqM1Rld1BUdllraGdBeGtpeFpDZDZNSVJBVmhHbENXUlpTY1ZZdnlOM1BKbEdxTVhKenRwcGE0?oc=5",
+      "date": "2026-08-11 13:08",
+      "summary": "Stanford Appoints New Leader to Expand Impact in Early Drug Development  The ASCO Post..."
+    },
+    {
       "title": "Stanford ends contract with Flock cameras, switches to Genetec - The Stanford Daily",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YbElCQ2djeGV6alJsTWZtUDh6c0NPUTFFYVdvZEFJR1QtVVROdVVNTDFxbnVxb19hSjlYMnhVbXVCU09tYWRURFhOaHVHMldybTl6V3VMaTRJZ2FiX1ZDX25CVjZTTWxlc0ptamZZbGdtei1r?oc=5",
       "date": "2026-08-09 21:31",
       "summary": "Stanford ends contract with Flock cameras, switches to Genetec  The Stanford Daily..."
-    },
-    {
-      "title": "Stanford drops Flock license plate cameras after campus pushback, will use Genetec - Local News Matters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0JBVm8tSmFmR0tTWjR1UDBKTlJNVVBnN2c2MFU2TnhyS1ZySXZNdUxwSnFhV1ozREZOZV9JbHlUYmc1UXpLaXRYLThJRTBnbHBZMUVlS01sQ1JtaEplZHFDWnltNWRDUEF3cTlvNkI1OXk2WHBYZ3VJVG1sazFTVk5vdWdGOGZ1SmFNRFp2c2xFQ01JdGVLa1dfOHpEUnVIT0dTVWlkMmpHLXFsV2x3alhrR2FET2NpOWhoaEgxYw?oc=5",
-      "date": "2026-08-07 20:00",
-      "summary": "Stanford drops Flock license plate cameras after campus pushback, will use Genetec  Local News Matters..."
     }
   ],
   "Nature Careers": [
@@ -125,6 +125,38 @@
       "link": "https://www.nature.com/articles/d41586-026-02491-8",
       "date": "2026-08-11 00:00",
       "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02491-8Will AI make our dreams all look the same?..."
+    }
+  ],
+  "Science News": [
+    {
+      "title": "How Europe can prevent a repeat of this year’s devastating wildfires",
+      "link": "https://www.science.org/content/article/how-europe-can-prevent-repeat-year-s-devastating-wildfires",
+      "date": "2026-08-10 11:30",
+      "summary": "As climate change heats up the continent, experts say countries must shift focus toward preventing fires, rather than just suppres..."
+    },
+    {
+      "title": "Senate votes to block rule giving White House more control over research",
+      "link": "https://www.science.org/content/article/senate-votes-block-rule-giving-white-house-more-control-over-research",
+      "date": "2026-08-08 12:30",
+      "summary": "Language is part of bill to fund government until mid-December..."
+    },
+    {
+      "title": "Planned satellite megaconstellations could generate runaway space debris",
+      "link": "https://www.science.org/content/article/planned-satellite-megaconstellations-could-generate-runaway-space-debris",
+      "date": "2026-08-07 12:15",
+      "summary": "Modeling suggests infamous “Kessler syndrome” would make the swarms unsustainable..."
+    },
+    {
+      "title": "Global warming is coming for the countryside",
+      "link": "https://www.science.org/content/article/global-warming-coming-countryside",
+      "date": "2026-08-06 02:55",
+      "summary": "Pioneering study projects rural heat will edge closer to city swelter..."
+    },
+    {
+      "title": "DNA reveals the hidden past of North America’s bison—and keys to their future",
+      "link": "https://www.science.org/content/article/dna-reveals-hidden-past-north-america-s-bison-and-keys-their-future",
+      "date": "2026-08-06 02:00",
+      "summary": "Scientists are racing to conserve what remains of these majestic animals’ genetic diversity..."
     }
   ],
   "Retraction Watch": [
@@ -173,6 +205,12 @@
       "summary": "Microsoft plans to unveil next-generation AI chip in September, The Information reports  Reuters..."
     },
     {
+      "title": "French media asks French anti-trust watchdog to act on Google's AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDJvQkhzeGlfOGhHZTZ6V2FVZlZaRzNsbk51TlpwYms2ZzlfVnhjcTc4WDl5TjB0c2t0Yml1eEVSX2tuRHNPOWtnLWtvZFRSUkZOME5FMklZc241VE9GSkY1R2xORmt2NEVYX3FSS0U4VzM4QXJRR282VTEzazdVLTVSaWlaQXRhSHpJTHloSmR1VjhGTllKRlZWekNwSTVDTWJz?oc=5",
+      "date": "2026-08-11 11:16",
+      "summary": "French media asks French anti-trust watchdog to act on Google's AI  Reuters..."
+    },
+    {
       "title": "China bets on AI weather forecasting as extreme weather intensifies - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDhiSmhYa2hlQmQ5RGRsdldFUGRxMjVUbmtnSzhyWXUyNGdpdXh6bkJSRmI5bnIzVy1yem1mNVFjWWZfTkNOeXNqV2xhNFNLeWZ6Ty0tLTBlUzdtUFZXTzZyX3FuUFdqSlp2NENxOVlVT0tfVlpfZTZvSVhvT0MyMTktT2pPeExzQjNmNzRQLTJLV0ZwOGRRNFZMTXVJS0w0VHJpM2J3THF5TWd6bnZlbmVNSEtPNHkwOFE?oc=5",
       "date": "2026-08-11 08:01",
@@ -183,12 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5",
       "date": "2026-08-10 19:48",
       "summary": "US House Democrats press Anthropic, OpenAI about rogue AI agents  Reuters..."
-    },
-    {
-      "title": "North Korean hacking group builds AI tools for cyberattacks, report says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTM0VnQ2S3MzSjk1RTlkeFJPc3NoYVJHQjU3Y1JoQTZuU0lfWlV4Wm4xWkN6Y2JjM0E2azJYTi1YOHVXdFFzN2ZVNzhsdnhWclJyLTdFV1FmWEdWMnR4S1ctbllrT29iaFFGY3NqN0hKLVRRSlU3WWJfUTFnM3FvQ2NaUlpzU3UyN3JDckRQbmNZd3NYQ0JISjFDamR5amNUT00yNk9DQjY2ekwwZ0VxZjF3M2VwQ2RsWXVjSQ?oc=5",
-      "date": "2026-08-10 01:08",
-      "summary": "North Korean hacking group builds AI tools for cyberattacks, report says  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Want a happier marriage? Study suggests one simple habit",
-      "link": "https://phys.org/news/2026-08-happier-marriage-simple-habit.html",
-      "date": "2026-08-11 12:40",
-      "summary": "Research has long shown that exercise benefits both physical and mental health. Now, a new study from researchers at BYU suggests ..."
+      "title": "Improvisational theater, meditation and games support anxious teens",
+      "link": "https://phys.org/news/2026-08-theater-meditation-games-anxious-teens.html",
+      "date": "2026-08-11 14:20",
+      "summary": "Adolescence is a key stage of development, characterized by heightened emotional vulnerability. According to the World Health Orga..."
     },
     {
-      "title": "Australia's plastic exports may deepen health risks in Indonesian communities",
-      "link": "https://phys.org/news/2026-08-australia-plastic-exports-deepen-health.html",
-      "date": "2026-08-11 12:20",
-      "summary": "A new commentary in BMJ Global Health, co-authored by the George Institute, reveals that Australia exported 22,333 metric tons of ..."
+      "title": "A coral among the stars: New species discovered on Costa Rica's deep-sea seamounts",
+      "link": "https://phys.org/news/2026-08-coral-stars-species-costa-rica.html",
+      "date": "2026-08-11 14:00",
+      "summary": "Scientists exploring seamounts off the coast of Costa Rica have discovered a new coral so genetically and morphologically distinct..."
     },
     {
-      "title": "How barramundi research gives breeders more control",
-      "link": "https://phys.org/news/2026-08-barramundi-breeders.html",
-      "date": "2026-08-11 12:00",
-      "summary": "Barramundi farmers will soon be able to improve stock genetics by placing more emphasis on the sex of their breeding fish. Univers..."
+      "title": "Opposition to local data centers rises sharply, survey finds",
+      "link": "https://phys.org/news/2026-08-opposition-local-centers-sharply-survey.html",
+      "date": "2026-08-11 13:40",
+      "summary": "As protesters rally against data center construction in dozens of states and New York and Texas pause the issuance of permits for ..."
     },
     {
-      "title": "Historical DNA reveals largetooth sawfish have lost much of their genetic diversity",
-      "link": "https://phys.org/news/2026-08-historical-dna-reveals-largetooth-sawfish.html",
-      "date": "2026-08-11 12:00",
-      "summary": "The genetic diversity of the largetooth sawfish (Pristis pristis), a critically endangered ray, has plummeted over the past centur..."
+      "title": "Researchers develop new framework for understanding how emotions shape behavior online",
+      "link": "https://phys.org/news/2026-08-framework-emotions-behavior-online.html",
+      "date": "2026-08-11 13:20",
+      "summary": "Every day, billions of people scroll through social media posts, online reviews and news feeds filled with emotional content—from ..."
     },
     {
-      "title": "Large-scale study finds no link between crime and unauthorized immigration",
-      "link": "https://phys.org/news/2026-08-large-scale-link-crime-unauthorized.html",
-      "date": "2026-08-11 11:40",
-      "summary": "For more than two decades, Charis E. Kubrin has followed the data wherever it leads. As UC Irvine Chancellor's Professor of Crimin..."
+      "title": "Decoding smell: Study reveals how wind transforms odor signals",
+      "link": "https://phys.org/news/2026-08-decoding-reveals-odor.html",
+      "date": "2026-08-11 13:20",
+      "summary": "Humans trust dogs to help find missing people, and bees to pollinate their crops. But scientists still don't fully understand how ..."
     }
   ],
   "The Guardian Edu": [
@@ -313,10 +345,10 @@
       "summary": "Hong Kong developer Wharf (Holdings) is increasingly relying on Hong Kong’s luxury-home market to offset weakness in mainland Chin..."
     },
     {
-      "title": "Power, AC outages hit estate, office building and funeral home amid heatwave",
+      "title": "Higher energy demand from Hong Kong heatwave could trigger outages, expert warns",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3363653/power-ac-outages-hit-estate-office-building-and-funeral-home-amid-heatwave?utm_source=rss_feed",
       "date": "2026-08-11 08:50",
-      "summary": "Power supply and air-conditioning disruptions across parts of Hong Kong have left residents sweltering in the extreme heat, with o..."
+      "summary": "Power supply and air-conditioning disruptions during Hong Kong’s ongoing heatwave have affected estate residents, office workers a..."
     }
   ]
 }
