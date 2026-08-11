@@ -65,10 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "DNA replication trailblazer Teresa S.F. Wang dies at 88 - Stanford Medicine",
+      "title": "Immune cells cross blood-brain barrier during human aging - National Institutes of Health (NIH) | (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHFaV2RpdkQyTFhkUE9JcmFBNlI4dHZ1RUpXdG9oZXlzWW9zMTNmWmZheWlXaTMtVktOdzI2ZU5NTzYwUWpZYkMyV1libjRELUotb3lJZDBVbWJHd2ZrVm1qdktFVkFtanpIM1F5ZFdCY1NSX1ZKTG1tb2ZVRXVEalZESmE3ell4R3p3Q3FCTnl3YVFmNVRVUzJLWHp6YXl4SDJuU0FiLTE0eUlHSkFR?oc=5",
+      "date": "2026-08-11 17:55",
+      "summary": "Immune cells cross blood-brain barrier during human aging  National Institutes of Health (NIH) | (.gov)..."
+    },
+    {
+      "title": "DNA replication trailblazer Teresa S.F. Wang dies at 88 - med.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFpvZ0I1aDl3UE1KVmJiRnhCQkJfWG5qWTFobl9YRnEtNkktQTh5WmxkelhOdFl1N0dUTXJMZHJFYkpsYkFubnNrMy1teTEyNHFpOVRaUDhnbkhGYk9rT21oS3RlUG9WWDAzQ2RuNTNfcXdRUDZHVHgtazUxQkFhSkV0WUFOTEtZaVY5ZzBld3FfU2gwWHJJN2pIOHo4alpFX3hiand6TUNZWnc?oc=5",
       "date": "2026-08-11 21:04",
-      "summary": "DNA replication trailblazer Teresa S.F. Wang dies at 88  Stanford Medicine..."
+      "summary": "DNA replication trailblazer Teresa S.F. Wang dies at 88  med.stanford.edu..."
     },
     {
       "title": "Stanford drops Flock cameras amid national backlash - San José Spotlight",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YbElCQ2djeGV6alJsTWZtUDh6c0NPUTFFYVdvZEFJR1QtVVROdVVNTDFxbnVxb19hSjlYMnhVbXVCU09tYWRURFhOaHVHMldybTl6V3VMaTRJZ2FiX1ZDX25CVjZTTWxlc0ptamZZbGdtei1r?oc=5",
       "date": "2026-08-09 21:31",
       "summary": "Stanford ends contract with Flock cameras, switches to Genetec  The Stanford Daily..."
-    },
-    {
-      "title": "Stanford drops Flock license plate cameras after campus pushback, will use Genetec - Local News Matters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0JBVm8tSmFmR0tTWjR1UDBKTlJNVVBnN2c2MFU2TnhyS1ZySXZNdUxwSnFhV1ozREZOZV9JbHlUYmc1UXpLaXRYLThJRTBnbHBZMUVlS01sQ1JtaEplZHFDWnltNWRDUEF3cTlvNkI1OXk2WHBYZ3VJVG1sazFTVk5vdWdGOGZ1SmFNRFp2c2xFQ01JdGVLa1dfOHpEUnVIT0dTVWlkMmpHLXFsV2x3alhrR2FET2NpOWhoaEgxYw?oc=5",
-      "date": "2026-08-07 20:00",
-      "summary": "Stanford drops Flock license plate cameras after campus pushback, will use Genetec  Local News Matters..."
     }
   ],
   "Nature Careers": [
@@ -125,38 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02431-6",
       "date": "2026-08-11 00:00",
       "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02431-6Growing traffic on inland waterways could offer an opportu..."
-    }
-  ],
-  "Science News": [
-    {
-      "title": "‘Mismatched’ vaccine being rolled out against Ebola outbreak",
-      "link": "https://www.science.org/content/article/mismatched-vaccine-being-rolled-out-against-ebola-outbreak",
-      "date": "2026-08-11 05:00",
-      "summary": "Amid ethical questions, DRC proceeds with shot that may offer some protection against the Bundibugyo virus..."
-    },
-    {
-      "title": "Halted dam releases threaten Colorado river ecosystems",
-      "link": "https://www.science.org/content/article/halted-dam-releases-threaten-colorado-river-ecosystems",
-      "date": "2026-08-11 04:30",
-      "summary": "Amid severe water shortage, federal authorities canceled actions for managing fish and sandbars..."
-    },
-    {
-      "title": "Behold the “glueball,” a strange new form of matter",
-      "link": "https://www.science.org/content/article/behold-glueball-strange-new-form-matter",
-      "date": "2026-08-11 03:50",
-      "summary": "Collider in China forges elusive particle, made of force-carrying gluons..."
-    },
-    {
-      "title": "Shattered skeleton in Scottish castle is first confirmed death from trebuchet",
-      "link": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
-      "date": "2026-08-11 03:10",
-      "summary": "“Devastation” across body of 14th century warrior indicates horrific demise from flying boulder..."
-    },
-    {
-      "title": "Gut microbes may help wild horses evolve to survive harsh Canadian winters",
-      "link": "https://www.science.org/content/article/gut-microbes-may-help-wild-horses-evolve-survive-harsh-canadian-winters",
-      "date": "2026-08-11 02:30",
-      "summary": "Study is first to show that the bacteria in an animal’s gut can give it an evolutionary leg up..."
     }
   ],
   "Retraction Watch": [
@@ -207,7 +175,7 @@
     {
       "title": "Super Micro forecasts upbeat annual revenue on AI boom - Reuters",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNemJyeGtwLU1oZUFlRktXdmpLWGc5bEZHcEdBQjVxRUFlY1pueGt1WWYtVXQ2dDRhbldWRUhmSzFmVzRPZlcyVVROQnZFN3dEemRvOGRwcHpldHFJS3ZMR0toUS0xVi1NUnFYbll4WWpHendSU1paWTc2NGJuR09sdXVibzdLTERnSWN1anFKMDJVZw?oc=5",
-      "date": "2026-08-11 20:37",
+      "date": "2026-08-11 21:16",
       "summary": "Super Micro forecasts upbeat annual revenue on AI boom  Reuters..."
     },
     {
@@ -257,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
-      "link": "https://phys.org/news/2026-08-cern-conventional-gluons-atomic-nuclei.html",
-      "date": "2026-08-11 21:40",
-      "summary": "A University of Kansas physicist played a leading role in a CERN study showing that two rival explanations for how gluons behave i..."
+      "title": "Climate debate remains dominated by established voices despite social media, research finds",
+      "link": "https://phys.org/news/2026-08-climate-debate-dominated-voices-social.html",
+      "date": "2026-08-11 22:20",
+      "summary": "When social media arrived on the scene, there were high hopes that they would improve—or even \"democratize\"—communication about cl..."
     },
     {
-      "title": "As New World screwworm returns to the US, a new dashboard tracks the risk",
-      "link": "https://phys.org/news/2026-08-world-screwworm-dashboard-tracks.html",
-      "date": "2026-08-11 21:40",
-      "summary": "In the 1950s, the New World screwworm cost U.S. livestock producers tens of millions of dollars a year, reaching $50 million to $1..."
+      "title": "Porous material can arrange disordered gas molecules into a crystal-like structure, study predicts",
+      "link": "https://phys.org/news/2026-08-porous-material-disordered-gas-molecules.html",
+      "date": "2026-08-11 22:20",
+      "summary": "Capturing carbon or storing hydrogen to combat global warming requires compressing gases into sponge-like porous materials. Until ..."
     },
     {
-      "title": "Himalayan grain demonstrates the potential of pangenome-guided breeding for higher yields and adaptability",
-      "link": "https://phys.org/news/2026-08-himalayan-grain-potential-pangenome-higher.html",
-      "date": "2026-08-11 21:30",
-      "summary": "Scientists from the Centre for Crop and Food Innovation (CCFI) at Murdoch University have participated in a landmark proof-of-conc..."
+      "title": "Sorting potatoes with AI",
+      "link": "https://phys.org/news/2026-08-potatoes-ai.html",
+      "date": "2026-08-11 22:00",
+      "summary": "Karevo's AI-powered optical recognition system can sort up to 10 tons of potatoes per hour with 95% accuracy. The founder's journe..."
     },
     {
-      "title": "Reading daily ocean temperatures from red algae",
-      "link": "https://phys.org/news/2026-08-daily-ocean-temperatures-red-algae.html",
-      "date": "2026-08-11 21:20",
-      "summary": "Understanding how marine ecosystems respond to a warming ocean requires detailed records of past temperatures. An international re..."
+      "title": "Late Paleozoic Ice Age warming event hints at potential climate 'tipping point'",
+      "link": "https://phys.org/news/2026-08-late-paleozoic-ice-age-event.html",
+      "date": "2026-08-11 22:00",
+      "summary": "Researchers say a spike in temperatures during an ice age 304 million years ago could inform what climate scientists are learning ..."
     },
     {
-      "title": "Marine heat waves pose hidden threat to human health, researchers warn",
-      "link": "https://phys.org/news/2026-08-marine-pose-hidden-threat-human.html",
-      "date": "2026-08-11 21:20",
-      "summary": "The devastating impacts of marine heat waves extend far beyond dying coral reefs and declining fisheries, with new research warnin..."
+      "title": "X-ray analysis reveals the inner life of leaves while advancing engineering efforts to reduce 'crop sweat'",
+      "link": "https://phys.org/news/2026-08-ray-analysis-reveals-life-advancing.html",
+      "date": "2026-08-11 21:50",
+      "summary": "In the Midwestern summer, humans and plants have to breathe through the heat and humidity. Researchers hope that a retooled crop p..."
     }
   ],
   "The Guardian Edu": [
