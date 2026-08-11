@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "The mystery of the Chinese tea chest label",
+      "link": "https://news.mit.edu/2026/mystery-of-the-chinese-tea-chest-label-0811",
+      "date": "2026-08-11 16:30",
+      "summary": "MIT historian Tristan Brown uncovers the true origins of an artifact once thought to be a relic of the Boston Tea Party...."
+    },
+    {
       "title": "On the hunt for dark matter",
       "link": "https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811",
       "date": "2026-08-11 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/mit-researchers-tackle-economic-realities-fusion-power-0810",
       "date": "2026-08-10 04:00",
       "summary": "Their new study aims to give budding industry a framework for understanding how fusion can be profitable...."
-    },
-    {
-      "title": "Physicists watch a material’s electrons assemble, and reassemble, into coexisting phases",
-      "link": "https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807",
-      "date": "2026-08-07 09:00",
-      "summary": "The study could help scientists understand how superconductivity and other more complex phenomena emerge in quantum materials...."
     }
   ],
   "Harvard Gazette": [
@@ -51,16 +51,16 @@
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     },
     {
+      "title": "‘Harvard Thinking’: Preserving learning in the age of AI shortcuts - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd09ySGQ4RGZIbWhwcmw5bFh1a3VfaUxMb2NvU2dBQXBnT3Q1NzFYZzNaRkNOZ0pNQmVRYWlzOHZpYldWYTVFWS03aVlMXzZWV1hoSVB5LTBJN1d5a3BJZmZnMExSLV91TFBaRkNtem1wbHc2TkpEOVlaeUtRSVB0SVZxdG1uWTV5YTRUV3hMaURfX2lGaDVEQWpB?oc=5",
+      "date": "2026-02-18 08:00",
+      "summary": "‘Harvard Thinking’: Preserving learning in the age of AI shortcuts  Harvard Gazette..."
+    },
+    {
       "title": "How to help lift slumping American math scores - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVRHWUxrS21NQXhEMnp0ZnladlBjcmV6MjFjRnVJaWFEWW5WRXJqYUZHVDlfekotMVhrcjZfbzRMMkt2eVh1SktqT01ycHFsYUUyYUhxTXV1WHVlTXFER0RON1JmOXdQazZaR2xKZTlhNGxsaU9adTFUelZOZWdINUthWDhET1RKMGNhdWZTOGdHajQ?oc=5",
       "date": "2026-01-26 08:00",
       "summary": "How to help lift slumping American math scores  Harvard Gazette..."
-    },
-    {
-      "title": "‘Vibe coding’ may offer insight into our AI future - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdEhzcmpQLXFzdHRCTjMteHItZUVkdGZlRjlXdDNBa29OWFZ2OEdDcjJ5dVlFM29mRjNJdXJzN0IzcVFTM2sxUTF3NFFrRlVqVk9ERjk5NUZWb3FnZDl4bWdVbDRmbzJMWC1zeFk2U2Q3T1hyR3hEV1F3ai1LNFoxNE9BSkhuejhnMzREN2J1NTZYSXR1SzlKajl5Rmg?oc=5",
-      "date": "2026-04-01 07:00",
-      "summary": "‘Vibe coding’ may offer insight into our AI future  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -77,25 +77,31 @@
       "summary": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor  KQED..."
     },
     {
-      "title": "Stanford Appoints New Leader to Expand Impact in Early Drug Development - ascopost.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVV9NNktROGRfczB0eWlOUlVfRGZiemRpZDdJdHZhRVJKNnFUdXVzMnRwS1hKbUZNcU1wR0pqQTBNMHQxOFF3bDlDN09zVUo5ZHNkcnF5Z20yODNaUXFOUUNrM1JUUTBSQzkzTklsbG00THpma1E1SUtqM1Rld1BUdllraGdBeGtpeFpDZDZNSVJBVmhHbENXUlpTY1ZZdnlOM1BKbEdxTVhKenRwcGE0?oc=5",
-      "date": "2026-08-11 13:08",
-      "summary": "Stanford Appoints New Leader to Expand Impact in Early Drug Development  ascopost.com..."
-    },
-    {
-      "title": "Stanford ends contract with Flock cameras, switches to Genetec - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YbElCQ2djeGV6alJsTWZtUDh6c0NPUTFFYVdvZEFJR1QtVVROdVVNTDFxbnVxb19hSjlYMnhVbXVCU09tYWRURFhOaHVHMldybTl6V3VMaTRJZ2FiX1ZDX25CVjZTTWxlc0ptamZZbGdtei1r?oc=5",
-      "date": "2026-08-09 21:31",
-      "summary": "Stanford ends contract with Flock cameras, switches to Genetec  The Stanford Daily..."
+      "title": "Stanford Football: Fall Camp Press Conference | Week 3 - Stanford Cardinal",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkw5QWkwVlA0SkNvZTBteEhlaFNCOTZ5N2FVMTZqclpjMGdhb0VqZVVJWXpZd2pvSWJuUUc0U3NwRnhwZVp0Y0ZpS1A4eXhZaDB3OG1uZ0xMdC16RlFsLXYxdG1LcFdnQjcxaC1rTnludXBRYmc0SDRlNGZBTU1jNFpaZElSWkJld0FPbmltU3YzWFZjQmU1RA?oc=5",
+      "date": "2026-08-10 23:06",
+      "summary": "Stanford Football: Fall Camp Press Conference | Week 3  Stanford Cardinal..."
     },
     {
       "title": "Stanford AI Creates Synthetic Viruses in Research First - Healthcare Digital",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS3FLeExqd1NtZUlPc29tZ0trMnhSM2dLZE5rb29pYUZNLUFKenpfaXowbTFkQmNUdkExLVVNRUlTbkw5eko1UktySlRNZDExcXA1MzI1NWlENk55N01FOGQ4VlNlQ2NNNENyYzM3V3F5djh5YmZhQno3Z0N6UE90MWl6QzRKX0Q2RFdfWUJGcGRIaGxlNmc?oc=5",
       "date": "2026-08-11 07:56",
       "summary": "Stanford AI Creates Synthetic Viruses in Research First  Healthcare Digital..."
+    },
+    {
+      "title": "Stanford Appoints New Leader to Expand Impact in Early Drug Development - The ASCO Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVV9NNktROGRfczB0eWlOUlVfRGZiemRpZDdJdHZhRVJKNnFUdXVzMnRwS1hKbUZNcU1wR0pqQTBNMHQxOFF3bDlDN09zVUo5ZHNkcnF5Z20yODNaUXFOUUNrM1JUUTBSQzkzTklsbG00THpma1E1SUtqM1Rld1BUdllraGdBeGtpeFpDZDZNSVJBVmhHbENXUlpTY1ZZdnlOM1BKbEdxTVhKenRwcGE0?oc=5",
+      "date": "2026-08-11 13:08",
+      "summary": "Stanford Appoints New Leader to Expand Impact in Early Drug Development  The ASCO Post..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
+      "link": "https://www.nature.com/articles/s41586-026-10991-w",
+      "date": "2026-08-11 00:00",
+      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10991-wPhosphine-mediated azine C–H couplings with water and ammo..."
+    },
     {
       "title": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
       "link": "https://www.nature.com/articles/s41586-026-10947-0",
@@ -119,44 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02490-9",
       "date": "2026-08-11 00:00",
       "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9AI tools speed up analysis, but scientific truths must be ..."
-    },
-    {
-      "title": "How escalating costs scuppered a radio telescope at Joddrell Bank",
-      "link": "https://www.nature.com/articles/d41586-026-02380-0",
-      "date": "2026-08-11 00:00",
-      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02380-0Where to spot a basking shark and a gloomy tale about an a..."
-    }
-  ],
-  "Science News": [
-    {
-      "title": "How Europe can prevent a repeat of this year’s devastating wildfires",
-      "link": "https://www.science.org/content/article/how-europe-can-prevent-repeat-year-s-devastating-wildfires",
-      "date": "2026-08-10 11:30",
-      "summary": "As climate change heats up the continent, experts say countries must shift focus toward preventing fires, rather than just suppres..."
-    },
-    {
-      "title": "Senate votes to block rule giving White House more control over research",
-      "link": "https://www.science.org/content/article/senate-votes-block-rule-giving-white-house-more-control-over-research",
-      "date": "2026-08-08 12:30",
-      "summary": "Language is part of bill to fund government until mid-December..."
-    },
-    {
-      "title": "Planned satellite megaconstellations could generate runaway space debris",
-      "link": "https://www.science.org/content/article/planned-satellite-megaconstellations-could-generate-runaway-space-debris",
-      "date": "2026-08-07 12:15",
-      "summary": "Modeling suggests infamous “Kessler syndrome” would make the swarms unsustainable..."
-    },
-    {
-      "title": "Global warming is coming for the countryside",
-      "link": "https://www.science.org/content/article/global-warming-coming-countryside",
-      "date": "2026-08-06 02:55",
-      "summary": "Pioneering study projects rural heat will edge closer to city swelter..."
-    },
-    {
-      "title": "DNA reveals the hidden past of North America’s bison—and keys to their future",
-      "link": "https://www.science.org/content/article/dna-reveals-hidden-past-north-america-s-bison-and-keys-their-future",
-      "date": "2026-08-06 02:00",
-      "summary": "Scientists are racing to conserve what remains of these majestic animals’ genetic diversity..."
     }
   ],
   "Retraction Watch": [
@@ -193,34 +161,34 @@
   ],
   "Reuters AI": [
     {
-      "title": "Meta launches new AI model as Zuckerberg champions open-weight push - reuters.com",
+      "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
       "date": "2026-08-10 12:26",
-      "summary": "Meta launches new AI model as Zuckerberg champions open-weight push  reuters.com..."
+      "summary": "Meta launches new AI model as Zuckerberg champions open-weight push  Reuters..."
     },
     {
-      "title": "Microsoft plans to unveil next-generation AI chip in September, The Information reports - reuters.com",
+      "title": "Microsoft plans to unveil next-generation AI chip in September, The Information reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenR3bGI3XzFrd0ZXY205bU84b3ZLUFR5VEFhYjBGMEVWekNKeHhWZnJYaEE2TC1ETk9oNVZreEJDeEZWaU8zbjVVMHhNRlZjcGRQNXRXWlJOOTdFQWJ3RkNCRmVrdDJuOTl6eTRTUzRQdXNNN3g3RkdnUHp2eFlPM3lCM2xQN3NYSlJ3bmFyXzNpNHo2SzUwNGZqN0RVVjh5cjF4ZUNvWTNId1MyZG9IdkdvMzNGb1VkSUZGZXdRWQ?oc=5",
       "date": "2026-08-10 17:45",
-      "summary": "Microsoft plans to unveil next-generation AI chip in September, The Information reports  reuters.com..."
+      "summary": "Microsoft plans to unveil next-generation AI chip in September, The Information reports  Reuters..."
     },
     {
-      "title": "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPay11LURqNzhrelJLRnd1WWVEZldIR0c5eC11VjBRdmtLS1BILWY4c0xQdlpKR3ZNSzYybmVMWW4wWFA1a3BTZDBSRkRsMm1WaTdzdzFObFJxTHRELWtMZzVuSzFKYUtZaWdCTEFCbHpPTjYyR3lRV2tRRWxCTzNVTk9sT2xBSUtCc1FJSUZDbnRZdUpCekVlTWZveHZSQ0NuVG1FUnpMTjRId0FiSU81T25DSlZiTXJjbE9xZg?oc=5",
-      "date": "2026-08-11 13:19",
-      "summary": "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools  reuters.com..."
+      "title": "AI startup Manus to resume independent operations as deal with Meta unwinds - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ0dMMWNmSmw3UWpjbTRpZVBDVFMtRGNEUDFTSlJ3Y01CVXMwSUJXcENKZDdBZThWSUhCX1VlTnZUWkhWaFZxSFpLbEYtRFZJbkhlT3lPOFNXZHpwamhKQkFMU3ZEelFZbUhzaFZYemI2SXRBM0d1NWVCbjFaYlVxZXBmR3hvTWRCYXRndExjcE9GbW5DTmIwdS1tMXhMUEJIenJYS2dBRkh3dzFpX2VoeUhvVmZDRUpM?oc=5",
+      "date": "2026-08-11 15:31",
+      "summary": "AI startup Manus to resume independent operations as deal with Meta unwinds  Reuters..."
     },
     {
-      "title": "Nvidia is developing Nemotron 4 open-source models, The Information reports - reuters.com",
+      "title": "Nvidia is developing Nemotron 4 open-source models, The Information reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGVjNVRkSGR4T3Q4dTFIdW5HTURnMFhhTFV5X0MybkFJd25KUDc4Qkw4OF9LZ2FDRHFRUHIxUWlxVFgwTE9QX1VSaVVjZ0hPYktVam9JWFNEeDBjODFDZDgxbFdOQVpIbzRhOFZkWm9vb3Ryemk5NzVON2FiYi1va1gtNS1tRC1UMkhIS0x0eTd4S1ppRldfQk56cnBDUXZpanNLczFaZnFoRlpuZUdXcTB5X1FQdw?oc=5",
       "date": "2026-08-11 14:32",
-      "summary": "Nvidia is developing Nemotron 4 open-source models, The Information reports  reuters.com..."
+      "summary": "Nvidia is developing Nemotron 4 open-source models, The Information reports  Reuters..."
     },
     {
-      "title": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNC15TDEteDI0VXNtbnFkb016anJWMDJqVHRSTDlRNVNkTXFIS2NVWWlDVVVldmN1Qld0ZWIyeXowZ3d6WkFQR2YtQWN6SUU1Tzl3VFR2YmphekZzUWtCZGpsQmFWQVR4bzhEdGI1Tkxfby15cy1xVWVhWXYzQUU5WTlYWDRHc2d1azhzYXJaMHcyeGxJT0pBdU5RRXpfZG15QTJrdmRBd3hrSnlDLV9wTUdiU3U5NW5PYXBUbGJoZEdmVHBY?oc=5",
-      "date": "2026-08-10 16:34",
-      "summary": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout  reuters.com..."
+      "title": "French press body asks competition watchdog to take action over Google AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDJvQkhzeGlfOGhHZTZ6V2FVZlZaRzNsbk51TlpwYms2ZzlfVnhjcTc4WDl5TjB0c2t0Yml1eEVSX2tuRHNPOWtnLWtvZFRSUkZOME5FMklZc241VE9GSkY1R2xORmt2NEVYX3FSS0U4VzM4QXJRR282VTEzazdVLTVSaWlaQXRhSHpJTHloSmR1VjhGTllKRlZWekNwSTVDTWJz?oc=5",
+      "date": "2026-08-11 14:38",
+      "summary": "French press body asks competition watchdog to take action over Google AI  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Australian students can read, but they can't spot misinformation",
-      "link": "https://phys.org/news/2026-08-australian-students-misinformation.html",
-      "date": "2026-08-11 15:40",
-      "summary": "The good news is that the majority of Australian students have again reached proficiency standards in reading and writing literacy..."
+      "title": "Solar eclipse sparks scramble for protective glasses across Europe",
+      "link": "https://phys.org/news/2026-08-solar-eclipse-scramble-glasses-europe.html",
+      "date": "2026-08-11 17:00",
+      "summary": "The scramble for protective glasses has reached fever pitch across Europe ahead of Wednesday's rare total solar eclipse, as pharma..."
     },
     {
-      "title": "Oral nanomedicine improves cancer immunotherapy by harnessing gut bacterial metabolite",
-      "link": "https://phys.org/news/2026-08-oral-nanomedicine-cancer-immunotherapy-harnessing.html",
-      "date": "2026-08-11 15:40",
-      "summary": "A joint research team—led by professor Young Seok Cho from the School of Medicine, alongside professor James J. Moon from the Univ..."
+      "title": "Webb reveals oxygen-rich dust and water surviving near Milky Way's central black hole",
+      "link": "https://phys.org/news/2026-08-webb-reveals-oxygen-rich-surviving.html",
+      "date": "2026-08-11 17:00",
+      "summary": "Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers has discovered that dust and water can for..."
     },
     {
-      "title": "Rescued platypuses quickly return to normal lives after five months in captivity",
-      "link": "https://phys.org/news/2026-08-platypuses-quickly-months-captivity.html",
-      "date": "2026-08-11 15:20",
-      "summary": "Platypuses rescued during a severe drought quickly returned to their old routines after being released back into the wild, suggest..."
+      "title": "Egyptian blue in Iron Age Iran points to ancient connections",
+      "link": "https://phys.org/news/2026-08-egyptian-blue-iron-age-iran.html",
+      "date": "2026-08-11 16:40",
+      "summary": "Egyptian blue, considered the world's earliest synthetic pigment, was prized for its stable blue hues and served as a common blue ..."
     },
     {
-      "title": "Dolphins learn how to use tools to hunt for fish from their mothers",
-      "link": "https://phys.org/news/2026-08-dolphins-tools-fish-mothers.html",
-      "date": "2026-08-11 15:20",
-      "summary": "From spears and the invention of the wheel to smartphones and robots, human societies have been building and using tools from the ..."
+      "title": "Economic losses from natural disasters fall to $100 bn in first half of 2026: Swiss Re",
+      "link": "https://phys.org/news/2026-08-economic-losses-natural-disasters-fall.html",
+      "date": "2026-08-11 16:40",
+      "summary": "Economic losses from natural catastrophes worldwide are estimated to have reached $100 billion in the first half of this year, rei..."
     },
     {
-      "title": "Colombia earthquake has killed at least 132. My research helps explain why it was so destructive",
-      "link": "https://phys.org/news/2026-08-colombia-earthquake-destructive.html",
-      "date": "2026-08-11 15:00",
-      "summary": "Locals and officials in Colombia have begun a massive search and rescue effort to find survivors of a powerful earthquake that str..."
+      "title": "Too hot to live? French buyers rethink housing choices after heat waves",
+      "link": "https://phys.org/news/2026-08-hot-french-buyers-rethink-housing.html",
+      "date": "2026-08-11 16:20",
+      "summary": "After multiple severe heat waves in a single summer, French residents are increasingly factoring high temperatures into their home..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong urges parents not to delay childhood vaccinations as US limits jabs",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3363696/hong-kong-urges-parents-not-delay-childhood-vaccinations-us-limits-jabs?utm_source=rss_feed",
+      "date": "2026-08-11 16:02",
+      "summary": "Hong Kong authorities have defended the city’s childhood vaccination programme after the United States scaled back its immunisatio..."
+    },
+    {
       "title": "Baptist University reviews IT security after ransomware group claims breach",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363695/baptist-university-reviews-it-security-after-ransomware-group-claims-breach?utm_source=rss_feed",
       "date": "2026-08-11 15:22",
@@ -343,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3363679/search-under-way-missing-cruise-passenger-hong-kong-mega-bridge?utm_source=rss_feed",
       "date": "2026-08-11 11:28",
       "summary": "Hong Kong authorities have launched a search in waters west of the city for a man believed to have fallen overboard from a sightse..."
-    },
-    {
-      "title": "New Hong Kong trade office in Malaysia a bridge to Greater Bay Area: minister",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363678/opening-hong-kong-trade-office-malaysia-creates-bridge-greater-bay-area?utm_source=rss_feed",
-      "date": "2026-08-11 11:20",
-      "summary": "Hong Kong has opened a new trade office in Malaysia, with a minister saying the move is part of a strategic push to deepen regiona..."
     }
   ]
 }
