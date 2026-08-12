@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Astronomers discover a brand-new type of astrophysical object: A black hole star",
+      "link": "https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812",
+      "date": "2026-08-12 15:00",
+      "summary": "The mashup of a black hole and an enormous star has never been seen before and could explain the mysterious little red dots often ..."
+    },
+    {
       "title": "How to design a space habitat that supports its residents’ mental health",
       "link": "https://news.mit.edu/2026/how-space-habitat-design-supports-its-residents-mental-health-0812",
       "date": "2026-08-12 09:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
       "date": "2026-08-10 19:25",
       "summary": "“GeoPT” helps AI models understand the basics of physics so they can simulate how objects respond to things like wind and water mo..."
-    },
-    {
-      "title": "High-orbit satellites could light the way for travel to the moon",
-      "link": "https://news.mit.edu/2026/high-orbit-satellites-could-light-way-for-travel-to-moon-0810",
-      "date": "2026-08-10 18:10",
-      "summary": "Acting as cooperative optical beacons, the satellites could provide GPS-like navigation and communications support for spacecraft ..."
     }
   ],
   "Harvard Gazette": [
@@ -83,48 +83,48 @@
       "summary": "Immune cells cross blood-brain barrier during human aging  National Institutes of Health (NIH) | (.gov)..."
     },
     {
+      "title": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor - KQED",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1NHNk9IZzJYd0xCUF9GRVFJM0xXbFhOTzlpTUpVVVVMS3dTVXQxaThFWjhSWlZQcTRlZVk3UzdjWnJwUEZOVTVFSmNTd3Q3YUJIaUl3Sl9YTGxkcGIxc25CRC00VzNmMDI3WklXb2ZlSkRzeTBLOTBBc2tETUFFNFNYcTcxclZHTmJwa3dwaGNoVzROY2RxUk5uanJTTzhHblducW5za1A?oc=5",
+      "date": "2026-08-07 19:09",
+      "summary": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor  KQED..."
+    },
+    {
       "title": "Stanford drops Flock cameras amid national backlash - San José Spotlight",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFRKVUpKSFlyZ2J3bVg2Mm1HSjF3eGNtVlZDV1k0TmNzVlJ2c0xxd0ZFMUF1Q2VsVG8tRUlFeG4zMjNFYjhmRHNDWDAzbDY2TzVnal9NWHNUNjYzSGpSNUFlYl9XaktSQ3RwVHVjMGlqYUd0dmVsZVZ4WUw5cDV4b2ZIWHpCYzJF?oc=5",
       "date": "2026-08-11 21:34",
       "summary": "Stanford drops Flock cameras amid national backlash  San José Spotlight..."
-    },
-    {
-      "title": "Stanford ends contract with Flock cameras, switches to Genetec - stanforddaily.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YbElCQ2djeGV6alJsTWZtUDh6c0NPUTFFYVdvZEFJR1QtVVROdVVNTDFxbnVxb19hSjlYMnhVbXVCU09tYWRURFhOaHVHMldybTl6V3VMaTRJZ2FiX1ZDX25CVjZTTWxlc0ptamZZbGdtei1r?oc=5",
-      "date": "2026-08-09 21:31",
-      "summary": "Stanford ends contract with Flock cameras, switches to Genetec  stanforddaily.com..."
     }
   ],
   "Nature Careers": [
     {
-      "title": "A controversial Alzheimer’s surgery is said to reverse symptoms — here’s what scientists know",
-      "link": "https://www.nature.com/articles/d41586-026-02448-x",
+      "title": "Model-free multiparametric analysis of SHG images reveals collagen signatures in breast cancer",
+      "link": "https://www.nature.com/articles/s41598-026-62801-y",
       "date": "2026-08-12 00:00",
-      "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02448-xJaw-dropping patient videos and miraculous testimonials ig..."
+      "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41598-026-62801-yModel-free multiparametric analysis of SHG images reveals ..."
     },
     {
-      "title": "System lag",
-      "link": "https://www.nature.com/articles/d41586-026-02408-5",
+      "title": "Development of samarium-153 oxide loaded polystyrene radiotracer particles for gamma scintigraphy of whole gastrointestinal transit study",
+      "link": "https://www.nature.com/articles/s41598-026-66901-7",
       "date": "2026-08-12 00:00",
-      "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02408-5Out of place...."
+      "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41598-026-66901-7Development of samarium-153 oxide loaded polystyrene radio..."
     },
     {
-      "title": "A particle made of force: physicists say they’ve found mysterious ‘glueball’",
-      "link": "https://www.nature.com/articles/d41586-026-02498-1",
+      "title": "AlzheiNN: a convolutional neural network-based model for Alzheimer’s disease classification",
+      "link": "https://www.nature.com/articles/s41598-026-64954-2",
       "date": "2026-08-12 00:00",
-      "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02498-1Scientists have predicted the existence of a particle made..."
+      "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41598-026-64954-2AlzheiNN: a convolutional neural network-based model for A..."
     },
     {
-      "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
-      "link": "https://www.nature.com/articles/s41586-026-10991-w",
-      "date": "2026-08-11 00:00",
-      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10991-wPhosphine-mediated azine C–H couplings with water and ammo..."
+      "title": "Service trade liberalization and manufacturing value chain upgrading: a quasi-natural experiment from China",
+      "link": "https://www.nature.com/articles/s41599-026-08691-x",
+      "date": "2026-08-12 00:00",
+      "summary": "Nature, Published online: 12 August 2026; doi:10.1057/s41599-026-08691-xService trade liberalization and manufacturing value chain..."
     },
     {
-      "title": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
-      "link": "https://www.nature.com/articles/s41586-026-10947-0",
-      "date": "2026-08-11 00:00",
-      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10947-0Author Correction: Uncovering the role of LINE-1 in the ev..."
+      "title": "The impact of CEOs’ multidisciplinary backgrounds on corporate financing and investment maturity mismatch",
+      "link": "https://www.nature.com/articles/s41599-026-08677-9",
+      "date": "2026-08-12 00:00",
+      "summary": "Nature, Published online: 12 August 2026; doi:10.1057/s41599-026-08677-9The impact of CEOs’ multidisciplinary backgrounds on corpo..."
     }
   ],
   "Retraction Watch": [
@@ -185,24 +185,24 @@
       "summary": "AI startup Manus to resume independent operations as deal with Meta unwinds  Reuters..."
     },
     {
-      "title": "China bets on AI weather forecasting as extreme weather intensifies - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDhiSmhYa2hlQmQ5RGRsdldFUGRxMjVUbmtnSzhyWXUyNGdpdXh6bkJSRmI5bnIzVy1yem1mNVFjWWZfTkNOeXNqV2xhNFNLeWZ6Ty0tLTBlUzdtUFZXTzZyX3FuUFdqSlp2NENxOVlVT0tfVlpfZTZvSVhvT0MyMTktT2pPeExzQjNmNzRQLTJLV0ZwOGRRNFZMTXVJS0w0VHJpM2J3THF5TWd6bnZlbmVNSEtPNHkwOFE?oc=5",
-      "date": "2026-08-11 07:58",
-      "summary": "China bets on AI weather forecasting as extreme weather intensifies  Reuters..."
+      "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
+      "date": "2026-08-10 12:26",
+      "summary": "Meta launches new AI model as Zuckerberg champions open-weight push  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "The Download: our 35 young innovators and the “censorship-industrial complex” - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjVyaV8yaUpaZkw3aGNiaFltSXBmZkVDZjU2Vjk2YlRaS212ZU1fRElKYTh5YmQyR1dFVFU2N01fQ1ZXS2ZSNVRSXzZlbjlqZEg3T0o3RGZWQ2JXbTJzdzhaUWU5bUVHTU9sS2tSRXJMX3p5T2ozbmlJdkVndkV2UWM3TFNTZUcwVG0xYjh2U0lQcXJ1SzhvblZpSXBDSFJpZ3RXZ1llenFrd2I1b2VPWHhZV09Kd9IBuwFBVV95cUxPNUg0eG16cFpITkR3d2oyNFQ3eUtoOHZacG5ZempfcUtqbWc0VzZpNUlQY3FodF9fZXB1eFFqTmJwVWNUUXhwTnl1QmpQelp5NWdIRXh0d0hESWprb3dRNllPZzNFNGlrNkEzbkR0WFVpU0MyVVNpNnBraGloOTlQbVgzcURYMzQzLV90R2RfMkRwMkJvQy1VWmRFajF4VTQzakpGbUtORlIzRVYyODQ5MktacEV0Nk0yVldN?oc=5",
-      "date": "2026-08-12 12:10",
-      "summary": "The Download: our 35 young innovators and the “censorship-industrial complex”  MIT Technology Review..."
-    },
     {
       "title": "How we picked 35 of the world’s top young scientists and engineers - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1F0bVdINV9iZnZKZTgyVG55a1B4NEl4RzFNMGxaWml6dHhFaEtDcWxpaXRpUHlyUE42eFdLVGszRW9Hd2NNWFlGdGdwMEUtbXh5SEg2ZVNoUUxvY2Y0WWVXWHpRX0tnNVY4UUNsdFY1UXVOYkZDam1XNHhVTXRUNC1uLWppbFpFN1otM0JEWUx3UWgwSURVTmFDQzN5OXFDdUtjb0g2VF94ek5x0gGyAUFVX3lxTE5oVExhZVA0SEpGZEdwNXp1NXNXUXByb0xkelg5U0lCVzFBb0NVMHNvZlVEektpb09ZWVJobTFUWC1VbmJPWk9MdG15bTZrN3UwaWQzdEt6ZjlIbkdzeURWd28tVm1KSjhSV1RwYzR0SnVpdUF0ZU50Rm15UDZKN2RQd2hyX3c3SlJWMHlGSmdqLThnYW1WMGt5M25RZ0Y5N2tpY1BZOGUybHlkeGdyTUVZWEE?oc=5",
       "date": "2026-08-12 09:08",
       "summary": "How we picked 35 of the world’s top young scientists and engineers  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: our 35 young innovators and the “censorship-industrial complex” - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjVyaV8yaUpaZkw3aGNiaFltSXBmZkVDZjU2Vjk2YlRaS212ZU1fRElKYTh5YmQyR1dFVFU2N01fQ1ZXS2ZSNVRSXzZlbjlqZEg3T0o3RGZWQ2JXbTJzdzhaUWU5bUVHTU9sS2tSRXJMX3p5T2ozbmlJdkVndkV2UWM3TFNTZUcwVG0xYjh2U0lQcXJ1SzhvblZpSXBDSFJpZ3RXZ1llenFrd2I1b2VPWHhZV09Kd9IBuwFBVV95cUxPNUg0eG16cFpITkR3d2oyNFQ3eUtoOHZacG5ZempfcUtqbWc0VzZpNUlQY3FodF9fZXB1eFFqTmJwVWNUUXhwTnl1QmpQelp5NWdIRXh0d0hESWprb3dRNllPZzNFNGlrNkEzbkR0WFVpU0MyVVNpNnBraGloOTlQbVgzcURYMzQzLV90R2RfMkRwMkJvQy1VWmRFajF4VTQzakpGbUtORlIzRVYyODQ5MktacEV0Nk0yVldN?oc=5",
+      "date": "2026-08-12 12:10",
+      "summary": "The Download: our 35 young innovators and the “censorship-industrial complex”  MIT Technology Review..."
     },
     {
       "title": "These startups are chasing the next big thing in LLMs - MIT Technology Review",
@@ -217,56 +217,62 @@
       "summary": "How the “censorship-industrial complex” is changing the Internet and US policy  MIT Technology Review..."
     },
     {
-      "title": "AI professors are negotiating the new realities of academic research - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkhYeGEwcmo4YlpsSzlMQzhuU0tkOV9ZeVFYVE5INWdGcmVJQ0Zhb1cxbm1RMF9iOGpDT2YtNkRadmFmU0pfU01mNEQxdzBxd2RKQUdOMUtKQ2JSMkhyMUl6SE8tTFA4ZFdqeHg0S2pwUlVTTnNxTXpKeUJ2NGttLTJ1ZkxDdHI5eHVlMFREemJ5cVVqQVZoaE5HakJHbmR0UTRqZGZ5cWd1aEZJcTdzNXJQWWs2aHVUQUswZDBB0gHDAUFVX3lxTE9EWkhvdHRVU1JacExMTUpBQVJQLXE1Y3RaNE1aZl93TkkwazRqMUxXcnp0U1Qzdnp4a3ZwNUs4QTg1eS1vVWR0XzhZamt6dkpjeHgxU3ZPSkRCeTJ4TldCNjdjRDhtQjEtWFlFRGZHU1ROdEgwQjRUWFdMSzluaFBkYzBCUnFBdlRiTDZsR003b3VNSHNfeHh0Vnp6bHdsZlVGSktDNV94Wjlvb1dzVnFKbHZyWDJ1RG1OUGNIX3ZiM3M2RQ?oc=5",
-      "date": "2026-08-10 20:00",
-      "summary": "AI professors are negotiating the new realities of academic research  MIT Technology Review..."
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTW5QdURsU1E3bG1OZ3NyVFEwSzlwV2Rsa0VnV2JmR3JNdHgwSDRTQmlLbW40NGJ0ZmN6ekkyd2JURHA5R0h5cWxWdEFlb2pxOWY2N1lEczJrVjNhM0JGU0VleGlvanNOX2hhUC1MbDJ5QzRlSTNSTUJqd29HSkJ6YXJuNnlNZ05vT1BYVlhzeE8zbDBvcG1LcWxiRHczZmtyUzBNSGRMTlM0ODBvNFY3Z0dBRTdYd9IBuwFBVV95cUxOTUY3emNIcG9vS0ZBWmVSSVVQa2kwMmd6UWlGclZ0X0t5Y21idkJuWkpEQm5mTV9ob05sd1dENlZTMlZuUGhfNUdSbUVMeFVSTUpFdXU0ODB4el85WU53VkE0MFdoUDB0VVRZUUpCajdCLWE3b1hpU1NhdExBRTQ4eUFjUlROVE1uTUVYNGp4dzY3dnZzTDVSTkVlUFJDSUF3ckJYZWJJVDk1S1I5al9IWm56cVk4d3NhUVVV?oc=5",
+      "date": "2026-08-11 12:10",
+      "summary": "The Download: the next big thing in LLMs and how AI academic research is shifting  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Unfamiliar with rattlesnakes, blackbirds still avoid striking them while defending nests",
-      "link": "https://phys.org/news/2026-08-unfamiliar-rattlesnakes-blackbirds-defending.html",
-      "date": "2026-08-12 14:40",
-      "summary": "In a rare study of snakes as nest predators, scientists found nesting birds were loath to strike rattlesnakes even though they lik..."
+      "title": "Community involvement essential for local decarbonization schemes to work, researchers say",
+      "link": "https://phys.org/news/2026-08-community-involvement-essential-local-decarbonization.html",
+      "date": "2026-08-12 15:50",
+      "summary": "Place-based decarbonization schemes designed to help communities become more sustainable must involve local people earlier and con..."
     },
     {
-      "title": "Agricultural data helping develop tools for crop disease management",
-      "link": "https://phys.org/news/2026-08-agricultural-tools-crop-disease.html",
-      "date": "2026-08-12 14:40",
-      "summary": "The North Dakota Agricultural Weather Network—known as NDAWN—isn't just measuring precipitation amounts and temperatures across th..."
+      "title": "How to enjoy the solar eclipse safely",
+      "link": "https://phys.org/news/2026-08-enjoy-solar-eclipse-safely.html",
+      "date": "2026-08-12 15:41",
+      "summary": "Most people underestimate how much light a pair of sunglasses blocks out. A typical dark pair removes around 80% to 90% of the vis..."
     },
     {
-      "title": "The internet can't get enough of cats, but cats might have had enough of the internet",
-      "link": "https://phys.org/news/2026-08-internet-cats.html",
-      "date": "2026-08-12 14:20",
-      "summary": "According to new research, viewers often dismiss, trivialize or even romanticize signs of cat distress during \"play\" interactions,..."
+      "title": "What happens to nanoparticles when they enter the bloodstream?",
+      "link": "https://phys.org/news/2026-08-nanoparticles-bloodstream.html",
+      "date": "2026-08-12 15:40",
+      "summary": "The use of nanoparticles in drug delivery offers key advantages: they can enable targeted drug delivery, protect active ingredient..."
     },
     {
-      "title": "Quality control of proteins in the cellular membrane starts at the ribosome",
-      "link": "https://phys.org/news/2026-08-quality-proteins-cellular-membrane-ribosome.html",
-      "date": "2026-08-12 14:20",
-      "summary": "Scientists at the Center for Molecular Medicine Cologne (CMMC) and the CECAD Cluster of Excellence on Aging Research have demonstr..."
+      "title": "Hurricane Hunter data reveal early signs of strengthening tropical cyclones",
+      "link": "https://phys.org/news/2026-08-hurricane-hunter-reveal-early-tropical.html",
+      "date": "2026-08-12 15:20",
+      "summary": "Before tropical cyclones can significantly strengthen, they generally must first become vertically aligned, with their rotating ce..."
     },
     {
-      "title": "Arctic cyclone clusters batter sea ice, leaving coasts more exposed to storms",
-      "link": "https://phys.org/news/2026-08-arctic-cyclone-clusters-batter-sea.html",
-      "date": "2026-08-12 14:00",
-      "summary": "In the Arctic, weather plays a key role in determining how much ice covers the ocean. Arctic cyclones are one weather phenomenon w..."
+      "title": "River shipping emits nearly one-quarter of global shipping CO₂, analysis finds",
+      "link": "https://phys.org/news/2026-08-river-shipping-emits-quarter-global.html",
+      "date": "2026-08-12 15:20",
+      "summary": "River and canal ships generate roughly a quarter of the world's shipping carbon dioxide emissions, according to new research publi..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Cambridge agrees to hold independent inquiry into Jason Arday appointment",
+      "link": "https://www.theguardian.com/education/2026/aug/12/cambridge-independent-inquiry-jason-arday-appointment",
+      "date": "2026-08-12 15:09",
+      "summary": "Vice-chancellor Deborah Prentice says she recognises the ‘difficult case’ has damaged the universityCambridge University’s leaders..."
+    },
+    {
+      "title": "‘Always cracking jokes’: questions raised over Jason Arday’s claim he was non-verbal as a child",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/12/jason-arday-cambridge-claim-non-verbal-child",
+      "date": "2026-08-12 15:00",
+      "summary": "Fellow pupils at his primary school have challenged Cambridge academic’s story, though others support itThe story of Jason Arday’s..."
+    },
     {
       "title": "Jason Arday’s life may be a warped fantasy. But so is this conversation around DEI",
       "link": "https://www.theguardian.com/news/2026/aug/12/jason-arday-life-conversation-dei",
       "date": "2026-08-12 12:49",
       "summary": "Cambridge’s youngest Black professor has resigned. But the discourse around his departure is rooted in its own distorted reality• ..."
-    },
-    {
-      "title": "Cambridge agrees to hold independent inquiry into Jason Arday appointment",
-      "link": "https://www.theguardian.com/education/2026/aug/12/cambridge-independent-inquiry-jason-arday-appointment",
-      "date": "2026-08-12 12:15",
-      "summary": "Vice-chancellor Deborah Prentice says she recognises the ‘difficult case’ has damaged the universityCambridge University’s leaders..."
     },
     {
       "title": "University of Cambridge whistleblower who reported alleged bullying wins employment tribunal",
@@ -279,15 +285,15 @@
       "link": "https://www.theguardian.com/education/2026/aug/10/government-piling-debt-on-to-future-graduates-in-england-analysis-finds",
       "date": "2026-08-10 05:00",
       "summary": "Exclusive: Analysis finds cost of higher education ‘falls overwhelmingly on the individual’The government is piling mountains of d..."
-    },
-    {
-      "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ in sector across England",
-      "link": "https://www.theguardian.com/education/2026/aug/09/parents-baby-killed-in-care-poor-practice-rife-nurseries-england",
-      "date": "2026-08-09 13:00",
-      "summary": "Katie and John Meehan say responses to campaign they launched after death of daughter Genevieve must be ‘wake-up call’The parents ..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Hong Kong baby food producer recalls pastas over rice weevil scare",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3363822/hong-kong-baby-food-producer-recalls-pastas-congee-over-rice-weevil-scare?utm_source=rss_feed",
+      "date": "2026-08-12 15:12",
+      "summary": "A Hong Kong baby food producer has voluntarily recalled several products from store shelves as a precaution after parents and onli..."
+    },
     {
       "title": "Hong Kong’s subdivided flats are turning into heat traps. But what’s the fix?",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3363821/hong-kongs-subdivided-flats-are-turning-heat-traps-whats-fix?utm_source=rss_feed",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363812/i-had-planned-stay-life-last-villagers-prepare-leave-cha-kwo-ling?utm_source=rss_feed",
       "date": "2026-08-12 12:47",
       "summary": "Nestled within thick, verdant foliage in Cha Kwo Ling is one of Hong Kong’s last squatter settlements, where a handful of remainin..."
-    },
-    {
-      "title": "Paraguay opens probe into Hong Kong-born crypto exec’s death",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363813/paraguay-probe-hong-kong-born-crypto-execs-death-triggers-wrench-attack-warning?utm_source=rss_feed",
-      "date": "2026-08-12 12:28",
-      "summary": "Police in Paraguay have launched an investigation into the death of a Hong Kong-born cryptocurrency fund executive as speculation ..."
     }
   ]
 }
