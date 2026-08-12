@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT selected to lead new NSF materials research center",
+      "link": "https://news.mit.edu/2026/mit-to-lead-nsf-materials-research-center-0812",
+      "date": "2026-08-12 20:15",
+      "summary": "The Materials Research Science and Engineering Center unites researchers across disciplines to develop technologies for medical im..."
+    },
+    {
       "title": "Astronomers discover a brand-new type of astrophysical object: A black hole star",
       "link": "https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812",
       "date": "2026-08-12 15:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811",
       "date": "2026-08-11 04:00",
       "summary": "From Broadway to MIT’s Laboratory for Nuclear Science, PhD student Jessica Fry doesn’t do anything halfway. Now she’s hunting for ..."
-    },
-    {
-      "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
-      "link": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
-      "date": "2026-08-10 19:25",
-      "summary": "“GeoPT” helps AI models understand the basics of physics so they can simulate how objects respond to things like wind and water mo..."
     }
   ],
   "Harvard Gazette": [
@@ -83,16 +83,16 @@
       "summary": "Immune cells cross blood-brain barrier during human aging  National Institutes of Health (NIH) | (.gov)..."
     },
     {
+      "title": "California Gave Schools More Autonomy. The Result Is a Warning for Every Executive - inc.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGFpVXpabEZoYlRUTURxb0hqWFNZMU90ZEw0djJ2TmNNY2xzSkZBVzBXZTNZeG51T0VSaG9sOVVPVEJOVzUzX2YwMmdTdW9mVFRlaXFEaFNGVzlpMjczS3RxNE5fNTVrQVMyaGwxOVV4dXpiZFdUYmgwTEwyQldHNEM2R0JUVDIyYTVTYVVEQkR0RDlUczhlb2lmNXZOS0ItakZsQmY4UkNWdnRmd3JVSXBLSlprZ2Fvc3J4aDZWMnU?oc=5",
+      "date": "2026-08-12 19:55",
+      "summary": "California Gave Schools More Autonomy. The Result Is a Warning for Every Executive  inc.com..."
+    },
+    {
       "title": "Stanford replaces Flock cameras as it seeks tighter control over vehicle data - The Cool Down",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkZ2anZmRVpOVnZMRTRKcFo5dWQ4VGVyUXpmNHM4bUtoS19YbXNPU25OUUJMMG1MVjZfNGZsd21NMDVTWlYtYVVqMG1XS1A2TEJHMkFpRTk2YzNkSlFFeUVYZEVxWGFad29Nc0ZMM0owT0RnM0xidS1VV1RsbUVObF93?oc=5",
       "date": "2026-08-12 15:59",
       "summary": "Stanford replaces Flock cameras as it seeks tighter control over vehicle data  The Cool Down..."
-    },
-    {
-      "title": "Stanford drops Flock cameras amid national backlash - San José Spotlight",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFRKVUpKSFlyZ2J3bVg2Mm1HSjF3eGNtVlZDV1k0TmNzVlJ2c0xxd0ZFMUF1Q2VsVG8tRUlFeG4zMjNFYjhmRHNDWDAzbDY2TzVnal9NWHNUNjYzSGpSNUFlYl9XaktSQ3RwVHVjMGlqYUd0dmVsZVZ4WUw5cDV4b2ZIWHpCYzJF?oc=5",
-      "date": "2026-08-11 21:34",
-      "summary": "Stanford drops Flock cameras amid national backlash  San José Spotlight..."
     }
   ],
   "Nature Careers": [
@@ -115,16 +115,16 @@
       "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10774-3Pre-clinical data interpretation requires clinical context..."
     },
     {
-      "title": "The probiotic bacteria engineered to treat diabetes",
-      "link": "https://www.nature.com/articles/d41586-026-02521-5",
+      "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
+      "link": "https://www.nature.com/articles/d41586-026-02463-y",
       "date": "2026-08-12 00:00",
-      "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02521-5Genetically modified bacteria lower high blood-sugar in an..."
+      "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02463-yAirborne camera gathers data about the high-energy particl..."
     },
     {
-      "title": "Dataset artefacts can partially drive the measured decline in disruption",
-      "link": "https://www.nature.com/articles/s41586-026-10787-y",
+      "title": "Rattlesnakes’ own anti-venom could protect humans too",
+      "link": "https://www.nature.com/articles/d41586-026-02461-0",
       "date": "2026-08-12 00:00",
-      "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10787-yDataset artefacts can partially drive the measured decline..."
+      "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02461-0A mixture of proteins in snake blood can prevent the death..."
     }
   ],
   "Retraction Watch": [
@@ -161,10 +161,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "CoreWeave, Super Micro surge on signs of sustained AI buildout - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1NWQ1duSk1Sa2xQVHlVZjFyUUVmUDJleTJkOG9vM05LUjk4aWtsaUZoUTY2eWdWY2ZKcGNjaVd5Z0lULTFMNlBEeDhTWl84Q05vb0kzMjB6RjVtRkNTYmIyRkFOLWhDLWdHU2loU2ZTY0o5TURxTUFpb0hWejN6NG9VNE5RTTFTMmJzTVBYa3Q4RjhCRXpjek9LOTdnV01RRHc?oc=5",
-      "date": "2026-08-12 15:47",
-      "summary": "CoreWeave, Super Micro surge on signs of sustained AI buildout  Reuters..."
+      "title": "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRVpwRkdGZzNfNjRzOXlvbDZ2Wm50RlMyZFNMT0M5bE9MSzdocDdJWmV1cmVSNHhhdmFZU3RyZkgwazREdVNhbm5qSmswZ0pDd3lhU2dMOFlYdDBvcXVSdXpzWm90Y2dkZzJFalNhbW1BdndQWm55b3FfTzMyYjR1azQ5b2tKS2lNeThwWlBPd0lFVUp1YmFSOTgzSWNJUjVnd1JablFKZ2RJWGZ2Vzc5S3BOWFJSVjF6aVJNYw?oc=5",
+      "date": "2026-08-12 14:50",
+      "summary": "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round  Reuters..."
     },
     {
       "title": "Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports - Reuters",
@@ -175,20 +175,20 @@
     {
       "title": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5",
-      "date": "2026-08-12 18:43",
+      "date": "2026-08-12 20:42",
       "summary": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle  Reuters..."
     },
     {
-      "title": "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRVpwRkdGZzNfNjRzOXlvbDZ2Wm50RlMyZFNMT0M5bE9MSzdocDdJWmV1cmVSNHhhdmFZU3RyZkgwazREdVNhbm5qSmswZ0pDd3lhU2dMOFlYdDBvcXVSdXpzWm90Y2dkZzJFalNhbW1BdndQWm55b3FfTzMyYjR1azQ5b2tKS2lNeThwWlBPd0lFVUp1YmFSOTgzSWNJUjVnd1JablFKZ2RJWGZ2Vzc5S3BOWFJSVjF6aVJNYw?oc=5",
-      "date": "2026-08-12 14:50",
-      "summary": "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round  Reuters..."
+      "title": "Cisco forecasts annual revenue above estimates on sustained AI spending - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFNjVWhZOGJVZzBrMDdXRC13NkM3cW9lMjlicDZZc3duZXNTLWlZTEhBTDJuWTJvV3pkbEdoUWd2VVFmTWlCTTFCVlJjOFFsTXB3Y0JBZHROZExiUU4xZm1mbkhOSHF4MVRfdXpEdWp3NFdlbnhpQk5kSklmX3Y3cW5ockRIT0VSeWdWMQ?oc=5",
+      "date": "2026-08-12 20:16",
+      "summary": "Cisco forecasts annual revenue above estimates on sustained AI spending  Reuters..."
     },
     {
-      "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
-      "date": "2026-08-10 12:26",
-      "summary": "Meta launches new AI model as Zuckerberg champions open-weight push  Reuters..."
+      "title": "CoreWeave, Super Micro surge on signs of sustained AI buildout - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1NWQ1duSk1Sa2xQVHlVZjFyUUVmUDJleTJkOG9vM05LUjk4aWtsaUZoUTY2eWdWY2ZKcGNjaVd5Z0lULTFMNlBEeDhTWl84Q05vb0kzMjB6RjVtRkNTYmIyRkFOLWhDLWdHU2loU2ZTY0o5TURxTUFpb0hWejN6NG9VNE5RTTFTMmJzTVBYa3Q4RjhCRXpjek9LOTdnV01RRHc?oc=5",
+      "date": "2026-08-12 15:47",
+      "summary": "CoreWeave, Super Micro surge on signs of sustained AI buildout  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -205,10 +205,10 @@
       "summary": "The Download: our 35 young innovators and the “censorship-industrial complex”  MIT Technology Review..."
     },
     {
-      "title": "How we picked 35 of the world’s top young scientists and engineers - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1F0bVdINV9iZnZKZTgyVG55a1B4NEl4RzFNMGxaWml6dHhFaEtDcWxpaXRpUHlyUE42eFdLVGszRW9Hd2NNWFlGdGdwMEUtbXh5SEg2ZVNoUUxvY2Y0WWVXWHpRX0tnNVY4UUNsdFY1UXVOYkZDam1XNHhVTXRUNC1uLWppbFpFN1otM0JEWUx3UWgwSURVTmFDQzN5OXFDdUtjb0g2VF94ek5x0gGyAUFVX3lxTE5oVExhZVA0SEpGZEdwNXp1NXNXUXByb0xkelg5U0lCVzFBb0NVMHNvZlVEektpb09ZWVJobTFUWC1VbmJPWk9MdG15bTZrN3UwaWQzdEt6ZjlIbkdzeURWd28tVm1KSjhSV1RwYzR0SnVpdUF0ZU50Rm15UDZKN2RQd2hyX3c3SlJWMHlGSmdqLThnYW1WMGt5M25RZ0Y5N2tpY1BZOGUybHlkeGdyTUVZWEE?oc=5",
-      "date": "2026-08-12 09:08",
-      "summary": "How we picked 35 of the world’s top young scientists and engineers  MIT Technology Review..."
+      "title": "Scientists just created female clones of male mice - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUTFzNGwydmZESF84RHF2bS1zRW8tX2hjZzJ2SnZzWTFfY3pFUGVad2tTUnB4SGsxU1o3RUlaM2YxUVBCMF9aV1NLQ3h4YlBWU3BqSzZFWTBxMmdLOERLZi1pYnR1TGFHZEF3UDdkSWNEelFVQ3FlcGhWRURfY05qbzhpMVpQYkZvMVd3bWxZekZQZkdKNmpJODB4MDVuX01yckNUd0xR0gGrAUFVX3lxTE1rQXZxay1BQU9YcVFiSnpmQ25hNmRrWWxaMGRXREhpeXVIWUxYemY0S0tsVkQ5UzlJU0hsQk1nS2ZkdFBFOXBMSjVleHFVaXlWMnhjbHF2VHRrRUgwRG5TNENsWjNDaUc2NFpCdk5iMk01ZDUzSHptSDRoZjF3VXZRdzhOMFVUV0JvU3RNYTRzeHhfVUYwbWVHZG8zT3lvUm1uc3Z3cVJGZVV5OA?oc=5",
+      "date": "2026-08-12 18:59",
+      "summary": "Scientists just created female clones of male mice  MIT Technology Review..."
     },
     {
       "title": "These startups are chasing the next big thing in LLMs - MIT Technology Review",
@@ -217,42 +217,42 @@
       "summary": "These startups are chasing the next big thing in LLMs  MIT Technology Review..."
     },
     {
-      "title": "AI for science needs reasoning, not just data - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkREdkNWswa3JTbHpFQ3c1UWxhOXNaTFE1bHR5T2g0b0F5RmJTdUJLMEFzR1pYaWRURjQxWS13TUJQSFNrTDNYUTdkdlZlLUVOVWNXUWhkcF9aUnVzbFl3VFZfbFp1Sm9uV3U1Wk1maHNzdTl2YVZnN19uTm9JXzTSAYQBQVVfeXFMTklybzZMNGJ5ZndXX1oxYzhKTG50cEVrLWJVZ1RiRUd6aFpKVFJZTWNTNjBCRGpaZFRycFYyb2tSTHNhZXVKVl9xaV9OLU1CenVKNU5iZlBPaXJlSEEyWFJFeVFKbC14M2p6WnpIZUFYS2EzZVdaTXJVVDllT1FyTWNiQy1O?oc=5",
-      "date": "2026-08-10 09:00",
-      "summary": "AI for science needs reasoning, not just data  MIT Technology Review..."
+      "title": "How we picked 35 of the world’s top young scientists and engineers - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1F0bVdINV9iZnZKZTgyVG55a1B4NEl4RzFNMGxaWml6dHhFaEtDcWxpaXRpUHlyUE42eFdLVGszRW9Hd2NNWFlGdGdwMEUtbXh5SEg2ZVNoUUxvY2Y0WWVXWHpRX0tnNVY4UUNsdFY1UXVOYkZDam1XNHhVTXRUNC1uLWppbFpFN1otM0JEWUx3UWgwSURVTmFDQzN5OXFDdUtjb0g2VF94ek5x0gGyAUFVX3lxTE5oVExhZVA0SEpGZEdwNXp1NXNXUXByb0xkelg5U0lCVzFBb0NVMHNvZlVEektpb09ZWVJobTFUWC1VbmJPWk9MdG15bTZrN3UwaWQzdEt6ZjlIbkdzeURWd28tVm1KSjhSV1RwYzR0SnVpdUF0ZU50Rm15UDZKN2RQd2hyX3c3SlJWMHlGSmdqLThnYW1WMGt5M25RZ0Y5N2tpY1BZOGUybHlkeGdyTUVZWEE?oc=5",
+      "date": "2026-08-12 09:08",
+      "summary": "How we picked 35 of the world’s top young scientists and engineers  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Claim that science is becoming less disruptive challenged after years-long publication delay",
-      "link": "https://phys.org/news/2026-08-science-disruptive-years-delay.html",
-      "date": "2026-08-12 19:50",
-      "summary": "A widely cited Nature cover article from 2023 claimed that scientific innovation has significantly declined in recent decades. Thi..."
+      "title": "Europe's worst medieval flood highlights risk of successive extreme events",
+      "link": "https://phys.org/news/2026-08-europe-worst-medieval-highlights-successive.html",
+      "date": "2026-08-12 20:50",
+      "summary": "New research involving the University of Liverpool has provided comprehensive insights into the largest flood event in Europe over..."
     },
     {
-      "title": "Microbes turn CO₂ into protein and vitamin B9 at commercially viable prices",
-      "link": "https://phys.org/news/2026-08-microbes-protein-vitamin-b9-commercially.html",
-      "date": "2026-08-12 19:40",
-      "summary": "Researchers are developing biotechnological processes that enable microbes to produce proteins and vitamins for human consumption ..."
+      "title": "DNA research highlights the genetic vulnerability of Asian elephants",
+      "link": "https://phys.org/news/2026-08-dna-highlights-genetic-vulnerability-asian.html",
+      "date": "2026-08-12 20:50",
+      "summary": "The DNA of Asian elephants tells a concerning story. Although all four subspecies are under pressure, there are considerable diffe..."
     },
     {
-      "title": "Study demonstrates that restricting short-term rentals improves housing affordability",
-      "link": "https://phys.org/news/2026-08-restricting-short-term-rentals-housing.html",
-      "date": "2026-08-12 19:40",
-      "summary": "Municipal regulation of short-term rentals \"is low-hanging fruit\" that helps improve housing affordability, a new study by McGill ..."
+      "title": "Severe weather now a key predictor of where bird species occur in North America",
+      "link": "https://phys.org/news/2026-08-severe-weather-key-predictor-bird.html",
+      "date": "2026-08-12 20:40",
+      "summary": "Scorching heat waves, severe cold snaps and other extreme weather events are limiting where species can exist—and affecting biodiv..."
     },
     {
-      "title": "AI tool could help veterinarians track heart disease more precisely",
-      "link": "https://phys.org/news/2026-08-ai-tool-veterinarians-track-heart.html",
-      "date": "2026-08-12 19:30",
-      "summary": "For dogs with heart disease, a fraction of a centimeter can make a life-changing difference. Veterinarians often rely on chest rad..."
+      "title": "An open-source tool for automated consolidation of lipid data",
+      "link": "https://phys.org/news/2026-08-source-tool-automated-lipid.html",
+      "date": "2026-08-12 20:40",
+      "summary": "In collaboration with the University of Vienna, the Technical University of Munich (TUM), and Heidelberg University, researchers a..."
     },
     {
-      "title": "History, not age, determines the genomic importance of ancient trees",
-      "link": "https://phys.org/news/2026-08-history-age-genomic-importance-ancient.html",
-      "date": "2026-08-12 19:20",
-      "summary": "Ancient trees—those that are remarkably old for their species—are declining worldwide, raising concerns about the loss of the ecol..."
+      "title": "Sugar swap simplifies production of promising targeted cancer therapies",
+      "link": "https://phys.org/news/2026-08-sugar-swap-production-cancer-therapies.html",
+      "date": "2026-08-12 20:30",
+      "summary": "Researchers at the University of Wisconsin–Madison have developed a simpler way to produce a fast-growing class of targeted cancer..."
     }
   ],
   "The Guardian Edu": [
