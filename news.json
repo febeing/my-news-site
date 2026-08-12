@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "How to design a space habitat that supports its residents’ mental health",
+      "link": "https://news.mit.edu/2026/how-space-habitat-design-supports-its-residents-mental-health-0812",
+      "date": "2026-08-12 09:00",
+      "summary": "A new online platform helps engineers look beyond survival mode when designing habitats for extreme living conditions...."
+    },
+    {
       "title": "The mystery of the Chinese tea chest label",
       "link": "https://news.mit.edu/2026/mystery-of-the-chinese-tea-chest-label-0811",
       "date": "2026-08-11 16:30",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/high-orbit-satellites-could-light-way-for-travel-to-moon-0810",
       "date": "2026-08-10 18:10",
       "summary": "Acting as cooperative optical beacons, the satellites could provide GPS-like navigation and communications support for spacecraft ..."
-    },
-    {
-      "title": "MIT researchers tackle the economic realities of fusion power",
-      "link": "https://news.mit.edu/2026/mit-researchers-tackle-economic-realities-fusion-power-0810",
-      "date": "2026-08-10 04:00",
-      "summary": "Their new study aims to give budding industry a framework for understanding how fusion can be profitable...."
     }
   ],
   "Harvard Gazette": [
@@ -65,22 +65,22 @@
   ],
   "Stanford News": [
     {
+      "title": "A World From the Inside - The American Prospect",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZFBCeEVoOVU3YUllS2NPaFBTNzJOTnkxclJRWkJDY0Fsb01lekJJbGIzTmxfWlZaWjBZTlFqd1J6MTVFaXNxanN1UVo4ZGczQ3NFdU9nYlZhMXh1azRXTzF2SVdwbkExNEt4UFlsTFBycklGeGZpRE53NXJJMl9iaTd3?oc=5",
+      "date": "2026-08-12 09:00",
+      "summary": "A World From the Inside  The American Prospect..."
+    },
+    {
       "title": "Immune cells cross blood-brain barrier during human aging - National Institutes of Health (NIH) | (.gov)",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHFaV2RpdkQyTFhkUE9JcmFBNlI4dHZ1RUpXdG9oZXlzWW9zMTNmWmZheWlXaTMtVktOdzI2ZU5NTzYwUWpZYkMyV1libjRELUotb3lJZDBVbWJHd2ZrVm1qdktFVkFtanpIM1F5ZFdCY1NSX1ZKTG1tb2ZVRXVEalZESmE3ell4R3p3Q3FCTnl3YVFmNVRVUzJLWHp6YXl4SDJuU0FiLTE0eUlHSkFR?oc=5",
       "date": "2026-08-11 17:55",
       "summary": "Immune cells cross blood-brain barrier during human aging  National Institutes of Health (NIH) | (.gov)..."
     },
     {
-      "title": "AI designs a novel E. coli killer - Stanford Report",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRE1RNTdCb2xEMEtvS1dJWldRNXg4U1Z5Y2YwcTVocWlyMjkzQ3RQaUZtUVlSc0xpanl5eGxjeU9aZl9RczRZVFk0cGZDU2sybVJIM0J2RjFTOHVjNzBJVGczbTdXclh1TzdlME5McmpwR3lGaWVjVTBHRlVXNEloN2pwTUZIY3hBU0k0VQ?oc=5",
-      "date": "2026-08-06 18:32",
-      "summary": "AI designs a novel E. coli killer  Stanford Report..."
-    },
-    {
-      "title": "Stanford drops Flock cameras amid national backlash - San José Spotlight",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFRKVUpKSFlyZ2J3bVg2Mm1HSjF3eGNtVlZDV1k0TmNzVlJ2c0xxd0ZFMUF1Q2VsVG8tRUlFeG4zMjNFYjhmRHNDWDAzbDY2TzVnal9NWHNUNjYzSGpSNUFlYl9XaktSQ3RwVHVjMGlqYUd0dmVsZVZ4WUw5cDV4b2ZIWHpCYzJF?oc=5",
-      "date": "2026-08-11 21:34",
-      "summary": "Stanford drops Flock cameras amid national backlash  San José Spotlight..."
+      "title": "DNA replication trailblazer Teresa S.F. Wang dies at 88 - Stanford Medicine",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFpvZ0I1aDl3UE1KVmJiRnhCQkJfWG5qWTFobl9YRnEtNkktQTh5WmxkelhOdFl1N0dUTXJMZHJFYkpsYkFubnNrMy1teTEyNHFpOVRaUDhnbkhGYk9rT21oS3RlUG9WWDAzQ2RuNTNfcXdRUDZHVHgtazUxQkFhSkV0WUFOTEtZaVY5ZzBld3FfU2gwWHJJN2pIOHo4alpFX3hiand6TUNZWnc?oc=5",
+      "date": "2026-08-11 23:08",
+      "summary": "DNA replication trailblazer Teresa S.F. Wang dies at 88  Stanford Medicine..."
     },
     {
       "title": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor - KQED",
@@ -89,10 +89,10 @@
       "summary": "Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor  KQED..."
     },
     {
-      "title": "Stanford ends contract with Flock cameras, switches to Genetec - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YbElCQ2djeGV6alJsTWZtUDh6c0NPUTFFYVdvZEFJR1QtVVROdVVNTDFxbnVxb19hSjlYMnhVbXVCU09tYWRURFhOaHVHMldybTl6V3VMaTRJZ2FiX1ZDX25CVjZTTWxlc0ptamZZbGdtei1r?oc=5",
-      "date": "2026-08-09 21:31",
-      "summary": "Stanford ends contract with Flock cameras, switches to Genetec  The Stanford Daily..."
+      "title": "Stanford drops Flock cameras amid national backlash - San José Spotlight",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFRKVUpKSFlyZ2J3bVg2Mm1HSjF3eGNtVlZDV1k0TmNzVlJ2c0xxd0ZFMUF1Q2VsVG8tRUlFeG4zMjNFYjhmRHNDWDAzbDY2TzVnal9NWHNUNjYzSGpSNUFlYl9XaktSQ3RwVHVjMGlqYUd0dmVsZVZ4WUw5cDV4b2ZIWHpCYzJF?oc=5",
+      "date": "2026-08-11 21:34",
+      "summary": "Stanford drops Flock cameras amid national backlash  San José Spotlight..."
     }
   ],
   "Nature Careers": [
@@ -173,10 +173,10 @@
       "summary": "French press body asks competition watchdog to take action over Google AI  Reuters..."
     },
     {
-      "title": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnc2ZXQxTHpZQU1SNDdJczNXWUdBamNIaGxDXzY2dXlGUEFBMDQyM29WaERCSWdiRVB6Mm1tX0psSzhDUkh3Z25xamdDd0JfQ0JWMi1MZ3ZMcEZjMmpNSmo5TWVTVEdsa1RlSk82Z3BXVWJFSWxDdUhrMm4xczhWVEZzNlY4Rm91eFFtQjNsU3k0ckxKRmY2c1FGOV9XS0M3NFJ1THNRMF9hOThzZENsMDVLV3lDb1BfMk9pMg?oc=5",
-      "date": "2026-08-11 23:08",
-      "summary": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations  Reuters..."
+      "title": "Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmVxd01pR0syNm94VGtkUHl1WVNnRUhBSE11RHB2SUlBUGQ4RnJ1dFVIb1NxUGVjbUc3TTVDdzZNTkh6cUxGRlQ5elJQblZQUTMwMU5qQjU0WTFJeUdsc1FnbGxpRjJoYUQtTW9lS2NLMVhKQWtOMGVRUW5GNDlPcHhXM2g0b0twSHplQ1oyZDJ1YkFnU1BtUnBHcFZmbVpfdlVpbWRlNHhMcHNBSlh6SDd3?oc=5",
+      "date": "2026-08-12 06:23",
+      "summary": "Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts  Reuters..."
     },
     {
       "title": "China bets on AI weather forecasting as extreme weather intensifies - Reuters",
@@ -185,13 +185,19 @@
       "summary": "China bets on AI weather forecasting as extreme weather intensifies  Reuters..."
     },
     {
-      "title": "Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGVjNVRkSGR4T3Q4dTFIdW5HTURnMFhhTFV5X0MybkFJd25KUDc4Qkw4OF9LZ2FDRHFRUHIxUWlxVFgwTE9QX1VSaVVjZ0hPYktVam9JWFNEeDBjODFDZDgxbFdOQVpIbzRhOFZkWm9vb3Ryemk5NzVON2FiYi1va1gtNS1tRC1UMkhIS0x0eTd4S1ppRldfQk56cnBDUXZpanNLczFaZnFoRlpuZUdXcTB5X1FQdw?oc=5",
-      "date": "2026-08-11 16:49",
-      "summary": "Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports  Reuters..."
+      "title": "US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZXVmODVkdmVEV19DdlAtSWZkQkFjWHFLSlNYSW84a1lFNl9ZN19RMXY3Zm01bTNGa2tNMTdaZ29hcjB4SkQ3THM0bVl4V0w4V3ExOC1HSjJ4STRfZlpfNVdxZmFMeU4yWmNOWlNaZTBTcTl2ek04MjZJRTFIbmEyRVdOejMzNGVhZ084SWR5ZllyNEQ4ZFFQcFlXbHJaQVNLRTM0LUtXWVZHQ09sV3FkY2NDeWZ2ZDg?oc=5",
+      "date": "2026-08-11 17:28",
+      "summary": "US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "How we picked 35 of the world’s top young scientists and engineers - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1F0bVdINV9iZnZKZTgyVG55a1B4NEl4RzFNMGxaWml6dHhFaEtDcWxpaXRpUHlyUE42eFdLVGszRW9Hd2NNWFlGdGdwMEUtbXh5SEg2ZVNoUUxvY2Y0WWVXWHpRX0tnNVY4UUNsdFY1UXVOYkZDam1XNHhVTXRUNC1uLWppbFpFN1otM0JEWUx3UWgwSURVTmFDQzN5OXFDdUtjb0g2VF94ek5x0gGyAUFVX3lxTE5oVExhZVA0SEpGZEdwNXp1NXNXUXByb0xkelg5U0lCVzFBb0NVMHNvZlVEektpb09ZWVJobTFUWC1VbmJPWk9MdG15bTZrN3UwaWQzdEt6ZjlIbkdzeURWd28tVm1KSjhSV1RwYzR0SnVpdUF0ZU50Rm15UDZKN2RQd2hyX3c3SlJWMHlGSmdqLThnYW1WMGt5M25RZ0Y5N2tpY1BZOGUybHlkeGdyTUVZWEE?oc=5",
+      "date": "2026-08-12 09:08",
+      "summary": "How we picked 35 of the world’s top young scientists and engineers  MIT Technology Review..."
+    },
     {
       "title": "These startups are chasing the next big thing in LLMs - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTQtTzd2S1RCbGItZWp5RjVZSVNTNnpyeGV5bjhveDNUZ1pfY3BFQ1Noc2hTd2FtU0t1LW5EZ3FIVFNLSlV2WWZCbWFuYklUYWlRMDJKUWRTTnJYN0RoR3Zzb3NrbllMcHFLang4WnlueWExVXp0U0I3QjdaMjRORi02al9CTHdZQ2tKWHF3aWpqWUp0YTQ2SW9BNnh3d2ZNR0EzNURhM2dFUdIBrwFBVV95cUxNWmNzVlRSWFBZVkxJMGkwY1NQUVJnYUE2OXAwYVJ5bWpqUnh1ZW5pQmU1VEk3QjdGZWhUNTdtb0E5MHNXS2YtZ3B2TXRLZDFNWnhzRjJaR2hDVVZtdlBVU3VmQnM4UWI3cV9iNmdCbnpKQ2JSZFlzbndIQkYxa2UxYTluQ3AyV0I3b2VvTTI2d1lFZzBQZ1B4cXg5Ykp2b24wZjhKcm5iWXhvb2VSS3M4?oc=5",
@@ -215,15 +221,27 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkhYeGEwcmo4YlpsSzlMQzhuU0tkOV9ZeVFYVE5INWdGcmVJQ0Zhb1cxbm1RMF9iOGpDT2YtNkRadmFmU0pfU01mNEQxdzBxd2RKQUdOMUtKQ2JSMkhyMUl6SE8tTFA4ZFdqeHg0S2pwUlVTTnNxTXpKeUJ2NGttLTJ1ZkxDdHI5eHVlMFREemJ5cVVqQVZoaE5HakJHbmR0UTRqZGZ5cWd1aEZJcTdzNXJQWWs2aHVUQUswZDBB0gHDAUFVX3lxTE9EWkhvdHRVU1JacExMTUpBQVJQLXE1Y3RaNE1aZl93TkkwazRqMUxXcnp0U1Qzdnp4a3ZwNUs4QTg1eS1vVWR0XzhZamt6dkpjeHgxU3ZPSkRCeTJ4TldCNjdjRDhtQjEtWFlFRGZHU1ROdEgwQjRUWFdMSzluaFBkYzBCUnFBdlRiTDZsR003b3VNSHNfeHh0Vnp6bHdsZlVGSktDNV94Wjlvb1dzVnFKbHZyWDJ1RG1OUGNIX3ZiM3M2RQ?oc=5",
       "date": "2026-08-10 20:00",
       "summary": "AI professors are negotiating the new realities of academic research  MIT Technology Review..."
-    },
-    {
-      "title": "AI for science needs reasoning, not just data - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkREdkNWswa3JTbHpFQ3c1UWxhOXNaTFE1bHR5T2g0b0F5RmJTdUJLMEFzR1pYaWRURjQxWS13TUJQSFNrTDNYUTdkdlZlLUVOVWNXUWhkcF9aUnVzbFl3VFZfbFp1Sm9uV3U1Wk1maHNzdTl2YVZnN19uTm9JXzTSAYQBQVVfeXFMTklybzZMNGJ5ZndXX1oxYzhKTG50cEVrLWJVZ1RiRUd6aFpKVFJZTWNTNjBCRGpaZFRycFYyb2tSTHNhZXVKVl9xaV9OLU1CenVKNU5iZlBPaXJlSEEyWFJFeVFKbC14M2p6WnpIZUFYS2EzZVdaTXJVVDllT1FyTWNiQy1O?oc=5",
-      "date": "2026-08-10 09:00",
-      "summary": "AI for science needs reasoning, not just data  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "How to design a space habitat that supports its residents' mental health",
+      "link": "https://phys.org/news/2026-08-space-habitat-residents-mental-health.html",
+      "date": "2026-08-12 09:00",
+      "summary": "In extreme environments, habitats are built for survival. Submarines, Antarctic bases and post-disaster dwellings are designed to ..."
+    },
+    {
+      "title": "Total solar eclipse to spellbind Europe",
+      "link": "https://phys.org/news/2026-08-total-solar-eclipse-spellbind-europe.html",
+      "date": "2026-08-12 08:40",
+      "summary": "Millions of Europeans will contemplate the sky in awe on Wednesday as a rare total solar eclipse crosses part of the continent and..."
+    },
+    {
+      "title": "UK 'on course' to record warmest summer for second year in a row",
+      "link": "https://phys.org/news/2026-08-uk-warmest-summer-year-row.html",
+      "date": "2026-08-12 08:20",
+      "summary": "Britain is \"on course\" to chalk up its warmest summer on record for the second year running, the UK's Met Office weather agency sa..."
+    },
     {
       "title": "How Britain's mapmakers track climate change",
       "link": "https://phys.org/news/2026-08-britain-mapmakers-track-climate.html",
@@ -235,24 +253,6 @@
       "link": "https://phys.org/news/2026-08-elvish-klingon-pig-latin-languages.html",
       "date": "2026-08-12 07:40",
       "summary": "Invented languages tend to be the stuff of fantasy or science fiction worlds. But as a child, you may have made one up yourself...."
-    },
-    {
-      "title": "Looking to see the solar eclipse from North America? Here's where and when to catch a sliver",
-      "link": "https://phys.org/news/2026-08-solar-eclipse-north-america-sliver.html",
-      "date": "2026-08-12 07:37",
-      "summary": "Sorry, North America. After winning the cosmic lottery with a pair of coast-to-coast total solar eclipses, now it's Europe's turn...."
-    },
-    {
-      "title": "Today's Mediterranean diet leans on olive oil, veggies and fish—But the ancients mainly ate bread",
-      "link": "https://phys.org/news/2026-08-today-mediterranean-diet-olive-oil.html",
-      "date": "2026-08-12 01:40",
-      "summary": "The Roman emperor Julian (332–363 CE) called bread the food that \"among us is thought to be the most nourishing.\"..."
-    },
-    {
-      "title": "Japan's earthquake shows extreme heat can turn one disaster into two",
-      "link": "https://phys.org/news/2026-08-japan-earthquake-extreme-disaster.html",
-      "date": "2026-08-12 01:20",
-      "summary": "Emergency workers attempting to rescue survivors after a recent earthquake in Kyushu, Japan, also had to cope with extreme summer ..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "BTS bump? Hong Kong’s hotels set for bonanza from superstars’ Arirang world tour",
+      "link": "https://www.scmp.com/business/article/3363777/bts-bump-hong-kongs-hotels-set-bonanza-superstars-arirang-world-tour?utm_source=rss_feed",
+      "date": "2026-08-12 10:00",
+      "summary": "The arrival of BTS’s world tour in Hong Kong next year is expected to be a sure-fire hit with the city’s hospitality sector, with ..."
+    },
+    {
+      "title": "School bus crashes in Shing Mun Tunnel after driver loses consciousness, 1 injured",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3363789/school-bus-crashes-shing-mun-tunnel-after-driver-loses-consciousness-1-injured?utm_source=rss_feed",
+      "date": "2026-08-12 09:47",
+      "summary": "A school bus driver lost consciousness and another passenger was slightly injured when the vehicle carrying about 50 children cras..."
+    },
+    {
+      "title": "Contractor ordered to fix faulty lifts causing Queen Mary Hospital block delay",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3363768/contractor-ordered-fix-faulty-lifts-causing-queen-mary-hospital-block-delay?utm_source=rss_feed",
+      "date": "2026-08-12 08:49",
+      "summary": "The Hong Kong government has demanded that a contractor rectify faulty lifts in a new block at Queen Mary Hospital after multiple ..."
+    },
+    {
+      "title": "How Hong Kong can unlock the real value of its Asean trade boom",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363601/how-hong-kong-can-unlock-real-value-its-asean-trade-boom?utm_source=rss_feed",
+      "date": "2026-08-12 08:30",
+      "summary": "The Association of Southeast Asian Nations has a role to play in Hong Kong’s plans for its economy. Chief Executive John Lee Ka-ch..."
+    },
+    {
       "title": "Man injured as fire engulfs 2 huts, 4 speedboats at village in Sai Kung",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3363761/man-injured-fire-engulfs-2-huts-4-speedboats-village-sai-kung?utm_source=rss_feed",
       "date": "2026-08-12 07:24",
       "summary": "A man has suffered minor burns in a fire that spread to two huts and four speedboats in Hong Kong’s Sai Kung.\nThe Fire Services De..."
-    },
-    {
-      "title": "Limited burning of paper offerings at funeral parlour since weekend power outage",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3363759/limited-burning-paper-offerings-funeral-parlour-weekend-power-outage?utm_source=rss_feed",
-      "date": "2026-08-12 07:23",
-      "summary": "A prolonged power outage since Sunday has forced a funeral parlour to limit burnings of paper offerings due to poor ventilation, t..."
-    },
-    {
-      "title": "Snooker star Jimmy White becomes Hong Kong resident through talent scheme",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3363753/snooker-star-jimmy-white-becomes-hong-kong-resident-through-talent-scheme?utm_source=rss_feed",
-      "date": "2026-08-12 07:06",
-      "summary": "Snooker star Jimmy White, known as “The Whirlwind”, has become a Hong Kong resident through an official talent scheme, and has rev..."
-    },
-    {
-      "title": "Hong Kong student avoids jail for seditious graffiti in commercial complex toilet",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363750/hong-kong-student-avoids-jail-seditious-graffiti-commercial-complex-toilet?utm_source=rss_feed",
-      "date": "2026-08-12 06:45",
-      "summary": "A Hong Kong student has been spared jail for seditious acts in breach of the domestic national security law, after a court ruled t..."
-    },
-    {
-      "title": "Hong Kong authorities charge woman who allegedly kept 136 dogs without licences",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363739/hong-kong-authorities-charge-woman-who-allegedly-kept-136-dogs-without-licences?utm_source=rss_feed",
-      "date": "2026-08-12 05:55",
-      "summary": "Hong Kong authorities have charged a woman on suspicion of keeping 136 dogs without valid licences at a shelter previously investi..."
     }
   ]
 }
