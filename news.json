@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Researchers uncover hidden pore network within nuclear fuel",
+      "link": "https://news.mit.edu/2026/researchers-uncover-hidden-pore-network-within-nuclear-fuel-0813",
+      "date": "2026-08-13 04:00",
+      "summary": "New understanding of how nuclear fuel breaks down and changes in an operating nuclear reactor could help keep some reactors runnin..."
+    },
+    {
       "title": "MIT selected to lead new NSF materials research center",
       "link": "https://news.mit.edu/2026/mit-to-lead-nsf-materials-research-center-0812",
       "date": "2026-08-12 20:15",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/mystery-of-the-chinese-tea-chest-label-0811",
       "date": "2026-08-11 16:30",
       "summary": "MIT historian Tristan Brown uncovers the true origins of an artifact once thought to be a relic of the Boston Tea Party...."
-    },
-    {
-      "title": "On the hunt for dark matter",
-      "link": "https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811",
-      "date": "2026-08-11 04:00",
-      "summary": "From Broadway to MIT’s Laboratory for Nuclear Science, PhD student Jessica Fry doesn’t do anything halfway. Now she’s hunting for ..."
     }
   ],
   "Harvard Gazette": [
@@ -71,16 +71,16 @@
       "summary": "Stanford Law’s Rhode Center and Legal Design Lab Win Grant to Modernize Courts and Expand Access to Justice  Stanford Law School..."
     },
     {
-      "title": "A World From the Inside - The American Prospect",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZFBCeEVoOVU3YUllS2NPaFBTNzJOTnkxclJRWkJDY0Fsb01lekJJbGIzTmxfWlZaWjBZTlFqd1J6MTVFaXNxanN1UVo4ZGczQ3NFdU9nYlZhMXh1azRXTzF2SVdwbkExNEt4UFlsTFBycklGeGZpRE53NXJJMl9iaTd3?oc=5",
-      "date": "2026-08-12 09:00",
-      "summary": "A World From the Inside  The American Prospect..."
-    },
-    {
       "title": "Immune cells cross blood-brain barrier during human aging - National Institutes of Health (NIH) | (.gov)",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHFaV2RpdkQyTFhkUE9JcmFBNlI4dHZ1RUpXdG9oZXlzWW9zMTNmWmZheWlXaTMtVktOdzI2ZU5NTzYwUWpZYkMyV1libjRELUotb3lJZDBVbWJHd2ZrVm1qdktFVkFtanpIM1F5ZFdCY1NSX1ZKTG1tb2ZVRXVEalZESmE3ell4R3p3Q3FCTnl3YVFmNVRVUzJLWHp6YXl4SDJuU0FiLTE0eUlHSkFR?oc=5",
       "date": "2026-08-11 17:55",
       "summary": "Immune cells cross blood-brain barrier during human aging  National Institutes of Health (NIH) | (.gov)..."
+    },
+    {
+      "title": "A World From the Inside - The American Prospect",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZFBCeEVoOVU3YUllS2NPaFBTNzJOTnkxclJRWkJDY0Fsb01lekJJbGIzTmxfWlZaWjBZTlFqd1J6MTVFaXNxanN1UVo4ZGczQ3NFdU9nYlZhMXh1azRXTzF2SVdwbkExNEt4UFlsTFBycklGeGZpRE53NXJJMl9iaTd3?oc=5",
+      "date": "2026-08-12 09:00",
+      "summary": "A World From the Inside  The American Prospect..."
     },
     {
       "title": "Stanford replaces Flock cameras as it seeks tighter control over vehicle data - The Cool Down",
@@ -89,10 +89,10 @@
       "summary": "Stanford replaces Flock cameras as it seeks tighter control over vehicle data  The Cool Down..."
     },
     {
-      "title": "Stanford Second in ACC Preseason Poll - Stanford Cardinal",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaWdENm1vTkROQjd4dGZMTU9ma0d6NkJoUEU5Y0p6aVJtbUxVY0h4cDNtLWtYdzlUYTkwcWJYekxib3BaWGphV2dYVkxjZ05COU9pblp5czJhNVVmN1hCaHUyV0NwQ28xa0lTYTd5Mm1fYjFGclktZVA1ZXVTVmgzQTZB?oc=5",
-      "date": "2026-08-12 20:06",
-      "summary": "Stanford Second in ACC Preseason Poll  Stanford Cardinal..."
+      "title": "Stanford Football: Fall Camp Press Conference | Week 3 - Stanford Cardinal",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkw5QWkwVlA0SkNvZTBteEhlaFNCOTZ5N2FVMTZqclpjMGdhb0VqZVVJWXpZd2pvSWJuUUc0U3NwRnhwZVp0Y0ZpS1A4eXhZaDB3OG1uZ0xMdC16RlFsLXYxdG1LcFdnQjcxaC1rTnludXBRYmc0SDRlNGZBTU1jNFpaZElSWkJld0FPbmltU3YzWFZjQmU1RA?oc=5",
+      "date": "2026-08-10 23:06",
+      "summary": "Stanford Football: Fall Camp Press Conference | Week 3  Stanford Cardinal..."
     }
   ],
   "Nature Careers": [
@@ -161,22 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "CoreWeave, Super Micro surge on signs of sustained AI buildout - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1NWQ1duSk1Sa2xQVHlVZjFyUUVmUDJleTJkOG9vM05LUjk4aWtsaUZoUTY2eWdWY2ZKcGNjaVd5Z0lULTFMNlBEeDhTWl84Q05vb0kzMjB6RjVtRkNTYmIyRkFOLWhDLWdHU2loU2ZTY0o5TURxTUFpb0hWejN6NG9VNE5RTTFTMmJzTVBYa3Q4RjhCRXpjek9LOTdnV01RRHc?oc=5",
-      "date": "2026-08-12 15:47",
-      "summary": "CoreWeave, Super Micro surge on signs of sustained AI buildout  Reuters..."
-    },
-    {
-      "title": "Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGVjNVRkSGR4T3Q4dTFIdW5HTURnMFhhTFV5X0MybkFJd25KUDc4Qkw4OF9LZ2FDRHFRUHIxUWlxVFgwTE9QX1VSaVVjZ0hPYktVam9JWFNEeDBjODFDZDgxbFdOQVpIbzRhOFZkWm9vb3Ryemk5NzVON2FiYi1va1gtNS1tRC1UMkhIS0x0eTd4S1ppRldfQk56cnBDUXZpanNLczFaZnFoRlpuZUdXcTB5X1FQdw?oc=5",
-      "date": "2026-08-11 16:49",
-      "summary": "Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports  Reuters..."
-    },
-    {
       "title": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5",
-      "date": "2026-08-12 21:27",
+      "date": "2026-08-12 17:36",
       "summary": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle  Reuters..."
+    },
+    {
+      "title": "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRVpwRkdGZzNfNjRzOXlvbDZ2Wm50RlMyZFNMT0M5bE9MSzdocDdJWmV1cmVSNHhhdmFZU3RyZkgwazREdVNhbm5qSmswZ0pDd3lhU2dMOFlYdDBvcXVSdXpzWm90Y2dkZzJFalNhbW1BdndQWm55b3FfTzMyYjR1azQ5b2tKS2lNeThwWlBPd0lFVUp1YmFSOTgzSWNJUjVnd1JablFKZ2RJWGZ2Vzc5S3BOWFJSVjF6aVJNYw?oc=5",
+      "date": "2026-08-12 14:50",
+      "summary": "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round  Reuters..."
     },
     {
       "title": "Strong Majority of Japanese Firms Have Yet to Fully Embrace AI: Reuters Poll - US News Money",
@@ -185,10 +179,16 @@
       "summary": "Strong Majority of Japanese Firms Have Yet to Fully Embrace AI: Reuters Poll  US News Money..."
     },
     {
-      "title": "Cisco forecasts annual revenue above estimates on sustained AI spending - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFNjVWhZOGJVZzBrMDdXRC13NkM3cW9lMjlicDZZc3duZXNTLWlZTEhBTDJuWTJvV3pkbEdoUWd2VVFmTWlCTTFCVlJjOFFsTXB3Y0JBZHROZExiUU4xZm1mbkhOSHF4MVRfdXpEdWp3NFdlbnhpQk5kSklmX3Y3cW5ockRIT0VSeWdWMQ?oc=5",
-      "date": "2026-08-12 22:01",
-      "summary": "Cisco forecasts annual revenue above estimates on sustained AI spending  Reuters..."
+      "title": "Nebius powers past estimates as customers race to secure AI computing power - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUJZTnBKRUxhdFR1VGRmaGQxOUlHTHEwcjdaekRVbjh1LXpZd0NIS1haVElfejU4a19QWjB4SlZxRDlNdVNzSDUweVRfc292M052MHNJdTNNT1ZoRHpOTXNUWVJLb3R5cVdfLUhjb0FsOHR3NFY1b2ZyVUxUZEl6VjhDVFI2ZG9PT1c0SGhmQ0hvMjRXS2doRTF3aG9BdjhraGVqMGExcUxqN3R1Zzlj?oc=5",
+      "date": "2026-08-12 14:52",
+      "summary": "Nebius powers past estimates as customers race to secure AI computing power  Reuters..."
+    },
+    {
+      "title": "Soaring AI hyperscaler default hedges aren't what they seem - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMFFnWUNMaWpDeWFxYlNzUndyNi16SWZKVmEyZ3hDckhWTlJNMGROV2VfMngxbzljVDhkRE9YTFluaVJQbVBJb1FvREFmREZlVGl1TjAtZzNmMjFnNm1HdW5lM3ZOellSMHA2M1lXYklvSVRKdWJ5Tk1abnZyZ2V4WWlZZGtrOW9GelhCZlV6dGpIamZzWFZ0djNfY0lIcXRsYTdtSExzZ2ZMWHN2NHRkMC1OajNEOW1qeFZpNzZndmpXUnZHblE?oc=5",
+      "date": "2026-08-12 23:30",
+      "summary": "Soaring AI hyperscaler default hedges aren't what they seem  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,6 +225,12 @@
   ],
   "Phys.org": [
     {
+      "title": "A 236-million-year-old fossil challenges the story of mammalian live birth",
+      "link": "https://phys.org/news/2026-08-million-year-fossil-story-mammalian.html",
+      "date": "2026-08-13 04:00",
+      "summary": "Some cynodonts may have been giving birth to live young much sooner in evolutionary history than previously assumed. A new Frontie..."
+    },
+    {
       "title": "This South African river has a bacteria count off the charts: A natural filter is cleaning it for watering food gardens",
       "link": "https://phys.org/news/2026-08-south-african-river-bacteria-natural.html",
       "date": "2026-08-13 00:20",
@@ -247,12 +253,6 @@
       "link": "https://phys.org/news/2026-08-aidesigned-viruses-biosecurity-pace.html",
       "date": "2026-08-12 23:20",
       "summary": "Scientists have crossed an important line in biological engineering. In a recent study, researchers used artificial intelligence t..."
-    },
-    {
-      "title": "Drug-carrying nanoparticles shrink venous malformations by 70% in mice",
-      "link": "https://phys.org/news/2026-08-drug-nanoparticles-venous-malformations-mice.html",
-      "date": "2026-08-12 23:20",
-      "summary": "Venous malformations are abnormally shaped veins that develop when the cells lining blood vessels grow too fast when they aren't s..."
     }
   ],
   "The Guardian Edu": [
