@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "Davis Warren expects to win at Stanford under ‘vision’ outlined by Pritchard - Santa Cruz Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUnFaRUlyRm5mWDdqblRoaEEwV2E2bFRKWldwWncwdE45UnlOeGhGSHBrTHdVLTR4d0x5Z2lvOGdMV2w3eUNxNkhuVkVvT29qSVFjSnZaSkdzbUhvUVJrQ21aNElLRVBfUml2SjByOWdmNG9xampTQXlhZGRDT1A5dmNJY0p0bHBReUlOXzVTamc3OTN2SkpmaEtZY09VeXI3MXc?oc=5",
-      "date": "2026-08-13 12:17",
-      "summary": "Davis Warren expects to win at Stanford under ‘vision’ outlined by Pritchard  Santa Cruz Sentinel..."
+      "title": "Davis Warren expects to win at Stanford under ‘vision’ outlined by Pritchard - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlM3NDJDVF8yNVQ4ZzhlVXJyaUc5c18wbmYxbjZFZHpiTjA1emtIR3duVjdjT0VkemFNVzJDZkI4LWl3Q1h6anlSdVA0NWhiYTFlV1ZDc3FtdC01STdXYnc1T20xU1hmWUZZTXVvRnBfV0YxSEg5Y0cyclpqci1qeE0ycExKaXJBMkhjX2docWxsWC1RNDVIQTN30gGfAUFVX3lxTE9RaTg1SU1kRHVRMW5xRklKdUpoSEo3dkdvM0VqZjN6OE40bGpQcllreWRkZnZka3NyN1VIR0J1LXZEakZnUFhkS20ycWVobWI3clA1aTJmYkJ2TW9sdm5ldXhEckh0OHI4UDJXYWZJT0w0TGZGSGVqMEJITUxOblR1UmlzR2dZZXhRSW80TVhRZXVlTk9sejBRUk9aRXZ3UQ?oc=5",
+      "date": "2026-08-13 12:15",
+      "summary": "Davis Warren expects to win at Stanford under ‘vision’ outlined by Pritchard  The Mercury News..."
     },
     {
       "title": "Stanford Law’s Rhode Center and Legal Design Lab Win Grant to Modernize Courts and Expand Access to Justice - Stanford Law School",
@@ -89,13 +89,19 @@
       "summary": "MetaOptics to Deploy Direct Laser Writer at Stanford University  marketscreener.com..."
     },
     {
-      "title": "A World From the Inside - prospect.org",
+      "title": "A World From the Inside - The American Prospect",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZFBCeEVoOVU3YUllS2NPaFBTNzJOTnkxclJRWkJDY0Fsb01lekJJbGIzTmxfWlZaWjBZTlFqd1J6MTVFaXNxanN1UVo4ZGczQ3NFdU9nYlZhMXh1azRXTzF2SVdwbkExNEt4UFlsTFBycklGeGZpRE53NXJJMl9iaTd3?oc=5",
       "date": "2026-08-12 09:00",
-      "summary": "A World From the Inside  prospect.org..."
+      "summary": "A World From the Inside  The American Prospect..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+      "link": "https://www.nature.com/articles/s41586-026-10959-w",
+      "date": "2026-08-13 00:00",
+      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/s41586-026-10959-wAuthor Correction: Structural mechanism of cGAS inhibition..."
+    },
     {
       "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
       "link": "https://www.nature.com/articles/s41586-026-10960-3",
@@ -109,22 +115,16 @@
       "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-01904-ySexist assumptions and a male-dominated culture can make i..."
     },
     {
-      "title": "Can Anthropic's invsibile watermarks curb ‘AI slop’? Researchers remain sceptical",
+      "title": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
       "link": "https://www.nature.com/articles/d41586-026-02503-7",
       "date": "2026-08-13 00:00",
-      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02503-7The move is likely to do little to tackle the rise of ‘AI ..."
+      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02503-7New Claude models will watermark text and tag images as AI..."
     },
     {
       "title": "AI isn’t ready to research itself",
       "link": "https://www.nature.com/articles/d41586-026-02494-5",
       "date": "2026-08-13 00:00",
       "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5An agentic system successfully developed concepts from two..."
-    },
-    {
-      "title": "Why China should reassess how it rewards young scientists",
-      "link": "https://www.nature.com/articles/d41586-026-02525-1",
-      "date": "2026-08-13 00:00",
-      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1Talent schemes helped to propel China to the forefront of ..."
     }
   ],
   "Retraction Watch": [
@@ -167,10 +167,16 @@
       "summary": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle  Reuters..."
     },
     {
-      "title": "NEWSLETTER: American AI model makers smell an opportunity - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTjdFeGZSYlRfS0Z2ajQwNkNMQm1vUDE2SFJiRkF2NlNMTnVMRjdDaWlSOG9BTDZhWXZ5R3M3MENRbGpBaUFrRVptYmxEbmstQXBhdEVIYmhYQUJSQmRONzcxTG9MVlhmOFRxc0Y5QUdKMF9wRkZvaS10VUc4WFNuWjNPdlE3YVV5cjRoNnUtZ3VvSnJWd3BpVWl6X1BFMUptNzBTNDBYTGNCLXhFLUZ4YkVFMHpRNFE?oc=5",
-      "date": "2026-08-12 19:15",
-      "summary": "NEWSLETTER: American AI model makers smell an opportunity  Reuters..."
+      "title": "DeepSeek releases official V4 Pro model as it steps up expansion - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBOcmxUZXZzV20xU1pZMnI1X0JKRzV1SUJwcGhzaE1JZDZfUTZqVDZMVXNhUHFoY295SHZuLWZZbTlXa1AtUmI2dkRhRWliRXFBYzdZQlROdUVzZ2dNc2pHLUhvdTFBSVpSTW9SaHBQUnJubTdMX2FQUkhHTDhiUGtiZDUxLTRQXzRrZERqSzlOSXZpMWYxUzVWeXFCdW1HZEVWbWMtVDhFU1BCSkE?oc=5",
+      "date": "2026-08-13 12:56",
+      "summary": "DeepSeek releases official V4 Pro model as it steps up expansion  Reuters..."
+    },
+    {
+      "title": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5",
+      "date": "2026-08-13 14:47",
+      "summary": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open  Reuters..."
     },
     {
       "title": "Strong Majority of Japanese Firms Have Yet to Fully Embrace AI: Reuters Poll - U.S. News - Money",
@@ -179,16 +185,10 @@
       "summary": "Strong Majority of Japanese Firms Have Yet to Fully Embrace AI: Reuters Poll  U.S. News - Money..."
     },
     {
-      "title": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5",
-      "date": "2026-08-13 14:02",
-      "summary": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open  Reuters..."
-    },
-    {
-      "title": "DeepSeek releases official V4 Pro model as it steps up expansion - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBOcmxUZXZzV20xU1pZMnI1X0JKRzV1SUJwcGhzaE1JZDZfUTZqVDZMVXNhUHFoY295SHZuLWZZbTlXa1AtUmI2dkRhRWliRXFBYzdZQlROdUVzZ2dNc2pHLUhvdTFBSVpSTW9SaHBQUnJubTdMX2FQUkhHTDhiUGtiZDUxLTRQXzRrZERqSzlOSXZpMWYxUzVWeXFCdW1HZEVWbWMtVDhFU1BCSkE?oc=5",
-      "date": "2026-08-13 12:56",
-      "summary": "DeepSeek releases official V4 Pro model as it steps up expansion  Reuters..."
+      "title": "China's Lenovo posts 43% jump in Q1 revenue, riding AI infrastructure boom - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1FkcWU0azdRWDdsZ3lmTkN5VzM2c01DakprRTFmZmk2bk1aSm5ZUXZDemk5a2Q2SnptclFrb3lQZzJiUW11YU9jaHpXaEl1YmpFRlIyUFU4aXFYOFFJTVQ2R3MyU2VUMTZTU1piOXY4M3BzRHpmYlVxd0ZjQjYxUTZiUWtQRUFiVDZvUEtENA?oc=5",
+      "date": "2026-08-13 08:08",
+      "summary": "China's Lenovo posts 43% jump in Q1 revenue, riding AI infrastructure boom  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -205,54 +205,54 @@
       "summary": "Flock is tightening its rules in response to a growing surveillance backlash  MIT Technology Review..."
     },
     {
+      "title": "The Download: kids’ thoughts on AI, and female clones of male mice - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORG8tOVY5LWVzZk9ScEd4b3hEd3RuWVdMbUlvUEM3RDN5MFcza0xSZ3lEN3llRWVHVzZTTDJEX01ocmRKZ1d2dWtDM2VfS2ZJSXNaVk91YTRDeGJZbUN1UHI1a004RTZhd0h3TVFMYW5DcnBsNjU0OHZSaUs0aExKTVl3aUlXQ1ByVmhyVGhLZ3FSOHlPb1h6RVRQbDdOS3FtWm95VnNCWlVGMkViQnfSAbMBQVVfeXFMUEVJMTU0dGM4Ti15UmFHNS0xNXB0V0NOSW5aemJIVGVWQm94dV9oU2REWTNQRFR5VDBmeTBVSEhwVENiSUZ4eGtTai1LV1NmYkZyZnAyOGsyUjRsV3FsWGlIWlFwRVNHS1hKZTVHbzVUN0hnRmZxcHhnajZyODdaMmJYWWZkd3g1aWwxSDlHWTFyaWhPejMySV9lTTZqbmhtcHFkSzRocTJoSkg5eEl1cDA5UVE?oc=5",
+      "date": "2026-08-13 12:10",
+      "summary": "The Download: kids’ thoughts on AI, and female clones of male mice  MIT Technology Review..."
+    },
+    {
       "title": "These startups are chasing the next big thing in LLMs - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTQtTzd2S1RCbGItZWp5RjVZSVNTNnpyeGV5bjhveDNUZ1pfY3BFQ1Noc2hTd2FtU0t1LW5EZ3FIVFNLSlV2WWZCbWFuYklUYWlRMDJKUWRTTnJYN0RoR3Zzb3NrbllMcHFLang4WnlueWExVXp0U0I3QjdaMjRORi02al9CTHdZQ2tKWHF3aWpqWUp0YTQ2SW9BNnh3d2ZNR0EzNURhM2dFUdIBrwFBVV95cUxNWmNzVlRSWFBZVkxJMGkwY1NQUVJnYUE2OXAwYVJ5bWpqUnh1ZW5pQmU1VEk3QjdGZWhUNTdtb0E5MHNXS2YtZ3B2TXRLZDFNWnhzRjJaR2hDVVZtdlBVU3VmQnM4UWI3cV9iNmdCbnpKQ2JSZFlzbndIQkYxa2UxYTluQ3AyV0I3b2VvTTI2d1lFZzBQZ1B4cXg5Ykp2b24wZjhKcm5iWXhvb2VSS3M4?oc=5",
       "date": "2026-08-10 09:00",
       "summary": "These startups are chasing the next big thing in LLMs  MIT Technology Review..."
     },
     {
-      "title": "Scaling AI agents with trustworthy data - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY293cTd3RzBudWhucDVKd1hUTUlqT2kzZU11RVBjQUxqcXVSdHVSNGRoYUljNVNqV1M0d3hTbVpfTl9UNUoySmxjU25yaTA5VFBubGs0ZDZOYlVjS0tFX0lSYzVWTWstX2Nwb1pJT2tXbHpYd29ZQ3pXd2lfWkpDWURIdTNCSS05cXlaZ1ZnVVByRE9YTkMw0gGcAUFVX3lxTE1SNzlWM3h4SktlMDBqY2x3QXR4c2pORHZlRXFKU2w4Qlg1bUlBUlU4NWc3RkhqLUpjTjc0X2llX1VWOUEzRzlGVVYzTU5KM3g3eWVSaEpHcEpmYTJVZkZlR0JMcV9zQlphZFk2S2VCemVfbTh2N09ieFJrMDZ6RjVZR09oUlMzcE9QbnpIU2N1VDBqRXBRTUdYdXZpdQ?oc=5",
-      "date": "2026-08-12 16:51",
-      "summary": "Scaling AI agents with trustworthy data  MIT Technology Review..."
-    },
-    {
-      "title": "What’s behind this summer’s heat, and why 2027 could be worse - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aY2JmYjg0Y3RPVnptczk4MGlMaXhrbzhObTNZN3Ayd251b3RyS3RwQXB2RjNsbS1QRFgwLW5XU2kyRFFXWm9tdUV4bS1WTG1YNDF4SzU2V0NjZ0xEdTFiQ3hlMGxHNHJaZnBGZl9YRzZ4S19IQk51YzdYVjPSAYIBQVVfeXFMT1lKNnZocHA5eHU5YWJnTlFGcGJBRW1jcksyNlhPOW45VE1RdFB5dHRJWnN0cDlESVl0bm5LTzgwMV82VmZxY3gyazVnTy1VR3pYVjRrMWFuU21PbFRmN0Z4d2l4c3RfQTU5TTFyVWdrV0RxM0o2OWZuYlB5MDhld0JWUQ?oc=5",
-      "date": "2026-08-13 10:00",
-      "summary": "What’s behind this summer’s heat, and why 2027 could be worse  MIT Technology Review..."
+      "title": "AI for science needs reasoning, not just data - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkREdkNWswa3JTbHpFQ3c1UWxhOXNaTFE1bHR5T2g0b0F5RmJTdUJLMEFzR1pYaWRURjQxWS13TUJQSFNrTDNYUTdkdlZlLUVOVWNXUWhkcF9aUnVzbFl3VFZfbFp1Sm9uV3U1Wk1maHNzdTl2YVZnN19uTm9JXzTSAYQBQVVfeXFMTklybzZMNGJ5ZndXX1oxYzhKTG50cEVrLWJVZ1RiRUd6aFpKVFJZTWNTNjBCRGpaZFRycFYyb2tSTHNhZXVKVl9xaV9OLU1CenVKNU5iZlBPaXJlSEEyWFJFeVFKbC14M2p6WnpIZUFYS2EzZVdaTXJVVDllT1FyTWNiQy1O?oc=5",
+      "date": "2026-08-10 09:00",
+      "summary": "AI for science needs reasoning, not just data  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Melting diamond could unlock triple fusion gain and the secrets of ice giant planets",
-      "link": "https://phys.org/news/2026-08-diamond-triple-fusion-gain-secrets.html",
-      "date": "2026-08-13 15:40",
-      "summary": "Diamond is more than a dazzling gem—the extremely hard form of carbon makes up the pellet that encases fuel for inertial confineme..."
+      "title": "A new category of heat waves is melting western US snowpack faster",
+      "link": "https://phys.org/news/2026-08-category-western-snowpack-faster.html",
+      "date": "2026-08-13 16:40",
+      "summary": "Heat waves are not all created equal. While some bring dry heat that rapidly dries out crops, others carry a lot of moisture that ..."
     },
     {
-      "title": "Reddit analysis finds AI trust narrowly exceeds distrust, 31% to 26%",
-      "link": "https://phys.org/news/2026-08-generative-ai-attitudes-distrust-analysis.html",
-      "date": "2026-08-13 15:40",
-      "summary": "Is generative artificial intelligence technology a helpful tool or a big problem? Nearly four years after ChatGPT became a househo..."
+      "title": "College men's attitudes linked to ignoring rejections from bisexual women",
+      "link": "https://phys.org/news/2026-08-college-men-attitudes-linked-bisexual.html",
+      "date": "2026-08-13 16:40",
+      "summary": "Alexis Sheffield, a doctoral candidate in clinical psychology, recently published a research article about a study exploring facto..."
     },
     {
-      "title": "Sugar molecule could help protect against dangerous hospital fungus Candida auris",
-      "link": "https://phys.org/news/2026-08-sugar-molecule-dangerous-hospital-fungus.html",
-      "date": "2026-08-13 15:20",
-      "summary": "Researchers have developed a potential new approach against the highly drug-resistant hospital fungus Candida auris. They discover..."
+      "title": "Satellite data reveal tropical forests respond differently to climate across continents",
+      "link": "https://phys.org/news/2026-08-satellite-reveal-tropical-forests-differently.html",
+      "date": "2026-08-13 16:20",
+      "summary": "Satellite images can be used to estimate how much carbon forests store as aboveground biomass (AGB) and how biomass varies in diff..."
     },
     {
-      "title": "Fungal age remains elusive as underground networks continually grow, split and recycle",
-      "link": "https://phys.org/news/2026-08-fungal-age-elusive-underground-networks.html",
-      "date": "2026-08-13 15:00",
-      "summary": "Some of Earth's oldest living organisms may be right beneath our feet: not ancient trees or coral reefs but fungi. Yet despite the..."
+      "title": "Journalism is key to combating bad practices in science",
+      "link": "https://phys.org/news/2026-08-journalism-key-combating-bad-science.html",
+      "date": "2026-08-13 16:20",
+      "summary": "Watchdog science journalism has become a fundamental tool to counter scientific malpractice, such as publication fraud, abuse and ..."
     },
     {
-      "title": "Thinking fast and slow: Wild fish reveal how cognition evolved in two closely related species",
-      "link": "https://phys.org/news/2026-08-fast-wild-fish-reveal-cognition.html",
-      "date": "2026-08-13 14:40",
-      "summary": "Why do two individuals faced with the same information sometimes make completely different decisions? It is a question made famous..."
+      "title": "New fiber-based electronic device generates power and detects harmful gas",
+      "link": "https://phys.org/news/2026-08-fiber-based-electronic-device-generates.html",
+      "date": "2026-08-13 16:02",
+      "summary": "Research teams have developed a multifunctional fiber-shaped electronic device capable of both generating electricity and detectin..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "UK rules out deporting ex-Hong Kong opposition leader after entry hiccup",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3363955/uk-rules-out-deporting-ex-hong-kong-opposition-leader-after-entry-hiccup?utm_source=rss_feed",
+      "date": "2026-08-13 16:04",
+      "summary": "Former Hong Kong opposition leader Wu Chi-wai, who has been granted permission to enter the United Kingdom, will not be deported d..."
+    },
+    {
       "title": "Hong Kong public rental housing wait edges up to 4.8 years, urban allocations rise",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3363954/long-and-short-term-public-rental-housing-wait-hong-kong-edges-48-years?utm_source=rss_feed",
       "date": "2026-08-13 15:27",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363948/northern-metropolis-hong-kong-seeks-interest-land-parcels-logistics-hub?utm_source=rss_feed",
       "date": "2026-08-13 13:30",
       "summary": "Hong Kong authorities have invited interested parties to submit expressions of interest to develop land parcels set aside for a mo..."
-    },
-    {
-      "title": "CK Hutchison says ‘forced termination’ of Panama ports cut 1% off throughput",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363940/ck-hutchison-says-forced-termination-panama-ports-cut-1-throughput?utm_source=rss_feed",
-      "date": "2026-08-13 11:58",
-      "summary": "Hong Kong-based CK Hutchison Holdings has revealed the “forced termination” of operations at two strategic Panama Canal ports shav..."
     }
   ]
 }
