@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "When AI goes rogue - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lX3NkVy1LVjZvSnNrUzdYd2ZMdnpFQWVqalJHTkpQN3ZDTFd3NnJFVjhMNnRSS19pVEV1S3YzOUIzbGlpVXFqaDJ2eGp0Z2lPeV8xbTVuWk5HVmI1bWYtdi1ncnUzQW92b0YxV2s5RzBPRDZ4?oc=5",
-      "date": "2026-08-05 20:42",
-      "summary": "When AI goes rogue  Harvard Gazette..."
-    },
-    {
       "title": "20 societal problems, 20 solutions - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
@@ -51,16 +45,22 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
+      "title": "When AI goes rogue - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lX3NkVy1LVjZvSnNrUzdYd2ZMdnpFQWVqalJHTkpQN3ZDTFd3NnJFVjhMNnRSS19pVEV1S3YzOUIzbGlpVXFqaDJ2eGp0Z2lPeV8xbTVuWk5HVmI1bWYtdi1ncnUzQW92b0YxV2s5RzBPRDZ4?oc=5",
+      "date": "2026-08-05 20:42",
+      "summary": "When AI goes rogue  Harvard Gazette..."
+    },
+    {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     },
     {
-      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
-      "date": "2026-04-09 07:00",
-      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
+      "title": "How academia can help America heal - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmFmRENVM3FkVlBLZkRnMnMyMENaeEstSFdjQ2xvYkRIYUZvWldjV0ZBREFLNXN6RndjV3BHdldRcEszMk9tNGpuSEFob2hIMmxLRWk4MnZDSE5FQ2hMMTl3dnRxNEx3LXNnblFrWmJodzF3WHdRZlZmaTloRmtnQWpxdW4yZFhEWUE?oc=5",
+      "date": "2026-02-13 08:00",
+      "summary": "How academia can help America heal  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -89,10 +89,10 @@
       "summary": "MetaOptics to Deploy Direct Laser Writer at Stanford University  marketscreener.com..."
     },
     {
-      "title": "A World From the Inside - The American Prospect",
+      "title": "A World From the Inside - prospect.org",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZFBCeEVoOVU3YUllS2NPaFBTNzJOTnkxclJRWkJDY0Fsb01lekJJbGIzTmxfWlZaWjBZTlFqd1J6MTVFaXNxanN1UVo4ZGczQ3NFdU9nYlZhMXh1azRXTzF2SVdwbkExNEt4UFlsTFBycklGeGZpRE53NXJJMl9iaTd3?oc=5",
       "date": "2026-08-12 09:00",
-      "summary": "A World From the Inside  The American Prospect..."
+      "summary": "A World From the Inside  prospect.org..."
     }
   ],
   "Nature Careers": [
@@ -101,6 +101,12 @@
       "link": "https://www.nature.com/articles/s41586-026-10960-3",
       "date": "2026-08-13 00:00",
       "summary": "Nature, Published online: 13 August 2026; doi:10.1038/s41586-026-10960-3Author Correction: Cretaceous bird from Brazil informs the..."
+    },
+    {
+      "title": "How to make your science business succeed when you’re a female founder",
+      "link": "https://www.nature.com/articles/d41586-026-01904-y",
+      "date": "2026-08-13 00:00",
+      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-01904-ySexist assumptions and a male-dominated culture can make i..."
     },
     {
       "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10774-3",
       "date": "2026-08-12 00:00",
       "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10774-3Pre-clinical data interpretation requires clinical context..."
-    },
-    {
-      "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
-      "link": "https://www.nature.com/articles/d41586-026-02463-y",
-      "date": "2026-08-12 00:00",
-      "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02463-yAirborne camera gathers data about the high-energy particl..."
     }
   ],
   "Retraction Watch": [
@@ -173,22 +173,22 @@
       "summary": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll  Reuters..."
     },
     {
-      "title": "AI boom is starting to show in UK economy's performance - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0cXV6RQ?oc=5",
-      "date": "2026-08-13 12:06",
-      "summary": "AI boom is starting to show in UK economy's performance  Reuters..."
-    },
-    {
-      "title": "DeepSeek raises API pricing for its V4 models - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0VIYlk0czVDRGdnTGVvU2oyMlpoazd4TGE1RkhIRTlVdUxiWlRGMFBzd1N0c0ZFb1lJanpLTUU5WVZnT0JCUC1ITVJ1RlhlWENDTjlpT2RMRC1xMXRJbU1kZ1FOb2JGcHU0cXlXdGlQVDdXT2dKQUZ6dEF3VG5Pd0J0ZmtCWDlldWtubkpXUVhHS3c?oc=5",
-      "date": "2026-08-13 11:57",
-      "summary": "DeepSeek raises API pricing for its V4 models  Reuters..."
-    },
-    {
       "title": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5",
       "date": "2026-08-12 17:36",
       "summary": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle  Reuters..."
+    },
+    {
+      "title": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5",
+      "date": "2026-08-13 14:02",
+      "summary": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open  Reuters..."
+    },
+    {
+      "title": "AI boom is starting to show in UK economy's performance - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0cXV6RQ?oc=5",
+      "date": "2026-08-13 12:06",
+      "summary": "AI boom is starting to show in UK economy's performance  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -199,68 +199,74 @@
       "summary": "How kids feel about AI, in their own words  MIT Technology Review..."
     },
     {
-      "title": "What’s behind this summer’s heat, and why 2027 could be worse - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aY2JmYjg0Y3RPVnptczk4MGlMaXhrbzhObTNZN3Ayd251b3RyS3RwQXB2RjNsbS1QRFgwLW5XU2kyRFFXWm9tdUV4bS1WTG1YNDF4SzU2V0NjZ0xEdTFiQ3hlMGxHNHJaZnBGZl9YRzZ4S19IQk51YzdYVjPSAYIBQVVfeXFMT1lKNnZocHA5eHU5YWJnTlFGcGJBRW1jcksyNlhPOW45VE1RdFB5dHRJWnN0cDlESVl0bm5LTzgwMV82VmZxY3gyazVnTy1VR3pYVjRrMWFuU21PbFRmN0Z4d2l4c3RfQTU5TTFyVWdrV0RxM0o2OWZuYlB5MDhld0JWUQ?oc=5",
-      "date": "2026-08-13 10:00",
-      "summary": "What’s behind this summer’s heat, and why 2027 could be worse  MIT Technology Review..."
-    },
-    {
       "title": "Scaling AI agents with trustworthy data - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY293cTd3RzBudWhucDVKd1hUTUlqT2kzZU11RVBjQUxqcXVSdHVSNGRoYUljNVNqV1M0d3hTbVpfTl9UNUoySmxjU25yaTA5VFBubGs0ZDZOYlVjS0tFX0lSYzVWTWstX2Nwb1pJT2tXbHpYd29ZQ3pXd2lfWkpDWURIdTNCSS05cXlaZ1ZnVVByRE9YTkMw0gGcAUFVX3lxTE1SNzlWM3h4SktlMDBqY2x3QXR4c2pORHZlRXFKU2w4Qlg1bUlBUlU4NWc3RkhqLUpjTjc0X2llX1VWOUEzRzlGVVYzTU5KM3g3eWVSaEpHcEpmYTJVZkZlR0JMcV9zQlphZFk2S2VCemVfbTh2N09ieFJrMDZ6RjVZR09oUlMzcE9QbnpIU2N1VDBqRXBRTUdYdXZpdQ?oc=5",
       "date": "2026-08-12 16:51",
       "summary": "Scaling AI agents with trustworthy data  MIT Technology Review..."
     },
     {
+      "title": "What’s behind this summer’s heat, and why 2027 could be worse - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aY2JmYjg0Y3RPVnptczk4MGlMaXhrbzhObTNZN3Ayd251b3RyS3RwQXB2RjNsbS1QRFgwLW5XU2kyRFFXWm9tdUV4bS1WTG1YNDF4SzU2V0NjZ0xEdTFiQ3hlMGxHNHJaZnBGZl9YRzZ4S19IQk51YzdYVjPSAYIBQVVfeXFMT1lKNnZocHA5eHU5YWJnTlFGcGJBRW1jcksyNlhPOW45VE1RdFB5dHRJWnN0cDlESVl0bm5LTzgwMV82VmZxY3gyazVnTy1VR3pYVjRrMWFuU21PbFRmN0Z4d2l4c3RfQTU5TTFyVWdrV0RxM0o2OWZuYlB5MDhld0JWUQ?oc=5",
+      "date": "2026-08-13 10:00",
+      "summary": "What’s behind this summer’s heat, and why 2027 could be worse  MIT Technology Review..."
+    },
+    {
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUYxQl9nUUdBLURNcDhBbzg0dTVtRnktSllQSUFEZ19XS243X01BLTA4TGVqZS1RWno5V3pwYjRzMklTdlVLNm1ydXU0bmVCZENrWEFOSDhfNnlFcTNMNGpmTUpNVDZyN3piNkk5bVN2TlkxTU02aUJ5T0FQREZxR2RVbzZQa0k1UURncUlMalo4SElqVlpCSXkzWEJSQ1BLVElweW1iMFJjWkhSRXUxNHNKUW5Ba3otSkdpMnBhR1lTZnpkbmMtRNIBzgFBVV95cUxNTGxnQnFhWWFlTlk3N0ItSmJKQkdCbmFtZkxNQnNRTzk1Ykw0cnVaeElPc2NtUWNkRy1oMUgybkptS3E0dXozMnJYaVZSSk1HYm44RkR1QUNTaDJyRmpmdTFHd3B6ZVAyQ3lJbllVZmROTGRfM2RhbEhDeW5iNi1ucmNpbU5ESS0xMWJGaFB5SHRKb0N6bEthYUJDUVh1LV9sUWliZDBmYWc1MWw5LUw0dDBIZ0l4OXg5eTU1WXFBNHFHdlBPNkdfLW9LRVVHdw?oc=5",
+      "date": "2026-08-13 13:41",
+      "summary": "Flock is tightening its rules in response to a growing surveillance backlash  MIT Technology Review..."
+    },
+    {
       "title": "These startups are chasing the next big thing in LLMs - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTQtTzd2S1RCbGItZWp5RjVZSVNTNnpyeGV5bjhveDNUZ1pfY3BFQ1Noc2hTd2FtU0t1LW5EZ3FIVFNLSlV2WWZCbWFuYklUYWlRMDJKUWRTTnJYN0RoR3Zzb3NrbllMcHFLang4WnlueWExVXp0U0I3QjdaMjRORi02al9CTHdZQ2tKWHF3aWpqWUp0YTQ2SW9BNnh3d2ZNR0EzNURhM2dFUdIBrwFBVV95cUxNWmNzVlRSWFBZVkxJMGkwY1NQUVJnYUE2OXAwYVJ5bWpqUnh1ZW5pQmU1VEk3QjdGZWhUNTdtb0E5MHNXS2YtZ3B2TXRLZDFNWnhzRjJaR2hDVVZtdlBVU3VmQnM4UWI3cV9iNmdCbnpKQ2JSZFlzbndIQkYxa2UxYTluQ3AyV0I3b2VvTTI2d1lFZzBQZ1B4cXg5Ykp2b24wZjhKcm5iWXhvb2VSS3M4?oc=5",
       "date": "2026-08-10 09:00",
       "summary": "These startups are chasing the next big thing in LLMs  MIT Technology Review..."
-    },
-    {
-      "title": "AI for science needs reasoning, not just data - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkREdkNWswa3JTbHpFQ3c1UWxhOXNaTFE1bHR5T2g0b0F5RmJTdUJLMEFzR1pYaWRURjQxWS13TUJQSFNrTDNYUTdkdlZlLUVOVWNXUWhkcF9aUnVzbFl3VFZfbFp1Sm9uV3U1Wk1maHNzdTl2YVZnN19uTm9JXzTSAYQBQVVfeXFMTklybzZMNGJ5ZndXX1oxYzhKTG50cEVrLWJVZ1RiRUd6aFpKVFJZTWNTNjBCRGpaZFRycFYyb2tSTHNhZXVKVl9xaV9OLU1CenVKNU5iZlBPaXJlSEEyWFJFeVFKbC14M2p6WnpIZUFYS2EzZVdaTXJVVDllT1FyTWNiQy1O?oc=5",
-      "date": "2026-08-10 09:00",
-      "summary": "AI for science needs reasoning, not just data  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Mice bred to run three times farther show no fertility or lifespan cost",
-      "link": "https://phys.org/news/2026-08-mouse-assumed-offs-athleticism-fertility.html",
-      "date": "2026-08-13 12:40",
-      "summary": "Being an elite athlete—at least for a mouse—does not shorten lifespan or limit how many children one can have. This is the finding..."
+      "title": "Thinking fast and slow: Wild fish reveal how cognition evolved in two closely related species",
+      "link": "https://phys.org/news/2026-08-fast-wild-fish-reveal-cognition.html",
+      "date": "2026-08-13 14:40",
+      "summary": "Why do two individuals faced with the same information sometimes make completely different decisions? It is a question made famous..."
     },
     {
-      "title": "Could geothermal roads help prevent potholes before they form? New trial aims to find out",
-      "link": "https://phys.org/news/2026-08-geothermal-roads-potholes-trial-aims.html",
-      "date": "2026-08-13 12:20",
-      "summary": "The U.K.'s pothole problem could one day be tackled from beneath the road surface as researchers at the University of Surrey launc..."
+      "title": "Understanding nature's 'dimmer switch': Study sheds new light on how algae regulate photosynthesis with pH",
+      "link": "https://phys.org/news/2026-08-nature-dimmer-algae-photosynthesis-ph.html",
+      "date": "2026-08-13 14:20",
+      "summary": "A new joint study from Constructor University and Princeton University in the Journal of the American Chemical Society focuses on ..."
     },
     {
-      "title": "Marine heat waves are cooking our ocean ecosystems—and will only become more common",
-      "link": "https://phys.org/news/2026-08-marine-cooking-ocean-ecosystems-common.html",
-      "date": "2026-08-13 12:00",
-      "summary": "You may have heard reports of fish die-offs or seen photos of hauntingly bleached coral...."
+      "title": "A magnetic path to lower-power computing",
+      "link": "https://phys.org/news/2026-08-magnetic-path-power.html",
+      "date": "2026-08-13 14:00",
+      "summary": "From smartphones to data centers, modern electronics rely on billions of tiny switches that consume electricity every time they tu..."
     },
     {
-      "title": "Early hardship may shape how oxytocin influences altruism",
-      "link": "https://phys.org/news/2026-08-early-hardship-oxytocin-altruism.html",
-      "date": "2026-08-13 12:00",
-      "summary": "While humans are inherently social beings, they can interact and connect with others in very different ways. For instance, while s..."
+      "title": "Greater vegetable diversity needed for healthier diets and climate-resilient agriculture",
+      "link": "https://phys.org/news/2026-08-greater-vegetable-diversity-healthier-diets.html",
+      "date": "2026-08-13 13:40",
+      "summary": "In a study published in the Proceedings of the National Academy of Sciences, researchers show how a wider diversity of vegetables ..."
     },
     {
-      "title": "NZ's new flood maps are missing a hidden threat—the water quietly rising from below",
-      "link": "https://phys.org/news/2026-08-nz-hidden-threat-quietly.html",
-      "date": "2026-08-13 11:40",
-      "summary": "The latest update of nationwide flood maps, to be released next year, will give communities across New Zealand the clearest pictur..."
+      "title": "Complex suicidal somersault behavior in male redback spiders may be explained by surprisingly simple genetics",
+      "link": "https://phys.org/news/2026-08-complex-suicidal-somersault-behavior-male.html",
+      "date": "2026-08-13 13:40",
+      "summary": "The Australian redback spider (Latrodectus hasselti), a cousin of the North American black widow spider, is known to practice sexu..."
     }
   ],
   "The Guardian Edu": [
     {
-      "title": "London pulls further ahead as A-level regional divide for top grades hits record – latest news",
+      "title": "London pulls further ahead as A-level regional divide for top grades hits record – as it happened",
       "link": "https://www.theguardian.com/education/live/2026/aug/13/a-level-results-universities-clearing-schools-college-sixth-forms-latest-news-updates",
-      "date": "2026-08-13 12:49",
+      "date": "2026-08-13 13:11",
       "summary": "This year’s results expose a widening gap in students achieving top grades in London and north-east EnglandFor international stude..."
+    },
+    {
+      "title": "‘I’m going for a few pints now’: nerves and joy as students collect their A-level results",
+      "link": "https://www.theguardian.com/education/2026/aug/13/nerves-and-joy-as-students-collect-their-a-level-results",
+      "date": "2026-08-13 13:04",
+      "summary": "For sixth formers in Halifax, discovering their grades means a chance to celebrate and plan for the futureThere are few days that ..."
     },
     {
       "title": "Students set new records for A-level grades in bumper year",
@@ -279,44 +285,38 @@
       "link": "https://www.theguardian.com/uk-news/2026/aug/12/jason-arday-cambridge-claim-non-verbal-child",
       "date": "2026-08-12 15:00",
       "summary": "Fellow pupils at his primary school have challenged Cambridge academic’s story, though others support itThe story of Jason Arday’s..."
-    },
-    {
-      "title": "Jason Arday’s life may be a warped fantasy. But so is this conversation around DEI",
-      "link": "https://www.theguardian.com/news/2026/aug/12/jason-arday-life-conversation-dei",
-      "date": "2026-08-12 12:49",
-      "summary": "Cambridge’s youngest Black professor has resigned. But the discourse around his departure is rooted in its own distorted reality• ..."
     }
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Why is Hong Kong’s heat-stress warning system for outdoor workers in the hot seat?",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3363953/why-hong-kongs-heat-stress-warning-system-outdoor-workers-hot-seat?utm_source=rss_feed",
+      "date": "2026-08-13 14:39",
+      "summary": "Hong Kong residents have borne the brunt of extreme weather this summer, with July rainfall exceeding the monthly norm by 23 per c..."
+    },
+    {
+      "title": "Hong Kong holds first large-scale drill at revamped Huanggang border crossing",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3363949/hong-kong-holds-first-large-scale-drill-revamped-huanggang-border-crossing?utm_source=rss_feed",
+      "date": "2026-08-13 13:48",
+      "summary": "Hong Kong has conducted its first large-scale drill at the revamped Huanggang border crossing, with authorities describing traffic..."
+    },
+    {
+      "title": "Northern Metropolis: Hong Kong seeks interest in land parcels for logistics hub",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363948/northern-metropolis-hong-kong-seeks-interest-land-parcels-logistics-hub?utm_source=rss_feed",
+      "date": "2026-08-13 13:30",
+      "summary": "Hong Kong authorities have invited interested parties to submit expressions of interest to develop land parcels set aside for a mo..."
+    },
+    {
       "title": "CK Hutchison says ‘forced termination’ of Panama ports cut 1% off throughput",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363940/ck-hutchison-says-forced-termination-panama-ports-cut-1-throughput?utm_source=rss_feed",
       "date": "2026-08-13 11:58",
-      "summary": "CK Hutchison Holdings has revealed the “forced termination” of operations at two strategic Panama Canal ports shaved 1 per cent of..."
+      "summary": "Hong Kong-based CK Hutchison Holdings has revealed the “forced termination” of operations at two strategic Panama Canal ports shav..."
     },
     {
       "title": "Supplier says subcontractor ordered non-fire-retardant nets before Tai Po blaze",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3363936/supplier-says-subcontractor-ordered-non-fire-retardant-nets-tai-po-blaze?utm_source=rss_feed",
       "date": "2026-08-13 11:26",
       "summary": "A scaffolding subcontractor at Hong Kong’s fire-ravaged Wang Fuk Court estate ordered batches of non-fire-retardant protective net..."
-    },
-    {
-      "title": "Thousands of bargain hunters descend on Hong Kong’s Food Expo despite heatwave",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363932/thousands-bargain-hunters-descend-hong-kongs-food-expo-despite-heatwave?utm_source=rss_feed",
-      "date": "2026-08-13 11:06",
-      "summary": "Thousands of Hongkongers packed the city’s annual food fair for its opening on Thursday, snapping up abalone, frozen salmon, insta..."
-    },
-    {
-      "title": "McDonald’s Hong Kong pulls shrimp burgers after Taiwan detects antibiotic residue",
-      "link": "https://www.scmp.com/news/hong-kong/article/3363922/mcdonalds-hong-kong-pulls-shrimp-burgers-after-taiwan-detects-antibiotic-residue?utm_source=rss_feed",
-      "date": "2026-08-13 09:45",
-      "summary": "McDonald’s has temporarily removed its popular Ebi Burger series from its menu in Hong Kong as a “precautionary measure”, followin..."
-    },
-    {
-      "title": "Hong Kong woman acquitted of protest-related charges after return from Australia",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363917/hong-kong-woman-acquitted-protest-related-charges-after-return-australia?utm_source=rss_feed",
-      "date": "2026-08-13 09:25",
-      "summary": "A Hong Kong woman who returned from Australia has been acquitted of two charges linked to the 2019 anti-government protests, after..."
     }
   ]
 }
