@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Drug that targets an inflammatory enzyme could help prevent lung cancer",
+      "link": "https://news.mit.edu/2026/drug-targeting-inflammatory-enzyme-could-help-prevent-lung-cancer-0814",
+      "date": "2026-08-14 18:00",
+      "summary": "A new study by MIT researchers shows that inhibiting caspase-1 can reduce the risk of tumor growth...."
+    },
+    {
       "title": "Cells pulse together as they grow — and malignant cells pulse the longest",
       "link": "https://news.mit.edu/2026/cells-pulse-together-malignant-cells-pulse-longest-0814",
       "date": "2026-08-14 15:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/mit-to-lead-nsf-materials-research-center-0812",
       "date": "2026-08-12 20:15",
       "summary": "The Materials Research Science and Engineering Center unites researchers across disciplines to develop technologies for medical im..."
-    },
-    {
-      "title": "Astronomers discover a brand-new type of astrophysical object: A black hole star",
-      "link": "https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812",
-      "date": "2026-08-12 15:00",
-      "summary": "The mashup of a black hole and an enormous star has never been seen before and could explain the mysterious little red dots often ..."
     }
   ],
   "Harvard Gazette": [
@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "New book takes on the dominance of Silicon Valley billionaires - Stanford School of Humanities and Sciences",
+      "title": "New book takes on the dominance of Silicon Valley billionaires - humsci.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM0pWVi1YT2s3SnNTempIbDI1NnE2djg5SXFYekFFZXVJSFJTYWdlOFBnT1RVRnVwcm01Wm9jOG1iUWMtZUZGcUF2QWF1NFZfTXF4QndSN0hILUgycWx1SmhmaVNjWmZxREVVWW4xaWJvTk14VEUxNkpfclpCQVh4UWhLT3B0Qk5ZWkhPdWExMEo5Zw?oc=5",
       "date": "2026-08-14 17:26",
-      "summary": "New book takes on the dominance of Silicon Valley billionaires  Stanford School of Humanities and Sciences..."
+      "summary": "New book takes on the dominance of Silicon Valley billionaires  humsci.stanford.edu..."
     },
     {
       "title": "Immune cells flood into the aging brain, Stanford scientists discover - ScienceDaily",
@@ -77,10 +77,10 @@
       "summary": "Immune cells flood into the aging brain, Stanford scientists discover  ScienceDaily..."
     },
     {
-      "title": "Potential language-specific brain network identified - Stanford School of Humanities and Sciences",
+      "title": "Potential language-specific brain network identified - humsci.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZjQxR004Y2M3eEM5NjJEeVhyQnF3ZHpUZzY3c2ptYzZCbDVQNW8tV0NjeERQNmdEVG1SU0NtM05QWklVMWpwQ19YU2l1OFVIWHNTR1p0VnFlRGZqVmZiNEZCcW9YRUdZZWdmcnFqaHlGazRLMk9VclJ1eGVtb2paSDNFWmptcGk2aHExRmFPdHY3cFN4?oc=5",
       "date": "2026-08-13 22:47",
-      "summary": "Potential language-specific brain network identified  Stanford School of Humanities and Sciences..."
+      "summary": "Potential language-specific brain network identified  humsci.stanford.edu..."
     },
     {
       "title": "Immune cells cross blood-brain barrier during human aging - National Institutes of Health (NIH) | (.gov)",
@@ -89,13 +89,19 @@
       "summary": "Immune cells cross blood-brain barrier during human aging  National Institutes of Health (NIH) | (.gov)..."
     },
     {
-      "title": "Stanford researchers discover a language-specific network hidden in the human brain - The Brighter Side of News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY2FUaHFfTXZ0amJfbGR0ZDF4OHZWVHFmbUhXVHhQOU9xanVCcXpoOF9jdWYxRlk5MGtrMGgyaDFFZVNEZmcwdllsRW1ZaXpteUZfYkdCRDdvTElEUF9yQndrZ2tTQjBsazZTam1JR2c0aEFocTc1aFpwcGpCRTdwNU43RHQ4azl3YUFYLWVXVFNySXNId2g1Z0ZKZ3BEV1U4YU1Ibm5vUTlycWV3Qm9yZEFVOVpORElqS2VKUFB5Yw?oc=5",
-      "date": "2026-08-14 14:07",
-      "summary": "Stanford researchers discover a language-specific network hidden in the human brain  The Brighter Side of News..."
+      "title": "Davis Warren expects to win at Stanford under ‘vision’ outlined by Pritchard - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlM3NDJDVF8yNVQ4ZzhlVXJyaUc5c18wbmYxbjZFZHpiTjA1emtIR3duVjdjT0VkemFNVzJDZkI4LWl3Q1h6anlSdVA0NWhiYTFlV1ZDc3FtdC01STdXYnc1T20xU1hmWUZZTXVvRnBfV0YxSEg5Y0cyclpqci1qeE0ycExKaXJBMkhjX2docWxsWC1RNDVIQTN30gGfAUFVX3lxTE9RaTg1SU1kRHVRMW5xRklKdUpoSEo3dkdvM0VqZjN6OE40bGpQcllreWRkZnZka3NyN1VIR0J1LXZEakZnUFhkS20ycWVobWI3clA1aTJmYkJ2TW9sdm5ldXhEckh0OHI4UDJXYWZJT0w0TGZGSGVqMEJITUxOblR1UmlzR2dZZXhRSW80TVhRZXVlTk9sejBRUk9aRXZ3UQ?oc=5",
+      "date": "2026-08-13 12:15",
+      "summary": "Davis Warren expects to win at Stanford under ‘vision’ outlined by Pritchard  The Mercury News..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+      "link": "https://www.nature.com/articles/s41586-026-11023-3",
+      "date": "2026-08-14 00:00",
+      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11023-3Author Correction: Cell intrinsic immunity spreads to byst..."
+    },
     {
       "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
       "link": "https://www.nature.com/articles/s41586-026-11022-4",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02542-0",
       "date": "2026-08-14 00:00",
       "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02542-0Analysis of neighbourhoods in more than 100 US cities find..."
-    },
-    {
-      "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-      "link": "https://www.nature.com/articles/s41586-026-10959-w",
-      "date": "2026-08-13 00:00",
-      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/s41586-026-10959-wAuthor Correction: Structural mechanism of cGAS inhibition..."
     }
   ],
   "Retraction Watch": [
@@ -217,42 +217,42 @@
       "summary": "Scaling AI agents with trustworthy data  MIT Technology Review..."
     },
     {
-      "title": "This scientist is helping build a missing map of childhood - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWUzZDdfWkUwRGwwTUhoSjFqNjhlZl9kRFVOYzlHQVZ4a2UwZWswLXltMWROaDdhWjkwV2dYNG15eWt1SG5FR1BadEoyY3p5LVVtalZ0ODVhUkRmWGE3VDhDN0Vzd2RFMnp6TE1ROHZPeDgyOGlOS1ZSRVlFVWxhOWRNcm5ObDNhXy1fdlYxTGJ1dHpIMlHSAZsBQVVfeXFMT25XMUtxWkFaU1pOeXZzTlBXTlZ3cmdRdE14Rmlnb2kxWXpQeVlIQ3dGT1lJaG9KN0FRbDYzbXlFby1wZV8yNklaWGVpcUNpZHNiTFFWLWRuMTZHbDNScDVRMkI5aWVPbjgxaUZvTzZDVGhKTC03WHdETmpubHNWZ2JjQklsMzVVR01NYXhSdkZVRlZOZzNBcENNaWs?oc=5",
-      "date": "2026-08-14 09:00",
-      "summary": "This scientist is helping build a missing map of childhood  MIT Technology Review..."
+      "title": "AI professors are negotiating the new realities of academic research - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkhYeGEwcmo4YlpsSzlMQzhuU0tkOV9ZeVFYVE5INWdGcmVJQ0Zhb1cxbm1RMF9iOGpDT2YtNkRadmFmU0pfU01mNEQxdzBxd2RKQUdOMUtKQ2JSMkhyMUl6SE8tTFA4ZFdqeHg0S2pwUlVTTnNxTXpKeUJ2NGttLTJ1ZkxDdHI5eHVlMFREemJ5cVVqQVZoaE5HakJHbmR0UTRqZGZ5cWd1aEZJcTdzNXJQWWs2aHVUQUswZDBB0gHDAUFVX3lxTE9EWkhvdHRVU1JacExMTUpBQVJQLXE1Y3RaNE1aZl93TkkwazRqMUxXcnp0U1Qzdnp4a3ZwNUs4QTg1eS1vVWR0XzhZamt6dkpjeHgxU3ZPSkRCeTJ4TldCNjdjRDhtQjEtWFlFRGZHU1ROdEgwQjRUWFdMSzluaFBkYzBCUnFBdlRiTDZsR003b3VNSHNfeHh0Vnp6bHdsZlVGSktDNV94Wjlvb1dzVnFKbHZyWDJ1RG1OUGNIX3ZiM3M2RQ?oc=5",
+      "date": "2026-08-10 20:00",
+      "summary": "AI professors are negotiating the new realities of academic research  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Scientists develop method to deliver sugars directly into cells",
-      "link": "https://phys.org/news/2026-08-scientists-method-sugars-cells.html",
-      "date": "2026-08-14 17:40",
-      "summary": "Sugars, or glycans, play a crucial role in biology—from cell signaling and recognition to interactions with pathogens. Changes in ..."
+      "title": "X-band radar data sharpen simulation of westerly weak tornado",
+      "link": "https://phys.org/news/2026-08-band-radar-sharpen-simulation-westerly.html",
+      "date": "2026-08-14 18:50",
+      "summary": "Tornadoes are among the most destructive weather phenomena on Earth. Their small scale, short life cycle and sudden onset make the..."
     },
     {
-      "title": "Stable RNA elements open new possibilities for mRNA therapeutics",
-      "link": "https://phys.org/news/2026-08-stable-rna-elements-possibilities-mrna.html",
-      "date": "2026-08-14 17:20",
-      "summary": "A research team led by Director Kim V. Narry at the Center for RNA Research within the Institute for Basic Science (IBS) has disco..."
+      "title": "Controlling the rotation direction of light without complex new materials",
+      "link": "https://phys.org/news/2026-08-rotation-complex-materials.html",
+      "date": "2026-08-14 18:40",
+      "summary": "A new pathway has opened for controlling the rotation direction of light simply by changing how molecules are arranged, without ha..."
     },
     {
-      "title": "Sediments off Brazil's northeast coast reveal sudden changes in heat transport in the Atlantic",
-      "link": "https://phys.org/news/2026-08-sediments-brazil-northeast-coast-reveal.html",
-      "date": "2026-08-14 17:00",
-      "summary": "According to a new study led by researchers from Brazil and Germany, the main system that transports heat from one end of the Atla..."
+      "title": "Bringing butterflies back from the brink of extinction",
+      "link": "https://phys.org/news/2026-08-butterflies-brink-extinction.html",
+      "date": "2026-08-14 18:40",
+      "summary": "On a summer day in Michigan, a tiny Poweshiek skipperling butterfly—smaller than a quarter—takes flight over a restored prairie...."
     },
     {
-      "title": "Quality vs. quantity: Why 'super-shedders' may not be the superspreaders of disease outbreaks",
-      "link": "https://phys.org/news/2026-08-quality-quantity-super-shedders-superspreaders.html",
-      "date": "2026-08-14 16:40",
-      "summary": "A host that sheds an abundance of parasites might seem like an obvious disease-spreading threat. But new research suggests that sh..."
+      "title": "Mysterious Cygnus Bubble may trace back to microquasar, astronomers suggest",
+      "link": "https://phys.org/news/2026-08-mysterious-cygnus-microquasar-astronomers.html",
+      "date": "2026-08-14 18:20",
+      "summary": "Astronomers have proposed a new explanation for the mysterious Cygnus Bubble, a vast cloud of ultra-high-energy gamma rays stretch..."
     },
     {
-      "title": "Genetic analysis reveals new species of endangered baobab tree in Madagascar",
-      "link": "https://phys.org/news/2026-08-genetic-analysis-reveals-species-endangered.html",
-      "date": "2026-08-14 16:20",
-      "summary": "Madison researchers recognize a new species of baobab tree, Adansonia bozy, unique to Madagascar, according to a study published i..."
+      "title": "Q&A: What are chalk streams and why are these rare rivers under threat?",
+      "link": "https://phys.org/news/2026-08-qa-chalk-streams-rare-rivers.html",
+      "date": "2026-08-14 18:20",
+      "summary": "Chalk streams are among the world's rarest river habitats. Fewer than 300 exist globally, and most are found in England. They supp..."
     }
   ],
   "The Guardian Edu": [
