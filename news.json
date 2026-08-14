@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "New book takes on the dominance of Silicon Valley billionaires - Stanford School of Humanities and Sciences",
+      "title": "New book takes on the dominance of Silicon Valley billionaires - humsci.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM0pWVi1YT2s3SnNTempIbDI1NnE2djg5SXFYekFFZXVJSFJTYWdlOFBnT1RVRnVwcm01Wm9jOG1iUWMtZUZGcUF2QWF1NFZfTXF4QndSN0hILUgycWx1SmhmaVNjWmZxREVVWW4xaWJvTk14VEUxNkpfclpCQVh4UWhLT3B0Qk5ZWkhPdWExMEo5Zw?oc=5",
       "date": "2026-08-14 17:26",
-      "summary": "New book takes on the dominance of Silicon Valley billionaires  Stanford School of Humanities and Sciences..."
+      "summary": "New book takes on the dominance of Silicon Valley billionaires  humsci.stanford.edu..."
     },
     {
       "title": "Immune cells flood into the aging brain, Stanford scientists discover - ScienceDaily",
@@ -77,10 +77,10 @@
       "summary": "Immune cells flood into the aging brain, Stanford scientists discover  ScienceDaily..."
     },
     {
-      "title": "Potential language-specific brain network identified - Stanford School of Humanities and Sciences",
+      "title": "Potential language-specific brain network identified - humsci.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZjQxR004Y2M3eEM5NjJEeVhyQnF3ZHpUZzY3c2ptYzZCbDVQNW8tV0NjeERQNmdEVG1SU0NtM05QWklVMWpwQ19YU2l1OFVIWHNTR1p0VnFlRGZqVmZiNEZCcW9YRUdZZWdmcnFqaHlGazRLMk9VclJ1eGVtb2paSDNFWmptcGk2aHExRmFPdHY3cFN4?oc=5",
       "date": "2026-08-13 22:47",
-      "summary": "Potential language-specific brain network identified  Stanford School of Humanities and Sciences..."
+      "summary": "Potential language-specific brain network identified  humsci.stanford.edu..."
     },
     {
       "title": "Stanford researchers discover a language-specific network hidden in the human brain - The Brighter Side of News",
@@ -89,10 +89,10 @@
       "summary": "Stanford researchers discover a language-specific network hidden in the human brain  The Brighter Side of News..."
     },
     {
-      "title": "Immune cells cross blood-brain barrier during human aging - National Institutes of Health (NIH) | (.gov)",
+      "title": "Immune cells cross blood-brain barrier during human aging - nih.gov",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHFaV2RpdkQyTFhkUE9JcmFBNlI4dHZ1RUpXdG9oZXlzWW9zMTNmWmZheWlXaTMtVktOdzI2ZU5NTzYwUWpZYkMyV1libjRELUotb3lJZDBVbWJHd2ZrVm1qdktFVkFtanpIM1F5ZFdCY1NSX1ZKTG1tb2ZVRXVEalZESmE3ell4R3p3Q3FCTnl3YVFmNVRVUzJLWHp6YXl4SDJuU0FiLTE0eUlHSkFR?oc=5",
       "date": "2026-08-11 17:55",
-      "summary": "Immune cells cross blood-brain barrier during human aging  National Institutes of Health (NIH) | (.gov)..."
+      "summary": "Immune cells cross blood-brain barrier during human aging  nih.gov..."
     }
   ],
   "Nature Careers": [
@@ -225,6 +225,18 @@
   ],
   "Phys.org": [
     {
+      "title": "Guangzhou crucibles provide earliest direct evidence of brass-making in East Asia",
+      "link": "https://phys.org/news/2026-08-guangzhou-crucibles-earliest-evidence-brass.html",
+      "date": "2026-08-14 20:20",
+      "summary": "For centuries, scholars have read ancient documents describing the production of brass in 10th-century A.D. China. The problem was..."
+    },
+    {
+      "title": "Wildfires have destroyed an area of protected tropical forest twice the size of Wales since 2001, study reveals",
+      "link": "https://phys.org/news/2026-08-wildfires-destroyed-area-tropical-forest.html",
+      "date": "2026-08-14 20:00",
+      "summary": "Over 4 million hectares (9.9 million acres) of protected tropical forest—an area double the size of Wales—have been lost to wildfi..."
+    },
+    {
       "title": "Early settlement dynamics in the Pacific revealed through ancient DNA",
       "link": "https://phys.org/news/2026-08-early-settlement-dynamics-pacific-revealed.html",
       "date": "2026-08-14 19:40",
@@ -241,21 +253,15 @@
       "link": "https://phys.org/news/2026-08-jet-lag-cells-circadian-adjustment.html",
       "date": "2026-08-14 19:00",
       "summary": "Adjusting to a new time zone or work schedule can leave the body's internal clock out of sync for days, contributing to sleep disr..."
-    },
-    {
-      "title": "X-band radar data sharpen simulation of westerly weak tornado",
-      "link": "https://phys.org/news/2026-08-band-radar-sharpen-simulation-westerly.html",
-      "date": "2026-08-14 18:50",
-      "summary": "Tornadoes are among the most destructive weather phenomena on Earth. Their small scale, short life cycle and sudden onset make the..."
-    },
-    {
-      "title": "Controlling the rotation direction of light without complex new materials",
-      "link": "https://phys.org/news/2026-08-rotation-complex-materials.html",
-      "date": "2026-08-14 18:40",
-      "summary": "A new pathway has opened for controlling the rotation direction of light simply by changing how molecules are arranged, without ha..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Jason Arday found dead after resigning from Cambridge over plagiarism claims",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
+      "date": "2026-08-14 19:56",
+      "summary": " Academic was pronounced dead at his home in south London after police called to address after 3pm on FridayJason Arday, the black..."
+    },
     {
       "title": "Students squeezed out of university courses after bumper A-level grades",
       "link": "https://www.theguardian.com/education/2026/aug/14/students-squeezed-out-university-courses-bumper-crop-top-a-level-grades",
@@ -279,12 +285,6 @@
       "link": "https://www.theguardian.com/education/live/2026/aug/13/a-level-results-universities-clearing-schools-college-sixth-forms-latest-news-updates",
       "date": "2026-08-13 13:11",
       "summary": "This year’s results expose a widening gap in students achieving top grades in London and north-east EnglandFor international stude..."
-    },
-    {
-      "title": "‘I’m going for a few pints now’: nerves and joy as students collect their A-level results",
-      "link": "https://www.theguardian.com/education/2026/aug/13/nerves-and-joy-as-students-collect-their-a-level-results",
-      "date": "2026-08-13 13:04",
-      "summary": "For sixth formers in Halifax, discovering their grades means a chance to celebrate and plan for the futureThere are few days that ..."
     }
   ],
   "SCMP Hong Kong": [
