@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Cells pulse together as they grow — and malignant cells pulse the longest",
+      "link": "https://news.mit.edu/2026/cells-pulse-together-malignant-cells-pulse-longest-0814",
+      "date": "2026-08-14 15:00",
+      "summary": "MIT researchers discovered a cellular dance that may offer clues to the development of cancer, asthma, and other diseases...."
+    },
+    {
       "title": "High-speed microscopy reveals electrical activity across the brain",
       "link": "https://news.mit.edu/2026/high-speed-microscopy-reveals-electrical-activity-across-brain-0814",
       "date": "2026-08-14 09:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812",
       "date": "2026-08-12 15:00",
       "summary": "The mashup of a black hole and an enormous star has never been seen before and could explain the mysterious little red dots often ..."
-    },
-    {
-      "title": "How to design a space habitat that supports its residents’ mental health",
-      "link": "https://news.mit.edu/2026/how-space-habitat-design-supports-its-residents-mental-health-0812",
-      "date": "2026-08-12 09:00",
-      "summary": "A new online platform helps engineers look beyond survival mode when designing habitats for extreme living conditions...."
     }
   ],
   "Harvard Gazette": [
@@ -173,12 +173,6 @@
       "summary": "DeepSeek launches V4 Pro at prices up to 14 times higher than V4 Flash  Reuters..."
     },
     {
-      "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1MtSVJMY0p5blN0MUdSV0xMMmE1NzdWdVJYUjh0cTdCNVJyOXRLVmtId004V0xIc2FyVS1IRk5laFR1MHBKemVhcWV0SGxWZkVJUGM0V2t6d214Zlg1QUFQam1aS1RoanhfOXR3dzNmWmN3enhDWWpDZ1poT1JJek92Q0tIU2ZvdVR1VTlWcEdtZVZSVmVEa1BKV29XaHIwdHVoTHFJUDhkc0pveVpidEtOcE5walIyM1E?oc=5",
-      "date": "2026-08-14 12:53",
-      "summary": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests  Reuters..."
-    },
-    {
       "title": "AI-driven surge in bond yields could be next risk for markets and growth - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5",
       "date": "2026-08-14 04:10",
@@ -189,26 +183,20 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0cXV6RQ?oc=5",
       "date": "2026-08-13 12:06",
       "summary": "AI boom is starting to show in UK economy's performance  Reuters..."
+    },
+    {
+      "title": "Apple partners with Alibaba on custom AI model for China: Reuters (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWnlydHVXWGlFbExtWlppWVZ2QVJvcGpROGlVb3NpbkNmMm9CVzFDSmxjeFdZVjlCNGNEb2w3TXFNNU9EMGx3RVZEWGh1VHlYSTQwWkVaQTVDQjRuaU03QjZyTEZwcWMxeGlqMFAxMndMWW41UGZOd09ZZklYTWZpN3ZFbGlycTR0MURXRW9oSjVfV1duSWxFSnpRRHEzVjVYclpvZA?oc=5",
+      "date": "2026-08-14 06:18",
+      "summary": "Apple partners with Alibaba on custom AI model for China: Reuters (AAPL:NASDAQ)  Seeking Alpha..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "This scientist is helping build a missing map of childhood - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWUzZDdfWkUwRGwwTUhoSjFqNjhlZl9kRFVOYzlHQVZ4a2UwZWswLXltMWROaDdhWjkwV2dYNG15eWt1SG5FR1BadEoyY3p5LVVtalZ0ODVhUkRmWGE3VDhDN0Vzd2RFMnp6TE1ROHZPeDgyOGlOS1ZSRVlFVWxhOWRNcm5ObDNhXy1fdlYxTGJ1dHpIMlHSAZsBQVVfeXFMT25XMUtxWkFaU1pOeXZzTlBXTlZ3cmdRdE14Rmlnb2kxWXpQeVlIQ3dGT1lJaG9KN0FRbDYzbXlFby1wZV8yNklaWGVpcUNpZHNiTFFWLWRuMTZHbDNScDVRMkI5aWVPbjgxaUZvTzZDVGhKTC03WHdETmpubHNWZ2JjQklsMzVVR01NYXhSdkZVRlZOZzNBcENNaWs?oc=5",
-      "date": "2026-08-14 09:00",
-      "summary": "This scientist is helping build a missing map of childhood  MIT Technology Review..."
-    },
     {
       "title": "These startups are chasing the next big thing in LLMs - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTQtTzd2S1RCbGItZWp5RjVZSVNTNnpyeGV5bjhveDNUZ1pfY3BFQ1Noc2hTd2FtU0t1LW5EZ3FIVFNLSlV2WWZCbWFuYklUYWlRMDJKUWRTTnJYN0RoR3Zzb3NrbllMcHFLang4WnlueWExVXp0U0I3QjdaMjRORi02al9CTHdZQ2tKWHF3aWpqWUp0YTQ2SW9BNnh3d2ZNR0EzNURhM2dFUdIBrwFBVV95cUxNWmNzVlRSWFBZVkxJMGkwY1NQUVJnYUE2OXAwYVJ5bWpqUnh1ZW5pQmU1VEk3QjdGZWhUNTdtb0E5MHNXS2YtZ3B2TXRLZDFNWnhzRjJaR2hDVVZtdlBVU3VmQnM4UWI3cV9iNmdCbnpKQ2JSZFlzbndIQkYxa2UxYTluQ3AyV0I3b2VvTTI2d1lFZzBQZ1B4cXg5Ykp2b24wZjhKcm5iWXhvb2VSS3M4?oc=5",
       "date": "2026-08-10 09:00",
       "summary": "These startups are chasing the next big thing in LLMs  MIT Technology Review..."
-    },
-    {
-      "title": "Building a practical path to post-quantum cryptography - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmlBOXgya3NMMDY4eW1ZTllsdUkwWlFlRTNRUUJCa19zeFZBNGw2UmxpZXpFWUwwYUlPU1BPSF84WmVQVW94WkpYZ1Vabm92VFBXUUZOMFhPOXR3R3VvdENSdXdxRzIxNnhMSlVROWtUN2JHSjZrRWpQMmlsQk5yWlU5czdiZTZIbUEwdnNxeWhzYmZvRUxSM25hMkdXaDJ5MjUzdklUdU9jelnSAbABQVVfeXFMTlBlZGkwaTNoTENXaU9ZYWJ6ZjZYZDRHVEtzRGRlWHNKc2ZreGxYeWJaS1ZFOGRIQTZRQlpwX1lTeUxaSkxYVkNlYUhvZTBDUHhmNWtHQW1kNDFDS1NvcGE2Q0hKZEFjOG5pQTlMYlV2WGNtYVlZa1RLZEFqa1k5alNyZHQ1ajFaNXBvSjF2OWxwUlRMcklQOUVzX1ZWZG1VQU55WnpaUTRleTFBV3hKVjE?oc=5",
-      "date": "2026-08-13 18:11",
-      "summary": "Building a practical path to post-quantum cryptography  MIT Technology Review..."
     },
     {
       "title": "How kids feel about AI, in their own words - MIT Technology Review",
@@ -217,42 +205,54 @@
       "summary": "How kids feel about AI, in their own words  MIT Technology Review..."
     },
     {
+      "title": "Building a practical path to post-quantum cryptography - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmlBOXgya3NMMDY4eW1ZTllsdUkwWlFlRTNRUUJCa19zeFZBNGw2UmxpZXpFWUwwYUlPU1BPSF84WmVQVW94WkpYZ1Vabm92VFBXUUZOMFhPOXR3R3VvdENSdXdxRzIxNnhMSlVROWtUN2JHSjZrRWpQMmlsQk5yWlU5czdiZTZIbUEwdnNxeWhzYmZvRUxSM25hMkdXaDJ5MjUzdklUdU9jelnSAbABQVVfeXFMTlBlZGkwaTNoTENXaU9ZYWJ6ZjZYZDRHVEtzRGRlWHNKc2ZreGxYeWJaS1ZFOGRIQTZRQlpwX1lTeUxaSkxYVkNlYUhvZTBDUHhmNWtHQW1kNDFDS1NvcGE2Q0hKZEFjOG5pQTlMYlV2WGNtYVlZa1RLZEFqa1k5alNyZHQ1ajFaNXBvSjF2OWxwUlRMcklQOUVzX1ZWZG1VQU55WnpaUTRleTFBV3hKVjE?oc=5",
+      "date": "2026-08-13 18:11",
+      "summary": "Building a practical path to post-quantum cryptography  MIT Technology Review..."
+    },
+    {
       "title": "AI for science needs reasoning, not just data - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkREdkNWswa3JTbHpFQ3c1UWxhOXNaTFE1bHR5T2g0b0F5RmJTdUJLMEFzR1pYaWRURjQxWS13TUJQSFNrTDNYUTdkdlZlLUVOVWNXUWhkcF9aUnVzbFl3VFZfbFp1Sm9uV3U1Wk1maHNzdTl2YVZnN19uTm9JXzTSAYQBQVVfeXFMTklybzZMNGJ5ZndXX1oxYzhKTG50cEVrLWJVZ1RiRUd6aFpKVFJZTWNTNjBCRGpaZFRycFYyb2tSTHNhZXVKVl9xaV9OLU1CenVKNU5iZlBPaXJlSEEyWFJFeVFKbC14M2p6WnpIZUFYS2EzZVdaTXJVVDllT1FyTWNiQy1O?oc=5",
       "date": "2026-08-10 09:00",
       "summary": "AI for science needs reasoning, not just data  MIT Technology Review..."
+    },
+    {
+      "title": "This scientist is helping build a missing map of childhood - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWUzZDdfWkUwRGwwTUhoSjFqNjhlZl9kRFVOYzlHQVZ4a2UwZWswLXltMWROaDdhWjkwV2dYNG15eWt1SG5FR1BadEoyY3p5LVVtalZ0ODVhUkRmWGE3VDhDN0Vzd2RFMnp6TE1ROHZPeDgyOGlOS1ZSRVlFVWxhOWRNcm5ObDNhXy1fdlYxTGJ1dHpIMlHSAZsBQVVfeXFMT25XMUtxWkFaU1pOeXZzTlBXTlZ3cmdRdE14Rmlnb2kxWXpQeVlIQ3dGT1lJaG9KN0FRbDYzbXlFby1wZV8yNklaWGVpcUNpZHNiTFFWLWRuMTZHbDNScDVRMkI5aWVPbjgxaUZvTzZDVGhKTC03WHdETmpubHNWZ2JjQklsMzVVR01NYXhSdkZVRlZOZzNBcENNaWs?oc=5",
+      "date": "2026-08-14 09:00",
+      "summary": "This scientist is helping build a missing map of childhood  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Tiny DNA rotor lets microscopes track gene transcription one base pair at a time",
-      "link": "https://phys.org/news/2026-08-tiny-dna-rotor-microscopes-track.html",
-      "date": "2026-08-14 14:40",
-      "summary": "Scientists often describe life as a series of chemical reactions. Pallav Kosuri, Ph.D., describes life as movement. Chemical react..."
+      "title": "US could exhaust domestic phosphorus within 40 years, but waste offers reserves",
+      "link": "https://phys.org/news/2026-08-exhaust-domestic-phosphorus-years-reserves.html",
+      "date": "2026-08-14 15:40",
+      "summary": "The United States could exhaust its domestic phosphorus supply within 40 years. Europe, Latin America and Southeast Asia already d..."
     },
     {
-      "title": "Why climate-driven droughts and floods rarely become international news",
-      "link": "https://phys.org/news/2026-08-climate-driven-droughts-rarely-international.html",
-      "date": "2026-08-14 14:20",
-      "summary": "Three factors—spectacular images, a high death toll and strong personal ties—make it more likely that the media in one country wil..."
+      "title": "Four hazards converge in East Portland, where underinvestment deepens vulnerability",
+      "link": "https://phys.org/news/2026-08-hazards-converge-east-portland-underinvestment.html",
+      "date": "2026-08-14 15:20",
+      "summary": "When it comes to compounding natural hazards like landslides, wildfires, flooding and extreme heat, where you live makes all the d..."
     },
     {
-      "title": "Human blood may have helped preserve ancient Chinese rock art for 2,000 years",
-      "link": "https://phys.org/news/2026-08-human-blood-ancient-chinese-art.html",
-      "date": "2026-08-14 14:00",
-      "summary": "The Huashan rock art landscape in southern China, close to the border with Vietnam, is a remarkable UNESCO World Heritage site. Th..."
+      "title": "Butterfly-inspired technology could change the way we monitor air",
+      "link": "https://phys.org/news/2026-08-butterfly-technology-air.html",
+      "date": "2026-08-14 15:20",
+      "summary": "Respiratory infectious diseases and air pollution remain persistent global health challenges. Yet the tools used to monitor airbor..."
     },
     {
-      "title": "Arctic balloon samples trace marine sugars from the ocean to cloud-forming heights",
-      "link": "https://phys.org/news/2026-08-arctic-balloon-samples-marine-sugars.html",
-      "date": "2026-08-14 13:40",
-      "summary": "Salt and sugar from the sea can rise as far as the free troposphere, thereby influencing both cloud formation and the Arctic clima..."
+      "title": "Cells use a little-known molecule to protect themselves from iron overload",
+      "link": "https://phys.org/news/2026-08-cells-molecule-iron-overload.html",
+      "date": "2026-08-14 15:00",
+      "summary": "Iron is essential. Our cells need it to produce energy, carry oxygen throughout the body and power countless chemical reactions th..."
     },
     {
-      "title": "Doomscrolling at work wastes time, but the real cost is what happens after",
-      "link": "https://phys.org/news/2026-08-doomscrolling-real.html",
-      "date": "2026-08-14 13:20",
-      "summary": "Whether on lunch break or on the clock, many employees scroll through the news and social media during the workday. Researchers fo..."
+      "title": "Tiny satellite will use the dark side of the moon to eavesdrop on whispers from the early universe",
+      "link": "https://phys.org/news/2026-08-tiny-satellite-dark-side-moon.html",
+      "date": "2026-08-14 15:00",
+      "summary": "A tiny UK-developed satellite, roughly the size of a small carry-on suitcase, could help answer one of the biggest questions in co..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "URA posts HK$338 million operating surplus after three years of losses",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364109/ura-posts-hk338-million-operating-surplus-after-three-years-losses?utm_source=rss_feed",
+      "date": "2026-08-14 15:40",
+      "summary": "Hong Kong’s Urban Renewal Authority (URA) has recorded an operating surplus of HK$338 million (US$43.3 million) for the 2025-26 fi..."
+    },
+    {
       "title": "Bomb-disposal team, light public housing unit win chief executive’s award",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3364105/bomb-disposal-team-light-public-housing-unit-win-chief-executives-award?utm_source=rss_feed",
       "date": "2026-08-14 14:42",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364092/hong-kong-garners-16000-submissions-consultation-citys-first-5-year-plan?utm_source=rss_feed",
       "date": "2026-08-14 11:35",
       "summary": "Hong Kong authorities received more than 16,000 public submissions for the city’s inaugural five-year plan by the close of its con..."
-    },
-    {
-      "title": "Investment scam cases in Hong Kong drop 15%, but losses remain high at HK$1.65b",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364044/investment-scam-cases-hong-kong-drop-15-losses-remain-high-hk165b?utm_source=rss_feed",
-      "date": "2026-08-14 09:05",
-      "summary": "Hong Kong recorded a 15 per cent drop in investment scam cases in the first half of this year, but losses remained high at HK$1.65..."
     }
   ]
 }
