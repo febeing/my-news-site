@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "High-speed microscopy reveals electrical activity across the brain",
+      "link": "https://news.mit.edu/2026/high-speed-microscopy-reveals-electrical-activity-across-brain-0814",
+      "date": "2026-08-14 09:00",
+      "summary": "The new technique could help scientists learn how the entire brain works to generate decisions and emotions...."
+    },
+    {
       "title": "Researchers uncover hidden pore network within nuclear fuel",
       "link": "https://news.mit.edu/2026/researchers-uncover-hidden-pore-network-within-nuclear-fuel-0813",
       "date": "2026-08-13 04:00",
@@ -23,15 +29,15 @@
       "link": "https://news.mit.edu/2026/how-space-habitat-design-supports-its-residents-mental-health-0812",
       "date": "2026-08-12 09:00",
       "summary": "A new online platform helps engineers look beyond survival mode when designing habitats for extreme living conditions...."
-    },
-    {
-      "title": "The mystery of the Chinese tea chest label",
-      "link": "https://news.mit.edu/2026/mystery-of-the-chinese-tea-chest-label-0811",
-      "date": "2026-08-11 16:30",
-      "summary": "MIT historian Tristan Brown uncovers the true origins of an artifact once thought to be a relic of the Boston Tea Party...."
     }
   ],
   "Harvard Gazette": [
+    {
+      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
+      "date": "2026-07-28 07:00",
+      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
+    },
     {
       "title": "When AI goes rogue - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lX3NkVy1LVjZvSnNrUzdYd2ZMdnpFQWVqalJHTkpQN3ZDTFd3NnJFVjhMNnRSS19pVEV1S3YzOUIzbGlpVXFqaDJ2eGp0Z2lPeV8xbTVuWk5HVmI1bWYtdi1ncnUzQW92b0YxV2s5RzBPRDZ4?oc=5",
@@ -55,20 +61,14 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
-    },
-    {
-      "title": "The questions that keep scientists up at night - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
-      "date": "2026-04-07 07:00",
-      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
     }
   ],
   "Stanford News": [
     {
-      "title": "Potential language-specific brain network identified - humsci.stanford.edu",
+      "title": "Potential language-specific brain network identified - Stanford School of Humanities and Sciences",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZjQxR004Y2M3eEM5NjJEeVhyQnF3ZHpUZzY3c2ptYzZCbDVQNW8tV0NjeERQNmdEVG1SU0NtM05QWklVMWpwQ19YU2l1OFVIWHNTR1p0VnFlRGZqVmZiNEZCcW9YRUdZZWdmcnFqaHlGazRLMk9VclJ1eGVtb2paSDNFWmptcGk2aHExRmFPdHY3cFN4?oc=5",
       "date": "2026-08-13 22:47",
-      "summary": "Potential language-specific brain network identified  humsci.stanford.edu..."
+      "summary": "Potential language-specific brain network identified  Stanford School of Humanities and Sciences..."
     },
     {
       "title": "Davis Warren expects to win at Stanford under ‘vision’ outlined by Pritchard - The Mercury News",
@@ -89,10 +89,10 @@
       "summary": "Stanford study links climate change, severe droughts to higher water bills in some communities  ABC7 Bay Area..."
     },
     {
-      "title": "Stanford Football: Mic’d Up | Micah Ford - Stanford Cardinal",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXcyRjZ5eEVlSWh2T0N5V2N0QXZjeHRCWTNwdzVkU1JsbVBlQURvWHJDV1ZEVGZNdS1KaURnUUxLSzRpcVJ1N09qRTIwX3dfZjN4eU1nWmNRblo4cjJrLXlneWxwYmJFNFpfazljWTBQbjNRbERXd3k0TlZDYTBhbTNRSVM?oc=5",
-      "date": "2026-08-14 01:23",
-      "summary": "Stanford Football: Mic’d Up | Micah Ford  Stanford Cardinal..."
+      "title": "Immune cells cross blood-brain barrier during human aging - National Institutes of Health (NIH) | (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHFaV2RpdkQyTFhkUE9JcmFBNlI4dHZ1RUpXdG9oZXlzWW9zMTNmWmZheWlXaTMtVktOdzI2ZU5NTzYwUWpZYkMyV1libjRELUotb3lJZDBVbWJHd2ZrVm1qdktFVkFtanpIM1F5ZFdCY1NSX1ZKTG1tb2ZVRXVEalZESmE3ell4R3p3Q3FCTnl3YVFmNVRVUzJLWHp6YXl4SDJuU0FiLTE0eUlHSkFR?oc=5",
+      "date": "2026-08-11 17:55",
+      "summary": "Immune cells cross blood-brain barrier during human aging  National Institutes of Health (NIH) | (.gov)..."
     }
   ],
   "Nature Careers": [
@@ -161,16 +161,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5",
-      "date": "2026-08-14 04:21",
-      "summary": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say  Reuters..."
-    },
-    {
       "title": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5",
       "date": "2026-08-13 14:47",
       "summary": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open  Reuters..."
+    },
+    {
+      "title": "DeepSeek launches V4 Pro at prices up to 14 times higher than V4 Flash - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBOcmxUZXZzV20xU1pZMnI1X0JKRzV1SUJwcGhzaE1JZDZfUTZqVDZMVXNhUHFoY295SHZuLWZZbTlXa1AtUmI2dkRhRWliRXFBYzdZQlROdUVzZ2dNc2pHLUhvdTFBSVpSTW9SaHBQUnJubTdMX2FQUkhHTDhiUGtiZDUxLTRQXzRrZERqSzlOSXZpMWYxUzVWeXFCdW1HZEVWbWMtVDhFU1BCSkE?oc=5",
+      "date": "2026-08-13 12:56",
+      "summary": "DeepSeek launches V4 Pro at prices up to 14 times higher than V4 Flash  Reuters..."
+    },
+    {
+      "title": "Apple partners with Alibaba on custom AI model for China: Reuters (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWnlydHVXWGlFbExtWlppWVZ2QVJvcGpROGlVb3NpbkNmMm9CVzFDSmxjeFdZVjlCNGNEb2w3TXFNNU9EMGx3RVZEWGh1VHlYSTQwWkVaQTVDQjRuaU03QjZyTEZwcWMxeGlqMFAxMndMWW41UGZOd09ZZklYTWZpN3ZFbGlycTR0MURXRW9oSjVfV1duSWxFSnpRRHEzVjVYclpvZA?oc=5",
+      "date": "2026-08-14 06:18",
+      "summary": "Apple partners with Alibaba on custom AI model for China: Reuters (AAPL:NASDAQ)  Seeking Alpha..."
     },
     {
       "title": "AI boom is starting to show in UK economy's performance - Reuters",
@@ -183,20 +189,14 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5",
       "date": "2026-08-13 17:06",
       "summary": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows  Reuters..."
-    },
-    {
-      "title": "AI-driven surge in bond yields could be next risk for markets and growth - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5",
-      "date": "2026-08-14 04:10",
-      "summary": "AI-driven surge in bond yields could be next risk for markets and growth  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUYxQl9nUUdBLURNcDhBbzg0dTVtRnktSllQSUFEZ19XS243X01BLTA4TGVqZS1RWno5V3pwYjRzMklTdlVLNm1ydXU0bmVCZENrWEFOSDhfNnlFcTNMNGpmTUpNVDZyN3piNkk5bVN2TlkxTU02aUJ5T0FQREZxR2RVbzZQa0k1UURncUlMalo4SElqVlpCSXkzWEJSQ1BLVElweW1iMFJjWkhSRXUxNHNKUW5Ba3otSkdpMnBhR1lTZnpkbmMtRNIBzgFBVV95cUxNTGxnQnFhWWFlTlk3N0ItSmJKQkdCbmFtZkxNQnNRTzk1Ykw0cnVaeElPc2NtUWNkRy1oMUgybkptS3E0dXozMnJYaVZSSk1HYm44RkR1QUNTaDJyRmpmdTFHd3B6ZVAyQ3lJbllVZmROTGRfM2RhbEhDeW5iNi1ucmNpbU5ESS0xMWJGaFB5SHRKb0N6bEthYUJDUVh1LV9sUWliZDBmYWc1MWw5LUw0dDBIZ0l4OXg5eTU1WXFBNHFHdlBPNkdfLW9LRVVHdw?oc=5",
-      "date": "2026-08-13 13:41",
-      "summary": "Flock is tightening its rules in response to a growing surveillance backlash  MIT Technology Review..."
+      "title": "These startups are chasing the next big thing in LLMs - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTQtTzd2S1RCbGItZWp5RjVZSVNTNnpyeGV5bjhveDNUZ1pfY3BFQ1Noc2hTd2FtU0t1LW5EZ3FIVFNLSlV2WWZCbWFuYklUYWlRMDJKUWRTTnJYN0RoR3Zzb3NrbllMcHFLang4WnlueWExVXp0U0I3QjdaMjRORi02al9CTHdZQ2tKWHF3aWpqWUp0YTQ2SW9BNnh3d2ZNR0EzNURhM2dFUdIBrwFBVV95cUxNWmNzVlRSWFBZVkxJMGkwY1NQUVJnYUE2OXAwYVJ5bWpqUnh1ZW5pQmU1VEk3QjdGZWhUNTdtb0E5MHNXS2YtZ3B2TXRLZDFNWnhzRjJaR2hDVVZtdlBVU3VmQnM4UWI3cV9iNmdCbnpKQ2JSZFlzbndIQkYxa2UxYTluQ3AyV0I3b2VvTTI2d1lFZzBQZ1B4cXg5Ykp2b24wZjhKcm5iWXhvb2VSS3M4?oc=5",
+      "date": "2026-08-10 09:00",
+      "summary": "These startups are chasing the next big thing in LLMs  MIT Technology Review..."
     },
     {
       "title": "How kids feel about AI, in their own words - MIT Technology Review",
@@ -205,10 +205,10 @@
       "summary": "How kids feel about AI, in their own words  MIT Technology Review..."
     },
     {
-      "title": "These startups are chasing the next big thing in LLMs - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTQtTzd2S1RCbGItZWp5RjVZSVNTNnpyeGV5bjhveDNUZ1pfY3BFQ1Noc2hTd2FtU0t1LW5EZ3FIVFNLSlV2WWZCbWFuYklUYWlRMDJKUWRTTnJYN0RoR3Zzb3NrbllMcHFLang4WnlueWExVXp0U0I3QjdaMjRORi02al9CTHdZQ2tKWHF3aWpqWUp0YTQ2SW9BNnh3d2ZNR0EzNURhM2dFUdIBrwFBVV95cUxNWmNzVlRSWFBZVkxJMGkwY1NQUVJnYUE2OXAwYVJ5bWpqUnh1ZW5pQmU1VEk3QjdGZWhUNTdtb0E5MHNXS2YtZ3B2TXRLZDFNWnhzRjJaR2hDVVZtdlBVU3VmQnM4UWI3cV9iNmdCbnpKQ2JSZFlzbndIQkYxa2UxYTluQ3AyV0I3b2VvTTI2d1lFZzBQZ1B4cXg5Ykp2b24wZjhKcm5iWXhvb2VSS3M4?oc=5",
+      "title": "AI for science needs reasoning, not just data - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkREdkNWswa3JTbHpFQ3c1UWxhOXNaTFE1bHR5T2g0b0F5RmJTdUJLMEFzR1pYaWRURjQxWS13TUJQSFNrTDNYUTdkdlZlLUVOVWNXUWhkcF9aUnVzbFl3VFZfbFp1Sm9uV3U1Wk1maHNzdTl2YVZnN19uTm9JXzTSAYQBQVVfeXFMTklybzZMNGJ5ZndXX1oxYzhKTG50cEVrLWJVZ1RiRUd6aFpKVFJZTWNTNjBCRGpaZFRycFYyb2tSTHNhZXVKVl9xaV9OLU1CenVKNU5iZlBPaXJlSEEyWFJFeVFKbC14M2p6WnpIZUFYS2EzZVdaTXJVVDllT1FyTWNiQy1O?oc=5",
       "date": "2026-08-10 09:00",
-      "summary": "These startups are chasing the next big thing in LLMs  MIT Technology Review..."
+      "summary": "AI for science needs reasoning, not just data  MIT Technology Review..."
     },
     {
       "title": "Building a practical path to post-quantum cryptography - MIT Technology Review",
@@ -217,13 +217,25 @@
       "summary": "Building a practical path to post-quantum cryptography  MIT Technology Review..."
     },
     {
-      "title": "AI for science needs reasoning, not just data - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkREdkNWswa3JTbHpFQ3c1UWxhOXNaTFE1bHR5T2g0b0F5RmJTdUJLMEFzR1pYaWRURjQxWS13TUJQSFNrTDNYUTdkdlZlLUVOVWNXUWhkcF9aUnVzbFl3VFZfbFp1Sm9uV3U1Wk1maHNzdTl2YVZnN19uTm9JXzTSAYQBQVVfeXFMTklybzZMNGJ5ZndXX1oxYzhKTG50cEVrLWJVZ1RiRUd6aFpKVFJZTWNTNjBCRGpaZFRycFYyb2tSTHNhZXVKVl9xaV9OLU1CenVKNU5iZlBPaXJlSEEyWFJFeVFKbC14M2p6WnpIZUFYS2EzZVdaTXJVVDllT1FyTWNiQy1O?oc=5",
-      "date": "2026-08-10 09:00",
-      "summary": "AI for science needs reasoning, not just data  MIT Technology Review..."
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUYxQl9nUUdBLURNcDhBbzg0dTVtRnktSllQSUFEZ19XS243X01BLTA4TGVqZS1RWno5V3pwYjRzMklTdlVLNm1ydXU0bmVCZENrWEFOSDhfNnlFcTNMNGpmTUpNVDZyN3piNkk5bVN2TlkxTU02aUJ5T0FQREZxR2RVbzZQa0k1UURncUlMalo4SElqVlpCSXkzWEJSQ1BLVElweW1iMFJjWkhSRXUxNHNKUW5Ba3otSkdpMnBhR1lTZnpkbmMtRNIBzgFBVV95cUxNTGxnQnFhWWFlTlk3N0ItSmJKQkdCbmFtZkxNQnNRTzk1Ykw0cnVaeElPc2NtUWNkRy1oMUgybkptS3E0dXozMnJYaVZSSk1HYm44RkR1QUNTaDJyRmpmdTFHd3B6ZVAyQ3lJbllVZmROTGRfM2RhbEhDeW5iNi1ucmNpbU5ESS0xMWJGaFB5SHRKb0N6bEthYUJDUVh1LV9sUWliZDBmYWc1MWw5LUw0dDBIZ0l4OXg5eTU1WXFBNHFHdlBPNkdfLW9LRVVHdw?oc=5",
+      "date": "2026-08-13 13:41",
+      "summary": "Flock is tightening its rules in response to a growing surveillance backlash  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "An 'influencer' degree? Colleges bet on content creator major as critics question its value",
+      "link": "https://phys.org/news/2026-08-degree-colleges-content-creator-major.html",
+      "date": "2026-08-14 09:40",
+      "summary": "Ask a teen what they want to be when they grow up, and there's a fair chance being an influencer is on their list...."
+    },
+    {
+      "title": "EU cities plan to compensate for a fifth of their emissions through carbon removal, but few have thought through how",
+      "link": "https://phys.org/news/2026-08-eu-cities-compensate-emissions-carbon.html",
+      "date": "2026-08-14 09:00",
+      "summary": "An analysis of 103 European cities' climate-neutral plans for 2030 (including 22 capital cities) shows that municipalities are pla..."
+    },
     {
       "title": "Why has Britain's grass turned yellow? A plant scientist explains what happens next",
       "link": "https://phys.org/news/2026-08-britain-grass-yellow-scientist.html",
@@ -241,18 +253,6 @@
       "link": "https://phys.org/news/2026-08-oceans-country-sharks-prehistoric-pacific.html",
       "date": "2026-08-13 23:40",
       "summary": "How many sharks should a coral reef have? It sounds like a simple question, but almost nowhere on Earth is there a reef that has n..."
-    },
-    {
-      "title": "Layered nano-biohybrid uses sunlight, air and water to make hydrogen peroxide",
-      "link": "https://phys.org/news/2026-08-layered-nano-biohybrid-sunlight-air.html",
-      "date": "2026-08-13 23:20",
-      "summary": "A research team led by the U.S. Department of Energy's (DOE) Argonne National Laboratory has developed a new material that combine..."
-    },
-    {
-      "title": "Fulfilling friendships linked to better health and well-being across 22 countries",
-      "link": "https://phys.org/news/2026-08-fulfilling-friendships-linked-health-countries.html",
-      "date": "2026-08-13 23:10",
-      "summary": "Fulfilling friendships and close social relationships are strongly linked to excellent physical and mental health, finds a substan..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Investment scam cases in Hong Kong drop 15%, but losses remain high at HK$1.65b",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364044/investment-scam-cases-hong-kong-drop-15-losses-remain-high-hk165b?utm_source=rss_feed",
+      "date": "2026-08-14 09:05",
+      "summary": "Hong Kong recorded a 15 per cent drop in investment scam cases in the first half of this year, but losses remained high at HK$1.65..."
+    },
+    {
+      "title": "Hong Kong raises economic forecast after best half-yearly performance in 5 years",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364047/hong-kong-raises-2026-economic-forecast-after-strongest-first-half-nearly-5-years?utm_source=rss_feed",
+      "date": "2026-08-14 08:59",
+      "summary": "Hong Kong has raised its full-year economic growth forecast for 2026 to a range of 3.5 to 4.5 per cent after expansion of 4.3 per ..."
+    },
+    {
       "title": "Hong Kong teen’s will to fight illness ‘incredibly low’ after near-death scares",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3364030/hong-kong-teens-will-fight-illness-incredibly-low-after-near-death-scares?utm_source=rss_feed",
       "date": "2026-08-14 08:12",
@@ -305,18 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364021/man-admits-molesting-girlfriends-11-year-old-daughter-taking-over-200-photos-videos?utm_source=rss_feed",
       "date": "2026-08-14 07:37",
       "summary": "A moving services manager has admitted to repeatedly molesting the 11-year-old daughter of his girlfriend in their Hong Kong home,..."
-    },
-    {
-      "title": "Actor Henry Cavill draws crowds as neon-lit set evokes memories of old Hong Kong",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3363997/actor-henry-cavill-draws-crowds-neon-lit-set-evokes-memories-old-hong-kong?utm_source=rss_feed",
-      "date": "2026-08-14 04:59",
-      "summary": "Hong Kong’s once-iconic neon signs and outdoor hawker stalls were brought back to life as hundreds flocked to Central for a glimps..."
-    },
-    {
-      "title": "Hongkongers stranded after storm disrupts trains and roads to Narita Airport",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3363991/hongkongers-stranded-after-storm-disrupts-trains-and-roads-narita-airport?utm_source=rss_feed",
-      "date": "2026-08-14 04:29",
-      "summary": "Hong Kong tour groups returning from Japan’s capital are seeking alternative routes to Narita Airport after a record rainstorm on ..."
     }
   ]
 }
