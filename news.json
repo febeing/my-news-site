@@ -65,16 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "New book takes on the dominance of Silicon Valley billionaires - humsci.stanford.edu",
+      "title": "New book takes on the dominance of Silicon Valley billionaires - Stanford School of Humanities and Sciences",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM0pWVi1YT2s3SnNTempIbDI1NnE2djg5SXFYekFFZXVJSFJTYWdlOFBnT1RVRnVwcm01Wm9jOG1iUWMtZUZGcUF2QWF1NFZfTXF4QndSN0hILUgycWx1SmhmaVNjWmZxREVVWW4xaWJvTk14VEUxNkpfclpCQVh4UWhLT3B0Qk5ZWkhPdWExMEo5Zw?oc=5",
       "date": "2026-08-14 17:47",
-      "summary": "New book takes on the dominance of Silicon Valley billionaires  humsci.stanford.edu..."
-    },
-    {
-      "title": "New ranking names California's best colleges. See the top 10 - The Desert Sun",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc3NKRlc2cjZqRjlwNGYzR0ZyMV90U1RiM2lFOGMtSUJEQS1JbjBmbHJONk1mMTE2dnhST0tSNlRDOGFtN1phdHVTM3U1ZEtud0pFblhiR0tJVUlpMWxOWlNsa0hUbktmZE9HMEcyZVdZTnBpZm1aOHlRQUFPYjAycmlPelFxTzBIeW9pS0NTUGdYWGlDRFU1WDlGMWlQczRwdGtXMHRaSmJTcGR6VFo0dUdNbFlna01EWU5ycUNkenJEOHhBY2k0?oc=5",
-      "date": "2026-08-14 21:13",
-      "summary": "New ranking names California's best colleges. See the top 10  The Desert Sun..."
+      "summary": "New book takes on the dominance of Silicon Valley billionaires  Stanford School of Humanities and Sciences..."
     },
     {
       "title": "Immune cells flood into the aging brain, Stanford scientists discover - ScienceDaily",
@@ -83,16 +77,22 @@
       "summary": "Immune cells flood into the aging brain, Stanford scientists discover  ScienceDaily..."
     },
     {
+      "title": "New ranking names California's best colleges. See the top 10 - The Desert Sun",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc3NKRlc2cjZqRjlwNGYzR0ZyMV90U1RiM2lFOGMtSUJEQS1JbjBmbHJONk1mMTE2dnhST0tSNlRDOGFtN1phdHVTM3U1ZEtud0pFblhiR0tJVUlpMWxOWlNsa0hUbktmZE9HMEcyZVdZTnBpZm1aOHlRQUFPYjAycmlPelFxTzBIeW9pS0NTUGdYWGlDRFU1WDlGMWlQczRwdGtXMHRaSmJTcGR6VFo0dUdNbFlna01EWU5ycUNkenJEOHhBY2k0?oc=5",
+      "date": "2026-08-14 21:13",
+      "summary": "New ranking names California's best colleges. See the top 10  The Desert Sun..."
+    },
+    {
       "title": "Davis Warren expects to win at Stanford under ‘vision’ outlined by Pritchard - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlM3NDJDVF8yNVQ4ZzhlVXJyaUc5c18wbmYxbjZFZHpiTjA1emtIR3duVjdjT0VkemFNVzJDZkI4LWl3Q1h6anlSdVA0NWhiYTFlV1ZDc3FtdC01STdXYnc1T20xU1hmWUZZTXVvRnBfV0YxSEg5Y0cyclpqci1qeE0ycExKaXJBMkhjX2docWxsWC1RNDVIQTN30gGfAUFVX3lxTE9RaTg1SU1kRHVRMW5xRklKdUpoSEo3dkdvM0VqZjN6OE40bGpQcllreWRkZnZka3NyN1VIR0J1LXZEakZnUFhkS20ycWVobWI3clA1aTJmYkJ2TW9sdm5ldXhEckh0OHI4UDJXYWZJT0w0TGZGSGVqMEJITUxOblR1UmlzR2dZZXhRSW80TVhRZXVlTk9sejBRUk9aRXZ3UQ?oc=5",
       "date": "2026-08-13 12:15",
       "summary": "Davis Warren expects to win at Stanford under ‘vision’ outlined by Pritchard  The Mercury News..."
     },
     {
-      "title": "Potential language-specific brain network identified - humsci.stanford.edu",
+      "title": "Potential language-specific brain network identified - Stanford School of Humanities and Sciences",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZjQxR004Y2M3eEM5NjJEeVhyQnF3ZHpUZzY3c2ptYzZCbDVQNW8tV0NjeERQNmdEVG1SU0NtM05QWklVMWpwQ19YU2l1OFVIWHNTR1p0VnFlRGZqVmZiNEZCcW9YRUdZZWdmcnFqaHlGazRLMk9VclJ1eGVtb2paSDNFWmptcGk2aHExRmFPdHY3cFN4?oc=5",
       "date": "2026-08-13 22:47",
-      "summary": "Potential language-specific brain network identified  humsci.stanford.edu..."
+      "summary": "Potential language-specific brain network identified  Stanford School of Humanities and Sciences..."
     }
   ],
   "Nature Careers": [
@@ -173,6 +173,12 @@
       "summary": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say  Reuters..."
     },
     {
+      "title": "AI boom is starting to show in UK economy's performance - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0cXV6RQ?oc=5",
+      "date": "2026-08-13 12:06",
+      "summary": "AI boom is starting to show in UK economy's performance  Reuters..."
+    },
+    {
       "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1MtSVJMY0p5blN0MUdSV0xMMmE1NzdWdVJYUjh0cTdCNVJyOXRLVmtId004V0xIc2FyVS1IRk5laFR1MHBKemVhcWV0SGxWZkVJUGM0V2t6d214Zlg1QUFQam1aS1RoanhfOXR3dzNmWmN3enhDWWpDZ1poT1JJek92Q0tIU2ZvdVR1VTlWcEdtZVZSVmVEa1BKV29XaHIwdHVoTHFJUDhkc0pveVpidEtOcE5walIyM1E?oc=5",
       "date": "2026-08-14 12:53",
@@ -183,12 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5",
       "date": "2026-08-14 04:10",
       "summary": "AI-driven surge in bond yields could be next risk for markets and growth  Reuters..."
-    },
-    {
-      "title": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekllTVFtYmFKdy1HY1ZRWllGSmZLTDUtN3M1cVFOd0taZEZVNF9pcHhIX3czN1JXS0Jzb0RqTl9NWURjWlVFOUo2RDFEQUVtU1phN1pUc2p1ekdmLXYwUVo3RDYtX1NFZnNOa0s4ZE1wQnNZcFE2N2tmRjZWaUYzUGZseFo3OUV2bWJ6OGFGXzdaa3M4UUZhSEpsUjVreEFfWlRlSXNNRzd0OUZDTUo3Zw?oc=5",
-      "date": "2026-08-12 23:10",
-      "summary": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,6 +225,12 @@
   ],
   "Phys.org": [
     {
+      "title": "Magnitude 7.7 earthquake strikes off coast of Indonesia and tsunami warning issued",
+      "link": "https://phys.org/news/2026-08-magnitude-earthquake-coast-indonesia-tsunami.html",
+      "date": "2026-08-15 07:27",
+      "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, damaging buildings and homes, and triggering..."
+    },
+    {
       "title": "After commercial whaling nearly erased them, blue and fin whales are slowly reclaiming the southeast Atlantic",
       "link": "https://phys.org/news/2026-04-commercial-whaling-erased-blue-fin.html",
       "date": "2026-08-15 04:00",
@@ -247,12 +253,6 @@
       "link": "https://phys.org/news/2026-08-green-roofs-cool-cities-summer.html",
       "date": "2026-08-14 23:40",
       "summary": "As summer temperatures soar across the United States and Europe, cities are being forced to confront the difficult reality that th..."
-    },
-    {
-      "title": "Airborne observatory improves views of solar corona during cloud-covered eclipse",
-      "link": "https://phys.org/news/2026-08-airborne-observatory-views-solar-corona.html",
-      "date": "2026-08-14 22:40",
-      "summary": "Using unique equipment installed on NASA's WB-57 aircraft flying above heavy clouds off the coast of Iceland, a Southwest Research..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Contractors suspended over ‘extremely serious’ Queen Mary Hospital lift defects",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3364137/contractors-suspended-over-extremely-serious-queen-mary-hospital-lift-defects?utm_source=rss_feed",
+      "date": "2026-08-15 06:40",
+      "summary": "Hong Kong authorities have suspended the main contractor and lift subcontractor working on Queen Mary Hospital’s new clinical bloc..."
+    },
+    {
       "title": "Extreme caution urged for Hongkongers as data privacy complaints jump 62% in AI era",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3364134/extreme-caution-urged-hongkongers-data-privacy-complaints-jump-62-ai-era?utm_source=rss_feed",
       "date": "2026-08-15 05:50",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3364126/truck-driver-flees-after-vehicle-crashes-and-bursts-flames-lantau-highway?utm_source=rss_feed",
       "date": "2026-08-15 03:12",
       "summary": "A truck driver has fled the scene after his vehicle crashed into roadside barriers and burst into flames on Hong Kong’s Lantau Isl..."
-    },
-    {
-      "title": "Hong Kong’s night economy must focus on after-dark vibes, not events",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363676/hong-kongs-night-economy-must-focus-after-dark-vibes-not-events?utm_source=rss_feed",
-      "date": "2026-08-15 01:30",
-      "summary": "More than 86,000 football fans passed through Kai Tak Stadium over two nights recently as Manchester City faced Inter Milan and Ch..."
     }
   ]
 }
