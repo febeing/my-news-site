@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "Potential language-specific brain network identified - humsci.stanford.edu",
+      "title": "Potential language-specific brain network identified - Stanford School of Humanities and Sciences",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZjQxR004Y2M3eEM5NjJEeVhyQnF3ZHpUZzY3c2ptYzZCbDVQNW8tV0NjeERQNmdEVG1SU0NtM05QWklVMWpwQ19YU2l1OFVIWHNTR1p0VnFlRGZqVmZiNEZCcW9YRUdZZWdmcnFqaHlGazRLMk9VclJ1eGVtb2paSDNFWmptcGk2aHExRmFPdHY3cFN4?oc=5",
       "date": "2026-08-13 22:47",
-      "summary": "Potential language-specific brain network identified  humsci.stanford.edu..."
+      "summary": "Potential language-specific brain network identified  Stanford School of Humanities and Sciences..."
     },
     {
       "title": "Mustangs Fall at No. 9 Stanford Saturday in Final Exhibition Tuneup - gopoly.com",
@@ -173,6 +173,12 @@
       "summary": "Apple partners with Alibaba on custom AI model for China: Reuters (AAPL:NASDAQ)  Seeking Alpha..."
     },
     {
+      "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1MtSVJMY0p5blN0MUdSV0xMMmE1NzdWdVJYUjh0cTdCNVJyOXRLVmtId004V0xIc2FyVS1IRk5laFR1MHBKemVhcWV0SGxWZkVJUGM0V2t6d214Zlg1QUFQam1aS1RoanhfOXR3dzNmWmN3enhDWWpDZ1poT1JJek92Q0tIU2ZvdVR1VTlWcEdtZVZSVmVEa1BKV29XaHIwdHVoTHFJUDhkc0pveVpidEtOcE5walIyM1E?oc=5",
+      "date": "2026-08-14 12:53",
+      "summary": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests  Reuters..."
+    },
+    {
       "title": "AI-driven surge in bond yields could be next risk for markets and growth - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5",
       "date": "2026-08-14 04:10",
@@ -183,12 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBOcmxUZXZzV20xU1pZMnI1X0JKRzV1SUJwcGhzaE1JZDZfUTZqVDZMVXNhUHFoY295SHZuLWZZbTlXa1AtUmI2dkRhRWliRXFBYzdZQlROdUVzZ2dNc2pHLUhvdTFBSVpSTW9SaHBQUnJubTdMX2FQUkhHTDhiUGtiZDUxLTRQXzRrZERqSzlOSXZpMWYxUzVWeXFCdW1HZEVWbWMtVDhFU1BCSkE?oc=5",
       "date": "2026-08-14 06:48",
       "summary": "DeepSeek launches V4 Pro at prices up to 14 times higher than V4 Flash  Reuters..."
-    },
-    {
-      "title": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5",
-      "date": "2026-08-13 14:47",
-      "summary": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -211,19 +211,25 @@
       "summary": "Scaling AI agents with trustworthy data  MIT Technology Review..."
     },
     {
-      "title": "AI for science needs reasoning, not just data - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkREdkNWswa3JTbHpFQ3c1UWxhOXNaTFE1bHR5T2g0b0F5RmJTdUJLMEFzR1pYaWRURjQxWS13TUJQSFNrTDNYUTdkdlZlLUVOVWNXUWhkcF9aUnVzbFl3VFZfbFp1Sm9uV3U1Wk1maHNzdTl2YVZnN19uTm9JXzTSAYQBQVVfeXFMTklybzZMNGJ5ZndXX1oxYzhKTG50cEVrLWJVZ1RiRUd6aFpKVFJZTWNTNjBCRGpaZFRycFYyb2tSTHNhZXVKVl9xaV9OLU1CenVKNU5iZlBPaXJlSEEyWFJFeVFKbC14M2p6WnpIZUFYS2EzZVdaTXJVVDllT1FyTWNiQy1O?oc=5",
-      "date": "2026-08-10 09:00",
-      "summary": "AI for science needs reasoning, not just data  MIT Technology Review..."
-    },
-    {
       "title": "Building a practical path to post-quantum cryptography - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmlBOXgya3NMMDY4eW1ZTllsdUkwWlFlRTNRUUJCa19zeFZBNGw2UmxpZXpFWUwwYUlPU1BPSF84WmVQVW94WkpYZ1Vabm92VFBXUUZOMFhPOXR3R3VvdENSdXdxRzIxNnhMSlVROWtUN2JHSjZrRWpQMmlsQk5yWlU5czdiZTZIbUEwdnNxeWhzYmZvRUxSM25hMkdXaDJ5MjUzdklUdU9jelnSAbABQVVfeXFMTlBlZGkwaTNoTENXaU9ZYWJ6ZjZYZDRHVEtzRGRlWHNKc2ZreGxYeWJaS1ZFOGRIQTZRQlpwX1lTeUxaSkxYVkNlYUhvZTBDUHhmNWtHQW1kNDFDS1NvcGE2Q0hKZEFjOG5pQTlMYlV2WGNtYVlZa1RLZEFqa1k5alNyZHQ1ajFaNXBvSjF2OWxwUlRMcklQOUVzX1ZWZG1VQU55WnpaUTRleTFBV3hKVjE?oc=5",
       "date": "2026-08-13 18:11",
       "summary": "Building a practical path to post-quantum cryptography  MIT Technology Review..."
+    },
+    {
+      "title": "AI for science needs reasoning, not just data - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkREdkNWswa3JTbHpFQ3c1UWxhOXNaTFE1bHR5T2g0b0F5RmJTdUJLMEFzR1pYaWRURjQxWS13TUJQSFNrTDNYUTdkdlZlLUVOVWNXUWhkcF9aUnVzbFl3VFZfbFp1Sm9uV3U1Wk1maHNzdTl2YVZnN19uTm9JXzTSAYQBQVVfeXFMTklybzZMNGJ5ZndXX1oxYzhKTG50cEVrLWJVZ1RiRUd6aFpKVFJZTWNTNjBCRGpaZFRycFYyb2tSTHNhZXVKVl9xaV9OLU1CenVKNU5iZlBPaXJlSEEyWFJFeVFKbC14M2p6WnpIZUFYS2EzZVdaTXJVVDllT1FyTWNiQy1O?oc=5",
+      "date": "2026-08-10 09:00",
+      "summary": "AI for science needs reasoning, not just data  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Black hole star: Astronomers discover a brand-new type of astrophysical object",
+      "link": "https://phys.org/news/2026-08-black-hole-star-astronomers-brand.html",
+      "date": "2026-08-16 11:00",
+      "summary": "Astronomers at MIT and elsewhere have spotted an extremely bright red spot in the early universe. The object resembles an enormous..."
+    },
     {
       "title": "Nature has spent billions of years fighting bacteria. AI could help us learn its secrets",
       "link": "https://phys.org/news/2026-08-nature-spent-billions-years-bacteria.html",
@@ -247,12 +253,6 @@
       "link": "https://phys.org/news/2026-08-topical-clove-oil-canine-sarcoptic.html",
       "date": "2026-08-15 17:40",
       "summary": "Canine sarcoptic mange (scabies) is a skin condition in which microscopic mites (Sarcoptes scabiei) infest dogs' skin. The conditi..."
-    },
-    {
-      "title": "Early-universe plasma may have stopped dark photons from heating cosmos",
-      "link": "https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html",
-      "date": "2026-08-15 16:40",
-      "summary": "A new paper published in Physical Review Letters reveals that a leading dark matter candidate—the hypothetical \"dark photon\"—would..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Eat, move, live well: Hong Kong style",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/series/3364192/eat-move-live-well-hong-kong-style?utm_source=rss_feed",
+      "date": "2026-08-16 11:02",
+      "summary": "点击查看原文..."
+    },
+    {
+      "title": "Tuning the body: why Hongkongers turn to supplements to keep their ‘engine’ running",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3364161/tuning-body-why-hongkongers-turn-supplements-keep-their-engine-running?utm_source=rss_feed",
+      "date": "2026-08-16 11:00",
+      "summary": "In the first instalment of a five-part Health Matters wellness series on Hong Kong’s growing wellness trends, Lo Hoi-ying examines..."
+    },
+    {
+      "title": "Hong Kong boy, 14, arrested for animal cruelty after badly injured cat dies",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364188/hong-kong-boy-14-arrested-animal-cruelty-after-badly-injured-cat-dies?utm_source=rss_feed",
+      "date": "2026-08-16 10:54",
+      "summary": "A 14-year-old Hong Kong boy has been arrested on suspicion of animal cruelty after bringing a badly injured cat that later died to..."
+    },
+    {
       "title": "17 arrested, HK$3.67m seized in crackdown on scam group using Malaysian ‘runners’",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364186/17-arrested-hk367m-seized-crackdown-scam-group-using-malaysian-runners?utm_source=rss_feed",
       "date": "2026-08-16 10:03",
@@ -299,24 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/politics/article/3364184/flags-fly-half-staff-hong-kong-tribute-late-ex-premier-zhu-rongji?utm_source=rss_feed",
       "date": "2026-08-16 09:54",
       "summary": "Hong Kong will fly the national and regional flags at half-staff at various government sites on Tuesday to mourn the late former C..."
-    },
-    {
-      "title": "Exam body defends denying unwell DSE candidate access to lift before assessment",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3364185/exam-body-defends-denying-unwell-dse-candidate-access-lift-assessment?utm_source=rss_feed",
-      "date": "2026-08-16 09:42",
-      "summary": "Hong Kong’s examination authority has defended an invigilator who refused to let a candidate with anxiety use a school lift after ..."
-    },
-    {
-      "title": "Indoor ‘feels-like’ heat soars to 52 degrees in Hong Kong subdivided homes: study",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3364183/indoor-feels-heat-soars-52-degrees-hong-kong-subdivided-homes-study?utm_source=rss_feed",
-      "date": "2026-08-16 09:41",
-      "summary": "Indoor heat levels in Hong Kong’s subdivided flats and rooftop huts felt like a blistering 52.21 degrees Celsius (126 Fahrenheit) ..."
-    },
-    {
-      "title": "Death knell? Hong Kong’s five-year plan is a starting gun",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363897/death-knell-hong-kongs-five-year-plan-starting-gun?utm_source=rss_feed",
-      "date": "2026-08-16 08:30",
-      "summary": "I’m a little perplexed and bemused by the brouhaha surrounding Hong Kong’s decision to draft its first five-year plan, as if the s..."
     }
   ]
 }
