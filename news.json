@@ -65,6 +65,18 @@
   ],
   "Stanford News": [
     {
+      "title": "2026 Stanford Alumni Award: The Journey Was Never Mine Alone - Cloaking Inequity",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXA5VWpMYW9paU80bFBQRVpONjVOWlFYR0dwSUs5aXg4RmZfUnhOUDh5TF9ad2xSZi1CSWFDbEJNWVl1alhORWJSTWhScnBweTNvLV9tMVJQc3dGbmRqd29BWEVOUy1QSDJaWV9Nekl2MVNPRGZpZ2lQeGhrdy14cnRLakJSMVhzYkZ4QnpmS2xCcHY1dHVGaGpYM3JTRklqRmc?oc=5",
+      "date": "2026-08-17 13:00",
+      "summary": "2026 Stanford Alumni Award: The Journey Was Never Mine Alone  Cloaking Inequity..."
+    },
+    {
+      "title": "Cal Poly Comes Up Short to No. 1 Stanford 1-0 - gopoly.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelc3RzZSZTRHb2tWZ0dDWHl1TTR3SUNIcE9SbFlLWUM2Q0hvMWxBMF8tSUdId0ZpMkRmN1BybEllTnk3Sl9UMHVydWtaSjc1Q0J0MWV5NHJUTUJRY1htYjBRbnQ2NXNMUmFlVlQ0S2k1RW5ucFRkdFBEN2UzZFZPMzRvcWtkdW5peWlKcEViYjhXaXpuLXlz?oc=5",
+      "date": "2026-08-17 01:06",
+      "summary": "Cal Poly Comes Up Short to No. 1 Stanford 1-0  gopoly.com..."
+    },
+    {
       "title": "Stanford neuroscientist seeks to crack the code of the human brain and our emotions - CNN",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTW5JeEpqRWQ5N2JPT1pQYkVqd2dtMTB4QnRRMlc5RC1lV1dQSUJmb3BST2hvbk1WR3R5bDl6M3loT3FLZDNlRzRTOTZZbjBwd2lZdmw2RWxtYmIyeFU1Q0Q1YlhsVjNCbVBXYVFnZ1ZObi00ZFg4Nld2SHUzdXBmU0pqZ3NoYkFlYmZOc0lvLVZHcTV1bDQxVm9TZzZ2UmZrbmRTX0kyLXUzb18wTVhnMg?oc=5",
       "date": "2026-08-17 09:19",
@@ -81,18 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlM3NDJDVF8yNVQ4ZzhlVXJyaUc5c18wbmYxbjZFZHpiTjA1emtIR3duVjdjT0VkemFNVzJDZkI4LWl3Q1h6anlSdVA0NWhiYTFlV1ZDc3FtdC01STdXYnc1T20xU1hmWUZZTXVvRnBfV0YxSEg5Y0cyclpqci1qeE0ycExKaXJBMkhjX2docWxsWC1RNDVIQTN30gGfAUFVX3lxTE9RaTg1SU1kRHVRMW5xRklKdUpoSEo3dkdvM0VqZjN6OE40bGpQcllreWRkZnZka3NyN1VIR0J1LXZEakZnUFhkS20ycWVobWI3clA1aTJmYkJ2TW9sdm5ldXhEckh0OHI4UDJXYWZJT0w0TGZGSGVqMEJITUxOblR1UmlzR2dZZXhRSW80TVhRZXVlTk9sejBRUk9aRXZ3UQ?oc=5",
       "date": "2026-08-13 12:15",
       "summary": "Davis Warren expects to win at Stanford under ‘vision’ outlined by Pritchard  The Mercury News..."
-    },
-    {
-      "title": "Stanford Neuroscientists Track Brain Signals Linked to Emotions in Real Time - Межа. Новини України.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hM0Viamd4R1NTblQ4QnQwT3VNVlFnTVhZMzl4VTVzY3VhVXlVUl9NdHhIeVFZTFZQMkdPR21CajNlWUxOWl9BYW1vdXFhV2VRcW1OUklUaFpNUDBQZDRLbUNqZUxENVpqQmlZSWlKOXF3WHQ2TExj?oc=5",
-      "date": "2026-08-17 09:30",
-      "summary": "Stanford Neuroscientists Track Brain Signals Linked to Emotions in Real Time  Межа. Новини України...."
-    },
-    {
-      "title": "Mustangs Fall at No. 9 Stanford Saturday in Final Exhibition Tuneup - gopoly.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXotdE1ESTNjaXpxSmwxVlVYMC1RbUVfYmZhYVpqUUVfQmVwREtkUl9RLUwwUGN6ZlF6UlM1RGxLclBQdUx1OU5JVG9ZRm15M1VDbjBXeUtnLWRKZWFoNXJiTG1WanlrUzR6NDlvS1pySmhKQUVlbjhJREtpVnBHUGlPMjBvWEZfUTdEMTVDSUpRcG15ZnVmVnVqcVNSMXlsTkdVcjNDdFZPUk5pYzhJV3J3?oc=5",
-      "date": "2026-08-16 04:44",
-      "summary": "Mustangs Fall at No. 9 Stanford Saturday in Final Exhibition Tuneup  gopoly.com..."
     }
   ],
   "Nature Careers": [
@@ -121,10 +121,10 @@
       "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02526-0Letting powerful academics off the hook and punishing the ..."
     },
     {
-      "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
-      "link": "https://www.nature.com/articles/s41586-026-11023-3",
-      "date": "2026-08-14 00:00",
-      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11023-3Author Correction: Cell intrinsic immunity spreads to byst..."
+      "title": "Why AI systems are most useful as designers of new scientific tools",
+      "link": "https://www.nature.com/articles/d41586-026-02529-x",
+      "date": "2026-08-17 00:00",
+      "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02529-xHistory shows that breakthroughs are often sparked by inno..."
     }
   ],
   "Retraction Watch": [
@@ -161,16 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "Big investors hunt for tomorrow's AI winners as capex angst fades - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3JiYWhkcERDWi1MTllqMVduaUtTMjdkRU1GWkRKQldPbnlGR2lSenNfTmM1dmMxX1djUmQ1RFpLcHZnbFVvc3hjelp1SVROaWxReFFSREIxd0UxTGx3dDF3MUpZeGN3bWFydFZxXzNFdldtUWo5MnhEN0phclg5U0JUbk1uVlYyZDhQYzJHMEdmb0cyODBwY1BycHdGMm9WdmN0bg?oc=5",
-      "date": "2026-08-17 05:01",
-      "summary": "Big investors hunt for tomorrow's AI winners as capex angst fades  Reuters..."
-    },
-    {
       "title": "AI market correction is coming, ECB blog predicts - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejNkZVFTSjVNZEVpMms5aWtNbzdCcWMyZFQwT2xHRnQzanhqbHoxZzZKSGdTblptSHhUT0Jjamk3ZWI1VnJHOFZPWnk0VERidlZsNFItMzE2T2UyOEhfYWVGOUt1MkRLLVlNTWlNYnViUGhnalAtS3RDSS0tX3ZSckR1MjM4UmF4YzNDZ3hyN1AxYVhEaE1fMWpOQlFhVlZBbXdJVF9sVTNhNjJGMEQ0THlBVHc?oc=5",
       "date": "2026-08-17 09:18",
       "summary": "AI market correction is coming, ECB blog predicts  Reuters..."
+    },
+    {
+      "title": "Big investors hunt for tomorrow's AI winners as capex angst fades - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3JiYWhkcERDWi1MTllqMVduaUtTMjdkRU1GWkRKQldPbnlGR2lSenNfTmM1dmMxX1djUmQ1RFpLcHZnbFVvc3hjelp1SVROaWxReFFSREIxd0UxTGx3dDF3MUpZeGN3bWFydFZxXzNFdldtUWo5MnhEN0phclg5U0JUbk1uVlYyZDhQYzJHMEdmb0cyODBwY1BycHdGMm9WdmN0bg?oc=5",
+      "date": "2026-08-17 05:01",
+      "summary": "Big investors hunt for tomorrow's AI winners as capex angst fades  Reuters..."
     },
     {
       "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China - Reuters",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Study shows university's advising model boosts international students",
-      "link": "https://phys.org/news/2026-08-university-boosts-international-students.html",
-      "date": "2026-08-17 12:20",
-      "summary": "Ling LeBeau and Steve Schaffling spent five years building and refining a framework for supporting international students at Syrac..."
+      "title": "Poor genetic health threatens many species—but it's fixable",
+      "link": "https://phys.org/news/2026-08-poor-genetic-health-threatens-species.html",
+      "date": "2026-08-17 13:20",
+      "summary": "By the early 1990s, there were only around 20 Florida panthers left on the planet...."
     },
     {
-      "title": "New model measures full economic value of accurate hurricane forecasts",
-      "link": "https://phys.org/news/2026-08-full-economic-accurate-hurricane.html",
-      "date": "2026-08-17 12:00",
-      "summary": "When it comes to the cost of a bad forecast, researchers have gone beyond damaged buildings and vehicles to calculate the cost of ..."
+      "title": "Young people more likely to hold hostile attitudes toward women, study finds",
+      "link": "https://phys.org/news/2026-08-young-people-hostile-attitudes-women.html",
+      "date": "2026-08-17 13:00",
+      "summary": "Young people are significantly more likely than older generations to hold hostile attitudes toward women, and these attitudes are ..."
     },
     {
-      "title": "Is bird flu infecting humans? How would we know?",
-      "link": "https://phys.org/news/2026-08-bird-flu-infecting-humans.html",
-      "date": "2026-08-17 11:40",
-      "summary": "Bird flu is circulating among birds on the Australian mainland. So, with the confirmed number of detections growing, you may be wo..."
+      "title": "Two eyeless shrimp-like species found in Japan's groundwater are new to science",
+      "link": "https://phys.org/news/2026-08-eyeless-shrimp-species-japan-groundwater.html",
+      "date": "2026-08-17 13:00",
+      "summary": "Researchers have identified two new species in the genus Bogidiella, small shrimp-like amphipods that live in subterranean aquatic..."
     },
     {
-      "title": "The brightened night sky nobody actually wanted",
-      "link": "https://phys.org/news/2026-08-brightened-night-sky.html",
-      "date": "2026-08-17 11:20",
-      "summary": "A new paper has put hard numbers on a plan that's been rattling around the astronomy community for a while now—a California compan..."
+      "title": "Dark matter may be gravitationally lensing a likely source of cosmic neutrinos",
+      "link": "https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html",
+      "date": "2026-08-17 12:40",
+      "summary": "Astronomers have discovered that the jet of a distant blazar has been gravitationally lensed by an unseen source of dark matter. L..."
     },
     {
-      "title": "Amber fossil reveals firefly relative with unprecedented antennae",
-      "link": "https://phys.org/news/2026-08-amber-fossil-reveals-firefly-unprecedented.html",
-      "date": "2026-08-17 11:20",
-      "summary": "Insects rely on a wide range of strategies to sense their surroundings and communicate with their peers. Fireflies (Lampyridae) an..."
+      "title": "Miami's largest tree canopies deliver most cooling, monitoring data suggests",
+      "link": "https://phys.org/news/2026-08-miami-largest-tree-canopies-cooling.html",
+      "date": "2026-08-17 12:40",
+      "summary": "People rarely give much thought to the trees around them—until there aren't any. Not when they're driving past them. Not when they..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Unleashed 60kg dog runs amok, fatally mauls poodle, bichon frise in Hong Kong",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3364330/unleashed-60kg-dog-runs-amok-fatally-mauls-poodle-bichon-frise-hong-kong?utm_source=rss_feed",
+      "date": "2026-08-17 13:35",
+      "summary": "A large unleashed dog has fatally mauled two smaller pets in separate attacks within 20 minutes in Hong Kong, but authorities have..."
+    },
+    {
+      "title": "2 hygiene officers under investigation for smoking in public while in uniform",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3364329/2-hygiene-officers-under-investigation-smoking-public-while-uniform?utm_source=rss_feed",
+      "date": "2026-08-17 13:20",
+      "summary": "Hong Kong’s hygiene authorities are investigating two officers caught smoking in public while in uniform, an act that is strictly ..."
+    },
+    {
       "title": "Hong Kong halves environmental impact review times with AI in efficiency drive",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3364317/hong-kong-halves-environmental-impact-review-times-ai-efficiency-drive?utm_source=rss_feed",
       "date": "2026-08-17 11:20",
@@ -305,18 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364300/hong-kongs-sports-sector-2024-helped-generate-extra-hk46b-value?utm_source=rss_feed",
       "date": "2026-08-17 09:45",
       "summary": "Hong Kong’s sports sector helped to generate an extra HK$46 billion (US$5.9 billion) in value for the economy in 2024, the year lo..."
-    },
-    {
-      "title": "Hong Kong tourist arrivals up 3% in July as bad weather curbs mainland growth",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364283/hong-kong-tourist-arrivals-3-july-bad-weather-curbs-mainland-growth?utm_source=rss_feed",
-      "date": "2026-08-17 08:42",
-      "summary": "Hong Kong recorded about 4.5 million visitor arrivals in July, up 3 per cent from a year earlier, as major international conventio..."
-    },
-    {
-      "title": "Typhoon Rose capsizes ferry in Hong Kong, killing 88 – SCMP archive",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3364265/typhoon-rose-capsizes-ferry-hong-kong-killing-88-scmp-archive?utm_source=rss_feed",
-      "date": "2026-08-17 08:15",
-      "summary": "This article was first published on August 18, 1971.\nFerry disaster: no hope for missing crew\nby T. S. Koo\nA large but undetermine..."
     }
   ]
 }
