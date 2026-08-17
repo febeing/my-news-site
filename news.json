@@ -65,16 +65,22 @@
   ],
   "Stanford News": [
     {
+      "title": "Stanford University v University of North Carolina at Chapel Hill - Roanoke Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XbDQxRFBsaThLSTg0YldTM18yNWZkUUZxNHZ1VzE2bnh2MHN4LUFBRmhIRkgybEl3ZU9rNEQyZjhfTkVGb3dGdlJ4MjVHYlRvOWRRZmJYSHB2Qi01clZhbHdUQk9QZVVyUk44Z09NZThVYjF5S0E?oc=5",
+      "date": "2026-08-17 04:47",
+      "summary": "Stanford University v University of North Carolina at Chapel Hill  Roanoke Times..."
+    },
+    {
       "title": "Cal Poly Comes Up Short to No. 1 Stanford 1-0 - gopoly.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelc3RzZSZTRHb2tWZ0dDWHl1TTR3SUNIcE9SbFlLWUM2Q0hvMWxBMF8tSUdId0ZpMkRmN1BybEllTnk3Sl9UMHVydWtaSjc1Q0J0MWV5NHJUTUJRY1htYjBRbnQ2NXNMUmFlVlQ0S2k1RW5ucFRkdFBEN2UzZFZPMzRvcWtkdW5peWlKcEViYjhXaXpuLXlz?oc=5",
       "date": "2026-08-17 01:06",
       "summary": "Cal Poly Comes Up Short to No. 1 Stanford 1-0  gopoly.com..."
     },
     {
-      "title": "Potential language-specific brain network identified - Stanford School of Humanities and Sciences",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZjQxR004Y2M3eEM5NjJEeVhyQnF3ZHpUZzY3c2ptYzZCbDVQNW8tV0NjeERQNmdEVG1SU0NtM05QWklVMWpwQ19YU2l1OFVIWHNTR1p0VnFlRGZqVmZiNEZCcW9YRUdZZWdmcnFqaHlGazRLMk9VclJ1eGVtb2paSDNFWmptcGk2aHExRmFPdHY3cFN4?oc=5",
-      "date": "2026-08-13 22:47",
-      "summary": "Potential language-specific brain network identified  Stanford School of Humanities and Sciences..."
+      "title": "New book takes on the dominance of Silicon Valley billionaires - Stanford School of Humanities and Sciences",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM0pWVi1YT2s3SnNTempIbDI1NnE2djg5SXFYekFFZXVJSFJTYWdlOFBnT1RVRnVwcm01Wm9jOG1iUWMtZUZGcUF2QWF1NFZfTXF4QndSN0hILUgycWx1SmhmaVNjWmZxREVVWW4xaWJvTk14VEUxNkpfclpCQVh4UWhLT3B0Qk5ZWkhPdWExMEo5Zw?oc=5",
+      "date": "2026-08-14 17:47",
+      "summary": "New book takes on the dominance of Silicon Valley billionaires  Stanford School of Humanities and Sciences..."
     },
     {
       "title": "Highlights: No. 1 Stanford Women's Soccer vs. Cal Poly (08/16/26) - Stanford Cardinal",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlM3NDJDVF8yNVQ4ZzhlVXJyaUc5c18wbmYxbjZFZHpiTjA1emtIR3duVjdjT0VkemFNVzJDZkI4LWl3Q1h6anlSdVA0NWhiYTFlV1ZDc3FtdC01STdXYnc1T20xU1hmWUZZTXVvRnBfV0YxSEg5Y0cyclpqci1qeE0ycExKaXJBMkhjX2docWxsWC1RNDVIQTN30gGfAUFVX3lxTE9RaTg1SU1kRHVRMW5xRklKdUpoSEo3dkdvM0VqZjN6OE40bGpQcllreWRkZnZka3NyN1VIR0J1LXZEakZnUFhkS20ycWVobWI3clA1aTJmYkJ2TW9sdm5ldXhEckh0OHI4UDJXYWZJT0w0TGZGSGVqMEJITUxOblR1UmlzR2dZZXhRSW80TVhRZXVlTk9sejBRUk9aRXZ3UQ?oc=5",
       "date": "2026-08-13 12:15",
       "summary": "Davis Warren expects to win at Stanford under ‘vision’ outlined by Pritchard  The Mercury News..."
-    },
-    {
-      "title": "Stanford's director of Iranian Studies on whether there's a path to end the war - npr.org",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZlpLVzVpd2pwUkRvMWR6Q25pNl9ENWo0OXRsTDZFUVpvVjVpZ0tfTTJNbS1yUnFnUW95V1FiLWV6T2I5Z0tqaXJQajVyVzJVa2RQblVKVE1rN2hkMjRQdlpnR2k3SGtnTFBGb2x4WG1jLWd0ZHdxaGF1bUlvbVZzMEYtVEp5MlFlbGdULUJodEZ1NmNpSlp3TDRON25QVDhmWkVnUTdMYUVMU2xFcF8zcGVwSDQ2alNDeDdWXzlWbw?oc=5",
-      "date": "2026-08-14 08:44",
-      "summary": "Stanford's director of Iranian Studies on whether there's a path to end the war  npr.org..."
     }
   ],
   "Nature Careers": [
@@ -185,10 +185,10 @@
       "summary": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests  Reuters..."
     },
     {
-      "title": "Republican senator urges Trump to back US open-weight AI models amid industry debate - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ20zeWJDUzR1TzJOOHJVMDlKUWlzbm5QaTZ5YXJSZGlSLXY2MVFXY1o2RTRyZEZjbzJwa1BsLVUtUEt0TldoVjdLcTJ2aTU2MWVUUmpYc3BMODVHVmdlbVQtX08wdU9nV2dnX2tCSmFDcjFOZHJKVmVneURXZVJTc0hqRzhTVW9XLVNUa0R0b3NwRERaS0tRb0ZCT2p1YWQwc1RPWEUxcmotQVZBejR4VUFrc1ZsMTloODY0?oc=5",
-      "date": "2026-08-14 10:42",
-      "summary": "Republican senator urges Trump to back US open-weight AI models amid industry debate  Reuters..."
+      "title": "Big investors hunt for tomorrow's AI winners as capex angst fades - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3JiYWhkcERDWi1MTllqMVduaUtTMjdkRU1GWkRKQldPbnlGR2lSenNfTmM1dmMxX1djUmQ1RFpLcHZnbFVvc3hjelp1SVROaWxReFFSREIxd0UxTGx3dDF3MUpZeGN3bWFydFZxXzNFdldtUWo5MnhEN0phclg5U0JUbk1uVlYyZDhQYzJHMEdmb0cyODBwY1BycHdGMm9WdmN0bg?oc=5",
+      "date": "2026-08-17 05:01",
+      "summary": "Big investors hunt for tomorrow's AI winners as capex angst fades  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -199,10 +199,10 @@
       "summary": "How kids feel about AI, in their own words  MIT Technology Review..."
     },
     {
-      "title": "Scaling AI agents with trustworthy data - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY293cTd3RzBudWhucDVKd1hUTUlqT2kzZU11RVBjQUxqcXVSdHVSNGRoYUljNVNqV1M0d3hTbVpfTl9UNUoySmxjU25yaTA5VFBubGs0ZDZOYlVjS0tFX0lSYzVWTWstX2Nwb1pJT2tXbHpYd29ZQ3pXd2lfWkpDWURIdTNCSS05cXlaZ1ZnVVByRE9YTkMw0gGcAUFVX3lxTE1SNzlWM3h4SktlMDBqY2x3QXR4c2pORHZlRXFKU2w4Qlg1bUlBUlU4NWc3RkhqLUpjTjc0X2llX1VWOUEzRzlGVVYzTU5KM3g3eWVSaEpHcEpmYTJVZkZlR0JMcV9zQlphZFk2S2VCemVfbTh2N09ieFJrMDZ6RjVZR09oUlMzcE9QbnpIU2N1VDBqRXBRTUdYdXZpdQ?oc=5",
-      "date": "2026-08-12 16:51",
-      "summary": "Scaling AI agents with trustworthy data  MIT Technology Review..."
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWduREp1NDlRczVvanNUcWlLczk0ZFJwbDlnN245ZmI1ZEZqUWg5YzlCYTZjRXdqNTloQzMyS3hndi16eTVlVFRqTFZXN3JMRHNvUm41T29yS1hmeTM2aGFPc0phSW1aSXdoYzFmUWJVS3Q1NTlFWWxBdEctMlZhUEpaQ1dKQVJBYWF3bWpISm16VUNGQUl4d1FjVmZGQlpuZ0pXMncxY9IBrAFBVV95cUxQTnJNb1JkeVZsaGhZTi1jclRCOWN5aTFVUTBsRjg4S3dWYjhLUnBPczJIOGJBMWRKUnl6bkROdFRjNXBHZGxRZkM5M05pRjAxMDQxbV9wbmJ5bFhRaklqUm5pb2tJT092eHA5cVNUNnhDYXQzeTdrOHZad1BTcEt5dHhQUzBvSVdGajlNVHhETDd6MWFGX1JrNktLMVdYWndjR29kVXo2R2lWaVo3?oc=5",
+      "date": "2026-07-30 07:00",
+      "summary": "A fundamental flaw leaves LLMs strikingly vulnerable to attack  MIT Technology Review..."
     },
     {
       "title": "Building a practical path to post-quantum cryptography - MIT Technology Review",
@@ -211,16 +211,16 @@
       "summary": "Building a practical path to post-quantum cryptography  MIT Technology Review..."
     },
     {
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWduREp1NDlRczVvanNUcWlLczk0ZFJwbDlnN245ZmI1ZEZqUWg5YzlCYTZjRXdqNTloQzMyS3hndi16eTVlVFRqTFZXN3JMRHNvUm41T29yS1hmeTM2aGFPc0phSW1aSXdoYzFmUWJVS3Q1NTlFWWxBdEctMlZhUEpaQ1dKQVJBYWF3bWpISm16VUNGQUl4d1FjVmZGQlpuZ0pXMncxY9IBrAFBVV95cUxQTnJNb1JkeVZsaGhZTi1jclRCOWN5aTFVUTBsRjg4S3dWYjhLUnBPczJIOGJBMWRKUnl6bkROdFRjNXBHZGxRZkM5M05pRjAxMDQxbV9wbmJ5bFhRaklqUm5pb2tJT092eHA5cVNUNnhDYXQzeTdrOHZad1BTcEt5dHhQUzBvSVdGajlNVHhETDd6MWFGX1JrNktLMVdYWndjR29kVXo2R2lWaVo3?oc=5",
-      "date": "2026-07-30 07:00",
-      "summary": "A fundamental flaw leaves LLMs strikingly vulnerable to attack  MIT Technology Review..."
+      "title": "Scaling AI agents with trustworthy data - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY293cTd3RzBudWhucDVKd1hUTUlqT2kzZU11RVBjQUxqcXVSdHVSNGRoYUljNVNqV1M0d3hTbVpfTl9UNUoySmxjU25yaTA5VFBubGs0ZDZOYlVjS0tFX0lSYzVWTWstX2Nwb1pJT2tXbHpYd29ZQ3pXd2lfWkpDWURIdTNCSS05cXlaZ1ZnVVByRE9YTkMw0gGcAUFVX3lxTE1SNzlWM3h4SktlMDBqY2x3QXR4c2pORHZlRXFKU2w4Qlg1bUlBUlU4NWc3RkhqLUpjTjc0X2llX1VWOUEzRzlGVVYzTU5KM3g3eWVSaEpHcEpmYTJVZkZlR0JMcV9zQlphZFk2S2VCemVfbTh2N09ieFJrMDZ6RjVZR09oUlMzcE9QbnpIU2N1VDBqRXBRTUdYdXZpdQ?oc=5",
+      "date": "2026-08-12 16:51",
+      "summary": "Scaling AI agents with trustworthy data  MIT Technology Review..."
     },
     {
-      "title": "These startups are chasing the next big thing in LLMs - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTQtTzd2S1RCbGItZWp5RjVZSVNTNnpyeGV5bjhveDNUZ1pfY3BFQ1Noc2hTd2FtU0t1LW5EZ3FIVFNLSlV2WWZCbWFuYklUYWlRMDJKUWRTTnJYN0RoR3Zzb3NrbllMcHFLang4WnlueWExVXp0U0I3QjdaMjRORi02al9CTHdZQ2tKWHF3aWpqWUp0YTQ2SW9BNnh3d2ZNR0EzNURhM2dFUdIBrwFBVV95cUxNWmNzVlRSWFBZVkxJMGkwY1NQUVJnYUE2OXAwYVJ5bWpqUnh1ZW5pQmU1VEk3QjdGZWhUNTdtb0E5MHNXS2YtZ3B2TXRLZDFNWnhzRjJaR2hDVVZtdlBVU3VmQnM4UWI3cV9iNmdCbnpKQ2JSZFlzbndIQkYxa2UxYTluQ3AyV0I3b2VvTTI2d1lFZzBQZ1B4cXg5Ykp2b24wZjhKcm5iWXhvb2VSS3M4?oc=5",
-      "date": "2026-08-10 09:00",
-      "summary": "These startups are chasing the next big thing in LLMs  MIT Technology Review..."
+      "title": "How we picked 35 of the world’s top young scientists and engineers - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1F0bVdINV9iZnZKZTgyVG55a1B4NEl4RzFNMGxaWml6dHhFaEtDcWxpaXRpUHlyUE42eFdLVGszRW9Hd2NNWFlGdGdwMEUtbXh5SEg2ZVNoUUxvY2Y0WWVXWHpRX0tnNVY4UUNsdFY1UXVOYkZDam1XNHhVTXRUNC1uLWppbFpFN1otM0JEWUx3UWgwSURVTmFDQzN5OXFDdUtjb0g2VF94ek5x0gGyAUFVX3lxTE5oVExhZVA0SEpGZEdwNXp1NXNXUXByb0xkelg5U0lCVzFBb0NVMHNvZlVEektpb09ZWVJobTFUWC1VbmJPWk9MdG15bTZrN3UwaWQzdEt6ZjlIbkdzeURWd28tVm1KSjhSV1RwYzR0SnVpdUF0ZU50Rm15UDZKN2RQd2hyX3c3SlJWMHlGSmdqLThnYW1WMGt5M25RZ0Y5N2tpY1BZOGUybHlkeGdyTUVZWEE?oc=5",
+      "date": "2026-08-12 09:08",
+      "summary": "How we picked 35 of the world’s top young scientists and engineers  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -289,13 +289,25 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "5 injured after taxi, 3 cars collide on Hong Kong highway",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3364247/5-injured-after-taxi-3-cars-collide-hong-kong-highway?utm_source=rss_feed",
+      "date": "2026-08-17 05:05",
+      "summary": "Five people have been injured after a taxi and three private cars collided on Tsing Kwai Highway in Hong Kong.\nPolice said the fou..."
+    },
+    {
+      "title": "2 more drills with ‘harsher scenarios’ planned this month for revamped Huanggang port",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3364243/2-more-drills-harsher-scenarios-planned-month-revamped-huanggang-port?utm_source=rss_feed",
+      "date": "2026-08-17 04:51",
+      "summary": "Hong Kong will hold two more drills later this month at the revamped Huanggang border crossing, with up to 20,000 civil servants i..."
+    },
+    {
       "title": "Hong Kong merchant jailed for trying to kill wife, daughters amid debt woes",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364241/hong-kong-merchant-jailed-trying-kill-wife-daughters-amid-debt-woes?utm_source=rss_feed",
       "date": "2026-08-17 04:30",
       "summary": "A Hong Kong merchant has been jailed for five years and four months for attempting to murder his wife and three daughters by burni..."
     },
     {
-      "title": "Exercise, supplements, digital detoxing: Hongkongers' new lifestyle obsessions",
+      "title": "Exercise, supplements, digital detoxing: Hongkongers’ new lifestyle obsessions",
       "link": "https://www.scmp.com/infographics/article/3363278/exercise-supplements-digital-detoxing-hongkongers-new-lifestyle-obsessions?utm_source=rss_feed",
       "date": "2026-08-17 04:08",
       "summary": "点击查看原文..."
@@ -305,18 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364232/hong-kong-maid-cafe-operator-arrested-allegedly-molesting-staff-14?utm_source=rss_feed",
       "date": "2026-08-17 03:20",
       "summary": "The operator of a Hong Kong maid cafe has been arrested for allegedly molesting a 14-year-old employee multiple times, beginning o..."
-    },
-    {
-      "title": "How has John Lee’s promise of a ‘new chapter’ for Hong Kong held up?",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364074/how-has-john-lees-promise-new-chapter-hong-kong-held?utm_source=rss_feed",
-      "date": "2026-08-17 01:30",
-      "summary": "It made perfect sense for Hong Kong Chief Executive John Lee Ka-chiu to hold public consultations on both the city’s first five-ye..."
-    },
-    {
-      "title": "How to help more of Hong Kong’s non-Chinese-speaking students reach university",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3364215/how-help-more-hong-kongs-non-chinese-speaking-students-reach-university?utm_source=rss_feed",
-      "date": "2026-08-17 00:30",
-      "summary": "The percentage of non-Chinese-speaking students who sat Hong Kong Diploma of Secondary Education (DSE) exams and were admitted to ..."
     }
   ]
 }
