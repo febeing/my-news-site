@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "DNA shaper steers nervous system development",
+      "link": "https://news.mit.edu/2026/dna-shaper-steers-nervous-system-development-0817",
+      "date": "2026-08-17 20:20",
+      "summary": "A study of worms finds a protein that helps shape the structure of the genome is critical for establishing the identity of some ne..."
+    },
+    {
       "title": "Mathematical framework connects biological principles to manufacturable, adaptive materials",
       "link": "https://news.mit.edu/2026/mathematical-framework-connects-biological-principles-manufacturable-adaptive-material-0817",
       "date": "2026-08-17 18:30",
@@ -23,47 +29,47 @@
       "link": "https://news.mit.edu/2026/drug-targeting-inflammatory-enzyme-could-help-prevent-lung-cancer-0814",
       "date": "2026-08-14 18:00",
       "summary": "A new study by MIT researchers shows that inhibiting caspase-1 can reduce the risk of tumor growth...."
-    },
-    {
-      "title": "Cells pulse together as they grow — and malignant cells pulse the longest",
-      "link": "https://news.mit.edu/2026/cells-pulse-together-malignant-cells-pulse-longest-0814",
-      "date": "2026-08-14 15:00",
-      "summary": "MIT researchers discovered a cellular dance that may offer clues to the development of cancer, asthma, and other diseases...."
     }
   ],
   "Harvard Gazette": [
     {
-      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "title": "How AI may change public policy, how we lead - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
       "date": "2026-07-28 07:00",
-      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
+      "summary": "How AI may change public policy, how we lead  news.harvard.edu..."
     },
     {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "title": "20 societal problems, 20 solutions - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
+      "summary": "20 societal problems, 20 solutions  news.harvard.edu..."
     },
     {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
+      "title": "Harvard releases information on 1,613 enslaved individuals - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+      "summary": "Harvard releases information on 1,613 enslaved individuals  news.harvard.edu..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "title": "Worried about how online firms use data they get from you? - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+      "summary": "Worried about how online firms use data they get from you?  news.harvard.edu..."
     },
     {
-      "title": "The questions that keep scientists up at night - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
-      "date": "2026-04-07 07:00",
-      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
+      "title": "A life — and afterlife — in poetry - news.harvard.edu",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVE5nYnB0bnQ4LXFGN2lmM1pzSWpGSlVYdkVSV1JQRkJWR2lISFFZY2F3bU5YcUZZMV9VSUtZU1FRU0luNFpsc3p6cmp0eXJqTld1aEd0eElVNXZITkVXMG1pNDU3QmFoNkUxSHNDNUh5NTAxVjNHcmpkRmxSLVVjZWtzOEY?oc=5",
+      "date": "2026-06-10 07:00",
+      "summary": "A life — and afterlife — in poetry  news.harvard.edu..."
     }
   ],
   "Stanford News": [
+    {
+      "title": "Justice Thomas reveals this elite institution is ‘off limits’ to him: ‘That's the world we're in’ - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQenJkWUpIX2tIbVJuYmk1QWhPY2E1OFNtZEhJR3JHYmtwMHJRbjNTV1pJY29yZTJHM3BoMWxRZUMxcVptOVo0VThsZkdJSW5LMHZLaEU2b2dUSzA0Q1h6QkN0cnNTaEh4aHRuSDJSS0dNeTZwRWd4cVJJNXpYRDdlWHdfZ2ZMbmtzbVZxSy1PYnh4X0RaekYwWUtQc2RaRjjSAaQBQVVfeXFMUHhiLWhPb2hQVzI5TVFQVXFvbC0zZ21VUHNRZDV6T0NsVHVneDF5M3pJT3hmNmVKT1RkTVkxc1JOM2JOWk5FOWo1OGQ1WHRsSk5JWmlJdVhmRUtULWZESVpBa2w4al9tUVNkVE5UN3A1QmpZRzlKSFB2ZzFLbnE0RUhQZTNJV0dmZGt1R1dwZWYyS1pyN0FKWVhWc3ZsbU5KT0VFaWQ?oc=5",
+      "date": "2026-08-15 16:21",
+      "summary": "Justice Thomas reveals this elite institution is ‘off limits’ to him: ‘That's the world we're in’  Fox News..."
+    },
     {
       "title": "2026 Stanford Alumni Award: The Journey Was Never Mine Alone - Cloaking Inequity",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXA5VWpMYW9paU80bFBQRVpONjVOWlFYR0dwSUs5aXg4RmZfUnhOUDh5TF9ad2xSZi1CSWFDbEJNWVl1alhORWJSTWhScnBweTNvLV9tMVJQc3dGbmRqd29BWEVOUy1QSDJaWV9Nekl2MVNPRGZpZ2lQeGhrdy14cnRLakJSMVhzYkZ4QnpmS2xCcHY1dHVGaGpYM3JTRklqRmc?oc=5",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelc3RzZSZTRHb2tWZ0dDWHl1TTR3SUNIcE9SbFlLWUM2Q0hvMWxBMF8tSUdId0ZpMkRmN1BybEllTnk3Sl9UMHVydWtaSjc1Q0J0MWV5NHJUTUJRY1htYjBRbnQ2NXNMUmFlVlQ0S2k1RW5ucFRkdFBEN2UzZFZPMzRvcWtkdW5peWlKcEViYjhXaXpuLXlz?oc=5",
       "date": "2026-08-17 01:06",
       "summary": "Cal Poly Comes Up Short to No. 1 Stanford 1-0  gopoly.com..."
-    },
-    {
-      "title": "Stanford neuroscientist seeks to crack the code of the human brain and our emotions - cnn.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTW5JeEpqRWQ5N2JPT1pQYkVqd2dtMTB4QnRRMlc5RC1lV1dQSUJmb3BST2hvbk1WR3R5bDl6M3loT3FLZDNlRzRTOTZZbjBwd2lZdmw2RWxtYmIyeFU1Q0Q1YlhsVjNCbVBXYVFnZ1ZObi00ZFg4Nld2SHUzdXBmU0pqZ3NoYkFlYmZOc0lvLVZHcTV1bDQxVm9TZzZ2UmZrbmRTX0kyLXUzb18wTVhnMg?oc=5",
-      "date": "2026-08-17 09:19",
-      "summary": "Stanford neuroscientist seeks to crack the code of the human brain and our emotions  cnn.com..."
     }
   ],
   "Nature Careers": [
@@ -163,7 +163,7 @@
     {
       "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
-      "date": "2026-08-17 15:01",
+      "date": "2026-08-17 20:23",
       "summary": "Trump crypto firm backs venture offering AI from restricted Chinese companies  Reuters..."
     },
     {
@@ -179,10 +179,10 @@
       "summary": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China  Reuters..."
     },
     {
-      "title": "AI market correction is coming, ECB blog predicts - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejNkZVFTSjVNZEVpMms5aWtNbzdCcWMyZFQwT2xHRnQzanhqbHoxZzZKSGdTblptSHhUT0Jjamk3ZWI1VnJHOFZPWnk0VERidlZsNFItMzE2T2UyOEhfYWVGOUt1MkRLLVlNTWlNYnViUGhnalAtS3RDSS0tX3ZSckR1MjM4UmF4YzNDZ3hyN1AxYVhEaE1fMWpOQlFhVlZBbXdJVF9sVTNhNjJGMEQ0THlBVHc?oc=5",
-      "date": "2026-08-17 09:18",
-      "summary": "AI market correction is coming, ECB blog predicts  Reuters..."
+      "title": "Trump crypto firm backs venture using AI from restricted Chinese companies - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5adGlIS0ZKdlN0MTYzUnk0eDVqdjNPWUg3XzNFRHI1UzBfVUFTbWRFYi1reUIyWktjS1Rfc2dwYWxxWEpkeURBNC0tTFkyRVdEQjJJS1pBanVtcXIweEo4MmRPa2htekE?oc=5",
+      "date": "2026-08-17 21:17",
+      "summary": "Trump crypto firm backs venture using AI from restricted Chinese companies  Reuters..."
     },
     {
       "title": "ByteDance signs AI copyright pact with Hollywood trade group - Reuters",
@@ -199,16 +199,16 @@
       "summary": "What Flock’s defenders are missing  MIT Technology Review..."
     },
     {
-      "title": "The Download: dead robot friends and the “censorship-industrial complex” - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3RnTDBzN3FQQkdNUDcxbjFYcHNUeGdoMmpJOUFOZWhEMGR5SXJTTzlVeUxUSlZxaVNaTGJVWlNhQ29Nb2pWcGJqSDl3QUFUdnFhQy1yUVdWOXNGR01rcURsOWM2UmJNQVJEc3ppcS1KbGVtQjExSER3OUlMb2pKTHRBcUZ2OHlwNVpMUWlLWXZwYU5ucGhFcl9VU19qeFVGenVfbF8yRWd5SzJCdzZnNmlCY1_SAboBQVVfeXFMT3pEUUhDTE9Eb2dJSGtpLTlUeTA0WWY3M290MGtiNGdhb0ZwYVJMWEdHdTJacVlIYXoxdkhDYTRlOHloRGJPdDA1TWhmU2xzalNONVFmNEFhZGF5cXBhX2x2d2c4bm9pek5jOC1uTjNWM3NMSlAtaWc3NmNEd2dqLW42OWIwLTJYQk5KTWIwOGphTEZndnVpY3poOFNzZWpWYldWckVSR1VKd0JxM2dZdWtYaGJ6VnVYMmx3?oc=5",
-      "date": "2026-08-17 12:10",
-      "summary": "The Download: dead robot friends and the “censorship-industrial complex”  MIT Technology Review..."
-    },
-    {
       "title": "What happens when a kid’s robot best friend dies? - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjBydnpqRjFadTZTOHNXSWFtMFQwRWV2ZWdtUmVZdUVIM21PUmVsZDFyVXhMTHlUVWYyekZoeEtEWWlVRFRySHNkcVV6NFN4bi1SVzRRcXBzS1Jma2Q0aWlVWi1keHBQRWRqQlBhWFJOZnNYVGo1YXRXRk1ITjhUQXRicUtBY3hWZEFsM01BM3FsTmdkcXfSAZsBQVVfeXFMTms5WWt2dGkzdC1SR2VDXzN5clBxczZobWRyOFVQdWhtT3RDaWJGWmZhazN5ajF0UWQyNEpLVnljaGpmNjY5dkY2SDVPSGYxdHNWMnJMNnROYTVpNzJ0MGZ0Q0tHTDNUX3d5ZEk5cmRFbS1uMHJPTXpIdlJneERjYVFfNG1qS180eW9jZ1RBRGN1MGJzbEJqSkpncWc?oc=5",
       "date": "2026-08-17 09:00",
       "summary": "What happens when a kid’s robot best friend dies?  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: dead robot friends and the “censorship-industrial complex” - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3RnTDBzN3FQQkdNUDcxbjFYcHNUeGdoMmpJOUFOZWhEMGR5SXJTTzlVeUxUSlZxaVNaTGJVWlNhQ29Nb2pWcGJqSDl3QUFUdnFhQy1yUVdWOXNGR01rcURsOWM2UmJNQVJEc3ppcS1KbGVtQjExSER3OUlMb2pKTHRBcUZ2OHlwNVpMUWlLWXZwYU5ucGhFcl9VU19qeFVGenVfbF8yRWd5SzJCdzZnNmlCY1_SAboBQVVfeXFMT3pEUUhDTE9Eb2dJSGtpLTlUeTA0WWY3M290MGtiNGdhb0ZwYVJMWEdHdTJacVlIYXoxdkhDYTRlOHloRGJPdDA1TWhmU2xzalNONVFmNEFhZGF5cXBhX2x2d2c4bm9pek5jOC1uTjNWM3NMSlAtaWc3NmNEd2dqLW42OWIwLTJYQk5KTWIwOGphTEZndnVpY3poOFNzZWpWYldWckVSR1VKd0JxM2dZdWtYaGJ6VnVYMmx3?oc=5",
+      "date": "2026-08-17 12:10",
+      "summary": "The Download: dead robot friends and the “censorship-industrial complex”  MIT Technology Review..."
     },
     {
       "title": "How kids feel about AI, in their own words - MIT Technology Review",
@@ -225,37 +225,43 @@
   ],
   "Phys.org": [
     {
-      "title": "Despite appearing to recover, sunflowers retain drought damage",
-      "link": "https://phys.org/news/2026-08-recover-sunflowers-retain-drought.html",
-      "date": "2026-08-17 20:20",
-      "summary": "Sunflowers are unable to fully recover from drought, new research has found, contradicting previous findings on the plant's abilit..."
+      "title": "How rugged gullies protect hidden rainforests in the Greater Blue Mountains",
+      "link": "https://phys.org/news/2026-08-rugged-gullies-hidden-rainforests-greater.html",
+      "date": "2026-08-17 21:20",
+      "summary": "Researchers have uncovered rainforest communities previously hidden within the rugged gullies of the Greater Blue Mountains World ..."
     },
     {
-      "title": "Dice design solves board gaming's most surprisingly complex problem—who goes first?",
-      "link": "https://phys.org/news/2026-08-dice-board-gaming-complex-problem.html",
-      "date": "2026-08-17 20:20",
-      "summary": "It took nearly 15 years, researchers around the world and enough computing power to search through a universe of possibilities to ..."
+      "title": "Butterflies on the move to higher ground as warming redraws Alpine habitats",
+      "link": "https://phys.org/news/2026-08-butterflies-higher-ground-redraws-alpine.html",
+      "date": "2026-08-17 21:20",
+      "summary": "Climate change presents animals and plants with a fundamental challenge: What can they do when their established habitats become i..."
     },
     {
-      "title": "Last common ancestor of humans and chimpanzees could have been a vertical climber, no matter its feet",
-      "link": "https://phys.org/news/2026-08-common-ancestor-humans-chimpanzees-vertical.html",
-      "date": "2026-08-17 20:10",
-      "summary": "New research suggests that no matter what we eventually determine the last common ancestor of humans and chimpanzees to be, we'll ..."
+      "title": "Brazil's vast coastline could help address food insecurity through sustainable seafood",
+      "link": "https://phys.org/news/2026-08-brazil-vast-coastline-food-insecurity.html",
+      "date": "2026-08-17 21:10",
+      "summary": "New research into seafood consumption and production in Brazil highlights how one of the world's most populous countries could bui..."
     },
     {
-      "title": "Three photons at once beat the standard photon test",
-      "link": "https://phys.org/news/2026-08-photons-standard-photon.html",
-      "date": "2026-08-17 20:00",
-      "summary": "Physicists at the University of Twente have improved the standard test for the quality of individual particles of light. By lettin..."
+      "title": "Observations since 1850 reveal regional climate fingerprints of human-induced warming",
+      "link": "https://phys.org/news/2026-08-reveal-regional-climate-fingerprints-human.html",
+      "date": "2026-08-17 21:00",
+      "summary": "There is no question that the current global temperature increase is human-caused. Global warming has long since emerged as the do..."
     },
     {
-      "title": "Training opportunities shrink for alcohol and drug support staff",
-      "link": "https://phys.org/news/2026-08-opportunities-alcohol-drug-staff.html",
-      "date": "2026-08-17 20:00",
-      "summary": "Flinders University researchers examined AOD VET provision in Australia in 2024, comparing it with a 2011 review, and found there ..."
+      "title": "Engineered E. coli convert kimchi radish waste into biodegradable bioplastic",
+      "link": "https://phys.org/news/2026-08-coli-kimchi-radish-biodegradable-bioplastic.html",
+      "date": "2026-08-17 21:00",
+      "summary": "Every year, thousands of tons of radish by-products generated during kimchi production are discarded despite containing valuable c..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Tens of thousands pay tribute to Jason Arday at Trafalgar Square vigil",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/17/tens-of-thousands-pay-tribute-jason-arday-trafalgar-square-vigil",
+      "date": "2026-08-17 20:32",
+      "summary": "MPs, friends and campaigners gathered to remember former Cambridge professor after his death on FridayTens of thousands of people ..."
+    },
     {
       "title": "Support for Jason Arday’s family shows ‘Britain still cares’, says Windrush campaigner",
       "link": "https://www.theguardian.com/uk-news/2026/aug/17/support-jason-arday-family-shows-britain-still-cares-windrush-campaigner",
@@ -279,12 +285,6 @@
       "link": "https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global",
       "date": "2026-08-16 07:00",
       "summary": "Student unrest sweeps India, Portugal and Mexico as grievances and pressure for good grades in tough job market collideFamilies wi..."
-    },
-    {
-      "title": "Tributes paid to Jason Arday after former Cambridge professor’s death",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/15/jason-arday-tributes-paid-to-former-cambridge-professor",
-      "date": "2026-08-15 12:22",
-      "summary": "Andy Burnham calls for reflection after ‘tragedy on so many levels’ in comments echoed by London mayor Sadiq KhanAndy Burnham has ..."
     }
   ],
   "SCMP Hong Kong": [
