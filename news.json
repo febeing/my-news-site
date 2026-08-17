@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Flexible brain circuits can switch between different tasks",
+      "link": "https://news.mit.edu/2026/flexible-brain-circuits-can-switch-between-different-tasks-0817",
+      "date": "2026-08-17 09:00",
+      "summary": "Neuroscientists have discovered circuits in the prefrontal cortex that can be repurposed to store different types of information...."
+    },
+    {
       "title": "Drug that targets an inflammatory enzyme could help prevent lung cancer",
       "link": "https://news.mit.edu/2026/drug-targeting-inflammatory-enzyme-could-help-prevent-lung-cancer-0814",
       "date": "2026-08-14 18:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/researchers-uncover-hidden-pore-network-within-nuclear-fuel-0813",
       "date": "2026-08-13 04:00",
       "summary": "New understanding of how nuclear fuel breaks down and changes in an operating nuclear reactor could help keep some reactors runnin..."
-    },
-    {
-      "title": "MIT selected to lead new NSF materials research center",
-      "link": "https://news.mit.edu/2026/mit-to-lead-nsf-materials-research-center-0812",
-      "date": "2026-08-12 20:15",
-      "summary": "The Materials Research Science and Engineering Center unites researchers across disciplines to develop technologies for medical im..."
     }
   ],
   "Harvard Gazette": [
@@ -71,6 +71,12 @@
       "summary": "Stanford University v University of North Carolina at Chapel Hill  Roanoke Times..."
     },
     {
+      "title": "Stanford neuroscientist seeks to crack the code of the human brain and our emotions - CNN",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTW5JeEpqRWQ5N2JPT1pQYkVqd2dtMTB4QnRRMlc5RC1lV1dQSUJmb3BST2hvbk1WR3R5bDl6M3loT3FLZDNlRzRTOTZZbjBwd2lZdmw2RWxtYmIyeFU1Q0Q1YlhsVjNCbVBXYVFnZ1ZObi00ZFg4Nld2SHUzdXBmU0pqZ3NoYkFlYmZOc0lvLVZHcTV1bDQxVm9TZzZ2UmZrbmRTX0kyLXUzb18wTVhnMg?oc=5",
+      "date": "2026-08-17 09:19",
+      "summary": "Stanford neuroscientist seeks to crack the code of the human brain and our emotions  CNN..."
+    },
+    {
       "title": "New book takes on the dominance of Silicon Valley billionaires - Stanford School of Humanities and Sciences",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM0pWVi1YT2s3SnNTempIbDI1NnE2djg5SXFYekFFZXVJSFJTYWdlOFBnT1RVRnVwcm01Wm9jOG1iUWMtZUZGcUF2QWF1NFZfTXF4QndSN0hILUgycWx1SmhmaVNjWmZxREVVWW4xaWJvTk14VEUxNkpfclpCQVh4UWhLT3B0Qk5ZWkhPdWExMEo5Zw?oc=5",
       "date": "2026-08-14 17:47",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXotdE1ESTNjaXpxSmwxVlVYMC1RbUVfYmZhYVpqUUVfQmVwREtkUl9RLUwwUGN6ZlF6UlM1RGxLclBQdUx1OU5JVG9ZRm15M1VDbjBXeUtnLWRKZWFoNXJiTG1WanlrUzR6NDlvS1pySmhKQUVlbjhJREtpVnBHUGlPMjBvWEZfUTdEMTVDSUpRcG15ZnVmVnVqcVNSMXlsTkdVcjNDdFZPUk5pYzhJV3J3?oc=5",
       "date": "2026-08-16 04:44",
       "summary": "Mustangs Fall at No. 9 Stanford Saturday in Final Exhibition Tuneup  gopoly.com..."
-    },
-    {
-      "title": "Stanford's director of Iranian Studies on whether there's a path to end the war - NPR",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZlpLVzVpd2pwUkRvMWR6Q25pNl9ENWo0OXRsTDZFUVpvVjVpZ0tfTTJNbS1yUnFnUW95V1FiLWV6T2I5Z0tqaXJQajVyVzJVa2RQblVKVE1rN2hkMjRQdlpnR2k3SGtnTFBGb2x4WG1jLWd0ZHdxaGF1bUlvbVZzMEYtVEp5MlFlbGdULUJodEZ1NmNpSlp3TDRON25QVDhmWkVnUTdMYUVMU2xFcF8zcGVwSDQ2alNDeDdWXzlWbw?oc=5",
-      "date": "2026-08-14 08:44",
-      "summary": "Stanford's director of Iranian Studies on whether there's a path to end the war  NPR..."
     }
   ],
   "Nature Careers": [
@@ -161,16 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "Big investors hunt for tomorrow's AI winners as capex angst fades - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3JiYWhkcERDWi1MTllqMVduaUtTMjdkRU1GWkRKQldPbnlGR2lSenNfTmM1dmMxX1djUmQ1RFpLcHZnbFVvc3hjelp1SVROaWxReFFSREIxd0UxTGx3dDF3MUpZeGN3bWFydFZxXzNFdldtUWo5MnhEN0phclg5U0JUbk1uVlYyZDhQYzJHMEdmb0cyODBwY1BycHdGMm9WdmN0bg?oc=5",
-      "date": "2026-08-17 05:01",
-      "summary": "Big investors hunt for tomorrow's AI winners as capex angst fades  Reuters..."
-    },
-    {
       "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5",
       "date": "2026-08-14 21:09",
       "summary": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China  Reuters..."
+    },
+    {
+      "title": "Big investors hunt for tomorrow's AI winners as capex angst fades - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3JiYWhkcERDWi1MTllqMVduaUtTMjdkRU1GWkRKQldPbnlGR2lSenNfTmM1dmMxX1djUmQ1RFpLcHZnbFVvc3hjelp1SVROaWxReFFSREIxd0UxTGx3dDF3MUpZeGN3bWFydFZxXzNFdldtUWo5MnhEN0phclg5U0JUbk1uVlYyZDhQYzJHMEdmb0cyODBwY1BycHdGMm9WdmN0bg?oc=5",
+      "date": "2026-08-17 05:01",
+      "summary": "Big investors hunt for tomorrow's AI winners as capex angst fades  Reuters..."
     },
     {
       "title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say - Reuters",
@@ -193,34 +193,34 @@
   ],
   "MIT Tech Review": [
     {
-      "title": "How kids feel about AI, in their own words - technologyreview.com",
+      "title": "How kids feel about AI, in their own words - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmFqd1QzdVh4SFNYSGdlVVJ0bVgzekJsUDczS1Nxc1JIcmR0dHl1TUg1dlk0LVE2bVMtV0ZfZ3lKVmhfNXl3Y0ZsaE9tUlRHNUtaNDBpVnFvUTNicHp2dlk5ZFN1dWpLRWxlSG1EYnI1X3d2OXJNV09jc3hmVkZwM2JZOWt6NWhSbXBURDB30gGTAUFVX3lxTE1qWjQweV9XNXcxSGstR3F2OUFzUURpa1dGN3VFVklUbGozMDRNNWlydFZqbExBOS0tdFU5MHNiLUZPbFp3MlktQWdXZkxYYldsLXBXYWl0UEhSMlFrUmpQQm11aXRSbkFuYkFacHlvMi1SQ205RlhvWUdybkFOd0J1Q3BEOWNjMDRBZDZiVGNnalNxMA?oc=5",
       "date": "2026-08-13 09:00",
-      "summary": "How kids feel about AI, in their own words  technologyreview.com..."
+      "summary": "How kids feel about AI, in their own words  MIT Technology Review..."
     },
     {
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack - technologyreview.com",
+      "title": "What happens when a kid’s robot best friend dies? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjBydnpqRjFadTZTOHNXSWFtMFQwRWV2ZWdtUmVZdUVIM21PUmVsZDFyVXhMTHlUVWYyekZoeEtEWWlVRFRySHNkcVV6NFN4bi1SVzRRcXBzS1Jma2Q0aWlVWi1keHBQRWRqQlBhWFJOZnNYVGo1YXRXRk1ITjhUQXRicUtBY3hWZEFsM01BM3FsTmdkcXfSAZsBQVVfeXFMTms5WWt2dGkzdC1SR2VDXzN5clBxczZobWRyOFVQdWhtT3RDaWJGWmZhazN5ajF0UWQyNEpLVnljaGpmNjY5dkY2SDVPSGYxdHNWMnJMNnROYTVpNzJ0MGZ0Q0tHTDNUX3d5ZEk5cmRFbS1uMHJPTXpIdlJneERjYVFfNG1qS180eW9jZ1RBRGN1MGJzbEJqSkpncWc?oc=5",
+      "date": "2026-08-17 09:00",
+      "summary": "What happens when a kid’s robot best friend dies?  MIT Technology Review..."
+    },
+    {
+      "title": "How much hydrogen awaits us underground? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEllRTItM1dNdnlaUXBMZTJkWndiRUdxcjNTZzNCNFZGVVBmQ0Z5Q0M4SmZSTmt0QU1GVWhNYXJscnVsWWJaWWxBYUNsQURiS29Zam9EUlVqclIzQVZ0TUd1UHYycW11Sng0THJmYlpET2RJMVpVaU9CVnMtTktpeWptUkluTGRwOXRpUmRSQ0NfM3fSAZgBQVVfeXFMTWRlcXFQZXV4VTFfUDVNWVA5RHVGbnRzTGJMdTk5QUY1XzNnSTBEak9PWVpySWk3YnJHbUZVNzBBdGY3SmVSdE1KQTJpQjlkSzJycFRnMkdoeEpFREVndEFScnJQWGtPMXRZQTc3NG9FdC1xSVo0VnpXV2ZLblo2SjRzV0I5c2lGdnU3LW5KWlFzZnJnUkRTREg?oc=5",
+      "date": "2026-08-17 09:00",
+      "summary": "How much hydrogen awaits us underground?  MIT Technology Review..."
+    },
+    {
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWduREp1NDlRczVvanNUcWlLczk0ZFJwbDlnN245ZmI1ZEZqUWg5YzlCYTZjRXdqNTloQzMyS3hndi16eTVlVFRqTFZXN3JMRHNvUm41T29yS1hmeTM2aGFPc0phSW1aSXdoYzFmUWJVS3Q1NTlFWWxBdEctMlZhUEpaQ1dKQVJBYWF3bWpISm16VUNGQUl4d1FjVmZGQlpuZ0pXMncxY9IBrAFBVV95cUxQTnJNb1JkeVZsaGhZTi1jclRCOWN5aTFVUTBsRjg4S3dWYjhLUnBPczJIOGJBMWRKUnl6bkROdFRjNXBHZGxRZkM5M05pRjAxMDQxbV9wbmJ5bFhRaklqUm5pb2tJT092eHA5cVNUNnhDYXQzeTdrOHZad1BTcEt5dHhQUzBvSVdGajlNVHhETDd6MWFGX1JrNktLMVdYWndjR29kVXo2R2lWaVo3?oc=5",
       "date": "2026-07-30 07:00",
-      "summary": "A fundamental flaw leaves LLMs strikingly vulnerable to attack  technologyreview.com..."
+      "summary": "A fundamental flaw leaves LLMs strikingly vulnerable to attack  MIT Technology Review..."
     },
     {
-      "title": "Building a practical path to post-quantum cryptography - technologyreview.com",
+      "title": "Building a practical path to post-quantum cryptography - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmlBOXgya3NMMDY4eW1ZTllsdUkwWlFlRTNRUUJCa19zeFZBNGw2UmxpZXpFWUwwYUlPU1BPSF84WmVQVW94WkpYZ1Vabm92VFBXUUZOMFhPOXR3R3VvdENSdXdxRzIxNnhMSlVROWtUN2JHSjZrRWpQMmlsQk5yWlU5czdiZTZIbUEwdnNxeWhzYmZvRUxSM25hMkdXaDJ5MjUzdklUdU9jelnSAbABQVVfeXFMTlBlZGkwaTNoTENXaU9ZYWJ6ZjZYZDRHVEtzRGRlWHNKc2ZreGxYeWJaS1ZFOGRIQTZRQlpwX1lTeUxaSkxYVkNlYUhvZTBDUHhmNWtHQW1kNDFDS1NvcGE2Q0hKZEFjOG5pQTlMYlV2WGNtYVlZa1RLZEFqa1k5alNyZHQ1ajFaNXBvSjF2OWxwUlRMcklQOUVzX1ZWZG1VQU55WnpaUTRleTFBV3hKVjE?oc=5",
       "date": "2026-08-13 18:11",
-      "summary": "Building a practical path to post-quantum cryptography  technologyreview.com..."
-    },
-    {
-      "title": "Scaling AI agents with trustworthy data - technologyreview.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY293cTd3RzBudWhucDVKd1hUTUlqT2kzZU11RVBjQUxqcXVSdHVSNGRoYUljNVNqV1M0d3hTbVpfTl9UNUoySmxjU25yaTA5VFBubGs0ZDZOYlVjS0tFX0lSYzVWTWstX2Nwb1pJT2tXbHpYd29ZQ3pXd2lfWkpDWURIdTNCSS05cXlaZ1ZnVVByRE9YTkMw0gGcAUFVX3lxTE1SNzlWM3h4SktlMDBqY2x3QXR4c2pORHZlRXFKU2w4Qlg1bUlBUlU4NWc3RkhqLUpjTjc0X2llX1VWOUEzRzlGVVYzTU5KM3g3eWVSaEpHcEpmYTJVZkZlR0JMcV9zQlphZFk2S2VCemVfbTh2N09ieFJrMDZ6RjVZR09oUlMzcE9QbnpIU2N1VDBqRXBRTUdYdXZpdQ?oc=5",
-      "date": "2026-08-12 16:51",
-      "summary": "Scaling AI agents with trustworthy data  technologyreview.com..."
-    },
-    {
-      "title": "How we picked 35 of the world’s top young scientists and engineers - technologyreview.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1F0bVdINV9iZnZKZTgyVG55a1B4NEl4RzFNMGxaWml6dHhFaEtDcWxpaXRpUHlyUE42eFdLVGszRW9Hd2NNWFlGdGdwMEUtbXh5SEg2ZVNoUUxvY2Y0WWVXWHpRX0tnNVY4UUNsdFY1UXVOYkZDam1XNHhVTXRUNC1uLWppbFpFN1otM0JEWUx3UWgwSURVTmFDQzN5OXFDdUtjb0g2VF94ek5x0gGyAUFVX3lxTE5oVExhZVA0SEpGZEdwNXp1NXNXUXByb0xkelg5U0lCVzFBb0NVMHNvZlVEektpb09ZWVJobTFUWC1VbmJPWk9MdG15bTZrN3UwaWQzdEt6ZjlIbkdzeURWd28tVm1KSjhSV1RwYzR0SnVpdUF0ZU50Rm15UDZKN2RQd2hyX3c3SlJWMHlGSmdqLThnYW1WMGt5M25RZ0Y5N2tpY1BZOGUybHlkeGdyTUVZWEE?oc=5",
-      "date": "2026-08-12 09:08",
-      "summary": "How we picked 35 of the world’s top young scientists and engineers  technologyreview.com..."
+      "summary": "Building a practical path to post-quantum cryptography  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong tourist arrivals up 3% in July as bad weather curbs mainland growth",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364283/hong-kong-tourist-arrivals-3-july-bad-weather-curbs-mainland-growth?utm_source=rss_feed",
+      "date": "2026-08-17 08:42",
+      "summary": "Hong Kong recorded about 4.5 million visitor arrivals in July, up 3 per cent from a year earlier, as major international conventio..."
+    },
+    {
       "title": "Typhoon Rose capsizes ferry in Hong Kong, killing 88 – SCMP archive",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3364265/typhoon-rose-capsizes-ferry-hong-kong-killing-88-scmp-archive?utm_source=rss_feed",
       "date": "2026-08-17 08:15",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3364247/5-injured-after-taxi-3-cars-collide-hong-kong-highway?utm_source=rss_feed",
       "date": "2026-08-17 05:05",
       "summary": "Five people have been injured after a taxi and three private cars collided on Tsing Kwai Highway in Hong Kong.\nPolice said the fou..."
-    },
-    {
-      "title": "2 more drills with ‘harsher scenarios’ planned this month for revamped Huanggang port",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3364243/2-more-drills-harsher-scenarios-planned-month-revamped-huanggang-port?utm_source=rss_feed",
-      "date": "2026-08-17 04:51",
-      "summary": "Hong Kong will hold two more drills later this month at the revamped Huanggang border crossing, with up to 20,000 civil servants t..."
     }
   ]
 }
