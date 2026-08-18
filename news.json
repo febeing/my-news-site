@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
+      "link": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+      "date": "2026-08-18 16:35",
+      "summary": "A new method for surgically removing training examples from a model reveals that as datasets grow, the link between what a model l..."
+    },
+    {
       "title": "How 35 percent of U.S. employees are left on the margins",
       "link": "https://news.mit.edu/2026/how-35-percent-us-employees-are-left-on-margins-paul-osterman-book-0818",
       "date": "2026-08-18 04:00",
@@ -23,21 +29,9 @@
       "link": "https://news.mit.edu/2026/mit-engineers-connect-bacteria-to-create-living-transistors-0817",
       "date": "2026-08-17 18:00",
       "summary": "By wiring together colonies of these bacteria, the researchers built circuits that can perform complicated calculations...."
-    },
-    {
-      "title": "Flexible brain circuits can switch between different tasks",
-      "link": "https://news.mit.edu/2026/flexible-brain-circuits-can-switch-between-different-tasks-0817",
-      "date": "2026-08-17 09:00",
-      "summary": "Neuroscientists have discovered circuits in the prefrontal cortex that can be repurposed to store different types of information...."
     }
   ],
   "Harvard Gazette": [
-    {
-      "title": "How AI may change public policy, how we lead - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
-      "date": "2026-07-28 07:00",
-      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
-    },
     {
       "title": "20 societal problems, 20 solutions - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
@@ -51,16 +45,22 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
+      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
+      "date": "2026-07-28 07:00",
+      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
+    },
+    {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     },
     {
-      "title": "A life — and afterlife — in poetry - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVE5nYnB0bnQ4LXFGN2lmM1pzSWpGSlVYdkVSV1JQRkJWR2lISFFZY2F3bU5YcUZZMV9VSUtZU1FRU0luNFpsc3p6cmp0eXJqTld1aEd0eElVNXZITkVXMG1pNDU3QmFoNkUxSHNDNUh5NTAxVjNHcmpkRmxSLVVjZWtzOEY?oc=5",
-      "date": "2026-06-10 07:00",
-      "summary": "A life — and afterlife — in poetry  Harvard Gazette..."
+      "title": "The questions that keep scientists up at night - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
+      "date": "2026-04-07 07:00",
+      "summary": "The questions that keep scientists up at night  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -71,28 +71,28 @@
       "summary": "How Stanford e-Entrepreneurship Japan Shaped My Entrepreneurial Drive as a Student  Stanford University..."
     },
     {
-      "title": "DOJ official flags Stanford for scrutiny over foreign donations - The Mercury News",
+      "title": "DOJ official flags Stanford for scrutiny over foreign donations - mercurynews.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHFPaFZxQ1VHeTBXMnRPeEF0WnZ0OG8taVNxWGhzSVdudkdqOWNkb2dObEFfX1lxTzI4SFc3Ylkyb29CM0loR3RoQTQ4YjJlT3YyeTBwcWhtd2VscE02My1CT3g5M0ZjLUhRUTQ5STk1ZmdLc21rQnl3dFViU3EwZlFBRFdIUUl1aGYzd0ZNdXdzYlFQVTN2LU9OZ3ZBZmNtQ1JjVzhwLXDSAa4BQVVfeXFMT2F0WVVfczh4ZXR3cE9uM2VJYzlNeFk4cjN2TVVrNmRuYnkwWVJRaG1hc3VRTHUzWEJ2WThTN0ZmOU9fX2ROcGUyenRDVXU4U0ZmNjhkeE41LW1JUlMtb2NhQzNRUEpFVkhIQ21jTWJDQTZRNkVYWHRKRmk2M3RCYlVLbTktMGFoSFlXWmRfT3hpOS1DMDdycW1EUWNvNlpSTXVLb0ZJYmNJZGMzeXB3?oc=5",
       "date": "2026-08-17 23:50",
-      "summary": "DOJ official flags Stanford for scrutiny over foreign donations  The Mercury News..."
+      "summary": "DOJ official flags Stanford for scrutiny over foreign donations  mercurynews.com..."
     },
     {
-      "title": "Stanford secures major funding in Trump's science push - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CV1ZWNExpdTRKbTRiVUhZU0oxYjZLU1J3R3B2RzdhUDJvZzBaSVlHNEU2QTZxZm9VOGdlZXhtcTZRNWlrUGNkbTJPeTViWWw2dDlyOTBPalFSZGxFV3lIWTFMUWpNYldDbUpwRXI3d3ZyazBQSFl2cVpweVk?oc=5",
-      "date": "2026-08-18 11:07",
-      "summary": "Stanford secures major funding in Trump's science push  SFGATE..."
+      "title": "After slashing science budgets, Trump bets on Bay Area researchers - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlo3U2kzM1dYcWFqNkZaOUM3aV9KdGtkekRjSm9wZXdLZFB2c1VHVk14cklEekp1VzVia0c5U0w1b3d2bDB2bWFxWnc2VWo3VU5uSkFmRGFrb3Q3MVBmTUJvRENCVGdPYmt2WTNHSnQ5R0JrcjhQaFplWHZYeVBYOVJZZTZGVVU?oc=5",
+      "date": "2026-08-18 16:11",
+      "summary": "After slashing science budgets, Trump bets on Bay Area researchers  SFGATE..."
+    },
+    {
+      "title": "Freshman of the Week - Stanford Cardinal",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMNzNCQW4wY1ltMHZrbkxBbHQxcWMwZmhCRTBWRTBuc2dmRjFzLWFKclJkSk1IZDhtYXoyUGdEV2ppUVFtbWpPYzNOUkc0MXR4V3BhSTBiOXB4WWdqR0NFOXF1S0lDRVVCdW8yVG9UNVRnWXk2?oc=5",
+      "date": "2026-08-18 17:14",
+      "summary": "Freshman of the Week  Stanford Cardinal..."
     },
     {
       "title": "DOJ Official Flags Stanford for Scrutiny Over Foreign Donations - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHJqTndyRXVCcUxHOElKcDVKVDEyd290bFZZdE5zYWJuM0FoQ3F6WmwxWlNadFlyNEhpaUVmai0wcVU0TW12VEtxVnhxaU5sN0hmM0wzRmUzV0VyM0E3bFo1OExnZFJIMWl6c0duUG92cE9WYy1zZ3RzSUZTaHg2LWpfNXFWQUlOdHp3eDFLRzlKNnhxb2pha0sxbFJfb21MaC0zMGZwR3FUekN6bzBsSEJEaTg?oc=5",
       "date": "2026-08-17 21:54",
       "summary": "DOJ Official Flags Stanford for Scrutiny Over Foreign Donations  Bloomberg.com..."
-    },
-    {
-      "title": "The Center for Excellence in Education’s Research Science Institute at MIT Will Expand to Stanford in 2027 - The Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQm1PSmQxVkpVZmZZRU1vUFZPdTdOYkw5a2phMHRCeWVFVUdjMlZ0TEQxV1VSNzM1UjEyVF9UMThSa3dkNndEMWJweExTaXFMakVtNHREU0lLSTltS19pVk13Tjd2NzhOdTBMY2M5RGVFUjk0c0dkNkdUc1c1azRFRHZXUkNKRm0tM2J2NmpVV1liUVIzZlVOVmIxWFFCUXZvcGNxM1Z3LUg2VkNfQ054aFJXcWhNa01UMXZUaEFDV2o2alVDNjFBLW1IVERiQUttM3RnaVVscENLMEdBaTNYT1BEN2ZhX29yTlN0TlROREEtY3puaHM3b1o3cWlEMHlkQVo2Z21LTXRsZTDSAZACQVVfeXFMT01JVWtCUUFwUWZIZ3FfcEZCVGNGQW1FeU9KVE56RnJQRFZfa1V4M2dMc0hXcVY5aXZ1Mjg4VXBHMDRCaXZmTEZnWnk0aXh2MklDZWtVMzBKRnROajhVUVJBOFc0RVBBbFJ5dXQ4QnEwc2RUVFJKcXpzSkFmS2EyMlFsNEo1UEdHM3N1X08tS2V2SUxydzVKQzJzN3JtQVhLNFhDZGQtbkxuZDRpM2RweERwQlJuQlZtOEFKZ21BaWJBdm1UWlRidmo4S1U1alNkdFREU1NSY2NaUkVySjhZeE1nbFh1TEo4eHhKQ1haSmwtYmJlclBMbWw5QjF4UnFNYjF5V3ZEdGg1MjVuNTdycEY?oc=5",
-      "date": "2026-08-18 10:10",
-      "summary": "The Center for Excellence in Education’s Research Science Institute at MIT Will Expand to Stanford in 2027  The Manila Times..."
     }
   ],
   "Nature Careers": [
@@ -179,16 +179,16 @@
       "summary": "U.S. to tell partners they must pick sides in AI race with China: Reuters  CNBC..."
     },
     {
+      "title": "AI chip startup Etched doubles valuation to $21 billion in under a month - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5",
+      "date": "2026-08-18 16:31",
+      "summary": "AI chip startup Etched doubles valuation to $21 billion in under a month  Reuters..."
+    },
+    {
       "title": "US advisory body says China's data dominance gives it AI advantage - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0cwTEZpQTJoZFQycjVPbjFtNEo5cW9EQWlDcWRUbHhuQkU4TUpJX0N6ekhJVmlERGZVMnZDODZMcEw5azEtaXRLREF2UFlwWEk5MVBhVTJDSnpMTm1sbURHTEV3cFoyMWQ4Sl9JbnhSMkFXcUFhZFFlMi0ydzJLSlVtU2pWSnBubWhUUHhzVVZGaURrcmpfUE5wTDdVYUtCTmp3Mi02QzNSSVVIMnVnVllfdw?oc=5",
       "date": "2026-08-18 13:07",
       "summary": "US advisory body says China's data dominance gives it AI advantage  Reuters..."
-    },
-    {
-      "title": "Pentagon pressure to move AI faster drives Smack's new funding round, CEO says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1dTS0lqOUpOSzY0S1R0eGJWS21MajNPNXVySXpTMkdWRVVhcXN5cWk0dnFnZkxEdUdrS1ZEZ2g3LXpjZFdqZVhERGdUSURLVTE2MUNOTHRNSFhTcmNoY3dMSzFfMnAxamx2Q3NQYXdlNWlJM0hjUF92REN3WE1hZUtEUzQ3SnJ2VXplS25nbm5zMWZyNnBqbktmMXVPZl9xWUVBRnJTMWJGTE1YZUdJTncza1lFLWxjaFFfcA?oc=5",
-      "date": "2026-08-17 19:24",
-      "summary": "Pentagon pressure to move AI faster drives Smack's new funding round, CEO says  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "The use of AI in biotechnology is changing faster than the rules governing either technology",
-      "link": "https://phys.org/news/2026-08-ai-biotechnology-faster-technology.html",
-      "date": "2026-08-18 16:20",
-      "summary": "The recent announcement of novel, viable viruses created by artificial intelligence (AI) was celebrated as a major advance in the ..."
+      "title": "Yellowstone's past droughts may signal less geyser activity and more wildfires",
+      "link": "https://phys.org/news/2026-08-yellowstone-droughts-geyser-wildfires.html",
+      "date": "2026-08-18 17:20",
+      "summary": "A study led by a Montana State University research professor reveals how climate and hydrothermal activity have shaped the vegetat..."
     },
     {
-      "title": "New bone analysis challenges long-held theory on farming's arrival in Ireland and Great Britain",
-      "link": "https://phys.org/news/2026-08-bone-analysis-held-theory-farming.html",
-      "date": "2026-08-18 16:20",
-      "summary": "New research led by University College Dublin has rewritten a key chapter in Irish prehistory, revealing that bones long thought t..."
+      "title": "NASA's SkyFall Mars helicopters will feature a revolutionary antenna design",
+      "link": "https://phys.org/news/2026-08-nasa-skyfall-mars-helicopters-feature.html",
+      "date": "2026-08-18 17:20",
+      "summary": "From 2021 to 2024, NASA's Ingenuity helicopter became the first vehicle of its kind to explore the Martian atmosphere and surface...."
     },
     {
-      "title": "How only a few tree species drive Amazon forest recovery",
-      "link": "https://phys.org/news/2026-08-tree-species-amazon-forest-recovery.html",
-      "date": "2026-08-18 16:18",
-      "summary": "When a destroyed section of the Amazon rainforest begins to recover, nature deploys only a few tree species that can withstand poo..."
+      "title": "How healthy are our coral reefs? Researchers have built a tool to help find out",
+      "link": "https://phys.org/news/2026-08-healthy-coral-reefs-built-tool.html",
+      "date": "2026-08-18 17:00",
+      "summary": "Researchers at the University of Sydney have harnessed more than 30 years of data to build a new method to more accurately measure..."
     },
     {
-      "title": "Fiber-optic cable reveals hidden crevasses that could destabilize glaciers",
-      "link": "https://phys.org/news/2026-08-fiber-optic-cable-reveals-hidden.html",
-      "date": "2026-08-18 16:00",
-      "summary": "In recent years, the Alps have experienced devastating glacier collapses: In September 2023, a section of the Marmolada glacier in..."
+      "title": "Five new wasp species discovered in Cyprus, including one named after Aphrodite",
+      "link": "https://phys.org/news/2026-08-wasp-species-cyprus-aphrodite.html",
+      "date": "2026-08-18 17:00",
+      "summary": "Scientists have described five new species of parasitoid wasps from Cyprus, more than doubling the number of chalcid wasps known t..."
     },
     {
-      "title": "Young people in public housing less likely to be involved in crime",
-      "link": "https://phys.org/news/2026-08-young-people-housing-involved-crime.html",
-      "date": "2026-08-18 16:00",
-      "summary": "Young people who have lived in public housing for at least 10 years are significantly less likely to commit crimes or become victi..."
+      "title": "Robotic ocean glider reveals giant phytoplankton chains in the Mediterranean Sea",
+      "link": "https://phys.org/news/2026-08-robotic-ocean-glider-reveals-giant.html",
+      "date": "2026-08-18 16:40",
+      "summary": "Scientists at Scripps Institution of Oceanography at UC San Diego and the Mediterranean Institute of Oceanography in Marseille, Fr..."
     }
   ],
   "The Guardian Edu": [
