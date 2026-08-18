@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "How 35 percent of U.S. employees are left on the margins",
+      "link": "https://news.mit.edu/2026/how-35-percent-us-employees-are-left-on-margins-paul-osterman-book-0818",
+      "date": "2026-08-18 04:00",
+      "summary": "In a new book, Paul Osterman details his research finding more than one-third of U.S. workers are “disposable,” with little securi..."
+    },
+    {
       "title": "DNA shaper steers nervous system development",
       "link": "https://news.mit.edu/2026/dna-shaper-steers-nervous-system-development-0817",
       "date": "2026-08-17 20:20",
@@ -23,44 +29,38 @@
       "link": "https://news.mit.edu/2026/flexible-brain-circuits-can-switch-between-different-tasks-0817",
       "date": "2026-08-17 09:00",
       "summary": "Neuroscientists have discovered circuits in the prefrontal cortex that can be repurposed to store different types of information...."
-    },
-    {
-      "title": "Drug that targets an inflammatory enzyme could help prevent lung cancer",
-      "link": "https://news.mit.edu/2026/drug-targeting-inflammatory-enzyme-could-help-prevent-lung-cancer-0814",
-      "date": "2026-08-14 18:00",
-      "summary": "A new study by MIT researchers shows that inhibiting caspase-1 can reduce the risk of tumor growth...."
     }
   ],
   "Harvard Gazette": [
     {
-      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "title": "How AI may change public policy, how we lead - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
       "date": "2026-07-28 07:00",
-      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
+      "summary": "How AI may change public policy, how we lead  news.harvard.edu..."
     },
     {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "title": "20 societal problems, 20 solutions - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
+      "summary": "20 societal problems, 20 solutions  news.harvard.edu..."
     },
     {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
+      "title": "Harvard releases information on 1,613 enslaved individuals - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+      "summary": "Harvard releases information on 1,613 enslaved individuals  news.harvard.edu..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "title": "Worried about how online firms use data they get from you? - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+      "summary": "Worried about how online firms use data they get from you?  news.harvard.edu..."
     },
     {
-      "title": "A life — and afterlife — in poetry - Harvard Gazette",
+      "title": "A life — and afterlife — in poetry - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVE5nYnB0bnQ4LXFGN2lmM1pzSWpGSlVYdkVSV1JQRkJWR2lISFFZY2F3bU5YcUZZMV9VSUtZU1FRU0luNFpsc3p6cmp0eXJqTld1aEd0eElVNXZITkVXMG1pNDU3QmFoNkUxSHNDNUh5NTAxVjNHcmpkRmxSLVVjZWtzOEY?oc=5",
       "date": "2026-06-10 07:00",
-      "summary": "A life — and afterlife — in poetry  Harvard Gazette..."
+      "summary": "A life — and afterlife — in poetry  news.harvard.edu..."
     }
   ],
   "Stanford News": [
@@ -205,16 +205,16 @@
       "summary": "What happens when a kid’s robot best friend dies?  MIT Technology Review..."
     },
     {
-      "title": "The Download: dead robot friends and the “censorship-industrial complex” - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3RnTDBzN3FQQkdNUDcxbjFYcHNUeGdoMmpJOUFOZWhEMGR5SXJTTzlVeUxUSlZxaVNaTGJVWlNhQ29Nb2pWcGJqSDl3QUFUdnFhQy1yUVdWOXNGR01rcURsOWM2UmJNQVJEc3ppcS1KbGVtQjExSER3OUlMb2pKTHRBcUZ2OHlwNVpMUWlLWXZwYU5ucGhFcl9VU19qeFVGenVfbF8yRWd5SzJCdzZnNmlCY1_SAboBQVVfeXFMT3pEUUhDTE9Eb2dJSGtpLTlUeTA0WWY3M290MGtiNGdhb0ZwYVJMWEdHdTJacVlIYXoxdkhDYTRlOHloRGJPdDA1TWhmU2xzalNONVFmNEFhZGF5cXBhX2x2d2c4bm9pek5jOC1uTjNWM3NMSlAtaWc3NmNEd2dqLW42OWIwLTJYQk5KTWIwOGphTEZndnVpY3poOFNzZWpWYldWckVSR1VKd0JxM2dZdWtYaGJ6VnVYMmx3?oc=5",
-      "date": "2026-08-17 12:10",
-      "summary": "The Download: dead robot friends and the “censorship-industrial complex”  MIT Technology Review..."
-    },
-    {
       "title": "How kids feel about AI, in their own words - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmFqd1QzdVh4SFNYSGdlVVJ0bVgzekJsUDczS1Nxc1JIcmR0dHl1TUg1dlk0LVE2bVMtV0ZfZ3lKVmhfNXl3Y0ZsaE9tUlRHNUtaNDBpVnFvUTNicHp2dlk5ZFN1dWpLRWxlSG1EYnI1X3d2OXJNV09jc3hmVkZwM2JZOWt6NWhSbXBURDB30gGTAUFVX3lxTE1qWjQweV9XNXcxSGstR3F2OUFzUURpa1dGN3VFVklUbGozMDRNNWlydFZqbExBOS0tdFU5MHNiLUZPbFp3MlktQWdXZkxYYldsLXBXYWl0UEhSMlFrUmpQQm11aXRSbkFuYkFacHlvMi1SQ205RlhvWUdybkFOd0J1Q3BEOWNjMDRBZDZiVGNnalNxMA?oc=5",
       "date": "2026-08-13 09:00",
       "summary": "How kids feel about AI, in their own words  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: dead robot friends and the “censorship-industrial complex” - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3RnTDBzN3FQQkdNUDcxbjFYcHNUeGdoMmpJOUFOZWhEMGR5SXJTTzlVeUxUSlZxaVNaTGJVWlNhQ29Nb2pWcGJqSDl3QUFUdnFhQy1yUVdWOXNGR01rcURsOWM2UmJNQVJEc3ppcS1KbGVtQjExSER3OUlMb2pKTHRBcUZ2OHlwNVpMUWlLWXZwYU5ucGhFcl9VU19qeFVGenVfbF8yRWd5SzJCdzZnNmlCY1_SAboBQVVfeXFMT3pEUUhDTE9Eb2dJSGtpLTlUeTA0WWY3M290MGtiNGdhb0ZwYVJMWEdHdTJacVlIYXoxdkhDYTRlOHloRGJPdDA1TWhmU2xzalNONVFmNEFhZGF5cXBhX2x2d2c4bm9pek5jOC1uTjNWM3NMSlAtaWc3NmNEd2dqLW42OWIwLTJYQk5KTWIwOGphTEZndnVpY3poOFNzZWpWYldWckVSR1VKd0JxM2dZdWtYaGJ6VnVYMmx3?oc=5",
+      "date": "2026-08-17 12:10",
+      "summary": "The Download: dead robot friends and the “censorship-industrial complex”  MIT Technology Review..."
     },
     {
       "title": "How much hydrogen awaits us underground? - MIT Technology Review",
@@ -224,6 +224,12 @@
     }
   ],
   "Phys.org": [
+    {
+      "title": "Ancient Egyptian tomb shows how burial trends changed over hundreds of years",
+      "link": "https://phys.org/news/2026-08-ancient-egyptian-tomb-burial-trends.html",
+      "date": "2026-08-18 04:00",
+      "summary": "The Theban Necropolis, opposite Luxor, consists of more than 400 tombs. In a new Frontiers in Environmental Archaeology study, res..."
+    },
     {
       "title": "If your career feels chaotic, try this research-based 'workout routine'",
       "link": "https://phys.org/news/2026-08-career-chaotic-based-workout-routine.html",
@@ -247,12 +253,6 @@
       "link": "https://phys.org/news/2026-08-telecoms-action-dimension-readiness.html",
       "date": "2026-08-18 01:00",
       "summary": "Research in the International Journal of Business Information Systems discusses a sector-specific framework to help telecommunicat..."
-    },
-    {
-      "title": "Immune cells have a 'sense of touch,' scientists discover",
-      "link": "https://phys.org/news/2026-08-immune-cells-scientists.html",
-      "date": "2026-08-18 00:00",
-      "summary": "Scientists have long believed that tissue-resident memory T cells—which remain in tissues after an infection has cleared and respo..."
     }
   ],
   "The Guardian Edu": [
