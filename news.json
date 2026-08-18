@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "DOJ official flags Stanford for scrutiny over foreign donations - The Mercury News",
+      "title": "DOJ official flags Stanford for scrutiny over foreign donations - mercurynews.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHFPaFZxQ1VHeTBXMnRPeEF0WnZ0OG8taVNxWGhzSVdudkdqOWNkb2dObEFfX1lxTzI4SFc3Ylkyb29CM0loR3RoQTQ4YjJlT3YyeTBwcWhtd2VscE02My1CT3g5M0ZjLUhRUTQ5STk1ZmdLc21rQnl3dFViU3EwZlFBRFdIUUl1aGYzd0ZNdXdzYlFQVTN2LU9OZ3ZBZmNtQ1JjVzhwLXDSAa4BQVVfeXFMT2F0WVVfczh4ZXR3cE9uM2VJYzlNeFk4cjN2TVVrNmRuYnkwWVJRaG1hc3VRTHUzWEJ2WThTN0ZmOU9fX2ROcGUyenRDVXU4U0ZmNjhkeE41LW1JUlMtb2NhQzNRUEpFVkhIQ21jTWJDQTZRNkVYWHRKRmk2M3RCYlVLbTktMGFoSFlXWmRfT3hpOS1DMDdycW1EUWNvNlpSTXVLb0ZJYmNJZGMzeXB3?oc=5",
       "date": "2026-08-17 23:50",
-      "summary": "DOJ official flags Stanford for scrutiny over foreign donations  The Mercury News..."
+      "summary": "DOJ official flags Stanford for scrutiny over foreign donations  mercurynews.com..."
     },
     {
       "title": "After slashing science budgets, Trump bets on Bay Area researchers - SFGATE",
@@ -83,10 +83,10 @@
       "summary": "DOJ Official Flags Stanford for Scrutiny Over Foreign Donations  Bloomberg.com..."
     },
     {
-      "title": "The Center for Excellence in Education’s Research Science Institute at MIT Will Expand to Stanford in 2027 - manilatimes.net",
+      "title": "The Center for Excellence in Education’s Research Science Institute at MIT Will Expand to Stanford in 2027 - The Manila Times",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQm1PSmQxVkpVZmZZRU1vUFZPdTdOYkw5a2phMHRCeWVFVUdjMlZ0TEQxV1VSNzM1UjEyVF9UMThSa3dkNndEMWJweExTaXFMakVtNHREU0lLSTltS19pVk13Tjd2NzhOdTBMY2M5RGVFUjk0c0dkNkdUc1c1azRFRHZXUkNKRm0tM2J2NmpVV1liUVIzZlVOVmIxWFFCUXZvcGNxM1Z3LUg2VkNfQ054aFJXcWhNa01UMXZUaEFDV2o2alVDNjFBLW1IVERiQUttM3RnaVVscENLMEdBaTNYT1BEN2ZhX29yTlN0TlROREEtY3puaHM3b1o3cWlEMHlkQVo2Z21LTXRsZTDSAZACQVVfeXFMT01JVWtCUUFwUWZIZ3FfcEZCVGNGQW1FeU9KVE56RnJQRFZfa1V4M2dMc0hXcVY5aXZ1Mjg4VXBHMDRCaXZmTEZnWnk0aXh2MklDZWtVMzBKRnROajhVUVJBOFc0RVBBbFJ5dXQ4QnEwc2RUVFJKcXpzSkFmS2EyMlFsNEo1UEdHM3N1X08tS2V2SUxydzVKQzJzN3JtQVhLNFhDZGQtbkxuZDRpM2RweERwQlJuQlZtOEFKZ21BaWJBdm1UWlRidmo4S1U1alNkdFREU1NSY2NaUkVySjhZeE1nbFh1TEo4eHhKQ1haSmwtYmJlclBMbWw5QjF4UnFNYjF5V3ZEdGg1MjVuNTdycEY?oc=5",
       "date": "2026-08-18 10:10",
-      "summary": "The Center for Excellence in Education’s Research Science Institute at MIT Will Expand to Stanford in 2027  manilatimes.net..."
+      "summary": "The Center for Excellence in Education’s Research Science Institute at MIT Will Expand to Stanford in 2027  The Manila Times..."
     },
     {
       "title": "DOJ Official Flags Stanford for Scrutiny Over Foreign Donations - Bloomberg Law News",
@@ -101,6 +101,12 @@
       "link": "https://www.nature.com/articles/d41586-026-02577-3",
       "date": "2026-08-18 00:00",
       "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02577-3Heatwaves expose weak links in food systems..."
+    },
+    {
+      "title": "Scientific expedition makes the best of bad weather",
+      "link": "https://www.nature.com/articles/d41586-026-02381-z",
+      "date": "2026-08-18 00:00",
+      "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02381-zResearchers grapple with the causes of evolution, and a se..."
     },
     {
       "title": "Treat biological databases as infrastructure, not projects",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02576-4",
       "date": "2026-08-18 00:00",
       "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02576-4Asia’s longevity gains must be translated into better heal..."
-    },
-    {
-      "title": "How to get the most out of an informational interview",
-      "link": "https://www.nature.com/articles/d41586-026-01932-8",
-      "date": "2026-08-18 00:00",
-      "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-01932-8These informal meetings can help you to explore new career..."
     }
   ],
   "Retraction Watch": [
@@ -173,22 +173,22 @@
       "summary": "Big investors hunt for tomorrow's AI winners as capex angst fades  Reuters..."
     },
     {
+      "title": "US advisory body says China's data dominance gives it AI advantage - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0cwTEZpQTJoZFQycjVPbjFtNEo5cW9EQWlDcWRUbHhuQkU4TUpJX0N6ekhJVmlERGZVMnZDODZMcEw5azEtaXRLREF2UFlwWEk5MVBhVTJDSnpMTm1sbURHTEV3cFoyMWQ4Sl9JbnhSMkFXcUFhZFFlMi0ydzJLSlVtU2pWSnBubWhUUHhzVVZGaURrcmpfUE5wTDdVYUtCTmp3Mi02QzNSSVVIMnVnVllfdw?oc=5",
+      "date": "2026-08-18 13:07",
+      "summary": "US advisory body says China's data dominance gives it AI advantage  Reuters..."
+    },
+    {
+      "title": "Chip designer Velaura AI valued at more than $1 billion after funding round - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX28yMGo4RXFXbUVkRHBvQnpCNVlQX3JEOC1TRlFsR3hJMVFPM3JrNENOM3ZRalJiVU55SlFVM19sR25XWFhnZzFlRWNlR1AtWUc1QTViVmItdEZpWXpVVGFfOXFuc0xfc0dlUnBQalAxR1Jfam12VlVqV3VGS0VBdjlvcGV6RmFPMjJVbFB4MUU0UkhqdDFEamJkaEFITEhYSERldEpUZVg4ZmtUNC1UcURfRmc3QUxSUEViMGdwVThKWTdGVXc?oc=5",
+      "date": "2026-08-18 12:05",
+      "summary": "Chip designer Velaura AI valued at more than $1 billion after funding round  Reuters..."
+    },
+    {
       "title": "U.S. to tell partners they must pick sides in AI race with China: Reuters - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEpjRzNMbUo5T0wzaDRGZGh4UXZ1Y3ByQmtaMzdTdHVMOHo1STNFQk15Z1RUdzRPYzdfT0doOGlBRUZnYU82eWhvTEdtX3dlM1I0SFJFZzNhWFhvWlhXNWxIQ1lETmZxN0Y0TXNOQmNwVUtBZzUtUFptNDlEVWo1aUd3Q2lhYjduWnVxRXctQXBwMUZxN2kzdTItNUVxNm9tYkJ6U3dIblrSAa4BQVVfeXFMTVFSRVZGdERLQXZwamdMWmxTdTFnNUVGRmxKZlktV3RuRHlDdmpRT2xzWUxsbnVlb0JhUEw3dnlWelhTamgyUUh0TThEY2FrbVlTb0Q5OWtOTExuSzRCTGx4cEoyaU9XODNGWl9BdkxSX3owWHVfZWJyTjhUNGQwVU4xMVVnUVMwWFRiN2hwbS1CMEowZWwxOE1YQzFSdDBjSTdDX1JTUmU5bFpfM2lB?oc=5",
       "date": "2026-08-15 22:49",
       "summary": "U.S. to tell partners they must pick sides in AI race with China: Reuters  CNBC..."
-    },
-    {
-      "title": "US Advisory Body Says China's Data Dominance Gives It AI Advantage - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG41ZkhyamxDZ3dZT05vdFZOaS1HRDI5MldLWkEyUlF1ZExSbE5nQXVtd0tSZTluampvczk0NWhmaWtnbV9aZEZONXlfNzR2NGs3b05fUG5aV2pjZFFYb3BTTlZ1TWFOQlV1cEtrVUlGalRETW1wWHVLdDlLeDJDb0xjOVE4TnZfVmkwXzZhMXdndHliMjNnaEpvMUpycGR0NEZTc2RpT2xDUTRQa1pWczYySC1OTDdvVG1YZkdUSQ?oc=5",
-      "date": "2026-08-18 13:05",
-      "summary": "US Advisory Body Says China's Data Dominance Gives It AI Advantage  U.S. News & World Report..."
-    },
-    {
-      "title": "Pentagon pressure to move AI faster drives Smack's new funding round, CEO says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1dTS0lqOUpOSzY0S1R0eGJWS21MajNPNXVySXpTMkdWRVVhcXN5cWk0dnFnZkxEdUdrS1ZEZ2g3LXpjZFdqZVhERGdUSURLVTE2MUNOTHRNSFhTcmNoY3dMSzFfMnAxamx2Q3NQYXdlNWlJM0hjUF92REN3WE1hZUtEUzQ3SnJ2VXplS25nbm5zMWZyNnBqbktmMXVPZl9xWUVBRnJTMWJGTE1YZUdJTncza1lFLWxjaFFfcA?oc=5",
-      "date": "2026-08-17 19:24",
-      "summary": "Pentagon pressure to move AI faster drives Smack's new funding round, CEO says  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "AI reconstructs hidden history of Earth's mantle flow from surface clues",
-      "link": "https://phys.org/news/2026-08-ai-reconstructs-hidden-history-earth.html",
-      "date": "2026-08-18 13:20",
-      "summary": "The mantle, a rocky layer accounting for more than 80% of Earth's volume, circulates at rates of only a few centimeters per year. ..."
+      "title": "Retro phone trend reveals growing desire to disconnect",
+      "link": "https://phys.org/news/2026-08-retro-trend-reveals-desire-disconnect.html",
+      "date": "2026-08-18 14:20",
+      "summary": "From wall-mounted smartphone docks to old-fashioned coiled-phone handsets, a growing trend for retro phone accessories may be a si..."
     },
     {
-      "title": "Drier soils may turn late summer into prolonged extreme heat",
-      "link": "https://phys.org/news/2026-08-drier-soils-late-summer-prolonged.html",
-      "date": "2026-08-18 13:20",
-      "summary": "The summers of recent years have been hot, but not unusual from a meteorological perspective. According to researchers at Leipzig ..."
+      "title": "Long-range magnetic interactions govern how a ferrimagnet approaches its phase transition",
+      "link": "https://phys.org/news/2026-08-range-magnetic-interactions-ferrimagnet-approaches.html",
+      "date": "2026-08-18 14:20",
+      "summary": "Close to a phase transition, very different materials can follow the same mathematical rules. The concept of universality, which g..."
     },
     {
-      "title": "New gene activity tool measures biological age of cells and screens aging-related compounds",
-      "link": "https://phys.org/news/2026-08-gene-tool-biological-age-cells.html",
-      "date": "2026-08-18 13:00",
-      "summary": "Researchers at Karolinska Institutet and Stockholm University have developed a new tool that estimates a cell's biological age by ..."
+      "title": "The link between incoherent beliefs and conspiracism",
+      "link": "https://phys.org/news/2026-08-link-incoherent-beliefs-conspiracism.html",
+      "date": "2026-08-18 14:00",
+      "summary": "Simultaneous belief in logically incompatible claims is linked to conspiratorial thinking, according to a study that models belief..."
     },
     {
-      "title": "Aerial imagery maps hurricane wind damage and shows stronger building codes work",
-      "link": "https://phys.org/news/2026-08-aerial-imagery-hurricane-stronger-codes.html",
-      "date": "2026-08-18 12:40",
-      "summary": "Massive storms like Hurricane Katrina in 2005, which caused more than $100 billion in damage, were once considered lifetime events..."
+      "title": "Tomato roots reveal hidden steps in 400-million-year-old fungal partnership",
+      "link": "https://phys.org/news/2026-08-tomato-roots-reveal-hidden-million.html",
+      "date": "2026-08-18 14:00",
+      "summary": "Scientists at VIB and Ghent University have produced the first high-resolution, cell-by-cell map of how tomato roots respond to co..."
     },
     {
-      "title": "Distinct neurons drive mice's social sounds and squeaks",
-      "link": "https://phys.org/news/2026-08-distinct-neurons-mice-social.html",
-      "date": "2026-08-18 12:40",
-      "summary": "Mice use almost completely distinct sets of neurons for their two different types of vocalizations—the squeaks they produce when i..."
+      "title": "Unusual superconductivity could emerge in valley-imbalanced rhombohedral graphene",
+      "link": "https://phys.org/news/2026-08-unusual-superconductivity-emerge-valley-imbalanced.html",
+      "date": "2026-08-18 13:40",
+      "summary": "Superconductors are materials in which electrical current flows with a resistance of zero, typically below specific temperatures. ..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong customs raids office in Opatra London probe after 6 complaints",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364469/hong-kong-customs-raids-office-opatra-london-probe-after-6-complaints?utm_source=rss_feed",
+      "date": "2026-08-18 13:43",
+      "summary": "Hong Kong customs has raided a corporate secretarial office in Sheung Wan as part of an investigation into a local beauty chain li..."
+    },
+    {
       "title": "Infertility may affect 79.6 million women by 2036, posing challenge for Hong Kong",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3364467/infertility-may-affect-796-million-women-2036-posing-challenge-hong-kong?utm_source=rss_feed",
       "date": "2026-08-18 13:29",
@@ -307,16 +313,10 @@
       "summary": "More than 80 per cent of surveyed mainland Chinese companies plan to grow their overseas presence, with Hong Kong listed as their ..."
     },
     {
-      "title": "Hong Kong court orders defunct Apple Daily to pay HK$1.5 million over defamatory articles",
+      "title": "Court orders defunct Apple Daily to pay HK$1.5 million over defamatory articles",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364459/hong-kong-court-orders-defunct-apple-daily-pay-hk15-million-over-defamatory-articles?utm_source=rss_feed",
       "date": "2026-08-18 12:24",
-      "summary": "A Hong Kong court has ordered the defunct Apple Daily newspaper to pay HK$1.5 million in damages to a listed company and two senio..."
-    },
-    {
-      "title": "Owner of unleashed 60kg dog arrested after 2 small pets killed in Hong Kong",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3364451/owner-unleashed-60kg-dog-arrested-after-2-small-pets-killed-hong-kong?utm_source=rss_feed",
-      "date": "2026-08-18 11:12",
-      "summary": "Hong Kong authorities have arrested the owner of a large, unleashed dog that fatally attacked two smaller pets in Yuen Long, as th..."
+      "summary": "A Hong Kong court has ordered the defunct Apple Daily newspaper to pay HK$1.5 million (US$191,200) in damages to a listed company ..."
     }
   ]
 }
