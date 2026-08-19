@@ -33,6 +33,12 @@
   ],
   "Harvard Gazette": [
     {
+      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
+      "date": "2026-07-28 07:00",
+      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
+    },
+    {
       "title": "20 societal problems, 20 solutions - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
@@ -45,22 +51,16 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "How AI may change public policy, how we lead - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
-      "date": "2026-07-28 07:00",
-      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
+      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
+      "date": "2026-07-10 07:00",
+      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
     },
     {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
-    },
-    {
-      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
-      "date": "2026-07-10 07:00",
-      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -167,10 +167,10 @@
       "summary": "OpenAI slows model training to bolster security after Hugging Face hack  Reuters..."
     },
     {
-      "title": "US advisory body says China's data dominance gives it AI advantage - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0cwTEZpQTJoZFQycjVPbjFtNEo5cW9EQWlDcWRUbHhuQkU4TUpJX0N6ekhJVmlERGZVMnZDODZMcEw5azEtaXRLREF2UFlwWEk5MVBhVTJDSnpMTm1sbURHTEV3cFoyMWQ4Sl9JbnhSMkFXcUFhZFFlMi0ydzJLSlVtU2pWSnBubWhUUHhzVVZGaURrcmpfUE5wTDdVYUtCTmp3Mi02QzNSSVVIMnVnVllfdw?oc=5",
-      "date": "2026-08-18 13:07",
-      "summary": "US advisory body says China's data dominance gives it AI advantage  Reuters..."
+      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
+      "date": "2026-08-17 10:04",
+      "summary": "Trump crypto firm backs venture offering AI from restricted Chinese companies  Reuters..."
     },
     {
       "title": "China Urges Respect for Digital Sovereignty in AI Race - U.S. News & World Report",
@@ -185,10 +185,10 @@
       "summary": "Pennsylvania governor signs order imposing new rules to set up AI data centers in state  Reuters..."
     },
     {
-      "title": "French government to hire French AI providers such as Mistral, Minister says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWllfZzVOVlkxemdwV3dhNWRPbFBHV1BHNV8tc3BjVUoxZk1oQWJoUVpGVlhpczZ6Rng1WDBlN05IX21GSUFBbWRmZE9ZclE1TmNzaWV1YmFLaDlMejRhcGhhMHNtVWh1dEgzaXQ1QzBnMk1Ld2QySmd6TFNnVzFwaVhrcFpNdGVveUdqWDctVHB0Nk5yMnk2MUR1UTJNY3JiUU96eDRleTJ5anNYVHZHY2Y2dndrMVdSQ0Jn?oc=5",
-      "date": "2026-08-18 15:42",
-      "summary": "French government to hire French AI providers such as Mistral, Minister says  Reuters..."
+      "title": "Europe AI data centres seek cheaper, quicker energy and land - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDdLQ0hZWDRyZ0xhVnVYZ3EyanNtODlsUERkaGxtc21CaUtYa3Zwd0xqbDY1RnVma3YyVkQwSDRzaHRVaGotRGNsRUN0XzR0WU9aZmFXeHdrSzVOMlVoZVZzZ2hYdk9SWjJCZTUtWmZBblNCTjlKSGtIMzdmTUd3VEIzQ2ZWQWVfZlpaei12S1lMNlFpUzJxc2tjNjB6TV9xT3c?oc=5",
+      "date": "2026-08-19 10:06",
+      "summary": "Europe AI data centres seek cheaper, quicker energy and land  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -205,16 +205,16 @@
       "summary": "Child-monitoring apps might need a reboot  MIT Technology Review..."
     },
     {
-      "title": "The Download: how people really use AI, and Flock’s design choices - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnJ2RE9ld052bE10eGViTnM2UGNyM1JZU01WTFdMazNSZS1fUHJWUzVTVjlIUEtSWjFVSThNSHRGeGlUY01JSTNlSEt4UTlweHBwNVh5MDU1aVZoY2RnQ0RlTGNXMkxBR1RRRTI0SVNyY1F4eVZSeXBYaTM2QTNyLWR6cVJ5Y3piT0t2LUZnMWVEY2VCRGJkTWVwLThWa0lva1pzUldNY9IBrAFBVV95cUxNa2YzZ1VmcWpWbkNKMU1tQURpZjU2d3NaRy1qTUNnOGRSRWxQRXVVSFZ4WmtRX3hYd0d2R0RiRWhKMzBBdmJ2eUUyS0RUblltVTZYYllDaFk1Q1AtTU5rZ0pGWG40Ui1vUWdlc3hSb2lPZVZoWTRUYVlNempfWWcyNWl3Q1RLN093ZjFRZldla1pzMWVfcFozMndiZW5qOU1NMEpuT0pOeEU3SnJz?oc=5",
-      "date": "2026-08-18 12:10",
-      "summary": "The Download: how people really use AI, and Flock’s design choices  MIT Technology Review..."
-    },
-    {
       "title": "We still don’t know how people are really using AI - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQkFLNWNOVndnMUZHN0ZiNHp2ODVoNUFRMDNSRGJuR1FiOE1qTTdQZFI1WEg0LWJ0TjJHaWtOdEVUSzdmZjRDSFN1QmxIeGdTZlJGNjlaZ3dpNGRuOE5xT1g3R1VXbURweThZRmtBSHhlR1lOR0Zaai1R0gF_QVVfeXFMUHRtMk1yNmFCRWVjb2o5MzZUQlZnNUFfLTZ2WkQ3eFdXa1RDLTFjaGE3UnJpX0hEbHN2NVZoQVpVOWROcUlMNVZaSG9DaXd2dkFEc3JQZWFsNDc0LWRSb09sdlAzSUpXNnpneWY5VWJvUWRkMHpZYmFpam1nXzJIWQ?oc=5",
       "date": "2026-08-18 10:06",
       "summary": "We still don’t know how people are really using AI  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: how people really use AI, and Flock’s design choices - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnJ2RE9ld052bE10eGViTnM2UGNyM1JZU01WTFdMazNSZS1fUHJWUzVTVjlIUEtSWjFVSThNSHRGeGlUY01JSTNlSEt4UTlweHBwNVh5MDU1aVZoY2RnQ0RlTGNXMkxBR1RRRTI0SVNyY1F4eVZSeXBYaTM2QTNyLWR6cVJ5Y3piT0t2LUZnMWVEY2VCRGJkTWVwLThWa0lva1pzUldNY9IBrAFBVV95cUxNa2YzZ1VmcWpWbkNKMU1tQURpZjU2d3NaRy1qTUNnOGRSRWxQRXVVSFZ4WmtRX3hYd0d2R0RiRWhKMzBBdmJ2eUUyS0RUblltVTZYYllDaFk1Q1AtTU5rZ0pGWG40Ui1vUWdlc3hSb2lPZVZoWTRUYVlNempfWWcyNWl3Q1RLN093ZjFRZldla1pzMWVfcFozMndiZW5qOU1NMEpuT0pOeEU3SnJz?oc=5",
+      "date": "2026-08-18 12:10",
+      "summary": "The Download: how people really use AI, and Flock’s design choices  MIT Technology Review..."
     },
     {
       "title": "What Flock’s defenders are missing - MIT Technology Review",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Why many birds add fresh plants to their nests remains unclear despite signs of healthier offspring",
-      "link": "https://phys.org/news/2026-08-birds-fresh-unclear-healthier-offspring.html",
-      "date": "2026-08-19 13:40",
-      "summary": "As they build their nests, many birds are known to interweave dried grasses and other materials with green plants, such as fresh l..."
+      "title": "Is the laundry still damp, or just cold? Why your skin can't tell the difference",
+      "link": "https://phys.org/news/2026-08-laundry-damp-cold-skin-difference.html",
+      "date": "2026-08-19 14:20",
+      "summary": "It's a cold winter afternoon, and you've just brought the laundry in. Suddenly, you pause. Are these clothes a bit damp?..."
     },
     {
-      "title": "New design method stabilizes human growth factor for potential therapeutic use",
-      "link": "https://phys.org/news/2026-08-method-stabilizes-human-growth-factor.html",
-      "date": "2026-08-19 13:40",
-      "summary": "A new study published in the Biophysical Journal reports on the development of a stable, biologically active version of the human ..."
+      "title": "Search in strange quark sector reveals new particle possibilities",
+      "link": "https://phys.org/news/2026-08-strange-quark-sector-reveals-particle.html",
+      "date": "2026-08-19 14:20",
+      "summary": "Despite science's best efforts to classify the vast menagerie of subatomic particles discovered over the past few decades, some ex..."
     },
     {
-      "title": "Neutron capture experiment sheds light on ancient stardust",
-      "link": "https://phys.org/news/2026-08-neutron-capture-ancient-stardust.html",
-      "date": "2026-08-19 13:20",
-      "summary": "Niobium-94, an isotope of niobium with 41 protons and 53 neutrons, is a critical crossroads in the complex nuclear processes that ..."
+      "title": "Concerns about the New World screwworm have put Texas pet adoptions on hold",
+      "link": "https://phys.org/news/2026-08-world-screwworm-texas-pet.html",
+      "date": "2026-08-19 14:07",
+      "summary": "Adoptions are on hold for thousands of dogs and cats in Texas, potentially putting the animals at risk of being euthanized, becaus..."
     },
     {
-      "title": "Sea cucumber breeding clues could help rebuild populations depleted by overfishing",
-      "link": "https://phys.org/news/2026-08-sea-cucumber-clues-rebuild-populations.html",
-      "date": "2026-08-19 13:20",
-      "summary": "The reproductive life of sea cucumbers has come under the microscope as University of the Sunshine Coast researchers battle overfi..."
+      "title": "An echo of Einstein: An unexpected link between whale calls and special relativity",
+      "link": "https://phys.org/news/2026-08-echo-einstein-unexpected-link-whale.html",
+      "date": "2026-08-19 14:00",
+      "summary": "Standing on the sandy, windswept shores of Provincetown, Massachusetts, people may find themselves squinting at the horizon, waiti..."
     },
     {
-      "title": "Volcano myths unravel, from 'smoke' plumes to Yellowstone catastrophe claims",
-      "link": "https://phys.org/news/2026-08-volcano-myths-unravel-plumes-yellowstone.html",
-      "date": "2026-08-19 13:00",
-      "summary": "Volcanoes emit smoke. Beneath a volcano lies a huge chamber filled with liquid magma. A series of earthquakes means an eruption is..."
+      "title": "Scientists give aircraft composite waste a second life",
+      "link": "https://phys.org/news/2026-08-scientists-aircraft-composite-life.html",
+      "date": "2026-08-19 14:00",
+      "summary": "Researchers from the National University of Singapore (NUS) have developed a method to turn waste from the tough, lightweight comp..."
     }
   ],
   "The Guardian Edu": [
