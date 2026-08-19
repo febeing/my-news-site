@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "How AI may change public policy, how we lead - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
-      "date": "2026-07-28 07:00",
-      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
-    },
-    {
       "title": "20 societal problems, 20 solutions - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
@@ -51,16 +45,22 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
-      "date": "2026-07-10 07:00",
-      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
+      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
+      "date": "2026-07-28 07:00",
+      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
     },
     {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+    },
+    {
+      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
+      "date": "2026-07-10 07:00",
+      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -89,42 +89,42 @@
       "summary": "Stanford moving novel oral influenza antiviral toward IND with NIAID backing  AllSci..."
     },
     {
-      "title": "Fulbright award takes doctoral researcher to Stanford - University of Auckland",
+      "title": "Fulbright award takes doctoral researcher to Stanford - auckland.ac.nz",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZW5ZbTZVYUhzbE84aW51eWV3RnIyOTVKUW5UcnRJeTFweHdlaU53OXlDTXItR0IwMXpZM25wRGhrVV9RaG9JV0djNjI3b0VwNGFjN0lLUWNUMUZJaGlEaUplRGJja0hHbzJ3a05uUktUaU9pT3JGSkhKZUthQzV5NE1mQnZ0V0hxUjZzSDF3eVB5WWdpT0M4VTctUUpvNXBhLTFlWQ?oc=5",
       "date": "2026-08-19 05:39",
-      "summary": "Fulbright award takes doctoral researcher to Stanford  University of Auckland..."
+      "summary": "Fulbright award takes doctoral researcher to Stanford  auckland.ac.nz..."
     }
   ],
   "Nature Careers": [
     {
-      "title": "Twenty-two easy ways to power up your lab meetings",
-      "link": "https://www.nature.com/articles/d41586-026-02037-y",
+      "title": "Evidence for vacuum-enhanced superconductivity in NbSe<sub>2</sub>",
+      "link": "https://www.nature.com/articles/s41586-026-11037-x",
       "date": "2026-08-19 00:00",
-      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02037-yScientists share help and advice on how they got their res..."
+      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-11037-xEvidence for vacuum-enhanced superconductivity in NbSe2..."
     },
     {
-      "title": "South Africa’s scientists must register with official body or risk prison, according to draft law",
-      "link": "https://www.nature.com/articles/d41586-026-02516-2",
+      "title": "A black hole's spin could finally be measured by a high-speed star",
+      "link": "https://www.nature.com/articles/d41586-026-02607-0",
       "date": "2026-08-19 00:00",
-      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02516-2Many researchers are unaware of an upcoming law that will ..."
+      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02607-0Star orbiting close to Sagittarius A* could reveal its spi..."
     },
     {
-      "title": "Screening babies’ genomes could save lives. Here’s how it would work",
-      "link": "https://www.nature.com/articles/d41586-026-02528-y",
+      "title": "Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
+      "link": "https://www.nature.com/articles/s41586-026-10776-1",
       "date": "2026-08-19 00:00",
-      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02528-yMassive genomic newborn-screening studies are under way al..."
+      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10776-1Reply to: Artefacts in single-cell mtDNA analyses misinfor..."
     },
     {
-      "title": "Rudolph A. Marcus obituary: theoretical chemist who explained how electrons jump between molecules",
-      "link": "https://www.nature.com/articles/d41586-026-02610-5",
+      "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
+      "link": "https://www.nature.com/articles/s41586-026-10777-0",
       "date": "2026-08-19 00:00",
-      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02610-5His calculations explain the efficiency of batteries and s..."
+      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10777-0Artefacts in single-cell mtDNA analyses misinform phylogen..."
     },
     {
-      "title": "AI tool lets researchers 'vibe code' in the quantum realm",
-      "link": "https://www.nature.com/articles/d41586-026-02495-4",
+      "title": "Functional role of skull lymphoid structures in CNS immunosurveillance",
+      "link": "https://www.nature.com/articles/s41586-026-10951-4",
       "date": "2026-08-19 00:00",
-      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02495-4An autonomous AI agent can write and execute quantum compu..."
+      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10951-4Functional lymphoid structures within the skull bone marro..."
     }
   ],
   "Retraction Watch": [
@@ -161,22 +161,22 @@
   ],
   "Reuters AI": [
     {
+      "title": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5",
+      "date": "2026-08-18 19:03",
+      "summary": "OpenAI slows model training to bolster security after Hugging Face hack  Reuters..."
+    },
+    {
       "title": "US advisory body says China's data dominance gives it AI advantage - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0cwTEZpQTJoZFQycjVPbjFtNEo5cW9EQWlDcWRUbHhuQkU4TUpJX0N6ekhJVmlERGZVMnZDODZMcEw5azEtaXRLREF2UFlwWEk5MVBhVTJDSnpMTm1sbURHTEV3cFoyMWQ4Sl9JbnhSMkFXcUFhZFFlMi0ydzJLSlVtU2pWSnBubWhUUHhzVVZGaURrcmpfUE5wTDdVYUtCTmp3Mi02QzNSSVVIMnVnVllfdw?oc=5",
       "date": "2026-08-18 13:07",
       "summary": "US advisory body says China's data dominance gives it AI advantage  Reuters..."
     },
     {
-      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
-      "date": "2026-08-17 10:04",
-      "summary": "Trump crypto firm backs venture offering AI from restricted Chinese companies  Reuters..."
-    },
-    {
-      "title": "Europe AI data centres seek cheaper, quicker energy and land - Yahoo",
+      "title": "Europe AI data centres seek cheaper, quicker energy and land - yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnpjLXBvdk85TzZoWEZTMExMUVlwSzZzajlyaUJ3OGt5OFZ3STZPUFd5VWxBNXYyZzRWUlMtTDB2Q0Z1dmNmRGlsckhQalVpYjlrdXplLU0wcEhlZ01FRjRUNzloNFk2TUZFOXNPOThMSEUzQnhwNkpxWHcyT3hZUnB0anM?oc=5",
       "date": "2026-08-19 10:01",
-      "summary": "Europe AI data centres seek cheaper, quicker energy and land  Yahoo..."
+      "summary": "Europe AI data centres seek cheaper, quicker energy and land  yahoo.com..."
     },
     {
       "title": "China Urges Respect for Digital Sovereignty in AI Race - U.S. News & World Report",
@@ -185,10 +185,10 @@
       "summary": "China Urges Respect for Digital Sovereignty in AI Race  U.S. News & World Report..."
     },
     {
-      "title": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5",
-      "date": "2026-08-18 19:03",
-      "summary": "OpenAI slows model training to bolster security after Hugging Face hack  Reuters..."
+      "title": "French government to hire French AI providers such as Mistral, Minister says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWllfZzVOVlkxemdwV3dhNWRPbFBHV1BHNV8tc3BjVUoxZk1oQWJoUVpGVlhpczZ6Rng1WDBlN05IX21GSUFBbWRmZE9ZclE1TmNzaWV1YmFLaDlMejRhcGhhMHNtVWh1dEgzaXQ1QzBnMk1Ld2QySmd6TFNnVzFwaVhrcFpNdGVveUdqWDctVHB0Nk5yMnk2MUR1UTJNY3JiUU96eDRleTJ5anNYVHZHY2Y2dndrMVdSQ0Jn?oc=5",
+      "date": "2026-08-18 15:42",
+      "summary": "French government to hire French AI providers such as Mistral, Minister says  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,37 +225,43 @@
   ],
   "Phys.org": [
     {
-      "title": "Parasite linked to 'mushy fish' could be much more widespread than thought",
-      "link": "https://phys.org/news/2026-08-parasite-linked-mushy-fish-widespread.html",
-      "date": "2026-08-19 16:20",
-      "summary": "If you're a keen angler and regularly catch yellowtail kingfish (Seriola lalandi), you may have encountered instances of the fish'..."
+      "title": "AI flood map reveals 11 million Americans may be omitted from official risk zones",
+      "link": "https://phys.org/news/2026-08-ai-reveals-million-americans-omitted.html",
+      "date": "2026-08-19 17:20",
+      "summary": "Official flood maps shape disaster preparedness, insurance decisions and urban planning, but large parts of the United States rema..."
     },
     {
-      "title": "Gentle chemical glow helps scientists capture sharper images of living cells",
-      "link": "https://phys.org/news/2026-08-gentle-chemical-scientists-capture-sharper.html",
-      "date": "2026-08-19 16:20",
-      "summary": "We reach for brighter, better lighting for sharper pictures, whether we're photographing a puppy or a microscopic cell. In most ca..."
+      "title": "Dynamic framework can better predict wildfires",
+      "link": "https://phys.org/news/2026-08-dynamic-framework-wildfires.html",
+      "date": "2026-08-19 17:20",
+      "summary": "Southwest Research Institute (SwRI) has developed a new framework for early wildfire detection using real-time modeling that combi..."
     },
     {
-      "title": "Greenwashing firms are scrutinized less if they are in politicians' pockets, study finds",
-      "link": "https://phys.org/news/2026-08-greenwashing-firms-scrutinized-politicians-pockets.html",
-      "date": "2026-08-19 16:00",
-      "summary": "Companies with strong political connections are more likely to escape scrutiny over greenwashing, according to new research from D..."
+      "title": "Metastable 3D printing 'ink' enables a closed-loop material cycle",
+      "link": "https://phys.org/news/2026-08-metastable-3d-ink-enables-loop.html",
+      "date": "2026-08-19 17:00",
+      "summary": "Polymers used for light-based 3D printing are very stable because of their chemical structure, but they are typically hard to recy..."
     },
     {
-      "title": "Study shows hearing children of deaf adults experience stigma but show agency and resilience",
-      "link": "https://phys.org/news/2026-08-children-deaf-adults-stigma-agency.html",
-      "date": "2026-08-19 16:00",
-      "summary": "Hearing children of deaf adults can experience stigma, discrimination and social exclusion because of their association with their..."
+      "title": "Connecting the power of the stars to geometry",
+      "link": "https://phys.org/news/2026-08-power-stars-geometry.html",
+      "date": "2026-08-19 17:00",
+      "summary": "In the world of fusion  energy, scientists and engineers study the fourth state of matter known as plasma  in an effort to design ..."
     },
     {
-      "title": "Shrews exhibit reversible size changes in their skulls and noses to get through the winter",
-      "link": "https://phys.org/news/2026-08-shrews-reversible-size-skulls-noses.html",
-      "date": "2026-08-19 15:40",
-      "summary": "Scientists had previously observed that some species of shrews undergo a form of biological plasticity in which their bodies, skul..."
+      "title": "What if our cities were designed for wildlife as well as people?",
+      "link": "https://phys.org/news/2026-08-cities-wildlife-people.html",
+      "date": "2026-08-19 16:40",
+      "summary": "On a warm evening in May, swifts scream over rooftops, chasing insects above the traffic. A fox slips along a garden wall while gu..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Açaí, chipotle and gnocchi – and other words you are probably mispronouncing",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/aug/19/acai-chipotle-and-gnocchi-and-other-words-you-are-probably-mispronouncing",
+      "date": "2026-08-19 16:29",
+      "summary": "The English language can seem designed to trip us up, whether we’re greeting a colonel or travelling to Worcestershire. Here are s..."
+    },
     {
       "title": "‘It’s easy to slip into the negatives’: students on their biggest financial shocks at university",
       "link": "https://www.theguardian.com/money/2026/aug/19/students-starting-university-bank-accounts-rent-food",
@@ -279,12 +285,6 @@
       "link": "https://www.theguardian.com/money/2026/aug/18/student-bank-accounts-freebies-perks-overdraft",
       "date": "2026-08-18 06:00",
       "summary": "Sign-up perks may capture the attention but should the focus be on the interest-free overdraft?Students on their biggest financial..."
-    },
-    {
-      "title": "Tens of thousands pay tribute to Jason Arday at Trafalgar Square vigil",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/17/tens-of-thousands-pay-tribute-jason-arday-trafalgar-square-vigil",
-      "date": "2026-08-17 20:32",
-      "summary": "MPs, friends and campaigners gathered to remember former Cambridge professor after his death on FridayTens of thousands of people ..."
     }
   ],
   "SCMP Hong Kong": [
