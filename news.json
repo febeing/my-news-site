@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "How AI may change public policy, how we lead - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
-      "date": "2026-07-28 07:00",
-      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
-    },
-    {
       "title": "20 societal problems, 20 solutions - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
@@ -51,16 +45,22 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
-      "date": "2026-07-10 07:00",
-      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
+      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
+      "date": "2026-07-28 07:00",
+      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
     },
     {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+    },
+    {
+      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
+      "date": "2026-07-10 07:00",
+      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -83,19 +83,25 @@
       "summary": "DOJ official flags Stanford for scrutiny over foreign donations  The Mercury News..."
     },
     {
-      "title": "Fulbright award takes doctoral researcher to Stanford - auckland.ac.nz",
+      "title": "Fulbright award takes doctoral researcher to Stanford - University of Auckland",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZW5ZbTZVYUhzbE84aW51eWV3RnIyOTVKUW5UcnRJeTFweHdlaU53OXlDTXItR0IwMXpZM25wRGhrVV9RaG9JV0djNjI3b0VwNGFjN0lLUWNUMUZJaGlEaUplRGJja0hHbzJ3a05uUktUaU9pT3JGSkhKZUthQzV5NE1mQnZ0V0hxUjZzSDF3eVB5WWdpT0M4VTctUUpvNXBhLTFlWQ?oc=5",
       "date": "2026-08-19 05:39",
-      "summary": "Fulbright award takes doctoral researcher to Stanford  auckland.ac.nz..."
+      "summary": "Fulbright award takes doctoral researcher to Stanford  University of Auckland..."
     },
     {
-      "title": "Stanford Football: Fall Camp Press Conference | Week 4 - Stanford Cardinal",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVFYzWWhOU01CM1drajk1U2UwMFpteFBWQ056bVVRSDVScmpGejljUldfd085bDVZRy1EWlBZMUt3cU5EdEtRU0s5QlBCU3N4M25EdlVMZEx2ekRZUDloZjNmWXU4UFpzMUR0cjJiTnNpd1lWUVNJeEVkZERxY3BJQThSaW9CRzNuR1ZxWUIwVHNKTi10Rlp2RQ?oc=5",
-      "date": "2026-08-19 02:14",
-      "summary": "Stanford Football: Fall Camp Press Conference | Week 4  Stanford Cardinal..."
+      "title": "Feds to scrutinize foreign funding Stanford receives - Palo Alto Daily Post",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVSWUROZFNnR0V1UDJnSnV2OFdPSjhQelpHMk1hVkRSTDN2OVZTWjFBOGxvQTdDRTFKNlFfUU5YRS1zM1gzSHM3eVBLWDNqbzdDSDFKdmNkWDZiYmoxMG1oX09aRVNQbUZEVjZ4djN3Uk4wX2w2aE1DT0hFenBtUjlZUkpnR3lxWTBjb3FCVGJoQQ?oc=5",
+      "date": "2026-08-18 22:40",
+      "summary": "Feds to scrutinize foreign funding Stanford receives  Palo Alto Daily Post..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Screening babies’ genomes could save lives. Here’s how it would work",
+      "link": "https://www.nature.com/articles/d41586-026-02528-y",
+      "date": "2026-08-19 00:00",
+      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02528-yMassive genomic newborn-screening studies are under way al..."
+    },
     {
       "title": "Heatwaves expose weak links in food systems",
       "link": "https://www.nature.com/articles/d41586-026-02577-3",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02578-2",
       "date": "2026-08-18 00:00",
       "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02578-2Europe must adapt to live with megafires..."
-    },
-    {
-      "title": "Asia’s longevity gains must be translated into better health",
-      "link": "https://www.nature.com/articles/d41586-026-02576-4",
-      "date": "2026-08-18 00:00",
-      "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02576-4Asia’s longevity gains must be translated into better heal..."
     }
   ],
   "Retraction Watch": [
@@ -173,22 +173,22 @@
       "summary": "Trump crypto firm backs venture offering AI from restricted Chinese companies  Reuters..."
     },
     {
-      "title": "China urges respect for digital sovereignty in AI race - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFdOX2tzNWZNVU43emQ3NDVXclE3a2h4UlpvVHNSUkpLd1RRWTlsNU9LRjMtYXl5VjVhVEctUHRsSnZYQm92eW9SSFR5SFVFZFFuNnpXVzFITEZDbjk5MS0tVzJVam9JS1RPazZFdWZrcVlUcXdXT1hBRTRLMExwR0RkdWlMYklnZ0JMbXpleTBaQ3dDMTRxTklkQQ?oc=5",
-      "date": "2026-08-19 07:50",
-      "summary": "China urges respect for digital sovereignty in AI race  Reuters..."
-    },
-    {
-      "title": "U.S. to tell partners they must pick sides in AI race with China: Reuters - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEpjRzNMbUo5T0wzaDRGZGh4UXZ1Y3ByQmtaMzdTdHVMOHo1STNFQk15Z1RUdzRPYzdfT0doOGlBRUZnYU82eWhvTEdtX3dlM1I0SFJFZzNhWFhvWlhXNWxIQ1lETmZxN0Y0TXNOQmNwVUtBZzUtUFptNDlEVWo1aUd3Q2lhYjduWnVxRXctQXBwMUZxN2kzdTItNUVxNm9tYkJ6U3dIblrSAa4BQVVfeXFMTVFSRVZGdERLQXZwamdMWmxTdTFnNUVGRmxKZlktV3RuRHlDdmpRT2xzWUxsbnVlb0JhUEw3dnlWelhTamgyUUh0TThEY2FrbVlTb0Q5OWtOTExuSzRCTGx4cEoyaU9XODNGWl9BdkxSX3owWHVfZWJyTjhUNGQwVU4xMVVnUVMwWFRiN2hwbS1CMEowZWwxOE1YQzFSdDBjSTdDX1JTUmU5bFpfM2lB?oc=5",
-      "date": "2026-08-15 22:49",
-      "summary": "U.S. to tell partners they must pick sides in AI race with China: Reuters  CNBC..."
+      "title": "China Urges Respect for Digital Sovereignty in AI Race - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVVlkOU5BQUViU3l4cVJWUVZqcWR3dThIR2hqVXJ1YTdSQ2ZvQU4tb0JhNmdYTUpTYnd3cS01b0NrbENvckZKRXZWY3JFQ2J0Q3RfcVM0b3c2b1dISWk4c2ZzZ1VjNEN5NHRabS0yeWQ3a2VVMTdiemxObV9HMnAwWlBGSWpRNGJOZXhyT01KbEs2RVJJbi1YeGxOMFcyZnFJS2NCdmxoVWpyV0xF?oc=5",
+      "date": "2026-08-19 07:47",
+      "summary": "China Urges Respect for Digital Sovereignty in AI Race  U.S. News & World Report..."
     },
     {
       "title": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5",
       "date": "2026-08-18 19:03",
       "summary": "OpenAI slows model training to bolster security after Hugging Face hack  Reuters..."
+    },
+    {
+      "title": "Pennsylvania governor signs order imposing new rules to set up AI data centers in state - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa3ozMVBYYmh3WVBTWHJsYjZNcGdxM0R6LS1SQS00T3ZTeDd6RFdqVVkyYTJrTUZTaXhLajdhZk1ERTU0RTRHRUZzcE5UNVVuUEw4SE41dkVJZnZncEJMcHRTUnlJYzE4czJCRWQydU5pQ3RqM3BQeXV0U25veS1PcmVxZzNGSFZRLVJBdmoxNWktNG1JRGF5bDFrNkxWVHg5aVVxaHJoam9kcGhibzFub0VkQnFvdGdjRVFlY0NMRFZYSXdjdFdV?oc=5",
+      "date": "2026-08-18 21:52",
+      "summary": "Pennsylvania governor signs order imposing new rules to set up AI data centers in state  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,6 +225,24 @@
   ],
   "Phys.org": [
     {
+      "title": "Review maps long-term health risks from historical metal mining in England and Wales",
+      "link": "https://phys.org/news/2026-08-term-health-historical-metal-england.html",
+      "date": "2026-08-19 11:20",
+      "summary": "Unlike many other pollutants, toxic metals do not break down in the environment. Although they may become diluted over time, they ..."
+    },
+    {
+      "title": "Volatile weekly work hours may have adverse effects on health, employment",
+      "link": "https://phys.org/news/2026-08-volatile-weekly-hours-adverse-effects.html",
+      "date": "2026-08-19 11:05",
+      "summary": "Workers who juggle volatile work hours that change from week to week may experience adverse health effects that affect their abili..."
+    },
+    {
+      "title": "Cape Town's caracals expose a hidden rat poison problem for the city's wildlife",
+      "link": "https://phys.org/news/2026-08-cape-town-caracals-expose-hidden.html",
+      "date": "2026-08-19 11:00",
+      "summary": "Rat poisons used in homes, businesses and on farms are moving into South Africa's wildlife, according to new research from the Urb..."
+    },
+    {
       "title": "UK politicians vastly overestimate public opposition to climate policies, study finds",
       "link": "https://phys.org/news/2026-08-uk-politicians-vastly-overestimate-opposition.html",
       "date": "2026-08-19 09:00",
@@ -235,24 +253,6 @@
       "link": "https://phys.org/news/2026-08-climate-main-driver-european-ocean.html",
       "date": "2026-08-19 08:50",
       "summary": "Climate change is the main driver of Europe's rising marine temperatures, directly adding around 2°C of warming in the Mediterrane..."
-    },
-    {
-      "title": "Italian scientists bet on octopus to fight crab invasion",
-      "link": "https://phys.org/news/2026-08-italian-scientists-octopus-crab-invasion.html",
-      "date": "2026-08-19 08:30",
-      "summary": "From a fishing trawler in the Adriatic, Italian scientists gently release thousands of tiny octopuses in the hope of fighting an i..."
-    },
-    {
-      "title": "China recovers rocket stage on land for first time, after earlier recovery at sea",
-      "link": "https://phys.org/news/2026-08-china-recovers-rocket-stage-earlier.html",
-      "date": "2026-08-19 08:30",
-      "summary": "China has successfully recaptured the first stage of a rocket on land for the first time, state media reported Wednesday, as the c..."
-    },
-    {
-      "title": "Archaeologists unveil skeletal remains believed to be ritual offering in Peru",
-      "link": "https://phys.org/news/2026-08-archaeologists-unveil-skeletal-believed-ritual.html",
-      "date": "2026-08-19 08:16",
-      "summary": "Archaeologists on Tuesday unveiled the skeletal remains of an adult they believe was buried as an offering near the base of Huaca ..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Mable Chan uses Qatar Airways cargo office opening to drop Central Asia route reveal",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364580/mable-chan-uses-qatar-airways-cargo-office-opening-drop-central-asia-route-reveal?utm_source=rss_feed",
+      "date": "2026-08-19 11:10",
+      "summary": "Qatar Airways has set up its new regional cargo office in Hong Kong, with the city’s transport minister using the occasion to reve..."
+    },
+    {
+      "title": "Prudential Hong Kong expands headquarters across Swire Properties’ towers",
+      "link": "https://www.scmp.com/business/article/3364575/prudential-hong-kong-expands-headquarters-amid-beijings-intensified-wealth-oversight?utm_source=rss_feed",
+      "date": "2026-08-19 10:36",
+      "summary": "Prudential Hong Kong has agreed to lease headquarters space at Swire Properties’ One Taikoo Place and One Island East, marking a n..."
+    },
+    {
+      "title": "Hong Kong customs arrests 2 Opatra staff over aggressive sales tactics",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364573/hong-kong-customs-arrests-2-opatra-staff-over-aggressive-sales-tactics-source?utm_source=rss_feed",
+      "date": "2026-08-19 10:30",
+      "summary": "Hong Kong customs officers have arrested two staff members from the local operations of Opatra London, a beauty chain embroiled in..."
+    },
+    {
       "title": "Hong Kong Cyclothon returns with new extended ‘five tunnels, three bridges’ route",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3364557/hong-kong-cyclothon-returns-new-extended-five-tunnels-three-bridges-route?utm_source=rss_feed",
       "date": "2026-08-19 09:19",
@@ -299,24 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364545/hong-kong-parents-lose-legal-bid-get-baby-danny-back-welfare-authorities?utm_source=rss_feed",
       "date": "2026-08-19 07:33",
       "summary": "The parents of a Hong Kong baby taken into the care of welfare authorities have lost a legal bid to have their home-born baby son ..."
-    },
-    {
-      "title": "Owner of dog in fatal pet attacks regrets surrendering animal: shelter founder",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3364511/hong-kong-considering-euthanising-large-dog-after-fatal-attacks-2-pets?utm_source=rss_feed",
-      "date": "2026-08-19 03:42",
-      "summary": "The owner of a large dog that mauled two smaller pets to death in Hong Kong earlier this week has expressed “regret” over surrende..."
-    },
-    {
-      "title": "Hong Kong Gold Exchange taps tech strength in joint venture to power gold settlement",
-      "link": "https://www.scmp.com/business/china-business/article/3364508/hong-kong-gold-exchange-taps-tech-strength-joint-venture-power-gold-settlement?utm_source=rss_feed",
-      "date": "2026-08-19 03:28",
-      "summary": "The Hong Kong Gold Exchange (HKGX) and TGX Technology have launched a joint venture to build a “secure, stable and internationally..."
-    },
-    {
-      "title": "Hong Kong needs a mission for 2049 to focus its 5-year plans",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363928/hong-kong-needs-mission-2049-focus-its-five-year-plans?utm_source=rss_feed",
-      "date": "2026-08-19 01:30",
-      "summary": "Hong Kong is formulating its first five-year plan for economic and social development. Such plans are likely to become a regular f..."
     }
   ]
 }
