@@ -51,16 +51,16 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
+      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
+      "date": "2026-07-10 07:00",
+      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
+    },
+    {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
-    },
-    {
-      "title": "A life — and afterlife — in poetry - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVE5nYnB0bnQ4LXFGN2lmM1pzSWpGSlVYdkVSV1JQRkJWR2lISFFZY2F3bU5YcUZZMV9VSUtZU1FRU0luNFpsc3p6cmp0eXJqTld1aEd0eElVNXZITkVXMG1pNDU3QmFoNkUxSHNDNUh5NTAxVjNHcmpkRmxSLVVjZWtzOEY?oc=5",
-      "date": "2026-06-10 07:00",
-      "summary": "A life — and afterlife — in poetry  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -77,16 +77,16 @@
       "summary": "DOJ official flags Stanford for scrutiny over foreign donations  The Mercury News..."
     },
     {
-      "title": "After slashing science budgets, Trump bets on Bay Area researchers - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlo3U2kzM1dYcWFqNkZaOUM3aV9KdGtkekRjSm9wZXdLZFB2c1VHVk14cklEekp1VzVia0c5U0w1b3d2bDB2bWFxWnc2VWo3VU5uSkFmRGFrb3Q3MVBmTUJvRENCVGdPYmt2WTNHSnQ5R0JrcjhQaFplWHZYeVBYOVJZZTZGVVU?oc=5",
-      "date": "2026-08-18 16:11",
-      "summary": "After slashing science budgets, Trump bets on Bay Area researchers  SFGATE..."
-    },
-    {
       "title": "Feds to scrutinize foreign funding Stanford receives - Palo Alto Daily Post",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVSWUROZFNnR0V1UDJnSnV2OFdPSjhQelpHMk1hVkRSTDN2OVZTWjFBOGxvQTdDRTFKNlFfUU5YRS1zM1gzSHM3eVBLWDNqbzdDSDFKdmNkWDZiYmoxMG1oX09aRVNQbUZEVjZ4djN3Uk4wX2w2aE1DT0hFenBtUjlZUkpnR3lxWTBjb3FCVGJoQQ?oc=5",
       "date": "2026-08-18 22:30",
       "summary": "Feds to scrutinize foreign funding Stanford receives  Palo Alto Daily Post..."
+    },
+    {
+      "title": "After slashing science budgets, Trump bets on Bay Area researchers - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlo3U2kzM1dYcWFqNkZaOUM3aV9KdGtkekRjSm9wZXdLZFB2c1VHVk14cklEekp1VzVia0c5U0w1b3d2bDB2bWFxWnc2VWo3VU5uSkFmRGFrb3Q3MVBmTUJvRENCVGdPYmt2WTNHSnQ5R0JrcjhQaFplWHZYeVBYOVJZZTZGVVU?oc=5",
+      "date": "2026-08-18 16:11",
+      "summary": "After slashing science budgets, Trump bets on Bay Area researchers  SFGATE..."
     },
     {
       "title": "Freshman of the Week - Stanford Cardinal",
@@ -161,16 +161,22 @@
   ],
   "Reuters AI": [
     {
+      "title": "US advisory body says China's data dominance gives it AI advantage - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0cwTEZpQTJoZFQycjVPbjFtNEo5cW9EQWlDcWRUbHhuQkU4TUpJX0N6ekhJVmlERGZVMnZDODZMcEw5azEtaXRLREF2UFlwWEk5MVBhVTJDSnpMTm1sbURHTEV3cFoyMWQ4Sl9JbnhSMkFXcUFhZFFlMi0ydzJLSlVtU2pWSnBubWhUUHhzVVZGaURrcmpfUE5wTDdVYUtCTmp3Mi02QzNSSVVIMnVnVllfdw?oc=5",
+      "date": "2026-08-18 13:07",
+      "summary": "US advisory body says China's data dominance gives it AI advantage  Reuters..."
+    },
+    {
       "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
       "date": "2026-08-17 10:04",
       "summary": "Trump crypto firm backs venture offering AI from restricted Chinese companies  Reuters..."
     },
     {
-      "title": "US advisory body says China's data dominance gives it AI advantage - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0cwTEZpQTJoZFQycjVPbjFtNEo5cW9EQWlDcWRUbHhuQkU4TUpJX0N6ekhJVmlERGZVMnZDODZMcEw5azEtaXRLREF2UFlwWEk5MVBhVTJDSnpMTm1sbURHTEV3cFoyMWQ4Sl9JbnhSMkFXcUFhZFFlMi0ydzJLSlVtU2pWSnBubWhUUHhzVVZGaURrcmpfUE5wTDdVYUtCTmp3Mi02QzNSSVVIMnVnVllfdw?oc=5",
-      "date": "2026-08-18 13:07",
-      "summary": "US advisory body says China's data dominance gives it AI advantage  Reuters..."
+      "title": "U.S. to tell partners they must pick sides in AI race with China: Reuters - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEpjRzNMbUo5T0wzaDRGZGh4UXZ1Y3ByQmtaMzdTdHVMOHo1STNFQk15Z1RUdzRPYzdfT0doOGlBRUZnYU82eWhvTEdtX3dlM1I0SFJFZzNhWFhvWlhXNWxIQ1lETmZxN0Y0TXNOQmNwVUtBZzUtUFptNDlEVWo1aUd3Q2lhYjduWnVxRXctQXBwMUZxN2kzdTItNUVxNm9tYkJ6U3dIblrSAa4BQVVfeXFMTVFSRVZGdERLQXZwamdMWmxTdTFnNUVGRmxKZlktV3RuRHlDdmpRT2xzWUxsbnVlb0JhUEw3dnlWelhTamgyUUh0TThEY2FrbVlTb0Q5OWtOTExuSzRCTGx4cEoyaU9XODNGWl9BdkxSX3owWHVfZWJyTjhUNGQwVU4xMVVnUVMwWFRiN2hwbS1CMEowZWwxOE1YQzFSdDBjSTdDX1JTUmU5bFpfM2lB?oc=5",
+      "date": "2026-08-15 22:49",
+      "summary": "U.S. to tell partners they must pick sides in AI race with China: Reuters  CNBC..."
     },
     {
       "title": "AI chip startup Etched doubles valuation to $21 billion in under a month - Reuters",
@@ -183,12 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa3ozMVBYYmh3WVBTWHJsYjZNcGdxM0R6LS1SQS00T3ZTeDd6RFdqVVkyYTJrTUZTaXhLajdhZk1ERTU0RTRHRUZzcE5UNVVuUEw4SE41dkVJZnZncEJMcHRTUnlJYzE4czJCRWQydU5pQ3RqM3BQeXV0U25veS1PcmVxZzNGSFZRLVJBdmoxNWktNG1JRGF5bDFrNkxWVHg5aVVxaHJoam9kcGhibzFub0VkQnFvdGdjRVFlY0NMRFZYSXdjdFdV?oc=5",
       "date": "2026-08-18 21:52",
       "summary": "Pennsylvania governor signs order imposing new rules to set up AI data centers in state  Reuters..."
-    },
-    {
-      "title": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5",
-      "date": "2026-08-18 19:03",
-      "summary": "OpenAI slows model training to bolster security after Hugging Face hack  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -199,60 +199,60 @@
       "summary": "We still don’t know how people are really using AI  MIT Technology Review..."
     },
     {
-      "title": "AI’s recursive self-improvement might not come so quickly after all - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWNWX2RNdmRxYTJQLWpLbGM4MUdPSm92N1N4UUlsRjl3X0YxeWhVVDAzV2gyZjhaVEYwSXkzZnFWQXZHdmotaHlOa0RtQ3Jna3otZW8wM3lmV040YUdmVGpaY0ozRTRLQW01Nmp0Vi04NjF5SlFZdXJxWTQ4V3NpMXFfRUlNeTQ4TmfSAY8BQVVfeXFMTy13dmNEYzFrSnZSNXFRRFdHZV9aYmltSzdWQ2YxZEVuNWs1RHRVUERZT2JXN21kTEdpbWZSV19IVFB4S1FYMkJndVUtamxITHVPaHp2VWkzZXBBaWtjVlEtajZGeV91SUhBd25WS3RoeDFOM0ltVTZ0Zko5Mm03akhxamRXbWFTQmU2MV9ZUVk?oc=5",
-      "date": "2026-08-18 09:00",
-      "summary": "AI’s recursive self-improvement might not come so quickly after all  MIT Technology Review..."
-    },
-    {
       "title": "The Download: how people really use AI, and Flock’s design choices - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnJ2RE9ld052bE10eGViTnM2UGNyM1JZU01WTFdMazNSZS1fUHJWUzVTVjlIUEtSWjFVSThNSHRGeGlUY01JSTNlSEt4UTlweHBwNVh5MDU1aVZoY2RnQ0RlTGNXMkxBR1RRRTI0SVNyY1F4eVZSeXBYaTM2QTNyLWR6cVJ5Y3piT0t2LUZnMWVEY2VCRGJkTWVwLThWa0lva1pzUldNY9IBrAFBVV95cUxNa2YzZ1VmcWpWbkNKMU1tQURpZjU2d3NaRy1qTUNnOGRSRWxQRXVVSFZ4WmtRX3hYd0d2R0RiRWhKMzBBdmJ2eUUyS0RUblltVTZYYllDaFk1Q1AtTU5rZ0pGWG40Ui1vUWdlc3hSb2lPZVZoWTRUYVlNempfWWcyNWl3Q1RLN093ZjFRZldla1pzMWVfcFozMndiZW5qOU1NMEpuT0pOeEU3SnJz?oc=5",
       "date": "2026-08-18 12:10",
       "summary": "The Download: how people really use AI, and Flock’s design choices  MIT Technology Review..."
     },
     {
-      "title": "The role of the astronaut is in flux - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDJrX1pucjNkWjBob2w0d2U1a2VlQkctdDdHVFZUd1JSVzNoQjEzamxYdllrdVprU2JhZ2hQZklYejJpNURLY2w3bkJ1NFJMRXNzQWxNWGpKSG5rWExkbFQwTzVGakhudTAtejRfMF9ZWjE5N0l0MXlDYTR3UVpYSEtCOFNYcnI2Y0FRY2d5enrSAZYBQVVfeXFMT3NQa2dGT0hRa2JhNUZqR2pkUlBHY1dVVzJJVWRZMTNpVkNsUFk0VWxaYnd1ZE5MS1hzOEk4Y1drNlhwd2xQQlF5VGU4MnJGNDVFRFpWVDJ3OUw2Y0c3dUxKeTk4bVdHUHlPMXBOMVR0Yi05NC1VNDRna1VtOV9rYXBOcThXNndhbVdLR0VWWUduQ09ZcVdR?oc=5",
+      "title": "AI’s recursive self-improvement might not come so quickly after all - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWNWX2RNdmRxYTJQLWpLbGM4MUdPSm92N1N4UUlsRjl3X0YxeWhVVDAzV2gyZjhaVEYwSXkzZnFWQXZHdmotaHlOa0RtQ3Jna3otZW8wM3lmV040YUdmVGpaY0ozRTRLQW01Nmp0Vi04NjF5SlFZdXJxWTQ4V3NpMXFfRUlNeTQ4TmfSAY8BQVVfeXFMTy13dmNEYzFrSnZSNXFRRFdHZV9aYmltSzdWQ2YxZEVuNWs1RHRVUERZT2JXN21kTEdpbWZSV19IVFB4S1FYMkJndVUtamxITHVPaHp2VWkzZXBBaWtjVlEtajZGeV91SUhBd25WS3RoeDFOM0ltVTZ0Zko5Mm03akhxamRXbWFTQmU2MV9ZUVk?oc=5",
       "date": "2026-08-18 09:00",
-      "summary": "The role of the astronaut is in flux  MIT Technology Review..."
+      "summary": "AI’s recursive self-improvement might not come so quickly after all  MIT Technology Review..."
     },
     {
       "title": "What Flock’s defenders are missing - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGU0OFdqTW5qWlhIQVhRemVqcW5xTW9zdFQxeXhzdVNReVZ3eDU5OVlYclhZZjNaOFBlZDRqcklJT1MwSzFTZ1ZrTXU1ZHNfUUJlTFFnNS11eHdOTzg2S2trQjlaaTRIZ3p5Y0NpWWYwOERtVlNwZmdZaHBXd2F4c3FTbVNCeGJfX1F3VUEwMNIBlAFBVV95cUxNdUNySW5kLXJBYVNONGZjcjRMb0ZFR3V6QTBXWEs4Y3JlbzluMkpILXVfS2NxMHlhSUk3VlQ3enFWY1FmZjdmcEY4bXhnZlJ0RDRva1dkY0YzUjkyWUVRclJmSXprUUk0anVLQTZZYWRSNWNJNjluMUNXa1ZSYi01RzBoT21HMC1TLUVDeU5LUTZWeWpl?oc=5",
       "date": "2026-08-17 19:16",
       "summary": "What Flock’s defenders are missing  MIT Technology Review..."
+    },
+    {
+      "title": "The role of the astronaut is in flux - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDJrX1pucjNkWjBob2w0d2U1a2VlQkctdDdHVFZUd1JSVzNoQjEzamxYdllrdVprU2JhZ2hQZklYejJpNURLY2w3bkJ1NFJMRXNzQWxNWGpKSG5rWExkbFQwTzVGakhudTAtejRfMF9ZWjE5N0l0MXlDYTR3UVpYSEtCOFNYcnI2Y0FRY2d5enrSAZYBQVVfeXFMT3NQa2dGT0hRa2JhNUZqR2pkUlBHY1dVVzJJVWRZMTNpVkNsUFk0VWxaYnd1ZE5MS1hzOEk4Y1drNlhwd2xQQlF5VGU4MnJGNDVFRFpWVDJ3OUw2Y0c3dUxKeTk4bVdHUHlPMXBOMVR0Yi05NC1VNDRna1VtOV9rYXBOcThXNndhbVdLR0VWWUduQ09ZcVdR?oc=5",
+      "date": "2026-08-18 09:00",
+      "summary": "The role of the astronaut is in flux  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Lost 'mega-escarpment' across ancient USA may explain Grand Canyon's missing billion years",
-      "link": "https://phys.org/news/2026-08-lost-mega-escarpment-ancient-usa.html",
-      "date": "2026-08-18 23:10",
-      "summary": "Scientists have found evidence that a colossal cliff stretching thousands of kilometers across ancient North America may have expo..."
+      "title": "Digital spirituality grows, but young people still rely on family and faith leaders",
+      "link": "https://phys.org/news/2026-08-digital-spirituality-young-people-family.html",
+      "date": "2026-08-19 01:00",
+      "summary": "Social media, music, religion-focused apps and other online spiritual content have become popular ways for adolescents to find com..."
     },
     {
-      "title": "New study links bad bosses with greater work intensity",
-      "link": "https://phys.org/news/2026-08-links-bad-bosses-greater-intensity.html",
-      "date": "2026-08-18 23:10",
-      "summary": "Work intensity is significantly higher under poor line managers, according to new research led by Bayes Business School (City St G..."
+      "title": "Premium customer, quickest service? Not so fast, at least in a world of agentic AI-driven services",
+      "link": "https://phys.org/news/2026-08-premium-customer-quickest-fast-world.html",
+      "date": "2026-08-19 00:40",
+      "summary": "It's conventional wisdom in the business world: Premium customers get a pass to the front of the line. Think airports or amusement..."
     },
     {
-      "title": "Mars attacks: How much dust from the red planet is safe to breathe?",
-      "link": "https://phys.org/news/2026-08-mars-red-planet-safe.html",
-      "date": "2026-08-18 23:00",
-      "summary": "NASA has released a report recommending an initial health standard for the Martian dust that astronauts could inhale during future..."
+      "title": "Some bacteria build internal 'power cables' to extend respiration beyond the cell membrane",
+      "link": "https://phys.org/news/2026-08-bacteria-internal-power-cables-respiration.html",
+      "date": "2026-08-19 00:20",
+      "summary": "All living cells need energy, and most generate it through respiration, a series of chemical reactions normally confined to the ce..."
     },
     {
-      "title": "Dying radio galaxies suggest a shorter, more dynamic afterlife for black hole jets",
-      "link": "https://phys.org/news/2026-08-dying-radio-galaxies-shorter-dynamic.html",
-      "date": "2026-08-18 22:50",
-      "summary": "Astronomers have uncovered a previously underexplored population of faint, rapidly fading remnant radio galaxies, offering new ins..."
+      "title": "New set of international rules needed to protect health of fishing stocks, study shows",
+      "link": "https://phys.org/news/2026-08-international-health-fishing-stocks.html",
+      "date": "2026-08-19 00:00",
+      "summary": "The global community should work to establish an array of new international legal rules to protect the health of fish stocks, new ..."
     },
     {
-      "title": "How to better forecast once-in-a-millennium weather events",
-      "link": "https://phys.org/news/2026-08-millennium-weather-events.html",
-      "date": "2026-08-18 22:40",
-      "summary": "For all that day-to-day weather forecasts have improved, it remains a challenge to forecast events that might happen once in 1,000..."
+      "title": "Krypton gas emerges as a new ingredient for quantum computing",
+      "link": "https://phys.org/news/2026-08-krypton-gas-emerges-ingredient-quantum.html",
+      "date": "2026-08-18 23:40",
+      "summary": "To commercialize quantum computing, manufacturers need high-quality superconducting materials for microchips, but they also requir..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Inside the playbook used to dupe Hongkongers into making big beauty product buys",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3364493/inside-playbook-used-dupe-hongkongers-making-big-beauty-product-buys?utm_source=rss_feed",
+      "date": "2026-08-19 01:02",
+      "summary": "As Hong Kong customs expands its investigation into Opatra London following complaints of high-pressure sales tactics involving pu..."
+    },
+    {
       "title": "After years, Macau firm opts out of Hong Kong renewal project, seeks US$153m for site",
       "link": "https://www.scmp.com/business/article/3364462/after-years-macau-firm-opts-out-hong-kong-renewal-project-seeks-us153m-site?utm_source=rss_feed",
       "date": "2026-08-18 23:00",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3364467/infertility-may-affect-796-million-women-2036-posing-challenge-hong-kong?utm_source=rss_feed",
       "date": "2026-08-18 13:29",
       "summary": "Global infertility cases among women aged 35 to 49 will rise by nearly 50 per cent over the next decade, reaching 79.64 million, a..."
-    },
-    {
-      "title": "When prey instinct strikes: fast ways to save small pets from big dogs",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3364461/when-prey-instinct-strikes-fast-ways-save-small-pets-big-dogs?utm_source=rss_feed",
-      "date": "2026-08-18 13:21",
-      "summary": "The safe handling of dogs has become the subject of intense social media debate in Hong Kong after two small pets were fatally mau..."
     }
   ]
 }
