@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "How the Toxoplasma parasite adapts to crowded conditions in host cells",
+      "link": "https://news.mit.edu/2026/how-toxoplasma-parasite-adapts-to-crowded-host-cell-conditions-0819",
+      "date": "2026-08-19 17:50",
+      "summary": "A new study by Whitehead Institute researchers identifies how the widespread parasite Toxoplasma gondii survives in crowded enviro..."
+    },
+    {
       "title": "Securing wireless communication in next-generation devices",
       "link": "https://news.mit.edu/2026/securing-wireless-communication-next-generation-devices-0819",
       "date": "2026-08-19 09:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/how-35-percent-us-employees-are-left-on-margins-paul-osterman-book-0818",
       "date": "2026-08-18 04:00",
       "summary": "In a new book, Paul Osterman details his research finding more than one-third of the country’s workers are “disposable,” with litt..."
-    },
-    {
-      "title": "DNA shaper steers nervous system development",
-      "link": "https://news.mit.edu/2026/dna-shaper-steers-nervous-system-development-0817",
-      "date": "2026-08-17 20:20",
-      "summary": "A study of worms finds a protein that helps shape the structure of the genome is critical for establishing the identity of some ne..."
     }
   ],
   "Harvard Gazette": [
@@ -65,16 +65,22 @@
   ],
   "Stanford News": [
     {
-      "title": "How Stanford e-Entrepreneurship Japan Shaped My Entrepreneurial Drive as a Student - Stanford University",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjc3TzJXVXVTNkFGdjlkNnQ1WjJjNlNONFhIa185R25tOURsMTdzWWlCSll4ZTBrZGJab0huOU16WVQ0azEwakFTZVFEcGNXUmhqSXZPOW9HXzBOdlZleDBxWEVxNEt2WUxBYVdfUzJhS3VDNnNnZGhHZF8teFFqalc5cC0zTkZGSlVTUk0tdXJhTWdpQ3V5NDFBTzVrNUdQTW5ueGFnRHQyR2s5ODUxMi1Kbw?oc=5",
-      "date": "2026-08-18 12:00",
-      "summary": "How Stanford e-Entrepreneurship Japan Shaped My Entrepreneurial Drive as a Student  Stanford University..."
+      "title": "America Has 3 Billion Words of Legal Code Riddled with ‘Policy Sludge’ - Stanford Law School",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3dpTDItUTRtbkNTLUg0THBpTzFzajB4MXZyclY2UUgtcjNQa3U5OXhBZXp5YmI0YXhjcGVxVExvM20yb0xZR3BfY0xCcm5ycWdIQzBwUU5GanhWNlJ2R1dvUEN6UWtjSWJYbTlMeWRCRTF5bDU0OFlxQmxHVUVLYkJORmZVTl9PQmdWaE5jOGRPdHYwMXgzWkNRWVNLeVRPU3R5eUJlMUU?oc=5",
+      "date": "2026-08-19 07:00",
+      "summary": "America Has 3 Billion Words of Legal Code Riddled with ‘Policy Sludge’  Stanford Law School..."
     },
     {
-      "title": "Stanford makes it official: QB Davis Warren will start season opener against Hawaii on Aug. 29 - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbHdnUG5uNWVBc3MxenBBb0phdkZPVTBEOEc2Uk1OMlR2aE9LdEx1Zm8zeG90b2h6UmtnelNaUmNEdDJ5SUp4amczb195Z1NwVlM5d1VYTFk0ZWJJZWxFa1NPMy1QUHNiU3VUbEhHcTZDYlcwWmtuSUdUMldaYVEtWV92VTUxX2ZvVkFzUHNvOGU3M2hDbHpBRHUxM0Z0RU9CSjZGWUVWaktBSW1DdXNwWktRNWtMai10VzZwcnpWMmNDVzY0MkZoT0tOWULSAdIBQVVfeXFMUHNremZIZkpOYV9pZ0FmdUhDby0tVVQtb2lRaXNFYk90bGtTWF9oNXBnamE0R3lJZWJySWxOd2JJcUt2WGRpX1F3M3pxNHI4ZVNQc1JHZ2RsOF9kVTVhVjQ0MVRERU5jTDlXclFPT3ZKMGsyOHR2TzlQNFBmbFNwbmhQdENIMWxUM2h4QnAtQlZCV0ljYnBOQUFCdDYxakdxUENab1hCdC0xcVBRc082c2FFSEwtY21UbGVzbF9SR3ZuT0sxVzhNaFFFMGFBRjQ3cDJB?oc=5",
-      "date": "2026-08-19 02:32",
-      "summary": "Stanford makes it official: QB Davis Warren will start season opener against Hawaii on Aug. 29  The Mercury News..."
+      "title": "The Center for Excellence in Education’s Research Science Institute at MIT Will Expand to Stanford in 2027 - citybiz",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTU9SaURJdk9WdFVsdjY5aWpqZzg3cldCNDBpeEJoT1h6cDZSa0lCSkdtamtORTdfbnd3VnBKdm1xWXFoYjY1OTdDVjdzU2g4VmJUR3lVcEwwY0U2b0tLYVUzdktRa0VrY2JVOEFGX2pkMlYxdUJYNkRmZGJyNElrdXRKZktjRXJTbzZpd0VSNDRKX181T2NsY3hxWFRKQ1pQbk5FcDZfSWxDRlJrVy1hT09OX2tJMk5kQmZ5Ty11MDQ1REVIY2p0WnFWV0NLOU5CNXFPT290djY0alBq?oc=5",
+      "date": "2026-08-19 17:30",
+      "summary": "The Center for Excellence in Education’s Research Science Institute at MIT Will Expand to Stanford in 2027  citybiz..."
+    },
+    {
+      "title": "DOJ official flags Stanford for scrutiny over foreign donations - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHFPaFZxQ1VHeTBXMnRPeEF0WnZ0OG8taVNxWGhzSVdudkdqOWNkb2dObEFfX1lxTzI4SFc3Ylkyb29CM0loR3RoQTQ4YjJlT3YyeTBwcWhtd2VscE02My1CT3g5M0ZjLUhRUTQ5STk1ZmdLc21rQnl3dFViU3EwZlFBRFdIUUl1aGYzd0ZNdXdzYlFQVTN2LU9OZ3ZBZmNtQ1JjVzhwLXDSAa4BQVVfeXFMT2F0WVVfczh4ZXR3cE9uM2VJYzlNeFk4cjN2TVVrNmRuYnkwWVJRaG1hc3VRTHUzWEJ2WThTN0ZmOU9fX2ROcGUyenRDVXU4U0ZmNjhkeE41LW1JUlMtb2NhQzNRUEpFVkhIQ21jTWJDQTZRNkVYWHRKRmk2M3RCYlVLbTktMGFoSFlXWmRfT3hpOS1DMDdycW1EUWNvNlpSTXVLb0ZJYmNJZGMzeXB3?oc=5",
+      "date": "2026-08-17 23:50",
+      "summary": "DOJ official flags Stanford for scrutiny over foreign donations  The Mercury News..."
     },
     {
       "title": "No. 14/22 Georgetown Travels to No. 1/2 Stanford for Top 25 Showdown - Georgetown University Athletics",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnUtY0hWYmxSSWlaMm4xVUtJWURfaFFkSS1IN2ZJNlBjTnJ3dk1jejZOdWpJUFpXUy1RZG0waUdodXNId3o2VFkyZHl0eXRPQmlwTmdjd29tRl9lWTNDY2VSaTA4SXMwN2ZXOUMtYmxCZ3ZlTkZRaDRhQTU3U09KTGhtWFM?oc=5",
       "date": "2026-08-19 08:45",
       "summary": "Stanford moving novel oral influenza antiviral toward IND with NIAID backing  AllSci..."
-    },
-    {
-      "title": "Fulbright award takes doctoral researcher to Stanford - auckland.ac.nz",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZW5ZbTZVYUhzbE84aW51eWV3RnIyOTVKUW5UcnRJeTFweHdlaU53OXlDTXItR0IwMXpZM25wRGhrVV9RaG9JV0djNjI3b0VwNGFjN0lLUWNUMUZJaGlEaUplRGJja0hHbzJ3a05uUktUaU9pT3JGSkhKZUthQzV5NE1mQnZ0V0hxUjZzSDF3eVB5WWdpT0M4VTctUUpvNXBhLTFlWQ?oc=5",
-      "date": "2026-08-19 05:39",
-      "summary": "Fulbright award takes doctoral researcher to Stanford  auckland.ac.nz..."
     }
   ],
   "Nature Careers": [
@@ -101,6 +101,12 @@
       "link": "https://www.nature.com/articles/s41586-026-11037-x",
       "date": "2026-08-19 00:00",
       "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-11037-xEvidence for vacuum-enhanced superconductivity in NbSe2..."
+    },
+    {
+      "title": "Too much mate choice overwhelms frogs",
+      "link": "https://www.nature.com/articles/d41586-026-02554-w",
+      "date": "2026-08-19 00:00",
+      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02554-wFemale treefrogs select less carefully when hearing a chor..."
     },
     {
       "title": "A black hole's spin could finally be measured by a high-speed star",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10777-0",
       "date": "2026-08-19 00:00",
       "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10777-0Artefacts in single-cell mtDNA analyses misinform phylogen..."
-    },
-    {
-      "title": "Functional role of skull lymphoid structures in CNS immunosurveillance",
-      "link": "https://www.nature.com/articles/s41586-026-10951-4",
-      "date": "2026-08-19 00:00",
-      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10951-4Functional lymphoid structures within the skull bone marro..."
     }
   ],
   "Retraction Watch": [
@@ -161,10 +161,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5",
-      "date": "2026-08-18 19:03",
-      "summary": "OpenAI slows model training to bolster security after Hugging Face hack  Reuters..."
+      "title": "Europe AI data centres seek cheaper, quicker energy and land - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDdLQ0hZWDRyZ0xhVnVYZ3EyanNtODlsUERkaGxtc21CaUtYa3Zwd0xqbDY1RnVma3YyVkQwSDRzaHRVaGotRGNsRUN0XzR0WU9aZmFXeHdrSzVOMlVoZVZzZ2hYdk9SWjJCZTUtWmZBblNCTjlKSGtIMzdmTUd3VEIzQ2ZWQWVfZlpaei12S1lMNlFpUzJxc2tjNjB6TV9xT3c?oc=5",
+      "date": "2026-08-19 10:06",
+      "summary": "Europe AI data centres seek cheaper, quicker energy and land  Reuters..."
     },
     {
       "title": "US advisory body says China's data dominance gives it AI advantage - Reuters",
@@ -173,16 +173,16 @@
       "summary": "US advisory body says China's data dominance gives it AI advantage  Reuters..."
     },
     {
-      "title": "Europe AI data centres seek cheaper, quicker energy and land - yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnpjLXBvdk85TzZoWEZTMExMUVlwSzZzajlyaUJ3OGt5OFZ3STZPUFd5VWxBNXYyZzRWUlMtTDB2Q0Z1dmNmRGlsckhQalVpYjlrdXplLU0wcEhlZ01FRjRUNzloNFk2TUZFOXNPOThMSEUzQnhwNkpxWHcyT3hZUnB0anM?oc=5",
-      "date": "2026-08-19 10:01",
-      "summary": "Europe AI data centres seek cheaper, quicker energy and land  yahoo.com..."
-    },
-    {
       "title": "China Urges Respect for Digital Sovereignty in AI Race - U.S. News & World Report",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVVlkOU5BQUViU3l4cVJWUVZqcWR3dThIR2hqVXJ1YTdSQ2ZvQU4tb0JhNmdYTUpTYnd3cS01b0NrbENvckZKRXZWY3JFQ2J0Q3RfcVM0b3c2b1dISWk4c2ZzZ1VjNEN5NHRabS0yeWQ3a2VVMTdiemxObV9HMnAwWlBGSWpRNGJOZXhyT01KbEs2RVJJbi1YeGxOMFcyZnFJS2NCdmxoVWpyV0xF?oc=5",
       "date": "2026-08-19 07:47",
       "summary": "China Urges Respect for Digital Sovereignty in AI Race  U.S. News & World Report..."
+    },
+    {
+      "title": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5",
+      "date": "2026-08-18 19:03",
+      "summary": "OpenAI slows model training to bolster security after Hugging Face hack  Reuters..."
     },
     {
       "title": "French government to hire French AI providers such as Mistral, Minister says - Reuters",
@@ -193,66 +193,66 @@
   ],
   "MIT Tech Review": [
     {
-      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat - MIT Technology Review",
+      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTWF6YWh2QlZLbWVCSFBWdVZwdEpEZ3JtLUI1Tk9lOEpFTG5yMW96U0VQblh1dG5qblJjM2hJcjJTbW9xbDVyNW01TEMzdnF4bTRTOC1zbkRhZnlUMjNfdG5vTUVsMEhqcTRmYXNsV0NJMTFSdDhVLUQyMlExeFdoaXlXdFROYWFVVVVyV2JhOUlXTmtmLWdPZng2OEpvSXFLcVkyY212N1UtYWNkRzM0MzgzXzZDc3pwcVlV0gHAAUFVX3lxTFA4bEhNZ3RwTGlGNUxpWWtTZVAtUEo0b2ZZUmFVSnhBalBHUE8wZS1jaFNodVpoRUtEa2tUUE9qVk1NYW5jZkFTbUdmaG9nUWZnVk5HdVU1SlZRUTVkbHpnQ1ZBZUg0dkxadTFCLWlqZkxTZzFwZkZRcFpmaXVwNk5wYzFySndaYVFrUEVmQms0NVVwWHVXOFZGV1FCTTdONm9Sblc1ZDlRSlVyOW01bUxuSkt6NkdtMDJKSnZhZnNCVw?oc=5",
       "date": "2026-08-19 12:10",
-      "summary": "The Download: AI’s self-improvement problem, and what’s driving the heat  MIT Technology Review..."
+      "summary": "The Download: AI’s self-improvement problem, and what’s driving the heat  technologyreview.com..."
     },
     {
-      "title": "Child-monitoring apps might need a reboot - MIT Technology Review",
+      "title": "Child-monitoring apps might need a reboot - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUUVwcFZpdXhGS21iTzdCelN1QTJwYXp4WDZGRDgwZXVEODVpUll3c2pHX1VlWXlXSkc1SW5kOXJMeWtNbW85VFE1d2dmckh0R0ZqbTZaLTY0OUNfZXY0YlNRLU9ub2RiVGptQlY3WHNQVFlvazNQWk45LWhDOHdzMlpvalQ4UWluVWRSUzZhMNIBlAFBVV95cUxPZlhGdWNkRVFvUU5naHg3YkNRY0N4aWpCOE1IRDc4OEFBUzctMWxaU1dsX0ZCN0JtSWZHcjRRRF9zUk9oWXJLX3B1b0lRU2l3MldsV1Y5YlJhMXBiQkNHdUp0bkhwT1BQWXV1ZXlSM0I3emlseHJPdDhSTWUya1JTb1lpc3JYSmJlRjAySEpKOFlXMC1k?oc=5",
       "date": "2026-08-19 09:00",
-      "summary": "Child-monitoring apps might need a reboot  MIT Technology Review..."
+      "summary": "Child-monitoring apps might need a reboot  technologyreview.com..."
     },
     {
-      "title": "We still don’t know how people are really using AI - MIT Technology Review",
+      "title": "We still don’t know how people are really using AI - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQkFLNWNOVndnMUZHN0ZiNHp2ODVoNUFRMDNSRGJuR1FiOE1qTTdQZFI1WEg0LWJ0TjJHaWtOdEVUSzdmZjRDSFN1QmxIeGdTZlJGNjlaZ3dpNGRuOE5xT1g3R1VXbURweThZRmtBSHhlR1lOR0Zaai1R0gF_QVVfeXFMUHRtMk1yNmFCRWVjb2o5MzZUQlZnNUFfLTZ2WkQ3eFdXa1RDLTFjaGE3UnJpX0hEbHN2NVZoQVpVOWROcUlMNVZaSG9DaXd2dkFEc3JQZWFsNDc0LWRSb09sdlAzSUpXNnpneWY5VWJvUWRkMHpZYmFpam1nXzJIWQ?oc=5",
       "date": "2026-08-18 10:06",
-      "summary": "We still don’t know how people are really using AI  MIT Technology Review..."
+      "summary": "We still don’t know how people are really using AI  technologyreview.com..."
     },
     {
-      "title": "The Download: how people really use AI, and Flock’s design choices - MIT Technology Review",
+      "title": "The Download: how people really use AI, and Flock’s design choices - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnJ2RE9ld052bE10eGViTnM2UGNyM1JZU01WTFdMazNSZS1fUHJWUzVTVjlIUEtSWjFVSThNSHRGeGlUY01JSTNlSEt4UTlweHBwNVh5MDU1aVZoY2RnQ0RlTGNXMkxBR1RRRTI0SVNyY1F4eVZSeXBYaTM2QTNyLWR6cVJ5Y3piT0t2LUZnMWVEY2VCRGJkTWVwLThWa0lva1pzUldNY9IBrAFBVV95cUxNa2YzZ1VmcWpWbkNKMU1tQURpZjU2d3NaRy1qTUNnOGRSRWxQRXVVSFZ4WmtRX3hYd0d2R0RiRWhKMzBBdmJ2eUUyS0RUblltVTZYYllDaFk1Q1AtTU5rZ0pGWG40Ui1vUWdlc3hSb2lPZVZoWTRUYVlNempfWWcyNWl3Q1RLN093ZjFRZldla1pzMWVfcFozMndiZW5qOU1NMEpuT0pOeEU3SnJz?oc=5",
       "date": "2026-08-18 12:10",
-      "summary": "The Download: how people really use AI, and Flock’s design choices  MIT Technology Review..."
+      "summary": "The Download: how people really use AI, and Flock’s design choices  technologyreview.com..."
     },
     {
-      "title": "What Flock’s defenders are missing - MIT Technology Review",
+      "title": "What Flock’s defenders are missing - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGU0OFdqTW5qWlhIQVhRemVqcW5xTW9zdFQxeXhzdVNReVZ3eDU5OVlYclhZZjNaOFBlZDRqcklJT1MwSzFTZ1ZrTXU1ZHNfUUJlTFFnNS11eHdOTzg2S2trQjlaaTRIZ3p5Y0NpWWYwOERtVlNwZmdZaHBXd2F4c3FTbVNCeGJfX1F3VUEwMNIBlAFBVV95cUxNdUNySW5kLXJBYVNONGZjcjRMb0ZFR3V6QTBXWEs4Y3JlbzluMkpILXVfS2NxMHlhSUk3VlQ3enFWY1FmZjdmcEY4bXhnZlJ0RDRva1dkY0YzUjkyWUVRclJmSXprUUk0anVLQTZZYWRSNWNJNjluMUNXa1ZSYi01RzBoT21HMC1TLUVDeU5LUTZWeWpl?oc=5",
       "date": "2026-08-17 19:16",
-      "summary": "What Flock’s defenders are missing  MIT Technology Review..."
+      "summary": "What Flock’s defenders are missing  technologyreview.com..."
     }
   ],
   "Phys.org": [
     {
-      "title": "AI flood map reveals 11 million Americans may be omitted from official risk zones",
-      "link": "https://phys.org/news/2026-08-ai-reveals-million-americans-omitted.html",
-      "date": "2026-08-19 17:20",
-      "summary": "Official flood maps shape disaster preparedness, insurance decisions and urban planning, but large parts of the United States rema..."
+      "title": "7,300 excess deaths and counting in France's historically hot summer",
+      "link": "https://phys.org/news/2026-08-excess-deaths-france-historically-hot.html",
+      "date": "2026-08-19 18:20",
+      "summary": "France saw more than 7,300 excess deaths during heat waves so far this year, health authorities said Wednesday, as the country has..."
     },
     {
-      "title": "Dynamic framework can better predict wildfires",
-      "link": "https://phys.org/news/2026-08-dynamic-framework-wildfires.html",
-      "date": "2026-08-19 17:20",
-      "summary": "Southwest Research Institute (SwRI) has developed a new framework for early wildfire detection using real-time modeling that combi..."
+      "title": "Novel insights into aerosol behavior could improve air-quality forecasting",
+      "link": "https://phys.org/news/2026-08-insights-aerosol-behavior-air-quality.html",
+      "date": "2026-08-19 18:20",
+      "summary": "New research from Purdue University demonstrates how organic aerosol molecules can influence one another's behavior in ways that e..."
     },
     {
-      "title": "Metastable 3D printing 'ink' enables a closed-loop material cycle",
-      "link": "https://phys.org/news/2026-08-metastable-3d-ink-enables-loop.html",
-      "date": "2026-08-19 17:00",
-      "summary": "Polymers used for light-based 3D printing are very stable because of their chemical structure, but they are typically hard to recy..."
+      "title": "Beijing's isoprene-emitting trees highlight ozone risks in greener, hotter cities",
+      "link": "https://phys.org/news/2026-08-beijing-isoprene-emitting-trees-highlight.html",
+      "date": "2026-08-19 18:00",
+      "summary": "Amid current heat waves, urban greening is once again moving to the center of public debate. Greener cities are generally expected..."
     },
     {
-      "title": "Connecting the power of the stars to geometry",
-      "link": "https://phys.org/news/2026-08-power-stars-geometry.html",
-      "date": "2026-08-19 17:00",
-      "summary": "In the world of fusion  energy, scientists and engineers study the fourth state of matter known as plasma  in an effort to design ..."
+      "title": "Most species in UK zoos are non-native and not threatened, undermining conservation goals",
+      "link": "https://phys.org/news/2026-08-species-uk-zoos-native-threatened.html",
+      "date": "2026-08-19 18:00",
+      "summary": "In British zoos and aquariums, fewer than 10% of vertebrate species are native to the UK, and just 2% are high conservation priori..."
     },
     {
-      "title": "What if our cities were designed for wildlife as well as people?",
-      "link": "https://phys.org/news/2026-08-cities-wildlife-people.html",
-      "date": "2026-08-19 16:40",
-      "summary": "On a warm evening in May, swifts scream over rooftops, chasing insects above the traffic. A fox slips along a garden wall while gu..."
+      "title": "Oases in the desert of Arabia created 'brands' in the Bronze Age",
+      "link": "https://phys.org/news/2026-08-oases-arabia-brands-bronze-age.html",
+      "date": "2026-08-19 18:00",
+      "summary": "Did brands exist before modern society, in noncapitalist economies? An international team led by Marta Luciani of the University o..."
     }
   ],
   "The Guardian Edu": [
