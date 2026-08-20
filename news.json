@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Paving the way for greener ammonia production",
+      "link": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
+      "date": "2026-08-20 18:45",
+      "summary": "New MIT research could lead to better materials for a fossil-fuel-free process for making the chemical that's essential to fertili..."
+    },
+    {
       "title": "MIT engineers design a better controller for operating construction diggers",
       "link": "https://news.mit.edu/2026/mit-engineers-design-better-controller-operating-construction-diggers-0820",
       "date": "2026-08-20 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/cell-preservation-technique-could-make-car-t-cell-therapy-more-accessible-0819",
       "date": "2026-08-19 04:00",
       "summary": "MIT researchers’ approach, which uses naturally occurring sugars as antifreeze, could make it easier for hospitals to deploy this ..."
-    },
-    {
-      "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
-      "link": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
-      "date": "2026-08-18 16:35",
-      "summary": "A new method for surgically removing training examples from a model reveals that as datasets grow, the link between what a model l..."
     }
   ],
   "Harvard Gazette": [
@@ -77,6 +77,12 @@
       "summary": "Stanford secures major funding in Trump's science push  SFGATE..."
     },
     {
+      "title": "Post-Doctoral Positions in Body MRI - Stanford Medicine",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSXpfTVJxeUtnVlZ1b0ZPUG9Wckk5VWFlUWwtZGdpU1JiSkxGTERWbC12MDFOcDhUT0VrY1l0OVZGMUZOcGdDUUU5YU1OcmUzYVc1djNnMk9HS0FWbnUtbWstTUh6SXNVdGpscWU3XzRuVEdrdDNnRXdWS0NXNHhPUDRLUzlveWlW?oc=5",
+      "date": "2026-08-17 21:26",
+      "summary": "Post-Doctoral Positions in Body MRI  Stanford Medicine..."
+    },
+    {
       "title": "Feds to scrutinize foreign funding Stanford receives - Palo Alto Daily Post",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVSWUROZFNnR0V1UDJnSnV2OFdPSjhQelpHMk1hVkRSTDN2OVZTWjFBOGxvQTdDRTFKNlFfUU5YRS1zM1gzSHM3eVBLWDNqbzdDSDFKdmNkWDZiYmoxMG1oX09aRVNQbUZEVjZ4djN3Uk4wX2w2aE1DT0hFenBtUjlZUkpnR3lxWTBjb3FCVGJoQQ?oc=5",
       "date": "2026-08-18 22:40",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQUVVYU41dThZVDFFT2ZfX2ZnaHo0XzFmcnE4RDBzRUpjZE1HcHVWQnV3QXZEbHRZTUVDeXFEdGFGTm15cmxpSzJXV0VQZk9Yb0JmT0t1dzR6dm5acWhpNWtLYXp4dVZObEdjVkgwVFZXX1dkVUNHVVJBS2lJR0p3eGlQX3NFcnNpM21ObU1SOC1ONG5LYXQtYmFBSnFBWG9xWUx6NS1oVVhKbmdoY3FUWk5zSnJCSWhnWTFRdW1ZZW0?oc=5",
       "date": "2026-08-17 19:13",
       "summary": "Justice Clarence Thomas Says He’s Not Welcome At Stanford Law, But The School Says Otherwise  Above the Law..."
-    },
-    {
-      "title": "DOJ Official Flags Stanford for Scrutiny Over Foreign Donations - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHJqTndyRXVCcUxHOElKcDVKVDEyd290bFZZdE5zYWJuM0FoQ3F6WmwxWlNadFlyNEhpaUVmai0wcVU0TW12VEtxVnhxaU5sN0hmM0wzRmUzV0VyM0E3bFo1OExnZFJIMWl6c0duUG92cE9WYy1zZ3RzSUZTaHg2LWpfNXFWQUlOdHp3eDFLRzlKNnhxb2pha0sxbFJfb21MaC0zMGZwR3FUekN6bzBsSEJEaTg?oc=5",
-      "date": "2026-08-17 21:54",
-      "summary": "DOJ Official Flags Stanford for Scrutiny Over Foreign Donations  Bloomberg.com..."
     }
   ],
   "Nature Careers": [
@@ -101,6 +101,12 @@
       "link": "https://www.nature.com/articles/s41586-026-11043-z",
       "date": "2026-08-20 00:00",
       "summary": "Nature, Published online: 20 August 2026; doi:10.1038/s41586-026-11043-zDialkyl ether synthesis through heteroatom homolytic subst..."
+    },
+    {
+      "title": "Hidden volcanoes hint at Moon’s turbulent past",
+      "link": "https://www.nature.com/articles/d41586-026-02555-9",
+      "date": "2026-08-20 00:00",
+      "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02555-9A pair of massive shield volcanoes have been pinpointed by..."
     },
     {
       "title": "To shield the fetus, link a protein to these drugs",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02586-2",
       "date": "2026-08-20 00:00",
       "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02586-2They release compounds that contribute to ozone emissions,..."
-    },
-    {
-      "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
-      "link": "https://www.nature.com/articles/d41586-026-02612-3",
-      "date": "2026-08-20 00:00",
-      "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02612-3Promising trial results suggest cancer vaccines work and c..."
     }
   ],
   "Retraction Watch": [
@@ -161,22 +161,16 @@
   ],
   "Reuters AI": [
     {
+      "title": "The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeENQNnM1RGoxMUFwdGJ2c19GUDRnTUhiWVdieDZNZG1qX2QzN29SYVBqU0NBcnVaMjRISjB3ZFc5WTlRbXYwQ1FkallpcmdLeEcwWk1wcS1pbG9TbTB6WFQ4VENCa25wMTE1TmJMeGJ1dEFtY0xrX0hOb0ZURkZJWlRmM3lFcHFZaXpqTWFCYVhHdDc0UXJzNEpPTUo5LXdBYzlCcXppZklKbkN5cnc4NGFsU3p5U0xPNnJ1dGUxYWEzQVI0Y3ZqcA?oc=5",
+      "date": "2026-08-20 18:39",
+      "summary": "The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms  Reuters..."
+    },
+    {
       "title": "NEWSLETTER: AI firms can't yet contain what they've built, study finds - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0VxNEg5YTBJS3ExWnBST21CakVKTlF4WU1qbmFlZEJYS19MblFGZjZwM3F2b1FjYUg3Ym1WbXBmSFc5Mms2Qy02WTh2QXVCWE5GYzVHRUZHRXFyQlRvODJlTGdWaW1BbzZNTmV5eFRNemM1eExfekNqXzJWakM0eS15SnVzVktvZzJQZnBvSFBfU1dPSzdsUDBjRnFPMWd1Y3RsUFEwajFCSmhycHF1TkJzZ3dVVHhSc0FsY3FIdElmMlA1?oc=5",
       "date": "2026-08-19 21:25",
       "summary": "NEWSLETTER: AI firms can't yet contain what they've built, study finds  Reuters..."
-    },
-    {
-      "title": "Nvidia to ship AI chip for China by year-end, The Information reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
-      "date": "2026-08-20 17:34",
-      "summary": "Nvidia to ship AI chip for China by year-end, The Information reports  Reuters..."
-    },
-    {
-      "title": "The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeENQNnM1RGoxMUFwdGJ2c19GUDRnTUhiWVdieDZNZG1qX2QzN29SYVBqU0NBcnVaMjRISjB3ZFc5WTlRbXYwQ1FkallpcmdLeEcwWk1wcS1pbG9TbTB6WFQ4VENCa25wMTE1TmJMeGJ1dEFtY0xrX0hOb0ZURkZJWlRmM3lFcHFZaXpqTWFCYVhHdDc0UXJzNEpPTUo5LXdBYzlCcXppZklKbkN5cnc4NGFsU3p5U0xPNnJ1dGUxYWEzQVI0Y3ZqcA?oc=5",
-      "date": "2026-08-20 16:00",
-      "summary": "The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms  Reuters..."
     },
     {
       "title": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt - Reuters",
@@ -189,6 +183,12 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0dOS0FhM005bXNxVTkwWUNSR3pCaHJKb01nbXpualU1V0FNakliNmJMeHZsdXYtREhjOThWLUdVVGlTZExHZXBaVDFHcHJ3ZHRPY3BsLUxfX2NHMmV4U2hmRm9ibE1MTkhmV3FFWXY3aXVsYWRaWElRa2MwdDdaNVI4VnFXYWZvQ0FLeFlWY2dFNWlhVlB1TUh5dEwyeUFXV1hLNHZWX1Y3dUx2WVE?oc=5",
       "date": "2026-08-20 13:45",
       "summary": "Micron unveils $10 billion AI memory research lab in Boise  Reuters..."
+    },
+    {
+      "title": "Nvidia to ship AI chip for China by year-end, The Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
+      "date": "2026-08-20 17:34",
+      "summary": "Nvidia to ship AI chip for China by year-end, The Information reports  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -197,6 +197,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkQ0M1dEaWxVMUptcDYxbDNOYVduQkdZRzd2SFAxUzk3VjlrZ2JoQ1c1UTluUUk0ZTlDSWJpdTFYYVNfSi11cm5QZXREYXd4S0FxMW45cXhRWHhwQ1RpNHVxZGpCZmVUZEpJLXo1dDRTVTZzSkdWZFluMlJXMlVZaVFDV28zSUlf0gGOAUFVX3lxTFA5NXJIVHliS3Y2QWxsa1A2VGhpVUVXYVAxaml0djFWTHlFYThSbENETEl0bE1YbElhU19qbm1SdzlvWUlleUI5VzlCMzBjNGR3YWVjZTNZY2JhcHJsY05xOFpENUxWQlU2aWVKRGhCb0lYTnlINFMxaTdwMkVDcGlaQ3Zrd3c5d3FFT0Vtcmc?oc=5",
       "date": "2026-08-20 15:42",
       "summary": "Debates over AI consciousness are a trap  MIT Technology Review..."
+    },
+    {
+      "title": "Unlocking hidden revenue streams with market models - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSGw4UTBEZlZpQXNDaUQtQlc5a2RPdkg4bTlMODRPYkk5MnVqUXRRbHRUYmlRZVNrbk1pUksxM3VjWWNTcnpPcnoyODBFelA3amZjRHNFZEZlTjZ4M1RxMDVQNm9kN0Fya0dubWVjYkVKa1JNQ1VZdWs4QXFHZzlOVDhXTWZrWmVDVXh3YWlGUko4d2VpM0V3MERHV0R6VUFYbDVYR0d0UdIBrAFBVV95cUxQVVhQRG1iQk1iSWVndlJFWmxnc3N1VVRtc2hTVVg1ZkUxbHZZVWVVTFR1djdTN2lLSE4yMGRXRFE0VkkwbWJTUE9OOGpJbUFtSmNPVGxoSDdVeFhiWGNtNTV2N0o4R0V1UXFVTG80cmRYWkpobzA2YTBJSXlRazJHSmNiRHVSMHZUVXdueVVnc05sc1pyM1hiaTRHTkNyV09wVklSUTlLSHlINThN?oc=5",
+      "date": "2026-08-20 09:47",
+      "summary": "Unlocking hidden revenue streams with market models  MIT Technology Review..."
     },
     {
       "title": "Support networks aim to help kids through the polycrisis - MIT Technology Review",
@@ -211,12 +217,6 @@
       "summary": "We still don’t know how people are really using AI  MIT Technology Review..."
     },
     {
-      "title": "Unlocking hidden revenue streams with market models - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSGw4UTBEZlZpQXNDaUQtQlc5a2RPdkg4bTlMODRPYkk5MnVqUXRRbHRUYmlRZVNrbk1pUksxM3VjWWNTcnpPcnoyODBFelA3amZjRHNFZEZlTjZ4M1RxMDVQNm9kN0Fya0dubWVjYkVKa1JNQ1VZdWs4QXFHZzlOVDhXTWZrWmVDVXh3YWlGUko4d2VpM0V3MERHV0R6VUFYbDVYR0d0UdIBrAFBVV95cUxQVVhQRG1iQk1iSWVndlJFWmxnc3N1VVRtc2hTVVg1ZkUxbHZZVWVVTFR1djdTN2lLSE4yMGRXRFE0VkkwbWJTUE9OOGpJbUFtSmNPVGxoSDdVeFhiWGNtNTV2N0o4R0V1UXFVTG80cmRYWkpobzA2YTBJSXlRazJHSmNiRHVSMHZUVXdueVVnc05sc1pyM1hiaTRHTkNyV09wVklSUTlLSHlINThN?oc=5",
-      "date": "2026-08-20 09:47",
-      "summary": "Unlocking hidden revenue streams with market models  MIT Technology Review..."
-    },
-    {
       "title": "The Download: how people really use AI, and Flock’s design choices - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnJ2RE9ld052bE10eGViTnM2UGNyM1JZU01WTFdMazNSZS1fUHJWUzVTVjlIUEtSWjFVSThNSHRGeGlUY01JSTNlSEt4UTlweHBwNVh5MDU1aVZoY2RnQ0RlTGNXMkxBR1RRRTI0SVNyY1F4eVZSeXBYaTM2QTNyLWR6cVJ5Y3piT0t2LUZnMWVEY2VCRGJkTWVwLThWa0lva1pzUldNY9IBrAFBVV95cUxNa2YzZ1VmcWpWbkNKMU1tQURpZjU2d3NaRy1qTUNnOGRSRWxQRXVVSFZ4WmtRX3hYd0d2R0RiRWhKMzBBdmJ2eUUyS0RUblltVTZYYllDaFk1Q1AtTU5rZ0pGWG40Ui1vUWdlc3hSb2lPZVZoWTRUYVlNempfWWcyNWl3Q1RLN093ZjFRZldla1pzMWVfcFozMndiZW5qOU1NMEpuT0pOeEU3SnJz?oc=5",
       "date": "2026-08-18 12:10",
@@ -225,37 +225,49 @@
   ],
   "Phys.org": [
     {
-      "title": "Stone tools suggest Neanderthals once inhabited Arabian deserts",
-      "link": "https://phys.org/news/2026-08-stone-tools-neanderthals-inhabited-arabian.html",
-      "date": "2026-08-20 18:30",
-      "summary": "Neanderthals are largely associated with colder climates across Eurasia. But researchers know that both Homo sapiens and Neanderth..."
+      "title": "'Wall-to-wall' map of NYC trees could help cool cities worldwide",
+      "link": "https://phys.org/news/2026-08-wall-nyc-trees-cool-cities.html",
+      "date": "2026-08-20 19:20",
+      "summary": "Researchers have created an interactive map identifying 1.8 million individual trees in New York City, using a new approach that c..."
     },
     {
-      "title": "Brand messaging shapes consumer choices in vegan cosmetics",
-      "link": "https://phys.org/news/2026-08-brand-messaging-consumer-choices-vegan.html",
-      "date": "2026-08-20 18:20",
-      "summary": "Major cosmetics retailers such as Sephora, Ulta and Amazon now feature sections aimed at socially conscious consumers, highlightin..."
+      "title": "Who helps more—low-income earners or the wealthy? It depends on the situation",
+      "link": "https://phys.org/news/2026-08-income-earners-wealthy-situation.html",
+      "date": "2026-08-20 19:20",
+      "summary": "Are people from lower socioeconomic backgrounds more willing to help—or do the wealthy give more? For years, research has provided..."
     },
     {
-      "title": "A new kind of polymer with two faces and a twist control electron spin",
-      "link": "https://phys.org/news/2026-08-kind-polymer-electron.html",
-      "date": "2026-08-20 18:20",
-      "summary": "Researchers from the University of Osaka have developed a new class of chiral semiconducting polymers that can generate highly spi..."
+      "title": "A cell-motility pathway helps set the pace of embryo development",
+      "link": "https://phys.org/news/2026-08-cell-motility-pathway-pace-embryo.html",
+      "date": "2026-08-20 19:00",
+      "summary": "A molecular pathway known for controlling cell shape and movement also helps regulate the rhythm by which the vertebrate body is d..."
     },
     {
-      "title": "Blocc chemistry could automate molecular discovery and democratize access to new materials",
-      "link": "https://phys.org/news/2026-08-blocc-chemistry-automate-molecular-discovery.html",
-      "date": "2026-08-20 18:00",
-      "summary": "A paper published in the journal Science lays out a roadmap for broadening access to the process of discovering molecular tools th..."
+      "title": "'Shaking up' biofilm research: Active topography reduces bacterial infections",
+      "link": "https://phys.org/news/2026-08-biofilm-topography-bacterial-infections.html",
+      "date": "2026-08-20 19:00",
+      "summary": "The use of antibiotics has traditionally been considered the gold standard in bacterial infection control—the more bacterial cells..."
     },
     {
-      "title": "Accounting staff turnover may lead to future financial reporting problems",
-      "link": "https://phys.org/news/2026-08-accounting-staff-turnover-future-financial.html",
-      "date": "2026-08-20 18:00",
-      "summary": "Investors looking for early signs of declining financial reporting quality may want to pay attention to employee turnover in a com..."
+      "title": "China's solar push linked to bird diversity losses across 2,344 counties",
+      "link": "https://phys.org/news/2026-08-china-solar-linked-bird-diversity.html",
+      "date": "2026-08-20 18:50",
+      "summary": "The global push for solar energy expansion could carry hidden biodiversity costs, according to a study across China published in t..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Leaders attack ‘demotivating’ plan to make pupils who fail GCSEs retake maths and English",
+      "link": "https://www.theguardian.com/education/2026/aug/20/governments-plan-young-people-continue-studying-gcse-maths-english-exams",
+      "date": "2026-08-20 18:21",
+      "summary": "Government announce plan for ‘stepping stone’ qualification as 620,000 year 11 students face retaking maths or English after failu..."
+    },
+    {
+      "title": "Academic who accused Jason Arday of plagiarism suspended by his university",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/20/academic-who-accused-jason-arday-of-plagiarism-suspended-by-his-university",
+      "date": "2026-08-20 18:12",
+      "summary": "Researcher Nathan Cofnas previously claimed Black people would hold few high-profile positions in a meritocracyNathan Cofnas, the ..."
+    },
     {
       "title": "UK minister criticises misogynistic social media culture | Politics Weekly",
       "link": "https://www.theguardian.com/politics/video/2026/aug/20/uk-minister-criticises-misogynistic-social-media-culture-politics-weekly",
@@ -273,18 +285,6 @@
       "link": "https://www.theguardian.com/education/2026/aug/20/gcse-results-almost-one-in-four-boys-in-england-get-top-grades-in-maths",
       "date": "2026-08-20 11:21",
       "summary": "Overall results slightly better than last year, with share receiving grades 7, 8 and 9 rising by 0.1 of a percentage point to 23.1..."
-    },
-    {
-      "title": "UC Berkeley professor admits to using AI to edit op-ed on students’ math skills",
-      "link": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
-      "date": "2026-08-20 00:35",
-      "summary": "Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behindA math..."
-    },
-    {
-      "title": "Compulsory GCSE resits in England harm teenagers’ mental wellbeing, study finds",
-      "link": "https://www.theguardian.com/education/2026/aug/19/gcse-resits-england-harm-teenagers-mental-wellbeing-ucl",
-      "date": "2026-08-19 18:34",
-      "summary": "UCL researchers warn repeated exam attempts may dent students’ confidence and raise risk of dropping outForcing teenagers who fail..."
     }
   ],
   "SCMP Hong Kong": [
