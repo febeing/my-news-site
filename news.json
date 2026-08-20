@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "These trees are making air quality in cities worse",
+      "link": "https://www.nature.com/articles/d41586-026-02586-2",
+      "date": "2026-08-20 00:00",
+      "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02586-2They release compounds that contribute to ozone emissions,..."
+    },
+    {
       "title": "Evidence for vacuum-enhanced superconductivity in NbSe<sub>2</sub>",
       "link": "https://www.nature.com/articles/s41586-026-11037-x",
       "date": "2026-08-19 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-10776-1",
       "date": "2026-08-19 00:00",
       "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10776-1Reply to: Artefacts in single-cell mtDNA analyses misinfor..."
-    },
-    {
-      "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
-      "link": "https://www.nature.com/articles/s41586-026-10777-0",
-      "date": "2026-08-19 00:00",
-      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10777-0Artefacts in single-cell mtDNA analyses misinform phylogen..."
     }
   ],
   "Retraction Watch": [
@@ -161,16 +161,16 @@
   ],
   "Reuters AI": [
     {
+      "title": "NEWSLETTER: AI firms can't yet contain what they've built, study finds - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0VxNEg5YTBJS3ExWnBST21CakVKTlF4WU1qbmFlZEJYS19MblFGZjZwM3F2b1FjYUg3Ym1WbXBmSFc5Mms2Qy02WTh2QXVCWE5GYzVHRUZHRXFyQlRvODJlTGdWaW1BbzZNTmV5eFRNemM1eExfekNqXzJWakM0eS15SnVzVktvZzJQZnBvSFBfU1dPSzdsUDBjRnFPMWd1Y3RsUFEwajFCSmhycHF1TkJzZ3dVVHhSc0FsY3FIdElmMlA1?oc=5",
+      "date": "2026-08-19 21:25",
+      "summary": "NEWSLETTER: AI firms can't yet contain what they've built, study finds  Reuters..."
+    },
+    {
       "title": "China urges respect for digital sovereignty in AI race - Reuters",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFdOX2tzNWZNVU43emQ3NDVXclE3a2h4UlpvVHNSUkpLd1RRWTlsNU9LRjMtYXl5VjVhVEctUHRsSnZYQm92eW9SSFR5SFVFZFFuNnpXVzFITEZDbjk5MS0tVzJVam9JS1RPazZFdWZrcVlUcXdXT1hBRTRLMExwR0RkdWlMYklnZ0JMbXpleTBaQ3dDMTRxTklkQQ?oc=5",
       "date": "2026-08-19 07:50",
       "summary": "China urges respect for digital sovereignty in AI race  Reuters..."
-    },
-    {
-      "title": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5",
-      "date": "2026-08-18 19:03",
-      "summary": "OpenAI slows model training to bolster security after Hugging Face hack  Reuters..."
     },
     {
       "title": "The unexpected winners of America's data-center boom - Reuters",
@@ -185,45 +185,51 @@
       "summary": "Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal  Reuters..."
     },
     {
-      "title": "NEWSLETTER: AI firms can't yet contain what they've built, study finds - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0VxNEg5YTBJS3ExWnBST21CakVKTlF4WU1qbmFlZEJYS19MblFGZjZwM3F2b1FjYUg3Ym1WbXBmSFc5Mms2Qy02WTh2QXVCWE5GYzVHRUZHRXFyQlRvODJlTGdWaW1BbzZNTmV5eFRNemM1eExfekNqXzJWakM0eS15SnVzVktvZzJQZnBvSFBfU1dPSzdsUDBjRnFPMWd1Y3RsUFEwajFCSmhycHF1TkJzZ3dVVHhSc0FsY3FIdElmMlA1?oc=5",
-      "date": "2026-08-19 21:25",
-      "summary": "NEWSLETTER: AI firms can't yet contain what they've built, study finds  Reuters..."
+      "title": "Payments firm Stripe to buy marketplace OpenRouter in AI push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkl3Q1p0eG5uR21ZT0lMdnRnd0UydUJlc3J3M1lSckFjMndEX29fNG9lUXN3YmxLeDFwRms1MU0zME80TmUzb291Y3psVm0taE9fWDdYX2stOWs4cFRBUUgxN2hhRllfLXF0djJzSC0xN3pZZ0REMVZrWUxJSy03dE9uUVdWbWdoWDhnYjdpekIxeDNQSUh1SnJKUUtoLUtoU0xocEh4QQ?oc=5",
+      "date": "2026-08-19 22:31",
+      "summary": "Payments firm Stripe to buy marketplace OpenRouter in AI push  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "We still don’t know how people are really using AI - technologyreview.com",
+      "title": "We still don’t know how people are really using AI - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQkFLNWNOVndnMUZHN0ZiNHp2ODVoNUFRMDNSRGJuR1FiOE1qTTdQZFI1WEg0LWJ0TjJHaWtOdEVUSzdmZjRDSFN1QmxIeGdTZlJGNjlaZ3dpNGRuOE5xT1g3R1VXbURweThZRmtBSHhlR1lOR0Zaai1R0gF_QVVfeXFMUHRtMk1yNmFCRWVjb2o5MzZUQlZnNUFfLTZ2WkQ3eFdXa1RDLTFjaGE3UnJpX0hEbHN2NVZoQVpVOWROcUlMNVZaSG9DaXd2dkFEc3JQZWFsNDc0LWRSb09sdlAzSUpXNnpneWY5VWJvUWRkMHpZYmFpam1nXzJIWQ?oc=5",
       "date": "2026-08-18 10:06",
-      "summary": "We still don’t know how people are really using AI  technologyreview.com..."
+      "summary": "We still don’t know how people are really using AI  MIT Technology Review..."
     },
     {
-      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat - technologyreview.com",
+      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTWF6YWh2QlZLbWVCSFBWdVZwdEpEZ3JtLUI1Tk9lOEpFTG5yMW96U0VQblh1dG5qblJjM2hJcjJTbW9xbDVyNW01TEMzdnF4bTRTOC1zbkRhZnlUMjNfdG5vTUVsMEhqcTRmYXNsV0NJMTFSdDhVLUQyMlExeFdoaXlXdFROYWFVVVVyV2JhOUlXTmtmLWdPZng2OEpvSXFLcVkyY212N1UtYWNkRzM0MzgzXzZDc3pwcVlV0gHAAUFVX3lxTFA4bEhNZ3RwTGlGNUxpWWtTZVAtUEo0b2ZZUmFVSnhBalBHUE8wZS1jaFNodVpoRUtEa2tUUE9qVk1NYW5jZkFTbUdmaG9nUWZnVk5HdVU1SlZRUTVkbHpnQ1ZBZUg0dkxadTFCLWlqZkxTZzFwZkZRcFpmaXVwNk5wYzFySndaYVFrUEVmQms0NVVwWHVXOFZGV1FCTTdONm9Sblc1ZDlRSlVyOW01bUxuSkt6NkdtMDJKSnZhZnNCVw?oc=5",
       "date": "2026-08-19 12:10",
-      "summary": "The Download: AI’s self-improvement problem, and what’s driving the heat  technologyreview.com..."
+      "summary": "The Download: AI’s self-improvement problem, and what’s driving the heat  MIT Technology Review..."
     },
     {
-      "title": "Child-monitoring apps might need a reboot - technologyreview.com",
+      "title": "Child-monitoring apps might need a reboot - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUUVwcFZpdXhGS21iTzdCelN1QTJwYXp4WDZGRDgwZXVEODVpUll3c2pHX1VlWXlXSkc1SW5kOXJMeWtNbW85VFE1d2dmckh0R0ZqbTZaLTY0OUNfZXY0YlNRLU9ub2RiVGptQlY3WHNQVFlvazNQWk45LWhDOHdzMlpvalQ4UWluVWRSUzZhMNIBlAFBVV95cUxPZlhGdWNkRVFvUU5naHg3YkNRY0N4aWpCOE1IRDc4OEFBUzctMWxaU1dsX0ZCN0JtSWZHcjRRRF9zUk9oWXJLX3B1b0lRU2l3MldsV1Y5YlJhMXBiQkNHdUp0bkhwT1BQWXV1ZXlSM0I3emlseHJPdDhSTWUya1JTb1lpc3JYSmJlRjAySEpKOFlXMC1k?oc=5",
       "date": "2026-08-19 09:00",
-      "summary": "Child-monitoring apps might need a reboot  technologyreview.com..."
+      "summary": "Child-monitoring apps might need a reboot  MIT Technology Review..."
     },
     {
-      "title": "The Download: how people really use AI, and Flock’s design choices - technologyreview.com",
+      "title": "The Download: how people really use AI, and Flock’s design choices - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnJ2RE9ld052bE10eGViTnM2UGNyM1JZU01WTFdMazNSZS1fUHJWUzVTVjlIUEtSWjFVSThNSHRGeGlUY01JSTNlSEt4UTlweHBwNVh5MDU1aVZoY2RnQ0RlTGNXMkxBR1RRRTI0SVNyY1F4eVZSeXBYaTM2QTNyLWR6cVJ5Y3piT0t2LUZnMWVEY2VCRGJkTWVwLThWa0lva1pzUldNY9IBrAFBVV95cUxNa2YzZ1VmcWpWbkNKMU1tQURpZjU2d3NaRy1qTUNnOGRSRWxQRXVVSFZ4WmtRX3hYd0d2R0RiRWhKMzBBdmJ2eUUyS0RUblltVTZYYllDaFk1Q1AtTU5rZ0pGWG40Ui1vUWdlc3hSb2lPZVZoWTRUYVlNempfWWcyNWl3Q1RLN093ZjFRZldla1pzMWVfcFozMndiZW5qOU1NMEpuT0pOeEU3SnJz?oc=5",
       "date": "2026-08-18 12:10",
-      "summary": "The Download: how people really use AI, and Flock’s design choices  technologyreview.com..."
+      "summary": "The Download: how people really use AI, and Flock’s design choices  MIT Technology Review..."
     },
     {
-      "title": "What Flock’s defenders are missing - technologyreview.com",
+      "title": "What Flock’s defenders are missing - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGU0OFdqTW5qWlhIQVhRemVqcW5xTW9zdFQxeXhzdVNReVZ3eDU5OVlYclhZZjNaOFBlZDRqcklJT1MwSzFTZ1ZrTXU1ZHNfUUJlTFFnNS11eHdOTzg2S2trQjlaaTRIZ3p5Y0NpWWYwOERtVlNwZmdZaHBXd2F4c3FTbVNCeGJfX1F3VUEwMNIBlAFBVV95cUxNdUNySW5kLXJBYVNONGZjcjRMb0ZFR3V6QTBXWEs4Y3JlbzluMkpILXVfS2NxMHlhSUk3VlQ3enFWY1FmZjdmcEY4bXhnZlJ0RDRva1dkY0YzUjkyWUVRclJmSXprUUk0anVLQTZZYWRSNWNJNjluMUNXa1ZSYi01RzBoT21HMC1TLUVDeU5LUTZWeWpl?oc=5",
       "date": "2026-08-17 19:16",
-      "summary": "What Flock’s defenders are missing  technologyreview.com..."
+      "summary": "What Flock’s defenders are missing  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Levitating molten metal on ISS could refine ultra-strong metallic glass",
+      "link": "https://phys.org/news/2026-08-levitating-molten-metal-iss-refine.html",
+      "date": "2026-08-20 03:20",
+      "summary": "The research team led by materials scientist Ralf Busch from Saarland University is preparing for its first science-in-space missi..."
+    },
     {
       "title": "Fine-particle pollution may undermine plants' ability to absorb carbon and conserve water",
       "link": "https://phys.org/news/2026-08-fine-particle-pollution-undermine-ability.html",
@@ -247,12 +253,6 @@
       "link": "https://phys.org/news/2026-08-couples-coping-skills-depression-gi.html",
       "date": "2026-08-20 01:40",
       "summary": "Dyadic coping is a potentially modifiable protective factor in the psychological health of middle-aged and older gastrointestinal ..."
-    },
-    {
-      "title": "Scientists discover learning and memory formation in model membranes",
-      "link": "https://phys.org/news/2026-08-scientists-memory-formation-membranes.html",
-      "date": "2026-08-20 01:20",
-      "summary": "A decades-long collaboration between two scientists at the Department of Energy's Oak Ridge National Laboratory is reshaping how w..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "IPO queen Pamela Chung says headway needed for initial public offering connect scheme",
+      "link": "https://www.scmp.com/business/banking-finance/article/3364629/hong-kong-sees-opportune-time-advancing-ipo-connect-scheme-ipo-queen-pamela-chung?utm_source=rss_feed",
+      "date": "2026-08-20 03:02",
+      "summary": "Hong Kong is seeing an opportune time to move forward with a so-called IPO connect scheme, according to Pamela Chung Kong-hung, Vi..."
+    },
+    {
       "title": "True friends stab you in the front? The importance of debate in today’s world",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364609/true-friends-stab-you-front-importance-debate-todays-world?utm_source=rss_feed",
       "date": "2026-08-20 01:30",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/education/article/3364608/over-60-students-get-better-outcomes-after-seeking-university-admission-review?utm_source=rss_feed",
       "date": "2026-08-19 22:00",
       "summary": "Nearly two-thirds of Hong Kong students who requested a reconsideration of their university placement due to reviewed entrance exa..."
-    },
-    {
-      "title": "Doctor to the stars cleared over failure to record reason for using labour drug",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3364600/doctor-stars-cleared-over-failure-record-reason-using-labour-drug?utm_source=rss_feed",
-      "date": "2026-08-19 14:38",
-      "summary": "An obstetrician to the stars has been cleared of professional misconduct by Hong Kong’s medical watchdog over allegations she fail..."
     }
   ]
 }
