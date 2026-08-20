@@ -65,12 +65,6 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford makes it official: QB Davis Warren will start season opener against Hawaii on Aug. 29 - mercurynews.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbHdnUG5uNWVBc3MxenBBb0phdkZPVTBEOEc2Uk1OMlR2aE9LdEx1Zm8zeG90b2h6UmtnelNaUmNEdDJ5SUp4amczb195Z1NwVlM5d1VYTFk0ZWJJZWxFa1NPMy1QUHNiU3VUbEhHcTZDYlcwWmtuSUdUMldaYVEtWV92VTUxX2ZvVkFzUHNvOGU3M2hDbHpBRHUxM0Z0RU9CSjZGWUVWaktBSW1DdXNwWktRNWtMai10VzZwcnpWMmNDVzY0MkZoT0tOWULSAdIBQVVfeXFMUHNremZIZkpOYV9pZ0FmdUhDby0tVVQtb2lRaXNFYk90bGtTWF9oNXBnamE0R3lJZWJySWxOd2JJcUt2WGRpX1F3M3pxNHI4ZVNQc1JHZ2RsOF9kVTVhVjQ0MVRERU5jTDlXclFPT3ZKMGsyOHR2TzlQNFBmbFNwbmhQdENIMWxUM2h4QnAtQlZCV0ljYnBOQUFCdDYxakdxUENab1hCdC0xcVBRc082c2FFSEwtY21UbGVzbF9SR3ZuT0sxVzhNaFFFMGFBRjQ3cDJB?oc=5",
-      "date": "2026-08-19 02:32",
-      "summary": "Stanford makes it official: QB Davis Warren will start season opener against Hawaii on Aug. 29  mercurynews.com..."
-    },
-    {
       "title": "After slashing science budgets, Trump bets on Bay Area researchers - SFGATE",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlo3U2kzM1dYcWFqNkZaOUM3aV9KdGtkekRjSm9wZXdLZFB2c1VHVk14cklEekp1VzVia0c5U0w1b3d2bDB2bWFxWnc2VWo3VU5uSkFmRGFrb3Q3MVBmTUJvRENCVGdPYmt2WTNHSnQ5R0JrcjhQaFplWHZYeVBYOVJZZTZGVVU?oc=5",
       "date": "2026-08-18 16:11",
@@ -89,10 +83,16 @@
       "summary": "AI Tinkery expands beyond Stanford to support classrooms worldwide  Stanford Report..."
     },
     {
-      "title": "Feds to scrutinize foreign funding Stanford receives - padailypost.com",
+      "title": "Feds to scrutinize foreign funding Stanford receives - Palo Alto Daily Post",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVSWUROZFNnR0V1UDJnSnV2OFdPSjhQelpHMk1hVkRSTDN2OVZTWjFBOGxvQTdDRTFKNlFfUU5YRS1zM1gzSHM3eVBLWDNqbzdDSDFKdmNkWDZiYmoxMG1oX09aRVNQbUZEVjZ4djN3Uk4wX2w2aE1DT0hFenBtUjlZUkpnR3lxWTBjb3FCVGJoQQ?oc=5",
       "date": "2026-08-18 22:40",
-      "summary": "Feds to scrutinize foreign funding Stanford receives  padailypost.com..."
+      "summary": "Feds to scrutinize foreign funding Stanford receives  Palo Alto Daily Post..."
+    },
+    {
+      "title": "Justice Clarence Thomas Says He’s Not Welcome At Stanford Law, But The School Says Otherwise - Above the Law",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQUVVYU41dThZVDFFT2ZfX2ZnaHo0XzFmcnE4RDBzRUpjZE1HcHVWQnV3QXZEbHRZTUVDeXFEdGFGTm15cmxpSzJXV0VQZk9Yb0JmT0t1dzR6dm5acWhpNWtLYXp4dVZObEdjVkgwVFZXX1dkVUNHVVJBS2lJR0p3eGlQX3NFcnNpM21ObU1SOC1ONG5LYXQtYmFBSnFBWG9xWUx6NS1oVVhKbmdoY3FUWk5zSnJCSWhnWTFRdW1ZZW0?oc=5",
+      "date": "2026-08-17 19:13",
+      "summary": "Justice Clarence Thomas Says He’s Not Welcome At Stanford Law, But The School Says Otherwise  Above the Law..."
     }
   ],
   "Nature Careers": [
@@ -257,6 +257,12 @@
   ],
   "The Guardian Edu": [
     {
+      "title": "GCSE results: hundreds of thousands of pupils across England, Wales and Northern Ireland await grades – latest updates",
+      "link": "https://www.theguardian.com/education/live/2026/aug/20/gcse-results-exams-schools-education-england-wales-northern-ireland-live-latest-updates",
+      "date": "2026-08-20 06:17",
+      "summary": "Students will begin receiving this years exam results online and in person from 8am (GMT) this morningCompulsory GCSE resits in En..."
+    },
+    {
       "title": "UC Berkeley professor admits to using AI to edit op-ed on students’ math skills",
       "link": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
       "date": "2026-08-20 00:35",
@@ -279,15 +285,15 @@
       "link": "https://www.theguardian.com/money/2026/aug/19/students-starting-university-bank-accounts-rent-food",
       "date": "2026-08-19 06:00",
       "summary": "From bank accounts to rent and food, students and recent graduates offer advice to those beginning to studyStudent bank accounts: ..."
-    },
-    {
-      "title": "Pentagon threatens to cut federal funding to 30 universities over foreign academic partnerships",
-      "link": "https://www.theguardian.com/us-news/2026/aug/18/pentagon-funding-colleges-harvard",
-      "date": "2026-08-18 20:01",
-      "summary": "Harvard, Stanford and others face directive to review and cut alliances Pentagon deems national security riskThirty US universitie..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Cathay Pacific to launch direct flights between Hong Kong and Almaty in January",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364653/cathay-pacific-launch-direct-flights-between-hong-kong-and-almaty-january?utm_source=rss_feed",
+      "date": "2026-08-20 05:49",
+      "summary": "Cathay Pacific Airways will launch direct passenger flights between Hong Kong and Almaty, Kazakhstan’s largest city, in January, m..."
+    },
     {
       "title": "Pet owner barred from leaving Hong Kong pending trial over his dog’s fatal attacks",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364648/hong-kong-pet-owner-barred-leaving-city-pending-trial-over-fatal-dog-attacks?utm_source=rss_feed",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364622/hong-kongs-ck-hutchison-seeks-hk117b-panama-over-canal-ports-dispute?utm_source=rss_feed",
       "date": "2026-08-20 01:14",
       "summary": "Hong Kong-based CK Hutchison has launched international arbitration against Panama, seeking more than HK$11.7 billion (US$1.5 bill..."
-    },
-    {
-      "title": "Does cash-strapped Hongkong Post need to deliver profits or just public services?",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3364607/does-cash-strapped-hongkong-post-need-deliver-profits-or-just-public-services?utm_source=rss_feed",
-      "date": "2026-08-20 01:00",
-      "summary": "On a recent weekday morning, the Repulse Bay post office, in one of Hong Kong’s most affluent coastal neighbourhoods, stood almost..."
     }
   ]
 }
