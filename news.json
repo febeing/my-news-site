@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "The importance of indoor airflow patterns in spreading airborne disease",
+      "link": "https://news.mit.edu/2026/indoor-airflow-patterns-importance-spreading-airborne-disease-0821",
+      "date": "2026-08-21 16:00",
+      "summary": "Researchers explore how a key factor can mitigate or promote tuberculosis transmission...."
+    },
+    {
       "title": "Paving the way for greener ammonia production",
       "link": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
       "date": "2026-08-20 18:45",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/securing-wireless-communication-next-generation-devices-0819",
       "date": "2026-08-19 09:00",
       "summary": "A new, scalable technique could enable powerful radars and sensors based on quantum technology that works at room temperature...."
-    },
-    {
-      "title": "Cell-preservation technique could make CAR-T cell therapy more accessible",
-      "link": "https://news.mit.edu/2026/cell-preservation-technique-could-make-car-t-cell-therapy-more-accessible-0819",
-      "date": "2026-08-19 04:00",
-      "summary": "MIT researchers’ approach, which uses naturally occurring sugars as antifreeze, could make it easier for hospitals to deploy this ..."
     }
   ],
   "Harvard Gazette": [
@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "After slashing science budgets, Trump bets on Bay Area researchers - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlo3U2kzM1dYcWFqNkZaOUM3aV9KdGtkekRjSm9wZXdLZFB2c1VHVk14cklEekp1VzVia0c5U0w1b3d2bDB2bWFxWnc2VWo3VU5uSkFmRGFrb3Q3MVBmTUJvRENCVGdPYmt2WTNHSnQ5R0JrcjhQaFplWHZYeVBYOVJZZTZGVVU?oc=5",
+      "date": "2026-08-18 16:11",
+      "summary": "After slashing science budgets, Trump bets on Bay Area researchers  SFGATE..."
+    },
+    {
       "title": "Stanford could face DOJ scrutiny over foreign donations - The Stanford Daily",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YU1lxcEtQenUybDJKRF9fbWhlMHdZb2Raa0p5dFJRdTA0YTMzcGVheWNDdmJsdVdHWU1nQVV5eHo4ODBJbU5xUWE3LWk2VmRRS3BJV1RhNGJhbXYtLUZDemJ6c1FUVmp1Q2ZES3FJNFRwdFNjZFdCREVjYw?oc=5",
       "date": "2026-08-20 04:36",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ubFJhMU5qQW1FWHJOeTNrWEdwek5jSWkzbDdzLTQyTDY4cTV5MTFadWNIRXlrX1VjbEFBMWZRR0xCV0FyYmtTY3VTVm1reTJpYjdPdUtQbEszR0NXeVJGNEROemRwT0MteVhXUnhYdnNhaWt6VWpB?oc=5",
       "date": "2026-08-20 07:00",
       "summary": "An AI Playground for the Courts  Stanford Law School..."
-    },
-    {
-      "title": "After slashing science budgets, Trump bets on Bay Area researchers - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlo3U2kzM1dYcWFqNkZaOUM3aV9KdGtkekRjSm9wZXdLZFB2c1VHVk14cklEekp1VzVia0c5U0w1b3d2bDB2bWFxWnc2VWo3VU5uSkFmRGFrb3Q3MVBmTUJvRENCVGdPYmt2WTNHSnQ5R0JrcjhQaFplWHZYeVBYOVJZZTZGVVU?oc=5",
-      "date": "2026-08-18 16:11",
-      "summary": "After slashing science budgets, Trump bets on Bay Area researchers  SFGATE..."
     },
     {
       "title": "No. 21 GCU goes toe to toe with No. 9 Stanford - Grand Canyon University Athletics",
@@ -167,28 +167,28 @@
       "summary": "AI reshapes India's IT services sector contracts as clients demand more for less  Reuters..."
     },
     {
-      "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
-      "date": "2026-08-21 10:25",
-      "summary": "US corporate AI debt surge tests investor limits as fatigue emerges  Reuters..."
-    },
-    {
       "title": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt - Reuters",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRG1ONC11bUpzNWFwMGdRbVVUM0ZHb0l0VHJfU0dsYi1KdmxTZVRnRllWaDE2MkZtSFExX0U5MGtGRFpkOGFYZmY1OHJtMEV4UG9MVUlfc3hUQ2dMTlJOZ2d0R3cwZjB4OFkxbW1rNHhaNEt0alp6RGdGVTRJb201WWloTTR3Y2hKVVdzN0paZXFEUmVmQl9VeHFqZ1dyQQ?oc=5",
       "date": "2026-08-20 10:05",
       "summary": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt  Reuters..."
     },
     {
-      "title": "Nvidia denies report it is rolling out China AI chip by year-end - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
-      "date": "2026-08-20 20:16",
-      "summary": "Nvidia denies report it is rolling out China AI chip by year-end  Reuters..."
+      "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
+      "date": "2026-08-21 15:07",
+      "summary": "US corporate AI debt surge tests investor limits as fatigue emerges  Reuters..."
     },
     {
       "title": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjl6el9aTXd3V2hKVng5WF9iUUJpOG9zdXBWZzJhQkt1aUtVWE5wWi1MRGVXX0hCU25sR0NXTE9ocGU5SVZqYUJlZmZFRF81MmdxLU1xcEtLaVZnMGg2ejluTjgyN0Fyb2I2bWxFZzlSM3N6N3VDbXpFR09FMGthQXFBSF9rNzRDTkxJbjk2aGsxQ3Nxb2JIcFhZTFozaExoVm50a1FBSnl2TEhoWXhreG1kWTFrRld1eEs2X0haTXA5aFU?oc=5",
       "date": "2026-08-20 23:24",
       "summary": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports  Reuters..."
+    },
+    {
+      "title": "Nvidia denies report it is rolling out China AI chip by year-end - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
+      "date": "2026-08-20 20:16",
+      "summary": "Nvidia denies report it is rolling out China AI chip by year-end  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -211,56 +211,56 @@
       "summary": "We still don’t know how people are really using AI  MIT Technology Review..."
     },
     {
-      "title": "Debates over AI consciousness are a trap - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkQ0M1dEaWxVMUptcDYxbDNOYVduQkdZRzd2SFAxUzk3VjlrZ2JoQ1c1UTluUUk0ZTlDSWJpdTFYYVNfSi11cm5QZXREYXd4S0FxMW45cXhRWHhwQ1RpNHVxZGpCZmVUZEpJLXo1dDRTVTZzSkdWZFluMlJXMlVZaVFDV28zSUlf0gGOAUFVX3lxTFA5NXJIVHliS3Y2QWxsa1A2VGhpVUVXYVAxaml0djFWTHlFYThSbENETEl0bE1YbElhU19qbm1SdzlvWUlleUI5VzlCMzBjNGR3YWVjZTNZY2JhcHJsY05xOFpENUxWQlU2aWVKRGhCb0lYTnlINFMxaTdwMkVDcGlaQ3Zrd3c5d3FFT0Vtcmc?oc=5",
-      "date": "2026-08-20 15:42",
-      "summary": "Debates over AI consciousness are a trap  MIT Technology Review..."
-    },
-    {
       "title": "What Flock’s defenders are missing - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGU0OFdqTW5qWlhIQVhRemVqcW5xTW9zdFQxeXhzdVNReVZ3eDU5OVlYclhZZjNaOFBlZDRqcklJT1MwSzFTZ1ZrTXU1ZHNfUUJlTFFnNS11eHdOTzg2S2trQjlaaTRIZ3p5Y0NpWWYwOERtVlNwZmdZaHBXd2F4c3FTbVNCeGJfX1F3VUEwMNIBlAFBVV95cUxNdUNySW5kLXJBYVNONGZjcjRMb0ZFR3V6QTBXWEs4Y3JlbzluMkpILXVfS2NxMHlhSUk3VlQ3enFWY1FmZjdmcEY4bXhnZlJ0RDRva1dkY0YzUjkyWUVRclJmSXprUUk0anVLQTZZYWRSNWNJNjluMUNXa1ZSYi01RzBoT21HMC1TLUVDeU5LUTZWeWpl?oc=5",
       "date": "2026-08-17 19:16",
       "summary": "What Flock’s defenders are missing  MIT Technology Review..."
+    },
+    {
+      "title": "AI’s recursive self-improvement might not come so quickly after all - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWNWX2RNdmRxYTJQLWpLbGM4MUdPSm92N1N4UUlsRjl3X0YxeWhVVDAzV2gyZjhaVEYwSXkzZnFWQXZHdmotaHlOa0RtQ3Jna3otZW8wM3lmV040YUdmVGpaY0ozRTRLQW01Nmp0Vi04NjF5SlFZdXJxWTQ4V3NpMXFfRUlNeTQ4TmfSAY8BQVVfeXFMTy13dmNEYzFrSnZSNXFRRFdHZV9aYmltSzdWQ2YxZEVuNWs1RHRVUERZT2JXN21kTEdpbWZSV19IVFB4S1FYMkJndVUtamxITHVPaHp2VWkzZXBBaWtjVlEtajZGeV91SUhBd25WS3RoeDFOM0ltVTZ0Zko5Mm03akhxamRXbWFTQmU2MV9ZUVk?oc=5",
+      "date": "2026-08-18 09:00",
+      "summary": "AI’s recursive self-improvement might not come so quickly after all  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "More than half of adults in US say they lack basic statistical understanding",
-      "link": "https://phys.org/news/2026-08-adults-lack-basic-statistical.html",
-      "date": "2026-08-21 15:20",
-      "summary": "From the daily weather forecast to a baseball player's batting average to an individual's risk of developing lung cancer, understa..."
+      "title": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
+      "link": "https://phys.org/news/2026-08-stellar-eruptions-laboratory-experimental-evidence.html",
+      "date": "2026-08-21 16:20",
+      "summary": "An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic f..."
     },
     {
-      "title": "Study finds women build strong workplace friendships than men",
-      "link": "https://phys.org/news/2026-08-women-strong-workplace-friendships-men.html",
-      "date": "2026-08-21 15:20",
-      "summary": "Women are more likely to form close-knit friendship groups at work, a Durham University Business School study suggests. The findin..."
+      "title": "Young people who pass through youth justice die at six times the rate of their peers",
+      "link": "https://phys.org/news/2026-08-young-people-youth-justice-die.html",
+      "date": "2026-08-21 16:20",
+      "summary": "Conversations about the youth justice system typically focus on crime and punishment. In Australia, this has fueled increasingly p..."
     },
     {
-      "title": "Lab-grown brain models gain a sense of place",
-      "link": "https://phys.org/news/2026-08-lab-grown-brain-gain.html",
-      "date": "2026-08-21 15:00",
-      "summary": "The human brain is often described as one of the most complex structures in biology, and much of its power comes from how it's org..."
+      "title": "Mapping Indonesian seagrass quality to target blue carbon conservation",
+      "link": "https://phys.org/news/2026-08-indonesian-seagrass-quality-blue-carbon.html",
+      "date": "2026-08-21 16:00",
+      "summary": "Not all of Indonesia's seagrass meadows are faring alike. A study has revealed substantial spatial differences in the condition of..."
     },
     {
-      "title": "After a wildfire, Britain's moors and heaths can be green again within weeks—but the real recovery takes much longer",
-      "link": "https://phys.org/news/2026-08-wildfire-britain-heaths-green-weeks.html",
-      "date": "2026-08-21 15:00",
-      "summary": "Wildfires that have swept across Britain's upland moors and lowland heaths in unprecedented tinder-dry conditions have left behind..."
+      "title": "Stellar spin may explain why repeated black hole flares grow dimmer",
+      "link": "https://phys.org/news/2026-08-stellar-black-hole-flares-dimmer.html",
+      "date": "2026-08-21 16:00",
+      "summary": "At the center of most galaxies lies a supermassive black hole, with a mass millions to billions of times that of our sun and some ..."
     },
     {
-      "title": "We're building a New York‑sized city every month. That's worrying for our climate",
-      "link": "https://phys.org/news/2026-08-yorksized-city-month-climate.html",
-      "date": "2026-08-21 14:40",
-      "summary": "We each need a roof over our heads, classrooms to learn in and offices or spaces to work in. To meet this unprecedented demand for..."
+      "title": "Shark DNA could hold answers to how we age",
+      "link": "https://phys.org/news/2026-08-shark-dna-age.html",
+      "date": "2026-08-21 15:40",
+      "summary": "Age isn't just a number for one of the ocean's top apex predators. It's a mystery University of Georgia researchers are solving. A..."
     }
   ],
   "The Guardian Edu": [
     {
-      "title": "Labour stalling on Jackdaw and Rosebank because ‘heart’s not really in it’, says Badenoch – UK politics live",
+      "title": "Labour stalling on Jackdaw and Rosebank because ‘heart’s not really in it’, says Badenoch – as it happened",
       "link": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
-      "date": "2026-08-21 14:44",
-      "summary": "Conservative leader says it is essential decision on oil and gas fields made as soon as possible, despite widespread concerns abou..."
+      "date": "2026-08-21 15:54",
+      "summary": "This blog is now closed. See all our UK politics coverage hereAfter Emily Thornberry’s call for the government to ban goods from t..."
     },
     {
       "title": "I asked 13 college grads for dorm essentials that stood the test of time",
