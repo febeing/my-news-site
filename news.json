@@ -129,6 +129,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Defamation suit demanding Elsevier retract paper heads closer to trial",
+      "link": "https://retractionwatch.com/2026/08/21/defamation-lawsuit-elsevier-retraction-gps-air/",
+      "date": "2026-08-21 16:32",
+      "summary": "A trial date has been set in a $1 billion defamation case against Elsevier that alleges the company published what plaintiffs say ..."
+    },
+    {
       "title": "Ceramics journal pulls dozens of papers flagged for integrity concerns",
       "link": "https://retractionwatch.com/2026/08/20/ceramics-journal-pulls-dozens-of-papers-flagged-for-integrity-concerns/",
       "date": "2026-08-20 20:46",
@@ -151,12 +157,6 @@
       "link": "https://retractionwatch.com/2026/08/15/weekend-reads-jason-arday-research-gold-ai-openai-math-breakthroughs/",
       "date": "2026-08-15 10:00",
       "summary": "As we were assembling this week’s Weekend Reads, we learned the tragic news that former Cambridge professor Jason Arday had been f..."
-    },
-    {
-      "title": "Princeton student says she did not conduct the experiments described in her now-retracted paper",
-      "link": "https://retractionwatch.com/2026/08/14/princeton-rishika-porandla-macromolecular-materials-engineering-experiments-retraction/",
-      "date": "2026-08-14 14:43",
-      "summary": "Earlier this week, Retraction Watch reported on a Princeton student’s decision to retract her own paper from an engineering journa..."
     }
   ],
   "Reuters AI": [
@@ -217,13 +217,31 @@
       "summary": "What Flock’s defenders are missing  MIT Technology Review..."
     },
     {
-      "title": "AI’s recursive self-improvement might not come so quickly after all - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWNWX2RNdmRxYTJQLWpLbGM4MUdPSm92N1N4UUlsRjl3X0YxeWhVVDAzV2gyZjhaVEYwSXkzZnFWQXZHdmotaHlOa0RtQ3Jna3otZW8wM3lmV040YUdmVGpaY0ozRTRLQW01Nmp0Vi04NjF5SlFZdXJxWTQ4V3NpMXFfRUlNeTQ4TmfSAY8BQVVfeXFMTy13dmNEYzFrSnZSNXFRRFdHZV9aYmltSzdWQ2YxZEVuNWs1RHRVUERZT2JXN21kTEdpbWZSV19IVFB4S1FYMkJndVUtamxITHVPaHp2VWkzZXBBaWtjVlEtajZGeV91SUhBd25WS3RoeDFOM0ltVTZ0Zko5Mm03akhxamRXbWFTQmU2MV9ZUVk?oc=5",
-      "date": "2026-08-18 09:00",
-      "summary": "AI’s recursive self-improvement might not come so quickly after all  MIT Technology Review..."
+      "title": "Debates over AI consciousness are a trap - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkQ0M1dEaWxVMUptcDYxbDNOYVduQkdZRzd2SFAxUzk3VjlrZ2JoQ1c1UTluUUk0ZTlDSWJpdTFYYVNfSi11cm5QZXREYXd4S0FxMW45cXhRWHhwQ1RpNHVxZGpCZmVUZEpJLXo1dDRTVTZzSkdWZFluMlJXMlVZaVFDV28zSUlf0gGOAUFVX3lxTFA5NXJIVHliS3Y2QWxsa1A2VGhpVUVXYVAxaml0djFWTHlFYThSbENETEl0bE1YbElhU19qbm1SdzlvWUlleUI5VzlCMzBjNGR3YWVjZTNZY2JhcHJsY05xOFpENUxWQlU2aWVKRGhCb0lYTnlINFMxaTdwMkVDcGlaQ3Zrd3c5d3FFT0Vtcmc?oc=5",
+      "date": "2026-08-20 15:42",
+      "summary": "Debates over AI consciousness are a trap  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Realistic solid-state model brings fractons in quantum spin liquids closer to detection",
+      "link": "https://phys.org/news/2026-08-realistic-solid-state-fractons-quantum.html",
+      "date": "2026-08-21 19:20",
+      "summary": "Quasiparticles arise from the complex interaction of many particles in solids; for example, we describe lattice vibrations in crys..."
+    },
+    {
+      "title": "New ROOT method charts a path to reversing biological changes once thought irreversible",
+      "link": "https://phys.org/news/2026-08-root-method-path-reversing-biological.html",
+      "date": "2026-08-21 19:00",
+      "summary": "Once a cell has locked into an abnormal state—the way cancer cells do—can it ever be restored to normal? A KAIST research team led..."
+    },
+    {
+      "title": "Hidden chemical pathway could keep phosphorus from fueling lake algal blooms",
+      "link": "https://phys.org/news/2026-08-hidden-chemical-pathway-phosphorus-fueling.html",
+      "date": "2026-08-21 18:40",
+      "summary": "Why do some lakes remain plagued by harmful algal blooms even after phosphorus pollution has been reduced? Part of the answer lies..."
+    },
     {
       "title": "Ocean plankton reveal sugar-for-nutrients partnership that sustains life in barren seas",
       "link": "https://phys.org/news/2026-08-ocean-plankton-reveal-sugar-nutrients.html",
@@ -235,24 +253,6 @@
       "link": "https://phys.org/news/2026-08-uk-biggest-el-nino-hottest.html",
       "date": "2026-08-21 18:20",
       "summary": "This year's El Niño weather pattern will be the biggest in more than a century and could make 2027 the hottest year globally, Brit..."
-    },
-    {
-      "title": "First 15 days of egg development may determine survival for California's most endangered salmon",
-      "link": "https://phys.org/news/2026-08-days-egg-survival-california-endangered.html",
-      "date": "2026-08-21 18:00",
-      "summary": "Sacramento River winter-run Chinook salmon are California's most endangered salmon, with a single surviving population and an aver..."
-    },
-    {
-      "title": "Autonomous ship operators' liability remains unclear during oil spills",
-      "link": "https://phys.org/news/2026-08-autonomous-ship-liability-unclear-oil.html",
-      "date": "2026-08-21 18:00",
-      "summary": "If a remotely operated oil tanker causes a spill, the shipowner remains responsible for compensating victims under existing intern..."
-    },
-    {
-      "title": "Thunderquakes enable seismic imaging of Earth's shallow subsurface",
-      "link": "https://phys.org/news/2026-08-thunderquakes-enable-seismic-imaging-earth.html",
-      "date": "2026-08-21 18:00",
-      "summary": "Seismic waves produced by thunderstorms, called thunderquakes, can be used as a novel source for seismic imaging, according to a n..."
     }
   ],
   "The Guardian Edu": [
