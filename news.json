@@ -51,16 +51,16 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
-      "date": "2026-07-10 07:00",
-      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
-    },
-    {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+    },
+    {
+      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
+      "date": "2026-07-10 07:00",
+      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -103,6 +103,12 @@
       "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-xNature staff discuss how an FDA-approved drug for narcolep..."
     },
     {
+      "title": "Earth-shaking thunder probes underground geology",
+      "link": "https://www.nature.com/articles/d41586-026-02596-0",
+      "date": "2026-08-21 00:00",
+      "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0Seismologists measured the varying speeds of a ‘thunderqua..."
+    },
+    {
       "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
       "link": "https://www.nature.com/articles/d41586-026-02566-6",
       "date": "2026-08-21 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-11043-z",
       "date": "2026-08-20 00:00",
       "summary": "Nature, Published online: 20 August 2026; doi:10.1038/s41586-026-11043-zDialkyl ether synthesis through heteroatom homolytic subst..."
-    },
-    {
-      "title": "Hidden volcanoes hint at Moon’s turbulent past",
-      "link": "https://www.nature.com/articles/d41586-026-02555-9",
-      "date": "2026-08-20 00:00",
-      "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02555-9A pair of massive shield volcanoes have been pinpointed by..."
     }
   ],
   "Retraction Watch": [
@@ -161,16 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "AI reshapes India's IT services sector contracts as clients demand more for less - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUNrcEw1LWRMcThiZ3U3bzRtZ3ItREZlaXdRaEdWb3FfS09ndHZvcXhQMnlCWDVsLTAyUGNoQTM0TW9ESDVPbkxIaHRxTVFuZDRhYzlpR2Rxb2hiVnlDWHhMQ2F4NWx2c2k3VTZiOFZ3dFc4Z0lPOWVOM3k1d21wbGpJWWpTRGVFejRPdHpWdlhVSnJYQ0w1a1J3TDBmdGFKMExtZVM2c0w0ZTJrcV9HRTI4YjZPUUdnY2xjUg?oc=5",
-      "date": "2026-08-20 23:02",
-      "summary": "AI reshapes India's IT services sector contracts as clients demand more for less  Reuters..."
-    },
-    {
       "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
       "date": "2026-08-21 15:07",
       "summary": "US corporate AI debt surge tests investor limits as fatigue emerges  Reuters..."
+    },
+    {
+      "title": "AI reshapes India's IT services sector contracts as clients demand more for less - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUNrcEw1LWRMcThiZ3U3bzRtZ3ItREZlaXdRaEdWb3FfS09ndHZvcXhQMnlCWDVsLTAyUGNoQTM0TW9ESDVPbkxIaHRxTVFuZDRhYzlpR2Rxb2hiVnlDWHhMQ2F4NWx2c2k3VTZiOFZ3dFc4Z0lPOWVOM3k1d21wbGpJWWpTRGVFejRPdHpWdlhVSnJYQ0w1a1J3TDBmdGFKMExtZVM2c0w0ZTJrcV9HRTI4YjZPUUdnY2xjUg?oc=5",
+      "date": "2026-08-20 23:02",
+      "summary": "AI reshapes India's IT services sector contracts as clients demand more for less  Reuters..."
     },
     {
       "title": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt - Reuters",
@@ -185,10 +185,10 @@
       "summary": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports  Reuters..."
     },
     {
-      "title": "Nvidia denies report it is rolling out China AI chip by year-end - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
-      "date": "2026-08-20 20:16",
-      "summary": "Nvidia denies report it is rolling out China AI chip by year-end  Reuters..."
+      "title": "Anthropic plans to change enterprise data retention policy, source says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDlfRWVSb2Q5ZEhuaWFqdHR3WThoM2tOalBxeW91VEZGZWgzTUNJZF9NZUxFTmhINXlHS1V3YlZvTXAtNExsT3JtaTdmajA2UlZvYUtOOTI4ZEtBRFIzYTVBNl9nRUhzVUFybmZfX3BIVjd4aDJMM1hpUXQtMC1lZzZXR0k2c3poNlUtUWl0RGZ5NzhNSmtaTzI2NmF0QU54WWZvYVhzREpmanpmN2lfNHh3?oc=5",
+      "date": "2026-08-20 19:34",
+      "summary": "Anthropic plans to change enterprise data retention policy, source says  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
+      "title": "Scientists map hair follicle formation in spacetime, advancing understanding of how organs develop",
+      "link": "https://phys.org/news/2026-08-scientists-hair-follicle-formation-spacetime.html",
+      "date": "2026-08-21 20:20",
+      "summary": "In a new research report, scientists at Johns Hopkins Medicine say they have developed a technology that allows them to capture a ..."
+    },
+    {
+      "title": "Inside the race to prepare cities for extreme heat",
+      "link": "https://phys.org/news/2026-08-cities-extreme.html",
+      "date": "2026-08-21 20:00",
+      "summary": "A sea of corrugated metal roofs stretches into the distance across an informal settlement in Makassar, Indonesia...."
+    },
+    {
+      "title": "Iron hydride enters an exotic state of matter under Earth's inner-core conditions",
+      "link": "https://phys.org/news/2026-08-iron-hydride-exotic-state-earth.html",
+      "date": "2026-08-21 20:00",
+      "summary": "Earth's inner core, composed primarily of iron with a small percentage of light elements, may enter a superionic state at extreme ..."
+    },
+    {
+      "title": "New Monte Carlo method accelerates simulations of densely entangled polymer melts",
+      "link": "https://phys.org/news/2026-08-monte-carlo-method-simulations-densely.html",
+      "date": "2026-08-21 19:40",
+      "summary": "Long polymer chains are everywhere: in synthetic materials, soft matter, biological systems such as chromosomes, and mathematical ..."
+    },
+    {
       "title": "Realistic solid-state model brings fractons in quantum spin liquids closer to detection",
       "link": "https://phys.org/news/2026-08-realistic-solid-state-fractons-quantum.html",
       "date": "2026-08-21 19:20",
       "summary": "Quasiparticles arise from the complex interaction of many particles in solids; for example, we describe lattice vibrations in crys..."
-    },
-    {
-      "title": "New ROOT method charts a path to reversing biological changes once thought irreversible",
-      "link": "https://phys.org/news/2026-08-root-method-path-reversing-biological.html",
-      "date": "2026-08-21 19:00",
-      "summary": "Once a cell has locked into an abnormal state—the way cancer cells do—can it ever be restored to normal? A KAIST research team led..."
-    },
-    {
-      "title": "Hidden chemical pathway could keep phosphorus from fueling lake algal blooms",
-      "link": "https://phys.org/news/2026-08-hidden-chemical-pathway-phosphorus-fueling.html",
-      "date": "2026-08-21 18:40",
-      "summary": "Why do some lakes remain plagued by harmful algal blooms even after phosphorus pollution has been reduced? Part of the answer lies..."
-    },
-    {
-      "title": "Ocean plankton reveal sugar-for-nutrients partnership that sustains life in barren seas",
-      "link": "https://phys.org/news/2026-08-ocean-plankton-reveal-sugar-nutrients.html",
-      "date": "2026-08-21 18:20",
-      "summary": "In the vast, nutrient-poor regions of the world's oceans, there is a constant struggle for survival. Yet tiny organisms known as C..."
-    },
-    {
-      "title": "UK forecasts 'biggest' El Nino will smash records, spark hottest year",
-      "link": "https://phys.org/news/2026-08-uk-biggest-el-nino-hottest.html",
-      "date": "2026-08-21 18:20",
-      "summary": "This year's El Niño weather pattern will be the biggest in more than a century and could make 2027 the hottest year globally, Brit..."
     }
   ],
   "The Guardian Edu": [
