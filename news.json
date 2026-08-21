@@ -161,12 +161,6 @@
   ],
   "Reuters AI": [
     {
-      "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
-      "date": "2026-08-21 15:07",
-      "summary": "US corporate AI debt surge tests investor limits as fatigue emerges  Reuters..."
-    },
-    {
       "title": "AI reshapes India's IT services sector contracts as clients demand more for less - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUNrcEw1LWRMcThiZ3U3bzRtZ3ItREZlaXdRaEdWb3FfS09ndHZvcXhQMnlCWDVsLTAyUGNoQTM0TW9ESDVPbkxIaHRxTVFuZDRhYzlpR2Rxb2hiVnlDWHhMQ2F4NWx2c2k3VTZiOFZ3dFc4Z0lPOWVOM3k1d21wbGpJWWpTRGVFejRPdHpWdlhVSnJYQ0w1a1J3TDBmdGFKMExtZVM2c0w0ZTJrcV9HRTI4YjZPUUdnY2xjUg?oc=5",
       "date": "2026-08-20 23:02",
@@ -177,6 +171,12 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRG1ONC11bUpzNWFwMGdRbVVUM0ZHb0l0VHJfU0dsYi1KdmxTZVRnRllWaDE2MkZtSFExX0U5MGtGRFpkOGFYZmY1OHJtMEV4UG9MVUlfc3hUQ2dMTlJOZ2d0R3cwZjB4OFkxbW1rNHhaNEt0alp6RGdGVTRJb201WWloTTR3Y2hKVVdzN0paZXFEUmVmQl9VeHFqZ1dyQQ?oc=5",
       "date": "2026-08-20 10:05",
       "summary": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt  Reuters..."
+    },
+    {
+      "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
+      "date": "2026-08-21 15:07",
+      "summary": "US corporate AI debt surge tests investor limits as fatigue emerges  Reuters..."
     },
     {
       "title": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports - Reuters",
@@ -211,48 +211,48 @@
       "summary": "When AI designs a drug, who gets the credit?  MIT Technology Review..."
     },
     {
-      "title": "What Flock’s defenders are missing - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGU0OFdqTW5qWlhIQVhRemVqcW5xTW9zdFQxeXhzdVNReVZ3eDU5OVlYclhZZjNaOFBlZDRqcklJT1MwSzFTZ1ZrTXU1ZHNfUUJlTFFnNS11eHdOTzg2S2trQjlaaTRIZ3p5Y0NpWWYwOERtVlNwZmdZaHBXd2F4c3FTbVNCeGJfX1F3VUEwMNIBlAFBVV95cUxNdUNySW5kLXJBYVNONGZjcjRMb0ZFR3V6QTBXWEs4Y3JlbzluMkpILXVfS2NxMHlhSUk3VlQ3enFWY1FmZjdmcEY4bXhnZlJ0RDRva1dkY0YzUjkyWUVRclJmSXprUUk0anVLQTZZYWRSNWNJNjluMUNXa1ZSYi01RzBoT21HMC1TLUVDeU5LUTZWeWpl?oc=5",
-      "date": "2026-08-17 19:16",
-      "summary": "What Flock’s defenders are missing  MIT Technology Review..."
-    },
-    {
       "title": "Debates over AI consciousness are a trap - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkQ0M1dEaWxVMUptcDYxbDNOYVduQkdZRzd2SFAxUzk3VjlrZ2JoQ1c1UTluUUk0ZTlDSWJpdTFYYVNfSi11cm5QZXREYXd4S0FxMW45cXhRWHhwQ1RpNHVxZGpCZmVUZEpJLXo1dDRTVTZzSkdWZFluMlJXMlVZaVFDV28zSUlf0gGOAUFVX3lxTFA5NXJIVHliS3Y2QWxsa1A2VGhpVUVXYVAxaml0djFWTHlFYThSbENETEl0bE1YbElhU19qbm1SdzlvWUlleUI5VzlCMzBjNGR3YWVjZTNZY2JhcHJsY05xOFpENUxWQlU2aWVKRGhCb0lYTnlINFMxaTdwMkVDcGlaQ3Zrd3c5d3FFT0Vtcmc?oc=5",
       "date": "2026-08-20 15:42",
       "summary": "Debates over AI consciousness are a trap  MIT Technology Review..."
+    },
+    {
+      "title": "What Flock’s defenders are missing - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGU0OFdqTW5qWlhIQVhRemVqcW5xTW9zdFQxeXhzdVNReVZ3eDU5OVlYclhZZjNaOFBlZDRqcklJT1MwSzFTZ1ZrTXU1ZHNfUUJlTFFnNS11eHdOTzg2S2trQjlaaTRIZ3p5Y0NpWWYwOERtVlNwZmdZaHBXd2F4c3FTbVNCeGJfX1F3VUEwMNIBlAFBVV95cUxNdUNySW5kLXJBYVNONGZjcjRMb0ZFR3V6QTBXWEs4Y3JlbzluMkpILXVfS2NxMHlhSUk3VlQ3enFWY1FmZjdmcEY4bXhnZlJ0RDRva1dkY0YzUjkyWUVRclJmSXprUUk0anVLQTZZYWRSNWNJNjluMUNXa1ZSYi01RzBoT21HMC1TLUVDeU5LUTZWeWpl?oc=5",
+      "date": "2026-08-17 19:16",
+      "summary": "What Flock’s defenders are missing  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Climate change could triple the price of wheat",
+      "link": "https://phys.org/news/2026-08-climate-triple-price-wheat.html",
+      "date": "2026-08-21 21:20",
+      "summary": "Bread, pasta and breakfast cereals may seem far removed from dry fields in North America, Europe or Asia. Yet when water shortages..."
+    },
+    {
+      "title": "Your high school friends may shape whether you become an entrepreneur decades later",
+      "link": "https://phys.org/news/2026-08-high-school-friends-entrepreneur-decades.html",
+      "date": "2026-08-21 21:00",
+      "summary": "With more young Canadians considering self-employment amid a high youth unemployment rate, entrepreneurship programs are facing gr..."
+    },
+    {
+      "title": "Complex odors prove easier to map than expected with machine learning",
+      "link": "https://phys.org/news/2026-08-complex-odors-easier-machine.html",
+      "date": "2026-08-21 21:00",
+      "summary": "If you want to describe a particular color, you could look to the Pantone color wheel to find its exact hue, saturation and bright..."
+    },
+    {
+      "title": "Laser-cut aluminum foil could replace costly terahertz polarizers",
+      "link": "https://phys.org/news/2026-08-laser-aluminum-foil-terahertz-polarizers.html",
+      "date": "2026-08-21 20:40",
+      "summary": "When physicists at the ARC Centre for Transformative Meta-Optical Systems (TMOS) needed a key component for their terahertz experi..."
+    },
     {
       "title": "Scientists map hair follicle formation in spacetime, advancing understanding of how organs develop",
       "link": "https://phys.org/news/2026-08-scientists-hair-follicle-formation-spacetime.html",
       "date": "2026-08-21 20:20",
       "summary": "In a new research report, scientists at Johns Hopkins Medicine say they have developed a technology that allows them to capture a ..."
-    },
-    {
-      "title": "Inside the race to prepare cities for extreme heat",
-      "link": "https://phys.org/news/2026-08-cities-extreme.html",
-      "date": "2026-08-21 20:00",
-      "summary": "A sea of corrugated metal roofs stretches into the distance across an informal settlement in Makassar, Indonesia...."
-    },
-    {
-      "title": "Iron hydride enters an exotic state of matter under Earth's inner-core conditions",
-      "link": "https://phys.org/news/2026-08-iron-hydride-exotic-state-earth.html",
-      "date": "2026-08-21 20:00",
-      "summary": "Earth's inner core, composed primarily of iron with a small percentage of light elements, may enter a superionic state at extreme ..."
-    },
-    {
-      "title": "New Monte Carlo method accelerates simulations of densely entangled polymer melts",
-      "link": "https://phys.org/news/2026-08-monte-carlo-method-simulations-densely.html",
-      "date": "2026-08-21 19:40",
-      "summary": "Long polymer chains are everywhere: in synthetic materials, soft matter, biological systems such as chromosomes, and mathematical ..."
-    },
-    {
-      "title": "Realistic solid-state model brings fractons in quantum spin liquids closer to detection",
-      "link": "https://phys.org/news/2026-08-realistic-solid-state-fractons-quantum.html",
-      "date": "2026-08-21 19:20",
-      "summary": "Quasiparticles arise from the complex interaction of many particles in solids; for example, we describe lattice vibrations in crys..."
     }
   ],
   "The Guardian Edu": [
