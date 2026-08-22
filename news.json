@@ -57,10 +57,10 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
+      "date": "2026-07-10 07:00",
+      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -225,6 +225,12 @@
   ],
   "Phys.org": [
     {
+      "title": "The dynamic duo: 'Weaving' hierarchical DNA materials with two classes of biomolecular nanomachines",
+      "link": "https://phys.org/news/2026-08-dynamic-duo-hierarchical-dna-materials.html",
+      "date": "2026-08-22 19:00",
+      "summary": "Biomolecular nanomachines, such as enzymes and molecular motors, are the workhorses behind the synthesis and organization of compl..."
+    },
+    {
       "title": "Mars Curiosity rover discovers massive field of polygons",
       "link": "https://phys.org/news/2026-08-mars-curiosity-rover-massive-field.html",
       "date": "2026-08-22 18:00",
@@ -247,12 +253,6 @@
       "link": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html",
       "date": "2026-08-22 15:40",
       "summary": "Precise activation of tens of thousands of genes is critical for healthy development and growth. Specialized segments of our DNA a..."
-    },
-    {
-      "title": "Arctic shipping a daunting prospect in hotly contested region",
-      "link": "https://phys.org/news/2026-08-arctic-shipping-daunting-prospect-hotly.html",
-      "date": "2026-08-22 15:30",
-      "summary": "With Gulf turmoil slashing Suez Canal traffic, shipping firms are tempted to try the Arctic for quicker trips between Europe and A..."
     }
   ],
   "The Guardian Edu": [
