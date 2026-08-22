@@ -65,16 +65,16 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford could face DOJ scrutiny over foreign donations - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YU1lxcEtQenUybDJKRF9fbWhlMHdZb2Raa0p5dFJRdTA0YTMzcGVheWNDdmJsdVdHWU1nQVV5eHo4ODBJbU5xUWE3LWk2VmRRS3BJV1RhNGJhbXYtLUZDemJ6c1FUVmp1Q2ZES3FJNFRwdFNjZFdCREVjYw?oc=5",
-      "date": "2026-08-20 04:36",
-      "summary": "Stanford could face DOJ scrutiny over foreign donations  The Stanford Daily..."
-    },
-    {
       "title": "Stanford professors share 3 questions to help you decide where to take your life next - Upworthy",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUV5ajBuN2YtUk1JNXlDUUE4ZlNKUEx3R3I2UmRHVjNIQ1l3Z3lkOHJpNE1QVHB2ZVk3Qlp3d0xvd2FYX1VCTnQwMFUxZDJJRk1RMDVoTXhodjFoa0psRGtHXy1oUzBwLXhOTk04QzJnNEhtSy1IdUJVemlSY2ZkWjdublBJRlAxRExDcWtIMlRwSlkxVlprVGozUjE0RDRIUFZmVlk2VXRaT0dRRjdpaQ?oc=5",
       "date": "2026-08-21 22:24",
       "summary": "Stanford professors share 3 questions to help you decide where to take your life next  Upworthy..."
+    },
+    {
+      "title": "Stanford could face DOJ scrutiny over foreign donations - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YU1lxcEtQenUybDJKRF9fbWhlMHdZb2Raa0p5dFJRdTA0YTMzcGVheWNDdmJsdVdHWU1nQVV5eHo4ODBJbU5xUWE3LWk2VmRRS3BJV1RhNGJhbXYtLUZDemJ6c1FUVmp1Q2ZES3FJNFRwdFNjZFdCREVjYw?oc=5",
+      "date": "2026-08-20 04:36",
+      "summary": "Stanford could face DOJ scrutiny over foreign donations  The Stanford Daily..."
     },
     {
       "title": "An AI Playground for the Courts - Stanford Law School",
@@ -161,6 +161,12 @@
   ],
   "Reuters AI": [
     {
+      "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
+      "date": "2026-08-21 15:07",
+      "summary": "US corporate AI debt surge tests investor limits as fatigue emerges  Reuters..."
+    },
+    {
       "title": "AI reshapes India's IT services sector contracts as clients demand more for less - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUNrcEw1LWRMcThiZ3U3bzRtZ3ItREZlaXdRaEdWb3FfS09ndHZvcXhQMnlCWDVsLTAyUGNoQTM0TW9ESDVPbkxIaHRxTVFuZDRhYzlpR2Rxb2hiVnlDWHhMQ2F4NWx2c2k3VTZiOFZ3dFc4Z0lPOWVOM3k1d21wbGpJWWpTRGVFejRPdHpWdlhVSnJYQ0w1a1J3TDBmdGFKMExtZVM2c0w0ZTJrcV9HRTI4YjZPUUdnY2xjUg?oc=5",
       "date": "2026-08-20 23:02",
@@ -171,12 +177,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRG1ONC11bUpzNWFwMGdRbVVUM0ZHb0l0VHJfU0dsYi1KdmxTZVRnRllWaDE2MkZtSFExX0U5MGtGRFpkOGFYZmY1OHJtMEV4UG9MVUlfc3hUQ2dMTlJOZ2d0R3cwZjB4OFkxbW1rNHhaNEt0alp6RGdGVTRJb201WWloTTR3Y2hKVVdzN0paZXFEUmVmQl9VeHFqZ1dyQQ?oc=5",
       "date": "2026-08-20 10:05",
       "summary": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt  Reuters..."
-    },
-    {
-      "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
-      "date": "2026-08-21 15:07",
-      "summary": "US corporate AI debt surge tests investor limits as fatigue emerges  Reuters..."
     },
     {
       "title": "Ex-Google engineer's conviction for stealing AI secrets partially overturned - Reuters",
@@ -211,16 +211,16 @@
       "summary": "The Download: threats from space mirrors and credit for AI drugs  MIT Technology Review..."
     },
     {
-      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYzNVWTJZaEJLVW9oaWtMbDRzRng1ZDFQb0V3X2lWZ0FrTl95NmdYcUo4ZDR6Tzd4WERDWjlxaHlqbGQ1ZUw4V2ZueUVDei1PUzliQTFzUzFFZ1lKQ1ptM1J3RzVPYUxETmd3UUVDRDZlSTQ5dGl6S1ZuTmdxRlJvTHlR0gGHAUFVX3lxTE9FQW5xNzdPdVdWTFA5SUlMRmNxMzg2eGgxOWJ4THRtLXc1Vkk3SEgwUG0xc3dkMElOSFVMTENIeEJ0aEpxZkRUandPMlFZanVsU21WVURRWDVjeURveFc3RzgwVjlhUDZKVnpHU2RoR29sWlp1dzdNenZSUnlIYmpSNVhESkdncw?oc=5",
-      "date": "2026-08-21 09:00",
-      "summary": "This company’s plans to deploy space mirrors could jeopardize the night sky for many  MIT Technology Review..."
-    },
-    {
       "title": "Debates over AI consciousness are a trap - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkQ0M1dEaWxVMUptcDYxbDNOYVduQkdZRzd2SFAxUzk3VjlrZ2JoQ1c1UTluUUk0ZTlDSWJpdTFYYVNfSi11cm5QZXREYXd4S0FxMW45cXhRWHhwQ1RpNHVxZGpCZmVUZEpJLXo1dDRTVTZzSkdWZFluMlJXMlVZaVFDV28zSUlf0gGOAUFVX3lxTFA5NXJIVHliS3Y2QWxsa1A2VGhpVUVXYVAxaml0djFWTHlFYThSbENETEl0bE1YbElhU19qbm1SdzlvWUlleUI5VzlCMzBjNGR3YWVjZTNZY2JhcHJsY05xOFpENUxWQlU2aWVKRGhCb0lYTnlINFMxaTdwMkVDcGlaQ3Zrd3c5d3FFT0Vtcmc?oc=5",
       "date": "2026-08-20 15:42",
       "summary": "Debates over AI consciousness are a trap  MIT Technology Review..."
+    },
+    {
+      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYzNVWTJZaEJLVW9oaWtMbDRzRng1ZDFQb0V3X2lWZ0FrTl95NmdYcUo4ZDR6Tzd4WERDWjlxaHlqbGQ1ZUw4V2ZueUVDei1PUzliQTFzUzFFZ1lKQ1ptM1J3RzVPYUxETmd3UUVDRDZlSTQ5dGl6S1ZuTmdxRlJvTHlR0gGHAUFVX3lxTE9FQW5xNzdPdVdWTFA5SUlMRmNxMzg2eGgxOWJ4THRtLXc1Vkk3SEgwUG0xc3dkMElOSFVMTENIeEJ0aEpxZkRUandPMlFZanVsU21WVURRWDVjeURveFc3RzgwVjlhUDZKVnpHU2RoR29sWlp1dzdNenZSUnlIYmpSNVhESkdncw?oc=5",
+      "date": "2026-08-21 09:00",
+      "summary": "This company’s plans to deploy space mirrors could jeopardize the night sky for many  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Labour unions call for mandatory heatstroke-prevention equipment for workers",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3364904/labour-unions-call-mandatory-heatstroke-prevention-equipment-workers?utm_source=rss_feed",
+      "date": "2026-08-22 05:29",
+      "summary": "Hong Kong labour unionists have called for employers to be required to provide outdoor workers with heatstroke-prevention equipmen..."
+    },
+    {
       "title": "Hong Kong to assess typhoon warning as Tropical Storm Narra nears Guangdong coast",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3364900/hong-kong-assess-typhoon-warning-tropical-storm-narra-nears-guangdong-coast?utm_source=rss_feed",
       "date": "2026-08-22 03:58",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3364876/quota-set-visitors-popular-sai-kung-coastal-trail-first-hong-kong?utm_source=rss_feed",
       "date": "2026-08-21 12:40",
       "summary": "Hong Kong authorities will cap access to a popular Sai Kung trail overlooking hexagonal rock columns at 2,000 people per day durin..."
-    },
-    {
-      "title": "Cockroaches, frozen rats among 118kg of pests, pet food seized in Hong Kong",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364875/cockroaches-frozen-rats-among-118kg-pests-pet-food-seized-hong-kong?utm_source=rss_feed",
-      "date": "2026-08-21 12:32",
-      "summary": "Smuggled cockroaches, frozen domestic rats and mealworms were among a haul of pests seized at a border checkpoint in Hong Kong, wi..."
     }
   ]
 }
