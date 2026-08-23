@@ -65,12 +65,6 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford professors share 3 questions to help you decide where to take your life next - Upworthy",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUV5ajBuN2YtUk1JNXlDUUE4ZlNKUEx3R3I2UmRHVjNIQ1l3Z3lkOHJpNE1QVHB2ZVk3Qlp3d0xvd2FYX1VCTnQwMFUxZDJJRk1RMDVoTXhodjFoa0psRGtHXy1oUzBwLXhOTk04QzJnNEhtSy1IdUJVemlSY2ZkWjdublBJRlAxRExDcWtIMlRwSlkxVlprVGozUjE0RDRIUFZmVlk2VXRaT0dRRjdpaQ?oc=5",
-      "date": "2026-08-21 22:24",
-      "summary": "Stanford professors share 3 questions to help you decide where to take your life next  Upworthy..."
-    },
-    {
       "title": "Phoebe Gates took a secret Stanford class on how to ‘rule the world’—and reportedly recruited employees for her startup accused of wire fraud - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjlhMnZJZ3d4Sy1mdmNlbm1TcGFRZ3hqLThUUGtSMWU2Ri1kUVNEdFJyOVVfVHVSbnVRUWppUHItd0Fpc3Z0ZGZNTS1FdDhFbzE5b0o3QUFOQzhuRC1QZS02OVBocUJ1MXFNUkxXbDhYSG1nQTJvdTdvakpQd2VoWHZRSTl6ajN4N3g1UHlDdEhTTjdJVjFKRUZESllOcXM?oc=5",
       "date": "2026-08-21 18:04",
@@ -89,10 +83,16 @@
       "summary": "Stanford’s defense takes on a new attitude under ex-NFL coordinator Kris Richard  Santa Cruz Sentinel..."
     },
     {
-      "title": "Stanford could face DOJ scrutiny over foreign donations - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YU1lxcEtQenUybDJKRF9fbWhlMHdZb2Raa0p5dFJRdTA0YTMzcGVheWNDdmJsdVdHWU1nQVV5eHo4ODBJbU5xUWE3LWk2VmRRS3BJV1RhNGJhbXYtLUZDemJ6c1FUVmp1Q2ZES3FJNFRwdFNjZFdCREVjYw?oc=5",
-      "date": "2026-08-20 04:36",
-      "summary": "Stanford could face DOJ scrutiny over foreign donations  The Stanford Daily..."
+      "title": "Doyle to Join Lacrosse Staff - Stanford Cardinal",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50cjhhcVZuOTV1ZmNOUVlmU1UyaGxNUlJNb3htdDVpajRkXzl5dVhEdE9udER2ZE5ZWTZ2aE9LbFJPUl81aDRxcVZkZFBVQmZRV1M0aHhfVHRiUDFaV29paUVKY1prcEt6UldlUXpDcExkanhvaWc?oc=5",
+      "date": "2026-08-22 00:08",
+      "summary": "Doyle to Join Lacrosse Staff  Stanford Cardinal..."
+    },
+    {
+      "title": "AI designs a novel E. coli killer - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRE1RNTdCb2xEMEtvS1dJWldRNXg4U1Z5Y2YwcTVocWlyMjkzQ3RQaUZtUVlSc0xpanl5eGxjeU9aZl9RczRZVFk0cGZDU2sybVJIM0J2RjFTOHVjNzBJVGczbTdXclh1TzdlME5McmpwR3lGaWVjVTBHRlVXNEloN2pwTUZIY3hBU0k0VQ?oc=5",
+      "date": "2026-08-06 07:00",
+      "summary": "AI designs a novel E. coli killer  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -161,10 +161,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRG1ONC11bUpzNWFwMGdRbVVUM0ZHb0l0VHJfU0dsYi1KdmxTZVRnRllWaDE2MkZtSFExX0U5MGtGRFpkOGFYZmY1OHJtMEV4UG9MVUlfc3hUQ2dMTlJOZ2d0R3cwZjB4OFkxbW1rNHhaNEt0alp6RGdGVTRJb201WWloTTR3Y2hKVVdzN0paZXFEUmVmQl9VeHFqZ1dyQQ?oc=5",
-      "date": "2026-08-20 10:05",
-      "summary": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt  Reuters..."
+      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
+      "date": "2026-08-22 20:00",
+      "summary": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports  Reuters..."
     },
     {
       "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
@@ -173,16 +173,16 @@
       "summary": "US corporate AI debt surge tests investor limits as fatigue emerges  Reuters..."
     },
     {
+      "title": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRG1ONC11bUpzNWFwMGdRbVVUM0ZHb0l0VHJfU0dsYi1KdmxTZVRnRllWaDE2MkZtSFExX0U5MGtGRFpkOGFYZmY1OHJtMEV4UG9MVUlfc3hUQ2dMTlJOZ2d0R3cwZjB4OFkxbW1rNHhaNEt0alp6RGdGVTRJb201WWloTTR3Y2hKVVdzN0paZXFEUmVmQl9VeHFqZ1dyQQ?oc=5",
+      "date": "2026-08-20 10:05",
+      "summary": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt  Reuters..."
+    },
+    {
       "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
       "date": "2026-08-23 04:47",
       "summary": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending  Reuters..."
-    },
-    {
-      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
-      "date": "2026-08-22 20:00",
-      "summary": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports  Reuters..."
     },
     {
       "title": "AI reshapes India's IT services sector contracts as clients demand more for less - Reuters",
@@ -225,6 +225,12 @@
   ],
   "Phys.org": [
     {
+      "title": "The superconducting gap of an ultrathin nickelate defies expectations",
+      "link": "https://phys.org/news/2026-08-superconducting-gap-ultrathin-nickelate-defies.html",
+      "date": "2026-08-23 14:10",
+      "summary": "Superconductors are materials that carry electrical current with zero resistance below a specific critical temperature. In convent..."
+    },
+    {
       "title": "Quantum computer microscope is set to significantly improve electron microscopy",
       "link": "https://phys.org/news/2026-08-quantum-microscope-significantly-electron-microscopy.html",
       "date": "2026-08-23 13:00",
@@ -247,12 +253,6 @@
       "link": "https://phys.org/news/2026-08-catalysts-fossil-fueled-ammonia-production.html",
       "date": "2026-08-22 21:00",
       "summary": "Ammonia is one of the most important chemicals produced in the world, ranking second only to sulfuric acid in the total volume pro..."
-    },
-    {
-      "title": "The dynamic duo: 'Weaving' hierarchical DNA materials with two classes of biomolecular nanomachines",
-      "link": "https://phys.org/news/2026-08-dynamic-duo-hierarchical-dna-materials.html",
-      "date": "2026-08-22 19:00",
-      "summary": "Biomolecular nanomachines, such as enzymes and molecular motors, are the workhorses behind the synthesis and organization of compl..."
     }
   ],
   "The Guardian Edu": [
