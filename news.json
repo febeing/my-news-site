@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Language skills stay strong in older adults, even while other cognitive abilities decline",
+      "link": "https://news.mit.edu/2026/language-skills-stay-strong-older-adults-even-while-other-cognitive-abilities-decline-0824",
+      "date": "2026-08-24 09:00",
+      "summary": "MIT researchers find that activity in the brain’s language network is nearly identical in young and old people...."
+    },
+    {
       "title": "The importance of indoor airflow patterns in spreading airborne disease",
       "link": "https://news.mit.edu/2026/indoor-airflow-patterns-importance-spreading-airborne-disease-0821",
       "date": "2026-08-21 16:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/how-toxoplasma-parasite-adapts-to-crowded-host-cell-conditions-0819",
       "date": "2026-08-19 17:50",
       "summary": "A new study by Whitehead Institute researchers identifies how the widespread parasite Toxoplasma gondii survives in crowded enviro..."
-    },
-    {
-      "title": "Securing wireless communication in next-generation devices",
-      "link": "https://news.mit.edu/2026/securing-wireless-communication-next-generation-devices-0819",
-      "date": "2026-08-19 09:00",
-      "summary": "A new, scalable technique could enable powerful radars and sensors based on quantum technology that works at room temperature...."
     }
   ],
   "Harvard Gazette": [
@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
+      "link": "https://www.nature.com/articles/d41586-026-02616-z",
+      "date": "2026-08-24 00:00",
+      "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02616-zInjection of a person’s own mitochondria into the retina w..."
+    },
+    {
       "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
       "link": "https://www.nature.com/articles/d41586-026-02626-x",
       "date": "2026-08-21 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02352-4",
       "date": "2026-08-21 00:00",
       "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4The case is the latest example of a scientific workhorse b..."
-    },
-    {
-      "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
-      "link": "https://www.nature.com/articles/s41586-026-11043-z",
-      "date": "2026-08-20 00:00",
-      "summary": "Nature, Published online: 20 August 2026; doi:10.1038/s41586-026-11043-zDialkyl ether synthesis through heteroatom homolytic subst..."
     }
   ],
   "Retraction Watch": [
@@ -167,10 +167,16 @@
       "summary": "AI reshapes India's IT services sector contracts as clients demand more for less  Reuters..."
     },
     {
-      "title": "Taiwan indicts nine over alleged illegal export of AI servers to China - Reuters",
+      "title": "Alibaba launches Wan3.0 AI video model after $10 billion share sale - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf?oc=5",
+      "date": "2026-08-24 08:23",
+      "summary": "Alibaba launches Wan3.0 AI video model after $10 billion share sale  Reuters..."
+    },
+    {
+      "title": "Taiwan issues indictments over alleged illegal export of AI servers to China - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
       "date": "2026-08-24 06:25",
-      "summary": "Taiwan indicts nine over alleged illegal export of AI servers to China  Reuters..."
+      "summary": "Taiwan issues indictments over alleged illegal export of AI servers to China  Reuters..."
     },
     {
       "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters",
@@ -183,15 +189,15 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
       "date": "2026-08-22 20:00",
       "summary": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports  Reuters..."
-    },
-    {
-      "title": "South Korea plans chip windfall fund to back youth, AI investment - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWx2Uko2TGV3T04xUFk4dXpjR1Y2V2FDQ295Rm5ydHNSYUdKcWFWM1daM3VuWkdveFl2MTNiY19hdmhVUTBud3cyR3A1YmtGd0licHpNN2xoWmdTeE85WTRyVW9OWVd4Vi01bERRWGtvbzNJaDY4VUlETEcwMzZYMW1DLTBPWXQ3MUFoSUFXSVNzSnlpdFAyOWdPZlNLZHBuZERhTkpmTFNCVEhGTU5NUjl1RldmR28?oc=5",
-      "date": "2026-08-21 04:11",
-      "summary": "South Korea plans chip windfall fund to back youth, AI investment  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "Kids outlearn AI—and we still don’t know why - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanVUbG5NampKTmxSNlJnVXBnc2dnX3Z5ekotOHBGSjVVZHh0N2RnNTEtdkd3NlJzNmwyTk5zTlg4TE9CSmktUWpMc3FUcFZReW1yTDdvZnJpNTFtNms0MFNHSTdmTklUMHFEVEhvanA5SmRyNnVkbmRpVXZWTFF6V2hTLVlmdVJIamY1UNIBkgFBVV95cUxPWHFnMFM0R1ZBOWdsOUprbWJrWDczT2VuLVVGdXlPZFp5bFpJenA3TXN3dVZRX3duTm9Jd210SWhWeHZmdWZSaU5fYzBicUNWb0x0YW9RbVZoa2VDS1hrd0R6d3BYT2tQTUZnYmM0cWE2R0hUemdJdzl6Z29CSWhqdHdyTmNYVXRYOGt2aFptMkdYUQ?oc=5",
+      "date": "2026-08-24 09:00",
+      "summary": "Kids outlearn AI—and we still don’t know why  MIT Technology Review..."
+    },
     {
       "title": "We still don’t know how people are really using AI - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQkFLNWNOVndnMUZHN0ZiNHp2ODVoNUFRMDNSRGJuR1FiOE1qTTdQZFI1WEg0LWJ0TjJHaWtOdEVUSzdmZjRDSFN1QmxIeGdTZlJGNjlaZ3dpNGRuOE5xT1g3R1VXbURweThZRmtBSHhlR1lOR0Zaai1R0gF_QVVfeXFMUHRtMk1yNmFCRWVjb2o5MzZUQlZnNUFfLTZ2WkQ3eFdXa1RDLTFjaGE3UnJpX0hEbHN2NVZoQVpVOWROcUlMNVZaSG9DaXd2dkFEc3JQZWFsNDc0LWRSb09sdlAzSUpXNnpneWY5VWJvUWRkMHpZYmFpam1nXzJIWQ?oc=5",
@@ -215,15 +221,21 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWNWX2RNdmRxYTJQLWpLbGM4MUdPSm92N1N4UUlsRjl3X0YxeWhVVDAzV2gyZjhaVEYwSXkzZnFWQXZHdmotaHlOa0RtQ3Jna3otZW8wM3lmV040YUdmVGpaY0ozRTRLQW01Nmp0Vi04NjF5SlFZdXJxWTQ4V3NpMXFfRUlNeTQ4TmfSAY8BQVVfeXFMTy13dmNEYzFrSnZSNXFRRFdHZV9aYmltSzdWQ2YxZEVuNWs1RHRVUERZT2JXN21kTEdpbWZSV19IVFB4S1FYMkJndVUtamxITHVPaHp2VWkzZXBBaWtjVlEtajZGeV91SUhBd25WS3RoeDFOM0ltVTZ0Zko5Mm03akhxamRXbWFTQmU2MV9ZUVk?oc=5",
       "date": "2026-08-18 09:00",
       "summary": "AI’s recursive self-improvement might not come so quickly after all  MIT Technology Review..."
-    },
-    {
-      "title": "Unlocking hidden revenue streams with market models - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSGw4UTBEZlZpQXNDaUQtQlc5a2RPdkg4bTlMODRPYkk5MnVqUXRRbHRUYmlRZVNrbk1pUksxM3VjWWNTcnpPcnoyODBFelA3amZjRHNFZEZlTjZ4M1RxMDVQNm9kN0Fya0dubWVjYkVKa1JNQ1VZdWs4QXFHZzlOVDhXTWZrWmVDVXh3YWlGUko4d2VpM0V3MERHV0R6VUFYbDVYR0d0UdIBrAFBVV95cUxQVVhQRG1iQk1iSWVndlJFWmxnc3N1VVRtc2hTVVg1ZkUxbHZZVWVVTFR1djdTN2lLSE4yMGRXRFE0VkkwbWJTUE9OOGpJbUFtSmNPVGxoSDdVeFhiWGNtNTV2N0o4R0V1UXFVTG80cmRYWkpobzA2YTBJSXlRazJHSmNiRHVSMHZUVXdueVVnc05sc1pyM1hiaTRHTkNyV09wVklSUTlLSHlINThN?oc=5",
-      "date": "2026-08-20 09:47",
-      "summary": "Unlocking hidden revenue streams with market models  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Engineered yeasts help turn PET plastic and crop waste into protein-rich cookies",
+      "link": "https://phys.org/news/2026-08-yeasts-pet-plastic-crop-protein.html",
+      "date": "2026-08-24 09:00",
+      "summary": "Plastic might be the last ingredient you would ever add to a cookie recipe. But a team of researchers is looking to change that. T..."
+    },
+    {
+      "title": "Nanoparticle flu vaccine protects against three influenza strains in mice",
+      "link": "https://phys.org/news/2026-08-nanoparticle-flu-vaccine-influenza-strains.html",
+      "date": "2026-08-24 09:00",
+      "summary": "A new nanoparticle vaccine could one day give patients immunity to the flu with fewer trips to the doctor and without requiring he..."
+    },
     {
       "title": "China says unmanned moon mission delayed over 'launch conditions'",
       "link": "https://phys.org/news/2026-08-china-unmanned-moon-mission-delayed.html",
@@ -241,18 +253,6 @@
       "link": "https://phys.org/news/2026-08-overlooked-teacher-pipeline.html",
       "date": "2026-08-23 20:00",
       "summary": "As school districts continue searching for ways to recruit and retain teachers, new research from UNC-Chapel Hill suggests one pro..."
-    },
-    {
-      "title": "Collaborative drawing offers new insights into how strangers become friends",
-      "link": "https://phys.org/news/2026-08-collaborative-insights-strangers-friends.html",
-      "date": "2026-08-23 19:00",
-      "summary": "The closer two people grow, the more alike their brains work—or so the assumption goes. Two ETH Zurich studies challenge this idea..."
-    },
-    {
-      "title": "Oldest human brain cells grown in lab 'recorded passage of time'",
-      "link": "https://phys.org/news/2026-08-oldest-human-brain-cells-grown.html",
-      "date": "2026-08-23 17:00",
-      "summary": "Peppercorn-sized clumps of human brain cells grown in a lab for a record seven years aged similarly to those inside our heads, sug..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong launches real-name booking system for popular Sai Kung coastal trail",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3365057/hong-kong-launches-real-name-booking-system-popular-sai-kung-coastal-trail?utm_source=rss_feed",
+      "date": "2026-08-24 09:02",
+      "summary": "Hong Kong has launched its first countryside real-name reservation system, capping daily visitors to a popular trail in Sai Kung a..."
+    },
+    {
+      "title": "Mainland school operator leases Kowloon tower as talent influx drives city’s education boom",
+      "link": "https://www.scmp.com/business/article/3365053/mainland-school-operator-leases-kowloon-tower-talent-influx-drives-citys-education-boom?utm_source=rss_feed",
+      "date": "2026-08-24 09:00",
+      "summary": "A Hong Kong-listed educational group has completed the largest commercial property leasing deal so far this quarter, as the sector..."
+    },
+    {
       "title": "Hong Kong airport embraces future of travel with Terminal 2",
       "link": "https://www.scmp.com/native/news/hong-kong/topics/hong-kong-airports-major-expansion/article/3364841/hong-kong-airport-embraces-future-travel-terminal-2?utm_source=rss_feed",
       "date": "2026-08-24 08:00",
@@ -305,18 +317,6 @@
       "link": "https://www.scmp.com/weather/hong-kong/article/3365034/typhoon-signal-hong-kong-unlikely-next-2-days-expect-unsettled-weather?utm_source=rss_feed",
       "date": "2026-08-24 06:25",
       "summary": "The likelihood that Hong Kong’s weather forecaster will issue a typhoon signal in the next two days is “relatively low”, although ..."
-    },
-    {
-      "title": "Hong Kong urged to adopt trait-based dog tiers, DNA checks after fatal attacks",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3365023/hong-kong-urged-adopt-trait-based-dog-tiers-dna-checks-after-fatal-attacks?utm_source=rss_feed",
-      "date": "2026-08-24 05:15",
-      "summary": "Hong Kong should introduce a tiered risk framework and carry out DNA testing and physical checks to identify dogs with aggressive ..."
-    },
-    {
-      "title": "John Lee urges start-ups to seize opportunities through ‘golden gateway’ of Hong Kong",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365021/john-lee-urges-start-ups-seize-opportunities-through-golden-gateway-hong-kong?utm_source=rss_feed",
-      "date": "2026-08-24 05:08",
-      "summary": "Hong Kong’s leader has called on scientists, leading enterprises and investment institutions from around the world to seize opport..."
     }
   ]
 }
