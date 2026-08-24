@@ -39,16 +39,16 @@
       "summary": "Holding onto your humanity, against the herd  Harvard Gazette..."
     },
     {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
-      "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
-    },
-    {
       "title": "How AI may change public policy, how we lead - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
       "date": "2026-07-28 07:00",
       "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
+    },
+    {
+      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
+      "date": "2026-06-03 07:00",
+      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
@@ -57,10 +57,10 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
+      "date": "2026-07-10 07:00",
+      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "The exoskeletons are coming (to a store near you)",
+      "link": "https://www.nature.com/articles/d41586-026-02641-y",
+      "date": "2026-08-24 00:00",
+      "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02641-yTechnology to help people walk, run and jump is moving rap..."
+    },
+    {
       "title": "Frontier-technology markets are too narrow — here’s how to widen them",
       "link": "https://www.nature.com/articles/d41586-026-02572-8",
       "date": "2026-08-24 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02626-x",
       "date": "2026-08-21 00:00",
       "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-xNature staff discuss how an FDA-approved drug for narcolep..."
-    },
-    {
-      "title": "Earth-shaking thunder probes underground geology",
-      "link": "https://www.nature.com/articles/d41586-026-02596-0",
-      "date": "2026-08-21 00:00",
-      "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0Seismologists measured the varying speeds of a ‘thunderqua..."
     }
   ],
   "Retraction Watch": [
@@ -225,37 +225,43 @@
   ],
   "Phys.org": [
     {
-      "title": "An AI job boom? Here's what the tedious, temporary work in data labeling is actually like",
-      "link": "https://phys.org/news/2026-08-ai-job-boom-tedious-temporary.html",
-      "date": "2026-08-24 12:40",
-      "summary": "Amid all the talk about artificial intelligence (AI) both creating and destroying jobs, a troubling reality flies under the radar...."
+      "title": "New free-space optical link adds a wireless component to the nation's longest quantum network",
+      "link": "https://phys.org/news/2026-08-free-space-optical-link-wireless.html",
+      "date": "2026-08-24 13:43",
+      "summary": "There's a new lighthouse on Long Island. But instead of shining light to guide ships through waterways, this one transmits and rec..."
     },
     {
-      "title": "Why hundreds of scientists want more protection for Australia's oceans",
-      "link": "https://phys.org/news/2026-08-hundreds-scientists-australia-oceans.html",
-      "date": "2026-08-24 12:20",
-      "summary": "Australia is one of the world's great ocean nations. It is home to more marine species than any other country, with ocean ecosyste..."
+      "title": "Long-term study reveals hidden threat of schistosomiasis in endangered chimpanzees",
+      "link": "https://phys.org/news/2026-08-term-reveals-hidden-threat-schistosomiasis.html",
+      "date": "2026-08-24 13:40",
+      "summary": "A 12-year study of rescued chimpanzees at the Ngamba Island Chimpanzee Sanctuary (NICS) in Uganda has revealed persistent intestin..."
     },
     {
-      "title": "Book Week is not just for big kids—how to engage babies and toddlers at story time",
-      "link": "https://phys.org/news/2026-08-week-big-kids-engage-babies.html",
-      "date": "2026-08-24 12:00",
-      "summary": "Book Week is a great opportunity for parents and caregivers to inspire a love of reading in babies and toddlers...."
+      "title": "Dry landscapes and newly fallowed fields may raise California Valley fever risk",
+      "link": "https://phys.org/news/2026-08-dry-landscapes-newly-fallowed-fields.html",
+      "date": "2026-08-24 13:40",
+      "summary": "Researchers at UC San Diego and UC Berkeley have found that certain landscapes surrounding California communities are associated w..."
     },
     {
-      "title": "Housing may shape death risks for low-income older renters",
-      "link": "https://phys.org/news/2026-08-housing-death-income-older-renters.html",
-      "date": "2026-08-24 11:40",
-      "summary": "For low-income older adults, where they live may affect how long they live, according to new research from Washington University i..."
+      "title": "Immigration can bring small overall gains but uneven wage effects",
+      "link": "https://phys.org/news/2026-08-immigration-small-gains-uneven-wage.html",
+      "date": "2026-08-24 13:20",
+      "summary": "Immigration can produce a small economic gain for the native-born population overall while causing larger shifts in wages between ..."
     },
     {
-      "title": "Recycling meat waste may help bring cultivated meat to market",
-      "link": "https://phys.org/news/2026-08-recycling-meat-cultivated.html",
-      "date": "2026-08-24 11:20",
-      "summary": "Researchers found microalgae can be grown using waste from cultivated meat production, then processed and fed back into the system..."
+      "title": "A 4-star system caught eclipsing itself in a way never seen before",
+      "link": "https://phys.org/news/2026-08-star-caught-eclipsing.html",
+      "date": "2026-08-24 13:10",
+      "summary": "Astronomers have found a four-star system doing something that has never been confirmed before. The system, TIC 433545934, has two..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "We would like to hear from people in England who didn’t pass English and/or Maths GCSE",
+      "link": "https://www.theguardian.com/education/2026/aug/24/we-would-like-to-hear-from-people-in-england-who-didnt-pass-english-andor-maths-gcse",
+      "date": "2026-08-24 13:04",
+      "summary": "How did it affect your plans for either further education or getting a job? Did you go through resits? Tell us The government plan..."
+    },
     {
       "title": "UK graduate job vacancies plunge to lowest in a decade",
       "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna",
@@ -279,12 +285,6 @@
       "link": "https://www.theguardian.com/education/2026/aug/20/governments-plan-young-people-continue-studying-gcse-maths-english-exams",
       "date": "2026-08-20 18:21",
       "summary": "Government confirms plan for ‘stepping stone’ qualification in England as students face retaking maths or English after failure to..."
-    },
-    {
-      "title": "Academic who accused Jason Arday of plagiarism suspended by his university",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/20/academic-who-accused-jason-arday-of-plagiarism-suspended-by-his-university",
-      "date": "2026-08-20 18:12",
-      "summary": "Researcher Nathan Cofnas previously claimed Black people would hold few high-profile positions in a meritocracyNathan Cofnas, the ..."
     }
   ],
   "SCMP Hong Kong": [
@@ -295,10 +295,10 @@
       "summary": "Beijing has slammed Western nations for interfering in China’s internal affairs over their criticism of the conviction of the now-..."
     },
     {
-      "title": "Consortium wins Northern Metropolis project with HK$1.03b bid",
+      "title": "Northern Metropolis gets vote of confidence as heavyweights win tender for HK$1.03b",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3365084/consortium-wins-northern-metropolis-project-hk103b-bid?utm_source=rss_feed",
       "date": "2026-08-24 12:03",
-      "summary": "A consortium of mainland Chinese-backed companies and a subsidiary of a Hong Kong developer has won the first “large-scale land di..."
+      "summary": "A consortium made up of mainland Chinese state-owned and private heavyweights together with a major Hong Kong developer has won th..."
     },
     {
       "title": "Hong Kong to offer free dental check-ups to preschoolers from September",
