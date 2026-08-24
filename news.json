@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "Frontier-technology markets are too narrow — here’s how to widen them",
+      "link": "https://www.nature.com/articles/d41586-026-02572-8",
+      "date": "2026-08-24 00:00",
+      "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02572-8Governments need to keep their procurement processes as op..."
+    },
+    {
       "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
       "link": "https://www.nature.com/articles/d41586-026-02616-z",
       "date": "2026-08-24 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02566-6",
       "date": "2026-08-21 00:00",
       "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02566-6Rather than racing to replace people, we should build AI t..."
-    },
-    {
-      "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-      "link": "https://www.nature.com/articles/d41586-026-02352-4",
-      "date": "2026-08-21 00:00",
-      "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4The case is the latest example of a scientific workhorse b..."
     }
   ],
   "Retraction Watch": [
@@ -161,10 +161,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "South Korea plans chip windfall fund to back youth, AI investment - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWx2Uko2TGV3T04xUFk4dXpjR1Y2V2FDQ295Rm5ydHNSYUdKcWFWM1daM3VuWkdveFl2MTNiY19hdmhVUTBud3cyR3A1YmtGd0licHpNN2xoWmdTeE85WTRyVW9OWVd4Vi01bERRWGtvbzNJaDY4VUlETEcwMzZYMW1DLTBPWXQ3MUFoSUFXSVNzSnlpdFAyOWdPZlNLZHBuZERhTkpmTFNCVEhGTU5NUjl1RldmR28?oc=5",
-      "date": "2026-08-21 04:11",
-      "summary": "South Korea plans chip windfall fund to back youth, AI investment  Reuters..."
+      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
+      "date": "2026-08-23 04:47",
+      "summary": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending  Reuters..."
     },
     {
       "title": "Taiwan issues indictments over alleged illegal export of AI servers to China - Reuters",
@@ -179,16 +179,16 @@
       "summary": "Alibaba launches Wan3.0 AI video model after $10 billion share sale  Reuters..."
     },
     {
-      "title": "Sonova unveils new AI-powered hearing-aid platform to support growth targets - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcTNacWNnb056NS1MRi1lMnJydTVMR3JoT2FVNmZTQU9tWjdUTEVsZW5ZRXQ3djIwbG1tWkVENEhLeVdVTHNGcmpjSExfNEFJQmxnVmJBdDIwdDBSUkxlUmNsSEdQSkVxSktmYlpENC14aW5aaXNKVUhVRFRsMzVDT0lrakNyMXE2dkhHS0NKY3RRRUt6ajB0QkJpLVNmVnBsRFdsejF5YjMyemVlZ002Y3QzRWxKZmxEdDV2ZA?oc=5",
-      "date": "2026-08-24 05:06",
-      "summary": "Sonova unveils new AI-powered hearing-aid platform to support growth targets  Reuters..."
+      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
+      "date": "2026-08-22 20:00",
+      "summary": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports  Reuters..."
     },
     {
-      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
-      "date": "2026-08-23 04:47",
-      "summary": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending  Reuters..."
+      "title": "South Korea plans chip windfall fund to back youth, AI investment - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWx2Uko2TGV3T04xUFk4dXpjR1Y2V2FDQ295Rm5ydHNSYUdKcWFWM1daM3VuWkdveFl2MTNiY19hdmhVUTBud3cyR3A1YmtGd0licHpNN2xoWmdTeE85WTRyVW9OWVd4Vi01bERRWGtvbzNJaDY4VUlETEcwMzZYMW1DLTBPWXQ3MUFoSUFXSVNzSnlpdFAyOWdPZlNLZHBuZERhTkpmTFNCVEhGTU5NUjl1RldmR28?oc=5",
+      "date": "2026-08-21 04:11",
+      "summary": "South Korea plans chip windfall fund to back youth, AI investment  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -199,16 +199,16 @@
       "summary": "Kids outlearn AI—and we still don’t know why  MIT Technology Review..."
     },
     {
-      "title": "We still don’t know how people are really using AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQkFLNWNOVndnMUZHN0ZiNHp2ODVoNUFRMDNSRGJuR1FiOE1qTTdQZFI1WEg0LWJ0TjJHaWtOdEVUSzdmZjRDSFN1QmxIeGdTZlJGNjlaZ3dpNGRuOE5xT1g3R1VXbURweThZRmtBSHhlR1lOR0Zaai1R0gF_QVVfeXFMUHRtMk1yNmFCRWVjb2o5MzZUQlZnNUFfLTZ2WkQ3eFdXa1RDLTFjaGE3UnJpX0hEbHN2NVZoQVpVOWROcUlMNVZaSG9DaXd2dkFEc3JQZWFsNDc0LWRSb09sdlAzSUpXNnpneWY5VWJvUWRkMHpZYmFpam1nXzJIWQ?oc=5",
-      "date": "2026-08-18 10:06",
-      "summary": "We still don’t know how people are really using AI  MIT Technology Review..."
-    },
-    {
       "title": "When AI designs a drug, who gets the credit? - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGhYSjZMMkpXQ3hFQTBOb2NYeDVlamdYMzk4enRGcWFBbnlvWjV6Y3lxVE8tVk5LeGhtNy1LQ3VyejQtNDhvaXpzV0puclBxUXlEWGF6QmFCM3F1b244WEpyRVJ4N3dMWDd0QXBhQWdmZHBEVm80SG5sN0pTWEZUbUluSHFKSEF5OHJ0TXRNSFpVUmdsUzZXY0k2ONIBoAFBVV95cUxNZU5tR0tjaVlQOWpxMTRqQ3RTRHlNb3lNVnJFdXVDeFpvWEpzWk1QYlA3S2lCT0Z3LUFVeldrQWRTTUtoUUhOVzE1amJQcmZJY2o1V3ZCTmpIUnJfMEJjaUZXd2YtemFkUzYteWQ1Z2t4QUl5V2hRUFVfNkxMa0FKR015RldZV01XQUFJaS1aa3NWNzRseF9ySXpkRnJPN0Fa?oc=5",
       "date": "2026-08-21 09:00",
       "summary": "When AI designs a drug, who gets the credit?  MIT Technology Review..."
+    },
+    {
+      "title": "We still don’t know how people are really using AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQkFLNWNOVndnMUZHN0ZiNHp2ODVoNUFRMDNSRGJuR1FiOE1qTTdQZFI1WEg0LWJ0TjJHaWtOdEVUSzdmZjRDSFN1QmxIeGdTZlJGNjlaZ3dpNGRuOE5xT1g3R1VXbURweThZRmtBSHhlR1lOR0Zaai1R0gF_QVVfeXFMUHRtMk1yNmFCRWVjb2o5MzZUQlZnNUFfLTZ2WkQ3eFdXa1RDLTFjaGE3UnJpX0hEbHN2NVZoQVpVOWROcUlMNVZaSG9DaXd2dkFEc3JQZWFsNDc0LWRSb09sdlAzSUpXNnpneWY5VWJvUWRkMHpZYmFpam1nXzJIWQ?oc=5",
+      "date": "2026-08-18 10:06",
+      "summary": "We still don’t know how people are really using AI  MIT Technology Review..."
     },
     {
       "title": "Debates over AI consciousness are a trap - MIT Technology Review",
@@ -224,6 +224,18 @@
     }
   ],
   "Phys.org": [
+    {
+      "title": "Recycling meat waste may help bring cultivated meat to market",
+      "link": "https://phys.org/news/2026-08-recycling-meat-cultivated.html",
+      "date": "2026-08-24 11:20",
+      "summary": "Researchers found microalgae can be grown using waste from cultivated meat production, then processed and fed back into the system..."
+    },
+    {
+      "title": "Study finds food insecurity remains in historically redlined neighborhoods",
+      "link": "https://phys.org/news/2026-08-food-insecurity-historically-redlined-neighborhoods.html",
+      "date": "2026-08-24 11:00",
+      "summary": "Bad housing, high crime and poor schools are more important than transportation or income when it comes to accessing healthy food ..."
+    },
     {
       "title": "Engineered yeasts help turn PET plastic and crop waste into protein-rich cookies",
       "link": "https://phys.org/news/2026-08-yeasts-pet-plastic-crop-protein.html",
@@ -241,18 +253,6 @@
       "link": "https://phys.org/news/2026-08-china-unmanned-moon-mission-delayed.html",
       "date": "2026-08-24 07:10",
       "summary": "China's manned space agency said Sunday it is delaying a research moon mission that is part of Beijing's efforts to land a crew th..."
-    },
-    {
-      "title": "Protein degradation rate helps explain why humans develop more slowly than mice",
-      "link": "https://phys.org/news/2026-08-protein-degradation-humans-slowly-mice.html",
-      "date": "2026-08-23 21:00",
-      "summary": "Humans develop at a slower rate than other mammalian species, like mice, but scientists are still trying to understand the molecul..."
-    },
-    {
-      "title": "Could teaching assistants be an overlooked teacher pipeline? New research says yes",
-      "link": "https://phys.org/news/2026-08-overlooked-teacher-pipeline.html",
-      "date": "2026-08-23 20:00",
-      "summary": "As school districts continue searching for ways to recruit and retain teachers, new research from UNC-Chapel Hill suggests one pro..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "CUHK academic who allegedly hid marital status cleared of indecent assault",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365077/cuhk-academic-who-allegedly-hid-marital-status-cleared-indecent-assault?utm_source=rss_feed",
+      "date": "2026-08-24 11:15",
+      "summary": "An associate professor at the Chinese University of Hong Kong (CUHK) has been acquitted of indecently assaulting a woman who repor..."
+    },
+    {
       "title": "Hong Kong launches real-name booking system for popular Sai Kung coastal trail",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3365057/hong-kong-launches-real-name-booking-system-popular-sai-kung-coastal-trail?utm_source=rss_feed",
       "date": "2026-08-24 09:02",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3365037/78-low-income-elderly-hongkongers-report-heat-related-distress-survey-finds?utm_source=rss_feed",
       "date": "2026-08-24 06:57",
       "summary": "Nearly 80 per cent of low-income elderly people surveyed in Hong Kong reported physical or mental distress during periods of extre..."
-    },
-    {
-      "title": "Typhoon signal in Hong Kong unlikely in next 2 days but expect unsettled weather",
-      "link": "https://www.scmp.com/weather/hong-kong/article/3365034/typhoon-signal-hong-kong-unlikely-next-2-days-expect-unsettled-weather?utm_source=rss_feed",
-      "date": "2026-08-24 06:25",
-      "summary": "The likelihood that Hong Kong’s weather forecaster will issue a typhoon signal in the next two days is “relatively low”, although ..."
     }
   ]
 }
