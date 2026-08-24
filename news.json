@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Brain circuit keeps tabs on what just happened to aid judgment of what’s happening now",
+      "link": "https://news.mit.edu/2026/brain-keeps-tabs-what-just-happened-to-aid-judgment-whats-happening-now-0824",
+      "date": "2026-08-24 19:40",
+      "summary": "To keep track of what’s going on in front of it, the brain relies not only on what it sees, but also a comparison with what it jus..."
+    },
+    {
       "title": "Meteorite dust holds records of magnetism that may have helped form the sun",
       "link": "https://news.mit.edu/2026/meteorite-dust-holds-records-magnetism-may-have-helped-form-sun-0824",
       "date": "2026-08-24 19:00",
@@ -23,15 +29,15 @@
       "link": "https://news.mit.edu/2026/indoor-airflow-patterns-importance-spreading-airborne-disease-0821",
       "date": "2026-08-21 16:00",
       "summary": "Researchers explore how a key factor can mitigate or promote tuberculosis transmission...."
-    },
-    {
-      "title": "Paving the way for greener ammonia production",
-      "link": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
-      "date": "2026-08-20 18:45",
-      "summary": "New MIT research could lead to better materials for a fossil-fuel-free process for making the chemical that's essential to fertili..."
     }
   ],
   "Harvard Gazette": [
+    {
+      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
+      "date": "2026-06-03 07:00",
+      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
+    },
     {
       "title": "Holding onto your humanity, against the herd - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMW1jd2JkcGNycFdpSE52emhSb0RXOE9qZ0xUaG9JWkN3ek54RnhnLTJBaUlta2tQZHdmLV9VM093Q3owLVl2eXBjdEhVdXg2cTUyUG9Pb3daVmxDbExrUmhERlFEcHdSVVFFNGFkRGRvUTZSblRSQzlra2NYdkNyVTNvRDhWSXRmeVlTMjlhQUZCa0pZdnc?oc=5",
@@ -45,22 +51,16 @@
       "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
     },
     {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
-      "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
-    },
-    {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
-      "date": "2026-07-10 07:00",
-      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
+      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -161,22 +161,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "Alibaba launches Wan3.0 AI video model after $10 billion share sale - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf?oc=5",
-      "date": "2026-08-24 08:23",
-      "summary": "Alibaba launches Wan3.0 AI video model after $10 billion share sale  Reuters..."
-    },
-    {
-      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
-      "date": "2026-08-23 22:30",
-      "summary": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending  Reuters..."
+      "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
+      "date": "2026-08-21 15:07",
+      "summary": "US corporate AI debt surge tests investor limits as fatigue emerges  Reuters..."
     },
     {
       "title": "Thomson Reuters launches proprietary AI model for legal work - SiliconANGLE",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmpwLUt2cU1XVnVacVFrd2F4QkZJc0Q0MjZOZjA4T3FCUGxBdGhYaVVRQ2gzT0VpWDFzU3dlREVFOEx4MG5wWUZrcDJHcGRHODdyYVR3TER5eVlQR3pRWVQ1LXItMm5qWWtram5HZHZGNXpiQ0ZJZmh1a0dXVVRNZE5TeHY0WGpOYVRFeE03MFNpOHZicHFiazZ2LUpfQQ?oc=5",
       "date": "2026-08-24 13:00",
       "summary": "Thomson Reuters launches proprietary AI model for legal work  SiliconANGLE..."
+    },
+    {
+      "title": "Alibaba launches Wan3.0 AI video model after $10 billion share sale - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf?oc=5",
+      "date": "2026-08-24 08:23",
+      "summary": "Alibaba launches Wan3.0 AI video model after $10 billion share sale  Reuters..."
     },
     {
       "title": "Taiwan issues indictments over alleged illegal export of AI servers to China - Reuters",
@@ -205,6 +205,12 @@
       "summary": "Kids outlearn AI—and we still don’t know why  MIT Technology Review..."
     },
     {
+      "title": "Debates over AI consciousness are a trap - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkQ0M1dEaWxVMUptcDYxbDNOYVduQkdZRzd2SFAxUzk3VjlrZ2JoQ1c1UTluUUk0ZTlDSWJpdTFYYVNfSi11cm5QZXREYXd4S0FxMW45cXhRWHhwQ1RpNHVxZGpCZmVUZEpJLXo1dDRTVTZzSkdWZFluMlJXMlVZaVFDV28zSUlf0gGOAUFVX3lxTFA5NXJIVHliS3Y2QWxsa1A2VGhpVUVXYVAxaml0djFWTHlFYThSbENETEl0bE1YbElhU19qbm1SdzlvWUlleUI5VzlCMzBjNGR3YWVjZTNZY2JhcHJsY05xOFpENUxWQlU2aWVKRGhCb0lYTnlINFMxaTdwMkVDcGlaQ3Zrd3c5d3FFT0Vtcmc?oc=5",
+      "date": "2026-08-20 15:42",
+      "summary": "Debates over AI consciousness are a trap  MIT Technology Review..."
+    },
+    {
       "title": "When AI designs a drug, who gets the credit? - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGhYSjZMMkpXQ3hFQTBOb2NYeDVlamdYMzk4enRGcWFBbnlvWjV6Y3lxVE8tVk5LeGhtNy1LQ3VyejQtNDhvaXpzV0puclBxUXlEWGF6QmFCM3F1b244WEpyRVJ4N3dMWDd0QXBhQWdmZHBEVm80SG5sN0pTWEZUbUluSHFKSEF5OHJ0TXRNSFpVUmdsUzZXY0k2ONIBoAFBVV95cUxNZU5tR0tjaVlQOWpxMTRqQ3RTRHlNb3lNVnJFdXVDeFpvWEpzWk1QYlA3S2lCT0Z3LUFVeldrQWRTTUtoUUhOVzE1amJQcmZJY2o1V3ZCTmpIUnJfMEJjaUZXd2YtemFkUzYteWQ1Z2t4QUl5V2hRUFVfNkxMa0FKR015RldZV01XQUFJaS1aa3NWNzRseF9ySXpkRnJPN0Fa?oc=5",
       "date": "2026-08-21 09:00",
@@ -215,44 +221,38 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQkFLNWNOVndnMUZHN0ZiNHp2ODVoNUFRMDNSRGJuR1FiOE1qTTdQZFI1WEg0LWJ0TjJHaWtOdEVUSzdmZjRDSFN1QmxIeGdTZlJGNjlaZ3dpNGRuOE5xT1g3R1VXbURweThZRmtBSHhlR1lOR0Zaai1R0gF_QVVfeXFMUHRtMk1yNmFCRWVjb2o5MzZUQlZnNUFfLTZ2WkQ3eFdXa1RDLTFjaGE3UnJpX0hEbHN2NVZoQVpVOWROcUlMNVZaSG9DaXd2dkFEc3JQZWFsNDc0LWRSb09sdlAzSUpXNnpneWY5VWJvUWRkMHpZYmFpam1nXzJIWQ?oc=5",
       "date": "2026-08-18 10:06",
       "summary": "We still don’t know how people are really using AI  MIT Technology Review..."
-    },
-    {
-      "title": "Debates over AI consciousness are a trap - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkQ0M1dEaWxVMUptcDYxbDNOYVduQkdZRzd2SFAxUzk3VjlrZ2JoQ1c1UTluUUk0ZTlDSWJpdTFYYVNfSi11cm5QZXREYXd4S0FxMW45cXhRWHhwQ1RpNHVxZGpCZmVUZEpJLXo1dDRTVTZzSkdWZFluMlJXMlVZaVFDV28zSUlf0gGOAUFVX3lxTFA5NXJIVHliS3Y2QWxsa1A2VGhpVUVXYVAxaml0djFWTHlFYThSbENETEl0bE1YbElhU19qbm1SdzlvWUlleUI5VzlCMzBjNGR3YWVjZTNZY2JhcHJsY05xOFpENUxWQlU2aWVKRGhCb0lYTnlINFMxaTdwMkVDcGlaQ3Zrd3c5d3FFT0Vtcmc?oc=5",
-      "date": "2026-08-20 15:42",
-      "summary": "Debates over AI consciousness are a trap  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "What happens inside a wildfire? A Ph.D. student is finding out",
-      "link": "https://phys.org/news/2026-08-wildfire-phd-student.html",
-      "date": "2026-08-24 19:20",
-      "summary": "What happens during a wildfire? The short answer is: much more than we know. As wildfires burn through trees, grasses and other ve..."
+      "title": "When to trust the experts? Follow these guidelines to evaluate science on any topic",
+      "link": "https://phys.org/news/2026-08-experts-guidelines-science-topic.html",
+      "date": "2026-08-24 20:20",
+      "summary": "When should we trust the evidence and the experts who interpret it for us?..."
     },
     {
-      "title": "Dung beetles offer insights into biodiversity in Singapore",
-      "link": "https://phys.org/news/2026-08-dung-beetles-insights-biodiversity-singapore.html",
-      "date": "2026-08-24 19:20",
-      "summary": "Dung beetles could provide scientists with a new way to uncover the animals living in Singapore's forests, including elusive speci..."
+      "title": "Glacier retreat could promote the spread of diseases among bees",
+      "link": "https://phys.org/news/2026-08-glacier-retreat-diseases-bees.html",
+      "date": "2026-08-24 20:20",
+      "summary": "A study conducted in the Swiss Alps by the University of Lausanne and the University of Milan shows that glacier retreat and chang..."
     },
     {
-      "title": "Why ancient grasslands, once plowed, don't grow back the same",
-      "link": "https://phys.org/news/2026-08-ancient-grasslands-plowed-dont.html",
-      "date": "2026-08-24 19:00",
-      "summary": "When a 10,000-year-old prairie is plowed up to plant corn or a savanna is consumed by a strip mall, these once-grassy expanses, if..."
+      "title": "Ball milling enhances the antiviral activity of inexpensive inorganic materials",
+      "link": "https://phys.org/news/2026-08-ball-milling-antiviral-inexpensive-inorganic.html",
+      "date": "2026-08-24 20:10",
+      "summary": "Since the COVID-19 pandemic, developing surfaces that can inactivate viruses upon contact has become an important goal in public h..."
     },
     {
-      "title": "Mapping the 'hidden highways' of Mexico's illegal wildlife trade",
-      "link": "https://phys.org/news/2026-08-hidden-highways-mexico-illegal-wildlife.html",
-      "date": "2026-08-24 19:00",
-      "summary": "For decades, wildlife traffickers have illegally captured and sold hundreds of thousands of wild parrots native to Mexico. Despite..."
+      "title": "Marker words suggest sharp rise in AI-assisted biomedical writing after ChatGPT",
+      "link": "https://phys.org/news/2026-08-marker-words-sharp-ai-biomedical.html",
+      "date": "2026-08-24 20:00",
+      "summary": "Up until two years ago, using large language models was still considered a special skill that everyone was encouraged to learn. No..."
     },
     {
-      "title": "Europe's buildings are designed for a climate that no longer exists—new open dataset offers a fix",
-      "link": "https://phys.org/news/2026-08-europe-climate-longer-dataset.html",
-      "date": "2026-08-24 19:00",
-      "summary": "The weather files engineers use to design buildings are built from decades of historical measurements. The data can be more than 3..."
+      "title": "Women and racialized CEOs may outperform their peers because they face tougher barriers to the top",
+      "link": "https://phys.org/news/2026-08-women-racialized-ceos-outperform-peers.html",
+      "date": "2026-08-24 20:00",
+      "summary": "Every so often, a headline declares that women make better leaders. A widely cited 2019 Harvard Business Review analysis, for inst..."
     }
   ],
   "The Guardian Edu": [
