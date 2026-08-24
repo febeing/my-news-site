@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Meteorite dust holds records of magnetism that may have helped form the sun",
+      "link": "https://news.mit.edu/2026/meteorite-dust-holds-records-magnetism-may-have-helped-form-sun-0824",
+      "date": "2026-08-24 19:00",
+      "summary": "The discovery likely represents the earliest known evidence of a magnetic field in the infant solar system...."
+    },
+    {
       "title": "Generating scenarios for extreme events, without extreme data",
       "link": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
       "date": "2026-08-24 18:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
       "date": "2026-08-20 18:45",
       "summary": "New MIT research could lead to better materials for a fossil-fuel-free process for making the chemical that's essential to fertili..."
-    },
-    {
-      "title": "MIT engineers design a better controller for operating construction diggers",
-      "link": "https://news.mit.edu/2026/mit-engineers-design-better-controller-operating-construction-diggers-0820",
-      "date": "2026-08-20 04:00",
-      "summary": "The new, more intuitive system could speed up the training process for excavator operators...."
     }
   ],
   "Harvard Gazette": [
@@ -65,16 +65,22 @@
   ],
   "Stanford News": [
     {
+      "title": "Phoebe Gates took a secret Stanford class on how to ‘rule the world’—and reportedly recruited employees for her startup accused of wire fraud - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjlhMnZJZ3d4Sy1mdmNlbm1TcGFRZ3hqLThUUGtSMWU2Ri1kUVNEdFJyOVVfVHVSbnVRUWppUHItd0Fpc3Z0ZGZNTS1FdDhFbzE5b0o3QUFOQzhuRC1QZS02OVBocUJ1MXFNUkxXbDhYSG1nQTJvdTdvakpQd2VoWHZRSTl6ajN4N3g1UHlDdEhTTjdJVjFKRUZESllOcXM?oc=5",
+      "date": "2026-08-21 18:04",
+      "summary": "Phoebe Gates took a secret Stanford class on how to ‘rule the world’—and reportedly recruited employees for her startup accused of..."
+    },
+    {
       "title": "[COVER STORY] Stanford to close Korea research center after 5 years - The Korea Times",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdnotaU45OU9JcFQ3NmRDQXBCdUNoT0Y5YmpBWUFFa3B5Y2FnVmdJdGZMNFVwdzc2ak4xek52Yl9XbUd1SEN4OEljYUtqakZfc3h1U1NJME5TaURENmw5OTBrWWFaUTBVSTBpQjA3SVFtSkdFc0dDSVdrWVZER1pZNk9PNExwUUgwWkpBT2tQaUQzUlg1UDdnMEJsd05qOWw1MEZzRWVHYW1HZG83cVF5NzVPSFU0QWhTMXp6YWpfNnFIZ9IBxwFBVV95cUxNUEVNVGRuZzRsbnExYk5VamZLYXkxY016aVdJd1JoX1NxWmpuT0htbWRwZ0FKSE1seFhJZ05ORlIzLVVGUFVXOGhyZlNXWW51SGx5VWdFbFRvaHZpUGxfZzFLb1cxNm9KUzJNelA0RmMxZTBZUWJKQlVHVDVqdWF3QXFveGFDMHhqVU8xSHM5Znl6Z2s1YTF5TVA2Y01SS21vOHdmUnNvcGZhVl9kVURKQUNxWWszWWpzZmI0LVdCbk5SS1JTek1V?oc=5",
       "date": "2026-08-23 06:56",
       "summary": "[COVER STORY] Stanford to close Korea research center after 5 years  The Korea Times..."
     },
     {
-      "title": "Phoebe Gates took a secret Stanford class on how to ‘rule the world’—and reportedly recruited employees for her startup accused of wire fraud - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjlhMnZJZ3d4Sy1mdmNlbm1TcGFRZ3hqLThUUGtSMWU2Ri1kUVNEdFJyOVVfVHVSbnVRUWppUHItd0Fpc3Z0ZGZNTS1FdDhFbzE5b0o3QUFOQzhuRC1QZS02OVBocUJ1MXFNUkxXbDhYSG1nQTJvdTdvakpQd2VoWHZRSTl6ajN4N3g1UHlDdEhTTjdJVjFKRUZESllOcXM?oc=5",
-      "date": "2026-08-21 18:04",
-      "summary": "Phoebe Gates took a secret Stanford class on how to ‘rule the world’—and reportedly recruited employees for her startup accused of..."
+      "title": "New AI tool compresses data without losing critical details - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVWZqaDB0b3c2MGZHbWVoRFdVUk5QamhLcEVCLUJSR0kwUlhHSXpJRHQ5Yjl0cFV4c2JWNmswdDdrcldQWmZOS0FhZFdBLU1UOWxmU2x4Tlc5cVBhRi1PTUNENGE2RHl0X2QxbTRhc0lUUDFGX1JVbHdwY1dnZHdnQmRXNW5LVEVvZnIzMWZkUFk?oc=5",
+      "date": "2026-08-24 18:57",
+      "summary": "New AI tool compresses data without losing critical details  Stanford Report..."
     },
     {
       "title": "Stanford’s defense takes on a new attitude under ex-NFL coordinator Kris Richard - Marin Independent Journal",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ2VFcXhDMzVsSi1uWG9XYVFwRFp2VGtDekptNmF5V2VqbUU5ODlZb3NhdXN1RElYaUtHZ3E5NGxTVS1NUHV4ZGxwMkZXNjI5dTJsakp1UFJHVmFKQ21UaktqZ0VJdHFRdWc2T0I4RUZ6dXRKQ0NrbkNmeDBOWGJPRHhNNV82UQ?oc=5",
       "date": "2026-08-21 22:24",
       "summary": "Stanford professors share 3 questions to help you decide where to take your life next  Yahoo Lifestyle Canada..."
-    },
-    {
-      "title": "A New Season for Student-Athlete Organizing: What Stanford and Oregon State May Signal About the Next Phase - JD Supra",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2F2ZHJLWHE5SFF2NVNqUGFkVWVqNTF3MUZWa3lLWFhqQ2NHSFhENGQ3ZnJ1UFdCQmZENmc4cFlmN2NxN3JpTmFKdHlDa0VoMGdycUVNMEg5M00wTHkySC1UNFBMazYtNmNXSHk0aGQ2QktIcG4tQWpRUkZQUjY0Xw?oc=5",
-      "date": "2026-08-24 17:52",
-      "summary": "A New Season for Student-Athlete Organizing: What Stanford and Oregon State May Signal About the Next Phase  JD Supra..."
     }
   ],
   "Nature Careers": [
@@ -161,34 +161,34 @@
   ],
   "Reuters AI": [
     {
-      "title": "Taiwan issues indictments over alleged illegal export of AI servers to China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
-      "date": "2026-08-24 09:22",
-      "summary": "Taiwan issues indictments over alleged illegal export of AI servers to China  Reuters..."
-    },
-    {
       "title": "Alibaba launches Wan3.0 AI video model after $10 billion share sale - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf?oc=5",
       "date": "2026-08-24 08:23",
       "summary": "Alibaba launches Wan3.0 AI video model after $10 billion share sale  Reuters..."
     },
     {
-      "title": "Alibaba shares slide after $10.2 billion AI share sale offered at sharp discount - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmJDLXh4Z1Q1TU1xaFVKallDYkY5TmdpYUlUTkpxZ1BGS09ReGNfSlJTd0F4OGNKYndTUndKRmRVaU9DUUNfWVc0b1FyV211dFQwRTdHZS1CNExRd3owLU93WEUtcWZ6YkQyOThYMmZlNDFJM01RbjhOenhvaFptLW44S2tmR2pPSjJOWlhnUHNhUy02Wm1Td0gyY3F1QzhyQk42YWhnNl9UUXBxY0Z3bzhUSm1tRjhTZ3YyM3dVU21ibERiRzMtQ3B6eTlfZw?oc=5",
-      "date": "2026-08-24 01:32",
-      "summary": "Alibaba shares slide after $10.2 billion AI share sale offered at sharp discount  Reuters..."
-    },
-    {
-      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
-      "date": "2026-08-22 20:00",
-      "summary": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports  Reuters..."
-    },
-    {
       "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
       "date": "2026-08-23 22:30",
       "summary": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending  Reuters..."
+    },
+    {
+      "title": "Thomson Reuters launches proprietary AI model for legal work - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmpwLUt2cU1XVnVacVFrd2F4QkZJc0Q0MjZOZjA4T3FCUGxBdGhYaVVRQ2gzT0VpWDFzU3dlREVFOEx4MG5wWUZrcDJHcGRHODdyYVR3TER5eVlQR3pRWVQ1LXItMm5qWWtram5HZHZGNXpiQ0ZJZmh1a0dXVVRNZE5TeHY0WGpOYVRFeE03MFNpOHZicHFiazZ2LUpfQQ?oc=5",
+      "date": "2026-08-24 13:00",
+      "summary": "Thomson Reuters launches proprietary AI model for legal work  SiliconANGLE..."
+    },
+    {
+      "title": "Taiwan issues indictments over alleged illegal export of AI servers to China - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
+      "date": "2026-08-24 06:25",
+      "summary": "Taiwan issues indictments over alleged illegal export of AI servers to China  Reuters..."
+    },
+    {
+      "title": "Alibaba shares slide after $10.2 billion AI share sale offered at sharp discount - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmJDLXh4Z1Q1TU1xaFVKallDYkY5TmdpYUlUTkpxZ1BGS09ReGNfSlJTd0F4OGNKYndTUndKRmRVaU9DUUNfWVc0b1FyV211dFQwRTdHZS1CNExRd3owLU93WEUtcWZ6YkQyOThYMmZlNDFJM01RbjhOenhvaFptLW44S2tmR2pPSjJOWlhnUHNhUy02Wm1Td0gyY3F1QzhyQk42YWhnNl9UUXBxY0Z3bzhUSm1tRjhTZ3YyM3dVU21ibERiRzMtQ3B6eTlfZw?oc=5",
+      "date": "2026-08-24 01:32",
+      "summary": "Alibaba shares slide after $10.2 billion AI share sale offered at sharp discount  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Mule helps scientists build the clearest horse and donkey genomes yet",
-      "link": "https://phys.org/news/2026-08-mule-scientists-clearest-horse-donkey.html",
-      "date": "2026-08-24 18:20",
-      "summary": "A mule has helped researchers build the most complete reference genomes to date for horses and donkeys, giving scientists access t..."
+      "title": "What happens inside a wildfire? A Ph.D. student is finding out",
+      "link": "https://phys.org/news/2026-08-wildfire-phd-student.html",
+      "date": "2026-08-24 19:20",
+      "summary": "What happens during a wildfire? The short answer is: much more than we know. As wildfires burn through trees, grasses and other ve..."
     },
     {
-      "title": "A single lever could ease India's twin agricultural pressures of fertilizer pollution and groundwater stress",
-      "link": "https://phys.org/news/2026-08-lever-ease-india-twin-agricultural.html",
-      "date": "2026-08-24 18:20",
-      "summary": "A new study from the Indian Institute of Technology Gandhinagar (IITGN) and the Helmholtz Centre for Environmental Research (UFZ) ..."
+      "title": "Dung beetles offer insights into biodiversity in Singapore",
+      "link": "https://phys.org/news/2026-08-dung-beetles-insights-biodiversity-singapore.html",
+      "date": "2026-08-24 19:20",
+      "summary": "Dung beetles could provide scientists with a new way to uncover the animals living in Singapore's forests, including elusive speci..."
     },
     {
-      "title": "A 2-degree twist creates a nanoscale grid that traps light energy at room temperature",
-      "link": "https://phys.org/news/2026-08-degree-nanoscale-grid-energy-room.html",
-      "date": "2026-08-24 18:00",
-      "summary": "You may have once tried taking a close-up picture of a computer screen and noticed a wavy, rippling effect. This optical effect oc..."
+      "title": "Why ancient grasslands, once plowed, don't grow back the same",
+      "link": "https://phys.org/news/2026-08-ancient-grasslands-plowed-dont.html",
+      "date": "2026-08-24 19:00",
+      "summary": "When a 10,000-year-old prairie is plowed up to plant corn or a savanna is consumed by a strip mall, these once-grassy expanses, if..."
     },
     {
-      "title": "Study uses the internet of bodies to gauge film's emotional power",
-      "link": "https://phys.org/news/2026-08-internet-bodies-gauge-emotional-power.html",
-      "date": "2026-08-24 18:00",
-      "summary": "Research in the International Journal of Arts and Technology monitored electrical brain activity and heart rates in people watchin..."
+      "title": "Mapping the 'hidden highways' of Mexico's illegal wildlife trade",
+      "link": "https://phys.org/news/2026-08-hidden-highways-mexico-illegal-wildlife.html",
+      "date": "2026-08-24 19:00",
+      "summary": "For decades, wildlife traffickers have illegally captured and sold hundreds of thousands of wild parrots native to Mexico. Despite..."
     },
     {
-      "title": "Five ways Europe's heat-wave summer is hot, hot, hot",
-      "link": "https://phys.org/news/2026-08-ways-europe-summer-hot.html",
-      "date": "2026-08-24 17:40",
-      "summary": "Temperatures have been off the charts this year in Europe, the continent warming faster than any other continent. Here are five re..."
+      "title": "Europe's buildings are designed for a climate that no longer exists—new open dataset offers a fix",
+      "link": "https://phys.org/news/2026-08-europe-climate-longer-dataset.html",
+      "date": "2026-08-24 19:00",
+      "summary": "The weather files engineers use to design buildings are built from decades of historical measurements. The data can be more than 3..."
     }
   ],
   "The Guardian Edu": [
