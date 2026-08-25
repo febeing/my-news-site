@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "The secret love life of the longfin squid",
+      "link": "https://news.mit.edu/2026/secret-love-life-of-longfin-squid-0825",
+      "date": "2026-08-25 13:35",
+      "summary": "MIT Sea Grant resident artist and acclaimed underwater photographer Keith Ellenbogen captures an intimate look at courtship and co..."
+    },
+    {
       "title": "Brain circuit keeps tabs on what just happened to aid judgment of what’s happening now",
       "link": "https://news.mit.edu/2026/brain-keeps-tabs-what-just-happened-to-aid-judgment-whats-happening-now-0824",
       "date": "2026-08-24 19:40",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/language-skills-stay-strong-older-adults-even-while-other-cognitive-abilities-decline-0824",
       "date": "2026-08-24 09:00",
       "summary": "MIT researchers find that activity in the brain’s language network is nearly identical in young and old people...."
-    },
-    {
-      "title": "The importance of indoor airflow patterns in spreading airborne disease",
-      "link": "https://news.mit.edu/2026/indoor-airflow-patterns-importance-spreading-airborne-disease-0821",
-      "date": "2026-08-21 16:00",
-      "summary": "Researchers explore how a key factor can mitigate or promote tuberculosis transmission...."
     }
   ],
   "Harvard Gazette": [
@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "Addendum: Sea level much higher than assumed in most coastal hazard assessments",
+      "link": "https://www.nature.com/articles/s41586-026-11017-1",
+      "date": "2026-08-25 00:00",
+      "summary": "Nature, Published online: 25 August 2026; doi:10.1038/s41586-026-11017-1Addendum: Sea level much higher than assumed in most coast..."
+    },
+    {
       "title": "Amend copyright licences to halt AI misuse and reassert human control",
       "link": "https://www.nature.com/articles/d41586-026-02633-y",
       "date": "2026-08-25 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02632-z",
       "date": "2026-08-25 00:00",
       "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02632-zAssessing students in the AI era..."
-    },
-    {
-      "title": "A guide to securing your first research fellowship: what reviewers are looking for",
-      "link": "https://www.nature.com/articles/d41586-026-02115-1",
-      "date": "2026-08-25 00:00",
-      "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02115-1How early-career researchers can strengthen their track re..."
     }
   ],
   "Retraction Watch": [
@@ -167,16 +167,16 @@
       "summary": "UK, Ukraine sign AI defence partnership linked to battlefield technology  Reuters..."
     },
     {
-      "title": "Thomson Reuters launches proprietary AI model for legal work - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmpwLUt2cU1XVnVacVFrd2F4QkZJc0Q0MjZOZjA4T3FCUGxBdGhYaVVRQ2gzT0VpWDFzU3dlREVFOEx4MG5wWUZrcDJHcGRHODdyYVR3TER5eVlQR3pRWVQ1LXItMm5qWWtram5HZHZGNXpiQ0ZJZmh1a0dXVVRNZE5TeHY0WGpOYVRFeE03MFNpOHZicHFiazZ2LUpfQQ?oc=5",
-      "date": "2026-08-24 13:00",
-      "summary": "Thomson Reuters launches proprietary AI model for legal work  SiliconANGLE..."
+      "title": "Google expands Gemini AI platform for law firms, lawyers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
+      "date": "2026-08-25 12:10",
+      "summary": "Google expands Gemini AI platform for law firms, lawyers  Reuters..."
     },
     {
-      "title": "Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway. - The New Stack",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RelNWYlpvSV9NY3ZFNV9QQ2R4ZmhZUnl2cmN5bVhmamY3S3VBaEdfM3g2WFdLLVRHZy1kalZuM2IwbWhub3Jqdy10S0JOWVgtMTNYUDd2WXNWVVhx?oc=5",
-      "date": "2026-08-24 13:15",
-      "summary": "Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway.  The New Stack..."
+      "title": "EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1VQWjVudDlPckk5b1pkQ3U1bENxZUx1eGxOeGY2OHVKeHNKcERBeC1yOUVhQUcwYThGejZnbUNIOFY1cUtjam90bGZaWnRYNnlzQXM5X0ZoekNNMkljcDRmaEsyLVplOGx3OUdKaG10WVBISHRza3ZGQTNadjFSUmVOSmtYRl9jLURCQndQc19lSjdEWTlEWENKNTB3Q3Zlc0tTdDd6bUxiVmMxTXZzbw?oc=5",
+      "date": "2026-08-25 10:30",
+      "summary": "EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe  Reuters..."
     },
     {
       "title": "German broker Scalable opens investment platform to major AI chatbots - Reuters",
@@ -185,10 +185,10 @@
       "summary": "German broker Scalable opens investment platform to major AI chatbots  Reuters..."
     },
     {
-      "title": "EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1VQWjVudDlPckk5b1pkQ3U1bENxZUx1eGxOeGY2OHVKeHNKcERBeC1yOUVhQUcwYThGejZnbUNIOFY1cUtjam90bGZaWnRYNnlzQXM5X0ZoekNNMkljcDRmaEsyLVplOGx3OUdKaG10WVBISHRza3ZGQTNadjFSUmVOSmtYRl9jLURCQndQc19lSjdEWTlEWENKNTB3Q3Zlc0tTdDd6bUxiVmMxTXZzbw?oc=5",
-      "date": "2026-08-25 10:30",
-      "summary": "EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe  Reuters..."
+      "title": "Morning Bid: Waiting on Nvidia for next leg of AI rally - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRzR6dW5TVWtzeEswZlh0SHpjT09mZWlsd0VMSFRGb0dSSlJ2WXNnZ0NtYnV6STFLMkJLN3dWalhmSEtCSThLTVNIaElWR3Bld204dnExYkZNNlJtQk1qdU1XcnItQ2hQRWhpeUxET19oZ0NidDFMWm01X1ZtN2M?oc=5",
+      "date": "2026-08-25 04:40",
+      "summary": "Morning Bid: Waiting on Nvidia for next leg of AI rally  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -197,6 +197,12 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3kzLU43eWZHTHdXRE5mdlBESG8tMFNJUWF4VEFtckJMbnpCbmV2YXhMd2Y2RzhuYkRoNGpRQzhnUTU1NXp2LWdjX0t1UDlMWXA4SU9TYmpxbmVIdGJRM0xnR1ROYWNpYy1id25WczRaTDZUVDlESkR6VUpOTFlOOUU5MGZfWHpvUXVUUXF4TWthblVNWkgtVjZR0gGfAUFVX3lxTFAxQmNtbWVwSnZLX2pLMEZrdmdWUHF3X0hmMkhPX2M2VHZBU3lkMHlQRTRBRmRnT1JjZlhrc2pwMjk2TUNPQVg3NTh3MjV2YW51QkxVQ0k2ZmlTVHJQUEN0Rmh4TU1HZWVuUWZ0OV92bDhFekltdnQyM0JuMkFaUG12dGZCWV9lRUFuWGF3b1RvQlVYQ2tza0FaWXdnc2syMA?oc=5",
       "date": "2026-08-25 09:00",
       "summary": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.  MIT Technology Review..."
+    },
+    {
+      "title": "Kids outlearn AI—and we still don’t know why - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanVUbG5NampKTmxSNlJnVXBnc2dnX3Z5ekotOHBGSjVVZHh0N2RnNTEtdkd3NlJzNmwyTk5zTlg4TE9CSmktUWpMc3FUcFZReW1yTDdvZnJpNTFtNms0MFNHSTdmTklUMHFEVEhvanA5SmRyNnVkbmRpVXZWTFF6V2hTLVlmdVJIamY1UNIBkgFBVV95cUxPWHFnMFM0R1ZBOWdsOUprbWJrWDczT2VuLVVGdXlPZFp5bFpJenA3TXN3dVZRX3duTm9Jd210SWhWeHZmdWZSaU5fYzBicUNWb0x0YW9RbVZoa2VDS1hrd0R6d3BYT2tQTUZnYmM0cWE2R0hUemdJdzl6Z29CSWhqdHdyTmNYVXRYOGt2aFptMkdYUQ?oc=5",
+      "date": "2026-08-24 09:00",
+      "summary": "Kids outlearn AI—and we still don’t know why  MIT Technology Review..."
     },
     {
       "title": "Welcome to the spiderverse, a world measured through webs - MIT Technology Review",
@@ -211,12 +217,6 @@
       "summary": "How to encourage smarter AI use in the classroom  MIT Technology Review..."
     },
     {
-      "title": "Kids outlearn AI—and we still don’t know why - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanVUbG5NampKTmxSNlJnVXBnc2dnX3Z5ekotOHBGSjVVZHh0N2RnNTEtdkd3NlJzNmwyTk5zTlg4TE9CSmktUWpMc3FUcFZReW1yTDdvZnJpNTFtNms0MFNHSTdmTklUMHFEVEhvanA5SmRyNnVkbmRpVXZWTFF6V2hTLVlmdVJIamY1UNIBkgFBVV95cUxPWHFnMFM0R1ZBOWdsOUprbWJrWDczT2VuLVVGdXlPZFp5bFpJenA3TXN3dVZRX3duTm9Jd210SWhWeHZmdWZSaU5fYzBicUNWb0x0YW9RbVZoa2VDS1hrd0R6d3BYT2tQTUZnYmM0cWE2R0hUemdJdzl6Z29CSWhqdHdyTmNYVXRYOGt2aFptMkdYUQ?oc=5",
-      "date": "2026-08-24 09:00",
-      "summary": "Kids outlearn AI—and we still don’t know why  MIT Technology Review..."
-    },
-    {
       "title": "When AI designs a drug, who gets the credit? - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGhYSjZMMkpXQ3hFQTBOb2NYeDVlamdYMzk4enRGcWFBbnlvWjV6Y3lxVE8tVk5LeGhtNy1LQ3VyejQtNDhvaXpzV0puclBxUXlEWGF6QmFCM3F1b244WEpyRVJ4N3dMWDd0QXBhQWdmZHBEVm80SG5sN0pTWEZUbUluSHFKSEF5OHJ0TXRNSFpVUmdsUzZXY0k2ONIBoAFBVV95cUxNZU5tR0tjaVlQOWpxMTRqQ3RTRHlNb3lNVnJFdXVDeFpvWEpzWk1QYlA3S2lCT0Z3LUFVeldrQWRTTUtoUUhOVzE1amJQcmZJY2o1V3ZCTmpIUnJfMEJjaUZXd2YtemFkUzYteWQ1Z2t4QUl5V2hRUFVfNkxMa0FKR015RldZV01XQUFJaS1aa3NWNzRseF9ySXpkRnJPN0Fa?oc=5",
       "date": "2026-08-21 09:00",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Does heavy social media use damage your family's relationship?",
-      "link": "https://phys.org/news/2026-08-heavy-social-media-family-relationship.html",
-      "date": "2026-08-25 12:40",
-      "summary": "Children glued to their phones all day? Parents spending hours scrolling? The positive (and slightly surprising) news is that whil..."
+      "title": "From nightlife to life at night: Cities must stay open later to beat the rising heat",
+      "link": "https://phys.org/news/2026-08-nightlife-life-night-cities-stay.html",
+      "date": "2026-08-25 13:40",
+      "summary": "Summer in Europe is normally cause for celebration. Not this one, however, which will rank as one of the hottest on record. Wildfi..."
     },
     {
-      "title": "Large mammals alter soil chemistry and increase fertility in the Atlantic Forest",
-      "link": "https://phys.org/news/2026-08-large-mammals-soil-chemistry-fertility.html",
-      "date": "2026-08-25 12:20",
-      "summary": "A study published in the journal Ecological Monographs indicates that large mammals, such as tapirs, peccaries, agoutis and deer, ..."
+      "title": "AI financial advice can improve decisions or steer investors wrong, experiment finds",
+      "link": "https://phys.org/news/2026-08-ai-financial-advice-decisions-investors.html",
+      "date": "2026-08-25 13:40",
+      "summary": "To what extent can AI improve our financial decisions or steer us in the wrong direction? Researchers at the University of Bayreut..."
     },
     {
-      "title": "The little red dots of our cosmos might hide something big",
-      "link": "https://phys.org/news/2026-08-red-dots-cosmos-big.html",
-      "date": "2026-08-25 12:00",
-      "summary": "Little red dots may reside in small, dense galaxies with total masses equivalent to around 1 billion times that of the sun, accord..."
+      "title": "'Now boarding' … 240,000 miles from Earth, at the moon's first airport",
+      "link": "https://phys.org/news/2026-08-boarding-miles-earth-moon-airport.html",
+      "date": "2026-08-25 13:20",
+      "summary": "The moon's getting its first airport, and it's about to get busy. Within the next two decades, NASA's planned Gateway—humanity's f..."
     },
     {
-      "title": "Ancient dental calculus reveals diverse diets of commoners in premodern Osaka, Japan, the 'Kitchen of the Realm'",
-      "link": "https://phys.org/news/2026-08-ancient-dental-calculus-reveals-diverse.html",
-      "date": "2026-08-25 12:00",
-      "summary": "What did ordinary people really eat in premodern Japan, beyond the dishes described in cookbooks and the bones discarded at urban ..."
+      "title": "Probing issues relevant to students boosts civic engagement",
+      "link": "https://phys.org/news/2026-08-probing-issues-relevant-students-boosts.html",
+      "date": "2026-08-25 13:20",
+      "summary": "When social studies students delve into issues that affect their communities and discuss them in class, they are more likely to co..."
     },
     {
-      "title": "Can AI replace traditional language learning? A new study says not yet",
-      "link": "https://phys.org/news/2026-08-ai-traditional-language.html",
-      "date": "2026-08-25 11:40",
-      "summary": "When university students set out to learn English as an additional language, it's not just about internalizing a new list of words..."
+      "title": "Monitoring employee performance: The pitfalls for HR",
+      "link": "https://phys.org/news/2026-08-employee-pitfalls-hr.html",
+      "date": "2026-08-25 13:00",
+      "summary": "Performance metrics designed to motivate employees and drive efficiency in the workplace can paradoxically leave workers less enga..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Another suspect in HK$7m gold robbery at Hong Kong airport held after car crash",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365238/another-suspect-hk7m-gold-robbery-hong-kong-airport-held-after-car-crash?utm_source=rss_feed",
+      "date": "2026-08-25 13:21",
+      "summary": "A suspect linked to a HK$7 million (US$893,200) gold robbery at Hong Kong International Airport has been arrested after crashing h..."
+    },
+    {
+      "title": "JD.com boosts Northern Metropolis logistics hub, but hurdles loom: experts",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365235/jdcom-boosts-northern-metropolis-logistics-hub-hurdles-loom-experts?utm_source=rss_feed",
+      "date": "2026-08-25 13:02",
+      "summary": "JD.com may be a major logistics leader in mainland China, but as part of a joint venture that won the first land project in the No..."
+    },
+    {
       "title": "Woman fined HK$4,000 over unleashed dog attack at Hong Kong pet garden",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365232/woman-fined-hk4000-over-unleashed-dog-attack-hong-kong-pet-garden?utm_source=rss_feed",
       "date": "2026-08-25 12:22",
@@ -305,18 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365216/hong-kong-jewellery-shop-slapped-30-day-tour-group-ban-over-coerced-sales?utm_source=rss_feed",
       "date": "2026-08-25 10:50",
       "summary": "Hong Kong’s tourism watchdog has suspended a jewellery shop from receiving tour groups for 30 days after finding it failed to stop..."
-    },
-    {
-      "title": "Hong Kong power firms to raise fuel charges from September amid geopolitical tensions",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3365205/hong-kong-power-firms-raise-fuel-charges-september-amid-geopolitical-tensions?utm_source=rss_feed",
-      "date": "2026-08-25 09:53",
-      "summary": "Hong Kong’s two electricity suppliers will raise fuel-related charges from next month, citing geopolitical tensions and volatility..."
-    },
-    {
-      "title": "Hong Kong exports jump 50.7% in July, driven by growth in AI-related electronics",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365195/hong-kong-exports-jump-507-july-driven-growth-ai-related-electronics?utm_source=rss_feed",
-      "date": "2026-08-25 09:01",
-      "summary": "Hong Kong exports surged by 50.7 per cent year on year in July, driven by “impressive growth” in AI-related electronic products, w..."
     }
   ]
 }
