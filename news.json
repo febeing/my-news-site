@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
-      "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
-    },
-    {
       "title": "Holding onto your humanity, against the herd - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMW1jd2JkcGNycFdpSE52emhSb0RXOE9qZ0xUaG9JWkN3ek54RnhnLTJBaUlta2tQZHdmLV9VM093Q3owLVl2eXBjdEhVdXg2cTUyUG9Pb3daVmxDbExrUmhERlFEcHdSVVFFNGFkRGRvUTZSblRSQzlra2NYdkNyVTNvRDhWSXRmeVlTMjlhQUZCa0pZdnc?oc=5",
       "date": "2026-08-17 15:44",
@@ -51,16 +45,22 @@
       "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
     },
     {
+      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
+      "date": "2026-06-03 07:00",
+      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
+    },
+    {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
+      "date": "2026-07-10 07:00",
+      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -205,16 +205,16 @@
       "summary": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.  MIT Technology Review..."
     },
     {
-      "title": "Seeing through murky waters - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzZ6WXZUaDRHbDFfUlBBRVJJd0ZDanRyV2d0TjFkWnZSNjVqdGpyajNoOUxOQ2Q1RXVRZXR0amhoU1N6dFc0MzUweDUydXljOWp3TElMb2JhVE15OEwxbzFYREp1cjE4OXRWeUNZR1h6N0pNV2xOVXJhNWZlc3BXNUMtaUs2X0nSAYwBQVVfeXFMTnQwRDJYVTFuZTAtLWFCUHhaUzJVU3hrYWV1LXZRbWRfSmI3QmtHVC1XeFkzT1IwNzdVMFRveUhXTmxsUDFXaVZvSlB2MEpnb3BoWURocHlQTXlmTUtZY0FqMmFQRzNEZi1EOTdNRXMyQ3c4TU9WYTdRYUdlZ1l6NnpoMDA3VFpHb0dIbmI?oc=5",
-      "date": "2026-08-25 21:00",
-      "summary": "Seeing through murky waters  MIT Technology Review..."
-    },
-    {
       "title": "Launching youth entrepreneurship - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFh1XzhQN0VEU3hsQ3k0MnE3b0dZUmpERndoVFVvaE4yclQ0S2ctOVFZZ2RaTXEwU09xRWRTSlV0RGFLTEstNlNmVnBjSmRJZHlPYVF5cUY3T25oSHlKdUFtNDlHOTRvazhqcUJ6emNsbUlQZmpsSVJXM0h5WU90dnRRTEdhc1E5THQwNW930gGTAUFVX3lxTFBKa01NSTFnemotbVYwOHhDLUw3Smx5Q1VUN1pDWXFkVW1admp4MHRpWkJMMVRtSEE3QUx3QzRvSEx3UG1lQ2JWVXZEYkMtd2JBZFFfRGVuOW5jel9wbnNHV1k5cjNCczdIQVVmRVZkV3MwaTBvd2JnVGdpRnB5czVzeWJGeEJqeE9hUWw3MG1UdEU1aw?oc=5",
       "date": "2026-08-25 21:00",
       "summary": "Launching youth entrepreneurship  MIT Technology Review..."
+    },
+    {
+      "title": "Seeing through murky waters - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzZ6WXZUaDRHbDFfUlBBRVJJd0ZDanRyV2d0TjFkWnZSNjVqdGpyajNoOUxOQ2Q1RXVRZXR0amhoU1N6dFc0MzUweDUydXljOWp3TElMb2JhVE15OEwxbzFYREp1cjE4OXRWeUNZR1h6N0pNV2xOVXJhNWZlc3BXNUMtaUs2X0nSAYwBQVVfeXFMTnQwRDJYVTFuZTAtLWFCUHhaUzJVU3hrYWV1LXZRbWRfSmI3QmtHVC1XeFkzT1IwNzdVMFRveUhXTmxsUDFXaVZvSlB2MEpnb3BoWURocHlQTXlmTUtZY0FqMmFQRzNEZi1EOTdNRXMyQ3c4TU9WYTdRYUdlZ1l6NnpoMDA3VFpHb0dIbmI?oc=5",
+      "date": "2026-08-25 21:00",
+      "summary": "Seeing through murky waters  MIT Technology Review..."
     },
     {
       "title": "AgeLab research inspires an A I startup - MIT Technology Review",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Workplace social media reduces staff turnover, study finds",
-      "link": "https://phys.org/news/2026-08-workplace-social-media-staff-turnover.html",
-      "date": "2026-08-25 22:20",
-      "summary": "Social media used inside organizations may help engage employees and increase staff retention, according to a paper in the Interna..."
+      "title": "Four ζ-carotene isomers reveal light-driven shifts and skin-protective potential",
+      "link": "https://phys.org/news/2026-08-carotene-isomers-reveal-driven-shifts.html",
+      "date": "2026-08-25 23:20",
+      "summary": "ζ-Carotene, a key intermediate in lycopene biosynthesis, is widely found in plants and photosynthetic microorganisms, but its isom..."
     },
     {
-      "title": "Hydroclimate whiplash damages California's tallest redwoods after years of drought",
-      "link": "https://phys.org/news/2026-08-hydroclimate-whiplash-california-tallest-redwoods.html",
-      "date": "2026-08-25 22:20",
-      "summary": "Tall trees are generally associated with high-biomass forests. This is particularly true for forests dominated by Sequoia sempervi..."
+      "title": "A near extinct plant in Galápagos is now recovering",
+      "link": "https://phys.org/news/2026-08-extinct-galpagos-recovering.html",
+      "date": "2026-08-25 23:20",
+      "summary": "A 30-year conservation effort has helped the critically endangered Galápagos snapdragon (Galvezia leucantha subsp. leucantha) reco..."
     },
     {
-      "title": "3D atomic imaging reveals a new pathway to crystal formation",
-      "link": "https://phys.org/news/2026-08-3d-atomic-imaging-reveals-pathway.html",
-      "date": "2026-08-25 22:00",
-      "summary": "The most common scientific approach for thinking about how condensation, freezing and other phase transitions begin is based in cl..."
+      "title": "Porpoise entanglement recorded in real time, revealing calls and escape attempts",
+      "link": "https://phys.org/news/2026-08-porpoise-entanglement-real-revealing.html",
+      "date": "2026-08-25 23:10",
+      "summary": "Researchers at the University of St Andrews have gained unprecedented insight into marine mammal behavior when they become tangled..."
     },
     {
-      "title": "Closing the gap between wildfire modeling and real-world response",
-      "link": "https://phys.org/news/2026-08-gap-wildfire-real-world-response.html",
-      "date": "2026-08-25 22:00",
-      "summary": "Canada's 2023 wildfire season burned more than 18.5 million hectares (45.7 million acres), an area larger than Greece. As fires li..."
+      "title": "Could we protect all western US communities from wildfires and facilitate restoring fire to wildlands within a decade?",
+      "link": "https://phys.org/news/2026-08-western-communities-wildfires-wildlands-decade.html",
+      "date": "2026-08-25 23:00",
+      "summary": "In a new study in Environmental Research: Ecology, I analyzed how fires were able to burn into communities and how fire-resistant ..."
     },
     {
-      "title": "JWST reveals a race against time for forming planets",
-      "link": "https://phys.org/news/2026-08-jwst-reveals-planets.html",
-      "date": "2026-08-25 21:50",
-      "summary": "Planets form from disks of gas and dust around young stars, but the gas needed for growth does not last forever. New observations ..."
+      "title": "Although research on animal production and climate is growing, implementation in the field remains challenging",
+      "link": "https://phys.org/news/2026-08-animal-production-climate-field.html",
+      "date": "2026-08-25 22:40",
+      "summary": "Climate change is reshaping global livestock production systems and leading to increased research on the topic. However, science s..."
     }
   ],
   "The Guardian Edu": [
