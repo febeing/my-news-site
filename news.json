@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Cells use a little-known molecule to protect themselves from iron overload",
+      "link": "https://news.mit.edu/2026/cells-use-little-known-molecule-protect-themselves-iron-overload-0825",
+      "date": "2026-08-25 20:40",
+      "summary": "This discovery points toward new combination strategies against cancer, and may explain the iron buildup seen in disorders such as..."
+    },
+    {
       "title": "The secret love life of the longfin squid",
       "link": "https://news.mit.edu/2026/secret-love-life-of-longfin-squid-0825",
       "date": "2026-08-25 13:35",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
       "date": "2026-08-24 18:00",
       "summary": "A new algorithm learns to anticipate the unprecedented scenarios that critical infrastructure and global supply chains are least p..."
-    },
-    {
-      "title": "Language skills stay strong in older adults, even while other cognitive abilities decline",
-      "link": "https://news.mit.edu/2026/language-skills-stay-strong-older-adults-even-while-other-cognitive-abilities-decline-0824",
-      "date": "2026-08-24 09:00",
-      "summary": "MIT researchers find that activity in the brain’s language network is nearly identical in young and old people...."
     }
   ],
   "Harvard Gazette": [
@@ -161,10 +161,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1VQWjVudDlPckk5b1pkQ3U1bENxZUx1eGxOeGY2OHVKeHNKcERBeC1yOUVhQUcwYThGejZnbUNIOFY1cUtjam90bGZaWnRYNnlzQXM5X0ZoekNNMkljcDRmaEsyLVplOGx3OUdKaG10WVBISHRza3ZGQTNadjFSUmVOSmtYRl9jLURCQndQc19lSjdEWTlEWENKNTB3Q3Zlc0tTdDd6bUxiVmMxTXZzbw?oc=5",
-      "date": "2026-08-25 10:30",
-      "summary": "EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe  Reuters..."
+      "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
+      "date": "2026-08-25 15:33",
+      "summary": "Google expands Gemini Enterprise AI platform for law firms, lawyers  Reuters..."
     },
     {
       "title": "Thomson Reuters launches proprietary AI model for legal work - SiliconANGLE",
@@ -179,10 +179,10 @@
       "summary": "Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway.  The New Stack..."
     },
     {
-      "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
-      "date": "2026-08-25 15:33",
-      "summary": "Google expands Gemini Enterprise AI platform for law firms, lawyers  Reuters..."
+      "title": "EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1VQWjVudDlPckk5b1pkQ3U1bENxZUx1eGxOeGY2OHVKeHNKcERBeC1yOUVhQUcwYThGejZnbUNIOFY1cUtjam90bGZaWnRYNnlzQXM5X0ZoekNNMkljcDRmaEsyLVplOGx3OUdKaG10WVBISHRza3ZGQTNadjFSUmVOSmtYRl9jLURCQndQc19lSjdEWTlEWENKNTB3Q3Zlc0tTdDd6bUxiVmMxTXZzbw?oc=5",
+      "date": "2026-08-25 10:30",
+      "summary": "EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe  Reuters..."
     },
     {
       "title": "UK, Ukraine sign AI defence partnership linked to battlefield technology - Reuters",
@@ -199,60 +199,60 @@
       "summary": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.  MIT Technology Review..."
     },
     {
-      "title": "Art and algorithms at Sotheby’s - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV3ZkRVdvNzdEbl9mX000Tko0ZEtmX2doM05oWVUyaF9OQWQ3a2JYUlNTdXBVckYxYUhDZnNFQW5RY2xDNnNyVzlGbVZ4eFg3QmdGcElDdlp6XzVwbG90dTc0c1RSMkhSNHZIUm9mekVhTTFVNkI4TG9aeVpEYVhGOWN2T0VGTXhuTmJZ0gGQAUFVX3lxTE1URWcxZUltcGN1MjdKZU9PZ3NuU045MFoxd0dWamdnYl8xYnN1VlJJLUhxYkdvdWhkZkRPbTJEYkNLdFQwbkZaWUE1T0k0ODJyQmdvYWpMUGNHNXl3aWhtWGRxNGkwRl9PLVdkdXY4RHdPVEdJM1BoUkFDOTA1ajA5M29iZzF4VklMcDFmQ3F3dQ?oc=5",
-      "date": "2026-08-25 18:00",
-      "summary": "Art and algorithms at Sotheby’s  MIT Technology Review..."
+      "title": "Launching youth entrepreneurship - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFh1XzhQN0VEU3hsQ3k0MnE3b0dZUmpERndoVFVvaE4yclQ0S2ctOVFZZ2RaTXEwU09xRWRTSlV0RGFLTEstNlNmVnBjSmRJZHlPYVF5cUY3T25oSHlKdUFtNDlHOTRvazhqcUJ6emNsbUlQZmpsSVJXM0h5WU90dnRRTEdhc1E5THQwNW930gGTAUFVX3lxTFBKa01NSTFnemotbVYwOHhDLUw3Smx5Q1VUN1pDWXFkVW1admp4MHRpWkJMMVRtSEE3QUx3QzRvSEx3UG1lQ2JWVXZEYkMtd2JBZFFfRGVuOW5jel9wbnNHV1k5cjNCczdIQVVmRVZkV3MwaTBvd2JnVGdpRnB5czVzeWJGeEJqeE9hUWw3MG1UdEU1aw?oc=5",
+      "date": "2026-08-25 21:00",
+      "summary": "Launching youth entrepreneurship  MIT Technology Review..."
     },
     {
-      "title": "Kids outlearn AI—and we still don’t know why - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanVUbG5NampKTmxSNlJnVXBnc2dnX3Z5ekotOHBGSjVVZHh0N2RnNTEtdkd3NlJzNmwyTk5zTlg4TE9CSmktUWpMc3FUcFZReW1yTDdvZnJpNTFtNms0MFNHSTdmTklUMHFEVEhvanA5SmRyNnVkbmRpVXZWTFF6V2hTLVlmdVJIamY1UNIBkgFBVV95cUxPWHFnMFM0R1ZBOWdsOUprbWJrWDczT2VuLVVGdXlPZFp5bFpJenA3TXN3dVZRX3duTm9Jd210SWhWeHZmdWZSaU5fYzBicUNWb0x0YW9RbVZoa2VDS1hrd0R6d3BYT2tQTUZnYmM0cWE2R0hUemdJdzl6Z29CSWhqdHdyTmNYVXRYOGt2aFptMkdYUQ?oc=5",
-      "date": "2026-08-24 09:00",
-      "summary": "Kids outlearn AI—and we still don’t know why  MIT Technology Review..."
+      "title": "A new stamp on cyberfraud prevention - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWGtHUTRSNXFndkdFejVYM2ZvTGxnVV9RSzZRVUl4VVVuRjdxUTVEVGZZaXR0dUZBdXJ6bXM4VlVrb1hxbWoyM3R1X1VqT3laYUQ2M1NFd3JJSUF6UzFyS0JpT1o1ZkdnTVlEQmhXWkhnRGVZTGFVUnA0b1hqRzNsbnowcEZoV25tSWtFaGNNSEdTaWvSAZgBQVVfeXFMT1JMRk9PSlhieVYxdDU0eHBFNHd3NWtsMFBndDl3ODl1cy1vWWNwU0VCVkR0bHNiUWlibGZ3YndBZmhhWjN1X1pRakZEc1pqeUJ5ZldWbFF0Nng1UF9XOV96bzkzVFdQbkdiN1Y4M1JCZk1VUUw3ZTh4MnRLRjVDakdaSlR6eFZvQ1NyVlRGN1VEbEdVWkxjbU4?oc=5",
+      "date": "2026-08-25 21:00",
+      "summary": "A new stamp on cyberfraud prevention  MIT Technology Review..."
     },
     {
-      "title": "How to encourage smarter AI use in the classroom - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQajAzMmpjdXVhMXBVeGdVLVFzU3ZMX2N0Z1VsNHNaelhZT0VGY0U3MzRJQUM3QnJVX2RVc0tyaHZIYXgwNXFLcEpSR3MzY2tGVWNyUjZacHJsTGI0eU1uNzlFc3RaSW1lWms0S19aczE0c3VpVTNYZXdvcno1VEZfZWdnOTRnVWgw0gGOAUFVX3lxTFBTRThrTXpZM2ZIWDd0MEtWX0dKZGJxZXR2SVBrT0pHVWt4Wnk3b05HTW9VQURuV3FuYkdtRXV5c1hXdzA1MGxyRWZZTnI5eDBGZW5EMTJ0eG1vNGZ6bzRySEVoZDh3TzdtSU9ocEFYWXdRZzVLZ3NXNHRyWERldjdMc1NqUUozVVR2cnJIRmc?oc=5",
-      "date": "2026-08-24 14:20",
-      "summary": "How to encourage smarter AI use in the classroom  MIT Technology Review..."
+      "title": "Humans aren’t electronics - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTFNaZWRyQ2VsXzRuZDgyM1pBWTNtLUQ5TmhTTENsQzVja3psQ0xHSUdiOE5ralluekxsRXljNEVQNmxTcEhDd25TbmloRTktY240eVNoMFktUkE4cVRrQ0lqRl9VY3NQUDlnV0ZZNlkwUVdmZGlwOGRoaWxOQlh4UHFza9IBiAFBVV95cUxPZWhzaGhJelpZVW10ZEc0V21KcWxTWHlxNkNfTUtxQXdkZHAxX2FNbi1sREFOQ05EdGpqRlZ0SG1xR2FZNHVpZkg1ZjgzOE9PTENjSXlIOUtCU0tHT3Fyek1kbjFwZ2tzdTRkeTMyTzRNTUhjbGtUaUdCSXZWMzhmYmZwQTdpbVhk?oc=5",
+      "date": "2026-08-25 21:00",
+      "summary": "Humans aren’t electronics  MIT Technology Review..."
     },
     {
-      "title": "Welcome to the spiderverse, a world measured through webs - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcDY3ZUxLd3JycjNYbXZ4WlBoSlVkRWpmTGtPNzY2LWZCVnRVVVBSU0hnUUJkdWtXcXNHTk8tMnI1RUE0dWxTMXk2aVRBRVk0WXB3SDExSFNBamNOc1V1YTlpYXEzZFpIZy1udTgyX2l0bnFyTnJ3WEpQVW5pWmtQa09OdnMxVWxGV0FYa1ZVUGg2dkHSAZgBQVVfeXFMT2dmekd6YmFXZ05EY2pUYWdXcmp5MHFkM0lCeW5XSzREeHJiWDJLcUJPNlhHbV9TNUxRMmZVcXUwTG9aNVNScnVzTld0RmQwV0VmSkl3WDlDQWVnbzNsRnJhbEJKMmlfQnpVeEQzZlFDOUQ5R2tMN0NIWW02bkNjdDZ4OFBhd0FWaVlKeXBGVkREcFVJMlZvNGs?oc=5",
-      "date": "2026-08-25 09:00",
-      "summary": "Welcome to the spiderverse, a world measured through webs  MIT Technology Review..."
+      "title": "A home for responsible optimists - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnFHbkZvbGlDMzFWekw2NkFSS21HMlpzckpYM2ppeHVIQjZJNkF3Z1JweWtHSm0tSnNrUEpPOG9ybk5LOVpRenRsUExUNE1OOUpTdG9aSUdjZmFhOGt6TmZLN2I2TUVKa3h2YTZhbDNMaHM5aE1aX1FEQWtVWnk4ZzBnMkFka1cyemY5R2F3?oc=5",
+      "date": "2026-08-25 21:00",
+      "summary": "A home for responsible optimists  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Even biodiversity-friendly policies may not halt declines in Europe's common birds and butterflies by 2050",
-      "link": "https://phys.org/news/2026-08-biodiversity-friendly-policies-halt-declines.html",
-      "date": "2026-08-25 20:20",
-      "summary": "As part of its efforts to map out Europe's science-policy interface for biodiversity, a paper on the correlation between governanc..."
+      "title": "Scientists unlock 'ancestral code' of banana family",
+      "link": "https://phys.org/news/2026-08-scientists-ancestral-code-banana-family.html",
+      "date": "2026-08-25 21:20",
+      "summary": "Scientists have recently reconstructed the ancestral karyotype of the banana family, revealing how chromosome numbers decreased st..."
     },
     {
-      "title": "Machine learning method uncovers hidden patterns in DNA methylation",
-      "link": "https://phys.org/news/2026-08-machine-method-uncovers-hidden-patterns.html",
-      "date": "2026-08-25 20:20",
-      "summary": "In a study recently published in Nature Communications, researchers from Berlin, Potsdam, and Jena present a new method for analyz..."
+      "title": "Pomegranate emerges as a promising natural phytobiotic for veterinary medicine",
+      "link": "https://phys.org/news/2026-08-pomegranate-emerges-natural-phytobiotic-veterinary.html",
+      "date": "2026-08-25 21:20",
+      "summary": "Researchers have identified a broad range of biological properties of pomegranate with potential medical applications, including a..."
     },
     {
-      "title": "'Buy now, pay later' may reshape retail prices, inventory, research finds",
-      "link": "https://phys.org/news/2026-08-buy-pay-reshape-retail-prices.html",
-      "date": "2026-08-25 20:00",
-      "summary": "\"Buy now, pay later\" plans—which allow consumers to split purchases into a handful of interest-free installments—have become a com..."
+      "title": "Finding the world's highest late Middle Pleistocene marine deposits",
+      "link": "https://phys.org/news/2026-08-world-highest-late-middle-pleistocene.html",
+      "date": "2026-08-25 21:00",
+      "summary": "Selma Sarı and an international group of colleagues investigated the TOL-1 section in the Mut Basin (southern Türkiye), while docu..."
     },
     {
-      "title": "Electron beams cut poultry pathogens while preserving turkey quality",
-      "link": "https://phys.org/news/2026-08-electron-poultry-pathogens-turkey-quality.html",
-      "date": "2026-08-25 20:00",
-      "summary": "Researchers are gauging the effectiveness of electron beams in the fight against foodborne pathogens in poultry. \"Impact of Electr..."
+      "title": "Sound waves do double duty, carrying and protecting quantum information",
+      "link": "https://phys.org/news/2026-08-duty-quantum.html",
+      "date": "2026-08-25 21:00",
+      "summary": "Researchers at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) have demonstrated a promising new way..."
     },
     {
-      "title": "Relentless heat and drought take a toll on herders' physical and mental health, in Kenya and the US",
-      "link": "https://phys.org/news/2026-08-relentless-drought-toll-herders-physical.html",
-      "date": "2026-08-25 19:40",
-      "summary": "If being outside in the heat for even a few minutes felt miserable this summer, imagine what it's like for herders who are always ..."
+      "title": "Developing a genetic toolkit for manipulating abundant intestinal microbes",
+      "link": "https://phys.org/news/2026-08-genetic-toolkit-abundant-intestinal-microbes.html",
+      "date": "2026-08-25 20:40",
+      "summary": "Weill Cornell Medicine investigators have developed a set of molecular tools to regulate the activity of specific genes in one of ..."
     }
   ],
   "The Guardian Edu": [
