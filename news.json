@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "AI helps design new materials that work in the real world",
+      "link": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826",
+      "date": "2026-08-26 09:00",
+      "summary": "The “CrysVCD” tool developed at MIT could cut the huge amounts of time and money spent on screening out chemically unstable design..."
+    },
+    {
       "title": "Retooling to help democracy revive",
       "link": "https://news.mit.edu/2026/retooling-to-help-democracy-revive-daron-acemoglu-book-0826",
       "date": "2026-08-26 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/brain-keeps-tabs-what-just-happened-to-aid-judgment-whats-happening-now-0824",
       "date": "2026-08-24 19:40",
       "summary": "To keep track of what’s going on in front of it, the brain relies not only on what it sees, but also a comparison with what it jus..."
-    },
-    {
-      "title": "Meteorite dust holds records of magnetism that may have helped form the sun",
-      "link": "https://news.mit.edu/2026/meteorite-dust-holds-records-magnetism-may-have-helped-form-sun-0824",
-      "date": "2026-08-24 19:00",
-      "summary": "The discovery likely represents the earliest known evidence of a magnetic field in the infant solar system...."
     }
   ],
   "Harvard Gazette": [
@@ -161,22 +161,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
-      "date": "2026-08-25 20:13",
-      "summary": "Google expands Gemini Enterprise AI platform for law firms, lawyers  Reuters..."
-    },
-    {
       "title": "The US fiscal hole has an AI problem at its core - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYkt1S0JESkM2QzgtS25qN2xrY2FjTXFkc0VpNmxaSWdDbHlwempJSUcxc2pXclVkTWNKVHNySU9vMFZLY1ZvRjBmQ0RETk9PajNnOVpCS0VDNlJfc1VuOGxjcFdoT0hwaEtzakJpZDFyS1RkYTlGTC1uMEhHVWxKXzhOOUdTR0RUYmdNV1ljRDhzeHA5M2xDT2o5TjhsRzNpRFJuMUVMUG8tSVhQb19z?oc=5",
       "date": "2026-08-25 06:00",
       "summary": "The US fiscal hole has an AI problem at its core  Reuters..."
     },
     {
-      "title": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi Jinping - Reuters",
+      "title": "UK, Ukraine sign AI defence partnership linked to battlefield technology - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMk1vd2pFVnJwQWNUbVJRS1A0WDRCXzBuVVBMN0hlTFJtNDhSZDVnSkdaMmZTSXRhSWlOTjNvYTBSVU9KM1NSdE9OWTFIVXJKWEdEU0ZfaTBMbGV6WHlkWkdEWGdMNEE3WVFoNnRQdVZNamRlc3cxakRMbkxXd3JSYnFYMXlDVUJXZC1nOW9ONTVseXlCRGNxUExhOUhCb2E3aVpPWmRjYmpoUnFmNG5WMGRJV0lGelBQRjk3emF2MTdaSmF3eTE3UXZ3QQ?oc=5",
+      "date": "2026-08-24 17:10",
+      "summary": "UK, Ukraine sign AI defence partnership linked to battlefield technology  Reuters..."
+    },
+    {
+      "title": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU20ybks5N1I2aFFmNVhMWHZiRk1iMUU4dlphNHdZbEJQaVNiTFRYM1NuUjFCOUR2Y1ZsR0VJWnNRY20zVXZaQXBkbmZkNmhjOWNtLU01Zi11bHhvYnBPV2JPdTNVSkE0NldwYXJaS1FmRXUyZGZuU0tXRElwb1RUS3VSeHI4OVhnYnRSckZZd2NobnZyVE9aTGxlVkNRMkkxWGZWbFgxb2hkYWo4R0hJWUo1WU1CRUlDNHdpNHp3?oc=5",
-      "date": "2026-08-26 07:54",
-      "summary": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi Jinping  Reuters..."
+      "date": "2026-08-26 08:26",
+      "summary": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi  Reuters..."
     },
     {
       "title": "Thomson Reuters launches proprietary AI model for legal work - SiliconANGLE",
@@ -199,6 +199,12 @@
       "summary": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?  MIT Technology Review..."
     },
     {
+      "title": "Raised on AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX1hVTmg1V21DY3duOGF3cndwU2Fja1NfNDRLTVdVblB2ZnVES3hPUTZMNWxwZ2xtMGFIMVJwMWZQODBDQ3ZTUnhjc2d5aHh2czJlSXdoRXJlV1VFNVNadDRPTnRGU1V6Y1lDMjQ0MXpzWEhBbjdWb3RUaG0yZ3dNdlg1d1lFZWZVN1HSAY8BQVVfeXFMUEtVaWcwZF9RLW9jeDFWanRhX3Awbk1vLTFocFN1VXdYbE9UQkJSUEkya1g1MUJ1V2R3OEZNZkM3MEVaY0x4M2RlaVRQMHBjVlF5dUJvN0pxdGM0cG9OcTB6ay03bWhfSFFPaHhZemRSWWtfbVRtZmNnaTBFbGdCOHJRTHcyZzhJT29NS3lXWjA?oc=5",
+      "date": "2026-08-26 09:00",
+      "summary": "Raised on AI  MIT Technology Review..."
+    },
+    {
       "title": "A new stamp on cyberfraud prevention - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWGtHUTRSNXFndkdFejVYM2ZvTGxnVV9RSzZRVUl4VVVuRjdxUTVEVGZZaXR0dUZBdXJ6bXM4VlVrb1hxbWoyM3R1X1VqT3laYUQ2M1NFd3JJSUF6UzFyS0JpT1o1ZkdnTVlEQmhXWkhnRGVZTGFVUnA0b1hqRzNsbnowcEZoV25tSWtFaGNNSEdTaWvSAZgBQVVfeXFMT1JMRk9PSlhieVYxdDU0eHBFNHd3NWtsMFBndDl3ODl1cy1vWWNwU0VCVkR0bHNiUWlibGZ3YndBZmhhWjN1X1pRakZEc1pqeUJ5ZldWbFF0Nng1UF9XOV96bzkzVFdQbkdiN1Y4M1JCZk1VUUw3ZTh4MnRLRjVDakdaSlR6eFZvQ1NyVlRGN1VEbEdVWkxjbU4?oc=5",
       "date": "2026-08-25 21:00",
@@ -211,19 +217,31 @@
       "summary": "A home for responsible optimists  MIT Technology Review..."
     },
     {
-      "title": "Kids outlearn AI—and we still don’t know why - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanVUbG5NampKTmxSNlJnVXBnc2dnX3Z5ekotOHBGSjVVZHh0N2RnNTEtdkd3NlJzNmwyTk5zTlg4TE9CSmktUWpMc3FUcFZReW1yTDdvZnJpNTFtNms0MFNHSTdmTklUMHFEVEhvanA5SmRyNnVkbmRpVXZWTFF6V2hTLVlmdVJIamY1UNIBkgFBVV95cUxPWHFnMFM0R1ZBOWdsOUprbWJrWDczT2VuLVVGdXlPZFp5bFpJenA3TXN3dVZRX3duTm9Jd210SWhWeHZmdWZSaU5fYzBicUNWb0x0YW9RbVZoa2VDS1hrd0R6d3BYT2tQTUZnYmM0cWE2R0hUemdJdzl6Z29CSWhqdHdyTmNYVXRYOGt2aFptMkdYUQ?oc=5",
-      "date": "2026-08-24 09:00",
-      "summary": "Kids outlearn AI—and we still don’t know why  MIT Technology Review..."
-    },
-    {
-      "title": "Launching youth entrepreneurship - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFh1XzhQN0VEU3hsQ3k0MnE3b0dZUmpERndoVFVvaE4yclQ0S2ctOVFZZ2RaTXEwU09xRWRTSlV0RGFLTEstNlNmVnBjSmRJZHlPYVF5cUY3T25oSHlKdUFtNDlHOTRvazhqcUJ6emNsbUlQZmpsSVJXM0h5WU90dnRRTEdhc1E5THQwNW930gGTAUFVX3lxTFBKa01NSTFnemotbVYwOHhDLUw3Smx5Q1VUN1pDWXFkVW1admp4MHRpWkJMMVRtSEE3QUx3QzRvSEx3UG1lQ2JWVXZEYkMtd2JBZFFfRGVuOW5jel9wbnNHV1k5cjNCczdIQVVmRVZkV3MwaTBvd2JnVGdpRnB5czVzeWJGeEJqeE9hUWw3MG1UdEU1aw?oc=5",
-      "date": "2026-08-25 21:00",
-      "summary": "Launching youth entrepreneurship  MIT Technology Review..."
+      "title": "AI models flub these intelligence tests. Can you fare any better? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV1dDOTFfS1Z1ZjhTN2w4V3cxaE1xMXh1S0NTa1lGaUh2cjNTLVI5SGNPXzhqdWp1ZUNCZ1p3N3JpQ0JDY0tDVHcxWkpqb3lndndlMFFCMkJaU1U3VHJ6VG1rYjVNSEpKbkh0Si10TVlVbFVDZ1JfZTVqa0piNE1PVUtiR0hjMnJYQzVSbEx1VVbSAZYBQVVfeXFMTjNuR2RPSWVYZmFiU0ZXYUVkZFlaWGxFTVAyNXNJRzlMcHpNbzMzOFhqWFhjUzA5RlFQU1ZKc3kwd21kZGVMSVNUdTllYkh0c2M0UjNfREJualdUc0gtdFJ1b01Memd2aUZlMXJHVnZycVZVcFlKSDB4TjBRYkhrUkFRVHJCOFJwam1ZVTNGVzFtd25aWDl3?oc=5",
+      "date": "2026-08-26 09:00",
+      "summary": "AI models flub these intelligence tests. Can you fare any better?  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Butterfly-inspired crystals could enable durable, potentially safer glitter",
+      "link": "https://phys.org/news/2026-08-butterfly-crystals-enable-durable-potentially.html",
+      "date": "2026-08-26 09:00",
+      "summary": "The next time you need to freshen up the paint on your house or apply a bit of cosmetic glitter before heading out for the night, ..."
+    },
+    {
+      "title": "Catalyzing the community: Chemists and Navajo leaders educate on clean water",
+      "link": "https://phys.org/news/2026-08-catalyzing-community-chemists-navajo-leaders.html",
+      "date": "2026-08-26 09:00",
+      "summary": "Many Native American communities in rural areas rely on well water, but the quality and safety of that water can vary significantl..."
+    },
+    {
+      "title": "Volcanic eruptions and warming climate disrupt long-standing link between Indian and Pacific oceans",
+      "link": "https://phys.org/news/2026-08-volcanic-eruptions-climate-disrupt-link.html",
+      "date": "2026-08-26 09:00",
+      "summary": "A new study that combines paleoclimate data and climate models suggests that large volcanic eruptions can disrupt the relationship..."
+    },
     {
       "title": "Too small for fries: Drought shrinks Belgian potatoes",
       "link": "https://phys.org/news/2026-08-small-fries-drought-belgian-potatoes.html",
@@ -235,24 +253,6 @@
       "link": "https://phys.org/news/2026-08-haze-threatens-health-millions-indonesia.html",
       "date": "2026-08-26 08:20",
       "summary": "Millions of Indonesians risk health complications from exposure to thick haze covering several cities and towns, officials said We..."
-    },
-    {
-      "title": "Plant-like chemical gardens show how simple reactions build complex structures",
-      "link": "https://phys.org/news/2026-08-chemical-gardens-simple-reactions-complex.html",
-      "date": "2026-08-26 08:10",
-      "summary": "The famous quote by Cicero, \"If you have a garden and a library, you have everything you need,\" reminds us that the beauty of life..."
-    },
-    {
-      "title": "Even low-level traffic noise can reduce birdsong's stress-relieving effects",
-      "link": "https://phys.org/news/2026-08-traffic-noise-birdsong-stress-relieving.html",
-      "date": "2026-08-26 05:00",
-      "summary": "Traffic noise disrupts recognized benefits of birdsong and other sounds from nature, a new study from the University of Surrey rep..."
-    },
-    {
-      "title": "Reusable stencils create clean carbon nanotube patterns in single-stage process",
-      "link": "https://phys.org/news/2026-08-reusable-stencils-carbon-nanotube-patterns.html",
-      "date": "2026-08-26 03:20",
-      "summary": "Researchers from Skoltech and their colleagues from Harbin Institute of Technology in China and ITMO University in Russia have dev..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "5-year plan, policy address to be unveiled on September 16, John Lee says",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3365319/5-year-plan-policy-address-be-unveiled-september-16-john-lee-says?utm_source=rss_feed",
+      "date": "2026-08-26 09:05",
+      "summary": "Hong Kong will unveil its first five-year plan and annual policy address on September 16, the city’s leader has announced, as he v..."
+    },
+    {
       "title": "Student of the Year Awards celebrates 45 years of excellence, announces new vision for nurturing Hong Kong’s future leaders",
       "link": "https://www.scmp.com/presented/news/hong-kong/topics/student-year-awards/article/3365069/student-year-awards-celebrates-45-years-excellence-announces-new-vision-nurturing-hong-kongs-future?utm_source=rss_feed",
       "date": "2026-08-26 08:00",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365292/squeezed-further-calls-sme-energy-subsidies-power-fuel-surcharges-soar?utm_source=rss_feed",
       "date": "2026-08-26 05:45",
       "summary": "Small and medium-sized enterprises (SMEs) need subsidies to cope with soaring electricity costs after fuel surcharges imposed by H..."
-    },
-    {
-      "title": "Hong Kong police officer suspected of accidentally discharging firearm at base",
-      "link": "https://www.scmp.com/news/hong-kong/article/3365289/hong-kong-police-officer-accidentally-discharges-firearm-base-loading-area?utm_source=rss_feed",
-      "date": "2026-08-26 05:37",
-      "summary": "A Hong Kong constable is suspected of discharging his service firearm accidentally at a police base in Mong Kok, the force has rev..."
     }
   ]
 }
