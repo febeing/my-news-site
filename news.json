@@ -89,10 +89,10 @@
       "summary": "‘Mismatched ambitions’: Stanford exits South Korean global campus  Times Higher Education..."
     },
     {
-      "title": "WOMEN’S SOCCER | Hoyas Fall Behind Early in Loss to No.1 Stanford - The Hoya",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOFRaalJLeUtNMkt2Nzh0WXRjQUJlR3M5V2xkY2J1TVBkbWExWlBfbWE3VmEzYXk4b2RSYUVUMGlJc3Z0SFNyVktLUHlMdDUxNFN1QkVmTnlRVUxsUWZjSkFla1IzajQzTFNfQjRTVmlHNy1wUnZVLV9PSnpMcEpmQjNSMGk0UW9pSld3dU1rUWxldm5i?oc=5",
-      "date": "2026-08-26 18:35",
-      "summary": "WOMEN’S SOCCER | Hoyas Fall Behind Early in Loss to No.1 Stanford  The Hoya..."
+      "title": "Getting to know Tavita Pritchard - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ1Rtd2VvV0VIX0pTYWpJeFlNcHFIb0ZXSDhsbHpiczdUQ2x2TzhXb21ta0M1Q3hrbGJZZ1Z1QzhQMmc1b1BVZ1Z0eVJlbGFvdEl2RjYxQ0EtSlQ1S2lNNWVGUVlWTFdwVjZ0UjhiMlVvYnA5eEpOTm5XdEN2OTBEUmVseVdBWWFYOVFr?oc=5",
+      "date": "2026-08-26 12:53",
+      "summary": "Getting to know Tavita Pritchard  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -129,6 +129,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Elsevier to ‘soon investigate’ two Macchiarini papers more than a year after retraction request",
+      "link": "https://retractionwatch.com/2026/08/26/elsevier-to-soon-investigate-two-macchiarini-papers-more-than-a-year-after-retraction-request/",
+      "date": "2026-08-26 12:00",
+      "summary": "Elsevier says it will begin investigating two papers coauthored by disgraced surgeon Paolo Macchiarini “soon,” more than a year af..."
+    },
+    {
       "title": "Guest post: The uncomfortable truth an explosion of papers reveals about authors’ access to data",
       "link": "https://retractionwatch.com/2026/08/25/guest-post-trinetx-data-accountability-statement/",
       "date": "2026-08-25 12:00",
@@ -151,12 +157,6 @@
       "link": "https://retractionwatch.com/2026/08/21/defamation-lawsuit-elsevier-retraction-gps-air/",
       "date": "2026-08-21 16:32",
       "summary": "A trial date has been set in a $1 billion defamation case against Elsevier that alleges the company published what plaintiffs say ..."
-    },
-    {
-      "title": "Ceramics journal pulls dozens of papers flagged for integrity concerns",
-      "link": "https://retractionwatch.com/2026/08/20/ceramics-journal-pulls-dozens-of-papers-flagged-for-integrity-concerns/",
-      "date": "2026-08-20 20:46",
-      "summary": "A materials science journal has pulled 56 papers so far this year for transgressions including image overlap, concerns about data ..."
     }
   ],
   "Reuters AI": [
@@ -167,10 +167,16 @@
       "summary": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.  Reuters..."
     },
     {
-      "title": "Here's how Thomson Reuters is loosening Claude's costly grip - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTlJeGxyakhWMlAyR0JTaEV6UDVnaTZmWVMxYk9SSk5wNktnU3gyVnZWdzRBek5CMjJsdExoWXBkNzJlQlZUQWVsbmVoTkcyQWZlX1p4ZUo1YUdkajlXUkw2TV83eTM1WFdsSUphQmU0eWo0dXExYjlKSXgwNlZzSzRRMDBOLWthMTNVbTFlU3JuTURNZ0tpWA?oc=5",
-      "date": "2026-08-24 13:00",
-      "summary": "Here's how Thomson Reuters is loosening Claude's costly grip  Business Insider..."
+      "title": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU20ybks5N1I2aFFmNVhMWHZiRk1iMUU4dlphNHdZbEJQaVNiTFRYM1NuUjFCOUR2Y1ZsR0VJWnNRY20zVXZaQXBkbmZkNmhjOWNtLU01Zi11bHhvYnBPV2JPdTNVSkE0NldwYXJaS1FmRXUyZGZuU0tXRElwb1RUS3VSeHI4OVhnYnRSckZZd2NobnZyVE9aTGxlVkNRMkkxWGZWbFgxb2hkYWo4R0hJWUo1WU1CRUlDNHdpNHp3?oc=5",
+      "date": "2026-08-26 08:26",
+      "summary": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi  Reuters..."
+    },
+    {
+      "title": "Nvidia bounce shows Wall Street's AI obsession is far from over - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUtIdlFrOWRSZkItb0NtNVd0ZjFxcFZERm9aLTBCRnFyMU9kVEotOC1mWld3amlVczc4N3EyOE42Ui1VY3U5VXlkU2RkTU51ODd4RnVyYy04cXFOSWp3bVdQQWlLYkJIbUxTcUNZUXE5MkVKY0g5NHBBeGItNjlvd1VQdGV0NHBJSlFCVURkcko5M01xblFRS2lkdG1PZGV3cWdhTg?oc=5",
+      "date": "2026-08-26 21:33",
+      "summary": "Nvidia bounce shows Wall Street's AI obsession is far from over  Reuters..."
     },
     {
       "title": "Thomson Reuters launches proprietary AI model for legal work - SiliconANGLE",
@@ -179,16 +185,10 @@
       "summary": "Thomson Reuters launches proprietary AI model for legal work  SiliconANGLE..."
     },
     {
-      "title": "Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway. - The New Stack",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RelNWYlpvSV9NY3ZFNV9QQ2R4ZmhZUnl2cmN5bVhmamY3S3VBaEdfM3g2WFdLLVRHZy1kalZuM2IwbWhub3Jqdy10S0JOWVgtMTNYUDd2WXNWVVhx?oc=5",
-      "date": "2026-08-24 13:15",
-      "summary": "Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway.  The New Stack..."
-    },
-    {
-      "title": "EXCLUSIVE: China's Moonshot in talks with Microsoft, Amazon, Google over K3 revenue sharing, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWlQbDBkTjZOWlNxMFJUeDkxc0taQllySUkzRzJ4aHJrSzlVQTY5LVhqU2dfd2lUSGZSVjI2dVFPQnZ5X0FuRThHT0JDRkxJTTlLUVFETjM5Y0lGbzFwUkhGWFNVOUJQX1NWZ09SZDViVWNZTmI1TFY4ODUwZXl2UGh5VnRETVhhbDQ4NHh5bmU2YXZXdGZEbnlSUmVZVEZ2dUd3ampaeW94bkhBaEhhRkNKQ1E1QlJSZUFDUTZ5eGFERHlPZHo3TnFaQTJZVUdt?oc=5",
-      "date": "2026-08-26 14:44",
-      "summary": "EXCLUSIVE: China's Moonshot in talks with Microsoft, Amazon, Google over K3 revenue sharing, sources say  Reuters..."
+      "title": "Here's how Thomson Reuters is loosening Claude's costly grip - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTlJeGxyakhWMlAyR0JTaEV6UDVnaTZmWVMxYk9SSk5wNktnU3gyVnZWdzRBek5CMjJsdExoWXBkNzJlQlZUQWVsbmVoTkcyQWZlX1p4ZUo1YUdkajlXUkw2TV83eTM1WFdsSUphQmU0eWo0dXExYjlKSXgwNlZzSzRRMDBOLWthMTNVbTFlU3JuTURNZ0tpWA?oc=5",
+      "date": "2026-08-24 13:00",
+      "summary": "Here's how Thomson Reuters is loosening Claude's costly grip  Business Insider..."
     }
   ],
   "MIT Tech Review": [
@@ -197,6 +197,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZThmeE9Ed0pBQ0t0MkxhX1RXVkNoM19IWlZmcDNxZ0dZU216ZEpTc1hUSGRuYkw0a2wwMWstMzZ1bWNwTXdfVVNtbEpUOUdPNFlJemlzeWh2V2NLUGtfUE1xYjVGUkJuLTcxcVlkTDRKMDNwcl9aX3Zvc05GWXBUSm83OWlIOGdwSXU00gGQAUFVX3lxTFBmT1NCX2k4QWN4UlBZdGJGc1hNbWszNHF6ZE1ZU09jNGIyNlVXY1ViQWJWOUhmWWNaR2hnbGVaZnJjd2kzYm5hQkMyTWNIUjhiQWNrZl81Z1VLNlpKTXhMWlR5bWNoQU00ZTRicmNvOFc1UzlMUXY3LVIyNTAzVlkyT1hoYlMwNXR1eUlILWJabg?oc=5",
       "date": "2026-08-26 07:01",
       "summary": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?  MIT Technology Review..."
+    },
+    {
+      "title": "The inside story on why OpenAI agents hacked Hugging Face - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUlpFV0p4Rk82akJhZFhRaFJib2RWRUFKdVJZajJmdG5yUWxkU3hTZE9tcm4xSFhjTVVzYnVQYlZROTREOE5RdDgwaXJNLWhpS1R2TU9DZ2RrZHFxSWJMTkg4a3YxOVJsRHBKVTRhR2FzZjdxbW5EQVl4MEZpR29nWTJVbElDWHVXemt3QkUzcTY4UGx1VG8zazVuVG9EeDhKMk95WUJ0T08xaEVSemZn0gG0AUFVX3lxTE9sUGNMb3RGQ3RxTmtmaGlBYUU3S01EcTM0dTNQZGhGWkpMY3FpZXAzTDFkTnZwNldDWm9FdjZDYl9RZkE0RTRWMVJmdUduV0VDN1p5bklLbFdDVjZURE1rLUhDZkdnTm95d3FmZGl2c1Zzd21GbEMzVlRQNC03bGRUUWl1OGpfTE92RkV5ZC0waGlKVl9URnIxN1FHX0tBOE1JSGwtQTNCOUNnd3RaZXBHYkRISw?oc=5",
+      "date": "2026-08-26 19:00",
+      "summary": "The inside story on why OpenAI agents hacked Hugging Face  MIT Technology Review..."
     },
     {
       "title": "Raised on AI - MIT Technology Review",
@@ -211,12 +217,6 @@
       "summary": "AI models flub these intelligence tests. Can you fare any better?  MIT Technology Review..."
     },
     {
-      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGNWelR3c0Jyb3ozaXN6akxXTk9pSEdyaFc1UmZ3RWltdnAtLTMzOF9Kd3JjLXJIZmd1M19tWTdVQlpZbHRZQXQwTTZVQnNWeWhTWHNLQXVBaTF2QzFGZUdzZGgxMVNGUWwyajgxdkwyeEJrWWVvVEs4RzJIOU11a0NnSmMyM2VOcExJYWhtVGlaX2pMOW9MTG9uVEhWNXZrQVdnWElB0gGrAUFVX3lxTE1fakNQYmpFTmMzZEhDc1lpWTMtUENNdTdKQkJ3VEwxTFo4Q04zcTZ2RUdXNUNsdUxiME4wUnVhTGZtNUpIbHdnVERBUXJFWG1sTF9GblltSWVYbXExaWlUTkR1OV9scU1Fb2s4MkE0ODVnZzhVOGxOM1ZYTVdQbmdxcTRHSnVTVzY1MDkzellvdFk1emRmaVRRc1VpUHAxWF91Z2h0aUV5NTNxSQ?oc=5",
-      "date": "2026-08-26 12:10",
-      "summary": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears  MIT Technology Review..."
-    },
-    {
       "title": "Kids outlearn AI—and we still don’t know why - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanVUbG5NampKTmxSNlJnVXBnc2dnX3Z5ekotOHBGSjVVZHh0N2RnNTEtdkd3NlJzNmwyTk5zTlg4TE9CSmktUWpMc3FUcFZReW1yTDdvZnJpNTFtNms0MFNHSTdmTklUMHFEVEhvanA5SmRyNnVkbmRpVXZWTFF6V2hTLVlmdVJIamY1UNIBkgFBVV95cUxPWHFnMFM0R1ZBOWdsOUprbWJrWDczT2VuLVVGdXlPZFp5bFpJenA3TXN3dVZRX3duTm9Jd210SWhWeHZmdWZSaU5fYzBicUNWb0x0YW9RbVZoa2VDS1hrd0R6d3BYT2tQTUZnYmM0cWE2R0hUemdJdzl6Z29CSWhqdHdyTmNYVXRYOGt2aFptMkdYUQ?oc=5",
       "date": "2026-08-24 09:00",
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Liquid gallium experiment confirms key flow regime inside rapidly rotating stars and planets",
-      "link": "https://phys.org/news/2026-08-liquid-gallium-key-regime-rapidly.html",
-      "date": "2026-08-26 18:40",
-      "summary": "Since we cannot look into the interiors of stars and planets, we rely on lab experiments to replicate the physical processes that ..."
+      "title": "Reference genome of the Saimaa ringed seal released",
+      "link": "https://phys.org/news/2026-08-genome-saimaa.html",
+      "date": "2026-08-26 21:40",
+      "summary": "Researchers at the University of Eastern Finland and the University of Oulu have produced the first chromosome-level reference gen..."
     },
     {
-      "title": "Genetic traces reveal river residents: 1,072 species in a bucket of water",
-      "link": "https://phys.org/news/2026-08-genetic-reveal-river-residents-species.html",
-      "date": "2026-08-26 18:40",
-      "summary": "Can DNA traces in just two liters (0.5 gallons) of water reveal how a river's biodiversity changes over the course of a year? A st..."
+      "title": "Does AI shape decisions before we do? Researcher questions what 'human in the loop' really means",
+      "link": "https://phys.org/news/2026-08-ai-decisions-human-loop.html",
+      "date": "2026-08-26 21:40",
+      "summary": "Artificial intelligence is often discussed with a simple safeguard in mind: Keep a human in the loop. But what happens when AI is ..."
     },
     {
-      "title": "Better timetables could greatly shorten train travel times",
-      "link": "https://phys.org/news/2026-08-timetables-greatly-shorten.html",
-      "date": "2026-08-26 18:20",
-      "summary": "Anyone traveling by train across Europe spends a surprisingly large portion of the trip not on a moving train. Today, about 25% of..."
+      "title": "How plants evolved a molecular switch to cope with heat",
+      "link": "https://phys.org/news/2026-08-evolved-molecular-cope.html",
+      "date": "2026-08-26 21:40",
+      "summary": "As climate change drives more frequent and intense heat waves, plants face growing challenges to survive and remain productive. Re..."
     },
     {
-      "title": "Observing the vibrations of neighboring atoms with an atomic-scale double slit",
-      "link": "https://phys.org/news/2026-08-vibrations-neighboring-atoms-atomic-scale.html",
-      "date": "2026-08-26 18:20",
-      "summary": "Efficiently controlling heat generation has become a major challenge as the semiconductors used in smartphones, computers and simi..."
+      "title": "Hidden switch in cell division may point to new cancer treatments",
+      "link": "https://phys.org/news/2026-08-hidden-cell-division-cancer-treatments.html",
+      "date": "2026-08-26 21:20",
+      "summary": "When a cell gets ready to divide, it shuts down its gene-reading machinery almost entirely. For decades, the mechanism behind that..."
     },
     {
-      "title": "When fruits and veggies are scarce, monkeys hunt for meat",
-      "link": "https://phys.org/news/2026-08-fruits-veggies-scarce-monkeys-meat.html",
-      "date": "2026-08-26 18:00",
-      "summary": "Capuchin monkeys hunt prey when fruits and vegetables become scarce, potentially mirroring the habits of human ancestors, accordin..."
+      "title": "Political divide traced to differing views on who is vulnerable",
+      "link": "https://phys.org/news/2026-08-political-differing-views-vulnerable.html",
+      "date": "2026-08-26 21:20",
+      "summary": "Everyone shares a similar moral compass about right and wrong, but where liberals and conservatives disagree is over who counts as..."
     }
   ],
   "The Guardian Edu": [
