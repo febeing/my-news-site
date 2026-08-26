@@ -33,9 +33,15 @@
   ],
   "Harvard Gazette": [
     {
+      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
+      "date": "2026-06-03 07:00",
+      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
+    },
+    {
       "title": "Holding onto your humanity, against the herd - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMW1jd2JkcGNycFdpSE52emhSb0RXOE9qZ0xUaG9JWkN3ek54RnhnLTJBaUlta2tQZHdmLV9VM093Q3owLVl2eXBjdEhVdXg2cTUyUG9Pb3daVmxDbExrUmhERlFEcHdSVVFFNGFkRGRvUTZSblRSQzlra2NYdkNyVTNvRDhWSXRmeVlTMjlhQUZCa0pZdnc?oc=5",
-      "date": "2026-08-17 15:44",
+      "date": "2026-08-17 07:00",
       "summary": "Holding onto your humanity, against the herd  Harvard Gazette..."
     },
     {
@@ -45,22 +51,16 @@
       "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
     },
     {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
-      "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
-    },
-    {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
-      "date": "2026-07-10 07:00",
-      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
+      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -161,10 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "UK, Ukraine sign AI defence partnership linked to battlefield technology - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMk1vd2pFVnJwQWNUbVJRS1A0WDRCXzBuVVBMN0hlTFJtNDhSZDVnSkdaMmZTSXRhSWlOTjNvYTBSVU9KM1NSdE9OWTFIVXJKWEdEU0ZfaTBMbGV6WHlkWkdEWGdMNEE3WVFoNnRQdVZNamRlc3cxakRMbkxXd3JSYnFYMXlDVUJXZC1nOW9ONTVseXlCRGNxUExhOUhCb2E3aVpPWmRjYmpoUnFmNG5WMGRJV0lGelBQRjk3emF2MTdaSmF3eTE3UXZ3QQ?oc=5",
-      "date": "2026-08-24 17:10",
-      "summary": "UK, Ukraine sign AI defence partnership linked to battlefield technology  Reuters..."
+      "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
+      "date": "2026-08-25 20:13",
+      "summary": "Google expands Gemini Enterprise AI platform for law firms, lawyers  Reuters..."
+    },
+    {
+      "title": "The US fiscal hole has an AI problem at its core - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYkt1S0JESkM2QzgtS25qN2xrY2FjTXFkc0VpNmxaSWdDbHlwempJSUcxc2pXclVkTWNKVHNySU9vMFZLY1ZvRjBmQ0RETk9PajNnOVpCS0VDNlJfc1VuOGxjcFdoT0hwaEtzakJpZDFyS1RkYTlGTC1uMEhHVWxKXzhOOUdTR0RUYmdNV1ljRDhzeHA5M2xDT2o5TjhsRzNpRFJuMUVMUG8tSVhQb19z?oc=5",
+      "date": "2026-08-25 06:00",
+      "summary": "The US fiscal hole has an AI problem at its core  Reuters..."
     },
     {
       "title": "Thomson Reuters launches proprietary AI model for legal work - SiliconANGLE",
@@ -173,25 +179,25 @@
       "summary": "Thomson Reuters launches proprietary AI model for legal work  SiliconANGLE..."
     },
     {
-      "title": "Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway. - The New Stack",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RelNWYlpvSV9NY3ZFNV9QQ2R4ZmhZUnl2cmN5bVhmamY3S3VBaEdfM3g2WFdLLVRHZy1kalZuM2IwbWhub3Jqdy10S0JOWVgtMTNYUDd2WXNWVVhx?oc=5",
-      "date": "2026-08-24 13:15",
-      "summary": "Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway.  The New Stack..."
-    },
-    {
       "title": "EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1VQWjVudDlPckk5b1pkQ3U1bENxZUx1eGxOeGY2OHVKeHNKcERBeC1yOUVhQUcwYThGejZnbUNIOFY1cUtjam90bGZaWnRYNnlzQXM5X0ZoekNNMkljcDRmaEsyLVplOGx3OUdKaG10WVBISHRza3ZGQTNadjFSUmVOSmtYRl9jLURCQndQc19lSjdEWTlEWENKNTB3Q3Zlc0tTdDd6bUxiVmMxTXZzbw?oc=5",
       "date": "2026-08-25 10:30",
       "summary": "EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe  Reuters..."
     },
     {
-      "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
-      "date": "2026-08-25 20:13",
-      "summary": "Google expands Gemini Enterprise AI platform for law firms, lawyers  Reuters..."
+      "title": "UK, Ukraine sign AI defence partnership linked to battlefield technology - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMk1vd2pFVnJwQWNUbVJRS1A0WDRCXzBuVVBMN0hlTFJtNDhSZDVnSkdaMmZTSXRhSWlOTjNvYTBSVU9KM1NSdE9OWTFIVXJKWEdEU0ZfaTBMbGV6WHlkWkdEWGdMNEE3WVFoNnRQdVZNamRlc3cxakRMbkxXd3JSYnFYMXlDVUJXZC1nOW9ONTVseXlCRGNxUExhOUhCb2E3aVpPWmRjYmpoUnFmNG5WMGRJV0lGelBQRjk3emF2MTdaSmF3eTE3UXZ3QQ?oc=5",
+      "date": "2026-08-24 17:10",
+      "summary": "UK, Ukraine sign AI defence partnership linked to battlefield technology  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "A new stamp on cyberfraud prevention - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWGtHUTRSNXFndkdFejVYM2ZvTGxnVV9RSzZRVUl4VVVuRjdxUTVEVGZZaXR0dUZBdXJ6bXM4VlVrb1hxbWoyM3R1X1VqT3laYUQ2M1NFd3JJSUF6UzFyS0JpT1o1ZkdnTVlEQmhXWkhnRGVZTGFVUnA0b1hqRzNsbnowcEZoV25tSWtFaGNNSEdTaWvSAZgBQVVfeXFMT1JMRk9PSlhieVYxdDU0eHBFNHd3NWtsMFBndDl3ODl1cy1vWWNwU0VCVkR0bHNiUWlibGZ3YndBZmhhWjN1X1pRakZEc1pqeUJ5ZldWbFF0Nng1UF9XOV96bzkzVFdQbkdiN1Y4M1JCZk1VUUw3ZTh4MnRLRjVDakdaSlR6eFZvQ1NyVlRGN1VEbEdVWkxjbU4?oc=5",
+      "date": "2026-08-25 21:00",
+      "summary": "A new stamp on cyberfraud prevention  MIT Technology Review..."
+    },
     {
       "title": "A home for responsible optimists - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnFHbkZvbGlDMzFWekw2NkFSS21HMlpzckpYM2ppeHVIQjZJNkF3Z1JweWtHSm0tSnNrUEpPOG9ybk5LOVpRenRsUExUNE1OOUpTdG9aSUdjZmFhOGt6TmZLN2I2TUVKa3h2YTZhbDNMaHM5aE1aX1FEQWtVWnk4ZzBnMkFka1cyemY5R2F30gGTAUFVX3lxTE53MWRlUzA4a0xVNXRGYlpSMVNtQkhEM0tPdDZnRWhMaUFXSGQ4YjAwbDJ4NW5UVDY2eHhXQ1BPeW4yalg1TzNMX042a21OT0hIRWwwUkZpS0NueDREZ1piSzl0N09iT3ZWdE1waXd1TllQMlQxUmRjaEdydVpmVTN3MWxORVBJRThqSWhNdnFUZ2ZzWQ?oc=5",
@@ -215,15 +221,27 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzZ6WXZUaDRHbDFfUlBBRVJJd0ZDanRyV2d0TjFkWnZSNjVqdGpyajNoOUxOQ2Q1RXVRZXR0amhoU1N6dFc0MzUweDUydXljOWp3TElMb2JhVE15OEwxbzFYREp1cjE4OXRWeUNZR1h6N0pNV2xOVXJhNWZlc3BXNUMtaUs2X0nSAYwBQVVfeXFMTnQwRDJYVTFuZTAtLWFCUHhaUzJVU3hrYWV1LXZRbWRfSmI3QmtHVC1XeFkzT1IwNzdVMFRveUhXTmxsUDFXaVZvSlB2MEpnb3BoWURocHlQTXlmTUtZY0FqMmFQRzNEZi1EOTdNRXMyQ3c4TU9WYTdRYUdlZ1l6NnpoMDA3VFpHb0dIbmI?oc=5",
       "date": "2026-08-25 21:00",
       "summary": "Seeing through murky waters  MIT Technology Review..."
-    },
-    {
-      "title": "AgeLab research inspires an A I startup - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDBlcFJVQ1RrSW1aNGtnVm81TGRhNTlxUmdtdjFGWUtoTWNEUENDbTFZRjJWWG43VFphMDdYTHlicEZ4ZklBdl9kV1FzMjgxVk9uWm9xMWI1ZS1HTENwNEw1SFVrTjFTUVMwZlRqSlZINENXMXdNejlqSEI1aFdqRFdvcFkzVkZkOUljZUtGU0lQZ25Kay1r0gGcAUFVX3lxTE9ZcW02SVZrWC1qTlUwSGlHMXJTQ0JiYTdXTEdJeFZSbnJzLVlCb2RiMjhmU1BYd1ZRc2dIbktwbnF2UVNnZS0xMDk3b3pISGw4clRuTDFILWxrd2VPWGUwbzNEN2dwRVhvMG5ZMkVwTGt3LWtydXNsZTY2TUF3S002NnRCU3ZERHBMNEloaUlHNmdXa2NDWUFEOS0yQQ?oc=5",
-      "date": "2026-08-25 21:00",
-      "summary": "AgeLab research inspires an A I startup  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Strong oyster reefs start with genetic diversity",
+      "link": "https://phys.org/news/2026-08-strong-oyster-reefs-genetic-diversity.html",
+      "date": "2026-08-26 00:40",
+      "summary": "The European flat oyster (Ostrea edulis) was once widespread but has now become so scarce in the North Sea that it no longer forms..."
+    },
+    {
+      "title": "Bright people know more about wine: How higher intelligence is reflected in deep domain knowledge",
+      "link": "https://phys.org/news/2026-08-bright-people-wine-higher-intelligence.html",
+      "date": "2026-08-25 23:40",
+      "summary": "Intelligent people tend to perform better at school and at work, as numerous studies have shown. But what happens in domains where..."
+    },
+    {
+      "title": "Animation boosts willingness to adopt airborne disease precautions, study finds",
+      "link": "https://phys.org/news/2026-08-animation-boosts-willingness-airborne-disease.html",
+      "date": "2026-08-25 23:40",
+      "summary": "Even as the scientific community has reached a broad consensus that infectious pathogens, such as viruses, can spread through viru..."
+    },
     {
       "title": "Four ζ-carotene isomers reveal light-driven shifts and skin-protective potential",
       "link": "https://phys.org/news/2026-08-carotene-isomers-reveal-driven-shifts.html",
@@ -235,24 +253,6 @@
       "link": "https://phys.org/news/2026-08-extinct-galpagos-recovering.html",
       "date": "2026-08-25 23:20",
       "summary": "A 30-year conservation effort has helped the critically endangered Galápagos snapdragon (Galvezia leucantha subsp. leucantha) reco..."
-    },
-    {
-      "title": "Porpoise entanglement recorded in real time, revealing calls and escape attempts",
-      "link": "https://phys.org/news/2026-08-porpoise-entanglement-real-revealing.html",
-      "date": "2026-08-25 23:10",
-      "summary": "Researchers at the University of St Andrews have gained unprecedented insight into marine mammal behavior when they become tangled..."
-    },
-    {
-      "title": "Could we protect all western US communities from wildfires and facilitate restoring fire to wildlands within a decade?",
-      "link": "https://phys.org/news/2026-08-western-communities-wildfires-wildlands-decade.html",
-      "date": "2026-08-25 23:00",
-      "summary": "In a new study in Environmental Research: Ecology, I analyzed how fires were able to burn into communities and how fire-resistant ..."
-    },
-    {
-      "title": "Although research on animal production and climate is growing, implementation in the field remains challenging",
-      "link": "https://phys.org/news/2026-08-animal-production-climate-field.html",
-      "date": "2026-08-25 22:40",
-      "summary": "Climate change is reshaping global livestock production systems and leading to increased research on the topic. However, science s..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Mainland Chinese firms share risks to deliver Northern Metropolis success: analysts",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365244/mainland-chinese-firms-share-risks-deliver-northern-metropolis-success-analysts?utm_source=rss_feed",
+      "date": "2026-08-26 00:32",
+      "summary": "Mainland Chinese enterprises will play a key role in developing Hong Kong’s Northern Metropolis by sharing financial risks and hel..."
+    },
+    {
       "title": "How mainland Chinese engineers can help Hong Kong firms bridge talent gap",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3365245/how-mainland-chinese-engineers-can-help-hong-kong-firms-bridge-talent-gap?utm_source=rss_feed",
       "date": "2026-08-25 16:03",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365235/jdcom-boosts-northern-metropolis-logistics-hub-hurdles-loom-experts?utm_source=rss_feed",
       "date": "2026-08-25 13:02",
       "summary": "JD.com may be a major logistics leader in mainland China, but as part of a joint venture that won the first land project in the No..."
-    },
-    {
-      "title": "Woman fined HK$4,000 over unleashed dog attack at Hong Kong pet garden",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365232/woman-fined-hk4000-over-unleashed-dog-attack-hong-kong-pet-garden?utm_source=rss_feed",
-      "date": "2026-08-25 12:22",
-      "summary": "A woman has been fined HK$4,000 (US$510) after pleading guilty to failing to keep her dog on a leash after it attacked a smaller c..."
     }
   ]
 }
