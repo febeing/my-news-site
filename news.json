@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel - The New York Times",
+      "title": "Judge Rules Trump Unlawfully Targeted Foreign Students Who Criticized Israel - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZnI2ZEVpMkNqOHFhMnU5MDBRMmdfdFFCMkpCS3FRTW4wM3JDOG1wenVQVjlNcGlpT1dDeFRvWkRwTmtPdzk5M0Z2blIxRWVZcVJ2QjYtZUh2TFB3VlBpdHhHMzJmeHdaOVRTclBDQnd5aVR0MmpZUTJFZGJXSUtMS3JsUVdERkxoZURVUVhYOEhlUVpLWmZFUTAtNA?oc=5",
-      "date": "2026-08-29 14:09",
-      "summary": "Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel  The New York Times..."
+      "date": "2026-08-29 01:40",
+      "summary": "Judge Rules Trump Unlawfully Targeted Foreign Students Who Criticized Israel  The New York Times..."
     },
     {
       "title": "Judge sides with Stanford Daily, says Trump administration violated Constitution - The Mercury News",
@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
+      "link": "https://www.nature.com/articles/d41586-026-02684-1",
+      "date": "2026-08-30 00:00",
+      "summary": "Nature, Published online: 30 August 2026; doi:10.1038/d41586-026-02684-1Spread of diseases between humans and animals is an issue ..."
+    },
+    {
       "title": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
       "link": "https://www.nature.com/articles/d41586-026-02727-7",
       "date": "2026-08-30 00:00",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02680-5",
       "date": "2026-08-28 00:00",
       "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02680-5A positive trial holds promise for treating people with ca..."
-    },
-    {
-      "title": "Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities",
-      "link": "https://www.nature.com/articles/d41586-026-02688-x",
-      "date": "2026-08-28 00:00",
-      "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02688-xHis awe-inspiring proof for the resolution of singularitie..."
     }
   ],
   "Retraction Watch": [
@@ -175,20 +175,20 @@
     {
       "title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
-      "date": "2026-08-29 02:01",
+      "date": "2026-08-29 10:20",
       "summary": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk  Reuters..."
+    },
+    {
+      "title": "China's Tencent releases new open-source AI model for coding, research tasks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaVplU1pYVzl4dkJPUmVQZi1XZ01xY29YNWV2WDZyb2VJb1V2ZjZLZU5EVFFhR3dvbWZOc3BCbUNPb3MyNncwTGVOY3pCdl96VUU1WVFYdnRJSnJvcDJrYzg0OE82emlmZGplWjhKSlcweWdnUkRUMDYwci05X2NleXlrTm44LXZ0bmdTeU9jNWkzRkx6NmFWMzYyYkFWcUpabDgxLXQzTTc0UEdwNy16WTB3RE5EUkZlN0taWGRmYzhfZDA?oc=5",
+      "date": "2026-08-28 09:37",
+      "summary": "China's Tencent releases new open-source AI model for coding, research tasks  Reuters..."
     },
     {
       "title": "COMMENTARY: Weekend Reads: Meta's AI revolt, China's power play, Fed's messaging fight - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX1JQbV9mOFpmRm40QzM0Smpra2dTSlc2LS0waXJXYlBockpxM2FHeWJJT1I0UU5Nd2tJUFQ4blBuQkEyM3ZBd0NqZXNEcVlaZXNNck9rTm1QS0JFMENhcWw4TWZnNGVPSzh2SmVWU1lETGZ0ZHpiUnVZMkJ5VElSUllUQnNseDNycDdvZHlQZ3NLcXdxN2VJV2ZKRHZOcm9CeGo3NHNwMllRMzltUHplZjgzMVpEeTRkLU1oZEJ0S0Y1dlh0ZGs1UUJ2Sk5WcjBHUHBV?oc=5",
       "date": "2026-08-28 09:43",
       "summary": "COMMENTARY: Weekend Reads: Meta's AI revolt, China's power play, Fed's messaging fight  Reuters..."
-    },
-    {
-      "title": "EXCLUSIVE: Anthropic in talks with chip start up MatX to speed up chip design, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVG5SUDh0c0lLWkFTNWlLWmMtdnhHOXZHMC1zMmlTNFZnTG9CZnpXUG1QbnRZMmFCQTJ5QkhCdzVkX3JtWWNWbFNtSmpNVTJqTERPLWVKbXdxSV9oc2tKdm95YTZnX1B2YXlrRmptRGNqOUZUenctc2dTQi1TdGtnR1NZQXRSVmJMVS1QZWhnX1V0dHAyVG01RVIyQmtQd1VqQnJVcEIxYXBuOVlpeXE2SWxPTEVlcHhIeG9rSlln?oc=5",
-      "date": "2026-08-27 21:22",
-      "summary": "EXCLUSIVE: Anthropic in talks with chip start up MatX to speed up chip design, sources say  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,6 +225,12 @@
   ],
   "Phys.org": [
     {
+      "title": "Using data to help wheat growers adapt to unpredictable weather",
+      "link": "https://phys.org/news/2026-08-wheat-growers-unpredictable-weather.html",
+      "date": "2026-08-31 00:30",
+      "summary": "For generations, wheat planting has followed predictable seasonal patterns. But this year, unseasonably warm weather in March and ..."
+    },
+    {
       "title": "'Cut-to-fuse' strategy: A new route for molecular skeletal editing",
       "link": "https://phys.org/news/2026-08-fuse-strategy-route-molecular-skeletal.html",
       "date": "2026-08-30 21:00",
@@ -247,12 +253,6 @@
       "link": "https://phys.org/news/2026-08-infection-gut-cells-diet-reshapes.html",
       "date": "2026-08-30 17:00",
       "summary": "The intestines rely on different strategies to rebuild themselves in response to diet changes versus infections, according to a ne..."
-    },
-    {
-      "title": "Tropical Storm Karina strengthens into a hurricane in the Pacific, could be a major storm this week",
-      "link": "https://phys.org/news/2026-08-tropical-storm-karina-hurricane-pacific.html",
-      "date": "2026-08-30 15:40",
-      "summary": "Tropical Storm Karina strengthened into a hurricane in the Pacific Ocean on Sunday and could become a major storm this week, forec..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Hong Kong WhatsApp hijacking scams surge 170% to nearly 2,000 cases",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365746/hong-kong-whatsapp-hijacking-scams-surge-170-nearly-2000-cases?utm_source=rss_feed",
-      "date": "2026-08-30 23:00",
-      "summary": "WhatsApp account hijacking scams in Hong Kong surged by nearly 170 per cent to almost 2,000 cases in the first seven months of thi..."
+      "title": "Will fixing Hong Kong’s childcare bottleneck help lift the city’s birth rate?",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3365775/will-fixing-hong-kongs-childcare-bottleneck-help-lift-citys-birth-rate?utm_source=rss_feed",
+      "date": "2026-08-31 03:00",
+      "summary": "Shortly after Erica Lam found out she was pregnant with her second child, submitting a day care application for her unborn daughte..."
     },
     {
-      "title": "Reusable rocket milestone opens a door for Hong Kong’s space ambitions",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365219/reusable-rocket-milestone-opens-door-hong-kongs-space-ambitions?utm_source=rss_feed",
-      "date": "2026-08-30 21:30",
-      "summary": "On the morning of August 19, LandSpace’s Zhuque-3 Y2 rocket lifted off from the Dongfeng Commercial Space Innovation Test Area. Af..."
+      "title": "Singapore firms keen to tap Northern Metropolis’ ‘massive potential’, envoy says",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365744/singapore-firms-keen-tap-northern-metropolis-massive-potential-envoy-says?utm_source=rss_feed",
+      "date": "2026-08-31 02:00",
+      "summary": "Singaporean businesses are keen to explore the “massive potential” emerging in Hong Kong’s Northern Metropolis megaproject after t..."
     },
     {
-      "title": "Pioneering Care After Crisis: It All Starts with the People",
-      "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/innovating-advance-humanity/article/3365146/pioneering-care-after-crisis-it-all-starts-people?utm_source=rss_feed",
-      "date": "2026-08-30 16:00",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nWhen the devastating fire broke out at Wang Fuk Court ..."
+      "title": "Don’t leave Hong Kong parents to their own devices on child social media use",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365616/dont-leave-hong-kong-parents-their-own-devices-child-social-media-use?utm_source=rss_feed",
+      "date": "2026-08-31 01:30",
+      "summary": "Hong Kong, a city of overachievers, especially when it comes to the young, is also filled with children who take to social media e..."
     },
     {
-      "title": "Social Transformation in the Sands",
-      "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/innovating-advance-humanity/article/3365144/social-transformation-sands?utm_source=rss_feed",
-      "date": "2026-08-30 16:00",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nOn the southeastern rim of the Tengger Desert, where d..."
+      "title": "At your service: Hong Kong welcomes first humanoid robot-run convenience stores",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365776/your-service-hong-kong-welcomes-first-humanoid-robot-run-convenience-stores?utm_source=rss_feed",
+      "date": "2026-08-31 00:43",
+      "summary": "Hong Kong’s first convenience stores operated by humanoid robots will open on Tuesday, with the Beijing-based company behind it pl..."
     },
     {
-      "title": "Data to Direction: How Vietnam is Reinventing the Strategic State",
-      "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/innovating-advance-humanity/article/3365130/data-direction-how-vietnam-reinventing-strategic-state?utm_source=rss_feed",
-      "date": "2026-08-30 16:00",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nFor more than a decade, Vietnam has built one of South..."
+      "title": "Hong Kong, Singapore aren’t ‘enemies’, our competition is healthy, envoy says",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365771/hong-kong-singapore-can-work-expand-pie-competition-not-zero-sum-envoy?utm_source=rss_feed",
+      "date": "2026-08-31 00:00",
+      "summary": "Singapore and Hong Kong do not view each other as enemies, but rather admire one another’s accomplishments, the country’s top envo..."
     }
   ]
 }
