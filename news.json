@@ -45,12 +45,6 @@
       "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
     },
     {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
-      "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
-    },
-    {
       "title": "Lauren Groff’s poet alter ego - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORG5waDJhS3RRSkFWMlpxNEp3NTJITlpvTDZIYXQ4QklGUXJkcjZNYk5vdHR5ZjNYb0xVZVVsdmVTS1ZSZGUwTUtpQXNzeFdMOGNDSjZHMTVvVDgxMm1FYXZ2ckplZ1FrTkxzOVVTSzRqdjBFRUZRcExveEVzZlcxcHl3?oc=5",
       "date": "2026-07-14 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
       "date": "2026-07-10 07:00",
       "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
+    },
+    {
+      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -89,10 +89,10 @@
       "summary": "Apply for the Stanford University Hoover Fellows Program 2027: Fully Funded Early-Career Research Opportunity with Up to $230,000 ..."
     },
     {
-      "title": "Kansas Drops Four Set Match to No. 5 Stanford - University of Kansas - kuathletics.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUHBST0lXWW5HV0VSOWxkSXBHX1ZLbFNXX2RYOUVVRUZsNXEzLVdFU0ZwTDAxaG1DZlpqT2xoVVdhR2JGemdqRzgtYWdvWFVGX3ItQWJwVUpUcTE2OXRyOVJFR0RSOXFIdUtvaS05dDg5TTdVcHl3SnRyWm1qSlI4WVMyaGxDSjRvOF9IR0NqTUg0emNzMlNacXQ1Zmg0MDQwQ1Vv?oc=5",
-      "date": "2026-08-30 20:51",
-      "summary": "Kansas Drops Four Set Match to No. 5 Stanford - University of Kansas  kuathletics.com..."
+      "title": "UPDATE: Judge rules against Trump administration in Stanford student free speech case - EdSource",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMlVieGdjYXFGQk5faWpKRkFnbWdqb2NCWVZoZ21IdDNmdjVZb1ZZSk9qeHpaY0ZtYUxsRWtQN01qeWRKRHdENmdiQ0U2eFI0c2d5akxuSHRad1hod2NvcmNNOVRxdDNmLUhncGxyNGdGQ2pQY3JYUmNpSFNNUDhSWVAySU9Yc09yb1JEQ3JyUGZmV3RZdmpsR1BjZkh3Zk9YMnpVbXhQMC1rZw?oc=5",
+      "date": "2026-08-31 23:11",
+      "summary": "UPDATE: Judge rules against Trump administration in Stanford student free speech case  EdSource..."
     }
   ],
   "Nature Careers": [
@@ -161,42 +161,48 @@
   ],
   "Reuters AI": [
     {
-      "title": "At Jackson Hole, global central bankers glimpse dystopian AI future - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFh5NUhXWG5NZW1lVzkySlBKWnZTRFVMLXh1R3N5VFJ4TkNmN2dXQnd0NmgwOXFyZENWS3dGbW84VnJ4YnFGQUtwcEJkNDRaT05aeUtFMmlfQllOY0luZnd6UzgwWVBRTlJLZ3hZMkJObzlHTnNENDZCNTJ3NVZ1MTBHQ3Z6QUE3VUp6WGw5WmRCWGtySV9GelhKNmhlV2RyaktqZ0VORzhURmxxME9LdllRSmVSdE0?oc=5",
-      "date": "2026-08-31 19:46",
-      "summary": "At Jackson Hole, global central bankers glimpse dystopian AI future  Reuters..."
-    },
-    {
       "title": "US urges hands-off approach to AI regulation at G20 tech meeting - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmNEZEtiMUprakFZdzJZc1ByWHZFSDBOWk1PUlZzdjRnLUhRajdvVHQ3LWQ4YkVTcDFDTmVGc2FiSTQ1Q2lqRU0tR0xfYVN3QXVwQWN3Z0E1RURlTVhzWU1fbHBLbURkQksyWjdseTdqUFRDbkxjZWswUzdNalNPcm9peVBuUjRldjlTZU9rZkRraWFNbVNFT3QtSEdaLWFDSjBYS2pyTnY2OTFGWUxvag?oc=5",
       "date": "2026-09-01 20:29",
       "summary": "US urges hands-off approach to AI regulation at G20 tech meeting  Reuters..."
     },
     {
-      "title": "Cook hands Apple to Ternus: bigger and richer, but catching up in AI race - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNkVwc3NNT2k1QzV2blM0bXBjZDZoaTJ5d2FzazViTGgwVllxcVN3RVpqTlh1U1FPeXU2TDh4ajVxTk9tb2c1cTNGcTE0dzdsSmJNZnpoYmcyVDMwWTZJUVkxRkZjTllmQ2JQX3g5TlRIbEhtMHpsbjFFWVJBTlNXNHdsR1AwTkRBTkxUSTZHVjdNa1h3TkF4VmNERjdKQWRJcE9qWXNJTmY3ejRMclVVeGg4SQ?oc=5",
-      "date": "2026-09-01 21:57",
-      "summary": "Cook hands Apple to Ternus: bigger and richer, but catching up in AI race  Reuters..."
+      "title": "Brazil races to rein in AI weeks before election - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLWJPa3VXWWgzYm0zdnIwbFFxMmZCZjBqT0ViZGVEQ0RJTFo5OTJ1ZFMza2g0MWRvdUFyOHVPS2ZxaDNwLXJvbWp2MUVMcG5QS3JLUXQ0azlLWDYyYnJudjBTQUVWdWQ1ZXJxSmhsNzhsbnpkdFdMY29OQklHTk51NjFlX0JDOTJ4clVXMVdETXl4RUI4aF9CcQ?oc=5",
+      "date": "2026-09-01 10:53",
+      "summary": "Brazil races to rein in AI weeks before election  Reuters..."
     },
     {
       "title": "Dell again lifts annual forecasts as AI demand powers record results - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUU1OMGo5VlZVaWotQl9vRjdzaHMyZ2tyRjdyMVpDMEFlcFhjNk5TWHZybTJGLUJENDRBR0QzZHVJSjU0LW5vMk1qNERCLTZyZnpJTUd3b0g4dmg0NHVZaXNaSFVTeU9LcGFQYkpucExVaWpFXzNOMjdXVUVJcXAyUUpib3VFODU0aVFnLTU0UXdHX3BXNjd2U2VKODI5dlNpdGRwVGFn?oc=5",
-      "date": "2026-09-01 23:22",
+      "date": "2026-09-01 20:08",
       "summary": "Dell again lifts annual forecasts as AI demand powers record results  Reuters..."
     },
     {
-      "title": "EU antitrust regulators quiz publishers on Google's AI search opt-out - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM3ZuSzV0eDN5dmp1amtEMFZnNjc4UlNvTERweEhFYmJVYTc4NURmM2U2QnZSN0k1WEFGbVh5dkhaT2hQTWgwY1Z3MnU1Q182dm1PQkd2Q19NQmZXUFpYbFk1VEhQbFhYeWRGWVF2WWgzWVhmRlVrUF80TVJYODgyVFRFdEJOS3NhV0VBMTMxSDc4b0tHM3RCcENHMDhocFNUakxDNDVwa3pXR0NSUDBtRGgyYjBCWUJjeWc?oc=5",
-      "date": "2026-09-01 20:58",
-      "summary": "EU antitrust regulators quiz publishers on Google's AI search opt-out  Reuters..."
+      "title": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWXk1N1BVQlkxV200Z2xPZkE4T2JVX1hJa0RjaUVCS2UzVjJlb0RLc25UZU5kQzZCS2R4ZlNoeXUybkpZSVdfbTFHNWc5VkpJT3AxNlp3N3E5TVdBRlk0eVhrem9YcnZnYkZManJmNlFmc0NDLXNySW5MSjBnMEpNZjJmaGhDRjFOU0dRZzFPcmJuck9wc3UzS3dDOGt6cTFMSUpyMnJDMTIyaHJyZlhRRXpESExyMWRYMERF?oc=5",
+      "date": "2026-09-01 21:03",
+      "summary": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console  Reuters..."
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: Financiers are set to turn Nvidia into an AI baron - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbDFUZWNxM2RXcnh6VkJHaW1Gd082cjJLdGZSa2hNTTBVaVRxcXd5YTIyMVRNR0hiTGJPRFo1UGE5X3ZabEFrYVVTUE5KSHV2U1A5b0p4b1FQRFJmeXNoYVBEOGVEVHV5NzFZRGN5ZTJMY3lzRXY3TWI3eTFWZ3dNTmdhRlVDZUxzdmRsWlliakhYTzJ3cmJBRUNWcTM3ajdESGlHMW1tamlHX0xw?oc=5",
+      "date": "2026-09-02 05:00",
+      "summary": "Breakingviews - COMMENTARY: Financiers are set to turn Nvidia into an AI baron  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "Making the AI-powered case for legacy modernization - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNzVvZEdScDlMMVdiVHkwZGptZkwyQjhReDNENTFrVk5jcHhxSW01OHdmSHhCblhaYnFzTlRrbFhTR1F4Z2toTzRqRkp1dm40R3Uyb3FTUi1QYU1VQlBycGc1TWpuSnhLZG1CVXJ3QU43Mjhra3JONlVmT3hzeWloYmtIanBlZjlxc3RvVU5Wd08tRUFiY2IwWHpuYmQ2TFhXVUhadjNLY9IBrAFBVV95cUxPUGtYTWt6eUJ2dm0ya1VqcFNfU0FNYThYWkxBQlF6OEd5eFo0Q1oybndIemlsN3d4bVdPR1hpdlN3T2tLbXI2Nzh3NTcxUEZ6S05ha3RsZ3Q4RnJVaWJjQWNBeVBmMk5NNDZjU1BJeGF1YUtULU9nVHpKTEkwVlJXZUstR2ZtTFRsVXUxYUxuRDRaYU1BTVZaYTNZWUt2amFhT0d6Sjd6LUFWcUZ0?oc=5",
-      "date": "2026-09-01 14:00",
-      "summary": "Making the AI-powered case for legacy modernization  MIT Technology Review..."
+      "title": "How AI plotted an interstellar journey to Alpha Centauri - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3N0UC1MZGJFSEQzeEEwbThyM0lNM1V6NTBXVXNhTWxBUUxUeWw5YkhEelRXaDdCdUNLS0hBd3dJRmtMS094ZUlLRURoOUtZUUxZaEJsaEpQM2JjNTI3enY5WDVrd0t2QlRjanpXYUN0dXZZVkJUc1VkVTlLbFhSeGs5NGZuR0FWLXBkc2oxbUhSS0ZpdHfSAZsBQVVfeXFMTklmRWxtRDJ4Y1VRV2o2Wjc2T3RFTnZWU3I1bkxQZjFONkxuS3VaejRJYmk4emRKemNaRWNxTWxHTFUxTWw4Z0FRd0M0aWhUUlgzOHNNTWI5dG5VUHpYNkRFSGZlcVFYV2pRUThqdjQ0ZEtpdThvTEZCRU1pQ3B2emJqdG1vWDA1ZmlpanpHLTkxRzRiSkQtX0tyOVE?oc=5",
+      "date": "2026-09-01 19:10",
+      "summary": "How AI plotted an interstellar journey to Alpha Centauri  MIT Technology Review..."
+    },
+    {
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGZWNXRXV1BiZ1BjdGNhaHVWcFBWNWhsUFp5cmo4VlVzVWpMdXpVTGdJTklweHdmZnh1MnNrbUY2X2FYX3lFdWhqWGVibDNIUFQySDcyUnNGZnA3ZWJBSThGUjE5MEhaWWd0OVdiV1pYdHZpUGZWd2treWJJVjZNdXhUTUc3aUdoZzdtck9TUjltajVPbVBsdkxQZGVIaHRxV3AzSXV4WnlQUXdfaHJjM9IBtgFBVV95cUxOSmhKNnc5MFpCVHRTRm5MemVhb1hRUTY5RmswZHNqaVN2aTZsTTJ5bU91OWFKYnVid3lpUmZqb2pGZ0dSSE5raG1tYUNybXM4ZkhSdjBKUjF0Q2U0bHRPM2FCdmtJU2laZmkxQkFLNnF0RjZKQ2xtZW90MGVTRG1Mb2NKbGdmWVlhTFY5MVpUUE9idzlZZmpGSHVrbl9UZWdkYzNzZFV0aDY1ZVVocFpid2lpUHR5UQ?oc=5",
+      "date": "2026-08-31 18:00",
+      "summary": "The Hugging Face hack could indicate cultural issues at OpenAI  MIT Technology Review..."
     },
     {
       "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem - MIT Technology Review",
@@ -211,12 +217,6 @@
       "summary": "Raised on AI  MIT Technology Review..."
     },
     {
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what? - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZThmeE9Ed0pBQ0t0MkxhX1RXVkNoM19IWlZmcDNxZ0dZU216ZEpTc1hUSGRuYkw0a2wwMWstMzZ1bWNwTXdfVVNtbEpUOUdPNFlJemlzeWh2V2NLUGtfUE1xYjVGUkJuLTcxcVlkTDRKMDNwcl9aX3Zvc05GWXBUSm83OWlIOGdwSXU00gGQAUFVX3lxTFBmT1NCX2k4QWN4UlBZdGJGc1hNbWszNHF6ZE1ZU09jNGIyNlVXY1ViQWJWOUhmWWNaR2hnbGVaZnJjd2kzYm5hQkMyTWNIUjhiQWNrZl81Z1VLNlpKTXhMWlR5bWNoQU00ZTRicmNvOFc1UzlMUXY3LVIyNTAzVlkyT1hoYlMwNXR1eUlILWJabg?oc=5",
-      "date": "2026-08-26 07:01",
-      "summary": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?  MIT Technology Review..."
-    },
-    {
       "title": "A startup claims it’s found a drug to make your blood young - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFktMTBZaENKMkdvNjVPTk5ZeVF2ZlZZdXJ3THFwLWJXRXpGek40OTlXOGRUT1FVRHZIb2cwaXJlSUJ4ZThRV2ppQTdWVFVyMGxJbERNNVBDV19LVUphSkktUWY1NUROUURsN0VsMWZSNXR2ZnVaTVdxY1BmYXhPUVM4ajctQXZ1ZmEyV3BEcGQ3V2Z5bHB0eXNDck5Wc1g1YlNGZEFuTEptM3ZVNmfSAbMBQVVfeXFMUGh2ZFlqckRwQ25ieHhoS3hZckFhOWpKQVlZZGJwZVhsQ3JWdWJ3Sk4xTWtyUGtTMjBiVnVoWUVyeWhTbXpHS25QM1NhMW1UQVBSUmdNRzFMUkNsTE9LTV9UZURqOXRRMWlJbzAwZVFxdjFaMVN6dTZIdThEQUQ0MzNBeUlqQ2Q5TW9JVF9aZy1hTmJmcjAtR2Zxek5uWjFNQUlydS1WQ0ZYcU9mdDd5aDA1aDQ?oc=5",
       "date": "2026-08-27 19:48",
@@ -224,6 +224,24 @@
     }
   ],
   "Phys.org": [
+    {
+      "title": "Global warming will exceed limit, UN says in a report that maps path to get back below danger zone",
+      "link": "https://phys.org/news/2026-09-global-exceed-limit-path-danger.html",
+      "date": "2026-09-02 07:38",
+      "summary": "In a strategic retreat in the fight against climate change, the United Nations has acknowledged that Earth has lost its chance to ..."
+    },
+    {
+      "title": "Scientists discover the key ingredients that make birdsong pretty",
+      "link": "https://phys.org/news/2026-08-scientists-key-ingredients-birdsong-pretty.html",
+      "date": "2026-09-02 04:00",
+      "summary": "What makes birdsong beautiful? Answering this question could help us understand how soundscapes make the natural world relaxing fo..."
+    },
+    {
+      "title": "Community-led systems may curb illegal dumping in Indonesia's rural tourism areas",
+      "link": "https://phys.org/news/2026-09-community-curb-illegal-dumping-indonesia.html",
+      "date": "2026-09-02 03:00",
+      "summary": "Local action may offer a model for waste management in rural tourism, according to research published in the International Journal..."
+    },
     {
       "title": "Children's picture books reflect changing attitudes to languages and can support revitalization",
       "link": "https://phys.org/news/2026-09-children-picture-attitudes-languages-revitalization.html",
@@ -235,24 +253,6 @@
       "link": "https://phys.org/news/2026-09-agentic-ai-crops-harvest-critical.html",
       "date": "2026-09-02 01:00",
       "summary": "For too long, the United States has relied on foreign sources for most of the raw materials powering its technological future: the..."
-    },
-    {
-      "title": "Many space missions are searching for life beyond Earth, but are we prepared for the fallout if they succeed?",
-      "link": "https://phys.org/news/2026-09-space-missions-life-earth-fallout.html",
-      "date": "2026-09-02 00:40",
-      "summary": "Microbes from space have fueled the plots of science fiction mainstays like \"Project Hail Mary\" and \"The Andromeda Strain.\" But wi..."
-    },
-    {
-      "title": "Border toy screening finds 12% exceed toxic-metal limits",
-      "link": "https://phys.org/news/2026-09-border-toy-screening-exceed-toxic.html",
-      "date": "2026-09-02 00:20",
-      "summary": "Nearly four out of five children's toys purchased in the El Paso-Ciudad Juárez region contain at least one toxic element, accordin..."
-    },
-    {
-      "title": "Magnetic beads streamline large-scale analysis of disease-linked glycopeptides",
-      "link": "https://phys.org/news/2026-09-magnetic-beads-large-scale-analysis.html",
-      "date": "2026-09-02 00:00",
-      "summary": "A research team has developed a reliable, economical laboratory method that uses tiny magnetic beads to study proteins with sugar ..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "At least 14 injured after 2 buses collide at Hong Kong primary school",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3366084/least-14-injured-after-2-buses-collide-hong-kong-primary-school?utm_source=rss_feed",
+      "date": "2026-09-02 07:21",
+      "summary": "At least 14 people have been injured in a collision involving two school buses at a girls’ school in Hong Kong.\nThe Fire Services ..."
+    },
+    {
+      "title": "CityU vows ‘zero tolerance’ as orientation ‘disco night’ video triggers probe",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3366064/cityu-vows-zero-tolerance-orientation-disco-night-video-triggers-probe?utm_source=rss_feed",
+      "date": "2026-09-02 05:34",
+      "summary": "Hong Kong’s City University has launched an investigation into an alleged indecent incident during a student-led orientation activ..."
+    },
+    {
+      "title": "Higher typhoon signal possible, depending on Saudel’s course after rare resurgence",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3366053/higher-typhoon-signal-possible-depending-saudels-course-after-rare-resurgence?utm_source=rss_feed",
+      "date": "2026-09-02 04:16",
+      "summary": "Hong Kong’s weather forecaster may issue a higher typhoon signal closer to the weekend after Tropical Cyclone Saudel experienced a..."
+    },
+    {
       "title": "Joshua Wong admits instigating sanctions against Beijing, Hong Kong governments",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366044/joshua-wong-admits-instigating-sanctions-against-beijing-hong-kong-governments?utm_source=rss_feed",
       "date": "2026-09-02 02:43",
@@ -299,24 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/education/article/3366026/hku-partners-tech-giants-offer-ai-labs-expanded-shanghai-campus?utm_source=rss_feed",
       "date": "2026-09-02 00:30",
       "summary": "The University of Hong Kong (HKU) is partnering with tech giants to offer on-site artificial intelligence (AI) laboratories at its..."
-    },
-    {
-      "title": "Power failure halts trams running between Hong Kong’s Wan Chai and Admiralty",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3366028/power-failure-halts-trams-running-between-hong-kongs-wan-chai-and-admiralty?utm_source=rss_feed",
-      "date": "2026-09-01 15:01",
-      "summary": "Tram services between Wan Chai and Admiralty in Hong Kong were suspended Tuesday night due to a power failure, the second such inc..."
-    },
-    {
-      "title": "‘Worst yet to come’ as Hong Kong schools cut record 126 Primary One classes",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3366024/worst-yet-come-hong-kong-schools-cut-record-126-primary-one-classes?utm_source=rss_feed",
-      "date": "2026-09-01 13:40",
-      "summary": "Hong Kong public schools have slashed a record 126 Primary One classes for the 2026-27 academic year amid a shrinking student popu..."
-    },
-    {
-      "title": "Suspected cyberattack puts data of 33,054 customers using group-buying app at risk",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366021/suspected-cyberattack-puts-data-33054-customers-group-buying-app-risk?utm_source=rss_feed",
-      "date": "2026-09-01 13:22",
-      "summary": "The private data of about 33,000 customers of TVB-owned group-buying platform Neigbuy has been compromised in a suspected cyberatt..."
     }
   ]
 }
