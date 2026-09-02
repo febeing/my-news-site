@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "System helps humans predict when self-driving cars will make mistakes",
+      "link": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
+      "date": "2026-09-02 15:00",
+      "summary": "A new method, called CW-Net, translates the reasoning process of an autonomous vehicle’s AI system into understandable concepts th..."
+    },
+    {
+      "title": "New research shows a neutrino laser is impossible",
+      "link": "https://news.mit.edu/2026/new-research-shows-neutrino-laser-impossible-0902",
+      "date": "2026-09-02 14:00",
+      "summary": "Due to physical and fundamental limitations, an earlier proposal for producing laserlike beams of neutrinos cannot be achieved, sc..."
+    },
+    {
       "title": "Cognition and consciousness arise from analog computations, says new theory",
       "link": "https://news.mit.edu/2026/cognition-consciousness-arise-from-analog-computations-says-new-theory-0901",
       "date": "2026-09-01 20:35",
@@ -17,50 +29,38 @@
       "link": "https://news.mit.edu/2026/translating-economic-growth-into-better-lives-lyonel-tanganco-0831",
       "date": "2026-08-31 20:40",
       "summary": "Graduate student Lyonel Tanganco investigates how to improve public policy interventions and address challenges in nutrition, clim..."
-    },
-    {
-      "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
-      "link": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
-      "date": "2026-08-31 19:30",
-      "summary": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research...."
-    },
-    {
-      "title": "Study: Peptides can form well-defined structures in harsh, Venus-like conditions",
-      "link": "https://news.mit.edu/2026/study-peptides-can-form-well-defined-structures-harsh-venus-conditions-0831",
-      "date": "2026-08-31 19:00",
-      "summary": "New research offers support for the possibility that complex biological molecules could exist in the highly acidic environment of ..."
     }
   ],
   "Harvard Gazette": [
     {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "title": "20 societal problems, 20 solutions - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
+      "summary": "20 societal problems, 20 solutions  news.harvard.edu..."
     },
     {
-      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "title": "How AI may change public policy, how we lead - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
       "date": "2026-07-28 07:00",
-      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
+      "summary": "How AI may change public policy, how we lead  news.harvard.edu..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
-    },
-    {
-      "title": "Lauren Groff’s poet alter ego - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORG5waDJhS3RRSkFWMlpxNEp3NTJITlpvTDZIYXQ4QklGUXJkcjZNYk5vdHR5ZjNYb0xVZVVsdmVTS1ZSZGUwTUtpQXNzeFdMOGNDSjZHMTVvVDgxMm1FYXZ2ckplZ1FrTkxzOVVTSzRqdjBFRUZRcExveEVzZlcxcHl3?oc=5",
-      "date": "2026-07-14 07:00",
-      "summary": "Lauren Groff’s poet alter ego  Harvard Gazette..."
-    },
-    {
-      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "title": "What happens if an AI agent goes rogue and causes harm? - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
       "date": "2026-07-10 07:00",
-      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
+      "summary": "What happens if an AI agent goes rogue and causes harm?  news.harvard.edu..."
+    },
+    {
+      "title": "Worried about how online firms use data they get from you? - news.harvard.edu",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Worried about how online firms use data they get from you?  news.harvard.edu..."
+    },
+    {
+      "title": "The questions that keep scientists up at night - news.harvard.edu",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNVX00xMi1wSUdRdm9mSVNTQ3BPWDR4cHVRS012YWhWdTZQdHhPUVFHN2l3MWZ0eEFpbHBkNlhTdThxWFRib2dqeW9fZlZ5YlZDc1E2NXQ2SVcyU1JnNDk0blNUSnpsVW5TeFh0Z0NqczQ2LUFjb2U4UHVnZWpFejNpQ0xEYTZRMU90cUFiN0FzdDJfeG8ySl9R?oc=5",
+      "date": "2026-04-07 07:00",
+      "summary": "The questions that keep scientists up at night  news.harvard.edu..."
     }
   ],
   "Stanford News": [
@@ -77,12 +77,6 @@
       "summary": "Crime Rates Dropped By 20% at Intersections With Urban Alchemy Presence, Says Stanford Study  sfist.com..."
     },
     {
-      "title": "Apply for the Stanford University Hoover Fellows Program 2027: Fully Funded Early-Career Research Opportunity with Up to $230,000 Salary - Global South Opportunities",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13VnN0QktDZTktcDd3U19TUGoyVTRhSkNwSy1DemJlSHgzLXd2eGhUUk52ZExxSDNjXzhnYXRUdkd1OWw1RHRPeVhJTDJHSjFZSFhMT25VeFM2OUxQQzdhZGtKektSZTQ2Vm51UVNB?oc=5",
-      "date": "2026-08-31 08:38",
-      "summary": "Apply for the Stanford University Hoover Fellows Program 2027: Fully Funded Early-Career Research Opportunity with Up to $230,000 ..."
-    },
-    {
       "title": "Meet Stanford’s self-styled ‘art ranger’ - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9seDB2TWlLZm1vZ0QtdXNQSkZXTXU0cjdHM3d1aHFvbGJfTVVHV2g5ekJzTF9mbDQzcEt2Wk9lMVlRZ0tUNGJVRkZOLVJ1QUhIS0d2Zkx2Um05elJnNThaenBLSnpkNXpHbXI5bGFiaUdFak1WRUVtM2FRdHVWQzg?oc=5",
       "date": "2026-09-02 07:58",
@@ -91,11 +85,23 @@
     {
       "title": "Scientists spot a possible dark matter signal - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vc3R6SUhSekplZkduWXdYaU81bVk1anJwSXBOWDZyNVFISUhEejE5dUIwdkhxTV9oNjdEY2RxYWxuYWM0RmpqbFJzdllmbzZXMHlvODZYcUVYSHZBa2Rxc3RpTGF2RGd4dmdrVUQ0OUpuaFZrZHBRaURuZDM?oc=5",
-      "date": "2026-09-02 07:48",
+      "date": "2026-09-01 21:58",
       "summary": "Scientists spot a possible dark matter signal  Stanford Report..."
+    },
+    {
+      "title": "UPDATE: Judge rules against Trump administration in Stanford student free speech case - EdSource",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMlVieGdjYXFGQk5faWpKRkFnbWdqb2NCWVZoZ21IdDNmdjVZb1ZZSk9qeHpaY0ZtYUxsRWtQN01qeWRKRHdENmdiQ0U2eFI0c2d5akxuSHRad1hod2NvcmNNOVRxdDNmLUhncGxyNGdGQ2pQY3JYUmNpSFNNUDhSWVAySU9Yc09yb1JEQ3JyUGZmV3RZdmpsR1BjZkh3Zk9YMnpVbXhQMC1rZw?oc=5",
+      "date": "2026-08-31 23:11",
+      "summary": "UPDATE: Judge rules against Trump administration in Stanford student free speech case  EdSource..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Author Correction: Signalling thresholds and negative B-cell selection in acute lymphoblastic leukaemia",
+      "link": "https://www.nature.com/articles/s41586-026-11080-8",
+      "date": "2026-09-02 00:00",
+      "summary": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-11080-8Author Correction: Signalling thresholds and negative B..."
+    },
     {
       "title": "Satellite images before Nepal disaster showed warning signs",
       "link": "https://www.nature.com/articles/d41586-026-02746-4",
@@ -109,25 +115,25 @@
       "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02753-5Earth will breach a long-standing target before the end..."
     },
     {
-      "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
-      "link": "https://www.nature.com/articles/s41586-026-11071-9",
-      "date": "2026-09-01 00:00",
-      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/s41586-026-11071-9Author Correction: Plasticity and language in the anaes..."
+      "title": "City of slop",
+      "link": "https://www.nature.com/articles/d41586-026-02414-7",
+      "date": "2026-09-02 00:00",
+      "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02414-7Home is where you end up...."
     },
     {
-      "title": "Charmed by comets",
-      "link": "https://www.nature.com/articles/d41586-026-02383-x",
-      "date": "2026-09-01 00:00",
-      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02383-xAstronomy that has long gripped people’s imagination, a..."
-    },
-    {
-      "title": "These greenhouse-gas sources have trotters and snouts",
-      "link": "https://www.nature.com/articles/d41586-026-02734-8",
-      "date": "2026-09-01 00:00",
-      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02734-8Emissions linked to global warming are higher at sites ..."
+      "title": "When do infections lead to long COVID? Scientists close in on triggers and treatments for post-viral syndromes",
+      "link": "https://www.nature.com/articles/d41586-026-02683-2",
+      "date": "2026-09-02 00:00",
+      "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02683-2Hundreds of millions of people have long-term condition..."
     }
   ],
   "Retraction Watch": [
+    {
+      "title": "Oxford researchers retract Nature paper on ‘atmospheric thirst’ for calculation errors",
+      "link": "https://retractionwatch.com/2026/09/02/oxford-researchers-retract-nature-paper-on-atmospheric-thirst-for-calculation-errors/",
+      "date": "2026-09-02 15:00",
+      "summary": "Nature has retracted a paper on the atmosphere’s role in the severity of droughts around the world after the authors discovered th..."
+    },
     {
       "title": "Journal retracts paper claiming network of corridors inside the Great Pyramid of Giza",
       "link": "https://retractionwatch.com/2026/08/31/retraction-corridors-inside-great-pyramid-giza/",
@@ -151,27 +157,9 @@
       "link": "https://retractionwatch.com/2026/08/27/japan-stem-cell-research-kyoto-shinya-yamanaka-gotham-city-research/",
       "date": "2026-08-27 18:26",
       "summary": "The Center for iPS Cell Research and Application (CiRA) at Kyoto University in Japan is defending Nobel Prize winner Shinya Yamana..."
-    },
-    {
-      "title": "Elsevier to ‘soon investigate’ two Macchiarini papers more than a year after retraction request",
-      "link": "https://retractionwatch.com/2026/08/26/elsevier-to-soon-investigate-two-macchiarini-papers-more-than-a-year-after-retraction-request/",
-      "date": "2026-08-26 12:00",
-      "summary": "Elsevier says it will begin investigating two papers coauthored by disgraced surgeon Paolo Macchiarini “soon,” more than a year af..."
     }
   ],
   "Reuters AI": [
-    {
-      "title": "AI-driven cyber risk is top concern for global financial stability, watchdog says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX0JqSFg4eDZVZkJmMFBBd1BoeDRrMlBQNkY3cFNWckJlVEVWQUFocjM4QkktNkFSdTFVMWFfbzJhbU13LXBQMlZWTnVFQm5mNFNlX2ptTVZqTUg5UktpcndDdVM3Q0p2RzIwckRUajRWRzZ0ZTUxQXExdnJzZkRldDJiUnQ3ZXcxcHppRTVGZjhZYjRnbzFIbFdIQ0dWczhoaDdtbWdWazlTSllkbDZuaWJQMW9LLXNabXNhVzB2Y2Q4MnFXeUxqOQ?oc=5",
-      "date": "2026-08-31 16:55",
-      "summary": "AI-driven cyber risk is top concern for global financial stability, watchdog says  Reuters..."
-    },
-    {
-      "title": "OpenAI says upcoming model is so capable it requires stronger guardrails - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmFpdE5PNUc2RGxZcDJtQ09LMTZsaHNRTE5NVWg2bWtHYU1wNVBjZDlDdmN5MnlOVFNNb0QySm9xWkdtSEhBajkyZzFEbXF0ZW9PbjVBNGdRVGlXVXlqbEVNOXFLV3hGUVlBdzdHZExNR1ZrVE9xaVphTlowdFBBaU5mRzFlYVZadUd6TmdRei16aHFXc0FCdVdvbUNNUDVscVNnUmJNSTBIdWYwMll6TlBsWGxEMGg5?oc=5",
-      "date": "2026-09-01 21:47",
-      "summary": "OpenAI says upcoming model is so capable it requires stronger guardrails  Reuters..."
-    },
     {
       "title": "US urges hands-off approach to AI regulation at G20 tech meeting - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmNEZEtiMUprakFZdzJZc1ByWHZFSDBOWk1PUlZzdjRnLUhRajdvVHQ3LWQ4YkVTcDFDTmVGc2FiSTQ1Q2lqRU0tR0xfYVN3QXVwQWN3Z0E1RURlTVhzWU1fbHBLbURkQksyWjdseTdqUFRDbkxjZWswUzdNalNPcm9peVBuUjRldjlTZU9rZkRraWFNbVNFT3QtSEdaLWFDSjBYS2pyTnY2OTFGWUxvag?oc=5",
@@ -179,19 +167,37 @@
       "summary": "US urges hands-off approach to AI regulation at G20 tech meeting  Reuters..."
     },
     {
-      "title": "California lawmakers pass bill governing lawyers' use of AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbFh0bjF0aXc5OFBldkJvWXMzcW00WnF4TTVybHBsWDR0T2dXaWxJNWp5ci1kaFpCNXloY1FxM2JjRHlEY1F6cEFhSmU4LTMtYlBUTXI0TUd0OFVBLVZSNzJUY2dDT1pXR21wZTRteThtYUtQMnlmRHZ3TmFnR3FrQndEZ3BOaHRZRGlvdklaMGJjeGg1TTdjUDU4UW93amlmTjRUNV9kZTdXalNJ?oc=5",
-      "date": "2026-09-01 23:17",
-      "summary": "California lawmakers pass bill governing lawyers' use of AI  Reuters..."
+      "title": "Tencent-backed Enflame IPO draws 6,109 times online demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGozNnBkYjNjcjkwMlhXX0l2YlVQRThVU3Z1NElnbWJxQklrNU94WTlvRDctcVlDUW5Mb1ctZmFVN2VmM2RLTmZfbXg5M3c4Q1NBLUVLUm9sMU5TYnhRNWFHMDE0WUZONF96TGNiZnJGUlZtaVVlRjBFRDV2UnBhNWg4M2lzb2FXa2RUZk9xc2xMSzA2U2o4V3dYb3VmQ01XZkRHX1ZuWVc?oc=5",
+      "date": "2026-09-02 15:50",
+      "summary": "Tencent-backed Enflame IPO draws 6,109 times online demand  Reuters..."
     },
     {
-      "title": "Cook hands Apple to Ternus: bigger and richer, but catching up in AI race - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNkVwc3NNT2k1QzV2blM0bXBjZDZoaTJ5d2FzazViTGgwVllxcVN3RVpqTlh1U1FPeXU2TDh4ajVxTk9tb2c1cTNGcTE0dzdsSmJNZnpoYmcyVDMwWTZJUVkxRkZjTllmQ2JQX3g5TlRIbEhtMHpsbjFFWVJBTlNXNHdsR1AwTkRBTkxUSTZHVjdNa1h3TkF4VmNERjdKQWRJcE9qWXNJTmY3ejRMclVVeGg4SQ?oc=5",
-      "date": "2026-09-01 10:14",
-      "summary": "Cook hands Apple to Ternus: bigger and richer, but catching up in AI race  Reuters..."
+      "title": "Dell shares gain after strong AI server demand boosts annual forecast - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmNtT1NWQzNvZG9xWl90RkNVMTdUUGMwS056SGE5X2Y5SDNFNEVqRmUxQ2MtZjJrcDJDWU1rcTFMdTBNQTRhNUZPdjYtUU5XSTlCQkxhSl9wd0lWOVlxRy1weGpiUW9PdTJaTUtnNmhicktYWmE2cWw0SHRMU0JuU0k4STJrSjhwcmxEeUNONm1tUVFmMkNEZFVlS2xoandSQURBSG1EVC02QWx5RkkzMkVwMEhFd1lJM3dIMzBveDU0bXV4ZHV6REJn?oc=5",
+      "date": "2026-09-02 13:51",
+      "summary": "Dell shares gain after strong AI server demand boosts annual forecast  Reuters..."
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: Financiers are set to turn Nvidia into an AI baron - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbDFUZWNxM2RXcnh6VkJHaW1Gd082cjJLdGZSa2hNTTBVaVRxcXd5YTIyMVRNR0hiTGJPRFo1UGE5X3ZabEFrYVVTUE5KSHV2U1A5b0p4b1FQRFJmeXNoYVBEOGVEVHV5NzFZRGN5ZTJMY3lzRXY3TWI3eTFWZ3dNTmdhRlVDZUxzdmRsWlliakhYTzJ3cmJBRUNWcTM3ajdESGlHMW1tamlHX0xw?oc=5",
+      "date": "2026-09-02 07:18",
+      "summary": "Breakingviews - COMMENTARY: Financiers are set to turn Nvidia into an AI baron  Reuters..."
+    },
+    {
+      "title": "Berkshire CEO Abel says AI to help power growth - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUhNVlk0cFV2aWlLZS05RGdXb09LX2E3V01uSzBlc0tqY3R5S2NDblgyNk10QW05Z3FFSXBGVkhVTUJkSVU5TGxvZ0VqelU0eVdjV1gyWXBHWFZnMnQ5VW1sRnQyRXhkR1BYSlplWnF1OG4wYWFvWEJCQThFa2ljMFdvRFpVZk45eGFaNHdrSzZMVWNCSjNxcHVSNy1CdFZUNWxIWjBHSmFxXzhvZm1r?oc=5",
+      "date": "2026-09-02 13:22",
+      "summary": "Berkshire CEO Abel says AI to help power growth  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "Facilitating AI integration with simplicity at scale - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmk1ZUJ3VVRYZzdqTy1vbGRhTG12cTh5WWdWT1V2VUNlRTl2dnJaeEJyN1lEWEwzYUJadEUyNExzTkQ1Z2tXLVhESDZxTjRIbkQ3WlA2bmI4UU5PTkxJSERPRHFZak11QWRQYndqaHRqbk1UNnV0ZjFoS3p2c3Q0UVZpTWUyVVpDRVRodGVpc3hwNm53RzlRWTdNVG1FeTFaQzEybEp3SmbSAa4BQVVfeXFMUEltM1FYUnphZGZKQ0hBcmU0cE82NlJnNGFhbWFiN0RnNXFIMUxPTTFNRnAzNC1CZ0l5YjlDM3dVdDBseUtMem52NWhDUVlJSGdsMlg5a0hreV9HQkpnYk5JTmRPOFpHWU9yb2pvc0t4QXFjcW5VeTBVZ3VoSm9DM1R2T2NYN2tXUEtNOHBZbVd5S2JCMU4tT0FtV1A5STF3ZENxdUJaamI2c2s1aHpB?oc=5",
+      "date": "2026-09-02 14:00",
+      "summary": "Facilitating AI integration with simplicity at scale  MIT Technology Review..."
+    },
     {
       "title": "How AI plotted an interstellar journey to Alpha Centauri - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3N0UC1MZGJFSEQzeEEwbThyM0lNM1V6NTBXVXNhTWxBUUxUeWw5YkhEelRXaDdCdUNLS0hBd3dJRmtMS094ZUlLRURoOUtZUUxZaEJsaEpQM2JjNTI3enY5WDVrd0t2QlRjanpXYUN0dXZZVkJUc1VkVTlLbFhSeGs5NGZuR0FWLXBkc2oxbUhSS0ZpdHfSAZsBQVVfeXFMTklmRWxtRDJ4Y1VRV2o2Wjc2T3RFTnZWU3I1bkxQZjFONkxuS3VaejRJYmk4emRKemNaRWNxTWxHTFUxTWw4Z0FRd0M0aWhUUlgzOHNNTWI5dG5VUHpYNkRFSGZlcVFYV2pRUThqdjQ0ZEtpdThvTEZCRU1pQ3B2emJqdG1vWDA1ZmlpanpHLTkxRzRiSkQtX0tyOVE?oc=5",
@@ -205,54 +211,48 @@
       "summary": "Making the AI-powered case for legacy modernization  MIT Technology Review..."
     },
     {
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGZWNXRXV1BiZ1BjdGNhaHVWcFBWNWhsUFp5cmo4VlVzVWpMdXpVTGdJTklweHdmZnh1MnNrbUY2X2FYX3lFdWhqWGVibDNIUFQySDcyUnNGZnA3ZWJBSThGUjE5MEhaWWd0OVdiV1pYdHZpUGZWd2treWJJVjZNdXhUTUc3aUdoZzdtck9TUjltajVPbVBsdkxQZGVIaHRxV3AzSXV4WnlQUXdfaHJjM9IBtgFBVV95cUxOSmhKNnc5MFpCVHRTRm5MemVhb1hRUTY5RmswZHNqaVN2aTZsTTJ5bU91OWFKYnVid3lpUmZqb2pGZ0dSSE5raG1tYUNybXM4ZkhSdjBKUjF0Q2U0bHRPM2FCdmtJU2laZmkxQkFLNnF0RjZKQ2xtZW90MGVTRG1Mb2NKbGdmWVlhTFY5MVpUUE9idzlZZmpGSHVrbl9UZWdkYzNzZFV0aDY1ZVVocFpid2lpUHR5UQ?oc=5",
-      "date": "2026-08-31 18:00",
-      "summary": "The Hugging Face hack could indicate cultural issues at OpenAI  MIT Technology Review..."
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZThmeE9Ed0pBQ0t0MkxhX1RXVkNoM19IWlZmcDNxZ0dZU216ZEpTc1hUSGRuYkw0a2wwMWstMzZ1bWNwTXdfVVNtbEpUOUdPNFlJemlzeWh2V2NLUGtfUE1xYjVGUkJuLTcxcVlkTDRKMDNwcl9aX3Zvc05GWXBUSm83OWlIOGdwSXU00gGQAUFVX3lxTFBmT1NCX2k4QWN4UlBZdGJGc1hNbWszNHF6ZE1ZU09jNGIyNlVXY1ViQWJWOUhmWWNaR2hnbGVaZnJjd2kzYm5hQkMyTWNIUjhiQWNrZl81Z1VLNlpKTXhMWlR5bWNoQU00ZTRicmNvOFc1UzlMUXY3LVIyNTAzVlkyT1hoYlMwNXR1eUlILWJabg?oc=5",
+      "date": "2026-08-26 07:01",
+      "summary": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?  MIT Technology Review..."
     },
     {
-      "title": "We still don’t know how people are really using AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQkFLNWNOVndnMUZHN0ZiNHp2ODVoNUFRMDNSRGJuR1FiOE1qTTdQZFI1WEg0LWJ0TjJHaWtOdEVUSzdmZjRDSFN1QmxIeGdTZlJGNjlaZ3dpNGRuOE5xT1g3R1VXbURweThZRmtBSHhlR1lOR0Zaai1R0gF_QVVfeXFMUHRtMk1yNmFCRWVjb2o5MzZUQlZnNUFfLTZ2WkQ3eFdXa1RDLTFjaGE3UnJpX0hEbHN2NVZoQVpVOWROcUlMNVZaSG9DaXd2dkFEc3JQZWFsNDc0LWRSb09sdlAzSUpXNnpneWY5VWJvUWRkMHpZYmFpam1nXzJIWQ?oc=5",
-      "date": "2026-08-18 07:00",
-      "summary": "We still don’t know how people are really using AI  MIT Technology Review..."
-    },
-    {
-      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ05kQko5UWI5YmJxQ0VhQjNETTN1amZUOVVfRWJ0Y2dqaHJPYS13VkpxNXBSbFBuWW5Cc0tmMFNVN25sYzdDRzhhVjZ1NXBUT3E0QVlhNG56eFBTckFZYXRXdVc4UEdseDdXb2FRWTVHdDJkVXAtVlVjMHdvSWRNWkdxeVVoVmU3YXlhNV96MVZ2RzdlUnZiTHBScGtXWFZYdnhhWHNMSGpWODjSAbABQVVfeXFMUE91Q2ljWWNPOC1EUHNWWXh4d2J3SW1fNDBsc0ItVE9PUXRXdnFXRGpIN3lza2NReUxma2NoM0xXVkdpUmdiQzdER0U3RXRMNDQ4Y3p6UVJsckZDY041ZGc3Tmg3Ukl0cWdrcG5KSDlZTE43VFItNUlnTTh3UHB1Z1BrUFl5Vm5FZU1sUmZxcnZaU3d3bm41YzNxdXlBeHRubEthbXAtV0RtaE9NZThiRzI?oc=5",
-      "date": "2026-09-01 12:10",
-      "summary": "The Download: engineered microbes for crops, and OpenAI’s culture problem  MIT Technology Review..."
+      "title": "Raised on AI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX1hVTmg1V21DY3duOGF3cndwU2Fja1NfNDRLTVdVblB2ZnVES3hPUTZMNWxwZ2xtMGFIMVJwMWZQODBDQ3ZTUnhjc2d5aHh2czJlSXdoRXJlV1VFNVNadDRPTnRGU1V6Y1lDMjQ0MXpzWEhBbjdWb3RUaG0yZ3dNdlg1d1lFZWZVN1HSAY8BQVVfeXFMUEtVaWcwZF9RLW9jeDFWanRhX3Awbk1vLTFocFN1VXdYbE9UQkJSUEkya1g1MUJ1V2R3OEZNZkM3MEVaY0x4M2RlaVRQMHBjVlF5dUJvN0pxdGM0cG9OcTB6ay03bWhfSFFPaHhZemRSWWtfbVRtZmNnaTBFbGdCOHJRTHcyZzhJT29NS3lXWjA?oc=5",
+      "date": "2026-08-26 09:00",
+      "summary": "Raised on AI  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "More than 120 molecular species found in giant cloud near Milky Way's center",
-      "link": "https://phys.org/news/2026-08-molecular-species-giant-cloud-milky.html",
-      "date": "2026-09-02 12:30",
-      "summary": "Astronomers have discovered a second interstellar cloud near the center of the Milky Way that is extraordinarily rich in complex m..."
+      "title": "Wind-wave tunnel helps engineers dive deeper into ocean research",
+      "link": "https://phys.org/news/2026-09-tunnel-deeper-ocean.html",
+      "date": "2026-09-02 16:40",
+      "summary": "Inside a lab at the University of Texas at Dallas, researchers have re-created a small-scale ocean environment where they can make..."
     },
     {
-      "title": "UN report finds 1.5°C warming limit likely to be exceeded by 2030",
-      "link": "https://phys.org/news/2026-09-15c-limit-exceeded.html",
-      "date": "2026-09-02 12:20",
-      "summary": "For more than a decade, the world has been trying to limit global warming to 1.5°C...."
+      "title": "Iguanodon shinbone growth may be first evidence of an infected skin ulcer in a dinosaur",
+      "link": "https://phys.org/news/2026-09-iguanodon-shinbone-growth-evidence-infected.html",
+      "date": "2026-09-02 16:40",
+      "summary": "Fossilized bones can reveal a wealth of details about animals, including their size, appearance, what they ate and any injuries th..."
     },
     {
-      "title": "Human-like AI not always the answer in customer service",
-      "link": "https://phys.org/news/2026-09-human-ai-customer.html",
-      "date": "2026-09-02 12:00",
-      "summary": "The next time something goes wrong with your bank account, package delivery or a bill, there's a good chance you'll be directed to..."
+      "title": "How can we improve school attendance?",
+      "link": "https://phys.org/news/2026-09-school.html",
+      "date": "2026-09-02 16:20",
+      "summary": "Poor school attendance can negatively affect young people's behavior and future health. It is a growing public health concern beca..."
     },
     {
-      "title": "Temperature emerges as a control for topological properties of materials",
-      "link": "https://phys.org/news/2026-09-temperature-emerges-topological-properties-materials.html",
-      "date": "2026-09-02 11:49",
-      "summary": "Spin-orbit coupling (SOC), an interaction between an electron's spin and its motion, plays a key role in creating topological insu..."
+      "title": "Young sunlike system reveals comets may carry water toward forming planets",
+      "link": "https://phys.org/news/2026-09-young-sunlike-reveals-comets-planets.html",
+      "date": "2026-09-02 16:20",
+      "summary": "Astronomers at Lund University in Sweden have found evidence of exocomets—comets in other solar systems—orbiting a young star simi..."
     },
     {
-      "title": "New research could improve detection of chiral molecules in pharmaceuticals and biotechnology",
-      "link": "https://phys.org/news/2026-09-chiral-molecules-pharmaceuticals-biotechnology.html",
-      "date": "2026-09-02 11:40",
-      "summary": "Ohio University Distinguished Professor Alexander Govorov of the Department of Physics and Astronomy and the Nanoscale and Quantum..."
+      "title": "More trees are needed to cool down European cities in heat waves—but they must be planted near homes",
+      "link": "https://phys.org/news/2026-09-trees-cool-european-cities-homes.html",
+      "date": "2026-09-02 16:00",
+      "summary": "Heat waves claimed the lives of tens of thousands of people in Europe's capital cities this summer as they experienced record temp..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong police arrest 2 from clinic over sales of bogus ‘cancer vaccine’",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366148/hong-kong-police-arrest-clinic-operator-over-sales-unapproved-cancer-vaccine?utm_source=rss_feed",
+      "date": "2026-09-02 14:28",
+      "summary": "Hong Kong authorities have arrested a man and woman from a clinic on suspicion of selling a laboratory reagent as a bogus vaccine ..."
+    },
+    {
+      "title": "Man arrested over theft of HK$5,885 in foreign currency on Bangkok to Hong Kong flight",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366146/man-arrested-over-theft-hk5885-foreign-currency-bangkok-hong-kong-flight?utm_source=rss_feed",
+      "date": "2026-09-02 14:09",
+      "summary": "Hong Kong police have arrested a man on suspicion of stealing nearly HK$6,000 (US$765) in foreign currency while flying to the cit..."
+    },
+    {
       "title": "Education Bureau steps in after students wait in rain for uniform and hair checks",
       "link": "https://www.scmp.com/news/hong-kong/education/article/3366137/education-bureau-steps-after-students-wait-rain-uniform-and-hair-checks?utm_source=rss_feed",
       "date": "2026-09-02 11:53",
@@ -298,25 +310,13 @@
       "title": "Man arrested as Hong Kong customs seizes HK$42 million worth of ‘space oil’",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366136/man-arrested-hong-kong-customs-seize-hk42-million-worth-space-oil?utm_source=rss_feed",
       "date": "2026-09-02 11:43",
-      "summary": "Hong Kong customs has arrested a man and seized HK$42 million (US$5.3 million) worth of the illegal narcotic “space oil” from a dr..."
+      "summary": "Hong Kong customs has arrested a man and seized HK$42 million (US$5.3 million) worth of the illegal narcotic “space oil” from a wo..."
     },
     {
       "title": "Saleswoman arrested over aggressive sales tactics, third suspect linked to Opatra",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366135/saleswoman-arrested-over-aggressive-sales-tactics-third-suspect-linked-opatra?utm_source=rss_feed",
       "date": "2026-09-02 11:42",
       "summary": "Hong Kong customs officers have arrested a woman on suspicion of using aggressive tactics to sell skincare products at a local bea..."
-    },
-    {
-      "title": "Hong Kong to mark National Day with 23-minute fireworks show featuring sunflowers",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366127/hong-kong-mark-national-day-23-minute-fireworks-show-featuring-sunflowers?utm_source=rss_feed",
-      "date": "2026-09-02 11:18",
-      "summary": "Hong Kong will stage a 23-minute fireworks display over Victoria Harbour on China’s National Day on October 1 under the theme “Ete..."
-    },
-    {
-      "title": "Hong Kong watchdog sets integrity standards for government computers to fight misuse",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366120/hong-kong-watchdog-sets-integrity-standards-government-computers-fight-misuse?utm_source=rss_feed",
-      "date": "2026-09-02 10:32",
-      "summary": "Hong Kong’s Independent Commission Against Corruption (ICAC) has publicly unveiled its standards for the use of government compute..."
     }
   ]
 }
