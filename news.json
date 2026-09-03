@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Fabrication platform could enable flexible, transparent next-generation photonic chips",
+      "link": "https://news.mit.edu/2026/fabrication-platform-could-enable-flexible-transparent-next-generation-photonic-chips-0903",
+      "date": "2026-09-03 15:45",
+      "summary": "This scalable process produces high-performance chips for applications like discreet wearables or pliable augmented-reality displa..."
+    },
+    {
       "title": "New qubit architecture enables faster, more accurate operations",
       "link": "https://news.mit.edu/2026/new-qubit-architecture-enables-faster-more-accurate-operations-0903",
       "date": "2026-09-03 04:00",
@@ -23,15 +29,79 @@
       "link": "https://news.mit.edu/2026/cognition-consciousness-arise-from-analog-computations-says-new-theory-0901",
       "date": "2026-09-01 20:35",
       "summary": "The brain's ability to generate quick, nimble volitional thought — and a unified awareness of thought and experience — arises from..."
+    }
+  ],
+  "Harvard Gazette": [
+    {
+      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
+      "date": "2026-07-28 07:00",
+      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
     },
     {
-      "title": "Atlas of the brain’s striatum could guide researchers to new drug treatments",
-      "link": "https://news.mit.edu/2026/brains-striatum-atlas-could-guide-researchers-new-drug-treatments-0901",
-      "date": "2026-09-01 15:00",
-      "summary": "A new study reveals insights into populations of neurons affected by Huntington’s disease, schizophrenia, addiction, and other dis..."
+      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+    },
+    {
+      "title": "Why are communities pushing back against data centers? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWZ0VW9EOWM0UzVQS0pxV2kxM3lvdWJOUi03VGM5cklxMk9ja0RZYV95VFNZS01tNEZQTG0wNHVJSm51UjJLQkJ1cmpMVkdNVlNEczJyd2RWNlYtRXE5NTNydXFla3BBM1VRdU9mVG50Q0RTeklPQ0tNMUFmdFduRUM1bGNyZEJROUg2UjV6LTJIMzRXeVh5OXFVYjJRa3VaX0Y4?oc=5",
+      "date": "2026-04-09 07:00",
+      "summary": "Why are communities pushing back against data centers?  Harvard Gazette..."
+    },
+    {
+      "title": "A potential quantum leap - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNmkwZEVveGdiY3BLT0dlbFdFM1NTSGlFRzBTOXR0S1RJNlE5NW05al9HUG1SaEpzREI2U3ZzYWFwRi1iTHBQVE1mYU9SWXNWdC1aVFh3OW5oMWcwZm1veDA2SXNiSVRVMkszRU1lelNvLUl0NFU5QzBMMWE?oc=5",
+      "date": "2025-11-12 08:00",
+      "summary": "A potential quantum leap  Harvard Gazette..."
+    },
+    {
+      "title": "‘Vibe coding’ may offer insight into our AI future - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdEhzcmpQLXFzdHRCTjMteHItZUVkdGZlRjlXdDNBa29OWFZ2OEdDcjJ5dVlFM29mRjNJdXJzN0IzcVFTM2sxUTF3NFFrRlVqVk9ERjk5NUZWb3FnZDl4bWdVbDRmbzJMWC1zeFk2U2Q3T1hyR3hEV1F3ai1LNFoxNE9BSkhuejhnMzREN2J1NTZYSXR1SzlKajl5Rmg?oc=5",
+      "date": "2026-04-01 07:00",
+      "summary": "‘Vibe coding’ may offer insight into our AI future  Harvard Gazette..."
+    }
+  ],
+  "Stanford News": [
+    {
+      "title": "The World's Top University for Startup Founders Isn't Stanford or Harvard. Its 'Secret Sauce' Explains Why - inc.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM18tcHZfTlVsUWFCdHh4QWJjaTJ4eXBteEJqam02dERiSk53Mm9JVTNEVnVyZTB6SWtFZEJqQm1IZGh5akdmRTdROHhFOHZFTTVJckRPQkE0WXc5MDVNUzRTbHlzTlZyX1hZdGtSSVFydWJ0THdocExkVGFoZzlkSnZmSFF6ZEN5NnI5QVFEZDZpQjUyRTc1Sm5NQWJFbWRQaVNFTkZIbjFFaEk5eXJhNGM0SUpBUHZnbnlqRnk3NGlBUnBWRWUtbThn?oc=5",
+      "date": "2026-09-02 16:50",
+      "summary": "The World's Top University for Startup Founders Isn't Stanford or Harvard. Its 'Secret Sauce' Explains Why  inc.com..."
+    },
+    {
+      "title": "Stanford Economist Makes the Case Against California’s Billionaire Tax Measure - KQED",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSFVfaHBib3RfalJMYnVjX0tGNVc5SWNvenlhbW5na0ZRci1EdUdyenA5UUhsSkplQ0tRcUlyMjQwR1ZkQl9kOUFUVm90cXFnS1JKUjRSWlMza1hCT250NlMtVlNJdGJaUUJOdTJkczFjTFhZYS12dzc0RkNvaEtLZ1dmRVYxaGs3WDRpa2hpTzdEV2tBUmZTS0VaLWhUQXlxbmVOMzFCcDVYdGFsaXAwT25R?oc=5",
+      "date": "2026-09-01 23:49",
+      "summary": "Stanford Economist Makes the Case Against California’s Billionaire Tax Measure  KQED..."
+    },
+    {
+      "title": "Scientists spot a possible dark matter signal - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vc3R6SUhSekplZkduWXdYaU81bVk1anJwSXBOWDZyNVFISUhEejE5dUIwdkhxTV9oNjdEY2RxYWxuYWM0RmpqbFJzdllmbzZXMHlvODZYcUVYSHZBa2Rxc3RpTGF2RGd4dmdrVUQ0OUpuaFZrZHBRaURuZDM?oc=5",
+      "date": "2026-09-01 21:58",
+      "summary": "Scientists spot a possible dark matter signal  Stanford Report..."
+    },
+    {
+      "title": "Katie Myer's parents happy Stanford retiring their daughter's soccer jersey - KTVU",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdkVTMHVkTG1GVUxZbXA4SlFrVWFQQWh3X05HbmFCRkw1dkVlME1aOWhyYXY5azUyV3NQNzdFRUFqR0RfUHhFZFFMbF9ZNnF4R2dqYWRwRERFNGF0b21jbFZLMEZ1a1BmTExEU0FOc1lmRFdWSXFXaVY3UVNlNGExeXpwemlVbWVaV2g4YWtfbjRqd0dhVUHSAZsBQVVfeXFMT3c3OF9iWHNpSGZKQmpKTUNnTzJqY1pxV0FmRmhqSWtfQWtGYTVmdk1DM2VOZ2JfU2dxempCbVZVMWJhdTFNRzBjOXFfM0R4R25CZGluZDVtamRhS0tJN0ZEV2hJRUhHYldKZnFYQjRhelB4a095Rko5OXljTlF2S2FFWDB0eHpvbDRJaENBU0s1cm5sVWRCdzF4MTg?oc=5",
+      "date": "2026-09-03 13:53",
+      "summary": "Katie Myer's parents happy Stanford retiring their daughter's soccer jersey  KTVU..."
+    },
+    {
+      "title": "Donahoe Named To USOPC Collegiate Advisory Council - gostanford.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlVrTTktOXhUVXBzY3FHbkcwY1RSbmVDRDRBS1dGTmxIcDFhaEZqdzd5THIzYURaM1N6cjN6eVZzaTdJSzRKWUpWQXJhVWlhTGNkUlBWNk9tblBsLTNsbW1xQ2pVR0p0OXpIRC1scVpxc2VGZ3FkRWtyMU5HQ21CLVZ1QnFCcVlJMUdhWXpKNGlmdw?oc=5",
+      "date": "2026-09-03 04:10",
+      "summary": "Donahoe Named To USOPC Collegiate Advisory Council  gostanford.com..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Immune therapy engineered inside the body eases multiple sclerosis",
+      "link": "https://www.nature.com/articles/d41586-026-02765-1",
+      "date": "2026-09-03 00:00",
+      "summary": "Nature, Published online: 03 September 2026; doi:10.1038/d41586-026-02765-1Results from a small trial suggest a modified virus can..."
+    },
     {
       "title": "Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control",
       "link": "https://www.nature.com/articles/s41586-026-11104-3",
@@ -55,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02762-4",
       "date": "2026-09-02 00:00",
       "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02762-4Researchers are hunting for ways to enhance DNA repair ..."
-    },
-    {
-      "title": "Functional chimeric mRNAs encode proteins in mammalian immunity",
-      "link": "https://www.nature.com/articles/s41586-026-10982-x",
-      "date": "2026-09-02 00:00",
-      "summary": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10982-xInflammation induces interchromosomal DNA interactions ..."
     }
   ],
   "Retraction Watch": [
@@ -95,36 +159,100 @@
       "summary": "The Center for iPS Cell Research and Application (CiRA) at Kyoto University in Japan is defending Nobel Prize winner Shinya Yamana..."
     }
   ],
+  "Reuters AI": [
+    {
+      "title": "OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzRaMjFZOFNCczJMbnBJS2hMWTJ5b2szVjZFdU1nSHZRMWRaT2JKajlCeVMxRFFqeG5Bbm5JdG55Mkl1MzktZW00ZFJrdFQ2bk9lQjVFOE1xcGctLTBTNWxWc1pvaUc3UVFab3lpT2QyM2hQQ2hMNFZpZnBNbEprUEJrMVdreTdlWFRUZGtVSi0tVkdaT0UyZ0FFa2xFdngxRFR5TEZCY3czZ0oxb2N1c2FoYjA2ay1kYl9wcTEwOUJDcTIyek1BSQ?oc=5",
+      "date": "2026-09-02 20:05",
+      "summary": "OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says  Reuters..."
+    },
+    {
+      "title": "Mamdani imposes one-year ban on AI for most NYC students - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3pZYVc0QVRhMWllSnUwZHJsNDlzd1ZhWXZOTmpHVXZwcXU3T2FtTUl0b0ZrLTdFLVNJdmRNYjdUalY5cnVSV1VjZU82SlpPTkdqRS0zSENzd3N1dl9rcEpzSVpfeC12cVp6V21TSDJwYmdmVmEtVXNOdkMtb0F6QXIzZ3d4eDVEekxHMkZ3UHI0WGphSVFrcDd3UWE?oc=5",
+      "date": "2026-09-02 19:53",
+      "summary": "Mamdani imposes one-year ban on AI for most NYC students  Reuters..."
+    },
+    {
+      "title": "Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
+      "date": "2026-09-03 17:28",
+      "summary": "Nvidia bets $13 billion on open AI models with Hugging Face deal  Reuters..."
+    },
+    {
+      "title": "Texas Republicans turn against data centers, putting big tech on notice - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnVVV1JaaGRibzZ2d1o5ckdSUWN6RjMxTll5LTBDcGhvUjlTWko3dWJzaTQzX29iOFNqenRwSUg2MkR4UkpjMjJHQzBlZVFOUWk4bXJLNmwxWmhVRW5vWlZUbEl4N3FvbXFoeU4ta1o3UG5wYXZhVk5Sd0JWQUVhZWRTaGRjSDdzbENFNmJodnZmV01SUVhtR1pWeGFQUnBKQWp6cU5lUUZhM3l0ZFBZbGlZX2x3Z2hMSXZXUg?oc=5",
+      "date": "2026-09-03 16:01",
+      "summary": "Texas Republicans turn against data centers, putting big tech on notice  Reuters..."
+    },
+    {
+      "title": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHVNSmdqeHMyQ25WbzBIbEllY05mcWZaNG9DcGFPR216TGZlcURDU0k3U3VhRTJROS1VMnFEZVp0cG1vN1h2MkxJdDFCdlpfZ1pJcWs0QVhSNTUxMmxTR1FkZlJSNUduMTRqMV9faHJuemt3eWRUNW1oamNYWVRILVoyeGtPODg1VUNsSWk2aVlWNU4zQmpwRExHbUkxUQ?oc=5",
+      "date": "2026-09-02 23:31",
+      "summary": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks  Reuters..."
+    }
+  ],
+  "MIT Tech Review": [
+    {
+      "title": "Scaling agentic AI pilots across the enterprise - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm9nZWEwQmhJSWdKTWVFMEZiTkhkSnBpckdTRmwzYjFoMFVYRldMVFhiQkkxVFYzR25mSkhlVmZ2cGlpbjNMWmltMS0zc1ZzVTJVVlVPd0dpbzdLa1JMNlJzMmN2YjY0aEYwd3Z2UzA4SkdVOU9PWm9lYzJ6SDU2eTExOTlvWGhINlo0OHhTdy1ocnY1dElRX3MxaW12c3djb2fSAacBQVVfeXFMUHlyUGpUUllxWXZXZC1HTnJ0ZDVzWkhoR1NTQURpZFlxWVc3aUpvUWRuRm5seHAwWTM3eklWRW9nMDh5b1hhTFQzVWI3dVQ4V2h6YkhYTExzYXFPUV8tMi1GX010WXdDQWowbDMtRTZfVXVTSXNIa1U1Q0JUZEphOWhBTGFGRG9QaVFsTkJ5T3k3a3V4R1hlc2E1U1FkdmNJYS1lMm5fUlE?oc=5",
+      "date": "2026-09-03 09:30",
+      "summary": "Scaling agentic AI pilots across the enterprise  MIT Technology Review..."
+    },
+    {
+      "title": "Facilitating AI integration with simplicity at scale - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmk1ZUJ3VVRYZzdqTy1vbGRhTG12cTh5WWdWT1V2VUNlRTl2dnJaeEJyN1lEWEwzYUJadEUyNExzTkQ1Z2tXLVhESDZxTjRIbkQ3WlA2bmI4UU5PTkxJSERPRHFZak11QWRQYndqaHRqbk1UNnV0ZjFoS3p2c3Q0UVZpTWUyVVpDRVRodGVpc3hwNm53RzlRWTdNVG1FeTFaQzEybEp3SmbSAa4BQVVfeXFMUEltM1FYUnphZGZKQ0hBcmU0cE82NlJnNGFhbWFiN0RnNXFIMUxPTTFNRnAzNC1CZ0l5YjlDM3dVdDBseUtMem52NWhDUVlJSGdsMlg5a0hreV9HQkpnYk5JTmRPOFpHWU9yb2pvc0t4QXFjcW5VeTBVZ3VoSm9DM1R2T2NYN2tXUEtNOHBZbVd5S2JCMU4tT0FtV1A5STF3ZENxdUJaamI2c2s1aHpB?oc=5",
+      "date": "2026-09-02 14:00",
+      "summary": "Facilitating AI integration with simplicity at scale  MIT Technology Review..."
+    },
+    {
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGZWNXRXV1BiZ1BjdGNhaHVWcFBWNWhsUFp5cmo4VlVzVWpMdXpVTGdJTklweHdmZnh1MnNrbUY2X2FYX3lFdWhqWGVibDNIUFQySDcyUnNGZnA3ZWJBSThGUjE5MEhaWWd0OVdiV1pYdHZpUGZWd2treWJJVjZNdXhUTUc3aUdoZzdtck9TUjltajVPbVBsdkxQZGVIaHRxV3AzSXV4WnlQUXdfaHJjM9IBtgFBVV95cUxOSmhKNnc5MFpCVHRTRm5MemVhb1hRUTY5RmswZHNqaVN2aTZsTTJ5bU91OWFKYnVid3lpUmZqb2pGZ0dSSE5raG1tYUNybXM4ZkhSdjBKUjF0Q2U0bHRPM2FCdmtJU2laZmkxQkFLNnF0RjZKQ2xtZW90MGVTRG1Mb2NKbGdmWVlhTFY5MVpUUE9idzlZZmpGSHVrbl9UZWdkYzNzZFV0aDY1ZVVocFpid2lpUHR5UQ?oc=5",
+      "date": "2026-08-31 18:00",
+      "summary": "The Hugging Face hack could indicate cultural issues at OpenAI  MIT Technology Review..."
+    },
+    {
+      "title": "How AI plotted an interstellar journey to Alpha Centauri - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3N0UC1MZGJFSEQzeEEwbThyM0lNM1V6NTBXVXNhTWxBUUxUeWw5YkhEelRXaDdCdUNLS0hBd3dJRmtMS094ZUlLRURoOUtZUUxZaEJsaEpQM2JjNTI3enY5WDVrd0t2QlRjanpXYUN0dXZZVkJUc1VkVTlLbFhSeGs5NGZuR0FWLXBkc2oxbUhSS0ZpdHfSAZsBQVVfeXFMTklmRWxtRDJ4Y1VRV2o2Wjc2T3RFTnZWU3I1bkxQZjFONkxuS3VaejRJYmk4emRKemNaRWNxTWxHTFUxTWw4Z0FRd0M0aWhUUlgzOHNNTWI5dG5VUHpYNkRFSGZlcVFYV2pRUThqdjQ0ZEtpdThvTEZCRU1pQ3B2emJqdG1vWDA1ZmlpanpHLTkxRzRiSkQtX0tyOVE?oc=5",
+      "date": "2026-09-01 19:10",
+      "summary": "How AI plotted an interstellar journey to Alpha Centauri  MIT Technology Review..."
+    },
+    {
+      "title": "Making the AI-powered case for legacy modernization - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNzVvZEdScDlMMVdiVHkwZGptZkwyQjhReDNENTFrVk5jcHhxSW01OHdmSHhCblhaYnFzTlRrbFhTR1F4Z2toTzRqRkp1dm40R3Uyb3FTUi1QYU1VQlBycGc1TWpuSnhLZG1CVXJ3QU43Mjhra3JONlVmT3hzeWloYmtIanBlZjlxc3RvVU5Wd08tRUFiY2IwWHpuYmQ2TFhXVUhadjNLY9IBrAFBVV95cUxPUGtYTWt6eUJ2dm0ya1VqcFNfU0FNYThYWkxBQlF6OEd5eFo0Q1oybndIemlsN3d4bVdPR1hpdlN3T2tLbXI2Nzh3NTcxUEZ6S05ha3RsZ3Q4RnJVaWJjQWNBeVBmMk5NNDZjU1BJeGF1YUtULU9nVHpKTEkwVlJXZUstR2ZtTFRsVXUxYUxuRDRaYU1BTVZaYTNZWUt2amFhT0d6Sjd6LUFWcUZ0?oc=5",
+      "date": "2026-09-01 14:00",
+      "summary": "Making the AI-powered case for legacy modernization  MIT Technology Review..."
+    }
+  ],
   "Phys.org": [
     {
-      "title": "Away from grand temples, a recycled Bronze Age burial mound became the focus of a Roman religious complex",
-      "link": "https://phys.org/news/2026-09-grand-temples-recycled-bronze-age.html",
-      "date": "2026-09-03 14:50",
-      "summary": "The Romans were master engineers, building sprawling road networks, towering aqueducts and arenas across their empire. They were a..."
+      "title": "How AI could make us work even harder",
+      "link": "https://phys.org/news/2026-09-ai-harder.html",
+      "date": "2026-09-03 18:20",
+      "summary": "Technological progress has taken more than its fair share of the workload from humans over the years. Washing machines clean our c..."
     },
     {
-      "title": "How cities can use rain gardens to help prevent flooding",
-      "link": "https://phys.org/news/2026-09-cities-gardens.html",
-      "date": "2026-09-03 14:40",
-      "summary": "Canada's capital, Ottawa, was bombarded with 167 millimeters (6.6 inches) of rain in five hours earlier this summer in what the ci..."
+      "title": "Permafrost melt could cost $261 billion in infrastructure damages, study suggests",
+      "link": "https://phys.org/news/2026-09-permafrost-billion-infrastructure.html",
+      "date": "2026-09-03 18:20",
+      "summary": "A new study provides insight into the economic impact of melting permafrost on Arctic communities. Permafrost is ground that perma..."
     },
     {
-      "title": "Tiny crustacean helps scientists understand genes regulating circatidal rhythms",
-      "link": "https://phys.org/news/2026-09-tiny-crustacean-scientists-genes-circatidal.html",
-      "date": "2026-09-03 14:40",
-      "summary": "Scientists at UMass Chan Medical School and the Marine Biological Laboratory at Woods Hole have shown that the four core clock gen..."
+      "title": "Rising species numbers on Europe's mountaintops may mask increasing losses of high-elevation plant specialists",
+      "link": "https://phys.org/news/2026-09-species-europe-mountaintops-mask-losses.html",
+      "date": "2026-09-03 18:00",
+      "summary": "Decades of warming have relaxed cold-temperature constraints on mountain plant distribution and increased species numbers on mount..."
     },
     {
-      "title": "Can Australian businesses legally ban customers from using smart glasses?",
-      "link": "https://phys.org/news/2026-09-australian-businesses-legally-customers-smart.html",
-      "date": "2026-09-03 14:20",
-      "summary": "Businesses and local councils around Australia are increasingly imposing their own restrictions on \"smart glasses,\" responding to ..."
+      "title": "BESIII sets world's most stringent direct limit on Lambda hyperon electric dipole moment",
+      "link": "https://phys.org/news/2026-09-besiii-world-stringent-limit-lambda.html",
+      "date": "2026-09-03 18:00",
+      "summary": "The BESIII Collaboration, led by the Institute of High Energy Physics of the Chinese Academy of Sciences, has achieved the world's..."
     },
     {
-      "title": "Dual-purpose qubit design could speed operations while cutting quantum errors",
-      "link": "https://phys.org/news/2026-09-dual-purpose-qubit-quantum-errors.html",
-      "date": "2026-09-03 14:20",
-      "summary": "Researchers from MIT have designed a new qubit architecture that enables qubits to interact with each other much more quickly whil..."
+      "title": "Pigment found in beets linked to plants' adaptation to harsh environments",
+      "link": "https://phys.org/news/2026-09-pigment-beets-linked-harsh-environments.html",
+      "date": "2026-09-03 18:00",
+      "summary": "The pigments that give beets their red color may have helped a major group of flowering plants repeatedly adapt to dry environment..."
     }
   ],
   "The Guardian Edu": [
@@ -161,6 +289,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Just 4 of 28 lifts at Queen Mary Hospital block set for service once repairs done",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3366278/just-4-28-lifts-queen-mary-hospital-block-set-service-once-repairs-done?utm_source=rss_feed",
+      "date": "2026-09-03 15:34",
+      "summary": "Only four of the 28 lifts at Queen Mary Hospital’s new clinical block will operate normally following minor repairs, while work mu..."
+    },
+    {
+      "title": "Hong Kong Nepalese man searches for cousin missing in flood: ‘I cannot sleep’",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3366277/i-cannot-sleep-hong-kong-nepalese-man-searches-cousin-missing-flood?utm_source=rss_feed",
+      "date": "2026-09-03 15:23",
+      "summary": "A Hong Kong Nepalese man is searching for his cousin who is missing after the catastrophic flood struck the Himalayan border betwe..."
+    },
+    {
       "title": "Outcry over ‘weapons of love’ forces Hong Kong charity to scrap student contest",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3366275/outcry-over-weapons-love-forces-hong-kong-charity-scrap-student-contest?utm_source=rss_feed",
       "date": "2026-09-03 14:11",
@@ -177,18 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366270/defendant-knew-sexual-acts-sister-teen-seriously-wrong-court-told?utm_source=rss_feed",
       "date": "2026-09-03 12:43",
       "summary": "A man who engaged in sexual acts with his younger sister when he was just a teenager knew his behaviour was “seriously wrong”, pro..."
-    },
-    {
-      "title": "What a Trump official’s dig at Harvard means for Hong Kong",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3366124/what-trump-officials-dig-harvard-means-hong-kong?utm_source=rss_feed",
-      "date": "2026-09-03 12:30",
-      "summary": "A cabinet secretary fretting about his daughter’s university choice might once have been considered a private family matter. In Do..."
-    },
-    {
-      "title": "CNBC to close Hong Kong operations, scrap international shows in major overhaul",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3366262/cnbc-close-hong-kong-operations-scrap-international-shows-major-overhaul?utm_source=rss_feed",
-      "date": "2026-09-03 11:28",
-      "summary": "US business television network CNBC is closing its Hong Kong office and pulling the plug on several flagship international daily s..."
     }
   ]
 }
