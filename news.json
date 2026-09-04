@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "New method allows scientists to follow gene activity over time in the same cells",
+      "link": "https://news.mit.edu/2026/new-method-allows-following-gene-activity-over-time-same-cells-0904",
+      "date": "2026-09-04 04:00",
+      "summary": "In the new method, cells package and export their RNA, enabling researchers to sequence and analyze the RNA without killing the ce..."
+    },
+    {
       "title": "Fabrication platform could enable flexible, transparent next-generation photonic chips",
       "link": "https://news.mit.edu/2026/fabrication-platform-could-enable-flexible-transparent-next-generation-photonic-chips-0903",
       "date": "2026-09-03 15:45",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/new-research-shows-neutrino-laser-impossible-0902",
       "date": "2026-09-02 14:00",
       "summary": "Due to physical and fundamental limitations, an earlier proposal for producing laserlike beams of neutrinos cannot be achieved, sc..."
-    },
-    {
-      "title": "Cognition and consciousness arise from analog computations, says new theory",
-      "link": "https://news.mit.edu/2026/cognition-consciousness-arise-from-analog-computations-says-new-theory-0901",
-      "date": "2026-09-01 20:35",
-      "summary": "The brain's ability to generate quick, nimble volitional thought — and a unified awareness of thought and experience — arises from..."
     }
   ],
   "Harvard Gazette": [
@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "The Rise of Legal Engineering - Stanford Law School",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HZGJyOVFjd3ZfVzl1cVU5aWZtUUxnN0M1UnlZWUpLOU1WemdybnpGcUtGYzdfZmdWcjFUYi1DODVyX3luTWlpcHdjbERzRkxib2tMdUJUUFNERkdYN3ZoYmVnZlN5NkZlaDA0eHBB?oc=5",
+      "date": "2026-09-03 22:15",
+      "summary": "The Rise of Legal Engineering  Stanford Law School..."
+    },
+    {
       "title": "Stanford to retire Katie Meyer's jersey number to 'remember her legacy' - ABC7 Bay Area",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnJGV2lnWmdERmJVVUtqMFExei02N3FndVYwNnY0blIwTWZFLWZFblRxeE5MQllmbVpkSjk2czM0M2lxOFBLcll3T0k1Sjl2ejRRM1A1QmFJcGZNVEx6WjRvd3c1VVRZVzgzdmd0X21OVElIeHFVTHJ5Vm9jdGxhU3diZGhuOGlycDkyb2I0QWt3M3JqU1FLN1pfbW1FOHBIMUE4WlRzaFdYc2M?oc=5",
       "date": "2026-09-03 23:40",
@@ -75,12 +81,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObmN2X1FiV25oR0IxNjdfZlFpcGQtVWlRSjlvY296Q2hudzd0NVdSOUlrWGRjRmpqdGx1ZWJSaHRBLU1vbEF4MjdxWjZGRmZDRmU3R1NtdzZJZGtFXzl3VDlfLTIwdlNndDBTWkdoZUFDT2JmRFl2eG5QYU1FeU5CUE9YVU0zMHVudmlkVjg5VjFSbHc?oc=5",
       "date": "2026-09-03 11:07",
       "summary": "Andrew Luck is just another bureaucrat now  SFGATE..."
-    },
-    {
-      "title": "Promise Mabilo, South African Clean Air Activist, Wins Stanford Bright Award - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZlRkdUtoSjZlUW5PZnFqMy1WSnNlUlg3VklwSEExUXp0N3hGU1NtRHhITlBWMkZkMGtNY3Nua1dYN3djalM3S2kwakhBZG05S0JIdjl4bGd1bUFWRVc3b1ZVTTRZM0VqZ2IwN3JsZGJILTdwLXRxalRPVjBvaHM1RDMtaHpqX0t1bzZMcHBERm9lWUw2a2YtV1dwV25ya1Vvd2RfcEFjQzNQUQ?oc=5",
-      "date": "2026-09-02 23:22",
-      "summary": "Promise Mabilo, South African Clean Air Activist, Wins Stanford Bright Award  Stanford Law School..."
     },
     {
       "title": "The World's Top University for Startup Founders Isn't Stanford or Harvard. Its 'Secret Sauce' Explains Why - inc.com",
@@ -96,12 +96,6 @@
     }
   ],
   "Nature Careers": [
-    {
-      "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
-      "link": "https://www.nature.com/articles/d41586-026-02739-3",
-      "date": "2026-09-04 00:00",
-      "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02739-3Coffin decorations and wall paintings were made with ti..."
-    },
     {
       "title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement",
       "link": "https://www.nature.com/articles/s41586-026-11091-5",
@@ -125,6 +119,12 @@
       "link": "https://www.nature.com/articles/d41586-026-02650-x",
       "date": "2026-09-03 00:00",
       "summary": "Nature, Published online: 03 September 2026; doi:10.1038/d41586-026-02650-xThe awards highlight weird, funny and improbable resear..."
+    },
+    {
+      "title": "Nations expanding their research programmes impose sweeping penalties for malpractice",
+      "link": "https://www.nature.com/articles/d41586-026-02517-1",
+      "date": "2026-09-03 00:00",
+      "summary": "Nature, Published online: 03 September 2026; doi:10.1038/d41586-026-02517-1India, Peru and Vietnam are rolling out policies that l..."
     }
   ],
   "Retraction Watch": [
@@ -161,22 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzRaMjFZOFNCczJMbnBJS2hMWTJ5b2szVjZFdU1nSHZRMWRaT2JKajlCeVMxRFFqeG5Bbm5JdG55Mkl1MzktZW00ZFJrdFQ2bk9lQjVFOE1xcGctLTBTNWxWc1pvaUc3UVFab3lpT2QyM2hQQ2hMNFZpZnBNbEprUEJrMVdreTdlWFRUZGtVSi0tVkdaT0UyZ0FFa2xFdngxRFR5TEZCY3czZ0oxb2N1c2FoYjA2ay1kYl9wcTEwOUJDcTIyek1BSQ?oc=5",
-      "date": "2026-09-02 20:05",
-      "summary": "OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says  Reuters..."
-    },
-    {
-      "title": "Dell shares gain after strong AI server demand boosts annual forecast - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmNtT1NWQzNvZG9xWl90RkNVMTdUUGMwS056SGE5X2Y5SDNFNEVqRmUxQ2MtZjJrcDJDWU1rcTFMdTBNQTRhNUZPdjYtUU5XSTlCQkxhSl9wd0lWOVlxRy1weGpiUW9PdTJaTUtnNmhicktYWmE2cWw0SHRMU0JuU0k4STJrSjhwcmxEeUNONm1tUVFmMkNEZFVlS2xoandSQURBSG1EVC02QWx5RkkzMkVwMEhFd1lJM3dIMzBveDU0bXV4ZHV6REJn?oc=5",
-      "date": "2026-09-02 13:51",
-      "summary": "Dell shares gain after strong AI server demand boosts annual forecast  Reuters..."
-    },
-    {
       "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEhVLUYyaUZ3dDB0UGpFemVFREl1RkE0Q2FldS0zQmNQVVNudlNULXg3RXlVdjBId2lKSUJSdGllakNFNzJTMUstb2R1Nm1NQ2R6UEQxZkw1dzRoRG5NLWE0WlJWVGw3Y3VWUkQ3WHNOd1h3YndNZ0FNQ2NmX0JHZnBjakRjemhjWEtvN1RnbUdRdWtSUGpWTkRnTG1ncmQ3Mk5fTmEycGgxemROWDBMNzZaYnlyUVpsYXVLNnNpMHJVV2s?oc=5",
       "date": "2026-09-03 22:35",
       "summary": "OpenAI launches new Astra model amid growing scrutiny over agents' safety  Reuters..."
+    },
+    {
+      "title": "OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzRaMjFZOFNCczJMbnBJS2hMWTJ5b2szVjZFdU1nSHZRMWRaT2JKajlCeVMxRFFqeG5Bbm5JdG55Mkl1MzktZW00ZFJrdFQ2bk9lQjVFOE1xcGctLTBTNWxWc1pvaUc3UVFab3lpT2QyM2hQQ2hMNFZpZnBNbEprUEJrMVdreTdlWFRUZGtVSi0tVkdaT0UyZ0FFa2xFdngxRFR5TEZCY3czZ0oxb2N1c2FoYjA2ay1kYl9wcTEwOUJDcTIyek1BSQ?oc=5",
+      "date": "2026-09-02 20:05",
+      "summary": "OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says  Reuters..."
     },
     {
       "title": "Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters",
@@ -189,6 +183,12 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeFZNX0swRVZJT1BTT0tBRzRFV0xwTlpEdVQ2VGNrdzdvb3ljTjZXeHlwekJRY1VsZkdsaGNGVEFrWFhDVm9hMjVtTS1heno3NmRWR1o1NmRNaDFKQ1hfb3RlZHBoaE5aYjhKLWI0T2dHUS1PV1ZxTHk2ODN4R1pSb1RleUxrd3kyT09rZGVnYWtEb2k0S0lYUE5FbTBhRW9ycFQ4Sng0b2NQZWMzcVBnSVRpZTRTbjRHbGFocGpnVQ?oc=5",
       "date": "2026-09-02 12:46",
       "summary": "Clooney tells Venice festival that AI threatens film and journalism  Reuters..."
+    },
+    {
+      "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZnEtVl8wdXF1ZEgxSzF4VFI4OUZoT1JHa0ZTU2drVHAtWU9LRWplUjNNdEZPaUJ2U2VZUHJiQjh3TEVTbmRKVnZMT3pRVGFHbG0xajNVclZhQTdaanQ2elBPaXVSTXJsZ2ZFSm5YYnh3ajJoZ2RRbnNaTnlfbnhRTnBkRi02enZZdjRJVmNSWUdwa1RVTzh6Uy1GQkt6emhKYXdNbk15UzZVc1l5dHgxT2VzUzlCUnI4RVpEMGJn?oc=5",
+      "date": "2026-09-03 21:43",
+      "summary": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -211,16 +211,16 @@
       "summary": "The Hugging Face hack could indicate cultural issues at OpenAI  MIT Technology Review..."
     },
     {
+      "title": "Agriculture relies on fossil fuels. It’s costing us. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRVR1SmV1djctbkJ1X2tPd0FwVUtJLVNGV2tnNVdXVFVNbDR5NmlzNFVIVUltVjhWUUx3ZG45ellpcFVKblg1LWlGaGdQbFUtQ0hKYmd0LWZTeG9RTHJxLWxGeFhFVkktNmZsaHJjYmphcU1vN09jRmlsaXlPamZMcUlyWkluWVdQcG5R0gGQAUFVX3lxTFA4b1psTGsyazVmUkxaVmhyRDdYZ3M2U2JqZUhFdWMwMGV6NTVOVU1qczhVSHJTWU1tVE9oZnk5VlJsQWxfN1ZlVEN3RzJjNndvQWtub0lBakJBbDBlSXFkVlI4QjZGMndaY0xSWGVJalVpeGxqVjNhYWx1anBlektaZEZGeWdUejB1TGxob2k4Zw?oc=5",
+      "date": "2026-09-03 10:00",
+      "summary": "Agriculture relies on fossil fuels. It’s costing us.  MIT Technology Review..."
+    },
+    {
       "title": "Making the AI-powered case for legacy modernization - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNzVvZEdScDlMMVdiVHkwZGptZkwyQjhReDNENTFrVk5jcHhxSW01OHdmSHhCblhaYnFzTlRrbFhTR1F4Z2toTzRqRkp1dm40R3Uyb3FTUi1QYU1VQlBycGc1TWpuSnhLZG1CVXJ3QU43Mjhra3JONlVmT3hzeWloYmtIanBlZjlxc3RvVU5Wd08tRUFiY2IwWHpuYmQ2TFhXVUhadjNLY9IBrAFBVV95cUxPUGtYTWt6eUJ2dm0ya1VqcFNfU0FNYThYWkxBQlF6OEd5eFo0Q1oybndIemlsN3d4bVdPR1hpdlN3T2tLbXI2Nzh3NTcxUEZ6S05ha3RsZ3Q4RnJVaWJjQWNBeVBmMk5NNDZjU1BJeGF1YUtULU9nVHpKTEkwVlJXZUstR2ZtTFRsVXUxYUxuRDRaYU1BTVZaYTNZWUt2amFhT0d6Sjd6LUFWcUZ0?oc=5",
       "date": "2026-09-01 14:00",
       "summary": "Making the AI-powered case for legacy modernization  MIT Technology Review..."
-    },
-    {
-      "title": "How AI plotted an interstellar journey to Alpha Centauri - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3N0UC1MZGJFSEQzeEEwbThyM0lNM1V6NTBXVXNhTWxBUUxUeWw5YkhEelRXaDdCdUNLS0hBd3dJRmtMS094ZUlLRURoOUtZUUxZaEJsaEpQM2JjNTI3enY5WDVrd0t2QlRjanpXYUN0dXZZVkJUc1VkVTlLbFhSeGs5NGZuR0FWLXBkc2oxbUhSS0ZpdHfSAZsBQVVfeXFMTklmRWxtRDJ4Y1VRV2o2Wjc2T3RFTnZWU3I1bkxQZjFONkxuS3VaejRJYmk4emRKemNaRWNxTWxHTFUxTWw4Z0FRd0M0aWhUUlgzOHNNTWI5dG5VUHpYNkRFSGZlcVFYV2pRUThqdjQ0ZEtpdThvTEZCRU1pQ3B2emJqdG1vWDA1ZmlpanpHLTkxRzRiSkQtX0tyOVE?oc=5",
-      "date": "2026-09-01 19:10",
-      "summary": "How AI plotted an interstellar journey to Alpha Centauri  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "John Lee urges banks to finance city’s tech growth, expand offshore yuan business",
+      "link": "https://www.scmp.com/news/hong-kong/article/3366350/john-lee-urges-banks-finance-citys-tech-growth-expand-offshore-yuan-business?utm_source=rss_feed",
+      "date": "2026-09-04 07:15",
+      "summary": "Hong Kong’s leader has urged the banking sector to support financing the city’s new economic engine in innovation and technology w..."
+    },
+    {
+      "title": "Hong Kong proposes grade 2 heritage status for Kennedy Town selfie spot sea wall",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3366341/hong-kong-proposes-grade-2-heritage-status-kennedy-town-selfie-spot-sea-wall?utm_source=rss_feed",
+      "date": "2026-09-04 06:27",
+      "summary": "A sea wall at a popular selfie spot on Kennedy Town’s waterfront could soon gain grade two status after authorities proposed listi..."
+    },
+    {
+      "title": "China’s Xi eyes Apec trilateral; no outrunning deadly Nepal floods: SCMP’s 7 highlights",
+      "link": "https://www.scmp.com/news/china/article/3366291/chinas-xi-eyes-apec-trilateral-no-outrunning-deadly-nepal-floods-scmps-7-highlights?utm_source=rss_feed",
+      "date": "2026-09-04 04:15",
+      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that reson..."
+    },
+    {
+      "title": "Cathay Pacific extends Dubai and Riyadh flight suspension through November",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3366308/cathay-pacific-extends-dubai-and-riyadh-flight-suspension-through-november?utm_source=rss_feed",
+      "date": "2026-09-04 04:04",
+      "summary": "Hong Kong flag carrier Cathay Pacific Airways has delayed the resumption of passenger flights to Dubai and Riyadh until December a..."
+    },
+    {
       "title": "3 easy wins to modernise Hong Kong’s education system",
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365884/3-easy-wins-modernise-hong-kongs-education-system?utm_source=rss_feed",
       "date": "2026-09-04 01:30",
       "summary": "Much has been said about Hong Kong’s vitality as a higher education hub. Yet, a radical rethink of our primary and secondary schoo..."
-    },
-    {
-      "title": "Faster and cheaper: why Hongkongers are heading north for medical care",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3366276/faster-and-cheaper-why-hongkongers-are-heading-north-medical-care?utm_source=rss_feed",
-      "date": "2026-09-04 00:30",
-      "summary": "Soon after becoming a mother, Hong Kong resident Sarah Tam enjoyed eight hours of sleep a night and yoga sessions at a post-partum..."
-    },
-    {
-      "title": "Hong Kong poised to top New York, London in finance-hub ranking: GFCI creator",
-      "link": "https://www.scmp.com/business/banking-finance/article/3366230/hong-kong-poised-top-new-york-london-finance-hub-ranking-gfci-creator?utm_source=rss_feed",
-      "date": "2026-09-03 23:00",
-      "summary": "An Asian city will eventually overtake London and New York as the world’s leading financial centre, with Hong Kong well placed to ..."
-    },
-    {
-      "title": "Just 4 of 28 lifts at Queen Mary Hospital block set for service once repairs done",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3366278/just-4-28-lifts-queen-mary-hospital-block-set-service-once-repairs-done?utm_source=rss_feed",
-      "date": "2026-09-03 15:34",
-      "summary": "Only four of the 28 lifts at Queen Mary Hospital’s new clinical block will operate normally following minor repairs, while work mu..."
-    },
-    {
-      "title": "Hong Kong Nepalese man searches for cousin missing in flood: ‘I cannot sleep’",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3366277/i-cannot-sleep-hong-kong-nepalese-man-searches-cousin-missing-flood?utm_source=rss_feed",
-      "date": "2026-09-03 15:23",
-      "summary": "A Hong Kong Nepalese man is searching for his cousin who is missing after the catastrophic flood struck the Himalayan border betwe..."
     }
   ]
 }
