@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Researchers tune into Arctic under-ice sounds and test through-ice communication",
+      "link": "https://news.mit.edu/2026/researchers-tune-into-arctic-under-ice-sounds-test-through-ice-communication-0904",
+      "date": "2026-09-04 16:25",
+      "summary": "The work is part of a multiyear effort to develop a distributed sensor network for relaying data collected from this critical regi..."
+    },
+    {
       "title": "New method allows scientists to follow gene activity over time in the same cells",
       "link": "https://news.mit.edu/2026/new-method-allows-following-gene-activity-over-time-same-cells-0904",
       "date": "2026-09-04 04:00",
@@ -23,15 +29,79 @@
       "link": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
       "date": "2026-09-02 15:00",
       "summary": "A new method, called CW-Net, translates the reasoning process of an autonomous vehicle’s AI system into understandable concepts th..."
+    }
+  ],
+  "Harvard Gazette": [
+    {
+      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
+      "date": "2026-06-03 07:00",
+      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
-      "title": "New research shows a neutrino laser is impossible",
-      "link": "https://news.mit.edu/2026/new-research-shows-neutrino-laser-impossible-0902",
-      "date": "2026-09-02 14:00",
-      "summary": "Due to physical and fundamental limitations, an earlier proposal for producing laserlike beams of neutrinos cannot be achieved, sc..."
+      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
+      "date": "2026-07-28 07:00",
+      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
+    },
+    {
+      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
+      "date": "2026-05-12 07:00",
+      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+    },
+    {
+      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+    },
+    {
+      "title": "‘Vibe coding’ may offer insight into our AI future - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdEhzcmpQLXFzdHRCTjMteHItZUVkdGZlRjlXdDNBa29OWFZ2OEdDcjJ5dVlFM29mRjNJdXJzN0IzcVFTM2sxUTF3NFFrRlVqVk9ERjk5NUZWb3FnZDl4bWdVbDRmbzJMWC1zeFk2U2Q3T1hyR3hEV1F3ai1LNFoxNE9BSkhuejhnMzREN2J1NTZYSXR1SzlKajl5Rmg?oc=5",
+      "date": "2026-04-01 07:00",
+      "summary": "‘Vibe coding’ may offer insight into our AI future  Harvard Gazette..."
+    }
+  ],
+  "Stanford News": [
+    {
+      "title": "The Rise of Legal Engineering - Stanford Law School",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HZGJyOVFjd3ZfVzl1cVU5aWZtUUxnN0M1UnlZWUpLOU1WemdybnpGcUtGYzdfZmdWcjFUYi1DODVyX3luTWlpcHdjbERzRkxib2tMdUJUUFNERkdYN3ZoYmVnZlN5NkZlaDA0eHBB?oc=5",
+      "date": "2026-09-03 22:15",
+      "summary": "The Rise of Legal Engineering  Stanford Law School..."
+    },
+    {
+      "title": "Stanford to retire Katie Meyer's jersey number to 'remember her legacy' - ABC7 Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnJGV2lnWmdERmJVVUtqMFExei02N3FndVYwNnY0blIwTWZFLWZFblRxeE5MQllmbVpkSjk2czM0M2lxOFBLcll3T0k1Sjl2ejRRM1A1QmFJcGZNVEx6WjRvd3c1VVRZVzgzdmd0X21OVElIeHFVTHJ5Vm9jdGxhU3diZGhuOGlycDkyb2I0QWt3M3JqU1FLN1pfbW1FOHBIMUE4WlRzaFdYc2M?oc=5",
+      "date": "2026-09-04 02:46",
+      "summary": "Stanford to retire Katie Meyer's jersey number to 'remember her legacy'  ABC7 Bay Area..."
+    },
+    {
+      "title": "Stanford Student Newspaper Wins Suit over Trump’s Crackdown on Pro-Palestine Speech - Democracy Now!",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaUswZm5uUHhfOHlYMEEyd0paRWxnTDZOcXRKaEFUanVFSGpMaDRwVktTUW5sRDNqRG5rSnlHenVQYkltTFpLd0JpLUZUXzJFbjlVMEx4Q19yTjQ3amRaMU5jZkdLSW5JMVVUcW9vNDlvdHpwc0JFY1RwZVlwNEMxU2JVYw?oc=5",
+      "date": "2026-09-04 12:00",
+      "summary": "Stanford Student Newspaper Wins Suit over Trump’s Crackdown on Pro-Palestine Speech  Democracy Now!..."
+    },
+    {
+      "title": "Larry Page and Sergey Brin met at Stanford—the rest is Google history | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZlN4dGFmU1UyRi1RRkJBV0xQSW10SFJWV0JhZlBKWHljZ285TzRyU09EcTJXMzZQUXdwVDlYalkzdmQ4MXlGdklvMTQ0Umw4MWpIWFNUaTZ6VURCY1ZmSy0zSHdfdklNdlZUZTdEc082allDaGtsbVRHaUdTZk13elowbDdBQ2UyQWpNZzdWbkR3bzVnY0NSY3hCYlZ0Z3U2U01BVF9NbTBGWGg5WjAyMl9uWlFSempjQk0yOF9KXzVyQXJKZTdGUDk0cGhLRGdW0gHWAUFVX3lxTE40dWlyS3VGb3VBLXBUeV9HSVF2LVRTTkVybG1MYmVWUFhxU2lsNVJoaXFyc25VNkdJRFVOOXhGQ3NfLWo0SnJkMExpWnl3RTBhTkNoLV84TGhHYkFTaE9FUWdqU3dwbkk1UDZkQ014b1VjUDNsWlFqUG40OENpSUFDMWtrMi1kUnEyRjFzSEtTc0g0M0JkbVdveHV2NnVsbkdTZk5TQVQ2Nzl3R2VTTXV6TVlNVERleXN2MW5YcERGN3U3YXVPMlRjNW9HREIzZzZCSGpQV1E?oc=5",
+      "date": "2026-09-04 05:46",
+      "summary": "Larry Page and Sergey Brin met at Stanford—the rest is Google history | Hindustan Times  Hindustan Times..."
+    },
+    {
+      "title": "Stanford Economist Makes the Case Against California’s Billionaire Tax Measure - KQED",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSFVfaHBib3RfalJMYnVjX0tGNVc5SWNvenlhbW5na0ZRci1EdUdyenA5UUhsSkplQ0tRcUlyMjQwR1ZkQl9kOUFUVm90cXFnS1JKUjRSWlMza1hCT250NlMtVlNJdGJaUUJOdTJkczFjTFhZYS12dzc0RkNvaEtLZ1dmRVYxaGs3WDRpa2hpTzdEV2tBUmZTS0VaLWhUQXlxbmVOMzFCcDVYdGFsaXAwT25R?oc=5",
+      "date": "2026-09-01 23:49",
+      "summary": "Stanford Economist Makes the Case Against California’s Billionaire Tax Measure  KQED..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Super-precise optical clocks in four nations tick in harmony",
+      "link": "https://www.nature.com/articles/d41586-026-02741-9",
+      "date": "2026-09-04 00:00",
+      "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02741-9Comparison using signals sent over fibre-optic cable te..."
+    },
     {
       "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
       "link": "https://www.nature.com/articles/d41586-026-02739-3",
@@ -55,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02744-6",
       "date": "2026-09-03 00:00",
       "summary": "Nature, Published online: 03 September 2026; doi:10.1038/d41586-026-02744-6Study shows that psilocybin acts on nerves to prevent t..."
-    },
-    {
-      "title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
-      "link": "https://www.nature.com/articles/d41586-026-02650-x",
-      "date": "2026-09-03 00:00",
-      "summary": "Nature, Published online: 03 September 2026; doi:10.1038/d41586-026-02650-xThe awards highlight weird, funny and improbable resear..."
     }
   ],
   "Retraction Watch": [
@@ -95,39 +159,109 @@
       "summary": "New York University Press is pulling all copies of a book about intelligent design after the author falsely quoted another scholar..."
     }
   ],
+  "Reuters AI": [
+    {
+      "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
+      "date": "2026-09-04 13:20",
+      "summary": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring  Reuters..."
+    },
+    {
+      "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEhVLUYyaUZ3dDB0UGpFemVFREl1RkE0Q2FldS0zQmNQVVNudlNULXg3RXlVdjBId2lKSUJSdGllakNFNzJTMUstb2R1Nm1NQ2R6UEQxZkw1dzRoRG5NLWE0WlJWVGw3Y3VWUkQ3WHNOd1h3YndNZ0FNQ2NmX0JHZnBjakRjemhjWEtvN1RnbUdRdWtSUGpWTkRnTG1ncmQ3Mk5fTmEycGgxemROWDBMNzZaYnlyUVpsYXVLNnNpMHJVV2s?oc=5",
+      "date": "2026-09-03 18:03",
+      "summary": "OpenAI launches new Astra model amid growing scrutiny over agents' safety  Reuters..."
+    },
+    {
+      "title": "Exclusive-US, China Gear up for Mid-September AI Safety Dialogue - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFJnMWpWNFJqcDdVdWRTYkhCVkt0OVUxUFZwVnhQOU5SVGVpajFQdnU4cDRhNFJKZmxyVno3azhlTWdLdThScXVzRmRibUoxQnNmR24yYVE4RndXLTktc2tlTDRGUFExV3UtUW5rZEd5Smd2UmJ4T25nTkVuak1ZSnR0R2JhN0xxUWljZmFiVGVpcmYtcW1oX1U2N01JSlBETDVMMmdKRFR0blg1cEZ1ZWpNRkNiTWtW?oc=5",
+      "date": "2026-09-04 16:34",
+      "summary": "Exclusive-US, China Gear up for Mid-September AI Safety Dialogue  U.S. News & World Report..."
+    },
+    {
+      "title": "Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
+      "date": "2026-09-03 12:08",
+      "summary": "Nvidia bets $13 billion on open AI models with Hugging Face deal  Reuters..."
+    },
+    {
+      "title": "Texas Republicans turn against data centers, putting big tech on notice - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnVVV1JaaGRibzZ2d1o5ckdSUWN6RjMxTll5LTBDcGhvUjlTWko3dWJzaTQzX29iOFNqenRwSUg2MkR4UkpjMjJHQzBlZVFOUWk4bXJLNmwxWmhVRW5vWlZUbEl4N3FvbXFoeU4ta1o3UG5wYXZhVk5Sd0JWQUVhZWRTaGRjSDdzbENFNmJodnZmV01SUVhtR1pWeGFQUnBKQWp6cU5lUUZhM3l0ZFBZbGlZX2x3Z2hMSXZXUg?oc=5",
+      "date": "2026-09-03 10:02",
+      "summary": "Texas Republicans turn against data centers, putting big tech on notice  Reuters..."
+    }
+  ],
+  "MIT Tech Review": [
+    {
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEQ09LWmRETTdFS2RZUEVpQjBQTVVxU2EwRVdMSUNmbHZJMHZGa2tDeXkzMERFNGdQXy1vcU0yTnVGRXliY0M5dFpHclVub01qR2JzYjVNWjdZM0ZWZXpjTW50Y0RONVZObVRpX0haM0hacWRlYnhIem9MeUYyQdIBgwFBVV95cUxQcmJRR0s0YnpXZHZRTDBjaXU1M3V2aDV0cnFMUXJ4NjZoWVZMWlJkMG9WVXBjOTFFVmNvVW11blREQ0NpTERWalBFLTJCVkJWdzBhZ1hiM0szUkFSMDRPSDltZ2ZIZnpyT0c3THR5WG1fMGdZVURyQmtlNXgtNUpaVGtkVQ?oc=5",
+      "date": "2026-09-04 09:25",
+      "summary": "Data from drones in Ukraine is fueling a new Wild West marketplace  MIT Technology Review..."
+    },
+    {
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGZWNXRXV1BiZ1BjdGNhaHVWcFBWNWhsUFp5cmo4VlVzVWpMdXpVTGdJTklweHdmZnh1MnNrbUY2X2FYX3lFdWhqWGVibDNIUFQySDcyUnNGZnA3ZWJBSThGUjE5MEhaWWd0OVdiV1pYdHZpUGZWd2treWJJVjZNdXhUTUc3aUdoZzdtck9TUjltajVPbVBsdkxQZGVIaHRxV3AzSXV4WnlQUXdfaHJjM9IBtgFBVV95cUxOSmhKNnc5MFpCVHRTRm5MemVhb1hRUTY5RmswZHNqaVN2aTZsTTJ5bU91OWFKYnVid3lpUmZqb2pGZ0dSSE5raG1tYUNybXM4ZkhSdjBKUjF0Q2U0bHRPM2FCdmtJU2laZmkxQkFLNnF0RjZKQ2xtZW90MGVTRG1Mb2NKbGdmWVlhTFY5MVpUUE9idzlZZmpGSHVrbl9UZWdkYzNzZFV0aDY1ZVVocFpid2lpUHR5UQ?oc=5",
+      "date": "2026-08-31 18:00",
+      "summary": "The Hugging Face hack could indicate cultural issues at OpenAI  MIT Technology Review..."
+    },
+    {
+      "title": "Facilitating AI integration with simplicity at scale - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmk1ZUJ3VVRYZzdqTy1vbGRhTG12cTh5WWdWT1V2VUNlRTl2dnJaeEJyN1lEWEwzYUJadEUyNExzTkQ1Z2tXLVhESDZxTjRIbkQ3WlA2bmI4UU5PTkxJSERPRHFZak11QWRQYndqaHRqbk1UNnV0ZjFoS3p2c3Q0UVZpTWUyVVpDRVRodGVpc3hwNm53RzlRWTdNVG1FeTFaQzEybEp3SmbSAa4BQVVfeXFMUEltM1FYUnphZGZKQ0hBcmU0cE82NlJnNGFhbWFiN0RnNXFIMUxPTTFNRnAzNC1CZ0l5YjlDM3dVdDBseUtMem52NWhDUVlJSGdsMlg5a0hreV9HQkpnYk5JTmRPOFpHWU9yb2pvc0t4QXFjcW5VeTBVZ3VoSm9DM1R2T2NYN2tXUEtNOHBZbVd5S2JCMU4tT0FtV1A5STF3ZENxdUJaamI2c2s1aHpB?oc=5",
+      "date": "2026-09-02 14:00",
+      "summary": "Facilitating AI integration with simplicity at scale  MIT Technology Review..."
+    },
+    {
+      "title": "Scaling agentic AI pilots across the enterprise - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm9nZWEwQmhJSWdKTWVFMEZiTkhkSnBpckdTRmwzYjFoMFVYRldMVFhiQkkxVFYzR25mSkhlVmZ2cGlpbjNMWmltMS0zc1ZzVTJVVlVPd0dpbzdLa1JMNlJzMmN2YjY0aEYwd3Z2UzA4SkdVOU9PWm9lYzJ6SDU2eTExOTlvWGhINlo0OHhTdy1ocnY1dElRX3MxaW12c3djb2fSAacBQVVfeXFMUHlyUGpUUllxWXZXZC1HTnJ0ZDVzWkhoR1NTQURpZFlxWVc3aUpvUWRuRm5seHAwWTM3eklWRW9nMDh5b1hhTFQzVWI3dVQ4V2h6YkhYTExzYXFPUV8tMi1GX010WXdDQWowbDMtRTZfVXVTSXNIa1U1Q0JUZEphOWhBTGFGRG9QaVFsTkJ5T3k3a3V4R1hlc2E1U1FkdmNJYS1lMm5fUlE?oc=5",
+      "date": "2026-09-03 09:30",
+      "summary": "Scaling agentic AI pilots across the enterprise  MIT Technology Review..."
+    },
+    {
+      "title": "How AI plotted an interstellar journey to Alpha Centauri - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3N0UC1MZGJFSEQzeEEwbThyM0lNM1V6NTBXVXNhTWxBUUxUeWw5YkhEelRXaDdCdUNLS0hBd3dJRmtMS094ZUlLRURoOUtZUUxZaEJsaEpQM2JjNTI3enY5WDVrd0t2QlRjanpXYUN0dXZZVkJUc1VkVTlLbFhSeGs5NGZuR0FWLXBkc2oxbUhSS0ZpdHfSAZsBQVVfeXFMTklmRWxtRDJ4Y1VRV2o2Wjc2T3RFTnZWU3I1bkxQZjFONkxuS3VaejRJYmk4emRKemNaRWNxTWxHTFUxTWw4Z0FRd0M0aWhUUlgzOHNNTWI5dG5VUHpYNkRFSGZlcVFYV2pRUThqdjQ0ZEtpdThvTEZCRU1pQ3B2emJqdG1vWDA1ZmlpanpHLTkxRzRiSkQtX0tyOVE?oc=5",
+      "date": "2026-09-01 19:10",
+      "summary": "How AI plotted an interstellar journey to Alpha Centauri  MIT Technology Review..."
+    }
+  ],
   "Phys.org": [
     {
-      "title": "Prom season can increase body image anxiety for some teens—how parents can help",
-      "link": "https://phys.org/news/2026-09-prom-season-body-image-anxiety.html",
-      "date": "2026-09-04 12:20",
-      "summary": "Prom is one of the most exciting events on the school calendar for many high school seniors...."
+      "title": "Ultrafast electrons and lasers reveal unexpectedly strong radiation signals in common semiconductors",
+      "link": "https://phys.org/news/2026-09-ultrafast-electrons-lasers-reveal-unexpectedly.html",
+      "date": "2026-09-04 16:40",
+      "summary": "Detecting radiation is key to technologies ranging from particle accelerators and scientific instruments to medical imaging and se..."
     },
     {
-      "title": "Orange hydrogen: Could Western Australia's rocks help power a low-carbon future?",
-      "link": "https://phys.org/news/2026-09-orange-hydrogen-western-australia-power.html",
-      "date": "2026-09-04 12:00",
-      "summary": "Deep beneath parts of Western Australia, injecting CO2-rich water into iron-rich rocks may offer an unexpected opportunity for bot..."
+      "title": "Capturing localized protein and metabolic information from a single tissue section",
+      "link": "https://phys.org/news/2026-09-capturing-localized-protein-metabolic-tissue.html",
+      "date": "2026-09-04 16:40",
+      "summary": "Revealing how proteins and end products of biological activity (metabolites) change within specific tissue functional units during..."
     },
     {
-      "title": "Iron Age Botswana site sourced copper across southern Africa—but tin from just one place",
-      "link": "https://phys.org/news/2026-09-iron-age-botswana-site-sourced.html",
-      "date": "2026-09-04 12:00",
-      "summary": "Around 700 years ago, people living on hilltop settlements on the edge of the Kalahari wore beads, bangles and clips made from met..."
+      "title": "Why some Alaskan rock glaciers race downhill while their neighbors barely move",
+      "link": "https://phys.org/news/2026-09-alaskan-glaciers-downhill-neighbors.html",
+      "date": "2026-09-04 16:20",
+      "summary": "Two massive rock glaciers are creeping down mountain valleys in Alaska's Wrangell–St. Elias National Park. They sit only a few mil..."
     },
     {
-      "title": "Researchers test far-ultraviolet light to prevent bird flu in poultry",
-      "link": "https://phys.org/news/2026-09-ultraviolet-bird-flu-poultry.html",
-      "date": "2026-09-04 11:40",
-      "summary": "When a strain of highly pathogenic avian influenza, or HPAI, tore through U.S. poultry farms in early 2025, farmers culled tens of..."
+      "title": "Betelgeuse's atmosphere is becoming spotty and asymmetric—and a nearby companion could be shaping the pattern",
+      "link": "https://phys.org/news/2026-09-betelgeuse-atmosphere-spotty-asymmetric-nearby.html",
+      "date": "2026-09-04 16:20",
+      "summary": "For the first time since its dramatic dimming in 2020, a team of astronomers has observed the inner atmosphere of Betelgeuse using..."
     },
     {
-      "title": "Malaysia declares haze emergency in Sarawak state on Borneo",
-      "link": "https://phys.org/news/2026-09-malaysia-declares-haze-emergency-sarawak.html",
-      "date": "2026-09-04 11:20",
-      "summary": "Malaysia declared an emergency in the Serian division of its Sarawak state on Borneo after hazardous haze from fires in neighborin..."
+      "title": "Physics-informed AI improves predictions of how critical minerals move through rock",
+      "link": "https://phys.org/news/2026-09-physics-ai-critical-minerals.html",
+      "date": "2026-09-04 16:00",
+      "summary": "The key to finding more critical minerals may lie in understanding how fluids and chemicals move through rock. As these fluids tra..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Even high school reporters are facing censorship now",
+      "link": "https://www.theguardian.com/law/ng-interactive/2026/sep/04/high-school-journalism-splc",
+      "date": "2026-09-04 13:30",
+      "summary": "As teenage journalists deal with threats to their school newspapers, they’re calling in attorneys for back upHigh school journalis..."
+    },
     {
       "title": "Schools in England face checks to root out unhealthy lunches",
       "link": "https://www.theguardian.com/education/2026/sep/03/schools-england-checks-to-root-out-unhealthy-lunches",
@@ -151,15 +285,21 @@
       "link": "https://www.theguardian.com/technology/2026/sep/03/boyfriend-literacy-intelligence-test",
       "date": "2026-09-03 11:00",
       "summary": "People online are distressed at men butchering words such as ‘hyperbole’ and ‘hors d’oeuvres’ – highlighting a gender reversal in ..."
-    },
-    {
-      "title": "‘Internal exclusion’ of England secondary school students almost triples in three years",
-      "link": "https://www.theguardian.com/education/2026/sep/03/proportion-of-secondary-school-students-in-england-placed-in-internal-exclusion-almost-triples-in-three-years",
-      "date": "2026-09-03 04:00",
-      "summary": "Exclusive: New data shows poorer pupils and those with Send are disproportionately affected by the measureThe proportion of second..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "2 floors of Rumsey Street car park to close for 6 weeks for Interpol meeting use",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3366440/2-floors-rumsey-street-car-park-close-6-weeks-interpol-meeting-use?utm_source=rss_feed",
+      "date": "2026-09-04 14:53",
+      "summary": "A public multi-storey car park in Hong Kong’s central business district will be partially closed for about six weeks from November..."
+    },
+    {
+      "title": "IVF clinic’s embryo specimen mix-up linked to ‘intentional unlawful conduct’",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366438/ivf-clinics-embryo-specimen-mix-linked-intentional-unlawful-conduct?utm_source=rss_feed",
+      "date": "2026-09-04 14:08",
+      "summary": "A mix-up of embryo biopsy specimens may have been caused by “intentional unlawful conduct” at a private fertility clinic, which br..."
+    },
     {
       "title": "Dairy Queen to make Hong Kong comeback with 4 stores. Is it scooping up cheap rents?",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366423/dairy-queen-make-hong-kong-comeback-4-stores-it-scooping-cheap-rents?utm_source=rss_feed",
@@ -177,18 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366412/5-parknshop-and-contractor-staff-who-forged-pay-claims-plead-guilty-fraud?utm_source=rss_feed",
       "date": "2026-09-04 10:45",
       "summary": "Five former employees of Hong Kong supermarket chain ParknShop and its contractors have pleaded guilty to conspiracy to defraud by..."
-    },
-    {
-      "title": "Louis Koo’s production firm disputes HK$149m lawsuit, says claim ‘incomplete’",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366380/louis-koos-production-firm-disputes-hk149m-lawsuit-says-claim-incomplete?utm_source=rss_feed",
-      "date": "2026-09-04 09:09",
-      "summary": "Hong Kong film actor and director Louis Koo Tin-lok’s production company has rejected allegations that it owes HK$149 million (US$..."
-    },
-    {
-      "title": "Fake customer service drives 56% jump in phone scam losses to HK$900 million",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366368/customer-service-major-ruse-phone-scam-losses-56-first-half-year?utm_source=rss_feed",
-      "date": "2026-09-04 08:08",
-      "summary": "Impersonating customer service staff is the “most rampant tactic” used by phone scammers, Hong Kong police have said, revealing th..."
     }
   ]
 }
