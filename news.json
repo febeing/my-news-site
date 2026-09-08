@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Study predicts large disparities in access to food, water, and energy in 2050",
+      "link": "https://news.mit.edu/2026/study-predicts-large-disparities-access-food-water-energy-2050-0908",
+      "date": "2026-09-08 04:00",
+      "summary": "In some regions of the world, the poorest people may spend about 50 percent of their income on food, while the richest spend about..."
+    },
+    {
       "title": "Researchers tune into Arctic under-ice sounds and test through-ice communication",
       "link": "https://news.mit.edu/2026/researchers-tune-into-arctic-under-ice-sounds-test-through-ice-communication-0904",
       "date": "2026-09-04 16:25",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/new-qubit-architecture-enables-faster-more-accurate-operations-0903",
       "date": "2026-09-03 04:00",
       "summary": "This advance could be a big step toward developing a scalable, practical quantum computer...."
-    },
-    {
-      "title": "System helps humans predict when self-driving cars will make mistakes",
-      "link": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
-      "date": "2026-09-02 15:00",
-      "summary": "A new method, called CW-Net, translates the reasoning process of an autonomous vehicle’s AI system into understandable concepts th..."
     }
   ],
   "Harvard Gazette": [
@@ -39,28 +39,28 @@
       "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
-      "title": "How AI may change public policy, how we lead - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
-      "date": "2026-07-28 07:00",
-      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
-    },
-    {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
-      "date": "2026-07-10 07:00",
-      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
+      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
+      "date": "2026-07-28 07:00",
+      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
     },
     {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+    },
+    {
+      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
+      "date": "2026-07-10 07:00",
+      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -77,22 +77,22 @@
       "summary": "Saturday Links: Stanford University to Retire Jersey of Late Goalkeeper Katie Meyer  SFist..."
     },
     {
-      "title": "Stanford Student Newspaper Wins Suit over Trump’s Crackdown on Pro-Palestine Speech - Democracy Now!",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaUswZm5uUHhfOHlYMEEyd0paRWxnTDZOcXRKaEFUanVFSGpMaDRwVktTUW5sRDNqRG5rSnlHenVQYkltTFpLd0JpLUZUXzJFbjlVMEx4Q19yTjQ3amRaMU5jZkdLSW5JMVVUcW9vNDlvdHpwc0JFY1RwZVlwNEMxU2JVYw?oc=5",
-      "date": "2026-09-04 12:00",
-      "summary": "Stanford Student Newspaper Wins Suit over Trump’s Crackdown on Pro-Palestine Speech  Democracy Now!..."
-    },
-    {
-      "title": "Warning labels could curb young people’s social media use - news.stanford.edu",
+      "title": "Warning labels could curb young people’s social media use - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vVDljRnpGQ2FGVWM2dktubDVfWG9RNWZsWXJTUVppSDBPd204dzVaZHVJWkVpN0lXY1hYMXotcXdCR29Nb2FPSVJ2M2t5UzNMWUpiM1RBclUtd2YwMFMzQkhYMVh2Mm9SWTFtQmVwQjJIUlM5amdFWGFLWF96dw?oc=5",
       "date": "2026-09-05 03:43",
-      "summary": "Warning labels could curb young people’s social media use  news.stanford.edu..."
+      "summary": "Warning labels could curb young people’s social media use  Stanford Report..."
     },
     {
-      "title": "Innovative process boosts clean hydrogen production - news.stanford.edu",
+      "title": "CSUN Falls on the Road at #1 Stanford - CSUN Athletics",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXhzSFVWNzNDN3YzODZRX1c4bnVnOGpKbmdkYkl3WEE2eF9RRlptWXRpdmlKazZOTWdfc2NNRFpNR0FCcjJ3WFg0M0tpNWNaeHNNU1djWC1MLVVuSlpUSnk4ZFJJMERKVTdXdkcydXN6ZzBYZFlvTFQ4bGJzN3Q2U3VEWm0xVzNtVEFoOHZn?oc=5",
+      "date": "2026-09-08 02:07",
+      "summary": "CSUN Falls on the Road at #1 Stanford  CSUN Athletics..."
+    },
+    {
+      "title": "Innovative process boosts clean hydrogen production - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnlGUV9qbFp0dHAtQlgzdVVnWF9jY0dSUEdIZmUwU2RxaXh5TzI1WEVDcWJEdUpoRldwQm1YYWVBbFNVbjNoZFNkRGREVV93dWk2UV9NOWN6emxhVkE1UmE3Ml9OMnJkQzJkcElPY3ROM2JyWjY5Y2JrTFNrYldidlpZNmZPUFVNblRTRDZ2TW45Zw?oc=5",
       "date": "2026-09-04 00:01",
-      "summary": "Innovative process boosts clean hydrogen production  news.stanford.edu..."
+      "summary": "Innovative process boosts clean hydrogen production  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -161,16 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
-      "date": "2026-09-05 14:55",
-      "summary": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior  Reuters..."
+      "title": "OpenAI has sent EU incident report on hijacked German website, Commission says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzJFOUNDZWR2SV9UcEdYdGV3Ql9RNnkwZFg1ZHZNV3VSSWllaldEUjhYNi1wZVBmOXZITXlEbGtldWhvdjJtUVZoejJ0UUFIZDNVd2ptUFdCRDB4ejVtRmcxTUNQMVNuSE9kWUxUS2xLenAzY2ZQeF9JVUZMWUlZZ0o4VktuUEhiTFZnRm40Vld0NGF5SFRMRHZqN0NtYUh6UW5FRFB5N1pnMU85Z3B5SFhaQXVVMXFHNE1j?oc=5",
+      "date": "2026-09-07 10:56",
+      "summary": "OpenAI has sent EU incident report on hijacked German website, Commission says  Reuters..."
     },
     {
-      "title": "Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2V3MzMyWDhGbmtOTkItcEdzR2dPdHNPelhqSG9sbEw1Mk0xTE85N29vZmtoTnZOa2NpOWFpNF9BSmd5N2EwMDVNOEFWWFlZR2l3SUlSNTdxR2wtT01Kc3RoUmh1bm9xTHBZNjItVXJ0dHZCeHNfX0pRTDBfdlh0QVV0N21fT2ZUZlF1WVFBWW5TejczdUE5MmRkaHpNeGZkTG1zVTlzbw?oc=5",
-      "date": "2026-09-07 11:58",
-      "summary": "Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat  Reuters..."
+      "title": "Breakingviews - COMMENTARY: How to make the world safer for AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHhsMk9Ic1dobWlDbFhLb1R2eVZyOWZkUC04dWFGc3VMR2FHVUdfUENEcU9ERW1YV2lkNjVXbjJjNGFlU3ExUEVOYTBHVzkweDZkcVpVUW9fekpzUHBVUXZJdHRld3BjcUFEYXBxSHFORVI1UzNXNDdSVXNsbk9xODlNQ3ZlYmRrVGhtVQ?oc=5",
+      "date": "2026-09-07 05:00",
+      "summary": "Breakingviews - COMMENTARY: How to make the world safer for AI  Reuters..."
     },
     {
       "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
@@ -185,10 +185,10 @@
       "summary": "AI could pose 'existential' risk to humanity, UN rights chief warns  Reuters..."
     },
     {
-      "title": "Breakingviews - COMMENTARY: How to make the world safer for AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHhsMk9Ic1dobWlDbFhLb1R2eVZyOWZkUC04dWFGc3VMR2FHVUdfUENEcU9ERW1YV2lkNjVXbjJjNGFlU3ExUEVOYTBHVzkweDZkcVpVUW9fekpzUHBVUXZJdHRld3BjcUFEYXBxSHFORVI1UzNXNDdSVXNsbk9xODlNQ3ZlYmRrVGhtVQ?oc=5",
-      "date": "2026-09-07 05:00",
-      "summary": "Breakingviews - COMMENTARY: How to make the world safer for AI  Reuters..."
+      "title": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEl5UFVvaWZBUmFEZkVObFBBRVk3MHRBV29pSnoxSDJXSFVxUTl0SGR6NjdlamEyWUF5WF9LQW5nWVFRUTZhTnRjalplVWVEc3NPTEk4NllZR1B6VWVJbE1UaDlPLUFycVpRenZNRWRnUGlvREIyNy1kLUYyVTl0WU9IaG91MlV2dFpfYnpUNk1idFVMbmI0T2pmWHRWalY3UHRvMU1aazJhejh2eGJnS1pqUXpnNWdXY2k4THEzdV82OURFWjFz?oc=5",
+      "date": "2026-09-08 01:40",
+      "summary": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -205,6 +205,12 @@
       "summary": "Architecting memory and storage in the AI era  MIT Technology Review..."
     },
     {
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZThmeE9Ed0pBQ0t0MkxhX1RXVkNoM19IWlZmcDNxZ0dZU216ZEpTc1hUSGRuYkw0a2wwMWstMzZ1bWNwTXdfVVNtbEpUOUdPNFlJemlzeWh2V2NLUGtfUE1xYjVGUkJuLTcxcVlkTDRKMDNwcl9aX3Zvc05GWXBUSm83OWlIOGdwSXU00gGQAUFVX3lxTFBmT1NCX2k4QWN4UlBZdGJGc1hNbWszNHF6ZE1ZU09jNGIyNlVXY1ViQWJWOUhmWWNaR2hnbGVaZnJjd2kzYm5hQkMyTWNIUjhiQWNrZl81Z1VLNlpKTXhMWlR5bWNoQU00ZTRicmNvOFc1UzlMUXY3LVIyNTAzVlkyT1hoYlMwNXR1eUlILWJabg?oc=5",
+      "date": "2026-08-26 07:00",
+      "summary": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?  MIT Technology Review..."
+    },
+    {
       "title": "Scaling agentic AI pilots across the enterprise - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm9nZWEwQmhJSWdKTWVFMEZiTkhkSnBpckdTRmwzYjFoMFVYRldMVFhiQkkxVFYzR25mSkhlVmZ2cGlpbjNMWmltMS0zc1ZzVTJVVlVPd0dpbzdLa1JMNlJzMmN2YjY0aEYwd3Z2UzA4SkdVOU9PWm9lYzJ6SDU2eTExOTlvWGhINlo0OHhTdy1ocnY1dElRX3MxaW12c3djb2fSAacBQVVfeXFMUHlyUGpUUllxWXZXZC1HTnJ0ZDVzWkhoR1NTQURpZFlxWVc3aUpvUWRuRm5seHAwWTM3eklWRW9nMDh5b1hhTFQzVWI3dVQ4V2h6YkhYTExzYXFPUV8tMi1GX010WXdDQWowbDMtRTZfVXVTSXNIa1U1Q0JUZEphOWhBTGFGRG9QaVFsTkJ5T3k3a3V4R1hlc2E1U1FkdmNJYS1lMm5fUlE?oc=5",
       "date": "2026-09-03 09:30",
@@ -215,15 +221,27 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmk1ZUJ3VVRYZzdqTy1vbGRhTG12cTh5WWdWT1V2VUNlRTl2dnJaeEJyN1lEWEwzYUJadEUyNExzTkQ1Z2tXLVhESDZxTjRIbkQ3WlA2bmI4UU5PTkxJSERPRHFZak11QWRQYndqaHRqbk1UNnV0ZjFoS3p2c3Q0UVZpTWUyVVpDRVRodGVpc3hwNm53RzlRWTdNVG1FeTFaQzEybEp3SmbSAa4BQVVfeXFMUEltM1FYUnphZGZKQ0hBcmU0cE82NlJnNGFhbWFiN0RnNXFIMUxPTTFNRnAzNC1CZ0l5YjlDM3dVdDBseUtMem52NWhDUVlJSGdsMlg5a0hreV9HQkpnYk5JTmRPOFpHWU9yb2pvc0t4QXFjcW5VeTBVZ3VoSm9DM1R2T2NYN2tXUEtNOHBZbVd5S2JCMU4tT0FtV1A5STF3ZENxdUJaamI2c2s1aHpB?oc=5",
       "date": "2026-09-02 14:00",
       "summary": "Facilitating AI integration with simplicity at scale  MIT Technology Review..."
-    },
-    {
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what? - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZThmeE9Ed0pBQ0t0MkxhX1RXVkNoM19IWlZmcDNxZ0dZU216ZEpTc1hUSGRuYkw0a2wwMWstMzZ1bWNwTXdfVVNtbEpUOUdPNFlJemlzeWh2V2NLUGtfUE1xYjVGUkJuLTcxcVlkTDRKMDNwcl9aX3Zvc05GWXBUSm83OWlIOGdwSXU00gGQAUFVX3lxTFBmT1NCX2k4QWN4UlBZdGJGc1hNbWszNHF6ZE1ZU09jNGIyNlVXY1ViQWJWOUhmWWNaR2hnbGVaZnJjd2kzYm5hQkMyTWNIUjhiQWNrZl81Z1VLNlpKTXhMWlR5bWNoQU00ZTRicmNvOFc1UzlMUXY3LVIyNTAzVlkyT1hoYlMwNXR1eUlILWJabg?oc=5",
-      "date": "2026-08-26 07:00",
-      "summary": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "How beavers can help create fire breaks as part of a drought preparation plan",
+      "link": "https://phys.org/news/2026-09-beavers-drought.html",
+      "date": "2026-09-08 02:40",
+      "summary": "Most of the countryside around the Holnicote estate in Somerset has been dry and dusty for most of the summer. But one corner rema..."
+    },
+    {
+      "title": "Changing the antibiotic playbook to catch an ESKAPE artist",
+      "link": "https://phys.org/news/2026-09-antibiotic-playbook-eskape-artist.html",
+      "date": "2026-09-08 01:40",
+      "summary": "Nearly a century ago, a single colony of Staphylococcus aureus (S. aureus) helped launch the antibiotic age. In 1928, Alexander Fl..."
+    },
+    {
+      "title": "Early Earth's auroral belts may have formed a natural ion-beam reactor for prebiotic chemistry",
+      "link": "https://phys.org/news/2026-09-early-earth-auroral-belts-natural.html",
+      "date": "2026-09-08 00:40",
+      "summary": "We usually think of auroras as beautiful lights in the night sky. I see them as visible traces of a connection between the sun, Ea..."
+    },
     {
       "title": "Crime is falling—but the public doesn't feel safer, UK study finds",
       "link": "https://phys.org/news/2026-09-crime-falling-doesnt-safer-uk.html",
@@ -235,24 +253,6 @@
       "link": "https://phys.org/news/2026-09-indigenous-areas-vital-nature-australia.html",
       "date": "2026-09-07 23:20",
       "summary": "When you think of conservation in Australia, chances are you'll think of a national park...."
-    },
-    {
-      "title": "Park rangers and residents speak up to save Togo's last national park",
-      "link": "https://phys.org/news/2026-09-rangers-residents-togo-national.html",
-      "date": "2026-09-07 22:00",
-      "summary": "A few years ago, I drove with an old friend from Togo, West Africa, towards the country's last remaining large protected area, Faz..."
-    },
-    {
-      "title": "AI governance model inspired by Pope Leo XIV aims to put ethics first",
-      "link": "https://phys.org/news/2026-09-ai-pope-leo-xiv-aims.html",
-      "date": "2026-09-07 21:40",
-      "summary": "Researchers at the John Paul II Catholic University of Lublin (KUL) and the University of Eastern Finland have developed a new mod..."
-    },
-    {
-      "title": "Bumpy battery surfaces can masquerade as nanoscale ion pathways, misleading material design",
-      "link": "https://phys.org/news/2026-09-bumpy-battery-surfaces-masquerade-nanoscale.html",
-      "date": "2026-09-07 21:20",
-      "summary": "A signal that appears to show ions moving inside a battery may, in fact, be an illusion caused by an uneven surface. A KAIST resea..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Foreign, mainland students flock to Hong Kong sparking property demand in education sector",
-      "link": "https://www.scmp.com/business/article/3366576/foreign-mainland-students-flock-hong-kong-sparking-property-demand-education-sector?utm_source=rss_feed",
-      "date": "2026-09-08 00:00",
-      "summary": "Hong Kong’s bid to become a global education hub is likely to transform the sector as a sustainable source of property demand, wit..."
+      "title": "Hong Kong families hit as volcanic ash strands up to 200 helpers in Indonesia",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3366717/hong-kong-families-hit-volcanic-ash-strands-200-helpers-indonesia?utm_source=rss_feed",
+      "date": "2026-09-08 04:22",
+      "summary": "Up to 200 Hong Kong-bound domestic helpers remain stranded in Indonesia despite the reopening of several affected airports, as the..."
     },
     {
-      "title": "Kazakhstan aims to become education hub, but experts say jobs must match skills",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3366687/kazakhstan-aims-become-education-hub-experts-say-jobs-must-match-skills?utm_source=rss_feed",
-      "date": "2026-09-07 16:14",
-      "summary": "Kazakhstan is aiming to become an education powerhouse in Central Asia but efforts must also ensure young people have sufficient a..."
+      "title": "Hong Kong a boon to Kazakhstan’s advanced manufacturing ambitions, ties to Europe: expert",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366710/hong-kong-boon-kazakhstans-advanced-manufacturing-ambitions-ties-europe-expert?utm_source=rss_feed",
+      "date": "2026-09-08 04:00",
+      "summary": "Hong Kong firms could look to Kazakhstan as a base for advanced manufacturing and as a gateway to Europe, while the city’s robust ..."
     },
     {
-      "title": "Kazakhstan, Hong Kong ‘can build biotech unicorns by linking talent and capital’",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366686/kazakhstan-hong-kong-can-build-biotech-unicorns-linking-talent-and-capital?utm_source=rss_feed",
-      "date": "2026-09-07 15:53",
-      "summary": "Kazakhstan and Hong Kong could partner to build biotech unicorns – private start-ups valued at US$1 billion or more – by linking t..."
+      "title": "Hong Kong emerges as leading Asian study destination for Kazakhstani students",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3366700/hong-kong-emerges-leading-asian-study-destination-kazakhstani-students?utm_source=rss_feed",
+      "date": "2026-09-08 02:30",
+      "summary": "Kazakhstan has recorded the largest student population and fastest enrolment growth at Hong Kong’s public universities among Centr..."
     },
     {
-      "title": "How can Hong Kong, Central Asia build momentum on growing ties and go beyond MOUs?",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366685/hong-kong-central-asia-push-deeper-economic-ties-beyond-finance?utm_source=rss_feed",
-      "date": "2026-09-07 15:38",
-      "summary": "About three months after Hong Kong Chief Executive John Lee Ka-chiu visited Central Asia, momentum is building for closer economic..."
+      "title": "Hong Kong aviation success today means more than just adding routes",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3366027/hong-kong-aviation-success-today-means-more-just-adding-routes?utm_source=rss_feed",
+      "date": "2026-09-08 01:30",
+      "summary": "When Cathay Pacific Airways announced direct flights to Almaty starting next January, the significance went beyond adding another ..."
     },
     {
-      "title": "Hong Kong restaurant prosecuted after live newborn rat found in takeaway lunchbox",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3366649/hong-kong-restaurant-prosecuted-over-live-newborn-rat-found-takeaway-lunchbox?utm_source=rss_feed",
-      "date": "2026-09-07 14:54",
-      "summary": "Hong Kong food safety authorities have prosecuted a restaurant after an investigation into claims that a newborn rat was found wri..."
+      "title": "AI, chip firms among bidders for flagship Northern Metropolis tech hub at border",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366667/ai-chip-firms-among-bidders-flagship-northern-metropolis-tech-hub-border?utm_source=rss_feed",
+      "date": "2026-09-08 00:30",
+      "summary": "Hong Kong’s flagship tech hub at the border with mainland China received bids from firms specialising in cutting-edge fields such ..."
     }
   ]
 }
