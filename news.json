@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "Injectable nanodevices could provide effective treatment for drug-resistant glioblastoma",
+      "link": "https://news.mit.edu/2026/injectable-nanodevices-could-provide-effective-treatment-drug-resistant-glioblastoma-0909",
+      "date": "2026-09-09 20:00",
+      "summary": "MIT researchers show implanted nanoantennas can be activated wirelessly to kill brain cancer cells without damage to healthy tissu..."
+    },
+    {
+      "title": "A burst of “pink noise” may lead to more restorative sleep",
+      "link": "https://news.mit.edu/2026/pink-noise-burst-may-mean-more-restorative-sleep-0909",
+      "date": "2026-09-09 18:00",
+      "summary": "Delivered at just the right time, this type of auditory stimulus can strengthen the flow of cerebrospinal fluid, which clears debr..."
+    },
+    {
       "title": "An electrochemical approach turns ammonia into pure hydrogen",
       "link": "https://news.mit.edu/2026/electrochemical-approach-turns-ammonia-into-pure-hydrogen-0909",
       "date": "2026-09-09 15:00",
@@ -17,18 +29,6 @@
       "link": "https://news.mit.edu/2026/researchers-tune-into-arctic-under-ice-sounds-test-through-ice-communication-0904",
       "date": "2026-09-04 16:25",
       "summary": "The work is part of a multiyear effort to develop a distributed sensor network for relaying data collected from this critical regi..."
-    },
-    {
-      "title": "New method allows scientists to follow gene activity over time in the same cells",
-      "link": "https://news.mit.edu/2026/new-method-allows-following-gene-activity-over-time-same-cells-0904",
-      "date": "2026-09-04 04:00",
-      "summary": "In the new method, cells package and export their RNA, enabling researchers to sequence and analyze the RNA without killing the ce..."
-    },
-    {
-      "title": "Fabrication platform could enable flexible, transparent next-generation photonic chips",
-      "link": "https://news.mit.edu/2026/fabrication-platform-could-enable-flexible-transparent-next-generation-photonic-chips-0903",
-      "date": "2026-09-03 15:45",
-      "summary": "This scalable process produces high-performance chips for applications like discreet wearables or pliable augmented-reality displa..."
     }
   ],
   "Harvard Gazette": [
@@ -65,37 +65,49 @@
   ],
   "Stanford News": [
     {
-      "title": "A bleeding-edge breakthrough for blood cancer patients - Stanford Medicine",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN2pVR0pSZFcxa3Y2RTFlSTZ1MlYwTXFudmp0WTloUnJfbk9iWG5kREhzbk9pTjhHZVRDM0xZWTlXM0l0NmxlRHM3eFZ5dzR2cHNfN3pnczhibG8tY2NiQjFacm4tN3BKZ25sTkVnNTNyN2NxMkVRZHlTT2ZNY0V3MGlhZk9VbHdMbmVDZDFaV3d4NFk3YTU1ZGJiajBlaUp3eHlvTmVB?oc=5",
-      "date": "2026-09-09 01:00",
-      "summary": "A bleeding-edge breakthrough for blood cancer patients  Stanford Medicine..."
-    },
-    {
-      "title": "VB Falls in Four at No. 4 Stanford - Marquette University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yRmRPR0hvNHlkZG9hVzIzNWhFRG1MM0UzdDEydnpTSUFrMExHLUNGQjl5UTExRXJUNlprVXdnb0JoOFhQWmdHbXpJMkl6QXZSRlNVcC1zRDlWeEw3N1JXYWdWUnhjSWFXMXp0d3FXX3Rnell5VEtzajdB?oc=5",
-      "date": "2026-09-06 22:45",
-      "summary": "VB Falls in Four at No. 4 Stanford  Marquette University Athletics..."
-    },
-    {
-      "title": "James Fearon to Co-Lead the Center for International Security and Cooperation - fsi.stanford.edu",
+      "title": "James Fearon to Co-Lead the Center for International Security and Cooperation - Freeman Spogli Institute for International Studies | FSI",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYzh0MWs3LW51SVJJTW45WFJRdzZFRURjTENkQVgzMGV4TjIzSHd3S1NxbTNSXzJBdmFlODVFQk16UWlrZnN3QlBJcF81NWVCZXRIQmE4R1hyWUM1OTRUVlJyalI3eTJ1dFk3ZVBNckFGMl9OenlLcVJMVTZqSjRISERtRVp2YUpFYWk4dFRKVUJiVXlZaW83ZFlZcWs?oc=5",
       "date": "2026-09-08 12:00",
-      "summary": "James Fearon to Co-Lead the Center for International Security and Cooperation  fsi.stanford.edu..."
+      "summary": "James Fearon to Co-Lead the Center for International Security and Cooperation  Freeman Spogli Institute for International Studies ..."
     },
     {
-      "title": "Six Strategies Could Scale Sustainable Growth in Southeast Asia - Shorenstein Asia-Pacific Research Center",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTTZrY1d6R3cyeEk5MVBGNGJ0R1lZSm9qXy1nZ0daSnVleEhKSS1zODVPSVZYekZHMV9qRm81MElxOEh0OHhDR25yRkdpLWhUcnJuNmdPS0JzTjg3Z3hmLXBNdUkyS19CYk1HaHR2eTRsOC1Pc2NiTy1MVmNtVGtzbWtHSllPVE16MEJzUkJnWmY5Y3VKVVlkMkJvLUg?oc=5",
-      "date": "2026-09-09 12:00",
-      "summary": "Six Strategies Could Scale Sustainable Growth in Southeast Asia  Shorenstein Asia-Pacific Research Center..."
+      "title": "Stanford pitches ambitious new plan for campus growth - Palo Alto Online",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFlIYU1OTTlxZmlMeE1Xd3Rqb3ZTcmJENEdJTHVwaUNNSkFYOEYzRDU4WjgxQ0p6b0dVSG5lVGFvbTNNdUs5MzBZeDRnS0QxcTF1ZmpxRFFvZkRmcVV6bG9EazdJYzJmSUIwUThUZDN6ZHdJMmp2dDU5bGVQTGFITnZrSThYQWVJM0RTQURVTG43RkNXRWFBclpkYmFnUjNCWUlZ?oc=5",
+      "date": "2026-09-09 19:02",
+      "summary": "Stanford pitches ambitious new plan for campus growth  Palo Alto Online..."
     },
     {
-      "title": "Stanford in the NFL: 2026 Season Preview - Stanford Cardinal",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUczZmdCQTJTS0lRV1lUQ1JaaHVMZV9LY3RWc3pGeXNQWDVKYnc3SUtuanR3aE9WMjBmT1M2M0lVNlJIMWxfalZyLVhJZVN3Y2xUQzVlaVFQOVhzOWtCeE9OQVpsU1FiUWswMDdKRUFsb2tQenphdzM3SzhhVktkb2otSQ?oc=5",
-      "date": "2026-09-09 16:57",
-      "summary": "Stanford in the NFL: 2026 Season Preview  Stanford Cardinal..."
+      "title": "Georgia State University Hires Stanford Atty As GC - Law360",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOGVjZUZYQTBMc21RSjNWcEFxQXk1MDA5SmRLV3JJUnJ6SE9DRzV2ODY4UG5TdzZmUjdGS1k2UlY5SDUxUThITlNSOHB1SFNXYnB0eEpUbWVMNVg4NTN4S2VwN3l6QWlDUjF3SU95b0p5ZlltUnpqcHpmZENRS1h0X1dWNl8wejlFbE5CWEhTOWVUeTB60gFeQVVfeXFMUHgxREhYemlZeDR2VWIwRmVwcnV4QmQ5eTI1eVhRTjd2V0REWFA2Q1VPTmpHUlJsR3NBREV0eG5jM1o5ZkhEdDhaajNSaDI3SkdnUU9aX2I1WGg3bUZUdw?oc=5",
+      "date": "2026-09-09 20:07",
+      "summary": "Georgia State University Hires Stanford Atty As GC  Law360..."
+    },
+    {
+      "title": "SCU Women’s Soccer Shut Out 4-0 by No. 1 Stanford - The Santa Clara",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdFh4RTl4X3lmcm5yOGtJdnB3Vk55UGROR0VRd1U0REFBUzBZNUhGdHVjdTludHhQLVpHOTlTMW4zQS1DZk1NNnBlMXFTcEJ5aEQybUpCQjNfVTR0dk9FV1N4UVptUVJCWmdaU2lXN0huVUFiaFhCZlBYc2U4d2dQckxvUWZKaUhsNVE?oc=5",
+      "date": "2026-09-09 18:23",
+      "summary": "SCU Women’s Soccer Shut Out 4-0 by No. 1 Stanford  The Santa Clara..."
+    },
+    {
+      "title": "A bleeding-edge breakthrough for blood cancer patients - med.stanford.edu",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN2pVR0pSZFcxa3Y2RTFlSTZ1MlYwTXFudmp0WTloUnJfbk9iWG5kREhzbk9pTjhHZVRDM0xZWTlXM0l0NmxlRHM3eFZ5dzR2cHNfN3pnczhibG8tY2NiQjFacm4tN3BKZ25sTkVnNTNyN2NxMkVRZHlTT2ZNY0V3MGlhZk9VbHdMbmVDZDFaV3d4NFk3YTU1ZGJiajBlaUp3eHlvTmVB?oc=5",
+      "date": "2026-09-09 01:00",
+      "summary": "A bleeding-edge breakthrough for blood cancer patients  med.stanford.edu..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
+      "link": "https://www.nature.com/articles/s41586-026-11118-x",
+      "date": "2026-09-09 00:00",
+      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11118-xHighly efficient base editing at PCSK9 and normal human..."
+    },
+    {
+      "title": "Phone tutoring boosts math scores when schools are forced to close",
+      "link": "https://www.nature.com/articles/d41586-026-02843-4",
+      "date": "2026-09-09 00:00",
+      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02843-4Evidence suggests that regular calls can keep kids lear..."
+    },
     {
       "title": "How AI is changing PhD programmes: join our free webinar",
       "link": "https://www.nature.com/articles/d41586-026-02751-7",
@@ -103,28 +115,16 @@
       "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02751-7Learn how artificial intelligence can hone your researc..."
     },
     {
-      "title": "In the basement of miniaturized relics",
-      "link": "https://www.nature.com/articles/d41586-026-02416-5",
+      "title": "Bacteria recruited to treat cancer",
+      "link": "https://www.nature.com/articles/d41586-026-02823-8",
       "date": "2026-09-09 00:00",
-      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02416-5Thinking small...."
+      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02823-8Anticancer drugs could be manufactured and delivered by..."
     },
     {
-      "title": "Why the super-fun Ig Nobel prizes bring serious value to science",
-      "link": "https://www.nature.com/articles/d41586-026-02793-x",
+      "title": "Breaking timescales with generative sampling of conformational transitions",
+      "link": "https://www.nature.com/articles/s41586-026-11025-1",
       "date": "2026-09-09 00:00",
-      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02793-xAwards that celebrate humour, curiosity and irreverence..."
-    },
-    {
-      "title": "Why we need an International Panel on Inequality",
-      "link": "https://www.nature.com/articles/d41586-026-02806-9",
-      "date": "2026-09-09 00:00",
-      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02806-9Disparities in income and wealth are growing. A scienti..."
-    },
-    {
-      "title": "The Einstein test: what happens when AI tries to rediscover relativity?",
-      "link": "https://www.nature.com/articles/d41586-026-02804-x",
-      "date": "2026-09-09 00:00",
-      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02804-xScientists are probing whether language models trained ..."
+      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11025-1A generative committor-guided path-sampling framework r..."
     }
   ],
   "Retraction Watch": [
@@ -161,27 +161,9 @@
   ],
   "Reuters AI": [
     {
-      "title": "Meta launches AI agent that can access other apps to send emails, make payments - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5",
-      "date": "2026-09-08 21:29",
-      "summary": "Meta launches AI agent that can access other apps to send emails, make payments  Reuters..."
-    },
-    {
-      "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5",
-      "date": "2026-09-08 17:47",
-      "summary": "US accuses Chinese AI firms of 'malicious' copying of AI technology  Reuters..."
-    },
-    {
-      "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
-      "date": "2026-09-04 22:02",
-      "summary": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring  Reuters..."
-    },
-    {
       "title": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
-      "date": "2026-09-09 17:05",
+      "date": "2026-09-09 18:42",
       "summary": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say  Reuters..."
     },
     {
@@ -189,15 +171,27 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
       "date": "2026-09-09 15:03",
       "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland  Reuters..."
+    },
+    {
+      "title": "Meta launches AI agent that can access other apps to send emails, make payments - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5",
+      "date": "2026-09-08 21:29",
+      "summary": "Meta launches AI agent that can access other apps to send emails, make payments  Reuters..."
+    },
+    {
+      "title": "OpenAI says working with Samsung on next-generation chips, deepening cooperation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY2o2VUItNFg5QW81Z1pGUDRZejdleV9jLXpNTTRFWWd6aHVrRkEzYk04dHIwUU1DcXNBc2pGQ2hFU01UNUtkZVBseGd1RE9SdGotVkxnLWZoYk9BQ2owaHZKZ1NNQTEtUDdaSzMtZXFMcnB2RXNtbjBEMXhwUGJhQXgtNmZLTHNnODdPTVNYZ3c1ZXZJclUzOWJBTkZuaVREVWN3a2Z0TUh5MjY4MmFsTWMyWEdIVWF6LXNWQVpELXR1SXFucUNhQ3Nzbw?oc=5",
+      "date": "2026-09-09 07:08",
+      "summary": "OpenAI says working with Samsung on next-generation chips, deepening cooperation  Reuters..."
+    },
+    {
+      "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5",
+      "date": "2026-09-08 17:47",
+      "summary": "US accuses Chinese AI firms of 'malicious' copying of AI technology  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "What OpenAI’s latest controversy tells us about the future of math - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0pZdWxBQ1MxaXZsczAwUkVmd19Ed2hwZ19vQVBkR0V2WHVyb3VvN1Rfd2thOUZPTnpUcloxQUdlTjdFYzN2WjM0WmN6OTZsYWhkTnE2bFp6cGJjWFNKUzNUdDBSQTBkMnN0aDBYRjNPZjIyM0NPYUU2Wlo5dVYxUWJxMy1LNGxHeEJURERaV3VoN1VFQUVGd3RPVHRwa3NCb3o5VnhuekliMjlBV2tPWkN5eHQwaXN0TnfSAb8BQVVfeXFMTTVVWjROOWZXVEFvRjdvalMzc2JPbHRBOWxZUHM1NUhBQ0FGTTdGSFVJY0JCZGU5RF9zOEJMYUdyZ1Q0UzlkX2dCdy1qdUpDZnVEMU5VU2g4MjB5LTZlZWMxSDQ2em1LRXFXeExDb1llMXVZUTRDQ2t1MUdJZm9JaXItOFFEdGd3VUdUdGttZ1VhZllXN0hWM29heHdRUF8yTEtabktzRUpDTC1ETU4tellSSjhnMEt1VkdLNkUyQWc?oc=5",
-      "date": "2026-09-09 03:10",
-      "summary": "What OpenAI’s latest controversy tells us about the future of math  MIT Technology Review..."
-    },
     {
       "title": "Batteries just broke another record in the US - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43cXVUUXVDZWExZm1XcnJvcDRkQV9ueTdpdGNmZjdEYkdxNktEMlRoVGRqWWZwcmhpTGJoazZPblNpWWd1SFkyNFFXTFVFNmtoMkI2VFgwU19RR0VUeS1GUjdhZnNfZ2ZLYmhEZWJwSUtGTDNHRDBlc0VrcTTSAYIBQVVfeXFMT2trMFAwdG1sMmFYdXhLbTBGbkZmZEZnVHBuQzlVem9zb25mNC1uTXYwYzBaMmFEOXJ4OXlxN2QydDlMZEZIRVFseTlKQXF0TXFEM0JGeTFFWEpfSEEteUE0Xzc4RmEwV1ptS3dycnJzcm5kVEg1UmM5Wlg2N283cFZnUQ?oc=5",
@@ -205,10 +199,16 @@
       "summary": "Batteries just broke another record in the US  MIT Technology Review..."
     },
     {
-      "title": "Understanding the thermal ceiling in portable power - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3lBM0x0eG9yVlVNVHB0WlFfZ25ONHQtR1N0MGZTZFZfSGhXa1o2NTNhZnF5dWNyUUh5aTRObmhLSkhNVHhZMWkxVW5NNUtnUkJJbnItS0stZEp0TzRoVllKXy1xbzlXY3lySmt4ZmhOYUt5X3hSUnZZTFV6TVlHU3NsMDBzZWk4RVZIRlBKZmYzOGY1czM3cGF3d1dheVlvRmZydFN5d9IBrAFBVV95cUxOR0ZQUEQtNzlMNjcyN2k4ekgzZjlzN1RnSVRMTllxSXhzLU9xTEZzeHI2WER4X2RyYXdCd1h2VzNwYVNuTXRyMkNJbmhKUWV5RDBMV2xQNDZPOS1PLVVod1FjNEdUQVByUF9kTW5pYnlHanlvVm96N2tUVDM2X3Etb0E2SWxjZzNhM1ZyUVZYNkNDVlluSGRFd19vMlV0NmZzejlXWjl1YjFic2pP?oc=5",
-      "date": "2026-09-09 08:18",
-      "summary": "Understanding the thermal ceiling in portable power  MIT Technology Review..."
+      "title": "What OpenAI’s latest controversy tells us about the future of math - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0pZdWxBQ1MxaXZsczAwUkVmd19Ed2hwZ19vQVBkR0V2WHVyb3VvN1Rfd2thOUZPTnpUcloxQUdlTjdFYzN2WjM0WmN6OTZsYWhkTnE2bFp6cGJjWFNKUzNUdDBSQTBkMnN0aDBYRjNPZjIyM0NPYUU2Wlo5dVYxUWJxMy1LNGxHeEJURERaV3VoN1VFQUVGd3RPVHRwa3NCb3o5VnhuekliMjlBV2tPWkN5eHQwaXN0TnfSAb8BQVVfeXFMTTVVWjROOWZXVEFvRjdvalMzc2JPbHRBOWxZUHM1NUhBQ0FGTTdGSFVJY0JCZGU5RF9zOEJMYUdyZ1Q0UzlkX2dCdy1qdUpDZnVEMU5VU2g4MjB5LTZlZWMxSDQ2em1LRXFXeExDb1llMXVZUTRDQ2t1MUdJZm9JaXItOFFEdGd3VUdUdGttZ1VhZllXN0hWM29heHdRUF8yTEtabktzRUpDTC1ETU4tellSSjhnMEt1VkdLNkUyQWc?oc=5",
+      "date": "2026-09-09 03:10",
+      "summary": "What OpenAI’s latest controversy tells us about the future of math  MIT Technology Review..."
+    },
+    {
+      "title": "MIT Technology Review brings the future of technology into focus at EmTech Future 2026 - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQVlYeWUzVkZjSUZxM3p5Skt4TVN6bC10bW1LNmxWZWRFQXRKTW5QNW8xdGJ0NDR3OERDbHJHNGRPdXZzTHZXeWpNaFNMWFFNOUEycVV4SUdsM2h0eGtDVWpFbHhidWlzMUZ3Y09nMEZiOUliVTZfbmd2QlppWnNpeTVuU1ZKXzl6TU4tdWRiVG5iN28wVVYxbGtvczBDVWNsVjN6cXR2Nmg3WTRYcldkX1o4eXlnVmU1UGlxUUlVcU1wT29hTXlVX09NQ3lUZG5qZVZ0ajN1anNzdw?oc=5",
+      "date": "2026-09-09 14:23",
+      "summary": "MIT Technology Review brings the future of technology into focus at EmTech Future 2026  PR Newswire..."
     },
     {
       "title": "The Download: OpenAI’s turning point for math and a battery record - MIT Technology Review",
@@ -217,42 +217,42 @@
       "summary": "The Download: OpenAI’s turning point for math and a battery record  MIT Technology Review..."
     },
     {
-      "title": "MIT Technology Review brings the future of technology into focus at EmTech Future 2026 - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQkRMVzRMNFM0czZJdk1jMVFBMVNmWXJ5WTlVQTZ5NmthT3o4RXdfc2czalpTNThRR0NYNktMemxFeU9rQUNTT0FaQVB2RWlqdWY0SjE2Z1NBSXhHcmZQTVFxVGpGanc0MGNIb1g0UkF1aV9KV3BuZWdZZk1kNG5qUy02YU5DSE0tVUVQbQ?oc=5",
-      "date": "2026-09-09 14:23",
-      "summary": "MIT Technology Review brings the future of technology into focus at EmTech Future 2026  Yahoo Finance Singapore..."
+      "title": "Understanding the thermal ceiling in portable power - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3lBM0x0eG9yVlVNVHB0WlFfZ25ONHQtR1N0MGZTZFZfSGhXa1o2NTNhZnF5dWNyUUh5aTRObmhLSkhNVHhZMWkxVW5NNUtnUkJJbnItS0stZEp0TzRoVllKXy1xbzlXY3lySmt4ZmhOYUt5X3hSUnZZTFV6TVlHU3NsMDBzZWk4RVZIRlBKZmYzOGY1czM3cGF3d1dheVlvRmZydFN5d9IBrAFBVV95cUxOR0ZQUEQtNzlMNjcyN2k4ekgzZjlzN1RnSVRMTllxSXhzLU9xTEZzeHI2WER4X2RyYXdCd1h2VzNwYVNuTXRyMkNJbmhKUWV5RDBMV2xQNDZPOS1PLVVod1FjNEdUQVByUF9kTW5pYnlHanlvVm96N2tUVDM2X3Etb0E2SWxjZzNhM1ZyUVZYNkNDVlluSGRFd19vMlV0NmZzejlXWjl1YjFic2pP?oc=5",
+      "date": "2026-09-09 08:18",
+      "summary": "Understanding the thermal ceiling in portable power  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Survey shows public confidence in Fauci declines since spring but still exceeds RFK Jr.",
-      "link": "https://phys.org/news/2026-09-survey-confidence-fauci-declines-exceeds.html",
-      "date": "2026-09-09 17:20",
-      "summary": "Americans' confidence in Dr. Anthony Fauci as a source of trustworthy public health information declined over the four months from..."
+      "title": "How 'positive' stress could improve the welfare of zoo animals",
+      "link": "https://phys.org/news/2026-09-positive-stress-welfare-zoo-animals.html",
+      "date": "2026-09-09 20:20",
+      "summary": "Pelicans have resided in St James's Park, London, for 360 years. But the current flock has been a summer sensation because of the ..."
     },
     {
-      "title": "The Anthropocene was rejected as a geological epoch—but the idea is still changing how we see the world",
-      "link": "https://phys.org/news/2026-09-anthropocene-geological-epoch-idea-world.html",
-      "date": "2026-09-09 17:20",
-      "summary": "The Anthropocene became part of the zeitgeist after Nobel laureate Paul Crutzen launched the idea in 2000. This is the notion that..."
+      "title": "Fossil ribs reveal new secrets about ichthyosaur swimming technique",
+      "link": "https://phys.org/news/2026-09-fossil-ribs-reveal-secrets-ichthyosaur.html",
+      "date": "2026-09-09 20:20",
+      "summary": "Ichthyosaurs ruled the oceans for 150 million years during the Mesozoic Era. Their fish-shaped bodies were built for high speeds. ..."
     },
     {
-      "title": "The surprising place where giant dinosaurs incubated their eggs",
-      "link": "https://phys.org/news/2026-09-giant-dinosaurs-incubated-eggs.html",
-      "date": "2026-09-09 17:10",
-      "summary": "Finding a fossilized dinosaur egg is exceptionally rare, but finding a stash of more than 250 shell fragments in the chilly southe..."
+      "title": "Electrochemical system extracts pure hydrogen from ammonia at substantially lower temperatures",
+      "link": "https://phys.org/news/2026-09-electrochemical-pure-hydrogen-ammonia-substantially.html",
+      "date": "2026-09-09 20:00",
+      "summary": "As a liquid that is easily stored and transported, ammonia (NH3) is an attractive carrier for hydrogen, which is used in fuel cell..."
     },
     {
-      "title": "Canada's last epishelf lake is gone for good, study confirms",
-      "link": "https://phys.org/news/2026-09-canada-epishelf-lake-good.html",
-      "date": "2026-09-09 17:00",
-      "summary": "Canada's last epishelf lake drained into the Arctic Ocean following the 2020 breakup of the Milne Ice Shelf and will not recover, ..."
+      "title": "Having compassion for oneself is linked to well-being, study finds",
+      "link": "https://phys.org/news/2026-09-compassion-oneself-linked.html",
+      "date": "2026-09-09 20:00",
+      "summary": "Caring for others without caring for oneself is associated with lower levels of well-being and may not be sustainable, a new study..."
     },
     {
-      "title": "When benefit corporations get certified, is it 'greenwashing' in stereo?",
-      "link": "https://phys.org/news/2026-09-benefit-corporations-certified-greenwashing-stereo.html",
-      "date": "2026-09-09 17:00",
-      "summary": "The term \"benefit corporation\" is becoming increasingly familiar as a label for companies with a hybrid commitment to the social g..."
+      "title": "'Alarm bells ringing': US summer heat shatters record",
+      "link": "https://phys.org/news/2026-09-alarm-bells-summer-shatters.html",
+      "date": "2026-09-09 20:00",
+      "summary": "The contiguous United States has endured its hottest summer on record, a new peak that scientists said should send alarm bells rin..."
     }
   ],
   "The Guardian Edu": [
