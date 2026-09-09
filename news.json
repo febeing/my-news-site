@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "An electrochemical approach turns ammonia into pure hydrogen",
+      "link": "https://news.mit.edu/2026/electrochemical-approach-turns-ammonia-into-pure-hydrogen-0909",
+      "date": "2026-09-09 15:00",
+      "summary": "An MIT team has demonstrated a more efficient way to extract pure hydrogen gas from hydrogen carrier molecules...."
+    },
+    {
       "title": "Study predicts large disparities in access to food, water, and energy in 2050",
       "link": "https://news.mit.edu/2026/study-predicts-large-disparities-access-food-water-energy-2050-0908",
       "date": "2026-09-08 04:00",
@@ -23,44 +29,102 @@
       "link": "https://news.mit.edu/2026/fabrication-platform-could-enable-flexible-transparent-next-generation-photonic-chips-0903",
       "date": "2026-09-03 15:45",
       "summary": "This scalable process produces high-performance chips for applications like discreet wearables or pliable augmented-reality displa..."
+    }
+  ],
+  "Harvard Gazette": [
+    {
+      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
+      "date": "2026-06-03 07:00",
+      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
-      "title": "New qubit architecture enables faster, more accurate operations",
-      "link": "https://news.mit.edu/2026/new-qubit-architecture-enables-faster-more-accurate-operations-0903",
-      "date": "2026-09-03 04:00",
-      "summary": "This advance could be a big step toward developing a scalable, practical quantum computer...."
+      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
+      "date": "2026-05-12 07:00",
+      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+    },
+    {
+      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
+      "date": "2026-07-28 07:00",
+      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
+    },
+    {
+      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+    },
+    {
+      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
+      "date": "2026-07-10 07:00",
+      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
+    }
+  ],
+  "Stanford News": [
+    {
+      "title": "A bleeding-edge breakthrough for blood cancer patients - Stanford Medicine",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN2pVR0pSZFcxa3Y2RTFlSTZ1MlYwTXFudmp0WTloUnJfbk9iWG5kREhzbk9pTjhHZVRDM0xZWTlXM0l0NmxlRHM3eFZ5dzR2cHNfN3pnczhibG8tY2NiQjFacm4tN3BKZ25sTkVnNTNyN2NxMkVRZHlTT2ZNY0V3MGlhZk9VbHdMbmVDZDFaV3d4NFk3YTU1ZGJiajBlaUp3eHlvTmVB?oc=5",
+      "date": "2026-09-09 01:00",
+      "summary": "A bleeding-edge breakthrough for blood cancer patients  Stanford Medicine..."
+    },
+    {
+      "title": "VB Falls in Four at No. 4 Stanford - Marquette University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yRmRPR0hvNHlkZG9hVzIzNWhFRG1MM0UzdDEydnpTSUFrMExHLUNGQjl5UTExRXJUNlprVXdnb0JoOFhQWmdHbXpJMkl6QXZSRlNVcC1zRDlWeEw3N1JXYWdWUnhjSWFXMXp0d3FXX3Rnell5VEtzajdB?oc=5",
+      "date": "2026-09-06 22:45",
+      "summary": "VB Falls in Four at No. 4 Stanford  Marquette University Athletics..."
+    },
+    {
+      "title": "James Fearon to Co-Lead the Center for International Security and Cooperation - fsi.stanford.edu",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYzh0MWs3LW51SVJJTW45WFJRdzZFRURjTENkQVgzMGV4TjIzSHd3S1NxbTNSXzJBdmFlODVFQk16UWlrZnN3QlBJcF81NWVCZXRIQmE4R1hyWUM1OTRUVlJyalI3eTJ1dFk3ZVBNckFGMl9OenlLcVJMVTZqSjRISERtRVp2YUpFYWk4dFRKVUJiVXlZaW83ZFlZcWs?oc=5",
+      "date": "2026-09-08 12:00",
+      "summary": "James Fearon to Co-Lead the Center for International Security and Cooperation  fsi.stanford.edu..."
+    },
+    {
+      "title": "Six Strategies Could Scale Sustainable Growth in Southeast Asia - Shorenstein Asia-Pacific Research Center",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTTZrY1d6R3cyeEk5MVBGNGJ0R1lZSm9qXy1nZ0daSnVleEhKSS1zODVPSVZYekZHMV9qRm81MElxOEh0OHhDR25yRkdpLWhUcnJuNmdPS0JzTjg3Z3hmLXBNdUkyS19CYk1HaHR2eTRsOC1Pc2NiTy1MVmNtVGtzbWtHSllPVE16MEJzUkJnWmY5Y3VKVVlkMkJvLUg?oc=5",
+      "date": "2026-09-09 12:00",
+      "summary": "Six Strategies Could Scale Sustainable Growth in Southeast Asia  Shorenstein Asia-Pacific Research Center..."
+    },
+    {
+      "title": "Stanford in the NFL: 2026 Season Preview - Stanford Cardinal",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUczZmdCQTJTS0lRV1lUQ1JaaHVMZV9LY3RWc3pGeXNQWDVKYnc3SUtuanR3aE9WMjBmT1M2M0lVNlJIMWxfalZyLVhJZVN3Y2xUQzVlaVFQOVhzOWtCeE9OQVpsU1FiUWswMDdKRUFsb2tQenphdzM3SzhhVktkb2otSQ?oc=5",
+      "date": "2026-09-09 16:57",
+      "summary": "Stanford in the NFL: 2026 Season Preview  Stanford Cardinal..."
     }
   ],
   "Nature Careers": [
     {
-      "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
-      "link": "https://www.nature.com/articles/s41586-026-11081-7",
-      "date": "2026-09-08 00:00",
-      "summary": "Nature, Published online: 08 September 2026; doi:10.1038/s41586-026-11081-7Author Correction: Contrasting roles of histone 3 lysin..."
+      "title": "How AI is changing PhD programmes: join our free webinar",
+      "link": "https://www.nature.com/articles/d41586-026-02751-7",
+      "date": "2026-09-09 00:00",
+      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02751-7Learn how artificial intelligence can hone your researc..."
     },
     {
-      "title": "Put patients at the centre of medical AI governance",
-      "link": "https://www.nature.com/articles/d41586-026-02796-8",
-      "date": "2026-09-08 00:00",
-      "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02796-8Put patients at the centre of medical AI governance..."
+      "title": "In the basement of miniaturized relics",
+      "link": "https://www.nature.com/articles/d41586-026-02416-5",
+      "date": "2026-09-09 00:00",
+      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02416-5Thinking small...."
     },
     {
-      "title": "Nepal disaster is a wake-up call to take compound climate risks seriously",
-      "link": "https://www.nature.com/articles/d41586-026-02794-w",
-      "date": "2026-09-08 00:00",
-      "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02794-wNepal disaster is a wake-up call to take compound clima..."
+      "title": "Why the super-fun Ig Nobel prizes bring serious value to science",
+      "link": "https://www.nature.com/articles/d41586-026-02793-x",
+      "date": "2026-09-09 00:00",
+      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02793-xAwards that celebrate humour, curiosity and irreverence..."
     },
     {
-      "title": "Sideline vested interests to reform China’s research",
-      "link": "https://www.nature.com/articles/d41586-026-02797-7",
-      "date": "2026-09-08 00:00",
-      "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02797-7Sideline vested interests to reform China’s research..."
+      "title": "Why we need an International Panel on Inequality",
+      "link": "https://www.nature.com/articles/d41586-026-02806-9",
+      "date": "2026-09-09 00:00",
+      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02806-9Disparities in income and wealth are growing. A scienti..."
     },
     {
-      "title": "Limit bets on clinical-trial outcomes being placed on prediction markets",
-      "link": "https://www.nature.com/articles/d41586-026-02795-9",
-      "date": "2026-09-08 00:00",
-      "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02795-9Limit bets on clinical-trial outcomes being placed on p..."
+      "title": "The Einstein test: what happens when AI tries to rediscover relativity?",
+      "link": "https://www.nature.com/articles/d41586-026-02804-x",
+      "date": "2026-09-09 00:00",
+      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02804-xScientists are probing whether language models trained ..."
     }
   ],
   "Retraction Watch": [
@@ -95,36 +159,100 @@
       "summary": "Nature has retracted a paper on the atmosphere’s role in the severity of droughts around the world after the authors discovered th..."
     }
   ],
+  "Reuters AI": [
+    {
+      "title": "Meta launches AI agent that can access other apps to send emails, make payments - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5",
+      "date": "2026-09-08 21:29",
+      "summary": "Meta launches AI agent that can access other apps to send emails, make payments  Reuters..."
+    },
+    {
+      "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5",
+      "date": "2026-09-08 17:47",
+      "summary": "US accuses Chinese AI firms of 'malicious' copying of AI technology  Reuters..."
+    },
+    {
+      "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
+      "date": "2026-09-04 22:02",
+      "summary": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring  Reuters..."
+    },
+    {
+      "title": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
+      "date": "2026-09-09 17:05",
+      "summary": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say  Reuters..."
+    },
+    {
+      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
+      "date": "2026-09-09 15:03",
+      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland  Reuters..."
+    }
+  ],
+  "MIT Tech Review": [
+    {
+      "title": "What OpenAI’s latest controversy tells us about the future of math - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0pZdWxBQ1MxaXZsczAwUkVmd19Ed2hwZ19vQVBkR0V2WHVyb3VvN1Rfd2thOUZPTnpUcloxQUdlTjdFYzN2WjM0WmN6OTZsYWhkTnE2bFp6cGJjWFNKUzNUdDBSQTBkMnN0aDBYRjNPZjIyM0NPYUU2Wlo5dVYxUWJxMy1LNGxHeEJURERaV3VoN1VFQUVGd3RPVHRwa3NCb3o5VnhuekliMjlBV2tPWkN5eHQwaXN0TnfSAb8BQVVfeXFMTTVVWjROOWZXVEFvRjdvalMzc2JPbHRBOWxZUHM1NUhBQ0FGTTdGSFVJY0JCZGU5RF9zOEJMYUdyZ1Q0UzlkX2dCdy1qdUpDZnVEMU5VU2g4MjB5LTZlZWMxSDQ2em1LRXFXeExDb1llMXVZUTRDQ2t1MUdJZm9JaXItOFFEdGd3VUdUdGttZ1VhZllXN0hWM29heHdRUF8yTEtabktzRUpDTC1ETU4tellSSjhnMEt1VkdLNkUyQWc?oc=5",
+      "date": "2026-09-09 03:10",
+      "summary": "What OpenAI’s latest controversy tells us about the future of math  MIT Technology Review..."
+    },
+    {
+      "title": "Batteries just broke another record in the US - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43cXVUUXVDZWExZm1XcnJvcDRkQV9ueTdpdGNmZjdEYkdxNktEMlRoVGRqWWZwcmhpTGJoazZPblNpWWd1SFkyNFFXTFVFNmtoMkI2VFgwU19RR0VUeS1GUjdhZnNfZ2ZLYmhEZWJwSUtGTDNHRDBlc0VrcTTSAYIBQVVfeXFMT2trMFAwdG1sMmFYdXhLbTBGbkZmZEZnVHBuQzlVem9zb25mNC1uTXYwYzBaMmFEOXJ4OXlxN2QydDlMZEZIRVFseTlKQXF0TXFEM0JGeTFFWEpfSEEteUE0Xzc4RmEwV1ptS3dycnJzcm5kVEg1UmM5Wlg2N283cFZnUQ?oc=5",
+      "date": "2026-09-09 09:00",
+      "summary": "Batteries just broke another record in the US  MIT Technology Review..."
+    },
+    {
+      "title": "Understanding the thermal ceiling in portable power - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3lBM0x0eG9yVlVNVHB0WlFfZ25ONHQtR1N0MGZTZFZfSGhXa1o2NTNhZnF5dWNyUUh5aTRObmhLSkhNVHhZMWkxVW5NNUtnUkJJbnItS0stZEp0TzRoVllKXy1xbzlXY3lySmt4ZmhOYUt5X3hSUnZZTFV6TVlHU3NsMDBzZWk4RVZIRlBKZmYzOGY1czM3cGF3d1dheVlvRmZydFN5d9IBrAFBVV95cUxOR0ZQUEQtNzlMNjcyN2k4ekgzZjlzN1RnSVRMTllxSXhzLU9xTEZzeHI2WER4X2RyYXdCd1h2VzNwYVNuTXRyMkNJbmhKUWV5RDBMV2xQNDZPOS1PLVVod1FjNEdUQVByUF9kTW5pYnlHanlvVm96N2tUVDM2X3Etb0E2SWxjZzNhM1ZyUVZYNkNDVlluSGRFd19vMlV0NmZzejlXWjl1YjFic2pP?oc=5",
+      "date": "2026-09-09 08:18",
+      "summary": "Understanding the thermal ceiling in portable power  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: OpenAI’s turning point for math and a battery record - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWJBT1NhaDRiZ1ZlV2pabTRjaGpfTXhHSlhYRUpkaHd4bFBGamhNYi1jQ1k5Zm05ZFd5eU9IVlJDbnU1QjQ3QVJ4NTFhd3BKM0Fqc2U2NFJZZE9HeXpUZWhwSzc1SWp2ZnNNQ2doSlZnRnp2U1Y4QUF0WGxFNzZadk0ybTRnX1ppeEJHSUhLVm5VYkNLM3AwdHcwbS1EN3VK0gGmAUFVX3lxTFAzVng3UDBaUEpSYm1HVFdPU1ctdHVmSWk3dWkzM09xQ1Z0emFtSWxjaHowRG1mNk9laFNjd0MxTGl3NmxHSE1fTFhOUkdPVlBLY3U0ZUlyVWU1c0xDQ1VKV05Qd3p6SEFFZDZ2SlZvajlHVVd0dE1XU3NvT29oVkFYaWhQenEzb3RKYjlGOVJfNWU3bVkzR1ZrVndVRHlEVUFNaVJscHc?oc=5",
+      "date": "2026-09-09 12:10",
+      "summary": "The Download: OpenAI’s turning point for math and a battery record  MIT Technology Review..."
+    },
+    {
+      "title": "MIT Technology Review brings the future of technology into focus at EmTech Future 2026 - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQkRMVzRMNFM0czZJdk1jMVFBMVNmWXJ5WTlVQTZ5NmthT3o4RXdfc2czalpTNThRR0NYNktMemxFeU9rQUNTT0FaQVB2RWlqdWY0SjE2Z1NBSXhHcmZQTVFxVGpGanc0MGNIb1g0UkF1aV9KV3BuZWdZZk1kNG5qUy02YU5DSE0tVUVQbQ?oc=5",
+      "date": "2026-09-09 14:23",
+      "summary": "MIT Technology Review brings the future of technology into focus at EmTech Future 2026  Yahoo Finance Singapore..."
+    }
+  ],
   "Phys.org": [
     {
-      "title": "Study into career shocks finds what doesn't break expats makes them stronger",
-      "link": "https://phys.org/news/2026-09-career-doesnt-expats-stronger.html",
-      "date": "2026-09-09 13:20",
-      "summary": "New research challenges the idea that career shocks are bad news for expatriate workers, finding that major personal, professional..."
+      "title": "Survey shows public confidence in Fauci declines since spring but still exceeds RFK Jr.",
+      "link": "https://phys.org/news/2026-09-survey-confidence-fauci-declines-exceeds.html",
+      "date": "2026-09-09 17:20",
+      "summary": "Americans' confidence in Dr. Anthony Fauci as a source of trustworthy public health information declined over the four months from..."
     },
     {
-      "title": "Biologists find a hidden weak spot in how bacteria build the tails they use to move",
-      "link": "https://phys.org/news/2026-09-biologists-hidden-weak-bacteria-tails.html",
-      "date": "2026-09-09 13:20",
-      "summary": "New research from Indiana University has uncovered a previously unknown vulnerability in how bacteria build the whip-like tails th..."
+      "title": "The Anthropocene was rejected as a geological epoch—but the idea is still changing how we see the world",
+      "link": "https://phys.org/news/2026-09-anthropocene-geological-epoch-idea-world.html",
+      "date": "2026-09-09 17:20",
+      "summary": "The Anthropocene became part of the zeitgeist after Nobel laureate Paul Crutzen launched the idea in 2000. This is the notion that..."
     },
     {
-      "title": "Pounding waves open up sinkhole in swanky Malibu",
-      "link": "https://phys.org/news/2026-09-pounding-sinkhole-swanky-malibu.html",
-      "date": "2026-09-09 13:00",
-      "summary": "Pounding surf lashing the swanky California enclave of Malibu on Tuesday opened a giant sinkhole in the driveway of a house report..."
+      "title": "The surprising place where giant dinosaurs incubated their eggs",
+      "link": "https://phys.org/news/2026-09-giant-dinosaurs-incubated-eggs.html",
+      "date": "2026-09-09 17:10",
+      "summary": "Finding a fossilized dinosaur egg is exceptionally rare, but finding a stash of more than 250 shell fragments in the chilly southe..."
     },
     {
-      "title": "Local microbes persist in wine despite commercial yeast",
-      "link": "https://phys.org/news/2026-09-local-microbes-persist-wine-commercial.html",
-      "date": "2026-09-09 13:00",
-      "summary": "A new study has demonstrated that regional microbial imprints can remain detectable under commercial winemaking conditions. The re..."
+      "title": "Canada's last epishelf lake is gone for good, study confirms",
+      "link": "https://phys.org/news/2026-09-canada-epishelf-lake-good.html",
+      "date": "2026-09-09 17:00",
+      "summary": "Canada's last epishelf lake drained into the Arctic Ocean following the 2020 breakup of the Milne Ice Shelf and will not recover, ..."
     },
     {
-      "title": "Taxing billionaires and redistributing wealth could save millions of lives amid global aid cuts",
-      "link": "https://phys.org/news/2026-09-taxing-billionaires-redistributing-wealth-millions.html",
-      "date": "2026-09-09 12:40",
-      "summary": "Wealth redistribution policies currently under discussion in international forums could avert between 6.6 million and 29.5 million..."
+      "title": "When benefit corporations get certified, is it 'greenwashing' in stereo?",
+      "link": "https://phys.org/news/2026-09-benefit-corporations-certified-greenwashing-stereo.html",
+      "date": "2026-09-09 17:00",
+      "summary": "The term \"benefit corporation\" is becoming increasingly familiar as a label for companies with a hybrid commitment to the social g..."
     }
   ],
   "The Guardian Edu": [
@@ -161,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Tributes flow in as Hong Kong mourns Tung Chee-hwa, pioneering first leader",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3366966/tributes-flow-hong-kong-mourns-tung-chee-hwa-pioneering-first-leader?utm_source=rss_feed",
+      "date": "2026-09-09 16:13",
+      "summary": "Hong Kong is mourning the death of Tung Chee-hwa, the city’s first leader after its return to Chinese sovereignty and a respected ..."
+    },
+    {
+      "title": "Tung Chee-hwa hailed as visionary leader who helped build US-China relations",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3366963/tung-chee-hwa-hailed-visionary-leader-who-helped-build-us-china-relations?utm_source=rss_feed",
+      "date": "2026-09-09 15:08",
+      "summary": "Hong Kong’s first chief executive, Tung Chee-hwa, who died on Tuesday, has been lauded as “one of the greatest movers in China-US ..."
+    },
+    {
+      "title": "Buildings Department files 259 charges over work at fire-ravaged Hong Kong estate",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366953/buildings-department-files-259-charges-over-work-fire-ravaged-hong-kong-estate?utm_source=rss_feed",
+      "date": "2026-09-09 13:31",
+      "summary": "Hong Kong’s Buildings Department has filed 259 charges against two companies and four individuals over repair works at the inferno..."
+    },
+    {
       "title": "Hong Kong Medical Council rejects proposal on time frame for handling complaints",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3366950/hong-kong-medical-council-rejects-proposal-time-frame-handling-complaints?utm_source=rss_feed",
       "date": "2026-09-09 12:40",
       "summary": "Hong Kong’s medical watchdog has said a target time frame for handling complaints will not be necessary as it presented its rebutt..."
     },
     {
-      "title": "‘His heart was always with Hong Kong’: tributes pour in for Tung Chee-hwa",
+      "title": "Tung Chee-hwa remembered as kind, approachable Hong Kong leader",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3366945/his-heart-was-always-hong-kong-tributes-pour-tung-chee-hwa?utm_source=rss_feed",
       "date": "2026-09-09 12:33",
       "summary": "Tung Chee-hwa, Hong Kong’s first leader following its return to Chinese sovereignty, has been remembered as a “kind-hearted man” w..."
-    },
-    {
-      "title": "Ex-Hong Kong leader Tung Chee-hwa worked to bridge US-China divide even in final years",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3366946/ex-hong-kong-leader-tung-chee-hwa-worked-bridge-us-china-divide-even-final-years?utm_source=rss_feed",
-      "date": "2026-09-09 12:30",
-      "summary": "Tung Chee-hwa, Hong Kong’s first chief executive who died on Tuesday at the age of 89, kept a low profile in the final years of hi..."
-    },
-    {
-      "title": "Hysan courts fintech office portfolio as ZA Bank commits to new Causeway Bay headquarters",
-      "link": "https://www.scmp.com/business/companies/article/3366941/hysan-courts-fintech-office-portfolio-za-bank-commits-new-causeway-bay-headquarters?utm_source=rss_feed",
-      "date": "2026-09-09 11:57",
-      "summary": "Digital bank ZA Bank is taking 45,000 square feet (4,181 square metres) across four upper floors at Hysan Development’s Lee Garden..."
-    },
-    {
-      "title": "Court acquits brother of incest, citing failure to prove teen knew it was wrong",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366938/court-acquits-brother-incest-citing-failure-prove-teen-knew-it-was-wrong?utm_source=rss_feed",
-      "date": "2026-09-09 11:22",
-      "summary": "A Hong Kong court has found a 24-year-old man not guilty of committing a spate of sexual offences against his younger sister a dec..."
     }
   ]
 }
