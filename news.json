@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford’s Asia-Pacific Research Center Invites Applications for 2027-2029 Postdoctoral and Visiting Fellowships - Shorenstein Asia-Pacific Research Center",
+      "title": "Stanford’s Asia-Pacific Research Center Invites Applications for 2027-2029 Postdoctoral and Visiting Fellowships - aparc.fsi.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnBzb3pLSUQ0WWhvUDljeFdGdXFvTXc4OW5sUlAwYV9yTWVvcDBEeUFuaml5QlVoaDJuenA1ZERJdnpab2gzMGFGX1F0Ymd0cFpvcjc0aU00VkhyZF9SY1hFdXEyaVJVR2NXWHdnUWtSel9Oa2VJLUk0bi1ra0dzNHR6VHhMaGVvWFhLdlE2VFN6Q1RiZEtZUkplX1Jnb0V1dDEwTzVSUmVNLWNaMmFCd3N4d2dzODZsdExlYjFRbw?oc=5",
       "date": "2026-09-09 12:00",
-      "summary": "Stanford’s Asia-Pacific Research Center Invites Applications for 2027-2029 Postdoctoral and Visiting Fellowships  Shorenstein Asia..."
+      "summary": "Stanford’s Asia-Pacific Research Center Invites Applications for 2027-2029 Postdoctoral and Visiting Fellowships  aparc.fsi.stanfo..."
     },
     {
       "title": "Stanford pitches ambitious new plan for campus growth - Palo Alto Online",
@@ -83,19 +83,25 @@
       "summary": "Stanford seeks permit to move forward with new developments – including affordable housing for students and staff  The Mercury New..."
     },
     {
-      "title": "Georgia State appoints new general counsel from Stanford University - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmdpNFNOV3JGSVRfQ0RUZGRRY0c4Y0NmSDk2andnT0trVGotczJYak1ieGtwN0FtbkRFQ0lJeHdfcW4yOFZCMXRSSVRyQUdDUHVYdklOSjNiUkU4YjVWX1BXTEppR3lVbG4xcDBDSEYxdldaWUdFamFOSk5wbGFFV214SHJzZTFGeDFNTHowWW5Jdw?oc=5",
-      "date": "2026-09-10 16:36",
-      "summary": "Georgia State appoints new general counsel from Stanford University  The Business Journals..."
-    },
-    {
       "title": "Stanford releases latest attempt to add to campus - Palo Alto Daily Post",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVEV1a3JDeEl4LVlsSHM5VmZtRE5OUzdCTDdNMEprRlpJVjRiUW8yckowSW5Sb05zSjh0NG54Zm1faGFGTzQzLWZYMzBOc0JuekNzOGdCbEdtOEpuMERRcUhUZFZRODZPVS1UY2lWaFloa2RjNUd6b1F2aE04YlNmc0xiWEdwZUs0UkRzbE9n?oc=5",
       "date": "2026-09-09 21:15",
       "summary": "Stanford releases latest attempt to add to campus  Palo Alto Daily Post..."
+    },
+    {
+      "title": "StanfordNext proposes more housing, expanded academic space in updated General Use Permit - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oYmhOOW54YkNCT1VXNHoySGFuMDFlRlVWWFRiak9Lb2txWXExOEtRYzZnVWdhTEF1VU45alNPM0Rka2FnOV9Lc1pLSUE4QjNnVlE1WUxPWkVDYVpQSi1saUNOSTJwdXNnaks4?oc=5",
+      "date": "2026-09-10 18:35",
+      "summary": "StanfordNext proposes more housing, expanded academic space in updated General Use Permit  The Stanford Daily..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
+      "link": "https://www.nature.com/articles/s41586-026-11079-1",
+      "date": "2026-09-10 00:00",
+      "summary": "Nature, Published online: 10 September 2026; doi:10.1038/s41586-026-11079-1Author Correction: The molecular basis of force selecti..."
+    },
     {
       "title": "Distant sensors announced a fearsome tsunami’s birth",
       "link": "https://www.nature.com/articles/d41586-026-02809-6",
@@ -119,15 +125,21 @@
       "link": "https://www.nature.com/articles/d41586-026-02843-4",
       "date": "2026-09-09 00:00",
       "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02843-4Evidence suggests that regular calls can keep kids lear..."
-    },
-    {
-      "title": "How AI is changing PhD programmes: join our free webinar",
-      "link": "https://www.nature.com/articles/d41586-026-02751-7",
-      "date": "2026-09-09 00:00",
-      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02751-7Learn how artificial intelligence can hone your researc..."
     }
   ],
   "Science News": [
+    {
+      "title": "What science problem should AI tackle next? A new ‘challenge atlas’ offers answers",
+      "link": "https://www.science.org/content/article/what-science-problem-should-ai-tackle-next-new-challenge-atlas-offers-answers",
+      "date": "2026-09-10 04:15",
+      "summary": "Four complex physics problems are now within AI’s reach, researchers say..."
+    },
+    {
+      "title": "Mind-altering drugs played key role in rise of Andean civilization",
+      "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "date": "2026-09-10 02:00",
+      "summary": "Hallucinogens and other psychoactive substances influenced everything from architecture to political power..."
+    },
     {
       "title": "Italian hunting bill will sideline science, critics say",
       "link": "https://www.science.org/content/article/italian-hunting-bill-will-sideline-science-critics-say",
@@ -145,18 +157,6 @@
       "link": "https://www.science.org/content/article/need-help-writing-paper-title-all-you-need-beatles",
       "date": "2026-09-09 02:00",
       "summary": "At least 3200 scientific publications refer to the Fab Four’s music—by far the most of any top-selling artist..."
-    },
-    {
-      "title": "Conference posters could garner a wider audience, thanks to a new online platform",
-      "link": "https://www.science.org/content/article/conference-posters-could-garner-wider-audience-thanks-new-online-platform",
-      "date": "2026-09-09 01:35",
-      "summary": "The staple format also warrants a deeper rethink, some researchers say..."
-    },
-    {
-      "title": "Denisovans were strong and agile hunters, fossil elbow and primitive tools suggest",
-      "link": "https://www.science.org/content/article/mysterious-human-relatives-were-strong-and-agile-fossil-elbow-and-primitive-tools",
-      "date": "2026-09-09 11:00",
-      "summary": "The first arm bone fragment from these mysterious human relatives was found near cutting instruments and animal remains in southwe..."
     }
   ],
   "Retraction Watch": [
@@ -193,34 +193,34 @@
   ],
   "Reuters AI": [
     {
-      "title": "Wipro's AI push frees capacity equivalent to 20,000 workers, CTO says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUZqYW42N1U0V0Nwcy0tclBNM0NETGhYRXdidmZmdWxxWWtlOHZKRUp6alpTSlZYWk1JaWt3ZGdQNkVEc2tQMGpUWnlHZXFTcVc3b2NxcHEyWTR2eVJPVmNieTBVbFhLdE5FWGRxVHlUbXdKdWtGRm9IN3pIZWJMUVFEcE1oMmsxeXowY0dKcV9GaGhRVDl4MTlVMDY1VWd4b3BmaHU1aXEtZHdBaEo5cA?oc=5",
-      "date": "2026-09-10 09:43",
-      "summary": "Wipro's AI push frees capacity equivalent to 20,000 workers, CTO says  Reuters..."
-    },
-    {
-      "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - Reuters",
+      "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
-      "date": "2026-09-10 15:45",
-      "summary": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings  Reuters..."
+      "date": "2026-09-10 19:48",
+      "summary": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings  reuters.com..."
     },
     {
-      "title": "In-house counsel group accuses rival of training AI on its materials - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlJDTVpGUjNQcWRSb3BKVy1aV2xYMUVJMG1kU2wtVy1IVnNLMzBpdmNTeExoNWpsLUtfc18wY2ZxYV9OUGczLWpiZjNuT2RuWXZsYlJ6Ukw4b09zSDZNb1hVNXl5OWVPVnlUd3gxNTFuOUphNlVBb3B3ME8zTXJMUG81UU4zLU5FampOT1RMMjBSZ080amxQTGZFSDByY0ZNMGZXU01ZbFFZTG1KSkZudG4yd2VGZw?oc=5",
-      "date": "2026-09-10 17:20",
-      "summary": "In-house counsel group accuses rival of training AI on its materials  Reuters..."
+      "title": "AI boom poses new financial stability risks, BIS head says - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDUzRnJ3dHpQaFN0aF9CVHRZbTExQ1h4UHg2OEFaQmxHeHZsdUwtN2piZzdPdk5oYUticEdmSEIyS0RYUlpKYUpRX3ptWFp6WGFNbGp2QXlVNjRIVFdvanlTWXdubklpcXZzUHNWQWxURlBrU3hpcTU0dVJ2M1NEUEpRU3FhUzhHa25XRklRbUo2LUVoVWlsV3dVcVY5SENFc29hd3JXRUZQZG1FbHEw?oc=5",
+      "date": "2026-09-10 05:53",
+      "summary": "AI boom poses new financial stability risks, BIS head says  reuters.com..."
     },
     {
-      "title": "AI chip startup Positron's valuation skyrockets in latest funding round - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUW9fTXlOZnlJUnNjOXJqOFI5NkxjQWhvSEE5X0dQY0NUN0UxZC1KMWFiNksyUUVZZlUwVTdVeXloWXZCTUh4YUQ5d3A3RG83b3JqbExjNmRIbHRZYjJvY3J2VmNLQ21neWRpT3pqcm5lM2tHQXVMd29HSVlXb0RhZkxiZkRtSGh3M2lNQ0JoMzN3amVIX1ZVY2cxYVY3Mk9ZQzdPb2t2ektEdGY3ZzZEOHp3?oc=5",
-      "date": "2026-09-10 15:47",
-      "summary": "AI chip startup Positron's valuation skyrockets in latest funding round  Reuters..."
+      "title": "Oracle's quarterly revenue beats estimates as AI boom drives cloud demand - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYzUyN0FuOGI1QWEwbUFheXRzLW1aTlZvVVBxWkRzSmpBZjhQQmRJMnlkenRiYldtT1VSRnh3c0FnYW9RaVY0ZGtJVmVIWGU0aW9saEV0TUdaWmNXUlhidUQ4SEY2VHpNVUJPVEpVYWFZc1dLUmJlbGZ6Q2pua1F0aVUyU2hMQU4wS0U3cUpJT0J1ckMydVVvMTRtU2VnTmg0VVNYNWRUcVNpd1lWVWRUNTVNRjBZYWs?oc=5",
+      "date": "2026-09-10 20:20",
+      "summary": "Oracle's quarterly revenue beats estimates as AI boom drives cloud demand  reuters.com..."
     },
     {
-      "title": "EXCLUSIVE: OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters",
+      "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUlpORllxa2oyR0lQcWRNaXQwTXd5LThFQTQ3bXFJdlQzUWRBZ2RYMjlmWm55R0gtd255dzltb2dEa3hlaHlJc0hNVG1GaWhkSDBXa3hRbVNiVkZ3XzZsbzY5ZE8wQ1pfR0w4TERlczNHbm5YaVI0QmN5TnJLWmVNRmsxMkxmcnFlTDg1QVdhSHJ0Vm5SUWsyWHFCU0JpdXNYcFhpWjBuQWVFTTZ2V1J1Ym82aExqdGJmVE9VNm5zR0xrUmtkSkNn?oc=5",
+      "date": "2026-09-10 21:01",
+      "summary": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models  reuters.com..."
+    },
+    {
+      "title": "EXCLUSIVE: OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
       "date": "2026-09-09 16:03",
-      "summary": "EXCLUSIVE: OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say  Reuters..."
+      "summary": "EXCLUSIVE: OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say  reuters.com..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Fear-based education around porn is failing young people, study suggests",
-      "link": "https://phys.org/news/2026-09-based-porn-young-people.html",
-      "date": "2026-09-10 18:00",
-      "summary": "England's approach to teaching young people about pornography may be doing more harm than good, according to new research from the..."
+      "title": "'CRISPR-Combo' system speeds regeneration of hard-to-breed perennial crops",
+      "link": "https://phys.org/news/2026-09-crispr-combo-regeneration-hard-perennial.html",
+      "date": "2026-09-10 21:20",
+      "summary": "Editing a plant's genes is only half the battle. Before a new, improved trait can ever reach a farmer's field, scientists must be ..."
     },
     {
-      "title": "New pulse-train method aims to improve precision in quantum control",
-      "link": "https://phys.org/news/2026-09-pulse-method-aims-precision-quantum.html",
-      "date": "2026-09-10 18:00",
-      "summary": "Quantum technologies are poised to transform fields ranging from medicine and sensing to computing and communications by manipulat..."
+      "title": "Portland report maps complex journeys through homelessness",
+      "link": "https://phys.org/news/2026-09-portland-complex-journeys-homelessness.html",
+      "date": "2026-09-10 21:20",
+      "summary": "A new report from Portland State University's Homelessness Research and Action Collaborative (HRAC) and the OHSU-PSU School of Pub..."
     },
     {
-      "title": "1,000 times faster operations bring reliable quantum computing a step closer",
-      "link": "https://phys.org/news/2026-09-faster-reliable-quantum-closer.html",
-      "date": "2026-09-10 17:40",
-      "summary": "So far, quantum computers have been held back by their extreme sensitivity to errors and external disturbances. The longer a quant..."
+      "title": "New genomic tool for clams boosts sustainable aquaculture",
+      "link": "https://phys.org/news/2026-09-genomic-tool-clams-boosts-sustainable.html",
+      "date": "2026-09-10 21:00",
+      "summary": "An international team of researchers, including CIIMAR, has developed a new tool that could help produce clams that are more resis..."
     },
     {
-      "title": "Dead or alive, plankton support marine ecosystems",
-      "link": "https://phys.org/news/2026-09-dead-alive-plankton-marine-ecosystems.html",
-      "date": "2026-09-10 17:40",
-      "summary": "As tiny as they are, marine plankton play pivotal roles in biogeochemical cycles and sustaining aquatic ecosystems, producing arou..."
+      "title": "Global study reveals hidden nutritional value of shellfish and other aquatic invertebrates",
+      "link": "https://phys.org/news/2026-09-global-reveals-hidden-nutritional-shellfish.html",
+      "date": "2026-09-10 21:00",
+      "summary": "The nutritional value of aquatic invertebrates such as oysters, mussels and crabs has been significantly overlooked, according to ..."
     },
     {
-      "title": "Rewetting peatlands may curb warming-driven CO₂ emissions",
-      "link": "https://phys.org/news/2026-09-rewetting-peatlands-curb-driven-emissions.html",
-      "date": "2026-09-10 17:20",
-      "summary": "Peatlands store large amounts of carbon. However, when they are drained, they can become substantial sources of the greenhouse gas..."
+      "title": "Unveiling how nanoparticles create iridescence in ancient ceramics",
+      "link": "https://phys.org/news/2026-09-unveiling-nanoparticles-iridescence-ancient-ceramics.html",
+      "date": "2026-09-10 20:50",
+      "summary": "Scientists led by the Universitat Politècnica de Barcelona and the ESRF, the European Synchrotron, have revealed the chemical reac..."
     }
   ],
   "The Guardian Edu": [
