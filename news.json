@@ -39,12 +39,6 @@
       "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
-      "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
-    },
-    {
       "title": "How AI may change public policy, how we lead - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
       "date": "2026-07-28 07:00",
@@ -57,10 +51,16 @@
       "summary": "AI use surging for mental health help among young people  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
+      "date": "2026-05-12 07:00",
+      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+    },
+    {
+      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
+      "date": "2026-07-10 07:00",
+      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -89,13 +89,19 @@
       "summary": "Stanford releases latest attempt to add to campus  Palo Alto Daily Post..."
     },
     {
-      "title": "James Fearon to Co-Lead the Center for International Security and Cooperation - Freeman Spogli Institute for International Studies | FSI",
+      "title": "James Fearon to Co-Lead the Center for International Security and Cooperation - Freeman Spogli Institute for International Studies",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYzh0MWs3LW51SVJJTW45WFJRdzZFRURjTENkQVgzMGV4TjIzSHd3S1NxbTNSXzJBdmFlODVFQk16UWlrZnN3QlBJcF81NWVCZXRIQmE4R1hyWUM1OTRUVlJyalI3eTJ1dFk3ZVBNckFGMl9OenlLcVJMVTZqSjRISERtRVp2YUpFYWk4dFRKVUJiVXlZaW83ZFlZcWs?oc=5",
       "date": "2026-09-08 12:00",
-      "summary": "James Fearon to Co-Lead the Center for International Security and Cooperation  Freeman Spogli Institute for International Studies ..."
+      "summary": "James Fearon to Co-Lead the Center for International Security and Cooperation  Freeman Spogli Institute for International Studies..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Distant sensors announced a fearsome tsunami’s birth",
+      "link": "https://www.nature.com/articles/d41586-026-02809-6",
+      "date": "2026-09-10 00:00",
+      "summary": "Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02809-6Seismic data pinpoint the collapse of an underwater vol..."
+    },
     {
       "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
       "link": "https://www.nature.com/articles/s41586-026-11118-x",
@@ -119,12 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02823-8",
       "date": "2026-09-09 00:00",
       "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02823-8Anticancer drugs could be manufactured and delivered by..."
-    },
-    {
-      "title": "Breaking timescales with generative sampling of conformational transitions",
-      "link": "https://www.nature.com/articles/s41586-026-11025-1",
-      "date": "2026-09-09 00:00",
-      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11025-1A generative committor-guided path-sampling framework r..."
     }
   ],
   "Retraction Watch": [
@@ -161,16 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5",
-      "date": "2026-09-08 17:47",
-      "summary": "US accuses Chinese AI firms of 'malicious' copying of AI technology  Reuters..."
-    },
-    {
-      "title": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters",
+      "title": "EXCLUSIVE: OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
       "date": "2026-09-09 16:03",
-      "summary": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say  Reuters..."
+      "summary": "EXCLUSIVE: OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say  Reuters..."
+    },
+    {
+      "title": "AI boom poses new financial stability risks, BIS head says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDUzRnJ3dHpQaFN0aF9CVHRZbTExQ1h4UHg2OEFaQmxHeHZsdUwtN2piZzdPdk5oYUticEdmSEIyS0RYUlpKYUpRX3ptWFp6WGFNbGp2QXlVNjRIVFdvanlTWXdubklpcXZzUHNWQWxURlBrU3hpcTU0dVJ2M1NEUEpRU3FhUzhHa25XRklRbUo2LUVoVWlsV3dVcVY5SENFc29hd3JXRUZQZG1FbHEw?oc=5",
+      "date": "2026-09-10 05:53",
+      "summary": "AI boom poses new financial stability risks, BIS head says  Reuters..."
     },
     {
       "title": "OpenAI pushes for mandatory national AI safety rules - Reuters",
@@ -179,10 +179,10 @@
       "summary": "OpenAI pushes for mandatory national AI safety rules  Reuters..."
     },
     {
-      "title": "Anthropic discloses fourth AI hacking incident missed in earlier review - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaU1ZZ0ZRWnBaSnRlakoxVTU1SE9aZTEySkNZU2N2eU5XWG9remJKT29feUVoNlhhQVpfWnNFd1NKZ0xnb3lobTExTXE5dXZud0tCbGVLMzR4Y0NFRkRRUUlnWUllbjVTcXBWeHJzMDJVamFBQjJveC1PNThKSGUzNlRfUlVEVkJPbHhtendZdXdsSmdva0RvT3NidFdSb3BWSmd6R1lFb1NxYXdjR0xKeVVnZWY4c3JlbHlycFhkcXlmQ1Jv?oc=5",
-      "date": "2026-09-09 22:18",
-      "summary": "Anthropic discloses fourth AI hacking incident missed in earlier review  Reuters..."
+      "title": "EXCLUSIVE: China's AI chipmakers raise prices as high-bandwidth memory shortage bites - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObm5ucHMzVUtKTnZxMjJsdGlpNTNtZHhFUWVGRG9XcEhsRHJJWEhlcVItM3d0OHNKdnN3cDQ0X0FFOU5xYzRvUlExUFd3LUl1OTR3TzlIcUF1QWRERU9IRFp1STd2ZlpHVUVySjFrenJOVmVVMy1JNllvU29BZFEwNmFHYlZnTjBvdEFyMWFlZzZ4UW54djNFWlh1bS1pR1VGNmZYNlhlUlFpOWZVWWk2U1JoZ1g3RmthTnhiaTgxajJIcjA?oc=5",
+      "date": "2026-09-10 05:03",
+      "summary": "EXCLUSIVE: China's AI chipmakers raise prices as high-bandwidth memory shortage bites  Reuters..."
     },
     {
       "title": "DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports - Reuters",
@@ -193,10 +193,22 @@
   ],
   "MIT Tech Review": [
     {
-      "title": "Batteries just broke another record in the US - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43cXVUUXVDZWExZm1XcnJvcDRkQV9ueTdpdGNmZjdEYkdxNktEMlRoVGRqWWZwcmhpTGJoazZPblNpWWd1SFkyNFFXTFVFNmtoMkI2VFgwU19RR0VUeS1GUjdhZnNfZ2ZLYmhEZWJwSUtGTDNHRDBlc0VrcTTSAYIBQVVfeXFMT2trMFAwdG1sMmFYdXhLbTBGbkZmZEZnVHBuQzlVem9zb25mNC1uTXYwYzBaMmFEOXJ4OXlxN2QydDlMZEZIRVFseTlKQXF0TXFEM0JGeTFFWEpfSEEteUE0Xzc4RmEwV1ptS3dycnJzcm5kVEg1UmM5Wlg2N283cFZnUQ?oc=5",
-      "date": "2026-09-09 09:00",
-      "summary": "Batteries just broke another record in the US  MIT Technology Review..."
+      "title": "Healthcare AI’s next test is integration - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUFhY1IzcVdBY0h5WTlEclhQSzNGTnM1cHgxdDNSUHBHdWt4am04cFcwc0xKWUF4NmVEdm1YdkUyRWFEZUdheGVkS3hLUm93SFJsQ1d3Nkpqa3kycC1EZ19FMmlWaExDb3NuZ1V6b280UGplelBUVzE5T0xqOENwOFV2aG52QjFrLXNpVFpjNlZWUUJtaWow0gGcAUFVX3lxTE5oUW5qLVQ0TWFmT3JqLWZERjBiY05hTnpzX2lNUzhzaDJBejlXRzlHMzcyNHQ4OWlFOUFUYkl1ZjU4YjV4MDhKNFpFUUNWc1lfcXAzYTgyWURIOWQ4bEUzWFBnOFEyNm5qRktJVTJSZnZzcXRWckx4b1NqNzNGaFc5MDFtdi13cXZnT1RqdHkwcEMwVndjM3cwdHlMdw?oc=5",
+      "date": "2026-09-10 08:58",
+      "summary": "Healthcare AI’s next test is integration  MIT Technology Review..."
+    },
+    {
+      "title": "Can the US battery market untangle from China? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qdjhETS1YdkdYU3JEUzJxcTRQLXRUVF9peEFxSzZiMDYwUlJQdDVuLV9Pcm9lZ0ZQbEQ1OFJCVjZyMnJNYjc1NGdGbVFabTgzUGFHOWN0QVJHSWNUaTM4Um1mYXNpT2gwcDBHeWtLaTNRS1FBeW1OU25kYw?oc=5",
+      "date": "2026-09-10 10:00",
+      "summary": "Can the US battery market untangle from China?  MIT Technology Review..."
+    },
+    {
+      "title": "God told them to sell crypto. Their investors lost everything. - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbWhuOEE2QlRvSks3OUZtVjlKTUtSaGdfQTluT29wenFGNUc2WnVRWmpkOG9RbEk3UlBqWWZJQUpscVRsWGoxZUh5dXpMRmNHX3FiTTdVWFV1UnB6YmhVejlzN0J6NmdtYXNaV3Yta2Y0T0NoTnVIUVkyTFY2SGJJZThxYlE2OHFHQXgzSU04Sm84QVJZVmQ2QWxEMk1QUUJDTWJmSkhjcFJEVnZoblBld3R0Yw?oc=5",
+      "date": "2026-09-10 09:00",
+      "summary": "God told them to sell crypto. Their investors lost everything.  MIT Technology Review..."
     },
     {
       "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected - MIT Technology Review",
@@ -209,58 +221,46 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSDhxX19QRm1vTUJhdWZxQUJxbGpZN1BLTXMyc0pPS0ZqcUpFNmp5eDQ5UXNValVFRFQtWTBsYVhtOGdrUzBiU3FyZFRBS0Q4am5JVUN6NUp2NllTcFprYmN6cVN2MVgzZFN3YWNVVE0wOEpNRVE1R1FRcTZOSWlJcTVGazE3QzBRZkdnSl9tQnpjNFlWWDVxSFRlM21xSW5Hb0hPUWRrdVV6NUJRdXVkN09mTVViV2vSAbwBQVVfeXFMTUUzUGZpakoyRDhEeWo3UnlScnEwT21pMnZsRHNJR015emtNbzlBTllHRXNQUGhlZDlZYWVBcEVqc19BR2xWeHZGX2p6MnNEc1ZRRHhqZW5SQkRzOEpGc0RMUmhlMUc4bUNmbkVYRnRhQWxtejI3cXdBYVAzWEF4dnJqRzBiSnpEREpLVzllNTlRbUtneW9DY3FSQjBmdDM2REFrZ24wV0F0Sy1VeE9NVFpQR2JnaFkwYkJnYmM?oc=5",
       "date": "2026-09-08 12:10",
       "summary": "The Download: our 35 Innovators Under 35 this year  MIT Technology Review..."
-    },
-    {
-      "title": "MIT Technology Review brings the future of technology into focus at EmTech Future 2026 - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQVlYeWUzVkZjSUZxM3p5Skt4TVN6bC10bW1LNmxWZWRFQXRKTW5QNW8xdGJ0NDR3OERDbHJHNGRPdXZzTHZXeWpNaFNMWFFNOUEycVV4SUdsM2h0eGtDVWpFbHhidWlzMUZ3Y09nMEZiOUliVTZfbmd2QlppWnNpeTVuU1ZKXzl6TU4tdWRiVG5iN28wVVYxbGtvczBDVWNsVjN6cXR2Nmg3WTRYcldkX1o4eXlnVmU1UGlxUUlVcU1wT29hTXlVX09NQ3lUZG5qZVZ0ajN1anNzdw?oc=5",
-      "date": "2026-09-09 14:23",
-      "summary": "MIT Technology Review brings the future of technology into focus at EmTech Future 2026  PR Newswire..."
-    },
-    {
-      "title": "What OpenAI’s latest controversy tells us about the future of math - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0pZdWxBQ1MxaXZsczAwUkVmd19Ed2hwZ19vQVBkR0V2WHVyb3VvN1Rfd2thOUZPTnpUcloxQUdlTjdFYzN2WjM0WmN6OTZsYWhkTnE2bFp6cGJjWFNKUzNUdDBSQTBkMnN0aDBYRjNPZjIyM0NPYUU2Wlo5dVYxUWJxMy1LNGxHeEJURERaV3VoN1VFQUVGd3RPVHRwa3NCb3o5VnhuekliMjlBV2tPWkN5eHQwaXN0TnfSAb8BQVVfeXFMTTVVWjROOWZXVEFvRjdvalMzc2JPbHRBOWxZUHM1NUhBQ0FGTTdGSFVJY0JCZGU5RF9zOEJMYUdyZ1Q0UzlkX2dCdy1qdUpDZnVEMU5VU2g4MjB5LTZlZWMxSDQ2em1LRXFXeExDb1llMXVZUTRDQ2t1MUdJZm9JaXItOFFEdGd3VUdUdGttZ1VhZllXN0hWM29heHdRUF8yTEtabktzRUpDTC1ETU4tellSSjhnMEt1VkdLNkUyQWc?oc=5",
-      "date": "2026-09-09 03:10",
-      "summary": "What OpenAI’s latest controversy tells us about the future of math  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Timing 1080 drops to prevent predators bouncing back",
-      "link": "https://phys.org/news/2026-09-predators.html",
-      "date": "2026-09-10 03:40",
-      "summary": "While aerial 1080 drops sharply reduce numbers of rats and stoats, the predators—especially ship rats—can rebound to higher number..."
+      "title": "AI pinpoints when fish reach their thermal limit",
+      "link": "https://phys.org/news/2026-09-ai-fish-thermal-limit.html",
+      "date": "2026-09-10 09:00",
+      "summary": "Researchers have developed an AI-based system that automatically and objectively detects the moment when fish experience loss of e..."
     },
     {
-      "title": "Can AI tame torrential rain by 2050? The next frontier of weather control and forecasting",
-      "link": "https://phys.org/news/2026-09-ai-torrential-frontier-weather.html",
-      "date": "2026-09-10 03:20",
-      "summary": "Japan has been experiencing increasingly severe damage from torrential rainfall triggered by typhoons and stationary linear rain b..."
+      "title": "Unaccounted climate feedback loops may amplify warming by 20–30% this century, but cutting emissions will reduce risks",
+      "link": "https://phys.org/news/2026-09-unaccounted-climate-feedback-loops-amplify.html",
+      "date": "2026-09-10 09:00",
+      "summary": "New research shows that warming-induced emissions—greenhouse gas emissions from natural sources driven by rising temperatures—coul..."
     },
     {
-      "title": "AI and big data can help logistics companies navigate supply-chain disruptions",
-      "link": "https://phys.org/news/2026-09-ai-big-logistics-companies-chain.html",
-      "date": "2026-09-10 02:40",
-      "summary": "Artificial intelligence and big-data capacity might help logistics companies withstand supply-chain disruptions by making them mor..."
+      "title": "As oceans warm, Florida scientists hunt for heat-resistant coral",
+      "link": "https://phys.org/news/2026-09-oceans-florida-scientists-resistant-coral.html",
+      "date": "2026-09-10 08:40",
+      "summary": "Off Florida's coast, a team of scientists and trained volunteers in scuba gear descends to the ocean floor, planting young coral o..."
     },
     {
-      "title": "Four in five researchers report harmful interactions during geoscience fieldwork. A new survey suggests a path forward.",
-      "link": "https://phys.org/news/2026-09-interactions-geoscience-fieldwork-survey-path.html",
-      "date": "2026-09-10 02:20",
-      "summary": "Fieldwork is a vital part of geoscience research, allowing scientists and students to directly observe, interact with and collect ..."
+      "title": "Online and undercover: Saving trafficked wildlife in Thailand",
+      "link": "https://phys.org/news/2026-09-online-undercover-trafficked-wildlife-thailand.html",
+      "date": "2026-09-10 08:20",
+      "summary": "Nawee Changpirom has spent years working to rescue trafficked wildlife in Thailand, but even he can sometimes hardly believe the c..."
     },
     {
-      "title": "X-ray photoelectron spectroscopy reveals the surface chemistry of bio-based hybrid materials",
-      "link": "https://phys.org/news/2026-09-ray-photoelectron-spectroscopy-reveals-surface.html",
-      "date": "2026-09-10 02:00",
-      "summary": "Just a few atomic layers at the surface can strongly influence how effectively a material binds pollutants from water or how effic..."
+      "title": "Coyote density is 9 times higher in Seattle than in Washington's wildlands",
+      "link": "https://phys.org/news/2026-09-coyote-density-higher-seattle-washington.html",
+      "date": "2026-09-10 08:00",
+      "summary": "Once coyotes get a taste for city living, the call of the wild fades to a whisper. Food is abundant and predators are few. Researc..."
     }
   ],
   "The Guardian Edu": [
     {
-      "title": "Teachers say holidays in term can be worth more than time in school",
+      "title": "Many teachers disagree with hardline attendance policies, report suggests",
       "link": "https://www.theguardian.com/education/2026/sep/10/teachers-say-holidays-in-term-can-be-worth-more-than-time-in-school",
       "date": "2026-09-09 23:01",
-      "summary": "School staff tell focus groups they believe school system in England and Wales cannot deal with attendance crisisTeachers have so ..."
+      "summary": "Staff at schools in England say enforcement is ‘relentless’ and occasional holiday less worrying than disengagementTeachers have s..."
     },
     {
       "title": "Babies born to anaemic mothers have smaller brains, study finds",
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Toddler with heart and brain conditions dies after being found unresponsive in bed",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3366994/toddler-heart-and-brain-conditions-dies-after-being-found-unresponsive-bed?utm_source=rss_feed",
-      "date": "2026-09-10 03:50",
-      "summary": "A 23-month-old girl with heart and brain conditions has died after her parents found her unresponsive at their Hong Kong flat, the..."
+      "title": "Hong Kong watchdog investigates Cloudbreak Pharma for ‘rigged’ IPO, suspends its shares",
+      "link": "https://www.scmp.com/business/banking-finance/article/3367064/hong-kong-watchdog-investigates-cloudbreak-pharma-rigged-ipo-suspends-its-shares?utm_source=rss_feed",
+      "date": "2026-09-10 10:08",
+      "summary": "Hong Kong’s Securities and Futures Commission (SFC) has directed the stock exchange to suspend trading of US-based biotech firm Cl..."
     },
     {
-      "title": "Social media must join the fight against teen suicides",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3366437/social-media-must-join-fight-against-teen-suicides?utm_source=rss_feed",
-      "date": "2026-09-10 01:30",
-      "summary": "As we observe World Suicide Prevention Day on September 10, the global community reflects on a sobering reality: suicide remains a..."
+      "title": "Hong Kong to roll out plain cigarette packs from March, full enforcement by December",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3367037/hong-kong-roll-out-plain-cigarette-packs-march-full-enforcement-december?utm_source=rss_feed",
+      "date": "2026-09-10 08:41",
+      "summary": "Hong Kong will introduce standardised cigarette packaging from March next year, with a nine-month transition period before full en..."
     },
     {
-      "title": "Softer focus on national security in Hong Kong’s 5-year plan? Why it won’t happen",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3366967/softer-focus-national-security-hong-kongs-5-year-plan-why-it-wont-happen?utm_source=rss_feed",
-      "date": "2026-09-10 00:30",
-      "summary": "In the first of our series of previews on the five-year plan and policy address, to be announced on September 16, Natalie Wong and..."
+      "title": "Hong Kong signs 2 MOUs with Greater Bay Area partners to commercialise aerial technology",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3367033/hong-kong-signs-2-mous-greater-bay-area-partners-commercialise-aerial-technology?utm_source=rss_feed",
+      "date": "2026-09-10 08:12",
+      "summary": "Hong Kong has signed two milestone memorandums of understanding with partners in the Greater Bay Area to harmonise standards and c..."
     },
     {
-      "title": "Susquehanna latest to pick up larger office space in Hong Kong’s Central, sources say",
-      "link": "https://www.scmp.com/business/article/3366895/susquehanna-latest-pick-larger-office-space-hong-kongs-central-sources-say?utm_source=rss_feed",
-      "date": "2026-09-09 23:00",
-      "summary": "US investment firm Susquehanna International Group has agreed to lease more than 4,808 square metres (51,762 square feet) of offic..."
+      "title": "Developing knowledge with social values in mind",
+      "link": "https://www.scmp.com/native/news/hong-kong/education/topics/nurturing-people-and-virtues/article/3366853/developing-knowledge-social-values-mind?utm_source=rss_feed",
+      "date": "2026-09-10 08:00",
+      "summary": "The educational ethos of “cultivating values and nurturing people” is based on a classic Chinese saying that emphasises building g..."
     },
     {
-      "title": "Hong Kong must plan for the population it wants to have",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3366785/hong-kong-must-plan-population-it-wants-have?utm_source=rss_feed",
-      "date": "2026-09-09 21:30",
-      "summary": "What kind of population is Hong Kong planning for? That is the question the chief executive’s policy address must tackle as the No..."
+      "title": "Hong Kong under-15 suicides hit decade high as social media comes under scrutiny",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3367030/hku-raises-alarm-over-suicide-rate-among-under-15s-warns-social-media-impact?utm_source=rss_feed",
+      "date": "2026-09-10 07:51",
+      "summary": "The suicide rate among under-15s in Hong Kong rose to a decade-high in 2025, defying an overall downward trend, with social media ..."
     }
   ]
 }
