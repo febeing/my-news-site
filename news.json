@@ -77,16 +77,16 @@
       "summary": "Stanford pitches ambitious new plan for campus growth  Palo Alto Online..."
     },
     {
-      "title": "Stanford Proposes $100 Million Fund to Secure Expansion Deal - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGJhUURlMVFWNldWS3NrVWdLNFhrVUNVR3NiMkwtdUVFRWZwdkxJdnlPQ3hSSE1yWG5fa0xuaTZMUU1LV3RFVVpfSWVjcFMtTTBTeVdnZWtuYzdnckFBeEJnNWE1SngtMjVIZEF3YXFIWXlrLVhOMGlLU0RqLXNNMDR6aGFoRzdmSmR2Z0V2ZTVMYUdmek5aVlNGc1cxV01BOXlrbHRndnlHLW1PSjJV?oc=5",
-      "date": "2026-09-11 12:00",
-      "summary": "Stanford Proposes $100 Million Fund to Secure Expansion Deal  Bloomberg.com..."
-    },
-    {
       "title": "Stanford’s Asia-Pacific Research Center Invites Applications for 2027-2029 Postdoctoral and Visiting Fellowships - Shorenstein Asia-Pacific Research Center",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnBzb3pLSUQ0WWhvUDljeFdGdXFvTXc4OW5sUlAwYV9yTWVvcDBEeUFuaml5QlVoaDJuenA1ZERJdnpab2gzMGFGX1F0Ymd0cFpvcjc0aU00VkhyZF9SY1hFdXEyaVJVR2NXWHdnUWtSel9Oa2VJLUk0bi1ra0dzNHR6VHhMaGVvWFhLdlE2VFN6Q1RiZEtZUkplX1Jnb0V1dDEwTzVSUmVNLWNaMmFCd3N4d2dzODZsdExlYjFRbw?oc=5",
       "date": "2026-09-09 12:00",
       "summary": "Stanford’s Asia-Pacific Research Center Invites Applications for 2027-2029 Postdoctoral and Visiting Fellowships  Shorenstein Asia..."
+    },
+    {
+      "title": "Stanford University Proposes $100 Million Fund to Secure Expansion Deal - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGJhUURlMVFWNldWS3NrVWdLNFhrVUNVR3NiMkwtdUVFRWZwdkxJdnlPQ3hSSE1yWG5fa0xuaTZMUU1LV3RFVVpfSWVjcFMtTTBTeVdnZWtuYzdnckFBeEJnNWE1SngtMjVIZEF3YXFIWXlrLVhOMGlLU0RqLXNNMDR6aGFoRzdmSmR2Z0V2ZTVMYUdmek5aVlNGc1cxV01BOXlrbHRndnlHLW1PSjJV?oc=5",
+      "date": "2026-09-11 12:00",
+      "summary": "Stanford University Proposes $100 Million Fund to Secure Expansion Deal  Bloomberg.com..."
     },
     {
       "title": "Stanford seeks permit to move forward with new developments – including affordable housing for students and staff - The Mercury News",
@@ -96,6 +96,18 @@
     }
   ],
   "Nature Careers": [
+    {
+      "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
+      "link": "https://www.nature.com/articles/d41586-026-02763-3",
+      "date": "2026-09-11 00:00",
+      "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02763-3Evoking emotions is more likely to prompt people to eng..."
+    },
+    {
+      "title": "Successful early-career scientists rely on network of mentors",
+      "link": "https://www.nature.com/articles/d41586-026-02827-4",
+      "date": "2026-09-11 00:00",
+      "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02827-4Large networks are particularly beneficial to researche..."
+    },
     {
       "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
       "link": "https://www.nature.com/articles/s41586-026-11079-1",
@@ -113,25 +125,19 @@
       "link": "https://www.nature.com/articles/d41586-026-02809-6",
       "date": "2026-09-10 00:00",
       "summary": "Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02809-6Seismic data pinpoint the collapse of an underwater vol..."
-    },
-    {
-      "title": "AI researchers reckon with the $1.5 million ‘academia tax’",
-      "link": "https://www.nature.com/articles/d41586-026-02026-1",
-      "date": "2026-09-10 00:00",
-      "summary": "Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02026-1Academics explain that their research freedom beats the..."
-    },
-    {
-      "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
-      "link": "https://www.nature.com/articles/s41586-026-11118-x",
-      "date": "2026-09-09 00:00",
-      "summary": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11118-xHighly efficient base editing at PCSK9 and normal human..."
     }
   ],
   "Science News": [
     {
+      "title": "Common gene variant that increases risk of lupus may protect against viruses",
+      "link": "https://www.science.org/content/article/common-gene-variant-increases-risk-lupus-may-protect-against-viruses",
+      "date": "2026-09-11 11:25",
+      "summary": "An evolutionary trade-off may have helped a mutation linked to auto-immune disease persist in human populations..."
+    },
+    {
       "title": "Physicists detect the tiny atomic collisions that give a gas its pressure",
       "link": "https://www.science.org/content/article/physicists-detect-tiny-atomic-collisions-give-gas-its-pressure",
-      "date": "2026-09-10 05:06",
+      "date": "2026-09-10 05:05",
       "summary": "Twist on classic Brownian motion experiment could help test bounds of quantum theory and aid search for new particles..."
     },
     {
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/italian-hunting-bill-will-sideline-science-critics-say",
       "date": "2026-09-09 03:40",
       "summary": "New legislation would loosen regulations and reduce the role of an environmental research body in decisions affecting wildlife..."
-    },
-    {
-      "title": "Pangaea’s ‘little brother’ may finally qualify as a supercontinent",
-      "link": "https://www.science.org/content/article/pangaea-s-little-brother-may-finally-qualify-supercontinent",
-      "date": "2026-09-09 02:00",
-      "summary": "New evidence suggests Gondwana was far larger than previously thought, challenging models of continental cycling..."
     }
   ],
   "Retraction Watch": [
@@ -199,10 +199,16 @@
       "summary": "Anthropic disrupts bioweapons research efforts, Russian hacking, Chinese Claude misuse  Reuters..."
     },
     {
-      "title": "EXCLUSIVE: OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
-      "date": "2026-09-10 00:52",
-      "summary": "EXCLUSIVE: OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say  Reuters..."
+      "title": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM2FONXhOeTRKZVg5ZU5qa3JVQ2I4S1ZSX1V4YU1zelVDV19IczFXWWlGd1BfRjhfbVVNZ3R5ZW9VelJpT2k2TmVNUWk5UFdIcHJFMjdnMWVQbFdVMm53ckVfZEF5SnZqUjJvb0N3OXVKc19CNFd1Z2otY1Y4cmlBQ0VhaGZMbllrWHIyQUVLRU5JYTIzNm1jdTVTcmhQcHJmdWgzYzdwckp2c2NhcEttLUMycUh5OVA0NEVKZGZwRm04UQ?oc=5",
+      "date": "2026-09-11 02:33",
+      "summary": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports  Reuters..."
+    },
+    {
+      "title": "Robots 'protest' outside Poland ministry demanding AI oversight - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CX0I4Y3ZaVDJHX0ItSnlIdDRNMnlUNUphcTEyU2Y3OHpwZlJJeE1RRFl6X0VicXp2a0NyOGlhOTQ5Z09scXVOeU1yWDV2aUoyWlNleHQzQ1BsV1U4VzlaQm1ZWXhZems?oc=5",
+      "date": "2026-09-10 20:07",
+      "summary": "Robots 'protest' outside Poland ministry demanding AI oversight  Reuters..."
     },
     {
       "title": "More US lawmakers seek new AI rules after Anthropic researchers warn of human extinction - Reuters",
@@ -215,26 +221,20 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUZqYW42N1U0V0Nwcy0tclBNM0NETGhYRXdidmZmdWxxWWtlOHZKRUp6alpTSlZYWk1JaWt3ZGdQNkVEc2tQMGpUWnlHZXFTcVc3b2NxcHEyWTR2eVJPVmNieTBVbFhLdE5FWGRxVHlUbXdKdWtGRm9IN3pIZWJMUVFEcE1oMmsxeXowY0dKcV9GaGhRVDl4MTlVMDY1VWd4b3BmaHU1aXEtZHdBaEo5cA?oc=5",
       "date": "2026-09-10 18:56",
       "summary": "Wipro's AI push frees capacity equivalent to 20,000 workers, CTO says  Reuters..."
-    },
-    {
-      "title": "Tencent-backed Enflame nearly triples in Shanghai debut on AI chip demand bets - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1oyZUF1MXVHWmZZeDRoUTlDT0lORWoyNldHNGVlOFdOUlhjYUMyNEFXQzY1MjJGc0RCa3U2WG1DZ09vWVdCQzhqcnFSYkZqQU91NVBFeDZQMFc2aDNoRVh0NDhPWjYwSWs1TlA0NkNCZ1htNDN6VzJ1eVRMMHdvcEp1TWlYOG1zdllwNFZOc2dyVmtwX0hmZDhVUUVoanFGQWxFTnN3dVVVNHBLWkVoSVdaNWszOUY0SXBoUmE3QlJ1MUln?oc=5",
-      "date": "2026-09-11 01:33",
-      "summary": "Tencent-backed Enflame nearly triples in Shanghai debut on AI chip demand bets  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "The Download: biotech’s future and cheaper, cleaner steel - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdi10a1BDYTFkMzhNd3ZBR2NmYWgxZHBIaVdDOTZsMjZHY2tTYnItVnpZczdLQlNKYWJrUWF5c1VIbklqT1M5TktyY0NYMjZiaUdxaWJrYlh6c0NNMWxIUEI0ZXJTODJxQXhnLXV4ZVFDNkpQaDNBUmdEVjFhVDk5NzdtZm1wdl94UHNaN0VPZi1uRGphX2ljdThaOERfVGJfS3BKQdIBqgFBVV95cUxPU3ZCU0hQY2F1WDFoVXJ2ZXBDOTdrQTRqZ2JQakQxZFRJbTNHYzVPZjZrTnZQUlRtOVZRODdaWUtvSlQzV293Mjh3UXRGV1FjU19fX1lvQ0pEd2p1UEh4UWhLUWJWMlhhOUlab2llc2ZydWJfaldFd1AxU0pkWnBMaTZZNExHd1d2VDM4UXppLThkVThrQ1VNRnIyNzB6LS1RZVVsUWxrS05LQQ?oc=5",
-      "date": "2026-09-11 12:10",
-      "summary": "The Download: biotech’s future and cheaper, cleaner steel  MIT Technology Review..."
-    },
     {
       "title": "Meet the under-35s shaping the future of biotech - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3dka1BEZUhRcGthb2NyMHdjOVloc0VucEZ0WnNBNmE2QkxzMFhkTnJnT193V1ptX0pUZWl3QnJPeXZxdjBQRHJ0aHVLY01RU2dNZkU4YjJFejNITWFoakNyV29GQnhSVUVwc1Q0QWM2aGF5ZlY3MDc4am1EMkhWRE94Q3NzZUpPOTVDRmE1bWU4aGxpTTJFLTVmRnJLTFZCU2ZJ0gGoAUFVX3lxTE9NVmprNmtNc0tZVUNiaERCOXF0cmJfMkhST2R5ZmR0VXVCeGNBNS1aU0tDbTcxbjItcW96X0VyblAtR2hpWlFTN2RlcVV1c0xDVnJyX1ZreUxuamhzWWk1YVJObEJVZ1lkLVgwTTVzclctQ0ZqY3d5dWNfT19pRWJUNGFVelIwWENCNk5hTTRaQnFKRGNzYnBiVlJlV2Y3ZnlKcXc5VjdCcw?oc=5",
       "date": "2026-09-11 09:00",
       "summary": "Meet the under-35s shaping the future of biotech  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: biotech’s future and cheaper, cleaner steel - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdi10a1BDYTFkMzhNd3ZBR2NmYWgxZHBIaVdDOTZsMjZHY2tTYnItVnpZczdLQlNKYWJrUWF5c1VIbklqT1M5TktyY0NYMjZiaUdxaWJrYlh6c0NNMWxIUEI0ZXJTODJxQXhnLXV4ZVFDNkpQaDNBUmdEVjFhVDk5NzdtZm1wdl94UHNaN0VPZi1uRGphX2ljdThaOERfVGJfS3BKQdIBqgFBVV95cUxPU3ZCU0hQY2F1WDFoVXJ2ZXBDOTdrQTRqZ2JQakQxZFRJbTNHYzVPZjZrTnZQUlRtOVZRODdaWUtvSlQzV293Mjh3UXRGV1FjU19fX1lvQ0pEd2p1UEh4UWhLUWJWMlhhOUlab2llc2ZydWJfaldFd1AxU0pkWnBMaTZZNExHd1d2VDM4UXppLThkVThrQ1VNRnIyNzB6LS1RZVVsUWxrS05LQQ?oc=5",
+      "date": "2026-09-11 12:10",
+      "summary": "The Download: biotech’s future and cheaper, cleaner steel  MIT Technology Review..."
     },
     {
       "title": "Powering AI is an architecture problem - MIT Technology Review",
@@ -249,50 +249,56 @@
       "summary": "Healthcare AI’s next test is integration  MIT Technology Review..."
     },
     {
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEg1TmNxM3RmQnJvS3FjT1BESVJfYmdVeVRVMHc0M2RGNmxvX2ttZFZJMHhsbVlVNWVIdFlLYWZOVWpoMFVkdWNteFhaUERWWXhzWktnc19leklqWkxRakIwOERrUE4yOFNGQlRsZ1lRSTFyR2pTVHFNZXZ5Y0hJS1NoZnFKUzBMd1lmWWpRNlgzMzlTNGJqazVLZkzSAaIBQVVfeXFMT1Z4MU9zUHhPVElQQzVlS253M0EwazIxYXp0RHRQUDVMYmxlMnVNMXExWEc4dmdsTUZpY1pGRFFLVlZqcGpFUjRsd081X1BwMGJqZHUwY1NOZmR1cEx1d1gwVEFYeG0wM2M3OUc0WEZhNVd3UW9jUWd1TlRTdGh0Q2tZWWM5R0ZTdTJldGRGQzdTVXRkaGRZRU1YUnRZdlVIMFBB?oc=5",
-      "date": "2026-09-08 10:34",
-      "summary": "This AI entrepreneur is developing agents that can plan ahead for the unexpected  MIT Technology Review..."
+      "title": "The Download: our 35 Innovators Under 35 this year - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSDhxX19QRm1vTUJhdWZxQUJxbGpZN1BLTXMyc0pPS0ZqcUpFNmp5eDQ5UXNValVFRFQtWTBsYVhtOGdrUzBiU3FyZFRBS0Q4am5JVUN6NUp2NllTcFprYmN6cVN2MVgzZFN3YWNVVE0wOEpNRVE1R1FRcTZOSWlJcTVGazE3QzBRZkdnSl9tQnpjNFlWWDVxSFRlM21xSW5Hb0hPUWRrdVV6NUJRdXVkN09mTVViV2vSAbwBQVVfeXFMTUUzUGZpakoyRDhEeWo3UnlScnEwT21pMnZsRHNJR015emtNbzlBTllHRXNQUGhlZDlZYWVBcEVqc19BR2xWeHZGX2p6MnNEc1ZRRHhqZW5SQkRzOEpGc0RMUmhlMUc4bUNmbkVYRnRhQWxtejI3cXdBYVAzWEF4dnJqRzBiSnpEREpLVzllNTlRbUtneW9DY3FSQjBmdDM2REFrZ24wV0F0Sy1VeE9NVFpQR2JnaFkwYkJnYmM?oc=5",
+      "date": "2026-09-08 12:10",
+      "summary": "The Download: our 35 Innovators Under 35 this year  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Ocean acidification may disrupt diatoms' carbon capture and marine food webs",
-      "link": "https://phys.org/news/2026-09-ocean-acidification-disrupt-diatoms-carbon.html",
-      "date": "2026-09-11 13:05",
-      "summary": "Our oceans are in trouble, and new research from Flinders University shows how changes in diatoms (microalgae) could further under..."
+      "title": "Brain's ability to hear a musical beat remains distinctly human, study suggests",
+      "link": "https://phys.org/news/2026-09-brain-ability-musical-distinctly-human.html",
+      "date": "2026-09-11 17:20",
+      "summary": "The seemingly trivial ability to hear a regular pulse in music is a remarkable—and perhaps distinctively human—feature of the brai..."
     },
     {
-      "title": "eROSITA's second data release catalog delivering most comprehensive high-energy census of the cosmos to date",
-      "link": "https://phys.org/news/2026-09-erosita-comprehensive-high-energy-census.html",
-      "date": "2026-09-11 13:00",
-      "summary": "The eROSITA (extended ROentgen Survey with an Imaging Telescope Array) telescope, the primary instrument aboard the Russian-German..."
+      "title": "Travel bots are making decisions for us—convenient, but should we trust them?",
+      "link": "https://phys.org/news/2026-09-bots-decisions-convenient.html",
+      "date": "2026-09-11 17:20",
+      "summary": "Imagine telling your phone that you want a quiet boutique hotel near a city center, below a certain price, with a decent breakfast..."
     },
     {
-      "title": "Dogs and cats carry antibiotic-resistant bacteria also found in people, study finds",
-      "link": "https://phys.org/news/2026-09-dogs-cats-antibiotic-resistant-bacteria.html",
-      "date": "2026-09-11 13:00",
-      "summary": "Dogs and cats may carry strains of Klebsiella pneumoniae, a potentially serious bacterium that can cause infections and is also fo..."
+      "title": "Electrical pulses convert PFAS waste into valuable silver fluoride",
+      "link": "https://phys.org/news/2026-09-electrical-pulses-pfas-valuable-silver.html",
+      "date": "2026-09-11 17:00",
+      "summary": "Fluorinated waste, like that found in firefighting aqueous film-forming foam, can act as a significant environmental pollutant. Re..."
     },
     {
-      "title": "When AI designs the product, consumers have doubts",
-      "link": "https://phys.org/news/2026-09-ai-product-consumers.html",
-      "date": "2026-09-11 12:40",
-      "summary": "A new study from Georgia State University's J. Mack Robinson College of Business and the University of South Florida delivers a po..."
+      "title": "Why making friends at university feels harder than it really is",
+      "link": "https://phys.org/news/2026-09-friends-university-harder.html",
+      "date": "2026-09-11 17:00",
+      "summary": "The summer before starting university can bring multiple worries for students: worrying about obtaining a place in a desired progr..."
     },
     {
-      "title": "'Ex-Utero' project uses art, science to explore regenerative medicine",
-      "link": "https://phys.org/news/2026-09-utero-art-science-explore-regenerative.html",
-      "date": "2026-09-11 12:20",
-      "summary": "On a sunny spring day at Penn State, Cristin Millett, professor of art in the College of Arts and Architecture's School of Visual ..."
+      "title": "Libraries are a lifeline, new research finds",
+      "link": "https://phys.org/news/2026-09-libraries-lifeline.html",
+      "date": "2026-09-11 16:40",
+      "summary": "New research has highlighted the important role public libraries play in supporting communities, helping people build connections,..."
     }
   ],
   "The Guardian Edu": [
     {
+      "title": "Mail on Sunday ends up funding state school scholarship via payout to MP",
+      "link": "https://www.theguardian.com/education/2026/sep/11/mail-on-sunday-funds-state-school-scholarship-via-payout-to-mp",
+      "date": "2026-09-11 16:30",
+      "summary": "Labour’s Catherine Atkinson says she will give students £5,000 paid to her by  paper that falsely accused her of concealing privat..."
+    },
+    {
       "title": "How Ron DeSantis politicized Florida’s higher education by placing his loyalists at the top",
       "link": "https://www.theguardian.com/us-news/2026/sep/11/ron-desantis-florida-higher-education-takeover",
       "date": "2026-09-11 12:00",
-      "summary": "Term-limited, hard-right governor instituted an ideological infiltration of universities by placing allies in powerful postsIn few..."
+      "summary": "Term-limited, hard-right governor instituted an ideological infiltration of universities by placing allies in powerful postsIn les..."
     },
     {
       "title": "Pupils missed 15m hours of school time during UK’s June heatwave, study finds",
@@ -311,15 +317,21 @@
       "link": "https://www.theguardian.com/education/2026/sep/10/teachers-say-holidays-in-term-can-be-worth-more-than-time-in-school",
       "date": "2026-09-09 23:01",
       "summary": "Staff at schools in England say enforcement is ‘relentless’ and occasional holiday less worrying than disengagementTeachers have s..."
-    },
-    {
-      "title": "Babies born to anaemic mothers have smaller brains, study finds",
-      "link": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
-      "date": "2026-09-09 04:00",
-      "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Man arrested after allegedly refusing to share HK$30m Mark Six jackpot with group",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367263/man-arrested-after-allegedly-refusing-share-hk30m-mark-six-jackpot-group?utm_source=rss_feed",
+      "date": "2026-09-11 16:15",
+      "summary": "Hong Kong police have arrested a 36-year-old man suspected of having fled with a Mark Six jackpot worth around HK$30 million that ..."
+    },
+    {
+      "title": "‘Pillar of Shame’ sculptor to ask Denmark to negotiate for artwork’s return",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367259/pillar-shame-sculptor-ask-denmark-negotiate-artworks-return?utm_source=rss_feed",
+      "date": "2026-09-11 14:29",
+      "summary": "The creator of a sculpture commemorating those killed in the 1989 Tiananmen Square crackdown will ask Danish authorities to negoti..."
+    },
     {
       "title": "‘Rest in eternal peace’: veteran horror actor, filmmaker Simon Loui dies at age 62",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3367244/rest-eternal-peace-veteran-horror-actor-filmmaker-simon-loui-dies-age-62?utm_source=rss_feed",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3367196/over-60-new-dentists-join-department-health-after-mandatory-internship?utm_source=rss_feed",
       "date": "2026-09-11 09:08",
       "summary": "About 60 per cent of Hong Kong’s first batch of dental graduates who underwent mandatory internship training have joined the city’..."
-    },
-    {
-      "title": "‘The more, the better’: Hong Kong won’t cap talent scheme passes, labour chief says",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3367194/more-better-hong-kong-wont-cap-talent-scheme-passes-labour-chief-says?utm_source=rss_feed",
-      "date": "2026-09-11 08:48",
-      "summary": "Hong Kong will not cap the number of admissions under its talent schemes, with the labour minister saying “the more, the better” a..."
-    },
-    {
-      "title": "Hong Kong star Deanie Ip wins best actress at Venice Film Festival – from the SCMP archive",
-      "link": "https://www.scmp.com/lifestyle/article/3366212/hong-kong-star-deanie-ip-wins-best-actress-venice-film-festival-scmp-archive?utm_source=rss_feed",
-      "date": "2026-09-11 07:30",
-      "summary": "This article was published on September 12, 2011.\nVeteran Ip wins best actress in Venice\nby Adrian Wan\nVeteran Hong Kong movie sta..."
     }
   ]
 }
