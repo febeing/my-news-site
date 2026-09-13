@@ -65,12 +65,6 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford’s Asia-Pacific Research Center Invites Applications for 2027-2029 Postdoctoral and Visiting Fellowships - aparc.fsi.stanford.edu",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnBzb3pLSUQ0WWhvUDljeFdGdXFvTXc4OW5sUlAwYV9yTWVvcDBEeUFuaml5QlVoaDJuenA1ZERJdnpab2gzMGFGX1F0Ymd0cFpvcjc0aU00VkhyZF9SY1hFdXEyaVJVR2NXWHdnUWtSel9Oa2VJLUk0bi1ra0dzNHR6VHhMaGVvWFhLdlE2VFN6Q1RiZEtZUkplX1Jnb0V1dDEwTzVSUmVNLWNaMmFCd3N4d2dzODZsdExlYjFRbw?oc=5",
-      "date": "2026-09-09 12:00",
-      "summary": "Stanford’s Asia-Pacific Research Center Invites Applications for 2027-2029 Postdoctoral and Visiting Fellowships  aparc.fsi.stanfo..."
-    },
-    {
       "title": "Another Calif. college was ranked above UC Berkeley this year besides Stanford - SFGATE",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOTh1SFg2bUc1Zllia1dFTF93cFpzZnAtSDdVbzJKR0hzZlI2OWNZenhHMklaTGVBbjJmdjJtNEJLN1NhZXRRUVFaVEM2Ui1wdkpFX29ueFJ2RV9ObXZVRjdfT0I4eDc1VTF1Um81MGtBS0V4WmNjc1V6bE9aWkFpeWtVUU9uMnFCaVM0?oc=5",
       "date": "2026-09-11 00:30",
@@ -93,6 +87,12 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDc4TTJhZUNNMHZEUWI3UFJRdUMwWmxtVFVvSTJTT3lvR1dfcjBVV1ZHVkR1V0FwYndIYWk5ZDdRMGkycGZxLUdTQVJxV1ZQMTlvSU96Q3N0Vk9TeFVGeklERXZ6SU0zMTNyaWJQdlplR3gyM0I4elhCU1NraFhCNGs2SUk2VFRnQi1ZRE03cG1hZzMtQlZfMTJtU2ZhRV9xMHc2ZGRFQXdmR3NBWDZfOThHb3pYbWJ1cWJrbVB6QjNVWGtScjk5M21HMWFnWk9fUmc?oc=5",
       "date": "2026-09-12 12:00",
       "summary": "Stanford, MIT lead US ranking of universities offering highest value to students  VnExpress International..."
+    },
+    {
+      "title": "Emmanuel Mignot wins Lasker Award for narcolepsy research - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1NMbF9vNGVZNG5sS2xVT1B1OEFFeXBxQVlDNXBsUTlrbW9PZGJtcy1MbzloQjRlZVZWQWZRekFIU3RWZkY0S0RRdmRpS0NJc3ZxRmh2MENBb2txOUF3b2s3WGx2VzZYQVg5M1d2UEdrNFhBRTN1VW5obkZfUW9fTGFZYU9oODlheFBweW8xZ0Z3cFds?oc=5",
+      "date": "2026-09-09 22:42",
+      "summary": "Emmanuel Mignot wins Lasker Award for narcolepsy research  Stanford Report..."
     }
   ],
   "Nature Careers": [
@@ -167,10 +167,16 @@
       "summary": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports  Reuters..."
     },
     {
-      "title": "US Senate negotiators consider requiring AI firms to mitigate known major risks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVJFRjl0M2NxU3YtVmplOGp5YkNqcllYY0R0Y2xPV0ZaTU5fNElVVXl1WDI4NjRRRGtSNXlwanRTUjRFY2ZCTUdLcE52QTZyTnN4WDdKNGE1bWM0SDBBdmdpSUw4YXZ1WDNnZ1hGTzl1RVhodnhBZzFEVHJ1VlJUd3Q1Z3gwTUVIMGR3X1g4Q0ZkUUFLdTc2dnAzZzZzaEREYjg5SGltUTJrelRKdjJwQ2RZbUJzY0NjMjI0SFUyUTF3X18wZ2ZjSw?oc=5",
-      "date": "2026-09-11 20:39",
-      "summary": "US Senate negotiators consider requiring AI firms to mitigate known major risks  Reuters..."
+      "title": "Obama Voices Caution on AI, Urges Democrats to Tackle It, NYT Says - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUEc4ZkxSYmh5WE1mendzZmRqWWRTcFp5WVhuRkM1NXBVa19TaHlac2hKMk5HTzFFV1FBUEZ4ZWRWd0I4OVJvb2RXUU5UaDhwZUdSWHV0UnFSQjNGakFWX1B5S0JnVFA0cUJBRTR3VGJJcWswTjZQQVlQek5xdUJJT2FlTDNNeFM2cmkxSWcxbTNFRzVDWlZpVWZYSHpVbzVGcElsdlh2X0NZWGt1N1lGMmtkY1BDb1pPelFONElR?oc=5",
+      "date": "2026-09-13 05:27",
+      "summary": "Obama Voices Caution on AI, Urges Democrats to Tackle It, NYT Says  U.S. News & World Report..."
+    },
+    {
+      "title": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz?oc=5",
+      "date": "2026-09-12 20:38",
+      "summary": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'  Reuters..."
     },
     {
       "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters",
@@ -179,16 +185,10 @@
       "summary": "Anthropic CEO urges AI companies to slow model development amid fears over misuse  Reuters..."
     },
     {
-      "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz?oc=5",
-      "date": "2026-09-12 20:46",
-      "summary": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says  Reuters..."
-    },
-    {
-      "title": "JPMorgan curbed lending to Situational Awareness after AI losses, source says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYXZzWjNxUTdwUHp5NFJydUZnRU1VU3VIZWpxaHRGMGZ2YWFfekVHV1RHSGhlOEN4Ym9ZTjNmZ016SVJfR2ltTG5GUndNWXhkUDdhUUNOWU41UnRoXzhBQlQ4MjlIZGZzdS1wc0tPV3FfSG01SGd1dzA1ZTdnYkdpeWJ2R0NKWm11MzliVGVQcW1tUC1PUHV3dHhTYnJual94YWdEQ0p6Q3dxbjMwWWREY25DRWxMYm9PTmhsdFc2T3R3anpfaDR4OQ?oc=5",
-      "date": "2026-09-11 21:05",
-      "summary": "JPMorgan curbed lending to Situational Awareness after AI losses, source says  Reuters..."
+      "title": "AI startup Discovery Loop seeks around $50 billion valuation, Business Insider reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd3lnc0dxM1pHVFpORTloY08tT2k2aFdDMkRJSHBTZkFSWGNGOGk0SnRrQi1uVTB3VHhoeVh5WGZpdk90ZzdyRjUzRDJCM3NuQ29UX1l6d2QxTUg5R1F5T1JiUjBJZm1NZlozelR1SElNdFc3ekVreC00ajJ6T3NTeWxMYmZwS21zNTFiYTZSUW5VLXNyMWlMRXFoTVlwbk1IRGxhbG50cmhpZmw4OXN3dHIxVUNhekh0Z3ctdmJ0TmZjZDhJUDFZN0lzNXk?oc=5",
+      "date": "2026-09-11 23:28",
+      "summary": "AI startup Discovery Loop seeks around $50 billion valuation, Business Insider reports  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,6 +225,12 @@
   ],
   "Phys.org": [
     {
+      "title": "Ancient armored fish evolved two distinct ways to crush prey 385 million years ago",
+      "link": "https://phys.org/news/2026-09-ancient-armored-fish-evolved-distinct.html",
+      "date": "2026-09-13 08:13",
+      "summary": "Long before dinosaurs appeared on Earth, fierce predatory fish developed crushing jaws and sharp teeth to survive and diversify in..."
+    },
+    {
       "title": "AI could make holiday planning easier for overwhelmed travelers",
       "link": "https://phys.org/news/2026-09-ai-holiday-easier-overwhelmed.html",
       "date": "2026-09-13 00:30",
@@ -247,15 +253,21 @@
       "link": "https://phys.org/news/2026-09-japan-hayabusa2-laser-ranging-asteroid.html",
       "date": "2026-09-12 21:00",
       "summary": "The Japan Aerospace Exploration Agency's (JAXA) Hayabusa2 spacecraft reached another milestone this summer, a first for space agen..."
-    },
-    {
-      "title": "A brief history of the hangover and its remedies—from cabbages to cloves and the lungs of a goat",
-      "link": "https://phys.org/news/2026-09-history-hangover-remedies-cabbages-cloves.html",
-      "date": "2026-09-12 20:00",
-      "summary": "Anyone who has ever woken up with a hangover will recognize its physical and psychological effects: headache, nausea, self-loathin..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "UK government to offer clearer guidance on student loans after repayment row",
+      "link": "https://www.theguardian.com/money/2026/sep/13/student-loans-repayments-university-students-guidance",
+      "date": "2026-09-13 05:01",
+      "summary": "Criticism of three-year threshold repayment freeze prompts update to guidance warning terms and conditions could changeUniversity ..."
+    },
+    {
+      "title": "Rise of the student commuters: weighing the costs of living at home or in halls",
+      "link": "https://www.theguardian.com/education/2026/sep/13/rise-of-student-commuters-costs-living-at-home-or-in-halls",
+      "date": "2026-09-13 05:00",
+      "summary": "Changing social trends and creative timetables are making it more likely for students to stay at home while they study. Is campus ..."
+    },
     {
       "title": "Revealed: the university courses students regret – and those they don’t",
       "link": "https://www.theguardian.com/education/2026/sep/12/graduate-survey-many-regret-subject-choices-hindsight",
@@ -273,50 +285,38 @@
       "link": "https://www.theguardian.com/education/ng-interactive/2026/sep/12/best-uk-universities-for-animation-game-design-league-table",
       "date": "2026-09-12 06:58",
       "summary": "Learn how to design, write and engineer interactive experiences. Includes 2D, 3D and stop motion Continue reading......"
-    },
-    {
-      "title": "Best UK universities for architecture – league table",
-      "link": "https://www.theguardian.com/education/ng-interactive/2026/sep/12/best-uk-universities-for-architecture-league-table",
-      "date": "2026-09-12 06:58",
-      "summary": "Design and creation of buildings. Involves the study of the sciences, humanities and fine and applied arts Continue reading......"
-    },
-    {
-      "title": "Best UK universities for anatomy and physiology – league table",
-      "link": "https://www.theguardian.com/education/ng-interactive/2026/sep/12/best-uk-universities-for-anatomy-and-physiology-league-table",
-      "date": "2026-09-12 06:58",
-      "summary": "The study of how the human body works – includes anatomy, physiology and pathology, ophthalmics, and aural and oral sciences Conti..."
     }
   ],
   "SCMP Hong Kong": [
     {
-      "title": "How to solve Hong Kong’s triple whammy: ageing population, baby dearth and job losses?",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3367312/how-solve-hong-kongs-triple-whammy-ageing-population-baby-dearth-and-job-losses?utm_source=rss_feed",
-      "date": "2026-09-13 01:00",
-      "summary": "In the fourth of our series of previews on the five-year plan and policy address, to be announced on September 16, Fiona Sun and E..."
+      "title": "Rising number of South Korean beauticians providing illicit treatments in Hong Kong",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3367344/rising-number-south-korean-beauticians-providing-illicit-treatments-hong-kong?utm_source=rss_feed",
+      "date": "2026-09-13 08:00",
+      "summary": "A growing number of South Korean beauticians are providing illegal eyebrow or lip microblading treatments in Hong Kong, with the c..."
     },
     {
-      "title": "39 pupils and staff fall ill after eating school lunches in Sha Tin",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3367323/39-pupils-and-staff-fall-ill-after-eating-school-lunches-sha-tin?utm_source=rss_feed",
-      "date": "2026-09-12 15:20",
-      "summary": "Hong Kong health authorities are investigating an outbreak of suspected food poisoning that hit 39 pupils and staff members who at..."
+      "title": "Hongkongers hit with unauthorised charges for new iPhone as banks launch probes",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367342/hongkongers-hit-unauthorised-charges-new-iphone-2-banks-launch-probes?utm_source=rss_feed",
+      "date": "2026-09-13 07:20",
+      "summary": "Scores of Hongkongers have complained about unauthorised transactions on credit cards used to pre-order Apple’s latest iPhones, pr..."
     },
     {
-      "title": "Quality concerns prompt further tests on concrete used in 3 public housing blocks",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3367319/quality-concerns-prompt-further-tests-concrete-used-3-public-housing-blocks?utm_source=rss_feed",
-      "date": "2026-09-12 14:10",
-      "summary": "The quality of concrete used in three blocks of a public housing estate under construction in Tung Chung requires further testing ..."
+      "title": "Tung Chee-hwa remembered for foresight in developing Hong Kong’s tech sector",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3367340/tung-chee-hwa-remembered-foresight-developing-hong-kongs-tech-sector?utm_source=rss_feed",
+      "date": "2026-09-13 06:37",
+      "summary": "Hong Kong’s first leader Tung Chee-hwa, who died last week, has been remembered by former colleagues for his foresight in developi..."
     },
     {
-      "title": "A year after lawmakers veto equality bill, LGBTQ Hongkongers still hope for change",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3367307/year-after-lawmakers-veto-equality-bill-lgbtq-hongkongers-still-hope-change?utm_source=rss_feed",
-      "date": "2026-09-12 11:00",
-      "summary": "When Hong Kong’s Legislative Council vetoed a government bill that would have granted limited recognition to the city’s same-sex c..."
+      "title": "US church co-founder took substantial payment from HKIS to end ‘bad marriage’: source",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3367294/hkis-paid-substantial-amount-us-church-co-founder-end-bad-marriage-source?utm_source=rss_feed",
+      "date": "2026-09-13 04:00",
+      "summary": "The US church group that co-founded Hong Kong International School (HKIS) accepted an out-of-court payment to end a “bad marriage”..."
     },
     {
-      "title": "Rescue operation launched after boat begins to sink at Hung Hom",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367304/rescue-operation-launched-after-boat-begins-sink-hung-hom?utm_source=rss_feed",
-      "date": "2026-09-12 10:33",
-      "summary": "A rescue operation was launched in Hung Hom in Hong Kong on Saturday afternoon after a recreational vessel began taking on water a..."
+      "title": "Mainland Chinese HKUST student loses HK$1 million to scammer posing as official",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367334/mainland-chinese-hkust-student-loses-hk1-million-scammer-posing-official?utm_source=rss_feed",
+      "date": "2026-09-13 03:38",
+      "summary": "A mainland Chinese university student in Hong Kong has lost about HK$1 million (US$127,500) in a scam after a fraudster accused he..."
     }
   ]
 }
