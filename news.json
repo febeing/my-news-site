@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Nanoscale mechanics could enable brain-inspired computing",
+      "link": "https://news.mit.edu/2026/nanoscale-mechanics-could-enable-brain-inspired-computing-0916",
+      "date": "2026-09-16 18:00",
+      "summary": "A new device uses reconfigurable motion to mimic the firing behavior of a neuron, which could lead to more efficient computing...."
+    },
+    {
       "title": "New AI technique could make minimally invasive surgeries safer and more precise",
       "link": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
       "date": "2026-09-16 15:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/injectable-nanodevices-could-provide-effective-treatment-drug-resistant-glioblastoma-0909",
       "date": "2026-09-09 20:00",
       "summary": "MIT researchers show implanted nanoantennas can be activated wirelessly to kill brain cancer cells without damage to healthy tissu..."
-    },
-    {
-      "title": "A burst of “pink noise” may lead to more restorative sleep",
-      "link": "https://news.mit.edu/2026/pink-noise-burst-may-mean-more-restorative-sleep-0909",
-      "date": "2026-09-09 18:00",
-      "summary": "Delivered at just the right time, this type of auditory stimulus can strengthen the flow of cerebrospinal fluid, which clears debr..."
     }
   ],
   "Harvard Gazette": [
@@ -45,10 +45,10 @@
       "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
     },
     {
-      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
-      "date": "2026-07-10 07:00",
-      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
+      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     },
     {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
@@ -57,19 +57,13 @@
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
+      "date": "2026-07-10 07:00",
+      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
-    {
-      "title": "No UCs made the top 10 in this new college ranking — but these California schools did - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHRGLXUyQjlFVzFDRms4UmRibzNZYTdkVFh6UVowMVdfa3c0UjBFTXQ4Z0Jic3FqMHRMcWVqd1ktaEJLNEZxdGxrZllDOFA4S2YwZ1JvMjZWVHRCZFlhTnVabEFLaDh6TElMa2JWcDk4TGI1VVkxeUZremZTM2JCRXVOWHJfclcz?oc=5",
-      "date": "2026-09-16 11:00",
-      "summary": "No UCs made the top 10 in this new college ranking — but these California schools did  San Francisco Chronicle..."
-    },
     {
       "title": "NLRB official says Stanford residential advisers can unionize - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmJKcmtkSXZkc05TYnQwNF85ak13WFJWRGsyU3IzRGNua2U0c3AxWF9hVEdSakNlcnN4SWlxaXpIV3BxSUlLcW9SMS1hU01UYmN6R2dpWHFReU9IaHNGNnZVNC1qR1hPWkZOSjVZUGxuclk0OFk4WmppRTNiWnVNNnhxWTVxakh5UmwwakRLOExTODZnb254SEQxTlFUNzRnaGJvV1NiYTgzcjM3NGNoMTdrdVU?oc=5",
@@ -77,10 +71,10 @@
       "summary": "NLRB official says Stanford residential advisers can unionize  Reuters..."
     },
     {
-      "title": "The Class of 2030 arrives on the Farm - Stanford Report",
+      "title": "The Class of 2030 arrives on the Farm - news.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzdEV4Q2dESkdRSkk3MXE4VUFzaURYVFFJSkZMamV5OVlmek52bDdkY1Y2aXZrQ2JidHBlRlRXZEJ0VlFCdDVDZlpNWGZud1hvUHlFTGFwRzV1dEJZeWZPNk8zY3p0MFJ3LWxaNWhHdGxZZw?oc=5",
       "date": "2026-09-16 00:10",
-      "summary": "The Class of 2030 arrives on the Farm  Stanford Report..."
+      "summary": "The Class of 2030 arrives on the Farm  news.stanford.edu..."
     },
     {
       "title": "New Stanford grad students pass first test as football fans - Palo Alto Online",
@@ -89,42 +83,48 @@
       "summary": "New Stanford grad students pass first test as football fans  Palo Alto Online..."
     },
     {
-      "title": "Netflix faces criticism over ethics of new Stanford Prison Experiment reality series - the-independent.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzRnNDFUQklMSGZnaFBhUFdEcXloNHkxY0pYSjlrZFowYzdleXFxT1ltWENqb3pZRVlsS0V0QUV6azNZcGpoNnl0U0NBaExBOFBGc05wVVUwMW9VcEdyeG9TVFBIMjEzYmlKZXlfTnJiMl84c3MxcXkwSUV6X184QS14Z1JzODg5NkliNEVnZGpZa3BvN2Z3clFTTVdHR2R2YVUzVi1ETlI0TmFNbzQtd3dxeDhOd1J0?oc=5",
-      "date": "2026-09-16 10:53",
-      "summary": "Netflix faces criticism over ethics of new Stanford Prison Experiment reality series  the-independent.com..."
+      "title": "Stanford Tops B-Schools as Programs Adapt to AI - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTzdCUDk2SWo4ZmY2bVlua0dudEtCNlMzeVp5M3JGdUh1TG5lYWUxdk5nSDF3WV8yQVdWXzVNMFNTUzlOUW5lZ0xCaU1BRGprMFF4aG0yZmtpZTAxWWZvaFZFd3ZYTm0wTGQzX0hRdkhKVEtnakVacHNLUXJmbkcyWDNSNDNTX3J0ZTgzdzRLaUZWNmp6UHpGSUtWeTlRUlpLcU5mX1dKTGJGS3hpazVfU1dZZnpZYlR5cHZDZ0t6VDJEanBoMVJNQkhlcm1tQQ?oc=5",
+      "date": "2026-09-16 04:36",
+      "summary": "Stanford Tops B-Schools as Programs Adapt to AI  Bloomberg.com..."
+    },
+    {
+      "title": "Stanford Medicine team creates advanced model for studying brain development, disorders - med.stanford.edu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUNTZF9uY1loT29GOVc1NUZtUnl5bEF1TC1qZnQzeGJWWmZJZGtuNllUR2t1OVRWLVR1RVZtRGV5c3A4LU5qYnJWeXktangtYllMY0N5cDJkQWFNLWE5QnFsanV5ZGtYSFVic0NHQld0b2FIVWc5Y2x2dUFTLUNFTUZrRmJXcW0zeHNxUw?oc=5",
+      "date": "2026-09-16 15:05",
+      "summary": "Stanford Medicine team creates advanced model for studying brain development, disorders  med.stanford.edu..."
     }
   ],
   "Nature Careers": [
     {
-      "title": "Map of brain ‘microproteins’ could offer new clues to Alzheimer’s disease",
-      "link": "https://www.nature.com/articles/d41586-026-02914-6",
+      "title": "Inflection points and transitions in Alzheimer’s disease",
+      "link": "https://www.nature.com/articles/s41586-026-11110-5",
       "date": "2026-09-16 00:00",
-      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02914-6Researchers detect more than 1,000 overlooked microprot..."
+      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11110-5Inflection points and transitions in Alzheimer’s diseas..."
     },
     {
-      "title": "AI companies must work with the research community to protect attribution",
-      "link": "https://www.nature.com/articles/d41586-026-02886-7",
+      "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
+      "link": "https://www.nature.com/articles/s41586-026-11123-0",
       "date": "2026-09-16 00:00",
-      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02886-7An era-defining mathematics claim raises questions over..."
+      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11123-0Mechanisms of Transcriptional Regulation by Salicylic A..."
     },
     {
-      "title": "These bizarre, much-coveted microbes are revealing the origins of complex life",
-      "link": "https://www.nature.com/articles/d41586-026-02849-y",
+      "title": "Transplanted human brain-tissue takes root in mice without a cortex",
+      "link": "https://www.nature.com/articles/d41586-026-02927-1",
       "date": "2026-09-16 00:00",
-      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02849-yResearchers are racing to culture a menagerie of exotic..."
+      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02927-1Extensive cellular integration might provide platform f..."
     },
     {
-      "title": "I who have never known trees",
-      "link": "https://www.nature.com/articles/d41586-026-02859-w",
+      "title": "Development of a random background to understand ligand optimization",
+      "link": "https://www.nature.com/articles/s41586-026-11013-5",
       "date": "2026-09-16 00:00",
-      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02859-wLost connections...."
+      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11013-5An approach to improve efficiency and establish a backg..."
     },
     {
-      "title": "Quality control of glycogen through direct ubiquitylation by RNF213",
-      "link": "https://www.nature.com/articles/s41586-026-11139-6",
-      "date": "2026-09-15 00:00",
-      "summary": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11139-6Quality control of glycogen through direct ubiquitylati..."
+      "title": "Developmental xenocortication using human-derived organoids in mice",
+      "link": "https://www.nature.com/articles/s41586-026-11032-2",
+      "date": "2026-09-16 00:00",
+      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11032-2Xenocortication with human neurons enables circuit- and..."
     }
   ],
   "Retraction Watch": [
@@ -161,22 +161,22 @@
   ],
   "Reuters AI": [
     {
+      "title": "Cohere, Aleph Alpha combine to target enterprise AI market - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcW9IYi1iXzJKVVNfdVRRNnh3Q2hpOHNtNmRaTkljWE02YXVtc0E3QTVKMFM2bFFhSXJWYzZDM2pOTEdRS0FuU01QWEFnMEtfTHRKcnZuZXdoQjltX2cxRDEtUW1Pa2xFWDFmbVk4ZUt0bVY1X2JrUFdOZWJnZkxrMVpTVlk1Q0daZ08zTVRMdGxXZ3FMX1VFNGk4NkZSRjIwTWJxUFRROUtpa2tJb0RN?oc=5",
+      "date": "2026-09-16 16:19",
+      "summary": "Cohere, Aleph Alpha combine to target enterprise AI market  Reuters..."
+    },
+    {
       "title": "Meta's Zuckerberg says AI labs have enough incentive to build safely - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXpkV0dHb2JQWkgtUHFvUXBEU3ZVejJfSS1UeFVkYjRob1YzUGtBUVc2Y3dvRl83eU1nSHI0emU0c25lMzF0LUpXSTllVFJ4RlljaG9KX2lqTlppZ2VUM2Qyd3QtS3NaaWdRT3BFNVBQbktpbjRtUnlfWUhnazRMSGs5RzB2REhEVXA4YVFfRzBMY1Y3N0tRZVp5aUd5eG9XVHZSZUN4S0hER2pxRlE?oc=5",
       "date": "2026-09-16 02:25",
       "summary": "Meta's Zuckerberg says AI labs have enough incentive to build safely  Reuters..."
     },
     {
-      "title": "Johnson says no moratorium on AI, would give China competitive edge - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnIycWstWXJhUmprdWpkMkxDR2FzQVFGZnJWVGtDUHk1alFEQkhuRWJFdFFCcHY5NjdENzdsRkdzOXRqZTBZQnR5N0tXcG4tclpCTF9KcFNZSy1aX2tJZkljYVlVeWs5UWR1dlN5NXc2elNVZy1TeUNtbURhTUYzb1dFV2JHZTFuU1lTcnFYZUd4a3FJQ25pM0xmNUt6bnVLSzFrRGkwbHY?oc=5",
-      "date": "2026-09-15 15:31",
-      "summary": "Johnson says no moratorium on AI, would give China competitive edge  Reuters..."
-    },
-    {
-      "title": "Bessent says US open to discussing shared AI risks with China, Axios reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSTFILXRFaGlfMUdtb00tRVhOUTNKb0RTYVNZOE1yX0RIakRIakM4MXpJN2sySzBaTjR1ZWJnLTZ6YTJWeXVqYllDOVllYnZNdDlIeXN6MHVVc1pFYUdPRmxVNmRNYV92Umd6amNFekFpU1NjSmt5WWx6blY0cnBBS2N6TFd1R2tkRmlCU1lmWWVidTktdWZrNUNETk5pMm1RZkNRTEstZlhmM2xtMmlNZnFTb1ZWM1N5Z3BWcg?oc=5",
-      "date": "2026-09-16 17:48",
-      "summary": "Bessent says US open to discussing shared AI risks with China, Axios reports  Reuters..."
+      "title": "Do AI companies have to disclose dangerous incidents? - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjhWYTgzbzRiRUJ1WVlndUlucW91Rk53ZnpIZ1RmOUVaanp0U3ZEN2FXa08ta25xWlJKd0ptWUt1RTEzZXZaSXRRbUlLLXI2Q2JjVlR0dmdQTTFQNmtoTXV2T2hhOVBUeFktNjZCZmM1M0I5RHE1Qk1kT3N3Rzd6Z0dzOWNzOGRWLXpPaW02R19xTFFCWmJ3VjBta25pVnhMSVRzdA?oc=5",
+      "date": "2026-09-16 20:24",
+      "summary": "Do AI companies have to disclose dangerous incidents?  Reuters..."
     },
     {
       "title": "Calls to slow down AI development serve the interests of US AI leaders, says French finance minister - Yahoo",
@@ -187,7 +187,7 @@
     {
       "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5",
-      "date": "2026-09-16 17:02",
+      "date": "2026-09-16 17:49",
       "summary": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack  Reuters..."
     }
   ],
@@ -197,6 +197,12 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemNiREZFQ1BTNFMxT3M4eEQxMVJ3cGNRQ0RsbW5kYXAyekVlb3UxN00wTmNhQ3FGbDNtYWdpcXFYX3Iyb1dEbW9BX1czOE90NC1mOFNFQ243RjJHR3lVbF9mQUIxTUE1SHgzMjZoRnpTYnVLVy1HMFh4NTVoTWhOU0Z6M0tRWDI1eU5vSFlGNko1OTIzdDg1ZdIBngFBVV95cUxOUkhiMThseWwzamFhazEtTV9KZllGNXhTN3lpbHZMTWxIam9uOFN0ZWlmdXpPN3hrV0lVc3lfSWdMZEM5al9RSnQxUFpwUjBwaGxYd2lXNlZSeDVINVN3T3hTTFVGVXNfS3ZZZERUeUVVR3BmRDE2Sk1CU1NvNUt3Qk1FTWhvYU5DT01VcjdoVkJWN1A5aGNiTmtCODlHQQ?oc=5",
       "date": "2026-09-16 12:47",
       "summary": "Building the materials foundation for AI  MIT Technology Review..."
+    },
+    {
+      "title": "Meet a mouse whose brain cortex is made up of human cells - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3lXZF9pbDFDNDBIT1NMeTl0TEJEX2tNUVg1cTlyZDBxYWw1c2tVa1VqTG5WcFlJVXA5QU5PNk9LU0ZkcDFRYU1NRVpuMVJGel9QUXBNekRENmhoMThnNVVwcmc1VG4yVkZKbkRCMk1XNDZ5Qnl3VGpyX3dhSzdubFFTVVdxNm9zd1JfS2lUNnBQVjdmWGZiQ29CY2R6elY4YnVFMVlUbk1LOW1zcHE40gG0AUFVX3lxTFA4QkdSQk9JQ0VGSUlJdURPRS1jeVF4V3VnbGdmWHQ4M092YXhjV1d0SjNkclRjVTlNUTdHOVhhN1hUR2FLSUlUdE9PMDBjT053ZjVwdEo3d2V6SEdNVmY0SFp6ckJreG5kWGw2a3VNcmdDS19jYzRVV3gwb0dDRnNtcVdZTFZnSFlsbjNXZERNcTUtMGM0MTBlOEdUSXNfRFA1WjNWaUpiaHNzYl9aOE0weGFwQg?oc=5",
+      "date": "2026-09-16 15:00",
+      "summary": "Meet a mouse whose brain cortex is made up of human cells  MIT Technology Review..."
     },
     {
       "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid - MIT Technology Review",
@@ -215,44 +221,38 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjdubHBHRkVJRFJOalI4emFrRGYtWm5ZekRsVDQyQmRFNW51UlJGN2x0TktGOWdaUlFFb25LUDc1clJwM1V2cUEycjBoQ0V5d3RGR3BET2hCTXZ6d0ktdEdhRDZjZlJFMHBRYzFYU0t6d1hZZlJMM19WYWM0bDZxMGk5WUpZV0plaEkydEZ1SGZMNkVUb29uUlVDTW53d9IBowFBVV95cUxQbm9fdFRfQnkwNEFCUVh0Y2VOS205eFVDQXE2MWFRMDlySURIUk9BS05uNTJPczNaa0MxaHRiY3d4dWExNnJ4eVNuclE3NGdMckZzdVBOS3E4WDR3TFNBSURMbmQyZlVEdmNUbGpyLURoaUxLVU1IRkItZWVIQzNrUjFhc2dScTFhRE9fVFRUa0tjUjBTV1JTc2xySXNhUUswb3VZ?oc=5",
       "date": "2026-09-14 16:00",
       "summary": "AI agents blew the whistle on their cheating colleagues  MIT Technology Review..."
-    },
-    {
-      "title": "The AI industry has taken a doomer turn. What now? - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFpUVVpzM212TGNESFhEd2JGMVVmTTlnYlhLV3A3S002OW9KX21nTWZtaVBNNzdwQ0VvNDlPQ2ZDaktsYVZwVklOeklsU2VCUjBKZ0R5bVNnRW1aOHhfWjdsV1ZtTGE1UW5kU2szOTNCaVdXVGJIcWRZS0lONU9GamdPRktJLS0xZjdSazMtb3ZIU2g1NWVJcTNmUGVia3JPbEJv0gGoAUFVX3lxTE9EaW85YnpLa0xjejBkNmU4MVIzV2RETHZRWEdiVm1ON0IxWFlsVkJuWnlWZ0NEaUJ5NDBPRjlKcjN0MHB5ZG5IaGJNY05TbVRoaEZ1U21Yb2N3OEtLakFldUJJcnVfdVk1d0JuRlh1T1dxQ2wxR2pCMzVsT1hUQjljb0JLa0tlamFDel9WQmhrdGtUZU5oQ0RzOWo0MkxZTVN0bk9YR1lQeA?oc=5",
-      "date": "2026-09-14 17:54",
-      "summary": "The AI industry has taken a doomer turn. What now?  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Hedgehog coronaviruses may threaten cats more than humans, new study finds",
-      "link": "https://phys.org/news/2026-09-hedgehog-coronaviruses-threaten-cats-humans.html",
-      "date": "2026-09-16 17:40",
-      "summary": "Washington State University researchers have discovered how a group of coronaviruses circulating in hedgehogs invades host cells, ..."
+      "title": "Roll waves emerge as uniform water flow destabilizes on steep slopes, equations show",
+      "link": "https://phys.org/news/2026-09-emerge-uniform-destabilizes-steep-slopes.html",
+      "date": "2026-09-16 21:00",
+      "summary": "When it rains, traveling waves appear on steep asphalt pavement, slowly making their way down the slope. Because these so-called \"..."
     },
     {
-      "title": "From 10 to 22 years: The Nancy Grace Roman Space Telescope's mission has just been extended",
-      "link": "https://phys.org/news/2026-09-years-nancy-grace-roman-space.html",
-      "date": "2026-09-16 17:40",
-      "summary": "The Nancy Grace Roman Space Telescope hasn't yet reached its Sun–Earth L2 orbit, and it already has some good news. NASA has annou..."
+      "title": "Spekboom is nutritious, water‑wise and edible—so why aren't more South Africans eating it?",
+      "link": "https://phys.org/news/2026-09-spekboom-nutritious-waterwise-edible-south.html",
+      "date": "2026-09-16 21:00",
+      "summary": "Spekboom (Portulacaria afra) is an easy-to-grow succulent shrub, small tree or hedge. In the wild, it grows naturally as tall as f..."
     },
     {
-      "title": "Toilet pellets may help us flush less and save water",
-      "link": "https://phys.org/news/2026-09-toilet-pellets-flush.html",
-      "date": "2026-09-16 17:20",
-      "summary": "A pellet that dissolves in the toilet, turning the water blue and masking odor after urinating, could help us all save water, acco..."
+      "title": "Tendon cells can rebound from stiffness when returned to softer tissue-like surroundings",
+      "link": "https://phys.org/news/2026-09-tendon-cells-rebound-stiffness-softer.html",
+      "date": "2026-09-16 20:50",
+      "summary": "Researchers at Queen Mary University of London are closer to understanding tendinopathy, a common condition that can cause persist..."
     },
     {
-      "title": "Prime assembly can correct multiple mutations at once, pointing toward universal gene therapies",
-      "link": "https://phys.org/news/2026-09-prime-multiple-mutations-universal-gene.html",
-      "date": "2026-09-16 17:20",
-      "summary": "Genomic editing holds great potential yet continues to have limitations. Current methods either rely on untargeted gene delivery o..."
+      "title": "How online platforms are misaligned with late-career workers",
+      "link": "https://phys.org/news/2026-09-online-platforms-misaligned-late-career.html",
+      "date": "2026-09-16 20:40",
+      "summary": "The wonders of internet technology and the advent of the gig economy have given hope to many highly skilled workers that their rep..."
     },
     {
-      "title": "Gaming the market: Research provides insights for board game industry",
-      "link": "https://phys.org/news/2026-09-gaming-insights-board-game-industry.html",
-      "date": "2026-09-16 17:00",
-      "summary": "Anyone who has ever damaged a friendship over a supposedly friendly game of Monopoly knows the allure of board games...."
+      "title": "Fungi neutralize spruce defense mechanisms with sugar",
+      "link": "https://phys.org/news/2026-09-fungi-neutralize-spruce-defense-mechanisms.html",
+      "date": "2026-09-16 20:40",
+      "summary": "A research team at the Max Planck Institute for Chemical Ecology discovered a previously unknown strategy by which certain fungi n..."
     }
   ],
   "The Guardian Edu": [
