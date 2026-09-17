@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford Medicine team creates advanced model for studying brain development, disorders - Stanford Medicine",
+      "title": "Stanford Medicine team creates advanced model for studying brain development, disorders - med.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUNTZF9uY1loT29GOVc1NUZtUnl5bEF1TC1qZnQzeGJWWmZJZGtuNllUR2t1OVRWLVR1RVZtRGV5c3A4LU5qYnJWeXktangtYllMY0N5cDJkQWFNLWE5QnFsanV5ZGtYSFVic0NHQld0b2FIVWc5Y2x2dUFTLUNFTUZrRmJXcW0zeHNxUw?oc=5",
       "date": "2026-09-16 15:05",
-      "summary": "Stanford Medicine team creates advanced model for studying brain development, disorders  Stanford Medicine..."
+      "summary": "Stanford Medicine team creates advanced model for studying brain development, disorders  med.stanford.edu..."
     },
     {
       "title": "No UCs made the top 10 in this new college ranking — but these California schools did - San Francisco Chronicle",
@@ -83,10 +83,10 @@
       "summary": "Stanford Pursues $100M Housing And Academic Expansion  Bisnow..."
     },
     {
-      "title": "NLRB official says Stanford residential advisers can unionize - reuters.com",
+      "title": "NLRB official says Stanford residential advisers can unionize - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmJKcmtkSXZkc05TYnQwNF85ak13WFJWRGsyU3IzRGNua2U0c3AxWF9hVEdSakNlcnN4SWlxaXpIV3BxSUlLcW9SMS1hU01UYmN6R2dpWHFReU9IaHNGNnZVNC1qR1hPWkZOSjVZUGxuclk0OFk4WmppRTNiWnVNNnhxWTVxakh5UmwwakRLOExTODZnb254SEQxTlFUNzRnaGJvV1NiYTgzcjM3NGNoMTdrdVU?oc=5",
       "date": "2026-09-14 15:05",
-      "summary": "NLRB official says Stanford residential advisers can unionize  reuters.com..."
+      "summary": "NLRB official says Stanford residential advisers can unionize  Reuters..."
     },
     {
       "title": "Netflix faces criticism over ethics of new Stanford Prison Experiment reality series - the-independent.com",
@@ -97,37 +97,43 @@
   ],
   "Nature Careers": [
     {
+      "title": "Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer",
+      "link": "https://www.nature.com/articles/s41586-026-11134-x",
+      "date": "2026-09-17 00:00",
+      "summary": "Nature, Published online: 17 September 2026; doi:10.1038/s41586-026-11134-xAuthor Correction: Genomic deletion of malic enzyme 2 c..."
+    },
+    {
+      "title": "Schoolhouse meals serve up an income bump",
+      "link": "https://www.nature.com/articles/d41586-026-02896-5",
+      "date": "2026-09-17 00:00",
+      "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02896-5Modelling shows a link between feeding programmes and h..."
+    },
+    {
+      "title": "How fast are you ageing? Ask AI",
+      "link": "https://www.nature.com/articles/d41586-026-02913-7",
+      "date": "2026-09-17 00:00",
+      "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02913-7A new system will help scientists to refine large langu..."
+    },
+    {
       "title": "Exclusive: New evidence for hidden chambers beyond Tutankhamun’s tomb",
       "link": "https://www.nature.com/articles/d41586-026-02621-2",
       "date": "2026-09-17 00:00",
       "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02621-2Geophysical survey yields ‘tantalizing’ data that could..."
     },
     {
-      "title": "OpenAI maths bombshell sparks debate about who gets credit in age of AI",
-      "link": "https://www.nature.com/articles/d41586-026-02910-w",
+      "title": "Take a risk or play it safe? Neuronal tug-of-war helps the brain decide",
+      "link": "https://www.nature.com/articles/d41586-026-02911-9",
       "date": "2026-09-17 00:00",
-      "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02910-wControversy around OpenAI’s claim to have solved the Na..."
-    },
-    {
-      "title": "Inflection points and transitions in Alzheimer’s disease",
-      "link": "https://www.nature.com/articles/s41586-026-11110-5",
-      "date": "2026-09-16 00:00",
-      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11110-5Inflection points and transitions in Alzheimer’s diseas..."
-    },
-    {
-      "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
-      "link": "https://www.nature.com/articles/s41586-026-11123-0",
-      "date": "2026-09-16 00:00",
-      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11123-0Mechanisms of Transcriptional Regulation by Salicylic A..."
-    },
-    {
-      "title": "Why most  stars don’t have outbursts like our Sun’s",
-      "link": "https://www.nature.com/articles/d41586-026-02833-6",
-      "date": "2026-09-16 00:00",
-      "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02833-6A strong magnetic field can disrupt a star’s ability to..."
+      "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02911-9Using a video game involving bombs and treasure chests,..."
     }
   ],
   "Retraction Watch": [
+    {
+      "title": "Paper mill studies get cited by clinical guidelines, policy docs and more, analysis finds",
+      "link": "https://retractionwatch.com/2026/09/17/paper-mill-studies-get-cited-by-clinical-guidelines-policy-docs-and-more-analysis-finds/",
+      "date": "2026-09-17 17:11",
+      "summary": "Studies produced by a suspected paper mill are frequently cited in patents, clinical guidelines and policy documents, according to..."
+    },
     {
       "title": "Lancet union declares first-ever strike over staff wages",
       "link": "https://retractionwatch.com/2026/09/16/lancet-journals-national-union-journalists-strike-over-staff-wages/",
@@ -151,44 +157,38 @@
       "link": "https://retractionwatch.com/2026/09/14/american-psychological-association-technology-mind-behavior-sarah-baldeo-id-quotient/",
       "date": "2026-09-14 21:07",
       "summary": "A psychology journal has retracted a paper on how using generative AI can affect confidence in work tasks after its sole author re..."
-    },
-    {
-      "title": "Weekend reads: The afterlife of retracted articles; ADA denies it censored opinions; a ‘twisted phantasmagory’ of ghostwriting",
-      "link": "https://retractionwatch.com/2026/09/12/weekend-reads-the-afterlife-of-retracted-articles-ada-denies-it-censored-opinions-a-twisted-phantasmagory-of-ghostwriting/",
-      "date": "2026-09-12 10:00",
-      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
     }
   ],
   "Reuters AI": [
     {
-      "title": "US, China security experts propose nuclear-style safeguards for AI risks - reuters.com",
+      "title": "US, China security experts propose nuclear-style safeguards for AI risks - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd01DQXNsMmI1M3p2T1pRSjlGNEdjZHJHVGRPSE5lS2lNXzZYWi0wTmxCNUthU0ZmX1NQUklKeHZOWkZyZDVWMjNlTlBlOGl6NVFEclVyNFdJbmppMG13VkdWOXlfUXR3WnM1d3M0Y19xYWhuTTNxMGhIbGo2ek1OVU0xbXZuWnJOT29SazNfLXF4VF9IRC1ZVThUeXBWUTUyYzluVFBUa3NzQVhSMGExeEdxb1dKdw?oc=5",
       "date": "2026-09-17 04:43",
-      "summary": "US, China security experts propose nuclear-style safeguards for AI risks  reuters.com..."
+      "summary": "US, China security experts propose nuclear-style safeguards for AI risks  Reuters..."
     },
     {
-      "title": "OpenAI to regularly disclose AI misbehavior, warns safety challenges remain - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ09uWFd0WmUtWloyeENhUWp5NFJiNVF6REhDTUE2ZHZETW5DLUkyRG5QNDhfb0pvVWd5TkVLUEh0WnVja3dxMWJuU2ItSmRQLWM1bFJwN3RmdG03OWRhTXhzejQ2RHpBOTZ4d3hzQXdXOVNycjliMmlRSWhvOUF4NkpkVXVLcnZ2MThmTXpXMlJhQzVZQ0ZkWVAwX1Uwdw?oc=5",
-      "date": "2026-09-16 22:13",
-      "summary": "OpenAI to regularly disclose AI misbehavior, warns safety challenges remain  reuters.com..."
+      "title": "In Silicon Valley, AI data center boom meets local resistance - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS083TTN6VWhFczdsMTRsUHA4cXFVdXBxaGE4YjJSeXVQbnhVZUxjdUszX29LaWJDS0Yyc3Npc25OMjRHRTlKbWtPNXNLRHAxWWZVLWZzbktOVWp4RDcwcVhLblYtWWVPLWw3SGZqVXVFR3JCRmZPY0pqVTdCaUZNbGkwY2xfSkVqX01rM3RCNElodEFOWWJzUmlCTVFOcDk3RlZIcQ?oc=5",
+      "date": "2026-09-17 15:46",
+      "summary": "In Silicon Valley, AI data center boom meets local resistance  Reuters..."
     },
     {
-      "title": "NEWSLETTER: Will AI fears reach the ballot box? - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmtXU2o2cXU2Q2I3cTJRLThDLURiSk9XZGZnWGtUaGpXQmVTMDhYeHl6WGM2aUs5QTQ4RVd1RWdiYzBnblI1SW9GQ09seURXdjVTeXIxNmpNNVExN01ObFVYOW42QWhsMkJBNHZWTEp2MkZHVFdJakIwblZrYkg2bw?oc=5",
-      "date": "2026-09-17 17:20",
-      "summary": "NEWSLETTER: Will AI fears reach the ballot box?  reuters.com..."
+      "title": "US government website used AI search tool from China that FBI said copied Anthropic - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSTBHb0F3bjFOTVY4RDExZ1Q4SUVqOEppWEdrc0t0TUhUc0NZNG0yZl9Da2daU1RyRnZPYlMzSDRRM0UzTlgwSHpTTDBKR201eVJocll5WHhKdDZNekVTTnBiQmhLaGZaaXZXQTBPRncxNjVUQjNIWU50RWRNd19wNmR4VGdNMzJEeGpoMXRNSG9Bd1JYc0ZYemZkUXZGUXBLRVBLYnozN1FmZ1dlcTYwdHU0aEtxd2RJOC1jb1M5empFdmNSWEV5bzAwTQ?oc=5",
+      "date": "2026-09-17 20:45",
+      "summary": "US government website used AI search tool from China that FBI said copied Anthropic  Reuters..."
     },
     {
-      "title": "AI infrastructure provider Crusoe valued at $30.9 billion in latest funding round - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPelhHRTAzNUtLeUV2WUhZeFdSenJqWWg5U0lZbHF0ZmhWOTR5T2ZucnpWVGFqYVppTVBKeVBtR1dHcGh4VUpPa1pESWRTRktaVVFBUFpkZlVGeVM3N2YtZXd1U0xMU0FaSUV5R2haMTNsOGJNS3RIRmxYSW50LXVFb21mQ1I2eF9VRnB6T0tlNjdNWGhycmlUU29jM0s5VGFpM3d0RHpoejRUbEM0Y3VoSE9QaGxOUXd5ekE?oc=5",
-      "date": "2026-09-17 19:26",
-      "summary": "AI infrastructure provider Crusoe valued at $30.9 billion in latest funding round  reuters.com..."
+      "title": "OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHczYjIxX2dqTUpmMjBubHYzSTZCTVhBdmhHZDdOY1Zia05tQzhzY3hFc0pWR0czakY2c2ROUnlOZm1TbGNyTFk4UGc5REVTYzJmekFoRnFNS2lPeEhKVDctVkJXaHhldkZJanpqenFwZWtVT3JnQ0JYTmVja2ZKcS1EMTMwS0NpNzdVczhhRUVWLXF5aF9qRXBPVFJXSFljQWdwT0FWUjVBbDQ4YkVOdUNBS1ZtR0YzaXM2YnlYQ3VpQmt2YnVqNEEzejM3bjM0cDZj?oc=5",
+      "date": "2026-09-17 21:48",
+      "summary": "OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue  Reuters..."
     },
     {
-      "title": "King Charles warns tech leaders of 'existential dangers' from AI - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFdPV3JrbjNYMUd3RXlUY3NwOU5RMTVheVM2eHRUQ2VFWnBVU2w2SnFqR05iaHBiZzE5MHlyc1ZhX1NSeWxHMmNLMEx4YkxBQjVZY1A4MllpU19lM0c5RHhnV3JTRkQzWGlDME1Cam9WdlVzTTVNclhxZm90akpuUHFkeW9INXdGbmdiUTBTNHBnZEVSNmxtRDNLUWNPQTh4N05qVmh4c01JUWM?oc=5",
-      "date": "2026-09-17 17:40",
-      "summary": "King Charles warns tech leaders of 'existential dangers' from AI  reuters.com..."
+      "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5",
+      "date": "2026-09-17 22:17",
+      "summary": "Anthropic says Claude now leads a quarter of work building its next AI models  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Portable metasurface biosensor turns molecular signals into images, bypassing spectrometers",
-      "link": "https://phys.org/news/2026-09-portable-metasurface-biosensor-molecular-images.html",
-      "date": "2026-09-17 19:30",
-      "summary": "What if signs of disease could be detected using nothing more than a tiny chip that fits in the palm of your hand and a camera, wi..."
+      "title": "Motivational traits may help explain why some people report greater well-being",
+      "link": "https://phys.org/news/2026-09-traits-people-greater.html",
+      "date": "2026-09-17 22:20",
+      "summary": "\"People who are determined, passionate and believe in their ability to improve appear more likely to flourish and experience meani..."
     },
     {
-      "title": "Tons of fishing gear and plastic are washing up on Seychelles beaches. We tracked where it was coming from",
-      "link": "https://phys.org/news/2026-09-tons-fishing-gear-plastic-seychelles.html",
-      "date": "2026-09-17 19:20",
-      "summary": "Vast quantities of plastic and fishing gear are washing up along the shores of the Seychelles, destroying fragile ecosystems and c..."
+      "title": "Newfound fungal nutrient-sensing mechanism could advance biofuels and disease control",
+      "link": "https://phys.org/news/2026-09-newfound-fungal-nutrient-mechanism-advance.html",
+      "date": "2026-09-17 22:20",
+      "summary": "Scientists have taken a step toward a better understanding of how fungi sense and respond to nutrients in the environment, which i..."
     },
     {
-      "title": "Two spike 'keys' work together to let SARS-CoV-2 enter cells, study reveals",
-      "link": "https://phys.org/news/2026-09-spike-keys-sars-cov-cells.html",
-      "date": "2026-09-17 19:20",
-      "summary": "To enter cells, the COVID-19 virus fuses its surrounding membrane with the membrane of the target cell. This is where the fusion p..."
+      "title": "Climate change contributing to permafrost thawing and glacial thinning",
+      "link": "https://phys.org/news/2026-09-climate-contributing-permafrost-glacial-thinning.html",
+      "date": "2026-09-17 22:00",
+      "summary": "An international team of glaciologists and climate scientists, including professor Bethan Davies from Newcastle University, carrie..."
     },
     {
-      "title": "Activated learning-and-memory protein forms growing molecular chains, imaging reveals",
-      "link": "https://phys.org/news/2026-09-memory-protein-molecular-chains-imaging.html",
-      "date": "2026-09-17 19:10",
-      "summary": "Researchers at the Nano Life Science Institute (WPI-NanoLSI) at Kanazawa University, Kyoto University, SOKENDAI and the National I..."
+      "title": "Why global wind energy may stay steady even as storm tracks shift poleward",
+      "link": "https://phys.org/news/2026-09-global-energy-stay-steady-storm.html",
+      "date": "2026-09-17 22:00",
+      "summary": "Understanding how wind changes in response to global warming is necessary for accurately modeling climate and weather, identifying..."
     },
     {
-      "title": "What kills Schrödinger's cat? Underground experiment rules out gravity model for quantum decoherence",
-      "link": "https://phys.org/news/2026-09-schrdinger-cat-underground-gravity-quantum.html",
-      "date": "2026-09-17 19:00",
-      "summary": "Somewhere between the microscopic realm of elementary particles and the macroscopic world of human beings, something strange happe..."
+      "title": "Laser shocks turn plastic into ultra-small, high-purity nanodiamonds",
+      "link": "https://phys.org/news/2026-09-laser-plastic-ultra-small-high.html",
+      "date": "2026-09-17 21:40",
+      "summary": "Nanodiamonds are tiny diamond particles that usually measure mere millionths of a millimeter. They are extremely hard, stable and ..."
     }
   ],
   "The Guardian Edu": [
