@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "MIT researchers are mapping extreme weather risks — and building tools to act on them",
+      "link": "https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918",
+      "date": "2026-09-18 16:55",
+      "summary": "The Climate Grand Challenges “New World of Weather” project shows how modeling, planning tools, and infrastructure analysis are tr..."
+    },
+    {
       "title": "A new understanding of how enzymes influence bacterial protein production",
       "link": "https://news.mit.edu/2026/how-enzymes-influence-bacterial-protein-production-0918",
       "date": "2026-09-18 16:20",
@@ -23,47 +29,47 @@
       "link": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
       "date": "2026-09-16 15:00",
       "summary": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neuro..."
-    },
-    {
-      "title": "Marine bacteria team up to break down one of the ocean's toughest carbon-storing molecules",
-      "link": "https://news.mit.edu/2026/marine-bacteria-team-up-to-break-down-carbon-storing-molecules-0914",
-      "date": "2026-09-14 20:30",
-      "summary": "Researchers reveal how communities of marine bacteria divide the task of degrading fucoidan, a key player in ocean carbon storage...."
     }
   ],
   "Harvard Gazette": [
     {
-      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "title": "20 societal problems, 20 solutions - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
-      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
+      "summary": "20 societal problems, 20 solutions  news.harvard.edu..."
     },
     {
-      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "title": "How AI may change public policy, how we lead - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
       "date": "2026-07-28 07:00",
-      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
+      "summary": "How AI may change public policy, how we lead  news.harvard.edu..."
     },
     {
-      "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
+      "title": "Harvard releases information on 1,613 enslaved individuals - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
-      "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+      "summary": "Harvard releases information on 1,613 enslaved individuals  news.harvard.edu..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "title": "Worried about how online firms use data they get from you? - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+      "summary": "Worried about how online firms use data they get from you?  news.harvard.edu..."
     },
     {
-      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "title": "What happens if an AI agent goes rogue and causes harm? - news.harvard.edu",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
       "date": "2026-07-10 07:00",
-      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
+      "summary": "What happens if an AI agent goes rogue and causes harm?  news.harvard.edu..."
     }
   ],
   "Stanford News": [
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds - Stanford Medicine",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xZTcyUUxsbVR5cS1oS2s3Wi1vNWprNnkycTdFTDhNbTFjdWtIUEpGZVp1SVQ5NGJDeEN4eTNSeXJhT1pZTy1vU2oyNXlRYUF5RHJsMmc0UWhFTUcwTWhDUU5CTEVmT3FTT3UwY0hkS2FVWXpITS1qNWkwUQ?oc=5",
+      "date": "2026-09-18 14:13",
+      "summary": "Human brain is two separate organs, Stanford Medicine-led research finds  Stanford Medicine..."
+    },
     {
       "title": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery - Stanford Medicine",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRnFHYlZsNzYwS2NwYWtleUtJSC13SUJCTlJQelk4ZFd2OHEydmdPQjB5R2F0ZXl4UWhYS2pjc213S3RPemJaUWQ3bHlGQzlRZlFENUhjZ3hDelBmOGtTbFRfTXlqVHpSSzJnRVl0UXFWMUl6ZXpSd1B3OTU4NnFRMA?oc=5",
@@ -71,10 +77,10 @@
       "summary": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery  Stanford Medicine..."
     },
     {
-      "title": "No UCs made the top 10 in this new college ranking — but these California schools did - sfchronicle.com",
+      "title": "No UCs made the top 10 in this new college ranking — but these California schools did - San Francisco Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHRGLXUyQjlFVzFDRms4UmRibzNZYTdkVFh6UVowMVdfa3c0UjBFTXQ4Z0Jic3FqMHRMcWVqd1ktaEJLNEZxdGxrZllDOFA4S2YwZ1JvMjZWVHRCZFlhTnVabEFLaDh6TElMa2JWcDk4TGI1VVkxeUZremZTM2JCRXVOWHJfclcz?oc=5",
       "date": "2026-09-16 18:10",
-      "summary": "No UCs made the top 10 in this new college ranking — but these California schools did  sfchronicle.com..."
+      "summary": "No UCs made the top 10 in this new college ranking — but these California schools did  San Francisco Chronicle..."
     },
     {
       "title": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data - MarkTechPost",
@@ -83,16 +89,10 @@
       "summary": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data  MarkT..."
     },
     {
-      "title": "Stanford Pursues $100M Housing And Academic Expansion - Bisnow",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0p1X3RQMmJBcWNGcVR1NE1zdUt2WXZXYmxFZjZaaUg5dWpSWkdKWnROb0xnVmZxdHlreFVSQlNMQzVmTlRuQ1kzWXp2QU9Zak5ac0YySDRfd0VDbVJOSko3SXk4OEZHMmJvcFRTVTVZVnBXQk5uUTVoaFhKYTRQMm9lUGRQbWdkQ3dnekhfdFNvRy1VTU03VGZDa19NanFuUmJPVzNhMTVTVDFKVFFYYjk3aTE?oc=5",
-      "date": "2026-09-15 19:10",
-      "summary": "Stanford Pursues $100M Housing And Academic Expansion  Bisnow..."
-    },
-    {
-      "title": "Netflix’s new Stanford Prison Experiment reality series sparks ethical concerns - the-independent.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzRnNDFUQklMSGZnaFBhUFdEcXloNHkxY0pYSjlrZFowYzdleXFxT1ltWENqb3pZRVlsS0V0QUV6azNZcGpoNnl0U0NBaExBOFBGc05wVVUwMW9VcEdyeG9TVFBIMjEzYmlKZXlfTnJiMl84c3MxcXkwSUV6X184QS14Z1JzODg5NkliNEVnZGpZa3BvN2Z3clFTTVdHR2R2YVUzVi1ETlI0TmFNbzQtd3dxeDhOd1J0?oc=5",
-      "date": "2026-09-16 10:53",
-      "summary": "Netflix’s new Stanford Prison Experiment reality series sparks ethical concerns  the-independent.com..."
+      "title": "Cards Match Program Record with Win at No. 6 Stanford - gocards.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTZ0bWdfX2N1WEF4QTBOLURpWElaM2dpWjMxRVJXLXR6YV9MSGRQcktYOHdyamdlUWZfaUxFODlnS28tNkVxRkpXREh3XzNjX19EZGxrS2dleEY2SmpxQjhkTi03MUZsOXFROUNVX0VhR2pCV3hJWnhXTE1BMXJNTUJDWFJTS3BRZjFJeWdLVXpHNEVtRU9qZEtQbmhRZ3pSZEhV?oc=5",
+      "date": "2026-09-18 05:38",
+      "summary": "Cards Match Program Record with Win at No. 6 Stanford  gocards.com..."
     }
   ],
   "Nature Careers": [
@@ -101,6 +101,18 @@
       "link": "https://www.nature.com/articles/d41586-026-02897-4",
       "date": "2026-09-18 00:00",
       "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4The trait could explain why symptoms vary in severity b..."
+    },
+    {
+      "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
+      "link": "https://www.nature.com/articles/d41586-026-02984-6",
+      "date": "2026-09-18 00:00",
+      "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6Nature staff discuss data that could point to Nefertiti..."
+    },
+    {
+      "title": "Europe pushes for space independence amid geopolitical rifts",
+      "link": "https://www.nature.com/articles/d41586-026-02919-1",
+      "date": "2026-09-18 00:00",
+      "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02919-1The European Union is easing its reliance on US space i..."
     },
     {
       "title": "How research funding took me out of the lab and into leadership",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/d41586-026-02945-z",
       "date": "2026-09-18 00:00",
       "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02945-zGene-targeting treatments could be used to treat other ..."
-    },
-    {
-      "title": "Chinese companies doubled down on science after US tech restrictions",
-      "link": "https://www.nature.com/articles/d41586-026-02946-y",
-      "date": "2026-09-18 00:00",
-      "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02946-yAffected Chinese companies adjusted their sources of kn..."
-    },
-    {
-      "title": "Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer",
-      "link": "https://www.nature.com/articles/s41586-026-11134-x",
-      "date": "2026-09-17 00:00",
-      "summary": "Nature, Published online: 17 September 2026; doi:10.1038/s41586-026-11134-xAuthor Correction: Genomic deletion of malic enzyme 2 c..."
     }
   ],
   "Retraction Watch": [
@@ -173,9 +173,15 @@
       "summary": "Anthropic says Claude now leads a quarter of work building its next AI models  Reuters..."
     },
     {
+      "title": "US Treasury's Bessent plans to discuss AI and rare earths with China's He, source says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXgxcUNDSEx5a2VvaTV1MTNfVXZsOTBWaGZleGUtNE81bjhUVWhRUHZKOTFBZHNhYW5OWmlGV1llT0NFc3BpZUIwY0d6aHdVZUVFMU5kMUJTOEMwLVBKTWhkU3dQN1Fsdk1TaVR3WmVKWjFkLWZKOTlRLS1wVTZHUDJERUpyajZabGxrQ01iRDYzdzB1ME5SV1BUS1B1Um5Ea1VkTEVaV0NGUkFndTZsOGt1Um1oX1lWM3RmWEN4d1VEZw?oc=5",
+      "date": "2026-09-18 18:53",
+      "summary": "US Treasury's Bessent plans to discuss AI and rare earths with China's He, source says  Reuters..."
+    },
+    {
       "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
-      "date": "2026-09-18 13:03",
+      "date": "2026-09-18 17:18",
       "summary": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program  Reuters..."
     },
     {
@@ -183,12 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3dVVjdKajM2eG9NSWR6aTBVR0RXU2RpdjNhR3dWMXBRcHd6OTNLMkc5UG9GUHVjRVhKRmMzeGdnZC1BVVRVTXJKU0NSSUZwcjJlRFlFNldST2MxUF9XTzZSX1NZN3k0elJsSldBTkRmS0VVbzl4TU5uTWFmQ0FlcS1uTUxaLUhjcEtvMTNUYWkzUlU4aTlFWDliZXkxNGh0WG44M2s4Sy01dXVlX0E?oc=5",
       "date": "2026-09-18 15:18",
       "summary": "Disney names Character.AI's Karandeep Anand its first tech chief  Reuters..."
-    },
-    {
-      "title": "In Silicon Valley, AI data center boom meets local resistance - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS083TTN6VWhFczdsMTRsUHA4cXFVdXBxaGE4YjJSeXVQbnhVZUxjdUszX29LaWJDS0Yyc3Npc25OMjRHRTlKbWtPNXNLRHAxWWZVLWZzbktOVWp4RDcwcVhLblYtWWVPLWw3SGZqVXVFR3JCRmZPY0pqVTdCaUZNbGkwY2xfSkVqX01rM3RCNElodEFOWWJzUmlCTVFOcDk3RlZIcQ?oc=5",
-      "date": "2026-09-17 10:05",
-      "summary": "In Silicon Valley, AI data center boom meets local resistance  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -217,42 +217,42 @@
       "summary": "The AI industry has taken a doomer turn. What now?  MIT Technology Review..."
     },
     {
-      "title": "AI agents blew the whistle on their cheating colleagues - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjdubHBHRkVJRFJOalI4emFrRGYtWm5ZekRsVDQyQmRFNW51UlJGN2x0TktGOWdaUlFFb25LUDc1clJwM1V2cUEycjBoQ0V5d3RGR3BET2hCTXZ6d0ktdEdhRDZjZlJFMHBRYzFYU0t6d1hZZlJMM19WYWM0bDZxMGk5WUpZV0plaEkydEZ1SGZMNkVUb29uUlVDTW53d9IBowFBVV95cUxQbm9fdFRfQnkwNEFCUVh0Y2VOS205eFVDQXE2MWFRMDlySURIUk9BS05uNTJPczNaa0MxaHRiY3d4dWExNnJ4eVNuclE3NGdMckZzdVBOS3E4WDR3TFNBSURMbmQyZlVEdmNUbGpyLURoaUxLVU1IRkItZWVIQzNrUjFhc2dScTFhRE9fVFRUa0tjUjBTV1JTc2xySXNhUUswb3VZ?oc=5",
-      "date": "2026-09-14 16:00",
-      "summary": "AI agents blew the whistle on their cheating colleagues  MIT Technology Review..."
+      "title": "What’s at stake in AI’s trillion-dollar gamble - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNejNNMURnQWVMZXpvQmRQRUl2SzZWbkc2MmFPa1ZIQThwYmxkcDEwOU4tcVRIMk5IR2x2aGF3T0JrT0JLNU82a0tIa3Z5cjRDR3prdElrRTV2SHBuSWN4Qy1xS3F6am1DSFRxX2FTUlZBNnIwZXE1WHV6Z0dvNjR5d3IyX21qS3dlUTQ1WFg0QjdYcnNWU0dnTktfUldUQTTSAaQBQVVfeXFMUFYzLTNYOUFwSVlaUWw4SkdaR3BEeVltcS1sRm5JbWZiREN0TGV3RHptd2JUOTJkY2s0UU9nNWpvbDZxZ2p1SGRJOEVfcEVTamJRQmdsUEQzZkprMl9palQ0YWhRenlTd25oZkNvRGg3VklORkhfM09sdHEybzJCTUlnTWZIM2J1SmFLSFJHMUdjamlkaUNma0g2blhsWGlFQ0pYcEU?oc=5",
+      "date": "2026-09-15 10:00",
+      "summary": "What’s at stake in AI’s trillion-dollar gamble  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Coffee on the nanoscale: Graphene oxide membrane removes half the caffeine while retaining key compounds",
-      "link": "https://phys.org/news/2026-09-coffee-nanoscale-graphene-oxide-membrane.html",
-      "date": "2026-09-18 16:40",
-      "summary": "The humble coffee filter has the relatively simple job of letting the coffee through and leaving the grounds behind. But researche..."
+      "title": "Medieval Chinese skeleton may reveal first evidence of a brutal punishment",
+      "link": "https://phys.org/news/2026-09-medieval-chinese-skeleton-reveal-evidence.html",
+      "date": "2026-09-18 19:20",
+      "summary": "Ancient Chinese authorities used many creative ways to punish people, often with methods designed to mark them for life. One bruta..."
     },
     {
-      "title": "Hubble spots an out-of-sync galaxy",
-      "link": "https://phys.org/news/2026-09-hubble-sync-galaxy.html",
-      "date": "2026-09-18 16:40",
-      "summary": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This ..."
+      "title": "Workplace AI adoption remains slow, informal and uneven, survey finds",
+      "link": "https://phys.org/news/2026-09-workplace-ai-uneven-survey.html",
+      "date": "2026-09-18 19:20",
+      "summary": "Despite the rapid development of generative AI and the high level of public interest, the use of AI in the day-to-day work of many..."
     },
     {
-      "title": "Anti-transgender legislation can cause psychological distress even in states with trans-friendly laws",
-      "link": "https://phys.org/news/2026-09-anti-transgender-legislation-psychological-distress.html",
-      "date": "2026-09-18 16:20",
-      "summary": "Legislation that affects or discriminates against transgender and gender-diverse individuals can cause more psychological distress..."
+      "title": "To read 2,000-year-old burned scrolls, scientists burn their own",
+      "link": "https://phys.org/news/2026-09-year-scrolls-scientists.html",
+      "date": "2026-09-18 19:00",
+      "summary": "Douglas Seiler painstakingly sourced papyrus and reed pens from Egypt and traditional lampblack ink from Japan, then paid some hig..."
     },
     {
-      "title": "An extremely stable quantum gas offers a new lens on strongly interacting systems",
-      "link": "https://phys.org/news/2026-09-extremely-stable-quantum-gas-lens.html",
-      "date": "2026-09-18 16:20",
-      "summary": "Molecular gases are a new form of artificial quantum matter. However, when these molecules collide, they are often lost extremely ..."
+      "title": "Power breeds suspicion: In cases of wrongdoing, people point to leaders more quickly",
+      "link": "https://phys.org/news/2026-09-power-suspicion-cases-wrongdoing-people.html",
+      "date": "2026-09-18 19:00",
+      "summary": "People with power are more quickly singled out as the culprit when something goes wrong but it is unclear who made the mistake. Th..."
     },
     {
-      "title": "The art heist paradox: Why better police work can lead to more stolen masterpieces",
-      "link": "https://phys.org/news/2026-09-art-heist-paradox-police-stolen.html",
-      "date": "2026-09-18 16:00",
-      "summary": "When a multimillion-dollar masterpiece vanishes from a museum, the public calls for tougher criminal penalties and better-funded p..."
+      "title": "Europe can lower emissions without deindustrializing, say researchers",
+      "link": "https://phys.org/news/2026-09-europe-emissions-deindustrializing.html",
+      "date": "2026-09-18 18:40",
+      "summary": "The European Union has committed to achieving climate neutrality by 2050, a process that will require rapid and substantial reduct..."
     }
   ],
   "The Guardian Edu": [
