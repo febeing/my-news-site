@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "A new understanding of how enzymes influence bacterial protein production",
+      "link": "https://news.mit.edu/2026/how-enzymes-influence-bacterial-protein-production-0918",
+      "date": "2026-09-18 16:20",
+      "summary": "Novel research expands scientific understanding of how RNA shapes the reading of genetic information...."
+    },
+    {
       "title": "Robotic lab sets up and runs optics experiments on demand",
       "link": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
       "date": "2026-09-17 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/marine-bacteria-team-up-to-break-down-carbon-storing-molecules-0914",
       "date": "2026-09-14 20:30",
       "summary": "Researchers reveal how communities of marine bacteria divide the task of degrading fucoidan, a key player in ocean carbon storage...."
-    },
-    {
-      "title": "New method enables AI for safety-critical situations",
-      "link": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
-      "date": "2026-09-14 04:00",
-      "summary": "The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty c..."
     }
   ],
   "Harvard Gazette": [
@@ -71,10 +71,16 @@
       "summary": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery  Stanford Medicine..."
     },
     {
-      "title": "No UCs made the top 10 in this new college ranking — but these California schools did - San Francisco Chronicle",
+      "title": "No UCs made the top 10 in this new college ranking — but these California schools did - sfchronicle.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHRGLXUyQjlFVzFDRms4UmRibzNZYTdkVFh6UVowMVdfa3c0UjBFTXQ4Z0Jic3FqMHRMcWVqd1ktaEJLNEZxdGxrZllDOFA4S2YwZ1JvMjZWVHRCZFlhTnVabEFLaDh6TElMa2JWcDk4TGI1VVkxeUZremZTM2JCRXVOWHJfclcz?oc=5",
       "date": "2026-09-16 18:10",
-      "summary": "No UCs made the top 10 in this new college ranking — but these California schools did  San Francisco Chronicle..."
+      "summary": "No UCs made the top 10 in this new college ranking — but these California schools did  sfchronicle.com..."
+    },
+    {
+      "title": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRC1rMDNZVnlJNjE5TUlweGR5SVBqYnlWSDA1MV9LU2pPSE5WSmtDZHk0Uk5GREdSd3RXUkJFeUtPcjZFcUY0VHlrUV93eVdpWFJtb2pUU0ZQUU9GM2ltdnJBSm9GSTRvRndTRElwemF3bWQzT0o1NnhGTHJJLV9Da21xbXJPa3hzTU1XZHB6Um5kV1U0cXE0bjl2eW9zUkg3b21ESnNSa3dCUldORFQ5OVVXei1VNVZtUEZvLW81Um1xTk1KTHRuc3Nqdl95NVJ5MjlXWVcwUUtCSEhnTXdRR04tc3E2eWoxS1p3YVhnbURzT1REREHSAfsBQVVfeXFMTXQwVC04Yk9NaEUzWFZsakhsZ1lJanotV29tWDBrc2xQUERwYzBRYlNvWTBJMFBaTVM2Q2tpbzdTS1pfUVBlMjN1SW12RkVrMlE3dm9YaGZZV1FUWmZYeEtFenNKNjVOMnhTWXlFenY4ZTJXOVZ2bl9LMmtrUnRBY05laHFXUE5zQnZ5ZnpKYjBTZ0tzVE5QdUZUZGFpd2llUkdzTEVOMThaNEQyVUhEcnowVkJlNnpQN3FBa1RPU1RxdjFxZHZhWGt0MlkzRXBxamZ0b1lseXU2X2k1anRodFFVRlZkLUNvM3dQNVpMZHk4RnhGbWJKUUplMlE?oc=5",
+      "date": "2026-09-16 21:59",
+      "summary": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data  MarkT..."
     },
     {
       "title": "Stanford Pursues $100M Housing And Academic Expansion - Bisnow",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzRnNDFUQklMSGZnaFBhUFdEcXloNHkxY0pYSjlrZFowYzdleXFxT1ltWENqb3pZRVlsS0V0QUV6azNZcGpoNnl0U0NBaExBOFBGc05wVVUwMW9VcEdyeG9TVFBIMjEzYmlKZXlfTnJiMl84c3MxcXkwSUV6X184QS14Z1JzODg5NkliNEVnZGpZa3BvN2Z3clFTTVdHR2R2YVUzVi1ETlI0TmFNbzQtd3dxeDhOd1J0?oc=5",
       "date": "2026-09-16 10:53",
       "summary": "Netflix’s new Stanford Prison Experiment reality series sparks ethical concerns  the-independent.com..."
-    },
-    {
-      "title": "New Stanford grad students pass first test as football fans - Palo Alto Online",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1hlYXc1bi0yMDNFSWphQzZMd01rQXFhTjg4ajVBRm1ZajVkYUctdzhaN3dOcGRNZGJqOTg0eGNuakdKYmZvV3JjcERRZ2JQUEM0c3MxcWVNS3pjc0lGQk1vU25Ea0l4cm42enJ0dHdRUFFuMk00OTktaWNjNUd2WUZyQ3ZoZ3pxMHFweXJ0TDN5NU5TRnh3eUlPQXJfZWNDbDYxaThCTDJDN000Tl9EazJaWWJQNmpiNkZ5QUVvdw?oc=5",
-      "date": "2026-09-15 21:45",
-      "summary": "New Stanford grad students pass first test as football fans  Palo Alto Online..."
     }
   ],
   "Nature Careers": [
@@ -101,6 +101,18 @@
       "link": "https://www.nature.com/articles/d41586-026-02897-4",
       "date": "2026-09-18 00:00",
       "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4The trait could explain why symptoms vary in severity b..."
+    },
+    {
+      "title": "How research funding took me out of the lab and into leadership",
+      "link": "https://www.nature.com/articles/d41586-026-02184-2",
+      "date": "2026-09-18 00:00",
+      "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02184-2Landing two large grants caused Anna Sandak to take on ..."
+    },
+    {
+      "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
+      "link": "https://www.nature.com/articles/d41586-026-02945-z",
+      "date": "2026-09-18 00:00",
+      "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02945-zGene-targeting treatments could be used to treat other ..."
     },
     {
       "title": "Chinese companies doubled down on science after US tech restrictions",
@@ -113,18 +125,6 @@
       "link": "https://www.nature.com/articles/s41586-026-11134-x",
       "date": "2026-09-17 00:00",
       "summary": "Nature, Published online: 17 September 2026; doi:10.1038/s41586-026-11134-xAuthor Correction: Genomic deletion of malic enzyme 2 c..."
-    },
-    {
-      "title": "Mercury is shrinking with age — faster than thought",
-      "link": "https://www.nature.com/articles/d41586-026-02898-3",
-      "date": "2026-09-17 00:00",
-      "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02898-3Impacts by space objects have obscured some of the evid..."
-    },
-    {
-      "title": "Schoolhouse meals serve up an income bump",
-      "link": "https://www.nature.com/articles/d41586-026-02896-5",
-      "date": "2026-09-17 00:00",
-      "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02896-5Modelling shows a link between feeding programmes and h..."
     }
   ],
   "Retraction Watch": [
@@ -161,40 +161,40 @@
   ],
   "Reuters AI": [
     {
+      "title": "Europe's AI firms, playing catch-up, challenge US calls for slowdown - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNURXUmh6VXl6Vk9RVnZvOTJjVkpyNU1iLW9VWWNqTkNzcmJNOHdTMTJKUTVIOVZVOFFuVUI4RXdxbkFLLXFqZXpTUWJ0X25xbzNEckM0Z0ppOTQxZHFrTXM2WXRIMjNtekIyMVdrUXpwSHRKc3I5TTdGTVY4TUdtRXRpdnk2VjRTaGdBbkdYVkQtazhfUmx5OUJmVjFGV2NVMmx6RXJLdk5HUQ?oc=5",
+      "date": "2026-09-18 14:22",
+      "summary": "Europe's AI firms, playing catch-up, challenge US calls for slowdown  Reuters..."
+    },
+    {
       "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5",
       "date": "2026-09-17 23:59",
       "summary": "Anthropic says Claude now leads a quarter of work building its next AI models  Reuters..."
     },
     {
+      "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
+      "date": "2026-09-18 13:03",
+      "summary": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program  Reuters..."
+    },
+    {
+      "title": "Disney names Character.AI's Karandeep Anand its first tech chief - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3dVVjdKajM2eG9NSWR6aTBVR0RXU2RpdjNhR3dWMXBRcHd6OTNLMkc5UG9GUHVjRVhKRmMzeGdnZC1BVVRVTXJKU0NSSUZwcjJlRFlFNldST2MxUF9XTzZSX1NZN3k0elJsSldBTkRmS0VVbzl4TU5uTWFmQ0FlcS1uTUxaLUhjcEtvMTNUYWkzUlU4aTlFWDliZXkxNGh0WG44M2s4Sy01dXVlX0E?oc=5",
+      "date": "2026-09-18 15:18",
+      "summary": "Disney names Character.AI's Karandeep Anand its first tech chief  Reuters..."
+    },
+    {
       "title": "In Silicon Valley, AI data center boom meets local resistance - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS083TTN6VWhFczdsMTRsUHA4cXFVdXBxaGE4YjJSeXVQbnhVZUxjdUszX29LaWJDS0Yyc3Npc25OMjRHRTlKbWtPNXNLRHAxWWZVLWZzbktOVWp4RDcwcVhLblYtWWVPLWw3SGZqVXVFR3JCRmZPY0pqVTdCaUZNbGkwY2xfSkVqX01rM3RCNElodEFOWWJzUmlCTVFOcDk3RlZIcQ?oc=5",
       "date": "2026-09-17 10:05",
       "summary": "In Silicon Valley, AI data center boom meets local resistance  Reuters..."
-    },
-    {
-      "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
-      "date": "2026-09-18 10:55",
-      "summary": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program  Reuters..."
-    },
-    {
-      "title": "AI startup Mantic raises $25 million for superhuman forecasting - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEZvcUNwMGMybUpVdVRTQlZFU2FQajB4dWY4NGFDQV9scDN5bUU4U01iQUh2UnVCeEw2dWk4bkowc0hVMWh6X3BCX2JieW45a19fNUgwTERxTEFZUmpwc3lhREp3UlRvdm1aY3AwalQ4blJaeXZsSTF1RlZwdUlsSXo2RUJ5Qm5GY3BnMW9Kc3J1RHdFMmpPa2FvU3otU2ZJb1laazFpUkg?oc=5",
-      "date": "2026-09-18 10:15",
-      "summary": "AI startup Mantic raises $25 million for superhuman forecasting  Reuters..."
-    },
-    {
-      "title": "France's Thales urges international framework on AI development - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX0hnb21ucXhBbHptQTJrUndURG9pQVZuLXBGZnJkTmpOTEJxR2lBa1Vqc01Qa2QzQlJaMnM3YllrcGtpYkJTYnhZczc0VEZIc3hSRjFOLTFYTk9hMzNwWFAyYVB4VzNuYlZhekZ6aEttN0hpX18wODVfdlBvZWZKeXFMeUJPWWZWc1l2T1FYMjFyNEhDTEg5R2IzYlFQVENweG5XX0xBWXhYR2dmV2cxZy1nZGpsT1AwenlfaUcyTQ?oc=5",
-      "date": "2026-09-17 13:44",
-      "summary": "France's Thales urges international framework on AI development  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
       "title": "Could AI really kill us all? Your questions, answered. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUFRelh0YmxVUXhKbjNvN0xnNldDUDZwc1Y3VnVTeTN4VGh4UVB0Y0ZyQWNkSG5FR2I1MVVRc0k4YThFaFlmRU9VWHhwa1RjZlRsVVdjVTJmendnZWIzYXIzSGtBWElzdWRpaW9XRHh2UXVIWVh6dXNvQjNwelYxQkdIWDV5YW9qX3NMbFJ5RlFqQkdUWXE2dDZ4Y3FfUmx2NUtlQ2Uxcw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUFRelh0YmxVUXhKbjNvN0xnNldDUDZwc1Y3VnVTeTN4VGh4UVB0Y0ZyQWNkSG5FR2I1MVVRc0k4YThFaFlmRU9VWHhwa1RjZlRsVVdjVTJmendnZWIzYXIzSGtBWElzdWRpaW9XRHh2UXVIWVh6dXNvQjNwelYxQkdIWDV5YW9qX3NMbFJ5RlFqQkdUWXE2dDZ4Y3FfUmx2NUtlQ2Uxc9IBrAFBVV95cUxNTk9tS2t4SFZwbm1XaFRQSUpoSVhocHV2SHVDaEU0MUUzdWtLMlhBMlNmMDF2U3NMZHcwZUd4aDFQcVRRSUVDc3hEdXU0SzRFVUs4d2VFN243TGVqQW1yU1RqcWEzTTYydmx6LVRQY2dLZVNfbnc4NFdJbGtMbkw3bEpoUGF0Q0x1X2RHWGVraVNXNnI1dV9TNG5NTWRZUDJMdFdOTk5MajBkMkVs?oc=5",
       "date": "2026-09-18 11:29",
       "summary": "Could AI really kill us all? Your questions, answered.  MIT Technology Review..."
     },
@@ -217,45 +217,51 @@
       "summary": "The AI industry has taken a doomer turn. What now?  MIT Technology Review..."
     },
     {
-      "title": "What’s at stake in AI’s trillion-dollar gamble - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNejNNMURnQWVMZXpvQmRQRUl2SzZWbkc2MmFPa1ZIQThwYmxkcDEwOU4tcVRIMk5IR2x2aGF3T0JrT0JLNU82a0tIa3Z5cjRDR3prdElrRTV2SHBuSWN4Qy1xS3F6am1DSFRxX2FTUlZBNnIwZXE1WHV6Z0dvNjR5d3IyX21qS3dlUTQ1WFg0QjdYcnNWU0dnTktfUldUQTTSAaQBQVVfeXFMUFYzLTNYOUFwSVlaUWw4SkdaR3BEeVltcS1sRm5JbWZiREN0TGV3RHptd2JUOTJkY2s0UU9nNWpvbDZxZ2p1SGRJOEVfcEVTamJRQmdsUEQzZkprMl9palQ0YWhRenlTd25oZkNvRGg3VklORkhfM09sdHEybzJCTUlnTWZIM2J1SmFLSFJHMUdjamlkaUNma0g2blhsWGlFQ0pYcEU?oc=5",
-      "date": "2026-09-15 10:00",
-      "summary": "What’s at stake in AI’s trillion-dollar gamble  MIT Technology Review..."
+      "title": "AI agents blew the whistle on their cheating colleagues - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjdubHBHRkVJRFJOalI4emFrRGYtWm5ZekRsVDQyQmRFNW51UlJGN2x0TktGOWdaUlFFb25LUDc1clJwM1V2cUEycjBoQ0V5d3RGR3BET2hCTXZ6d0ktdEdhRDZjZlJFMHBRYzFYU0t6d1hZZlJMM19WYWM0bDZxMGk5WUpZV0plaEkydEZ1SGZMNkVUb29uUlVDTW53d9IBowFBVV95cUxQbm9fdFRfQnkwNEFCUVh0Y2VOS205eFVDQXE2MWFRMDlySURIUk9BS05uNTJPczNaa0MxaHRiY3d4dWExNnJ4eVNuclE3NGdMckZzdVBOS3E4WDR3TFNBSURMbmQyZlVEdmNUbGpyLURoaUxLVU1IRkItZWVIQzNrUjFhc2dScTFhRE9fVFRUa0tjUjBTV1JTc2xySXNhUUswb3VZ?oc=5",
+      "date": "2026-09-14 16:00",
+      "summary": "AI agents blew the whistle on their cheating colleagues  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "New immigration enforcement policy raises safety concerns for domestic violence survivors",
-      "link": "https://phys.org/news/2026-09-immigration-policy-safety-domestic-violence.html",
-      "date": "2026-09-18 12:40",
-      "summary": "After a six-week delay, Immigration Minister Tony Burke has announced changes to the migration system. Amid all the analysis and d..."
+      "title": "Coffee on the nanoscale: Graphene oxide membrane removes half the caffeine while retaining key compounds",
+      "link": "https://phys.org/news/2026-09-coffee-nanoscale-graphene-oxide-membrane.html",
+      "date": "2026-09-18 16:40",
+      "summary": "The humble coffee filter has the relatively simple job of letting the coffee through and leaving the grounds behind. But researche..."
     },
     {
-      "title": "Astronomy's decades-long quest to understand cosmic topology",
-      "link": "https://phys.org/news/2026-09-astronomy-decades-quest-cosmic-topology.html",
-      "date": "2026-09-18 12:20",
-      "summary": "If some aspects of cosmic topology turn out to be true, the idea that starships might voyage across the cosmos for hundreds of tho..."
+      "title": "Hubble spots an out-of-sync galaxy",
+      "link": "https://phys.org/news/2026-09-hubble-sync-galaxy.html",
+      "date": "2026-09-18 16:40",
+      "summary": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This ..."
     },
     {
-      "title": "Canadian courts take police misconduct seriously, but researchers say sentencing alone can't fix a broken system",
-      "link": "https://phys.org/news/2026-09-canadian-courts-police-misconduct-sentencing.html",
-      "date": "2026-09-18 12:00",
-      "summary": "A study published in Police Quarterly explores how Canadian courts respond when police officers break the law. The research, co-le..."
+      "title": "Anti-transgender legislation can cause psychological distress even in states with trans-friendly laws",
+      "link": "https://phys.org/news/2026-09-anti-transgender-legislation-psychological-distress.html",
+      "date": "2026-09-18 16:20",
+      "summary": "Legislation that affects or discriminates against transgender and gender-diverse individuals can cause more psychological distress..."
     },
     {
-      "title": "Facing the megadrought: Researchers study underground ice reservoirs in the American West",
-      "link": "https://phys.org/news/2026-09-megadrought-underground-ice-reservoirs-american.html",
-      "date": "2026-09-18 11:40",
-      "summary": "Mount Timpanogos, towering 7,000 feet (2,100 meters) above Utah Valley, is more than an iconic view and beloved hiking destination..."
+      "title": "An extremely stable quantum gas offers a new lens on strongly interacting systems",
+      "link": "https://phys.org/news/2026-09-extremely-stable-quantum-gas-lens.html",
+      "date": "2026-09-18 16:20",
+      "summary": "Molecular gases are a new form of artificial quantum matter. However, when these molecules collide, they are often lost extremely ..."
     },
     {
-      "title": "Humans or AI? Who or what can scam you more effectively?",
-      "link": "https://phys.org/news/2026-09-humans-ai-scam-effectively.html",
-      "date": "2026-09-18 11:20",
-      "summary": "A text from your neighborhood gardening club friend Ben offering a deal on seeds might seem too specific to be a scam. But that ki..."
+      "title": "The art heist paradox: Why better police work can lead to more stolen masterpieces",
+      "link": "https://phys.org/news/2026-09-art-heist-paradox-police-stolen.html",
+      "date": "2026-09-18 16:00",
+      "summary": "When a multimillion-dollar masterpiece vanishes from a museum, the public calls for tougher criminal penalties and better-funded p..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Singapore is paying people to read books – can it fix the reading crisis?",
+      "link": "https://www.theguardian.com/books/2026/sep/18/singapore-paid-reading-scheme",
+      "date": "2026-09-18 15:26",
+      "summary": "A government scheme is giving citizens cash for spending time with a good book. We ask behavioural scientists, along with The Anxi..."
+    },
     {
       "title": "‘It was a mess. I had to do something’: the personal struggle that inspired rap star Giggs to start a special needs school",
       "link": "https://www.theguardian.com/music/2026/sep/18/giggs-opens-send-school-in-kent-education-music-ehcp-provision",
@@ -279,20 +285,26 @@
       "link": "https://www.theguardian.com/education/2026/sep/16/teachers-pay-rise-england-funding-national-education-union",
       "date": "2026-09-16 16:55",
       "summary": "National Education Union welcomes news that schools will not have to partly fund increase from their own budgetsThe UK’s biggest e..."
-    },
-    {
-      "title": "‘It sits at the meeting point of science and the humanities’: should you study psychology?",
-      "link": "https://www.theguardian.com/education/2026/sep/16/should-you-study-psychology-meeting-point-science-humanities",
-      "date": "2026-09-16 05:00",
-      "summary": "Psychology has become one of the most popular courses at university. That’s no surprise as the insights it gives to our behaviour ..."
     }
   ],
   "SCMP Hong Kong": [
     {
-      "title": "CUHK department triggers backlash over WeChat attendance registration policy",
+      "title": "Patient who needed soft food dies after choking on regular meal at public hospital",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3368066/patient-who-needed-soft-food-dies-after-choking-regular-meal-public-hospital?utm_source=rss_feed",
+      "date": "2026-09-18 14:57",
+      "summary": "A Hong Kong patient died after suffering a heart attack when he was fed a regular meal instead of the required soft food and choke..."
+    },
+    {
+      "title": "Foreign carers for elderly to get 10 to 20% more pay than current helpers",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3368063/foreign-carers-elderly-get-10-20-more-pay-current-helpers?utm_source=rss_feed",
+      "date": "2026-09-18 14:15",
+      "summary": "Foreign domestic carers brought to Hong Kong to look after elderly residents under a proposed government pilot scheme would receiv..."
+    },
+    {
+      "title": "CUHK instructor triggers backlash over WeChat attendance registration policy",
       "link": "https://www.scmp.com/news/hong-kong/education/article/3368050/cuhk-department-triggers-backlash-over-wechat-attendance-registration-policy?utm_source=rss_feed",
       "date": "2026-09-18 12:06",
-      "summary": "A department at Hong Kong’s second-oldest university has faced a backlash over asking students to use mainland Chinese messaging a..."
+      "summary": "An instructor at Hong Kong’s second-oldest university has faced a backlash over asking students to use mainland Chinese messaging ..."
     },
     {
       "title": "Hong Kong to recruit AI chief by mid-2027, with confidence in local talent pool",
@@ -305,18 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368039/3-jellycat-labubu-plushie-thieves-jailed-2-years-and-2-months?utm_source=rss_feed",
       "date": "2026-09-18 11:03",
       "summary": "Three repeat offenders have been sentenced to up to two years and two months behind bars for stealing 83 Jellycat and Labubu plush..."
-    },
-    {
-      "title": "Hong Kong’s metal storage hits 30,000 tonnes in push to become global commodity hub",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368040/hong-kongs-metal-storage-hits-30000-tonnes-push-become-global-commodity-hub?utm_source=rss_feed",
-      "date": "2026-09-18 11:02",
-      "summary": "Hong Kong’s push to develop into a premier gold and commodity trading hub has gained momentum, with local metal storage surpassing..."
-    },
-    {
-      "title": "FWD Hong Kong backs HKSAR’s Five-Year Plan, Healthy Greater Bay Area healthcare, and responsible AI in insurance.",
-      "link": "https://www.scmp.com/presented/news/hong-kong/topics/fwd-supports-hong-kongs-future/article/3367975/fwd-hong-kong-backs-hksars-five-year-plan-healthy-greater-bay-area-healthcare-and-responsible-ai?utm_source=rss_feed",
-      "date": "2026-09-18 10:07",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nKen Lau, Managing Director, Greater China, & Chief Exe..."
     }
   ]
 }
