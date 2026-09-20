@@ -45,16 +45,16 @@
       "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
     },
     {
-      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
-      "date": "2026-05-01 07:00",
-      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
-    },
-    {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+    },
+    {
+      "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
+      "date": "2026-05-01 07:00",
+      "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
     },
     {
       "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
@@ -71,10 +71,10 @@
       "summary": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery  Stanford Medicine..."
     },
     {
-      "title": "Stanford University Scientists Implanted Lab Rats with Human Brain Tissue: Here’s Why — and What They Found - people.com",
+      "title": "Stanford University Scientists Implanted Lab Rats with Human Brain Tissue: Here’s Why — and What They Found - People.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeUUxU09KX0VQMXZxRi1OSjBHNlA3MWxSbkdyRG03SDRQUG1Cd1UzRHFJTHRKTUNUMkhheVp0bk9Zei1nWmhsMkI2SjdoT2hXVkN3NzFuc0EtdzVJVTkyOWdfTmF5d3RVV2IyemNDTURmYlB1MldRcTlVRGg5T0MtSVBMcVI1V21TVV9YamQ1VFh2b3RCSWpCSFVZb09vZXdxN3Ew?oc=5",
       "date": "2026-09-19 16:26",
-      "summary": "Stanford University Scientists Implanted Lab Rats with Human Brain Tissue: Here’s Why — and What They Found  people.com..."
+      "summary": "Stanford University Scientists Implanted Lab Rats with Human Brain Tissue: Here’s Why — and What They Found  People.com..."
     },
     {
       "title": "China's StarWhisper telescope earns place in Stanford AI Index - news.cgtn.com",
@@ -161,22 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI - Reuters",
+      "title": "Gemini hacked three companies in first known breakout by Google's AI - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5",
       "date": "2026-09-18 22:25",
-      "summary": "Gemini hacked three companies in first known breakout by Google's AI  Reuters..."
+      "summary": "Gemini hacked three companies in first known breakout by Google's AI  reuters.com..."
     },
     {
-      "title": "Ten days that changed the course of AI - Reuters",
+      "title": "Ten days that changed the course of AI - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5",
       "date": "2026-09-19 21:11",
-      "summary": "Ten days that changed the course of AI  Reuters..."
-    },
-    {
-      "title": "Trump Says He Will Appoint a New AI Adviser, Without Providing Details - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMm1EQ3d6dDFRVERlMFpXWGk3bVFvb1puenlvOHlqTmZRVkZla3JSa2kxMTJXQ1FMc3J1bzFDcElReFAxSS1kbHprZm1WR0dzbEI5VXFZbFRPbndlVDJlWHhjRGtkTDlrZzBHZVNHRFBBWTJ3YmlpeXhycks5WEZWTEZ5MHNxZTBsM0xqc3Q1MWxnbXpCNVNpaHYxUmVoN1lWMnZ3Nll4bw?oc=5",
-      "date": "2026-09-19 17:25",
-      "summary": "Trump Says He Will Appoint a New AI Adviser, Without Providing Details  U.S. News & World Report..."
+      "summary": "Ten days that changed the course of AI  reuters.com..."
     },
     {
       "title": "Anthropic weighs new AI model launch as OpenAI gains ground - Reuters - Investing.com",
@@ -185,10 +179,16 @@
       "summary": "Anthropic weighs new AI model launch as OpenAI gains ground - Reuters  Investing.com..."
     },
     {
-      "title": "Ten days that changed the course of AI - yahoo.com",
+      "title": "Trump Says He Will Appoint a New AI Adviser, Without Providing Details - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMm1EQ3d6dDFRVERlMFpXWGk3bVFvb1puenlvOHlqTmZRVkZla3JSa2kxMTJXQ1FMc3J1bzFDcElReFAxSS1kbHprZm1WR0dzbEI5VXFZbFRPbndlVDJlWHhjRGtkTDlrZzBHZVNHRFBBWTJ3YmlpeXhycks5WEZWTEZ5MHNxZTBsM0xqc3Q1MWxnbXpCNVNpaHYxUmVoN1lWMnZ3Nll4bw?oc=5",
+      "date": "2026-09-19 17:25",
+      "summary": "Trump Says He Will Appoint a New AI Adviser, Without Providing Details  U.S. News & World Report..."
+    },
+    {
+      "title": "Ten days that changed the course of AI - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQblR1M1NxcFM0aTduT05SUDNaMzV0enFsSWdhSm5Ud010NFdMa3FCbHdPcG8yUDdUTlJCR1NrY2tPWFB4RE51SllnaG9NXzB0ZjFCbkpLVUhVay1mSnoydW1qOVZUU0p6akhaOHU0UHBPQnlYVVRQNndGOW1UQjlnajN2d3N3c1BWdklHOTln?oc=5",
       "date": "2026-09-19 10:05",
-      "summary": "Ten days that changed the course of AI  yahoo.com..."
+      "summary": "Ten days that changed the course of AI  Yahoo..."
     }
   ],
   "MIT Tech Review": [
@@ -217,13 +217,19 @@
       "summary": "What’s at stake in AI’s trillion-dollar gamble  MIT Technology Review..."
     },
     {
-      "title": "AI agents blew the whistle on their cheating colleagues - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjdubHBHRkVJRFJOalI4emFrRGYtWm5ZekRsVDQyQmRFNW51UlJGN2x0TktGOWdaUlFFb25LUDc1clJwM1V2cUEycjBoQ0V5d3RGR3BET2hCTXZ6d0ktdEdhRDZjZlJFMHBRYzFYU0t6d1hZZlJMM19WYWM0bDZxMGk5WUpZV0plaEkydEZ1SGZMNkVUb29uUlVDTW53d9IBowFBVV95cUxQbm9fdFRfQnkwNEFCUVh0Y2VOS205eFVDQXE2MWFRMDlySURIUk9BS05uNTJPczNaa0MxaHRiY3d4dWExNnJ4eVNuclE3NGdMckZzdVBOS3E4WDR3TFNBSURMbmQyZlVEdmNUbGpyLURoaUxLVU1IRkItZWVIQzNrUjFhc2dScTFhRE9fVFRUa0tjUjBTV1JTc2xySXNhUUswb3VZ?oc=5",
-      "date": "2026-09-14 16:00",
-      "summary": "AI agents blew the whistle on their cheating colleagues  MIT Technology Review..."
+      "title": "Meet the innovators under 35 shaping climate tech - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWhqSV84N2NWNW5Zd0stMk1pdGxPYVJfNkRIdlBEaE9NSWZ2SzVDdVlXelVQY3NXQzdMYmJnYmxsUXBUczJULURjMms5elhkcGVnMlRKZHRmZXU5Y2gyb0NXZGFjSkdqWG0xbmJMTWFNa0hFTmJ3R2hLM1lMMFU3Wm5KMlp3UkJYeFFCS9IBkgFBVV95cUxPV3E1NmZtMGM5Tm1yeEVtWDM5NDRyWVVXNFp5Vmh2Ul83SlZPSWp5eDk4YVZXTHBtZmluOFN6VFFOWlloc2RjMTdBRENrSmtLbGd1RU01X2x5QnkxRHNfRnE5a3dLNHJmOGNXU3dtZ29OeFhkaTVvMWs0ZVhzSzE3TUJ2Ynd6NnRTVlV0MFVUU094Zw?oc=5",
+      "date": "2026-09-17 10:00",
+      "summary": "Meet the innovators under 35 shaping climate tech  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "At an old steel site in Pittsburgh, bacteria evolved to survive—and eat—industrial pollution",
+      "link": "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html",
+      "date": "2026-09-19 23:30",
+      "summary": "Across Appalachia and the Rust Belt region, including throughout the city of Pittsburgh, former industrial sites are being transfo..."
+    },
     {
       "title": "How the malaria parasite boosts its transmission potential under stress conditions",
       "link": "https://phys.org/news/2026-09-malaria-parasite-boosts-transmission-potential.html",
@@ -247,12 +253,6 @@
       "link": "https://phys.org/news/2026-09-electrons-graphene-transient-topological-state.html",
       "date": "2026-09-19 19:20",
       "summary": "The electronic properties of materials are typically determined by their structure under normal, undisturbed conditions, when they..."
-    },
-    {
-      "title": "A molecular bridge connects two signaling pathways critical for pollen development",
-      "link": "https://phys.org/news/2026-09-molecular-bridge-pathways-critical-pollen.html",
-      "date": "2026-09-19 19:00",
-      "summary": "Cells rely on complex signaling networks in which different molecular pathways communicate with one another. Small GTPases act as ..."
     }
   ],
   "The Guardian Edu": [
