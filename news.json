@@ -39,16 +39,16 @@
       "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     },
     {
-      "title": "How AI may change public policy, how we lead - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
-      "date": "2026-07-28 07:00",
-      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
-    },
-    {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
       "summary": "Harvard releases information on 1,613 enslaved individuals  Harvard Gazette..."
+    },
+    {
+      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
+      "date": "2026-07-28 07:00",
+      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
     },
     {
       "title": "Worried about how online firms use data they get from you? - Harvard Gazette",
@@ -65,16 +65,22 @@
   ],
   "Stanford News": [
     {
-      "title": "Researchers observe first real-time quantum jump in sound - Stanford School of Humanities and Sciences",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSDlaRGczQ1dFV1hJYm9IWEh3MWQxaDZycTBzbXZyNDJEajZ3N3U5VzJrZWdhQldhVU82aGhaekE4bExMeUtqRHVOZUNQV0I0blBYeUdhdjJ1aEFSU1RIRkdJZ0Zxbi1rQXRDSzd4dlNaNExMYjRFTDluQ3lhaDYxNHhqWnAtZGZQOGVqRXg1LWFaYl9S?oc=5",
-      "date": "2026-09-17 19:21",
-      "summary": "Researchers observe first real-time quantum jump in sound  Stanford School of Humanities and Sciences..."
+      "title": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery - med.stanford.edu",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRnFHYlZsNzYwS2NwYWtleUtJSC13SUJCTlJQelk4ZFd2OHEydmdPQjB5R2F0ZXl4UWhYS2pjc213S3RPemJaUWQ3bHlGQzlRZlFENUhjZ3hDelBmOGtTbFRfTXlqVHpSSzJnRVl0UXFWMUl6ZXpSd1B3OTU4NnFRMA?oc=5",
+      "date": "2026-09-17 18:04",
+      "summary": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery  med.stanford.edu..."
     },
     {
       "title": "Stanford University Scientists Implanted Lab Rats with Human Brain Tissue: Here’s Why — and What They Found - People.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeUUxU09KX0VQMXZxRi1OSjBHNlA3MWxSbkdyRG03SDRQUG1Cd1UzRHFJTHRKTUNUMkhheVp0bk9Zei1nWmhsMkI2SjdoT2hXVkN3NzFuc0EtdzVJVTkyOWdfTmF5d3RVV2IyemNDTURmYlB1MldRcTlVRGg5T0MtSVBMcVI1V21TVV9YamQ1VFh2b3RCSWpCSFVZb09vZXdxN3Ew?oc=5",
       "date": "2026-09-19 16:26",
       "summary": "Stanford University Scientists Implanted Lab Rats with Human Brain Tissue: Here’s Why — and What They Found  People.com..."
+    },
+    {
+      "title": "Meet the 31-year-old with degrees from Harvard, Stanford, Oxford and more - news24.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTE5iaU1SYmpjaTEwQ2c2bFlnZ1hlRTJCZ04tQVB3WWpXbEhxOTBtRDBQWHBidkFGWmRnZFpNaHVGS2lqaWF6WU9Ka0dvQUIwMDZLOG1aaHl2eXZBUjBCWFp4TVFuTlUydnFNWDAzVnJMV3d1SWJSbzZzdjB4R0I5ZXJjTmZmNEtOdWNzb0NlSm5qdUsxb19lY2tKMUctaDRFbjVWbFN1YXN5a1pmbXJ5TElwRWRTZ1JSN3hiRDNOSEN0Y3ZpU0hRYllkSQ?oc=5",
+      "date": "2026-09-19 12:09",
+      "summary": "Meet the 31-year-old with degrees from Harvard, Stanford, Oxford and more  news24.com..."
     },
     {
       "title": "Not one, but two? Stanford University scientists find the brain is two separate organs - The Times of India",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTZ0bWdfX2N1WEF4QTBOLURpWElaM2dpWjMxRVJXLXR6YV9MSGRQcktYOHdyamdlUWZfaUxFODlnS28tNkVxRkpXREh3XzNjX19EZGxrS2dleEY2SmpxQjhkTi03MUZsOXFROUNVX0VhR2pCV3hJWnhXTE1BMXJNTUJDWFJTS3BRZjFJeWdLVXpHNEVtRU9qZEtQbmhRZ3pSZEhV?oc=5",
       "date": "2026-09-18 05:38",
       "summary": "Cards Match Program Record with Win at No. 6 Stanford  gocards.com..."
-    },
-    {
-      "title": "China's StarWhisper telescope earns place in Stanford AI Index - news.cgtn.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTJfcjZ1V0owcm1xRTFQb0l1TkFYZUJxRzRMUzNVaW9HMEp2WFhoRGNPZGlDUkFxazRqdk9sOUljajRiRk0waFN5U0Y3UkF5cmU1TlNwd1RYWFVqYWRMUE5xejRQdWJ5XzgwUmdEQU9ZWDYybE0wN2VRNXBObXpHNDlHWVhrem1BTWp3VndnWDZjQTlyYWt3SVBWWFBwZlJsOHlYckZzMHRIbnB3M3huSXBTcHMtTVpWeUl3?oc=5",
-      "date": "2026-09-19 13:02",
-      "summary": "China's StarWhisper telescope earns place in Stanford AI Index  news.cgtn.com..."
     }
   ],
   "Nature Careers": [
@@ -185,24 +185,24 @@
       "summary": "Anthropic weighs new AI model launch as OpenAI gains ground - Reuters  Investing.com..."
     },
     {
-      "title": "US Treasury's Bessent, China's He to launch talks on AI, trade, critical minerals - Reuters",
+      "title": "US Treasury's Bessent and China's He launch talks on AI, trade and critical minerals - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
       "date": "2026-09-20 05:06",
-      "summary": "US Treasury's Bessent, China's He to launch talks on AI, trade, critical minerals  Reuters..."
+      "summary": "US Treasury's Bessent and China's He launch talks on AI, trade and critical minerals  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSW5uUm9SbnVsN1M4c05nc3NESzB6c2pnUjhvX0MyZURhU2RsSjZJZ1JjbTFLLVo4OVFWcmR4dkVkYlVqTjYyNFYyTXB3bW1hR1RONzZnX0JCeWRfQVljSlRPU3NIbUY2VVBmYS1EYTRBak44SzF4UXQ1UTNlSzVOSnZJdU5Pc3FwMWg3WlpFcGt6OHhQTjVvdGZmcjdnVy1ZYU05WTdfTmt2RkhUWi1RNGdKUHBJWUFXOW0w0gHAAUFVX3lxTE1DdFRtU1ZySXl2NkhGdjB4S01QbWdrY1pNV200X1JmQjRlLUgyZUljSlg0dEExSjY3ZWR1ZHJZQnZlRmJ1LWZmN0htT3BOdVlHVWJIMnplc2JnNE5KazQ4TmFXQTI1M3JnRjg4VjdBakxfNlpydnNaQ1VQTXFXOFZiQ2FWV09uRVpjVGl3TUhid193bDZVVHVRVnhqbEdvSGRmNUhLMGJXd0l2enREcjZ6a3lCLXhlTmpMQmJQMVUyMQ?oc=5",
-      "date": "2026-09-18 09:00",
-      "summary": "The specter of AI-enabled bioweapons is a wake-up call for biotech  MIT Technology Review..."
-    },
     {
       "title": "Could AI really kill us all? Your questions, answered. - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUFRelh0YmxVUXhKbjNvN0xnNldDUDZwc1Y3VnVTeTN4VGh4UVB0Y0ZyQWNkSG5FR2I1MVVRc0k4YThFaFlmRU9VWHhwa1RjZlRsVVdjVTJmendnZWIzYXIzSGtBWElzdWRpaW9XRHh2UXVIWVh6dXNvQjNwelYxQkdIWDV5YW9qX3NMbFJ5RlFqQkdUWXE2dDZ4Y3FfUmx2NUtlQ2Uxc9IBrAFBVV95cUxNTk9tS2t4SFZwbm1XaFRQSUpoSVhocHV2SHVDaEU0MUUzdWtLMlhBMlNmMDF2U3NMZHcwZUd4aDFQcVRRSUVDc3hEdXU0SzRFVUs4d2VFN243TGVqQW1yU1RqcWEzTTYydmx6LVRQY2dLZVNfbnc4NFdJbGtMbkw3bEpoUGF0Q0x1X2RHWGVraVNXNnI1dV9TNG5NTWRZUDJMdFdOTk5MajBkMkVs?oc=5",
       "date": "2026-09-18 11:29",
       "summary": "Could AI really kill us all? Your questions, answered.  MIT Technology Review..."
+    },
+    {
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSW5uUm9SbnVsN1M4c05nc3NESzB6c2pnUjhvX0MyZURhU2RsSjZJZ1JjbTFLLVo4OVFWcmR4dkVkYlVqTjYyNFYyTXB3bW1hR1RONzZnX0JCeWRfQVljSlRPU3NIbUY2VVBmYS1EYTRBak44SzF4UXQ1UTNlSzVOSnZJdU5Pc3FwMWg3WlpFcGt6OHhQTjVvdGZmcjdnVy1ZYU05WTdfTmt2RkhUWi1RNGdKUHBJWUFXOW0w0gHAAUFVX3lxTE1DdFRtU1ZySXl2NkhGdjB4S01QbWdrY1pNV200X1JmQjRlLUgyZUljSlg0dEExSjY3ZWR1ZHJZQnZlRmJ1LWZmN0htT3BOdVlHVWJIMnplc2JnNE5KazQ4TmFXQTI1M3JnRjg4VjdBakxfNlpydnNaQ1VQTXFXOFZiQ2FWV09uRVpjVGl3TUhid193bDZVVHVRVnhqbEdvSGRmNUhLMGJXd0l2enREcjZ6a3lCLXhlTmpMQmJQMVUyMQ?oc=5",
+      "date": "2026-09-18 09:00",
+      "summary": "The specter of AI-enabled bioweapons is a wake-up call for biotech  MIT Technology Review..."
     },
     {
       "title": "AI models need more data about biology, and OpenAI is paying to create it - MIT Technology Review",
@@ -211,48 +211,48 @@
       "summary": "AI models need more data about biology, and OpenAI is paying to create it  MIT Technology Review..."
     },
     {
-      "title": "Meet a mouse whose brain cortex is made up of human cells - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3lXZF9pbDFDNDBIT1NMeTl0TEJEX2tNUVg1cTlyZDBxYWw1c2tVa1VqTG5WcFlJVXA5QU5PNk9LU0ZkcDFRYU1NRVpuMVJGel9QUXBNekRENmhoMThnNVVwcmc1VG4yVkZKbkRCMk1XNDZ5Qnl3VGpyX3dhSzdubFFTVVdxNm9zd1JfS2lUNnBQVjdmWGZiQ29CY2R6elY4YnVFMVlUbk1LOW1zcHE40gG0AUFVX3lxTFA4QkdSQk9JQ0VGSUlJdURPRS1jeVF4V3VnbGdmWHQ4M092YXhjV1d0SjNkclRjVTlNUTdHOVhhN1hUR2FLSUlUdE9PMDBjT053ZjVwdEo3d2V6SEdNVmY0SFp6ckJreG5kWGw2a3VNcmdDS19jYzRVV3gwb0dDRnNtcVdZTFZnSFlsbjNXZERNcTUtMGM0MTBlOEdUSXNfRFA1WjNWaUpiaHNzYl9aOE0weGFwQg?oc=5",
-      "date": "2026-09-16 15:00",
-      "summary": "Meet a mouse whose brain cortex is made up of human cells  MIT Technology Review..."
-    },
-    {
       "title": "The AI industry has taken a doomer turn. What now? - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFpUVVpzM212TGNESFhEd2JGMVVmTTlnYlhLV3A3S002OW9KX21nTWZtaVBNNzdwQ0VvNDlPQ2ZDaktsYVZwVklOeklsU2VCUjBKZ0R5bVNnRW1aOHhfWjdsV1ZtTGE1UW5kU2szOTNCaVdXVGJIcWRZS0lONU9GamdPRktJLS0xZjdSazMtb3ZIU2g1NWVJcTNmUGVia3JPbEJv0gGoAUFVX3lxTE9EaW85YnpLa0xjejBkNmU4MVIzV2RETHZRWEdiVm1ON0IxWFlsVkJuWnlWZ0NEaUJ5NDBPRjlKcjN0MHB5ZG5IaGJNY05TbVRoaEZ1U21Yb2N3OEtLakFldUJJcnVfdVk1d0JuRlh1T1dxQ2wxR2pCMzVsT1hUQjljb0JLa0tlamFDel9WQmhrdGtUZU5oQ0RzOWo0MkxZTVN0bk9YR1lQeA?oc=5",
       "date": "2026-09-14 17:54",
       "summary": "The AI industry has taken a doomer turn. What now?  MIT Technology Review..."
+    },
+    {
+      "title": "Meet a mouse whose brain cortex is made up of human cells - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3lXZF9pbDFDNDBIT1NMeTl0TEJEX2tNUVg1cTlyZDBxYWw1c2tVa1VqTG5WcFlJVXA5QU5PNk9LU0ZkcDFRYU1NRVpuMVJGel9QUXBNekRENmhoMThnNVVwcmc1VG4yVkZKbkRCMk1XNDZ5Qnl3VGpyX3dhSzdubFFTVVdxNm9zd1JfS2lUNnBQVjdmWGZiQ29CY2R6elY4YnVFMVlUbk1LOW1zcHE40gG0AUFVX3lxTFA4QkdSQk9JQ0VGSUlJdURPRS1jeVF4V3VnbGdmWHQ4M092YXhjV1d0SjNkclRjVTlNUTdHOVhhN1hUR2FLSUlUdE9PMDBjT053ZjVwdEo3d2V6SEdNVmY0SFp6ckJreG5kWGw2a3VNcmdDS19jYzRVV3gwb0dDRnNtcVdZTFZnSFlsbjNXZERNcTUtMGM0MTBlOEdUSXNfRFA1WjNWaUpiaHNzYl9aOE0weGFwQg?oc=5",
+      "date": "2026-09-16 15:00",
+      "summary": "Meet a mouse whose brain cortex is made up of human cells  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "To understand the solar cycle, notice how the sun sleeps",
+      "link": "https://phys.org/news/2026-09-solar-sun.html",
+      "date": "2026-09-20 17:20",
+      "summary": "The sun is such a constant in our lives that it can be difficult to imagine our star ever changing. But the sun can be quite varia..."
+    },
+    {
+      "title": "Virtual cells built from 4D AI models and 'digital twins' could speed up drug discovery",
+      "link": "https://phys.org/news/2026-09-virtual-cells-built-4d-ai.html",
+      "date": "2026-09-20 16:00",
+      "summary": "Mitochondria—tiny structures that convert nutrients into energy—are often depicted as discrete kidney bean-shaped objects. But in ..."
+    },
+    {
+      "title": "The story of Little Italy's Feast of San Gennaro is the story of how Italian immigrants became American",
+      "link": "https://phys.org/news/2026-09-story-italy-feast-san-gennaro.html",
+      "date": "2026-09-20 16:00",
+      "summary": "For two weeks in September, everyone wants to be Italian—at least judging by the crowds at the annual Feast of San Gennaro in New ..."
+    },
+    {
+      "title": "Magma influx explains short-lived bulge at Tanzania's Ol Doinyo Lengai volcano",
+      "link": "https://phys.org/news/2026-09-magma-influx-short-bulge-tanzania.html",
+      "date": "2026-09-20 15:00",
+      "summary": "In 2024, D. Sarah Stamps' team detected and tracked a short-lived bulge in the land around a volcano in Tanzania. In a paper publi..."
+    },
     {
       "title": "Longitudinal survey finds little evidence that social tech predicts life satisfaction in adults",
       "link": "https://phys.org/news/2026-09-longitudinal-survey-evidence-social-tech.html",
       "date": "2026-09-20 14:00",
       "summary": "Social technologies, digital tools that allow people to communicate and share content with each other online, have become a centra..."
-    },
-    {
-      "title": "Satellites show Earth lost more than 12 trillion tons of ice from Greenland, Antarctica in 47 years",
-      "link": "https://phys.org/news/2026-09-satellites-earth-lost-trillion-tons.html",
-      "date": "2026-09-20 13:30",
-      "summary": "About 12.5 trillion tons (11.3 trillion metric tons) of ice from glaciers in Greenland and Antarctica have melted since 1979, whic..."
-    },
-    {
-      "title": "At an old steel site in Pittsburgh, bacteria evolved to survive—and eat—industrial pollution",
-      "link": "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html",
-      "date": "2026-09-19 23:30",
-      "summary": "Across Appalachia and the Rust Belt region, including throughout the city of Pittsburgh, former industrial sites are being transfo..."
-    },
-    {
-      "title": "How the malaria parasite boosts its transmission potential under stress conditions",
-      "link": "https://phys.org/news/2026-09-malaria-parasite-boosts-transmission-potential.html",
-      "date": "2026-09-19 21:00",
-      "summary": "The malaria parasite is able to detect changes in its host's environment and respond by increasing the production of sexual forms ..."
-    },
-    {
-      "title": "Sacred springs of South Africa—pure waters or polluted? We found tiny bits of plastic in the samples we tested",
-      "link": "https://phys.org/news/2026-09-sacred-south-africa-pure-polluted.html",
-      "date": "2026-09-19 21:00",
-      "summary": "Across South Africa, natural springs are more than sources of freshwater. Some are places of healing, spiritual cleansing and ritu..."
     }
   ],
   "The Guardian Edu": [
