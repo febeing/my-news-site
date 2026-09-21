@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Unmasking “zombie cells” in aging tissue with an AI-powered barcode",
+      "link": "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921",
+      "date": "2026-09-21 09:00",
+      "summary": "Tracking down senescent cells, which accumulate as we age, could help diagnose age-related disorders and guide researchers working..."
+    },
+    {
       "title": "MIT researchers are mapping extreme weather risks — and building tools to act on them",
       "link": "https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918",
       "date": "2026-09-18 16:55",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/nanoscale-mechanics-could-enable-brain-inspired-computing-0916",
       "date": "2026-09-16 18:00",
       "summary": "A new device uses reconfigurable motion to mimic the firing behavior of a neuron, which could lead to more efficient computing...."
-    },
-    {
-      "title": "New AI technique could make minimally invasive surgeries safer and more precise",
-      "link": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
-      "date": "2026-09-16 15:00",
-      "summary": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neuro..."
     }
   ],
   "Harvard Gazette": [
@@ -77,10 +77,10 @@
       "summary": "Stanford University Scientists Implanted Lab Rats with Human Brain Tissue: Here’s Why — and What They Found  People.com..."
     },
     {
-      "title": "Meet the 31-year-old with degrees from Harvard, Stanford, Oxford and more - news24.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTE5iaU1SYmpjaTEwQ2c2bFlnZ1hlRTJCZ04tQVB3WWpXbEhxOTBtRDBQWHBidkFGWmRnZFpNaHVGS2lqaWF6WU9Ka0dvQUIwMDZLOG1aaHl2eXZBUjBCWFp4TVFuTlUydnFNWDAzVnJMV3d1SWJSbzZzdjB4R0I5ZXJjTmZmNEtOdWNzb0NlSm5qdUsxb19lY2tKMUctaDRFbjVWbFN1YXN5a1pmbXJ5TElwRWRTZ1JSN3hiRDNOSEN0Y3ZpU0hRYllkSQ?oc=5",
-      "date": "2026-09-19 12:09",
-      "summary": "Meet the 31-year-old with degrees from Harvard, Stanford, Oxford and more  news24.com..."
+      "title": "Stanford ranks 55th in FIRE’s 2027 College Free Speech Rankings - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVExVbWE4aDNZejJlMkllVHVaaW9vcGY0elpoel9YekhLMVlVT09BUkVhYmo4cmZLRV9EUzZMa3Rody1KRUcyU0l1cy14ajEya1JtUU5iZHRBWG03MzRZRFdiVDgzUXZNMmZSWVhTZXZ2VG9QMUczcmdncWtZd3BreXpzS0c4UVVhSWk3aUhDdng4OWg3cXZXT0dR?oc=5",
+      "date": "2026-09-21 07:54",
+      "summary": "Stanford ranks 55th in FIRE’s 2027 College Free Speech Rankings  The Stanford Daily..."
     },
     {
       "title": "China's StarWhisper telescope earns place in Stanford AI Index - news.cgtn.com",
@@ -161,37 +161,49 @@
   ],
   "Reuters AI": [
     {
+      "title": "Trump says he will appoint a new AI adviser, without providing details - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeW9QS1RSUzNKWDluSVZQS0pJVDkyYjVWWjZPcWhEUHJkczdpZzhIN3N3THZ4Ylg1M2xLRTBzTDJyd1ktVDhOeHJVaHdqQWZXdVo4X2NqMllhVDNCQjZfUTJ0TV9fdEw5NW5OLTRDbzhEOG9UNjdGNUllQU15WGpuUncwMDd3OGhOY3Y2dTE0WEVoaXR6UzNV?oc=5",
+      "date": "2026-09-20 00:50",
+      "summary": "Trump says he will appoint a new AI adviser, without providing details  Reuters..."
+    },
+    {
       "title": "Gemini hacked three companies in first known breakout by Google's AI - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5",
       "date": "2026-09-19 04:13",
       "summary": "Gemini hacked three companies in first known breakout by Google's AI  Reuters..."
     },
     {
-      "title": "Ten days that changed the course of AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5",
-      "date": "2026-09-19 10:05",
-      "summary": "Ten days that changed the course of AI  Reuters..."
+      "title": "Pope Leo calls for AI systems that don't foster divisions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQko2S2pCaHVfSGdyZHFfQ3pJWDAzMmJVdmxRTlhpOVh2RzVQN1hQMlhYS1QzX3pyOFNtN3ZoVWZIcVJpcmZNZWFpTmZHa0VVcm0tTGcxc2VxNmFuQXA2dmFmT2ZUbW5RVDhtUmF2TWNwTDVORm1VUlRLWUtLSnpFSFVSTVQ5elQ1bzNmaGl2RlI5R1BuQVRjeDVPcTQ2Rzk5?oc=5",
+      "date": "2026-09-21 10:09",
+      "summary": "Pope Leo calls for AI systems that don't foster divisions  Reuters..."
+    },
+    {
+      "title": "Ten days that changed the course of AI - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQblR1M1NxcFM0aTduT05SUDNaMzV0enFsSWdhSm5Ud010NFdMa3FCbHdPcG8yUDdUTlJCR1NrY2tPWFB4RE51SllnaG9NXzB0ZjFCbkpLVUhVay1mSnoydW1qOVZUU0p6akhaOHU0UHBPQnlYVVRQNndGOW1UQjlnajN2d3N3c1BWdklHOTln?oc=5",
+      "date": "2026-09-21 12:06",
+      "summary": "Ten days that changed the course of AI  Yahoo..."
     },
     {
       "title": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
       "date": "2026-09-20 05:06",
       "summary": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier  Reuters..."
-    },
-    {
-      "title": "Anthropic weighs new AI model launch as OpenAI gains ground - Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEhCUll4eVR0Z3JfZzA4c3RsY0tlbnc0UGZCQS1PSDJyWGVrLXRyOTZRQzNsVWExU19TckFMcmdKdW9Ma2cySURDd19CNUluOGhpbGhRMVJxZ3JIcnlUVVcxOUhrVE0zVllBVEloTkZnazI1b1RaVHV3ZW0tTDFIUGd5enBna2NMYnFPT3NHQUhXWEZXbWtReU9QTTFSTm9scmpVb1k1dUpxeVBXMnJtaFJoWnZDU1hEaEJiUA?oc=5",
-      "date": "2026-09-19 01:20",
-      "summary": "Anthropic weighs new AI model launch as OpenAI gains ground - Reuters  Investing.com..."
-    },
-    {
-      "title": "Ten days that changed the course of AI - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQblR1M1NxcFM0aTduT05SUDNaMzV0enFsSWdhSm5Ud010NFdMa3FCbHdPcG8yUDdUTlJCR1NrY2tPWFB4RE51SllnaG9NXzB0ZjFCbkpLVUhVay1mSnoydW1qOVZUU0p6akhaOHU0UHBPQnlYVVRQNndGOW1UQjlnajN2d3N3c1BWdklHOTln?oc=5",
-      "date": "2026-09-19 10:05",
-      "summary": "Ten days that changed the course of AI  Yahoo..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall” - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1JCdzJLcUdSQ3kzNDUzMzEtX1hIdG1neThUSFhXby1wRnR1MW5ibERTbC0wbVNBX3h1NzVLbHN2cjBNS0ZfdzhBR0xkRFg4VFZZZ2VEWUgzRkxKU0t0c1AwV3ZyQmE4NHdhRTlYeHUtYlFHVGRZbkhfLXFoSml6ZE9ZMUUzZGhfb0h0ZjRHeG9vYVhDOGc?oc=5",
+      "date": "2026-09-21 12:00",
+      "summary": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”  MIT Technology Review..."
+    },
+    {
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall” - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldqWUFWSkF0OEFMVkR6ZFJTbzV2MXhaQ3lXdGttN0E2dFMtdWlvSmdYYW5BZWZPOUNxOXJhUWI2YXZPMU9OcXdvUjFoS1YtdXpFak5xNDlDSjUyMHNUbFlwbWNwSjVncXppNEN1VlJ1S2NvWDhibTZUdGJjRUZuMTNsc0d6c0ZOOS1uUkthanJpZHNkWUlid2xyNnNPTzN3Q2FjVdIBqgFBVV95cUxOdzg0aWVFWGdJSklHR2ZVTDFlTUlWanlLbzE5TzZHWEJsT2N1azVBclBTY1hjaU1ZVVdWTzF3LWlLM08xb0c4eTY0VFlHYk4tMnpZZklpc1BjZmF5S3B2RDh2ekNVejFGSGxnWmk1OXllWnZSelpmSkNPbVgxajZPUHN0MldOSlhjT3BMVkNCVi11YUZpaTROZmxnY2FlZXVlSjZaZEJzSzhTUQ?oc=5",
+      "date": "2026-09-21 12:00",
+      "summary": "4 ways to address the failures we found along the US border’s “virtual wall”  MIT Technology Review..."
+    },
     {
       "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSW5uUm9SbnVsN1M4c05nc3NESzB6c2pnUjhvX0MyZURhU2RsSjZJZ1JjbTFLLVo4OVFWcmR4dkVkYlVqTjYyNFYyTXB3bW1hR1RONzZnX0JCeWRfQVljSlRPU3NIbUY2VVBmYS1EYTRBak44SzF4UXQ1UTNlSzVOSnZJdU5Pc3FwMWg3WlpFcGt6OHhQTjVvdGZmcjdnVy1ZYU05WTdfTmt2RkhUWi1RNGdKUHBJWUFXOW0w0gHAAUFVX3lxTE1DdFRtU1ZySXl2NkhGdjB4S01QbWdrY1pNV200X1JmQjRlLUgyZUljSlg0dEExSjY3ZWR1ZHJZQnZlRmJ1LWZmN0htT3BOdVlHVWJIMnplc2JnNE5KazQ4TmFXQTI1M3JnRjg4VjdBakxfNlpydnNaQ1VQTXFXOFZiQ2FWV09uRVpjVGl3TUhid193bDZVVHVRVnhqbEdvSGRmNUhLMGJXd0l2enREcjZ6a3lCLXhlTmpMQmJQMVUyMQ?oc=5",
@@ -205,54 +217,42 @@
       "summary": "Could AI really kill us all? Your questions, answered.  MIT Technology Review..."
     },
     {
-      "title": "Meet a mouse whose brain cortex is made up of human cells - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3lXZF9pbDFDNDBIT1NMeTl0TEJEX2tNUVg1cTlyZDBxYWw1c2tVa1VqTG5WcFlJVXA5QU5PNk9LU0ZkcDFRYU1NRVpuMVJGel9QUXBNekRENmhoMThnNVVwcmc1VG4yVkZKbkRCMk1XNDZ5Qnl3VGpyX3dhSzdubFFTVVdxNm9zd1JfS2lUNnBQVjdmWGZiQ29CY2R6elY4YnVFMVlUbk1LOW1zcHE40gG0AUFVX3lxTFA4QkdSQk9JQ0VGSUlJdURPRS1jeVF4V3VnbGdmWHQ4M092YXhjV1d0SjNkclRjVTlNUTdHOVhhN1hUR2FLSUlUdE9PMDBjT053ZjVwdEo3d2V6SEdNVmY0SFp6ckJreG5kWGw2a3VNcmdDS19jYzRVV3gwb0dDRnNtcVdZTFZnSFlsbjNXZERNcTUtMGM0MTBlOEdUSXNfRFA1WjNWaUpiaHNzYl9aOE0weGFwQg?oc=5",
-      "date": "2026-09-16 15:00",
-      "summary": "Meet a mouse whose brain cortex is made up of human cells  MIT Technology Review..."
-    },
-    {
-      "title": "Building the materials foundation for AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemNiREZFQ1BTNFMxT3M4eEQxMVJ3cGNRQ0RsbW5kYXAyekVlb3UxN00wTmNhQ3FGbDNtYWdpcXFYX3Iyb1dEbW9BX1czOE90NC1mOFNFQ243RjJHR3lVbF9mQUIxTUE1SHgzMjZoRnpTYnVLVy1HMFh4NTVoTWhOU0Z6M0tRWDI1eU5vSFlGNko1OTIzdDg1ZdIBngFBVV95cUxOUkhiMThseWwzamFhazEtTV9KZllGNXhTN3lpbHZMTWxIam9uOFN0ZWlmdXpPN3hrV0lVc3lfSWdMZEM5al9RSnQxUFpwUjBwaGxYd2lXNlZSeDVINVN3T3hTTFVGVXNfS3ZZZERUeUVVR3BmRDE2Sk1CU1NvNUt3Qk1FTWhvYU5DT01VcjdoVkJWN1A5aGNiTmtCODlHQQ?oc=5",
-      "date": "2026-09-16 12:47",
-      "summary": "Building the materials foundation for AI  MIT Technology Review..."
-    },
-    {
-      "title": "Meet the innovators under 35 shaping climate tech - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWhqSV84N2NWNW5Zd0stMk1pdGxPYVJfNkRIdlBEaE9NSWZ2SzVDdVlXelVQY3NXQzdMYmJnYmxsUXBUczJULURjMms5elhkcGVnMlRKZHRmZXU5Y2gyb0NXZGFjSkdqWG0xbmJMTWFNa0hFTmJ3R2hLM1lMMFU3Wm5KMlp3UkJYeFFCS9IBkgFBVV95cUxPV3E1NmZtMGM5Tm1yeEVtWDM5NDRyWVVXNFp5Vmh2Ul83SlZPSWp5eDk4YVZXTHBtZmluOFN6VFFOWlloc2RjMTdBRENrSmtLbGd1RU01X2x5QnkxRHNfRnE5a3dLNHJmOGNXU3dtZ29OeFhkaTVvMWs0ZVhzSzE3TUJ2Ynd6NnRTVlV0MFVUU094Zw?oc=5",
-      "date": "2026-09-17 10:00",
-      "summary": "Meet the innovators under 35 shaping climate tech  MIT Technology Review..."
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2V1akszOEFGTU1Xa21oYWdoblcxb1RwVGhyMlhPR3Z5ZG10c1hCNG9kZHV5ZF9LRDh0SW5lY09iNDdSVEJCdHp3djgyd2J0NzdKanBKbVotVVBwMWpSYml5SmdCNEdSN2hTR2hnVVZnV0ZYZVFXMlo5SlR5eUVvUmpEdmsyQUxSUlFrRE9qWFrSAZYBQVVfeXFMTjdyUnRrSEhhMk9SdWdCX3dBcElqZFV0OFhDUVpSTzNSY3JyQnl4VFV4Y0cxYWtHWFFWUlpZM0Y3WGhqOWxvSGdpa1hNSVp0dHg1YklwNHB5eXVVTnNtZXB1TlIxMEk0WDBkaEo2X2lRZkJsYnFmOXk1UmxhXzNPVVVldkRicTNQUElXSGlqemxldUpXb1V3?oc=5",
+      "date": "2026-09-21 12:00",
+      "summary": "She died at the San Diego border. A surveillance camera was in plain sight  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "British food was complex, multicultural and flavorful in the 18th century—despite what you might think",
-      "link": "https://phys.org/news/2026-09-british-food-complex-multicultural-flavorful.html",
-      "date": "2026-09-21 00:30",
-      "summary": "The stereotype of bland British food is notorious, and people mock the horrors of jellied eels and overcooked vegetables. Even roa..."
+      "title": "Flies, mice and humans share a walking pattern despite radically different bodies",
+      "link": "https://phys.org/news/2026-09-flies-mice-humans-pattern-radically.html",
+      "date": "2026-09-21 13:20",
+      "summary": "Flies, mice and humans move in different ways because of their very different physiques, but their movements follow a common patte..."
     },
     {
-      "title": "'Rusty treasure' find revealed as Europe's largest assemblage of prehistoric iron bars",
-      "link": "https://phys.org/news/2026-09-rusty-treasure-revealed-europe-largest.html",
-      "date": "2026-09-20 23:00",
-      "summary": "Analysis of a \"rusty treasure\" excavated during industrial gravel extraction at Deinham, Austria, reveals it is the largest mass f..."
+      "title": "Nepal could show the world how to recover sustainably from a major disaster",
+      "link": "https://phys.org/news/2026-09-nepal-world-recover-sustainably-major.html",
+      "date": "2026-09-21 13:20",
+      "summary": "With chances of further sensational hydropower tunnel rescues dimming, the devastating ice-rock avalanche in August at the Nepal-T..."
     },
     {
-      "title": "Cooling liquids reveal self-limiting particle clusters behind glass transition",
-      "link": "https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html",
-      "date": "2026-09-20 21:30",
-      "summary": "Before diving into the mystery of glass, theoretical physicist Corentin Laudicina takes us back to high school physics for a momen..."
+      "title": "Tiny molecular scissors reveal how crystals bend without breaking",
+      "link": "https://phys.org/news/2026-09-tiny-molecular-scissors-reveal-crystals.html",
+      "date": "2026-09-21 13:00",
+      "summary": "Crystals are usually thought of as rigid and brittle. Yet some molecular crystals can bend, jump, twist or even change shape when ..."
     },
     {
-      "title": "Tiny beach-dwelling crustaceans are big-time sand movers, shaping the California coast",
-      "link": "https://phys.org/news/2026-09-tiny-beach-crustaceans-big-sand.html",
-      "date": "2026-09-20 20:20",
-      "summary": "Stand on the damp sand on a California beach and chances are you're standing on top of an active earthworks site. Sand hoppers (Me..."
+      "title": "How to tackle persistent drought: Lessons from British Columbia",
+      "link": "https://phys.org/news/2026-09-tackle-persistent-drought-lessons-british.html",
+      "date": "2026-09-21 13:00",
+      "summary": "British Columbia has endured another extreme drought, with damaging impacts across the province, including a watershed emergency d..."
     },
     {
-      "title": "How firelight may have shaped the origins of spoken language",
-      "link": "https://phys.org/news/2026-09-firelight-spoken-language.html",
-      "date": "2026-09-20 19:00",
-      "summary": "When asked about the greatest innovation of humans, people often say language or fire. A new paper suggests these innovations may ..."
+      "title": "African smoke brightens clouds, but weather patterns offset its cooling effect",
+      "link": "https://phys.org/news/2026-09-african-brightens-clouds-weather-patterns.html",
+      "date": "2026-09-21 12:40",
+      "summary": "Smoke from African agricultural fires brightens clouds over the southeast Atlantic—but new research from scientists at the Univers..."
     }
   ],
   "The Guardian Edu": [
@@ -289,34 +289,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Over 11,000 applicants for new Hong Kong taxi, ride-hailing test",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3368211/over-11000-applicants-new-hong-kong-taxi-riding-hailing-test?utm_source=rss_feed",
-      "date": "2026-09-21 05:45",
-      "summary": "More than 11,000 residents have applied to take the joint examination for taxi and ride-hailing car driver permits, exceeding the ..."
+      "title": "Foreign chambers back Hong Kong 5-year plan, urge progress on Northern Metropolis",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368284/foreign-chambers-back-hong-kong-5-year-plan-urge-progress-northern-metropolis?utm_source=rss_feed",
+      "date": "2026-09-21 13:05",
+      "summary": "Representatives of foreign business chambers who met Hong Kong’s leader have said the five-year plan provided clear policy priorit..."
     },
     {
-      "title": "Hong Kong to review stray dog handling policies after woman dies in possible attack",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3368192/3-stray-mongrels-captured-after-cyclist-dies-suspected-dog-attack?utm_source=rss_feed",
-      "date": "2026-09-21 02:23",
-      "summary": "Hong Kong’s environment chief has vowed to review stray dog handling policies following a cyclist’s death in a suspected canine at..."
+      "title": "Subsidised physiotherapy places slashed by third amid graduate job crunch",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3368286/subsidised-physiotherapy-places-slashed-third-amid-graduate-job-crunch?utm_source=rss_feed",
+      "date": "2026-09-21 13:05",
+      "summary": "Hong Kong education authorities have cut the number of subsidised places for physiotherapy and occupational therapy programmes at ..."
     },
     {
-      "title": "Nearly 50% rise in drug seizures by Hong Kong customs in first half of year",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368156/nearly-50-rise-drug-seizures-hong-kong-customs-first-half-year?utm_source=rss_feed",
-      "date": "2026-09-21 00:00",
-      "summary": "Hong Kong customs recorded a nearly 50 per cent year-on-year rise in drug seizures during the first half of 2026, driven by notabl..."
+      "title": "Hong Kong woman, 80, loses HK$6 million to fake online investment expert",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368267/hong-kong-woman-80-loses-hk6-million-fake-online-investment-expert?utm_source=rss_feed",
+      "date": "2026-09-21 10:33",
+      "summary": "An 80‑year‑old woman has lost HK$6 million (US$764,772) to a fake investment expert she met online, Hong Kong police have disclose..."
     },
     {
-      "title": "Barristers dismiss calls for solicitors to gain senior counsel status in Hong Kong",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3368150/barristers-dismiss-calls-solicitors-gain-senior-counsel-status-hong-kong?utm_source=rss_feed",
-      "date": "2026-09-20 23:00",
-      "summary": "The professional body for Hong Kong barristers has dismissed as “premature and largely academic” calls by solicitors for legal cha..."
+      "title": "Top official to determine responsible department in complex 1823 cases",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3368239/no-more-not-our-job-top-official-pick-lead-department-complex-1823-cases?utm_source=rss_feed",
+      "date": "2026-09-21 08:40",
+      "summary": "A top official will determine where responsibility lies when a public complaint spans multiple departments under a new handling me..."
     },
     {
-      "title": "‘His love for Hong Kong was profound’: Tung Chee-hwa honoured at state funeral",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3368170/his-love-hong-kong-was-profound-tung-chee-hwa-honoured-state-funeral?utm_source=rss_feed",
-      "date": "2026-09-20 14:24",
-      "summary": "Chinese President Xi Jinping and other top leaders sent condolences from Beijing as Hong Kong bade farewell to the city’s first po..."
+      "title": "Cathay calls on Hong Kong to map out long-term sustainable fuel plan beyond 2030",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368234/cathay-calls-hong-kong-map-out-long-term-sustainable-fuel-plan-beyond-2030?utm_source=rss_feed",
+      "date": "2026-09-21 08:14",
+      "summary": "Hong Kong flag carrier Cathay Pacific Airways has urged the government to develop a longer-term plan for sustainable aviation fuel..."
     }
   ]
 }
