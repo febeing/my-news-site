@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "How the brain keeps its options straight at decision time",
+      "link": "https://news.mit.edu/2026/how-brain-keeps-its-options-straight-at-decision-time-0922",
+      "date": "2026-09-22 20:00",
+      "summary": "Making a decision requires juggling a set of options without getting them confused or losing track of them. A new MIT study shows ..."
+    },
+    {
+      "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
+      "link": "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
+      "date": "2026-09-22 19:00",
+      "summary": "Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health r..."
+    },
+    {
       "title": "Finding purpose through research",
       "link": "https://news.mit.edu/2026/finding-purpose-through-research-0921",
       "date": "2026-09-21 20:35",
@@ -17,18 +29,6 @@
       "link": "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921",
       "date": "2026-09-21 09:00",
       "summary": "Tracking down senescent cells, which accumulate as we age, could help diagnose age-related disorders and guide researchers working..."
-    },
-    {
-      "title": "MIT researchers are mapping extreme weather risks — and building tools to act on them",
-      "link": "https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918",
-      "date": "2026-09-18 16:55",
-      "summary": "The Climate Grand Challenges “New World of Weather” project shows how modeling, planning tools, and infrastructure analysis are tr..."
-    },
-    {
-      "title": "A new understanding of how enzymes influence bacterial protein production",
-      "link": "https://news.mit.edu/2026/how-enzymes-influence-bacterial-protein-production-0918",
-      "date": "2026-09-18 16:20",
-      "summary": "Novel research expands scientific understanding of how RNA shapes the reading of genetic information...."
     }
   ],
   "Harvard Gazette": [
@@ -65,34 +65,34 @@
   ],
   "Stanford News": [
     {
-      "title": "Charges against pro-Palestinian Stanford protesters to be dismissed - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUTFFNmdoYmdveEdZanhZU3ZSbVVaMV9FYlBoN1JnQkdLR2xGY3E2enpGUjJSakxLM1BZSVRnWUN3OElIRkszV3k4UzZHSTNtUDBWaXZfQmhvaFFGdjRhWlYyaVhSdHhxeEZvZTFEQ1Z0Y1JndjVrcnVOVzNNdXh0LTEwYk1qRnZEMGVNWVBFVnZndzUxR21CYl93ZUdhQQ?oc=5",
-      "date": "2026-09-22 10:53",
-      "summary": "Charges against pro-Palestinian Stanford protesters to be dismissed  NBC News..."
+      "title": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzNfSTlJb0IwNEhqVVM3TV9hMkFvdVJJQ0tfQWpEeTE3SHlIYWFjUXZpbVpPVWdzYmxHWUU5c0RmLU84RXN1Q01NM002cE1QZkNEcGVBdHRlSHFzMU9zM080MXBXVlJtTXMwc0xNV1NKeHdzMmtWc1E0TnB5VnA0THUxMlYxNDItN2J1ejJR?oc=5",
+      "date": "2026-09-22 19:01",
+      "summary": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo  The New York Times..."
+    },
+    {
+      "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising - The Stanford Review",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTF8zZTVjUmJ2Q1R6SDdnQmRFQlZjdnBKZlZxRWNBM0FpdDFQa2pZckZtY0xkSkVyZkQzY0ZFUzJrVnJkdkdIYzY3Y3ZhZ2IxTjkxT0tNVlZxaGZsS1RJaWI4ZUdwbWJrTE5VcW5Pa0tnOHUzbkx3eHBxSEVUaUxsVmRqNVRFcWlCMjdaX2ZXNzY?oc=5",
+      "date": "2026-09-21 15:37",
+      "summary": "Stanford R&DE Uses AI to Race Swap Students for Advertising  The Stanford Review..."
+    },
+    {
+      "title": "Stanford violated its AI policy by turning a Hispanic student into a fake Black woman in ad - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUm1OYVc0MFRqa3luX1E4Ykc2ZHN2cV8zQ2pKZ0dLWnQ4NUZHY3k5ckh5bFZzcUtLaExSR3ZhTDl4WjdDcFcwYnlaQ05BVVN0MkljT2doTVQ1eUZwVGR4bUQ0cnRoWS1JTGxNQzI2NmtvUzB4UU1DQVpBY2gxMFo2Z2ZRNjBCcjZqSEJYbVUxajB0MTR0OHBHdWhaOE9XMzhRTGpha0VB?oc=5",
+      "date": "2026-09-22 21:22",
+      "summary": "Stanford violated its AI policy by turning a Hispanic student into a fake Black woman in ad  San Francisco Chronicle..."
+    },
+    {
+      "title": "Attorney general drops felony charges against Stanford Five - Palo Alto Online",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVkY4REJlZUFyb0ljWFZ1MmFZREZJeHNlNVdQLVp6ZnRKVzF4Q3QzcEtUankxQnhpUnZnZjZLRGcwamVtVUZqYmwzRUtsUDhTYWM5UDBoX2piT3VoaTg3cnMwWXQzZXpPeUxxcnpldF9DTDdIQ1hkOWtULXNMMTlhdmlGZnFNT09tb2FDU1psYlpvRDIybkRXbDdrS3d3OWlxM0hFWGJ3cXM3T0txMTBjZWdxUDhFSXh2ZUJhVW12UQ?oc=5",
+      "date": "2026-09-21 21:08",
+      "summary": "Attorney general drops felony charges against Stanford Five  Palo Alto Online..."
     },
     {
       "title": "Call for Applications: CDDRL 2027-28 Pre- & Postdoctoral Fellowships - Stanford University",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3FWc0xUWUNDaXVrRkZOclRpbXJiY3FNX0hSVklpeDZFLUpXUm1zNk5wakswTGpsMWs4cVRWTXlhbW9ITjI2Q1ZHRmdtN2dnc0xINW5qekxsOWpWYjdSSFVma0hUdFNaT2p2aEZuLW9ZY2JQUjBJRkg4UVppejVObzRQOWhXcTBEaUdHdUtxYk5nZk5GbmdoMnh5MTE?oc=5",
       "date": "2026-09-21 12:00",
       "summary": "Call for Applications: CDDRL 2027-28 Pre- & Postdoctoral Fellowships  Stanford University..."
-    },
-    {
-      "title": "Stanford scientists discover the human brain may actually be two separate organs - ScienceDaily",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sd05ZaG56azNXSmhEMUQyTEtuR3o3bFBRWmFyU1BkVEFrc0JoU1NyWDl5SWp6RGN3M3A0a0VZczJrc2NxOWlJSmhoUnVKS3AzMUsxUXplTzg2Y014Um1iSlQ5NXY2M2tyRmUybkJLRQ?oc=5",
-      "date": "2026-09-21 10:26",
-      "summary": "Stanford scientists discover the human brain may actually be two separate organs  ScienceDaily..."
-    },
-    {
-      "title": "Stanford University Accused of Using AI to Change Race and Gender of Student in Advertisement Photo - yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVEQ2THktZWtUbUdHTlVqeGg5T0ZibXhNYlRFa0pxZzZteTlMQ3plaWwzOFlsRGJqM0xja0pZdXBnbDBKVDdHTmlWd2ZVV2xBMEgzSW5Wc045VnVORE5oSkhQTWVqWjB0MUZTU1hSaS14cWJRNGlIaDZZWlVvbzhkSHFhc0RqRjI2RWtONERsTjZQRmZx?oc=5",
-      "date": "2026-09-22 16:47",
-      "summary": "Stanford University Accused of Using AI to Change Race and Gender of Student in Advertisement Photo  yahoo.com..."
-    },
-    {
-      "title": "Charges dropped against Stanford students over pro-Palestine protest - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTVRnSUhwelJDZFM1UTlzcy1EeVc2U2F0a2VfMmJCd3Nfb0pWQi1wbkVXZXhsVmRqYmRuU1E5NW9qZ25qNzhmT0twcUlGWXliemhJRTlwWFJiOU13TU03WU11WmgtQVUwczI3UjM3MGtYbnJ0X0lMMktyOVcxWl9YSWZzZjNXV2oyaU11a2c1V1JkWmNCN2xOTDhB?oc=5",
-      "date": "2026-09-21 19:59",
-      "summary": "Charges dropped against Stanford students over pro-Palestine protest  The Guardian..."
     }
   ],
   "Nature Careers": [
@@ -121,13 +121,19 @@
       "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02724-wMisadventures at a scientific meeting in Nevada, and po..."
     },
     {
-      "title": "Watch scientists decipher burnt scrolls without unrolling them",
-      "link": "https://www.nature.com/articles/d41586-026-02920-8",
+      "title": "About to give your first lecture? Read this first",
+      "link": "https://www.nature.com/articles/d41586-026-02369-9",
       "date": "2026-09-22 00:00",
-      "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02920-8By making and burning their own papyrus, researchers ha..."
+      "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02369-9Ten researchers and faculty members share what surprise..."
     }
   ],
   "Retraction Watch": [
+    {
+      "title": "Elsevier journal retracts 100+ papers for authorship issues, editor conflicts of interest",
+      "link": "https://retractionwatch.com/2026/09/22/elsevier-journal-retracts-100-papers-for-authorship-issues-editor-conflicts-of-interest/",
+      "date": "2026-09-22 10:00",
+      "summary": "Science of the Total Environment (STOTEN) has retracted 165 papers this year, most for “suspicious” changes in authorship or edito..."
+    },
     {
       "title": "Misconduct case dropped against AI expert after claims of AI use in recent book",
       "link": "https://retractionwatch.com/2026/09/21/misconduct-case-dropped-against-ai-expert-after-claims-of-ai-use-in-recent-book/",
@@ -151,12 +157,6 @@
       "link": "https://retractionwatch.com/2026/09/16/lancet-journals-national-union-journalists-strike-over-staff-wages/",
       "date": "2026-09-16 23:01",
       "summary": "Union members at The Lancet and its affiliated journals will go on strike Sept. 22 for one day with further action planned for the..."
-    },
-    {
-      "title": "Lawsuit over retraction of abortion pill papers heads toward arbitration decision",
-      "link": "https://retractionwatch.com/2026/09/15/lawsuit-over-retraction-of-abortion-pill-papers-heads-toward-arbitration-decision/",
-      "date": "2026-09-15 19:17",
-      "summary": "A legal challenge by authors over three retracted articles about mifepristone is set for an arbitration conference this month as n..."
     }
   ],
   "Reuters AI": [
@@ -167,28 +167,28 @@
       "summary": "EXCLUSIVE: DeepSeek to brief UN Security Council on AI this week, sources say  Reuters..."
     },
     {
-      "title": "Anthropic unveils Claude Opus 5.5 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2VINVptSExJdjU0WkQ0WDVkRUdsaHduYjB1Tk81TnBrZkVvalowQWh2NFJnYmZ1TkxtVTQyZHdVWDgzVmJtRE9SSjkzeW9DWDFleHNPU01LUWE1TUpCdktmTVVRZHNXWm9ack9CRmdQTU1XUHd0Y2lhaEZBWWJYQVNFYw?oc=5",
-      "date": "2026-09-22 17:22",
-      "summary": "Anthropic unveils Claude Opus 5.5  Reuters..."
+      "title": "OpenAI calls for US to take lead in global efforts to develop technical standards - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY1F1UlF0ZWNKMTNmQkF4d3JKTGsyU3liQUt4YkhCaHRrNDdnNnFPbWNrbVpwS0U0REV6SnRIenZmU3hndndTTG1ia0lHemR1RDIwcWo5aXBmcGlIUzdIZkd5VGNrUnlqSHduTmlXUGlKb3JmRC1URWpOVXFyY0NlVF9sa0RSWms1TEZLQVlxclBqNV9PS2V0VnpMNmNoNUg3NXJmQmtaZHdGYlkyaGV0SEZvRmZnMzQzUlJzem13?oc=5",
+      "date": "2026-09-21 17:02",
+      "summary": "OpenAI calls for US to take lead in global efforts to develop technical standards  Reuters..."
+    },
+    {
+      "title": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5",
+      "date": "2026-09-22 21:35",
+      "summary": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide  Reuters..."
+    },
+    {
+      "title": "Ten days that changed the course of AI - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQblR1M1NxcFM0aTduT05SUDNaMzV0enFsSWdhSm5Ud010NFdMa3FCbHdPcG8yUDdUTlJCR1NrY2tPWFB4RE51SllnaG9NXzB0ZjFCbkpLVUhVay1mSnoydW1qOVZUU0p6akhaOHU0UHBPQnlYVVRQNndGOW1UQjlnajN2d3N3c1BWdklHOTln?oc=5",
+      "date": "2026-09-21 12:06",
+      "summary": "Ten days that changed the course of AI  Yahoo..."
     },
     {
       "title": "Three Out of Four Americans Say AI Firms Not Doing Enough to Prevent Disaster, Reuters/Ipsos Poll Finds - U.S. News & World Report",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVm5TRFYwWUtJdDNyWFlGcmtfQktUNHpSMTZJYjMyV2hhUS1Vek1KdlpFLUl5QjRnRFd3d2pOSWIwTnU3SGdVWDZJYnRwZ3RNam1lT2tDTFREVkNCOWJLWHBmcVZ6a05jVDV5d3RCSTlTLTd3cUtxd05ZZi1MTWZ5V28xNXJubnZ5LVZKWkVkY3BTSy1EZVF1MF83ZlJLQklxYmQ1cW80MTU1NEdkX3l0Y0ZnWE1RbnBLY3A5cGZQWTVicEh5UnpZaDBsM2R6VFlNTFYyR0RtZkxEWHJMTjNHVUF3WThFTmFmVDdLLUxhR3Q?oc=5",
       "date": "2026-09-22 10:01",
       "summary": "Three Out of Four Americans Say AI Firms Not Doing Enough to Prevent Disaster, Reuters/Ipsos Poll Finds  U.S. News & World Report..."
-    },
-    {
-      "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDlYaXB6UFVtWndZUGJsNy1FQzRrM203TUc1RDA0VTZ5Y0FaZ0JHVnV0dzVKMHJkSGowOUFYVUs5N1Y2QWJibzhJZEJpbk8xUmxja1o2ME9tY0hfZjRCOGFGWjVVcmVza2F2VGdvNzJjRnVlY2tzeTdIWWUxREVrNkJYRWRPazhzcG00b0NNYzJDRjlQRmhFV3JlQWNZS2lJWFZfeV9VMmdrdmJiZ0xWNlVkblM2Qk0?oc=5",
-      "date": "2026-09-22 15:20",
-      "summary": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks  Reuters..."
-    },
-    {
-      "title": "EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI agent Muse - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRC1FTHlGVTZjNmVycUMzV3RjbnJycmN0cXo0eWd6RWM4WG9GZTJWLXBuLUJidnBxQ0p2SEpUeVZoSU9ibWZWSkNDd1NxTF9IYVFicDg3QWR1VWF6UkNweGlUSkRPdWxqLWpmVVZqbkkwa2w0Y2E5cEc2b016Z1N0bWc5cjBzQnd4Z25WV0FQclk4OHk5UWdPWG8zcFZ6VWRGWE8wVThaRQ?oc=5",
-      "date": "2026-09-22 16:39",
-      "summary": "EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI agent Muse  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -225,34 +225,34 @@
   ],
   "Phys.org": [
     {
-      "title": "AI model predicts peptide bitterness and enables novel flavor design",
-      "link": "https://phys.org/news/2026-09-ai-peptide-bitterness-enables-flavor.html",
-      "date": "2026-09-22 18:20",
-      "summary": "During the production of fermented products such as kefir, Parmesan, or mountain cheese, as well as in the production of protein p..."
+      "title": "From swarming bacteria to tissue cells, living matter defies classic physical models of motion",
+      "link": "https://phys.org/news/2026-09-swarming-bacteria-tissue-cells-defies.html",
+      "date": "2026-09-22 21:40",
+      "summary": "A new study led by researchers from Ben-Gurion University of the Negev (BGU) reveals that living matter violates previously known ..."
     },
     {
-      "title": "Rice bran—source for antimicrobial, biodegradable food packaging film",
-      "link": "https://phys.org/news/2026-09-rice-bran-source-antimicrobial-biodegradable.html",
-      "date": "2026-09-22 18:20",
-      "summary": "Rice bran is a plentiful agricultural byproduct that is often underused, but research from the Arkansas Agricultural Experiment St..."
+      "title": "Psychologists provide tips on how to talk about identity",
+      "link": "https://phys.org/news/2026-09-psychologists-identity.html",
+      "date": "2026-09-22 21:40",
+      "summary": "Imagine your child asks you out of the blue, \"If we speak Spanish, will they take you away?\" Or imagine them suddenly asking what ..."
     },
     {
-      "title": "Largest dataset of its kind could clarify how massive stars shaped early galaxies",
-      "link": "https://phys.org/news/2026-09-largest-dataset-kind-massive-stars.html",
-      "date": "2026-09-22 18:00",
-      "summary": "The more astronomers learn about the universe's earliest galaxies, the stranger they seem. Many of their surprising properties may..."
+      "title": "AI companions may erode social skills among isolated users, framework suggests",
+      "link": "https://phys.org/news/2026-09-ai-companions-erode-social-skills.html",
+      "date": "2026-09-22 21:20",
+      "summary": "As AI companions become more commonplace, new research from Singapore Management University (SMU) and Duke-NUS Medical School argu..."
     },
     {
-      "title": "How amateur naturalists are helping scientists track what everything eats",
-      "link": "https://phys.org/news/2026-09-amateur-naturalists-scientists-track.html",
-      "date": "2026-09-22 18:00",
-      "summary": "An interdisciplinary team of researchers has created an open-source website for learning what different organisms eat and what eat..."
+      "title": "What is your dog really saying? AI is helping researchers decode animal communication",
+      "link": "https://phys.org/news/2026-09-dog-ai-decode-animal-communication.html",
+      "date": "2026-09-22 21:00",
+      "summary": "Is a dog's bark simply an expression of emotion, or does it contain specific information that humans cannot understand? Artificial..."
     },
     {
-      "title": "Electrical control method tunes magnetic properties for next-generation spintronic memory",
-      "link": "https://phys.org/news/2026-09-electrical-method-tunes-magnetic-properties.html",
-      "date": "2026-09-22 17:40",
-      "summary": "A research team led by Professor Jung-Il Hong of the Department of Physics and Chemistry at DGIST has successfully used current pu..."
+      "title": "Short 'logic check' warnings may improve how people assess climate arguments",
+      "link": "https://phys.org/news/2026-09-short-logic-people-climate-arguments.html",
+      "date": "2026-09-22 21:00",
+      "summary": "In the climate debate, people are exposed to a lot of different information and opinions. A short warning that an argument may con..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "The question Hong Kong charities must answer",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3367888/question-hong-kong-charities-must-answer?utm_source=rss_feed",
+      "date": "2026-09-22 21:30",
+      "summary": "Hong Kong does not lack institutions that speak the language of service and responsibility. What it lacks, too often, is a clear a..."
+    },
+    {
       "title": "CUHK economist apologises over talk that examined women ‘marrying for money’",
       "link": "https://www.scmp.com/news/hong-kong/education/article/3368435/cuhk-economist-apologises-over-talk-examined-women-marrying-money?utm_source=rss_feed",
       "date": "2026-09-22 16:17",
@@ -311,12 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368421/hong-kong-urged-secure-sustainable-fuel-supply-safeguard-aviation-hub-status?utm_source=rss_feed",
       "date": "2026-09-22 13:06",
       "summary": "Hong Kong risks losing its status as an international aviation hub if it fails to secure a reliable, credibly certified supply of ..."
-    },
-    {
-      "title": "Fatal dog attacks trigger safety fears in Hong Kong. Here’s how to protect yourself",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3368419/fatal-dog-attacks-trigger-safety-fears-hong-kong-heres-how-protect-yourself?utm_source=rss_feed",
-      "date": "2026-09-22 12:59",
-      "summary": "The death of a cyclist in a suspected canine attack in Hong Kong’s Yuen Long on Saturday night has sparked fierce discussion on so..."
     }
   ]
 }
