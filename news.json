@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "The promise and peril of using visual AI to study cities",
+      "link": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+      "date": "2026-09-24 04:00",
+      "summary": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for resea..."
+    },
+    {
       "title": "How the brain keeps its options straight at decision time",
       "link": "https://news.mit.edu/2026/how-brain-keeps-its-options-straight-at-decision-time-0922",
       "date": "2026-09-22 20:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/batteries-safely-break-down-in-gi-tract-could-improve-ingestible-devices-0921",
       "date": "2026-09-21 15:00",
       "summary": "Made from “bioresorbable” materials, the new batteries could power capsules for drug delivery, sensing, and other applications...."
-    },
-    {
-      "title": "Unmasking “zombie cells” in aging tissue with an AI-powered barcode",
-      "link": "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921",
-      "date": "2026-09-21 09:00",
-      "summary": "Tracking down senescent cells, which accumulate as we age, could help diagnose age-related disorders and guide researchers working..."
     }
   ],
   "Harvard Gazette": [
@@ -45,12 +45,6 @@
       "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
     },
     {
-      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
-      "date": "2026-07-10 07:00",
-      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
-    },
-    {
       "title": "Harvard releases information on 1,613 enslaved individuals - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkc0Zkh1alNhTkI2VGE1X19STlVFTE4zenVtaVJ6LVE0ZFZ1N1RGbXZyYmswOUh3cFYzM1ZWeE92VDJRZG9mS3B0WS1sS1FDLTBpM0pSVENsekt2MGNLeU5NeDJ0MGtVNjBLcW1yWlBWLXpITXZBQlNIX3g0cVk1S2xsaHlLb1lNU1FoSkRIRHUwZWRwRDJUS3J1TGRPRTN1VFJpdy01dE8?oc=5",
       "date": "2026-05-12 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtGdjRrQWxJMjRtaDhTRGg2T0ZkdkVXWEFEM0twYWNuTmJWY0xuQTdwUVJheHp1VDdVbTJQcms1blF0WERlRGp6XzRTb2YwUEpXazdOajUtSFVWSHoydTNpb1JLN2VGY1JuWC1pa1hZY1AxOFRKckVWRlNXbXRXXzRmLVAzNFU5SzBxV1lPYjNXWS0wVzNhUHgwdEUtMG4wVDZfdzlwVjg?oc=5",
       "date": "2026-05-01 07:00",
       "summary": "Worried about how online firms use data they get from you?  Harvard Gazette..."
+    },
+    {
+      "title": "What happens if an AI agent goes rogue and causes harm? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmVyMHV1RnBxeVpMNkM0dGowSWlzZ3JTZU8yMlJVTHE4SmZQeE1jRkpPNUNfZlJnZnhudF9TRDVEc0F3RnRqRktpVm9XVFRCY1NsOUdBYjlRVUo4WnFDOEhzODA3UEJrSXQwNWM5enRhaERXWVpNMHdzRTBBTmNVZDR0dHZpN1BYOTNMM3lNaExZZDV0OWw1dmFXdWxDZTBtUG5aYjZ2LWVtLUR6Q1JETg?oc=5",
+      "date": "2026-07-10 07:00",
+      "summary": "What happens if an AI agent goes rogue and causes harm?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -77,16 +77,16 @@
       "summary": "Stanford admits breaking own policy after race-, gender-swapped student photos emerge  Fox News..."
     },
     {
-      "title": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo - nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzNfSTlJb0IwNEhqVVM3TV9hMkFvdVJJQ0tfQWpEeTE3SHlIYWFjUXZpbVpPVWdzYmxHWUU5c0RmLU84RXN1Q01NM002cE1QZkNEcGVBdHRlSHFzMU9zM080MXBXVlJtTXMwc0xNV1NKeHdzMmtWc1E0TnB5VnA0THUxMlYxNDItN2J1ejJR?oc=5",
-      "date": "2026-09-22 19:46",
-      "summary": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo  nytimes.com..."
-    },
-    {
       "title": "Stanford replaces student with AI in campus ad - CNN",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVFpfcHBiT3pKNHRIQ0VzMnlNYXdHV0E2QUdvNUhZdVdNTjRCTm1EY0FYaFpzVFphWHVITVpzOElKYVFvY0QzTkFiU3libXlhZUJYRXFrdkk0UGtqYjloek5DNGU4dTFoMnVUTmZjdWFfS1pWRHI3d1hJeV9uTjczZ1lEQjJ5TDFHRWlR?oc=5",
       "date": "2026-09-23 18:00",
       "summary": "Stanford replaces student with AI in campus ad  CNN..."
+    },
+    {
+      "title": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzNfSTlJb0IwNEhqVVM3TV9hMkFvdVJJQ0tfQWpEeTE3SHlIYWFjUXZpbVpPVWdzYmxHWUU5c0RmLU84RXN1Q01NM002cE1QZkNEcGVBdHRlSHFzMU9zM080MXBXVlJtTXMwc0xNV1NKeHdzMmtWc1E0TnB5VnA0THUxMlYxNDItN2J1ejJR?oc=5",
+      "date": "2026-09-22 19:01",
+      "summary": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo  The New York Times..."
     },
     {
       "title": "University confirms use of AI-edited photo amid controversy - The Stanford Daily",
@@ -161,34 +161,34 @@
   ],
   "Reuters AI": [
     {
-      "title": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5",
-      "date": "2026-09-22 21:31",
-      "summary": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide  Reuters..."
-    },
-    {
       "title": "EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI agent, Muse - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRC1FTHlGVTZjNmVycUMzV3RjbnJycmN0cXo0eWd6RWM4WG9GZTJWLXBuLUJidnBxQ0p2SEpUeVZoSU9ibWZWSkNDd1NxTF9IYVFicDg3QWR1VWF6UkNweGlUSkRPdWxqLWpmVVZqbkkwa2w0Y2E5cEc2b016Z1N0bWc5cjBzQnd4Z25WV0FQclk4OHk5UWdPWG8zcFZ6VWRGWE8wVThaRQ?oc=5",
       "date": "2026-09-22 16:01",
       "summary": "EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI agent, Muse  Reuters..."
     },
     {
-      "title": "AI leaders warn UN of security risks as systems grow more powerful - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5",
-      "date": "2026-09-23 21:18",
-      "summary": "AI leaders warn UN of security risks as systems grow more powerful  Reuters..."
-    },
-    {
-      "title": "Canadian and French publishers stand by author accused of using AI for prize-winning novel - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHY3NmZmazZOWVpVaHpPMFVHaWUtUWxSUmZhYjNYUEVOZmxuOEgyRl85UWUzMFd4dW1SRTNPQ2E0cUxWemFPcXVmM1lQY1ZCTVF4QnJCeWxRV1hveTZTZmxtMWRtVFE1Zno2enlQbVlNOU9sNUFBV19VSWU5dkFBbVNrOHR1TVJsblRjNVowRjNHa1ctbndpUU1fcFlFM1ZfYjBfX3ljMkJZV2k3UnNIamIxcnpaektPU0xFM2Z3?oc=5",
-      "date": "2026-09-23 15:18",
-      "summary": "Canadian and French publishers stand by author accused of using AI for prize-winning novel  Reuters..."
-    },
-    {
       "title": "From smart glasses to AI pins, privacy fears challenge tech's next big bet - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUgyOXZwdDA0cWZ2dk1tOU0tcHBBZG95TXFOLUwydXpqem4xZDRfYVJvMkhocFVldVp1cXNOX01zd1Z4YnJGZmxQYWFjY044VlQ2Z1V0UlNhUkU1bEVycUlMX3ZOVGhfMEh3SHRkNlVCTzkyc0w1MXR6RXF3bmJaak1tbXRTMEVNejBTWXFPeDVNQXNPWm1TdW5TTkhGakxMUHJWZURrdVoyanhQRENfc1pTdE5YMll4YjRqNzBNWG8?oc=5",
       "date": "2026-09-22 10:01",
       "summary": "From smart glasses to AI pins, privacy fears challenge tech's next big bet  Reuters..."
+    },
+    {
+      "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR2h1c2dZMG5ya1BGWURiTFpoTVQ2MlRuRXlxVmFzVkFJWHBfVmg4SGl1T0ttVUNrY04wMVJuUGZtVlhWYTAwN3IzUEUyOW9KQmVoUDhfY2UzYnREQ3J2NnQyUGN1bkN3MnU0LTIzLWZCYXVwSDFDb0tqZDNvVlhUUGRxY042cUxUeTVKdzRyNnNhYWJ1VG5EWXV6aGN4U0V6eEF3Y0x4dnJTdV9COExXZTYtU09fRUlnY3c?oc=5",
+      "date": "2026-09-24 04:40",
+      "summary": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions  Reuters..."
+    },
+    {
+      "title": "AI leaders warn UN of security risks as systems grow more powerful - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5",
+      "date": "2026-09-23 10:05",
+      "summary": "AI leaders warn UN of security risks as systems grow more powerful  Reuters..."
+    },
+    {
+      "title": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5",
+      "date": "2026-09-22 21:31",
+      "summary": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -199,10 +199,10 @@
       "summary": "Don’t be fooled by this summer of AI hype  MIT Technology Review..."
     },
     {
-      "title": "A congressional representative just proposed killing America’s border tower program - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjRIV2sxVkdJSzJhM3k2NTJ3NzZkb1pzN3NXZElCdmZldTZEUmx4ZTN6ZUlCczNXNS1oci01U20wc0Nvd0puOVQ1SFQ0MVJoeVJZU1VzbndfdThxc0hSNjVjUl9WVF9PTG1vQllUejJ4VExiaXBFZXpVbG5vQTQxQklCUnBVdHg3RlJ3TC1PN2JobDZXblRjVUJ4cjhOc21IY3RBUVpDdXZkWVJIYkthaUR0T0pRTEdVeDFJcW55bXlmRFpzbjFXVWZEMEhTU3hU0gHWAUFVX3lxTFB3QjdydjlsTUE1RmNRN0pxVkwxc25QQ05kUVZvU0hzMVdwQWRKMTByZVhQWkMxZXo3aWl4OXNteDRrOWxzZ2JmUjNqUE1wM3hEcEtIWG1tT1JwMkpraG9nQUVGbjlIZUJZXzFwcENUbUZvS1c5UUs1YzV1c0FFbWJnZVFCU1NRekpXVUNsVWVDRXB4YW9fNEM4ZVB3dUFxUldHSmdMd2MyTUZkY3d6aTZGdzZYY0h3OExUa2tHWlEyZjYxSnlwZ1lvYUV6VGx5c0xwUTNsdEE?oc=5",
-      "date": "2026-09-23 17:10",
-      "summary": "A congressional representative just proposed killing America’s border tower program  MIT Technology Review..."
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdU0tbEhZVzZ5dllSLWR3RjJsUkl2R0FxMUV4aDZ6bEtWOUZhaThVM2N3YVJteVNKNGxTVkVkV1JYLTJ6LVlQMlpSVUcwbVJydURpamFrS1VELXNBcGNuUWM3VWw1Ym0xS0pTS3FtYWhiYW1fWFRtblNLeDhKMHN1cnR3enZVRTV0RVU1QWFuNEZPWWVPTThMZA?oc=5",
+      "date": "2026-09-21 12:00",
+      "summary": "The US spent billions on border surveillance. Why can’t it catch people before they die?  MIT Technology Review..."
     },
     {
       "title": "Smart glasses are already causing havoc in India - MIT Technology Review",
@@ -211,48 +211,48 @@
       "summary": "Smart glasses are already causing havoc in India  MIT Technology Review..."
     },
     {
+      "title": "A congressional representative just proposed killing America’s border tower program - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjRIV2sxVkdJSzJhM3k2NTJ3NzZkb1pzN3NXZElCdmZldTZEUmx4ZTN6ZUlCczNXNS1oci01U20wc0Nvd0puOVQ1SFQ0MVJoeVJZU1VzbndfdThxc0hSNjVjUl9WVF9PTG1vQllUejJ4VExiaXBFZXpVbG5vQTQxQklCUnBVdHg3RlJ3TC1PN2JobDZXblRjVUJ4cjhOc21IY3RBUVpDdXZkWVJIYkthaUR0T0pRTEdVeDFJcW55bXlmRFpzbjFXVWZEMEhTU3hU0gHWAUFVX3lxTFB3QjdydjlsTUE1RmNRN0pxVkwxc25QQ05kUVZvU0hzMVdwQWRKMTByZVhQWkMxZXo3aWl4OXNteDRrOWxzZ2JmUjNqUE1wM3hEcEtIWG1tT1JwMkpraG9nQUVGbjlIZUJZXzFwcENUbUZvS1c5UUs1YzV1c0FFbWJnZVFCU1NRekpXVUNsVWVDRXB4YW9fNEM4ZVB3dUFxUldHSmdMd2MyTUZkY3d6aTZGdzZYY0h3OExUa2tHWlEyZjYxSnlwZ1lvYUV6VGx5c0xwUTNsdEE?oc=5",
+      "date": "2026-09-23 17:10",
+      "summary": "A congressional representative just proposed killing America’s border tower program  MIT Technology Review..."
+    },
+    {
       "title": "The AI Hype Index: AI loves cheating - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQzhLNjRpZTc0eVNFXzZXT01zQXJaamVhRTVJMUc2ZVJzS3JBb2JTYm1FaVBNaVBFWi10dGtWYjZDX3R5U3VBVHJQY2Nqbm5DWnpLVzhtUXBKV3ZZRFUydkdiMVhxblpCTml5d2o5anJZYWpNSFlDSHFHNnRGWDRBbHpUMWE0bjFFZ3lndg?oc=5",
       "date": "2026-09-23 09:00",
       "summary": "The AI Hype Index: AI loves cheating  MIT Technology Review..."
-    },
-    {
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die? - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdU0tbEhZVzZ5dllSLWR3RjJsUkl2R0FxMUV4aDZ6bEtWOUZhaThVM2N3YVJteVNKNGxTVkVkV1JYLTJ6LVlQMlpSVUcwbVJydURpamFrS1VELXNBcGNuUWM3VWw1Ym0xS0pTS3FtYWhiYW1fWFRtblNLeDhKMHN1cnR3enZVRTV0RVU1QWFuNEZPWWVPTThMZA?oc=5",
-      "date": "2026-09-21 12:00",
-      "summary": "The US spent billions on border surveillance. Why can’t it catch people before they die?  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Self-driving lab automates semiconductor ink synthesis and thin-film characterization",
-      "link": "https://phys.org/news/2026-09-lab-automates-semiconductor-ink-synthesis.html",
-      "date": "2026-09-24 01:00",
-      "summary": "Developing new functional materials often requires testing numerous material combinations. Conventional experiments reach their li..."
+      "title": "Aerial maps reveal successful woodland expansion in Scotland's Cairngorms",
+      "link": "https://phys.org/news/2026-09-aerial-reveal-successful-woodland-expansion.html",
+      "date": "2026-09-24 04:00",
+      "summary": "A University of Cambridge–led team has used aerial surveys across a huge swath of the Cairngorms National Park in Scotland to crea..."
     },
     {
-      "title": "The stories we tell ourselves shape who we are",
-      "link": "https://phys.org/news/2026-09-stories.html",
-      "date": "2026-09-24 00:40",
-      "summary": "\"One way or another, we are living the stories planted knowingly or unknowingly in us early in life, the stories that give our liv..."
+      "title": "Fit, thin, curvy and toned: The contradictory body ideals young NZ women face online",
+      "link": "https://phys.org/news/2026-09-thin-curvy-toned-contradictory-body.html",
+      "date": "2026-09-24 03:40",
+      "summary": "For countless people, social media has become a go-to source of advice on how to look, eat and exercise...."
     },
     {
-      "title": "Delaying cherry blossom to reduce frost damage",
-      "link": "https://phys.org/news/2026-09-delaying-cherry-blossom-frost.html",
-      "date": "2026-09-24 00:20",
-      "summary": "Climate change is causing many fruit trees to flower earlier, increasing their exposure to damaging late spring frosts. A study le..."
+      "title": "Study reveals how communication sequence strengthens green persuasion",
+      "link": "https://phys.org/news/2026-09-reveals-communication-sequence-green-persuasion.html",
+      "date": "2026-09-24 03:00",
+      "summary": "The impact of sustainability messages may depend not only on their content but also on the order in which they are presented. The ..."
     },
     {
-      "title": "Crown-of-thorns starfish can help reefs thrive",
-      "link": "https://phys.org/news/2026-09-crown-thorns-starfish-reefs.html",
-      "date": "2026-09-24 00:00",
-      "summary": "Crown-of-thorns starfish (COTS) are infamous in the marine world. Their toxin-loaded thorns give them a menacing appearance, and t..."
+      "title": "In House primaries, organized groups may matter more than voters",
+      "link": "https://phys.org/news/2026-09-house-primaries-groups-voters.html",
+      "date": "2026-09-24 02:40",
+      "summary": "In most of the nation's 435 congressional districts, the general election is not much of a contest. With the vast majority of U.S...."
     },
     {
-      "title": "GenAI use among online adult learners associated with academic performance and technology confidence",
-      "link": "https://phys.org/news/2026-09-genai-online-adult-learners-academic.html",
-      "date": "2026-09-24 00:00",
-      "summary": "University of Phoenix scholars have published research examining how nontraditional undergraduate students use generative artifici..."
+      "title": "Acute hunger could reach 8 million children in six African countries as El Niño looms",
+      "link": "https://phys.org/news/2026-09-acute-hunger-million-children-african.html",
+      "date": "2026-09-24 02:20",
+      "summary": "About 8 million children across East and Southern Africa could face acute hunger by early 2027, a rise of 30%, as one of the stron..."
     }
   ],
   "The Guardian Edu": [
@@ -289,6 +289,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong vows safe Apec meeting with plans for terror and cyberattack threats",
+      "link": "https://www.scmp.com/news/hong-kong/article/3368612/hong-kong-vows-safe-apec-meeting-plans-terror-and-cyberattack-threats?utm_source=rss_feed",
+      "date": "2026-09-24 06:24",
+      "summary": "Hong Kong will introduce security arrangements, including contingency plans for potential terrorist attacks, for the coming Apec m..."
+    },
+    {
+      "title": "Authorities may appeal engineer’s non-custodial sentence in Queen Mary Hospital lift case",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368611/authorities-may-appeal-engineers-non-custodial-sentence-queen-mary-hospital-lift-case?utm_source=rss_feed",
+      "date": "2026-09-24 06:13",
+      "summary": "Hong Kong’s Electrical and Mechanical Services Department (EMSD) is considering an appeal against the non-custodial sentence of an..."
+    },
+    {
+      "title": "Hong Kong police search for woman after man found dead outside commercial building",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368594/hong-kong-police-search-woman-after-man-found-dead-outside-commercial-building?utm_source=rss_feed",
+      "date": "2026-09-24 03:59",
+      "summary": "Hong Kong police are searching for a Chinese woman after the dead body of a man was found on a chair outside a commercial building..."
+    },
+    {
       "title": "Hong Kong’s animal welfare laws fail to meet modern demands, experts say",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368545/hong-kongs-animal-welfare-laws-fail-meet-modern-demands-experts-say?utm_source=rss_feed",
       "date": "2026-09-24 00:30",
@@ -299,24 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368553/moongazing-bus-tours-how-celebrate-mid-autumn-festival-hong-kong?utm_source=rss_feed",
       "date": "2026-09-23 14:54",
       "summary": "From moongazing and picnics to bus rides and a lantern extravaganza, the Mid-Autumn Festival in Hong Kong has plenty of activities..."
-    },
-    {
-      "title": "Activist charged after microchipped dog caught in probe into suspected attack",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368549/activist-charged-after-microchipped-dog-caught-probe-suspected-attack?utm_source=rss_feed",
-      "date": "2026-09-23 14:24",
-      "summary": "Hong Kong authorities have charged an animal welfare activist after a stray dog captured during an investigation into a suspected ..."
-    },
-    {
-      "title": "Hong Kong to welcome 1.29 million mainland Chinese visitors for National Day break",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368547/hong-kong-welcome-129-million-mainland-chinese-visitors-national-day-break?utm_source=rss_feed",
-      "date": "2026-09-23 14:03",
-      "summary": "Hong Kong is expected to welcome about 1.29 million mainland Chinese travellers over the National Day “golden week” break, with ci..."
-    },
-    {
-      "title": "Abused children at higher risk of long-term health problems, Hong Kong NGO warns",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3368541/abused-children-higher-risk-long-term-health-problems-hong-kong-ngo-warns?utm_source=rss_feed",
-      "date": "2026-09-23 12:44",
-      "summary": "Child abuse can impair victims’ development and increase their risk of long-term health problems such as obesity and heightened in..."
     }
   ]
 }
