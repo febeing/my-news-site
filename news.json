@@ -1,6 +1,18 @@
 {
   "MIT News": [
     {
+      "title": "Estimating suicide risk from text",
+      "link": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+      "date": "2026-09-24 21:00",
+      "summary": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventi..."
+    },
+    {
+      "title": "Biologists identify a cellular pathway that allows colorectal cancer to metastasize",
+      "link": "https://news.mit.edu/2026/biologists-identify-cellular-pathway-allows-colorectal-cancer-metastasize-0924",
+      "date": "2026-09-24 18:00",
+      "summary": "They also found that obesity may put patients at higher risk for activation of the pathway. Drugs that block the pathway may help ..."
+    },
+    {
       "title": "New cell-collection device could improve early cancer detection",
       "link": "https://news.mit.edu/2026/new-cell-collection-device-could-improve-early-cancer-detection-0924",
       "date": "2026-09-24 15:00",
@@ -17,18 +29,6 @@
       "link": "https://news.mit.edu/2026/how-brain-keeps-its-options-straight-at-decision-time-0922",
       "date": "2026-09-22 20:00",
       "summary": "Making a decision requires juggling a set of options without getting them confused or losing track of them. A new MIT study shows ..."
-    },
-    {
-      "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
-      "link": "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
-      "date": "2026-09-22 19:00",
-      "summary": "Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health r..."
-    },
-    {
-      "title": "Finding purpose through research",
-      "link": "https://news.mit.edu/2026/finding-purpose-through-research-0921",
-      "date": "2026-09-21 20:35",
-      "summary": "This summer, BSG-MSRP-Bio student Marina Milea investigated how lung cancers become resistant to targeted therapies, gaining hands..."
     }
   ],
   "Harvard Gazette": [
@@ -71,60 +71,60 @@
       "summary": "Stanford R&DE Uses AI to Race Swap Students for Advertising  The Stanford Review..."
     },
     {
-      "title": "Stanford admits breaking own policy after race-, gender-swapped student photos emerge - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMm5RRXN4SU9EQTRMNXhHOGw0WmxvY01vNDFkdzVGMGMtNk9ocWQ1dFJ4Uk84SlY1WmN0SEV4QXZJOXFBQmhkaDc4a0o2c2gzcHRRNWJCQ0ZHQWJpX0JxSUpnOTZfcm96TVNXUVdadjVGc1k1WXhoUHVNQWJZbTNaTjNObHZfYThMRUhvQ1hKOENKN2c0Q3ZRSURFbFdFc2lia0FVNHNVNnY3YVRDUHJCbFJDeDB0ZmfSAbwBQVVfeXFMUDQtRUFpZTJyaTdlSEJmaG5ZWDNhT0I0UVdoNFVhOGoxTXhtYTJ0VEgyNmQxM3RNa0trTUxrb01raDNwXzd4cUZPZ3k1SnQ4ZWMtVzc3Tkstby1qOEhlMFRPRV9RcS1ock5wQWdrU2xvR1hkdW1lQjBJSVFLZEtUdVpsdWl5RXg1Q2dveWJROWlfOVRmV3VfQmlIV0h6aW1zajNDY0dLRC1ad00td252bFdKbGxqQTZYLTBoSlU?oc=5",
-      "date": "2026-09-23 15:42",
-      "summary": "Stanford admits breaking own policy after race-, gender-swapped student photos emerge  Fox News..."
+      "title": "Stanford apologizes saying AI-altered photo that changed student’s gender and race violated policy - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ19tZUNaLWZ4d3lnWGlvNDF3N244YjMzQ2l1ck1WUmhUVHVqZWhtcDRCMTFDTG1LV2pHQjduU1dRS1JIVkRRN2ZORFdtZGhYNHBJMC1vbzJYSzNxazdVcFpfeGpWWU01RDNxYU05Uk12amNubXR6eGNTcktkRkZBQUE1U0haOFVNWE9RdEpIZklTUzdnNVV3NnJpY3lwc1J6S21RMjU3OEoybjAxclh2czEyM3hsTmFMU1E?oc=5",
+      "date": "2026-09-24 20:26",
+      "summary": "Stanford apologizes saying AI-altered photo that changed student’s gender and race violated policy  NBC News..."
+    },
+    {
+      "title": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzNfSTlJb0IwNEhqVVM3TV9hMkFvdVJJQ0tfQWpEeTE3SHlIYWFjUXZpbVpPVWdzYmxHWUU5c0RmLU84RXN1Q01NM002cE1QZkNEcGVBdHRlSHFzMU9zM080MXBXVlJtTXMwc0xNV1NKeHdzMmtWc1E0TnB5VnA0THUxMlYxNDItN2J1ejJR?oc=5",
+      "date": "2026-09-24 14:17",
+      "summary": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo  The New York Times..."
+    },
+    {
+      "title": "Stanford replaces student with AI in campus ad - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVFpfcHBiT3pKNHRIQ0VzMnlNYXdHV0E2QUdvNUhZdVdNTjRCTm1EY0FYaFpzVFphWHVITVpzOElKYVFvY0QzTkFiU3libXlhZUJYRXFrdkk0UGtqYjloek5DNGU4dTFoMnVUTmZjdWFfS1pWRHI3d1hJeV9uTjczZ1lEQjJ5TDFHRWlR?oc=5",
+      "date": "2026-09-23 18:00",
+      "summary": "Stanford replaces student with AI in campus ad  CNN..."
     },
     {
       "title": "Students outraged after Stanford University uses AI to alter race, appearances in promotional photo - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1hoemxIUTYzckY1Yy1zYzRoZ19ia19Pem14dmVpanpxbVJpSk5ZQkpzUGxXN0VCV3JVelZNc0tuTXg4aW1WSGtnbHVSTWtFdDdxOURnOTE2cXc0SFFNTzB0M1gyQzV5RmtlMEtvVFlPcHVpVmZad3pmN29UdGIxZlRKclNmTEhIemUwai1rMXM0U0J6eW5xR0p3elJ0YWQx0gGmAUFVX3lxTE8yQzgySngxdG81TURBNXptcUxiQm8wa0Qzcl9tWEQtc0wyVWRXcWdodWZlemlJOGFNUkI3M3dOVG5HNTNQbWNEamNuem1VbktxMk1iYTdXRmktclJUU0Q3U3lDWmhkUkVEdWVuRVJULUxtYXlhSEFZXzdQN1BZRVVaV01TQXJuRk9Fcms5RmlOc0txLUdSU0U3LW5tQmVBLVZJc0c5WGc?oc=5",
       "date": "2026-09-24 14:52",
       "summary": "Students outraged after Stanford University uses AI to alter race, appearances in promotional photo  ABC News - Breaking News, Lat..."
-    },
-    {
-      "title": "Stanford removes AI-altered photo that replaced Hispanic student with Black woman - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNREU0LVpkNmhuOEZfTlQyM3RVRS1va3N0NnJPLXE1M21sOTZtcjBUeDRWVEVzT3YtSmFxRm9qVWI5ci1rYTBGOUViTlozd2E1NkZidFN2ajJaZFhsRk1lVWUxZzdEbFJVQXNsc3dGNG9na0dnZVhVMS15NGYtNEhrU1RWelFBWGhLdTdBN1pWenlkb09PYVlwaENhaXpSMWJfZFc1YkFLME1wNndPQzFQbDBzUV8wRGZUWk9ESHg4RW9RN19TRDBRRUQxVFZFN1U?oc=5",
-      "date": "2026-09-24 17:17",
-      "summary": "Stanford removes AI-altered photo that replaced Hispanic student with Black woman  The Washington Post..."
-    },
-    {
-      "title": "University confirms use of AI-edited photo amid controversy - stanforddaily.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yRUZYcmxsQnk2Q0RpX19GZzVfTGxPOE8zT0RxcjlhbzdadjJoWDBsTm9ERkJvYWw2VmJiZ3RnOTgzUC1uZGpfYlFvSUdGTDZhc3RqZk9vWWpxS3BxRGdrbThreDRqeGQyQ0tZSi1rX3VVTjMwdWliLWs0eVByUQ?oc=5",
-      "date": "2026-09-23 08:15",
-      "summary": "University confirms use of AI-edited photo amid controversy  stanforddaily.com..."
     }
   ],
   "Nature Careers": [
     {
-      "title": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
-      "link": "https://www.nature.com/articles/s41586-026-11189-w",
-      "date": "2026-09-23 00:00",
-      "summary": "Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11189-wAuthor Correction: Large recoverable elastic energy in ..."
+      "title": "Bumblebees don’t mind a little plastic in their honeypots",
+      "link": "https://www.nature.com/articles/d41586-026-02988-2",
+      "date": "2026-09-24 00:00",
+      "summary": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-02988-2Insects show off their adaptability by incorporating un..."
     },
     {
-      "title": "Chiral oxazolidinones <i>via</i> biocatalytic aziridination of unactivated alkenes",
-      "link": "https://www.nature.com/articles/s41586-026-11169-0",
-      "date": "2026-09-23 00:00",
-      "summary": "Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11169-0Chiral oxazolidinones via biocatalytic aziridination of..."
+      "title": "Youthful fans of YouTube sports videos stick to the sofa",
+      "link": "https://www.nature.com/articles/d41586-026-02989-1",
+      "date": "2026-09-24 00:00",
+      "summary": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-02989-1University students who are highly motivated to watch s..."
     },
     {
-      "title": "Bank accounts reveal the fingerprints of abusive financial control",
-      "link": "https://www.nature.com/articles/d41586-026-03021-2",
-      "date": "2026-09-23 00:00",
-      "summary": "Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-03021-2Analysis of anonymized banking data could help inform s..."
+      "title": "AI system helps lab devices ‘talk’ with each other — streamlining research",
+      "link": "https://www.nature.com/articles/d41586-026-02990-8",
+      "date": "2026-09-24 00:00",
+      "summary": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-02990-8Platform allows disparate machines to communicate and t..."
     },
     {
-      "title": "Competition heats up in the regenerative-medicine ranks",
-      "link": "https://www.nature.com/articles/d41586-026-02856-z",
-      "date": "2026-09-23 00:00",
-      "summary": "Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02856-zThe United States leads, but China poses strong competi..."
+      "title": "AI agent hacks government website for first time: why this breach matters",
+      "link": "https://www.nature.com/articles/d41586-026-03024-z",
+      "date": "2026-09-24 00:00",
+      "summary": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03024-zAn OpenAI agent accessed secure data on an Australian h..."
     },
     {
-      "title": "Huge hoard of metal bars hints at vast Iron Age trade",
-      "link": "https://www.nature.com/articles/d41586-026-02986-4",
-      "date": "2026-09-23 00:00",
-      "summary": "Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02986-4One-tonne cache of iron is the largest ever found — and..."
+      "title": "AlphaFold 'goes viral': database adds protein complexes of common viruses",
+      "link": "https://www.nature.com/articles/d41586-026-03022-1",
+      "date": "2026-09-24 00:00",
+      "summary": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03022-1AI predictions could help with pandemic preparedness, b..."
     }
   ],
   "Retraction Watch": [
@@ -161,16 +161,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5",
-      "date": "2026-09-22 21:31",
-      "summary": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide  Reuters..."
-    },
-    {
       "title": "COMMENTARY: AI could help governments cut debt — but unevenly - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmFJZlhXMnJVOGZlLW5aSUVHdFB0U1hFNFBMU19za2lkRDdwckJnWkNPMktHaFFzTEVacGNCdmwxMVVvSEdnd2V0b20wYXJCbHpXdU53RTRhQ3EwZDRBNlZLbjVzSXAyWWxxQ3pmRDQyVDRxdVJoTEt3UzFKWUtydEZEWnRJN08xWjZ2eU1RdHE3YWFpcFlTZnlSbmlNNGlZU05uME94dERrdFBmOFpsbnd1R2NubENad1pISXhDcXBteWs3ZG1F?oc=5",
       "date": "2026-09-24 11:06",
       "summary": "COMMENTARY: AI could help governments cut debt — but unevenly  Reuters..."
+    },
+    {
+      "title": "AI tools generated nearly $1 billion in extra costs, Blue Cross insurers say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkNVMjNWMUhpZ2VzSU8xSzREVTF4WTBESEpTVzJ2aHU5RndfTXJZQjB1eS1KbHRaOUNKcUxjcVVBNUluZ1JuTkFoT0ZMVHlqUjYxVFhDUzlvSnNJY2YwMmhrZkVsUTRKbTZudXlsRTh3VjM5MWtRMUVJanFfV01IdVpOalBpZ0pCQ0VUU0E3QW1YR3l3cTRncmEyLVBvUUhxdXRaSnpOdG9BLWZQZDRPcHUyWmFUS2h4NnlhVG93ZzRWZw?oc=5",
+      "date": "2026-09-24 12:22",
+      "summary": "AI tools generated nearly $1 billion in extra costs, Blue Cross insurers say  Reuters..."
     },
     {
       "title": "AI leaders warn UN of security risks as systems grow more powerful - Reuters",
@@ -185,10 +185,10 @@
       "summary": "Financing of historic AI buildout raises systemic risks in US, researcher says  Reuters..."
     },
     {
-      "title": "Trump says he'll discuss AI with Xi but wants to 'leave it exactly where it is' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOWFPSF81d196aENvbnN5UkVvamNMbVhiUlBLLS1mcDBSYnJDV0poQkluYjhCTjhxODBtUFlJTnZLSjdCeHlQbEN5cFlzVWtzLW1QN2tKODR1MGdnalFiTFhoMFhkSFR5TGlFMDJVZ09oT01QZUc2azJYMG9GbTE1RE9IZDhXWTJyUmNjMmVQTTZlRjItWUJMOWViaGxEaVJCRGU1ODE4R0o3bFZNMllnbHc2THFlOXJoYXJDdHhuMlc3aHJHc0c0?oc=5",
-      "date": "2026-09-24 12:51",
-      "summary": "Trump says he'll discuss AI with Xi but wants to 'leave it exactly where it is'  Reuters..."
+      "title": "For Pope Leo, the risk of an AI apocalypse is a major concern - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaG54LVN3UTNVQXEyc3d5WVJHbkNtd1VfcGd5cGJLMXc5WGM4dWJ5V1NRY2VkbUw1MjZ5UkZSVGFpLTBVbjJFS0FVZjhRV2s3a1F2a2IweGNTUkdPc19RVnRsRkI3X1JiNUVUX2VjamJQUU1NdEtlWVlIVzNmNTU4eFpWMWF6WlFhaDAtZHg4UlE1WUExMUJv?oc=5",
+      "date": "2026-09-24 10:09",
+      "summary": "For Pope Leo, the risk of an AI apocalypse is a major concern  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -217,42 +217,42 @@
       "summary": "The AI Hype Index: AI loves cheating  MIT Technology Review..."
     },
     {
-      "title": "Smart glasses are already causing havoc in India - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlZiak1vNUxTcVIwdU5QNEc3LUduQXFvYlkwbTgzVk9JQUVxdW55Q3IyMS1EeDZIRy1ja2lSS2V2VFhRZDdkWTRVSDZjdXdJd191Tlo0cllFQTZwRDNWV1loaGYwYUVyZ2VyeFg5eUpjcDNUeUJfVUkyd1JleVVrTHBpemnSAYoBQVVfeXFMT3VtOS1RUG5naUVaemt4M1BOMGFZUGdlMkxkMTJ3UnR5dlFvSDdTbWV1dENrWEtQTHFDSWxKemUwSVNkT3djS0RFYTgwanFJZUllVHRTY09MNHZiRzdLaE1qN2JfdGdYNnlHR2dqOVRWT2REdmtfb092SkZIdGo1bllqYWZKUUxEZ3dR?oc=5",
-      "date": "2026-09-23 09:00",
-      "summary": "Smart glasses are already causing havoc in India  MIT Technology Review..."
+      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0Z3UmVoWm9hRzg1d3ZrWS1BNTREUzVoRHprTHFaQWgxZ3QxbkJRR0U0aGgwZy1GOTNmZmZpaUNHeXJQTk9XUW5fSEhtY3FOdnZkYzNDM0h0ajIwM21uSWJ0RmNPLU81dWU3UFUyTHR4Z3U0RnRJZFZIdXB4RnJaOHRQRnJmcERva3k5MU5yd9IBlAFBVV95cUxOWlVXdnItcHdaeXlNenFHdzA5M1lMLVRyUHBQZzhhaVhqNmNfWHhoY0JSNEdoUU9fX1FVUi1oMmVEY25vbGRQbC1FbWRmeVltRlZfMGdPRzdwempwLUlWY1NqLUZDUnQ5QXoyZGVnLWlHNnAxWVhBZElPbmZEcFRYYnNrUGxDVTFoT093a0R2ck9GTENf?oc=5",
+      "date": "2026-09-22 12:10",
+      "summary": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Dog brains track consonant patterns in speech, a first outside humans",
-      "link": "https://phys.org/news/2026-09-dog-brains-track-consonant-patterns.html",
-      "date": "2026-09-24 18:00",
-      "summary": "Dog brains segment speech into words in a way previously seen only in humans, a new study from Hungary finds. This suggests that e..."
+      "title": "Coastal flooding occurs at predictable times, research reveals",
+      "link": "https://phys.org/news/2026-09-coastal-reveals.html",
+      "date": "2026-09-24 21:50",
+      "summary": "Coastal flooding may seem unpredictable, a natural disaster that occurs randomly. But UCF researcher Ivan Haigh has found that rec..."
     },
     {
-      "title": "Lactose-intolerant consumers pay more for lactose-free ice cream in study",
-      "link": "https://phys.org/news/2026-09-lactose-intolerant-consumers-pay-free.html",
-      "date": "2026-09-24 18:00",
-      "summary": "With an estimated 36% of people in the United States having some degree of lactose intolerance, there may be an expanded market fo..."
+      "title": "More than 60 years of beach survey data reveal the extent of shoreline erosion",
+      "link": "https://phys.org/news/2026-09-years-beach-survey-reveal-extent.html",
+      "date": "2026-09-24 21:50",
+      "summary": "The University of Rhode Island has made one of the world's longest-running beach survey efforts available online through Rhode Isl..."
     },
     {
-      "title": "Learning style predicts survival skills in young orangutans",
-      "link": "https://phys.org/news/2026-09-style-survival-skills-young-orangutans.html",
-      "date": "2026-09-24 18:00",
-      "summary": "Orangutan infants spend their first eight years with their mothers, and throughout this time, they can draw on their knowledge. Af..."
+      "title": "Scientists map the changing sounds of the Arctic to strengthen global monitoring",
+      "link": "https://phys.org/news/2026-09-scientists-arctic-global.html",
+      "date": "2026-09-24 21:40",
+      "summary": "As Arctic sea ice retreats, new shipping routes, expanding resource development and growing geopolitical competition are transform..."
     },
     {
-      "title": "New catalogs map the quantum possibilities of atomically thin materials",
-      "link": "https://phys.org/news/2026-09-quantum-possibilities-atomically-thin-materials.html",
-      "date": "2026-09-24 18:00",
-      "summary": "Twistronics has become a new alchemy of materials. By choosing atomically thin layers, stacking them and changing their relative a..."
+      "title": "Hydrogen crosses, water stays: Palladium membrane enables ammonia synthesis using water",
+      "link": "https://phys.org/news/2026-09-hydrogen-stays-palladium-membrane-enables.html",
+      "date": "2026-09-24 21:40",
+      "summary": "A South Korean research team has developed an environmentally friendly ammonia synthesis process that reduces carbon emissions usi..."
     },
     {
-      "title": "A new venomous British snake? Why there's no need to panic",
-      "link": "https://phys.org/news/2026-09-venomous-british-snake-panic.html",
-      "date": "2026-09-24 17:50",
-      "summary": "Great Britain has long been thought to be home to a single venomous snake species, the adder. Although its bites are rarely life-t..."
+      "title": "Higher-dimensional black holes hide an exact symmetry in their ringing, and string-inspired gravity breaks it",
+      "link": "https://phys.org/news/2026-09-higher-dimensional-black-holes-exact.html",
+      "date": "2026-09-24 21:20",
+      "summary": "Strike a bell, and it rings with a pitch and a fading that tell you about the bell: its size, its shape, the metal it is made of. ..."
     }
   ],
   "The Guardian Edu": [
