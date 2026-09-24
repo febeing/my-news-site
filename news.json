@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "New cell-collection device could improve early cancer detection",
+      "link": "https://news.mit.edu/2026/new-cell-collection-device-could-improve-early-cancer-detection-0924",
+      "date": "2026-09-24 15:00",
+      "summary": "MIT researchers developed a handheld system that gently collects living cells from patient samples to aid cancer testing and devel..."
+    },
+    {
       "title": "The promise and peril of using visual AI to study cities",
       "link": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
       "date": "2026-09-24 04:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/finding-purpose-through-research-0921",
       "date": "2026-09-21 20:35",
       "summary": "This summer, BSG-MSRP-Bio student Marina Milea investigated how lung cancers become resistant to targeted therapies, gaining hands..."
-    },
-    {
-      "title": "Batteries that safely break down in the GI tract could improve ingestible devices",
-      "link": "https://news.mit.edu/2026/batteries-safely-break-down-in-gi-tract-could-improve-ingestible-devices-0921",
-      "date": "2026-09-21 15:00",
-      "summary": "Made from “bioresorbable” materials, the new batteries could power capsules for drug delivery, sensing, and other applications...."
     }
   ],
   "Harvard Gazette": [
@@ -77,22 +77,22 @@
       "summary": "Stanford admits breaking own policy after race-, gender-swapped student photos emerge  Fox News..."
     },
     {
-      "title": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzNfSTlJb0IwNEhqVVM3TV9hMkFvdVJJQ0tfQWpEeTE3SHlIYWFjUXZpbVpPVWdzYmxHWUU5c0RmLU84RXN1Q01NM002cE1QZkNEcGVBdHRlSHFzMU9zM080MXBXVlJtTXMwc0xNV1NKeHdzMmtWc1E0TnB5VnA0THUxMlYxNDItN2J1ejJR?oc=5",
-      "date": "2026-09-22 19:01",
-      "summary": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo  The New York Times..."
+      "title": "Students outraged after Stanford University uses AI to alter race, appearances in promotional photo - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1hoemxIUTYzckY1Yy1zYzRoZ19ia19Pem14dmVpanpxbVJpSk5ZQkpzUGxXN0VCV3JVelZNc0tuTXg4aW1WSGtnbHVSTWtFdDdxOURnOTE2cXc0SFFNTzB0M1gyQzV5RmtlMEtvVFlPcHVpVmZad3pmN29UdGIxZlRKclNmTEhIemUwai1rMXM0U0J6eW5xR0p3elJ0YWQx0gGmAUFVX3lxTE8yQzgySngxdG81TURBNXptcUxiQm8wa0Qzcl9tWEQtc0wyVWRXcWdodWZlemlJOGFNUkI3M3dOVG5HNTNQbWNEamNuem1VbktxMk1iYTdXRmktclJUU0Q3U3lDWmhkUkVEdWVuRVJULUxtYXlhSEFZXzdQN1BZRVVaV01TQXJuRk9Fcms5RmlOc0txLUdSU0U3LW5tQmVBLVZJc0c5WGc?oc=5",
+      "date": "2026-09-24 14:52",
+      "summary": "Students outraged after Stanford University uses AI to alter race, appearances in promotional photo  ABC News - Breaking News, Lat..."
     },
     {
-      "title": "University confirms use of AI-edited photo amid controversy - The Stanford Daily",
+      "title": "Stanford removes AI-altered photo that replaced Hispanic student with Black woman - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNREU0LVpkNmhuOEZfTlQyM3RVRS1va3N0NnJPLXE1M21sOTZtcjBUeDRWVEVzT3YtSmFxRm9qVWI5ci1rYTBGOUViTlozd2E1NkZidFN2ajJaZFhsRk1lVWUxZzdEbFJVQXNsc3dGNG9na0dnZVhVMS15NGYtNEhrU1RWelFBWGhLdTdBN1pWenlkb09PYVlwaENhaXpSMWJfZFc1YkFLME1wNndPQzFQbDBzUV8wRGZUWk9ESHg4RW9RN19TRDBRRUQxVFZFN1U?oc=5",
+      "date": "2026-09-24 17:17",
+      "summary": "Stanford removes AI-altered photo that replaced Hispanic student with Black woman  The Washington Post..."
+    },
+    {
+      "title": "University confirms use of AI-edited photo amid controversy - stanforddaily.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yRUZYcmxsQnk2Q0RpX19GZzVfTGxPOE8zT0RxcjlhbzdadjJoWDBsTm9ERkJvYWw2VmJiZ3RnOTgzUC1uZGpfYlFvSUdGTDZhc3RqZk9vWWpxS3BxRGdrbThreDRqeGQyQ0tZSi1rX3VVTjMwdWliLWs0eVByUQ?oc=5",
       "date": "2026-09-23 08:15",
-      "summary": "University confirms use of AI-edited photo amid controversy  The Stanford Daily..."
-    },
-    {
-      "title": "Stanford replaces student with AI in campus ad - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVFpfcHBiT3pKNHRIQ0VzMnlNYXdHV0E2QUdvNUhZdVdNTjRCTm1EY0FYaFpzVFphWHVITVpzOElKYVFvY0QzTkFiU3libXlhZUJYRXFrdkk0UGtqYjloek5DNGU4dTFoMnVUTmZjdWFfS1pWRHI3d1hJeV9uTjczZ1lEQjJ5TDFHRWlR?oc=5",
-      "date": "2026-09-23 18:00",
-      "summary": "Stanford replaces student with AI in campus ad  CNN..."
+      "summary": "University confirms use of AI-edited photo amid controversy  stanforddaily.com..."
     }
   ],
   "Nature Careers": [
@@ -167,16 +167,10 @@
       "summary": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide  Reuters..."
     },
     {
-      "title": "Trump says US Justice Department could rein in AI companies if needed - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkFwcnFpOFFycEx0SEwwNUxZazVuTTh6aUNKZ0pUUHlPU2toMkk2WXAyc3RkYTdKWlVsTEVoTmR5VGJaZlhaU21OdHp2aXRWZ0VGNGtJdERKVGUtWXBiMWdKRm9JY04zTnZ3YXp5akdBU2RsS0tHZG9ESTVmR0hOWUYyaWpjYVNCcFF3c3RBVk53NC1SanNTaXpxOHdMei1SNUJPWnhLLTkzU2VOaUE?oc=5",
-      "date": "2026-09-22 22:32",
-      "summary": "Trump says US Justice Department could rein in AI companies if needed  Reuters..."
-    },
-    {
-      "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR2h1c2dZMG5ya1BGWURiTFpoTVQ2MlRuRXlxVmFzVkFJWHBfVmg4SGl1T0ttVUNrY04wMVJuUGZtVlhWYTAwN3IzUEUyOW9KQmVoUDhfY2UzYnREQ3J2NnQyUGN1bkN3MnU0LTIzLWZCYXVwSDFDb0tqZDNvVlhUUGRxY042cUxUeTVKdzRyNnNhYWJ1VG5EWXV6aGN4U0V6eEF3Y0x4dnJTdV9COExXZTYtU09fRUlnY3c?oc=5",
-      "date": "2026-09-24 04:38",
-      "summary": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions  Reuters..."
+      "title": "COMMENTARY: AI could help governments cut debt — but unevenly - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmFJZlhXMnJVOGZlLW5aSUVHdFB0U1hFNFBMU19za2lkRDdwckJnWkNPMktHaFFzTEVacGNCdmwxMVVvSEdnd2V0b20wYXJCbHpXdU53RTRhQ3EwZDRBNlZLbjVzSXAyWWxxQ3pmRDQyVDRxdVJoTEt3UzFKWUtydEZEWnRJN08xWjZ2eU1RdHE3YWFpcFlTZnlSbmlNNGlZU05uME94dERrdFBmOFpsbnd1R2NubENad1pISXhDcXBteWs3ZG1F?oc=5",
+      "date": "2026-09-24 11:06",
+      "summary": "COMMENTARY: AI could help governments cut debt — but unevenly  Reuters..."
     },
     {
       "title": "AI leaders warn UN of security risks as systems grow more powerful - Reuters",
@@ -185,10 +179,16 @@
       "summary": "AI leaders warn UN of security risks as systems grow more powerful  Reuters..."
     },
     {
-      "title": "AI tools generated nearly $1 billion in extra costs, Blue Cross insurers say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkNVMjNWMUhpZ2VzSU8xSzREVTF4WTBESEpTVzJ2aHU5RndfTXJZQjB1eS1KbHRaOUNKcUxjcVVBNUluZ1JuTkFoT0ZMVHlqUjYxVFhDUzlvSnNJY2YwMmhrZkVsUTRKbTZudXlsRTh3VjM5MWtRMUVJanFfV01IdVpOalBpZ0pCQ0VUU0E3QW1YR3l3cTRncmEyLVBvUUhxdXRaSnpOdG9BLWZQZDRPcHUyWmFUS2h4NnlhVG93ZzRWZw?oc=5",
-      "date": "2026-09-24 12:22",
-      "summary": "AI tools generated nearly $1 billion in extra costs, Blue Cross insurers say  Reuters..."
+      "title": "Financing of historic AI buildout raises systemic risks in US, researcher says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONTI0NGRQVHZXUklOa2xra3RUeVRIUnBhYjdYVENBX1UzTkJoZ1hsX1lvX185ajhhNG5xeWpCMWctSUlnVDFlcE93akVCblpGMy1QY0lCUEJDSVZyZnFWVVA4ZzRhSDM2eVlKelBJRDQ1dlh4UjRsYS0xdVBVX2lWRGQ5ZklQUi03NnZBVm9ncE1KU2JOR3hWRFZ6djBVR1dCak5zREE0VUp3UF9ieWRsQlk0VXUycXBQNTQ1eHdzbkdydw?oc=5",
+      "date": "2026-09-24 10:07",
+      "summary": "Financing of historic AI buildout raises systemic risks in US, researcher says  Reuters..."
+    },
+    {
+      "title": "Trump says he'll discuss AI with Xi but wants to 'leave it exactly where it is' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOWFPSF81d196aENvbnN5UkVvamNMbVhiUlBLLS1mcDBSYnJDV0poQkluYjhCTjhxODBtUFlJTnZLSjdCeHlQbEN5cFlzVWtzLW1QN2tKODR1MGdnalFiTFhoMFhkSFR5TGlFMDJVZ09oT01QZUc2azJYMG9GbTE1RE9IZDhXWTJyUmNjMmVQTTZlRjItWUJMOWViaGxEaVJCRGU1ODE4R0o3bFZNMllnbHc2THFlOXJoYXJDdHhuMlc3aHJHc0c0?oc=5",
+      "date": "2026-09-24 12:51",
+      "summary": "Trump says he'll discuss AI with Xi but wants to 'leave it exactly where it is'  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -211,56 +211,56 @@
       "summary": "The US spent billions on border surveillance. Why can’t it catch people before they die?  MIT Technology Review..."
     },
     {
-      "title": "Smart glasses are already causing havoc in India - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlZiak1vNUxTcVIwdU5QNEc3LUduQXFvYlkwbTgzVk9JQUVxdW55Q3IyMS1EeDZIRy1ja2lSS2V2VFhRZDdkWTRVSDZjdXdJd191Tlo0cllFQTZwRDNWV1loaGYwYUVyZ2VyeFg5eUpjcDNUeUJfVUkyd1JleVVrTHBpemnSAYoBQVVfeXFMT3VtOS1RUG5naUVaemt4M1BOMGFZUGdlMkxkMTJ3UnR5dlFvSDdTbWV1dENrWEtQTHFDSWxKemUwSVNkT3djS0RFYTgwanFJZUllVHRTY09MNHZiRzdLaE1qN2JfdGdYNnlHR2dqOVRWT2REdmtfb092SkZIdGo1bllqYWZKUUxEZ3dR?oc=5",
-      "date": "2026-09-23 09:00",
-      "summary": "Smart glasses are already causing havoc in India  MIT Technology Review..."
-    },
-    {
       "title": "The AI Hype Index: AI loves cheating - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQzhLNjRpZTc0eVNFXzZXT01zQXJaamVhRTVJMUc2ZVJzS3JBb2JTYm1FaVBNaVBFWi10dGtWYjZDX3R5U3VBVHJQY2Nqbm5DWnpLVzhtUXBKV3ZZRFUydkdiMVhxblpCTml5d2o5anJZYWpNSFlDSHFHNnRGWDRBbHpUMWE0bjFFZ3lndg?oc=5",
       "date": "2026-09-23 09:00",
       "summary": "The AI Hype Index: AI loves cheating  MIT Technology Review..."
+    },
+    {
+      "title": "Smart glasses are already causing havoc in India - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlZiak1vNUxTcVIwdU5QNEc3LUduQXFvYlkwbTgzVk9JQUVxdW55Q3IyMS1EeDZIRy1ja2lSS2V2VFhRZDdkWTRVSDZjdXdJd191Tlo0cllFQTZwRDNWV1loaGYwYUVyZ2VyeFg5eUpjcDNUeUJfVUkyd1JleVVrTHBpemnSAYoBQVVfeXFMT3VtOS1RUG5naUVaemt4M1BOMGFZUGdlMkxkMTJ3UnR5dlFvSDdTbWV1dENrWEtQTHFDSWxKemUwSVNkT3djS0RFYTgwanFJZUllVHRTY09MNHZiRzdLaE1qN2JfdGdYNnlHR2dqOVRWT2REdmtfb092SkZIdGo1bllqYWZKUUxEZ3dR?oc=5",
+      "date": "2026-09-23 09:00",
+      "summary": "Smart glasses are already causing havoc in India  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "New research: Snack names influence how filling we imagine they will be",
-      "link": "https://phys.org/news/2026-09-snack.html",
-      "date": "2026-09-24 13:00",
-      "summary": "Imagine being hungry in a grocery store and looking for a snack. You have a choice between Gobo granola bars or Kipi granola bars...."
+      "title": "Dog brains track consonant patterns in speech, a first outside humans",
+      "link": "https://phys.org/news/2026-09-dog-brains-track-consonant-patterns.html",
+      "date": "2026-09-24 18:00",
+      "summary": "Dog brains segment speech into words in a way previously seen only in humans, a new study from Hungary finds. This suggests that e..."
     },
     {
-      "title": "Faint young stars reveal spiral galaxy Messier 74 may be twice as large as thought",
-      "link": "https://phys.org/news/2026-09-faint-young-stars-reveal-spiral.html",
-      "date": "2026-09-24 13:00",
-      "summary": "Astronomers have discovered a faint population of young stars extending far beyond the known edge of the nearby spiral galaxy Mess..."
+      "title": "Lactose-intolerant consumers pay more for lactose-free ice cream in study",
+      "link": "https://phys.org/news/2026-09-lactose-intolerant-consumers-pay-free.html",
+      "date": "2026-09-24 18:00",
+      "summary": "With an estimated 36% of people in the United States having some degree of lactose intolerance, there may be an expanded market fo..."
     },
     {
-      "title": "Earth's tides are shaped by more than the Moon—and they're changing as the planet warms",
-      "link": "https://phys.org/news/2026-09-earth-tides-moon-theyre-planet.html",
-      "date": "2026-09-24 12:40",
-      "summary": "In some parts of the world, the sea barely rises and falls with the tides. In others, the difference between high and low tide is ..."
+      "title": "Learning style predicts survival skills in young orangutans",
+      "link": "https://phys.org/news/2026-09-style-survival-skills-young-orangutans.html",
+      "date": "2026-09-24 18:00",
+      "summary": "Orangutan infants spend their first eight years with their mothers, and throughout this time, they can draw on their knowledge. Af..."
     },
     {
-      "title": "The space race should not endanger Australian wildlife",
-      "link": "https://phys.org/news/2026-09-space-endanger-australian-wildlife.html",
-      "date": "2026-09-24 12:20",
-      "summary": "The race to space continues, with the number of rockets launched increasing every year...."
+      "title": "New catalogs map the quantum possibilities of atomically thin materials",
+      "link": "https://phys.org/news/2026-09-quantum-possibilities-atomically-thin-materials.html",
+      "date": "2026-09-24 18:00",
+      "summary": "Twistronics has become a new alchemy of materials. By choosing atomically thin layers, stacking them and changing their relative a..."
     },
     {
-      "title": "Hungary detects invasive spotted lanternfly for the first time in the EU",
-      "link": "https://phys.org/news/2026-09-hungary-invasive-lanternfly-eu.html",
-      "date": "2026-09-24 12:12",
-      "summary": "An invasive insect linked to major agricultural losses in the U.S. has been detected in the European Union for the first time, Hun..."
+      "title": "A new venomous British snake? Why there's no need to panic",
+      "link": "https://phys.org/news/2026-09-venomous-british-snake-panic.html",
+      "date": "2026-09-24 17:50",
+      "summary": "Great Britain has long been thought to be home to a single venomous snake species, the adder. Although its bites are rarely life-t..."
     }
   ],
   "The Guardian Edu": [
     {
-      "title": "Badenoch says Tories could not form pact with Reform UK because they’re too ‘problematic’ – UK politics live",
+      "title": "Londoners get £3bn a year subsidy because structure of council tax biased against north, says thinktank – UK politics live",
       "link": "https://www.theguardian.com/politics/live/2026/sep/24/labour-reform-conservatives-yougov-mrp-poll-burnham-badenoch-farage-blair-brexit-latest-news-updates",
-      "date": "2026-09-24 12:19",
-      "summary": "Conservative leader suggests making a deal amid scandals surrounding Farage’s party could derail the reputational clean-up of her ..."
+      "date": "2026-09-24 16:31",
+      "summary": "Resolution Foundation says households outside London are paying hundreds of pounds a year more in council tax than they would be u..."
     },
     {
       "title": "Did you sit vocational qualifications in the past and more recently in England? We would like to hear from you",
@@ -289,6 +289,24 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong’s IOMed poised to play key role in resolving Greater Bay Area disputes",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368714/hong-kongs-iomed-poised-play-key-role-resolving-greater-bay-area-disputes?utm_source=rss_feed",
+      "date": "2026-09-24 15:44",
+      "summary": "An intergovernmental mediation body headquartered in Hong Kong is poised to play an important role in resolving cross-border dispu..."
+    },
+    {
+      "title": "Exco declarations reveal new roles for ex-lawmakers as minister retains 22 flats",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3368705/exco-declarations-reveal-new-roles-ex-lawmakers-minister-retains-22-flats?utm_source=rss_feed",
+      "date": "2026-09-24 13:50",
+      "summary": "Updated declarations of interest by members of Hong Kong’s top decision-making body have revealed new business ventures and corpor..."
+    },
+    {
+      "title": "Hong Kong model Abby Choi’s former relatives admit body disposal, deny murder",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368703/hong-kong-model-abby-chois-former-relatives-admit-body-disposal-deny-murder?utm_source=rss_feed",
+      "date": "2026-09-24 13:15",
+      "summary": "Slain Hong Kong socialite Abby Choi Tin-fung’s former husband and brother-in-law have pleaded guilty to illegally disposing of her..."
+    },
+    {
       "title": "3,800 Hong Kong food outlets offering up to 30% off to celebrate National Day",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368699/3800-hong-kong-food-outlets-offering-30-celebrate-national-day?utm_source=rss_feed",
       "date": "2026-09-24 12:37",
@@ -299,24 +317,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3368695/hong-kong-only-admit-few-hundred-foreign-carers-year-under-pilot-scheme?utm_source=rss_feed",
       "date": "2026-09-24 12:12",
       "summary": "Hong Kong will admit “only a few hundred” skilled foreign domestic carers for the elderly annually under a new pilot scheme, the w..."
-    },
-    {
-      "title": "Private jet flap scare triggers ‘local standby’ at Hong Kong airport",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3368692/private-jet-flap-scare-triggers-local-standby-hong-kong-airport?utm_source=rss_feed",
-      "date": "2026-09-24 11:52",
-      "summary": "A mechanical fault on a private jet triggered a precautionary “local standby” at Hong Kong’s airport on Thursday, with the aircraf..."
-    },
-    {
-      "title": "Hong Kong authorities won’t appeal court halt to 12,000-flat project on golf course",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3368668/hong-kong-authorities-wont-appeal-court-halt-12000-flat-project-golf-course?utm_source=rss_feed",
-      "date": "2026-09-24 10:16",
-      "summary": "Plans to build 12,000 public flats on part of Hong Kong’s oldest golf course have been thrown into serious doubt after the governm..."
-    },
-    {
-      "title": "Hong Kong exports surge 53% to HK$667.9 billion, second highest on record",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368645/hong-kong-exports-surge-53-hk6679-billion-second-highest-record?utm_source=rss_feed",
-      "date": "2026-09-24 09:01",
-      "summary": "The recent strength in Hong Kong’s exports extended into August, with the value jumping by 53 per cent to HK$667.9 billion (US$85...."
     }
   ]
 }
