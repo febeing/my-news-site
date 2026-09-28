@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Pressurized experiments could help wind farms generate more power",
+      "link": "https://news.mit.edu/2026/pressurized-experiments-could-help-wind-farms-generate-more-power-0928",
+      "date": "2026-09-28 15:00",
+      "summary": "A new way of simulating wind turbines in the field shows how tweaking turbine operation could unlock tens of thousands of dollars ..."
+    },
+    {
       "title": "New formulation helps RNA vaccines withstand high temperatures",
       "link": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
       "date": "2026-09-28 09:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/biologists-identify-cellular-pathway-allows-colorectal-cancer-metastasize-0924",
       "date": "2026-09-24 18:00",
       "summary": "They also found that obesity may put patients at higher risk for activation of the pathway. Drugs that block the pathway may help ..."
-    },
-    {
-      "title": "New cell-collection device could improve early cancer detection",
-      "link": "https://news.mit.edu/2026/new-cell-collection-device-could-improve-early-cancer-detection-0924",
-      "date": "2026-09-24 15:00",
-      "summary": "MIT researchers developed a handheld system that gently collects living cells from patient samples to aid cancer testing and devel..."
     }
   ],
   "Harvard Gazette": [
@@ -65,66 +65,98 @@
   ],
   "Stanford News": [
     {
+      "title": "‘Academic, not partisan’: Stanford and faculty address partnership with Trump administration on new manufacturing school - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0h4RkxSUVNKRklKWXVqVk9VNkRyMF84ajlQclQ3UGRwZTZPWl81U3dlZjNvWDN4MW9tQmc5WlJIWkM4eC1raGZjN3czaTdfYlB6NVZkOG9WUXFwWTUwelJBRFdFcUFudmZZZHQ0bWVrNFhURW05TVRpT3RQRDV6NGVPdm5KZDJtaXk2RGNfYjE5eTFEUVY2OVBVeWpvQ1FYWElkNjR3TnlDZF81SEdNOFpiNnVPTWVqa1hWTWpKc084ak0wMDI4S3AzTXY?oc=5",
+      "date": "2026-09-28 08:31",
+      "summary": "‘Academic, not partisan’: Stanford and faculty address partnership with Trump administration on new manufacturing school  The Stan..."
+    },
+    {
       "title": "Video Students outraged after Stanford University uses AI to alter race in photo - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1naEY5dzVjMmlWVzNVXzlNT3pYTk9KZHAzYWt4SVdkV1diNDR5dlR4WFNPWlMyNnZQMzJ0ZlZHeGJwVENqRno5MTR1eXQ?oc=5",
       "date": "2026-09-25 10:03",
       "summary": "Video Students outraged after Stanford University uses AI to alter race in photo  ABC News - Breaking News, Latest News and Videos..."
     },
     {
-      "title": "Stanford Athletics, DoorDash Launch Multi-Year Partnership, Jersey Patch - Stanford Cardinal",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2dmRnNrQmVMbm1rMHZfdnpCWGFtQlNlUGdwMW51U0tyNmZ5UHlKc1lVNUpEenhHWE5sVGM1OFlzdWZmVm85YlpBSnRRX1c3SWk5Uk54bXhXb2NaZkhXZGFNYjRmcEFQdVFvVjNtSUNlVXJFRlJZWmJsZG45U1A0R0ZnOXljbUd4YklkN2l1ZmNJUG40SzNqRXZCdm5hVV9iX1hDZDdMMWtYOERkNGc?oc=5",
-      "date": "2026-09-25 16:29",
-      "summary": "Stanford Athletics, DoorDash Launch Multi-Year Partnership, Jersey Patch  Stanford Cardinal..."
+      "title": "The shocking Jane Stanford story gets a haunting new Bay Area exhibition - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeU9GM295emVqd1djYlBhRHdhWEVzVUx3OUoxUHE3Vm9HVkRXQ29ycXJrbUx2VTB5aENSdG1PckY1ZW1RTG9VbGVOdC1rM2MwUXQ5dEtLYWk4UzBsWU5vTXlMMGw1NlFLeHpYYXdoMWZkcTJ5a0xvZFg4b0NfdXF2eVNhQlNQaUF2VnF0WVVyV2RfZnBtOFRVWg?oc=5",
+      "date": "2026-09-28 14:00",
+      "summary": "The shocking Jane Stanford story gets a haunting new Bay Area exhibition  Yahoo..."
     },
     {
-      "title": "Stanford student speaks out after university uses AI to replace him with Black woman in ad: My Latino identity was 'erased' - CNN",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVHpQbGlSWUFWUjZsVm1OWTY5WXE1OW5PM1FkR3VXbzdfUjJ2MkgxT2s3Q01kZ25aS2FRZnFEWEUxRTdEOUZLd1hNZHBmdng0RjVjUjctNkpKTmc1UHRRQzZrcUtkQUQ0bWdOcUJSbTAySzNOWGNWTUlBdzU1bW4xbmlsUkRucGpXYWRJUDRxeGZLS3hoUHAxbGpPWGRrVFpGcXN3UGRMWHJNLVlhOXhmOXZn?oc=5",
-      "date": "2026-09-25 00:00",
-      "summary": "Stanford student speaks out after university uses AI to replace him with Black woman in ad: My Latino identity was 'erased'  CNN..."
+      "title": "Stanford publishes annual crime statistics, safety report - news.stanford.edu",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTl9lM2ZwblJMYkt0dUtHazVScFVETHhLbmU3NFk4XzhZcmx6Y1o5WVRiVklNMFVpMldUUUFGbVkwbWtkcE1zVmlteEF5ZmVfZ2NIVkFsN29INFpBeHJLVExmYzFFV0QxZ0FuVFQ2ck5kS1VOWFpwLVVUTjNMbmRyMVVrSjl1QQ?oc=5",
+      "date": "2026-09-28 13:25",
+      "summary": "Stanford publishes annual crime statistics, safety report  news.stanford.edu..."
     },
     {
-      "title": "UPDATE: Stanford apologizes for using AI to alter student’s race, gender in photo - EdSource",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2ZpTFh4X25ZUGd0QjM3cE90alhSZ2lrbWhwOWUzMldzVWVnczBaeTdvc2R4ZXdGeDN1Uk9tWlVLOHBOT2s4djV4MGNiOFo5ZU5uUF9yM2VjS3lLelIzNU1kMjQyYmVYMTNscWlEUzdWcjZEVnJDamV2a2t0VXZDRWFLM2pHT2ZqdElCZ1dqR2lQbXZteUpoWjVBMTRuSDk3Z1BDRA?oc=5",
-      "date": "2026-09-25 17:35",
-      "summary": "UPDATE: Stanford apologizes for using AI to alter student’s race, gender in photo  EdSource..."
-    },
-    {
-      "title": "Stanford University researcher gets SASTRA-Ramanujan Award 2026 - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTFo3anpjWldHMjBfSzhNT1VvVTg4ZEdvWXhCSkxacnNIZUNjVElIY3BkNl80SWxnU0xWMEw5THA1MmZ1RFlMc0tYbnhwN1NCLWduZUt5NlZtd3hqTWFubHcwNDJnRTQ0b1F5OEVzR05HWFkzQlItMTJpLVREbXFSZUx1R0tvOHdoSHFnQ2NvNVptTGMyaWpwM2VkejdHVFNSSHgyOWtydWc2UkRfRnhva01RZHNjdEJrTWdXajZVSlVVbnRoTFhLT1JUaWwtZjlL0gHXAUFVX3lxTE9ZT1UwWDZXUVY2YWoxT2l1NGVZN3JLeGE1S1ZHaktSMkswVDhMaEg0b2ZWREVkelhISTJuZ2JWZkRGbWVNb1JLWHhtdWNuNjNObUdJeUtsYzVDLTdUcGlNTDhrRGhiejFURUpkeHdFZlpLdXdZaGY2QzV5MEcyRHZCMjRHNm96WF9yS0o3dGhuVTJXT28xN2tXeTVObTJQSWl4VnJnMHZ3X1Z1N01qN3BEaW16YktyX1RZdUJfNFJlZ3VwRkVEbFR5RzFWdjVXYTE3dTlUSjJj?oc=5",
-      "date": "2026-09-25 18:14",
-      "summary": "Stanford University researcher gets SASTRA-Ramanujan Award 2026  The Hindu..."
+      "title": "Stanford Agrees to Add DoorDash Patches to Athletic Uniforms - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT193Y1QyM1lXQ1RuRmRfLVFMc01VMWxCUjBTSGd0Vm1OU0dHbGM4dXRPTFQ1ZUJNOGJMUHFBaGN0a2picS14YzN6TUdxZlBhTUxENWZ2cVExQ2RZTVo2WjVycUx6emVMdTBuSk0wYVdXeGp1QVZ2VGZEVkoxeE5YRmJWRV9PUWQtYWN3cHJMV0ZoLXRUcl9DMnlCUUFVSzI3M3AydHVlc1NSSjNWeHAtTw?oc=5",
+      "date": "2026-09-25 16:01",
+      "summary": "Stanford Agrees to Add DoorDash Patches to Athletic Uniforms  Bloomberg.com..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "China now leads the world in trials for next-gen CAR-T therapies",
+      "link": "https://www.nature.com/articles/d41586-026-03004-3",
+      "date": "2026-09-28 00:00",
+      "summary": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-03004-3China tests these therapies faster than the rest of the..."
+    },
+    {
+      "title": "Stephen Hawking biography explores an ‘exceptionally clear, uncluttered mind’",
+      "link": "https://www.nature.com/articles/d41586-026-02959-7",
+      "date": "2026-09-28 00:00",
+      "summary": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02959-7An elegant account of the physicist’s unusual life stor..."
+    },
+    {
+      "title": "Vaping in childhood has bigger health risks than we’d thought",
+      "link": "https://www.nature.com/articles/d41586-026-02962-y",
+      "date": "2026-09-28 00:00",
+      "summary": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02962-yUse of e-cigarettes makes it more likely that young peo..."
+    },
+    {
+      "title": "Old hearts age backwards: transplanted organs adjust to host's biological age",
+      "link": "https://www.nature.com/articles/d41586-026-03043-w",
+      "date": "2026-09-28 00:00",
+      "summary": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-03043-wTracking the biological age of grafted organs suggests ..."
+    },
     {
       "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
       "link": "https://www.nature.com/articles/d41586-026-03041-y",
       "date": "2026-09-25 00:00",
       "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03041-yNature staff discuss a technique that could help resear..."
+    }
+  ],
+  "Science News": [
+    {
+      "title": "Fed up with Brazil’s politicians not listening, a climate scientist runs for office",
+      "link": "https://www.science.org/content/article/fed-brazil-s-politicians-not-listening-climate-scientist-runs-office",
+      "date": "2026-09-28 01:05",
+      "summary": "Luciana Gatti, who studies carbon uptake in the Amazon, aims to join Brazil’s lower house in this week’s elections..."
     },
     {
-      "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
-      "link": "https://www.nature.com/articles/d41586-026-03032-z",
-      "date": "2026-09-25 00:00",
-      "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03032-zAndrew Robinson reviews five of the best science picks...."
+      "title": "U.K. funder uses ‘AI triage’ to reject grant proposals—leaving researchers dismayed",
+      "link": "https://www.science.org/content/article/u-k-funder-uses-ai-triage-reject-grant-proposals-leaving-researchers-dismayed",
+      "date": "2026-09-28 01:00",
+      "summary": "The AI-based assessment, which wasn’t explicitly described in the funding call, has raised privacy and fairness concerns..."
     },
     {
-      "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
-      "link": "https://www.nature.com/articles/d41586-026-03039-6",
-      "date": "2026-09-25 00:00",
-      "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03039-6The detection effort enlisted roughly 950 AI agents tha..."
+      "title": "New space telescope will reopen astronomers’ view of the far-infrared",
+      "link": "https://www.science.org/content/article/new-space-telescope-will-reopen-astronomers-view-far-infrared",
+      "date": "2026-09-25 04:30",
+      "summary": "NASA’s $1.2 billion PRIMA will explore how galaxies evolve and how planets emerge from disks of gas and dust..."
     },
     {
-      "title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
-      "link": "https://www.nature.com/articles/d41586-026-03023-0",
-      "date": "2026-09-25 00:00",
-      "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03023-0Laboratories are still using dangerous and carbon-inten..."
+      "title": "Japan’s Science Council to face greater governmental oversight",
+      "link": "https://www.science.org/content/article/japan-s-science-council-face-greater-governmental-oversight",
+      "date": "2026-09-25 12:38",
+      "summary": "Imminent change in legal status raises concerns that national academy will serve political interests..."
     },
     {
-      "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
-      "link": "https://www.nature.com/articles/d41586-026-03016-z",
-      "date": "2026-09-25 00:00",
-      "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03016-zThe UN’s climate loss and damage fund needs to consider..."
+      "title": "Laser-generated particles allow scientists to see through walls",
+      "link": "https://www.science.org/content/article/laser-generated-particles-allow-scientists-see-through-walls",
+      "date": "2026-09-25 12:25",
+      "summary": "First clean pictures from a muon beam point to a new way to peer inside suspicious packages and ancient structures..."
     }
   ],
   "Retraction Watch": [
@@ -169,93 +201,105 @@
     {
       "title": "Nvidia releases AI safety software it says could have stopped Hugging Face hack - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVREakRaN2V6OWo0bzNFcVBHb1VZMzRVS29mcWF4XzZwSmdxLVRublBqSTE5ZlNBaHBKb0lTU1o2SWV0V0t1U3M3TVl1ZnlJWGVJRGxKclM5RkphYzhzU3FlNkZHNDk3TUZhdW54dGtydmR3MFR2ZFVZdWItaVpsNjZYX2hIbjVHcTM0ZTVqLVd6UHV2OGY4eFM4ZW1va1pCSF90VzlZd3BSUjVkY1RJRzV2ZGFEUnlnbDY1d0ZjOFZoYXBVRU5YZEM0Zmk?oc=5",
-      "date": "2026-09-28 09:23",
+      "date": "2026-09-28 14:46",
       "summary": "Nvidia releases AI safety software it says could have stopped Hugging Face hack  Reuters..."
     },
     {
-      "title": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
-      "date": "2026-09-26 19:59",
-      "summary": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit  Reuters..."
+      "title": "Roche outlines plans to move towards autonomous AI labs - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3ViaFhYX3l4Y3AxRWtCNG5FUjhVa1ZpRjFWQ0c1TVN1WGNMalliZWVxWGFrNGRHcGJLNENjcTBwWjkzWXVGV3hwTmFycV8wYzFsZDhtTWJTVklhZHgtQkw5NE1TaHJfdVFOX0JSenBsY3Q4ZWdHQ0hlZUtaNVZLaFlNc1c1UHU3SE0tUUZ4TE5NVjJEQS0tSk5QNDY0UTZYLWN4MWxKbnN5YjRlWFlIX0hlckY4NlBlVmFScnFNczByUQ?oc=5",
+      "date": "2026-09-28 14:19",
+      "summary": "Roche outlines plans to move towards autonomous AI labs  Reuters..."
     },
     {
-      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkgwZG5VR01rUjNsZkNPUkw1TFNEYTY1TGtCa010MUlRVzE2Vy1qaTBMNnJiYXliYlY1MkJONXpValJTRTdQLVNjazhJbGc1RDNVMDdTNU9WZXd3elhRVVBZNEFZLTBER2VfVkdxUW13YXprcnJKc1NjcmFwS0FYRlZYTWtZZWNQQ0pJV3JjVWFkUDZHZDNOT01FSVJOaDZLUU1wa1BFdDZpU2hZ?oc=5",
-      "date": "2026-09-27 04:27",
-      "summary": "OpenAI, Anthropic CEOs called to appear at Australian AI probe  Reuters..."
+      "title": "AI agent firm Instinct raises $1 billion in latest funding round - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSng0ZWE1OGdrZ1h0amRIYTBJeFVXd0JpellybmtzcHY5WEM0RWpWY2hkZ1FVVUloZUVSalRkQnAxb3hPS0ljbHViV1NXMnUtcEpfV2hRdUU0YXV3OWFUQnp3a25icW9IbnFUbWs4TG9pYXVfZWt3bkRCOHVJb1AxZEpxbWJOekpRT3o1UElTT1dUR0N0bWRpc2MxTUtRS20wbHhzT203Q0VHdUE?oc=5",
+      "date": "2026-09-28 13:42",
+      "summary": "AI agent firm Instinct raises $1 billion in latest funding round  Reuters..."
     },
     {
-      "title": "FTC chair suggests AI developers should be liable for conduct of agents - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0NHdkNjeHVId0Z1MThydkhrVktZMWtKM1FRYmQ2dlRFb2tqR1pXT3FGMkFBLXF5QkJCRzd1RGtLNENtT2k4bkxFclJ3elNzWVkzaXBTam55UlJGQ2FTLVFYd1AyNmRCNzhOYXJtVENXTzVSbzV3U04wbk5lTDFVSkZONEY0TzdyaG1kS1NGaHV6ZE5GSk1xZE9WY1pTU0JtV1E0Vk9lRQ?oc=5",
-      "date": "2026-09-25 22:07",
-      "summary": "FTC chair suggests AI developers should be liable for conduct of agents  Reuters..."
+      "title": "Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcHJGOXJ5VG45UUJaOEZ4MWNFZDQwd3BpUEtsWkFCeFhPbVd5UmFDaDFCelYwaTduR3h2TEsyUTlCeFFReHNtc3h2Y0p4Zi1BVUs2Qnk4ZjZPV2hnSUZEMlVrVWRxbThlT25RdUNVbHEyVHJ6R1dwVlZ5VzlORVZzRGNVbnpxZWZxWXpVMEhEeFpaUGxCRW8zVDRDaHp1R19HbUE5M3dWaERBU2N2aGtsRldiT3RPbDBheUI1VFBjU2FiV2sxOUNvUw?oc=5",
+      "date": "2026-09-28 15:49",
+      "summary": "Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says  Reuters..."
     }
   ],
   "MIT Tech Review": [
     {
-      "title": "Who’s liable when AI agents go rogue? - MIT Technology Review",
+      "title": "When can we say AI made a scientific discovery? - technologyreview.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV0FMWXdiTUJ4Tm1Rd2ljV3RlMDBxY3huSW1rUnY5VFhKMEdhVXhfMjU0LUhNeGdseW1BTF83U1hvTWwxRG54LUZhWENPLUZLV2liTVlUNE1TNlo3M0VRR29McXpPZURPRmE0YkV3bjJvNEtpZVZwSDJaNE9NajM2Sm90SzBlZWJyWnY2S19ScGRCZmRvUmlVRWdUbGdoTW9j0gGmAUFVX3lxTE9aMFViOXdveDVjOFp0X043NFkwV1QxbzRjVnBBNy1sV2tRSWUyUWwtekVDLVVBdGhmVkM2MUlVcW9mMkRPMnI3emZJeTFPSndiTjJJbW1teE9RQ1BPMHpzaW5GdUMzWkRyU1ZSOFlyc1E1UWttbFlfRG4tZ3l4eTN2dGMzM3haRGtDTWNBWmtvbTNkVTBEb3F3blpoY2djYlNwakJDelE?oc=5",
+      "date": "2026-09-28 17:03",
+      "summary": "When can we say AI made a scientific discovery?  technologyreview.com..."
+    },
+    {
+      "title": "Who’s liable when AI agents go rogue? - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWTg0ZWNGM1ByLXFBQk92SEw5UFhfVjkwaVFTMzEwSXB6LXMwSk1pYnp1UmRkcnh1U1dPMUxseW0yMC1pNDVoVEFfcndrZjF5RmZoQldiVUwzQVdvUHFmNXplYzMxV1FnVHhrQ1Z5cHBORGFMZXdiaVNCbS1ZbzJVQXJfZVdoRk1XSWVCTnEyd25zUdIBlwFBVV95cUxOYUNtZ0U3RC1nMjF1Z3hPV0Z4R2pUcmN0bjFLTEhLY2EzUFQ3SktrUk56Wk4wYzFQVHFIYk1xd0kyeWRTMWVTWENpQWkwOXZkTmJGSFlPOTlMMWs0X2s1MEZTaklhbVZXcWpEYkRZOE5EaHptRVhIakNMaGFteVlDWUJmN3lKYmRWWFp0MFctZnhiUDlFd1FN?oc=5",
       "date": "2026-09-28 08:06",
-      "summary": "Who’s liable when AI agents go rogue?  MIT Technology Review..."
+      "summary": "Who’s liable when AI agents go rogue?  technologyreview.com..."
     },
     {
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector - MIT Technology Review",
+      "title": "The Download: rogue agent liability and the AI Hype Index - technologyreview.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWg0WlI0TXJ6bjQtem9xanRWaXBZZkRDcWJqTXNxYlNZLTdOLVd0NXdzWWVacmNKMVNZTVJudU9ZZUd3TzJWRmtmSnBFUUxyYjh6TThtY2RvYUhCN0h5bGlwRUVBLTBUZG9jX2dDajhKTTB3SC1iM3hoTE1VUnJpOExEMlFEZC15ZmdtVDZoT3J5aW44NXAyUVlkejRoeVNyZDlPY1IwLW5qRVRST0HSAbMBQVVfeXFMTmd2emw0VVgySTliNzhOSDNqY05LaHFsX0g5aVBseUItNTlTZmc1dU9SZVFsMTdHX0pKMEI2dW5VVHNNSlZ4LW5CeWhJWnpoYm9pSFoxUVpQMG1QZmwwNUoxdHAxRFk5OXUzTVM3c2pmNENiRTZWN2xaYUlVSkk5MC0ybnM4UzRTMFAzNVlpck4yWUFkQV9COVhaOHhHTXhuXzg0WkVFeXo4Y1VJakRKbVZ3QU0?oc=5",
+      "date": "2026-09-28 12:10",
+      "summary": "The Download: rogue agent liability and the AI Hype Index  technologyreview.com..."
+    },
+    {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWFoWGpGU250T0NlRUE2UVZCeHIzV0lLc1hPeGNWajU1WHFOdlhhTGdlVWhBdUh4VG01QXFLR3pEWWRwUG1uN3V6dFRfd0tzSEkxd0FCWk8tMkNLZTdkdDBjUzJZdmxQUG85UXNPcnRpcExFalVlMHdkUVZNVHdVQk5SZ9IBiAFBVV95cUxNNEY0ZURsODVRTTBmTUM3eUdKSmgwdUwyWDVZajVIWmJHZzUybnhzYTFVYk5hLUJrMkFEMnlTZkszcEtRUjBCNXBfMXY3V3dqSFdRYmxlVUZBcEdLWkppbkVhMmVfdV8zQmxoc0NET0tsTmFGNDBVWVoyNFBSTnYyRkxMZkZNVUda?oc=5",
       "date": "2026-09-25 09:16",
-      "summary": "The Pentagon wants $30 million to build an AI-powered lie detector  MIT Technology Review..."
+      "summary": "The Pentagon wants $30 million to build an AI-powered lie detector  technologyreview.com..."
     },
     {
-      "title": "Don’t be fooled by this summer of AI hype - MIT Technology Review",
+      "title": "Don’t be fooled by this summer of AI hype - technologyreview.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOalMwd0FqRGVxX01sTWdkVXpUOFF1ZDN0dWpIaXNHRFlzYTVZSFdpcVlVRzY3XzV6ZWctZmk3LVM3b0o0dFJpdldJQ0l2a1ZaUldLcUo5NzV0SXpnajYtbDctYTFVenJRM2xFb0hsWm5wbG1xUzRDczNhbTJDaVVRdnQ5Z0tTNmI5MXfSAY8BQVVfeXFMT2xqNWpqRWsxS2d5b3dXTk13SFJnS0tSdDhoNmM5VlZObmpIcXd1bjNuWERhVS04TS1iM3NyWUF2czZfbjRkTXB5MkI4aU92WEI3QU5HSm4zMTZOOTdWYmJTWWhtNF93S2xndmo0MUhmUkNjSjVjVDBmMHFUT240UW84bkNNeUo2N0JSdUp2b00?oc=5",
       "date": "2026-09-22 11:04",
-      "summary": "Don’t be fooled by this summer of AI hype  MIT Technology Review..."
-    },
-    {
-      "title": "AI is dominating the conversation at Climate Week - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IUWR4dUttRGdPX0JpREhGbFZFTl9leU9nUW1oTWVkTFlQOHlIbXhvR3ItYVp5WEFhdmhscmdNNElqQ0JlR2lkSk5sNk5XeV9jXzBOd0E3N3pBZjRoanpMNWRiM0d1QXVEZkdJMi1INDhhekdVZGhZ0gF8QVVfeXFMTk53TmlSWXZhcThUbk5kQlhOQ0M0Yjh1XzdUMC16SmpUcmYwN0VCRFJ4cHlmSXl0S2JuOHJVVlpPeWdESDg4czhBVG9Ca3pMLXRZT1lUOWx6VGZ3S0RyTHAwYjVXSHJGZU8tT1A0TE5hOWRlTzdoUnRqQzBtNA?oc=5",
-      "date": "2026-09-24 10:00",
-      "summary": "AI is dominating the conversation at Climate Week  MIT Technology Review..."
-    },
-    {
-      "title": "Young organs may not be a fountain of youth for recipients - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVUdaMlF3M3lJM19TN0twT1drMjVIMF8tRm1veWtfLUdaX012c3lhUXFObXVUcEowbzAxZDVxbkphMDFmczFiLWU5V01jRGtvdkJDRDdxTFhDeGtUOWw5b0tMMjl1aW5Zc3lmb2NKNzJlTGJ0VlAwdkJIMVQ5c1FidmViRjZuRUlHSTlvTUZqM3NOTHk0cDhTRnZqS3A5M0V3elF5U3BWa0tBMVBrX0ltatIBtgFBVV95cUxOTFpuZmd5dDVaVUppSFB0aUdVbmFqcEdUR2tyeXZGYTM5eDhoRWFHSG1qbkJGM1drcDg3T3EzT2g4ZzRwSFE5eEpLS2Qwb1NSNVU1YjEwdUx4TUVweGQzYjJxUGV5R3B0b19sVk5vc2dzYXhTQlpzclZxUTcwekxWVU9OSWhuMlBTWVNka2piZ1RKMGc2S1BYNnZLTjA1SWNkWHpnOV9sMkxCS3o1YVQtcG83WnRIdw?oc=5",
-      "date": "2026-09-25 09:00",
-      "summary": "Young organs may not be a fountain of youth for recipients  MIT Technology Review..."
+      "summary": "Don’t be fooled by this summer of AI hype  technologyreview.com..."
     }
   ],
   "Phys.org": [
     {
-      "title": "The herring fishery that took 400 years to rebound—and what it teaches us today",
-      "link": "https://phys.org/news/2026-09-herring-fishery-years-rebound-today.html",
-      "date": "2026-09-28 09:00",
-      "summary": "From the 13th to the 16th century, herring from the Sound—the strait in the Baltic Sea between Denmark and Sweden—was one of north..."
+      "title": "Social media may make investors feel more confident than they should be",
+      "link": "https://phys.org/news/2026-09-social-media-investors-confident.html",
+      "date": "2026-09-28 18:20",
+      "summary": "Investment advice is only a scroll away. But new research from the University of Georgia suggests social media may leave some inve..."
     },
     {
-      "title": "Waves find order in the chaos of an oddly shaped cavity",
-      "link": "https://phys.org/news/2026-09-chaos-oddly-cavity.html",
-      "date": "2026-09-28 09:00",
-      "summary": "When light or sound bounces around inside an oddly shaped room, its reflections can quickly become difficult to predict. But new r..."
+      "title": "Testing tiny telescope robots reveals design changes that could improve galaxy maps",
+      "link": "https://phys.org/news/2026-09-tiny-telescope-robots-reveals-galaxy.html",
+      "date": "2026-09-28 18:20",
+      "summary": "Astronomers have cataloged billions of stars and hundreds of billions of galaxies. We have found thousands of planets orbiting sta..."
     },
     {
-      "title": "New formulation helps RNA vaccines withstand high temperatures",
-      "link": "https://phys.org/news/2026-09-rna-vaccines-high-temperatures.html",
-      "date": "2026-09-28 09:00",
-      "summary": "RNA vaccines, which have proved effective against COVID-19, are now being developed for many other diseases, including cancer. One..."
+      "title": "Childless women who shape history and culture are still judged on not being mothers",
+      "link": "https://phys.org/news/2026-09-childless-women-history-culture-mothers.html",
+      "date": "2026-09-28 18:00",
+      "summary": "The women I return to most—Elizabeth I, her potential heir Arbella Stuart (and rival to James Charles Stuart, later King James I),..."
     },
     {
-      "title": "SpaceX aims to put Starship in orbit for the first time",
-      "link": "https://phys.org/news/2026-09-spacex-aims-starship-orbit.html",
-      "date": "2026-09-28 08:34",
-      "summary": "Three years after its first test flight, SpaceX's Starship rocket will attempt Monday to enter Earth orbit, a key step in developi..."
+      "title": "Blue-light tools let researchers track, redirect and sever cells' transport routes",
+      "link": "https://phys.org/news/2026-09-blue-tools-track-redirect-sever.html",
+      "date": "2026-09-28 18:00",
+      "summary": "Light is fundamental to human life—without it, we'd be hungry, cold and blind. But what if the same light that sustains us could a..."
     },
     {
-      "title": "The wildfires choking Indonesia, sparking regional haze",
-      "link": "https://phys.org/news/2026-09-wildfires-indonesia-regional-haze.html",
-      "date": "2026-09-28 08:32",
-      "summary": "For weeks, Indonesia has been battling fires that have burned vast swaths of forest and peat ecosystems, causing toxic haze to bla..."
+      "title": "New model explains why glass becomes less transparent to terahertz light",
+      "link": "https://phys.org/news/2026-09-glass-transparent-terahertz.html",
+      "date": "2026-09-28 17:47",
+      "summary": "Electromagnetic waves in the gigahertz (GHz) range, such as those used in mobile communications, can readily pass through many typ..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "High screen time can hurt children’s learning and language skills, study suggests",
+      "link": "https://www.theguardian.com/society/2026/sep/28/high-screen-usage-in-children-linked-to-poorer-outcomes-major-study-suggests",
+      "date": "2026-09-28 16:50",
+      "summary": "Effect of elevated screen exposure could be as significant as parental behaviour and premature birth, report saysThe effect of hig..."
+    },
+    {
+      "title": "Teachers at Euan Blair firm report ‘horrendous stress’ after AI used to rate their work",
+      "link": "https://www.theguardian.com/technology/2026/sep/28/teachers-euan-blair-firm-report-horrendous-stress-ai-used-to-rate-their-work",
+      "date": "2026-09-28 11:57",
+      "summary": "Exclusive: Instructors at tech training company Multiverse hit out at ‘remorseless’ and ‘unnerving’ monitoring systemTeachers at E..."
+    },
     {
       "title": "‘It’s like the Scottish Upper East Side’: shame and snobbery as American students blamed for St Andrews classism",
       "link": "https://www.theguardian.com/education/2026/sep/27/st-andrews-university-class-divide-american-students",
@@ -273,50 +317,38 @@
       "link": "https://www.theguardian.com/society/2026/sep/26/luna-wong-hong-kong-death-reveals-treatment-international-students-uk",
       "date": "2026-09-26 05:00",
       "summary": "When her parents waved her off to study in England they hoped it would be a fresh start the 16-year-old needed after struggling wi..."
-    },
-    {
-      "title": "Trump administration guts data collection on US education as math and reading scores plummet",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/25/student-math-reading-test-scores",
-      "date": "2026-09-25 15:00",
-      "summary": "National Center for Education Statistics, which collects critical data to guide policy on learning, was decimated after Doge cance..."
-    },
-    {
-      "title": "Londoners get £3bn a year subsidy because structure of council tax biased against north, says thinktank – UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/sep/24/labour-reform-conservatives-yougov-mrp-poll-burnham-badenoch-farage-blair-brexit-latest-news-updates",
-      "date": "2026-09-24 16:31",
-      "summary": "Resolution Foundation says households outside London are paying hundreds of pounds a year more in council tax than they would be u..."
     }
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Hong Kong customs arrests 2, seizes HK$290,000 of ‘slimming injections’ from Japan",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369066/hong-kong-customs-arrests-2-seizes-hk290000-slimming-injections-japan?utm_source=rss_feed",
-      "date": "2026-09-28 09:29",
-      "summary": "Hong Kong customs officers have seized 400 so-called slimming injections imported from Japan, with an estimated market value of ab..."
+      "title": "Hero’s burial for late Hong Kong constable paralysed for 21 years after attack",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369105/heros-burial-late-hong-kong-constable-paralysed-21-years-after-attack?utm_source=rss_feed",
+      "date": "2026-09-28 14:47",
+      "summary": "A former police constable who spent 21 years paralysed after an attack on duty will be buried in Hong Kong’s official cemetery for..."
     },
     {
-      "title": "Hong Kong cracks down on tourists abusing visas to run one-stop shop services",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369058/hong-kong-cracks-down-visitors-abusing-visas-run-one-stop-shop-tourist-services?utm_source=rss_feed",
-      "date": "2026-09-28 09:03",
-      "summary": "Hong Kong immigration authorities are cracking down on tourists abusing their visas to run unlicensed one-stop shops offering cosm..."
+      "title": "Strong AI demand prompts Hong Kong trade body to raise export growth forecast",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369092/strong-ai-demand-prompts-hong-kong-trade-body-raise-exports-growth-forecast?utm_source=rss_feed",
+      "date": "2026-09-28 13:29",
+      "summary": "Stronger-than-expected global demand for artificial intelligence-related products has prompted the Trade Development Council to sh..."
     },
     {
-      "title": "Hong Kong authorities open probe after yacht allegedly charges boat with 6 rowers",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3369032/hong-kong-authorities-investigate-yacht-allegedly-charged-boat-6-rowers?utm_source=rss_feed",
-      "date": "2026-09-28 06:26",
-      "summary": "Hong Kong marine authorities have launched an investigation after a yacht sped directly towards a boat rowed by six athletes durin..."
+      "title": "Hong Kong checkpoints to handle 7.44 million passenger trips for National Day break",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3369098/hong-kong-checkpoints-handle-744-million-passenger-trips-national-day-break?utm_source=rss_feed",
+      "date": "2026-09-28 13:18",
+      "summary": "Hong Kong’s checkpoints are expected to handle about 7.44 million passenger trips over mainland China’s National Day “golden week”..."
     },
     {
-      "title": "Mainland Chinese visitors make 439,532 trips to Hong Kong over Mid-Autumn break",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369026/440000-mainland-arrivals-over-mid-autumn-weekend-hotels-brace-national-day?utm_source=rss_feed",
-      "date": "2026-09-28 06:07",
-      "summary": "Mainland Chinese visitors made nearly 440,000 trips to Hong Kong over the extended Mid-Autumn Festival weekend, with a tourism ind..."
+      "title": "Hong Kong wage index rises 3.4% in June, with government expecting further gains",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369096/hong-kong-wages-rise-34-june-government-expecting-further-gains?utm_source=rss_feed",
+      "date": "2026-09-28 13:17",
+      "summary": "Average wages including allowances in Hong Kong rose by 3.4 per cent year on year in June, with the government forecasting further..."
     },
     {
-      "title": "Businessman Jason Poon and wife granted bail over alleged HK$6 million loan fraud",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369025/businessman-jason-poon-wife-granted-bail-over-alleged-hk6-million-loan-fraud?utm_source=rss_feed",
-      "date": "2026-09-28 06:06",
-      "summary": "Hong Kong businessman Jason Poon Chuk-hung and his wife have been granted bail after facing charges for allegedly defrauding a gov..."
+      "title": "At least 21 Hong Kong-Bangkok flights delayed amid flooding in Thai capital",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3369095/least-21-hong-kong-bangkok-flights-delayed-amid-flooding-thai-capital?utm_source=rss_feed",
+      "date": "2026-09-28 13:11",
+      "summary": "At least 21 flights connecting Hong Kong and Bangkok were disrupted on Sunday and Monday, with passengers on one service leaving t..."
     }
   ]
 }
