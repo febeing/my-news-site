@@ -65,6 +65,12 @@
   ],
   "Stanford News": [
     {
+      "title": "Stanford prof is beating the drum for a new protocol to replace TCP - theregister.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZjlicGhSakpNSU5vQVdvanlDdFZtNHVneFdiRTFCRFBNMHc2dW5uN1BRZk9CYkY5bGhrNjNQRW1nbXh6TklYUWIyaGpVWS16b251NkNHYTE4ZHNZUzVoM2lybkFpUjdEcS1VNWNxeDA4MGVaaGJIMjA2WkVsaW8yaDFkYWxyc3JfZllKRW9HZUJ3T0FRbFItc2hVVEZLeDZXbDUwdEtUTEpmWk9EaVE1TFhTbVBjU2UyZUtUem43NTQ?oc=5",
+      "date": "2026-10-01 20:00",
+      "summary": "Stanford prof is beating the drum for a new protocol to replace TCP  theregister.com..."
+    },
+    {
       "title": "Gen Z returns to faith — that can only be a good thing - New York Post",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZnI2UDJyYTVZSjZBSGJSWldBUjlqa0thd3FwZFNRSjFjRDl1RDNtLUROQjgtQ0g4RHFFRkxFYmJoTVRjQmpmbnByZDFlX0tkQ3hzalVlT1ZOY1psQkRMaEJqQzctRFI3eG9lYVZoRWQ3cTU4ejZ1V3JFZWEzb19KbXNJbVZGLWxXamFBQ3UyTUdrRXVDZ3c?oc=5",
       "date": "2026-10-03 01:49",
@@ -75,12 +81,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVBYMWptY3hOUVVmLV9yc3dPUlBsN19GUWF5S3BkSTRQM0xzbFFxQml3TkpIVGkzbVNFUjRBdTAzZTJ0b2hzUGk3dVJvNy1tSDZQa1FuSHFyVklIb0JjRXJ5ZnJyN3B0anhpNnhYeDhOVDEtUk1XVU5lLWROTUJPUFI3Ry1RaGxiakpTVFdacGZVbUE?oc=5",
       "date": "2026-10-03 02:20",
       "summary": "Duke Drops ACC Result, 3-2, to No. 14 Stanford - Duke University  goduke.com..."
-    },
-    {
-      "title": "Promise Mabilo Honored with Stanford’s 2026 Bright Award - Stanford Law School",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT3BKWksxX2VhZFp6aXRCOF9sOWZxMmxUeVdwSGxvX1Z4cHNjMDFkNHpTSXZrcC14ZmJ5TDRocGd2VTl3T0JyTEJGZzEzT3ptSmZuaEtBMTd5d05lS1d3a3F0REQ0ZldMMEh4ZXNnTUNDbGN2Y2UzeS0xYU4tZ25zaVR3QjhBR2RsYUxqdWlCejA?oc=5",
-      "date": "2026-10-01 17:05",
-      "summary": "Promise Mabilo Honored with Stanford’s 2026 Bright Award  Stanford Law School..."
     },
     {
       "title": "Stanford student imposter found trespassing in Casa Zapata - The Stanford Daily",
@@ -161,12 +161,6 @@
   ],
   "Retraction Watch": [
     {
-      "title": "Weekend reads: China intensifies crackdown on misconduct; AI flooding medical journals with ‘meaningless’ research; Sham scientific societies",
-      "link": "https://retractionwatch.com/2026/10/03/weekend-reads-china-intensifies-crackdown-on-misconduct-ai-flooding-medical-journals-with-meaningless-research-sham-scientific-societies/",
-      "date": "2026-10-03 10:00",
-      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: We..."
-    },
-    {
       "title": "‘Hot mess’ paper questioning CO2 and climate change gets retracted",
       "link": "https://retractionwatch.com/2026/10/02/paper-questioning-co2-and-climate-change-retracted/",
       "date": "2026-10-02 17:27",
@@ -189,21 +183,15 @@
       "link": "https://retractionwatch.com/2026/09/26/weekend-reads-the-weimar-of-knowledge-could-ai-be-better-at-peer-review-than-humans-guidelines-in-south-korea-ban-hidden-prompts-restrict-ai-use/",
       "date": "2026-09-26 10:00",
       "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
+    },
+    {
+      "title": "Above and beyond: An editor wanted authors to know they’d been falsely cited",
+      "link": "https://retractionwatch.com/2026/09/25/above-and-beyond-an-editor-wanted-authors-to-know-theyd-been-falsely-cited/",
+      "date": "2026-09-25 15:01",
+      "summary": "Like many college professors today, Sarah S. Richardson has seen AI-hallucinated citations in work submitted by her students. But ..."
     }
   ],
   "Reuters AI": [
-    {
-      "title": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
-      "date": "2026-10-01 22:26",
-      "summary": "OpenAI alerts more than 100 groups about rogue AI agent activity  Reuters..."
-    },
-    {
-      "title": "As public fears of AI grow, Trump digs in on voluntary safeguards - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaktMNDdZV2FZQTFSeGF3SENIXzkwWHhWLUVhT1ZwVHMzTUdQajl0akw3QTlicmFCQ04tV0YxRFFfUEZYYmxqRFA5QVh3TzhTcm9Ca0pWLXBjeTFXaV9DVXV6ZmFPU1h1NXFsUVpxaHlBUlA3SjhxRVNSQU9UZ2ItTmNBN0VvWFpFc05idzd1dWUyaUNmMWRwc0lKR3A4Q0czbkE0ekNXZlM?oc=5",
-      "date": "2026-10-03 10:39",
-      "summary": "As public fears of AI grow, Trump digs in on voluntary safeguards  Reuters..."
-    },
     {
       "title": "AI's race to transform the world before the money runs out - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
@@ -211,16 +199,28 @@
       "summary": "AI's race to transform the world before the money runs out  Reuters..."
     },
     {
-      "title": "Trump expected to name Jay Clayton as AI czar - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1YtcTVTVVkxcjFJU2xzeXBjNlBrbDBveDJKa0taREVldjdkTWlVeFJXRHEzbE5lM1ZEaFVoTVRKMWNKQjRwRlZ5OTc2anRMNkhPMGVtSk5MdUR5ZWxNVzgyUXNNbTMtSDZtR0NWRkVBZlNDOUR1a0txd0wzLXJ0Mm1Gb0pVQk5qeU1jdE1nakdUQmw3c2REOGtaM3k?oc=5",
-      "date": "2026-10-02 20:10",
-      "summary": "Trump expected to name Jay Clayton as AI czar  Reuters..."
+      "title": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
+      "date": "2026-10-01 22:26",
+      "summary": "OpenAI alerts more than 100 groups about rogue AI agent activity  Reuters..."
+    },
+    {
+      "title": "As Public Fears of AI Grow, Trump Digs in on Voluntary Safeguards - usnews.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkVmSmlFR2h5NFJfMlJKUk42dEdTRlR2QXQ5QVgwTTRzUGFPWE9JUllpeDJ0NVRsekI3R1NKb2pJYkRJa2laSDVyOG9WTXZ1MDBnS3dlc0JTSkRrS0FLWmVodGQ1bFZGd0VBcEt6UllKZ0xWV2RFaGljdzc4a2JJWmlPZTd6cldTNE81RlJMWkVJUWJUR0lQLVpuYlJUNnN0X0dJd1ZESGxzM0Z2azM3RmhwTVctMVV4cTA2b3pn?oc=5",
+      "date": "2026-10-03 10:05",
+      "summary": "As Public Fears of AI Grow, Trump Digs in on Voluntary Safeguards  usnews.com..."
     },
     {
       "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjBOX2tiblNKM3pNUVJ2VzViQzZobDRCQk5pbk1Nai1vUlNDTG94a2JIRDNYSU96Mm1DTnZjWE5LbW9MbXh1RGtXUnEzRXJHOGx2Y1JmdlVBMGpuRGZkMUlZc0hGSUoxVTAyMWdpQmNPSndSTXFHVHhzMnRYaUdqdVY2NW5kY2l4V2IyN0pmNlgxR0JuUjdCRW5ZejBtU3NpdXhtdkJQNDE0c3k5b25wWXBHZE5tMjRnNU1leTJZZUJPWk0zOHZLdHhmNUl5OXBKLXlkNktR?oc=5",
       "date": "2026-10-02 22:43",
       "summary": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints  Reuters..."
+    },
+    {
+      "title": "Trump expected to name Jay Clayton as AI czar - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1YtcTVTVVkxcjFJU2xzeXBjNlBrbDBveDJKa0taREVldjdkTWlVeFJXRHEzbE5lM1ZEaFVoTVRKMWNKQjRwRlZ5OTc2anRMNkhPMGVtSk5MdUR5ZWxNVzgyUXNNbTMtSDZtR0NWRkVBZlNDOUR1a0txd0wzLXJ0Mm1Gb0pVQk5qeU1jdE1nakdUQmw3c2REOGtaM3k?oc=5",
+      "date": "2026-10-02 20:10",
+      "summary": "Trump expected to name Jay Clayton as AI czar  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -249,42 +249,42 @@
       "summary": "Who’s liable when AI agents go rogue?  MIT Technology Review..."
     },
     {
-      "title": "Redefining enterprise intelligence with autonomous AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUhCYUVWZnJlNENNbV9LTTE3bklDdHdjYmVHaTBSQXZGOUFTVEF3VjFNbzBYdFY0TG9lUGFvaUhlTm04WGY3YjBvTXhyS0JYVjRsT2FVb3JRdGZVU3RKUE9XUHNkNE9sVnRnRFVabVZwa1BQUnFnbFR5dWs5RmpEQXgxcUFvcGN0ZGMwai12WE8tODZLNEV4TXM2Sno5MWxKZjA5UUdBZUU0Z9IBrwFBVV95cUxOS2UxeDIzT1pPaEdsR1hhNnktZXgwRng0Z0dLbENrdEszOWNhaXdyU2stLU1WeTd5SmMtMjNOM1RCaXZoX0diczVlYUd3SGczek5JX0k4a1ZWQUE0WHRCOS1Ndmw4UE94MWExcFk3UURZT0ZmRTFaTkVEbXA2RUR5XzRGd0xmSXhLa1lYNkNWbnk4MjhIaXVmeVFUTlE1cmFSb3lOTXRqdk4tZHhBUmxB?oc=5",
-      "date": "2026-10-02 15:49",
-      "summary": "Redefining enterprise intelligence with autonomous AI  MIT Technology Review..."
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTnFYc09DOEpxT195S0ptN3UyXy1MenhLX213Q0NqMGttSklhc2ZneUNicndyc2lVT1hLTDlER2pVU2tLSUNNaTZ0V1lKSXQteWtILUluWTdPZWFIUWdTby1FS0ZKQ0dURF84SWNIc3NON2cyRWo1X1VOMzluVXZETjdxa29Rb2RWMFV0MkFXeG9oRUt2XzYyd1JFeHFPZjBQNVFEaElLR1FIVjBOaEx1M2dOaDA2dVNlN19sYVFrZGYxWDZ1X0hKU3MyUk1YUDJpWk5WNi1rVUhkbk40VW01TTRVZGJqbDTSAewBQVVfeXFMTUQ0U2pFRzE0YklHcE5XdGsxREZnck5RVjhnVWg4YkgySFJNMlFwZm1UNlVRdGs1elUzNlo1aldydV9oYWNxT1dOZ0RESno3YTdqSUtlMjliZnJVdzRaaDZaR29sRE9SaERYdk9USDlSRnFvSHQ5aHNDQVN6WHZzTGo1V1Y4OTZld1pLZzFXZ1dJWDlrYUFMbG1Zbk5vWk8wQ2I5OHlsV1U2akoxVVlUdWY4SmhqSk1RU0JjckJwWHBuNmt0eF93YnFsRmxPbXdpSGpyak01N19BVC1ieWdlUlhCaDVEV3ozZ3lYNUQ?oc=5",
+      "date": "2026-09-30 10:40",
+      "summary": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Energy production, virus defenses and toxin loading emerge as vulnerabilities in resistant bacteria",
-      "link": "https://phys.org/news/2026-09-energy-production-virus-defenses-toxin.html",
-      "date": "2026-10-03 12:00",
-      "summary": "Antimicrobial resistance is one of the world's top public health threats. Often termed a silent pandemic, antimicrobial-resistant ..."
+      "title": "Visible light does not speed up water evaporation, rigorous experiments suggest",
+      "link": "https://phys.org/news/2026-10-visible-evaporation-rigorous.html",
+      "date": "2026-10-03 16:40",
+      "summary": "In recent experiments involving hydrogels and water droplets, researchers have proposed that exposure to visible light could make ..."
     },
     {
-      "title": "French deportation rulings show how judges navigate conflicting rules on forced removal",
-      "link": "https://phys.org/news/2026-09-french-deportation-conflicting.html",
-      "date": "2026-10-03 12:00",
-      "summary": "European deportation practices are governed by a complex web of European, national and human rights law, says the author of a pape..."
+      "title": "When the atmosphere slows the Earth: Uncovering a subtle signal of climate change",
+      "link": "https://phys.org/news/2026-10-atmosphere-earth-uncovering-subtle-climate.html",
+      "date": "2026-10-03 16:20",
+      "summary": "Atmospheric circulation governs weather and climate, but it also carries angular momentum. When winds shift or mass redistributes,..."
     },
     {
-      "title": "Cooper pairs found above superconducting critical temperature in pair density waves",
-      "link": "https://phys.org/news/2026-10-cooper-pairs-superconducting-critical-temperature.html",
-      "date": "2026-10-03 11:00",
-      "summary": "Physicists with the University of Illinois Urbana-Champaign's Grainger College of Engineering have identified a new form of superc..."
+      "title": "New imaging technologies offer a clearer view of coral reef change",
+      "link": "https://phys.org/news/2026-09-imaging-technologies-clearer-view-coral.html",
+      "date": "2026-10-03 16:00",
+      "summary": "From a drone flying above the waves to a camera just inches from the seafloor, University of Miami researchers are transforming ho..."
     },
     {
-      "title": "Sea levels to rise in California as a coastal wave surges up the West Coast",
-      "link": "https://phys.org/news/2026-10-sea-california-coastal-surges-west.html",
-      "date": "2026-10-03 10:00",
-      "summary": "Sea levels in California are set to rise by as much as a foot (30 centimeters) in the coming days as an enormous wave washes up th..."
+      "title": "Newly discovered hair cells on squid may offer clues to understanding hearing loss in humans",
+      "link": "https://phys.org/news/2026-10-newly-hair-cells-squid-clues.html",
+      "date": "2026-10-03 15:00",
+      "summary": "Scientists have known for years that squid have cells with bundles of tiny, hairlike protrusions on their heads and arms, similar ..."
     },
     {
-      "title": "How the Smithsonian is using AI to connect artifacts from the American Revolution",
-      "link": "https://phys.org/news/2026-10-smithsonian-ai-artifacts-american-revolution.html",
-      "date": "2026-10-03 09:15",
-      "summary": "The distance in the march from the American Revolution to the age of artificial intelligence is almost beyond comprehension. But l..."
+      "title": "A short breath extends the mating calls of male tokay geckos",
+      "link": "https://phys.org/news/2026-09-short-male-tokay-geckos.html",
+      "date": "2026-10-03 14:00",
+      "summary": "Tokay geckos (Gekko gecko), large and mostly nocturnal geckos native to parts of Asia, are among the few nonbird reptiles that mak..."
     }
   ],
   "The Guardian Edu": [
@@ -321,10 +321,16 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Probe launched into luxury One Stanley project over alleged steel bar shortage",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3369669/probe-launched-luxury-one-stanley-project-over-alleged-steel-bar-shortage?utm_source=rss_feed",
+      "date": "2026-10-03 14:35",
+      "summary": "Authorities have launched a probe into the building quality of a luxury residential development in one of Hong Kong’s most expensi..."
+    },
+    {
       "title": "Hong Kong public universities’ non-local fees jump by up to 26% as quota expands",
       "link": "https://www.scmp.com/news/hong-kong/education/article/3369662/hong-kong-public-universities-non-local-fees-jump-26-quota-expands?utm_source=rss_feed",
       "date": "2026-10-03 12:00",
-      "summary": "Hong Kong public universities will raise undergraduate tuition fees for non-local students by up to 26 per cent in the 2027-28 aca..."
+      "summary": "Hong Kong public universities will raise undergraduate tuition fees for non-local students studying general courses by up to 26 pe..."
     },
     {
       "title": "Police smash burglary ring that recruited illegal immigrants for 25 break-ins",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369658/balanced-and-acceptable-labour-chief-defends-helper-wage-rise-amid-criticism?utm_source=rss_feed",
       "date": "2026-10-03 09:04",
       "summary": "Hong Kong’s stronger economic performance over the past year was the reason for raising the monthly minimum wage for foreign domes..."
-    },
-    {
-      "title": "Prison term ‘karma’, says Hong Kong man freed after 26 years in Philippine jail",
-      "link": "https://www.scmp.com/news/hong-kong/article/3369640/prison-term-karma-says-hong-kong-man-freed-after-26-years-philippine-jail?utm_source=rss_feed",
-      "date": "2026-10-03 07:00",
-      "summary": "On his 29th birthday, Hong Kong bartender Tang Lung-wai boarded a flight to the Philippines for a holiday that would change his li..."
     }
   ]
 }
