@@ -65,22 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford prof is beating the drum for a new protocol to replace TCP - The Register",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZjlicGhSakpNSU5vQVdvanlDdFZtNHVneFdiRTFCRFBNMHc2dW5uN1BRZk9CYkY5bGhrNjNQRW1nbXh6TklYUWIyaGpVWS16b251NkNHYTE4ZHNZUzVoM2lybkFpUjdEcS1VNWNxeDA4MGVaaGJIMjA2WkVsaW8yaDFkYWxyc3JfZllKRW9HZUJ3T0FRbFItc2hVVEZLeDZXbDUwdEtUTEpmWk9EaVE1TFhTbVBjU2UyZUtUem43NTQ?oc=5",
-      "date": "2026-10-01 20:00",
-      "summary": "Stanford prof is beating the drum for a new protocol to replace TCP  The Register..."
-    },
-    {
       "title": "Gen Z returns to faith — that can only be a good thing - New York Post",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZnI2UDJyYTVZSjZBSGJSWldBUjlqa0thd3FwZFNRSjFjRDl1RDNtLUROQjgtQ0g4RHFFRkxFYmJoTVRjQmpmbnByZDFlX0tkQ3hzalVlT1ZOY1psQkRMaEJqQzctRFI3eG9lYVZoRWQ3cTU4ejZ1V3JFZWEzb19KbXNJbVZGLWxXamFBQ3UyTUdrRXVDZ3c?oc=5",
       "date": "2026-10-03 01:49",
       "summary": "Gen Z returns to faith — that can only be a good thing  New York Post..."
-    },
-    {
-      "title": "Higher ed roundup: a Cornell case, hazing and other top stories from September - The Duke Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcW9sa2RGaG1IOVZMaF91MENhWDlwY2FZeGNWVmhab1VlNUVCdlNNY000R2RpRTlBb29Wa1puMGxjLXh6RVhsNUVyUlNVWUM2UXlrcHhzd2QzZHJ6N3M1bUg4Rnk2aktuU29pTW5paFJfOV9UQ2xJa2h5VGM0XzFUUWJIci1rVVBLUmNoTXVNWDR6a3A1YWJ5NDdXZmxTb0hCMHRzOUFpMVc5Q214N2FRdlBwbDZ1TnNvMkpreHNtYUh3SWZQZEdza0FMSy1nZFMzUzdWNk5KSlRnN1E5WlZlOVk4dERJZU5GSDl3S0pZMy1JazA?oc=5",
-      "date": "2026-10-01 04:34",
-      "summary": "Higher ed roundup: a Cornell case, hazing and other top stories from September  The Duke Chronicle..."
     },
     {
       "title": "Duke Drops ACC Result, 3-2, to No. 14 Stanford - Duke University - goduke.com",
@@ -89,10 +77,22 @@
       "summary": "Duke Drops ACC Result, 3-2, to No. 14 Stanford - Duke University  goduke.com..."
     },
     {
-      "title": "Stanford student imposter found trespassing in Casa Zapata - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DT3RiRTlFR3k0Z18xQmg0SUZRYjl5RmNxNlRDcFItRGdfSm55ajY3QkhtS1lTRzA2bEU4b0VSSkw5Wkd3OUpaZG9fOTc2NzU0RFBidzl6Y2RyaXFHajdHMDdMR1ItYVZJUjlabFZsRlFHUnhKMFU4MlMtVnlHN2s?oc=5",
-      "date": "2026-10-02 08:13",
-      "summary": "Stanford student imposter found trespassing in Casa Zapata  The Stanford Daily..."
+      "title": "Higher ed roundup: a Cornell case, hazing and other top stories from September - The Duke Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcW9sa2RGaG1IOVZMaF91MENhWDlwY2FZeGNWVmhab1VlNUVCdlNNY000R2RpRTlBb29Wa1puMGxjLXh6RVhsNUVyUlNVWUM2UXlrcHhzd2QzZHJ6N3M1bUg4Rnk2aktuU29pTW5paFJfOV9UQ2xJa2h5VGM0XzFUUWJIci1rVVBLUmNoTXVNWDR6a3A1YWJ5NDdXZmxTb0hCMHRzOUFpMVc5Q214N2FRdlBwbDZ1TnNvMkpreHNtYUh3SWZQZEdza0FMSy1nZFMzUzdWNk5KSlRnN1E5WlZlOVk4dERJZU5GSDl3S0pZMy1JazA?oc=5",
+      "date": "2026-10-01 04:34",
+      "summary": "Higher ed roundup: a Cornell case, hazing and other top stories from September  The Duke Chronicle..."
+    },
+    {
+      "title": "From the Community | Why Jane Doe must stay Jane Doe: The burden of being a survivor on a college campus - stanforddaily.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11N0RnNFBETTJMdDFEcE5yQ0ZNYzNZMVd1b2puTXh4RmxIRFlURjJ2UWJYblliRmVLaHdrT0kyZGJFSlcyR2FPdTJENWdEU2hHMy1Rc2QzbnZzaU9vQ2RNRk1UU1YxMHdJanRwQ0hkdHlwMFZNMVV1Tw?oc=5",
+      "date": "2026-10-02 06:21",
+      "summary": "From the Community | Why Jane Doe must stay Jane Doe: The burden of being a survivor on a college campus  stanforddaily.com..."
+    },
+    {
+      "title": "Ex-President Tsai Ing-wen to visit U.S., deliver speech at Stanford - Focus Taiwan - CNA English News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MT0hRaTNMMFdDMWxrclNXbmM3SXh6WU1pcUJ3aUNsNzZxeXFleEo4REoycmEzNVZfZ1hmOVhmOFdfQWpJbkNYeV9QV0Jqa3U4WTY4ZVJ2VQ?oc=5",
+      "date": "2026-10-02 07:54",
+      "summary": "Ex-President Tsai Ing-wen to visit U.S., deliver speech at Stanford  Focus Taiwan - CNA English News..."
     }
   ],
   "Nature Careers": [
@@ -205,16 +205,16 @@
       "summary": "OpenAI alerts more than 100 groups about rogue AI agent activity  Reuters..."
     },
     {
+      "title": "OpenAI safety employee quits, says 'time for trial and error is over' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5",
+      "date": "2026-10-03 19:27",
+      "summary": "OpenAI safety employee quits, says 'time for trial and error is over'  Reuters..."
+    },
+    {
       "title": "As Public Fears of AI Grow, Trump Digs in on Voluntary Safeguards - U.S. News & World Report",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkVmSmlFR2h5NFJfMlJKUk42dEdTRlR2QXQ5QVgwTTRzUGFPWE9JUllpeDJ0NVRsekI3R1NKb2pJYkRJa2laSDVyOG9WTXZ1MDBnS3dlc0JTSkRrS0FLWmVodGQ1bFZGd0VBcEt6UllKZ0xWV2RFaGljdzc4a2JJWmlPZTd6cldTNE81RlJMWkVJUWJUR0lQLVpuYlJUNnN0X0dJd1ZESGxzM0Z2azM3RmhwTVctMVV4cTA2b3pn?oc=5",
       "date": "2026-10-03 10:05",
       "summary": "As Public Fears of AI Grow, Trump Digs in on Voluntary Safeguards  U.S. News & World Report..."
-    },
-    {
-      "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjBOX2tiblNKM3pNUVJ2VzViQzZobDRCQk5pbk1Nai1vUlNDTG94a2JIRDNYSU96Mm1DTnZjWE5LbW9MbXh1RGtXUnEzRXJHOGx2Y1JmdlVBMGpuRGZkMUlZc0hGSUoxVTAyMWdpQmNPSndSTXFHVHhzMnRYaUdqdVY2NW5kY2l4V2IyN0pmNlgxR0JuUjdCRW5ZejBtU3NpdXhtdkJQNDE0c3k5b25wWXBHZE5tMjRnNU1leTJZZUJPWk0zOHZLdHhmNUl5OXBKLXlkNktR?oc=5",
-      "date": "2026-10-02 22:43",
-      "summary": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints  Reuters..."
     },
     {
       "title": "Judge warns AI could stunt lawyers' training and harm their clients - Reuters",
@@ -225,37 +225,55 @@
   ],
   "MIT Tech Review": [
     {
-      "title": "Don’t be fooled—LLMs don’t reason - technologyreview.com",
+      "title": "Don’t be fooled—LLMs don’t reason - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVZOVnBJRFRTdktGbTR2ZEc2ckFRLWkybHg4SXFnaDloZDItSHU3WFZpWE00RF9VbnpSLVp5V2RqdUNTdW9LZzlDdmNvRFRUbXl1ZEx4WkwzejE3aEJvalpGUE9sZ3JaSTdiRVpmNmpxOUUyZkpjcno2X2ViOFZwdk9JTHgyOTJXVHhEMdIBkgFBVV95cUxOcmZ3aHQyTV9vS2Vld2t6UkkzdS16UkZGWGJvZkEzdVZQRFdtS29RVnEtVFNueFo0cHpVM19MQUltUWdoWFRWWEh0RlpFLVFqb3kxb0ZBUkVYcU5aa0dVZlMxNUdFb0lVRlJWSDhoWnozWHFvaTZTNXY4d3F0UHpfbUowaVdpSFFDbm0xc3JCYkRTdw?oc=5",
       "date": "2026-10-02 08:00",
-      "summary": "Don’t be fooled—LLMs don’t reason  technologyreview.com..."
+      "summary": "Don’t be fooled—LLMs don’t reason  MIT Technology Review..."
     },
     {
-      "title": "When can we say AI made a scientific discovery? - technologyreview.com",
+      "title": "When can we say AI made a scientific discovery? - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV0FMWXdiTUJ4Tm1Rd2ljV3RlMDBxY3huSW1rUnY5VFhKMEdhVXhfMjU0LUhNeGdseW1BTF83U1hvTWwxRG54LUZhWENPLUZLV2liTVlUNE1TNlo3M0VRR29McXpPZURPRmE0YkV3bjJvNEtpZVZwSDJaNE9NajM2Sm90SzBlZWJyWnY2S19ScGRCZmRvUmlVRWdUbGdoTW9j0gGmAUFVX3lxTE9aMFViOXdveDVjOFp0X043NFkwV1QxbzRjVnBBNy1sV2tRSWUyUWwtekVDLVVBdGhmVkM2MUlVcW9mMkRPMnI3emZJeTFPSndiTjJJbW1teE9RQ1BPMHpzaW5GdUMzWkRyU1ZSOFlyc1E1UWttbFlfRG4tZ3l4eTN2dGMzM3haRGtDTWNBWmtvbTNkVTBEb3F3blpoY2djYlNwakJDelE?oc=5",
       "date": "2026-09-28 17:03",
-      "summary": "When can we say AI made a scientific discovery?  technologyreview.com..."
+      "summary": "When can we say AI made a scientific discovery?  MIT Technology Review..."
     },
     {
-      "title": "Who’s liable when AI agents go rogue? - technologyreview.com",
+      "title": "Who’s liable when AI agents go rogue? - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWTg0ZWNGM1ByLXFBQk92SEw5UFhfVjkwaVFTMzEwSXB6LXMwSk1pYnp1UmRkcnh1U1dPMUxseW0yMC1pNDVoVEFfcndrZjF5RmZoQldiVUwzQVdvUHFmNXplYzMxV1FnVHhrQ1Z5cHBORGFMZXdiaVNCbS1ZbzJVQXJfZVdoRk1XSWVCTnEyd25zUdIBlwFBVV95cUxOYUNtZ0U3RC1nMjF1Z3hPV0Z4R2pUcmN0bjFLTEhLY2EzUFQ3SktrUk56Wk4wYzFQVHFIYk1xd0kyeWRTMWVTWENpQWkwOXZkTmJGSFlPOTlMMWs0X2s1MEZTaklhbVZXcWpEYkRZOE5EaHptRVhIakNMaGFteVlDWUJmN3lKYmRWWFp0MFctZnhiUDlFd1FN?oc=5",
       "date": "2026-09-28 08:06",
-      "summary": "Who’s liable when AI agents go rogue?  technologyreview.com..."
+      "summary": "Who’s liable when AI agents go rogue?  MIT Technology Review..."
     },
     {
-      "title": "Redefining enterprise intelligence with autonomous AI - technologyreview.com",
+      "title": "Redefining enterprise intelligence with autonomous AI - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUhCYUVWZnJlNENNbV9LTTE3bklDdHdjYmVHaTBSQXZGOUFTVEF3VjFNbzBYdFY0TG9lUGFvaUhlTm04WGY3YjBvTXhyS0JYVjRsT2FVb3JRdGZVU3RKUE9XUHNkNE9sVnRnRFVabVZwa1BQUnFnbFR5dWs5RmpEQXgxcUFvcGN0ZGMwai12WE8tODZLNEV4TXM2Sno5MWxKZjA5UUdBZUU0Z9IBrwFBVV95cUxOS2UxeDIzT1pPaEdsR1hhNnktZXgwRng0Z0dLbENrdEszOWNhaXdyU2stLU1WeTd5SmMtMjNOM1RCaXZoX0diczVlYUd3SGczek5JX0k4a1ZWQUE0WHRCOS1Ndmw4UE94MWExcFk3UURZT0ZmRTFaTkVEbXA2RUR5XzRGd0xmSXhLa1lYNkNWbnk4MjhIaXVmeVFUTlE1cmFSb3lOTXRqdk4tZHhBUmxB?oc=5",
       "date": "2026-10-02 15:49",
-      "summary": "Redefining enterprise intelligence with autonomous AI  technologyreview.com..."
+      "summary": "Redefining enterprise intelligence with autonomous AI  MIT Technology Review..."
     },
     {
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan - technologyreview.com",
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWRLcnc5eWdkYi04UjJQRDhHTmZoQkZaZzFROHBZQkFZeTdsa0RBVEx6TVRRWTlXUjdRREdScHdlNlEwT0lLNGJqNEVVYzdOajduVjE4OHBFeWdwTmlWN2xqUWVnT1pObUlKMHNITVlsaTdHOHJ3clV6Ynp3bXQzTENKcUZhZXdLUkY2M1JubF9xLWJKRjBqNk1lVEJUNHBTN0FWN29R0gGrAUFVX3lxTE1vNldkVFl6MjNUR2dCWW9EMDYzcDJCaVdIbmJYQnNCM2drall5d25mYzJodDZzdXhfNzhOSkFqcVMya0dVWHFZRFpmNGVPRXVObWxvNG5Oc1pMakhWQzBYZmx2MjdqMnBaTkpCcDFiVUhudjRrWWJub2FuT1EyS2kyN2V0bjlaOHg5SGg5SUc2UGItYWs4cjNuSzh4VkZUU1dLcXg1R0V1UTg0QQ?oc=5",
       "date": "2026-10-01 10:32",
-      "summary": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan  technologyreview.com..."
+      "summary": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Feeling secure in a group may help dissenters make stronger arguments",
+      "link": "https://phys.org/news/2026-09-group-dissenters-stronger-arguments.html",
+      "date": "2026-10-03 21:00",
+      "summary": "When everyone in a meeting voices the same opinion, an organization can miss important warning signs and new ideas. A research tea..."
+    },
+    {
+      "title": "How can the same El Niño cause drought in one part of the world and floods in another?",
+      "link": "https://phys.org/news/2026-09-el-nio-drought-world.html",
+      "date": "2026-10-03 21:00",
+      "summary": "The Pacific Ocean is warming unusually quickly, and this year's El Niño has already surpassed previous records. Forecasters expect..."
+    },
+    {
+      "title": "Today's emissions choices could limit Antarctic ice loss and sea-level rise for coastal communities",
+      "link": "https://phys.org/news/2026-10-today-emissions-choices-limit-antarctic.html",
+      "date": "2026-10-03 20:00",
+      "summary": "Cutting greenhouse gas emissions now may limit how much ice Antarctica loses this century and reduce the sea-level rise facing coa..."
+    },
     {
       "title": "New reactor design improves plastic feedstock synthesis using oxygen and electricity",
       "link": "https://phys.org/news/2026-09-reactor-plastic-feedstock-synthesis-oxygen.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-09-recovery-intimate-partner-violence-reveals.html",
       "date": "2026-10-03 18:00",
       "summary": "Violence in the home can range from intimidation to physical abuse. When it occurs there, we refer to it as domestic violence. Eve..."
-    },
-    {
-      "title": "Reading hidden topology in light, even when energy leaks away",
-      "link": "https://phys.org/news/2026-10-hidden-topology-energy-leaks.html",
-      "date": "2026-10-03 17:40",
-      "summary": "When I explain topology to students, I start with a knot in a rope. You can stretch it, twist it or shake it, but the knot stays u..."
-    },
-    {
-      "title": "Q&A: An Earth-like planet with two suns?",
-      "link": "https://phys.org/news/2026-09-qa-earth-planet-suns.html",
-      "date": "2026-10-03 17:00",
-      "summary": "A nearby star system with two suns could potentially support an Earth-sized planet in a region where liquid water could exist, acc..."
-    },
-    {
-      "title": "Visible light does not speed up water evaporation, rigorous experiments suggest",
-      "link": "https://phys.org/news/2026-10-visible-evaporation-rigorous.html",
-      "date": "2026-10-03 16:40",
-      "summary": "In recent experiments involving hydrogels and water droplets, researchers have proposed that exposure to visible light could make ..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Baby bonuses fail to address the fear of falling behind",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3369277/baby-bonuses-fail-address-fear-falling-behind?utm_source=rss_feed",
+      "date": "2026-10-03 21:30",
+      "summary": "When one of my seniors from medical school was pregnant during her surgical residency, she planned the exact date of her C-section..."
+    },
+    {
       "title": "Probe launched into luxury One Stanley project over alleged steel bar shortage",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3369669/probe-launched-luxury-one-stanley-project-over-alleged-steel-bar-shortage?utm_source=rss_feed",
       "date": "2026-10-03 14:35",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3369661/cancer-saved-me-hong-kong-survivor-finds-new-purpose-ahead-canoe-challenge?utm_source=rss_feed",
       "date": "2026-10-03 10:01",
       "summary": "Thirty-one years ago, Hongkonger Raymond Lo Shu-yuen was diagnosed with stage four liver cancer and had a quarter of the organ rem..."
-    },
-    {
-      "title": "‘Balanced and acceptable’: labour chief defends helper wage rise amid criticism",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369658/balanced-and-acceptable-labour-chief-defends-helper-wage-rise-amid-criticism?utm_source=rss_feed",
-      "date": "2026-10-03 09:04",
-      "summary": "Hong Kong’s stronger economic performance over the past year was the reason for raising the monthly minimum wage for foreign domes..."
     }
   ]
 }
