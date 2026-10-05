@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away",
+      "link": "https://news.mit.edu/2026/astronomers-catch-star-slowly-snacking-on-brown-dwarf-1005",
+      "date": "2026-10-05 15:00",
+      "summary": "The discovery reveals a new way that stars and planetary companions can interact...."
+    },
+    {
       "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
       "link": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
       "date": "2026-09-30 15:15",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/climate-action-learning-lab-bridges-research-policy-for-effective-climate-solutions-0929",
       "date": "2026-09-29 20:35",
       "summary": "J-PAL North America’s Learning Lab supported a second cohort of U.S. government and nonprofit organizations in building and using ..."
-    },
-    {
-      "title": "Powered by muscle cells, a paper-thin robot swims through watery maze",
-      "link": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929",
-      "date": "2026-09-29 04:00",
-      "summary": "MIT engineers’ new aquabot offers a way to design small, efficient “biohybrid” robots...."
     }
   ],
   "Harvard Gazette": [
@@ -65,16 +65,22 @@
   ],
   "Stanford News": [
     {
+      "title": "Stanford University professor Karl Deisseroth wins 2026 Nobel Prize in physiology or medicine - med.stanford.edu",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16aFlSOUIzcHJpaXU0ZVBrelJvVWJNM2dtcmNwaGs1SXhuR0h6anBxSXFrRXk4aEhDVGNXeVlaYmJsY0xDZW85TkVpazExb0FFcUtNUDd4Zl95T3dIY2d0cnVLcjNDenVoVTgtOVVrQ1RQb0EtOUpnQnROcmtEbFE?oc=5",
+      "date": "2026-10-05 14:22",
+      "summary": "Stanford University professor Karl Deisseroth wins 2026 Nobel Prize in physiology or medicine  med.stanford.edu..."
+    },
+    {
       "title": "Stanford student imposter found trespassing in Casa Zapata - The Stanford Daily",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DT3RiRTlFR3k0Z18xQmg0SUZRYjl5RmNxNlRDcFItRGdfSm55ajY3QkhtS1lTRzA2bEU4b0VSSkw5Wkd3OUpaZG9fOTc2NzU0RFBidzl6Y2RyaXFHajdHMDdMR1ItYVZJUjlabFZsRlFHUnhKMFU4MlMtVnlHN2s?oc=5",
       "date": "2026-10-02 08:13",
       "summary": "Stanford student imposter found trespassing in Casa Zapata  The Stanford Daily..."
     },
     {
-      "title": "Duke Drops ACC Result, 3-2, to No. 14 Stanford - Duke University - goduke.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVBYMWptY3hOUVVmLV9yc3dPUlBsN19GUWF5S3BkSTRQM0xzbFFxQml3TkpIVGkzbVNFUjRBdTAzZTJ0b2hzUGk3dVJvNy1tSDZQa1FuSHFyVklIb0JjRXJ5ZnJyN3B0anhpNnhYeDhOVDEtUk1XVU5lLWROTUJPUFI3Ry1RaGxiakpTVFdacGZVbUE?oc=5",
-      "date": "2026-10-03 02:20",
-      "summary": "Duke Drops ACC Result, 3-2, to No. 14 Stanford - Duke University  goduke.com..."
+      "title": "Karl Deisseroth: Stanford professor wins Nobel Prize in Medicine for optogenetics, new way to study brain using light - ABC7 San Francisco",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVWxkQXlfMTdyZ2g1MjBUUXdtUjlhaUFGSTJKdWxjaVl6cjRqbjFWRE5tRjBsMGlTd2N2TG4yanRtbWxjbFhKa2R1V2xtUkFOYldYU2tWdk1DZmhrMm13TmhwclRoaHdMdmVkQnAxMG1NXzVIc0VtNmdfMkx2YU1XMU1NQUoxZmJ3dTdCQ2VzSzVTdHhxZ1prSmxOREMwZ0EzUklHT1ZfakRfUlhhbWl6Tm1Kamwyd29vcEFZbDRKM1JsdVJZaDJ0TmdXMzNtOE95aU1F0gHYAUFVX3lxTE4zbTVaMGFsaVJaRGU1enMwOXZPOEgyQWt2Tk45QVp1MVliOU1uVERZaDBkR3dkbW5IU1hxRV9fdFhwTTBmQ0JnZzl3aGlSUFFTbVF6OE5hc1pyRXl4MS1tQ0pBVFIxUi1HS09QQ0NQM0hGdEZjV1IxWGxlNGRha3FKSDNER0w2UmpRUFRVTFloTHRQaHFqZ3BQNGNCUC11SEkwSGhHNHVOS2EzSVZXeE1GVU5IRXQtbGZ3RE9oSkxrS3h5WlEtblg1bUdZc2dnMFNnUWVBYV9xeQ?oc=5",
+      "date": "2026-10-05 16:52",
+      "summary": "Karl Deisseroth: Stanford professor wins Nobel Prize in Medicine for optogenetics, new way to study brain using light  ABC7 San Fr..."
     },
     {
       "title": "Gen Z returns to faith — that can only be a good thing - New York Post",
@@ -83,16 +89,10 @@
       "summary": "Gen Z returns to faith — that can only be a good thing  New York Post..."
     },
     {
-      "title": "Ex-President Tsai Ing-wen to visit U.S., deliver speech at Stanford - Focus Taiwan - CNA English News",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MT0hRaTNMMFdDMWxrclNXbmM3SXh6WU1pcUJ3aUNsNzZxeXFleEo4REoycmEzNVZfZ1hmOVhmOFdfQWpJbkNYeV9QV0Jqa3U4WTY4ZVJ2VQ?oc=5",
-      "date": "2026-10-02 07:54",
-      "summary": "Ex-President Tsai Ing-wen to visit U.S., deliver speech at Stanford  Focus Taiwan - CNA English News..."
-    },
-    {
-      "title": "Stanford admits breaking own policy after race-, gender-swapped student photos emerge - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMm5RRXN4SU9EQTRMNXhHOGw0WmxvY01vNDFkdzVGMGMtNk9ocWQ1dFJ4Uk84SlY1WmN0SEV4QXZJOXFBQmhkaDc4a0o2c2gzcHRRNWJCQ0ZHQWJpX0JxSUpnOTZfcm96TVNXUVdadjVGc1k1WXhoUHVNQWJZbTNaTjNObHZfYThMRUhvQ1hKOENKN2c0Q3ZRSURFbFdFc2lia0FVNHNVNnY3YVRDUHJCbFJDeDB0ZmfSAbwBQVVfeXFMUDQtRUFpZTJyaTdlSEJmaG5ZWDNhT0I0UVdoNFVhOGoxTXhtYTJ0VEgyNmQxM3RNa0trTUxrb01raDNwXzd4cUZPZ3k1SnQ4ZWMtVzc3Tkstby1qOEhlMFRPRV9RcS1ock5wQWdrU2xvR1hkdW1lQjBJSVFLZEtUdVpsdWl5RXg1Q2dveWJROWlfOVRmV3VfQmlIV0h6aW1zajNDY0dLRC1ad00td252bFdKbGxqQTZYLTBoSlU?oc=5",
-      "date": "2026-09-23 07:00",
-      "summary": "Stanford admits breaking own policy after race-, gender-swapped student photos emerge  Fox News..."
+      "title": "Stanford professor among 3 Nobel Prize winners - KTVU",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRkhvLXhBbnhlNDJwYzV2Y0tuZklPY0lDelVjclhNSThzT3ZCU0k5TDNNclBfU2hVRkdpXzRWSUppUDhLSmNLcjM2TGtvRm9aYXRPUzhqUnZiMDBGZnBISGpId0tZcUo3MGQwV2Q3S2RoSmdxNEZKc3E0Mi1HSDlXdi1VdzJGT0xfazN6dUY5dWFmZ9IBlwFBVV95cUxNejRiQ3ZieEl4T1FkZmhKTWtwU2tUZDlrbE5IN3VPVjdQNXlYdW5ab2FkdFR5SnVycXlFMkJTdXBfUWN4a3loei1jc3VYYjZMcExOdjA3MzhBNjVNaFZpTEZlbHQybmxGQlczdkhWSDRwZWY3eXFWX2JyWllXdEgydXUxTUZTUnVLSGswV0VfRC1QTDZGRkhn?oc=5",
+      "date": "2026-10-05 13:41",
+      "summary": "Stanford professor among 3 Nobel Prize winners  KTVU..."
     }
   ],
   "Nature Careers": [
@@ -129,6 +129,18 @@
   ],
   "Science News": [
     {
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn’t",
+      "link": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "date": "2026-10-05 11:00",
+      "summary": "New analysis refutes James Watson’s claim he was first to recognize significance of famed photograph 51..."
+    },
+    {
+      "title": "Method for controlling brain cells with light wins Nobel",
+      "link": "https://www.science.org/content/article/method-controlling-brain-cells-light-wins-nobel",
+      "date": "2026-10-05 05:40",
+      "summary": "Karl Deisseroth, Peter Hegemann, and Georg Nagel honored for developing optogenetics..."
+    },
+    {
       "title": "Six biology breakthroughs that should have won a Nobel Prize—but didn’t",
       "link": "https://www.science.org/content/article/six-biology-breakthroughs-should-have-won-nobel-prize-didn-t",
       "date": "2026-10-02 05:19",
@@ -145,18 +157,6 @@
       "link": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
       "date": "2026-10-02 04:55",
       "summary": "To get to the bottom of this perplexing behavior, Science interviewed the agent..."
-    },
-    {
-      "title": "Nazi Germany had no hope of making an atomic bomb, uranium cubes reveal",
-      "link": "https://www.science.org/content/article/nazi-germany-had-no-hope-making-atomic-bomb-uranium-cubes-reveal",
-      "date": "2026-10-01 04:00",
-      "summary": "Experimental reactor needed much more uranium and heavy water than the country could muster..."
-    },
-    {
-      "title": "Africa’s effort to make most of its own vaccines by 2040 faces significant headwinds",
-      "link": "https://www.science.org/content/article/africa-s-effort-make-most-its-own-vaccines-2040-faces-significant-headwinds",
-      "date": "2026-10-01 02:00",
-      "summary": "Companies striving to reduce continent’s reliance on foreign shots must overcome major financial and logistical challenges..."
     }
   ],
   "Retraction Watch": [
@@ -195,20 +195,14 @@
     {
       "title": "Trump names intelligence chief Clayton as AI czar, to head task force - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczlKTmxkdnE3WHZpaWs1Y2V2dFJJOENfZkRRdjdCdGJBcXRqMFRWVlFKMGZWRDhlTXBiOTQxNUY1dDlSNlZYcXlmS1ZaaF9iWkJsek5QeTZ5V2txU0hOVnFXUE9EZHU1NE1XdldXV3FaQzAzcU9KZmZNcXhJMzVaVHdYV2tIUHVDdG5Cc1FMTjFHUHRvQzEtQmhFdDUwOXR3RlUwWlBDX3c5ZlNUMWZZd1BLcm12TWVWYWc?oc=5",
-      "date": "2026-10-03 22:46",
+      "date": "2026-10-05 00:07",
       "summary": "Trump names intelligence chief Clayton as AI czar, to head task force  Reuters..."
     },
     {
-      "title": "As public fears of AI grow, Trump digs in on voluntary safeguards - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaktMNDdZV2FZQTFSeGF3SENIXzkwWHhWLUVhT1ZwVHMzTUdQajl0akw3QTlicmFCQ04tV0YxRFFfUEZYYmxqRFA5QVh3TzhTcm9Ca0pWLXBjeTFXaV9DVXV6ZmFPU1h1NXFsUVpxaHlBUlA3SjhxRVNSQU9UZ2ItTmNBN0VvWFpFc05idzd1dWUyaUNmMWRwc0lKR3A4Q0czbkE0ekNXZlM?oc=5",
-      "date": "2026-10-03 12:34",
-      "summary": "As public fears of AI grow, Trump digs in on voluntary safeguards  Reuters..."
-    },
-    {
-      "title": "Why Europe could be the real winner of the AI boom - Breakingviews",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFVQTFc4Q1V4eHR4VlcyQ3h2VjhBVG1NbjJCN3pnZnc0UGRYcHNGR2xQSG1LZUg4WVhISXdjNXNSU0FoemJLbzgzUFZKWG5rc0FQQ1N2RFRaOGNMRWlzS2g0ZzhNd1ZjWTctZ0dCT09JR3dSQTJzM1E1UW5vTnBqZEFBbmIzVkN6eXpGNUhTOUJUQk1xMGgtcVk2d0l3SHM?oc=5",
-      "date": "2026-10-02 05:00",
-      "summary": "Why Europe could be the real winner of the AI boom  Breakingviews..."
+      "title": "AI's race to transform the world before the money runs out - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
+      "date": "2026-10-03 05:08",
+      "summary": "AI's race to transform the world before the money runs out  Reuters..."
     },
     {
       "title": "Musk says he will rename SpaceXAI to SpaceXSI - Reuters",
@@ -217,13 +211,37 @@
       "summary": "Musk says he will rename SpaceXAI to SpaceXSI  Reuters..."
     },
     {
-      "title": "OpenAI's Altman says AI benefits warrant accepting some risks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGhDUmJ2UzEwZ0hlenFISFFXdkZyVHd1TGNIZEhLTERLaDRWaXh4dlpVM1RfU0p4Vlh2cjVybWZtOWZkVVp0ZEVndGQ3T2pZd0tyelVvV3JnQ09FQlNOYWtVeUhCMjZud2NpYUVEZllhbHhIeVFvOXpEY0lLTklTNnNpNnhDTUdVS1dYSzl6S3VwbzgydXlKZVFRTkE4Y0dsYlJtQldVWkY?oc=5",
-      "date": "2026-10-04 22:35",
-      "summary": "OpenAI's Altman says AI benefits warrant accepting some risks  Reuters..."
+      "title": "Foxconn third-quarter revenue soars on AI demand, beats market forecast - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdDlvX3BBd2ctZXc5OGl1bWJVWlJjamd6LS1qN1FaV3VNNG05aXlxdEN6YlcwZl9hSk1OQ05uRXlzcEh3OFNLeGtHR2tRdkxRRU9mMTYxMGdwb3AwNUtJbkJlbDMzRE5UWDBuRV9SbF9jNWNxajRsYXdVVlpIc1ppenEwR2hQaEk2Vk4tMHhERE51Sk1vdi15dTJyVUhQbVdLR3dBWVpjcm5fay1WZndRNA?oc=5",
+      "date": "2026-10-05 08:08",
+      "summary": "Foxconn third-quarter revenue soars on AI demand, beats market forecast  Reuters..."
+    },
+    {
+      "title": "Norway to propose temporary ban on AI glasses in some public places - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkUwZGktUEpVaWxnYjVfSEdtbXUzLWVUd01EOFFFYjJ4YU5NLWRnOThhX21XUGsyUlZHR3kwTW9SR1o4eE5xb2xpOEpHZFJGNjVYUndiVkoyQ1VSVXg4WjdUZ2hRempRZURJNFlsZWhIWE4wckVqa21wWm9EUkRUNFNITkhnWmZHN1QtdV9EYTVNNWs1dl9XZm9qejdJTmhaaG9XT1ZfNnk?oc=5",
+      "date": "2026-10-05 07:04",
+      "summary": "Norway to propose temporary ban on AI glasses in some public places  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "People really hate AI, so why can’t they get enough? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWlCb3gtZDJOY1JTa21pbVUwdld3R1ZLeWxza2IzUGxHQzZvLTJCX2dZWGVqQ1B1dVZqWmFUdG0wcEppSFlJamdoT09KTmpXVHJIZGg0S1BqdUdzd1NFTnI5ZjZXdXlELXRXc2NkY0FLTUhTNVVlaEg3RWJtaktBN2dvUFVjck1mMkR1Z2lHQnVkay1FZkNTTktLcWxDTHNiWTl5SdIBqgFBVV95cUxOb2FfU2F5TXE1ZEttUk1PUXVtZ1JyYjdsX2F3WUlCZG81TVZVUDZWM2VobEZscGVtMlhqS0RLdVpFYnkwdFppLUxYNnRwZXcxb1V2cUtVYzZMc2pFejhGbG5oZzBoeUd3WFRUY3pxeHRQTEdmVkZ6QVFNQkgzNW9NRnBOUzRPXzh5UG90R2NydWZLX0V5T2xRTzFSalNPX2hXSjEtVUxLbmJPQQ?oc=5",
+      "date": "2026-10-05 08:00",
+      "summary": "People really hate AI, so why can’t they get enough?  MIT Technology Review..."
+    },
+    {
+      "title": "Connecting AI agents to enterprise knowledge - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0ZxZVNnZjZpNGgtVnd5WjUzdVBnaWwtZ29nVnJDaDJiOGtPVXdwVHBSMVd4RmdRMF9McGV1cGNIajgyVzRSUklRU08tdktmN2N1aFcxTVBpMnpVbzluUDdmb3lyV1Z6ZTFreDBqNzg4UDhYZEs5djNWS1RieG1TbVRPc3VSdEpMSWRtekFQek14TmxlN0laVTBNLXpoQdIBowFBVV95cUxOSG9lYUYxTGg4Y2RDcE0tUHFDcmxhckt3YW9SbHZIdkRpeXVWb2tLWTFXU1lPNnV1SGNoOHdDaXJFdE9BaExjYkliLTRYU2JRcjBUOVhjY1Fza3JSSUNOS0dPQ0cxdVdkYWRRT3ZfUzM5ZGlrYlhTZF93bEpZZm9oS3MwMlZpXzRHWTRxeDhzTExuTlZzaks0dHFYUVRqX2lYX1FF?oc=5",
+      "date": "2026-10-05 15:47",
+      "summary": "Connecting AI agents to enterprise knowledge  MIT Technology Review..."
+    },
+    {
+      "title": "Bringing predictive analytics to the agentic AI era - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDBhMUlVZ2NZVXFLdldjN1FrQVh6UG9MdkhrYkc3Y3IxS0Jaa1owUWduMkUwNWlfNE1sRWtqWmZRaDZrMlNoSHFBQlhYTUxScVNmMXB0STVtMmhNODhBcUYtTmNseEo3eUFfX0ltdDBROTRFakFsNGZ6QkZCbnFpQVRic3lVV0Fzdk5yQUVCWWRJb0ZxODZsRkRPSE5uNDlEWi02dmxEc9IBrAFBVV95cUxNVXBmdTc4X0VtTFZhR0UyNExQeGpyMEFoNUxGdlNaU3laTGd0V0EtdkxyamhpOG0zYXgyM3o5RVdaTTM1S0lYakpLOHFFelozVTBRRFBTVmZRTzRtZktBRGVyeU1qQ0JENlNjUTFPbl9HWXpUcTllZ0YwekppZjkyS2VCVEg5VkM4alZwWHFBQTQzcUkxdEVxZ2hjM0pmb2YxZ0pxeVdiVzdSSjFp?oc=5",
+      "date": "2026-10-05 13:29",
+      "summary": "Bringing predictive analytics to the agentic AI era  MIT Technology Review..."
+    },
     {
       "title": "EmTech Future 2026: When AI Meets Everything - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOUNUVEZtZUFjYzR4MTdCV1VXRWxrT21telBqQXpYc2JRVVJJYmFQbklpNWVwblpxV2RaV0NVTDBUZ2dyUGh4VGhHRUp2SmUyMXp0TV9LcjYwWkVoSmFSbGlEX0ZLWmhRNG5uLWM4N210WGFtQXpJak5VUkJERUJkV19EQk1XUnFCYjlfMkR4emVRWHdkUmNlSkNvdnI?oc=5",
@@ -235,59 +253,47 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVZOVnBJRFRTdktGbTR2ZEc2ckFRLWkybHg4SXFnaDloZDItSHU3WFZpWE00RF9VbnpSLVp5V2RqdUNTdW9LZzlDdmNvRFRUbXl1ZEx4WkwzejE3aEJvalpGUE9sZ3JaSTdiRVpmNmpxOUUyZkpjcno2X2ViOFZwdk9JTHgyOTJXVHhEMdIBkgFBVV95cUxOcmZ3aHQyTV9vS2Vld2t6UkkzdS16UkZGWGJvZkEzdVZQRFdtS29RVnEtVFNueFo0cHpVM19MQUltUWdoWFRWWEh0RlpFLVFqb3kxb0ZBUkVYcU5aa0dVZlMxNUdFb0lVRlJWSDhoWnozWHFvaTZTNXY4d3F0UHpfbUowaVdpSFFDbm0xc3JCYkRTdw?oc=5",
       "date": "2026-10-02 08:00",
       "summary": "Don’t be fooled—LLMs don’t reason  MIT Technology Review..."
-    },
-    {
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWRLcnc5eWdkYi04UjJQRDhHTmZoQkZaZzFROHBZQkFZeTdsa0RBVEx6TVRRWTlXUjdRREdScHdlNlEwT0lLNGJqNEVVYzdOajduVjE4OHBFeWdwTmlWN2xqUWVnT1pObUlKMHNITVlsaTdHOHJ3clV6Ynp3bXQzTENKcUZhZXdLUkY2M1JubF9xLWJKRjBqNk1lVEJUNHBTN0FWN29R0gGrAUFVX3lxTE1vNldkVFl6MjNUR2dCWW9EMDYzcDJCaVdIbmJYQnNCM2drall5d25mYzJodDZzdXhfNzhOSkFqcVMya0dVWHFZRFpmNGVPRXVObWxvNG5Oc1pMakhWQzBYZmx2MjdqMnBaTkpCcDFiVUhudjRrWWJub2FuT1EyS2kyN2V0bjlaOHg5SGg5SUc2UGItYWs4cjNuSzh4VkZUU1dLcXg1R0V1UTg0QQ?oc=5",
-      "date": "2026-10-01 10:32",
-      "summary": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan  MIT Technology Review..."
-    },
-    {
-      "title": "Redefining enterprise intelligence with autonomous AI - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUhCYUVWZnJlNENNbV9LTTE3bklDdHdjYmVHaTBSQXZGOUFTVEF3VjFNbzBYdFY0TG9lUGFvaUhlTm04WGY3YjBvTXhyS0JYVjRsT2FVb3JRdGZVU3RKUE9XUHNkNE9sVnRnRFVabVZwa1BQUnFnbFR5dWs5RmpEQXgxcUFvcGN0ZGMwai12WE8tODZLNEV4TXM2Sno5MWxKZjA5UUdBZUU0Zw?oc=5",
-      "date": "2026-10-02 15:49",
-      "summary": "Redefining enterprise intelligence with autonomous AI  MIT Technology Review..."
-    },
-    {
-      "title": "When can we say AI made a scientific discovery? - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV0FMWXdiTUJ4Tm1Rd2ljV3RlMDBxY3huSW1rUnY5VFhKMEdhVXhfMjU0LUhNeGdseW1BTF83U1hvTWwxRG54LUZhWENPLUZLV2liTVlUNE1TNlo3M0VRR29McXpPZURPRmE0YkV3bjJvNEtpZVZwSDJaNE9NajM2Sm90SzBlZWJyWnY2S19ScGRCZmRvUmlVRWdUbGdoTW9j0gGmAUFVX3lxTE9aMFViOXdveDVjOFp0X043NFkwV1QxbzRjVnBBNy1sV2tRSWUyUWwtekVDLVVBdGhmVkM2MUlVcW9mMkRPMnI3emZJeTFPSndiTjJJbW1teE9RQ1BPMHpzaW5GdUMzWkRyU1ZSOFlyc1E1UWttbFlfRG4tZ3l4eTN2dGMzM3haRGtDTWNBWmtvbTNkVTBEb3F3blpoY2djYlNwakJDelE?oc=5",
-      "date": "2026-09-28 17:03",
-      "summary": "When can we say AI made a scientific discovery?  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Extreme heat putting pregnant women, newborns at risk: UN climate chief",
-      "link": "https://phys.org/news/2026-10-extreme-pregnant-women-newborns-climate.html",
-      "date": "2026-10-05 07:30",
-      "summary": "Extreme heat is putting pregnant mothers and their newborns at increasing risk, United Nations climate chief Simon Stiell will war..."
+      "title": "Why can't people regenerate limbs like salamanders?",
+      "link": "https://phys.org/news/2026-10-people-regenerate-limbs-salamanders.html",
+      "date": "2026-10-05 17:40",
+      "summary": "Imagine losing an arm and simply growing a new one. This amazing ability of regeneration isn't just something from a superhero mov..."
     },
     {
-      "title": "Research into weight-loss drugs tipped for Nobel as award week opens",
-      "link": "https://phys.org/news/2026-10-weight-loss-drugs-nobel-award.html",
-      "date": "2026-10-05 06:50",
-      "summary": "Research into hormones that regulate appetite is on everybody's lips for the Nobel medicine prize, to be announced on Monday when ..."
+      "title": "Pollen study reveals the hidden history of grasses",
+      "link": "https://phys.org/news/2026-10-pollen-reveals-hidden-history-grasses.html",
+      "date": "2026-10-05 17:40",
+      "summary": "Scientists used machine learning and super-resolution microscopy to overcome a challenge that has stymied research into the natura..."
     },
     {
-      "title": "Sunken Silk Road city reveals Central Asia's lost history",
-      "link": "https://phys.org/news/2026-10-sunken-silk-road-city-reveals.html",
-      "date": "2026-10-05 06:38",
-      "summary": "The sun had barely risen, but diving volunteer Elizaveta Bodrova was already raring to plunge into the cold waters of Lake Issyk-K..."
+      "title": "Waste plastic yields carbon quantum dots with emissions tunable from UV to yellow-green",
+      "link": "https://phys.org/news/2026-10-plastic-yields-carbon-quantum-dots.html",
+      "date": "2026-10-05 17:20",
+      "summary": "Carbon quantum dots (CQDs) are fluorescent carbon nanomaterials with potential applications in sensing, optoelectronics, displays,..."
     },
     {
-      "title": "Modern forensics reveals human sacrifice in ancient Egypt's royal burials",
-      "link": "https://phys.org/news/2026-10-modern-forensics-reveals-human-sacrifice.html",
-      "date": "2026-10-05 04:00",
-      "summary": "Over 500 years before the building of the Great Pyramid in Egypt, First Dynasty kings were buried in a tomb surrounded by many bur..."
+      "title": "Lightsaber-like plasma antenna uses laser-ionized air to transmit radio waves",
+      "link": "https://phys.org/news/2026-10-lightsaber-plasma-antenna-laser-ionized.html",
+      "date": "2026-10-05 17:20",
+      "summary": "Researchers have demonstrated a technique that uses a laser to produce a plasma beam antenna capable of transmitting radio waves. ..."
     },
     {
-      "title": "Nature-strip gardens are a paradise for pollinators in your street",
-      "link": "https://phys.org/news/2026-09-nature-gardens-paradise-pollinators-street.html",
-      "date": "2026-10-05 00:30",
-      "summary": "In front of most Australian houses, between the sidewalk and the road, runs a strip of land most people never really think about. ..."
+      "title": "Lipid signals help cells seal the damage from bacterial attacks, researchers discover",
+      "link": "https://phys.org/news/2026-10-lipid-cells-bacterial.html",
+      "date": "2026-10-05 17:00",
+      "summary": "Epithelial cells form the body's frontline barriers, helping keep microbes, toxins and other harmful substances out. Yet these pro..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Burnham urged to ‘end cycle of harm’ after scale of child-on-child sexual abuse revealed",
+      "link": "https://www.theguardian.com/society/2026/oct/05/burnham-urged-to-end-cycle-of-harm-after-scale-of-child-on-child-sexual-abuse-revealed",
+      "date": "2026-10-05 13:56",
+      "summary": "Nearly 90 organisations write to PM urging him to take decisive action to end violence against women and girls• From unwanted touc..."
+    },
     {
       "title": "Children’s books with Black main characters down 8% in a year, study shows",
       "link": "https://www.theguardian.com/books/2026/oct/05/childrens-books-with-black-main-characters-down-study-uk",
@@ -311,44 +317,38 @@
       "link": "https://www.theguardian.com/us-news/2026/oct/04/colorado-climate-high-school-students",
       "date": "2026-10-04 12:30",
       "summary": "A statewide initiative pairs climate-focused coursework with community service – and is spreading to other statesAs a student at a..."
-    },
-    {
-      "title": "‘Just like my big brothers’: boy with cerebral palsy passes GCSEs with eye-tracking technology",
-      "link": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
-      "date": "2026-10-02 17:18",
-      "summary": "Patrick McCabe’s herculean feat shows limits and possibilities of special educational needs and disabilities systemPatrick McCabe ..."
     }
   ],
   "SCMP Hong Kong": [
     {
-      "title": "8 more firms from Belt and Road Initiative countries apply for IPOs in Hong Kong",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369784/8-more-firms-belt-and-road-initiative-countries-apply-ipos-hong-kong?utm_source=rss_feed",
-      "date": "2026-10-05 07:55",
-      "summary": "Eight more companies from countries involved in Beijing’s Belt and Road Initiative have applied to list in Hong Kong, the city’s t..."
+      "title": "Bid to turn 14 subsidised Hong Kong sale flats into subdivided homes raises abuse concerns",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3369830/bid-turn-14-subsidised-sale-flats-subdivided-homes-raises-abuse-concerns?utm_source=rss_feed",
+      "date": "2026-10-05 15:08",
+      "summary": "The owners of 14 subsidised sale flats have applied for a grace period to comply with Hong Kong’s new regulatory regime for subdiv..."
     },
     {
-      "title": "Abby Choi’s mother tells court former in-laws lived off socialite’s family wealth",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369772/abby-chois-mother-tells-court-former-laws-lived-socialites-family-wealth?utm_source=rss_feed",
-      "date": "2026-10-05 06:57",
-      "summary": "The mother of slain Hong Kong socialite Abby Choi Tin-fung has accused her former in-laws of living off her family’s wealth withou..."
+      "title": "Hong Kong IVF clinic cleared to resume all services after embryo specimen mix-up",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3369826/hong-kong-ivf-clinic-cleared-resume-all-services-after-embryo-specimen-mix?utm_source=rss_feed",
+      "date": "2026-10-05 14:07",
+      "summary": "A Hong Kong fertility clinic that had most of its services suspended for mishandling embryo biopsy specimens from two patients has..."
     },
     {
-      "title": "Kai Tak Hospital starts first phase of operations, treats 300 patients on day 1",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3369769/kai-tak-hospital-starts-first-phase-operations-treats-300-patients-day-1?utm_source=rss_feed",
-      "date": "2026-10-05 06:38",
-      "summary": "Hong Kong’s Kai Tak Hospital launched its first phase of operations, treating nearly 300 patients at its family medicine centre on..."
+      "title": "Authorities investigate viral drone footage of National Day fireworks display",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3369827/authorities-investigate-viral-drone-footage-during-national-day-fireworks-display?utm_source=rss_feed",
+      "date": "2026-10-05 13:48",
+      "summary": "Hong Kong aviation authorities are investigating suspected illegal drone flying over Victoria Harbour during last week’s National ..."
     },
     {
-      "title": "Wellcome operator DFI Retail seeks buyer for fully leased shopping centre on The Peak",
-      "link": "https://www.scmp.com/business/article/3369744/wellcome-operator-dfi-retail-seeks-buyer-fully-leased-shopping-centre-peak?utm_source=rss_feed",
-      "date": "2026-10-05 04:30",
-      "summary": "DFI Retail, the food and beverage unit of Hong Kong-headquartered conglomerate Jardine Matheson, is looking to sell its mall at Th..."
+      "title": "Mainland Chinese arrivals to Hong Kong surged at start of ‘golden week’ holiday",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3369821/mainland-chinese-arrivals-hong-kong-surged-start-golden-week-holiday?utm_source=rss_feed",
+      "date": "2026-10-05 12:35",
+      "summary": "Mainland Chinese arrivals to Hong Kong surged at the start of the National Day “golden week” holiday before easing towards last ye..."
     },
     {
-      "title": "Hong Kong outlines 4-step AI talent plan to help graduates navigate job market",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369751/hong-kong-outlines-four-step-ai-talent-ladder-offset-entry-level-job-shock?utm_source=rss_feed",
-      "date": "2026-10-05 04:16",
-      "summary": "Hong Kong has unveiled a four-step artificial intelligence (AI) “talent ladder” strategy to counter entry-level job shock and fost..."
+      "title": "Man, 74, lost control of paraglider in strong winds, probe into fatal crash finds",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3369815/man-74-lost-control-paraglider-strong-winds-probe-fatal-crash-finds?utm_source=rss_feed",
+      "date": "2026-10-05 12:08",
+      "summary": "A 74-year-old retired Hong Kong police officer lost control of his paraglider in strong air currents and suffered multiple injurie..."
     }
   ]
 }
