@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Supercomputing researchers document evolution of AI hardware",
+      "link": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
+      "date": "2026-10-06 20:55",
+      "summary": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors...."
+    },
+    {
       "title": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away",
       "link": "https://news.mit.edu/2026/astronomers-catch-star-slowly-snacking-on-brown-dwarf-1005",
       "date": "2026-10-05 15:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/lung-cancers-can-use-two-different-mechanisms-evade-kras-inhibiting-drugs-0930",
       "date": "2026-09-30 09:00",
       "summary": "Some tumor cells develop resistance by amplifying the KRAS gene, while others change their tumor type, MIT researchers have found...."
-    },
-    {
-      "title": "Climate Action Learning Lab bridges research and policy for effective climate solutions",
-      "link": "https://news.mit.edu/2026/climate-action-learning-lab-bridges-research-policy-for-effective-climate-solutions-0929",
-      "date": "2026-09-29 20:35",
-      "summary": "J-PAL North America’s Learning Lab supported a second cohort of U.S. government and nonprofit organizations in building and using ..."
     }
   ],
   "Harvard Gazette": [
@@ -77,25 +77,31 @@
       "summary": "Exclusive | Stanford students turn to Catholicism in big numbers in astonishing Gen Z campus revival  New York Post..."
     },
     {
+      "title": "Stanford professor surprises kids after winning Nobel Prize - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSElweEUxM3ZsNTdkb3doWkpCMjNMT1JBNEowakdMb1VDVmhYVEJoTVhteEltR1pCV0x6V3pBYU5uV3lHaDNfY21XNVAwbEFPa2hlZm5PNktfdEhIOUI3NDY2eWVSbkhZS1lpUk12LU5wTW4zTkdtTmNtWmstVmlxUHJRQUJiSGFXVDJOOVBtU1FGXzJaMjROTlZaOFZ6Z0IteFVuV0VZcm9heDJxLUHSAbMBQVVfeXFMT0Z3UFVvTHE2bkx6eG9HTUdkZ3RJajhIM0E5eHJ1cG1VdGd4Vms3VW12dTdYOU9fcEtpZzM0Ti12X2VtTmE2Q3Q1Ul96TlJBdjhKWXY2M2kwRFRhZ1dJSF8tNXZvWlBuMFg0UURUVnNXczBkVmY2aVgwNWhsQzRLRVc2cTlUdkJCazR2R0dXdDRXMTUweXppVzRPMlkzUVlWa3N5Q3BlXzNEazNyck4zaW9OTGM?oc=5",
+      "date": "2026-10-06 16:45",
+      "summary": "Stanford professor surprises kids after winning Nobel Prize  ABC News - Breaking News, Latest News and Videos..."
+    },
+    {
       "title": "Karl Deisseroth, Stanford’s ‘renaissance man,’ celebrates Nobel Prize - Palo Alto Online",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMTQ4RHVOZkVac2cxN1B3Vk0yNDJtSTQ5cVFiRW1ZRThTMzZtTF9UUVFWMDBobFZKbElEQW5EZi1oWjAwNmRwNE85X1BjemNXZmYzWWh0dUtCTGZVREEtMmYxUDJ5VHloWGZxczZSZlhYRS1SQ09aS0gyVVhYOTNGck15VE4zcmJKZ09URG1nNGxUS2pITWtJcDM0X0xLR2dwZWhWNEJYci05X1F1MXpWdnAwQmUxT01xaVBIOG9Cc3NmU1NTNVZhX3BtOVl6eHgxNzY3MzVNUWxURUcyV0Iw?oc=5",
       "date": "2026-10-05 22:47",
       "summary": "Karl Deisseroth, Stanford’s ‘renaissance man,’ celebrates Nobel Prize  Palo Alto Online..."
     },
     {
-      "title": "Stanford campus responds to Cornell sexual assault case - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSmVGcFdWOGh3dC1lUURQVUI3WWttQU9wVzJRc0UtREVaZHo0OXdXMENrbHo4UWxVbzRQdXBuR1padzhoTU91RGJBR1ZiUTdEaXhXcURvYXM4T3JJQWtod1E1MVNNdVRUd3UxU1MtRV9wcWNiX1Mxc0YzX2NuYkpNZHdmR1hxU3NneXBKakl2V3R0Tmd2S0d5Mg?oc=5",
-      "date": "2026-10-06 08:56",
-      "summary": "Stanford campus responds to Cornell sexual assault case  The Stanford Daily..."
-    },
-    {
-      "title": "Stanford professor wins Nobel Prize in physiology or medicine - KRON4",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGc4ZjRsc05GQmJsaXA3OFJPamsxbV94dlFubTI2MHRxV2ZReFFsWHdOMjc4Yk5Pa3Z2cjhUcXNYVW44MGg2eDlZTHRDVjdLelN6RlRRUXlEVF9rUGRrUVNiVE9lUFQ1UzQtMk9wUy1fWEVpRUVwd091dFl0UnVreURxOS1zOHQwaU0tb3FJN0VaOENadncyVzhBTXdmVkXSAaQBQVVfeXFMT2RpQ0VvcWRvX1NZMGNpQzc5SkNxQ0dUMTZFc0ZXVTI2S3h5elFLcDRSbnFqcGVaaVJ5WVg0bjFocEcydXByOGRFamVyb3d1MUUtQWRudTRXUE9ma1pjWFNvbU4ybFFxajNEcEZtenBKZWRrTkE1cldwM3IzeWg2OFctZ1BXOC1MM202MldrVWxfd2VLZ3ZiZjVaV3Z2VjRfRlNfT08?oc=5",
-      "date": "2026-10-05 18:34",
-      "summary": "Stanford professor wins Nobel Prize in physiology or medicine  KRON4..."
+      "title": "Stanford professor Karl Deisseroth, Ph.D. ’98, M.D. ’00, wins 2026 Nobel Prize for new way to study the brain using light - The Stanford Daily",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GNlB3OXFiT0Eyd2VtUlhKeEEzYk42a3V2cHZ5TVVsVkR3SFZBMGphcHQ3eUhBZ183MWtoQnM0YWxNU1NILWEzS1hqZU1kNDEtSDBYV2dEd1ZpMERjYnNLMXZGUnZYRzZaZ2hlcmpEMnRRelhOdU41Y1dR?oc=5",
+      "date": "2026-10-06 09:09",
+      "summary": "Stanford professor Karl Deisseroth, Ph.D. ’98, M.D. ’00, wins 2026 Nobel Prize for new way to study the brain using light  The Sta..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Author Correction: Anodic Pd membrane H<sub>2</sub> extraction enhances thermochemical dehydrogenation",
+      "link": "https://www.nature.com/articles/s41586-026-11244-6",
+      "date": "2026-10-06 00:00",
+      "summary": "Nature, Published online: 06 October 2026; doi:10.1038/s41586-026-11244-6Author Correction: Anodic Pd membrane H2 extraction enhan..."
+    },
     {
       "title": "Maintaining global science collaboration during conflict requires fairer rules",
       "link": "https://www.nature.com/articles/d41586-026-03176-y",
@@ -109,54 +115,48 @@
       "summary": "Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03174-0The Great Barrier Reef requires special attention in the ..."
     },
     {
+      "title": "Scientists take a radiometer for a spin in a hot-air balloon",
+      "link": "https://www.nature.com/articles/d41586-026-02973-9",
+      "date": "2026-10-06 00:00",
+      "summary": "Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-02973-9A satisfying congruence between genetics and cell-biology..."
+    },
+    {
       "title": "Preprints must not leak sensitive research information",
       "link": "https://www.nature.com/articles/d41586-026-03177-x",
       "date": "2026-10-06 00:00",
       "summary": "Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03177-xPreprints must not leak sensitive research information..."
-    },
-    {
-      "title": "AI could undermine scientific independence in subtle ways",
-      "link": "https://www.nature.com/articles/d41586-026-03175-z",
-      "date": "2026-10-06 00:00",
-      "summary": "Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03175-zAI could undermine scientific independence in subtle ways..."
-    },
-    {
-      "title": "Rising numbers of Asian and African PhD students choose to study in China",
-      "link": "https://www.nature.com/articles/d41586-026-02798-6",
-      "date": "2026-10-06 00:00",
-      "summary": "Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-02798-6International students explain the advantages and challen..."
     }
   ],
   "Science News": [
+    {
+      "title": "Exclusive: Archaeology megafirm abruptly shuts down",
+      "link": "https://www.science.org/content/article/exclusive-archaeology-megafirm-abruptly-shuts-down",
+      "date": "2026-10-06 05:35",
+      "summary": "Chronicle Heritage was largest U.S. cultural resources management company..."
+    },
+    {
+      "title": "November elections may bring little relief for scientists beleaguered by Trump",
+      "link": "https://www.science.org/content/article/november-elections-may-bring-little-relief-scientists-beleaguered-trump",
+      "date": "2026-10-06 04:30",
+      "summary": "If Democrats win one or both chambers of Congress, investigations are likely, but meaningful change may be elusive..."
+    },
+    {
+      "title": "Possible plague death at a Siberian lab baffles scientists",
+      "link": "https://www.science.org/content/article/possible-plague-death-siberian-lab-baffles-scientists",
+      "date": "2026-10-06 04:30",
+      "summary": "Much is unclear about the tragedy, but plague researchers say there is “zero” chance of an epidemic..."
+    },
+    {
+      "title": "‘Complete devastation’: How NSF gutted its social sciences research",
+      "link": "https://www.science.org/content/article/complete-devastation-how-nsf-gutted-its-social-sciences-research",
+      "date": "2026-10-06 03:55",
+      "summary": "Agency body that funds sociology, linguistics, and archaeology studies in U.S. gave 90% fewer new grants this year..."
+    },
     {
       "title": "The birth of neutrino astronomy nets Nobel Prize in Physics",
       "link": "https://www.science.org/content/article/architect-south-pole-observatory-wins-physics-nobel",
       "date": "2026-10-06 06:00",
       "summary": "Francis Halzen honored for the IceCube Neutrino Observatory, which discovers ghostly particles from the distant universe and track..."
-    },
-    {
-      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn’t",
-      "link": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
-      "date": "2026-10-05 11:00",
-      "summary": "New analysis refutes James Watson’s claim he was first to recognize significance of famed photograph 51..."
-    },
-    {
-      "title": "Method for controlling brain cells with light wins Nobel",
-      "link": "https://www.science.org/content/article/method-controlling-brain-cells-light-wins-nobel",
-      "date": "2026-10-05 05:40",
-      "summary": "Karl Deisseroth, Peter Hegemann, and Georg Nagel honored for developing optogenetics..."
-    },
-    {
-      "title": "Six biology breakthroughs that should have won a Nobel Prize—but didn’t",
-      "link": "https://www.science.org/content/article/six-biology-breakthroughs-should-have-won-nobel-prize-didn-t",
-      "date": "2026-10-02 05:19",
-      "summary": "Major discoveries, including the role of DNA, the biological basis of psychology, and the human genome, missed out on science’s to..."
-    },
-    {
-      "title": "Canada commits $1.2 billion to protect oceans while pushing ahead with pipeline",
-      "link": "https://www.science.org/content/article/canada-commits-1-2-billion-protect-oceans-while-pushing-ahead-pipeline",
-      "date": "2026-10-02 05:10",
-      "summary": "Scientists welcome new money but remain cautious about weakening environmental protections..."
     }
   ],
   "Retraction Watch": [
@@ -199,28 +199,28 @@
       "summary": "France's Mistral launches AI model it says outperforms some Chinese rivals  Reuters..."
     },
     {
-      "title": "AI firm ElevenLabs to invest 'hundreds of millions of dollars' in India - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXkzMnZtYVVNeE9XUjBxeFNGUHVlNF9sUjkyVXA0VDA5TERLTGE1aUtmWVdUVWlpeDZkeDZUdTd6UWJKNmJSNDVDeWNHaG9ZY0otNzJudjJWQ1ZfY21YbHBxb09VU1NOOU1oNDJQU3RLZnRvRWpEZmJsYjl3aGxCLXBiZ05OMm1QajZWMGN0by1pckZlV2NDTDd3SmctZDZOVVE5SEFnSS0?oc=5",
-      "date": "2026-10-06 14:11",
-      "summary": "AI firm ElevenLabs to invest 'hundreds of millions of dollars' in India  Reuters..."
+      "title": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0M0T3dic0tvbGhzbmx3WVNKNm9iU2l0ZUNBUk5jbzZCM24zT0FOV3RFYXpVQ3NPS1BuMU1zOXNzSmdvbE9falZVOTZja2hqMGtVQWxpXzg2VE15T1FVT0pCc0NLRVowMnBKY0J4dTl0WkJTWUlsbXFOeE1VZjJTUlpEOHlldTE3MTdrMGVRQjF3NEo1aDZxUFNJa21Zb0hMdWFLSjY5dVA5YUlBQjltbmcwSDRZV1M1S2xPQUtWSXVGd2M?oc=5",
+      "date": "2026-10-06 20:13",
+      "summary": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order  Reuters..."
     },
     {
-      "title": "US software stocks scale fresh 2026 highs as AI disruption worries fade - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnhFSTVnZUJoZGRnMDJIQmZyM3RKR2c5X2FReUNWbmVwQ29uMnN6R1RUS1p2aG1hTlJYWFdRWElvNEpxYjJpMmFFWmtCVWJVZWpUVWNBcTJXQzllczlZWG5xWTkzbTJadkg1NUY0T2Nob3R1aDlRbDlhUUx5M3p4MTk0MXlWTmlWc1hIMHhMMzJGb1V1ZTlIaXNZTVlWbk5Ed29VWWtJMTlWRElZVk03QWxkaw?oc=5",
-      "date": "2026-10-06 14:17",
-      "summary": "US software stocks scale fresh 2026 highs as AI disruption worries fade  Reuters..."
+      "title": "Anthropic opens its most powerful AI models to more security teams - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5",
+      "date": "2026-10-06 20:37",
+      "summary": "Anthropic opens its most powerful AI models to more security teams  Reuters..."
+    },
+    {
+      "title": "US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTF4RDY5dnNXSGdnLW1jajhQcUUzQXUxNDBCbndJNWRjWkxXY1MyWGFrNnFQdE5TUDltaW4zd194N3RKMEtkZlZUWmdLaGNBY01MaVY3U2M0RmVzbVk3Q0dFZnhTd3I5SllQcTF4T1Q0OGhsNWx5aUFXYmpJYmVjYkRyZEJxYlItRUxvS2ZRdm1JNlZ2bHQtenNicDJaS2VHTHJJZGFXT3JIbkhzR2NZMjlsRDNnZw?oc=5",
+      "date": "2026-10-06 17:32",
+      "summary": "US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says  Reuters..."
     },
     {
       "title": "Citigroup bets on Meta's Muse as AI's 'front door to the internet' - Reuters",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTEtTzZyUDMwaXNvY2QtYy1YTHNmY2xONUdQV3pVUTBhY3ZoZnJ4T1pGQVg3OGVGTm45Y1pNaGRPTUhuM2VsbFpSdUJJYmFjal9RN3dMR2czdG85V0M2Mm5HZ3NjNjlZTzNqRTI1aWVUTXZwUTN3amNicy1taDE4NTNBWmt6cUJPTUpMNTREZ2l2TGdwdXhjYzNB?oc=5",
       "date": "2026-10-06 13:47",
       "summary": "Citigroup bets on Meta's Muse as AI's 'front door to the internet'  Reuters..."
-    },
-    {
-      "title": "US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTF4RDY5dnNXSGdnLW1jajhQcUUzQXUxNDBCbndJNWRjWkxXY1MyWGFrNnFQdE5TUDltaW4zd194N3RKMEtkZlZUWmdLaGNBY01MaVY3U2M0RmVzbVk3Q0dFZnhTd3I5SllQcTF4T1Q0OGhsNWx5aUFXYmpJYmVjYkRyZEJxYlItRUxvS2ZRdm1JNlZ2bHQtenNicDJaS2VHTHJJZGFXT3JIbkhzR2NZMjlsRDNnZw?oc=5",
-      "date": "2026-10-06 17:19",
-      "summary": "US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -249,45 +249,57 @@
       "summary": "Here’s how our climate team picked 10 promising companies to watch  MIT Technology Review..."
     },
     {
-      "title": "X-energy and its helium-cooled nuclear reactors - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcG1TODBsZk9zVDRma05zYlJldnZueTlPSDNpR3pGVkZZcUp1VFpHUW1PVzZHalpXMVNVNW1MUkw3cS1ReGZzU2VHcURvUERuLS1acVVhNW9GbHh4anBDX0laZ2dfOEE0aFlqNEcxb1h5dk0yZjJOMFp0WUFmbWhIUTNFWXhqdDQ2eXIya3llSjZKOWwyNEduQUpCVHNtTm4xMmg0aFFGV2JKa1RaM0FIYUpyZWN3Y3dfcXVxLWhLclNRVlExSWRLNdIBzgFBVV95cUxON3BOUG4tRk4xTEtLSnF3RmVBcWFtR3NTdGlZelR0R2JUYW1MZmtWbk50NnlzdWtwWG1QLVJqdGFYVGRFQjA5U25UbE5DQVhMN2wyZDV5Yjk3TngtdEdWUmw1ZWlTYmVvWENFNTNlZS1YaUJacS1TcU1lMW5iS241d0E1c243Sk11T1kwdWduVEhSRmlhdUtWUXgwTVozd1VfdzFfZ0JGWGRDNkNmQnpHUXg2ZmZNRWJJZlRkTkFHeFdEc0plU0RRY3pkcTdNZw?oc=5",
-      "date": "2026-10-06 10:35",
-      "summary": "X-energy and its helium-cooled nuclear reactors  MIT Technology Review..."
+      "title": "People really hate AI, so why can’t they get enough? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWlCb3gtZDJOY1JTa21pbVUwdld3R1ZLeWxza2IzUGxHQzZvLTJCX2dZWGVqQ1B1dVZqWmFUdG0wcEppSFlJamdoT09KTmpXVHJIZGg0S1BqdUdzd1NFTnI5ZjZXdXlELXRXc2NkY0FLTUhTNVVlaEg3RWJtaktBN2dvUFVjck1mMkR1Z2lHQnVkay1FZkNTTktLcWxDTHNiWTl5SdIBqgFBVV95cUxOb2FfU2F5TXE1ZEttUk1PUXVtZ1JyYjdsX2F3WUlCZG81TVZVUDZWM2VobEZscGVtMlhqS0RLdVpFYnkwdFppLUxYNnRwZXcxb1V2cUtVYzZMc2pFejhGbG5oZzBoeUd3WFRUY3pxeHRQTEdmVkZ6QVFNQkgzNW9NRnBOUzRPXzh5UG90R2NydWZLX0V5T2xRTzFSalNPX2hXSjEtVUxLbmJPQQ?oc=5",
+      "date": "2026-10-05 08:00",
+      "summary": "People really hate AI, so why can’t they get enough?  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "A 2-in-1 approach captures toxic metals and recovers rare earth elements from wastewater",
-      "link": "https://phys.org/news/2026-10-approach-captures-toxic-metals-recovers.html",
-      "date": "2026-10-06 17:50",
-      "summary": "We generally throw away a broken camera lens, earphones or an old phone that has stopped working and is beyond repair because they..."
+      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "link": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+      "date": "2026-10-06 22:20",
+      "summary": "Four decades after the 1986 nuclear disaster, researchers at Leibniz University Hannover and the Helmholtz-Zentrum Dresden-Rossend..."
     },
     {
-      "title": "'Let me explain': Corporate disclosures can take a circuitous route",
-      "link": "https://phys.org/news/2026-10-corporate-disclosures-circuitous-route.html",
-      "date": "2026-10-06 17:40",
-      "summary": "The shortest distance between two points is a straight line, but sometimes taking the long way home can have advantages...."
+      "title": "Clearer air does not always signal lower harmful potential from particle pollution",
+      "link": "https://phys.org/news/2026-10-clearer-air-potential-particle-pollution.html",
+      "date": "2026-10-06 22:20",
+      "summary": "Fine particulate matter (PM2.5) is commonly associated with both health concerns and poor visibility. However, these two effects d..."
     },
     {
-      "title": "Webb captures commotion from nebula's stellar jets",
-      "link": "https://phys.org/news/2026-10-webb-captures-commotion-nebula-stellar.html",
-      "date": "2026-10-06 17:40",
-      "summary": "The NASA/ESA/CSA James Webb Space Telescope has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery kno..."
+      "title": "Hydrothermal vents supply a geochemical precursor of ATP that could have powered early life",
+      "link": "https://phys.org/news/2026-10-hydrothermal-vents-geochemical-precursor-atp.html",
+      "date": "2026-10-06 22:00",
+      "summary": "Where did the energy come from to power the chemical origin of life, and how did phosphate come to be the universal energy currenc..."
     },
     {
-      "title": "A gamma-ray burst's engine stayed active for nearly a month, breaking the previous record",
-      "link": "https://phys.org/news/2026-10-gamma-ray-stayed-month-previous.html",
-      "date": "2026-10-06 17:20",
-      "summary": "Astronomers have observed the longest-lasting central engine activity ever recorded from a gamma-ray burst. The burst occurred at ..."
+      "title": "Researchers uncover the key to driving employee support during organizational changes",
+      "link": "https://phys.org/news/2026-10-uncover-key-employee-organizational.html",
+      "date": "2026-10-06 22:00",
+      "summary": "When organizations undergo major shifts, such as restructuring or adopting new working systems, employees often face uncertainty a..."
     },
     {
-      "title": "Endangered Lantau toads show genetic and call differences that could signal an emerging species",
-      "link": "https://phys.org/news/2026-10-endangered-lantau-toads-genetic-differences.html",
-      "date": "2026-10-06 17:20",
-      "summary": "The short-legged horned toad (Boulenophrys brachykolos), listed as endangered on the International Union for Conservation of Natur..."
+      "title": "Young infants see saliva sharing as a sign of a close bond, experiments suggest",
+      "link": "https://phys.org/news/2026-10-young-infants-saliva-bond.html",
+      "date": "2026-10-06 21:50",
+      "summary": "Imagine you're an infant. Just a few months in the world, trying to gather your faculties, testing gravity—you're pretty helpless ..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Senior academics set out key questions Cambridge must answer over Jason Arday’s death",
+      "link": "https://www.theguardian.com/education/2026/oct/06/cambridge-university-academics-jason-arday-death-investigation-inadequate",
+      "date": "2026-10-06 18:44",
+      "summary": "Letter from more than 40 signatories says university has backed away from promised thorough review of events before deathSenior Ca..."
+    },
+    {
+      "title": "Riot police fire teargas as 250,000 take part in schools protests across France",
+      "link": "https://www.theguardian.com/world/2026/oct/06/protests-schools-blockade-streets-france",
+      "date": "2026-10-06 17:39",
+      "summary": "Officers also carry out baton charges as students, staff and parents march in cities including Paris, Marseille and Lyon Europe li..."
+    },
     {
       "title": "Badenoch announces £2.3bn proposal to cut employer national insurance for young workers – as it happened",
       "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
@@ -305,18 +317,6 @@
       "link": "https://www.theguardian.com/society/2026/oct/05/burnham-urged-to-end-cycle-of-harm-after-scale-of-child-on-child-sexual-abuse-revealed",
       "date": "2026-10-05 13:56",
       "summary": "Nearly 90 organisations write to PM urging him to take decisive action to end violence against women and girls• From unwanted touc..."
-    },
-    {
-      "title": "Children’s books with Black main characters down 8% in a year, study shows",
-      "link": "https://www.theguardian.com/books/2026/oct/05/childrens-books-with-black-main-characters-down-study-uk",
-      "date": "2026-10-04 23:01",
-      "summary": "Only 150 of 2,189 titles published in UK for young children last year focused on minority ethnic, disabled or neurodivergent chara..."
-    },
-    {
-      "title": "Thousands of child-on-child sexual offences reported at schools in England and Wales",
-      "link": "https://www.theguardian.com/education/2026/oct/04/child-on-child-sexual-abuse-schools-england-and-wales",
-      "date": "2026-10-04 15:00",
-      "summary": "Exclusive: Average of nearly five sexual crimes a day against under-13s were reported to police between 2021 and 2025From unwanted..."
     }
   ],
   "SCMP Hong Kong": [
