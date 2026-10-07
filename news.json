@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Planning system ensures a robot’s flight path will remain collision-free",
+      "link": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007",
+      "date": "2026-10-07 04:00",
+      "summary": "This new method, called “SANDO,” could help disaster-response robots navigate dangerous, unknown environments...."
+    },
+    {
       "title": "Supercomputing researchers document evolution of AI hardware",
       "link": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
       "date": "2026-10-06 20:55",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
       "date": "2026-09-30 15:00",
       "summary": "Able to defeat top-ranked human players and more efficient than other models, the new system could help decision-makers in militar..."
-    },
-    {
-      "title": "Lung cancers can use two different mechanisms to evade KRAS-inhibiting drugs",
-      "link": "https://news.mit.edu/2026/lung-cancers-can-use-two-different-mechanisms-evade-kras-inhibiting-drugs-0930",
-      "date": "2026-09-30 09:00",
-      "summary": "Some tumor cells develop resistance by amplifying the KRAS gene, while others change their tumor type, MIT researchers have found...."
     }
   ],
   "Harvard Gazette": [
@@ -77,6 +77,12 @@
       "summary": "Exclusive | Stanford students turn to Catholicism in big numbers in astonishing Gen Z campus revival  New York Post..."
     },
     {
+      "title": "Moment Karl Deisseroth tells his family he won the Nobel prize in medicine – video - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOEdNc3Mydm9GN1JhejY5aG5yOVk2VE12VS04dFYzMnpRR1UzZFhLNWxyLUFzZ09iZkQ1RnJrZlVPeUxlc1RaYnpZZ3dPWVVCbmJmTG84TGwyaHV4Q1pTODdnLXFqUTdvMllmYTJEaGsyVE1RZjcySXB1bHhNVnFlOFRNdnNhNTVHc21qSThoQ1hHUkdUcVozSi1XVTRDamFlYmVBZE1vTjkwZlBybmxrVTNEcmNjOVBtWHpKUlB3Y2NwZ2UyOExCd0Vndy1veTA?oc=5",
+      "date": "2026-10-07 09:14",
+      "summary": "Moment Karl Deisseroth tells his family he won the Nobel prize in medicine – video  The Guardian..."
+    },
+    {
       "title": "Stanford professor surprises kids after winning Nobel Prize - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSElweEUxM3ZsNTdkb3doWkpCMjNMT1JBNEowakdMb1VDVmhYVEJoTVhteEltR1pCV0x6V3pBYU5uV3lHaDNfY21XNVAwbEFPa2hlZm5PNktfdEhIOUI3NDY2eWVSbkhZS1lpUk12LU5wTW4zTkdtTmNtWmstVmlxUHJRQUJiSGFXVDJOOVBtU1FGXzJaMjROTlZaOFZ6Z0IteFVuV0VZcm9heDJxLUHSAbMBQVVfeXFMT0Z3UFVvTHE2bkx6eG9HTUdkZ3RJajhIM0E5eHJ1cG1VdGd4Vms3VW12dTdYOU9fcEtpZzM0Ti12X2VtTmE2Q3Q1Ul96TlJBdjhKWXY2M2kwRFRhZ1dJSF8tNXZvWlBuMFg0UURUVnNXczBkVmY2aVgwNWhsQzRLRVc2cTlUdkJCazR2R0dXdDRXMTUweXppVzRPMlkzUVlWa3N5Q3BlXzNEazNyck4zaW9OTGM?oc=5",
       "date": "2026-10-06 16:45",
@@ -87,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMTQ4RHVOZkVac2cxN1B3Vk0yNDJtSTQ5cVFiRW1ZRThTMzZtTF9UUVFWMDBobFZKbElEQW5EZi1oWjAwNmRwNE85X1BjemNXZmYzWWh0dUtCTGZVREEtMmYxUDJ5VHloWGZxczZSZlhYRS1SQ09aS0gyVVhYOTNGck15VE4zcmJKZ09URG1nNGxUS2pITWtJcDM0X0xLR2dwZWhWNEJYci05X1F1MXpWdnAwQmUxT01xaVBIOG9Cc3NmU1NTNVZhX3BtOVl6eHgxNzY3MzVNUWxURUcyV0Iw?oc=5",
       "date": "2026-10-05 22:47",
       "summary": "Karl Deisseroth, Stanford’s ‘renaissance man,’ celebrates Nobel Prize  Palo Alto Online..."
-    },
-    {
-      "title": "Stanford professor Karl Deisseroth, Ph.D. ’98, M.D. ’00, wins Nobel Prize for new way to study the brain using light - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GNlB3OXFiT0Eyd2VtUlhKeEEzYk42a3V2cHZ5TVVsVkR3SFZBMGphcHQ3eUhBZ183MWtoQnM0YWxNU1NILWEzS1hqZU1kNDEtSDBYV2dEd1ZpMERjYnNLMXZGUnZYRzZaZ2hlcmpEMnRRelhOdU41Y1dR?oc=5",
-      "date": "2026-10-06 09:09",
-      "summary": "Stanford professor Karl Deisseroth, Ph.D. ’98, M.D. ’00, wins Nobel Prize for new way to study the brain using light  The Stanford..."
     }
   ],
   "Nature Careers": [
@@ -193,22 +193,22 @@
   ],
   "Reuters AI": [
     {
+      "title": "Companies cutting jobs as investments shift toward AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmowdG1sVXFFOTdIcEZRY1l2OGcyUHdKZHZ4VlN3ZWJKX0dKbzlUQ29HNFNzc0hFTHRtNDFmQVZfOHg1aDlDbXFCcHM0RVJvSWcxVEVKWGZXSG5obnh3OGF1M0xfYWZYMDdmcDNTTzFoYkZvekdURU9ZS3hlbWlJeGc5UDhYOEMweVlwLVhrMEFka0FySzZWRE90eXNhZHFWV1pxdXVBQzB5d2xpRXc?oc=5",
+      "date": "2026-10-07 08:53",
+      "summary": "Companies cutting jobs as investments shift toward AI  Reuters..."
+    },
+    {
       "title": "France's Mistral launches AI model it says outperforms some Chinese rivals - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA?oc=5",
       "date": "2026-10-06 15:44",
       "summary": "France's Mistral launches AI model it says outperforms some Chinese rivals  Reuters..."
     },
     {
-      "title": "Anthropic opens its most powerful AI models to more security teams - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5",
-      "date": "2026-10-06 20:37",
-      "summary": "Anthropic opens its most powerful AI models to more security teams  Reuters..."
-    },
-    {
-      "title": "Marvell raises 2028 revenue forecast on strong AI data center demand - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcDJISmlqQ09tSDQ4NnNJNElrbWtnQlpVZGlrd3NCQjlvVktSMm00UE1JZDBHZGFqOUVUWjUxbU1KcTM4NXBCMDdGSUY4UW9kd202NzFXT0NBTzdFQU5xbmdqMWFYelRYVmNRTnhDNmlpdlJRODVCMHVpZ21XWnRldHVDd3p6RjJlQjRTMWZiMnE3LTVJM1FMZW1yaktxNHNDQnBTc2ZnZ3JZYjVsZnhj?oc=5",
-      "date": "2026-10-06 20:56",
-      "summary": "Marvell raises 2028 revenue forecast on strong AI data center demand  Reuters..."
+      "title": "Musk says TSMC won't run Terafab AI chip complex - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdXV3b1VldjdSN0dMQlNTZm9JYmRscDY2UllLUnlaTEJoU21xVzRpVXhucnlxbFhsOUFLUmlYU1EzejBIRWQzYm0zeTdVdE1lckU4V01RZ2pneE9nbkI1UHJHTGM2UkIwaUI4WWltR1pocHpmcHZraExfVHB4dld0N1pGX2ZRTWw5Zjc2V0FhTEg5Y29DN0hYMmdmVV9YVWNnZjlQRmNlNF9sMGozVVFOOWNOc2FDWlBZbVRzaTJxcmFrUU1UT1c2T1NSR0JzQQ?oc=5",
+      "date": "2026-10-07 05:13",
+      "summary": "Musk says TSMC won't run Terafab AI chip complex  Reuters..."
     },
     {
       "title": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order - Reuters",
@@ -217,31 +217,13 @@
       "summary": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order  Reuters..."
     },
     {
-      "title": "Companies cutting jobs as investments shift toward AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmowdG1sVXFFOTdIcEZRY1l2OGcyUHdKZHZ4VlN3ZWJKX0dKbzlUQ29HNFNzc0hFTHRtNDFmQVZfOHg1aDlDbXFCcHM0RVJvSWcxVEVKWGZXSG5obnh3OGF1M0xfYWZYMDdmcDNTTzFoYkZvekdURU9ZS3hlbWlJeGc5UDhYOEMweVlwLVhrMEFka0FySzZWRE90eXNhZHFWV1pxdXVBQzB5d2xpRXc?oc=5",
-      "date": "2026-10-06 23:09",
-      "summary": "Companies cutting jobs as investments shift toward AI  Reuters..."
+      "title": "IMF chief warns energy shock, growing debt and AI risks threaten global growth - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWc5YTdRc1hIb1hBUXdiRFY1YlZVQ2lOYTN1RVFIMUhBNDh3Q3M4NnJoRWI1Tzhxc255OHpHeS1TcjJSX1ZoTnNaWEo5VTBNQlJ5Q1pEWnFkSnhWSTlnYUtESFhJcnNZNVV0VkgycHZocFZFOU5hcVg1anpIUWtVckNscjJYeURiVmpIX293bTVteUFQNElQczlwcEJDOUZVbnFEc1p4eVQyVFJFWUZhbUc1ODlhSlViODdFTkJqTUNSbzkySGNR?oc=5",
+      "date": "2026-10-07 06:06",
+      "summary": "IMF chief warns energy shock, growing debt and AI risks threaten global growth  Reuters..."
     }
   ],
   "MIT Tech Review": [
-    {
-      "title": "The Download: 10 climate tech companies to watch - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1AzSmdqdVFBRjlpdDF4M1pnV0Mzcm5KdzlCbVdDbGM0amM1WFZqcWk0QnVNN080eUdhOW5RbVBWbzEyNnZvbkIzeFBEX2lvdDJNNlI1SkEzbEZ4Y2dYdWxMaU1IS3lNVmpscUtReTJBalJ6YjItYnI1b2t0aTE4TldfUlNHWHdoU3BRd2hKSGFHZWZvcFF5bldnRWtHb0VfVkHSAacBQVVfeXFMUHotYmVZMWhBRENyTzdmRHdlSFMtQUtFTVJFdUlPUVM0SllSbXc4SEdlTVdZYXBOaHdTczY2UmVRN3BTOWNpR3JXWG1TbU5Qa25wYTQxVF9DYmMxWl83NE9HZXJJWlBMVGszWXNwSjQ4MUlVZWpTVWpLS1hTSHN1M1JWZkxWNXdIRjJGWUs1Y0hsdDIySEpEMG9nRGJPUldYcmFyd1N6SWM?oc=5",
-      "date": "2026-10-06 12:10",
-      "summary": "The Download: 10 climate tech companies to watch  MIT Technology Review..."
-    },
-    {
-      "title": "Form Energy and its iron batteries - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQU9saDhqdGNyTjRFaTBVRFpzQUtJTDJTNHJ1YW9zV2RNQjNiaVM0RVh6emEyNWRMNlZHMnRSZUdVUDRZQTdtU0Y5NjBzRXZnczB0UHZ4QS1zWGZib0UxbDRMX19ZVWRJbjN3Q2NzbWt5Z285ZUFaLWN3bWJyN2hLYU9HdW5GN0tMWlRwN3NfeU5fcU9STzVhX3IwU0FaVDFEU2R5QkFoT2otSEhORjE2UFRMb3Z5SHPSAbwBQVVfeXFMTm1kZUt5T1VxekliZ21uU1JOZ2ZoRHVueXFOQXh4ekpKS2MtN3Q3ZEFKRWN1YjBVTDBydnNLVlF3YjJZT0FWOXl6bGlyZVBlWklLR0JJY25iR3BRclBqX1VSN2psMEQzWlJXdzFrc0pWc2VrdThPSS0xMlBNUEhYM00yLXc0amp5dERvZnEzRlJrTWpXTmF0T01QRWpfRkduOWJiT0gzN1VtQ1BIWEZKU3B4ZkFjNXVtb2NjNGc?oc=5",
-      "date": "2026-10-06 10:35",
-      "summary": "Form Energy and its iron batteries  MIT Technology Review..."
-    },
-    {
-      "title": "Moment Energy and its shipping containers packed with old EV batteries - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU2dHa2tIMFVndXlLWlViQ1BZUTVqdUFaYlhpYkxZQ3FkNmt1VWJNalpHcjRJS0pMY2p1ck90Q2NoeGJQSlN0SDhwcUlzVUhkUHdib2hSenRnWjljWXBteFpIVnNldUt1all5R1M2NzNXMXlHT0ZCcEhtdzZpcDBoV1B6cG95dWlKd3l1LXBnTW5jaE1FT1BWdVc2RXhOc0JFMUhPdHhOZDNXZUFVdGRKaGxXVXhEekQ4NEFJdGlGVFNxLVBhLUp1NzFmQjVIemUyaDI4RVNvQ0VvbjhMYVJ5YdIB5gFBVV95cUxQNmUxdXRZdlJTRFBndmNUNWs1QU1iR1kySmJMTDBDZGE1UHRjMm8xQkdjMW02X0wxM0I5Z295c0JUM1ZPZUEwTkNlSVZoYllwMjZoYjZSYWtFVF9qM0V5VF9ZMkd1aFJkUnk4S3ZxYkItTDZoSWEzRVVlckUxWTRkbHFQOHliekJyRi02aG5RSWhZaXVLUk1ZR3J5a3BLTF9abVR5VkloWnBfaHdyV2pWY1UzV2lMVWpyX0M2WXN1TldBRmI3ODVuZjM1elFrLUNuR1dPMnU2RlUwNFlwbTFSZUxWX2pfdw?oc=5",
-      "date": "2026-10-06 10:35",
-      "summary": "Moment Energy and its shipping containers packed with old EV batteries  MIT Technology Review..."
-    },
     {
       "title": "Connecting AI agents to enterprise knowledge - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0ZxZVNnZjZpNGgtVnd5WjUzdVBnaWwtZ29nVnJDaDJiOGtPVXdwVHBSMVd4RmdRMF9McGV1cGNIajgyVzRSUklRU08tdktmN2N1aFcxTVBpMnpVbzluUDdmb3lyV1Z6ZTFreDBqNzg4UDhYZEs5djNWS1RieG1TbVRPc3VSdEpMSWRtekFQek14TmxlN0laVTBNLXpoQdIBowFBVV95cUxOSG9lYUYxTGg4Y2RDcE0tUHFDcmxhckt3YW9SbHZIdkRpeXVWb2tLWTFXU1lPNnV1SGNoOHdDaXJFdE9BaExjYkliLTRYU2JRcjBUOVhjY1Fza3JSSUNOS0dPQ0cxdVdkYWRRT3ZfUzM5ZGlrYlhTZF93bEpZZm9oS3MwMlZpXzRHWTRxeDhzTExuTlZzaks0dHFYUVRqX2lYX1FF?oc=5",
@@ -253,38 +235,56 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWlCb3gtZDJOY1JTa21pbVUwdld3R1ZLeWxza2IzUGxHQzZvLTJCX2dZWGVqQ1B1dVZqWmFUdG0wcEppSFlJamdoT09KTmpXVHJIZGg0S1BqdUdzd1NFTnI5ZjZXdXlELXRXc2NkY0FLTUhTNVVlaEg3RWJtaktBN2dvUFVjck1mMkR1Z2lHQnVkay1FZkNTTktLcWxDTHNiWTl5SdIBqgFBVV95cUxOb2FfU2F5TXE1ZEttUk1PUXVtZ1JyYjdsX2F3WUlCZG81TVZVUDZWM2VobEZscGVtMlhqS0RLdVpFYnkwdFppLUxYNnRwZXcxb1V2cUtVYzZMc2pFejhGbG5oZzBoeUd3WFRUY3pxeHRQTEdmVkZ6QVFNQkgzNW9NRnBOUzRPXzh5UG90R2NydWZLX0V5T2xRTzFSalNPX2hXSjEtVUxLbmJPQQ?oc=5",
       "date": "2026-10-05 08:00",
       "summary": "People really hate AI, so why can’t they get enough?  MIT Technology Review..."
+    },
+    {
+      "title": "The Download: 10 climate tech companies to watch - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1AzSmdqdVFBRjlpdDF4M1pnV0Mzcm5KdzlCbVdDbGM0amM1WFZqcWk0QnVNN080eUdhOW5RbVBWbzEyNnZvbkIzeFBEX2lvdDJNNlI1SkEzbEZ4Y2dYdWxMaU1IS3lNVmpscUtReTJBalJ6YjItYnI1b2t0aTE4TldfUlNHWHdoU3BRd2hKSGFHZWZvcFF5bldnRWtHb0VfVkHSAacBQVVfeXFMUHotYmVZMWhBRENyTzdmRHdlSFMtQUtFTVJFdUlPUVM0SllSbXc4SEdlTVdZYXBOaHdTczY2UmVRN3BTOWNpR3JXWG1TbU5Qa25wYTQxVF9DYmMxWl83NE9HZXJJWlBMVGszWXNwSjQ4MUlVZWpTVWpLS1hTSHN1M1JWZkxWNXdIRjJGWUs1Y0hsdDIySEpEMG9nRGJPUldYcmFyd1N6SWM?oc=5",
+      "date": "2026-10-06 12:10",
+      "summary": "The Download: 10 climate tech companies to watch  MIT Technology Review..."
+    },
+    {
+      "title": "Don’t be fooled—LLMs don’t reason - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVZOVnBJRFRTdktGbTR2ZEc2ckFRLWkybHg4SXFnaDloZDItSHU3WFZpWE00RF9VbnpSLVp5V2RqdUNTdW9LZzlDdmNvRFRUbXl1ZEx4WkwzejE3aEJvalpGUE9sZ3JaSTdiRVpmNmpxOUUyZkpjcno2X2ViOFZwdk9JTHgyOTJXVHhEMdIBkgFBVV95cUxOcmZ3aHQyTV9vS2Vld2t6UkkzdS16UkZGWGJvZkEzdVZQRFdtS29RVnEtVFNueFo0cHpVM19MQUltUWdoWFRWWEh0RlpFLVFqb3kxb0ZBUkVYcU5aa0dVZlMxNUdFb0lVRlJWSDhoWnozWHFvaTZTNXY4d3F0UHpfbUowaVdpSFFDbm0xc3JCYkRTdw?oc=5",
+      "date": "2026-10-02 08:00",
+      "summary": "Don’t be fooled—LLMs don’t reason  MIT Technology Review..."
+    },
+    {
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWRLcnc5eWdkYi04UjJQRDhHTmZoQkZaZzFROHBZQkFZeTdsa0RBVEx6TVRRWTlXUjdRREdScHdlNlEwT0lLNGJqNEVVYzdOajduVjE4OHBFeWdwTmlWN2xqUWVnT1pObUlKMHNITVlsaTdHOHJ3clV6Ynp3bXQzTENKcUZhZXdLUkY2M1JubF9xLWJKRjBqNk1lVEJUNHBTN0FWN29R0gGrAUFVX3lxTE1vNldkVFl6MjNUR2dCWW9EMDYzcDJCaVdIbmJYQnNCM2drall5d25mYzJodDZzdXhfNzhOSkFqcVMya0dVWHFZRFpmNGVPRXVObWxvNG5Oc1pMakhWQzBYZmx2MjdqMnBaTkpCcDFiVUhudjRrWWJub2FuT1EyS2kyN2V0bjlaOHg5SGg5SUc2UGItYWs4cjNuSzh4VkZUU1dLcXg1R0V1UTg0QQ?oc=5",
+      "date": "2026-10-01 10:32",
+      "summary": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Nobel winner Halzen says years of October 'misery' finally over",
-      "link": "https://phys.org/news/2026-10-nobel-winner-halzen-years-october.html",
-      "date": "2026-10-07 01:00",
-      "summary": "Physicist Francis Halzen has an impressively long list of academic accolades—but every October, as the Nobel Prize rolled around, ..."
+      "title": "Amazon wildfires are generating ozone that weakens surviving trees' carbon uptake",
+      "link": "https://phys.org/news/2026-10-amazon-wildfires-generating-ozone-weakens.html",
+      "date": "2026-10-07 09:00",
+      "summary": "Ozone pollution caused by Amazon wildfires is significantly reducing the rainforest's ability to absorb carbon dioxide from the at..."
     },
     {
-      "title": "Computer scientist tracks satellites with automated observatory built from off-the-shelf technology",
-      "link": "https://phys.org/news/2026-10-scientist-tracks-satellites-automated-observatory.html",
-      "date": "2026-10-07 00:20",
-      "summary": "Allen Schnibben's interest in space started when he was a child. \"I picked up some books about the solar system when I was in elem..."
+      "title": "Petal 'windows' affect the abundance of microbes within flowers",
+      "link": "https://phys.org/news/2026-10-petal-windows-affect-abundance-microbes.html",
+      "date": "2026-10-07 07:10",
+      "summary": "Some flowers have petals with small semitranslucent sections. Research in New Phytologist reveals that these \"windows\" alter the a..."
     },
     {
-      "title": "Study highlights the European waters at greatest risk of harmful light pollution",
-      "link": "https://phys.org/news/2026-10-highlights-european-greatest-pollution.html",
-      "date": "2026-10-07 00:00",
-      "summary": "Scientists have produced a first-of-its-kind assessment showing which coastal regions of Europe they believe are at greatest risk ..."
+      "title": "Biodegradable nanoparticle technology may improve agricultural production",
+      "link": "https://phys.org/news/2026-10-biodegradable-nanoparticle-technology-agricultural-production.html",
+      "date": "2026-10-07 07:10",
+      "summary": "Farmers use a manufactured version of a natural plant hormone called gibberellic acid to improve the health and growth of crops, b..."
     },
     {
-      "title": "'Quiet firing' linked to higher levels of 'quiet quitting' among employees",
-      "link": "https://phys.org/news/2026-10-quiet-linked-higher-employees.html",
-      "date": "2026-10-06 23:40",
-      "summary": "A study of the oil, gas and petroleum industry has found that \"quiet firing\" by employers is associated with higher levels of \"qui..."
+      "title": "Ridesharing services may offer public safety benefits beyond transportation",
+      "link": "https://phys.org/news/2026-10-ridesharing-safety-benefits.html",
+      "date": "2026-10-07 07:10",
+      "summary": "New research published in Economic Inquiry reveals that ridesharing services like Uber and Lyft may reduce crime in some areas...."
     },
     {
-      "title": "Linguists find Madonna's voice defies age-related expectations",
-      "link": "https://phys.org/news/2026-10-linguists-madonna-voice-defies-age.html",
-      "date": "2026-10-06 23:40",
-      "summary": "As women go through menopause, their voices tend to become deeper. This is partly because the vocal folds may swell and the surrou..."
+      "title": "Sleep, appetite, gene-editing experts contend for Nobel chemistry prize",
+      "link": "https://phys.org/news/2026-10-appetite-gene-experts-contend-nobel.html",
+      "date": "2026-10-07 07:00",
+      "summary": "Research into molecules that regulate sleep and appetite or methods for editing genes could be among the contenders for the Nobel ..."
     }
   ],
   "The Guardian Edu": [
@@ -321,34 +321,34 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Why Morgan Stanley sees more upside in Hong Kong offices than New York towers",
+      "link": "https://www.scmp.com/business/article/3370022/why-morgan-stanley-sees-more-upside-hong-kong-offices-new-york-towers?utm_source=rss_feed",
+      "date": "2026-10-07 09:00",
+      "summary": "Higher interest rates have weighed on property markets in both Hong Kong and New York, but Morgan Stanley sees greater upside pote..."
+    },
+    {
+      "title": "Travellers must use authorised buses, taxis at Huanggang Port, Hong Kong authorities say",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3370014/travellers-must-use-authorised-buses-taxis-huanggang-port-hong-kong-authorities-say?utm_source=rss_feed",
+      "date": "2026-10-07 07:56",
+      "summary": "Travellers heading to and from the revamped Huanggang Port must use authorised public transport services only, including pre-booke..."
+    },
+    {
+      "title": "Former nursing student jailed for stealing from hospital patients and colleagues",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369996/former-nursing-student-jailed-stealing-hospital-patients-and-colleagues?utm_source=rss_feed",
+      "date": "2026-10-07 06:03",
+      "summary": "A former nursing student at a leading private hospital in Hong Kong has been jailed for two years and four months for stealing cas..."
+    },
+    {
+      "title": "Hong Kong police investigate case of girl, 10, made to carry bags of beer",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3369975/hong-kong-police-investigate-case-girl-10-made-carry-bags-beer?utm_source=rss_feed",
+      "date": "2026-10-07 03:17",
+      "summary": "Hong Kong police are investigating after videos posted online showed a 10-year-old girl carrying heavy bags of beer and being bera..."
+    },
+    {
       "title": "Hong Kong’s AI city brain must understand how people really speak",
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369697/hong-kongs-ai-city-brain-must-understand-how-people-really-speak?utm_source=rss_feed",
       "date": "2026-10-07 01:30",
       "summary": "Chief Executive John Lee Ka-chiu’s vision of an “AI city brain” is bold and timely. An integrated system linking data across trans..."
-    },
-    {
-      "title": "Land sales offer only temporary relief for West Kowloon arts hub, experts warn",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3369960/land-sales-offer-only-temporary-relief-west-kowloon-arts-hub-experts-warn?utm_source=rss_feed",
-      "date": "2026-10-07 00:00",
-      "summary": "Hong Kong’s West Kowloon Cultural District is betting on property development to ease its financial pressures amid a widening oper..."
-    },
-    {
-      "title": "Hong Kong’s first-store appeal grows as more Japanese, South Korean and Thai brands arrive",
-      "link": "https://www.scmp.com/business/article/3369937/hong-kongs-first-store-appeal-grows-more-japanese-south-korean-and-thai-brands-arrive?utm_source=rss_feed",
-      "date": "2026-10-06 23:00",
-      "summary": "Japanese, South Korean and Thai brands have increased their share of new entrants in Hong Kong’s retail property market by 7 perce..."
-    },
-    {
-      "title": "Empowering a sustainable future: International Gas Union summit to be held in Hong Kong this October",
-      "link": "https://www.scmp.com/presented/news/hong-kong/topics/igu-council-meeting-summit/article/3369856/empowering-sustainable-future-international-gas-union-summit-be-held-hong-kong-october?utm_source=rss_feed",
-      "date": "2026-10-06 16:00",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nAgainst a backdrop of persistent geopolitical uncertai..."
-    },
-    {
-      "title": "Hong Kong approves average fee hikes of up to 4.75 per cent for non-public schools",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3369957/hong-kong-approves-average-fee-hikes-475-cent-non-public-schools?utm_source=rss_feed",
-      "date": "2026-10-06 15:18",
-      "summary": "Hong Kong’s private, semi-private and international schools have been given the green light to raise tuition fees by an average of..."
     }
   ]
 }
