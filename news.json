@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Shape-sensing sheet digitally tracks its movement as it bends and twists",
+      "link": "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
+      "date": "2026-10-08 18:00",
+      "summary": "Developed by MIT engineers, this flexible material could be used as a wearable, motion-monitoring “skin” in physical therapy, virt..."
+    },
+    {
       "title": "Turning the tide on Massachusetts shellfishing data",
       "link": "https://news.mit.edu/2026/turning-tide-massachusetts-shellfishing-data-1007",
       "date": "2026-10-07 19:55",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/astronomers-catch-star-slowly-snacking-on-brown-dwarf-1005",
       "date": "2026-10-05 15:00",
       "summary": "The discovery reveals a new way that stars and planetary companions can interact...."
-    },
-    {
-      "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
-      "link": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
-      "date": "2026-09-30 15:15",
-      "summary": "With $2.1 million funding from Google.org, the open-source Public Transit Intelligence Hub will unify public transit monitoring, o..."
     }
   ],
   "Harvard Gazette": [
@@ -45,16 +45,16 @@
       "summary": "Memorial Minute for Marcyliena H. Morgan  Harvard Gazette..."
     },
     {
-      "title": "Memorial Minute for John E. Malmstad - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZdUlINW1XZUFwNXhHVGNoRC1aRldIM1gtX3RnbHNpV09ocWQteG9DUEhZUk1rX3RsVHdUa01qTzUwWDhzaWhVbVo2eEhYcHJDN2Z0UWlReEkxc0x6akdBRmdMd2FMSEUwZlc2NnZuTERpY3N6?oc=5",
-      "date": "2026-10-07 20:31",
-      "summary": "Memorial Minute for John E. Malmstad  Harvard Gazette..."
-    },
-    {
       "title": "Who knew self-improvement could be so terrifying? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2hFTFhvemdNU1ZiSDZSMER6ei15TW1FTEpKUFV5dkNCR1c2X0x4cGJzdEVCcVNBRTRaUVU0RDJvbTFzZC1PR1h5dUpQQ1J4UFhxeFlUYjZMeTBEYXA5cF9XZmRtU3ZOY2ZUeTRhRWYzb1VDaVI2TVphNS0xZ1I1MThLVDRuVEwybFpuNElzeGNvUDJUcjFHLTVibVQ?oc=5",
       "date": "2026-10-05 20:54",
       "summary": "Who knew self-improvement could be so terrifying?  Harvard Gazette..."
+    },
+    {
+      "title": "Memorial Minute for John E. Malmstad - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZdUlINW1XZUFwNXhHVGNoRC1aRldIM1gtX3RnbHNpV09ocWQteG9DUEhZUk1rX3RsVHdUa01qTzUwWDhzaWhVbVo2eEhYcHJDN2Z0UWlReEkxc0x6akdBRmdMd2FMSEUwZlc2NnZuTERpY3N6?oc=5",
+      "date": "2026-10-07 20:31",
+      "summary": "Memorial Minute for John E. Malmstad  Harvard Gazette..."
     },
     {
       "title": "Should quitting smartphones be this hard? - Harvard Gazette",
@@ -65,10 +65,10 @@
   ],
   "Stanford News": [
     {
-      "title": "Stanford University professor Karl Deisseroth wins 2026 Nobel Prize in physiology or medicine - Stanford Medicine",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16aFlSOUIzcHJpaXU0ZVBrelJvVWJNM2dtcmNwaGs1SXhuR0h6anBxSXFrRXk4aEhDVGNXeVlaYmJsY0xDZW85TkVpazExb0FFcUtNUDd4Zl95T3dIY2d0cnVLcjNDenVoVTgtOVVrQ1RQb0EtOUpnQnROcmtEbFE?oc=5",
-      "date": "2026-10-05 23:10",
-      "summary": "Stanford University professor Karl Deisseroth wins 2026 Nobel Prize in physiology or medicine  Stanford Medicine..."
+      "title": "Karl Deisseroth wins Nobel Prize - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZENsc0lrXzAzNUxVWVc5Ymt6N3dCT2U4VzdITVpTRlZhYldsQTFEUjF4eS1ZLXpiSlBKREtlN1oxLWhfT0pIZFNUSkkzLURha3JCWUhSYXo5VzdKVGZRWmFnV3JobVF6b2hybXFINGRBQkpFSE9ROEZpWkFYM3hLLTZDUGhQdTVoSnBlYkFXXzhNX2s?oc=5",
+      "date": "2026-10-06 04:00",
+      "summary": "Karl Deisseroth wins Nobel Prize  Stanford Report..."
     },
     {
       "title": "Stanford professor surprises kids after winning Nobel Prize - ABC News - Breaking News, Latest News and Videos",
@@ -77,86 +77,86 @@
       "summary": "Stanford professor surprises kids after winning Nobel Prize  ABC News - Breaking News, Latest News and Videos..."
     },
     {
-      "title": "US Probes Harvard, Stanford Over Scholar Exchange Visas - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWMyRzJycGR2YzRSWnRMdWhGc3pwT0JreERkcFE3TGh5VmJHckJhX3hTZ05MajhJZ0dGR3lxZ2U3S3lES0N5VDllaDB6d1pmZEFDVDhfelVmbGdXcmJobWUzSmhSRktWcGJ2anEwUDBlQVZ4WVFhY3V5elVPMW5ZRkxsZFJHM2xoMVNsazJQaWhudFltN0NJNTY4cGVvWjdra0ZQOEJ0NG1kZUxQV0pwUTU2bEE?oc=5",
-      "date": "2026-10-08 15:43",
-      "summary": "US Probes Harvard, Stanford Over Scholar Exchange Visas  Bloomberg.com..."
+      "title": "White House cracks down on student visas at Stanford and Caltech, as well as tech work visas - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcFRzazFGbkFlRll3dkZoSm50eUhsdU5Yc2h3cmxlYzk5MnhBSUFieUpoRXFTYkJUelhFVXVTRC1udWhsOGFPdm10bmljalV1V0NvdlpXQVlmbWg0Q2xsSkpUUHg5UGE4RmpmWDBzNXBoZm42WjBYUWRiaWg3bkJqRmVzRlk4Y0lzeDFrVDhvRV9Cd1dfQURWbnd4emJEam5lOXpFQ0FjR3pmMWRVZ0hfb05pYllmbjl4VG55bDBlLWllMHc5bzFuZGpMNFZVNUVhZzFn?oc=5",
+      "date": "2026-10-08 22:38",
+      "summary": "White House cracks down on student visas at Stanford and Caltech, as well as tech work visas  Los Angeles Times..."
+    },
+    {
+      "title": "Trump administration investigating nine universities -- including Harvard, Yale, Stanford, and MIT -- for flouting foreign worker rules - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPc25WZk1YU0p4Mm1FYTJXWmZLSF9GUUZVTkhpcENfNU1jakNHTHFQc2pQb0VqLWdzeFNhdC1BOFNDUGFBT0xQWkd1ay1PTjRJeHZya3p5cmR1TXZzZndycVdJNno1X3lSd3oyZnlHWS0wTlpiX01hUkZrYWJBR05fNHl6eFhFY2FPYXNoY3VIbDZPT2E2cXVtbEdaek9Ud1hONGhjQmphckd4cUlSNTNrREJ0MlNvTVFFV280WV9yRUlEejdpREN2UUlqU2VSNE0wWTFfeGZCN0poS0ZUQXAxclI3ZTJHdE01T1hURXVVUkhuSXdOQUhkNA?oc=5",
+      "date": "2026-10-08 21:21",
+      "summary": "Trump administration investigating nine universities -- including Harvard, Yale, Stanford, and MIT -- for flouting foreign worker ..."
     },
     {
       "title": "Nike Expands Blue Ribbon Elite NIL Roster With 11 Top Stanford Athletes - Stanford Cardinal",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONHlqcExNczVpZndWNGI5clpOejlVSVBtNDB6TEM0RTRkX05kdDFpZ2pScnlBcGRjaUYtaFotZnBSaUxtQjBNUjhUMzVJNHV1bEhsNVJscGJ0dms0T0JiZ2h3SDV6VXdwU242S19hRVhWOU5GbDBzc19vMWpTb0NaYlFJczUtQ3kwcjVCYnVkRDhXR3FUVTcyTEZXcEhBWG9iWFAyYk1VbDhhZlNqTEE?oc=5",
       "date": "2026-10-07 20:58",
       "summary": "Nike Expands Blue Ribbon Elite NIL Roster With 11 Top Stanford Athletes  Stanford Cardinal..."
-    },
-    {
-      "title": "Trump administration investigating nine universities -- including Harvard, Yale, Stanford, and MIT -- for flouting foreign worker rules - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPc25WZk1YU0p4Mm1FYTJXWmZLSF9GUUZVTkhpcENfNU1jakNHTHFQc2pQb0VqLWdzeFNhdC1BOFNDUGFBT0xQWkd1ay1PTjRJeHZya3p5cmR1TXZzZndycVdJNno1X3lSd3oyZnlHWS0wTlpiX01hUkZrYWJBR05fNHl6eFhFY2FPYXNoY3VIbDZPT2E2cXVtbEdaek9Ud1hONGhjQmphckd4cUlSNTNrREJ0MlNvTVFFV280WV9yRUlEejdpREN2UUlqU2VSNE0wWTFfeGZCN0poS0ZUQXAxclI3ZTJHdE01T1hURXVVUkhuSXdOQUhkNA?oc=5",
-      "date": "2026-10-08 15:00",
-      "summary": "Trump administration investigating nine universities -- including Harvard, Yale, Stanford, and MIT -- for flouting foreign worker ..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity",
+      "link": "https://www.nature.com/articles/s41586-026-11266-0",
+      "date": "2026-10-08 00:00",
+      "summary": "Nature, Published online: 08 October 2026; doi:10.1038/s41586-026-11266-0Author Correction: Histone readers MLLT1 and MLLT3 concen..."
+    },
+    {
+      "title": "Editorial Expression of Concern: Maternal gut bacteria promote neurodevelopmental abnormalities in mouse offspring",
+      "link": "https://www.nature.com/articles/s41586-026-11070-w",
+      "date": "2026-10-08 00:00",
+      "summary": "Nature, Published online: 08 October 2026; doi:10.1038/s41586-026-11070-wEditorial Expression of Concern: Maternal gut bacteria pr..."
+    },
+    {
+      "title": "Women are talking about menopause — health systems must listen",
+      "link": "https://www.nature.com/articles/d41586-026-03218-5",
+      "date": "2026-10-08 00:00",
+      "summary": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03218-5In the Arab world, lack of training, research and discuss..."
+    },
+    {
+      "title": "US proposes $100,000 charge for international students to do post-graduate work",
+      "link": "https://www.nature.com/articles/d41586-026-02921-7",
+      "date": "2026-10-08 00:00",
+      "summary": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-02921-7Proposed rule would choke off a crucial STEM talent pipel..."
+    },
     {
       "title": "Woody ‘blankets’ are being deployed on Arctic permafrost to reduce carbon emissions",
       "link": "https://www.nature.com/articles/d41586-026-03045-8",
       "date": "2026-10-08 00:00",
       "summary": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03045-8A start-up company is testing whether stabilizing areas o..."
-    },
-    {
-      "title": "UAE completes Arab world's first solo space probe <b>– </b>and sets course for an asteroid",
-      "link": "https://www.nature.com/articles/d41586-026-03154-4",
-      "date": "2026-10-08 00:00",
-      "summary": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03154-4The device will be launched on a joint UAE-US-built craft..."
-    },
-    {
-      "title": "A guide to Nature Index tables",
-      "link": "https://www.nature.com/articles/d41586-026-02999-z",
-      "date": "2026-10-07 00:00",
-      "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02999-zInformation on the methodology used in the ranking for th..."
-    },
-    {
-      "title": "Nobel prizes 2026: ‘ghost’ particles, mirror molecules and light switches in the brain",
-      "link": "https://www.nature.com/articles/d41586-026-03208-7",
-      "date": "2026-10-07 00:00",
-      "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03208-7Nature rounds up the Nobel prizes for science — plus, hin..."
-    },
-    {
-      "title": "NASA releases trove of Moon data from historic Artemis II flight",
-      "link": "https://www.nature.com/articles/d41586-026-03197-7",
-      "date": "2026-10-07 00:00",
-      "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03197-7Annotated images and more collected by the four astronaut..."
     }
   ],
   "Science News": [
+    {
+      "title": "Audacious space heist aims to bring home bits of mysterious martian moon",
+      "link": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+      "date": "2026-10-08 02:00",
+      "summary": "Samples from Japan’s MMX mission could reveal how Phobos formed—and may contain pieces of Mars..."
+    },
+    {
+      "title": "Two teams map development of mammal embryos, cell by cell",
+      "link": "https://www.science.org/content/article/two-teams-map-development-mammal-embryos-cell-cell",
+      "date": "2026-10-08 02:00",
+      "summary": "Using genome editing to trace cell lineages, researchers capture the early history of the mouse embryo in unprecedented detail..."
+    },
+    {
+      "title": "Will the world end next month? <cite>Science</cite> said so, in 1960",
+      "link": "https://www.science.org/content/article/will-world-end-next-month-science-said-so-1960",
+      "date": "2026-10-08 02:00",
+      "summary": "Researchers concluded that doomsday will fall on 13 November—but not for the reasons we might expect today..."
+    },
+    {
+      "title": "NIH revives network to study emerging diseases—but its new restrictions baffle scientists",
+      "link": "https://www.science.org/content/article/nih-revives-network-study-emerging-diseases-its-new-restrictions-baffle-scientists",
+      "date": "2026-10-08 12:45",
+      "summary": "Ban on hunting for new viruses in wildlife is at odds with program’s mission, researchers say..."
+    },
     {
       "title": "NIH ends 2026 with a boost for early-career researchers, but new awards are down overall",
       "link": "https://www.science.org/content/article/nih-ends-2026-boost-early-career-researchers-new-awards-are-down-overall",
       "date": "2026-10-08 11:55",
       "summary": "The agency spent its full budget, but left many applicants out of luck..."
-    },
-    {
-      "title": "Watch: What’s the deal with OpenAI’s massive dump of math papers?",
-      "link": "https://www.science.org/content/article/watch-what-s-deal-openai-s-massive-dump-math-papers",
-      "date": "2026-10-07 06:15",
-      "summary": "The landmark release of 722 papers targeting 372 unsolved problems draws amazement—and criticism..."
-    },
-    {
-      "title": "‘The anti-Fauci’? Lab-leak proponent listed in NIH directory but denies being hired",
-      "link": "https://www.science.org/content/article/anti-fauci-lab-leak-proponent-listed-nih-directory-denies-being-hired",
-      "date": "2026-10-07 05:25",
-      "summary": "Biotech executive Steven Quay may be in contention for leadership role in infectious disease institute..."
-    },
-    {
-      "title": "Neanderthals were skilled woodworkers, first-of-its-kind tool trove reveals",
-      "link": "https://www.science.org/content/article/neanderthals-were-skilled-woodworkers-first-its-kind-tool-trove-reveals",
-      "date": "2026-10-07 02:00",
-      "summary": "Find in Spanish cave provides rare window into the domestic lives of our closest relatives..."
-    },
-    {
-      "title": "As AI triggers a tsunami of submissions, computer science conferences impose caps",
-      "link": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
-      "date": "2026-10-07 01:40",
-      "summary": "New controls could limit papers by early-career researchers..."
     }
   ],
   "Retraction Watch": [
@@ -193,16 +193,10 @@
   ],
   "Reuters AI": [
     {
-      "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5",
-      "date": "2026-10-07 18:07",
-      "summary": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO  Reuters..."
-    },
-    {
-      "title": "Existential threats join bubble fears as AI mood sobers at Singapore forums - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORGhIVXJQSHlac1dDaFJ0T19ZVXk0c0hURmdqQjB5alRENFFtb3dteWp1eU02bFdLUEJFLUdRQzM3R3BWd1VPLWFkTkk3aC1aM0NTZURQNUJsRUgwaG9fdGpZLXJsOWVCdVBJdERTSG56RXRZekFiLTJuTHRQeDlDRE9DMHplMDJEX3RtSEU0d3RhRGp5bmg1MEhqNzNpTHBpSUMyZ04yQXhHZ0lHa05YSmRNU3cycnhoR2tlWTRJSlhVdw?oc=5",
-      "date": "2026-10-07 12:08",
-      "summary": "Existential threats join bubble fears as AI mood sobers at Singapore forums  Reuters..."
+      "title": "Google Cloud introduces Gemini agent for work as AI race heats up - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlVSeTZYa0pSOFppNk9GdFF0Y0VZa19lYnRKTjRXb0FpZUhaTlBEUmRLUW04N3E1azhGalpULTNwN2Y0SnhFWGhOTktSdTVMMTJDc2VRX013NGNuSzJYRGxiWVJyU2dzS0lGdGN4YXlxQzR3TWl0eVQwbjFKWW5JVG1kQXdJYVVwd2J2OTZ5NDZYT0JQM09Ycmt2amRmekhNWTBfR0pR?oc=5",
+      "date": "2026-10-08 15:11",
+      "summary": "Google Cloud introduces Gemini agent for work as AI race heats up  Reuters..."
     },
     {
       "title": "Samsung flags $80 billion profit on AI boom, highest quarterly for any tech company - Reuters",
@@ -211,16 +205,22 @@
       "summary": "Samsung flags $80 billion profit on AI boom, highest quarterly for any tech company  Reuters..."
     },
     {
-      "title": "NEWSLETTER: AI wants to cure disease. It needs data first - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZko5Um03SjcyYlRWRTh2c2xJYnlVOHNIQVNxa3BKU08tZndRa183Z1RtQ0lKcHdtZk1RRU9yZU9MQ1IwdHFWb2Q2cldVM3Zhekx2b25fVjFNWGtzMjN0YlZ0UGRiWUxBTlEzci01ZnlVbWMwOUh3UnAydzQ3LTdYczU5Ujdsdno4eDl2ck02UjhsLUtCR0RYY3UxTVB2U2h5cjJVcWYwMHdSZ1ZBWDlKX0V3?oc=5",
-      "date": "2026-10-07 21:00",
-      "summary": "NEWSLETTER: AI wants to cure disease. It needs data first  Reuters..."
+      "title": "OpenAI's annualized revenue $20 billion less than previously signaled, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLUJ6eFRkeVppWC1ocFZFMjRyWnFyczBwcml6OEJtaElGOEpxZkgzaFBSa1F2RTJjb3dXVTdLZ0pxWUpyZVhjZVdZRWR4TFpJQ2tjRG1UVGV6WWMwTkJsVVVDUHNjTU05MHBFWENJNGNPZW5sMjdyRUtLX0pfcUVLaWo5ZjhKd2ZCUnBHRlc2aXRpTFRMQTZSWWJuelZ4ZnVrM08xTVJBdlhtcjNEMS1PZUZhT2hDX3hYOUJGc2MzTV8?oc=5",
+      "date": "2026-10-08 21:19",
+      "summary": "OpenAI's annualized revenue $20 billion less than previously signaled, FT reports  Reuters..."
     },
     {
-      "title": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGdkZHlKUjgwWHQ4eXRUaTJZeFZBQkFLaENBNFYxTUh5SVFkaWNfVGh3MUtrcGdKYjZhWk03QlV1WV8zYmxkbl9fLVRIa0xwWlczbVRwVlRFUGZwMXFwM2lRck5BVmVhQ3JmVzNZS3U0OUpuLVdLU04wVVlkNE9jN2IyRW9YY0pla283VmJBa3FpVm5zX2xaQkw0X3JCcUx1djhraTRVTEQzeGJtNzZKQ3hLTHRRSUEt?oc=5",
-      "date": "2026-10-08 12:01",
-      "summary": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers  Reuters..."
+      "title": "Exclusive-Trump AI Task Force Leaders to Meet on Thursday, Vice Chair Says - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ1RVVlB0Nmlrb3gtLW5QY01RMjZ3WEtJSy1wZjhYRzRoTEswVGhfOVpsbkY0WG9MSFhGTmtYSXBUN1BmZGFKdVg3NXhHb1lHVWpMcHF6XzZFeWRYOThtd3lxRlBIMGdjUXU1TXdIWWtJY1ZEakRZWHREQ1NOb004MFRHSVhDOUVmaGdzSXM3QkplaGVrWEJHR0xaT2hYT0JHRFJBQXU3OWZHN2h0cWZXdkRLQlcwdjJTXzRKY2hGOEFGeXkzbWRLcEp3?oc=5",
+      "date": "2026-10-08 19:07",
+      "summary": "Exclusive-Trump AI Task Force Leaders to Meet on Thursday, Vice Chair Says  U.S. News & World Report..."
+    },
+    {
+      "title": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOTYxUnZPS1BaUTl3NU4tc1pXVEQwNVNKQjA5MllqWmJIejF4TmxUUmVpR2NNTXFWNmNTTHJPZjdSU25FZGdwSnZWX0RNY09OMEZCNUdjdUEzU19tLWRob3BGeXgyZEhlX195bUZGM19DXzF6aGV6NU9LTGNENDhOVnoxXzVScjJEZWNKeHZHbmZER2tCaUpHM1hVc3ppcXQtWDNaYlFYeEhoNzFiS0swYkplSkY?oc=5",
+      "date": "2026-10-08 21:18",
+      "summary": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "'Move away' and 'stop that!' Wild elephants use a rich gestural repertoire intentionally to 'mean business'",
-      "link": "https://phys.org/news/2026-10-wild-elephants-rich-gestural-repertoire.html",
-      "date": "2026-10-08 17:40",
-      "summary": "Wild African savanna elephants use a wide range of gestures when competing with other elephants, according to research from an int..."
+      "title": "Sentinel-3C returns its first views of Earth",
+      "link": "https://phys.org/news/2026-10-sentinel-3c-views-earth.html",
+      "date": "2026-10-08 22:40",
+      "summary": "Just two weeks after it was launched, the Copernicus Sentinel-3C satellite returned its first images and measurements from two of ..."
     },
     {
-      "title": "AI tool makes culturally appropriate lessons for teachers in India",
-      "link": "https://phys.org/news/2026-10-ai-tool-culturally-lessons-teachers.html",
-      "date": "2026-10-08 17:40",
-      "summary": "Overworked teachers in southern India have a new tool for educating their students: Shiksha Copilot, an AI system that generates c..."
+      "title": "Informal food vendors: The invisible backbone of the world's food system",
+      "link": "https://phys.org/news/2026-10-food-vendors-invisible-backbone-world.html",
+      "date": "2026-10-08 22:40",
+      "summary": "Walk through almost any city or town in a low-income or middle-income country and you'll pass them: the woman selling deep-fried f..."
     },
     {
-      "title": "Rare traces of wooden tools reveal Neanderthals were skilled woodworkers",
-      "link": "https://phys.org/news/2026-10-rare-wooden-tools-reveal-neanderthals.html",
-      "date": "2026-10-08 17:30",
-      "summary": "There is even more evidence that Neanderthals were far from the simple cave dwellers we once thought them to be. The discovery of ..."
+      "title": "Fossil bite marks suggest first evidence of a small raptor feeding on an apex predator",
+      "link": "https://phys.org/news/2026-10-fossil-evidence-small-raptor-apex.html",
+      "date": "2026-10-08 22:20",
+      "summary": "A prehistoric cold case near Drumheller reveals either a small-time raptor scavenged on an apex predator, or a baby Albertosaurus ..."
     },
     {
-      "title": "All-electrical imaging offers innovative alternative for tracking cell movement",
-      "link": "https://phys.org/news/2026-10-electrical-imaging-alternative-tracking-cell.html",
-      "date": "2026-10-08 17:20",
-      "summary": "Engineers from Brown University have developed a new way of imaging cell migration dynamics that are important in understanding cr..."
+      "title": "New framework links digital technology and mineral processing to support Africa's economic growth",
+      "link": "https://phys.org/news/2026-10-framework-links-digital-technology-mineral.html",
+      "date": "2026-10-08 22:20",
+      "summary": "Research published in the International Journal of Business Innovation and Research (IJBIR) suggests that African economies need t..."
     },
     {
-      "title": "Patience is a lucrative virtue for entrepreneurs, new research finds",
-      "link": "https://phys.org/news/2026-10-patience-lucrative-virtue-entrepreneurs.html",
-      "date": "2026-10-08 17:20",
-      "summary": "People with higher levels of patience are more likely to become entrepreneurs and earn more once they do, according to a new study..."
+      "title": "New 'computational microscope' simulates DNA packaging at more than ten times previous scale",
+      "link": "https://phys.org/news/2026-10-microscope-simulates-dna-packaging-ten.html",
+      "date": "2026-10-08 22:10",
+      "summary": "The DNA in our cells wraps around proteins called histones to form nucleosomes, which organize into chromatin. This organization h..."
     }
   ],
   "The Guardian Edu": [
