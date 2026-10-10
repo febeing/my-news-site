@@ -33,22 +33,10 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Memorial Minute for Marcyliena H. Morgan - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM2NQTEEtV2haREQ3YzlJV2ttWXpMV0F6SFNHOTBRS3FhaE15RmRPQzlPQjEtMEtMd3JGWVhUMEdwai1DTHhFWlhuNHF5TUx3bkJ4Y201Z3ZGRDFKalJjYXVwek42QmdaaXRlYjBWVXJ4c3NEaER6MDZDWFhKNm01VDY1bUlXdEo2eFlPbjctTW4?oc=5",
-      "date": "2026-10-07 19:06",
-      "summary": "Memorial Minute for Marcyliena H. Morgan  Harvard Gazette..."
-    },
-    {
       "title": "Memorial Minute for John E. Malmstad - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZdUlINW1XZUFwNXhHVGNoRC1aRldIM1gtX3RnbHNpV09ocWQteG9DUEhZUk1rX3RsVHdUa01qTzUwWDhzaWhVbVo2eEhYcHJDN2Z0UWlReEkxc0x6akdBRmdMd2FMSEUwZlc2NnZuTERpY3N6?oc=5",
       "date": "2026-10-07 20:31",
       "summary": "Memorial Minute for John E. Malmstad  Harvard Gazette..."
-    },
-    {
-      "title": "Who knew self-improvement could be so terrifying? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2hFTFhvemdNU1ZiSDZSMER6ei15TW1FTEpKUFV5dkNCR1c2X0x4cGJzdEVCcVNBRTRaUVU0RDJvbTFzZC1PR1h5dUpQQ1J4UFhxeFlUYjZMeTBEYXA5cF9XZmRtU3ZOY2ZUeTRhRWYzb1VDaVI2TVphNS0xZ1I1MThLVDRuVEwybFpuNElzeGNvUDJUcjFHLTVibVQ?oc=5",
-      "date": "2026-10-05 20:54",
-      "summary": "Who knew self-improvement could be so terrifying?  Harvard Gazette..."
     },
     {
       "title": "Harvard launches $150 million research initiative - Harvard Gazette",
@@ -57,10 +45,22 @@
       "summary": "Harvard launches $150 million research initiative  Harvard Gazette..."
     },
     {
+      "title": "Who knew self-improvement could be so terrifying? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2hFTFhvemdNU1ZiSDZSMER6ei15TW1FTEpKUFV5dkNCR1c2X0x4cGJzdEVCcVNBRTRaUVU0RDJvbTFzZC1PR1h5dUpQQ1J4UFhxeFlUYjZMeTBEYXA5cF9XZmRtU3ZOY2ZUeTRhRWYzb1VDaVI2TVphNS0xZ1I1MThLVDRuVEwybFpuNElzeGNvUDJUcjFHLTVibVQ?oc=5",
+      "date": "2026-10-05 20:54",
+      "summary": "Who knew self-improvement could be so terrifying?  Harvard Gazette..."
+    },
+    {
       "title": "Should quitting smartphones be this hard? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3pTekZzb0o3akpWd1RSTm9Lc1hZZ3BhSldBN0lJOHc2YVE1aWdfUmhEVG5URVRQNnp0SkVkTHJ0LXV5R21xNnJEcnpjdzl6R3JNZ2kxc1pub2VwZXNBanV0OFoxaW90TkZkRUpRM3pJNU5sUXJFUXNaSkhMbzRGTzd2ODNTa0JZZS1XdkxTV2p2QQ?oc=5",
       "date": "2026-10-05 21:27",
       "summary": "Should quitting smartphones be this hard?  Harvard Gazette..."
+    },
+    {
+      "title": "Correcting the world map - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BaU9VaHhlZDV5c1l2bU9KZVFKcjlVX3FVb2NxWWhmc083OHVqdEpNMTR0N1FnbG01a0M5ZXRMRXpiazJxSkdZbTU4RU5qbE96NUlpaDVwNFRla21MM1REaFgyei1TWktGWUl3TlV2WmFpcXZJZnp4U29wa1g?oc=5",
+      "date": "2026-10-06 18:44",
+      "summary": "Correcting the world map  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -83,16 +83,16 @@
       "summary": "White House targets Stanford, Caltech and tech giants in visa crackdown  Los Angeles Times..."
     },
     {
-      "title": "Trump administration investigating nine universities -- including Harvard, Yale, Stanford, and MIT -- for flouting foreign worker rules - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPc25WZk1YU0p4Mm1FYTJXWmZLSF9GUUZVTkhpcENfNU1jakNHTHFQc2pQb0VqLWdzeFNhdC1BOFNDUGFBT0xQWkd1ay1PTjRJeHZya3p5cmR1TXZzZndycVdJNno1X3lSd3oyZnlHWS0wTlpiX01hUkZrYWJBR05fNHl6eFhFY2FPYXNoY3VIbDZPT2E2cXVtbEdaek9Ud1hONGhjQmphckd4cUlSNTNrREJ0MlNvTVFFV280WV9yRUlEejdpREN2UUlqU2VSNE0wWTFfeGZCN0poS0ZUQXAxclI3ZTJHdE01T1hURXVVUkhuSXdOQUhkNA?oc=5",
-      "date": "2026-10-08 21:21",
-      "summary": "Trump administration investigating nine universities -- including Harvard, Yale, Stanford, and MIT -- for flouting foreign worker ..."
-    },
-    {
       "title": "Moment Karl Deisseroth tells his family he won the Nobel prize in medicine – video - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOEdNc3Mydm9GN1JhejY5aG5yOVk2VE12VS04dFYzMnpRR1UzZFhLNWxyLUFzZ09iZkQ1RnJrZlVPeUxlc1RaYnpZZ3dPWVVCbmJmTG84TGwyaHV4Q1pTODdnLXFqUTdvMllmYTJEaGsyVE1RZjcySXB1bHhNVnFlOFRNdnNhNTVHc21qSThoQ1hHUkdUcVozSi1XVTRDamFlYmVBZE1vTjkwZlBybmxrVTNEcmNjOVBtWHpKUlB3Y2NwZ2UyOExCd0Vndy1veTA?oc=5",
       "date": "2026-10-07 10:44",
       "summary": "Moment Karl Deisseroth tells his family he won the Nobel prize in medicine – video  The Guardian..."
+    },
+    {
+      "title": "Trump administration investigating nine universities -- including Harvard, Yale, Stanford, and MIT -- for flouting foreign worker rules - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPc25WZk1YU0p4Mm1FYTJXWmZLSF9GUUZVTkhpcENfNU1jakNHTHFQc2pQb0VqLWdzeFNhdC1BOFNDUGFBT0xQWkd1ay1PTjRJeHZya3p5cmR1TXZzZndycVdJNno1X3lSd3oyZnlHWS0wTlpiX01hUkZrYWJBR05fNHl6eFhFY2FPYXNoY3VIbDZPT2E2cXVtbEdaek9Ud1hONGhjQmphckd4cUlSNTNrREJ0MlNvTVFFV280WV9yRUlEejdpREN2UUlqU2VSNE0wWTFfeGZCN0poS0ZUQXAxclI3ZTJHdE01T1hURXVVUkhuSXdOQUhkNA?oc=5",
+      "date": "2026-10-08 21:18",
+      "summary": "Trump administration investigating nine universities -- including Harvard, Yale, Stanford, and MIT -- for flouting foreign worker ..."
     }
   ],
   "Nature Careers": [
@@ -161,6 +161,12 @@
   ],
   "Retraction Watch": [
     {
+      "title": "Weekend reads: OpenAI’s preprint dump; Taylor & Francis to leave Informa; arXiv’s preprint cap",
+      "link": "https://retractionwatch.com/2026/10/10/weekend-reads-openais-preprint-dump-taylor-francis-to-leave-informa-arxivs-preprint-cap/",
+      "date": "2026-10-10 10:00",
+      "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
+    },
+    {
       "title": "‘Cerebral torment’: IOP retracts nearly 100 conference papers for tortured phrases",
       "link": "https://retractionwatch.com/2026/10/09/iop-publishing-conference-proceedings-tortured-phrases/",
       "date": "2026-10-09 16:06",
@@ -183,12 +189,6 @@
       "link": "https://retractionwatch.com/2026/10/07/wildlife-journal-issues-corrections-for-missing-ethics-statements/",
       "date": "2026-10-07 19:43",
       "summary": "In what one sleuth called a “systemic failure,” a wildlife journal has issued corrections to a handful of papers not for an error ..."
-    },
-    {
-      "title": "Editor-in-chief resigns amid probes of alleged citation manipulation, data errors",
-      "link": "https://retractionwatch.com/2026/10/06/egyptian-rheumatologist-tamer-gheita-editor-in-chief-resigns-citation-manipulation-data-errors/",
-      "date": "2026-10-06 20:54",
-      "summary": "The editor-in-chief of The Egyptian Rheumatologist has resigned following claims of questionable citation practices and improper p..."
     }
   ],
   "Reuters AI": [
@@ -199,28 +199,28 @@
       "summary": "Google Cloud introduces Gemini agent for work as AI race heats up  Reuters..."
     },
     {
-      "title": "AI-related companies to drive most third-quarter US earnings gains - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWN6RHkzeE9oNGpRQTJpQjZNamoyTS01YldNYndxS0c3ZEhYcGREZHkwN1o0aFRsVWJfOEU5dEZDWDVRUFdDUDlVenBlVGtOSG93MkJfLXp3UThXaFFKQ2x2ekVkMmdTMUxKV0tQd3pOekN0UGc3dFpURTU3NUpQS1RJR0V2MmVoSjFiTUJfbk1HMmhQZHhKN0R0ME5iUmhtV2tNWlkzY3JYNFVa?oc=5",
-      "date": "2026-10-09 11:44",
-      "summary": "AI-related companies to drive most third-quarter US earnings gains  Reuters..."
+      "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpmTnVsdlhWdUt0a0hnSUg1YUVoRWNhT2JSQ24yeHFvRWVPdG5SNzNsWkNLVS0zbng0UWZrMS1zaGtXRmNzRThMamRUNXJPUGRwX09vN2J0dXFSUW9ZSThFeGZ6bTg5bnFqVVktSk91RzBNMkN0MGFOX2FSSEFZMzZ4TXhMb1dsc1hpLUwtY1pmeERoMnE0M2llTEI0X1V2cGxRc1UtMnpYUmc?oc=5",
+      "date": "2026-10-10 19:33",
+      "summary": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports  Reuters..."
     },
     {
-      "title": "Anthropic discloses fake tip to police among new rogue AI incidents - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVGw2cnZoT1VLbWVDaU9hb2k3SHg0b2Z4OU5pWjlMaHd5MGJrVzk4OWtmOG5DZGpOdE5pV3duRFMxVTFvdG1HLTluTE1IcVpCNkVkS0xOMjBnNTNRUUxKZ0hqdmdtUGFxVFVPN1pELWhkVWlnd1VsYk9Vd3BfSTNjN21LVlYwVVNqZ3FzVWQwdw?oc=5",
-      "date": "2026-10-10 00:44",
-      "summary": "Anthropic discloses fake tip to police among new rogue AI incidents  Yahoo..."
-    },
-    {
-      "title": "Most say Trump, Congress not taking AI risk seriously: Survey - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXowZXVvdzU2LUpXX3YwQ2tIRmp6QU5xRTJXTHFNNlJpdWlMOVlKQmFtaW5PRlp5NDlYaEg3SWlhNEFMeUJnY0w5ZmZ2Q1NkdWJCWF96OUJOZUdYTW40bURwYXZQRWF5Z2JlMmJhR0gyYXRXakVUM05nQ3pzMmtmMl9oZ3R5a3lqOWl2WHFKRXdyd1dUSVA2dG1XbTlMdTBLZkp4a1ppOXJEc0RnRUxmVmFB0gG3AUFVX3lxTE9aamlqaU5PTVkxNG1jcHhaU0JoYTBiVDBSQ0dRNk8wSDdKSkRSRFJCVHEwTE05MVRPOThIcHdYX1p0Tk5JOFlYckVEYzhUUzdiQll5M3hRaHhhalE3OW1NeVJjR2VnNmVJWkVKQWZ6M1RBcFpkQW5PZ0thVXpfQkx1Q2FWaWZrcTJueHlobEc0RjgtelM4YVlKSnZGb0F1STVTLXYxNHlmN3BWRW9LVGFXS05zREZKOA?oc=5",
-      "date": "2026-10-07 16:14",
-      "summary": "Most say Trump, Congress not taking AI risk seriously: Survey  The Hill..."
+      "title": "Anthropic discloses fake tip to police among new rogue AI incidents - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5",
+      "date": "2026-10-09 19:21",
+      "summary": "Anthropic discloses fake tip to police among new rogue AI incidents  Reuters..."
     },
     {
       "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M?oc=5",
       "date": "2026-10-09 22:27",
       "summary": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China  Reuters..."
+    },
+    {
+      "title": "EXCLUSIVE: AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjJDODBjeFVYRENLMm9RSjJLOTdUUjBHcDMtWXRCM1VtRDFBbVRsdjRpMEtrU3p6Ym1udmhHODU4NHlCdVVfQ0dCcXpteXduRE9ULXFzVWFDRXBhS3gwQ21GdkJlc3hqRzBPV0tjSmQwZ0RCQWVJX1AzblVvVGkwNzY1RWpnMVFZYnAwc3JQT0hHSmx2d2d4Z2otMzdFYnV3bkVfQWRldk1rWW5NZWU2Y1dWRkp1LUtyQ1ZEZw?oc=5",
+      "date": "2026-10-09 00:09",
+      "summary": "EXCLUSIVE: AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -249,13 +249,31 @@
       "summary": "AI breakthroughs in robotics won’t change your life any time soon  MIT Technology Review..."
     },
     {
-      "title": "Connecting AI agents to enterprise knowledge - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0ZxZVNnZjZpNGgtVnd5WjUzdVBnaWwtZ29nVnJDaDJiOGtPVXdwVHBSMVd4RmdRMF9McGV1cGNIajgyVzRSUklRU08tdktmN2N1aFcxTVBpMnpVbzluUDdmb3lyV1Z6ZTFreDBqNzg4UDhYZEs5djNWS1RieG1TbVRPc3VSdEpMSWRtekFQek14TmxlN0laVTBNLXpoQdIBowFBVV95cUxOSG9lYUYxTGg4Y2RDcE0tUHFDcmxhckt3YW9SbHZIdkRpeXVWb2tLWTFXU1lPNnV1SGNoOHdDaXJFdE9BaExjYkliLTRYU2JRcjBUOVhjY1Fza3JSSUNOS0dPQ0cxdVdkYWRRT3ZfUzM5ZGlrYlhTZF93bEpZZm9oS3MwMlZpXzRHWTRxeDhzTExuTlZzaks0dHFYUVRqX2lYX1FF?oc=5",
-      "date": "2026-10-05 15:47",
-      "summary": "Connecting AI agents to enterprise knowledge  MIT Technology Review..."
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc3ZPUW5vLWxleWNvaFBHeHF2a2hFdjl5RmViZVpyV0pmMTJxOFVNdW9jQkZsOFd6MExrN3dBRmxTTi1FYjN0RF8yd2laSjk1cmVMYjZzcThjN2NjSlM4a0d1Q28wQzU2ZjVMSFRJbDc2WVI4clpGcTlOS1gwQ0F0eHFxNlZXYW9EcnBpMy0wYWdXYUs5VFNCR3h2ZlJ2R1V2VUp5TmVUX1ZEQnhuRmEtOHA0TUlrVGlvUUlF0gHAAUFVX3lxTE5SWkZnTkMtekY1aV9PN1hJdFM5VDk5WXpRYklhWkx5eVh0STdsTE5INkFKNU5OLXZxUmpwUFc3TXpENmFXTTV4bzZRd2pZRmJSNUVVbzZBX1d3MkRGSGwyVGtQM2N5Zk5TNTJfV1lsc1VqNVZDU3BGSW5jcDhpSWNMTmE3S1BtcWt0YVgxUmZyV2VUUloxdTFDVjJrVUg1eXZ0cmt5cTBOOHoxY3VzSWpLNW5iNF9FZGVOa1hNaUk0Wg?oc=5",
+      "date": "2026-10-09 00:08",
+      "summary": "Roundtables: A Conversation With the Creator of AI-Designed Viruses  MIT Technology Review..."
     }
   ],
   "Phys.org": [
+    {
+      "title": "Adult acne is real, but there are ways to treat it. Here's what to know",
+      "link": "https://phys.org/news/2026-10-adult-acne-real-ways.html",
+      "date": "2026-10-10 19:20",
+      "summary": "As a teenager, Gillian Maegan Montalbo's pimples weren't too bad—just a few bumps on her forehead and nose...."
+    },
+    {
+      "title": "Nearly 300,000 at risk from Himalayan floods, as flood zone building accelerates",
+      "link": "https://phys.org/news/2026-10-himalayan-zone.html",
+      "date": "2026-10-10 18:00",
+      "summary": "Nearly 300,000 people may live in areas at risk of flooding in the Nepalese, Indian and Chinese areas of the Himalayas. The result..."
+    },
+    {
+      "title": "New stability rules distinguish quantum phases of matter that an older method wrongly groups together",
+      "link": "https://phys.org/news/2026-10-stability-distinguish-quantum-phases-older.html",
+      "date": "2026-10-10 17:00",
+      "summary": "Most of us recognize basic phases of matter and their properties: solids maintain their shape, liquids flow freely with constant v..."
+    },
     {
       "title": "Preschool boys favor bigger groups while adults' choices hint at political attitudes",
       "link": "https://phys.org/news/2026-10-preschool-boys-favor-bigger-groups.html",
@@ -267,24 +285,6 @@
       "link": "https://phys.org/news/2026-10-odds-ecosystems.html",
       "date": "2026-10-10 13:40",
       "summary": "From coral reefs in Papua New Guinea to chimpanzees in West Africa, grizzly bears in Canada and albatross colonies off Tasmania, s..."
-    },
-    {
-      "title": "Powerful waves lash California coast as storm threatens more damage",
-      "link": "https://phys.org/news/2026-10-powerful-lash-california-coast-storm.html",
-      "date": "2026-10-10 12:20",
-      "summary": "Powerful waves thrashed communities along California's southern coast Friday, damaging homes and sending water cascading through s..."
-    },
-    {
-      "title": "Tsunami alert after major earthquake rocks Panama",
-      "link": "https://phys.org/news/2026-10-tsunami-major-earthquake-panama.html",
-      "date": "2026-10-10 12:19",
-      "summary": "A magnitude 7.7 earthquake jolted Panama on Friday, setting off panic in the capital city and warnings of dangerous tsunami waves...."
-    },
-    {
-      "title": "Isaias downgraded to post-tropical cyclone after landfall in Florida",
-      "link": "https://phys.org/news/2026-10-isaias-downgraded-tropical-cyclone-landfall.html",
-      "date": "2026-10-10 12:10",
-      "summary": "Isaias weakened from a hurricane to a post-tropical cyclone early Saturday after it made landfall in northwestern Florida, where i..."
     }
   ],
   "The Guardian Edu": [
