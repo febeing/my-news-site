@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "Memorial Minute for John E. Malmstad - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZdUlINW1XZUFwNXhHVGNoRC1aRldIM1gtX3RnbHNpV09ocWQteG9DUEhZUk1rX3RsVHdUa01qTzUwWDhzaWhVbVo2eEhYcHJDN2Z0UWlReEkxc0x6akdBRmdMd2FMSEUwZlc2NnZuTERpY3N6?oc=5",
-      "date": "2026-10-07 20:31",
-      "summary": "Memorial Minute for John E. Malmstad  Harvard Gazette..."
-    },
-    {
       "title": "Harvard launches $150 million research initiative - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUpmVlJzSkdOSEpMMmFfSGpEU2gtZ2FHdVB5WkkyWXYtNmRFVFJGcEQtWXJ6eXI0cTU1ZTc2eWtEYV9QbnNqQUtZRFRMaTZQZGtNUklxRGMwUDEwV1FON1VjMGo4QkNpdGwzY2xfM21yRFVVNjZBQ2s0bGNhYV94NFVUbGJrMDV0LTREaXlRSlpZWmFfNUd2Q19yWmE?oc=5",
       "date": "2026-09-28 07:00",
@@ -55,6 +49,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3pTekZzb0o3akpWd1RSTm9Lc1hZZ3BhSldBN0lJOHc2YVE1aWdfUmhEVG5URVRQNnp0SkVkTHJ0LXV5R21xNnJEcnpjdzl6R3JNZ2kxc1pub2VwZXNBanV0OFoxaW90TkZkRUpRM3pJNU5sUXJFUXNaSkhMbzRGTzd2ODNTa0JZZS1XdkxTV2p2QQ?oc=5",
       "date": "2026-10-05 21:27",
       "summary": "Should quitting smartphones be this hard?  Harvard Gazette..."
+    },
+    {
+      "title": "Is cursive worth learning? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kbjNDdXVvS2lFUXVfRFA3YmhFN1l3dEFHaGRfTDU5cDlBNm5xcXlBR21SNjFndlRmT01qTFA5WXgzbFQzeUV4RDFoVXpuVXVqbnZFQ2x2ZHlJdWIwRXk1UWkxQ2JackFETGNSTl8zYlF4QXJ4eTE3ZTRtSmZqUQ?oc=5",
+      "date": "2026-09-30 07:00",
+      "summary": "Is cursive worth learning?  Harvard Gazette..."
     },
     {
       "title": "Correcting the world map - Harvard Gazette",
@@ -83,10 +83,10 @@
       "summary": "White House targets Stanford, Caltech and tech giants in visa crackdown  Los Angeles Times..."
     },
     {
-      "title": "Trump administration investigating nine universities -- including Harvard, Yale, Stanford, and MIT -- for flouting foreign worker rules - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPc25WZk1YU0p4Mm1FYTJXWmZLSF9GUUZVTkhpcENfNU1jakNHTHFQc2pQb0VqLWdzeFNhdC1BOFNDUGFBT0xQWkd1ay1PTjRJeHZya3p5cmR1TXZzZndycVdJNno1X3lSd3oyZnlHWS0wTlpiX01hUkZrYWJBR05fNHl6eFhFY2FPYXNoY3VIbDZPT2E2cXVtbEdaek9Ud1hONGhjQmphckd4cUlSNTNrREJ0MlNvTVFFV280WV9yRUlEejdpREN2UUlqU2VSNE0wWTFfeGZCN0poS0ZUQXAxclI3ZTJHdE01T1hURXVVUkhuSXdOQUhkNA?oc=5",
-      "date": "2026-10-08 21:21",
-      "summary": "Trump administration investigating nine universities -- including Harvard, Yale, Stanford, and MIT -- for flouting foreign worker ..."
+      "title": "McVeigh Nets 50th Career Goal; Duke Falls at Stanford, 3-2 - Duke University - GoDuke.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUIzelh2elZFakF5SHFtOURzQm1kSURiWlFRYUk2UEUtMEx5eldaSE5CQUwxY3hvQVlQWG5SbndSYU92QkpzdXFzVnRrYVNyX2FEOFNQbWlGM3FhNGxEOWN6aVk1MXZDVlNSZkt1eVFRalVqWlBYSVE1X1o3dTNBZUNoR1pxT0RvOUkyNFREOXMzNW96ZVVQckFILUFvR0JaRHd1ZzB3?oc=5",
+      "date": "2026-10-10 05:15",
+      "summary": "McVeigh Nets 50th Career Goal; Duke Falls at Stanford, 3-2 - Duke University  GoDuke.com..."
     },
     {
       "title": "Jensen Huang and his wife Lori pledged $30 million to Stanford; in 2010, the university opened an enginee - The Times of India",
@@ -193,22 +193,22 @@
   ],
   "Reuters AI": [
     {
-      "title": "Google Cloud introduces Gemini agent for work as AI race heats up - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlVSeTZYa0pSOFppNk9GdFF0Y0VZa19lYnRKTjRXb0FpZUhaTlBEUmRLUW04N3E1azhGalpULTNwN2Y0SnhFWGhOTktSdTVMMTJDc2VRX013NGNuSzJYRGxiWVJyU2dzS0lGdGN4YXlxQzR3TWl0eVQwbjFKWW5JVG1kQXdJYVVwd2J2OTZ5NDZYT0JQM09Ycmt2amRmekhNWTBfR0pR?oc=5",
-      "date": "2026-10-08 15:11",
-      "summary": "Google Cloud introduces Gemini agent for work as AI race heats up  Reuters..."
-    },
-    {
-      "title": "Anthropic discloses fake tip to police among new rogue AI incidents - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5",
-      "date": "2026-10-09 19:21",
-      "summary": "Anthropic discloses fake tip to police among new rogue AI incidents  Reuters..."
-    },
-    {
       "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpmTnVsdlhWdUt0a0hnSUg1YUVoRWNhT2JSQ24yeHFvRWVPdG5SNzNsWkNLVS0zbng0UWZrMS1zaGtXRmNzRThMamRUNXJPUGRwX09vN2J0dXFSUW9ZSThFeGZ6bTg5bnFqVVktSk91RzBNMkN0MGFOX2FSSEFZMzZ4TXhMb1dsc1hpLUwtY1pmeERoMnE0M2llTEI0X1V2cGxRc1UtMnpYUmc?oc=5",
       "date": "2026-10-10 19:33",
       "summary": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports  Reuters..."
+    },
+    {
+      "title": "Anthropic discloses fake tip to police among new rogue AI incidents - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVGw2cnZoT1VLbWVDaU9hb2k3SHg0b2Z4OU5pWjlMaHd5MGJrVzk4OWtmOG5DZGpOdE5pV3duRFMxVTFvdG1HLTluTE1IcVpCNkVkS0xOMjBnNTNRUUxKZ0hqdmdtUGFxVFVPN1pELWhkVWlnd1VsYk9Vd3BfSTNjN21LVlYwVVNqZ3FzVWQwdw?oc=5",
+      "date": "2026-10-10 00:44",
+      "summary": "Anthropic discloses fake tip to police among new rogue AI incidents  Yahoo..."
+    },
+    {
+      "title": "China vows to curb tech bubbles, keep AI risks in check - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEx6M2UxdWNfSDhCcy1TblhhT2F6aGNGc09hZXdTU2F2LVZLSWdRN0hKQTdGblRBYVE2R2FFakxab0tEcnE2VmJFN0FMUVdfLUNXWFVtWmswemRfN2pjaHByZEtEZWtyUUcyU1pZdHBDdzhYYjdkcHNQSVRUcXRsN3Q4RGl3OWYxS2k2Q1hjdlRySGZDX2owamZRVjRxQ2NGeUdHT2FHaTZjSl9PQUJsTzZrcw?oc=5",
+      "date": "2026-10-09 13:00",
+      "summary": "China vows to curb tech bubbles, keep AI risks in check  Reuters..."
     },
     {
       "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - Reuters",
@@ -217,10 +217,10 @@
       "summary": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China  Reuters..."
     },
     {
-      "title": "China vows to curb tech bubbles, keep AI risks in check - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEx6M2UxdWNfSDhCcy1TblhhT2F6aGNGc09hZXdTU2F2LVZLSWdRN0hKQTdGblRBYVE2R2FFakxab0tEcnE2VmJFN0FMUVdfLUNXWFVtWmswemRfN2pjaHByZEtEZWtyUUcyU1pZdHBDdzhYYjdkcHNQSVRUcXRsN3Q4RGl3OWYxS2k2Q1hjdlRySGZDX2owamZRVjRxQ2NGeUdHT2FHaTZjSl9PQUJsTzZrcw?oc=5",
-      "date": "2026-10-09 13:00",
-      "summary": "China vows to curb tech bubbles, keep AI risks in check  Reuters..."
+      "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaDhjdzFXYTYzTzY4MENUQS1rcU5jejh0T25vN0tOZlVpMC1zY085QWppMzUwQXgwQjhhcFdjQm5iaGpnUUZrbENjWkppWm9FZV9keWpZNFgta0N2YWJsa1VIVXB5OGxiS0ZFQ0oxdTAxb3RTTEx3cm9heXNHb1FYWE85NkV6bWNVdHVidDdEM2F2dmJuNUpSZ3dhMXhpWnV6cGlHRllvM3JFZ1VrMUtrLUI3dGo5aXg5Z3VHUFVyOXY?oc=5",
+      "date": "2026-10-09 01:56",
+      "summary": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,34 +257,34 @@
   ],
   "Phys.org": [
     {
-      "title": "Zimbabwe's dinosaurs were different from South Africa's: New species offers clues",
-      "link": "https://phys.org/news/2026-10-zimbabwe-dinosaurs-south-africa-species.html",
-      "date": "2026-10-11 00:30",
-      "summary": "Africa boasts up to 25% of Earth's animal and plant species. This diversity is driven by varied habitats: harsh deserts, vast gras..."
+      "title": "Indonesia releases eight orangutans rescued from fires to protected forest",
+      "link": "https://phys.org/news/2026-10-indonesia-orangutans-forest.html",
+      "date": "2026-10-11 16:40",
+      "summary": "Eight orangutans rescued in recent weeks from blazes that tore through Borneo island have been released into a protected forest, I..."
     },
     {
-      "title": "Ultraviolet laser pulses engineer diamond defects selectively, leaving quantum qubits intact",
-      "link": "https://phys.org/news/2026-10-ultraviolet-laser-pulses-diamond-defects.html",
-      "date": "2026-10-10 21:20",
-      "summary": "When we think about a diamond, we often think about a material whose value comes from its perfection. In my research, however, I a..."
+      "title": "At least 4 dead as cyclone Isaias drenches southern U.S.",
+      "link": "https://phys.org/news/2026-10-dead-cyclone-isaias-drenches-southern.html",
+      "date": "2026-10-11 16:20",
+      "summary": "Four people died in the southeastern United States as post-tropical cyclone Isaias posed flooding and tornado risks Saturday as it..."
     },
     {
-      "title": "How to meal prep safely: A microbiologist's step‑by‑step guide",
-      "link": "https://phys.org/news/2026-10-meal-prep-safely-microbiologist-stepbystep.html",
-      "date": "2026-10-10 21:00",
-      "summary": "Meal prepping is a great way to save money, spend less time in the kitchen and stick to a meal plan. But while cooking meals for t..."
+      "title": "Jurassic fossil reveals ancient origins of how mammals drink milk",
+      "link": "https://phys.org/news/2026-10-jurassic-fossil-reveals-ancient-mammals.html",
+      "date": "2026-10-11 16:00",
+      "summary": "An international team of researchers has uncovered new evidence illuminating the evolutionary origins of one of the defining featu..."
     },
     {
-      "title": "Adult acne is real, but there are ways to treat it. Here's what to know",
-      "link": "https://phys.org/news/2026-10-adult-acne-real-ways.html",
-      "date": "2026-10-10 19:20",
-      "summary": "As a teenager, Gillian Maegan Montalbo's pimples weren't too bad—just a few bumps on her forehead and nose...."
+      "title": "Hurricane Simon strengthens as it nears western Mexico",
+      "link": "https://phys.org/news/2026-10-hurricane-simon-nears-western-mexico.html",
+      "date": "2026-10-11 16:00",
+      "summary": "Hurricane Simon strengthened into a powerful Category 4 storm and was expected to make landfall or skirt the coast of west-central..."
     },
     {
-      "title": "Nearly 300,000 at risk from Himalayan floods, as flood zone building accelerates",
-      "link": "https://phys.org/news/2026-10-himalayan-zone.html",
-      "date": "2026-10-10 18:00",
-      "summary": "Nearly 300,000 people may live in areas at risk of flooding in the Nepalese, Indian and Chinese areas of the Himalayas. The result..."
+      "title": "South Korea completes trial of Arctic shipping route",
+      "link": "https://phys.org/news/2026-10-south-korea-trial-arctic-shipping.html",
+      "date": "2026-10-11 15:40",
+      "summary": "A South Korean container ship returned on Sunday from a trial voyage through the Arctic, testing an alternative route opened by me..."
     }
   ],
   "The Guardian Edu": [
@@ -324,7 +324,7 @@
       "title": "Hong Kong hiker dies, Singaporean teen discharged after 2 trail emergencies",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3370498/hong-kong-hiker-dies-singaporean-teen-discharged-after-2-trail-emergencies?utm_source=rss_feed",
       "date": "2026-10-11 10:56",
-      "summary": "At least two people were airlifted to hospital in the past two days after falling ill while hiking in Hong Kong, with a 17-year-ol..."
+      "summary": "At least two people were airlifted to hospital in the past two days after falling ill while hiking in Hong Kong, with a middle-age..."
     },
     {
       "title": "From Abby Choi to the ‘Hello Kitty’ killing: Hong Kong’s most shocking crimes",
