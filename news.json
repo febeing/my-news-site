@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "How artificial neural networks build their own learning machinery",
+      "link": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
+      "date": "2026-10-13 21:00",
+      "summary": "Machine-learning networks can learn without detailed instructions from a designer. Those that do may offer insight into how the br..."
+    },
+    {
       "title": "Reprogrammed NK immune cells target cancer and autoimmune disorders",
       "link": "https://news.mit.edu/2026/reprogrammed-nk-immune-cells-target-cancer-and-autoimmune-disorders-1013",
       "date": "2026-10-13 09:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007",
       "date": "2026-10-07 04:00",
       "summary": "This new method, called “SANDO,” could help disaster-response robots navigate dangerous, unknown environments...."
-    },
-    {
-      "title": "Supercomputing researchers document evolution of AI hardware",
-      "link": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
-      "date": "2026-10-06 20:55",
-      "summary": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors...."
     }
   ],
   "Harvard Gazette": [
@@ -77,16 +77,16 @@
       "summary": "#2 Ranked Reina Liu Kicks Off Stanford’s Recruiting Class For Fall 2028  SwimSwam..."
     },
     {
-      "title": "‘Cornell 7’ Case Puts Spotlight on Stanford’s Move to Halt Sexual Violence Resistance Training - KQED",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQjI3TnJibkdJeDFVSjZRLUZMQXZlQzNtakFnNnlEYlFvR1ZMa1B3YkVLNzhKY0lGYUxYMXdnY0p5eFAzaFdTbTJEd3UtdmRqd3VoMmJFWmtMWUdRV0FJc2VER1BHbjgxVms5VHhwaFZhLUx6Q2UxTE1PUlpKbzNWU0pKUHpWU1oxeWgxbzhTSVhqY3JiYVNaN2FJZlRDREgtQ3hkQlY0ZExISTVmb1doaHFWZnU5Sm5jRkVTRV9GYmFFWE9J?oc=5",
-      "date": "2026-10-13 18:30",
-      "summary": "‘Cornell 7’ Case Puts Spotlight on Stanford’s Move to Halt Sexual Violence Resistance Training  KQED..."
-    },
-    {
       "title": "Stanford Scientists Discover We’ve Lost Ancient Gut Microbes That Traveled With Humans for Thousands of Years - SciTechDaily",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ0VTSHhOM3FuY21hckFKcjNDbHNZN1NLR2h6cWZrZkpyQ3FUZ1JQQUhCZGtQUXJfZzVjNVhEQl9FSlpad0t2d0w0U1YwRUNxcThTdEdzZkJicW9DMnJMSkNsVmpXSnJTOXBCWktpdFI2cUtkM1lVay02RF9SaTVpdF9vNmVXdVN2d2JOSDJ6b1pGbm9paGJKbE9MVmxtN3JINzlLUUdtVk5jNFUyUUtqbVNRd1g5dWJwVU9UcDAtZWpUcXNPNk1yMEVhaWtfdWM?oc=5",
       "date": "2026-10-12 18:47",
       "summary": "Stanford Scientists Discover We’ve Lost Ancient Gut Microbes That Traveled With Humans for Thousands of Years  SciTechDaily..."
+    },
+    {
+      "title": "‘Cornell 7’ Case Puts Spotlight on Stanford’s Move to Halt Sexual Violence Resistance Training - KQED",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQjI3TnJibkdJeDFVSjZRLUZMQXZlQzNtakFnNnlEYlFvR1ZMa1B3YkVLNzhKY0lGYUxYMXdnY0p5eFAzaFdTbTJEd3UtdmRqd3VoMmJFWmtMWUdRV0FJc2VER1BHbjgxVms5VHhwaFZhLUx6Q2UxTE1PUlpKbzNWU0pKUHpWU1oxeWgxbzhTSVhqY3JiYVNaN2FJZlRDREgtQ3hkQlY0ZExISTVmb1doaHFWZnU5Sm5jRkVTRV9GYmFFWE9J?oc=5",
+      "date": "2026-10-13 18:30",
+      "summary": "‘Cornell 7’ Case Puts Spotlight on Stanford’s Move to Halt Sexual Violence Resistance Training  KQED..."
     },
     {
       "title": "Stanford professor wins Nobel Prize for research on consumer behavior - Palo Alto Online",
@@ -103,31 +103,37 @@
       "summary": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03244-3Preserve research data for tomorrow’s AI-enabled integrit..."
     },
     {
+      "title": "Atomic-scale spin sensing of a 2D d-wave altermagnet <i>via</i> helical tunneling",
+      "link": "https://www.nature.com/articles/s41586-026-11257-1",
+      "date": "2026-10-13 00:00",
+      "summary": "Nature, Published online: 13 October 2026; doi:10.1038/s41586-026-11257-1Atomic-scale spin sensing of a 2D d-wave altermagnet via ..."
+    },
+    {
       "title": "Decentralized AI needs more evidence on energy use",
       "link": "https://www.nature.com/articles/d41586-026-03245-2",
       "date": "2026-10-13 00:00",
       "summary": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03245-2Decentralized AI needs more evidence on energy use..."
     },
     {
+      "title": "Selective, Catalytic Oxidation of Polyethylene Surfaces",
+      "link": "https://www.nature.com/articles/s41586-026-11255-3",
+      "date": "2026-10-13 00:00",
+      "summary": "Nature, Published online: 13 October 2026; doi:10.1038/s41586-026-11255-3Selective, Catalytic Oxidation of Polyethylene Surfaces..."
+    },
+    {
       "title": "When microbes degrade plastic, where does it go?",
       "link": "https://www.nature.com/articles/d41586-026-03246-1",
       "date": "2026-10-13 00:00",
       "summary": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03246-1When microbes degrade plastic, where does it go?..."
-    },
-    {
-      "title": "A mysterious jelly seems to be left behind by toads",
-      "link": "https://www.nature.com/articles/d41586-026-02974-8",
-      "date": "2026-10-13 00:00",
-      "summary": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-02974-8A scientist puzzles over the origins of a curious gelatin..."
-    },
-    {
-      "title": "Why not every global problem can be tackled by an IPCC-like organization",
-      "link": "https://www.nature.com/articles/d41586-026-03234-5",
-      "date": "2026-10-13 00:00",
-      "summary": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03234-5Why not every global problem can be tackled by an IPCC-li..."
     }
   ],
   "Science News": [
+    {
+      "title": "This year’s ‘super’ El Niño could wreak ecological havoc worldwide",
+      "link": "https://www.science.org/content/article/year-s-super-el-nino-could-wreak-ecological-havoc-worldwide",
+      "date": "2026-10-13 05:17",
+      "summary": "Ecologists are mobilizing to save threatened species and track ecosystems’ responses to record heat..."
+    },
     {
       "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
       "link": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/russian-ornithologist-sentenced-prison-anticorruption-donation",
       "date": "2026-10-13 01:25",
       "summary": "Sofya Rozenfeld, an expert on Arctic waterfowl, paid the equivalent of just $27 to a proscribed organization founded by former opp..."
-    },
-    {
-      "title": "For women academics, feeling devalued can be a fatal career blow",
-      "link": "https://www.science.org/content/article/women-academics-feeling-devalued-can-be-fatal-career-blow",
-      "date": "2026-10-13 08:30",
-      "summary": "Thousands shared their stories for a new study of faculty attrition..."
     }
   ],
   "Retraction Watch": [
@@ -193,16 +193,16 @@
   ],
   "Reuters AI": [
     {
-      "title": "AI models may soon self-replicate across smart-home devices, Anthropic warns - Reuters",
+      "title": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5",
       "date": "2026-10-13 05:14",
-      "summary": "AI models may soon self-replicate across smart-home devices, Anthropic warns  Reuters..."
+      "summary": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web  Reuters..."
     },
     {
-      "title": "Brutal session for chip stocks shows AI trade is turning - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5",
-      "date": "2026-10-13 18:04",
-      "summary": "Brutal session for chip stocks shows AI trade is turning  Reuters..."
+      "title": "EXCLUSIVE: Behind AI industry's call for independent reviews, a fight over what gets made public - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2dpbjFjZ0FCNnBvUWVXYXg2TU5JTFFrcU9oNGxLMFQtQk85VlpDQ0QwbDBDeDI3emlDZUxMOG5ESDRIeDVVUU8wcWExWTAyeVlqSktObWhscFdTbFYtWTB6Mk9iTEtUeDlfTzYwSTcyNEVwZzN4MnNVdWRHdmFpOF83ZXlmbklMS195WE5LZFhVWmc4c3lBUzBPcEpLYnFLTmNYcEpidGlnUW5RdTF0NXNDWmg2NWpBZFVJ?oc=5",
+      "date": "2026-10-13 15:03",
+      "summary": "EXCLUSIVE: Behind AI industry's call for independent reviews, a fight over what gets made public  Reuters..."
     },
     {
       "title": "Nvidia AI chip share in China falls as Huawei catches up- Reuters - Yahoo Finance",
@@ -217,10 +217,10 @@
       "summary": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million  Reuters..."
     },
     {
-      "title": "EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3V4aHFMSTR2WVhYZVU4NEN4WXZVYmo3WW1YWmZ1MTd1MGFjc3VyMTgwTjdiZGxPdXcyRllRakc5aWNaNVZkQzZIcVZCbjlLTG1hZUdIYk9SdHJiQkd1ejcxSkRubTZRZ25BbXRsa0xBendNSEdrZDgtTXI5end1anA4T0x4QzA3VUpWbXZCYmhUTG1pMWdpSVA1NWJkQ2lOckk2b3RnbDA1N0VJcEJwZVFrdXUzTUJ5REZvYld0d0JGdw?oc=5",
-      "date": "2026-10-13 05:02",
-      "summary": "EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say  Reuters..."
+      "title": "Scientists call for international body to oversee advanced AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnFfeURETmxJbjhUUjBib3BFZmRrQ2JyU09MZkIzVGJncnQ1bWMxME95c3p3a2d6c1pTZDJobkhXX1hPc204SElBUC1xQXE3S2JvMDV3RW5Lemxnb09TTkxuakpFeS1lUUk3aXZBWE5xQzFvdkV2cnVhM3hXeWhRSjg4SVg3SUdNc1VrbExfdzBaeUpzNWJuQlBxZFg1T2pNTHBkTVIxUkFmdkk?oc=5",
+      "date": "2026-10-13 15:14",
+      "summary": "Scientists call for international body to oversee advanced AI  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -257,37 +257,43 @@
   ],
   "Phys.org": [
     {
-      "title": "Humans and songbirds hear the same sounds, but organize them differently",
-      "link": "https://phys.org/news/2026-10-humans-songbirds-differently.html",
-      "date": "2026-10-13 20:50",
-      "summary": "Researchers from the University of Amsterdam and Leiden University have discovered that humans and songbirds use markedly differen..."
+      "title": "Ultrashort laser pulses offer a new way to probe electrons' quantum geometry",
+      "link": "https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html",
+      "date": "2026-10-13 23:40",
+      "summary": "Researchers at Friedrich Schiller University Jena and the University of Regensburg have developed a method for determining, using ..."
     },
     {
-      "title": "Sequence changes help modified mRNA avoid protein-making errors to improve vaccine design",
-      "link": "https://phys.org/news/2026-10-sequence-mrna-protein-errors-vaccine.html",
-      "date": "2026-10-13 20:40",
-      "summary": "When the coronavirus SARS-CoV-2 turned our world upside down, mRNA vaccines against COVID-19 brought a breakthrough. Their success..."
+      "title": "Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years",
+      "link": "https://phys.org/news/2026-10-scientists-d-rex-giant-fungus.html",
+      "date": "2026-10-13 23:20",
+      "summary": "Deep in the forests of Yunnan, China, scientists have discovered a \"fungal giant\" that challenges our understanding of how large f..."
     },
     {
-      "title": "Researchers uncover multiple genetic paths that lead to mottled feathers in chickens",
-      "link": "https://phys.org/news/2026-10-uncover-multiple-genetic-paths-mottled.html",
-      "date": "2026-10-13 20:40",
-      "summary": "The white-tipped feathers found in many chicken breeds may look like variations of the same decorative pattern, but new research s..."
+      "title": "Isle of Wight fossil Europe's first known long-clawed megaraptoran dinosaur",
+      "link": "https://phys.org/news/2026-10-isle-wight-fossil-europe-clawed.html",
+      "date": "2026-10-13 23:10",
+      "summary": "A new species of dinosaur—a long-clawed predator the size of a large tiger—has been discovered by a UCL-led team from a fossil fou..."
     },
     {
-      "title": "Quantum physicists trace a century of controlling spin",
-      "link": "https://phys.org/news/2026-10-quantum-physicists-century.html",
-      "date": "2026-10-13 20:30",
-      "summary": "A concept from the field of quantum mechanics, spin is a property of particles that has no direct counterpart in everyday experien..."
+      "title": "People with a 'good ear' for sounds make better language learners, study suggests",
+      "link": "https://phys.org/news/2026-10-people-good-ear-language-learners.html",
+      "date": "2026-10-13 23:10",
+      "summary": "People who are better at noticing fine details in sound—an ability known as auditory precision—can master the pronunciation of new..."
     },
     {
-      "title": "New electrochemical sensor could make food quality testing faster and less expensive",
-      "link": "https://phys.org/news/2026-10-electrochemical-sensor-food-quality-faster.html",
-      "date": "2026-10-13 20:20",
-      "summary": "Researchers at the Oregon State University College of Science have developed a new electrochemical sensor for rapidly and accurate..."
+      "title": "Optical skyrmions can control the motion of magnetic skyrmions",
+      "link": "https://phys.org/news/2026-10-optical-skyrmions-motion-magnetic.html",
+      "date": "2026-10-13 22:40",
+      "summary": "Magnetic skyrmions (MSks) are swirling patterns of magnetization that form inside certain magnetic materials. They can behave like..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "Stop making sense: focus on sounds to help learn a language, study suggests",
+      "link": "https://www.theguardian.com/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests",
+      "date": "2026-10-13 23:01",
+      "summary": "Research shows that the best linguists process unfamiliar foreign speech sounds more like non-speech soundsIf you want to get real..."
+    },
     {
       "title": "Bacon, eggs and Bowie: how year 12 English students tackled ‘human strength and vulnerability’ in HSC paper",
       "link": "https://www.theguardian.com/australia-news/2026/oct/13/hsc-first-exam-english-paper-2026",
@@ -311,12 +317,6 @@
       "link": "https://www.theguardian.com/world/2026/oct/12/monday-briefing-what-will-it-take-to-turn-around-our-struggling-education-system",
       "date": "2026-10-12 05:43",
       "summary": "In today’s newsletter: With attendance and engagement declining and growing pressure on pastoral care, helping young people redisc..."
-    },
-    {
-      "title": "Retrofit schools and consider moving exams to beat extreme heat, says teaching union leader",
-      "link": "https://www.theguardian.com/education/2026/oct/11/schools-exams-extreme-heat-neu-daniel-kebede",
-      "date": "2026-10-11 05:00",
-      "summary": "NEU’s Daniel Kebede says earlier start times and longer summer breaks may be needed to help pupils and teachersSchools should cons..."
     }
   ],
   "SCMP Hong Kong": [
