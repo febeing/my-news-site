@@ -51,30 +51,30 @@
       "summary": "Is cursive worth learning?  Harvard Gazette..."
     },
     {
+      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
+      "date": "2026-06-03 07:00",
+      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
+    },
+    {
       "title": "Should quitting smartphones be this hard? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3pTekZzb0o3akpWd1RSTm9Lc1hZZ3BhSldBN0lJOHc2YVE1aWdfUmhEVG5URVRQNnp0SkVkTHJ0LXV5R21xNnJEcnpjdzl6R3JNZ2kxc1pub2VwZXNBanV0OFoxaW90TkZkRUpRM3pJNU5sUXJFUXNaSkhMbzRGTzd2ODNTa0JZZS1XdkxTV2p2QQ?oc=5",
       "date": "2026-10-05 07:00",
       "summary": "Should quitting smartphones be this hard?  Harvard Gazette..."
-    },
-    {
-      "title": "Correcting the world map - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BaU9VaHhlZDV5c1l2bU9KZVFKcjlVX3FVb2NxWWhmc083OHVqdEpNMTR0N1FnbG01a0M5ZXRMRXpiazJxSkdZbTU4RU5qbE96NUlpaDVwNFRla21MM1REaFgyei1TWktGWUl3TlV2WmFpcXZJZnp4U29wa1g?oc=5",
-      "date": "2026-10-06 07:00",
-      "summary": "Correcting the world map  Harvard Gazette..."
     }
   ],
   "Stanford News": [
-    {
-      "title": "Distance Freestyler William Canori Hands Stanford Men Their First 2028 Verbal Commitment - SwimSwam",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmVXaVF2UmFDODF3NXJ1amVqRW42OGdWRkE4d3JtV0dzbkh3UDRfeVAtblhJR0ZiU2tBXzBHaXk4Vmliajc2QXp0TnFNOUdJaXZYWUtKVm05Z2gyZ1Q0d3FtUkc5d09qMDZsRGpSUC1MWGVobThBSE95c3BXWWpHeldSdndydVhvcC0ybFRmdENYcmdsQjJucjRLZ0xtUUZmd0t6Z1MwcHVPTzNIRG84?oc=5",
-      "date": "2026-10-14 15:40",
-      "summary": "Distance Freestyler William Canori Hands Stanford Men Their First 2028 Verbal Commitment  SwimSwam..."
-    },
     {
       "title": "9 California universities rank among top 100 in the world - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTF0Nk4xYmtUb1FjRG80ZEFSOVotU3JwQTdyQkdyUW5Ya3EtWVJHSGZBaWtLNGFGVDd3VkhVUnJhNHFBRFNXOEZXMVhaQUpkWDRraGJpdTNTNjRTSmNpSTV0LUVfSl9CNDM3OVBKaXpLSXZQT1doNmVnYmpjcnVab1hQSWl4VndKWGJKLWl6cW00ZWpPT1JtSw?oc=5",
       "date": "2026-10-14 14:27",
       "summary": "9 California universities rank among top 100 in the world  The Mercury News..."
+    },
+    {
+      "title": "Distance Freestyler William Canori Hands Stanford Men Their First 2028 Verbal Commitment - SwimSwam",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmVXaVF2UmFDODF3NXJ1amVqRW42OGdWRkE4d3JtV0dzbkh3UDRfeVAtblhJR0ZiU2tBXzBHaXk4Vmliajc2QXp0TnFNOUdJaXZYWUtKVm05Z2gyZ1Q0d3FtUkc5d09qMDZsRGpSUC1MWGVobThBSE95c3BXWWpHeldSdndydVhvcC0ybFRmdENYcmdsQjJucjRLZ0xtUUZmd0t6Z1MwcHVPTzNIRG84?oc=5",
+      "date": "2026-10-14 15:40",
+      "summary": "Distance Freestyler William Canori Hands Stanford Men Their First 2028 Verbal Commitment  SwimSwam..."
     },
     {
       "title": "Robert E. Hall wins Nobel Memorial Prize in Economic Sciences - Stanford Report",
@@ -115,23 +115,29 @@
       "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03202-zAssimilating the latest technology into health systems is..."
     },
     {
-      "title": "<b>The world is closer to a major conservation target than scientists thought</b>",
-      "link": "https://www.nature.com/articles/d41586-026-03307-5",
+      "title": "Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
+      "link": "https://www.nature.com/articles/s41586-026-11267-z",
       "date": "2026-10-14 00:00",
-      "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03307-5Analysis suggests number of protected areas is hugely und..."
+      "summary": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11267-zAuthor Correction: Wafer-scale epitaxy growth of high-mob..."
     },
     {
-      "title": "Becoming real",
-      "link": "https://www.nature.com/articles/d41586-026-03114-y",
+      "title": "Growing plane and ship traffic degrade the air of western North America",
+      "link": "https://www.nature.com/articles/d41586-026-03239-0",
       "date": "2026-10-14 00:00",
-      "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03114-yAn endless blessing...."
+      "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03239-0Pollution from transport across the Pacific Ocean is rais..."
     }
   ],
   "Science News": [
     {
+      "title": "NSF backs choice of new Antarctic contractor despite concerns by government watchdog and researchers",
+      "link": "https://www.science.org/content/article/nsf-backs-choice-new-antarctic-contractor-despite-concerns-government-watchdog-and",
+      "date": "2026-10-14 05:20",
+      "summary": "Agency says it has “resolved” questions about KBR winning an $8 billion contract..."
+    },
+    {
       "title": "Coral can heal rapidly from bleaching—if it touches a clone",
       "link": "https://www.science.org/content/article/coral-can-heal-rapidly-bleaching-if-it-touches-clone",
-      "date": "2026-10-14 02:00",
+      "date": "2026-10-14 12:00",
       "summary": "Algal transfusion allows damaged coral to repopulate in as little as 4 weeks..."
     },
     {
@@ -151,15 +157,21 @@
       "link": "https://www.science.org/content/article/year-s-super-el-nino-could-wreak-ecological-havoc-worldwide",
       "date": "2026-10-13 05:15",
       "summary": "Ecologists are mobilizing to save threatened species and track ecosystems’ responses to record heat..."
-    },
-    {
-      "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
-      "link": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
-      "date": "2026-10-13 04:00",
-      "summary": "Huge OpenAI release contains “exciting” progress on a puzzle about prime numbers..."
     }
   ],
   "Retraction Watch": [
+    {
+      "title": "Paper touted by MD Anderson gets expression of concern for data ‘concerns’",
+      "link": "https://retractionwatch.com/2026/10/14/science-translational-medicine-md-anderson-expression-of-concern-data-concerns-china/",
+      "date": "2026-10-14 19:09",
+      "summary": "Science Translational Medicine has issued an expression of concern over “a series” of data concerns in a paper lauded by MD Anders..."
+    },
+    {
+      "title": "Former Crick Ph.D. student loses COVID vaccine paper for fabrication",
+      "link": "https://retractionwatch.com/2026/10/14/former-crick-ph-d-student-loses-covid-vaccine-paper-for-fabrication/",
+      "date": "2026-10-14 18:00",
+      "summary": "Science Translational Medicine has retracted a paper on COVID-19 vaccines after an institutional investigation revealed a former P..."
+    },
     {
       "title": "Authors respond with ‘a bit like a threat’ after journal reveals postdoc’s identity",
       "link": "https://retractionwatch.com/2026/10/13/physics-of-fluids-aip-publishing-authors-respond-journal-postdoc-identity/",
@@ -177,18 +189,6 @@
       "link": "https://retractionwatch.com/2026/10/10/weekend-reads-openais-preprint-dump-taylor-francis-to-leave-informa-arxivs-preprint-cap/",
       "date": "2026-10-10 10:00",
       "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
-    },
-    {
-      "title": "‘Cerebral torment’: IOP retracts nearly 100 conference papers for tortured phrases",
-      "link": "https://retractionwatch.com/2026/10/09/iop-publishing-conference-proceedings-tortured-phrases/",
-      "date": "2026-10-09 16:06",
-      "summary": "IOP Publishing has retracted nearly 100 papers from three of its conference proceedings after the articles were flagged for contai..."
-    },
-    {
-      "title": "OpenAI withdraws three preprints a day after releasing 722 manuscripts on unsolved math problems",
-      "link": "https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/",
-      "date": "2026-10-08 22:20",
-      "summary": "Less than 24 hours after OpenAI posted over 700 preprints describing major math results by an internal AI model, the company has w..."
     }
   ],
   "Reuters AI": [
@@ -205,10 +205,10 @@
       "summary": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web  Reuters..."
     },
     {
-      "title": "AI-powered stock funds bet bots can pick stocks faster and better than humans - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOTdBaWF6NDB3OTRjdU92d3cycXFFWXBCWmFMMTNpX2Jfc0NEbHI2dFAyUXJTZG9RUUNOWklJYVlCTzR3S3lQbXRwSWdvVUVYMWVhdWVoUVMxZE41VGdaTmVNRGJrUWlMRENZY0tDTTB6M2NaZTZTMV92a1hxUGhHRDZfTmxlQ216WE5fcGJuWjhSNmdYTnJ0UmM2a0FqOTVwRi1FeUYyaENBNldkRi1TbkU4QVZ1U0NJV01vSEFSMTdMYmJa?oc=5",
-      "date": "2026-10-14 18:14",
-      "summary": "AI-powered stock funds bet bots can pick stocks faster and better than humans  Reuters..."
+      "title": "Nvidia AI chip share in China falls as Huawei catches up- Reuters - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZUZsb2dHV3NNb1BsZ1NRcWN3ZlNGVVh5YjNsR3QzS1RqSnZDcFViWEF2eTA0eVdEZkdZVVBnQ2d4SjRIcy1PSk5IQmc1WlhWam9TbnlGTW9hVDd2UTgyNXlZa0NfWUQzeG4tbW5tWUp0cU1TTWxCbk13MVVQSS1Ld3FaNFVscV81UnJrc1lleG9MUEZJ?oc=5",
+      "date": "2026-10-13 06:15",
+      "summary": "Nvidia AI chip share in China falls as Huawei catches up- Reuters  Yahoo Finance..."
     },
     {
       "title": "ASML's strong orders ease fears AI spending boom is running out of steam - Reuters",
@@ -257,42 +257,42 @@
   ],
   "Phys.org": [
     {
-      "title": "New framework links magnetic phase boundaries to string-like defects in spin ice",
-      "link": "https://phys.org/news/2026-10-framework-links-magnetic-phase-boundaries.html",
-      "date": "2026-10-14 20:20",
-      "summary": "A research team led by Haruki Watanabe, a professor in the Department of Physics and the Jockey Club Institute for Advanced Study ..."
+      "title": "One-third of food is lost or wasted: How to help farmers cut postharvest losses",
+      "link": "https://phys.org/news/2026-10-food-lost-farmers-postharvest-losses.html",
+      "date": "2026-10-14 23:40",
+      "summary": "Agriculture in the Global South remains under pressure to produce more food while responding to climate change and resource constr..."
     },
     {
-      "title": "Job loss and AI-exposed jobs: Q&A with sociology professor",
-      "link": "https://phys.org/news/2026-10-job-loss-ai-exposed-jobs.html",
-      "date": "2026-10-14 20:00",
-      "summary": "Jennie Brand, a UCLA professor of sociology with an appointment in statistics and data science, is an expert on the socioeconomic ..."
+      "title": "NASA develops batteries to power humanity's return to moon",
+      "link": "https://phys.org/news/2026-10-nasa-batteries-power-humanity-moon.html",
+      "date": "2026-10-14 23:40",
+      "summary": "If you've ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries ..."
     },
     {
-      "title": "Learning reshapes inhibitory synapses differently within the same nerve cell, study suggests",
-      "link": "https://phys.org/news/2026-10-reshapes-inhibitory-synapses-differently-nerve.html",
-      "date": "2026-10-14 20:00",
-      "summary": "Our brain must be able to learn new things without losing previously stored information or the stability of its networks. Research..."
+      "title": "Uganda's sugarcane boom leaves families hungry: What needs to change",
+      "link": "https://phys.org/news/2026-10-uganda-sugarcane-boom-families-hungry.html",
+      "date": "2026-10-14 23:20",
+      "summary": "Busoga, in eastern Uganda, is a low, fertile plateau surrounded on three sides by Lake Victoria, the Nile River and Lake Kyoga. Mo..."
     },
     {
-      "title": "Rare particle decays hint at deviations from Standard Model predictions",
-      "link": "https://phys.org/news/2026-10-rare-particle-decays-hint-deviations.html",
-      "date": "2026-10-14 19:50",
-      "summary": "Studying rare processes is part and parcel of particle physics, providing stringent tests of the Standard Model. At the recent Int..."
+      "title": "Fine particles from aircraft exhaust become more harmful over time, lab tests suggest",
+      "link": "https://phys.org/news/2026-10-fine-particles-aircraft-exhaust-lab.html",
+      "date": "2026-10-14 23:20",
+      "summary": "Fine particulate matter consists of tiny particles with diameters in the nanometer range. They are produced, for example, by fuel ..."
     },
     {
-      "title": "Sheep grazing in solar fields offers farmers economic, ecological gains",
-      "link": "https://phys.org/news/2026-10-sheep-grazing-solar-fields-farmers.html",
-      "date": "2026-10-14 19:40",
-      "summary": "Two new research papers shed light on the growing practice of grazing sheep in fields with solar arrays. One demonstrates that, in..."
+      "title": "New chip-scale gyroscope measures rotation with unprecedented sensitivity",
+      "link": "https://phys.org/news/2026-10-chip-scale-gyroscope-rotation-unprecedented.html",
+      "date": "2026-10-14 23:00",
+      "summary": "Researchers have developed a chip-scale optical ring-laser gyroscope that can measure rotation as slow as 37 degrees per hour. Thi..."
     }
   ],
   "The Guardian Edu": [
     {
       "title": "Student protests in Albania turn violent as demonstrators clash with police",
       "link": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
-      "date": "2026-10-14 17:21",
-      "summary": "Government building and two banks set on fire as tens of thousands take to streets over education costs and corruptionTens of thou..."
+      "date": "2026-10-14 23:19",
+      "summary": "Dozens of people detained after government building and two banks set on fire  as tens of thousands march over education costs and..."
     },
     {
       "title": "France’s class action: inside the 16 October Guardian Weekly",
