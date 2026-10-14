@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Researchers improve weather forecasts looking two to six weeks out",
+      "link": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "date": "2026-10-14 15:00",
+      "summary": "A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning...."
+    },
+    {
       "title": "How artificial neural networks build their own learning machinery",
       "link": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
       "date": "2026-10-13 21:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/turning-tide-massachusetts-shellfishing-data-1007",
       "date": "2026-10-07 19:55",
       "summary": "MIT researchers built a cloud-based platform to help Massachusetts coastal towns and the state manage shellfishing closures, givin..."
-    },
-    {
-      "title": "Planning system ensures a robot’s flight path will remain collision-free",
-      "link": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007",
-      "date": "2026-10-07 04:00",
-      "summary": "This new method, called “SANDO,” could help disaster-response robots navigate dangerous, unknown environments...."
     }
   ],
   "Harvard Gazette": [
@@ -51,19 +51,31 @@
       "summary": "Is cursive worth learning?  Harvard Gazette..."
     },
     {
-      "title": "Should quitting smartphones be this hard? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3pTekZzb0o3akpWd1RSTm9Lc1hZZ3BhSldBN0lJOHc2YVE1aWdfUmhEVG5URVRQNnp0SkVkTHJ0LXV5R21xNnJEcnpjdzl6R3JNZ2kxc1pub2VwZXNBanV0OFoxaW90TkZkRUpRM3pJNU5sUXJFUXNaSkhMbzRGTzd2ODNTa0JZZS1XdkxTV2p2QQ?oc=5",
-      "date": "2026-10-05 07:00",
-      "summary": "Should quitting smartphones be this hard?  Harvard Gazette..."
-    },
-    {
       "title": "20 societal problems, 20 solutions - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
       "date": "2026-06-03 07:00",
       "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
+    },
+    {
+      "title": "Should quitting smartphones be this hard? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3pTekZzb0o3akpWd1RSTm9Lc1hZZ3BhSldBN0lJOHc2YVE1aWdfUmhEVG5URVRQNnp0SkVkTHJ0LXV5R21xNnJEcnpjdzl6R3JNZ2kxc1pub2VwZXNBanV0OFoxaW90TkZkRUpRM3pJNU5sUXJFUXNaSkhMbzRGTzd2ODNTa0JZZS1XdkxTV2p2QQ?oc=5",
+      "date": "2026-10-05 07:00",
+      "summary": "Should quitting smartphones be this hard?  Harvard Gazette..."
     }
   ],
   "Stanford News": [
+    {
+      "title": "9 California universities rank among top 100 in the world - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTF0Nk4xYmtUb1FjRG80ZEFSOVotU3JwQTdyQkdyUW5Ya3EtWVJHSGZBaWtLNGFGVDd3VkhVUnJhNHFBRFNXOEZXMVhaQUpkWDRraGJpdTNTNjRTSmNpSTV0LUVfSl9CNDM3OVBKaXpLSXZQT1doNmVnYmpjcnVab1hQSWl4VndKWGJKLWl6cW00ZWpPT1JtSw?oc=5",
+      "date": "2026-10-14 14:27",
+      "summary": "9 California universities rank among top 100 in the world  The Mercury News..."
+    },
+    {
+      "title": "‘Cornell 7’ Case Puts Spotlight on Stanford’s Move to Halt Sexual Violence Resistance Training - KQED",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQjI3TnJibkdJeDFVSjZRLUZMQXZlQzNtakFnNnlEYlFvR1ZMa1B3YkVLNzhKY0lGYUxYMXdnY0p5eFAzaFdTbTJEd3UtdmRqd3VoMmJFWmtMWUdRV0FJc2VER1BHbjgxVms5VHhwaFZhLUx6Q2UxTE1PUlpKbzNWU0pKUHpWU1oxeWgxbzhTSVhqY3JiYVNaN2FJZlRDREgtQ3hkQlY0ZExISTVmb1doaHFWZnU5Sm5jRkVTRV9GYmFFWE9J?oc=5",
+      "date": "2026-10-13 18:30",
+      "summary": "‘Cornell 7’ Case Puts Spotlight on Stanford’s Move to Halt Sexual Violence Resistance Training  KQED..."
+    },
     {
       "title": "Robert E. Hall wins Nobel Memorial Prize in Economic Sciences - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmlPakFVV0pjRVBaUUVUeGxHZ1E4T0VXYjFfc0xQVzZtZWdIZ0xFbThVbHMxRTJMY0pUNGFvUXh6eW9pa2VZSGRJUUFXT2JnX3ZZTFdkanZFSm03QzJpQ2I3OWlFOTZhb09nVkpkNFZDZGp6eG5keDJlVFlUNTktVmpfN0hNWWpMRlRZZWhR?oc=5",
@@ -71,22 +83,10 @@
       "summary": "Robert E. Hall wins Nobel Memorial Prize in Economic Sciences  Stanford Report..."
     },
     {
-      "title": "#2 Ranked Reina Liu Kicks Off Stanford’s Recruiting Class For Fall 2028 - SwimSwam",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjNPZE9vRW9YMU9PbGlNZ2hwT3RWcHlHVDVJSS1TOTVaOWpINXdjR1Z1bTBUUERMOE1NOWh1ekZwOV9HYnEtaHRKajN6dUV3ZzF0V085YmlIOTJCdW52NzF4RWpBTE5mMVRTOTl2YW15aUg4U01FUnl0Mi05VEU1R18wYUxCQlh6OUlFcU9vdHEzTWEzVnc?oc=5",
-      "date": "2026-10-13 01:54",
-      "summary": "#2 Ranked Reina Liu Kicks Off Stanford’s Recruiting Class For Fall 2028  SwimSwam..."
-    },
-    {
       "title": "Stanford Scientists Discover We’ve Lost Ancient Gut Microbes That Traveled With Humans for Thousands of Years - SciTechDaily",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ0VTSHhOM3FuY21hckFKcjNDbHNZN1NLR2h6cWZrZkpyQ3FUZ1JQQUhCZGtQUXJfZzVjNVhEQl9FSlpad0t2d0w0U1YwRUNxcThTdEdzZkJicW9DMnJMSkNsVmpXSnJTOXBCWktpdFI2cUtkM1lVay02RF9SaTVpdF9vNmVXdVN2d2JOSDJ6b1pGbm9paGJKbE9MVmxtN3JINzlLUUdtVk5jNFUyUUtqbVNRd1g5dWJwVU9UcDAtZWpUcXNPNk1yMEVhaWtfdWM?oc=5",
       "date": "2026-10-12 18:47",
       "summary": "Stanford Scientists Discover We’ve Lost Ancient Gut Microbes That Traveled With Humans for Thousands of Years  SciTechDaily..."
-    },
-    {
-      "title": "Reunion Homecoming promises action-packed sports slate - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fMFpPM3ZRTlk4cDNtelJJdFFOT1BnOVhENWV3aHR0MHNfNjJRQnItekVmVENEbUx1RFcxV1ZLem5ia2xkYWhjdEdGTWRZYzMwNG9jRjBxQzhiX3R3NTVVTUFIQWxfM3p5N2xEeGlwdHkycHpVZ0pBbw?oc=5",
-      "date": "2026-10-14 04:20",
-      "summary": "Reunion Homecoming promises action-packed sports slate  The Stanford Daily..."
     },
     {
       "title": "Stanford professor wins Nobel Prize for research on consumer behavior - Palo Alto Online",
@@ -129,15 +129,21 @@
   ],
   "Science News": [
     {
-      "title": "Simons Observatory takes a closer look at the infant universe",
+      "title": "Can predictive tools tell us who really needs antidepressants?",
+      "link": "https://www.science.org/content/article/can-predictive-tools-tell-us-who-really-needs-antidepressants",
+      "date": "2026-10-14 10:35",
+      "summary": "Amid a U.S. push for “deprescribing,” researchers are finding new ways to match patients to their optimal treatment..."
+    },
+    {
+      "title": "World’s newest observatory will peer into the infant universe",
       "link": "https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe",
       "date": "2026-10-14 05:00",
-      "summary": "New facility in Chile will hunt for signs of cosmic inflation while using the microwave background to discover galaxy clusters..."
+      "summary": "The Simons Observatory in Chile will will hunt for galaxy clusters and signs of cosmic inflation..."
     },
     {
       "title": "This year’s ‘super’ El Niño could wreak ecological havoc worldwide",
       "link": "https://www.science.org/content/article/year-s-super-el-nino-could-wreak-ecological-havoc-worldwide",
-      "date": "2026-10-13 05:17",
+      "date": "2026-10-13 05:15",
       "summary": "Ecologists are mobilizing to save threatened species and track ecosystems’ responses to record heat..."
     },
     {
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/openai-just-changed-math-forever-exactly-how-no-one-yet-knows",
       "date": "2026-10-13 04:00",
       "summary": "Dump of 722 AI-generated papers has mathematicians wondering: Has their field been decimated or invigorated?..."
-    },
-    {
-      "title": "Trump takes credit for a new ‘golden age’ of U.S. science",
-      "link": "https://www.science.org/content/article/trump-takes-credit-new-golden-age-u-s-science",
-      "date": "2026-10-13 03:25",
-      "summary": "Industry heavyweights receive first national science medals awarded by the president..."
     }
   ],
   "Retraction Watch": [
@@ -205,25 +205,31 @@
       "summary": "EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say  Reuters..."
     },
     {
-      "title": "Kamala Harris Warns Window Closing for AI Safeguards, Urges US-China Cooperation - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1J4V0NvZXIxSDI2Q3p4SnJyR2xJajFYWGRvZzl3YjQ4SHZaMW9CdDRCUmtOcm5rdlJ2QjNoVkFqQm15enNGQ3A1ZkJvdGhJT0VCakVfYUN6V0lSdE43a1RrWW5MOW9LTE5tcUpjSEV1NUtwQ2dVY0RCS2tPYVY5VXhJaE03U0VMZ291SlJGRHdGeEZJYmctNnFzZkF2MDlqdWI5S2ZFSTVpR2pJdGIwMW5XZFVlMzZuMEZEOU5nUnhxTzZWdFMxY2tMUVlhQQ?oc=5",
-      "date": "2026-10-14 05:14",
-      "summary": "Kamala Harris Warns Window Closing for AI Safeguards, Urges US-China Cooperation  U.S. News & World Report..."
+      "title": "Russia cracks down on AI bears as real attacks spread fear - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOakk5ZW4xUkFUbW15N0p4aTV0cjM1UDB1R0J5ZlJ4RWhTZy1fZUFKbUdIYTVmbVpxZjZCVElocFk3TExHUDctSGMzQV9tWmUyZEV0Rm5QRFNOUkdqUzNuWTZFcnE2N0haN3E1aUd1dENaS2o3S1R6TjA0UXFXQXRtVG43RU1uUWZzcTM2ZGVjRG1XdXllWVdadXhSMG1yOFE?oc=5",
+      "date": "2026-10-14 15:04",
+      "summary": "Russia cracks down on AI bears as real attacks spread fear  Reuters..."
     },
     {
-      "title": "Scientists call for international body to oversee advanced AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnFfeURETmxJbjhUUjBib3BFZmRrQ2JyU09MZkIzVGJncnQ1bWMxME95c3p3a2d6c1pTZDJobkhXX1hPc204SElBUC1xQXE3S2JvMDV3RW5Lemxnb09TTkxuakpFeS1lUUk3aXZBWE5xQzFvdkV2cnVhM3hXeWhRSjg4SVg3SUdNc1VrbExfdzBaeUpzNWJuQlBxZFg1T2pNTHBkTVIxUkFmdkk?oc=5",
-      "date": "2026-10-13 15:14",
-      "summary": "Scientists call for international body to oversee advanced AI  Reuters..."
+      "title": "Nvidia AI chip share in China falls as Huawei catches up- Reuters - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZUZsb2dHV3NNb1BsZ1NRcWN3ZlNGVVh5YjNsR3QzS1RqSnZDcFViWEF2eTA0eVdEZkdZVVBnQ2d4SjRIcy1PSk5IQmc1WlhWam9TbnlGTW9hVDd2UTgyNXlZa0NfWUQzeG4tbW5tWUp0cU1TTWxCbk13MVVQSS1Ld3FaNFVscV81UnJrc1lleG9MUEZJ?oc=5",
+      "date": "2026-10-13 06:15",
+      "summary": "Nvidia AI chip share in China falls as Huawei catches up- Reuters  Yahoo Finance..."
     },
     {
-      "title": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVU5eVA2N0w4anA0WVJMUFFrUU1iMHg3TFVOZkVhRDR3S0ZudXVxVm9mRjFPZDFuUHBhSGUybXRtRmJEWi1uYi1kQlc0V3BWZS1aVlZlZXQxV1JGckgzY3l6U1piY3dkSHM2Ni1LVkFSM194Q3NRN1BmYnlsSWZGQmFyT2t2YVU1UXNsdWNnT2hYN2VsWlhnZHBUYWc1UE5ab2pkT2k5QnBGeUJncGdXVGNRbWxpcHY1Z0pwengxdDk?oc=5",
-      "date": "2026-10-13 04:22",
-      "summary": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million  Reuters..."
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA?oc=5",
+      "date": "2026-10-14 05:07",
+      "summary": "ASML's strong orders ease fears AI spending boom is running out of steam  Reuters..."
     }
   ],
   "MIT Tech Review": [
+    {
+      "title": "The US military’s race to make fake blood - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjBUcmg5ZUJfaEFmVXhoS09FQ2VZcGFPX05iLTdJbkpzaXRTcGotelBCYVNPR0I5Zk50U3o3YWNHVUpFUklzNlJRN1dndlE1YXhkOVpCWk42eEdXX043TFMtX3I3dkxYMGZodXlmX2RUcllmWGMyRGNCalRJUDNPMlNtTThxOGlwRVJkd0pxRDR4UdIBlwFBVV95cUxQRTNiNkd5dldFUkh4bUxWSUduVURmT04zSHZYVFJvczExTlplaDdJQnFZQWliWkx3Y2tCRGhnWUtHZTdUMkZkazF2MjFLd2lycmM1T3VmYXpITlNIdDN6YlFjeVJaSWhET3pVU0Q3Yms3ZkNFS2dIc3QzQm1zczFVNnE1SnIxMGg2dkxrb2NoUmNWeG5May1J?oc=5",
+      "date": "2026-10-14 09:00",
+      "summary": "The US military’s race to make fake blood  MIT Technology Review..."
+    },
     {
       "title": "AI labs are buying data from dead startups to train their models - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdzRDSDhXUEE4RlJmMXBIY3FSdWdFSlg1cTRVaGRqS2c0OU9mbW9RaE5aeVJOakZNR0QydE9NT0NRVHBWb3luZloyb2phWERZc19pT1I5S2RaR25CYVk4SDlNQV93N21DQzV4bTAtNlphd3dwU0ZWV0hmdkE1aVN1NzZ0WUtjWDFSa0lJZGE5aFY0RW1TemNFaWtXRHh6SmNYNHIwSWdFcGJfdHPSAbABQVVfeXFMT0gtbmdTTE5NZGVLaUZkMWVPRHRQT0VMT0VWSUZ3NGZ1bGlwcHJuNkJzTFlRSTlEVWIxa25oSmdwbVhLQ2JNLU93MzZSZDYwMkJma1BrUEs4Wkd5SHpuOHk1c3JYZWFoYVJEOGFKYkN4ZU4xWkF4U2ZNNk9YVEtWOEYzd0xPZG5SbGQ5RzNaODZDaFNCVkJRMVBiVU9ma0tRcjBGaHZNX2xrS0pLTmp2NEg?oc=5",
@@ -247,47 +253,47 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQanlIcG9oVDhkVFFGd3dSSUsxU2hhMzR2YXNWZjIxWU5NSU1nYlNFYUpNeTQ1VEVWbjA2XzhsbjdsWjdfQVh2ZlFpemRfdFQwNFZ5RHdYQm9TalE0eDZIcXFjOXVWcElqdDJmQW83bmVrdk1qQXBYdlVELXpneWhueENvcWozeENSWDF3ZFVhUHI3dVo30gGaAUFVX3lxTE8tdG5tRjRwbTNkQUVHVlZyOEJvX1NoUVlFa3NKSEtaMzRXMkZoc25lVS0zTFFhT05hZlBBYU9NeEd2VUFpYmxwWnN5OWJGRDBzd2QzcV9GVmdkQzRCaGFXV2FhQndnU01PSzVfRFpya1dTZDJvOGU3ZWpiYzJLUWZGMFUzZzNmajk5OGFpVzJHNTk5dDNaRjhKcVE?oc=5",
       "date": "2026-10-12 09:35",
       "summary": "Mars may be a hellhole, but the moon is not far behind  MIT Technology Review..."
-    },
-    {
-      "title": "The US military’s race to make fake blood - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjBUcmg5ZUJfaEFmVXhoS09FQ2VZcGFPX05iLTdJbkpzaXRTcGotelBCYVNPR0I5Zk50U3o3YWNHVUpFUklzNlJRN1dndlE1YXhkOVpCWk42eEdXX043TFMtX3I3dkxYMGZodXlmX2RUcllmWGMyRGNCalRJUDNPMlNtTThxOGlwRVJkd0pxRDR4UdIBlwFBVV95cUxQRTNiNkd5dldFUkh4bUxWSUduVURmT04zSHZYVFJvczExTlplaDdJQnFZQWliWkx3Y2tCRGhnWUtHZTdUMkZkazF2MjFLd2lycmM1T3VmYXpITlNIdDN6YlFjeVJaSWhET3pVU0Q3Yms3ZkNFS2dIc3QzQm1zczFVNnE1SnIxMGg2dkxrb2NoUmNWeG5May1J?oc=5",
-      "date": "2026-10-14 09:00",
-      "summary": "The US military’s race to make fake blood  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Study finds overlooked 'forever chemicals' widespread in New Jersey tap water and bottled beverages",
-      "link": "https://phys.org/news/2026-10-overlooked-chemicals-widespread-jersey-bottled.html",
-      "date": "2026-10-14 11:00",
-      "summary": "Researchers at New Jersey Institute of Technology (NJIT) have found that a largely overlooked class of \"forever chemicals\" is wide..."
+      "title": "Ocean discovery: Pacific bluefin tuna confirmed in Victorian waters",
+      "link": "https://phys.org/news/2026-10-ocean-discovery-pacific-bluefin-tuna.html",
+      "date": "2026-10-14 16:20",
+      "summary": "A discovery has led to the first confirmed records of recreational catches of Pacific bluefin tuna (Thunnus orientalis) in Victori..."
     },
     {
-      "title": "Quantum network test checks entanglement without having to trust detectors",
-      "link": "https://phys.org/news/2026-10-quantum-network-entanglement-detectors.html",
-      "date": "2026-10-14 11:00",
-      "summary": "Quantum networks are systems that connect different users or devices using principles of quantum mechanics. In the future, these n..."
+      "title": "From spin wave to superconducting circuit: A one-way street for quantum information",
+      "link": "https://phys.org/news/2026-10-superconducting-circuit-street-quantum.html",
+      "date": "2026-10-14 16:20",
+      "summary": "Quantum information systems could one day shape everyday life through faster computing, sharper sensing and more secure communicat..."
     },
     {
-      "title": "Global deforestation slowed in 2025 but surged in Congo basin: Study",
-      "link": "https://phys.org/news/2026-10-global-deforestation-surged-congo-basin.html",
-      "date": "2026-10-14 09:10",
-      "summary": "Deforestation slowed worldwide last year, but the improvement is unlikely to last as the situation deteriorates in Central Africa ..."
+      "title": "Storing memory on a chip with flowing water",
+      "link": "https://phys.org/news/2026-10-memory-chip.html",
+      "date": "2026-10-14 16:00",
+      "summary": "Like the folds in crumpled sheets or the footprints on recently trodden sand, certain materials mark their histories. Now, Yale re..."
     },
     {
-      "title": "Trailblazing technique uncovers real shape of scorching-hot exoplanet atmospheres",
-      "link": "https://phys.org/news/2026-10-trailblazing-technique-uncovers-real-hot.html",
-      "date": "2026-10-14 09:00",
-      "summary": "Until now, the alien white-hot worlds of exoplanets have been depicted as circular, but new research has revealed the true shape o..."
+      "title": "Workers who fear AI replacement show worse workplace behavior",
+      "link": "https://phys.org/news/2026-10-workers-ai-worse-workplace-behavior.html",
+      "date": "2026-10-14 16:00",
+      "summary": "Workers who fear artificial intelligence is threatening their occupation are more likely to slack off on the job, swipe a coworker..."
     },
     {
-      "title": "Ancient climate shifts may explain why today's flowering plants are so diverse",
-      "link": "https://phys.org/news/2026-10-ancient-climate-shifts-today-diverse.html",
-      "date": "2026-10-14 09:00",
-      "summary": "The two warmest time periods on Earth in the past 140 million years drove both mass extinctions and explosions in plant diversity,..."
+      "title": "Enzyme discovery opens a new route to natural UV-absorbing saclipins",
+      "link": "https://phys.org/news/2026-10-enzyme-discovery-route-natural-uv.html",
+      "date": "2026-10-14 15:40",
+      "summary": "Ultraviolet (UV)-absorbing compounds from natural sources are attracting interest as potential ingredients for cosmetics and other..."
     }
   ],
   "The Guardian Edu": [
+    {
+      "title": "‘Children are naturally drawn to beauty’: the head of the ‘Issey Miyake’ preschool on their pleated uniforms",
+      "link": "https://www.theguardian.com/fashion/2026/oct/14/issey-miyake-montessori-school-designer",
+      "date": "2026-10-14 11:00",
+      "summary": "Ms Lam Montessori’s head of school reveals teachers wear a different Japanese designer after their chic clothes drew online envy“D..."
+    },
     {
       "title": "Stop making sense: focus on sounds to help learn a language, study suggests",
       "link": "https://www.theguardian.com/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests",
@@ -311,15 +317,21 @@
       "link": "https://www.theguardian.com/film/2026/oct/12/deadline-review-shocking-threat-sends-tremors-through-authoritarian-school",
       "date": "2026-10-12 06:00",
       "summary": "Set in a dystopian private academy rife with surveillance and cut-throat competition, Kiwi Chow’s gripping drama cements his statu..."
-    },
-    {
-      "title": "Monday briefing: What will it take to turn around our struggling education system?",
-      "link": "https://www.theguardian.com/world/2026/oct/12/monday-briefing-what-will-it-take-to-turn-around-our-struggling-education-system",
-      "date": "2026-10-12 05:43",
-      "summary": "In today’s newsletter: With attendance and engagement declining and growing pressure on pastoral care, helping young people redisc..."
     }
   ],
   "SCMP Hong Kong": [
+    {
+      "title": "Hong Kong extends smart fire alarm scheme to another 6,000 old buildings",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3370912/hong-kong-extends-smart-fire-alarm-scheme-another-6000-old-buildings?utm_source=rss_feed",
+      "date": "2026-10-14 14:20",
+      "summary": "Hong Kong’s Fire Services Department has extended a scheme allowing property owners to install smart fire alarm systems rather tha..."
+    },
+    {
+      "title": "Exhibition of pioneering Hong Kong school for national talent in early 1940s opens",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3370894/exhibition-pioneering-hong-kong-school-national-talent-early-1940s-opens?utm_source=rss_feed",
+      "date": "2026-10-14 11:21",
+      "summary": "A new exhibition about a pioneering school that nurtured talent for the country has opened at a Hong Kong history museum as part o..."
+    },
     {
       "title": "Nearly 1 in 3 unattended dogs captured in Hong Kong euthanised this year",
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3370886/nearly-1-3-unattended-dogs-captured-hong-kong-euthanised-year?utm_source=rss_feed",
@@ -333,22 +345,10 @@
       "summary": "Three Hong Kong taxi drivers have been disqualified from driving cabs for three months after accumulating 15 demerit points or mor..."
     },
     {
-      "title": "Hong Kong police hunt suspect who stole gold necklace from Tai Po jewellery store",
+      "title": "Hong Kong police hunt suspect who stole HK$80,000 necklace from jewellery store",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370874/hong-kong-police-hunt-suspect-who-stole-gold-necklace-tai-po-jewellery-store?utm_source=rss_feed",
       "date": "2026-10-14 09:08",
-      "summary": "Hong Kong police are searching for a man who stole a gold necklace worth tens of thousands of dollars from a Chow Sang Sang jewell..."
-    },
-    {
-      "title": "Hong Kong urged to add online safety briefings, penalise no-shows at public gyms",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3370862/hong-kong-urged-add-online-safety-briefings-penalise-no-shows-public-gyms?utm_source=rss_feed",
-      "date": "2026-10-14 08:32",
-      "summary": "Hong Kong should make better use of its public gyms by allowing online safety briefings and penalising no-shows, an industry leade..."
-    },
-    {
-      "title": "In Hong Kong, accountability must be more than a slogan",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3370590/hong-kong-accountability-must-be-more-slogan?utm_source=rss_feed",
-      "date": "2026-10-14 08:30",
-      "summary": "When news broke last week that three newly completed housing blocks were to be demolished without ever having been occupied, I suf..."
+      "summary": "Hong Kong police are searching for a man who stole a gold necklace worth nearly HK$80,000 (US$10,193) from a Chow Sang Sang jewell..."
     }
   ]
 }
