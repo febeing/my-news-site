@@ -1,6 +1,24 @@
 {
   "MIT News": [
     {
+      "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
+      "link": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
+      "date": "2026-10-15 21:00",
+      "summary": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disrup..."
+    },
+    {
+      "title": "AI model decodes the language cells use to communicate",
+      "link": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+      "date": "2026-10-15 20:50",
+      "summary": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, ..."
+    },
+    {
+      "title": "Satellite data reveal how Antarctica’s ice cliffs behave over time",
+      "link": "https://news.mit.edu/2026/satellite-data-reveal-how-antarcticas-ice-cliffs-behave-over-time-1015",
+      "date": "2026-10-15 18:00",
+      "summary": "The cliffs don’t always collapse in the runaway process that scientists had expected...."
+    },
+    {
       "title": "Building trust in governments through digital platforms",
       "link": "https://news.mit.edu/2026/building-trust-governments-through-digital-platforms-1015",
       "date": "2026-10-15 13:45",
@@ -11,24 +29,6 @@
       "link": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
       "date": "2026-10-15 04:00",
       "summary": "In a new book, Professor Eric So explores how the technology affects our thinking skills...."
-    },
-    {
-      "title": "Researchers improve weather forecasts looking two to six weeks out",
-      "link": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "date": "2026-10-14 15:00",
-      "summary": "A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning...."
-    },
-    {
-      "title": "How artificial neural networks build their own learning machinery",
-      "link": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
-      "date": "2026-10-13 21:00",
-      "summary": "Machine-learning networks can learn without detailed instructions from a designer. Those that do may offer insight into how the br..."
-    },
-    {
-      "title": "Reprogrammed NK immune cells target cancer and autoimmune disorders",
-      "link": "https://news.mit.edu/2026/reprogrammed-nk-immune-cells-target-cancer-and-autoimmune-disorders-1013",
-      "date": "2026-10-13 09:00",
-      "summary": "A new approach can program these cells inside the body and shows promise against diseases caused by dysfunctional T cells, includi..."
     }
   ],
   "Harvard Gazette": [
@@ -89,13 +89,31 @@
       "summary": "‘Cornell 7’ Case Puts Spotlight on Stanford’s Move to Halt Sexual Violence Resistance Training  KQED..."
     },
     {
-      "title": "Stanford economist Robert Hall wins Nobel Memorial Prize - The Stanford Daily",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTTFwRWllcTFlcEdSaDAzMEZ1NUc3OE5CdE9KUmhQZW9tdnk2QmhJNEo0dHk5bHlpbUZCMzNKaUpwY1U4aE56eEN4QVV3QkthTTlMTG01UlFuc3hYdU9keTJNTldjcDNwWWdzRzZGQjgzOTAzVEVLaGxDeDhlSlVyUXlDcXFyaS1HVDdNU0dR?oc=5",
-      "date": "2026-10-13 09:01",
-      "summary": "Stanford economist Robert Hall wins Nobel Memorial Prize  The Stanford Daily..."
+      "title": "Stanford AI Safety Summit Highlights Risks Of AI Agents And New Safeguards - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcVlWUC1uWl9oREZreVgxLVZ6eXpab2NtdVFIS2NWckpZcEVUc3EybDk2cmlveTFhejE5c001R1FCSXo5UzJycG5BdDRLalhiZ0ZieE15ODRXLXB3WEtqdllwSTFMVWVRNzdScnIyN2lyTDVFb0ZsM1VTTmZQX1ZaS3BjY2JreHdQQUlnQ1NMNDV0QWxjNTdzWFJFVWl4aEo0WC1lUl9uM29fUGl6VFE?oc=5",
+      "date": "2026-10-15 20:05",
+      "summary": "Stanford AI Safety Summit Highlights Risks Of AI Agents And New Safeguards  Forbes..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "World’s timekeepers upend how they adjust time to avoid catastrophic ‘negative second’",
+      "link": "https://www.nature.com/articles/d41586-026-03329-z",
+      "date": "2026-10-15 00:00",
+      "summary": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03329-zGovernments have voted to abolish the leap second immedia..."
+    },
+    {
+      "title": "Orangutan mothers arrange play dates for their babies",
+      "link": "https://www.nature.com/articles/d41586-026-03238-1",
+      "date": "2026-10-15 00:00",
+      "summary": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03238-1Solitary primates spend energy and time travelling to pat..."
+    },
+    {
+      "title": "Nearly half of reef-building corals face elevated relative risk of extinction",
+      "link": "https://www.nature.com/articles/s41586-026-11263-3",
+      "date": "2026-10-15 00:00",
+      "summary": "Nature, Published online: 15 October 2026; doi:10.1038/s41586-026-11263-3Nearly half of reef-building corals face elevated relativ..."
+    },
     {
       "title": "Give me the good news: four science stories to brighten your day",
       "link": "https://www.nature.com/articles/d41586-026-03152-6",
@@ -103,31 +121,19 @@
       "summary": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03152-6Drugs that can reverse multiple sclerosis in mice and a n..."
     },
     {
-      "title": "ArXiv versus AI slop: will capping preprint submissions work?",
-      "link": "https://www.nature.com/articles/d41586-026-03194-w",
+      "title": "Margaret Hamilton obituary: computer scientist who pioneered software engineering and helped us get to the Moon",
+      "link": "https://www.nature.com/articles/d41586-026-03233-6",
       "date": "2026-10-15 00:00",
-      "summary": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03194-wMajor preprint platform tightens its rules to curb a surg..."
-    },
-    {
-      "title": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
-      "link": "https://www.nature.com/articles/s41586-026-11242-8",
-      "date": "2026-10-14 00:00",
-      "summary": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11242-8Catalytic transfer of carbon atoms enables spirofusion of..."
-    },
-    {
-      "title": "This is why butterflies are so hard to catch",
-      "link": "https://www.nature.com/articles/d41586-026-03301-x",
-      "date": "2026-10-14 00:00",
-      "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03301-xHigh-speed camera footage reveals the visual tricks butte..."
-    },
-    {
-      "title": "Biomedical engineering is growing rapidly, but will it help patients?",
-      "link": "https://www.nature.com/articles/d41586-026-03202-z",
-      "date": "2026-10-14 00:00",
-      "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03202-zAssimilating the latest technology into health systems is..."
+      "summary": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03233-6Programmer whose forward-thinking and reliable code helpe..."
     }
   ],
   "Science News": [
+    {
+      "title": "Bonanza of new dates rewrites the history of the Inca",
+      "link": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
+      "date": "2026-10-15 02:00",
+      "summary": "The South American empire lasted longer, and met more resistance, than scholars thought..."
+    },
     {
       "title": "NSF backs choice of new Antarctic contractor despite concerns by government watchdog and researchers",
       "link": "https://www.science.org/content/article/nsf-backs-choice-new-antarctic-contractor-despite-concerns-government-watchdog-and",
@@ -141,7 +147,7 @@
       "summary": "Algal transfusion allows damaged coral to repopulate in as little as 4 weeks..."
     },
     {
-      "title": "Can predictive tools tell us who really needs antidepressants?",
+      "title": "Can predictive tools tell us who will really benefit from antidepressants?",
       "link": "https://www.science.org/content/article/can-predictive-tools-tell-us-who-really-needs-antidepressants",
       "date": "2026-10-14 10:35",
       "summary": "Amid a U.S. push for “deprescribing,” researchers are finding new ways to match patients to their optimal treatment..."
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe",
       "date": "2026-10-14 05:00",
       "summary": "The Simons Observatory in Chile will will hunt for galaxy clusters and signs of cosmic inflation..."
-    },
-    {
-      "title": "This year’s ‘super’ El Niño could wreak ecological havoc worldwide",
-      "link": "https://www.science.org/content/article/year-s-super-el-nino-could-wreak-ecological-havoc-worldwide",
-      "date": "2026-10-13 05:15",
-      "summary": "Ecologists are mobilizing to save threatened species and track ecosystems’ responses to record heat..."
     }
   ],
   "Retraction Watch": [
@@ -211,16 +211,16 @@
       "summary": "Nvidia AI chip share in China falls as Huawei catches up- Reuters  Yahoo Finance..."
     },
     {
-      "title": "US Treasury pushes global partners to rename AI as 'super intelligence' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDhRZ0FsM05ZWGFISWtLaXVIam1VcVlxWUY0YlF6NUR1SF9FSnFKQnJwMU5pa2hZUG1ZalVtb1RmY19adW5LSnZhQ1pmNzhtX2tTeE9Lal9LX29iRkZsbHVlcWlLWEw2NW9iaGlrS19odFpadHRSak5VYXFfTWRaaUpjUVp0SEVlb0ZvdTBZLThVcVB0V0JSdEZyZnBrQk05dzgzWUR4Yi0?oc=5",
-      "date": "2026-10-15 15:48",
-      "summary": "US Treasury pushes global partners to rename AI as 'super intelligence'  Reuters..."
+      "title": "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVBjUDY1NEtsWk4xYnphdUJQSjdScU5TNHdPUk9iN3FibFNId2xOWDA4c1RHY2FodFJYdVl1ZzIybjBLc21FZXJxOXRmbjNsbFk4SDNIYzhDeWw4dEt6RkJhN3NJeHJqYVlVTlc5YnVZOHRyeWJIalRfaE5ER2tKRnRieXN4MVN2WkxFSmFvSFVBbUF6b0FHV0FoVTA5emZtRThLUlQ5VXQ4TndPU3FPRFpKMjg?oc=5",
+      "date": "2026-10-15 21:02",
+      "summary": "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence  Reuters..."
     },
     {
-      "title": "CoreWeave's slump spotlights growing burden of debt behind AI boom - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxhLTlLMHVuWl93dlRGWngzUjBqY0wxaU85Q2lPNGxaMzg0ZjJhT0ZGd210N1N5SDVpV1lLNl9GOXlNazFrN193TFNFREg1dU5OTkpadm9LVHRxU0ZzQWVWbFV1MnNHY2RGZHVsajI5UWRlWDE5NmtGaDctV0o5ME85dkV3RU5LSEFWdTlNUW5RWXZ5S1BXelNMZkI5ZEZfR05kd1UwNnBZQlQ0MHkyQVN3?oc=5",
-      "date": "2026-10-15 16:08",
-      "summary": "CoreWeave's slump spotlights growing burden of debt behind AI boom  Reuters..."
+      "title": "CERN and Mistral partner to build Flare, a new AI model for physics - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejlwRzRlN1BnaFhFZ1VYb0ZKSVFmN1NRcFppbWFLdXV3ZzEtdUFpc0RRcFNtTmRVeGhjX0pLVmV1bElvQmpFeVlsYkcwX0h2WDFQaksyZ2JYSng5c3MwbVJ2V20zN0hQYU1vNXc3bWZlWjlSX1ZwTHE2NnRmNzRjX3VodU5ZemRfU2NqaXdPWGVyNzJXWTYyU0I5dFFLSmZq?oc=5",
+      "date": "2026-10-15 13:02",
+      "summary": "CERN and Mistral partner to build Flare, a new AI model for physics  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -231,60 +231,60 @@
       "summary": "How much more can nuclear power plants give?  MIT Technology Review..."
     },
     {
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUEQxeVJ1dW90S1MtdjIzb0JjdUt5eVdfQUN5cEFLbHZCaUp2Q2pDdnFCNUN2X08tWXoxdnNINGFnUUZYMjRNM3JQMlZpQ1dwZ2hWNVF3QXo1VS1NdE1BSm9ObXFFVzJPczNJdTJVWXlieUV0ZWx3VTRyWjR4dnVvbjg0WkdKZnkwSWQycm9FS0NJRHViUXA2M3JEdVdzX2JpXzY4X0dvYWxDWHdzUTB4TVFJZlV4LVnSAbwBQVVfeXFMT2ZlNzIyMUphdmp1VHhfTGVkV0xnTVBqdElVM1JLNmVNNk1kZVRkTkxXX3lkQmRlS2ZxME1LSC1hUmpfYkFoSzF0eUdvUmYtWV8wVUhJZnNaUS1DSjBrMjFfZTRfR3NmalppOVQteXFQTlNKdHdlQUQ3VzVfM181UjdDUDdyQmJJTVdQbzdHVkRNVUNrRXlTSENheWNWWkZwZjRfbnRvSXhSeXFraUNCZzRweGU1VU91WFNlcno?oc=5",
-      "date": "2026-10-15 12:10",
-      "summary": "The Download: reviving frozen pig kidneys and boosting nuclear power  MIT Technology Review..."
-    },
-    {
       "title": "Pig kidneys that were “frozen” for a year have been brought back to life - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU25qQmJSR0k1ZlVNOHlJcWs1N0dIanZ4bVJvSGNRSmZuSHh3djRVNDhrSllXQ3hZQ2t3M2RMZDJRUDNkaGQxd1gzV0FKZFVoSi1tall1bEx0bjFxc25fV2oybVg4Ulc4bGlpMzBSOHVDUkhZMGptOXhSZ1JkZEVTRERBbXQwZzZ3bFQxMFZ0M1VpZGNZclhlSnliMXJONElnWm8ySDVKcXZ1MC0yRE1xcVpmWlU2blZ6QXM4eVFySjDSAcYBQVVfeXFMT1h5NS0tRXZERWxnckRpYTZQeWEzQjg0ZEFDczc1V3o2X3BDdTVDeW5sUWYyNHoydUdWRElLUUpFZWNOODNkb2tjU3JZRHhrUjR6VWNrbmx2SGE5OGpDU29hUUtSeWFBMzBoc09GYlBhS050SGJmNmRCcFlCZGRhMFFKTFZpS1VObjBUU0lvQXQ2cUFHZDFZWkc5SzFDUzI4c2p1Tm1nY0tQOWs1LXVFVDNsSV9aNll1MkpjenppQWU5Qm5CUlpR?oc=5",
       "date": "2026-10-15 08:43",
       "summary": "Pig kidneys that were “frozen” for a year have been brought back to life  MIT Technology Review..."
     },
     {
-      "title": "Open models have real benefits. Do they outweigh the risks? - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSENXLVdXRXlqU0NvS0k4R0JucGNkODhzVUVScG1ncGs5SzhxWkZSc3plald3SWlENzFfQ2I4YzViMGVnYWZSOEpVTXZaVlh4OGg0Zk50SHZyOGstZmdRcktYU0ZLTFR4YnNhRG5XTTM4Mzl1UERRQzQ0QXljM1h4U0ZjODlzY1FYdzhLUVhpcERGa05qdlE5Z0dLMUFrNUNhMGRjMjR6S1c4b200UHgw0gG0AUFVX3lxTE9uX2xWRWN1dVNyc1B6b09fS2hWbFJtQzFMUXZkeTJGc1QzWUJmRExJMWRoWjdObnZLdlZmS2x6cVdjYkkydUxtdGs0dE45Q0xPOUlnWmFVbDN3aHFZbV9ZSEJWVXBjQ1pobkJhU3NvNURqSl9wQkZ2NXNKcGIzT2dZMzRZNDBMaHpWLTVQWmdBMW43TzNXeHhoUG00MUgtSTdnbVB5SVBFU3JwRV82cXZKdFlfNw?oc=5",
-      "date": "2026-10-13 10:00",
-      "summary": "Open models have real benefits. Do they outweigh the risks?  MIT Technology Review..."
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUEQxeVJ1dW90S1MtdjIzb0JjdUt5eVdfQUN5cEFLbHZCaUp2Q2pDdnFCNUN2X08tWXoxdnNINGFnUUZYMjRNM3JQMlZpQ1dwZ2hWNVF3QXo1VS1NdE1BSm9ObXFFVzJPczNJdTJVWXlieUV0ZWx3VTRyWjR4dnVvbjg0WkdKZnkwSWQycm9FS0NJRHViUXA2M3JEdVdzX2JpXzY4X0dvYWxDWHdzUTB4TVFJZlV4LVnSAbwBQVVfeXFMT2ZlNzIyMUphdmp1VHhfTGVkV0xnTVBqdElVM1JLNmVNNk1kZVRkTkxXX3lkQmRlS2ZxME1LSC1hUmpfYkFoSzF0eUdvUmYtWV8wVUhJZnNaUS1DSjBrMjFfZTRfR3NmalppOVQteXFQTlNKdHdlQUQ3VzVfM181UjdDUDdyQmJJTVdQbzdHVkRNVUNrRXlTSENheWNWWkZwZjRfbnRvSXhSeXFraUNCZzRweGU1VU91WFNlcno?oc=5",
+      "date": "2026-10-15 12:10",
+      "summary": "The Download: reviving frozen pig kidneys and boosting nuclear power  MIT Technology Review..."
     },
     {
       "title": "AI labs are buying data from dead startups to train their models - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdzRDSDhXUEE4RlJmMXBIY3FSdWdFSlg1cTRVaGRqS2c0OU9mbW9RaE5aeVJOakZNR0QydE9NT0NRVHBWb3luZloyb2phWERZc19pT1I5S2RaR25CYVk4SDlNQV93N21DQzV4bTAtNlphd3dwU0ZWV0hmdkE1aVN1NzZ0WUtjWDFSa0lJZGE5aFY0RW1TemNFaWtXRHh6SmNYNHIwSWdFcGJfdHPSAbABQVVfeXFMT0gtbmdTTE5NZGVLaUZkMWVPRHRQT0VMT0VWSUZ3NGZ1bGlwcHJuNkJzTFlRSTlEVWIxa25oSmdwbVhLQ2JNLU93MzZSZDYwMkJma1BrUEs4Wkd5SHpuOHk1c3JYZWFoYVJEOGFKYkN4ZU4xWkF4U2ZNNk9YVEtWOEYzd0xPZG5SbGQ5RzNaODZDaFNCVkJRMVBiVU9ma0tRcjBGaHZNX2xrS0pLTmp2NEg?oc=5",
       "date": "2026-10-13 09:00",
       "summary": "AI labs are buying data from dead startups to train their models  MIT Technology Review..."
+    },
+    {
+      "title": "Open models have real benefits. Do they outweigh the risks? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSENXLVdXRXlqU0NvS0k4R0JucGNkODhzVUVScG1ncGs5SzhxWkZSc3plald3SWlENzFfQ2I4YzViMGVnYWZSOEpVTXZaVlh4OGg0Zk50SHZyOGstZmdRcktYU0ZLTFR4YnNhRG5XTTM4Mzl1UERRQzQ0QXljM1h4U0ZjODlzY1FYdzhLUVhpcERGa05qdlE5Z0dLMUFrNUNhMGRjMjR6S1c4b200UHgw0gG0AUFVX3lxTE9uX2xWRWN1dVNyc1B6b09fS2hWbFJtQzFMUXZkeTJGc1QzWUJmRExJMWRoWjdObnZLdlZmS2x6cVdjYkkydUxtdGs0dE45Q0xPOUlnWmFVbDN3aHFZbV9ZSEJWVXBjQ1pobkJhU3NvNURqSl9wQkZ2NXNKcGIzT2dZMzRZNDBMaHpWLTVQWmdBMW43TzNXeHhoUG00MUgtSTdnbVB5SVBFU3JwRV82cXZKdFlfNw?oc=5",
+      "date": "2026-10-13 10:00",
+      "summary": "Open models have real benefits. Do they outweigh the risks?  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Global ice-cliff survey tests disputed theory behind projections of accelerated sea level rise",
-      "link": "https://phys.org/news/2026-10-global-ice-cliff-survey-disputed.html",
-      "date": "2026-10-15 18:00",
-      "summary": "A new study led by the Woods Hole Oceanographic Institution (WHOI) provides the most comprehensive observational analysis yet of t..."
+      "title": "Measuring deep-ocean oxygen with microscopic magnetic fossils",
+      "link": "https://phys.org/news/2026-10-deep-ocean-oxygen-microscopic-magnetic.html",
+      "date": "2026-10-15 21:40",
+      "summary": "Humanity's ongoing disruption of atmospheric carbon dioxide (CO₂) concentrations, temperatures, and global nutrient cycles is star..."
     },
     {
-      "title": "I discovered a Roman fort in Wales—it may hold the key to the ancient Welsh legend of Macsen Wledig",
-      "link": "https://phys.org/news/2026-10-roman-fort-wales-key-ancient.html",
-      "date": "2026-10-15 18:00",
-      "summary": "My recent discovery of a Roman fort and its extraordinary connection with medieval folklore was the fruition of many hours of pain..."
+      "title": "Retail research shifted in five ways, study finds",
+      "link": "https://phys.org/news/2026-10-retail-shifted-ways.html",
+      "date": "2026-10-15 21:40",
+      "summary": "Retail research has changed during the last couple of decades, according to an analysis of almost 5,200 papers covering business p..."
     },
     {
-      "title": "Wild birds rewrite rules of flight efficiency: Study reveals power of 'free fuel' from the sky",
-      "link": "https://phys.org/news/2026-10-wild-birds-rewrite-flight-efficiency.html",
-      "date": "2026-10-15 18:00",
-      "summary": "An international study has overturned a longstanding textbook view of how much energy animals use to travel, revealing that flying..."
+      "title": "Baby lobster decline foreshadows major midcoast population losses, study shows",
+      "link": "https://phys.org/news/2026-10-baby-lobster-decline-foreshadows-major.html",
+      "date": "2026-10-15 21:20",
+      "summary": "A steep drop in baby lobsters provided an early warning of the sharp decline in adult lobsters along Maine's midcoast, a new Unive..."
     },
     {
-      "title": "We're surprisingly close to conserving 30% of the world's land",
-      "link": "https://phys.org/news/2026-10-world.html",
-      "date": "2026-10-15 17:40",
-      "summary": "In an effort to conserve the world's plants and animals, governments have pledged to conserve 30% of the planet by 2030. Official ..."
+      "title": "Silicon qubits surpass 99.99% gate fidelity while operating three at once",
+      "link": "https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html",
+      "date": "2026-10-15 21:20",
+      "summary": "Silicon spin qubits are a promising platform for building scalable quantum computers as they are compatible with the semiconductor..."
     },
     {
-      "title": "Americans who go to church and trust science are also more likely to believe in ghosts and curses, research shows",
-      "link": "https://phys.org/news/2026-10-americans-church-science-ghosts-curses.html",
-      "date": "2026-10-15 17:40",
-      "summary": "Americans who trust science and reason more than their churches' teachings, but still believe in God or attend services, are also ..."
+      "title": "Building trust in governments through digital platforms",
+      "link": "https://phys.org/news/2026-10-digital-platforms.html",
+      "date": "2026-10-15 21:00",
+      "summary": "Around the world, many people report distrusting their government. In some places, such as Latin America, North America and Africa..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Beyond baby bonuses: Hong Kong needs to attract couples with liveability",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3370723/beyond-baby-bonuses-hong-kong-needs-attract-couples-liveability?utm_source=rss_feed",
+      "date": "2026-10-15 21:30",
+      "summary": "Hong Kong’s efforts to boost the number of newborns in the city should be considered in the context of talent retention relating t..."
+    },
+    {
       "title": "Firm accused of cost-cutting, false declarations over fire-safety parts in 48 lifts",
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371062/firm-accused-cost-cutting-false-declarations-over-fire-safety-parts-48-lifts?utm_source=rss_feed",
       "date": "2026-10-15 17:17",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371037/6-arrested-over-hk14m-agarwood-and-crypto-investment-scam-ran-9-years?utm_source=rss_feed",
       "date": "2026-10-15 11:13",
       "summary": "Hong Kong police have arrested six people allegedly tied to a nine-year scam run by a suspected cross-border criminal syndicate of..."
-    },
-    {
-      "title": "Hong Kong teenager pleads guilty to acid attack on Singaporean tourist",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371038/hong-kong-teenager-pleads-guilty-acid-attack-singaporean-tourist?utm_source=rss_feed",
-      "date": "2026-10-15 11:10",
-      "summary": "A 19-year-old teenager has admitted splashing corrosive liquid on a Singaporean tourist in Hong Kong last year, leaving her with s..."
     }
   ]
 }
