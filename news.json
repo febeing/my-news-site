@@ -39,12 +39,6 @@
       "summary": "Harvard launches $150 million research initiative  Harvard Gazette..."
     },
     {
-      "title": "Who knew self-improvement could be so terrifying? - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2hFTFhvemdNU1ZiSDZSMER6ei15TW1FTEpKUFV5dkNCR1c2X0x4cGJzdEVCcVNBRTRaUVU0RDJvbTFzZC1PR1h5dUpQQ1J4UFhxeFlUYjZMeTBEYXA5cF9XZmRtU3ZOY2ZUeTRhRWYzb1VDaVI2TVphNS0xZ1I1MThLVDRuVEwybFpuNElzeGNvUDJUcjFHLTVibVQ?oc=5",
-      "date": "2026-10-05 20:54",
-      "summary": "Who knew self-improvement could be so terrifying?  Harvard Gazette..."
-    },
-    {
       "title": "Is cursive worth learning? - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kbjNDdXVvS2lFUXVfRFA3YmhFN1l3dEFHaGRfTDU5cDlBNm5xcXlBR21SNjFndlRmT01qTFA5WXgzbFQzeUV4RDFoVXpuVXVqbnZFQ2x2ZHlJdWIwRXk1UWkxQ2JackFETGNSTl8zYlF4QXJ4eTE3ZTRtSmZqUQ?oc=5",
       "date": "2026-09-30 07:00",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3pTekZzb0o3akpWd1RSTm9Lc1hZZ3BhSldBN0lJOHc2YVE1aWdfUmhEVG5URVRQNnp0SkVkTHJ0LXV5R21xNnJEcnpjdzl6R3JNZ2kxc1pub2VwZXNBanV0OFoxaW90TkZkRUpRM3pJNU5sUXJFUXNaSkhMbzRGTzd2ODNTa0JZZS1XdkxTV2p2QQ?oc=5",
       "date": "2026-10-05 07:00",
       "summary": "Should quitting smartphones be this hard?  Harvard Gazette..."
+    },
+    {
+      "title": "How AI may change public policy, how we lead - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUxxMXZIbF83amQwR09TU25RcHNtcEZfYkVlazZMSEdxSzFQbnROdkpuSU01OUVzRzFJQW1TT081R1dqZFlsRElMX2laMlZ3ejFWNlNYZUNGRnVacE9HLU02LW9MYmh1N0dFdjRnNHQzWEVCWENRZXBlNFVMX3daZWFzS0dtY1lsbjNCUDBFMkdrZ2VvR3c?oc=5",
+      "date": "2026-07-28 07:00",
+      "summary": "How AI may change public policy, how we lead  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -161,12 +161,6 @@
   ],
   "Retraction Watch": [
     {
-      "title": "Paper touted by MD Anderson gets expression of concern for data ‘concerns’",
-      "link": "https://retractionwatch.com/2026/10/14/science-translational-medicine-md-anderson-expression-of-concern-data-concerns-china/",
-      "date": "2026-10-14 19:09",
-      "summary": "Science Translational Medicine has issued an expression of concern over “a series” of data concerns in a paper lauded by MD Anders..."
-    },
-    {
       "title": "Former Crick Ph.D. student loses COVID vaccine paper for fabrication",
       "link": "https://retractionwatch.com/2026/10/14/former-crick-ph-d-student-loses-covid-vaccine-paper-for-fabrication/",
       "date": "2026-10-14 18:00",
@@ -189,6 +183,12 @@
       "link": "https://retractionwatch.com/2026/10/10/weekend-reads-openais-preprint-dump-taylor-francis-to-leave-informa-arxivs-preprint-cap/",
       "date": "2026-10-10 10:00",
       "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In..."
+    },
+    {
+      "title": "‘Cerebral torment’: IOP retracts nearly 100 conference papers for tortured phrases",
+      "link": "https://retractionwatch.com/2026/10/09/iop-publishing-conference-proceedings-tortured-phrases/",
+      "date": "2026-10-09 16:06",
+      "summary": "IOP Publishing has retracted nearly 100 papers from three of its conference proceedings after the articles were flagged for contai..."
     }
   ],
   "Reuters AI": [
@@ -205,22 +205,22 @@
       "summary": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web  Reuters..."
     },
     {
-      "title": "Nvidia AI chip share in China falls as Huawei catches up- Reuters - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZUZsb2dHV3NNb1BsZ1NRcWN3ZlNGVVh5YjNsR3QzS1RqSnZDcFViWEF2eTA0eVdEZkdZVVBnQ2d4SjRIcy1PSk5IQmc1WlhWam9TbnlGTW9hVDd2UTgyNXlZa0NfWUQzeG4tbW5tWUp0cU1TTWxCbk13MVVQSS1Ld3FaNFVscV81UnJrc1lleG9MUEZJ?oc=5",
-      "date": "2026-10-13 06:15",
-      "summary": "Nvidia AI chip share in China falls as Huawei catches up- Reuters  Yahoo Finance..."
-    },
-    {
       "title": "ASML's strong orders ease fears AI spending boom is running out of steam - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA?oc=5",
       "date": "2026-10-14 05:07",
       "summary": "ASML's strong orders ease fears AI spending boom is running out of steam  Reuters..."
     },
     {
-      "title": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjgxdHhRZV9nbnF4cVNBbkg0ZGJGWXFTZ2hDa2dTMXVCT3R4OWF6aDNZSjVnaDJEYm5pbUJqSzdtaDhPei1VbXU1SGlsZHFIOFhBNEVsaUZ1WlFsYjJ6ZGNPc1NVNk9fVVVQTVlYMEtPbjdKZ2hNcG9xM0VBLUpTVFlHSi0yTVZtNGpTODA2SGpOb3JLUXQ1S1E3WHZ6RzRldnZkeF8tamJodUZjMUc1OXN2dWI2QmhfUUk3bkZzR0ZaXzZnd2lNMndLMUZGamRhMHo3LUVfdm8?oc=5",
-      "date": "2026-10-14 17:12",
-      "summary": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges  Reuters..."
+      "title": "US states seek children's data protections in Character.AI bankruptcy - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRk9YSG1oZDF4akxVNEpuWGtraGt1eWlDTjh5ZzJfd2JuNndOVTZObmMwXzFZY2haVGZNUUVQOXloMWMtQzNmSDJJZnN4cWY3MXlvdnFPRDU4eGxUbjN0elNUV0NrM09yaWFPazN5Y2JSbTJVWjdPcVB6X21oR2hHa1ZSb3ppWXdiLTZKSTllZW1uU1RjNUlMTUtCZ1RZX1VwZFlCcFh3VHpPSWRkQXc?oc=5",
+      "date": "2026-10-14 22:45",
+      "summary": "US states seek children's data protections in Character.AI bankruptcy  Reuters..."
+    },
+    {
+      "title": "Nvidia pledges $250 million to UK AI safety research - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1pFUmU1TjNGdW44THRFdlVLU285bHh3azlnTGNFWEJqcnF3T0lzc0pRWi1aTnZOeXlJY1VrbXBXSUxFNTdlS3NCYkptd0ZFb283c1NRc2dLRk9zcEJXenlrV3Q0UVhYTFQ4b1lnVTdLUzFrejJLMFpBcUhLVTRlZC13ZUNXZXk1RU5yWkVEd3M2RWVFUkJlOTlvQVBwRlJRR3dN?oc=5",
+      "date": "2026-10-14 06:19",
+      "summary": "Nvidia pledges $250 million to UK AI safety research  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -243,48 +243,48 @@
       "summary": "The US military’s race to make fake blood  MIT Technology Review..."
     },
     {
+      "title": "What it would take to build a city on the moon - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQanlIcG9oVDhkVFFGd3dSSUsxU2hhMzR2YXNWZjIxWU5NSU1nYlNFYUpNeTQ1VEVWbjA2XzhsbjdsWjdfQVh2ZlFpemRfdFQwNFZ5RHdYQm9TalE0eDZIcXFjOXVWcElqdDJmQW83bmVrdk1qQXBYdlVELXpneWhueENvcWozeENSWDF3ZFVhUHI3dVo30gGaAUFVX3lxTE8tdG5tRjRwbTNkQUVHVlZyOEJvX1NoUVlFa3NKSEtaMzRXMkZoc25lVS0zTFFhT05hZlBBYU9NeEd2VUFpYmxwWnN5OWJGRDBzd2QzcV9GVmdkQzRCaGFXV2FhQndnU01PSzVfRFpya1dTZDJvOGU3ZWpiYzJLUWZGMFUzZzNmajk5OGFpVzJHNTk5dDNaRjhKcVE?oc=5",
+      "date": "2026-10-12 09:35",
+      "summary": "What it would take to build a city on the moon  MIT Technology Review..."
+    },
+    {
       "title": "We’re putting too much faith in AI’s ability to say no - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUI2ZU5jbmZkcGVVZE5uNzRDZVlQTG1IRWN5WmNjSlRVMEowbkVDbmRmRzBvcnoxamdad3NadlloTGJDT2JuUE9NYTdlRTc2dE5GWjZrbC1KZDAzOEhtaWNRck1TOWFRSTZBNVVMaDZrM0FmeXhjeU5IUmp2Tk4zYWhqZ0tENnBTNHo5WC1UV3czdmR5bHltcEx5QWlyTzDSAaQBQVVfeXFMTnFGalM1T3NlVE40dE1tblR2aXZOOW14WnFhSHp3Qko4NE5XQlg0dWNPUUt6a3U2UGczRnFKeG9CV0NiRVJOenkycHZ4RVprdEhiZVRHVVB0QVRpcjBfcHlneThkaWV3TlZmYmNnLUdKQ1JlM2I3UmtyZGJSMkFsdmhSREI4TXlaWTNxRWRUMV9pd3VZbk5Ta2V3cmFJcVQ2V201T2M?oc=5",
       "date": "2026-10-09 09:00",
       "summary": "We’re putting too much faith in AI’s ability to say no  MIT Technology Review..."
-    },
-    {
-      "title": "Mars may be a hellhole, but the moon is not far behind - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQanlIcG9oVDhkVFFGd3dSSUsxU2hhMzR2YXNWZjIxWU5NSU1nYlNFYUpNeTQ1VEVWbjA2XzhsbjdsWjdfQVh2ZlFpemRfdFQwNFZ5RHdYQm9TalE0eDZIcXFjOXVWcElqdDJmQW83bmVrdk1qQXBYdlVELXpneWhueENvcWozeENSWDF3ZFVhUHI3dVo30gGaAUFVX3lxTE8tdG5tRjRwbTNkQUVHVlZyOEJvX1NoUVlFa3NKSEtaMzRXMkZoc25lVS0zTFFhT05hZlBBYU9NeEd2VUFpYmxwWnN5OWJGRDBzd2QzcV9GVmdkQzRCaGFXV2FhQndnU01PSzVfRFpya1dTZDJvOGU3ZWpiYzJLUWZGMFUzZzNmajk5OGFpVzJHNTk5dDNaRjhKcVE?oc=5",
-      "date": "2026-10-12 09:35",
-      "summary": "Mars may be a hellhole, but the moon is not far behind  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "One-third of food is lost or wasted: How to help farmers cut postharvest losses",
-      "link": "https://phys.org/news/2026-10-food-lost-farmers-postharvest-losses.html",
-      "date": "2026-10-14 23:40",
-      "summary": "Agriculture in the Global South remains under pressure to produce more food while responding to climate change and resource constr..."
+      "title": "Report identifies investment priorities for low-emissions agriculture",
+      "link": "https://phys.org/news/2026-10-investment-priorities-emissions-agriculture.html",
+      "date": "2026-10-15 03:00",
+      "summary": "A new report by CSIRO, Australia's national science agency, has found a growing suite of promising options already available to re..."
     },
     {
-      "title": "NASA develops batteries to power humanity's return to moon",
-      "link": "https://phys.org/news/2026-10-nasa-batteries-power-humanity-moon.html",
-      "date": "2026-10-14 23:40",
-      "summary": "If you've ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries ..."
+      "title": "Now you see them: Researchers uncover patterns in vessels that vanish at sea",
+      "link": "https://phys.org/news/2026-10-uncover-patterns-vessels-sea.html",
+      "date": "2026-10-15 02:40",
+      "summary": "Across the waters of West Africa, commercial fishing vessels vanish along international boundary lines...."
     },
     {
-      "title": "Uganda's sugarcane boom leaves families hungry: What needs to change",
-      "link": "https://phys.org/news/2026-10-uganda-sugarcane-boom-families-hungry.html",
-      "date": "2026-10-14 23:20",
-      "summary": "Busoga, in eastern Uganda, is a low, fertile plateau surrounded on three sides by Lake Victoria, the Nile River and Lake Kyoga. Mo..."
+      "title": "Scientists alarmed as super El Niño collides with 'strange uptick' in Galapagos iguana trafficking",
+      "link": "https://phys.org/news/2026-10-scientists-alarmed-super-el-nio.html",
+      "date": "2026-10-15 02:20",
+      "summary": "The only lizard in the world that can live and forage at sea may now be in a fight for survival. International scientists warn bla..."
     },
     {
-      "title": "Fine particles from aircraft exhaust become more harmful over time, lab tests suggest",
-      "link": "https://phys.org/news/2026-10-fine-particles-aircraft-exhaust-lab.html",
-      "date": "2026-10-14 23:20",
-      "summary": "Fine particulate matter consists of tiny particles with diameters in the nanometer range. They are produced, for example, by fuel ..."
+      "title": "Climate adaptation's delivery gap: Turning national plans into action",
+      "link": "https://phys.org/news/2026-10-climate-delivery-gap-national-action.html",
+      "date": "2026-10-15 02:00",
+      "summary": "By 2025, 143 of 154 developing countries had a National Adaptation Plan process in place, yet implementation has not kept pace. Ma..."
     },
     {
-      "title": "New chip-scale gyroscope measures rotation with unprecedented sensitivity",
-      "link": "https://phys.org/news/2026-10-chip-scale-gyroscope-rotation-unprecedented.html",
-      "date": "2026-10-14 23:00",
-      "summary": "Researchers have developed a chip-scale optical ring-laser gyroscope that can measure rotation as slow as 37 degrees per hour. Thi..."
+      "title": "Social service agencies need safeguards when using AI",
+      "link": "https://phys.org/news/2026-10-social-agencies-safeguards-ai.html",
+      "date": "2026-10-15 01:40",
+      "summary": "Artificial intelligence is increasingly being used by social service agencies to handle cases involving child abuse, intimate part..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong teen makes cents of finance, taps AI to tackle economic inequality",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3370901/hong-kong-teen-makes-cents-finance-taps-ai-tackle-economic-inequality?utm_source=rss_feed",
+      "date": "2026-10-15 02:15",
+      "summary": "At 17, Hong Kong secondary school student Agastya Rekhi has been teaching finance and economics to younger children for nearly thr..."
+    },
+    {
+      "title": "‘Not tailor-made for us’: Hongkong Post staff say transfer scheme too narrow",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3370916/not-tailor-made-us-hongkong-post-staff-say-transfer-scheme-too-narrow?utm_source=rss_feed",
+      "date": "2026-10-15 00:30",
+      "summary": "Hong Kong postal workers denied permanent contracts have criticised a special government transfer scheme as too narrow, calling fo..."
+    },
+    {
       "title": "Hong Kong extends smart fire alarm scheme to another 6,000 old buildings",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3370912/hong-kong-extends-smart-fire-alarm-scheme-another-6000-old-buildings?utm_source=rss_feed",
       "date": "2026-10-14 14:20",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3370886/nearly-1-3-unattended-dogs-captured-hong-kong-euthanised-year?utm_source=rss_feed",
       "date": "2026-10-14 09:45",
       "summary": "Roughly one in three unattended dogs captured by Hong Kong authorities had been euthanised as of May this year, a sharp rise from ..."
-    },
-    {
-      "title": "3 Hong Kong taxi drivers banned for 3 months under demerit points system",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3370878/3-hong-kong-taxi-drivers-banned-3-months-under-demerit-points-system?utm_source=rss_feed",
-      "date": "2026-10-14 09:27",
-      "summary": "Three Hong Kong taxi drivers have been disqualified from driving cabs for three months after accumulating 15 demerit points or mor..."
-    },
-    {
-      "title": "Hong Kong police hunt suspect who stole HK$80,000 necklace from jewellery store",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370874/hong-kong-police-hunt-suspect-who-stole-gold-necklace-tai-po-jewellery-store?utm_source=rss_feed",
-      "date": "2026-10-14 09:08",
-      "summary": "Hong Kong police are searching for a man who stole a gold necklace worth nearly HK$80,000 (US$10,193) from a Chow Sang Sang jewell..."
     }
   ]
 }
