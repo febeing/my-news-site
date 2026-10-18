@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Giving AI a “crystal clear” view of the materials world",
+      "link": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "date": "2026-10-18 04:00",
+      "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties...."
+    },
+    {
       "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
       "link": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
       "date": "2026-10-15 21:00",
@@ -23,12 +29,6 @@
       "link": "https://news.mit.edu/2026/building-trust-governments-through-digital-platforms-1015",
       "date": "2026-10-15 13:45",
       "summary": "Governments and private companies often work together to provide public services online. A new study asks: How do these partnershi..."
-    },
-    {
-      "title": "Q&A: The “collision” between AI, your brain, and society",
-      "link": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
-      "date": "2026-10-15 04:00",
-      "summary": "In a new book, Professor Eric So explores how the technology affects our thinking skills...."
     }
   ],
   "Harvard Gazette": [
@@ -51,25 +51,19 @@
       "summary": "Designing for world in flux  Harvard Gazette..."
     },
     {
-      "title": "How to know if you’re wrong - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Td1FTTFBRMl91ZmtPWlBsX1Q2YXBlUnJOQldlcmsxbHl3X2ExZU8yZmtTbTZEX1Zqdl9rYlVsbzc5OUhoYXd1OC1BSV9veE12ZURFT2JqYUlPbjVPUDNQYkctZXNWNExnSjJWZXhMbXpJR1VmWUYxWFdrRVlucFk?oc=5",
-      "date": "2026-10-16 19:31",
-      "summary": "How to know if you’re wrong  Harvard Gazette..."
-    },
-    {
       "title": "‘I don’t know if this is going to turn out well.’ - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWTlQcmkzbTdYUE9xWlFHdlZBT1R0WkZ6REJaenlROXRnSHVxbjBoOGNzQ2ZrMHlaLVhmUG10S1VWS1VETVhNbkZWaWlyd2hUNDdrWDV0LVRLdjlkbDZtTE5Ja0E4WERpaWJyWDlGSFRReUlCNklpZExINjhHQ0hMRlRoUktub1JmZHBiZ2R4dW5YODFNVE5MUA?oc=5",
       "date": "2026-10-14 20:39",
       "summary": "‘I don’t know if this is going to turn out well.’  Harvard Gazette..."
+    },
+    {
+      "title": "How to know if you’re wrong - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Td1FTTFBRMl91ZmtPWlBsX1Q2YXBlUnJOQldlcmsxbHl3X2ExZU8yZmtTbTZEX1Zqdl9rYlVsbzc5OUhoYXd1OC1BSV9veE12ZURFT2JqYUlPbjVPUDNQYkctZXNWNExnSjJWZXhMbXpJR1VmWUYxWFdrRVlucFk?oc=5",
+      "date": "2026-10-16 19:31",
+      "summary": "How to know if you’re wrong  Harvard Gazette..."
     }
   ],
   "Stanford News": [
-    {
-      "title": "Stanford scientists discover a way to reverse coral bleaching at record speed - Stanford Doerr School of Sustainability",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa3JHYXJoc1k1OXBRZmJoWnRVNGNDODNhTmpjZDhrdl80QzF3Tm4wYVNoa3BpQUpWWkFVbHg0UW9Ed2dlWEdZcW9Ya3NWdzgtMElKeEVxc2RuVWxmXzI5RVlhTXN1dXp2d19Yc0dZaWJVdjRxSnVtc1RBdnZ4V2l4Z2VucnJJRUZjSEpWU24weFBxc1RIdlBuaFFueVNXQWp3V1MtNWgxcW1ubjNiTkh0Ug?oc=5",
-      "date": "2026-10-14 18:06",
-      "summary": "Stanford scientists discover a way to reverse coral bleaching at record speed  Stanford Doerr School of Sustainability..."
-    },
     {
       "title": "Stanford’s new microscope reveals living cells like never before - Science Daily",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nXy1UaVJSdzF3bmloUUxZSHFvcTBpZVdsZlV6Uml6d2pfS0ZOYm5wLS0xR3FwQm11cUdsNWVHOExoZDNXbmpKeGNuX3dpeFdmOWZITlNKZ19aRGFsZG1nMkg3WGlrSWRtUnoxdTFZcw?oc=5",
@@ -83,16 +77,22 @@
       "summary": "A Stanford Jane Doe: ‘Without a headline, survivors like me will never matter to Stanford’  The Stanford Daily..."
     },
     {
-      "title": "9 California universities rank among top 100 in the world - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTF0Nk4xYmtUb1FjRG80ZEFSOVotU3JwQTdyQkdyUW5Ya3EtWVJHSGZBaWtLNGFGVDd3VkhVUnJhNHFBRFNXOEZXMVhaQUpkWDRraGJpdTNTNjRTSmNpSTV0LUVfSl9CNDM3OVBKaXpLSXZQT1doNmVnYmpjcnVab1hQSWl4VndKWGJKLWl6cW00ZWpPT1JtSw?oc=5",
-      "date": "2026-10-14 14:27",
-      "summary": "9 California universities rank among top 100 in the world  The Mercury News..."
+      "title": "‘We live in a chemical world’ - Stanford Report",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnNkIxNlpwbktINGg5Snktb1B5VzNGaFBnUzdsdE50Z1lrVG5MNWF3VFNOSjFoRzU4cE9fR1ZGWFJtUkNkRC15ZXVQMWh2cWtTdHhrU1RsSHBsOEdBUDViTmhxbUhuTmR3S1VoelZqZWdpRFlTdHhB?oc=5",
+      "date": "2026-10-16 21:54",
+      "summary": "‘We live in a chemical world’  Stanford Report..."
     },
     {
-      "title": "Stanford University John S. Knight Journalism Fellowships 2027–28: Receive a $135,000 Stipend - Global South Opportunities",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zWThRemphR3ByX1hsVXd0SmVOYU5SakYzS2ZlZXk2QmFrc2lnZHN2LXE1N0xhU0J4Y1ZqVHA5UTRGd2h6T0lOWTdubkk0U2lRT0FJZEtuQlRKNEIxOHljOHdZaEJHU1ZDU1ZHYlJfUXQ?oc=5",
-      "date": "2026-10-16 08:27",
-      "summary": "Stanford University John S. Knight Journalism Fellowships 2027–28: Receive a $135,000 Stipend  Global South Opportunities..."
+      "title": "2 California universities rank among nation's top 10, report finds - The Desert Sun",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZURHZFpHZ2tsSTZCMnhnSzE1UzZEVnRadFBfQ2pSMlA0MHRWbWxma3VFRDNRRDBIQmZvV0dRSGtUYXUxQ2xVSVh0S203WjRDaTJrelpZN1ZHRkxzdVFQTjNBVUVYNlNUSHFNU190ZEdBY2VYbVdPWmM0UDlwLTRkTGZHa0Y3VWhPNGN4R3ZZTmVReENreHByMGJjNjhJX0FWdVZEWUFFRmNrSU9qb1l1cnU0Y3NncGYxUmZObW9Cd1BUVzNlVDFVQmY1NWs?oc=5",
+      "date": "2026-10-16 20:39",
+      "summary": "2 California universities rank among nation's top 10, report finds  The Desert Sun..."
+    },
+    {
+      "title": "Coral Bleaching Reversed at Record Speed Using New Stanford Method: ‘Not a Lost Cause, at All’ - Good News Network",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXFPT0JzZ09OSDJzYWhXTm0zSlFIN214YVNWenFhVk4xNEFqaFRtNHgwRm9IeHNBQVRpT0F0R1dZOTIxZ1oxbG1MTUtRbTE5WGo2ZzEyYnBrXzQ3ZHBpdGdYWU5aX050bVBoU0JLTTVyQjNiTzd4Y0VyUnJGalVuekdvM0prTzdDTE1BeC1QLTQ5N05MQ3hTUXN5c0dqcnBO?oc=5",
+      "date": "2026-10-17 17:20",
+      "summary": "Coral Bleaching Reversed at Record Speed Using New Stanford Method: ‘Not a Lost Cause, at All’  Good News Network..."
     }
   ],
   "Nature Careers": [
@@ -205,10 +205,10 @@
       "summary": "Beijing seeks tighter grip on AI exports amid US rivalry  Reuters..."
     },
     {
-      "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5",
-      "date": "2026-10-17 11:39",
-      "summary": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers  Reuters..."
+      "title": "Anthropic's Clark Says AI's Impact Accelerating Quickly and Could Vastly Boost US GDP - U.S. News - Money",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS25jdzIybDNJS3hkOU9pc0tDb2xrYmxNbmZzZ1pFaGFmRXY5RzZwa0I2bzZXUUdheVBYbkNVaTI2a1h6d0xlUEg1d0syeWd1dkRHZUc5cHZldW9ycW1qbjJRTEwzQ25peWh3bTAwcURrLWFuQjI5SUpkS01jdi1ONHEzbGdFVWlhOEljcUkwbG1PNnJxTXU4Q1FFdmx2LVZpOEh6WHRlQjlSNF9mdWpyU2xMcjRxQjRUOVNacW5iQ0dxNjBiclNkRGhsMlgyQ2dlbm5xUTcyU2tFRnc?oc=5",
+      "date": "2026-10-17 09:50",
+      "summary": "Anthropic's Clark Says AI's Impact Accelerating Quickly and Could Vastly Boost US GDP  U.S. News - Money..."
     },
     {
       "title": "China's Tencent says AI agents showed unintended browsing behaviour - Reuters",
@@ -217,10 +217,10 @@
       "summary": "China's Tencent says AI agents showed unintended browsing behaviour  Reuters..."
     },
     {
-      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5",
-      "date": "2026-10-16 23:23",
-      "summary": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports  Reuters..."
+      "title": "COMMENTARY: AI jitters, Trump's fading oil clout and China shock 2.0: The financial week in five charts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0JUeTlGZHJqb29Dcnp1dEhpLXFEN0EwdG1IX0pzb29pampFTEhISTdSODVqdDd4a2dSRllSSy12YzBHSXR1bmZCVmJyRXFmTl9IN2tDVTkwbWFXa09hTUFhaER0U2hZMkh3YTZwaXlMZzkyUUNMUWtRUW96clBaR3JpNnVFanlyUjFqek1FWTV3TGtqbHRHWDR1RDZZZnBiRFlzdElpcEw3czFJaVkyT3pMLURLQm1FQzhxY0lJdHBUbUYwd25Ralk4R21xb1VQdUdqempCX2lpRUNwbHc?oc=5",
+      "date": "2026-10-16 11:20",
+      "summary": "COMMENTARY: AI jitters, Trump's fading oil clout and China shock 2.0: The financial week in five charts  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -249,10 +249,10 @@
       "summary": "This implant can restore sight for patients with macular degeneration  MIT Technology Review..."
     },
     {
-      "title": "Love is infrastructure - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2FOQmZOYVdXd29rMUsxVDhNQWVFREhfVWp1Y1BaY0h3dlcxWnlncU1JZnd0VHA4eHBXYWFJTDRKcWc1WWVTV1UwdjhmQ0pYTHlvNXFVX1ZuTDh3NmtEdVRYcmhMWkFIWVJNY3RoNmtUR0RfSWV5cWRsUWdlSVk5SGwxTFVFY0oxWXEwYzJHVmprbmJiQVZNWERzOGc4c1FaeVRrOFJn0gGrAUFVX3lxTFAyX0lJY04zVjZqRDRvellXS1FFejdUUzlyUHc3a09XbWxncHdyR05VTXBhSUg0OTR3X1FFSHZ6c2I5TXVQWWhTMTg1dmRBb09UeEo0VDFOSnBRdVFmTExhUmpsb0lORFh2U1BVaTZGeW9UZ2FVSXlYaWhWX0M2di1wTnRBMmxxLWxVT2JjTFRPTFYyQkhwM0Eyd2E4a3ozZjN1X1hxc3Nfb0t0MA?oc=5",
-      "date": "2026-10-16 09:00",
-      "summary": "Love is infrastructure  MIT Technology Review..."
+      "title": "How much more can nuclear power plants give? - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FMzJGeXZwNXQ5cjhwUWJjWmpyQ1dNWjlNYjdtMXRCRnhlMl9Ic3ZzMV9GN1pVSVM3cjlWYkczWkJBMXBFb25VZU9HSjVKcFo1UW5XdTJMVk8xMWlMVVZ3ZWxsMnEzY21RQjJfOVVHYUFpcGViLU1lTEp5d0xla2vSAYQBQVVfeXFMTlVvQUJQNXVZQVBGZ2VYQ09zcU82dWdnakNHcUZOX3N5M0VKMzc5aVlZSktJWHFZZVlpamVXNk1VVjhnZ0FqNEdiSVZoMVNGR3d2NFJwcXp3R3ZxT3IwTmNFeUtLd3IyTkhhVHBMRTVYeU5ubl9XWVJ0OGNWYVh0UkZzV3Nr?oc=5",
+      "date": "2026-10-15 10:00",
+      "summary": "How much more can nuclear power plants give?  MIT Technology Review..."
     }
   ],
   "Phys.org": [
@@ -321,34 +321,34 @@
   ],
   "SCMP Hong Kong": [
     {
-      "title": "Hong Kong orders lift contractors to review doors installed over past 10 years",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3371272/hong-kong-orders-lift-contractors-review-doors-installed-over-past-10-years?utm_source=rss_feed",
-      "date": "2026-10-17 15:57",
-      "summary": "Hong Kong authorities have ordered all lift contractors to review the design and construction of landing doors installed over the ..."
+      "title": "Cherish peace and stability, John Lee urges Hongkongers during Chung Yeung Festival",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3371284/cherish-peace-and-stability-john-lee-urges-hongkongers-during-chung-yeung-festival?utm_source=rss_feed",
+      "date": "2026-10-18 04:18",
+      "summary": "Hong Kong’s leader has urged residents to cherish peace and stability as senior officials marked Chung Yeung Festival with tribute..."
     },
     {
-      "title": "AI used for first time to analyse lawmakers’ 5-year plan, policy address debate",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3371265/ai-used-first-time-analyse-lawmakers-5-year-plan-policy-address-debate?utm_source=rss_feed",
-      "date": "2026-10-17 11:30",
-      "summary": "Hong Kong’s legislature has for the first time used artificial intelligence (AI) to analyse lawmakers’ remarks during a three-day ..."
+      "title": "Banking on bricks: entrepreneur builds a business case for recycling plastic waste",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3371254/banking-bricks-entrepreneur-builds-business-case-recycling-plastic-waste?utm_source=rss_feed",
+      "date": "2026-10-18 04:15",
+      "summary": "Former investment banker Shervin Sharghy takes a practical approach to plastic recycling, first asking whether it makes financial ..."
     },
     {
-      "title": "Man arrested for alleged HK$450,000 theft of wife’s Chanel and Hermes bags, Rolex",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371250/man-arrested-alleged-hk450000-theft-wifes-chanel-and-hermes-bags-rolex?utm_source=rss_feed",
-      "date": "2026-10-17 09:07",
-      "summary": "Hong Kong police have arrested the husband of a 34-year-old woman for allegedly stealing luxury goods worth HK$450,000 (US$57,700)..."
+      "title": "Harvard and Cambridge to attend Hong Kong forum on role of humanities in AI age",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3371253/harvard-and-cambridge-attend-hong-kong-forum-role-humanities-ai-age?utm_source=rss_feed",
+      "date": "2026-10-18 04:00",
+      "summary": "The organiser of a forum that will bring together Hong Kong and overseas universities later this month has said it hopes to spark ..."
     },
     {
-      "title": "Shisha smoking will cause 1 million new lung cancer cases globally by 2050: WHO study",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3371189/shisha-smoking-will-cause-1-million-new-lung-cancer-cases-globally-2050-who-study?utm_source=rss_feed",
-      "date": "2026-10-17 09:00",
-      "summary": "Water pipe smoking will contribute to about 1 million new lung cancer cases globally by 2050, with the Western Pacific region bear..."
+      "title": "Spirit of Hong Kong Awards finalist bridges the gap in accessible dental care",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3371166/spirit-hong-kong-awards-finalist-bridges-gap-accessible-dental-care?utm_source=rss_feed",
+      "date": "2026-10-18 02:15",
+      "summary": "Hong Kong social worker Mark Cheung Kai-yuen is working to make dental care more accessible for cancer survivors, people with disa..."
     },
     {
-      "title": "Language matters in Hong Kong’s birth rate debate, not just money",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3370807/language-matters-hong-kongs-birth-rate-debate-not-just-money?utm_source=rss_feed",
-      "date": "2026-10-17 08:30",
-      "summary": "When Hong Kong debates how to raise its birth rate, the conversation usually revolves around money: bigger baby bonuses, tax conce..."
+      "title": "Why is Hong Kong hosting the Apec Finance Ministers’ Meeting? There is another agenda",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371251/why-hong-kong-hosting-apec-finance-ministers-meeting-there-another-agenda?utm_source=rss_feed",
+      "date": "2026-10-18 01:00",
+      "summary": "As Hong Kong hosts the Apec Finance Ministers’ Meeting on Tuesday, this two-part series examines the summit’s significance and its..."
     }
   ]
 }
