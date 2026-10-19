@@ -1,6 +1,12 @@
 {
   "MIT News": [
     {
+      "title": "Symposium highlights MIT’s wide range of innovations for aging brain health",
+      "link": "https://news.mit.edu/2026/symposium-highlights-innovations-for-aging-brain-health-1019",
+      "date": "2026-10-19 21:15",
+      "summary": "In six talks, researchers from across MIT described projects aimed at advancing the understanding of and interventions against neu..."
+    },
+    {
       "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
       "link": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
       "date": "2026-10-19 18:20",
@@ -23,15 +29,15 @@
       "link": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
       "date": "2026-10-15 20:50",
       "summary": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, ..."
-    },
-    {
-      "title": "Satellite data reveal how Antarctica’s ice cliffs behave over time",
-      "link": "https://news.mit.edu/2026/satellite-data-reveal-how-antarcticas-ice-cliffs-behave-over-time-1015",
-      "date": "2026-10-15 18:00",
-      "summary": "The cliffs don’t always collapse in the runaway process that scientists had expected...."
     }
   ],
   "Harvard Gazette": [
+    {
+      "title": "Is it already too late to reduce catastrophic AI risk? - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVG5xT0hGemdVU2VjTC1tTGVkYkVoWlljXzlUSV9iWkhmLVdLS0FOOW9adUlDdU1oSDlpVmZpQnBVUTNfQncwRXVvNEVjVVFGMEtKZjBtTUFSOFpYZTg5enFSRWw0RzJXQXRBVnRFVlZWOXh0RjZKb0ZremMwTURZTVIxRWJWSG13Q3pqVE9rMUE1bGdZb3I3NjRFRl9QSTdYTlZZ?oc=5",
+      "date": "2026-10-19 17:50",
+      "summary": "Is it already too late to reduce catastrophic AI risk?  Harvard Gazette..."
+    },
     {
       "title": "‘Our focus has been on resiliency.’ - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRHVNenQ1TFZkR01keHV5UUttMmpiMWtQMlowN1lrV19sclBoWGVqVnNHOUlwQ09JcXl5SG5mdjF3b2VMX2o0cmpEQUlrQmVldTItSktyTGN4SmpQZklUelZSZEpwdWpFX2wxeUlmMTlTc202UGZLaGpkYl9sOWtRdzdrUXlWbFU?oc=5",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONUl0dHYwalhMcDgyMDRFc3p2dUt0Yko3OXNZUEt0Y2VCQ3lSVS1kanN3MTcxRnN4MWtTemNyai0yWjlubkFjNDZvWllTVVV4MzNSS3NVTEdWaExTdlljTWxKYUhiaDl5Z2hUSFZ4ZktJbzMxUVdtcVhIbmwwTHp6Uw?oc=5",
       "date": "2026-10-14 19:51",
       "summary": "Nobel laureate Karl Deisseroth’s time at Harvard  Harvard Gazette..."
-    },
-    {
-      "title": "Harvard launches $150 million research initiative - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUpmVlJzSkdOSEpMMmFfSGpEU2gtZ2FHdVB5WkkyWXYtNmRFVFJGcEQtWXJ6eXI0cTU1ZTc2eWtEYV9QbnNqQUtZRFRMaTZQZGtNUklxRGMwUDEwV1FON1VjMGo4QkNpdGwzY2xfM21yRFVVNjZBQ2s0bGNhYV94NFVUbGJrMDV0LTREaXlRSlpZWmFfNUd2Q19yWmE?oc=5",
-      "date": "2026-09-28 07:00",
-      "summary": "Harvard launches $150 million research initiative  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -83,19 +83,37 @@
       "summary": "University responds to Daily op-ed detailing rape case failures  The Stanford Daily..."
     },
     {
-      "title": "Beauty, tradition, fellowship drive surge in new Catholic converts at Stanford University - Catholic World Report",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORGQ3VEphU3dTWDZjMDhXVkZURWJPR0M3Rjh0S1FnVnZhYjItYVJFRks4SEVpZDhsWjBfdVhCeXRIM0FObzhoaTBERXdOSG1kQjZaS2FLd1BKMXBBSWp3b2hWR1BTOGNsdnZmMC1EOXZaRUk3LVdlam16RGd3aktlVlE4ajJIOE1OQ19pQVlFTC13TEpHU3paQlVOd0tEY0ZZbm0wZzdFTXpmRFNyVGZDNGJrckN1R0tfbE9MM21aS1Q0TjNRalNPeklXUTN6NzdC?oc=5",
-      "date": "2026-10-19 13:30",
-      "summary": "Beauty, tradition, fellowship drive surge in new Catholic converts at Stanford University  Catholic World Report..."
-    },
-    {
       "title": "‘We live in a chemical world’ - Stanford Report",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnNkIxNlpwbktINGg5Snktb1B5VzNGaFBnUzdsdE50Z1lrVG5MNWF3VFNOSjFoRzU4cE9fR1ZGWFJtUkNkRC15ZXVQMWh2cWtTdHhrU1RsSHBsOEdBUDViTmhxbUhuTmR3S1VoelZqZWdpRFlTdHhB?oc=5",
       "date": "2026-10-16 21:54",
       "summary": "‘We live in a chemical world’  Stanford Report..."
+    },
+    {
+      "title": "Zhang's Season-Best Weekend Highlights Michigan's Stanford Finish - University of Michigan Athletics",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeXF6SEpsQnNtS0VmU3BMYzc2NFRjY2lvR0lQby1XWTY4TkpXTmZvYVIyR1IySXhTN3NteGVEbDRScEUtWjJlQXdMVHlOTG1VWGYxakRFSENad2hSOC1udUloM0REWVB2eE4zZUtCZXNzZ3g0NVdzdXZINFhQanoyNlVUbXhGUWhuUlN4UlZERDE2MWxtWjlOVDdHT3Nmdlk2VC1tOEVROEhjSHJ2ZU9lWQ?oc=5",
+      "date": "2026-10-18 22:18",
+      "summary": "Zhang's Season-Best Weekend Highlights Michigan's Stanford Finish  University of Michigan Athletics..."
     }
   ],
   "Nature Careers": [
+    {
+      "title": "Light and mirrors move large quantum computers closer to reality",
+      "link": "https://www.nature.com/articles/d41586-026-03237-2",
+      "date": "2026-10-19 00:00",
+      "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03237-2Scientists improve photon-collecting device that could be..."
+    },
+    {
+      "title": "Audio long read: How to stay smart in the age of AI — the science of critical thinking",
+      "link": "https://www.nature.com/articles/d41586-026-03228-3",
+      "date": "2026-10-19 00:00",
+      "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03228-3Although worries are growing about AI's potential to blun..."
+    },
+    {
+      "title": "Microdosing LSD shows some cognitive benefits — but only for women",
+      "link": "https://www.nature.com/articles/d41586-026-03265-y",
+      "date": "2026-10-19 00:00",
+      "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03265-yDifferent effects of low-dose psychedelics on sustained a..."
+    },
     {
       "title": "How pregnancy reshapes the brain throughout life",
       "link": "https://www.nature.com/articles/d41586-026-03312-8",
@@ -103,31 +121,31 @@
       "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03312-8Neuroscience is mapping changes in the brain during pregn..."
     },
     {
-      "title": "Three reasons why AI is not conscious and perhaps never will be",
-      "link": "https://www.nature.com/articles/d41586-026-03313-7",
+      "title": "Climate scientists face deluge of public-records requests about fossil-fuel studies",
+      "link": "https://www.nature.com/articles/d41586-026-03275-w",
       "date": "2026-10-19 00:00",
-      "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03313-7Large language models can mimic thought and feeling with ..."
-    },
-    {
-      "title": "Author Correction: Long-read sequencing reveals pre-meiotic gene conversion in sperm",
-      "link": "https://www.nature.com/articles/s41586-026-11290-0",
-      "date": "2026-10-19 00:00",
-      "summary": "Nature, Published online: 19 October 2026; doi:10.1038/s41586-026-11290-0Author Correction: Long-read sequencing reveals pre-meiot..."
-    },
-    {
-      "title": "How to compare and strengthen research systems",
-      "link": "https://www.nature.com/articles/d41586-026-03309-3",
-      "date": "2026-10-19 00:00",
-      "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03309-3Analysing national research systems by using open-access ..."
-    },
-    {
-      "title": "Lessons from Katrina: how to rebuild academia from the ground up",
-      "link": "https://www.nature.com/articles/d41586-026-02623-0",
-      "date": "2026-10-19 00:00",
-      "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-02623-0More than 20 years after Hurricane Katrina, universities ..."
+      "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03275-wA Nature investigation identified more than 30 requests s..."
     }
   ],
   "Science News": [
+    {
+      "title": "This lizard’s ‘great escape’ was frozen in amber for 99 million years",
+      "link": "https://www.science.org/content/article/lizard-s-great-escape-was-frozen-amber-99-million-years",
+      "date": "2026-10-19 06:20",
+      "summary": "A tiny fossil tail offers the first “irrefutable” proof of a dropped tail..."
+    },
+    {
+      "title": "The 2010 <em>Deepwater Horizon</em> oil spill devastated deep-sea life—and it hasn’t recovered",
+      "link": "https://www.science.org/content/article/2010-deepwater-horizon-oil-spill-devastated-deep-sea-life-and-it-hasn-t-recovered",
+      "date": "2026-10-19 06:10",
+      "summary": "A 13-year study shows how sensitive deep-sea animals are to disturbance, scientists say..."
+    },
+    {
+      "title": "<cite>Science</cite>’s ‘Dance Your Ph.D.’ contest is open again",
+      "link": "https://www.science.org/content/article/science-s-dance-your-ph-d-contest-open-again-2027",
+      "date": "2026-10-19 03:15",
+      "summary": "..."
+    },
     {
       "title": "Department of Justice to fund studies of gender dysphoria and violent behavior",
       "link": "https://www.science.org/content/article/department-justice-fund-studies-gender-dysphoria-and-violent-behavior",
@@ -139,24 +157,6 @@
       "link": "https://www.science.org/content/article/how-scientists-domesticated-killer-bacterium",
       "date": "2026-10-16 06:15",
       "summary": "Genome analysis shows how decades of lab cultivation turned C. botulinum, the canned food killer, into a potent tool for medicine ..."
-    },
-    {
-      "title": "USDA scientists get reprieve from lab closures, but for how long?",
-      "link": "https://www.science.org/content/article/usda-scientists-get-reprieve-lab-closures-how-long",
-      "date": "2026-10-16 03:50",
-      "summary": "Judge says Congress must decide whether to extend a pause on reorganization and relocations..."
-    },
-    {
-      "title": "Bonanza of new dates rewrites the history of the Inca",
-      "link": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
-      "date": "2026-10-15 02:00",
-      "summary": "The South American empire lasted longer, and met more resistance, than scholars thought..."
-    },
-    {
-      "title": "NSF backs choice of new Antarctic contractor despite concerns by government watchdog and researchers",
-      "link": "https://www.science.org/content/article/nsf-backs-choice-new-antarctic-contractor-despite-concerns-government-watchdog-and",
-      "date": "2026-10-14 05:20",
-      "summary": "Agency says it has “resolved” questions about KBR winning an $8 billion contract..."
     }
   ],
   "Retraction Watch": [
@@ -195,20 +195,14 @@
     {
       "title": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
-      "date": "2026-10-19 12:31",
+      "date": "2026-10-19 21:30",
       "summary": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites  Reuters..."
     },
     {
       "title": "US banning Chinese AI DeepSeek from government agency IT systems - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGtJNmIzcGdtUF96Zk5qZ1JfRVZJZE9mSnluMVJZMHVXbGpzWUozSVYyVzQ5dldnRU1aMXVEZ2JDOXczRmd0Q01FeDZvVFpyX2phVENGMURyX1VDM0cwd0VyYS1ra0VnYzdxZGFBZkp6VzR1SVRPVkFVYnBUSUNPVHc0OU1FamVXYWh3d0NHeHRKU0w0OE1pcjlfQ09oYXR2N3dycXNXWFFZdw?oc=5",
-      "date": "2026-10-19 14:34",
+      "date": "2026-10-19 21:23",
       "summary": "US banning Chinese AI DeepSeek from government agency IT systems  Reuters..."
-    },
-    {
-      "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
-      "date": "2026-10-19 18:39",
-      "summary": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine  Reuters..."
     },
     {
       "title": "Top hyperscalers likely to have more AI-linked debt than now known, S&P Global warns - Reuters",
@@ -217,10 +211,16 @@
       "summary": "Top hyperscalers likely to have more AI-linked debt than now known, S&P Global warns  Reuters..."
     },
     {
-      "title": "China's MiniMax launches updated AI model M3.1 Flash, claims major improvements - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU21KdExTcjNUellVV1E5dWlpbXZMR0dxb0NUdXNrN2pma29TRm5PcFBOMEZhS0hSOUVMNmdMZlNsUE9uTGxOYjFnTjIzVzZESmcxbnBYMHVMZjdNS1RvVkU3eHhZYUdlMmNORXdlR2l4ejVwQVVvdjVjTzZGQThwUmhZZ1JHSGNyUGlITjVabGdsTE9heHlnbjdvODlXSHk0Rk0yOEpxbW01dEg1THR3eFY2Sl8xRkUyVEFReC00SWFvVmx4NE5sejRSRQ?oc=5",
-      "date": "2026-10-19 12:25",
-      "summary": "China's MiniMax launches updated AI model M3.1 Flash, claims major improvements  Reuters..."
+      "title": "Musk, Anthropic outline dueling approaches to AI-era philanthropy - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5",
+      "date": "2026-10-18 18:18",
+      "summary": "Musk, Anthropic outline dueling approaches to AI-era philanthropy  Reuters..."
+    },
+    {
+      "title": "Germany's Merz urges AI investment ahead of Nvidia deal - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT09KR2R3TjktZGltSk9PMGtKcGVMeFBuSmR5eTVkMERSbkVuc0d5bGhnanJ2WloyWUtULU1PTkFVQlNhaklmWmJESHF2cEV0Q01YQ3NBb3RxWklLQlNLelBEMzVBSF9nZ09Uc0FjLUhHUmhOeUF1Z0pObndUclVjT0s2Q3Fka2Z6dWltWC1MQ0g5cmo0V1dUeFY0M3hEOE5aSzV3RjdZZ2JFUTU4TEE?oc=5",
+      "date": "2026-10-19 21:11",
+      "summary": "Germany's Merz urges AI investment ahead of Nvidia deal  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -231,8 +231,14 @@
       "summary": "AI researchers stranded Claude on a virtual desert island. It started to “play.”  MIT Technology Review..."
     },
     {
+      "title": "Making the internet better for AI agents might make it worse for everyone else - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2pHeHVVaUtKcllLU2JTQi1hVVNNUzhFX2xrR0F2RXo4Wl96SVZhWEkwRWFwWDlITGpWWDJWV3h1MnV1M0NrbjZ4elM3NmZabzUyWXpsS3lmalNvUFJEM1k4YWJObmp5OTVSdjM4emhmUktKZFJ6dTNjUzNPN3h0VFVWd0NxdUJmR3B5VFk0V0hLbkltRlpkNWpVRTRGd0tkT0JGdDY2VWpTS1h4TFIwY29sNmZ5NW1qTzhnMzBKMlNITjNmLWhCV2xQMNIB0AFBVV95cUxNTEFJTnA0SnRfUVBURWE3TjBrR0tnTjh3azJTSl9ONG9zUklLdU1NbTBJT3lNTFVFU3ROLUFuNS1mQnNjMWZOYjRDdTBKblkyUzc0V0xkTmh2M05iMTRFMXR6WEZLRXJIcUtvZFF4bktOeG40TkpUWnA2VEF3TkljeUJBSGpuNEllSjlpTXRMWGNFb3FOaHhGYnItZnBiTEM3U2JsQWRPNVpiU19sSFNNMkM3Mm5rR0ZVUDNyemVPeFJLQ0hDQXJIdGZiUnh0c0tR?oc=5",
+      "date": "2026-10-19 18:22",
+      "summary": "Making the internet better for AI agents might make it worse for everyone else  MIT Technology Review..."
+    },
+    {
       "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN3Brem5aVVZIZDRCdnRqQWhHbE50Sy1CT1hmLTB5WUo1cnNJN21Odi1OZU1tN25LbzZZVEJNWGVkS1h2WF9kM2lwWFo2eUdpVDFoTmpKUXhQM0JUZmZMMGVQdXR1aFVCQmhrWFhIMFFPNjZheGdLTVdtYzZlWW5HT2pMVmVMTThnWUl2Z2tRWFlGbFJMMWd4b1U3WmVQaWUzb2pKSGE2WjV1MDdzT3RMcTZfR3lCR3hFYjNtekpoNFdocmR5aWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN3Brem5aVVZIZDRCdnRqQWhHbE50Sy1CT1hmLTB5WUo1cnNJN21Odi1OZU1tN25LbzZZVEJNWGVkS1h2WF9kM2lwWFo2eUdpVDFoTmpKUXhQM0JUZmZMMGVQdXR1aFVCQmhrWFhIMFFPNjZheGdLTVdtYzZlWW5HT2pMVmVMTThnWUl2Z2tRWFlGbFJMMWd4b1U3WmVQaWUzb2pKSGE2WjV1MDdzT3RMcTZfR3lCR3hFYjNtekpoNFdocmR5aWfSAcsBQVVfeXFMTmR1NkxTcV80dFlwZklCVGswSGxtMWZnX3RFWEpLR2wwd0xqQUh0R2xZUHIwU2k2VDZrVWNncjlXVm51cWo1dlFJRW5jWUxQa0Z1a1ZFZHU1RlJqSU1weWRURkV2NWJucUQzX1VGN0N5WDkyaGNXNHdlNlJPaFpTVGY0aFpvaEctWjQ3eFVQSXVMMmFfOXBnMWRaYXRwcnRlbXlyV2R1R1pUTjA2MEp1WjdyZTFuMjBpRm9FLW9xVmJsbl9ueko3aVRMa1U?oc=5",
       "date": "2026-10-19 17:45",
       "summary": "“We were looking at it wrong”: The explosive claim that’s upended the AI world  MIT Technology Review..."
     },
@@ -243,48 +249,42 @@
       "summary": "How far can we push computing?  MIT Technology Review..."
     },
     {
-      "title": "Making the internet better for AI agents might make it worse for everyone else - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2pHeHVVaUtKcllLU2JTQi1hVVNNUzhFX2xrR0F2RXo4Wl96SVZhWEkwRWFwWDlITGpWWDJWV3h1MnV1M0NrbjZ4elM3NmZabzUyWXpsS3lmalNvUFJEM1k4YWJObmp5OTVSdjM4emhmUktKZFJ6dTNjUzNPN3h0VFVWd0NxdUJmR3B5VFk0V0hLbkltRlpkNWpVRTRGd0tkT0JGdDY2VWpTS1h4TFIwY29sNmZ5NW1qTzhnMzBKMlNITjNmLWhCV2xQMNIB0AFBVV95cUxNTEFJTnA0SnRfUVBURWE3TjBrR0tnTjh3azJTSl9ONG9zUklLdU1NbTBJT3lNTFVFU3ROLUFuNS1mQnNjMWZOYjRDdTBKblkyUzc0V0xkTmh2M05iMTRFMXR6WEZLRXJIcUtvZFF4bktOeG40TkpUWnA2VEF3TkljeUJBSGpuNEllSjlpTXRMWGNFb3FOaHhGYnItZnBiTEM3U2JsQWRPNVpiU19sSFNNMkM3Mm5rR0ZVUDNyemVPeFJLQ0hDQXJIdGZiUnh0c0tR?oc=5",
-      "date": "2026-10-19 18:22",
-      "summary": "Making the internet better for AI agents might make it worse for everyone else  MIT Technology Review..."
-    },
-    {
-      "title": "Open models have real benefits. Do they outweigh the risks? - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSENXLVdXRXlqU0NvS0k4R0JucGNkODhzVUVScG1ncGs5SzhxWkZSc3plald3SWlENzFfQ2I4YzViMGVnYWZSOEpVTXZaVlh4OGg0Zk50SHZyOGstZmdRcktYU0ZLTFR4YnNhRG5XTTM4Mzl1UERRQzQ0QXljM1h4U0ZjODlzY1FYdzhLUVhpcERGa05qdlE5Z0dLMUFrNUNhMGRjMjR6S1c4b200UHgw0gG0AUFVX3lxTE9uX2xWRWN1dVNyc1B6b09fS2hWbFJtQzFMUXZkeTJGc1QzWUJmRExJMWRoWjdObnZLdlZmS2x6cVdjYkkydUxtdGs0dE45Q0xPOUlnWmFVbDN3aHFZbV9ZSEJWVXBjQ1pobkJhU3NvNURqSl9wQkZ2NXNKcGIzT2dZMzRZNDBMaHpWLTVQWmdBMW43TzNXeHhoUG00MUgtSTdnbVB5SVBFU3JwRV82cXZKdFlfNw?oc=5",
-      "date": "2026-10-13 10:00",
-      "summary": "Open models have real benefits. Do they outweigh the risks?  MIT Technology Review..."
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWFJhVUZGVEE4NEhCa2lvZ2RsRXZydkI5Q2tEZDFISkN0YjRGOTRJZU1ZWXhiQ0tVYWtKbE9xUGFBa055UHpRNXFvQ0xYYVcweV8wUWI3NE8xRy1EZUVtVENGMmR0OC02dEpUQ09qSzdyeEp1Q2RiSWx3OGtPVF9hOWZVX1A4cDJkWHdVZFVUWUcxLWhGUFVIZUpXR21TY2cwUHlfWHM5T3VDcjRJVXFYbkhmUXhTdDdNeVE1SdIBwgFBVV95cUxPYmVfVmdMNzNqNllHYzlJYk1wX0hBaE1pV1JVc3phQ0MtSU9GeHlFWEQyb0d0VnNqN0VXV09FQTZjbU5CLU5mdlpOZ3p6azlVUDlwRXNnQkR2VGl5MGlxV3BWTTFNN2FpWFBZWU9HMV9mWm50YmNndVBDcnRFOExtNEhZY3NFaEN2RERKME53V0VRVkRodU5zWEgxUjR1VHZ1bEdKU2dIa19wYVRxa05LS3Q0cWc3eVM3YmlIbTJoRXJ6Zw?oc=5",
+      "date": "2026-10-19 12:10",
+      "summary": "The Download: preserving the Arctic permafrost, and playful AI agents  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Discovery of chicken immune cells could pave the way for more effective poultry vaccines",
-      "link": "https://phys.org/news/2026-10-discovery-chicken-immune-cells-pave.html",
-      "date": "2026-10-19 19:00",
-      "summary": "A previously unknown population of immune cells in chickens has been discovered by researchers from the University of Bristol Vete..."
+      "title": "Forgotten particle could answer mystery of why we exist, say physicists",
+      "link": "https://phys.org/news/2026-10-forgotten-particle-mystery-physicists.html",
+      "date": "2026-10-19 23:10",
+      "summary": "Scientists have unveiled a new theory on the birth of the cosmos, suggesting the early universe was shaped by an ancient particle ..."
     },
     {
-      "title": "New 'hunter-killer' chemistry captures and destroys forever chemicals",
-      "link": "https://phys.org/news/2026-10-hunter-killer-chemistry-captures-destroys.html",
-      "date": "2026-10-19 19:00",
-      "summary": "They can turn up in a nonstick frying pan, a waterproof jacket, a takeout food wrapper or the foam used to fight fires. Known as \"..."
+      "title": "Criminal justice researchers use statistical modeling to examine wrongful-conviction risk",
+      "link": "https://phys.org/news/2026-10-criminal-justice-statistical-wrongful-conviction.html",
+      "date": "2026-10-19 23:00",
+      "summary": "A University of Mississippi study is adding nuance to a debate over how often police interrogation tactics can produce false confe..."
     },
     {
-      "title": "Smart farming is already proving profitable in some regions, global analysis finds",
-      "link": "https://phys.org/news/2026-10-smart-farming-profitable-regions-global.html",
-      "date": "2026-10-19 19:00",
-      "summary": "The use of robots, drones and AI tools in agriculture is already paying off on 42% of the world's cropland. This could increase to..."
+      "title": "Planetary 'twins' Uranus and Neptune may have different origin stories",
+      "link": "https://phys.org/news/2026-10-planetary-twins-uranus-neptune-stories.html",
+      "date": "2026-10-19 22:40",
+      "summary": "By indirectly probing the depths of Uranus and Neptune's atmospheres, an international team of scientists has revealed a significa..."
     },
     {
-      "title": "Survey experiment shows investors focus on type of business rather than gender of leaders",
-      "link": "https://phys.org/news/2026-10-survey-investors-focus-business-gender.html",
-      "date": "2026-10-19 18:40",
-      "summary": "Would you prefer to back a man or a woman pitching a business idea? A new study by the University of Portsmouth published in the B..."
+      "title": "Researchers unlock new way to map molecular structure on surfaces",
+      "link": "https://phys.org/news/2026-10-molecular-surfaces.html",
+      "date": "2026-10-19 22:40",
+      "summary": "Scientists at NPL, with the University of Surrey, University of Oxford, the Francis Crick Institute and IONTOF GmbH, have develope..."
     },
     {
-      "title": "Auroral structure could be caused by bouncing electrons",
-      "link": "https://phys.org/news/2026-10-auroral-electrons.html",
-      "date": "2026-10-19 18:40",
-      "summary": "The aurora is among nature's most visually striking phenomena. It occurs when charged particles from the sun are funneled by Earth..."
+      "title": "Who speaks for Mars? Scientists call for ethical debate before terraforming begins",
+      "link": "https://phys.org/news/2026-10-mars-scientists-ethical-debate-terraforming.html",
+      "date": "2026-10-19 22:20",
+      "summary": "Transforming Mars into a more Earth-like world could irreversibly destroy scientific evidence about the planet's history and the p..."
     }
   ],
   "The Guardian Edu": [
