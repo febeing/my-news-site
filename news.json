@@ -73,7 +73,7 @@
     {
       "title": "California billionaire tax could leave state with less revenue, Stanford study cautions - CBS News",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43QUEwSDJGVHhQSy12SWlsU3BDcTRGbkpQZXM0WUpfVDBqVjh1MDlHQUhVQzZIaUdTdEdaSHFqUmdiOWFET2F2MDVsY2FJaTBxMk8ycElJd2ZqRWpZM01lbHdxOUZkdENSVVNXLWpwRlBZOVMtbU9RN18zTQ?oc=5",
-      "date": "2026-10-19 18:16",
+      "date": "2026-10-20 02:55",
       "summary": "California billionaire tax could leave state with less revenue, Stanford study cautions  CBS News..."
     },
     {
@@ -97,6 +97,12 @@
   ],
   "Nature Careers": [
     {
+      "title": "Toxic chemicals in fentanyl revealed by speedy technique",
+      "link": "https://www.nature.com/articles/d41586-026-03317-3",
+      "date": "2026-10-19 00:00",
+      "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03317-3Chemical fingerprinting charts the rises and declines of ..."
+    },
+    {
       "title": "Light and mirrors move large quantum computers closer to reality",
       "link": "https://www.nature.com/articles/d41586-026-03237-2",
       "date": "2026-10-19 00:00",
@@ -109,22 +115,16 @@
       "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03228-3Although worries are growing about AI's potential to blun..."
     },
     {
+      "title": "US government probe into postdoc visas worries scientists",
+      "link": "https://www.nature.com/articles/d41586-026-03345-z",
+      "date": "2026-10-19 00:00",
+      "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03345-zThe administration says that the universities being inves..."
+    },
+    {
       "title": "Microdosing LSD shows some cognitive benefits — but only for women",
       "link": "https://www.nature.com/articles/d41586-026-03265-y",
       "date": "2026-10-19 00:00",
       "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03265-yDifferent effects of low-dose psychedelics on sustained a..."
-    },
-    {
-      "title": "How pregnancy reshapes the brain throughout life",
-      "link": "https://www.nature.com/articles/d41586-026-03312-8",
-      "date": "2026-10-19 00:00",
-      "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03312-8Neuroscience is mapping changes in the brain during pregn..."
-    },
-    {
-      "title": "Climate scientists face deluge of public-records requests about fossil-fuel studies",
-      "link": "https://www.nature.com/articles/d41586-026-03275-w",
-      "date": "2026-10-19 00:00",
-      "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03275-wA Nature investigation identified more than 30 requests s..."
     }
   ],
   "Science News": [
@@ -211,16 +211,16 @@
       "summary": "Top hyperscalers likely to have more AI-linked debt than now known, S&P Global warns  Reuters..."
     },
     {
-      "title": "Musk, Anthropic outline dueling approaches to AI-era philanthropy - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5",
-      "date": "2026-10-18 18:18",
-      "summary": "Musk, Anthropic outline dueling approaches to AI-era philanthropy  Reuters..."
-    },
-    {
       "title": "Germany's Merz urges AI investment ahead of Nvidia deal - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT09KR2R3TjktZGltSk9PMGtKcGVMeFBuSmR5eTVkMERSbkVuc0d5bGhnanJ2WloyWUtULU1PTkFVQlNhaklmWmJESHF2cEV0Q01YQ3NBb3RxWklLQlNLelBEMzVBSF9nZ09Uc0FjLUhHUmhOeUF1Z0pObndUclVjT0s2Q3Fka2Z6dWltWC1MQ0g5cmo0V1dUeFY0M3hEOE5aSzV3RjdZZ2JFUTU4TEE?oc=5",
       "date": "2026-10-19 21:11",
       "summary": "Germany's Merz urges AI investment ahead of Nvidia deal  Reuters..."
+    },
+    {
+      "title": "Trading Day: AI storm abates - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQblNyYURqTWpQSVFybXNBbEFFekkwbG5rWjQ1UDQ3Q2pCUzlLeWFOWjlLNlZrcUZDSGljeTdmUEdSN3h0Yk1oRlA0c1VSQnFqY1FQTzczM0xveGJRXzNTYXhiVG1qb3N0UWhiR1ZWbmVnVTMwOHVfVENGd0lCcGF1ZkFGVTRwOF9heFBhYndGSmZpWjcwSDg2YVJ0a0t6MldDenZyek53?oc=5",
+      "date": "2026-10-19 21:01",
+      "summary": "Trading Day: AI storm abates  Reuters..."
     }
   ],
   "MIT Tech Review": [
@@ -249,42 +249,42 @@
       "summary": "How far can we push computing?  MIT Technology Review..."
     },
     {
-      "title": "The Download: preserving the Arctic permafrost, and playful AI agents - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWFJhVUZGVEE4NEhCa2lvZ2RsRXZydkI5Q2tEZDFISkN0YjRGOTRJZU1ZWXhiQ0tVYWtKbE9xUGFBa055UHpRNXFvQ0xYYVcweV8wUWI3NE8xRy1EZUVtVENGMmR0OC02dEpUQ09qSzdyeEp1Q2RiSWx3OGtPVF9hOWZVX1A4cDJkWHdVZFVUWUcxLWhGUFVIZUpXR21TY2cwUHlfWHM5T3VDcjRJVXFYbkhmUXhTdDdNeVE1SdIBwgFBVV95cUxPYmVfVmdMNzNqNllHYzlJYk1wX0hBaE1pV1JVc3phQ0MtSU9GeHlFWEQyb0d0VnNqN0VXV09FQTZjbU5CLU5mdlpOZ3p6azlVUDlwRXNnQkR2VGl5MGlxV3BWTTFNN2FpWFBZWU9HMV9mWm50YmNndVBDcnRFOExtNEhZY3NFaEN2RERKME53V0VRVkRodU5zWEgxUjR1VHZ1bEdKU2dIa19wYVRxa05LS3Q0cWc3eVM3YmlIbTJoRXJ6Zw?oc=5",
-      "date": "2026-10-19 12:10",
-      "summary": "The Download: preserving the Arctic permafrost, and playful AI agents  MIT Technology Review..."
+      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa1hoclVjWFBUa3FzY29nUVkxTzE4V3lnSXJ3VS1kOUw2NGdfOTZ4cnF4VmVYbDM5VWhVT1FwS2w1bExvbkQyb2JVQ3E2X0JaTVoxdmp4YmlVNnl1R09jRklURXd2cFhyNVo3dm1pTEF0NkFZRURXLUtnY3dfTW4zZUVjOFJvbWdXUGVhbk5OWXVXVU9ua3FCUXZ6Ni1KcHBGM2UwV0hQMW1wUmlvZWVuSG4wN1lJdWcyRmVJaGVyRGNsVjVrcnfSAcsBQVVfeXFMUE9hRzROOHdRbnQ2bGhyLVdJSlNMVElEVWFkQjFoTm5Eb0xVM05ZUXJZRjU5ZEs0S0tiV01CMVhJY0VDMDJyM3MzN0JVT2RxSEdEb1A3SGN6blNOVmRiX0JxaEdOaFJVZ3YyLTVwOWhxeGsxS1pjLTFXUjdrZjRjSTUzQzdhWXl2ZHpvWm5VcFJfMW5abHU5WlZTSFlmUXlmaEllNlJkenRPNWNVYWEzTk9IcllveWVNODUwUmJ5OV9nT3c1MFRpOFFnVlE?oc=5",
+      "date": "2026-10-19 09:22",
+      "summary": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Forgotten particle could answer mystery of why we exist, say physicists",
-      "link": "https://phys.org/news/2026-10-forgotten-particle-mystery-physicists.html",
-      "date": "2026-10-19 23:10",
-      "summary": "Scientists have unveiled a new theory on the birth of the cosmos, suggesting the early universe was shaped by an ancient particle ..."
+      "title": "NZ's climate in 'uncharted territory,' with more extreme weather events ahead",
+      "link": "https://phys.org/news/2026-10-nz-climate-uncharted-territory-extreme.html",
+      "date": "2026-10-20 03:00",
+      "summary": "Much is being made of a record-strength El Niño event that could well spell a drier, windier summer for the north and east of New ..."
     },
     {
-      "title": "Criminal justice researchers use statistical modeling to examine wrongful-conviction risk",
-      "link": "https://phys.org/news/2026-10-criminal-justice-statistical-wrongful-conviction.html",
-      "date": "2026-10-19 23:00",
-      "summary": "A University of Mississippi study is adding nuance to a debate over how often police interrogation tactics can produce false confe..."
+      "title": "Juvenile striped bass maintaining average abundance in Virginia waters in 2026",
+      "link": "https://phys.org/news/2026-10-juvenile-striped-bass-average-abundance.html",
+      "date": "2026-10-20 02:20",
+      "summary": "Preliminary results from an ongoing long-term survey conducted by William & Mary's Virginia Institute of Marine Science (VIMS) sug..."
     },
     {
-      "title": "Planetary 'twins' Uranus and Neptune may have different origin stories",
-      "link": "https://phys.org/news/2026-10-planetary-twins-uranus-neptune-stories.html",
-      "date": "2026-10-19 22:40",
-      "summary": "By indirectly probing the depths of Uranus and Neptune's atmospheres, an international team of scientists has revealed a significa..."
+      "title": "Q&A: How does technology help track foodborne pathogens and outbreaks?",
+      "link": "https://phys.org/news/2026-10-qa-technology-track-foodborne-pathogens.html",
+      "date": "2026-10-20 01:40",
+      "summary": "After a cyclospora outbreak and recalls of imported beef over the summer, a recent Gallup poll found that Americans' confidence in..."
     },
     {
-      "title": "Researchers unlock new way to map molecular structure on surfaces",
-      "link": "https://phys.org/news/2026-10-molecular-surfaces.html",
-      "date": "2026-10-19 22:40",
-      "summary": "Scientists at NPL, with the University of Surrey, University of Oxford, the Francis Crick Institute and IONTOF GmbH, have develope..."
+      "title": "Nanoscale tech tracks proteins inside living neurons to guide Alzheimer's and Parkinson's drug discovery",
+      "link": "https://phys.org/news/2026-10-nanoscale-tech-tracks-proteins-neurons.html",
+      "date": "2026-10-20 01:00",
+      "summary": "A technology developed at The University of Queensland allowing scientists to observe how disease-related proteins behave inside l..."
     },
     {
-      "title": "Who speaks for Mars? Scientists call for ethical debate before terraforming begins",
-      "link": "https://phys.org/news/2026-10-mars-scientists-ethical-debate-terraforming.html",
-      "date": "2026-10-19 22:20",
-      "summary": "Transforming Mars into a more Earth-like world could irreversibly destroy scientific evidence about the planet's history and the p..."
+      "title": "Students take up to 88 standardized tests before high school, but more testing doesn't improve learning",
+      "link": "https://phys.org/news/2026-10-students-standardized-high-school-doesnt.html",
+      "date": "2026-10-20 00:20",
+      "summary": "The public K-12 school system in the United States has become pervasively shaped by standardized testing...."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,18 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Hong Kong mother spared trial over neglect of chronically underweight daughter",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371377/hong-kong-mother-spared-trial-over-neglect-chronically-underweight-daughter?utm_source=rss_feed",
+      "date": "2026-10-20 02:00",
+      "summary": "A Hong Kong mother accused of neglecting her 12-year-old daughter who had been chronically underweight has been spared trial as th..."
+    },
+    {
+      "title": "How smart will Hong Kong’s ‘AI city brain’ be?",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3371394/how-smart-will-hong-kongs-ai-city-brain-be?utm_source=rss_feed",
+      "date": "2026-10-20 00:30",
+      "summary": "When Severe Typhoon Dolphin approached eastern China in August, more than 110,000 delivery riders across Hangzhou received automat..."
+    },
+    {
       "title": "Elderly man dies after being pulled unconscious from flat during fire in Sai Ying Pun",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3371414/elderly-man-pulled-unconscious-flat-after-fire-sai-ying-pun?utm_source=rss_feed",
       "date": "2026-10-19 14:42",
@@ -337,18 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371408/apec-hong-kong-what-know-500-delegates-descend-city?utm_source=rss_feed",
       "date": "2026-10-19 12:13",
       "summary": "Global attention will turn to Hong Kong this week as about 500 senior officials and delegates from the Asia-Pacific Economic Coope..."
-    },
-    {
-      "title": "5 hikers fall ill as hot weather grips Hong Kong on public holiday",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3371393/5-hikers-fall-ill-hot-weather-grips-hong-kong-public-holiday?utm_source=rss_feed",
-      "date": "2026-10-19 10:24",
-      "summary": "Five hikers fell ill in separate incidents across Hong Kong on Monday as hot weather gripped the city on the final day of the Chun..."
-    },
-    {
-      "title": "Art or box office? How Hong Kong plans to measure the value of a play, ballet or symphony",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3371380/art-or-box-office-how-hong-kong-plans-measure-value-play-ballet-or-symphony?utm_source=rss_feed",
-      "date": "2026-10-19 09:14",
-      "summary": "Established performing arts groups in Hong Kong should rely less on public subsidies to make way for emerging companies, industry ..."
     }
   ]
 }
