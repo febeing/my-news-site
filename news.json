@@ -33,12 +33,6 @@
   ],
   "Harvard Gazette": [
     {
-      "title": "How to know if you’re wrong - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Td1FTTFBRMl91ZmtPWlBsX1Q2YXBlUnJOQldlcmsxbHl3X2ExZU8yZmtTbTZEX1Zqdl9rYlVsbzc5OUhoYXd1OC1BSV9veE12ZURFT2JqYUlPbjVPUDNQYkctZXNWNExnSjJWZXhMbXpJR1VmWUYxWFdrRVlucFk?oc=5",
-      "date": "2026-10-16 19:31",
-      "summary": "How to know if you’re wrong  Harvard Gazette..."
-    },
-    {
       "title": "‘I don’t know if this is going to turn out well.’ - Harvard Gazette",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWTlQcmkzbTdYUE9xWlFHdlZBT1R0WkZ6REJaenlROXRnSHVxbjBoOGNzQ2ZrMHlaLVhmUG10S1VWS1VETVhNbkZWaWlyd2hUNDdrWDV0LVRLdjlkbDZtTE5Ja0E4WERpaWJyWDlGSFRReUlCNklpZExINjhHQ0hMRlRoUktub1JmZHBiZ2R4dW5YODFNVE5MUA?oc=5",
       "date": "2026-10-14 20:39",
@@ -61,6 +55,12 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1maTRRYkJ2a0JpYXhsRXNocU1DRWVvM1RfNFZVdTlEQUFOcmpWVGpoLThtYWkxcXVMNGNDdEtkd2V1aVp3RTgxMEhCOEhFQ0owZGlYT0ZzVk1HY1ZwN2ZMeHc5djFvZFVqX1pValc1dFdvcXJjZTlUZW9nazFrblE?oc=5",
       "date": "2026-10-13 07:00",
       "summary": "Living longer, disease-free  Harvard Gazette..."
+    },
+    {
+      "title": "20 societal problems, 20 solutions - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjc5RDBXRzI3aUdMc3F6eVdqWjBEYzk2Z1p2TzFwUXFIemtLMG9fTGRlRUxfUUJXaXlHeFJocnVjVHRqN3BkMEtDTjBjTmp1cWNhQ0h5ZDlxb0M4Q0w4N3JDa2pTN3BHZlR6QmVxaUt3blRsa1NENTlqREZaVHIzUVpjb3FWQ010?oc=5",
+      "date": "2026-06-03 07:00",
+      "summary": "20 societal problems, 20 solutions  Harvard Gazette..."
     }
   ],
   "Stanford News": [
@@ -129,6 +129,12 @@
   ],
   "Science News": [
     {
+      "title": "Europe’s summer heat wave killed more than 50,000 people in urban areas",
+      "link": "https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas",
+      "date": "2026-10-22 07:01",
+      "summary": "Researchers estimate climate change is responsible for two-thirds of the deaths..."
+    },
+    {
       "title": "First human death linked to recently discovered livestock virus in Europe",
       "link": "https://www.science.org/content/article/first-human-death-linked-recently-discovered-livestock-virus-europe",
       "date": "2026-10-22 02:55",
@@ -151,12 +157,6 @@
       "link": "https://www.science.org/content/article/blood-test-looming-government-puts-41-million-clinical-trials-ward-alzheimer-s-disease",
       "date": "2026-10-21 04:05",
       "summary": "Funding from Advanced Research Projects Agency for Health will expand testing of supplements and approved drugs to prevent dementi..."
-    },
-    {
-      "title": "Inside the science of the ‘robo ump’ revolutionizing baseball",
-      "link": "https://www.science.org/content/article/inside-science-robo-ump-revolutionizing-baseball",
-      "date": "2026-10-21 01:00",
-      "summary": "With high-speed cameras and a “pitch cannon,” researchers are refining the automated ball-strike system about to call its first Wo..."
     }
   ],
   "Retraction Watch": [
@@ -193,28 +193,28 @@
   ],
   "Reuters AI": [
     {
-      "title": "Anthropic unveils Claude Duet AI agent app - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5",
-      "date": "2026-10-21 20:19",
-      "summary": "Anthropic unveils Claude Duet AI agent app  Reuters..."
-    },
-    {
       "title": "PODCAST: Meta's AI bill - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGRhb1JsblJwRVhJcVc0TkJFMXVLZ1JqUWRtVHNDR2RTR2ZCenZCZWkwNG4wUExUVVZYSHB1NEZkUU9wTm04ZFlpdzV0ZzI2Y3YxWGFWT3QxLXE2TEhyNHFtV3ZYWW5rLTZYcGtOcDlwM2wtSjhpTjdyVDhzYlIxUDA5a3Q?oc=5",
       "date": "2026-10-22 13:33",
       "summary": "PODCAST: Meta's AI bill  Reuters..."
     },
     {
-      "title": "Government Websites Go Dark After AI-Discovered Flaw Sparks Security Scramble - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOU5rYVZ4ejVmbW52RjJyNTdfQ0NwamtoYVRScERldFEtTGFjNkZ2ejc1Q0ZQbkFYTXdnWml1dGxWRmlhZTVPUWNoT3BhdjF3WGFPR1VoYVppZGhjRGk2cmphSXVnVU5ENXZ6LW1TSzNELTItVDdwdzNSSG96Ujg2WnBlV2x5eXN2Y2VEV3hYdHNfbG5MVnZoek9wT2YxbWtuN0oxclNRUTRVRFpUYS12WGF5eG5kblRObmFaU0RxeEtsU0U?oc=5",
-      "date": "2026-10-21 23:07",
-      "summary": "Government Websites Go Dark After AI-Discovered Flaw Sparks Security Scramble  U.S. News & World Report..."
+      "title": "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw?oc=5",
+      "date": "2026-10-21 23:11",
+      "summary": "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment  Reuters..."
     },
     {
-      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
-      "date": "2026-10-22 20:48",
-      "summary": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff  Reuters..."
+      "title": "Government websites go dark after AI-discovered flaw sparks security scramble - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
+      "date": "2026-10-21 07:28",
+      "summary": "Government websites go dark after AI-discovered flaw sparks security scramble  Reuters..."
+    },
+    {
+      "title": "Anthropic unveils Claude Duet AI agent app - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5",
+      "date": "2026-10-21 20:19",
+      "summary": "Anthropic unveils Claude Duet AI agent app  Reuters..."
     },
     {
       "title": "Anthropic IPO stands alone as AI market jitters sideline others - Reuters",
@@ -249,42 +249,42 @@
       "summary": "AI researchers stranded Claude on a virtual desert island. It started to “play.”  MIT Technology Review..."
     },
     {
-      "title": "Three things you should know about permafrost - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FRzRUbVBiQzJObnV6dDdLdmd4akQwcUhxZUoyaXpZb0h5ZGxRSWFWWmoyMG5scWstSFhGb0pxSENjOElNek5hUVpPQW1jLVhlOTVfOWlEZ3BmUDZ3cDVxUkhiX3R3LXN0WncwTF9Ea0Y4dzJydnI4dGln0gF_QVVfeXFMUDZ1alhtWVVOaTlVNmtZbFhNMFluLWpaS0R6Sk5kT3k2WjEtM2hKcXRzNWE1dWxkLVc1WlFMbkVuNWxZd3RwQnY1LVh1blhjYnJ0d1NlNFBUa2RXSUxtbTNERmpCRldLZlZoN21XOVRYOHhBMnprVTgwMlJRYmEyWQ?oc=5",
-      "date": "2026-10-22 10:00",
-      "summary": "Three things you should know about permafrost  MIT Technology Review..."
+      "title": "Making the internet better for AI agents might make it worse for everyone else - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2pHeHVVaUtKcllLU2JTQi1hVVNNUzhFX2xrR0F2RXo4Wl96SVZhWEkwRWFwWDlITGpWWDJWV3h1MnV1M0NrbjZ4elM3NmZabzUyWXpsS3lmalNvUFJEM1k4YWJObmp5OTVSdjM4emhmUktKZFJ6dTNjUzNPN3h0VFVWd0NxdUJmR3B5VFk0V0hLbkltRlpkNWpVRTRGd0tkT0JGdDY2VWpTS1h4TFIwY29sNmZ5NW1qTzhnMzBKMlNITjNmLWhCV2xQMNIB0AFBVV95cUxNTEFJTnA0SnRfUVBURWE3TjBrR0tnTjh3azJTSl9ONG9zUklLdU1NbTBJT3lNTFVFU3ROLUFuNS1mQnNjMWZOYjRDdTBKblkyUzc0V0xkTmh2M05iMTRFMXR6WEZLRXJIcUtvZFF4bktOeG40TkpUWnA2VEF3TkljeUJBSGpuNEllSjlpTXRMWGNFb3FOaHhGYnItZnBiTEM3U2JsQWRPNVpiU19sSFNNMkM3Mm5rR0ZVUDNyemVPeFJLQ0hDQXJIdGZiUnh0c0tR?oc=5",
+      "date": "2026-10-19 18:22",
+      "summary": "Making the internet better for AI agents might make it worse for everyone else  MIT Technology Review..."
     }
   ],
   "Phys.org": [
     {
-      "title": "Supramolecular assembly opens a new route to building quantum materials",
-      "link": "https://phys.org/news/2026-10-supramolecular-route-quantum-materials.html",
-      "date": "2026-10-22 22:00",
-      "summary": "A joint research team fabricated a two-dimensional structure that exhibits properties of both the honeycomb and Kagome lattices us..."
+      "title": "New test measures potentially harmful metals in cellulose food packaging",
+      "link": "https://phys.org/news/2026-10-potentially-metals-cellulose-food-packaging.html",
+      "date": "2026-10-23 01:00",
+      "summary": "A technique for detecting potentially harmful metals in regenerated cellulose food packaging is discussed in the International Jou..."
     },
     {
-      "title": "How farming helped cause two medieval tsunamis in an Italian lake—and why the danger has returned",
-      "link": "https://phys.org/news/2026-10-farming-medieval-tsunamis-italian-lake.html",
-      "date": "2026-10-22 22:00",
-      "summary": "On Jan. 3, 1117, a strong earthquake shook northern Italy. A manuscript of the 12th century, kept today in the Vatican Library, re..."
+      "title": "Autonomous triangular modules could build tomorrow's mega-observatories",
+      "link": "https://phys.org/news/2026-10-autonomous-triangular-modules-tomorrow-mega.html",
+      "date": "2026-10-23 00:40",
+      "summary": "Private companies are getting better at launching more mass into space with larger rockets. But there is still a major constraint ..."
     },
     {
-      "title": "Helping microgreens pack even more of a nutritional punch",
-      "link": "https://phys.org/news/2026-10-microgreens-nutritional.html",
-      "date": "2026-10-22 21:50",
-      "summary": "Microgreens are nutritional powerhouses. A team of plant scientists at Penn State conducting research on multiple aspects of micro..."
+      "title": "Researchers develop AI tool to map microRNA binding sites on circular RNAs",
+      "link": "https://phys.org/news/2026-10-ai-tool-microrna-sites-circular.html",
+      "date": "2026-10-23 00:20",
+      "summary": "Circular RNAs (circRNAs) are loop-shaped molecules that can influence gene regulation through interactions with microRNAs (miRNAs)..."
     },
     {
-      "title": "Amino acid stabilizes material's quantum state above room temperature",
-      "link": "https://phys.org/news/2026-10-amino-acid-stabilizes-material-quantum.html",
-      "date": "2026-10-22 21:40",
-      "summary": "New research started with a special material that behaves unusually when it's extremely cold—135 degrees below zero Fahrenheit (mi..."
+      "title": "Acupuncture and mutual exchange in Chinese and Soviet science",
+      "link": "https://phys.org/news/2026-10-acupuncture-mutual-exchange-chinese-soviet.html",
+      "date": "2026-10-23 00:00",
+      "summary": "Previous accounts of the scientific relationship between communist China and the Soviet Union have depicted it as one of subordina..."
     },
     {
-      "title": "Most AI chatbots stay in the political middle ground, with Grok being an exception",
-      "link": "https://phys.org/news/2026-10-ai-chatbots-stay-political-middle.html",
-      "date": "2026-10-22 21:40",
-      "summary": "The 2026 election was the first parliamentary election in Sweden since AI chatbots became a serious part of everyday life—not leas..."
+      "title": "Light-activated catalyst makes sustainable production of hydrogen peroxide more efficient",
+      "link": "https://phys.org/news/2026-10-catalyst-sustainable-production-hydrogen-peroxide.html",
+      "date": "2026-10-22 23:40",
+      "summary": "Hydrogen peroxide (H₂O₂) is a versatile chemical feedstock whose industrial production relies predominantly on an energy-intensive..."
     }
   ],
   "The Guardian Edu": [
@@ -321,6 +321,12 @@
   ],
   "SCMP Hong Kong": [
     {
+      "title": "Fresh Hong Kong graduates feel AI impact as degree pay advantage narrows",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371826/fresh-hong-kong-graduates-feel-ai-impact-degree-pay-advantage-narrows",
+      "date": "2026-10-23 00:30",
+      "summary": "Fresh Hong Kong graduates are increasingly feeling the impact of artificial intelligence (AI) as they enter the workforce, human r..."
+    },
+    {
       "title": "Beijing slams UK’s ‘irresponsible remarks’ on Hong Kong in 6-monthly report",
       "link": "https://www.scmp.com/news/hong-kong/politics/article/3371828/beijing-slams-uks-irresponsible-remarks-hong-kong-6-monthly-report",
       "date": "2026-10-22 16:34",
@@ -343,12 +349,6 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371815/hong-kong-attracts-another-18-strategic-firms-hk10-billion-investment-pledged",
       "date": "2026-10-22 12:23",
       "summary": "Nasdaq-listed fintech company Solana and healthcare giant Johnson & Johnson are among the latest batch of enterprises in artificia..."
-    },
-    {
-      "title": "Hong Kong student gets 10 years for sexually assaulting 4 underage girls",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371798/hong-kong-student-gets-10-years-sexually-assaulting-4-underage-girls",
-      "date": "2026-10-22 10:49",
-      "summary": "A Hong Kong tertiary student convicted of sexually assaulting at least four underage girls has been sentenced to 10 years in priso..."
     }
   ]
 }
